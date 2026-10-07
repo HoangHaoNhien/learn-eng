@@ -1,0 +1,2685 @@
+{
+ "title": "Luyện TOEIC",
+ "tagline": "làm theo từng part, chấm ngay từng câu",
+ "intro": "Đây là bài tập <b>theo đúng định dạng đề TOEIC</b>, khác hẳn bài tập trong các tab khác: đề bài <b>hoàn toàn bằng tiếng Anh</b>, bốn lựa chọn, bối cảnh công sở. Chọn một part rồi làm bao nhiêu câu tùy bạn — mỗi câu chấm ngay và giải thích bằng tiếng Việt. Kết quả cuối buổi chỉ rõ bạn yếu loại câu nào.",
+ "tags": {
+  "form": "Từ loại",
+  "verb": "Động từ & thì",
+  "prep": "Giới từ",
+  "conj": "Liên từ & nối ý",
+  "pron": "Đại từ & mạo từ",
+  "vocab": "Chọn từ đúng nghĩa",
+  "clause": "Mệnh đề quan hệ",
+  "compare": "So sánh",
+  "purpose": "Ý chính & mục đích",
+  "detail": "Chi tiết trong bài",
+  "infer": "Suy luận",
+  "not": "Câu hỏi phủ định (NOT)",
+  "wh": "Câu hỏi Wh-",
+  "yesno": "Câu hỏi Yes/No",
+  "choice": "Câu hỏi lựa chọn (or)",
+  "request": "Nhờ vả & đề nghị",
+  "tag": "Câu hỏi đuôi",
+  "stmt": "Câu trần thuật",
+  "context": "Bối cảnh & người nói",
+  "next": "Việc sắp làm"
+ },
+ "parts": [
+  {
+   "p": 2,
+   "name": "Hỏi – Đáp",
+   "en": "Question–Response",
+   "real": 25,
+   "skill": "listening",
+   "nopt": 3,
+   "audio": true,
+   "desc": "Nghe một câu hỏi rồi chọn 1 trong 3 câu đáp. Không in chữ — chỉ có tiếng.",
+   "tip": "Nghe cho kỹ <b>TỪ ĐẦU TIÊN</b>: <i>When · Where · Who · Why · How</i> quyết định loại câu trả lời. Bẫy hay gặp nhất là phương án <b>lặp lại một từ vừa nghe</b> hoặc dùng từ <b>nghe giống</b> — gần như luôn sai. Và câu hỏi có chữ <b>or</b> thì <b>không bao giờ</b> trả lời bằng Yes/No."
+  },
+  {
+   "p": 3,
+   "name": "Hội thoại",
+   "en": "Conversations",
+   "real": 39,
+   "skill": "listening",
+   "nopt": 4,
+   "audio": true,
+   "script": true,
+   "desc": "Nghe một hội thoại rồi trả lời 3 câu. Câu hỏi có in ra — chỉ hội thoại là tiếng.",
+   "tip": "Đọc <b>ba câu hỏi trước khi bấm nghe</b> — trong phòng thi bạn có khoảng 8 giây để làm việc đó, và nó quyết định điểm phần này. Ba câu hỏi đi <b>theo đúng thứ tự</b> của hội thoại: câu 1 thường ở đầu, câu 3 ở cuối. Câu hỏi <i>What will… next?</i> gần như luôn nằm ở <b>hai lượt cuối cùng</b>."
+  },
+  {
+   "p": 5,
+   "name": "Điền câu",
+   "en": "Incomplete Sentences",
+   "real": 30,
+   "skill": "reading",
+   "desc": "Một câu thiếu một chỗ, chọn 1 trong 4. Kiểm tra ngữ pháp và từ vựng công sở.",
+   "tip": "Đừng dịch cả câu. Nhìn <b>bốn lựa chọn trước</b>: nếu chúng là bốn dạng của cùng một từ thì câu này hỏi <b>từ loại</b> — chỉ cần nhìn chỗ trống đứng ở vị trí nào trong câu.",
+   "nopt": 4
+  },
+  {
+   "p": 7,
+   "name": "Đọc hiểu",
+   "en": "Reading Comprehension",
+   "real": 54,
+   "skill": "reading",
+   "desc": "Một văn bản công sở (email, thông báo, quảng cáo, lịch…) rồi 3 câu hỏi.",
+   "tip": "Đọc <b>câu hỏi trước</b>, rồi mới quét văn bản tìm chỗ trả lời — đừng đọc kỹ từ đầu. Chú ý phần <b>đầu thư</b> (From / To / Subject): rất nhiều câu hỏi trả lời được ngay từ đó. Câu hỏi có chữ <b>NOT</b> thì ba phương án đúng, một sai — dễ đọc vội thành ngược.",
+   "nopt": 4
+  }
+ ],
+ "p5": [
+  {
+   "tag": "form",
+   "q": "All employees must ____ the new safety guidelines before entering the workshop.",
+   "opts": [
+    "observe",
+    "observant",
+    "observation",
+    "observance"
+   ],
+   "why": "Sau <b>must</b> phải là động từ nguyên thể. <i>observant</i> tính từ, <i>observation/observance</i> danh từ.",
+   "a": 0
+  },
+  {
+   "tag": "form",
+   "q": "The committee's ____ of the proposal came as a surprise to everyone.",
+   "opts": [
+    "approve",
+    "approved",
+    "approvingly",
+    "approval"
+   ],
+   "why": "Sau sở hữu cách <i>committee's</i> và trước <i>of</i> cần một <b>danh từ</b>.",
+   "a": 3
+  },
+  {
+   "tag": "form",
+   "q": "Ms Tran handled the complaint ____ and the client renewed the contract.",
+   "opts": [
+    "profession",
+    "professionalism",
+    "professionally",
+    "professional"
+   ],
+   "why": "Bổ nghĩa cho động từ <i>handled</i> thì cần <b>trạng từ</b>.",
+   "a": 2
+  },
+  {
+   "tag": "form",
+   "q": "The new software has made the billing process considerably more ____.",
+   "opts": [
+    "efficiencies",
+    "efficient",
+    "efficiently",
+    "efficiency"
+   ],
+   "why": "Sau <i>more</i> trong cấu trúc so sánh cần <b>tính từ</b>, vì nó mô tả <i>process</i>.",
+   "a": 1
+  },
+  {
+   "tag": "form",
+   "q": "Please submit your ____ for travel costs by the end of the month.",
+   "opts": [
+    "reimbursement",
+    "reimburse",
+    "reimbursed",
+    "reimbursable"
+   ],
+   "why": "Sau <i>your</i> cần <b>danh từ</b> làm tân ngữ của <i>submit</i>.",
+   "a": 0
+  },
+  {
+   "tag": "form",
+   "q": "The maintenance team works ____ with the security staff on weekends.",
+   "opts": [
+    "close",
+    "closer",
+    "closeness",
+    "closely"
+   ],
+   "why": "Bổ nghĩa cho <i>works</i> nên cần trạng từ. <i>close</i> cũng là trạng từ nhưng mang nghĩa khoảng cách vật lý.",
+   "a": 3
+  },
+  {
+   "tag": "form",
+   "q": "We received several ____ about the noise from the construction site.",
+   "opts": [
+    "complaining",
+    "complained",
+    "complaints",
+    "complain"
+   ],
+   "why": "Sau <i>several</i> cần <b>danh từ đếm được số nhiều</b>.",
+   "a": 2
+  },
+  {
+   "tag": "form",
+   "q": "The report was ____ researched but poorly organised.",
+   "opts": [
+    "thoroughgoing",
+    "thoroughly",
+    "thorough",
+    "thoroughness"
+   ],
+   "why": "Bổ nghĩa cho phân từ <i>researched</i> nên cần <b>trạng từ</b>.",
+   "a": 1
+  },
+  {
+   "tag": "verb",
+   "q": "By the time the auditors arrived, the finance team ____ all the documents.",
+   "opts": [
+    "had prepared",
+    "prepared",
+    "has prepared",
+    "was preparing"
+   ],
+   "why": "Việc xảy ra TRƯỚC một mốc quá khứ khác dùng <b>quá khứ hoàn thành</b>.",
+   "a": 0
+  },
+  {
+   "tag": "verb",
+   "q": "The factory ____ in operation since the company was founded in 1998.",
+   "opts": [
+    "is",
+    "was",
+    "had been",
+    "has been"
+   ],
+   "why": "<i>since</i> + mốc quá khứ, việc kéo dài đến nay → <b>hiện tại hoàn thành</b>.",
+   "a": 3
+  },
+  {
+   "tag": "verb",
+   "q": "If the shipment ____ delayed again, we will have to find another supplier.",
+   "opts": [
+    "would be",
+    "were",
+    "is",
+    "will be"
+   ],
+   "why": "Điều kiện loại 1: vế <i>if</i> dùng <b>hiện tại đơn</b>, không dùng <i>will</i>.",
+   "a": 2
+  },
+  {
+   "tag": "verb",
+   "q": "The quarterly figures ____ by an independent firm every year.",
+   "opts": [
+    "have reviewed",
+    "are reviewed",
+    "review",
+    "are reviewing"
+   ],
+   "why": "<i>figures</i> được xem xét chứ không tự xem → <b>bị động</b>.",
+   "a": 1
+  },
+  {
+   "tag": "verb",
+   "q": "Mr Lam suggested that the meeting ____ until the following week.",
+   "opts": [
+    "be postponed",
+    "is postponed",
+    "was postponed",
+    "postpones"
+   ],
+   "why": "Sau <i>suggest that</i> dùng <b>thức giả định</b>: động từ ở dạng trần, đây là bị động nên <i>be postponed</i>.",
+   "a": 0
+  },
+  {
+   "tag": "verb",
+   "q": "Please note that the office ____ at noon on the last Friday of each month.",
+   "opts": [
+    "is closing",
+    "closed",
+    "has closed",
+    "closes"
+   ],
+   "why": "Lịch cố định lặp lại dùng <b>hiện tại đơn</b>.",
+   "a": 3
+  },
+  {
+   "tag": "verb",
+   "q": "The technician ____ the equipment when the power suddenly went out.",
+   "opts": [
+    "has tested",
+    "tests",
+    "was testing",
+    "tested"
+   ],
+   "why": "Việc đang diễn ra thì bị cắt ngang → <b>quá khứ tiếp diễn</b>.",
+   "a": 2
+  },
+  {
+   "tag": "prep",
+   "q": "The conference will be held ____ the Grand Hotel on 14 May.",
+   "opts": [
+    "to",
+    "at",
+    "in",
+    "on"
+   ],
+   "why": "<b>at</b> dùng với một địa điểm cụ thể được coi là một điểm.",
+   "a": 1
+  },
+  {
+   "tag": "prep",
+   "q": "All applications must be submitted ____ Friday at the latest.",
+   "opts": [
+    "by",
+    "until",
+    "since",
+    "during"
+   ],
+   "why": "<b>by</b> = chậm nhất là. <i>until</i> nhấn vào việc kéo dài liên tục tới lúc đó.",
+   "a": 0
+  },
+  {
+   "tag": "prep",
+   "q": "Sales have increased sharply ____ the past six months.",
+   "opts": [
+    "since",
+    "from",
+    "until",
+    "over"
+   ],
+   "why": "<b>over</b> + khoảng thời gian = trong suốt khoảng đó.",
+   "a": 3
+  },
+  {
+   "tag": "prep",
+   "q": "The department is responsible ____ processing all incoming invoices.",
+   "opts": [
+    "to",
+    "with",
+    "for",
+    "of"
+   ],
+   "why": "<i>responsible</i> đi cố định với <b>for</b>.",
+   "a": 2
+  },
+  {
+   "tag": "prep",
+   "q": "Our office is located ____ the train station and the shopping centre.",
+   "opts": [
+    "across",
+    "between",
+    "among",
+    "along"
+   ],
+   "why": "<b>between</b> dùng cho đúng hai mốc; <i>among</i> cho từ ba trở lên.",
+   "a": 1
+  },
+  {
+   "tag": "conj",
+   "q": "____ the heavy rain, the outdoor event went ahead as planned.",
+   "opts": [
+    "Despite",
+    "Although",
+    "However",
+    "Because of"
+   ],
+   "why": "<b>Despite</b> + danh từ. <i>Although</i> cần cả mệnh đề.",
+   "a": 0
+  },
+  {
+   "tag": "conj",
+   "q": "The supplier raised its prices, ____ we decided to look elsewhere.",
+   "opts": [
+    "because",
+    "although",
+    "unless",
+    "so"
+   ],
+   "why": "Vế sau là <b>kết quả</b> của vế trước nên dùng <i>so</i>.",
+   "a": 3
+  },
+  {
+   "tag": "conj",
+   "q": "We cannot process the refund ____ you provide the original receipt.",
+   "opts": [
+    "whether",
+    "while",
+    "unless",
+    "if"
+   ],
+   "why": "<b>unless</b> = nếu không. Câu mang nghĩa phủ định điều kiện.",
+   "a": 2
+  },
+  {
+   "tag": "conj",
+   "q": "The presentation was informative. ____, it ran forty minutes over time.",
+   "opts": [
+    "Because",
+    "However",
+    "Therefore",
+    "Moreover"
+   ],
+   "why": "Hai vế trái chiều nhau nên cần từ nối <b>tương phản</b>.",
+   "a": 1
+  },
+  {
+   "tag": "conj",
+   "q": "Staff may use the parking area ____ they display a valid permit.",
+   "opts": [
+    "as long as",
+    "in case",
+    "even though",
+    "whereas"
+   ],
+   "why": "<b>as long as</b> nêu điều kiện bắt buộc để được phép.",
+   "a": 0
+  },
+  {
+   "tag": "pron",
+   "q": "The new interns introduced ____ to the department on Monday.",
+   "opts": [
+    "them",
+    "their",
+    "theirs",
+    "themselves"
+   ],
+   "why": "Chủ ngữ và tân ngữ là cùng một người nên dùng <b>đại từ phản thân</b>.",
+   "a": 3
+  },
+  {
+   "tag": "pron",
+   "q": "____ of the two candidates has the experience we need.",
+   "opts": [
+    "Either of them",
+    "Both",
+    "Neither",
+    "None"
+   ],
+   "why": "<b>Neither</b> dùng cho đúng hai, đi với động từ số ít <i>has</i>.",
+   "a": 2
+  },
+  {
+   "tag": "pron",
+   "q": "The manager whose department exceeded its target will receive ____ bonus first.",
+   "opts": [
+    "an",
+    "a",
+    "the",
+    "their"
+   ],
+   "why": "Lần đầu nhắc tới một khoản thưởng chưa xác định nên dùng <b>a</b>.",
+   "a": 1
+  },
+  {
+   "tag": "vocab",
+   "q": "The hotel offers a shuttle service at no ____ charge to all guests.",
+   "opts": [
+    "additional",
+    "addition",
+    "additionally",
+    "add"
+   ],
+   "why": "Bổ nghĩa cho danh từ <i>charge</i> nên cần <b>tính từ</b>; <i>no additional charge</i> = không tính thêm phí.",
+   "a": 0
+  },
+  {
+   "tag": "vocab",
+   "q": "Please ____ the attached file for the full breakdown of costs.",
+   "opts": [
+    "refer",
+    "reference",
+    "referring",
+    "refer to"
+   ],
+   "why": "<b>refer to</b> = xem, tham khảo. Động từ này bắt buộc có <i>to</i>.",
+   "a": 3
+  },
+  {
+   "tag": "vocab",
+   "q": "The warehouse keeps a detailed ____ of every item that enters the building.",
+   "opts": [
+    "recorder",
+    "recorded",
+    "record",
+    "recording"
+   ],
+   "why": "<b>record</b> = bản ghi, hồ sơ. <i>recording</i> là bản thu âm/thu hình.",
+   "a": 2
+  },
+  {
+   "tag": "vocab",
+   "q": "Our supplier was unable to ____ the order within the agreed timeframe.",
+   "opts": [
+    "fulfilment",
+    "fulfil",
+    "fill",
+    "full"
+   ],
+   "why": "<b>fulfil an order</b> là cụm cố định = hoàn tất đơn hàng.",
+   "a": 1
+  },
+  {
+   "tag": "vocab",
+   "q": "The firm has decided to ____ its operations into three new markets.",
+   "opts": [
+    "expand",
+    "expend",
+    "expense",
+    "expansive"
+   ],
+   "why": "<b>expand</b> = mở rộng. <i>expend</i> = tiêu hao, dễ nhầm.",
+   "a": 0
+  },
+  {
+   "tag": "vocab",
+   "q": "All visitors are required to ____ a badge while on the premises.",
+   "opts": [
+    "dress",
+    "put",
+    "carry on",
+    "wear"
+   ],
+   "why": "<b>wear a badge</b> là cụm chuẩn. <i>dress</i> không đi với <i>a badge</i>.",
+   "a": 3
+  },
+  {
+   "tag": "vocab",
+   "q": "The contract will ____ automatically unless either party gives notice.",
+   "opts": [
+    "restore",
+    "revise",
+    "renew",
+    "renovate"
+   ],
+   "why": "<b>renew a contract</b> = gia hạn hợp đồng. <i>renovate</i> dùng cho nhà cửa.",
+   "a": 2
+  },
+  {
+   "tag": "vocab",
+   "q": "Please make sure the invoice ____ the correct purchase order number.",
+   "opts": [
+    "made up",
+    "includes",
+    "consists",
+    "comprises of"
+   ],
+   "why": "<b>include</b> = có chứa. <i>consist</i> phải đi với <i>of</i>, và <i>comprise</i> không dùng <i>of</i>.",
+   "a": 1
+  },
+  {
+   "tag": "vocab",
+   "q": "The training session has been ____ to the first week of June.",
+   "opts": [
+    "rescheduled",
+    "replaced",
+    "returned",
+    "reminded"
+   ],
+   "why": "<b>reschedule</b> = dời lịch. Ba từ kia không mang nghĩa đổi thời gian.",
+   "a": 0
+  },
+  {
+   "tag": "vocab",
+   "q": "We apologise for any ____ caused by the lift being out of service.",
+   "opts": [
+    "inconvenient",
+    "convenience",
+    "conveniently",
+    "inconvenience"
+   ],
+   "why": "Sau <i>any</i> cần <b>danh từ</b>; <i>inconvenience</i> là danh từ không đếm được.",
+   "a": 3
+  },
+  {
+   "tag": "vocab",
+   "q": "The analyst's findings are ____ with the results of last year's survey.",
+   "opts": [
+    "constant",
+    "content",
+    "consistent",
+    "consisting"
+   ],
+   "why": "<b>be consistent with</b> = nhất quán với. Cụm cố định hay gặp trong báo cáo.",
+   "a": 2
+  },
+  {
+   "tag": "vocab",
+   "q": "Employees who wish to ____ for the position should contact HR directly.",
+   "opts": [
+    "applicant",
+    "apply",
+    "applying",
+    "application"
+   ],
+   "why": "Sau <i>wish to</i> cần động từ nguyên thể; <b>apply for</b> = nộp đơn.",
+   "a": 1
+  },
+  {
+   "tag": "vocab",
+   "q": "The delivery charge is ____ for orders over two million dong.",
+   "opts": [
+    "waived",
+    "waved",
+    "wasted",
+    "warned"
+   ],
+   "why": "<b>waive a charge</b> = miễn phí. <i>wave</i> là vẫy tay, rất dễ nhầm chính tả.",
+   "a": 0
+  },
+  {
+   "tag": "vocab",
+   "q": "Attendance at the safety briefing is ____ for all new staff.",
+   "opts": [
+    "voluntary",
+    "optional",
+    "flexible",
+    "mandatory"
+   ],
+   "why": "<b>mandatory</b> = bắt buộc. Ba từ kia đều mang nghĩa không bắt buộc.",
+   "a": 3
+  },
+  {
+   "tag": "form",
+   "q": "The committee reached its decision after a ____ review of all the data.",
+   "opts": [
+    "care",
+    "cared",
+    "careful",
+    "carefully"
+   ],
+   "why": "Bổ nghĩa cho danh từ <i>review</i> nên cần <b>tính từ</b>.",
+   "a": 2
+  },
+  {
+   "tag": "form",
+   "q": "Her ____ to the project was recognised at the annual awards ceremony.",
+   "opts": [
+    "contributor",
+    "contribution",
+    "contribute",
+    "contributing"
+   ],
+   "why": "Sau <i>Her</i> và làm chủ ngữ của câu nên cần <b>danh từ chỉ sự việc</b>, không phải người.",
+   "a": 1
+  },
+  {
+   "tag": "form",
+   "q": "The instructions were written ____ enough for anyone to follow.",
+   "opts": [
+    "clearly",
+    "clear",
+    "clarity",
+    "clearest"
+   ],
+   "why": "Bổ nghĩa cho <i>written</i> nên cần <b>trạng từ</b>; <i>clearly enough</i> đúng trật tự.",
+   "a": 0
+  },
+  {
+   "tag": "form",
+   "q": "We need a more ____ approach to managing our inventory.",
+   "opts": [
+    "system",
+    "systematically",
+    "systemise",
+    "systematic"
+   ],
+   "why": "Sau <i>more</i> và trước danh từ <i>approach</i> cần <b>tính từ</b>.",
+   "a": 3
+  },
+  {
+   "tag": "form",
+   "q": "The ____ of the new branch has been delayed until September.",
+   "opts": [
+    "opened",
+    "openly",
+    "opening",
+    "open"
+   ],
+   "why": "Sau <i>The</i> và trước <i>of</i> cần <b>danh từ</b>; <i>opening</i> ở đây là danh động từ.",
+   "a": 2
+  },
+  {
+   "tag": "verb",
+   "q": "Next Monday the board ____ the budget for the coming financial year.",
+   "opts": [
+    "has discussed",
+    "will discuss",
+    "discusses",
+    "discussed"
+   ],
+   "why": "<i>Next Monday</i> là mốc tương lai nên dùng <b>will + V</b>.",
+   "a": 1
+  },
+  {
+   "tag": "verb",
+   "q": "The samples ____ to the laboratory before the deadline yesterday.",
+   "opts": [
+    "were sent",
+    "sent",
+    "have sent",
+    "are sending"
+   ],
+   "why": "Mẫu vật được gửi chứ không tự gửi, và mốc là <i>yesterday</i> → <b>bị động quá khứ</b>.",
+   "a": 0
+  },
+  {
+   "tag": "verb",
+   "q": "Staff are reminded ____ their identification at all times.",
+   "opts": [
+    "carrying",
+    "carry",
+    "carried",
+    "to carry"
+   ],
+   "why": "<b>remind somebody to V</b> — ở dạng bị động vẫn giữ <i>to V</i>.",
+   "a": 3
+  },
+  {
+   "tag": "verb",
+   "q": "The company ____ its headquarters to Da Nang three years ago.",
+   "opts": [
+    "had moved",
+    "moves",
+    "moved",
+    "has moved"
+   ],
+   "why": "<i>three years ago</i> là mốc quá khứ đã kết thúc → <b>quá khứ đơn</b>.",
+   "a": 2
+  },
+  {
+   "tag": "prep",
+   "q": "The policy applies to all employees ____ their length of service.",
+   "opts": [
+    "even",
+    "regardless of",
+    "in spite",
+    "despite of"
+   ],
+   "why": "<b>regardless of</b> = bất kể. <i>despite</i> không bao giờ đi với <i>of</i>.",
+   "a": 1
+  },
+  {
+   "tag": "prep",
+   "q": "Please complete the form ____ ink and return it to reception.",
+   "opts": [
+    "in",
+    "by",
+    "with",
+    "on"
+   ],
+   "why": "<b>in ink</b>, <b>in pencil</b> là cụm cố định chỉ phương tiện viết.",
+   "a": 0
+  },
+  {
+   "tag": "prep",
+   "q": "The figures in this column are given ____ thousands of units.",
+   "opts": [
+    "by",
+    "at",
+    "on",
+    "in"
+   ],
+   "why": "<b>in thousands</b> chỉ đơn vị đo.",
+   "a": 3
+  },
+  {
+   "tag": "conj",
+   "q": "____ the manager approves the request, the order cannot be placed.",
+   "opts": [
+    "While",
+    "Because",
+    "Until",
+    "Since"
+   ],
+   "why": "<b>Until</b> = cho đến khi. Câu nghĩa: chưa duyệt thì chưa đặt được hàng.",
+   "a": 2
+  },
+  {
+   "tag": "conj",
+   "q": "The hotel has a gym, a pool ____ a business centre on the top floor.",
+   "opts": [
+    "moreover",
+    "as well as",
+    "as well",
+    "besides of"
+   ],
+   "why": "<b>as well as</b> nối hai danh từ. <i>as well</i> chỉ đứng cuối câu.",
+   "a": 1
+  },
+  {
+   "tag": "conj",
+   "q": "Sales rose in the north ____ they fell slightly in the south.",
+   "opts": [
+    "whereas",
+    "therefore",
+    "so that",
+    "in order to"
+   ],
+   "why": "<b>whereas</b> dùng để đối chiếu hai vế trái ngược.",
+   "a": 0
+  },
+  {
+   "tag": "clause",
+   "q": "The consultant ____ report we discussed will join us on Thursday.",
+   "opts": [
+    "who",
+    "which",
+    "whom",
+    "whose"
+   ],
+   "why": "<b>whose</b> chỉ sở hữu: bản báo cáo <i>của</i> người tư vấn đó.",
+   "a": 3
+  },
+  {
+   "tag": "clause",
+   "q": "The building, ____ was completed last year, already needs repairs.",
+   "opts": [
+    "it",
+    "what",
+    "which",
+    "that"
+   ],
+   "why": "Mệnh đề quan hệ không xác định (có dấu phẩy) không dùng <i>that</i>.",
+   "a": 2
+  },
+  {
+   "tag": "compare",
+   "q": "This year's turnover was almost twice ____ last year's.",
+   "opts": [
+    "the highest",
+    "as high as",
+    "higher as",
+    "so high as"
+   ],
+   "why": "Cấu trúc gấp bội: <i>twice</i> + <b>as + tính từ + as</b>.",
+   "a": 1
+  }
+ ],
+ "p7": [
+  {
+   "kind": "email",
+   "label": "Email",
+   "title": "Request to reschedule",
+   "head": [
+    [
+     "From",
+     "h.pham@vinatex-supply.com"
+    ],
+    [
+     "To",
+     "m.okafor@brightline.co.uk"
+    ],
+    [
+     "Date",
+     "3 March"
+    ],
+    [
+     "Subject",
+     "Thursday's review meeting"
+    ]
+   ],
+   "text": [
+    "Dear Ms Okafor,",
+    "I am writing about the contract review scheduled for this Thursday at 10 a.m. Unfortunately, our logistics manager has been called to the Hai Phong site and will not be back before Friday afternoon. As he prepared most of the shipping figures, holding the meeting without him would not be productive.",
+    "Would it be possible to move the review to Monday 9 March, at the same time? If Monday does not suit you, we are also free on Tuesday morning. I will send the revised cost tables as soon as they are approved, so that you have them at least two days in advance.",
+    "I apologise for the short notice. Please let me know which option works better for you.",
+    "Kind regards,\nHoa Pham\nContracts Officer"
+   ],
+   "qs": [
+    {
+     "tag": "purpose",
+     "q": "What is the main purpose of the email?",
+     "opts": [
+      "To request a change of date for a meeting",
+      "To cancel a contract with a supplier",
+      "To introduce a new logistics manager",
+      "To complain about a late delivery"
+     ],
+     "why": "Câu mở đầu đoạn hai nêu rõ: <i>Would it be possible to move the review to Monday</i> — mục đích là xin dời lịch.",
+     "a": 0
+    },
+    {
+     "tag": "detail",
+     "q": "Why can the logistics manager not attend?",
+     "opts": [
+      "He is on annual leave",
+      "He has left the company",
+      "He is meeting another client",
+      "He has been sent to another site"
+     ],
+     "why": "<i>has been called to the Hai Phong site and will not be back before Friday afternoon</i>.",
+     "a": 3
+    },
+    {
+     "tag": "infer",
+     "q": "What does Ms Pham suggest she will do before the new meeting?",
+     "opts": [
+      "Appoint a replacement manager",
+      "Cancel the shipping order",
+      "Send updated cost tables",
+      "Visit the Hai Phong site"
+     ],
+     "why": "<i>I will send the revised cost tables… at least two days in advance</i>. Ba phương án kia không được nhắc tới.",
+     "a": 2
+    }
+   ]
+  },
+  {
+   "kind": "notice",
+   "label": "Thông báo",
+   "title": "Lift maintenance — Block B",
+   "head": [
+    [
+     "Posted",
+     "12 June"
+    ],
+    [
+     "Location",
+     "All floors, Block B"
+    ]
+   ],
+   "text": [
+    "NOTICE TO ALL OCCUPANTS",
+    "The two passenger lifts in Block B will undergo their annual safety inspection from Monday 17 June to Wednesday 19 June. Lift 1 will be out of service on Monday and Tuesday; Lift 2 will be out of service on Wednesday only. At no point will both lifts be unavailable at the same time.",
+    "The service lift at the rear of the building may be used by anyone during these three days. Please note that it does not stop on the fourth floor.",
+    "Staff who require assistance moving between floors should contact the building office on extension 204 at least one day in advance.",
+    "We apologise for the inconvenience and thank you for your cooperation."
+   ],
+   "qs": [
+    {
+     "tag": "detail",
+     "q": "When will Lift 2 be unavailable?",
+     "opts": [
+      "On Monday only",
+      "On Wednesday only",
+      "On Monday and Tuesday",
+      "For all three days"
+     ],
+     "why": "<i>Lift 2 will be out of service on Wednesday only</i>.",
+     "a": 1
+    },
+    {
+     "tag": "not",
+     "q": "What is NOT true about the service lift?",
+     "opts": [
+      "It stops on every floor",
+      "It is at the rear of the building",
+      "Anyone may use it during the works",
+      "It is available for three days"
+     ],
+     "why": "Thông báo ghi rõ <i>it does not stop on the fourth floor</i>, nên phương án \"dừng ở mọi tầng\" là sai.",
+     "a": 0
+    },
+    {
+     "tag": "infer",
+     "q": "What should someone needing help do?",
+     "opts": [
+      "Wait by the service lift",
+      "Email the maintenance company",
+      "Use the stairs in Block A",
+      "Telephone the building office a day earlier"
+     ],
+     "why": "<i>contact the building office on extension 204 at least one day in advance</i>.",
+     "a": 3
+    }
+   ]
+  },
+  {
+   "kind": "ad",
+   "label": "Tin tuyển dụng",
+   "title": "Warehouse Coordinator — Da Nang",
+   "head": [
+    [
+     "Company",
+     "Mekong Freight Services"
+    ],
+    [
+     "Closing date",
+     "28 August"
+    ]
+   ],
+   "text": [
+    "WAREHOUSE COORDINATOR — DA NANG",
+    "Mekong Freight Services is seeking a Warehouse Coordinator to join our expanding distribution centre. The successful candidate will oversee daily stock movements, maintain accurate inventory records and liaise with our courier partners.",
+    "Requirements: at least two years' experience in a warehouse or logistics role; confident use of inventory software; working English, as half our vendors are based overseas. A forklift licence is an advantage but not essential — training can be provided.",
+    "We offer a competitive salary, quarterly performance bonuses and full health cover from the first day of employment.",
+    "To apply, send your CV and a short covering letter to careers@mekongfreight.vn. Please quote reference WC-DN-08. Applications without a reference number cannot be processed."
+   ],
+   "qs": [
+    {
+     "tag": "detail",
+     "q": "Which requirement is described as optional?",
+     "opts": [
+      "Working English",
+      "Use of inventory software",
+      "A forklift licence",
+      "Two years' experience"
+     ],
+     "why": "<i>A forklift licence is an advantage but not essential</i>.",
+     "a": 2
+    },
+    {
+     "tag": "infer",
+     "q": "Why is English needed for the role?",
+     "opts": [
+      "The company is owned overseas",
+      "Many of the company's vendors are abroad",
+      "The software is only in English",
+      "Staff meetings are held in English"
+     ],
+     "why": "<i>working English, as half our vendors are based overseas</i>.",
+     "a": 1
+    },
+    {
+     "tag": "detail",
+     "q": "What must applicants include?",
+     "opts": [
+      "The reference number WC-DN-08",
+      "Two written references",
+      "A copy of their forklift licence",
+      "A recent photograph"
+     ],
+     "why": "<i>Applications without a reference number cannot be processed</i>.",
+     "a": 0
+    }
+   ]
+  },
+  {
+   "kind": "memo",
+   "label": "Thông báo nội bộ",
+   "title": "Revised home-working policy",
+   "head": [
+    [
+     "To",
+     "All staff"
+    ],
+    [
+     "From",
+     "Human Resources"
+    ],
+    [
+     "Date",
+     "2 October"
+    ]
+   ],
+   "text": [
+    "Following the trial that ran from April to September, the home-working arrangement will become permanent from 1 November, with two changes.",
+    "First, the number of home days rises from two to three per week. Teams must still agree a shared office day so that everyone is present at least once a week; departments are free to choose which day that is.",
+    "Second, equipment requests are moving from the IT helpdesk to the facilities team. Anyone who needs a monitor, chair or headset at home should submit a single request through the facilities portal. Requests sent to IT after 1 November will be redirected, which may add several days.",
+    "The trial survey showed that the main difficulty was not technology but meeting times. Managers are asked to schedule team meetings on the shared office day wherever possible.",
+    "Questions about the policy should go to your line manager in the first instance."
+   ],
+   "qs": [
+    {
+     "tag": "purpose",
+     "q": "What is the memo mainly about?",
+     "opts": [
+      "The start of a new home-working trial",
+      "A reduction in office space",
+      "New rules for annual leave",
+      "Changes to an existing home-working arrangement"
+     ],
+     "why": "Câu đầu nói rõ chính sách thử nghiệm nay thành chính thức, <i>with two changes</i>.",
+     "a": 3
+    },
+    {
+     "tag": "detail",
+     "q": "Where should equipment requests be sent after 1 November?",
+     "opts": [
+      "The line manager",
+      "Human Resources",
+      "The facilities portal",
+      "The IT helpdesk"
+     ],
+     "why": "<i>equipment requests are moving from the IT helpdesk to the facilities team… through the facilities portal</i>.",
+     "a": 2
+    },
+    {
+     "tag": "infer",
+     "q": "What problem did the trial reveal?",
+     "opts": [
+      "Falling productivity",
+      "Arranging meeting times",
+      "Unreliable internet connections",
+      "A shortage of equipment"
+     ],
+     "why": "<i>the main difficulty was not technology but meeting times</i>.",
+     "a": 1
+    }
+   ]
+  },
+  {
+   "kind": "schedule",
+   "label": "Lịch chương trình",
+   "title": "Regional Sales Conference — Day 1",
+   "head": [
+    [
+     "Venue",
+     "Riverside Hotel, Hue"
+    ],
+    [
+     "Date",
+     "Friday 14 November"
+    ]
+   ],
+   "text": [
+    "08:30 – 09:00   Registration and coffee — Main Lobby",
+    "09:00 – 09:20   Opening remarks — Ms L. Trinh, Regional Director — Hall A",
+    "09:20 – 10:30   Review of the third quarter — Hall A",
+    "10:30 – 11:00   Break",
+    "11:00 – 12:15   Workshop: handling price objections — Room 2 (places limited to 30)",
+    "12:15 – 13:30   Lunch — Terrace Restaurant",
+    "13:30 – 15:00   Breakout groups by territory — Rooms 2, 3 and 4",
+    "15:00 – 15:30   Break",
+    "15:30 – 16:45   Product launch preview — Hall A",
+    "16:45 – 17:00   Closing summary — Hall A",
+    "Delegates attending the workshop must sign up at the registration desk before 09:00. Spaces cannot be reserved in advance."
+   ],
+   "qs": [
+    {
+     "tag": "detail",
+     "q": "What happens immediately after lunch?",
+     "opts": [
+      "Breakout groups by territory",
+      "The product launch preview",
+      "The workshop on price objections",
+      "The closing summary"
+     ],
+     "why": "Lịch ghi 13:30 – 15:00 <i>Breakout groups by territory</i>, ngay sau bữa trưa kết thúc lúc 13:30.",
+     "a": 0
+    },
+    {
+     "tag": "detail",
+     "q": "What must delegates do to join the workshop?",
+     "opts": [
+      "Email the organisers in advance",
+      "Pay an additional fee",
+      "Bring a copy of the agenda",
+      "Sign up at the desk before 9 a.m."
+     ],
+     "why": "<i>must sign up at the registration desk before 09:00. Spaces cannot be reserved in advance</i>.",
+     "a": 3
+    },
+    {
+     "tag": "infer",
+     "q": "Which session is most likely to be the largest?",
+     "opts": [
+      "The breakout groups",
+      "Registration",
+      "Review of the third quarter",
+      "The workshop in Room 2"
+     ],
+     "why": "Phiên này ở Hall A và không giới hạn chỗ, trong khi workshop chỉ 30 người và breakout chia ra ba phòng.",
+     "a": 2
+    }
+   ]
+  },
+  {
+   "kind": "chat",
+   "label": "Tin nhắn",
+   "title": "Message chain — delivery problem",
+   "head": [
+    [
+     "Participants",
+     "T. Nguyen · D. Carter"
+    ],
+    [
+     "Time",
+     "09:12 – 09:31"
+    ]
+   ],
+   "text": [
+    "T. Nguyen  09:12   Morning. The pallets that arrived yesterday are short — we counted 18, the dispatch note says 24.",
+    "D. Carter  09:15   That's odd. Let me check with the warehouse. Did the driver sign anything?",
+    "T. Nguyen  09:17   He signed our receipt but wrote \"count not verified\" next to it.",
+    "D. Carter  09:23   Found it. Six pallets were held back because the second truck failed its inspection. They're going out this afternoon.",
+    "T. Nguyen  09:25   Afternoon won't work — the line stops at two if we're short.",
+    "D. Carter  09:28   Understood. I'll put them on the express courier instead. Should reach you by eleven.",
+    "T. Nguyen  09:31   That works. Send me the tracking number when you have it."
+   ],
+   "qs": [
+    {
+     "tag": "purpose",
+     "q": "Why did Mr Nguyen send the first message?",
+     "opts": [
+      "To cancel an order",
+      "To report that part of a delivery was missing",
+      "To complain about a damaged pallet",
+      "To change a delivery address"
+     ],
+     "why": "<i>we counted 18, the dispatch note says 24</i> — thiếu hàng.",
+     "a": 1
+    },
+    {
+     "tag": "detail",
+     "q": "What caused the shortage?",
+     "opts": [
+      "A second truck failed an inspection",
+      "The driver took the wrong route",
+      "The order was entered incorrectly",
+      "The warehouse was closed"
+     ],
+     "why": "<i>Six pallets were held back because the second truck failed its inspection</i>.",
+     "a": 0
+    },
+    {
+     "tag": "infer",
+     "q": "At 09:25, what does Mr Nguyen mean by \"Afternoon won't work\"?",
+     "opts": [
+      "He will not be at the site in the afternoon",
+      "The courier does not deliver in the afternoon",
+      "The warehouse closes at midday",
+      "The goods would arrive too late to keep the line running"
+     ],
+     "why": "Câu sau giải thích: <i>the line stops at two if we're short</i>.",
+     "a": 3
+    }
+   ]
+  },
+  {
+   "kind": "letter",
+   "label": "Thư",
+   "title": "Complaint about a recurring fault",
+   "head": [
+    [
+     "From",
+     "Orchid Court Residents' Association"
+    ],
+    [
+     "To",
+     "Customer Relations, Vertex Climate Ltd"
+    ],
+    [
+     "Date",
+     "9 January"
+    ]
+   ],
+   "text": [
+    "Dear Sir or Madam,",
+    "I am writing on behalf of the residents of Orchid Court regarding the air-conditioning units installed in our common areas in March last year.",
+    "Since October the units on the second and third floors have shut down without warning, sometimes several times a week. Your engineers have visited on four occasions. On each visit the system was restarted and we were told the fault was a sensor; on no occasion was a part replaced.",
+    "Under the terms of our maintenance agreement, a recurring fault reported three times within six months entitles us to a full replacement at no cost. We have now reported this fault four times, and we are therefore requesting replacement of both units.",
+    "I would be grateful for a written response within fourteen days. If we do not hear from you, we will refer the matter to the installers' trade association.",
+    "Yours faithfully,\nK. Vu\nChair, Residents' Association"
+   ],
+   "qs": [
+    {
+     "tag": "detail",
+     "q": "How many times have engineers visited?",
+     "opts": [
+      "Twice",
+      "Six",
+      "Four",
+      "Three"
+     ],
+     "why": "<i>Your engineers have visited on four occasions</i>.",
+     "a": 2
+    },
+    {
+     "tag": "purpose",
+     "q": "What is Ms Vu requesting?",
+     "opts": [
+      "A new maintenance agreement",
+      "That both units be replaced free of charge",
+      "That the units be repaired within fourteen days",
+      "A refund of the installation cost"
+     ],
+     "why": "<i>we are therefore requesting replacement of both units</i>, theo điều khoản miễn phí trong hợp đồng.",
+     "a": 1
+    },
+    {
+     "tag": "vocab",
+     "q": "In paragraph 3, the phrase \"entitles us to\" is closest in meaning to",
+     "opts": [
+      "gives us the right to",
+      "encourages us to",
+      "reminds us to",
+      "prevents us from"
+     ],
+     "why": "<b>entitle somebody to something</b> = cho ai quyền được hưởng gì.",
+     "a": 0
+    }
+   ]
+  },
+  {
+   "kind": "article",
+   "label": "Bản tin",
+   "title": "Local firm opens second plant",
+   "head": [
+    [
+     "Source",
+     "Dong Nai Business Weekly"
+    ],
+    [
+     "Date",
+     "22 May"
+    ]
+   ],
+   "text": [
+    "Thanh Loc Packaging will open a second production plant in Bien Hoa this September, creating around 140 jobs in the district.",
+    "The company, founded in 2004, currently supplies cardboard packaging to food producers across the south. Demand has grown steadily since 2021, and managing director Vu Dinh Quang said the existing plant had been running at full capacity for over a year. \"We were turning away orders,\" he said. \"That is a pleasant problem, but it is still a problem.\"",
+    "The new facility will focus on recycled board, a line the company has not produced before. Mr Quang expects recycled products to account for about a third of output within three years.",
+    "Recruitment begins in July. The company says it will give priority to applicants from the surrounding wards, and that no previous experience is required for most production roles.",
+    "Construction is already under way and is reported to be two weeks ahead of schedule."
+   ],
+   "qs": [
+    {
+     "tag": "purpose",
+     "q": "What is the article mainly about?",
+     "opts": [
+      "A company moving to a new location",
+      "A merger between two packaging firms",
+      "A fall in demand for packaging",
+      "A company expanding with a new plant"
+     ],
+     "why": "Câu đầu nêu rõ: mở nhà máy thứ hai, tạo 140 việc làm.",
+     "a": 3
+    },
+    {
+     "tag": "detail",
+     "q": "What is new about the second plant?",
+     "opts": [
+      "It will serve export markets",
+      "It will be fully automated",
+      "It will produce recycled board",
+      "It will be larger than the first"
+     ],
+     "why": "<i>The new facility will focus on recycled board, a line the company has not produced before</i>.",
+     "a": 2
+    },
+    {
+     "tag": "infer",
+     "q": "Why did the company decide to expand?",
+     "opts": [
+      "Its rent was increasing",
+      "It could not meet existing demand",
+      "It received a government grant",
+      "Its rival closed down"
+     ],
+     "why": "<i>running at full capacity for over a year</i> và <i>We were turning away orders</i>.",
+     "a": 1
+    }
+   ]
+  }
+ ],
+ "p2": [
+  {
+   "tag": "wh",
+   "q": "When does the shipment arrive?",
+   "opts": [
+    "Tomorrow morning, I think.",
+    "It's quite heavy, actually.",
+    "Yes, it already has."
+   ],
+   "why": "Câu hỏi <i>When</i> đòi một mốc thời gian.",
+   "trap": "<b>It's quite heavy</b> bắt vào chữ <i>shipment</i> nhưng trả lời sai loại câu hỏi; <b>Yes</b> không bao giờ trả lời được câu hỏi Wh-.",
+   "a": 0
+  },
+  {
+   "tag": "wh",
+   "q": "Where did you put the signed contracts?",
+   "opts": [
+    "Around four o'clock.",
+    "He signed them already.",
+    "In the second drawer."
+   ],
+   "why": "<i>Where</i> đòi nơi chốn.",
+   "trap": "<b>Around four</b> trả lời cho <i>When</i>; <b>He signed them</b> nhại chữ <i>signed</i> để đánh lừa.",
+   "a": 2
+  },
+  {
+   "tag": "wh",
+   "q": "Who's leading the training session on Friday?",
+   "opts": [
+    "It lasts about two hours.",
+    "Someone from head office.",
+    "In the main conference room."
+   ],
+   "why": "<i>Who</i> đòi một người.",
+   "trap": "Hai phương án kia trả lời cho <i>Where</i> và <i>How long</i>.",
+   "a": 1
+  },
+  {
+   "tag": "wh",
+   "q": "Why was the meeting moved?",
+   "opts": [
+    "Because the director is travelling.",
+    "To the fifth floor, I believe.",
+    "At nine instead of ten."
+   ],
+   "why": "<i>Why</i> đòi lý do — <i>Because…</i> là dạng trả lời chuẩn.",
+   "trap": "Cả hai phương án sai đều nhại đúng chủ đề \"dời họp\" nhưng trả lời <i>Where</i> và <i>When</i>.",
+   "a": 0
+  },
+  {
+   "tag": "wh",
+   "q": "How long have you worked in the Da Nang branch?",
+   "opts": [
+    "It's about ten kilometres away.",
+    "By train, usually.",
+    "Just over three years."
+   ],
+   "why": "<i>How long</i> ở đây hỏi khoảng thời gian.",
+   "trap": "<b>ten kilometres</b> là bẫy kinh điển: <i>how long</i> cũng có thể hỏi độ dài, nhưng <i>have you worked</i> cho thấy là thời gian.",
+   "a": 2
+  },
+  {
+   "tag": "wh",
+   "q": "Which supplier did we use last time?",
+   "opts": [
+    "Yes, we did.",
+    "The one in Binh Duong.",
+    "Last Thursday, I think."
+   ],
+   "why": "<i>Which</i> đòi chọn ra một trong nhiều.",
+   "trap": "<b>Last Thursday</b> bắt vào chữ <i>last time</i>.",
+   "a": 1
+  },
+  {
+   "tag": "wh",
+   "q": "What time does the office close on Saturdays?",
+   "opts": [
+    "At one in the afternoon.",
+    "On the ground floor.",
+    "Twice a month."
+   ],
+   "why": "<i>What time</i> đòi giờ cụ thể.",
+   "trap": "<b>Twice a month</b> trả lời cho <i>How often</i>.",
+   "a": 0
+  },
+  {
+   "tag": "wh",
+   "q": "How did you hear about the vacancy?",
+   "opts": [
+    "For about six months.",
+    "In the accounts department.",
+    "A colleague mentioned it."
+   ],
+   "why": "<i>How</i> ở đây hỏi bằng cách nào bạn biết tin.",
+   "trap": "Hai phương án kia trả lời <i>How long</i> và <i>Where</i>.",
+   "a": 2
+  },
+  {
+   "tag": "wh",
+   "q": "Whose laptop is on the meeting table?",
+   "opts": [
+    "On the table by the window.",
+    "I think it's Minh's.",
+    "It was repaired yesterday."
+   ],
+   "why": "<i>Whose</i> đòi chủ sở hữu.",
+   "trap": "<b>On the table</b> lặp lại nguyên chữ trong câu hỏi — dấu hiệu rõ của bẫy âm.",
+   "a": 1
+  },
+  {
+   "tag": "wh",
+   "q": "How many people signed up for the workshop?",
+   "opts": [
+    "Nineteen so far.",
+    "It starts at ten.",
+    "In Room 2, I believe."
+   ],
+   "why": "<i>How many</i> đòi số lượng.",
+   "trap": "Hai phương án kia trả lời <i>When</i> và <i>Where</i>.",
+   "a": 0
+  },
+  {
+   "tag": "yesno",
+   "q": "Have you sent the invoice to the client yet?",
+   "opts": [
+    "It's on the second floor.",
+    "Every Friday afternoon.",
+    "No, I'm still waiting for approval."
+   ],
+   "why": "Câu hỏi Yes/No nên trả lời bắt đầu bằng <i>No</i> rồi giải thích.",
+   "trap": "Hai phương án kia trả lời cho <i>Where</i> và <i>How often</i>.",
+   "a": 2
+  },
+  {
+   "tag": "yesno",
+   "q": "Did the technician fix the printer?",
+   "opts": [
+    "Yes, about an hour ago.",
+    "He's coming back tomorrow.",
+    "The printer in Room 3."
+   ],
+   "why": "Trả lời Yes/No không nhất thiết bắt đầu bằng Yes/No — <i>He's coming back tomorrow</i> ngầm nói là chưa xong.",
+   "trap": "<b>Yes, about an hour ago</b> nghe rất hợp lý, nhưng <b>The printer in Room 3</b> chỉ nhại lại danh từ.",
+   "a": 1
+  },
+  {
+   "tag": "yesno",
+   "q": "Is the parking area free for visitors?",
+   "opts": [
+    "Only for the first two hours.",
+    "He parked near the entrance.",
+    "It was built last year."
+   ],
+   "why": "Trả lời có điều kiện — miễn phí nhưng chỉ trong hai tiếng đầu.",
+   "trap": "<b>He parked</b> nhại chữ <i>parking</i>, một bẫy âm điển hình.",
+   "a": 0
+  },
+  {
+   "tag": "yesno",
+   "q": "Are these figures from the third quarter?",
+   "opts": [
+    "About forty pages.",
+    "The figures were printed.",
+    "No, they're from the second."
+   ],
+   "why": "Trả lời phủ định rồi đính chính lại.",
+   "trap": "<b>The figures were printed</b> lặp nguyên chữ <i>figures</i> nhưng không trả lời gì.",
+   "a": 2
+  },
+  {
+   "tag": "yesno",
+   "q": "Has the new policy been announced?",
+   "opts": [
+    "Yes, I agree with it.",
+    "It goes out on Monday.",
+    "In the staff handbook."
+   ],
+   "why": "Chưa công bố — sẽ gửi vào thứ Hai. Trả lời gián tiếp rất hay gặp ở Part 2.",
+   "trap": "<b>Yes, I agree with it</b> trả lời một câu hỏi khác hẳn: hỏi đã công bố chưa, không hỏi bạn nghĩ sao.",
+   "a": 1
+  },
+  {
+   "tag": "choice",
+   "q": "Would you like the report by email or in print?",
+   "opts": [
+    "Email is fine, thanks.",
+    "Yes, please.",
+    "It's a long report."
+   ],
+   "why": "Câu hỏi lựa chọn <i>A or B</i> — phải chọn một trong hai.",
+   "trap": "<b>Yes, please</b> là bẫy số một của dạng này: câu hỏi <i>or</i> KHÔNG trả lời được bằng Yes/No.",
+   "a": 0
+  },
+  {
+   "tag": "choice",
+   "q": "Should we meet in my office or in the conference room?",
+   "opts": [
+    "At half past two.",
+    "Yes, that works.",
+    "Whichever suits you."
+   ],
+   "why": "Không chọn bên nào cũng là một cách trả lời hợp lệ.",
+   "trap": "Lại là bẫy <b>Yes</b> cho câu hỏi lựa chọn.",
+   "a": 2
+  },
+  {
+   "tag": "choice",
+   "q": "Do you want to start now or wait for Ms Lam?",
+   "opts": [
+    "She works in sales.",
+    "Let's give her five more minutes.",
+    "In the main hall."
+   ],
+   "why": "Trả lời gián tiếp = chọn phương án chờ.",
+   "trap": "<b>She works in sales</b> nhại tên riêng trong câu hỏi.",
+   "a": 1
+  },
+  {
+   "tag": "choice",
+   "q": "Is the deadline Thursday or Friday?",
+   "opts": [
+    "Friday, but earlier is better.",
+    "Yes, it is.",
+    "About two weeks."
+   ],
+   "why": "Chọn một mốc rồi nói thêm.",
+   "trap": "<b>Yes, it is</b> — câu hỏi lựa chọn không dùng Yes/No.",
+   "a": 0
+  },
+  {
+   "tag": "request",
+   "q": "Could you send me the updated figures?",
+   "opts": [
+    "They went up last month.",
+    "In the finance office.",
+    "Sure, give me ten minutes."
+   ],
+   "why": "Lời nhờ vả — trả lời bằng đồng ý kèm mốc thời gian.",
+   "trap": "<b>They went up last month</b> nói về chính các con số nhưng không đáp lại lời nhờ.",
+   "a": 2
+  },
+  {
+   "tag": "request",
+   "q": "Would you mind closing the window?",
+   "opts": [
+    "Through the side door.",
+    "Not at all.",
+    "It's quite warm today."
+   ],
+   "why": "<b>Would you mind…?</b> trả lời đồng ý là <i>Not at all</i> — nghĩa là \"không phiền gì\".",
+   "trap": "Nhiều người trả lời <i>Yes</i> vì tưởng là đồng ý, nhưng <i>Yes</i> ở đây nghĩa là \"có, tôi thấy phiền\".",
+   "a": 1
+  },
+  {
+   "tag": "request",
+   "q": "Can I leave these boxes here for a moment?",
+   "opts": [
+    "As long as they're not blocking the door.",
+    "They weigh about ten kilos.",
+    "I left at six."
+   ],
+   "why": "Cho phép có điều kiện.",
+   "trap": "<b>I left at six</b> bắt vào chữ <i>leave</i> — bẫy âm kinh điển.",
+   "a": 0
+  },
+  {
+   "tag": "request",
+   "q": "Why don't we postpone the launch until April?",
+   "opts": [
+    "It launched last spring.",
+    "In the main showroom.",
+    "That might be wiser."
+   ],
+   "why": "<i>Why don't we…?</i> là lời đề nghị, không phải câu hỏi lý do.",
+   "trap": "Rất dễ nghe thành câu hỏi <i>Why</i> rồi tìm câu trả lời có <i>Because</i>.",
+   "a": 2
+  },
+  {
+   "tag": "request",
+   "q": "Would you like me to book the taxi?",
+   "opts": [
+    "It took about an hour.",
+    "That would be a great help.",
+    "To the airport, please."
+   ],
+   "why": "Lời đề nghị giúp — trả lời là nhận lời.",
+   "trap": "<b>To the airport</b> nghe rất liên quan đến taxi nhưng trả lời một câu hỏi khác.",
+   "a": 1
+  },
+  {
+   "tag": "tag",
+   "q": "You've already met the new director, haven't you?",
+   "opts": [
+    "Only briefly, last week.",
+    "In the boardroom.",
+    "He's directing the project."
+   ],
+   "why": "Câu hỏi đuôi — trả lời như câu hỏi Yes/No bình thường.",
+   "trap": "<b>He's directing</b> nhại chữ <i>director</i>.",
+   "a": 0
+  },
+  {
+   "tag": "tag",
+   "q": "The samples haven't arrived yet, have they?",
+   "opts": [
+    "They're quite small.",
+    "By courier, I think.",
+    "No, we're still waiting."
+   ],
+   "why": "Câu hỏi đuôi phủ định — <i>No</i> xác nhận là chưa tới.",
+   "trap": "<b>By courier</b> trả lời cho <i>How</i>.",
+   "a": 2
+  },
+  {
+   "tag": "tag",
+   "q": "This is the right form, isn't it?",
+   "opts": [
+    "On the right-hand side.",
+    "Actually, you need the blue one.",
+    "I filled it in yesterday."
+   ],
+   "why": "Đính chính nhẹ nhàng cũng là cách đáp câu hỏi đuôi.",
+   "trap": "<b>On the right-hand side</b> nhại chữ <i>right</i> với nghĩa hoàn toàn khác.",
+   "a": 1
+  },
+  {
+   "tag": "stmt",
+   "q": "The air conditioning in Room 4 isn't working again.",
+   "opts": [
+    "I'll report it this morning.",
+    "Room 4 is quite large.",
+    "Yes, it's working well."
+   ],
+   "why": "Câu trần thuật nêu vấn đề — đáp lại bằng hành động sẽ làm.",
+   "trap": "<b>Yes, it's working well</b> mâu thuẫn thẳng với câu vừa nghe.",
+   "a": 0
+  },
+  {
+   "tag": "stmt",
+   "q": "I can't find the file you mentioned.",
+   "opts": [
+    "It was a long meeting.",
+    "I mentioned it twice.",
+    "Try the shared folder."
+   ],
+   "why": "Nêu khó khăn — đáp lại bằng gợi ý.",
+   "trap": "<b>I mentioned it twice</b> nhại chữ <i>mentioned</i> mà không giúp được gì.",
+   "a": 2
+  },
+  {
+   "tag": "stmt",
+   "q": "We're running low on printer paper.",
+   "opts": [
+    "On the top shelf.",
+    "I'll add it to the order.",
+    "The printer is new."
+   ],
+   "why": "Báo thiếu vật tư — đáp lại bằng việc sẽ bổ sung.",
+   "trap": "<b>The printer is new</b> nhại chữ <i>printer</i>.",
+   "a": 1
+  },
+  {
+   "tag": "stmt",
+   "q": "That presentation went better than I expected.",
+   "opts": [
+    "The slides really helped.",
+    "At two in the afternoon.",
+    "I'll present it tomorrow."
+   ],
+   "why": "Nhận xét — đáp lại bằng một nhận xét liên quan.",
+   "trap": "<b>I'll present it tomorrow</b> dùng lại gốc từ <i>present</i> ở thì khác.",
+   "a": 0
+  },
+  {
+   "tag": "wh",
+   "q": "Where should I leave the visitor badges?",
+   "opts": [
+    "Before nine, ideally.",
+    "About twenty of them.",
+    "With the receptionist."
+   ],
+   "why": "<i>Where</i> đòi nơi chốn — ở đây là \"với ai\", vẫn hợp lệ.",
+   "trap": "Hai phương án kia trả lời <i>When</i> và <i>How many</i>.",
+   "a": 2
+  },
+  {
+   "tag": "wh",
+   "q": "What's the reason for the delay?",
+   "opts": [
+    "Yes, it's been delayed.",
+    "A problem at customs.",
+    "Until next Wednesday."
+   ],
+   "why": "<i>What's the reason</i> đòi nguyên nhân.",
+   "trap": "<b>Yes, it's been delayed</b> lặp lại chính chữ trong câu hỏi mà không nêu lý do.",
+   "a": 1
+  },
+  {
+   "tag": "yesno",
+   "q": "Do you know if the canteen is open today?",
+   "opts": [
+    "It should be, until three.",
+    "I ate there yesterday.",
+    "The food is good."
+   ],
+   "why": "Câu hỏi gián tiếp — trả lời như Yes/No kèm thông tin thêm.",
+   "trap": "Hai phương án kia đều nói về canteen nhưng không trả lời câu hỏi.",
+   "a": 0
+  },
+  {
+   "tag": "request",
+   "q": "Shall I put these documents in the archive?",
+   "opts": [
+    "It was archived last year.",
+    "In alphabetical order.",
+    "Leave them on my desk for now."
+   ],
+   "why": "Đề nghị làm giúp — đáp lại bằng chỉ dẫn khác.",
+   "trap": "<b>It was archived last year</b> nhại chữ <i>archive</i>.",
+   "a": 2
+  },
+  {
+   "tag": "choice",
+   "q": "Did you drive or take the bus this morning?",
+   "opts": [
+    "At seven thirty.",
+    "Neither — I cycled.",
+    "Yes, it was quick."
+   ],
+   "why": "Câu hỏi lựa chọn có thể trả lời bằng phương án thứ ba.",
+   "trap": "<b>Yes</b> không trả lời được câu hỏi <i>or</i>.",
+   "a": 1
+  },
+  {
+   "tag": "stmt",
+   "q": "I thought the training was scheduled for next week.",
+   "opts": [
+    "It was moved forward.",
+    "The trainer is excellent.",
+    "In the main hall."
+   ],
+   "why": "Nêu hiểu nhầm — đáp lại bằng cách đính chính.",
+   "trap": "<b>The trainer is excellent</b> nhại gốc từ <i>training</i>.",
+   "a": 0
+  },
+  {
+   "tag": "tag",
+   "q": "You're joining us for lunch, aren't you?",
+   "opts": [
+    "It's on the first floor.",
+    "Lunch was very good.",
+    "I wish I could, but I have a call."
+   ],
+   "why": "Từ chối lịch sự kèm lý do.",
+   "trap": "<b>Lunch was very good</b> dùng lại chính chữ <i>lunch</i> nhưng ở thì quá khứ.",
+   "a": 2
+  },
+  {
+   "tag": "wh",
+   "q": "How often does the committee meet?",
+   "opts": [
+    "About twelve members.",
+    "Once every two months.",
+    "In the small meeting room."
+   ],
+   "why": "<i>How often</i> đòi tần suất.",
+   "trap": "Hai phương án kia trả lời <i>Where</i> và <i>How many</i>.",
+   "a": 1
+  },
+  {
+   "tag": "request",
+   "q": "Could you remind me to call the supplier at four?",
+   "opts": [
+    "Of course, I'll set an alarm.",
+    "He called this morning.",
+    "The supplier in Hanoi."
+   ],
+   "why": "Lời nhờ — đáp lại bằng nhận lời kèm cách làm.",
+   "trap": "Hai phương án kia đều nhại <i>call</i> và <i>supplier</i>.",
+   "a": 0
+  }
+ ],
+ "p3": [
+  {
+   "who": "Two colleagues · delivery schedule",
+   "lines": [
+    [
+     "M",
+     "Lan, did the paint for the Riverside job go out this morning?"
+    ],
+    [
+     "W",
+     "Half of it. The supplier only had forty tins in stock, so the rest comes Thursday."
+    ],
+    [
+     "M",
+     "Thursday's too late. The decorators start on Wednesday."
+    ],
+    [
+     "W",
+     "I know. I've asked them to split the delivery — twenty more tomorrow afternoon, the last twenty on Thursday."
+    ],
+    [
+     "M",
+     "Will sixty be enough to start?"
+    ],
+    [
+     "W",
+     "For the ground floor, yes. They won't reach the upper floors before Friday anyway."
+    ],
+    [
+     "M",
+     "All right. Can you email the site manager so he knows?"
+    ],
+    [
+     "W",
+     "I'll do it as soon as we finish here."
+    ]
+   ],
+   "qs": [
+    {
+     "tag": "context",
+     "q": "What are the speakers mainly discussing?",
+     "opts": [
+      "A delayed supply of materials",
+      "A change of decorating contractor",
+      "A complaint from a client",
+      "A rise in paint prices"
+     ],
+     "why": "Toàn bộ hội thoại xoay quanh việc sơn giao thiếu và cách xoay xở.",
+     "a": 0
+    },
+    {
+     "tag": "detail",
+     "q": "How many tins will arrive tomorrow afternoon?",
+     "opts": [
+      "Forty",
+      "Sixty",
+      "Eighty",
+      "Twenty"
+     ],
+     "why": "<i>twenty more tomorrow afternoon, the last twenty on Thursday</i>.",
+     "a": 3
+    },
+    {
+     "tag": "next",
+     "q": "What will the woman do next?",
+     "opts": [
+      "Visit the Riverside site",
+      "Change the start date",
+      "Email the site manager",
+      "Call the supplier again"
+     ],
+     "why": "<i>Can you email the site manager… — I'll do it as soon as we finish here</i>.",
+     "a": 2
+    }
+   ]
+  },
+  {
+   "who": "Customer and hotel receptionist",
+   "lines": [
+    [
+     "W",
+     "Good afternoon. I have a reservation under Carter, arriving today."
+    ],
+    [
+     "M",
+     "Let me check… Yes, Mr Carter, two nights, a single room on the third floor."
+    ],
+    [
+     "W",
+     "Actually it should be two rooms. My colleague is travelling with me."
+    ],
+    [
+     "M",
+     "I'm afraid the booking only shows one. We're almost full tonight — I have one twin room left, but it's on the ground floor."
+    ],
+    [
+     "W",
+     "That's fine, as long as we're both in it."
+    ],
+    [
+     "M",
+     "Of course. There's no extra charge, since the twin is the same rate. Breakfast is from six thirty."
+    ],
+    [
+     "W",
+     "Could we have a late checkout on Friday? Our flight isn't until eight in the evening."
+    ],
+    [
+     "M",
+     "I'll note the request, but I can only confirm it on the morning itself."
+    ]
+   ],
+   "qs": [
+    {
+     "tag": "context",
+     "q": "Where does this conversation take place?",
+     "opts": [
+      "In a restaurant",
+      "At a hotel reception desk",
+      "At an airport check-in counter",
+      "At a travel agency"
+     ],
+     "why": "<i>I have a reservation</i>, <i>room on the third floor</i>, <i>Breakfast is from six thirty</i>.",
+     "a": 1
+    },
+    {
+     "tag": "detail",
+     "q": "What is the problem with the booking?",
+     "opts": [
+      "It shows one room instead of two",
+      "It is for the wrong dates",
+      "The room rate has changed",
+      "The name is spelled incorrectly"
+     ],
+     "why": "<i>Actually it should be two rooms… the booking only shows one</i>.",
+     "a": 0
+    },
+    {
+     "tag": "infer",
+     "q": "What does the man say about the late checkout?",
+     "opts": [
+      "He will charge an extra fee",
+      "He cannot offer it at all",
+      "He has already arranged it",
+      "He cannot confirm it until Friday morning"
+     ],
+     "why": "<i>I can only confirm it on the morning itself</i>.",
+     "a": 3
+    }
+   ]
+  },
+  {
+   "who": "Manager and team member · software rollout",
+   "lines": [
+    [
+     "M",
+     "How did the first week with the new ordering system go?"
+    ],
+    [
+     "W",
+     "Better than I expected. The team picked it up quickly."
+    ],
+    [
+     "M",
+     "Any problems at all?"
+    ],
+    [
+     "W",
+     "One. It won't let us edit an order once it's been confirmed — we have to cancel and start again."
+    ],
+    [
+     "M",
+     "That sounds like it would waste a lot of time."
+    ],
+    [
+     "W",
+     "It does, maybe twenty minutes a day. I've logged it with the vendor."
+    ],
+    [
+     "M",
+     "Good. If we don't hear back by Friday, I'll raise it with their account manager."
+    ],
+    [
+     "W",
+     "I'll forward you the ticket number this afternoon."
+    ]
+   ],
+   "qs": [
+    {
+     "tag": "purpose",
+     "q": "Why is the man speaking to the woman?",
+     "opts": [
+      "To arrange a training session",
+      "To report a system failure",
+      "To get feedback on a new system",
+      "To offer her a promotion"
+     ],
+     "why": "Câu mở đầu: <i>How did the first week with the new ordering system go?</i>",
+     "a": 2
+    },
+    {
+     "tag": "detail",
+     "q": "What problem does the woman mention?",
+     "opts": [
+      "Reports print incorrectly",
+      "Confirmed orders cannot be edited",
+      "The system is often offline",
+      "Staff find it hard to learn"
+     ],
+     "why": "<i>It won't let us edit an order once it's been confirmed</i>.",
+     "a": 1
+    },
+    {
+     "tag": "next",
+     "q": "What will the man do if there is no reply by Friday?",
+     "opts": [
+      "Contact the vendor's account manager",
+      "Cancel the contract",
+      "Train the team himself",
+      "Switch back to the old system"
+     ],
+     "why": "<i>If we don't hear back by Friday, I'll raise it with their account manager</i>.",
+     "a": 0
+    }
+   ]
+  },
+  {
+   "who": "Two colleagues · conference travel",
+   "lines": [
+    [
+     "W",
+     "Are you driving to the Hue conference or taking the train?"
+    ],
+    [
+     "M",
+     "Train. Four hours behind the wheel after a full day doesn't appeal."
+    ],
+    [
+     "W",
+     "Same here. Have you booked yet? The early service was almost full yesterday."
+    ],
+    [
+     "M",
+     "Not yet. Which one are you on?"
+    ],
+    [
+     "W",
+     "The six forty. It gets in at half past ten, well before the opening talk."
+    ],
+    [
+     "M",
+     "That's earlier than I'd like, but it's safer. I'll book the same one."
+    ],
+    [
+     "W",
+     "Book through the office portal — it goes straight onto the department budget."
+    ],
+    [
+     "M",
+     "I didn't know that. I paid out of pocket last time and waited six weeks to be reimbursed."
+    ]
+   ],
+   "qs": [
+    {
+     "tag": "context",
+     "q": "What are the speakers planning?",
+     "opts": [
+      "A holiday by train",
+      "A company relocation",
+      "A client site visit",
+      "Travel to a work conference"
+     ],
+     "why": "<i>the Hue conference</i>, <i>before the opening talk</i>.",
+     "a": 3
+    },
+    {
+     "tag": "detail",
+     "q": "Why does the man prefer the train?",
+     "opts": [
+      "The road is being repaired",
+      "He does not own a car",
+      "He does not want to drive after a long day",
+      "It is cheaper than driving"
+     ],
+     "why": "<i>Four hours behind the wheel after a full day doesn't appeal</i>.",
+     "a": 2
+    },
+    {
+     "tag": "infer",
+     "q": "Why does the woman mention the office portal?",
+     "opts": [
+      "Because tickets sell out there first",
+      "So the cost goes directly to the department",
+      "Because the train site is unreliable",
+      "To get a group discount"
+     ],
+     "why": "<i>it goes straight onto the department budget</i> — tránh phải ứng tiền rồi chờ hoàn.",
+     "a": 1
+    }
+   ]
+  },
+  {
+   "who": "Two colleagues · job applicants",
+   "lines": [
+    [
+     "M",
+     "Have you finished going through the applications for the analyst role?"
+    ],
+    [
+     "W",
+     "Almost. Thirty-one in total, and I've shortlisted six."
+    ],
+    [
+     "M",
+     "Six is a lot for one afternoon of interviews."
+    ],
+    [
+     "W",
+     "I know. Two of them are borderline — strong technical skills but no experience in our sector."
+    ],
+    [
+     "M",
+     "I'd keep them in. Sector knowledge can be taught in a few months."
+    ],
+    [
+     "W",
+     "That's what I thought. Shall we do three on Tuesday and three on Wednesday?"
+    ],
+    [
+     "M",
+     "Better. And let's send the case study out beforehand so they can prepare."
+    ],
+    [
+     "W",
+     "Agreed. I'll draft the invitation email today."
+    ]
+   ],
+   "qs": [
+    {
+     "tag": "purpose",
+     "q": "What is the main topic of the conversation?",
+     "opts": [
+      "Arranging interviews for a vacancy",
+      "Writing a job advertisement",
+      "Reviewing an employee's performance",
+      "Planning a training course"
+     ],
+     "why": "Hai người bàn về danh sách ứng viên và lịch phỏng vấn.",
+     "a": 0
+    },
+    {
+     "tag": "detail",
+     "q": "Why are two candidates described as borderline?",
+     "opts": [
+      "Their references are missing",
+      "They applied after the deadline",
+      "They live far from the office",
+      "They lack experience in the sector"
+     ],
+     "why": "<i>strong technical skills but no experience in our sector</i>.",
+     "a": 3
+    },
+    {
+     "tag": "next",
+     "q": "What does the man suggest sending to candidates?",
+     "opts": [
+      "A map of the office",
+      "A feedback form",
+      "A case study to prepare",
+      "A copy of the contract"
+     ],
+     "why": "<i>let's send the case study out beforehand so they can prepare</i>.",
+     "a": 2
+    }
+   ]
+  },
+  {
+   "who": "Customer and shop assistant",
+   "lines": [
+    [
+     "W",
+     "Excuse me, I bought this keyboard here last Saturday and three keys have stopped responding."
+    ],
+    [
+     "M",
+     "I'm sorry to hear that. Do you have the receipt with you?"
+    ],
+    [
+     "W",
+     "I do. Can I exchange it for the same model?"
+    ],
+    [
+     "M",
+     "We can, but that model has had the same fault reported twice this month. I'd suggest a different one."
+    ],
+    [
+     "W",
+     "Is it the same price?"
+    ],
+    [
+     "M",
+     "It's about eighty thousand more, but I can match the price given the trouble you've had."
+    ],
+    [
+     "W",
+     "That's good of you. Does it come with the same warranty?"
+    ],
+    [
+     "M",
+     "Two years, the same. I'll just need to process the return first."
+    ]
+   ],
+   "qs": [
+    {
+     "tag": "context",
+     "q": "Why has the woman come to the shop?",
+     "opts": [
+      "To apply for a refund of a deposit",
+      "To return a faulty product",
+      "To ask about a delivery",
+      "To buy a second keyboard"
+     ],
+     "why": "<i>three keys have stopped responding</i> — sản phẩm lỗi.",
+     "a": 1
+    },
+    {
+     "tag": "infer",
+     "q": "Why does the man advise against the same model?",
+     "opts": [
+      "It has had the same fault before",
+      "It is out of stock",
+      "It is being discontinued",
+      "It costs more now"
+     ],
+     "why": "<i>that model has had the same fault reported twice this month</i>.",
+     "a": 0
+    },
+    {
+     "tag": "detail",
+     "q": "What does the man offer?",
+     "opts": [
+      "A full cash refund",
+      "A free extended warranty",
+      "A discount on a future purchase",
+      "To match the price of a better model"
+     ],
+     "why": "<i>I can match the price given the trouble you've had</i>.",
+     "a": 3
+    }
+   ]
+  },
+  {
+   "who": "Three colleagues · office move",
+   "lines": [
+    [
+     "M1",
+     "So the move is confirmed for the last weekend of the month."
+    ],
+    [
+     "W",
+     "That's two weeks away. Have the packing crates arrived?"
+    ],
+    [
+     "M1",
+     "They come on the twentieth. Each person packs their own desk."
+    ],
+    [
+     "M2",
+     "What about the server room? We can't just put that in a crate."
+    ],
+    [
+     "M1",
+     "The IT contractor handles that on the Saturday. We'll be offline from Friday evening until Monday morning."
+    ],
+    [
+     "W",
+     "Does everyone know that? Three of my team are working on a client deadline that Monday."
+    ],
+    [
+     "M1",
+     "Good point. Can you send me their names? I'll see if they can work from home on the Friday instead."
+    ],
+    [
+     "W",
+     "I'll send them over before lunch."
+    ]
+   ],
+   "qs": [
+    {
+     "tag": "context",
+     "q": "What are the speakers discussing?",
+     "opts": [
+      "A client's complaint",
+      "A recruitment drive",
+      "An upcoming office relocation",
+      "A new IT security policy"
+     ],
+     "why": "<i>the move is confirmed</i>, <i>packing crates</i>, <i>server room</i>.",
+     "a": 2
+    },
+    {
+     "tag": "detail",
+     "q": "When will the systems be unavailable?",
+     "opts": [
+      "From the twentieth",
+      "From Friday evening to Monday morning",
+      "Only on Saturday",
+      "For the whole of the last week"
+     ],
+     "why": "<i>We'll be offline from Friday evening until Monday morning</i>.",
+     "a": 1
+    },
+    {
+     "tag": "infer",
+     "q": "Why is the woman concerned?",
+     "opts": [
+      "Some of her team have a deadline that Monday",
+      "Her team has too few crates",
+      "She will be away during the move",
+      "Her desk is the largest"
+     ],
+     "why": "<i>Three of my team are working on a client deadline that Monday</i>.",
+     "a": 0
+    }
+   ]
+  },
+  {
+   "who": "Two colleagues · budget report",
+   "lines": [
+    [
+     "W",
+     "Did you get a chance to look at the figures I sent on Monday?"
+    ],
+    [
+     "M",
+     "I did. The travel line jumped quite a lot compared with last quarter."
+    ],
+    [
+     "W",
+     "That's the Singapore trip. Four people instead of the two we budgeted for."
+    ],
+    [
+     "M",
+     "Was that approved?"
+    ],
+    [
+     "W",
+     "By the regional director, yes, but after the budget was set. I've attached the email."
+    ],
+    [
+     "M",
+     "All right. Can you add a note explaining it? The finance committee always asks about jumps over ten per cent."
+    ],
+    [
+     "W",
+     "I'll add a line under the table."
+    ],
+    [
+     "M",
+     "Perfect. Then I think we're ready to submit on Thursday."
+    ]
+   ],
+   "qs": [
+    {
+     "tag": "detail",
+     "q": "Why did travel costs increase?",
+     "opts": [
+      "Flight prices rose sharply",
+      "An extra trip was added",
+      "Hotel rates changed",
+      "More people went on a trip than planned"
+     ],
+     "why": "<i>Four people instead of the two we budgeted for</i>.",
+     "a": 3
+    },
+    {
+     "tag": "infer",
+     "q": "What does the man imply about the finance committee?",
+     "opts": [
+      "They set the travel budget",
+      "They have already approved the figures",
+      "They question large increases",
+      "They rarely read the reports"
+     ],
+     "why": "<i>The finance committee always asks about jumps over ten per cent</i>.",
+     "a": 2
+    },
+    {
+     "tag": "next",
+     "q": "What will the woman add to the report?",
+     "opts": [
+      "A revised forecast",
+      "An explanatory note",
+      "A new table",
+      "The director's signature"
+     ],
+     "why": "<i>Can you add a note explaining it? — I'll add a line under the table</i>.",
+     "a": 1
+    }
+   ]
+  },
+  {
+   "who": "Caller and receptionist",
+   "lines": [
+    [
+     "M",
+     "Good morning, Dalat Engineering. How can I help?"
+    ],
+    [
+     "W",
+     "Hello, I'm trying to reach Nguyen Van Tuan in the design team."
+    ],
+    [
+     "M",
+     "He's out at a site visit until Thursday. Can someone else help?"
+    ],
+    [
+     "W",
+     "It's about the revised drawings for the Bao Loc project. He said he'd send them Monday and I haven't received anything."
+    ],
+    [
+     "M",
+     "Let me put you through to his colleague, Ms Ha. She's covering his projects this week."
+    ],
+    [
+     "W",
+     "That would be great, thank you."
+    ],
+    [
+     "M",
+     "One moment… I'm sorry, she's on another call. Can I take your number and have her ring you back within the hour?"
+    ],
+    [
+     "W",
+     "Yes, it's oh-nine-four, double two, one, seven, three."
+    ]
+   ],
+   "qs": [
+    {
+     "tag": "purpose",
+     "q": "Why is the woman calling?",
+     "opts": [
+      "She has not received some documents",
+      "She wants to book a site visit",
+      "She is applying for a job",
+      "She needs to change an appointment"
+     ],
+     "why": "<i>He said he'd send them Monday and I haven't received anything</i>.",
+     "a": 0
+    },
+    {
+     "tag": "detail",
+     "q": "Why is Mr Tuan unavailable?",
+     "opts": [
+      "He has left the company",
+      "He is in a meeting",
+      "He is on holiday",
+      "He is at a site visit until Thursday"
+     ],
+     "why": "<i>He's out at a site visit until Thursday</i>.",
+     "a": 3
+    },
+    {
+     "tag": "next",
+     "q": "What will happen next?",
+     "opts": [
+      "The woman will call again tomorrow",
+      "Mr Tuan will be contacted at the site",
+      "Ms Ha will call the woman back",
+      "The man will send the drawings"
+     ],
+     "why": "<i>Can I take your number and have her ring you back within the hour?</i>",
+     "a": 2
+    }
+   ]
+  },
+  {
+   "who": "Two colleagues · training course",
+   "lines": [
+    [
+     "W",
+     "Are you going to the presentation skills course next month?"
+    ],
+    [
+     "M",
+     "I'd like to, but it clashes with the audit week."
+    ],
+    [
+     "W",
+     "They're running it twice — the second one is in October."
+    ],
+    [
+     "M",
+     "That's better. Is it the full two days?"
+    ],
+    [
+     "W",
+     "One day in October, but they've cut the group work. Same trainer though."
+    ],
+    [
+     "M",
+     "Hmm. The group work was the part people said was most useful."
+    ],
+    [
+     "W",
+     "True. If enough of us ask for the two-day version, they might add one."
+    ],
+    [
+     "M",
+     "Worth trying. I'll email the training coordinator today."
+    ]
+   ],
+   "qs": [
+    {
+     "tag": "detail",
+     "q": "Why can the man not attend the first course?",
+     "opts": [
+      "He will be travelling",
+      "It is during the audit week",
+      "He has already taken it",
+      "It is too expensive"
+     ],
+     "why": "<i>it clashes with the audit week</i>.",
+     "a": 1
+    },
+    {
+     "tag": "infer",
+     "q": "What is the man's concern about the October course?",
+     "opts": [
+      "It leaves out the group work",
+      "It has a different trainer",
+      "It is held too late in the year",
+      "It lasts two full days"
+     ],
+     "why": "<i>they've cut the group work</i> và <i>the group work was the part people said was most useful</i>.",
+     "a": 0
+    },
+    {
+     "tag": "next",
+     "q": "What does the man say he will do?",
+     "opts": [
+      "Book the October course",
+      "Speak to his manager",
+      "Organise his own session",
+      "Email the training coordinator"
+     ],
+     "why": "<i>I'll email the training coordinator today</i>.",
+     "a": 3
+    }
+   ]
+  },
+  {
+   "who": "Manager and warehouse supervisor",
+   "lines": [
+    [
+     "M",
+     "The stock count figures don't match the system again. Forty units out on the blue cabinets."
+    ],
+    [
+     "W",
+     "Forty? Last month it was six."
+    ],
+    [
+     "M",
+     "That's what worries me. Any idea what's changed?"
+    ],
+    [
+     "W",
+     "We started using the handheld scanners in March. If someone scans a pallet twice, it doubles the count."
+    ],
+    [
+     "M",
+     "Can we tell from the logs?"
+    ],
+    [
+     "W",
+     "The logs show the time of each scan. Two scans a second apart is almost certainly a double."
+    ],
+    [
+     "M",
+     "Right. Pull last month's logs and check. If that's the cause, we'll add a warning to the scanner."
+    ],
+    [
+     "W",
+     "I'll have something for you by Wednesday."
+    ]
+   ],
+   "qs": [
+    {
+     "tag": "purpose",
+     "q": "What problem are the speakers discussing?",
+     "opts": [
+      "Damaged goods in the warehouse",
+      "A shortage of scanners",
+      "Stock figures that do not match the system",
+      "A delay in a delivery"
+     ],
+     "why": "<i>The stock count figures don't match the system again</i>.",
+     "a": 2
+    },
+    {
+     "tag": "infer",
+     "q": "What does the woman think may be causing it?",
+     "opts": [
+      "Incorrect supplier labels",
+      "Pallets being scanned twice",
+      "Staff forgetting to scan",
+      "A fault in the cabinets"
+     ],
+     "why": "<i>If someone scans a pallet twice, it doubles the count</i>.",
+     "a": 1
+    },
+    {
+     "tag": "next",
+     "q": "What will the woman do by Wednesday?",
+     "opts": [
+      "Check last month's scanner logs",
+      "Recount all the stock",
+      "Order new scanners",
+      "Train the warehouse staff"
+     ],
+     "why": "<i>Pull last month's logs and check… I'll have something for you by Wednesday</i>.",
+     "a": 0
+    }
+   ]
+  },
+  {
+   "who": "Two colleagues · client presentation",
+   "lines": [
+    [
+     "M",
+     "How long do we have with Vinapack on Thursday?"
+    ],
+    [
+     "W",
+     "Forty minutes, including questions."
+    ],
+    [
+     "M",
+     "That's tight. My section alone runs to twenty-five."
+    ],
+    [
+     "W",
+     "Then it needs cutting. What's in it?"
+    ],
+    [
+     "M",
+     "Company background, the case studies, and the pricing options."
+    ],
+    [
+     "W",
+     "They've worked with us before — drop the background entirely. That's five minutes back."
+    ],
+    [
+     "M",
+     "Fair. And I could show one case study instead of three."
+    ],
+    [
+     "W",
+     "Do that. Leave plenty of room for questions; with this client that's where the real conversation happens."
+    ]
+   ],
+   "qs": [
+    {
+     "tag": "context",
+     "q": "What are the speakers preparing for?",
+     "opts": [
+      "A staff training day",
+      "A board meeting",
+      "A product launch",
+      "A presentation to a client"
+     ],
+     "why": "<i>How long do we have with Vinapack on Thursday?</i> và nội dung là case study, pricing.",
+     "a": 3
+    },
+    {
+     "tag": "detail",
+     "q": "What does the woman suggest removing?",
+     "opts": [
+      "The question time",
+      "All the case studies",
+      "The company background section",
+      "The pricing options"
+     ],
+     "why": "<i>drop the background entirely. That's five minutes back</i>.",
+     "a": 2
+    },
+    {
+     "tag": "infer",
+     "q": "Why does the woman want time for questions?",
+     "opts": [
+      "Other colleagues will join then",
+      "That is when the real discussion happens with this client",
+      "The client always arrives late",
+      "The presentation is too short"
+     ],
+     "why": "<i>with this client that's where the real conversation happens</i>.",
+     "a": 1
+    }
+   ]
+  }
+ ]
+}

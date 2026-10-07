@@ -1,0 +1,495 @@
+{
+  "id": 90,
+  "group": "Nhóm 9 · Cảm xúc & Phản ứng",
+  "title": "I'm glad (that)… — Mừng vì một chuyện",
+  "subtitle": "Khung câu bày tỏ niềm vui vì một sự việc cụ thể. Bẫy lớn nhất: glad đi với TO + động từ trần (I'm glad to hear that) chứ không phải V-ing — ngược hẳn với looking forward to. Và glad hầu như không bao giờ đứng trước danh từ.",
+  "pattern": [
+    "I'm glad <em>(that) + mệnh đề</em>.",
+    "I'm glad <em>to + V trần</em>.",
+    "I'm glad <em>for + người</em>."
+  ],
+  "meaning": "Tôi mừng vì… / May quá là…",
+  "grammar": [47, 34],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "glad to + V trần ✓" },
+    { "text": "Không đứng trước danh từ" },
+    { "text": "Trình độ: A2–B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I'm glad…</span> là niềm vui gắn với <b>một sự việc cụ thể</b> — thường có chút nhẹ nhõm trong đó. Khác với <i>I'm happy</i> vốn có thể mô tả trạng thái chung, <i>glad</i> luôn phải có lý do." },
+        { "t": "p", "html": "Ba nhánh chính, và điểm phân biệt nằm ở thứ đi sau:" },
+        {
+          "t": "table",
+          "head": ["Nhánh", "Cấu trúc", "Ví dụ"],
+          "rows": [
+            ["Mừng vì một chuyện", "<code>glad (that) + S + V</code>", "I'm glad you came."],
+            ["Mừng được làm gì", "<code>glad to + V trần</code>", "I'm glad to help."],
+            ["Mừng cho ai", "<code>glad for + người</code>", "I'm glad for you."],
+            ["Mừng về một chuyện", "<code>glad about + N</code>", "I'm glad about the result."]
+          ]
+        },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT:</b> sau <i>glad</i> là <b>to + ĐỘNG TỪ TRẦN</b>. <i>I'm glad <b>to hear</b> that</i> ✓ — <i>I'm glad to hearing that</i> ✗. Ngược hẳn với <i>looking forward <b>to hearing</b></i> ở [Khung 86], vì ở đó <i>to</i> là giới từ, còn ở đây là nguyên thể thật." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI:</b> <i>glad</i> hầu như <b>không đứng trước danh từ</b>. <i>a glad man</i> ✗ — phải nói <i>a happy man</i> ✓. Người ta chỉ dùng <i>glad</i> sau động từ <i>be, feel, look, seem</i>." },
+        { "t": "p", "html": "Chữ <b>that</b> bỏ được thoải mái: <i>I'm glad you came</i> nghe tự nhiên hơn <i>I'm glad that you came</i> khi nói chuyện." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "😊", "title": "Nghe tin tốt", "text": "<i>I'm glad to hear that.</i> Câu phản ứng số một." },
+            { "icon": "🤝", "title": "Sẵn lòng giúp", "text": "<i>I'm glad to help.</i> Ấm hơn <i>No problem</i> nhiều." },
+            { "icon": "🎉", "title": "Mừng cho người khác", "text": "<i>I'm glad for you!</i> Ở đây là <b>for</b>." },
+            { "icon": "😌", "title": "Nhẹ nhõm", "text": "<i>I'm glad that's over.</i>" },
+            { "icon": "👏", "title": "Mừng vì đã quyết định đúng", "text": "<i>I'm glad I did.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Cần một tính từ đứng trước danh từ. <i>a glad day</i> ✗ — dùng <i>a happy day</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Với mệnh đề", "<code>I'm glad (that) + S + V.</code>", "I'm glad you came."],
+            ["Với động từ", "<code>I'm glad to + V trần.</code>", "I'm glad to help."],
+            ["Mừng cho ai", "<code>I'm glad for + người.</code>", "I'm glad for you."],
+            ["Với danh từ", "<code>I'm glad about + N.</code>", "I'm glad about the result."],
+            ["Rút gọn", "<code>Glad to hear it.</code>", "Glad to hear it!"],
+            ["Nhấn mạnh", "<code>I'm so glad…</code>", "I'm so glad you're here."],
+            ["Nhẹ nhõm", "<code>I'm just glad…</code>", "I'm just glad it's over."],
+            ["Quá khứ", "<code>I was glad…</code>", "I was glad to see her."],
+            ["Trang trọng hơn", "<code>I'm pleased to + V.</code>", "I'm pleased to meet you."],
+            ["Sẵn lòng làm", "<code>I'd be glad to + V.</code>", "I'd be glad to help."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dạng rút gọn rất hay dùng:</b> <i>Glad to hear it!</i> — bỏ cả <i>I'm</i>. Đây là câu đáp lại tin vui tự nhiên nhất, ngắn và ấm." },
+        { "t": "callout", "html": "<b>Phân biệt nhanh:</b> <i>glad</i> = mừng vì một chuyện cụ thể; <i>happy</i> = vui nói chung, dùng được trước danh từ; <i>pleased</i> = trang trọng hơn; <i>relieved</i> = nhẹ nhõm vì chuyện xấu đã không xảy ra." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các dạng của “glad”",
+              "items": [
+                { "w": "I'm glad to hear that", "vi": "tôi mừng khi nghe vậy", "ex": "I'm glad to hear that.", "exvi": "Tôi mừng khi nghe vậy.", "note": "BẪY SỐ MỘT: <b>to hear</b> — động từ TRẦN, không phải <i>to hearing</i> ✗. Xem [Khung 86]." },
+                { "w": "I'm glad (that)", "vi": "tôi mừng là", "ex": "I'm glad you came.", "exvi": "Tôi mừng là bạn đã đến.", "note": "Chữ <i>that</i> bỏ được — khi nói thì bỏ nghe tự nhiên hơn." },
+                { "w": "I'm glad to help", "vi": "tôi sẵn lòng giúp", "ex": "I'm glad to help.", "exvi": "Tôi sẵn lòng giúp mà.", "note": "Ấm hơn <i>No problem</i> nhiều — dùng khi ai cảm ơn bạn." },
+                { "w": "I'm glad for you", "vi": "tôi mừng cho bạn", "ex": "I'm glad for you!", "exvi": "Tôi mừng cho bạn!", "note": "Giới từ <b>for</b> khi mừng CHO NGƯỜI khác — không phải chuyện của mình." },
+                { "w": "I'm glad about", "vi": "tôi mừng về", "ex": "I'm glad about the result.", "exvi": "Tôi mừng về kết quả." },
+                { "w": "I'm so glad", "vi": "tôi mừng quá", "ex": "I'm so glad you're here.", "exvi": "Tôi mừng quá vì có bạn ở đây." },
+                { "w": "I'm just glad", "vi": "tôi chỉ mừng là", "ex": "I'm just glad it's over.", "exvi": "Tôi chỉ mừng là chuyện đã xong.", "note": "Thêm <i>just</i> để nhấn vào sự NHẸ NHÕM hơn là niềm vui." },
+                { "w": "Glad to hear it", "vi": "nghe vậy mừng quá", "ex": "Glad to hear it!", "exvi": "Nghe vậy mừng quá!", "note": "Dạng RÚT GỌN, bỏ cả <i>I'm</i> — rất tự nhiên khi đáp lại tin vui." },
+                { "w": "I'd be glad to", "vi": "tôi rất sẵn lòng", "ex": "I'd be glad to help.", "exvi": "Tôi rất sẵn lòng giúp.", "note": "Lịch sự hơn <i>I'm glad to</i> khi nhận lời làm việc gì." },
+                { "w": "I was glad to see", "vi": "tôi mừng khi thấy", "ex": "I was glad to see her again.", "exvi": "Tôi mừng khi gặp lại cô ấy." },
+                { "w": "I'm glad I did", "vi": "mừng là tôi đã làm", "ex": "It was hard, but I'm glad I did.", "exvi": "Vất vả, nhưng tôi mừng là mình đã làm." },
+                { "w": "I'm glad I didn't", "vi": "mừng là tôi đã không", "ex": "I'm glad I didn't go.", "exvi": "Mừng là tôi đã không đi." }
+              ]
+            },
+            {
+              "title": "Từ gần nghĩa & từ dễ nhầm",
+              "items": [
+                { "w": "I'm happy (that)", "vi": "tôi vui là", "ex": "I'm happy you came.", "exvi": "Tôi vui là bạn đã đến.", "note": "<i>happy</i> rộng hơn và ĐỨNG ĐƯỢC trước danh từ: <i>a happy day</i> ✓. Xem [Khung 82]." },
+                { "w": "a glad man ✗", "vi": "cụm sai kinh điển", "ex": "a happy man ✓", "exvi": "một người đàn ông hạnh phúc", "note": "BẪY SỐ HAI: <i>glad</i> hầu như KHÔNG đứng trước danh từ. Phải dùng <i>happy</i>." },
+                { "w": "I'm pleased to", "vi": "tôi hân hạnh", "ex": "I'm pleased to meet you.", "exvi": "Rất hân hạnh được gặp anh/chị.", "note": "Trang trọng hơn <i>glad</i> — hợp lần đầu gặp mặt. Xem [Khung 72]." },
+                { "w": "I'm relieved", "vi": "tôi nhẹ cả người", "ex": "I'm relieved it went well.", "exvi": "Tôi nhẹ cả người vì mọi việc suôn sẻ.", "note": "Nhấn vào việc chuyện XẤU đã không xảy ra, không phải niềm vui thuần túy." },
+                { "w": "I'm thrilled", "vi": "tôi mừng phát điên", "ex": "I'm thrilled for you!", "exvi": "Tôi mừng cho bạn quá!", "note": "Mạnh hơn <i>glad</i> rất nhiều — dùng cho tin cực vui." },
+                { "w": "I'm delighted", "vi": "tôi rất vui mừng", "ex": "I'm delighted to hear it.", "exvi": "Tôi rất vui mừng khi nghe vậy.", "note": "Trang trọng và ấm — hay dùng trong email công việc." },
+                { "w": "gladly", "vi": "một cách vui vẻ", "ex": "I'd gladly do it again.", "exvi": "Tôi sẵn lòng làm lại lần nữa.", "note": "Dạng TRẠNG TỪ — đứng trước động từ, khác hẳn <i>glad</i>." },
+                { "w": "It's good to hear", "vi": "nghe vậy hay quá", "ex": "It's good to hear you're better.", "exvi": "Nghe nói bạn đỡ hơn thì hay quá." },
+                { "w": "That's great news", "vi": "tin tuyệt quá", "ex": "That's great news!", "exvi": "Tin tuyệt quá!", "note": "<i>news</i> KHÔNG đếm được — <i>a great news</i> ✗. Xem [Khung 89]." },
+                { "w": "I'm glad you asked", "vi": "may là bạn hỏi", "ex": "I'm glad you asked.", "exvi": "May là bạn hỏi đấy.", "note": "Câu mở đầu rất hay khi bạn thật sự muốn trả lời câu hỏi đó." },
+                { "w": "I'm glad we talked", "vi": "mừng là mình đã nói chuyện", "ex": "I'm glad we talked.", "exvi": "Mừng là mình đã nói chuyện với nhau." },
+                { "w": "Thank goodness", "vi": "may quá", "ex": "Thank goodness for that!", "exvi": "May quá đi mất!", "note": "Thành ngữ bày tỏ nhẹ nhõm — mạnh hơn <i>I'm glad</i>." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại & nối tiếp",
+              "items": [
+                { "w": "Me too", "vi": "tôi cũng vậy", "ex": "Me too, honestly.", "exvi": "Thật lòng, tôi cũng vậy." },
+                { "w": "So am I", "vi": "tôi cũng thế", "ex": "So am I.", "exvi": "Tôi cũng thế.", "note": "Đảo trật tự: <b>So am I</b> ✓, không phải <i>I am so</i> ✗." },
+                { "w": "That's very kind", "vi": "bạn tốt quá", "ex": "That's very kind of you.", "exvi": "Bạn tốt quá." },
+                { "w": "You're welcome", "vi": "không có gì", "ex": "You're welcome.", "exvi": "Không có gì. Xem [Khung 78]." },
+                { "w": "Any time", "vi": "lúc nào cũng được", "ex": "Any time!", "exvi": "Lúc nào cũng được mà!" },
+                { "w": "It worked out well", "vi": "mọi việc ổn thỏa", "ex": "It worked out well in the end.", "exvi": "Cuối cùng mọi việc cũng ổn thỏa." },
+                { "w": "What a relief", "vi": "nhẹ cả người", "ex": "What a relief!", "exvi": "Nhẹ cả người! Xem [Khung 89]." },
+                { "w": "I was worried", "vi": "tôi đã lo", "ex": "I was worried, to be honest.", "exvi": "Thật lòng thì tôi đã lo. Xem [Khung 87]." },
+                { "w": "It all turned out fine", "vi": "rốt cuộc mọi thứ đều ổn", "ex": "It all turned out fine.", "exvi": "Rốt cuộc mọi thứ đều ổn." },
+                { "w": "Let's keep it that way", "vi": "cứ giữ như vậy nhé", "ex": "Let's keep it that way.", "exvi": "Cứ giữ như vậy nhé." },
+                { "w": "I owe you one", "vi": "tôi nợ bạn một lần", "ex": "I owe you one.", "exvi": "Tôi nợ bạn một lần." },
+                { "w": "That's a weight off my mind", "vi": "trút được gánh nặng", "ex": "That's a weight off my mind.", "exvi": "Tôi trút được gánh nặng rồi.", "note": "Thành ngữ — dùng khi một nỗi lo dài ngày cuối cùng cũng xong." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I'm glad to hear that.",
+                  "vi": "Tôi mừng khi nghe vậy.",
+                  "note": "BẪY SỐ MỘT: <b>to hear</b> — động từ TRẦN. <i>to hearing</i> ✗. Ngược với <i>look forward to hearing</i> ở [Khung 86].",
+                  "open": { "en": "The client signed off this morning.", "vi": "Sáng nay khách đã duyệt rồi." },
+                  "reply": [
+                    { "them": "It took a while, but we got there.", "themvi": "Mất thời gian, nhưng rồi cũng xong.", "you": "That's a weight off my mind.", "youvi": "Tôi trút được gánh nặng rồi." },
+                    { "them": "Thanks for pushing it through.", "themvi": "Cảm ơn anh/chị đã đẩy việc này.", "you": "I'm just glad it's done.", "youvi": "Tôi chỉ mừng là xong rồi." }
+                  ],
+                  "close": { "en": "I'll update the team.", "vi": "Tôi sẽ báo lại cả nhóm." }
+                },
+                {
+                  "en": "I'm glad to help — just ask.",
+                  "vi": "Tôi sẵn lòng giúp — cứ nói nhé.",
+                  "note": "Ấm hơn <i>No problem</i> nhiều. Lại là <b>to + động từ trần</b>: <i>to help</i> ✓.",
+                  "reply": [
+                    { "them": "That's very kind of you.", "themvi": "Anh/chị tốt quá.", "you": "Any time.", "youvi": "Lúc nào cũng được mà." }
+                  ],
+                  "vars": [
+                    { "en": "I'd be glad to help.", "vi": "Tôi rất sẵn lòng giúp." }
+                  ]
+                },
+                {
+                  "en": "I'm glad you raised that.",
+                  "vi": "Tôi mừng là anh/chị đã nêu chuyện đó.",
+                  "note": "Chữ <i>that</i> làm liên từ đã được BỎ: <i>I'm glad (that) you raised…</i>",
+                  "reply": [
+                    { "them": "I wasn't sure it was the right time.", "themvi": "Tôi không chắc có đúng lúc không.", "you": "It was exactly the right time.", "youvi": "Đúng lúc quá đi chứ." }
+                  ]
+                },
+                {
+                  "en": "I'm just glad it's over.",
+                  "vi": "Tôi chỉ mừng là chuyện đã xong.",
+                  "note": "Thêm <b>just</b> để nhấn vào sự NHẸ NHÕM hơn là niềm vui thuần túy.",
+                  "reply": [
+                    { "them": "Me too. Long week.", "themvi": "Tôi cũng vậy. Tuần dài thật.", "you": "Let's not do that again.", "youvi": "Đừng lặp lại chuyện đó nữa." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I'm so glad you came.",
+                  "vi": "Mình mừng quá vì bạn đã đến.",
+                  "note": "Chữ <i>that</i> bỏ hẳn — khi nói chuyện thì bỏ nghe tự nhiên hơn nhiều.",
+                  "reply": [
+                    { "them": "I wouldn't have missed it.", "themvi": "Mình không bỏ lỡ được đâu.", "you": "That means a lot.", "youvi": "Điều đó với mình rất có ý nghĩa." }
+                  ],
+                  "close": { "en": "Come through — everyone's here.", "vi": "Vào trong đi — mọi người đến cả rồi." }
+                },
+                {
+                  "en": "I'm glad for you — you deserve it.",
+                  "vi": "Mình mừng cho bạn — bạn xứng đáng mà.",
+                  "note": "Giới từ <b>for</b> khi mừng CHO NGƯỜI khác. Dùng <i>about</i> ở đây thì nghe lạ.",
+                  "reply": [
+                    { "them": "Thank you, that's kind.", "themvi": "Cảm ơn bạn, bạn tốt quá.", "you": "I'm thrilled for you, honestly.", "youvi": "Thật lòng mình mừng cho bạn lắm." }
+                  ],
+                  "vars": [
+                    { "en": "I'm thrilled for you!", "vi": "Mình mừng cho bạn quá!" }
+                  ]
+                },
+                {
+                  "en": "It was hard, but I'm glad I did it.",
+                  "vi": "Vất vả, nhưng mình mừng là đã làm.",
+                  "note": "Mẫu <i>I'm glad I did</i> — nhìn lại một quyết định và thấy đúng.",
+                  "reply": [
+                    { "them": "Would you do it again?", "themvi": "Bạn có làm lại không?", "you": "I'd gladly do it again.", "youvi": "Mình sẵn lòng làm lại." }
+                  ]
+                },
+                {
+                  "en": "I'm glad we talked.",
+                  "vi": "Mừng là mình đã nói chuyện với nhau.",
+                  "note": "Câu kết một cuộc trò chuyện khó — ngắn nhưng rất ấm.",
+                  "reply": [
+                    { "them": "So am I.", "themvi": "Mình cũng thế.", "you": "Let's not leave it so long next time.", "youvi": "Lần sau đừng để lâu thế nữa." }
+                  ],
+                  "close": { "en": "Take care of yourself.", "vi": "Bạn giữ gìn sức khỏe nhé." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I'm glad we booked early.",
+                  "vi": "Mừng là mình đã đặt sớm.",
+                  "reply": [
+                    { "them": "Everything's sold out now.", "themvi": "Giờ hết sạch chỗ rồi.", "you": "Thank goodness for that.", "youvi": "May quá đi mất." }
+                  ],
+                  "close": { "en": "I'll print the tickets tonight.", "vi": "Tối nay mình in vé." }
+                },
+                {
+                  "en": "I'm glad I didn't take the earlier flight.",
+                  "vi": "Mừng là mình đã không đi chuyến sớm.",
+                  "note": "Mẫu phủ định <i>I'm glad I didn't</i> — mừng vì đã tránh được chuyện xấu.",
+                  "reply": [
+                    { "them": "It was delayed four hours.", "themvi": "Chuyến đó hoãn bốn tiếng.", "you": "What a relief!", "youvi": "Nhẹ cả người! Xem [Khung 89]." }
+                  ]
+                },
+                {
+                  "en": "I'm glad to be back.",
+                  "vi": "Mình mừng vì được về lại đây.",
+                  "note": "<b>to be</b> — động từ trần sau <i>glad to</i>, không bao giờ <i>to being</i> ✗.",
+                  "reply": [
+                    { "them": "It's good to have you back.", "themvi": "Có bạn về lại thì hay quá.", "you": "It's good to be home.", "youvi": "Về nhà thích thật." }
+                  ],
+                  "vars": [
+                    { "en": "I'm relieved to be back.", "vi": "Mình nhẹ cả người khi về lại." }
+                  ]
+                },
+                {
+                  "en": "I'm glad about the weather, at least.",
+                  "vi": "Ít ra mình cũng mừng về thời tiết.",
+                  "note": "Nhánh <b>about + danh từ</b> — gọn khi nỗi mừng chỉ là một danh từ.",
+                  "reply": [
+                    { "them": "Sunshine all week, apparently.", "themvi": "Hình như nắng cả tuần đấy.", "you": "What lovely weather!", "youvi": "Thời tiết đẹp quá! Xem [Khung 89]." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I'm glad you liked it.",
+                  "vi": "Mình mừng là bạn thích món đó.",
+                  "note": "Câu đáp lại lời khen món ăn tự nhiên nhất — ấm hơn <i>Thanks</i> nhiều.",
+                  "reply": [
+                    { "them": "It was delicious.", "themvi": "Ngon tuyệt.", "you": "I'll make it again then.", "youvi": "Vậy thì mình sẽ nấu lại." }
+                  ],
+                  "close": { "en": "There's plenty left, help yourself.", "vi": "Còn nhiều lắm, bạn cứ tự nhiên." }
+                },
+                {
+                  "en": "I'm glad we booked a table.",
+                  "vi": "Mừng là mình đã đặt bàn.",
+                  "reply": [
+                    { "them": "Look at that queue!", "themvi": "Nhìn cái hàng kia kìa!", "you": "I'm just glad we're inside.", "youvi": "Mình chỉ mừng là mình ngồi trong này." }
+                  ]
+                },
+                {
+                  "en": "I'm glad to try something new.",
+                  "vi": "Mình mừng vì được thử món mới.",
+                  "note": "<b>to try</b> — động từ trần. Nhớ đối lập với <i>looking forward to trying</i> ở [Khung 86].",
+                  "reply": [
+                    { "them": "You'll like this one, I promise.", "themvi": "Món này bạn sẽ thích, mình hứa.", "you": "I'll hold you to that.", "youvi": "Mình tin lời bạn đấy nhé." }
+                  ]
+                },
+                {
+                  "en": "Glad to hear it — I'll pass that on to the chef.",
+                  "vi": "Nghe vậy mừng quá — em sẽ báo lại với bếp.",
+                  "note": "Dạng RÚT GỌN, bỏ cả <i>I'm</i>. Rất tự nhiên trong đối thoại dịch vụ.",
+                  "reply": [
+                    { "them": "Please do — it was excellent.", "themvi": "Em báo giúp nhé — món rất tuyệt.", "you": "He'll be delighted.", "youvi": "Anh ấy sẽ vui lắm ạ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I'm glad I came in today.",
+                  "vi": "May là hôm nay tôi ghé.",
+                  "reply": [
+                    { "them": "The sale ends tomorrow.", "themvi": "Mai là hết khuyến mãi ạ.", "you": "Perfect timing, then.", "youvi": "Vậy là đúng lúc quá." }
+                  ]
+                },
+                {
+                  "en": "I'm glad to hear you have it in stock.",
+                  "vi": "Tôi mừng khi nghe bên em còn hàng.",
+                  "note": "<b>to hear</b> — động từ trần sau <i>glad to</i>. Đây là mẫu lặp đi lặp lại nhiều nhất của khung.",
+                  "reply": [
+                    { "them": "Just two left, actually.", "themvi": "Thật ra chỉ còn hai cái ạ.", "you": "I'll take one now then.", "youvi": "Vậy tôi lấy một cái luôn." }
+                  ],
+                  "close": { "en": "Can you hold it for ten minutes?", "vi": "Em giữ giúp tôi mười phút được không?" }
+                },
+                {
+                  "en": "I'm glad about the refund — thank you.",
+                  "vi": "Tôi mừng về khoản hoàn tiền — cảm ơn em.",
+                  "note": "Nhánh <b>about + danh từ</b>.",
+                  "reply": [
+                    { "them": "It'll be back within five days.", "themvi": "Trong năm ngày tiền sẽ về ạ.", "you": "That's a weight off my mind.", "youvi": "Tôi trút được gánh nặng rồi." }
+                  ]
+                },
+                {
+                  "en": "I'd be glad to leave a review.",
+                  "vi": "Tôi rất sẵn lòng viết đánh giá.",
+                  "note": "<b>I'd be glad to</b> lịch sự hơn <i>I'm glad to</i> khi nhận lời làm việc gì.",
+                  "reply": [
+                    { "them": "That would really help us.", "themvi": "Vậy thì giúp bên em nhiều lắm ạ.", "you": "I'll do it tonight.", "youvi": "Tối nay tôi viết." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Đồng nghiệp báo tin dự án được duyệt",
+          "lines": [
+            { "speaker": "Colleague", "en": "The client signed off this morning.", "vi": "Sáng nay khách đã duyệt rồi." },
+            { "speaker": "You", "me": true, "en": "I'm glad to hear that. I was worried, to be honest.", "vi": "Tôi mừng khi nghe vậy. Thật lòng thì tôi đã lo." },
+            { "speaker": "Colleague", "en": "So was I. It took three rounds.", "vi": "Tôi cũng vậy. Mất ba vòng sửa." },
+            { "speaker": "You", "me": true, "en": "I'm just glad it's over. That's a weight off my mind.", "vi": "Tôi chỉ mừng là xong rồi. Trút được gánh nặng." },
+            { "speaker": "Colleague", "en": "Thanks for pushing it through.", "vi": "Cảm ơn anh/chị đã đẩy việc này." },
+            { "speaker": "You", "me": true, "en": "I'm glad to help. Any time.", "vi": "Tôi sẵn lòng giúp mà. Lúc nào cũng được." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Bạn báo tin được nhận việc mới",
+          "lines": [
+            { "speaker": "Friend", "en": "I got the job!", "vi": "Mình được nhận việc rồi!" },
+            { "speaker": "You", "me": true, "en": "I'm so glad for you! You deserve it.", "vi": "Mình mừng cho bạn quá! Bạn xứng đáng mà." },
+            { "speaker": "Friend", "en": "Thank you. I nearly didn't apply.", "vi": "Cảm ơn bạn. Suýt nữa mình đã không nộp." },
+            { "speaker": "You", "me": true, "en": "Aren't you glad you did?", "vi": "Bạn mừng là mình đã nộp chứ?" },
+            { "speaker": "Friend", "en": "Very. It was your idea, remember.", "vi": "Mừng lắm. Là ý bạn đấy, nhớ không." },
+            { "speaker": "You", "me": true, "en": "I'm glad I said something, then. Let's celebrate.", "vi": "Vậy thì mừng là mình đã lên tiếng. Ăn mừng thôi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'm glad to <b>hearing</b> that.", "right": "I'm glad to <b>hear</b> that.", "why": "BẪY SỐ MỘT: <i>to</i> ở đây là NGUYÊN THỂ thật, nên theo sau là động từ trần. Ngược với <i>look forward to hearing</i> ở [Khung 86]." },
+            { "wrong": "It was <b>a glad day</b>.", "right": "It was <b>a happy day</b>.", "why": "BẪY SỐ HAI: <i>glad</i> hầu như không đứng trước danh từ. Chỉ dùng sau <i>be, feel, look, seem</i>." },
+            { "wrong": "I'm glad <b>for hear</b> that.", "right": "I'm glad <b>to hear</b> that.", "why": "Giới từ sai. Sau <i>glad</i> + động từ thì luôn là <b>to</b>, không phải <i>for</i>." },
+            { "wrong": "I'm glad <b>about</b> you.", "right": "I'm glad <b>for</b> you.", "why": "Mừng CHO NGƯỜI thì dùng <b>for</b>. <i>about</i> chỉ dùng với sự việc: <i>glad about the result</i>." },
+            { "wrong": "I'm glad <b>that</b> to help.", "right": "I'm glad to help.", "why": "Không trộn hai nhánh. Có <i>to + V</i> thì không có <i>that</i>, và ngược lại." },
+            { "wrong": "I'd <b>glad</b> to help.", "right": "I'd <b>be glad</b> to help.", "why": "<i>I'd</i> là <i>I would</i>, nên phải có <b>be</b>: <i>I would be glad</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Sắc thái", "Ví dụ"],
+          "rows": [
+            ["<code>I'm glad (that) + mệnh đề</code>", "Mừng vì một chuyện cụ thể", "I'm glad you came."],
+            ["<code>I'm glad to + V trần</code>", "Mừng được làm gì", "I'm glad to help."],
+            ["<code>I'm glad for + người</code>", "Mừng CHO người khác", "I'm glad for you."],
+            ["<code>I'm happy (that)…</code>", "Rộng hơn, dùng được trước danh từ. Xem [Khung 82]", "I'm happy you came."],
+            ["<code>I'm pleased to…</code>", "Trang trọng — lần đầu gặp, email", "I'm pleased to meet you."],
+            ["<code>I'm relieved (that)…</code>", "Nhẹ nhõm vì chuyện xấu không xảy ra", "I'm relieved it went well."],
+            ["<code>I'm thrilled / delighted</code>", "Mạnh nhất — tin cực vui", "I'm thrilled for you!"]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ vui mừng" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "That's good.", "vi": "Nhạt nhất — gần như cho có" },
+            { "en": "I'm glad to hear that.", "vi": "Mừng thật, lịch sự" },
+            { "en": "I'm so glad!", "vi": "Mừng rõ rệt" },
+            { "en": "I'm delighted to hear it.", "vi": "Trang trọng và ấm" },
+            { "en": "I'm absolutely thrilled for you!", "vi": "Mạnh nhất — mừng phát điên" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>glad</b> đọc /glæd/ — nguyên âm /æ/ mở rộng, gần <b>“glaad”</b>. Đừng đọc thành <i>gled</i>.",
+            "<b>Đuôi /d/ phải phát ra</b>. Nuốt mất thì <i>glad</i> nghe thành <i>glat</i>, người nghe sẽ khựng lại.",
+            "<b>I'm glad to</b> nối thành <b>“am-glad-tə”</b> — chữ <i>to</i> lướt nhẹ thành /tə/, không nhấn.",
+            "<b>glad to hear</b> → “glad-tə-HIƏ”, trọng âm rơi vào <b>HEAR</b>, không phải vào <i>glad</i>.",
+            "<b>Glad to hear it</b> rút gọn nói rất nhanh: <b>“glad-tə-HIƏ-rit”</b>, âm /r/ nối sang <i>it</i>.",
+            "<b>Giọng lên ở cuối</b> khi mừng cho người khác — nói giọng phẳng thì nghe hờ hững, mất hết ý tốt."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm glad to hear that.", "vi": "Luyện shadowing: “am-glad-tə-HIƏ-ðət”, nhấn mạnh vào HEAR." },
+            { "en": "I'm so glad for you!", "vi": "Tập lên giọng mạnh ở cuối để nghe thật sự mừng cho người ta." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi mừng khi nghe vậy.", "blank": "I'm glad to __________ that.", "a": "hear (động từ trần, không phải “hearing”)" },
+            { "vi": "Tôi mừng là bạn đã đến.", "blank": "I'm glad __________ you came.", "a": "(that) — bỏ đi cũng được" },
+            { "vi": "Tôi mừng cho bạn!", "blank": "I'm glad __________ you!", "a": "for" },
+            { "vi": "Tôi mừng về kết quả.", "blank": "I'm glad __________ the result.", "a": "about" },
+            { "vi": "Tôi rất sẵn lòng giúp.", "blank": "I'd __________ glad to help.", "a": "be (vì “I'd” = I would)" },
+            { "vi": "Nghe vậy mừng quá! (rút gọn)", "blank": "__________ to hear it!", "a": "Glad" },
+            { "vi": "Tôi chỉ mừng là chuyện đã xong.", "blank": "I'm __________ glad it's over.", "a": "just" },
+            { "vi": "Đó là một ngày hạnh phúc.", "blank": "It was a __________ day.", "a": "happy (không dùng “glad” trước danh từ)" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi mừng khi nghe vậy.", "a": "I'm glad to hear that." },
+            { "vi": "2. Mình mừng quá vì bạn đã đến.", "a": "I'm so glad you came." },
+            { "vi": "3. Mình mừng cho bạn — bạn xứng đáng mà.", "a": "I'm glad for you — you deserve it." },
+            { "vi": "4. Tôi sẵn lòng giúp — cứ nói nhé.", "a": "I'm glad to help — just ask." },
+            { "vi": "5. Vất vả, nhưng mình mừng là đã làm.", "a": "It was hard, but I'm glad I did it." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Khắc vào đầu:</b> <i>glad <b>to hear</b></i> — động từ TRẦN. Đặt cạnh <i>look forward to hear<b>ing</b></i> ở [Khung 86] để nhớ hai chữ <i>to</i> khác nhau.",
+            "<b>Không dùng <i>glad</i> trước danh từ.</b> Cần tính từ đứng trước danh từ thì dùng <i>happy</i>.",
+            "<b>Ba giới từ, ba nghĩa:</b> <i>glad <b>to</b> + V</i>, <i>glad <b>for</b> + người</i>, <i>glad <b>about</b> + sự việc</i>.",
+            "<b>Học thuộc hai câu vàng:</b> <i>I'm glad to hear that.</i> và <i>I'm glad to help.</i> — dùng được hàng ngày.",
+            "<b>Dạng rút gọn <i>Glad to hear it!</i></b> ngắn, ấm và nghe rất bản xứ khi đáp lại tin vui.",
+            "<b>Bài tập 3 phút:</b> viết bốn câu — hai câu <i>glad that + mệnh đề</i>, một câu <i>glad to + V</i>, một câu <i>glad for + người</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

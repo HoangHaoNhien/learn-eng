@@ -1,0 +1,277 @@
+{
+  "id": 45,
+  "group": "Nhóm 11 · Mệnh đề & Dạng câu",
+  "title": "Mệnh đề quan hệ — who / which / that / where",
+  "subtitle": "Bẫy lớn nhất là LẶP ĐẠI TỪ: The man who I met him yesterday ✗. Tiếng Việt nói “người mà tôi gặp anh ta hôm qua” được, tiếng Anh thì who đã thay chỗ cho him rồi nên không được giữ lại cả hai.",
+  "meaning": "Dùng một mệnh đề để mô tả danh từ đứng trước",
+  "rule": [
+    "<em>who</em> người · <em>which</em> vật · <em>that</em> cả hai · <em>where</em> nơi chốn",
+    "Đại từ quan hệ đã thay chỗ — <em>KHÔNG giữ lại him/it</em>",
+    "Bỏ được khi nó làm <em>TÂN NGỮ</em>, không bỏ khi làm <em>CHỦ NGỮ</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1", "hot": true },
+    { "text": "who I met him ✗" },
+    { "text": "Tân ngữ thì bỏ được" },
+    { "text": "Tần suất: cao" }
+  ],
+  "frames": [4, 66, 70, 73, 100],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Mệnh đề quan hệ là một câu nhỏ gắn ngay sau danh từ để nói rõ <b>danh từ nào</b>. Đại từ quan hệ (<i>who, which, that, where</i>) vừa nối hai câu, vừa <b>thay chỗ</b> cho một thành phần của câu sau." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — lặp đại từ:</b><br><i>The man <b>who</b> I met <b>him</b> yesterday</i> ✗<br><i>The man <b>who</b> I met yesterday</i> ✓<br><i>The book <b>which</b> I bought <b>it</b></i> ✗ → <i>The book <b>which</b> I bought</i> ✓<br>Chữ <i>who/which</i> ĐÃ LÀ chỗ của <i>him/it</i> rồi. Giữ cả hai là thừa — tiếng Việt cho phép, tiếng Anh thì không." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — khi nào bỏ được đại từ quan hệ:</b><br>• Nó làm <b>TÂN NGỮ</b> → <b>bỏ được</b>: <i>The man (who) I met</i> ✓<br>• Nó làm <b>CHỦ NGỮ</b> → <b>không bỏ được</b>: <i>The man <b>who</b> called me</i> ✓, <i>The man called me</i> ✗ (thành câu khác hẳn)<br>Mẹo kiểm tra: ngay sau đại từ quan hệ là <b>chủ ngữ mới</b> thì bỏ được; là <b>động từ</b> thì phải giữ." },
+        { "t": "h3", "text": "Bốn đại từ quan hệ cơ bản" },
+        {
+          "t": "table",
+          "head": ["Từ", "Thay cho", "Ví dụ"],
+          "rows": [
+            ["<code>who</code>", "Người", "the man who called me"],
+            ["<code>which</code>", "Vật, con vật, sự việc", "the book which I bought"],
+            ["<code>that</code>", "Cả người lẫn vật (thân mật)", "the man that called me"],
+            ["<code>where</code>", "Nơi chốn", "the city where I was born"]
+          ]
+        },
+        { "t": "p", "html": "Thêm hai từ nữa hay gặp: <b>whose</b> (của ai đó) và <b>when</b> (thời điểm) — <i>the man <b>whose</b> car was stolen</i>, <i>the day <b>when</b> we met</i>." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Trường hợp", "Cách dùng", "Ví dụ"],
+          "rows": [
+            ["Người — chủ ngữ", "<code>who / that</code>, KHÔNG bỏ được", "The man who called me is my boss."],
+            ["Người — tân ngữ", "<code>who(m) / that</code>, bỏ được", "The man (who) I met is my boss."],
+            ["Vật — chủ ngữ", "<code>which / that</code>, KHÔNG bỏ được", "The book which is on the table…"],
+            ["Vật — tân ngữ", "<code>which / that</code>, bỏ được", "The book (which) I bought…"],
+            ["Sở hữu", "<code>whose</code> + danh từ", "The man whose car was stolen…"],
+            ["Nơi chốn", "<code>where</code> = in/at which", "The city where I was born…"],
+            ["Thời điểm", "<code>when</code> = on/at which", "The day when we met…"],
+            ["Lý do", "<code>why</code> = for which", "The reason why I called…"],
+            ["Có giới từ — văn nói", "Giới từ xuống cuối", "The man (who) I talked to…"],
+            ["Có giới từ — trang trọng", "Giới từ + <code>whom/which</code>", "The man to whom I talked…"],
+            ["Mệnh đề bổ sung (có phẩy)", "Chỉ <code>who/which</code>, KHÔNG dùng <code>that</code>", "My boss, who is 40, …"],
+            ["Nói về cả câu trước", "<code>, which</code>", "He was late, which annoyed me."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Hai dòng cuối rất hay sai:</b> khi có <b>dấu phẩy</b> (mệnh đề chỉ bổ sung thông tin, bỏ đi câu vẫn đủ nghĩa) thì <b>không được dùng <i>that</i></b> và <b>không được bỏ</b> đại từ quan hệ.<br><i>My boss, <b>that</b> is 40, …</i> ✗ → <i>My boss, <b>who</b> is 40, …</i> ✓" },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "The man who called me is my boss.", "vi": "Người gọi tôi là sếp tôi.", "note": "<b>who</b> làm CHỦ NGỮ nên không bỏ được." },
+            { "en": "The man I met yesterday is my boss.", "vi": "Người tôi gặp hôm qua là sếp tôi.", "note": "<b>who</b> làm tân ngữ nên bỏ được. <i>who I met him</i> ✗." },
+            { "en": "The book which I bought was expensive.", "vi": "Quyển sách tôi mua đắt lắm.", "note": "BẪY SỐ MỘT: <i>which I bought it</i> ✗." },
+            { "en": "This is the city where I was born.", "vi": "Đây là thành phố tôi sinh ra.", "note": "<b>where</b> thay cho <i>in which</i>." },
+            { "en": "That's the man whose car was stolen.", "vi": "Kia là người bị mất xe.", "note": "<b>whose</b> + danh từ, không có mạo từ ở giữa." },
+            { "en": "I remember the day when we met.", "vi": "Tôi nhớ ngày chúng ta gặp nhau.", "note": "<b>when</b> cho thời điểm." },
+            { "en": "The man I talked to is my neighbour.", "vi": "Người tôi nói chuyện cùng là hàng xóm tôi.", "note": "Giới từ <b>to</b> ở cuối — cách nói tự nhiên. Xem [Ngữ pháp 42]." },
+            { "en": "My boss, who is 40, lives nearby.", "vi": "Sếp tôi, năm nay 40 tuổi, sống gần đây.", "note": "Có phẩy thì KHÔNG dùng <i>that</i> và không bỏ được <i>who</i>." },
+            { "en": "He was late, which annoyed me.", "vi": "Anh ấy đến muộn, chuyện đó làm tôi bực.", "note": "<b>, which</b> nói về CẢ câu trước đó." },
+            { "en": "Is there anything I can do?", "vi": "Có gì tôi giúp được không?", "note": "Sau <i>anything/everything</i> thường bỏ luôn đại từ quan hệ. Xem [Khung 100]." },
+            { "en": "That's the one I'm looking for.", "vi": "Đó chính là cái tôi đang tìm.", "note": "Xem [Khung 4]." },
+            { "en": "The woman who lives next door is a doctor.", "vi": "Người phụ nữ sống cạnh nhà tôi là bác sĩ.", "note": "<b>who</b> làm chủ ngữ — ngay sau nó là ĐỘNG TỪ nên phải giữ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "👤", "title": "Chỉ rõ người nào", "text": "<i>the man who called me</i> — phân biệt với người khác." },
+            { "icon": "📦", "title": "Chỉ rõ vật nào", "text": "<i>the book I bought</i> — bỏ <i>which</i> cho gọn." },
+            { "icon": "📍", "title": "Nói về nơi chốn", "text": "<i>the city where I was born</i>" },
+            { "icon": "🧩", "title": "Gộp hai câu ngắn", "text": "Tránh lặp danh từ hai lần liên tiếp." },
+            { "icon": "💬", "title": "Thêm thông tin phụ", "text": "<i>My boss, who is 40, …</i> — có dấu phẩy." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Đừng giữ lại <i>him/it</i> sau khi đã có <i>who/which</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một mục ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi mục đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Đại từ quan hệ",
+              "items": [
+                { "w": "who", "vi": "người mà", "ex": "The man who called me is my boss.", "exvi": "Người gọi tôi là sếp tôi.", "note": "Làm CHỦ NGỮ thì không bỏ được — sau nó là động từ." },
+                { "w": "who (tân ngữ)", "vi": "người mà", "ex": "The man who I met is my boss.", "exvi": "Người tôi gặp là sếp tôi.", "note": "BẪY SỐ MỘT: <i>who I met him</i> ✗. Bỏ hẳn <i>who</i> cũng được." },
+                { "w": "whom", "vi": "người mà (tân ngữ, trang trọng)", "ex": "The man to whom I talked…", "exvi": "Người mà tôi đã nói chuyện cùng…", "note": "Chỉ dùng khi có giới từ đứng trước. Văn nói dùng <i>who … to</i>." },
+                { "w": "which", "vi": "cái mà", "ex": "The book which I bought was expensive.", "exvi": "Quyển sách tôi mua đắt lắm.", "note": "<i>which I bought it</i> ✗." },
+                { "w": "that", "vi": "mà (người lẫn vật)", "ex": "The man that called me…", "exvi": "Người gọi tôi…", "note": "Dùng được cho cả hai, nhưng KHÔNG dùng sau dấu phẩy." },
+                { "w": "whose", "vi": "của người mà", "ex": "That's the man whose car was stolen.", "exvi": "Kia là người bị mất xe.", "note": "Ngay sau <b>whose</b> là danh từ, không có <i>the</i>." },
+                { "w": "where", "vi": "nơi mà", "ex": "This is the city where I was born.", "exvi": "Đây là thành phố tôi sinh ra.", "note": "= <i>in which</i>. Sau <b>where</b> là câu đầy đủ." },
+                { "w": "when", "vi": "khi mà", "ex": "I remember the day when we met.", "exvi": "Tôi nhớ ngày chúng ta gặp nhau." },
+                { "w": "why", "vi": "lý do mà", "ex": "That's the reason why I called.", "exvi": "Đó là lý do tôi gọi." },
+                { "w": ", which", "vi": "chuyện đó", "ex": "He was late, which annoyed me.", "exvi": "Anh ấy muộn, chuyện đó làm tôi bực.", "note": "Nói về CẢ câu trước, không phải một danh từ." },
+                { "w": "the one that", "vi": "cái mà", "ex": "That's the one I'm looking for.", "exvi": "Đó chính là cái tôi đang tìm. Xem [Khung 4]." },
+                { "w": "the person who", "vi": "người mà", "ex": "She's the person who helped me.", "exvi": "Cô ấy là người đã giúp tôi." }
+              ]
+            },
+            {
+              "title": "Danh từ hay đứng trước mệnh đề quan hệ",
+              "items": [
+                { "w": "the man", "vi": "người đàn ông", "ex": "The man I met yesterday called again.", "exvi": "Người tôi gặp hôm qua lại gọi." },
+                { "w": "the thing", "vi": "điều, thứ", "ex": "The thing I like most is the food.", "exvi": "Thứ tôi thích nhất là đồ ăn." },
+                { "w": "anything", "vi": "bất cứ gì", "ex": "Is there anything I can do?", "exvi": "Có gì tôi giúp được không?", "note": "Sau <i>anything</i> gần như luôn BỎ đại từ quan hệ." },
+                { "w": "everything", "vi": "mọi thứ", "ex": "Everything you said was right.", "exvi": "Mọi điều bạn nói đều đúng." },
+                { "w": "something", "vi": "cái gì đó", "ex": "There's something I want to ask.", "exvi": "Có chuyện này tôi muốn hỏi." },
+                { "w": "the only thing", "vi": "điều duy nhất", "ex": "The only thing that matters is health.", "exvi": "Điều duy nhất quan trọng là sức khỏe.", "note": "Sau <i>the only</i> và dạng so sánh nhất thì thường dùng <b>that</b>." },
+                { "w": "the best thing", "vi": "điều tuyệt nhất", "ex": "The best thing that happened to me…", "exvi": "Điều tuyệt nhất từng đến với tôi…" },
+                { "w": "the place", "vi": "nơi", "ex": "This is the place where we first met.", "exvi": "Đây là nơi chúng ta gặp nhau lần đầu." },
+                { "w": "the reason", "vi": "lý do", "ex": "That's the reason why I left.", "exvi": "Đó là lý do tôi nghỉ." },
+                { "w": "the way", "vi": "cách mà", "ex": "I like the way you explain things.", "exvi": "Tôi thích cách bạn giải thích.", "note": "Sau <i>the way</i> KHÔNG dùng <i>how</i>: <i>the way how</i> ✗." },
+                { "w": "someone", "vi": "ai đó", "ex": "I know someone who can help.", "exvi": "Tôi biết một người giúp được." },
+                { "w": "there is/are", "vi": "có", "ex": "There's a man who wants to see you.", "exvi": "Có một người muốn gặp bạn. Xem [Khung 100]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "The man <b>who</b> I met <b>him</b> yesterday…", "right": "The man <b>who</b> I met yesterday…", "why": "BẪY SỐ MỘT: <i>who</i> đã thay chỗ cho <i>him</i>. Giữ cả hai là thừa." },
+            { "wrong": "The book <b>which</b> I bought <b>it</b>…", "right": "The book <b>which</b> I bought…", "why": "Cùng một lỗi với vật — bỏ hẳn <i>it</i>." },
+            { "wrong": "The city <b>where</b> I was born <b>there</b>…", "right": "The city <b>where</b> I was born…", "why": "<i>where</i> đã chứa nghĩa “ở đó” rồi." },
+            { "wrong": "The man <b>called</b> me is my boss.", "right": "The man <b>who called</b> me is my boss.", "why": "BẪY SỐ HAI: làm CHỦ NGỮ thì không bỏ được, bỏ đi thành câu khác hẳn." },
+            { "wrong": "My boss, <b>that</b> is 40, lives nearby.", "right": "My boss, <b>who</b> is 40, lives nearby.", "why": "Sau dấu phẩy KHÔNG dùng <i>that</i>." },
+            { "wrong": "My boss, is 40, lives nearby.", "right": "My boss, <b>who</b> is 40, lives nearby.", "why": "Sau dấu phẩy cũng KHÔNG bỏ được đại từ quan hệ." },
+            { "wrong": "The man <b>which</b> called me…", "right": "The man <b>who</b> called me…", "why": "<b>which</b> chỉ dùng cho vật, không dùng cho người." },
+            { "wrong": "That's the man <b>whose his car</b> was stolen.", "right": "That's the man <b>whose car</b> was stolen.", "why": "<b>whose</b> đã là sở hữu rồi, không thêm <i>his</i>." },
+            { "wrong": "I like <b>the way how</b> you explain things.", "right": "I like <b>the way</b> you explain things.", "why": "<i>the way how</i> ✗ — chọn một trong hai, thường bỏ <i>how</i>." },
+            { "wrong": "This is the city <b>which</b> I was born.", "right": "This is the city <b>where</b> I was born.", "why": "Thiếu giới từ. Hoặc <b>where</b>, hoặc <i>which I was born <b>in</b></i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>who</code> / <code>which</code>", "Người / vật", "the man who ≠ the book which"],
+            ["<code>who</code> / <code>whose</code>", "Chủ ngữ / sở hữu", "the man who called ≠ the man whose car"],
+            ["<code>where</code> / <code>which</code>", "Nơi chốn / cần thêm giới từ", "the city where I was born"],
+            ["Có phẩy / không phẩy", "Bổ sung / xác định", "My boss, who is 40 ≠ The man who called"],
+            ["<code>that</code> sau phẩy", "KHÔNG dùng được", "My boss, that is 40 ✗"],
+            ["Bỏ được / không bỏ", "Tân ngữ / chủ ngữ", "the man (who) I met ≠ the man who called"],
+            ["<code>, which</code>", "Nói về cả câu trước", "He was late, which annoyed me."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng từ nào, có bỏ được không?" },
+        {
+          "t": "tree",
+          "q": "Bạn muốn gắn một mệnh đề mô tả vào sau danh từ — chọn thế nào?",
+          "nodes": [
+            { "if": "Danh từ là NGƯỜI", "then": "who (hoặc that)", "ex": "the man who called me" },
+            { "if": "Danh từ là VẬT hoặc sự việc", "then": "which (hoặc that)", "ex": "the book which I bought" },
+            { "if": "Danh từ là NƠI CHỐN", "then": "where", "ex": "the city where I was born" },
+            { "if": "Ngay sau nó là ĐỘNG TỪ", "then": "Đó là chủ ngữ — KHÔNG bỏ được", "ex": "the man who called me" },
+            { "if": "Ngay sau nó là CHỦ NGỮ MỚI", "then": "Đó là tân ngữ — bỏ được", "ex": "the man (who) I met" },
+            { "if": "Có dấu phẩy trước mệnh đề", "then": "Chỉ who/which, không bỏ, không dùng that", "ex": "My boss, who is 40, …" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ trang trọng khi có giới từ" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "The man I talked to.", "vi": "Thân mật nhất — bỏ hẳn đại từ" },
+            { "en": "The man that I talked to.", "vi": "Thân mật" },
+            { "en": "The man who I talked to.", "vi": "Trung tính" },
+            { "en": "The man whom I talked to.", "vi": "Hơi trang trọng" },
+            { "en": "The man to whom I talked.", "vi": "Trang trọng nhất — văn viết" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Mệnh đề quan hệ xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 100, "why": "There is / There are + N — There's a man who wants to see you." },
+            { "id": 4, "why": "I'm looking for… — That's the one I'm looking for, bỏ hẳn đại từ quan hệ." },
+            { "id": 73, "why": "This is + người — This is the colleague who helped me." },
+            { "id": 70, "why": "What's + N + like? — mô tả, thường kéo theo mệnh đề quan hệ." },
+            { "id": 66, "why": "What's the difference between A and B? — so sánh hai thứ bằng mệnh đề mô tả." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền who / which / that / where / whose" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Người gọi tôi là sếp tôi.", "blank": "The man __________ called me is my boss.", "a": "who (hoặc that)" },
+            { "vi": "Quyển sách tôi mua đắt lắm.", "blank": "The book __________ I bought was expensive.", "a": "which (hoặc that, hoặc bỏ hẳn)" },
+            { "vi": "Đây là thành phố tôi sinh ra.", "blank": "This is the city __________ I was born.", "a": "where" },
+            { "vi": "Kia là người bị mất xe.", "blank": "That's the man __________ car was stolen.", "a": "whose" },
+            { "vi": "Tôi nhớ ngày chúng ta gặp nhau.", "blank": "I remember the day __________ we met.", "a": "when" },
+            { "vi": "Sếp tôi, năm nay 40 tuổi, sống gần đây.", "blank": "My boss, __________ is 40, lives nearby.", "a": "who — sau phẩy không dùng that" },
+            { "vi": "Anh ấy muộn, chuyện đó làm tôi bực.", "blank": "He was late, __________ annoyed me.", "a": "which" },
+            { "vi": "Người phụ nữ sống cạnh nhà tôi là bác sĩ.", "blank": "The woman __________ lives next door is a doctor.", "a": "who" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn câu đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Người tôi gặp hôm qua là sếp tôi.", "blank": "(a) The man who I met him yesterday…  (b) The man who I met yesterday…", "a": "(b)" },
+            { "vi": "Người gọi tôi là sếp tôi.", "blank": "(a) The man called me is my boss.  (b) The man who called me is my boss.", "a": "(b)" },
+            { "vi": "Sếp tôi, năm nay 40 tuổi, sống gần đây.", "blank": "(a) My boss, that is 40, lives nearby.  (b) My boss, who is 40, lives nearby.", "a": "(b)" },
+            { "vi": "Tôi thích cách bạn giải thích.", "blank": "(a) I like the way how you explain.  (b) I like the way you explain.", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Người tôi gặp hôm qua là sếp tôi.", "a": "The man I met yesterday is my boss." },
+            { "vi": "2. Đây là thành phố tôi sinh ra.", "a": "This is the city where I was born." },
+            { "vi": "3. Có một người muốn gặp bạn.", "a": "There's a man who wants to see you." },
+            { "vi": "4. Mọi điều bạn nói đều đúng.", "a": "Everything you said was right." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật một chỗ:</b> <i>who/which</i> ĐÃ CHIẾM chỗ của <i>him/it</i>. Viết thêm <i>him/it</i> là ngồi hai ghế.",
+            "<b>Mẹo nhìn từ kế bên:</b> sau đại từ quan hệ là <b>động từ</b> → phải giữ · là <b>chủ ngữ mới</b> → bỏ được.",
+            "<b>Có dấu phẩy thì <i>that</i> ra rìa</b> và cũng không bỏ được đại từ quan hệ.",
+            "<b><i>whose</i> không cần bạn giúp:</b> <i>whose car</i>, không bao giờ <i>whose his car</i>.",
+            "<b>Nơi chốn thì chọn <i>where</i></b> hoặc nhớ thêm giới từ: <i>the city which I was born <b>in</b></i>.",
+            "<b>Bài tập 3 phút:</b> lấy năm cặp câu ngắn, gộp mỗi cặp thành một câu có mệnh đề quan hệ rồi thử bỏ đại từ xem có bỏ được không."
+          ]
+        }
+      ]
+    }
+  ]
+}

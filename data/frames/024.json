@@ -1,0 +1,487 @@
+{
+  "id": 24,
+  "group": "Nhóm 3 · Xin phép & Cho phép",
+  "title": "You can… / You may… — Khi bạn là người cho phép",
+  "subtitle": "Ba khung trước là xin phép; khung này đảo chiều — bạn là người trao quyền. Đây là chỗ dễ vấp nhất về sắc thái: dùng “You may” với cấp trên thì hóa ra bạn đang ban phép cho họ, nghe rất trịch thượng dù từ ngữ có vẻ lịch sự.",
+  "pattern": [
+    "You can <em>+ V (không “to”)</em>",
+    "You may <em>+ V</em>",
+    "You're welcome to <em>+ V</em>"
+  ],
+  "meaning": "Bạn có thể… / Bạn cứ… (cho phép, mời mọc)",
+  "grammar": [29, 30],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: tùy mức chọn" },
+    { "text": "Bẫy: dùng sai hướng thành trịch thượng" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">You can…</span> làm hai việc rất khác nhau. Một là <b>cho phép</b>: <i>You can leave early today.</i> Hai là <b>nêu khả năng</b>: <i>You can get there by bus.</i> — câu thứ hai không cho phép gì cả, chỉ đang chỉ đường." },
+        { "t": "p", "html": "<span class=\"k\">You may…</span> thì chỉ có nghĩa <b>cho phép</b>, và mang tính trang trọng. Nó sống chủ yếu trong thông báo, biển báo, và lời nhân viên nói với khách: <i>You may collect your order at the counter.</i>" },
+        { "t": "p", "html": "Đây là chỗ cần cẩn thận nhất: cho phép ai đó nghĩa là bạn đang ở <b>vị trí cao hơn</b> họ. Nói <i>You may sit down</i> với sếp thì dù từ ngữ lịch sự, ý nghĩa lại là bạn đang ban phép — nghe rất trịch thượng. Với người trên, hãy dùng <span class=\"k\">Please do</span>, <span class=\"k\">Of course</span> hoặc <span class=\"k\">Feel free to…</span>" },
+        { "t": "callout", "html": "<b>Quy tắc hướng:</b> cho phép luôn đi từ <b>trên xuống</b> hoặc <b>ngang hàng</b>. Với người trên, đừng cho phép — hãy <b>mời</b>: <i>Please do.</i> / <i>Of course, go ahead.</i>" },
+        { "t": "h3", "text": "Cùng là đồng ý, bốn cách nói khác nhau" },
+        {
+          "t": "table",
+          "head": ["Câu trả lời", "Sắc thái", "Nói với ai"],
+          "rows": [
+            ["<code>You can sit here.</code>", "Cho phép, thân mật", "Ngang hàng hoặc dưới"],
+            ["<code>You may sit here.</code>", "Cho phép, trang trọng", "Khách, người lạ — từ vị trí nhân viên"],
+            ["<code>You're welcome to sit here.</code>", "Mời mọc, ấm áp", "Ai cũng được"],
+            ["<code>Please do. / Of course.</code>", "Đồng ý, không ban phép", "An toàn nhất, kể cả với cấp trên"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "✅", "title": "Trả lời khi ai đó xin phép", "text": "<i>“Can I sit here?” — “Yes, you can.”</i> Nhưng tự nhiên hơn là <i>Go ahead.</i>" },
+            { "icon": "📢", "title": "Thông báo, hướng dẫn", "text": "<i>You may collect your order at the counter.</i> Đây là nơi <i>may</i> sống khỏe nhất." },
+            { "icon": "👔", "title": "Quản lý nói với nhân viên", "text": "<i>You can take Friday off.</i> Cho phép từ trên xuống — hoàn toàn tự nhiên." },
+            { "icon": "🗺", "title": "Nêu khả năng, chỉ cách", "text": "<i>You can get there by bus.</i> Không phải cho phép — chỉ là gợi ý cách làm." },
+            { "icon": "🏠", "title": "Chủ nhà mời khách", "text": "<i>You're welcome to stay as long as you like.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Nói <i>You may…</i> với sếp hoặc khách quý — hóa ra bạn đang ban phép cho họ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cho phép, thân mật", "<code>You can + V</code>", "You can leave early today."],
+            ["Cho phép, trang trọng", "<code>You may + V</code>", "You may collect it at the counter."],
+            ["Mời mọc, ấm áp", "<code>You're welcome to + V</code>", "You're welcome to join us."],
+            ["Cho phép thoải mái", "<code>Feel free to + V</code>", "Feel free to ask questions."],
+            ["Nêu khả năng", "<code>You can + V</code>", "You can get there by bus."],
+            ["Từ chối nhẹ", "<code>I'm afraid you can't + V</code>", "I'm afraid you can't park there."],
+            ["Cho phép có điều kiện", "<code>You can…, as long as…</code>", "You can borrow it, as long as you bring it back."],
+            ["Nhấn mạnh sự tự do", "<code>You can do whatever you like</code>", "You can do whatever works for you."],
+            ["Trang trọng, văn bản", "<code>You are permitted to + V</code>", "You are permitted to bring one bag."],
+            ["Trả lời không ban phép", "<code>Please do. / Of course.</code>", "“May I join you?” — “Please do.”"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp:</b> sau <i>can / may</i> là <b>động từ nguyên thể KHÔNG “to”</b>. <span class=\"k\">You can go.</span> ✓ — <i>You can to go.</i> ✗ Nhưng <i>You're welcome <b>to</b> go</i> thì lại có <i>to</i> — vì đó là cấu trúc khác." },
+        { "t": "callout", "html": "<b>Đừng trả lời cụt “Yes, you can”:</b> nghe hơi kẻ cả. Trong đời thường, người bản xứ đáp <span class=\"k\">Go ahead.</span> / <span class=\"k\">Of course.</span> / <span class=\"k\">Sure.</span> Xem [Khung 29]." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “You can…”",
+              "items": [
+                { "w": "go ahead", "vi": "cứ tiếp tục, cứ làm đi", "ex": "You can go ahead and start without me.", "exvi": "Bạn cứ bắt đầu trước, không cần chờ tôi.", "note": "Xem đầy đủ ở [Khung 29]." },
+                { "w": "take", "vi": "lấy, nghỉ", "ex": "You can take Friday off.", "exvi": "Thứ Sáu em nghỉ được.", "note": "<i>take a day off</i> = nghỉ một ngày." },
+                { "w": "use", "vi": "dùng", "ex": "You can use my desk while I'm away.", "exvi": "Tôi đi vắng thì bạn cứ dùng bàn của tôi." },
+                { "w": "leave", "vi": "về, rời đi", "ex": "You can leave as soon as you're finished.", "exvi": "Xong việc là em về được." },
+                { "w": "start", "vi": "bắt đầu", "ex": "You can start whenever you're ready.", "exvi": "Khi nào bạn sẵn sàng thì bắt đầu." },
+                { "w": "sit", "vi": "ngồi", "ex": "You can sit anywhere you like.", "exvi": "Bạn ngồi đâu cũng được." },
+                { "w": "help yourself", "vi": "cứ tự nhiên dùng", "ex": "You can help yourself to anything in the fridge.", "exvi": "Có gì trong tủ lạnh bạn cứ tự nhiên." },
+                { "w": "keep", "vi": "giữ lại", "ex": "You can keep it — I have another one.", "exvi": "Bạn giữ lấy đi — mình còn cái khác." },
+                { "w": "borrow", "vi": "mượn", "ex": "You can borrow my charger if you need it.", "exvi": "Cần thì bạn mượn cục sạc của mình." },
+                { "w": "pay", "vi": "thanh toán", "ex": "You can pay at the counter.", "exvi": "Anh/chị thanh toán ở quầy ạ." },
+                { "w": "call", "vi": "gọi điện", "ex": "You can call me any time.", "exvi": "Lúc nào bạn cũng gọi mình được." },
+                { "w": "come", "vi": "đến", "ex": "You can come whenever suits you.", "exvi": "Khi nào tiện thì bạn đến." },
+                { "w": "bring", "vi": "mang theo, dẫn theo", "ex": "You can bring a friend if you want.", "exvi": "Muốn thì bạn dẫn theo bạn bè cũng được." },
+                { "w": "park", "vi": "đỗ xe", "ex": "You can park round the back.", "exvi": "Anh/chị đỗ xe phía sau ạ." },
+                { "w": "stay", "vi": "ở lại", "ex": "You can stay as long as you like.", "exvi": "Bạn ở lại bao lâu cũng được." },
+                { "w": "try", "vi": "thử", "ex": "You can try it on if you like.", "exvi": "Anh/chị muốn thì cứ thử ạ." },
+                { "w": "ask", "vi": "hỏi", "ex": "You can ask me anything.", "exvi": "Bạn hỏi gì cũng được." },
+                { "w": "choose", "vi": "chọn", "ex": "You can choose either one.", "exvi": "Anh/chị chọn cái nào cũng được ạ." },
+                { "w": "return", "vi": "trả lại", "ex": "You can return it within thirty days.", "exvi": "Trong ba mươi ngày anh/chị trả lại được ạ." },
+                { "w": "collect", "vi": "nhận, lấy", "ex": "You can collect it tomorrow after ten.", "exvi": "Sau mười giờ mai anh/chị đến lấy ạ.", "note": "Anh-Mỹ hay nói <i>pick it up</i>." }
+              ]
+            },
+            {
+              "title": "Câu hoàn chỉnh nên thuộc lòng",
+              "items": [
+                { "w": "You can go ahead.", "vi": "bạn cứ làm đi", "ex": "You can go ahead — I'll catch up.", "exvi": "Bạn cứ đi trước — tôi đuổi theo sau." },
+                { "w": "You can take Friday off.", "vi": "thứ Sáu em nghỉ được", "ex": "That's fine — you can take Friday off.", "exvi": "Không sao — thứ Sáu em nghỉ được." },
+                { "w": "You can sit anywhere you like.", "vi": "bạn ngồi đâu cũng được", "ex": "It's not busy — you can sit anywhere you like.", "exvi": "Quán vắng mà — anh/chị ngồi đâu cũng được ạ." },
+                { "w": "You can help yourself.", "vi": "bạn cứ tự nhiên", "ex": "There's tea in the kitchen — you can help yourself.", "exvi": "Có trà trong bếp — bạn cứ tự nhiên nhé." },
+                { "w": "You're welcome to join us.", "vi": "mời bạn tham gia cùng", "ex": "We're going for lunch — you're welcome to join us.", "exvi": "Bọn mình đi ăn trưa — mời bạn đi cùng.", "note": "Ấm áp hơn <i>You can join us</i> — nghe như mời chứ không phải cho phép." },
+                { "w": "You can pay at the counter.", "vi": "anh/chị thanh toán ở quầy", "ex": "You can pay at the counter when you're ready.", "exvi": "Khi nào xong anh/chị thanh toán ở quầy ạ." },
+                { "w": "You may collect your order at…", "vi": "anh/chị nhận hàng tại…", "ex": "You may collect your order at counter three.", "exvi": "Anh/chị nhận hàng tại quầy số ba ạ.", "note": "Dạng thông báo trang trọng — nghe quen ở sân bay, cửa hàng." },
+                { "w": "I'm afraid you can't…", "vi": "e là bạn không thể…", "ex": "I'm afraid you can't park there — it's reserved.", "exvi": "E là anh/chị không đỗ ở đó được — chỗ đó đã có người đặt.", "note": "Từ chối lịch sự. Xem [Khung 28]." },
+                { "w": "You can…, as long as…", "vi": "bạn… được, miễn là…", "ex": "You can borrow it, as long as you bring it back tomorrow.", "exvi": "Bạn mượn được, miễn là mai mang trả.", "note": "Cho phép có điều kiện — rất hay dùng ở chỗ làm." },
+                { "w": "You can do whatever works for you.", "vi": "bạn làm sao tiện cho bạn cũng được", "ex": "Morning or afternoon — you can do whatever works for you.", "exvi": "Sáng hay chiều — bạn làm sao tiện thì làm." }
+              ]
+            },
+            {
+              "title": "Cách nói thay thế & từ chối",
+              "items": [
+                { "w": "Feel free to…", "vi": "cứ tự nhiên…", "ex": "Feel free to ask if anything's unclear.", "exvi": "Chỗ nào chưa rõ bạn cứ hỏi nhé.", "note": "Mềm hơn <i>You can</i> — không có vị thế trên dưới. Xem [Khung 25]." },
+                { "w": "Please do", "vi": "bạn cứ làm đi", "ex": "“May I ask a question?” — “Please do.”", "exvi": "“Tôi hỏi một câu được không?” — “Mời anh/chị.”", "note": "An toàn nhất khi trả lời người TRÊN — không ban phép mà mời mọc." },
+                { "w": "Of course", "vi": "tất nhiên rồi", "ex": "“Can I take this?” — “Of course.”", "exvi": "“Tôi lấy cái này được không?” — “Tất nhiên rồi.”" },
+                { "w": "Go ahead", "vi": "cứ tự nhiên", "ex": "“Mind if I sit here?” — “Go ahead.”", "exvi": "“Tôi ngồi đây nhé?” — “Bạn cứ ngồi.”", "note": "Tự nhiên nhất trong đời thường. Xem [Khung 29]." },
+                { "w": "You're not allowed to…", "vi": "bạn không được phép…", "ex": "You're not allowed to eat in here.", "exvi": "Trong này không được ăn uống.", "note": "Đổ cho quy định thay vì cho bản thân bạn. Xem [Khung 23]." },
+                { "w": "You're not supposed to…", "vi": "bạn không nên…", "ex": "You're not supposed to park there, actually.", "exvi": "Thật ra chỗ đó không được đỗ xe đâu.", "note": "Nhắc nhở nhẹ nhất trong nhóm. Xem [Khung 27]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "That's fine — you can take Friday off.",
+                  "vi": "Không sao — thứ Sáu em nghỉ được.",
+                  "note": "Cho phép từ trên xuống — hoàn toàn tự nhiên. Nếu bạn ở vị trí thấp hơn thì đừng nói câu này.",
+                  "reply": [
+                    { "them": "Thank you, I really appreciate it.", "themvi": "Cảm ơn anh/chị, em rất cảm kích.", "you": "Just make sure the handover's done.", "youvi": "Chỉ cần bàn giao xong là được." }
+                  ],
+                  "vars": [
+                    { "en": "You can leave as soon as you're finished.", "vi": "Xong việc là em về được." },
+                    { "en": "You can work from home tomorrow if it helps.", "vi": "Mai em làm ở nhà cũng được nếu tiện hơn." }
+                  ],
+                  "close": { "en": "Let me know if anything changes.", "vi": "Có gì thay đổi thì báo tôi nhé." }
+                },
+                {
+                  "en": "You can borrow it, as long as you bring it back tomorrow.",
+                  "vi": "Bạn mượn được, miễn là mai mang trả.",
+                  "note": "<span class=\"k\">as long as</span> — cho phép kèm điều kiện. Rõ ràng mà không nghe như đang nghi ngờ ai.",
+                  "reply": [
+                    { "them": "Deal. I'll drop it at your desk.", "themvi": "Chốt. Mai mình để ở bàn bạn.", "you": "Perfect, thanks.", "youvi": "Tuyệt, cảm ơn nhé." }
+                  ]
+                },
+                {
+                  "en": "You're welcome to join us for the client call.",
+                  "vi": "Mời bạn tham gia cuộc gọi với khách hàng cùng chúng tôi.",
+                  "note": "<i>You're welcome to</i> nghe như MỜI chứ không phải cho phép — dùng được cả với người ngang hàng và trên.",
+                  "open": { "en": "It might be useful for you —", "vi": "Việc này có thể hữu ích với bạn —" },
+                  "reply": [
+                    { "them": "I'd like that, thank you.", "themvi": "Tôi rất muốn, cảm ơn anh/chị.", "you": "I'll forward you the invite.", "youvi": "Tôi sẽ chuyển tiếp lời mời cho bạn." }
+                  ]
+                },
+                {
+                  "en": "You can do whatever works for you — morning or afternoon.",
+                  "vi": "Bạn làm sao tiện thì làm — sáng hay chiều đều được.",
+                  "note": "Trao toàn quyền chọn. Câu này rất được lòng người khi sắp lịch.",
+                  "reply": [
+                    { "them": "Afternoon is easier for me.", "themvi": "Buổi chiều tôi tiện hơn.", "you": "Afternoon it is.", "youvi": "Vậy chốt buổi chiều." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "You can pay at the counter when you're ready.",
+                  "vi": "Khi nào xong anh/chị thanh toán ở quầy ạ.",
+                  "note": "Câu nhân viên hay nói. Nghe quen để biết mình cần đi đâu.",
+                  "reply": [
+                    { "them": "Do you take cards?", "themvi": "Bên mình có nhận thẻ không ạ?", "you": "Yes, all major cards.", "youvi": "Có ạ, tất cả các loại thẻ phổ biến." }
+                  ]
+                },
+                {
+                  "en": "You can return it within thirty days with the receipt.",
+                  "vi": "Trong ba mươi ngày có biên lai là anh/chị trả lại được ạ.",
+                  "reply": [
+                    { "them": "And without the receipt?", "themvi": "Còn không có biên lai thì sao ạ?", "you": "Then it's store credit only.", "youvi": "Khi đó chỉ đổi phiếu mua hàng thôi ạ." }
+                  ],
+                  "vars": [
+                    { "en": "You can exchange it for a different size.", "vi": "Anh/chị đổi sang cỡ khác được ạ." }
+                  ]
+                },
+                {
+                  "en": "You may collect your order at counter three.",
+                  "vi": "Anh/chị nhận hàng tại quầy số ba ạ.",
+                  "note": "Dạng thông báo trang trọng. <i>may</i> hoàn toàn đúng chỗ ở đây vì nhân viên đang hướng dẫn khách.",
+                  "reply": [
+                    { "them": "Counter three, thank you.", "themvi": "Quầy số ba, cảm ơn bạn.", "you": "It should be ready in five minutes.", "youvi": "Khoảng năm phút nữa là xong ạ." }
+                  ]
+                },
+                {
+                  "en": "I'm afraid you can't use both offers together.",
+                  "vi": "E là anh/chị không dùng cả hai ưu đãi cùng lúc được ạ.",
+                  "note": "Từ chối lịch sự. <i>I'm afraid</i> ở đầu làm câu mềm đi rất nhiều. Xem [Khung 28].",
+                  "reply": [
+                    { "them": "Which one is better value?", "themvi": "Cái nào lợi hơn ạ?", "you": "The sale price, in your case.", "youvi": "Với trường hợp của anh/chị thì giá khuyến mãi lợi hơn ạ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "There's tea in the kitchen — you can help yourself.",
+                  "vi": "Có trà trong bếp — bạn cứ tự nhiên nhé.",
+                  "note": "Chủ nhà nói với khách. <i>help yourself</i> là cụm cố định, không đổi được.",
+                  "reply": [
+                    { "them": "Thanks! Where are the cups?", "themvi": "Cảm ơn nhé! Cốc ở đâu vậy?", "you": "Top cupboard on the left.", "youvi": "Tủ trên bên trái ấy." }
+                  ],
+                  "close": { "en": "Just make yourself at home.", "vi": "Cứ tự nhiên như ở nhà nhé." }
+                },
+                {
+                  "en": "You can stay as long as you like.",
+                  "vi": "Bạn ở lại bao lâu cũng được.",
+                  "reply": [
+                    { "them": "Are you sure? I don't want to impose.", "themvi": "Bạn chắc chứ? Mình không muốn làm phiền.", "you": "Not at all — it's nice having you here.", "youvi": "Không hề — có bạn ở đây vui mà." }
+                  ]
+                },
+                {
+                  "en": "You can call me any time, day or night.",
+                  "vi": "Lúc nào bạn cũng gọi mình được, ngày hay đêm cũng vậy.",
+                  "note": "Câu rất ấm khi ai đó đang gặp khó khăn — trao quyền chủ động cho họ.",
+                  "reply": [
+                    { "them": "That means a lot, thank you.", "themvi": "Điều đó ý nghĩa lắm, cảm ơn bạn.", "you": "I mean it. Any time.", "youvi": "Mình nói thật đấy. Lúc nào cũng được." }
+                  ]
+                },
+                {
+                  "en": "You can bring a friend if you want.",
+                  "vi": "Muốn thì bạn dẫn theo bạn bè cũng được.",
+                  "reply": [
+                    { "them": "Great — is two OK?", "themvi": "Tuyệt — hai người được không?", "you": "Two is fine. I'll book a bigger table.", "youvi": "Hai người cũng được. Mình đặt bàn to hơn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "It's not busy — you can sit anywhere you like.",
+                  "vi": "Quán vắng mà — anh/chị ngồi đâu cũng được ạ.",
+                  "reply": [
+                    { "them": "Is the table by the window free?", "themvi": "Bàn cạnh cửa sổ còn trống không ạ?", "you": "All yours.", "youvi": "Anh/chị cứ ngồi ạ." }
+                  ]
+                },
+                {
+                  "en": "You can choose either side dish with that.",
+                  "vi": "Món đó anh/chị chọn món ăn kèm nào cũng được ạ.",
+                  "reply": [
+                    { "them": "What are the options?", "themvi": "Có những lựa chọn nào ạ?", "you": "Rice, salad or fries.", "youvi": "Cơm, salad hoặc khoai chiên ạ." }
+                  ]
+                },
+                {
+                  "en": "You're welcome to take the rest home.",
+                  "vi": "Phần còn lại mời anh/chị mang về ạ.",
+                  "note": "<i>You're welcome to</i> làm lời mời nghe rất ấm, không có chút kẻ cả nào.",
+                  "reply": [
+                    { "them": "Oh, could I get a box then?", "themvi": "Ồ, vậy cho tôi xin cái hộp nhé?", "you": "Of course, I'll bring one.", "youvi": "Vâng ạ, em mang ra ngay." }
+                  ]
+                },
+                {
+                  "en": "I'm afraid you can't bring outside drinks in.",
+                  "vi": "E là anh/chị không mang đồ uống từ ngoài vào được ạ.",
+                  "reply": [
+                    { "them": "Oh, sorry — I didn't know.", "themvi": "Ồ, xin lỗi — tôi không biết.", "you": "No problem, you can leave it at the front.", "youvi": "Không sao ạ, anh/chị để ở quầy trước cũng được." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "You can get there by bus — the number 8 goes straight there.",
+                  "vi": "Bạn đi xe buýt tới đó được — tuyến số 8 chạy thẳng.",
+                  "note": "Đây là nghĩa <b>khả năng</b>, không phải cho phép. Bạn chỉ đang chỉ cách đi.",
+                  "reply": [
+                    { "them": "How long does it take?", "themvi": "Đi mất bao lâu vậy?", "you": "About twenty minutes.", "youvi": "Khoảng hai mươi phút." }
+                  ],
+                  "vars": [
+                    { "en": "You can walk it in ten minutes.", "vi": "Đi bộ mười phút là tới." }
+                  ]
+                },
+                {
+                  "en": "You can park round the back.",
+                  "vi": "Anh/chị đỗ xe phía sau ạ.",
+                  "reply": [
+                    { "them": "Is it free?", "themvi": "Có mất phí không ạ?", "you": "Free for guests, yes.", "youvi": "Miễn phí cho khách ạ." }
+                  ]
+                },
+                {
+                  "en": "You may leave your bags with reception.",
+                  "vi": "Anh/chị có thể gửi hành lý ở quầy lễ tân ạ.",
+                  "note": "Dạng trang trọng của khách sạn. Nhân viên nói với khách thì <i>may</i> rất hợp.",
+                  "reply": [
+                    { "them": "Until what time?", "themvi": "Đến mấy giờ ạ?", "you": "Until eight this evening.", "youvi": "Đến tám giờ tối ạ." }
+                  ]
+                },
+                {
+                  "en": "You can check in online from 24 hours before.",
+                  "vi": "Trước 24 tiếng là anh/chị làm thủ tục trực tuyến được ạ.",
+                  "reply": [
+                    { "them": "And can I choose my seat?", "themvi": "Tôi chọn chỗ ngồi được không ạ?", "you": "Yes, free of charge.", "youvi": "Được ạ, miễn phí." }
+                  ],
+                  "close": { "en": "Let us know if you need anything else.", "vi": "Cần gì thêm anh/chị cứ báo bên em ạ." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Quản lý duyệt cho nhân viên nghỉ",
+          "lines": [
+            { "speaker": "Colleague", "en": "Is it OK if I take Friday off?", "vi": "Thứ Sáu em nghỉ có được không ạ?" },
+            { "speaker": "You", "me": true, "en": "That's fine — you can take Friday off.", "vi": "Không sao — thứ Sáu em nghỉ được." },
+            { "speaker": "Colleague", "en": "Thank you. Do I need to do anything first?", "vi": "Em cảm ơn. Em có cần làm gì trước không ạ?" },
+            { "speaker": "You", "me": true, "en": "You can hand over to Minh, as long as he knows the details.", "vi": "Em bàn giao cho Minh là được, miễn là cậu ấy nắm được chi tiết." },
+            { "speaker": "Colleague", "en": "I'll brief him Thursday.", "vi": "Thứ Năm em sẽ trao đổi với cậu ấy." },
+            { "speaker": "You", "me": true, "en": "Perfect. And you're welcome to log off early on Thursday too.", "vi": "Tốt. Với lại thứ Năm em cũng có thể nghỉ sớm." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Chủ nhà đón khách ở lại",
+          "lines": [
+            { "speaker": "Guest", "en": "Thanks again for letting me stay.", "vi": "Cảm ơn bạn lần nữa vì cho mình ở nhờ." },
+            { "speaker": "You", "me": true, "en": "Of course. You can stay as long as you like.", "vi": "Có gì đâu. Bạn ở lại bao lâu cũng được." },
+            { "speaker": "Guest", "en": "Where should I put my things?", "vi": "Mình để đồ ở đâu?" },
+            { "speaker": "You", "me": true, "en": "The spare room is yours. You can use any of the drawers.", "vi": "Phòng trống là của bạn. Bạn dùng ngăn kéo nào cũng được." },
+            { "speaker": "Guest", "en": "And if I get hungry later?", "vi": "Lát mình đói thì sao?" },
+            { "speaker": "You", "me": true, "en": "You can help yourself to anything in the fridge. Really.", "vi": "Có gì trong tủ lạnh bạn cứ tự nhiên. Thật đấy." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "You may sit down. <i>(nói với sếp)</i>", "right": "Please, have a seat. / Please do.", "why": "Cho phép nghĩa là bạn ở vị trí cao hơn. Nói vậy với cấp trên thành trịch thượng dù từ ngữ có vẻ lịch sự." },
+            { "wrong": "You can to leave now.", "right": "You can leave now.", "why": "Sau <b>can / may</b> là động từ nguyên thể <b>không “to”</b>." },
+            { "wrong": "You welcome to join us.", "right": "You're welcome to join us.", "why": "Thiếu <b>'re</b> (= are). Đây là cấu trúc <i>be welcome to</i>." },
+            { "wrong": "You're welcome join us.", "right": "You're welcome to join us.", "why": "Cấu trúc này thì LẠI CÓ <b>to</b> — khác với <i>You can join</i>." },
+            { "wrong": "“Can I sit here?” — “Yes, you can.”", "right": "“Can I sit here?” — “Go ahead.”", "why": "<i>Yes, you can</i> nghe hơi kẻ cả trong đời thường. Xem [Khung 29]." },
+            { "wrong": "You cannot park here. <i>(nói với khách)</i>", "right": "I'm afraid you can't park here.", "why": "<i>You cannot</i> rất cứng. Thêm <b>I'm afraid</b> là câu mềm hẳn. Xem [Khung 28]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>You can + V</code>", "Cho phép thân mật, hoặc nêu khả năng", "<i>You can leave early.</i>"],
+            ["<code>You may + V</code>", "Cho phép trang trọng — thông báo, dịch vụ", "<i>You may collect it here.</i>"],
+            ["<code>You're welcome to + V</code>", "Mời mọc, ấm áp — không có trên dưới", "<i>You're welcome to join us.</i>"],
+            ["<code>Feel free to + V</code>", "Cho phép thoải mái, nhẹ nhất", "<i>Feel free to ask.</i> — Xem [Khung 25]."],
+            ["<code>Go ahead</code>", "Đồng ý ngắn gọn, tự nhiên nhất", "<i>Go ahead.</i> — Xem [Khung 29]."],
+            ["<code>You don't have to + V</code>", "Không bắt buộc — khác hẳn cho phép", "<i>You don't have to come.</i> — Xem [Khung 26]."],
+            ["<code>I'm afraid you can't + V</code>", "Từ chối lịch sự", "<i>I'm afraid you can't park there.</i> — Xem [Khung 28]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — đồng ý cho ai đó ngồi cùng" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Yes, you can.", "vi": "Hơi kẻ cả — tránh" },
+            { "en": "Sure. / Go ahead.", "vi": "Tự nhiên — đời thường" },
+            { "en": "Of course, please do.", "vi": "Lịch sự — an toàn mọi nơi" },
+            { "en": "You're welcome to sit here.", "vi": "Ấm áp — mời mọc" },
+            { "en": "Please, be my guest.", "vi": "Nồng nhiệt nhất" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>can</b> ở đây thường được <b>nhấn nhẹ</b> vì nó mang nghĩa cho phép — khác với <i>can</i> trong câu hỏi vốn bị giảm thành /kən/.",
+            "<b>You can</b> → “yə-KAN” khi nhấn mạnh sự cho phép, hoặc “yə-kən” khi chỉ nêu khả năng.",
+            "<b>can't</b> = /kɑːnt/ hoặc /kænt/ — <b>luôn được nhấn mạnh</b>. Đây là cách phân biệt khi nghe: nhấn là phủ định.",
+            "<b>You may</b> → “yu-MAY”, nói chậm hơn một chút để tỏ sự trang trọng.",
+            "<b>You're welcome to</b> → “yə-WEL-kəm-tə” — <i>to</i> giảm thành /tə/ rất nhẹ nhưng bắt buộc phải có.",
+            "<b>help yourself</b> → “hel-pjə-SELF”, ba từ dính thành một khối."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "You can help yourself to anything in the fridge.", "vi": "Luyện shadowing: chú ý “help yourself” nói liền thành một khối." },
+            { "en": "I'm afraid you can't park there.", "vi": "Nhấn mạnh vào “can't” — đó là dấu hiệu phủ định khi nghe." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Thứ Sáu em nghỉ được.", "blank": "__________ Friday off.", "a": "You can take" },
+            { "vi": "Mời bạn tham gia cùng chúng tôi.", "blank": "__________ join us.", "a": "You're welcome to (có “to”)" },
+            { "vi": "Có gì trong tủ lạnh bạn cứ tự nhiên.", "blank": "You can __________ to anything in the fridge.", "a": "help yourself" },
+            { "vi": "Bạn mượn được, miễn là mai mang trả.", "blank": "You can borrow it, __________ you bring it back tomorrow.", "a": "as long as" },
+            { "vi": "E là anh/chị không đỗ ở đó được.", "blank": "__________ park there.", "a": "I'm afraid you can't" },
+            { "vi": "Anh/chị nhận hàng tại quầy số ba ạ.", "blank": "__________ your order at counter three.", "a": "You may collect" },
+            { "vi": "“Tôi ngồi đây được không?” — “Bạn cứ ngồi.”", "blank": "“Can I sit here?” — “__________.”", "a": "Go ahead" },
+            { "vi": "Bạn làm sao tiện thì làm.", "blank": "You can do __________ for you.", "a": "whatever works" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Quán vắng mà — anh/chị ngồi đâu cũng được ạ.", "a": "It's not busy — you can sit anywhere you like." },
+            { "vi": "2. Bạn ở lại bao lâu cũng được.", "a": "You can stay as long as you like." },
+            { "vi": "3. Trong ba mươi ngày anh/chị trả lại được ạ.", "a": "You can return it within thirty days." },
+            { "vi": "4. Lúc nào bạn cũng gọi mình được.", "a": "You can call me any time." },
+            { "vi": "5. Phần còn lại mời anh/chị mang về ạ.", "a": "You're welcome to take the rest home." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Kiểm tra hướng trước khi nói:</b> cho phép chỉ đi từ trên xuống hoặc ngang hàng. Với người trên, hãy <b>mời</b> bằng <i>Please do</i> chứ đừng cho phép.",
+            "<b>Đừng đáp cụt “Yes, you can”:</b> trong đời thường hãy nói <i>Go ahead</i>, <i>Of course</i> hoặc <i>Sure</i>.",
+            "<b>Dùng “You're welcome to” khi muốn ấm áp:</b> nó nghe như lời mời chứ không phải sự cho phép, nên dùng được với mọi vị thế.",
+            "<b>Nhớ hai cấu trúc ngược nhau:</b> <i>You can <b>join</b></i> (không to) nhưng <i>You're welcome <b>to join</b></i> (có to).",
+            "<b>Thêm “I'm afraid” khi từ chối:</b> <i>I'm afraid you can't…</i> mềm hơn <i>You cannot…</i> rất nhiều.",
+            "<b>Bài tập 3 phút:</b> nghĩ 5 lời xin phép người khác hay hỏi bạn, và tập trả lời mỗi lời bằng ba cách — <i>Go ahead</i>, <i>You can…</i>, và <i>You're welcome to…</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

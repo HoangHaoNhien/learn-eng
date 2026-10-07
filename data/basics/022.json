@@ -1,0 +1,133 @@
+{
+  "id": 22,
+  "title": "Nói đồ vật nằm ở đâu",
+  "teaches": ["in", "on", "at", "under", "next", "behind", "front", "between", "near", "is", "are", "books", "cats", "keys", "bags", "and", "Hue", "home", "work", "school"],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn nói được vị trí của mọi thứ: <i>The book is <b>on</b> the table</i> · <i>The cat is <b>under</b> the chair</i> — và chỉ đường được cho người khác." },
+        { "t": "p", "html": "Nhắc lại từ bài 04: <b>giới từ</b> là từ chỉ vị trí hoặc thời gian, luôn đứng <b>trước một danh từ</b>." },
+        { "t": "callout", "html": "<b>Ba giới từ quan trọng nhất, nhớ theo độ lớn của không gian:</b><br><br>• <b>in</b> — ở <b>bên trong</b> cái gì đó · <i>in the box</i><br>• <b>on</b> — ở <b>trên bề mặt</b>, có chạm vào · <i>on the table</i><br>• <b>at</b> — ở <b>một điểm</b>, không quan tâm trong hay ngoài · <i>at the door</i><br><br>Đây cũng chính là ba từ dùng cho thời gian ở bài 20–21: <i>at</i> giờ · <i>on</i> ngày · <i>in</i> tháng. Càng cụ thể thì giới từ càng “nhỏ”." }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "Bài 04 — biết giới từ là gì. Bài 07 — <code>is</code> và <code>are</code>, vì nói vị trí hầu như luôn dùng <code>to be</code>." },
+        { "t": "p", "html": "Bài 10 — số ít/số nhiều, vì <i>The book <b>is</b>…</i> nhưng <i>The books <b>are</b>…</i>" },
+        { "t": "link", "items": [
+          { "id": 4, "label": "Bài 04 — giới từ là gì" },
+          { "id": 7, "label": "Bài 07 — is và are" }
+        ] }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "table", "head": ["Luật", "Nghĩa là gì", "Ví dụ"], "rows": [
+          ["<b>1.</b> Giới từ luôn đứng <b>trước danh từ</b>", "Không bao giờ đứng một mình ở cuối", "<i>in <b>the box</b></i>"],
+          ["<b>2.</b> Công thức: <b>S + is/are + giới từ + nơi</b>", "Dùng được cho mọi câu chỉ vị trí", "<i>The cat is under the chair.</i>"],
+          ["<b>3.</b> <b>in</b> trong · <b>on</b> trên bề mặt · <b>at</b> một điểm", "Ba từ cơ bản nhất", "<i>in the bag</i> · <i>on the wall</i> · <i>at the door</i>"]
+        ] },
+        { "t": "h3", "text": "Chín giới từ chỉ vị trí" },
+        { "t": "table", "head": ["Giới từ", "Nghĩa", "Ví dụ"], "rows": [
+          ["<b>in</b>", "ở trong", "<i>The pen is in my bag.</i>"],
+          ["<b>on</b>", "ở trên (có chạm)", "<i>The cup is on the table.</i>"],
+          ["<b>at</b>", "ở tại (một điểm)", "<i>I am at home.</i>"],
+          ["<b>under</b>", "ở dưới", "<i>The cat is under the chair.</i>"],
+          ["<b>next to</b>", "ở cạnh", "<i>The bank is next to the park.</i>"],
+          ["<b>behind</b>", "ở phía sau", "<i>The garden is behind the house.</i>"],
+          ["<b>in front of</b>", "ở phía trước", "<i>A car is in front of my house.</i>"],
+          ["<b>between</b>", "ở giữa HAI cái", "<i>The shop is between the bank and the park.</i>"],
+          ["<b>near</b>", "ở gần", "<i>My house is near the school.</i>"]
+        ] },
+        { "t": "callout", "html": "<b>Ba cụm cố định phải thuộc — KHÔNG có mạo từ:</b><br>• <b>at home</b> — ở nhà <i>(không phải <s>at the home</s>)</i><br>• <b>at work</b> — ở chỗ làm<br>• <b>at school</b> — ở trường<br><br>Vì ở đây ta nói về <b>hoạt động</b> chứ không phải <b>toà nhà</b>. <i>at school</i> = đang đi học; <i>at the school</i> = đang đứng ở toà nhà trường học." }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "in · on · at — ba từ cơ bản" },
+        { "t": "ex", "items": [
+          { "en": "The pen is in my bag.", "vi": "Cây bút ở trong túi tôi.", "note": "<b>in</b> — bên trong, bị bao quanh." },
+          { "en": "The cup is on the table.", "vi": "Cái cốc ở trên bàn.", "note": "<b>on</b> — trên bề mặt, có chạm vào." },
+          { "en": "The clock is on the wall.", "vi": "Đồng hồ ở trên tường.", "note": "<b>on</b> dùng cả cho mặt tường dọc." },
+          { "en": "I am at home.", "vi": "Tôi đang ở nhà.", "note": "<b>at home</b> — không có mạo từ." },
+          { "en": "She is at work.", "vi": "Cô ấy đang ở chỗ làm.", "note": "<b>at work</b> — cụm cố định." },
+          { "en": "The children are at school.", "vi": "Bọn trẻ đang ở trường.", "note": "<b>at school</b> — đang đi học." }
+        ] },
+        { "t": "h3", "text": "under · behind · in front of" },
+        { "t": "ex", "items": [
+          { "en": "The cat is under the chair.", "vi": "Con mèo ở dưới ghế.", "note": "<b>under</b> — phía dưới." },
+          { "en": "My shoes are under the bed.", "vi": "Giày tôi ở dưới gầm giường.", "note": "Số nhiều nên dùng <b>are</b>." },
+          { "en": "The garden is behind the house.", "vi": "Khu vườn ở sau nhà.", "note": "<b>behind</b> — phía sau." },
+          { "en": "A car is in front of my house.", "vi": "Có một chiếc ô tô trước nhà tôi.", "note": "<b>in front of</b> — ba từ, luôn đi cùng nhau." }
+        ] },
+        { "t": "h3", "text": "next to · between · near" },
+        { "t": "ex", "items": [
+          { "en": "The bank is next to the park.", "vi": "Ngân hàng ở cạnh công viên.", "note": "<b>next to</b> — ngay bên cạnh." },
+          { "en": "She sits next to me.", "vi": "Cô ấy ngồi cạnh tôi.", "note": "Sau giới từ dùng <b>me</b> chứ không <i>I</i> — bài 06." },
+          { "en": "The shop is between the bank and the park.", "vi": "Cửa hàng nằm giữa ngân hàng và công viên.", "note": "<b>between</b> cần đúng HAI thứ, nối bằng <b>and</b>." },
+          { "en": "My house is near the school.", "vi": "Nhà tôi gần trường.", "note": "<b>near</b> — gần, không cần <i>to</i>." },
+          { "en": "The station is near here.", "vi": "Nhà ga ở gần đây.", "note": "Câu hay dùng khi chỉ đường." }
+        ] },
+        { "t": "h3", "text": "Hỏi vị trí" },
+        { "t": "ex", "items": [
+          { "en": "Where is my key?", "vi": "Chìa khoá của tôi đâu?", "note": "<b>Where</b> + <b>is</b> + danh từ số ít." },
+          { "en": "Where is the toilet?", "vi": "Nhà vệ sinh ở đâu ạ?", "note": "Câu hỏi hữu dụng nhất khi đi lạ." },
+          { "en": "Where are my shoes?", "vi": "Giày tôi đâu rồi?", "note": "Số nhiều nên dùng <b>are</b>." },
+          { "en": "Where is the bank? — It's next to the park.", "vi": "Ngân hàng ở đâu? — Cạnh công viên.", "note": "Hỏi và đáp đầy đủ." }
+        ] },
+        { "t": "h3", "text": "Đặt cạnh nhau — in hay on hay at" },
+        { "t": "ex", "items": [
+          { "en": "The book is in the bag.", "vi": "Quyển sách ở trong túi.", "note": "Bên trong." },
+          { "en": "The book is on the bag.", "vi": "Quyển sách ở trên cái túi.", "note": "Nằm trên mặt túi — nghĩa khác hẳn." },
+          { "en": "I am in the house.", "vi": "Tôi đang ở trong nhà.", "note": "Nhấn vào việc ở bên trong toà nhà." },
+          { "en": "I am at home.", "vi": "Tôi đang ở nhà.", "note": "Nhấn vào việc đang ở nhà chứ không ở đâu khác." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — chọn giới từ" },
+        { "t": "quiz", "items": [
+          { "vi": "Cây bút ở trong túi tôi.", "blank": "The pen is ___ my bag.", "a": "in" },
+          { "vi": "Cái cốc ở trên bàn.", "blank": "The cup is ___ the table.", "a": "on" },
+          { "vi": "Con mèo ở dưới ghế.", "blank": "The cat is ___ the chair.", "a": "under" },
+          { "vi": "Ngân hàng ở cạnh công viên.", "blank": "The bank is ___ the park.", "a": "next to" },
+          { "vi": "Tôi đang ở nhà.", "blank": "I am ___ home.", "a": "at — không có mạo từ" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — chọn is hay are" },
+        { "t": "quiz", "items": [
+          { "vi": "Chìa khoá của tôi đâu?", "blank": "Where ___ my key?", "a": "is — số ít" },
+          { "vi": "Giày tôi đâu rồi?", "blank": "Where ___ my shoes?", "a": "are — số nhiều" },
+          { "vi": "Bọn trẻ đang ở trường.", "blank": "The children ___ at school.", "a": "are" }
+        ] },
+        { "t": "h3", "text": "Phần 3 — hiểu quy tắc" },
+        { "t": "quiz", "items": [
+          { "vi": "<i>in the bag</i> khác <i>on the bag</i> thế nào?", "a": "<b>in</b> = bên trong túi · <b>on</b> = nằm trên mặt túi" },
+          { "vi": "Vì sao <i>at the home</i> sai?", "a": "<b>at home</b> là cụm cố định, không có mạo từ" },
+          { "vi": "<b>between</b> dùng được cho mấy thứ?", "a": "Đúng hai — nối bằng <b>and</b>" },
+          { "vi": "Nhìn quanh phòng và nói vị trí ba đồ vật bằng tiếng Anh.", "a": "Không có đáp án sẵn — dùng công thức <i>The … is + giới từ + …</i>" }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b><code>in</code> trong · <code>on</code> trên bề mặt · <code>at</code> một điểm.</b> Ba từ này giải quyết phần lớn câu chỉ vị trí.",
+          "<b>Ba cụm cố định không có mạo từ:</b> <i>at home</i> · <i>at work</i> · <i>at school</i>. Nói về hoạt động chứ không phải toà nhà.",
+          "<b>Công thức duy nhất:</b> <i>S + is/are + giới từ + nơi chốn</i>. Nhớ chọn <b>is</b> hay <b>are</b> theo số ít hay số nhiều."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "<i>I am at the home.</i>", "right": "<i>I am at home.</i>", "why": "<b>at home</b>, <b>at work</b>, <b>at school</b> là ba cụm cố định, không có mạo từ. Thêm <i>the</i> vào thì nghĩa đổi thành “ở toà nhà đó” chứ không phải “đang ở nhà”." },
+          { "wrong": "<i>The cat is in the chair.</i> (ý nói ở dưới ghế)", "right": "<i>The cat is under the chair.</i>", "why": "<b>in</b> nghĩa là bên trong — con mèo nằm trong lòng cái ghế. Ở dưới gầm thì phải dùng <b>under</b>. Người Việt hay gom nhiều vị trí vào chữ <i>ở</i> nên dễ chọn nhầm." },
+          { "wrong": "<i>The shop is between the bank, the park.</i>", "right": "<i>The shop is between the bank and the park.</i>", "why": "<b>between</b> cần đúng hai thứ và phải nối bằng <b>and</b>, không dùng dấu phẩy." }
+        ] }
+      ]
+    }
+  ]
+}

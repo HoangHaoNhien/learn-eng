@@ -1,0 +1,503 @@
+{
+  "id": 74,
+  "group": "Nhóm 8 · Giới thiệu & Xã giao",
+  "title": "I'm from… / I live in… — Quê quán và nơi ở",
+  "subtitle": "Câu hỏi thứ hai trong mọi cuộc làm quen, ngay sau tên. Tiếng Anh tách bạch hai thứ mà tiếng Việt thường gộp lại: nơi bạn sinh ra và nơi bạn đang sống. Chọn sai động từ là câu trả lời lệch hẳn ý, và còn một bẫy nữa nằm ở mạo từ the trước tên nước.",
+  "pattern": [
+    "I'm from <em>+ nơi</em>.",
+    "I live in <em>+ nơi</em>.",
+    "I'm originally from <em>+ nơi</em>, but I live in <em>+ nơi</em>."
+  ],
+  "meaning": "Tôi đến từ… / Tôi sống ở…",
+  "grammar": [1, 21, 23, 40],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Bẫy “the” trước tên nước" },
+    { "text": "Trình độ: A1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I'm from…</span> nói về <b>gốc gác</b> — nơi bạn sinh ra hoặc lớn lên. <span class=\"k\">I live in…</span> nói về <b>nơi ở hiện tại</b>. Hai thứ này có thể khác nhau, và tiếng Anh luôn phân biệt rõ." },
+        { "t": "p", "html": "Vì thế câu trả lời đầy đủ nhất cho người đã đi xa quê là ghép cả hai: <i>I'm originally from Hue, but I live in Hanoi now.</i> Câu này trả lời trọn vẹn và mở ra nhiều hướng trò chuyện." },
+        { "t": "p", "html": "Trong công việc quốc tế, có thêm một cách nói riêng: <span class=\"k\">I'm based in…</span> — nghĩa là “trụ sở làm việc của tôi ở…”. Nó trung tính, không nói gì về gốc gác, và rất được ưa dùng trong email công ty." },
+        { "t": "callout", "html": "<b>BẪY MẠO TỪ “the”:</b> hầu hết tên nước KHÔNG có <i>the</i> — <span class=\"k\">from Vietnam, from Japan, from France</span>. Nhưng một số nước BẮT BUỘC có: <span class=\"k\">the UK, the US, the Netherlands, the Philippines</span>." },
+        { "t": "h3", "text": "Phân biệt bốn cách nói" },
+        {
+          "t": "table",
+          "head": ["Câu", "Nói về", "Ghi chú"],
+          "rows": [
+            ["<code>I'm from Hue.</code>", "Gốc gác, nơi sinh ra", "Trả lời <i>Where are you from?</i>"],
+            ["<code>I live in Hanoi.</code>", "Nơi ở hiện tại", "Trả lời <i>Where do you live?</i>"],
+            ["<code>I'm based in Hanoi.</code>", "Nơi làm việc", "Trang trọng, công việc"],
+            ["<code>I'm Vietnamese.</code>", "Quốc tịch", "Tính từ, không có <i>from</i>"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng nói “I'm from Vietnamese”</b> ✗ — <i>Vietnamese</i> là tính từ chỉ quốc tịch, nên phải là <b>I'm Vietnamese</b> hoặc <b>I'm from Vietnam</b>. Không trộn hai cấu trúc." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🌏", "title": "Làm quen người nước ngoài", "text": "Bối cảnh số 1. <i>I'm from Vietnam. Where are you from?</i>" },
+            { "icon": "🏠", "title": "Nói nơi ở hiện tại", "text": "<i>I live in Hanoi.</i> Khác với gốc gác." },
+            { "icon": "✈️", "title": "Khi đã chuyển đi xa quê", "text": "<i>I'm originally from Hue, but I live in Hanoi.</i>" },
+            { "icon": "💼", "title": "Email công việc quốc tế", "text": "<i>I'm based in Hanoi.</i> Trung tính, chuyên nghiệp." },
+            { "icon": "🔍", "title": "Hỏi chỗ cụ thể hơn", "text": "<i>Whereabouts in Vietnam?</i> Rất Anh-Anh." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Nói quốc tịch. Ở đó dùng <i>I'm Vietnamese</i>, không có <i>from</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Gốc gác", "<code>I'm from + nơi.</code>", "I'm from Vietnam."],
+            ["Nơi ở hiện tại", "<code>I live in + thành phố/nước.</code>", "I live in Hanoi."],
+            ["Địa chỉ cụ thể", "<code>I live at + số nhà.</code>", "I live at 24 Le Loi Street."],
+            ["Gốc gác + hiện tại", "<code>I'm originally from … but I live in …</code>", "I'm originally from Hue, but I live in Hanoi."],
+            ["Công việc", "<code>I'm based in + nơi.</code>", "I'm based in Hanoi."],
+            ["Quốc tịch", "<code>I'm + tính từ.</code>", "I'm Vietnamese."],
+            ["Đã sống bao lâu", "<code>I've lived here for/since…</code>", "I've lived here for five years."],
+            ["Hỏi gốc gác", "<code>Where are you from?</code>", "Where are you from?"],
+            ["Hỏi nơi ở", "<code>Where do you live?</code>", "Where do you live?"],
+            ["Hỏi chỗ cụ thể", "<code>Whereabouts?</code>", "Whereabouts in Vietnam?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>BẪY THÌ:</b> nói bạn đã sống ở đâu bao lâu thì dùng <b>hiện tại hoàn thành</b>: <span class=\"k\">I've lived here for five years.</span> ✓ — <i>I live here for five years</i> ✗ là lỗi rất phổ biến." },
+        { "t": "callout", "html": "<b>“in” hay “at”?</b> Dùng <b>in</b> với thành phố, tỉnh, nước (<i>I live in Hanoi</i>). Dùng <b>at</b> với địa chỉ cụ thể có số nhà (<i>I live at 24 Le Loi Street</i>)." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Nói về gốc gác và nơi ở",
+              "items": [
+                { "w": "I'm from Vietnam", "vi": "tôi đến từ Việt Nam", "ex": "I'm from Vietnam.", "exvi": "Tôi đến từ Việt Nam.", "note": "KHÔNG có <i>the</i> trước hầu hết tên nước." },
+                { "w": "I'm from the UK", "vi": "tôi đến từ Anh quốc", "ex": "I'm from the UK.", "exvi": "Tôi đến từ Anh quốc.", "note": "BẪY: một số nước BẮT BUỘC có <b>the</b>: the UK, the US, the Netherlands, the Philippines." },
+                { "w": "I live in Hanoi", "vi": "tôi sống ở Hà Nội", "ex": "I live in Hanoi.", "exvi": "Tôi sống ở Hà Nội.", "note": "<b>in</b> đi với thành phố, tỉnh, nước." },
+                { "w": "I live at", "vi": "tôi sống tại (địa chỉ)", "ex": "I live at 24 Le Loi Street.", "exvi": "Tôi sống ở số 24 đường Lê Lợi.", "note": "<b>at</b> đi với ĐỊA CHỈ có số nhà cụ thể." },
+                { "w": "originally from", "vi": "gốc ở", "ex": "I'm originally from Hue.", "exvi": "Gốc tôi ở Huế.", "note": "Dùng khi bạn đã chuyển đi nơi khác — phân biệt rõ gốc gác với nơi ở." },
+                { "w": "I'm based in", "vi": "tôi làm việc ở", "ex": "I'm based in Hanoi.", "exvi": "Tôi làm việc ở Hà Nội.", "note": "Trang trọng, trung tính — rất được ưa dùng trong email công việc quốc tế." },
+                { "w": "I'm Vietnamese", "vi": "tôi là người Việt", "ex": "I'm Vietnamese.", "exvi": "Tôi là người Việt Nam.", "note": "Quốc tịch dùng TÍNH TỪ, KHÔNG có <i>from</i>. <i>I'm from Vietnamese</i> ✗." },
+                { "w": "I grew up in", "vi": "tôi lớn lên ở", "ex": "I grew up in Da Nang.", "exvi": "Tôi lớn lên ở Đà Nẵng.", "note": "Chi tiết hơn <i>I'm from</i> — nói rõ nơi hình thành con người bạn." },
+                { "w": "I was born in", "vi": "tôi sinh ra ở", "ex": "I was born in Hue but raised in Hanoi.", "exvi": "Tôi sinh ở Huế nhưng lớn lên ở Hà Nội." },
+                { "w": "I've lived here for", "vi": "tôi sống ở đây được", "ex": "I've lived here for five years.", "exvi": "Tôi sống ở đây năm năm rồi.", "note": "BẪY THÌ: dùng HIỆN TẠI HOÀN THÀNH. <i>I live here for five years</i> ✗." },
+                { "w": "I've lived here since", "vi": "tôi sống ở đây từ", "ex": "I've lived here since 2019.", "exvi": "Tôi sống ở đây từ năm 2019.", "note": "<b>for</b> + khoảng thời gian, <b>since</b> + mốc thời gian." },
+                { "w": "I moved here", "vi": "tôi chuyển đến đây", "ex": "I moved here three years ago.", "exvi": "Tôi chuyển đến đây ba năm trước." }
+              ]
+            },
+            {
+              "title": "Hỏi và nói chi tiết hơn",
+              "items": [
+                { "w": "Where are you from?", "vi": "bạn đến từ đâu?", "ex": "Where are you from?", "exvi": "Bạn đến từ đâu?", "note": "Hỏi GỐC GÁC. Khác với <i>Where do you live?</i>" },
+                { "w": "Where do you live?", "vi": "bạn sống ở đâu?", "ex": "Where do you live now?", "exvi": "Giờ bạn sống ở đâu?", "note": "Hỏi NƠI Ở HIỆN TẠI." },
+                { "w": "Whereabouts?", "vi": "chỗ nào cụ thể?", "ex": "Whereabouts in Vietnam?", "exvi": "Ở chỗ nào của Việt Nam ạ?", "note": "Rất Anh-Anh — hỏi cụ thể hơn sau câu trả lời chung chung." },
+                { "w": "in the north", "vi": "ở miền Bắc", "ex": "It's in the north of the country.", "exvi": "Nó ở miền Bắc đất nước." },
+                { "w": "about an hour from", "vi": "cách khoảng một tiếng từ", "ex": "It's about an hour from Hanoi.", "exvi": "Cách Hà Nội khoảng một tiếng.", "note": "Cách định vị hữu ích khi người ta chưa nghe tên quê bạn bao giờ." },
+                { "w": "You probably haven't heard of it", "vi": "chắc bạn chưa nghe tên bao giờ", "ex": "You probably haven't heard of it.", "exvi": "Chắc bạn chưa nghe tên bao giờ.", "note": "Câu khiêm tốn rất tự nhiên khi nói về một nơi nhỏ." },
+                { "w": "a small town near", "vi": "một thị trấn nhỏ gần", "ex": "A small town near Hue.", "exvi": "Một thị trấn nhỏ gần Huế." },
+                { "w": "I split my time between", "vi": "tôi chia thời gian giữa", "ex": "I split my time between Hanoi and Da Nang.", "exvi": "Tôi chia thời gian giữa Hà Nội và Đà Nẵng.", "note": "Dùng khi bạn sống ở hai nơi — rất phổ biến trong công việc hiện đại." },
+                { "w": "I'm here for work", "vi": "tôi ở đây vì công việc", "ex": "I'm here for work, just for a year.", "exvi": "Tôi ở đây vì công việc, chỉ một năm thôi." },
+                { "w": "on and off", "vi": "lúc ở lúc không", "ex": "I've lived here on and off for years.", "exvi": "Tôi sống ở đây lúc ở lúc không nhiều năm rồi.", "note": "<i>on and off</i> = không liên tục. Thành ngữ rất hay." },
+                { "w": "born and raised", "vi": "sinh ra và lớn lên", "ex": "Born and raised in Hanoi.", "exvi": "Sinh ra và lớn lên ở Hà Nội.", "note": "Cụm cố định — nhấn rằng bạn là người gốc ở đó." },
+                { "w": "It's a long story", "vi": "chuyện dài lắm", "ex": "It's a long story!", "exvi": "Chuyện dài lắm!", "note": "Câu trả lời dí dỏm khi lai lịch của bạn phức tạp." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại & nối tiếp",
+              "items": [
+                { "w": "Oh, I've been there", "vi": "ồ, tôi từng đến đó", "ex": "Oh, I've been there — lovely place.", "exvi": "Ồ, tôi từng đến đó — nơi đẹp lắm." },
+                { "w": "I've always wanted to go", "vi": "tôi luôn muốn đến đó", "ex": "I've always wanted to go.", "exvi": "Tôi luôn muốn đến đó." },
+                { "w": "What's it like there?", "vi": "ở đó thế nào?", "ex": "What's it like there?", "exvi": "Ở đó thế nào? Xem [Khung 70]." },
+                { "w": "Do you miss it?", "vi": "bạn có nhớ quê không?", "ex": "Do you miss it?", "exvi": "Bạn có nhớ quê không?", "note": "Câu hỏi tiếp ấm áp — mở ra một cuộc trò chuyện thật." },
+                { "w": "How long have you been here?", "vi": "bạn ở đây bao lâu rồi?", "ex": "How long have you been here?", "exvi": "Bạn ở đây bao lâu rồi?", "note": "Hiện tại hoàn thành. Xem [Khung 64]." },
+                { "w": "Do you go back often?", "vi": "bạn có hay về không?", "ex": "Do you go back often?", "exvi": "Bạn có hay về quê không?" },
+                { "w": "What brought you here?", "vi": "điều gì đưa bạn đến đây?", "ex": "What brought you here?", "exvi": "Điều gì đưa bạn đến đây vậy?", "note": "Câu hỏi hay hơn <i>Why did you come here?</i> — nghe nhẹ và mở hơn." },
+                { "w": "Small world!", "vi": "trái đất tròn thật!", "ex": "Small world!", "exvi": "Trái đất tròn thật!", "note": "Khi phát hiện hai người có liên hệ bất ngờ." },
+                { "w": "I know it well", "vi": "tôi biết chỗ đó rõ lắm", "ex": "I know it well, actually.", "exvi": "Thật ra tôi biết chỗ đó rõ lắm." },
+                { "w": "Never been, but I'd love to", "vi": "chưa đến bao giờ, nhưng rất muốn", "ex": "Never been, but I'd love to.", "exvi": "Chưa đến bao giờ, nhưng rất muốn đi." },
+                { "w": "Is that near…?", "vi": "chỗ đó có gần… không?", "ex": "Is that near Da Nang?", "exvi": "Chỗ đó có gần Đà Nẵng không?" },
+                { "w": "You must show me sometime", "vi": "hôm nào dẫn tôi đi nhé", "ex": "You must show me sometime.", "exvi": "Hôm nào bạn dẫn mình đi nhé." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I'm originally from Hue, but I live in Hanoi now.",
+                  "vi": "Gốc mình ở Huế, nhưng giờ mình sống ở Hà Nội.",
+                  "note": "Câu trả lời trọn vẹn nhất — tách bạch gốc gác và nơi ở, mở ra nhiều hướng trò chuyện.",
+                  "open": { "en": "So where are you from?", "vi": "Vậy bạn quê ở đâu?" },
+                  "reply": [
+                    { "them": "Oh, I've been to Hue — lovely place.", "themvi": "Ồ, mình từng đến Huế — đẹp lắm.", "you": "Do you know it well?", "youvi": "Bạn biết rõ chỗ đó à?" },
+                    { "them": "Do you miss it?", "themvi": "Bạn có nhớ quê không?", "you": "The food, mostly.", "youvi": "Chủ yếu là nhớ đồ ăn." }
+                  ],
+                  "close": { "en": "You must visit sometime.", "vi": "Hôm nào bạn phải ghé chơi." }
+                },
+                {
+                  "en": "Born and raised in Hanoi.",
+                  "vi": "Sinh ra và lớn lên ở Hà Nội.",
+                  "note": "Cụm cố định <b>born and raised</b> — nhấn rằng bạn là người gốc ở đó, không phải mới chuyển đến.",
+                  "reply": [
+                    { "them": "So you know all the good places.", "themvi": "Vậy bạn biết hết mấy chỗ ngon rồi.", "you": "I've got a list.", "youvi": "Mình có cả danh sách." }
+                  ],
+                  "vars": [
+                    { "en": "I grew up in Hanoi.", "vi": "Mình lớn lên ở Hà Nội." }
+                  ]
+                },
+                {
+                  "en": "I've lived here for five years now.",
+                  "vi": "Mình sống ở đây được năm năm rồi.",
+                  "note": "BẪY THÌ: dùng <b>hiện tại hoàn thành</b>. <i>I live here for five years</i> ✗ là lỗi rất phổ biến.",
+                  "reply": [
+                    { "them": "What brought you here?", "themvi": "Điều gì đưa bạn đến đây?", "you": "Work, at first. Then I stayed.", "youvi": "Ban đầu vì công việc. Rồi mình ở lại." }
+                  ]
+                },
+                {
+                  "en": "A small town near Hue — you probably haven't heard of it.",
+                  "vi": "Một thị trấn nhỏ gần Huế — chắc bạn chưa nghe tên bao giờ.",
+                  "note": "Câu khiêm tốn rất tự nhiên khi quê bạn là một nơi nhỏ ít người biết.",
+                  "reply": [
+                    { "them": "Try me!", "themvi": "Cứ thử nói xem!", "you": "It's about an hour from the city.", "youvi": "Cách thành phố khoảng một tiếng." }
+                  ],
+                  "close": { "en": "Small world if you have!", "vi": "Nếu bạn biết thì trái đất tròn thật!" }
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I'm based in Hanoi, but the team is spread out.",
+                  "vi": "Tôi làm việc ở Hà Nội, nhưng cả đội ở rải rác.",
+                  "note": "<b>based in</b> trung tính và chuyên nghiệp — chuẩn mực trong công việc quốc tế.",
+                  "reply": [
+                    { "them": "Whereabouts is the rest of the team?", "themvi": "Phần còn lại của đội ở đâu ạ?", "you": "Singapore and Sydney, mostly.", "youvi": "Chủ yếu Singapore và Sydney." }
+                  ],
+                  "close": { "en": "We work across three time zones.", "vi": "Chúng tôi làm việc qua ba múi giờ." }
+                },
+                {
+                  "en": "I split my time between Hanoi and Da Nang.",
+                  "vi": "Tôi chia thời gian giữa Hà Nội và Đà Nẵng.",
+                  "note": "Rất phổ biến trong công việc hiện đại — khi bạn làm việc ở hai nơi.",
+                  "reply": [
+                    { "them": "That sounds exhausting.", "themvi": "Nghe mệt nhỉ.", "you": "You get used to it.", "youvi": "Rồi cũng quen." }
+                  ],
+                  "vars": [
+                    { "en": "I work from both offices.", "vi": "Tôi làm ở cả hai văn phòng." }
+                  ]
+                },
+                {
+                  "en": "I'm from Vietnam — whereabouts are you from?",
+                  "vi": "Tôi đến từ Việt Nam — còn anh/chị quê ở đâu?",
+                  "note": "KHÔNG có <i>the</i> trước <i>Vietnam</i>. Nhưng lại có trước <i>the UK, the US</i>.",
+                  "reply": [
+                    { "them": "The Netherlands, originally.", "themvi": "Gốc tôi ở Hà Lan.", "you": "Ah, I've always wanted to go.", "youvi": "À, tôi luôn muốn đến đó." }
+                  ]
+                },
+                {
+                  "en": "I moved here three years ago for work.",
+                  "vi": "Tôi chuyển đến đây ba năm trước vì công việc.",
+                  "reply": [
+                    { "them": "Do you go back often?", "themvi": "Anh/chị có hay về không?", "you": "Twice a year, usually.", "youvi": "Thường là hai lần một năm." }
+                  ],
+                  "close": { "en": "It's home now, really.", "vi": "Giờ thì đây là nhà rồi." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I'm from Vietnam. Where are you from?",
+                  "vi": "Tôi đến từ Việt Nam. Còn bạn?",
+                  "note": "Câu làm quen phổ biến nhất khi đi du lịch — ngắn, mở, và luôn hỏi lại.",
+                  "reply": [
+                    { "them": "The US — California.", "themvi": "Mỹ — California.", "you": "I've always wanted to go.", "youvi": "Tôi luôn muốn đến đó." },
+                    { "them": "Whereabouts in Vietnam?", "themvi": "Ở chỗ nào của Việt Nam ạ?", "you": "Hue, in the centre.", "youvi": "Huế, ở miền Trung." }
+                  ],
+                  "close": { "en": "Enjoy the rest of your trip.", "vi": "Chúc phần còn lại chuyến đi vui vẻ." }
+                },
+                {
+                  "en": "I'm here for work, just for a year.",
+                  "vi": "Tôi ở đây vì công việc, chỉ một năm thôi.",
+                  "reply": [
+                    { "them": "How are you finding it?", "themvi": "Bạn thấy thế nào?", "you": "Better than I expected, honestly.", "youvi": "Thật lòng thì tốt hơn tôi tưởng." }
+                  ],
+                  "vars": [
+                    { "en": "I'm just visiting for a few days.", "vi": "Tôi chỉ ghé chơi vài ngày." }
+                  ]
+                },
+                {
+                  "en": "It's about an hour from Hanoi.",
+                  "vi": "Cách Hà Nội khoảng một tiếng.",
+                  "note": "Cách định vị rất hữu ích khi người ta chưa nghe tên quê bạn bao giờ.",
+                  "reply": [
+                    { "them": "Is that near the coast?", "themvi": "Chỗ đó có gần biển không?", "you": "Inland, actually.", "youvi": "Thật ra là trong đất liền." }
+                  ]
+                },
+                {
+                  "en": "I've lived here on and off for years.",
+                  "vi": "Tôi sống ở đây lúc ở lúc không nhiều năm rồi.",
+                  "note": "<span class=\"k\">on and off</span> = không liên tục. Thành ngữ rất hay khi lai lịch bạn phức tạp.",
+                  "reply": [
+                    { "them": "So you know it well.", "themvi": "Vậy bạn rành chỗ này rồi.", "you": "Well enough to avoid the tourist traps.", "youvi": "Đủ rành để tránh mấy chỗ bẫy khách du lịch." }
+                  ],
+                  "close": { "en": "I'll show you the real places.", "vi": "Mình dẫn bạn đến chỗ thật nhé." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I'm from Hue — the food there is completely different.",
+                  "vi": "Mình quê ở Huế — đồ ăn ngoài đó khác hẳn.",
+                  "note": "Ghép gốc gác với một chủ đề cụ thể — cách bắt chuyện hiệu quả hơn nhiều so với nói suông.",
+                  "reply": [
+                    { "them": "Different how?", "themvi": "Khác thế nào?", "you": "Spicier, and smaller portions.", "youvi": "Cay hơn, và phần ăn nhỏ hơn." }
+                  ],
+                  "close": { "en": "I'll take you to a Hue place.", "vi": "Hôm nào mình dẫn bạn đi ăn món Huế." }
+                },
+                {
+                  "en": "Where are you from originally?",
+                  "vi": "Gốc bạn ở đâu vậy?",
+                  "note": "Thêm <b>originally</b> khi bạn đoán người ta đã chuyển đi nơi khác.",
+                  "reply": [
+                    { "them": "Da Nang, but I moved here for university.", "themvi": "Đà Nẵng, nhưng mình chuyển ra đây học đại học.", "you": "Do you miss the beach?", "youvi": "Bạn có nhớ biển không?" }
+                  ]
+                },
+                {
+                  "en": "I live just around the corner, actually.",
+                  "vi": "Thật ra mình sống ngay góc phố kia.",
+                  "reply": [
+                    { "them": "So this is your local!", "themvi": "Vậy đây là quán quen của bạn!", "you": "Twice a week, at least.", "youvi": "Ít nhất hai lần một tuần." }
+                  ],
+                  "vars": [
+                    { "en": "I live five minutes from here.", "vi": "Mình sống cách đây năm phút." }
+                  ]
+                },
+                {
+                  "en": "I've only been here a few months.",
+                  "vi": "Mình mới ở đây được vài tháng.",
+                  "reply": [
+                    { "them": "What brought you here?", "themvi": "Điều gì đưa bạn đến đây?", "you": "A new job, and a bit of luck.", "youvi": "Một công việc mới, và chút may mắn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I live at 24 Le Loi Street.",
+                  "vi": "Tôi ở số 24 đường Lê Lợi.",
+                  "note": "<b>at</b> đi với ĐỊA CHỈ có số nhà. <i>in</i> chỉ dùng với thành phố, tỉnh, nước.",
+                  "reply": [
+                    { "them": "Is that within our delivery area?", "themvi": "Chỗ đó có trong khu vực giao hàng không ạ?", "you": "It should be — it's central.", "youvi": "Chắc có — ở trung tâm mà." }
+                  ],
+                  "close": { "en": "I'll confirm the postcode.", "vi": "Tôi sẽ xác nhận mã bưu chính." }
+                },
+                {
+                  "en": "I live in Hanoi, so delivery should be quick.",
+                  "vi": "Tôi sống ở Hà Nội nên giao hàng chắc nhanh.",
+                  "reply": [
+                    { "them": "Next-day within the city.", "themvi": "Trong thành phố thì hôm sau có ạ.", "you": "That works for me.", "youvi": "Vậy là ổn với tôi." }
+                  ]
+                },
+                {
+                  "en": "I'm not from around here — do you deliver?",
+                  "vi": "Tôi không phải người ở đây — bên em có giao hàng không ạ?",
+                  "note": "<i>not from around here</i> — cách nói tự nhiên khi bạn là khách lạ trong vùng.",
+                  "reply": [
+                    { "them": "Where are you based?", "themvi": "Anh/chị ở khu nào ạ?", "you": "I'm staying near the old town.", "youvi": "Tôi ở gần phố cổ." }
+                  ],
+                  "vars": [
+                    { "en": "I'm just visiting, actually.", "vi": "Thật ra tôi chỉ ghé chơi." }
+                  ]
+                },
+                {
+                  "en": "I've lived here since 2019.",
+                  "vi": "Tôi sống ở đây từ năm 2019.",
+                  "note": "<b>since</b> + mốc thời gian, <b>for</b> + khoảng thời gian. Cả hai đều dùng hiện tại hoàn thành.",
+                  "reply": [
+                    { "them": "Then you'll know our other branch.", "themvi": "Vậy chắc anh/chị biết chi nhánh kia ạ.", "you": "I do — I go there sometimes.", "youvi": "Biết chứ — thỉnh thoảng tôi có ghé." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Làm quen với một người nước ngoài",
+          "lines": [
+            { "speaker": "Stranger", "en": "So where are you from?", "vi": "Vậy bạn đến từ đâu?" },
+            { "speaker": "You", "me": true, "en": "I'm from Vietnam — originally from Hue, but I live in Hanoi now.", "vi": "Tôi đến từ Việt Nam — gốc ở Huế, nhưng giờ sống ở Hà Nội." },
+            { "speaker": "Stranger", "en": "Whereabouts is Hue?", "vi": "Huế ở chỗ nào vậy?" },
+            { "speaker": "You", "me": true, "en": "In the centre, about an hour from Da Nang. And you?", "vi": "Ở miền Trung, cách Đà Nẵng khoảng một tiếng. Còn bạn?" },
+            { "speaker": "Stranger", "en": "The Netherlands. I've lived in the UK for ten years though.", "vi": "Hà Lan. Nhưng tôi sống ở Anh mười năm rồi." },
+            { "speaker": "You", "me": true, "en": "Do you miss it? Going back often?", "vi": "Bạn có nhớ quê không? Có hay về không?" }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Giới thiệu bản thân trong cuộc họp quốc tế",
+          "lines": [
+            { "speaker": "Chair", "en": "Perhaps everyone could say where they're based?", "vi": "Mọi người nói qua mình làm việc ở đâu nhé?" },
+            { "speaker": "You", "me": true, "en": "Of course. I'm Nam, and I'm based in Hanoi.", "vi": "Vâng ạ. Tôi là Nam, tôi làm việc ở Hà Nội." },
+            { "speaker": "Colleague", "en": "How long have you been there?", "vi": "Anh ở đó bao lâu rồi?" },
+            { "speaker": "You", "me": true, "en": "I've lived here for five years. I moved for work.", "vi": "Tôi sống ở đây năm năm rồi. Tôi chuyển đến vì công việc." },
+            { "speaker": "Colleague", "en": "And originally?", "vi": "Còn gốc thì sao?" },
+            { "speaker": "You", "me": true, "en": "Originally from Hue — I split my time between the two now.", "vi": "Gốc tôi ở Huế — giờ tôi chia thời gian giữa hai nơi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I live here for five years.", "right": "I've lived here for five years.", "why": "BẪY THÌ. Việc bắt đầu trong quá khứ và còn kéo dài đến nay dùng <b>hiện tại hoàn thành</b>." },
+            { "wrong": "I'm from Vietnamese.", "right": "I'm Vietnamese. / I'm from Vietnam.", "why": "<i>Vietnamese</i> là TÍNH TỪ chỉ quốc tịch — không đi với <i>from</i>. Chọn một trong hai cấu trúc." },
+            { "wrong": "I'm from the Vietnam.", "right": "I'm from Vietnam.", "why": "Hầu hết tên nước KHÔNG có <b>the</b>. Chỉ một số nước có: <i>the UK, the US, the Netherlands, the Philippines</i>." },
+            { "wrong": "I'm from UK.", "right": "I'm from the UK.", "why": "Ngược lại với trên — <b>the UK</b> BẮT BUỘC có mạo từ. Phải nhớ danh sách ngoại lệ." },
+            { "wrong": "I live at Hanoi.", "right": "I live in Hanoi.", "why": "<b>in</b> đi với thành phố và nước. <b>at</b> chỉ dùng với địa chỉ có số nhà cụ thể." },
+            { "wrong": "Where do you come from? <i>(hỏi nơi ở hiện tại)</i>", "right": "Where do you live?", "why": "<i>Where do you come from?</i> hỏi GỐC GÁC. Muốn hỏi nơi ở hiện tại thì dùng <i>Where do you live?</i>" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu", "Nói về", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I'm from Hue.</code>", "Gốc gác", "<i>Where are you from?</i> → gốc."],
+            ["<code>I live in Hanoi.</code>", "Nơi ở hiện tại", "<i>Where do you live?</i> → hiện tại."],
+            ["<code>I'm based in Hanoi.</code>", "Nơi làm việc", "Trang trọng, công việc quốc tế."],
+            ["<code>I'm Vietnamese.</code>", "Quốc tịch", "Tính từ, không có <i>from</i>."],
+            ["<code>I grew up in Da Nang.</code>", "Nơi hình thành con người", "Chi tiết hơn <i>I'm from</i>."],
+            ["<code>I've lived here for…</code>", "Thời gian đã ở", "Hiện tại hoàn thành."],
+            ["<code>I moved here…</code>", "Hành động chuyển đến", "Quá khứ đơn."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — trả lời “Where are you from?”" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Vietnam.", "vi": "Ngắn nhất — có thể hơi cụt" },
+            { "en": "I'm from Vietnam.", "vi": "Chuẩn mực, đủ dùng" },
+            { "en": "I'm from Hue, in central Vietnam.", "vi": "Thêm định vị — hữu ích cho người lạ" },
+            { "en": "Originally from Hue, but I live in Hanoi now.", "vi": "Trọn vẹn — mở nhiều hướng trò chuyện" },
+            { "en": "Born and raised in Hue, but I've been in Hanoi five years.", "vi": "Đầy đủ nhất — kể một câu chuyện nhỏ" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>I'm from</b> nối âm thành <b>“aim-frəm”</b> — chữ <i>from</i> đọc lướt, không nhấn.",
+            "<b>I live in</b> → “ai-li-vin”, ba từ dính liền, âm /v/ nối sang nguyên âm.",
+            "<b>Nhấn vào TÊN NƠI CHỐN</b>, không nhấn vào <i>from</i> hay <i>in</i> — đó mới là thông tin mới.",
+            "<b>originally</b> nhấn âm thứ hai: ə-<b>RIJ</b>-ə-nə-li — năm âm tiết, nói nhanh còn bốn.",
+            "<b>based in</b> → “beis-tin”, âm /d/ biến thành /t/ khi nối với /ɪ/.",
+            "<b>I've lived</b> → “aiv-LIVD”, đuôi <i>-ed</i> đọc là /d/, đừng thành “liv-ed” hai âm tiết."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm originally from Hue, but I live in Hanoi.", "vi": "Luyện shadowing: nhấn ə-RIJ-ə-nə-li rồi ngắt trước but." },
+            { "en": "I've lived here for five years.", "vi": "Tập đuôi -ed thành /d/ một âm, đừng tách thành hai." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi đến từ Việt Nam.", "blank": "I'm from __________.", "a": "Vietnam (KHÔNG có “the”)" },
+            { "vi": "Tôi đến từ Anh quốc.", "blank": "I'm from __________.", "a": "the UK (BẮT BUỘC có “the”)" },
+            { "vi": "Tôi sống ở Hà Nội.", "blank": "I live __________ Hanoi.", "a": "in" },
+            { "vi": "Tôi ở số 24 đường Lê Lợi.", "blank": "I live __________ 24 Le Loi Street.", "a": "at (địa chỉ cụ thể)" },
+            { "vi": "Tôi sống ở đây được năm năm rồi.", "blank": "__________ here for five years.", "a": "I've lived (hiện tại hoàn thành)" },
+            { "vi": "Gốc tôi ở Huế.", "blank": "I'm __________ Hue.", "a": "originally from" },
+            { "vi": "Tôi làm việc ở Hà Nội. (công việc)", "blank": "I'm __________ Hanoi.", "a": "based in" },
+            { "vi": "Sinh ra và lớn lên ở Hà Nội.", "blank": "__________ in Hanoi.", "a": "Born and raised" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Gốc mình ở Huế, nhưng giờ mình sống ở Hà Nội.", "a": "I'm originally from Hue, but I live in Hanoi now." },
+            { "vi": "2. Mình sống ở đây được năm năm rồi.", "a": "I've lived here for five years now." },
+            { "vi": "3. Tôi làm việc ở Hà Nội, nhưng cả đội ở rải rác.", "a": "I'm based in Hanoi, but the team is spread out." },
+            { "vi": "4. Một thị trấn nhỏ gần Huế — chắc bạn chưa nghe tên bao giờ.", "a": "A small town near Hue — you probably haven't heard of it." },
+            { "vi": "5. Tôi chia thời gian giữa Hà Nội và Đà Nẵng.", "a": "I split my time between Hanoi and Da Nang." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Tách bạch hai thứ:</b> <i>I'm from</i> = gốc gác; <i>I live in</i> = nơi ở hiện tại. Ghép cả hai là câu trả lời trọn vẹn nhất.",
+            "<b>Nhớ danh sách nước có “the”:</b> the UK, the US, the Netherlands, the Philippines. Còn lại thì không.",
+            "<b>Dùng hiện tại hoàn thành cho thời gian đã sống:</b> <i>I've lived here for five years.</i> — đây là lỗi rất phổ biến.",
+            "<b>Học “I'm based in…” cho công việc quốc tế</b> — nó trung tính và chuyên nghiệp hơn hẳn.",
+            "<b>Thêm định vị khi quê bạn ít người biết:</b> <i>about an hour from Hanoi</i> giúp người nghe hình dung ngay.",
+            "<b>Bài tập 3 phút:</b> viết ba phiên bản trả lời <i>Where are you from?</i> — một câu ngắn, một câu có định vị, một câu kể cả hành trình của bạn."
+          ]
+        }
+      ]
+    }
+  ]
+}

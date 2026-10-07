@@ -1,0 +1,503 @@
+{
+  "id": 77,
+  "group": "Nhóm 8 · Giới thiệu & Xã giao",
+  "title": "Long time no see! — Gặp lại sau thời gian dài",
+  "subtitle": "Một trong những thành ngữ kỳ lạ nhất tiếng Anh: nó sai ngữ pháp hoàn toàn nhưng người bản xứ dùng hằng ngày, còn câu đúng ngữ pháp lại nghe cứng đờ. Kèm theo nó là cả một bộ câu hỏi và câu đáp riêng cho tình huống gặp lại người quen cũ.",
+  "pattern": [
+    "Long time no see!",
+    "It's been a while, hasn't it?",
+    "What have you been up to?"
+  ],
+  "meaning": "Lâu quá không gặp! / Lâu rồi nhỉ",
+  "grammar": [6, 7, 8, 9],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Thành ngữ sai ngữ pháp nhưng chuẩn" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">Long time no see!</span> là một thành ngữ cố định. Về ngữ pháp nó hoàn toàn sai — không có chủ ngữ, không có động từ chia đúng — nhưng đó chính là điều làm nên nó. Đừng cố sửa, và đừng đổi một chữ nào." },
+        { "t": "p", "html": "Câu đúng ngữ pháp <i>I haven't seen you for a long time</i> không sai, nhưng nghe <b>cứng và trang trọng</b> hẳn. Trong lời chào thân mật, thành ngữ luôn thắng." },
+        { "t": "p", "html": "Bản trung tính hơn là <span class=\"k\">It's been a while.</span> — dùng được cả trong công việc. Còn <span class=\"k\">It's been ages!</span> thì thân mật và có chút cảm thán, rất Anh." },
+        { "t": "callout", "html": "<b>Câu hỏi đi kèm bắt buộc:</b> sau lời chào này, câu tiếp theo gần như luôn là <span class=\"k\">What have you been up to?</span> — nó nhẹ và mở, khác hẳn <i>What have you been doing?</i> vốn nghe như đang điều tra." },
+        { "t": "h3", "text": "Bốn cách nói “lâu rồi”" },
+        {
+          "t": "table",
+          "head": ["Câu", "Sắc thái", "Dùng khi"],
+          "rows": [
+            ["<code>Long time no see!</code>", "Thân mật, ấm áp", "Bạn bè, đồng nghiệp thân"],
+            ["<code>It's been a while.</code>", "Trung tính", "Dùng được cả trong công việc"],
+            ["<code>It's been ages!</code>", "Thân mật, cảm thán", "Rất Anh, có chút phóng đại"],
+            ["<code>I haven't seen you in a long time.</code>", "Trang trọng, hơi cứng", "Văn viết hoặc tình huống nghiêm túc"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng trộn hai cấu trúc:</b> <i>It's been a long time no see</i> ✗ là lỗi rất phổ biến. Chọn một — hoặc <b>Long time no see</b>, hoặc <b>It's been a long time</b>." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🎉", "title": "Tình cờ gặp bạn cũ", "text": "Bối cảnh số 1. <i>Nam! Long time no see!</i>" },
+            { "icon": "💼", "title": "Gặp lại đối tác công việc", "text": "<i>It's been a while.</i> Trung tính, chuyên nghiệp." },
+            { "icon": "📞", "title": "Gọi cho người lâu không liên lạc", "text": "<i>Hi, it's been ages!</i>" },
+            { "icon": "🏫", "title": "Họp lớp, họp mặt", "text": "<i>How long has it been? Five years?</i>" },
+            { "icon": "💬", "title": "Nhắn tin sau thời gian im ắng", "text": "<i>Long time no speak!</i> Dùng cho tin nhắn." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Mới gặp tuần trước. Nó dành cho khoảng cách hàng tháng trở lên." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Thành ngữ", "<code>Long time no see!</code>", "Nam! Long time no see!"],
+            ["Qua điện thoại, tin nhắn", "<code>Long time no speak!</code>", "Long time no speak!"],
+            ["Trung tính", "<code>It's been a while.</code>", "It's been a while, hasn't it?"],
+            ["Thân mật, cảm thán", "<code>It's been ages!</code>", "It's been ages!"],
+            ["Hỏi khoảng cách", "<code>How long has it been?</code>", "How long has it been? Two years?"],
+            ["Ước lượng", "<code>It must be + thời gian</code>", "It must be five years now."],
+            ["Hỏi tin tức", "<code>What have you been up to?</code>", "What have you been up to?"],
+            ["Khen khi gặp lại", "<code>You look great!</code>", "You look great!"],
+            ["Cảm thán thời gian", "<code>Where does the time go?</code>", "Where does the time go?"],
+            ["Hẹn gặp lại", "<code>We must catch up.</code>", "We must catch up properly."]
+          ]
+        },
+        { "t": "callout", "html": "<b>“Long time no speak” dùng cho điện thoại và tin nhắn</b> — khi hai người không gặp mặt mà chỉ liên lạc từ xa. Đây là biến thể rất hữu dụng trong thời đại nhắn tin." },
+        { "t": "callout", "html": "<b>“We must catch up” là câu kết chuẩn mực.</b> <i>catch up</i> = gặp nhau để cập nhật tin tức của nhau. Nó biến một cuộc gặp tình cờ thành lời hẹn — rất được lòng người nghe." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các cách chào khi gặp lại",
+              "items": [
+                { "w": "Long time no see!", "vi": "lâu quá không gặp!", "ex": "Nam! Long time no see!", "exvi": "Nam! Lâu quá không gặp!", "note": "Thành ngữ CỐ ĐỊNH — sai ngữ pháp nhưng chuẩn. Đừng đổi một chữ nào." },
+                { "w": "Long time no speak!", "vi": "lâu quá không nói chuyện!", "ex": "Long time no speak!", "exvi": "Lâu quá không nói chuyện!", "note": "Dùng cho ĐIỆN THOẠI và TIN NHẮN — khi không gặp mặt." },
+                { "w": "It's been a while", "vi": "lâu rồi nhỉ", "ex": "It's been a while, hasn't it?", "exvi": "Lâu rồi nhỉ?", "note": "Trung tính — dùng được cả trong công việc." },
+                { "w": "It's been ages!", "vi": "lâu ơi là lâu!", "ex": "It's been ages!", "exvi": "Lâu ơi là lâu!", "note": "Thân mật, có chút phóng đại — rất Anh." },
+                { "w": "It's been far too long", "vi": "lâu quá rồi ấy chứ", "ex": "It's been far too long.", "exvi": "Lâu quá rồi ấy chứ." },
+                { "w": "Fancy seeing you here!", "vi": "không ngờ gặp bạn ở đây!", "ex": "Fancy seeing you here!", "exvi": "Không ngờ gặp bạn ở đây!", "note": "Rất Anh — dùng khi gặp tình cờ ở nơi bất ngờ." },
+                { "w": "What a surprise!", "vi": "bất ngờ quá!", "ex": "What a surprise!", "exvi": "Bất ngờ quá!" },
+                { "w": "Well, well, well", "vi": "chà chà chà", "ex": "Well, well — look who it is!", "exvi": "Chà chà — xem ai đây này!", "note": "Dí dỏm và thân mật — chỉ dùng với người rất quen." },
+                { "w": "Look who it is!", "vi": "xem ai đây này!", "ex": "Look who it is!", "exvi": "Xem ai đây này!" },
+                { "w": "Good to see you again", "vi": "vui được gặp lại", "ex": "Good to see you again.", "exvi": "Vui được gặp lại bạn.", "note": "Dùng <i>see</i> chứ không phải <i>meet</i>. Xem [Khung 72]." },
+                { "w": "I haven't seen you in ages", "vi": "lâu lắm rồi không gặp bạn", "ex": "I haven't seen you in ages!", "exvi": "Lâu lắm rồi không gặp bạn!", "note": "Dạng đầy đủ — dùng hiện tại hoàn thành." },
+                { "w": "How long has it been?", "vi": "bao lâu rồi nhỉ?", "ex": "How long has it been? Two years?", "exvi": "Bao lâu rồi nhỉ? Hai năm?", "note": "Câu hỏi tiếp tự nhiên — mời người kia cùng nhớ lại." }
+              ]
+            },
+            {
+              "title": "Hỏi tin tức và khen",
+              "items": [
+                { "w": "What have you been up to?", "vi": "dạo này bạn làm gì?", "ex": "What have you been up to?", "exvi": "Dạo này bạn làm gì vậy?", "note": "Câu hỏi CHUẨN sau lời chào — nhẹ và mở, khác <i>What have you been doing?</i> nghe như điều tra." },
+                { "w": "How've you been?", "vi": "dạo này bạn thế nào?", "ex": "How've you been?", "exvi": "Dạo này bạn thế nào?", "note": "Hiện tại hoàn thành — đây là câu hỏi THẬT, khác [Khung 76]." },
+                { "w": "You look great!", "vi": "trông bạn tuyệt quá!", "ex": "You look great!", "exvi": "Trông bạn tuyệt quá!", "note": "Lời khen chuẩn mực khi gặp lại — gần như bắt buộc trong văn hóa Anh-Mỹ." },
+                { "w": "You haven't changed a bit", "vi": "bạn chẳng thay đổi gì cả", "ex": "You haven't changed a bit!", "exvi": "Bạn chẳng thay đổi gì cả!", "note": "Luôn là lời khen — ngụ ý bạn vẫn trẻ và vẫn là chính mình." },
+                { "w": "Where does the time go?", "vi": "thời gian trôi đi đâu hết nhỉ?", "ex": "Where does the time go?", "exvi": "Thời gian trôi đi đâu hết nhỉ?", "note": "Câu cảm thán rất tự nhiên — không chờ trả lời." },
+                { "w": "Time flies", "vi": "thời gian trôi nhanh thật", "ex": "Time flies, doesn't it?", "exvi": "Thời gian trôi nhanh thật nhỉ?" },
+                { "w": "It must be five years", "vi": "chắc phải năm năm rồi", "ex": "It must be five years now.", "exvi": "Chắc phải năm năm rồi." },
+                { "w": "Still at the same place?", "vi": "vẫn ở chỗ cũ chứ?", "ex": "Still at the same place?", "exvi": "Vẫn làm chỗ cũ chứ?", "note": "Câu hỏi tiếp rất tiện — vừa hỏi thăm vừa cho người ta cớ kể." },
+                { "w": "How's the family?", "vi": "gia đình thế nào?", "ex": "How's the family?", "exvi": "Gia đình bạn thế nào?" },
+                { "w": "Any news?", "vi": "có tin gì mới không?", "ex": "Any news?", "exvi": "Có tin gì mới không?" },
+                { "w": "Last I heard, you were…", "vi": "lần cuối mình nghe thì bạn…", "ex": "Last I heard, you were in Da Nang.", "exvi": "Lần cuối mình nghe thì bạn ở Đà Nẵng.", "note": "Cho thấy bạn vẫn nhớ tin về họ — rất được lòng. Xem [Khung 45]." },
+                { "w": "So what's new?", "vi": "vậy có gì mới?", "ex": "So what's new with you?", "exvi": "Vậy bạn có gì mới không?" }
+              ]
+            },
+            {
+              "title": "Cách đáp lại & kết thúc",
+              "items": [
+                { "w": "I know!", "vi": "đúng không!", "ex": "I know! It's been ages.", "exvi": "Đúng không! Lâu ơi là lâu rồi.", "note": "Đáp lại đầy đồng tình — rất tự nhiên khi ai đó nói lâu quá không gặp." },
+                { "w": "Not much, you know", "vi": "cũng chẳng có gì", "ex": "Not much, you know. Work, mostly.", "exvi": "Cũng chẳng có gì. Chủ yếu là công việc.", "note": "Câu đáp khiêm tốn chuẩn mực cho <i>What have you been up to?</i>" },
+                { "w": "Same as ever", "vi": "vẫn như xưa", "ex": "Same as ever, really.", "exvi": "Thật ra vẫn như xưa thôi." },
+                { "w": "A lot, actually", "vi": "thật ra nhiều chuyện lắm", "ex": "A lot, actually — I moved house.", "exvi": "Thật ra nhiều chuyện lắm — mình chuyển nhà rồi." },
+                { "w": "Neither have you", "vi": "bạn cũng vậy", "ex": "Neither have you!", "exvi": "Bạn cũng vậy mà!", "note": "Đáp lại <i>You haven't changed a bit</i> — đối xứng và ấm áp." },
+                { "w": "You're too kind", "vi": "bạn quá khen", "ex": "You're too kind.", "exvi": "Bạn quá khen rồi." },
+                { "w": "We must catch up", "vi": "mình phải hẹn nhau kể chuyện", "ex": "We must catch up properly.", "exvi": "Mình phải hẹn nhau kể chuyện tử tế mới được.", "note": "Câu kết chuẩn mực — biến cuộc gặp tình cờ thành lời hẹn." },
+                { "w": "Let's not leave it so long", "vi": "đừng để lâu thế nữa", "ex": "Let's not leave it so long next time.", "exvi": "Lần sau đừng để lâu thế nữa nhé.", "note": "Câu kết ấm áp — ngụ ý bạn thật sự muốn giữ liên lạc." },
+                { "w": "Are you free next week?", "vi": "tuần sau bạn rảnh không?", "ex": "Are you free next week?", "exvi": "Tuần sau bạn rảnh không?", "note": "Biến lời hẹn mơ hồ thành cụ thể — chỉ câu này mới thật sự dẫn đến gặp lại." },
+                { "w": "Give me your number", "vi": "cho mình số của bạn", "ex": "Give me your number — I've changed mine.", "exvi": "Cho mình số của bạn — mình đổi số rồi." },
+                { "w": "I'll message you", "vi": "mình sẽ nhắn bạn", "ex": "I'll message you this week.", "exvi": "Tuần này mình sẽ nhắn bạn." },
+                { "w": "Don't be a stranger", "vi": "đừng xa cách thế nhé", "ex": "Don't be a stranger!", "exvi": "Đừng xa cách thế nhé!", "note": "Thành ngữ ấm áp khi chia tay — nghĩa là hãy giữ liên lạc." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Nam! Long time no see!",
+                  "vi": "Nam! Lâu quá không gặp!",
+                  "note": "Thành ngữ cố định — sai ngữ pháp nhưng hoàn toàn chuẩn. Đừng cố sửa nó.",
+                  "open": { "en": "Wait — is that you?", "vi": "Khoan — có phải bạn không?" },
+                  "reply": [
+                    { "them": "I know! It's been ages.", "themvi": "Đúng không! Lâu ơi là lâu rồi.", "you": "How long has it been? Two years?", "youvi": "Bao lâu rồi nhỉ? Hai năm?" },
+                    { "them": "You haven't changed a bit!", "themvi": "Bạn chẳng thay đổi gì cả!", "you": "Neither have you.", "youvi": "Bạn cũng vậy mà." }
+                  ],
+                  "close": { "en": "We must catch up properly.", "vi": "Mình phải hẹn nhau kể chuyện tử tế." }
+                },
+                {
+                  "en": "What have you been up to?",
+                  "vi": "Dạo này bạn làm gì vậy?",
+                  "note": "Câu hỏi CHUẨN sau lời chào — nhẹ và mở, khác hẳn <i>What have you been doing?</i> nghe như điều tra.",
+                  "reply": [
+                    { "them": "Not much, you know. Work, mostly.", "themvi": "Cũng chẳng có gì. Chủ yếu là công việc.", "you": "Still at the same place?", "youvi": "Vẫn làm chỗ cũ chứ?" },
+                    { "them": "A lot, actually — I moved house.", "themvi": "Thật ra nhiều chuyện lắm — mình chuyển nhà rồi.", "you": "Whereabouts?", "youvi": "Chuyển đi đâu?" }
+                  ]
+                },
+                {
+                  "en": "Fancy seeing you here!",
+                  "vi": "Không ngờ gặp bạn ở đây!",
+                  "note": "Rất Anh — dùng khi gặp tình cờ ở một nơi bất ngờ.",
+                  "reply": [
+                    { "them": "I could say the same!", "themvi": "Mình cũng nói câu đó được!", "you": "What brings you here?", "youvi": "Gì đưa bạn đến đây vậy?" }
+                  ],
+                  "vars": [
+                    { "en": "Well, well — look who it is!", "vi": "Chà chà — xem ai đây này!" }
+                  ]
+                },
+                {
+                  "en": "Let's not leave it so long next time.",
+                  "vi": "Lần sau đừng để lâu thế nữa nhé.",
+                  "note": "Câu kết ấm áp — ngụ ý bạn thật sự muốn giữ liên lạc chứ không nói cho có.",
+                  "reply": [
+                    { "them": "Agreed. Give me your number.", "themvi": "Đồng ý. Cho mình số của bạn.", "you": "I've changed it, actually.", "youvi": "Thật ra mình đổi số rồi." }
+                  ],
+                  "close": { "en": "Don't be a stranger!", "vi": "Đừng xa cách thế nhé!" }
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "It's been a while, hasn't it?",
+                  "vi": "Lâu rồi nhỉ?",
+                  "note": "Trung tính — dùng được cả trong công việc, không quá thân mật như <i>Long time no see</i>.",
+                  "reply": [
+                    { "them": "It must be a year since the conference.", "themvi": "Chắc phải một năm từ hồi hội thảo.", "you": "Time flies, doesn't it?", "youvi": "Thời gian trôi nhanh thật nhỉ?" }
+                  ],
+                  "close": { "en": "Good to see you again.", "vi": "Vui được gặp lại anh/chị." }
+                },
+                {
+                  "en": "Long time no speak! How've you been?",
+                  "vi": "Lâu quá không nói chuyện! Dạo này anh/chị thế nào?",
+                  "note": "<b>Long time no speak</b> dùng cho ĐIỆN THOẠI và tin nhắn — khi không gặp mặt.",
+                  "reply": [
+                    { "them": "Busy, as always. You?", "themvi": "Bận như mọi khi. Còn anh/chị?", "you": "Same. Are you still at the same firm?", "youvi": "Tôi cũng vậy. Anh/chị vẫn ở công ty cũ chứ?" }
+                  ],
+                  "vars": [
+                    { "en": "It's been ages since we spoke.", "vi": "Lâu lắm rồi mình không nói chuyện." }
+                  ]
+                },
+                {
+                  "en": "Last I heard, you were in Da Nang.",
+                  "vi": "Lần cuối tôi nghe thì anh/chị ở Đà Nẵng.",
+                  "note": "Cho thấy bạn vẫn nhớ tin về họ — rất được lòng người nghe. Xem [Khung 45].",
+                  "reply": [
+                    { "them": "I was — I moved back last year.", "themvi": "Đúng vậy — năm ngoái tôi về lại.", "you": "And how's that going?", "youvi": "Vậy thế nào rồi?" }
+                  ]
+                },
+                {
+                  "en": "We must catch up properly sometime.",
+                  "vi": "Hôm nào mình phải hẹn nhau nói chuyện tử tế.",
+                  "note": "<i>catch up</i> = gặp nhau cập nhật tin tức. Câu kết chuẩn mực của cuộc gặp tình cờ.",
+                  "reply": [
+                    { "them": "Definitely. Are you free next week?", "themvi": "Chắc chắn rồi. Tuần sau anh/chị rảnh không?", "you": "Thursday works for me.", "youvi": "Thứ Năm tôi được." }
+                  ],
+                  "close": { "en": "I'll send an invite.", "vi": "Tôi sẽ gửi lời mời lịch." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "It's been ages! You look great.",
+                  "vi": "Lâu ơi là lâu! Trông bạn tuyệt quá.",
+                  "note": "Lời khen khi gặp lại gần như bắt buộc trong văn hóa Anh-Mỹ — nó làm ấm cả cuộc gặp.",
+                  "reply": [
+                    { "them": "You're too kind. You look well too.", "themvi": "Bạn quá khen. Bạn trông cũng khỏe mà.", "you": "Shall we sit down?", "youvi": "Mình ngồi xuống nhé?" }
+                  ],
+                  "close": { "en": "Right — tell me everything.", "vi": "Nào — kể hết cho mình nghe đi." }
+                },
+                {
+                  "en": "How long has it been? Five years?",
+                  "vi": "Bao lâu rồi nhỉ? Năm năm?",
+                  "note": "Mời người kia cùng nhớ lại — câu hỏi này luôn dẫn đến một cuộc trò chuyện dài.",
+                  "reply": [
+                    { "them": "More like six!", "themvi": "Chắc phải sáu ấy chứ!", "you": "Where does the time go?", "youvi": "Thời gian trôi đi đâu hết nhỉ?" }
+                  ],
+                  "vars": [
+                    { "en": "It must be five years now.", "vi": "Chắc phải năm năm rồi." }
+                  ]
+                },
+                {
+                  "en": "So what's new with you?",
+                  "vi": "Vậy bạn có gì mới không?",
+                  "reply": [
+                    { "them": "Same as ever, really.", "themvi": "Thật ra vẫn như xưa thôi.", "you": "I don't believe that for a second.", "youvi": "Mình chẳng tin tí nào." }
+                  ]
+                },
+                {
+                  "en": "Don't be a stranger!",
+                  "vi": "Đừng xa cách thế nhé!",
+                  "note": "Thành ngữ ấm áp khi chia tay — nghĩa là hãy giữ liên lạc, đừng biến mất nữa.",
+                  "reply": [
+                    { "them": "I won't, promise.", "themvi": "Mình hứa sẽ không.", "you": "I'll hold you to that.", "youvi": "Mình sẽ giữ lời hứa đó đấy." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Long time no see! What are you doing here?",
+                  "vi": "Lâu quá không gặp! Bạn làm gì ở đây vậy?",
+                  "note": "Gặp người quen ở nơi xa — tình huống khiến câu này càng tự nhiên.",
+                  "reply": [
+                    { "them": "Same as you, I imagine — holiday.", "themvi": "Chắc giống bạn thôi — đi nghỉ.", "you": "Small world!", "youvi": "Trái đất tròn thật!" }
+                  ],
+                  "close": { "en": "Let's grab a drink later.", "vi": "Lát mình đi làm ly nhé." }
+                },
+                {
+                  "en": "It's been far too long.",
+                  "vi": "Lâu quá rồi ấy chứ.",
+                  "reply": [
+                    { "them": "It really has. How've you been?", "themvi": "Đúng thật. Dạo này bạn thế nào?", "you": "Surviving! You?", "youvi": "Vẫn sống sót! Còn bạn?" }
+                  ],
+                  "vars": [
+                    { "en": "I haven't seen you in ages!", "vi": "Lâu lắm rồi không gặp bạn!" }
+                  ]
+                },
+                {
+                  "en": "You haven't changed a bit!",
+                  "vi": "Bạn chẳng thay đổi gì cả!",
+                  "note": "Luôn là LỜI KHEN — ngụ ý bạn vẫn trẻ và vẫn là chính mình.",
+                  "reply": [
+                    { "them": "Neither have you!", "themvi": "Bạn cũng vậy mà!", "you": "We're both lying, but thank you.", "youvi": "Cả hai đều nói dối, nhưng cảm ơn nhé." }
+                  ]
+                },
+                {
+                  "en": "Are you free while you're here?",
+                  "vi": "Bạn ở đây có rảnh không?",
+                  "note": "Biến cuộc gặp tình cờ thành lời hẹn cụ thể — chỉ câu này mới thật sự dẫn đến gặp lại.",
+                  "reply": [
+                    { "them": "I leave on Thursday, but tomorrow's free.", "themvi": "Thứ Năm mình bay, nhưng mai rảnh.", "you": "Tomorrow it is.", "youvi": "Vậy mai nhé." }
+                  ],
+                  "close": { "en": "I'll message you the place.", "vi": "Mình nhắn bạn địa điểm." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Long time no see! Still working here?",
+                  "vi": "Lâu quá không gặp! Em vẫn làm ở đây à?",
+                  "reply": [
+                    { "them": "Five years now!", "themvi": "Năm năm rồi ạ!", "you": "Where does the time go?", "youvi": "Thời gian trôi đi đâu hết nhỉ?" }
+                  ]
+                },
+                {
+                  "en": "It's been a while since I came in.",
+                  "vi": "Lâu rồi tôi mới ghé lại.",
+                  "note": "Cách mở lời khi bạn là khách quen nhưng đã lâu không đến.",
+                  "reply": [
+                    { "them": "We wondered where you'd gone!", "themvi": "Bọn em cứ thắc mắc anh/chị đi đâu!", "you": "Work got busy. But I'm back.", "youvi": "Công việc bận quá. Nhưng tôi quay lại rồi." }
+                  ],
+                  "close": { "en": "The usual, please.", "vi": "Cho tôi món quen nhé." }
+                },
+                {
+                  "en": "Has it really been a year?",
+                  "vi": "Thật sự đã một năm rồi à?",
+                  "reply": [
+                    { "them": "Longer, I think!", "themvi": "Em nghĩ còn lâu hơn ấy!", "you": "Time flies.", "youvi": "Thời gian trôi nhanh thật." }
+                  ],
+                  "vars": [
+                    { "en": "How long has it been?", "vi": "Bao lâu rồi nhỉ?" }
+                  ]
+                },
+                {
+                  "en": "Good to see you again — any news?",
+                  "vi": "Vui được gặp lại — có tin gì mới không?",
+                  "reply": [
+                    { "them": "We've expanded — new floor upstairs.", "themvi": "Bên em mở rộng rồi — thêm tầng trên ạ.", "you": "I'll have a look.", "youvi": "Để tôi lên xem." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Tình cờ gặp lại bạn cũ trên phố",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Wait — Nam? Long time no see!", "vi": "Khoan — Nam? Lâu quá không gặp!" },
+            { "speaker": "Nam", "en": "I know! It's been ages. You look great.", "vi": "Đúng không! Lâu ơi là lâu. Trông bạn tuyệt quá." },
+            { "speaker": "You", "me": true, "en": "You're too kind. How long has it been? Two years?", "vi": "Bạn quá khen. Bao lâu rồi nhỉ? Hai năm?" },
+            { "speaker": "Nam", "en": "More like three. Where does the time go?", "vi": "Chắc phải ba. Thời gian trôi đi đâu hết nhỉ?" },
+            { "speaker": "You", "me": true, "en": "So what have you been up to?", "vi": "Vậy dạo này bạn làm gì?" },
+            { "speaker": "Nam", "en": "Not much, you know. We must catch up properly.", "vi": "Cũng chẳng có gì. Mình phải hẹn nhau kể chuyện tử tế mới được." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Gọi điện cho đối tác lâu không liên lạc",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Hi Mai, it's Nam. Long time no speak!", "vi": "Chào Mai, Nam đây. Lâu quá không nói chuyện!" },
+            { "speaker": "Mai", "en": "Nam! It's been a while. How've you been?", "vi": "Nam! Lâu rồi nhỉ. Dạo này anh thế nào?" },
+            { "speaker": "You", "me": true, "en": "Busy, as always. Last I heard, you'd moved to Da Nang.", "vi": "Bận như mọi khi. Lần cuối tôi nghe thì chị chuyển vào Đà Nẵng." },
+            { "speaker": "Mai", "en": "I did — but I'm back now. What's new with you?", "vi": "Đúng vậy — nhưng giờ tôi về rồi. Anh có gì mới không?" },
+            { "speaker": "You", "me": true, "en": "New role, same company. We must catch up properly.", "vi": "Vị trí mới, vẫn công ty cũ. Mình phải hẹn nhau nói chuyện tử tế." },
+            { "speaker": "Mai", "en": "Definitely. Let's not leave it so long next time.", "vi": "Chắc chắn rồi. Lần sau đừng để lâu thế nữa." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Long time not see!", "right": "Long time no see!", "why": "Thành ngữ CỐ ĐỊNH — luôn là <b>no</b>, không phải <i>not</i>. Đừng đổi một chữ nào." },
+            { "wrong": "It's been a long time no see.", "right": "Long time no see. / It's been a long time.", "why": "Trộn hai cấu trúc. Chọn MỘT — thành ngữ hoặc câu đầy đủ, không phải cả hai." },
+            { "wrong": "Long time no meet!", "right": "Long time no see!", "why": "Thành ngữ chỉ có dạng <b>no see</b> (gặp mặt) và <b>no speak</b> (nói chuyện). Không có <i>no meet</i>." },
+            { "wrong": "Nice to meet you! <i>(với người đã quen)</i>", "right": "Good to see you again!", "why": "<b>meet</b> chỉ dành cho lần đầu. Gặp lại phải dùng <b>see</b>. Xem [Khung 72]." },
+            { "wrong": "What have you been doing?", "right": "What have you been up to?", "why": "<i>What have you been doing?</i> nghe như đang điều tra. Dạng <b>up to</b> nhẹ và mở hơn nhiều." },
+            { "wrong": "Long time no see! <i>(gặp lại sau một tuần)</i>", "right": "Hey, how's it going?", "why": "Thành ngữ này dành cho khoảng cách <b>hàng tháng trở lên</b>. Dùng sai chỗ nghe như mỉa mai." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu", "Khoảng cách thời gian", "Sắc thái"],
+          "rows": [
+            ["<code>How's it going?</code>", "Gặp thường xuyên", "Lời chào. Xem [Khung 76]."],
+            ["<code>Good to see you.</code>", "Bất kỳ lúc nào gặp lại", "Ấm, trung tính. Xem [Khung 72]."],
+            ["<code>It's been a while.</code>", "Vài tháng", "Trung tính, hợp công việc."],
+            ["<code>Long time no see!</code>", "Nhiều tháng đến vài năm", "Thân mật, ấm áp."],
+            ["<code>It's been ages!</code>", "Rất lâu", "Thân mật, có phóng đại."],
+            ["<code>Long time no speak!</code>", "Lâu không liên lạc", "Điện thoại, tin nhắn."],
+            ["<code>Nice to meet you.</code>", "Lần đầu tiên", "Chỉ lần đầu. Xem [Khung 72]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — chào người lâu không gặp" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Good to see you.", "vi": "Trung tính nhất — mọi hoàn cảnh" },
+            { "en": "It's been a while, hasn't it?", "vi": "Nhẹ nhàng — hợp công việc" },
+            { "en": "Long time no see!", "vi": "Thân mật, ấm áp" },
+            { "en": "It's been ages!", "vi": "Thân mật, có cảm thán" },
+            { "en": "Well, well — look who it is!", "vi": "Dí dỏm nhất — chỉ với người rất quen" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Long time no see</b> nói liền một hơi: <b>“long-taim-noh-SEE”</b> — trọng âm rơi vào <i>SEE</i>.",
+            "Bốn từ đều đọc rõ và nhịp đều nhau — đây là thành ngữ, không nuốt âm như câu thường.",
+            "<b>It's been</b> nối âm thành <b>“its-BIN”</b> — chữ <i>been</i> ở Anh đọc dài /biːn/, ở Mỹ ngắn /bɪn/.",
+            "<b>It's been ages</b> → “its-bi-NEI-jiz”, âm /n/ nối sang nguyên âm của <i>ages</i>.",
+            "<b>What have you been up to</b> → “wə-də-yə-bin-ʌp-TOO” — nói rất nhanh, nhấn <i>TOO</i> ở cuối.",
+            "<b>Giọng lên cao và ấm</b> — đây là lời chào vui mừng, nói giọng phẳng là mất hết sắc thái."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Nam! Long time no see!", "vi": "Luyện shadowing: bốn từ nhịp đều, lên giọng mạnh ở SEE." },
+            { "en": "What have you been up to?", "vi": "Tập nói lướt phần đầu rồi nhấn rõ UP TO." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Lâu quá không gặp!", "blank": "__________!", "a": "Long time no see (KHÔNG phải “not see”)" },
+            { "vi": "Lâu quá không nói chuyện! (điện thoại)", "blank": "__________!", "a": "Long time no speak" },
+            { "vi": "Lâu rồi nhỉ?", "blank": "__________, hasn't it?", "a": "It's been a while" },
+            { "vi": "Dạo này bạn làm gì vậy?", "blank": "What have you been __________?", "a": "up to" },
+            { "vi": "Bạn chẳng thay đổi gì cả!", "blank": "You __________!", "a": "haven't changed a bit" },
+            { "vi": "Thời gian trôi đi đâu hết nhỉ?", "blank": "__________?", "a": "Where does the time go" },
+            { "vi": "Mình phải hẹn nhau kể chuyện tử tế.", "blank": "We must __________ properly.", "a": "catch up" },
+            { "vi": "Đừng xa cách thế nhé!", "blank": "__________!", "a": "Don't be a stranger" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Nam! Lâu quá không gặp!", "a": "Nam! Long time no see!" },
+            { "vi": "2. Lâu ơi là lâu! Trông bạn tuyệt quá.", "a": "It's been ages! You look great." },
+            { "vi": "3. Dạo này bạn làm gì vậy?", "a": "What have you been up to?" },
+            { "vi": "4. Lần cuối tôi nghe thì anh/chị ở Đà Nẵng.", "a": "Last I heard, you were in Da Nang." },
+            { "vi": "5. Lần sau đừng để lâu thế nữa nhé.", "a": "Let's not leave it so long next time." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Đừng sửa thành ngữ.</b> <i>Long time no see</i> sai ngữ pháp nhưng hoàn toàn chuẩn — đổi một chữ là hỏng.",
+            "<b>Dùng “Long time no speak” cho điện thoại và tin nhắn</b> — khi hai người không gặp mặt.",
+            "<b>Câu hỏi tiếp bắt buộc là “What have you been up to?”</b> — nhẹ và mở hơn <i>What have you been doing?</i>",
+            "<b>Khen khi gặp lại gần như bắt buộc:</b> <i>You look great!</i> hoặc <i>You haven't changed a bit!</i>",
+            "<b>Kết bằng lời hẹn cụ thể:</b> <i>We must catch up</i> là đẹp, nhưng <i>Are you free next week?</i> mới thật sự dẫn đến gặp lại.",
+            "<b>Bài tập 3 phút:</b> nghĩ đến ba người bạn lâu không gặp, viết cho mỗi người một lời chào, một câu hỏi tin tức và một lời hẹn."
+          ]
+        }
+      ]
+    }
+  ]
+}

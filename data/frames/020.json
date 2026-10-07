@@ -1,0 +1,487 @@
+{
+  "id": 20,
+  "group": "Nhóm 2 · Yêu cầu & Nhờ vả",
+  "title": "Let me… — Đề nghị làm giúp, và câu giờ một cách chuyên nghiệp",
+  "subtitle": "Khung để bạn chủ động nhận việc về mình: đề nghị giúp, xin phép xử lý, hoặc câu giờ khi chưa trả lời được ngay. Trong đó “Let me know” là cụm được dùng nhiều nhất trong tiếng Anh công sở — gần như không email nào thiếu nó.",
+  "pattern": [
+    "Let me <em>+ V (không “to”)</em>",
+    "Let me just <em>+ V</em>",
+    "Let me know <em>+ if/when/wh-…</em>"
+  ],
+  "meaning": "Để tôi… / Cứ để tôi lo…",
+  "grammar": [53, 27, 29],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Cụm số 1 trong email công việc" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">Let me + V</span> dịch sát là “hãy để tôi làm việc đó”. Bạn không nhờ ai cả — bạn <b>nhận việc về mình</b>. Vì thế nó luôn được đón nhận tích cực: người nghe được giảm gánh nặng chứ không phải gánh thêm." },
+        { "t": "p", "html": "Ba công dụng chính, rất khác nhau. Một là <b>đề nghị giúp</b>: <i>Let me help you with that.</i> Hai là <b>xin phép xử lý</b>: <i>Let me handle this one.</i> Ba là <b>câu giờ</b>: <i>Let me check and get back to you.</i> — cách hoãn trả lời mà vẫn nghe rất chuyên nghiệp." },
+        { "t": "p", "html": "Riêng <span class=\"k\">Let me know</span> là một trường hợp đặc biệt: nó không phải “để tôi biết” mà là <b>“báo cho tôi biết nhé”</b> — tức là bạn đang nhờ người kia. Đây là cụm xuất hiện trong gần như mọi email công việc tiếng Anh." },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp:</b> sau <i>let me</i> là <b>động từ nguyên thể KHÔNG “to”</b>. <span class=\"k\">Let me check.</span> ✓ — <i>Let me to check.</i> ✗ Quy tắc này áp dụng cho cả <i>let him, let her, let us</i>." },
+        { "t": "h3", "text": "Ba công dụng, ba sắc thái" },
+        {
+          "t": "table",
+          "head": ["Câu", "Bạn đang làm gì", "Người nghe cảm thấy"],
+          "rows": [
+            ["<code>Let me help you with that.</code>", "Đề nghị giúp", "Được san sẻ"],
+            ["<code>Let me handle this one.</code>", "Xin nhận việc", "Yên tâm giao lại"],
+            ["<code>Let me check and get back to you.</code>", "Câu giờ có trách nhiệm", "Được hứa sẽ có câu trả lời"],
+            ["<code>Let me know if you need anything.</code>", "Nhờ NGƯỜI KIA báo lại", "Được mời liên hệ"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🤝", "title": "Đề nghị giúp đỡ", "text": "<i>Let me help you with those bags.</i> Chủ động hơn hẳn <i>Do you need help?</i>" },
+            { "icon": "⏳", "title": "Câu giờ khi chưa biết trả lời", "text": "Bối cảnh vàng. <i>Let me check and get back to you.</i> Không ai bắt bẻ được." },
+            { "icon": "📧", "title": "Kết email", "text": "<i>Let me know if you have any questions.</i> Câu kết email phổ biến nhất." },
+            { "icon": "🙋", "title": "Nhận việc về mình", "text": "<i>Let me take care of it.</i> Thể hiện bạn đứng ra chịu trách nhiệm." },
+            { "icon": "💳", "title": "Giành trả tiền", "text": "<i>Let me get this.</i> Câu ngắn để mời bữa ăn." },
+            { "icon": "🎤", "title": "Mở đầu khi thuyết trình", "text": "<i>Let me start by thanking everyone.</i>" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cơ bản", "<code>Let me + V</code>", "Let me check the schedule."],
+            ["Làm mềm", "<code>Let me just + V</code>", "Let me just double-check that."],
+            ["Nhờ người kia báo lại", "<code>Let me know + if/when</code>", "Let me know when you're ready."],
+            ["Nhờ báo về một việc", "<code>Let me know about + N</code>", "Let me know about Friday."],
+            ["Đề nghị giúp", "<code>Let me help you with + N</code>", "Let me help you with that."],
+            ["Hứa trả lời sau", "<code>Let me get back to you</code>", "Let me get back to you tomorrow."],
+            ["Trang trọng", "<code>Allow me to + V</code>", "Allow me to introduce our new manager."],
+            ["Mở đầu bài nói", "<code>Let me start by + V-ing</code>", "Let me start by saying thank you."],
+            ["Làm rõ lại ý", "<code>Let me be clear</code>", "Let me be clear about one thing."],
+            ["Đề nghị nhẹ cho người khác", "<code>Let me get you + N</code>", "Let me get you a chair."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng nhầm “Let me” với “Let's”:</b> <span class=\"k\">Let me check</span> = để MỘT MÌNH tôi kiểm tra. <span class=\"k\">Let's check</span> = CHÚNG TA cùng kiểm tra (<i>let's</i> = <i>let us</i>). Xem [Khung 31]." },
+        { "t": "callout", "html": "<b>“Let me know” hướng ngược lại:</b> các câu khác trong khung này là bạn làm, nhưng <i>Let me know</i> là <b>nhờ người kia</b> làm — báo tin cho bạn. Đây là ngoại lệ duy nhất, và cũng là cụm dùng nhiều nhất." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “Let me…”",
+              "items": [
+                { "w": "check", "vi": "kiểm tra", "ex": "Let me check the schedule.", "exvi": "Để tôi xem lại lịch.", "note": "Câu câu giờ hữu dụng nhất — dùng được ở mọi tình huống." },
+                { "w": "see", "vi": "để xem nào", "ex": "Let me see… I think it's on Tuesday.", "exvi": "Để xem nào… tôi nghĩ là thứ Ba.", "note": "<i>Let me see</i> thường chỉ là câu lấp chỗ trống trong lúc bạn đang nghĩ." },
+                { "w": "know", "vi": "báo tôi biết", "ex": "Let me know if anything changes.", "exvi": "Có gì thay đổi báo tôi biết nhé.", "note": "NGOẠI LỆ: đây là nhờ người kia làm, không phải bạn làm." },
+                { "w": "help", "vi": "giúp", "ex": "Let me help you with that.", "exvi": "Để tôi giúp bạn cái đó." },
+                { "w": "explain", "vi": "giải thích", "ex": "Let me explain what happened.", "exvi": "Để tôi giải thích chuyện gì đã xảy ra." },
+                { "w": "show", "vi": "chỉ cho xem", "ex": "Let me show you how it works.", "exvi": "Để tôi chỉ cho bạn cách nó hoạt động." },
+                { "w": "try", "vi": "thử", "ex": "Let me try one more time.", "exvi": "Để tôi thử thêm một lần nữa." },
+                { "w": "think", "vi": "suy nghĩ", "ex": "Let me think about it overnight.", "exvi": "Để tôi suy nghĩ qua đêm đã.", "note": "Cách hoãn quyết định mà không từ chối." },
+                { "w": "get", "vi": "lấy, mang tới", "ex": "Let me get you a chair.", "exvi": "Để tôi lấy ghế cho bạn." },
+                { "w": "take care of", "vi": "lo liệu", "ex": "Let me take care of it.", "exvi": "Cứ để tôi lo việc đó.", "note": "Thể hiện bạn nhận trách nhiệm hoàn toàn — rất được tin tưởng." },
+                { "w": "handle", "vi": "xử lý", "ex": "Let me handle this one.", "exvi": "Vụ này để tôi xử lý." },
+                { "w": "sort out", "vi": "giải quyết", "ex": "Let me sort that out for you.", "exvi": "Để tôi giải quyết việc đó giúp bạn." },
+                { "w": "call", "vi": "gọi điện", "ex": "Let me call them and find out.", "exvi": "Để tôi gọi hỏi họ xem sao." },
+                { "w": "ask", "vi": "hỏi", "ex": "Let me ask my manager first.", "exvi": "Để tôi hỏi quản lý trước đã." },
+                { "w": "walk you through", "vi": "hướng dẫn từng bước", "ex": "Let me walk you through the process.", "exvi": "Để tôi hướng dẫn bạn từng bước quy trình.", "note": "Cụm rất chuyên nghiệp khi bạn đang chỉ việc cho ai đó." },
+                { "w": "introduce", "vi": "giới thiệu", "ex": "Let me introduce myself.", "exvi": "Để tôi tự giới thiệu." },
+                { "w": "start by", "vi": "bắt đầu bằng", "ex": "Let me start by thanking everyone.", "exvi": "Để tôi bắt đầu bằng lời cảm ơn mọi người.", "note": "Sau <i>start by</i> luôn là V-ing." },
+                { "w": "finish", "vi": "nói nốt", "ex": "Let me finish, then you can ask.", "exvi": "Để tôi nói nốt, rồi bạn hỏi nhé.", "note": "Cách chặn người cắt ngang mà không gay gắt." },
+                { "w": "double-check", "vi": "kiểm tra lại cho chắc", "ex": "Let me just double-check the date.", "exvi": "Để tôi kiểm tra lại ngày cho chắc." },
+                { "w": "grab", "vi": "lấy nhanh", "ex": "Let me grab my coat.", "exvi": "Để tôi lấy cái áo khoác đã." }
+              ]
+            },
+            {
+              "title": "Câu hoàn chỉnh nên thuộc lòng",
+              "items": [
+                { "w": "Let me know if you need anything.", "vi": "cần gì cứ báo tôi nhé", "ex": "I'll be at my desk — let me know if you need anything.", "exvi": "Tôi ngồi ở bàn — cần gì cứ báo tôi nhé." },
+                { "w": "Let me know if you have any questions.", "vi": "có thắc mắc gì báo tôi nhé", "ex": "Hope that helps — let me know if you have any questions.", "exvi": "Mong là giúp được bạn — có thắc mắc gì báo tôi nhé.", "note": "Câu kết email phổ biến nhất trong tiếng Anh công sở." },
+                { "w": "Let me check and get back to you.", "vi": "để tôi kiểm tra rồi báo lại", "ex": "I'm not sure — let me check and get back to you.", "exvi": "Tôi chưa chắc — để tôi kiểm tra rồi báo lại anh/chị.", "note": "Câu vàng khi bạn chưa biết trả lời. Nhớ kèm mốc thời gian cụ thể." },
+                { "w": "Let me get back to you by…", "vi": "tôi sẽ báo lại trước…", "ex": "Let me get back to you by five.", "exvi": "Tôi sẽ báo lại anh/chị trước năm giờ.", "note": "Thêm mốc thời gian là biến câu câu giờ thành lời hứa đáng tin." },
+                { "w": "Let me help you with that.", "vi": "để tôi giúp bạn", "ex": "Those look heavy — let me help you with that.", "exvi": "Nhìn nặng quá — để tôi giúp bạn." },
+                { "w": "Let me take care of it.", "vi": "cứ để tôi lo", "ex": "Don't worry, let me take care of it.", "exvi": "Đừng lo, cứ để tôi lo việc đó." },
+                { "w": "Let me get this.", "vi": "để tôi trả tiền", "ex": "Put your wallet away — let me get this.", "exvi": "Cất ví đi — để mình trả.", "note": "Câu mời bữa ăn ngắn gọn nhất. Người kia thường đáp <i>Are you sure?</i>" },
+                { "w": "Let me think about it.", "vi": "để tôi suy nghĩ đã", "ex": "That's interesting — let me think about it.", "exvi": "Nghe hay đấy — để tôi suy nghĩ đã.", "note": "Hoãn quyết định mà không đóng cửa." },
+                { "w": "Let me walk you through it.", "vi": "để tôi hướng dẫn từng bước", "ex": "It looks complicated — let me walk you through it.", "exvi": "Nhìn phức tạp thật — để tôi hướng dẫn bạn từng bước." },
+                { "w": "Let me be clear.", "vi": "để tôi nói cho rõ", "ex": "Let me be clear — we can't miss this deadline.", "exvi": "Để tôi nói cho rõ — hạn này không được trễ.", "note": "Câu khá mạnh — dùng khi cần chốt một điều quan trọng." }
+              ]
+            },
+            {
+              "title": "Biến thể & cách đáp lại",
+              "items": [
+                { "w": "Let me just…", "vi": "để tôi… một chút thôi", "ex": "Let me just finish this email.", "exvi": "Để tôi viết nốt email này đã.", "note": "<i>just</i> báo rằng việc đó rất nhanh — người kia không sốt ruột." },
+                { "w": "Allow me to…", "vi": "xin phép cho tôi…", "ex": "Allow me to introduce our new manager.", "exvi": "Xin phép cho tôi giới thiệu quản lý mới của chúng ta.", "note": "Trang trọng — dùng khi phát biểu hoặc trong nghi thức." },
+                { "w": "Let me get you…", "vi": "để tôi lấy… cho bạn", "ex": "Let me get you a glass of water.", "exvi": "Để tôi lấy cho bạn một ly nước." },
+                { "w": "Let's…", "vi": "chúng ta cùng…", "ex": "Let's check it together.", "exvi": "Mình cùng kiểm tra nhé.", "note": "KHÁC HẲN: <i>let's</i> = chúng ta. Xem [Khung 31]." },
+                { "w": "Are you sure?", "vi": "bạn chắc chứ?", "ex": "“Let me get this.” — “Are you sure?”", "exvi": "“Để mình trả.” — “Bạn chắc chứ?”", "note": "Câu đáp lịch sự khi ai đó giành trả tiền — rồi mới nhận lời." },
+                { "w": "That's very kind of you", "vi": "bạn tử tế quá", "ex": "That's very kind of you, thank you.", "exvi": "Bạn tử tế quá, cảm ơn nhé.", "note": "Cách nhận lời giúp đỡ vừa ấm vừa lịch sự." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I'm not sure — let me check and get back to you.",
+                  "vi": "Tôi chưa chắc — để tôi kiểm tra rồi báo lại anh/chị.",
+                  "note": "Câu vàng khi bị hỏi điều bạn chưa biết. Tốt hơn nhiều so với đoán bừa hoặc im lặng.",
+                  "reply": [
+                    { "them": "When can you let me know?", "themvi": "Khi nào anh/chị báo lại được?", "you": "By five today.", "youvi": "Trước năm giờ hôm nay ạ." },
+                    { "them": "We need an answer now, I'm afraid.", "themvi": "E là chúng tôi cần câu trả lời ngay.", "you": "Then let me call them while you wait.", "youvi": "Vậy để tôi gọi họ luôn, anh/chị chờ một chút." }
+                  ],
+                  "close": { "en": "I'll email you the moment I know.", "vi": "Biết là tôi email cho anh/chị ngay." }
+                },
+                {
+                  "en": "Let me know if you have any questions.",
+                  "vi": "Có thắc mắc gì anh/chị báo tôi nhé.",
+                  "note": "Câu kết email phổ biến nhất trong tiếng Anh công sở. Gần như không thể dùng sai.",
+                  "reply": [
+                    { "them": "Will do, thanks.", "themvi": "Vâng, cảm ơn anh/chị.", "you": "Any time.", "youvi": "Không có gì đâu ạ." }
+                  ],
+                  "vars": [
+                    { "en": "Let me know if you need anything else.", "vi": "Cần gì thêm anh/chị báo tôi nhé." },
+                    { "en": "Let me know what you think.", "vi": "Anh/chị thấy sao thì báo tôi nhé." }
+                  ]
+                },
+                {
+                  "en": "Let me handle this one — I've dealt with them before.",
+                  "vi": "Vụ này để tôi xử lý — tôi từng làm việc với họ rồi.",
+                  "note": "Nhận việc kèm lý do thì đồng nghiệp yên tâm giao hẳn, không phải lo bạn ôm quá sức.",
+                  "reply": [
+                    { "them": "Are you sure? It's a tricky one.", "themvi": "Bạn chắc chứ? Vụ này hóc đấy.", "you": "Positive. I'll keep you posted.", "youvi": "Chắc chắn. Tôi sẽ cập nhật cho bạn." }
+                  ]
+                },
+                {
+                  "en": "Let me walk you through the process.",
+                  "vi": "Để tôi hướng dẫn bạn từng bước quy trình.",
+                  "note": "<span class=\"k\">walk someone through something</span> — nghe chuyên nghiệp hơn hẳn <i>I'll explain</i>.",
+                  "open": { "en": "It looks complicated, but it isn't.", "vi": "Nhìn phức tạp thôi, chứ không khó đâu." },
+                  "reply": [
+                    { "them": "That would be great, thanks.", "themvi": "Vậy thì tốt quá, cảm ơn anh/chị.", "you": "Stop me any time if something's unclear.", "youvi": "Chỗ nào chưa rõ thì cứ ngắt lời tôi nhé." }
+                  ],
+                  "close": { "en": "Let me know if you get stuck.", "vi": "Vướng chỗ nào thì báo tôi nhé." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Those look heavy — let me help you with that.",
+                  "vi": "Nhìn nặng quá — để tôi giúp bạn.",
+                  "note": "Chủ động hơn hẳn <i>Do you need help?</i> — người ta ngại nói cần, nhưng dễ nhận lời khi bạn đã đưa tay ra.",
+                  "reply": [
+                    { "them": "Oh, thank you! That's very kind.", "themvi": "Ồ, cảm ơn bạn! Bạn tử tế quá.", "you": "No problem at all.", "youvi": "Không có gì đâu ạ." },
+                    { "them": "I'm fine, honestly.", "themvi": "Mình ổn mà, thật đấy.", "you": "Just say if you change your mind.", "youvi": "Đổi ý thì cứ bảo mình nhé." }
+                  ]
+                },
+                {
+                  "en": "Put your wallet away — let me get this.",
+                  "vi": "Cất ví đi — để mình trả.",
+                  "note": "Câu mời bữa ăn ngắn gọn nhất. Người kia gần như luôn đáp <i>Are you sure?</i> trước khi nhận.",
+                  "reply": [
+                    { "them": "Are you sure? Let's split it.", "themvi": "Bạn chắc chứ? Hay mình chia đôi.", "you": "Next time's on you.", "youvi": "Lần sau đến lượt bạn." }
+                  ],
+                  "close": { "en": "It was lovely, thank you for coming.", "vi": "Bữa nay vui lắm, cảm ơn bạn đã đến." }
+                },
+                {
+                  "en": "Let me think about it and I'll call you tomorrow.",
+                  "vi": "Để mình suy nghĩ đã, mai mình gọi bạn.",
+                  "note": "Hoãn quyết định mà không từ chối — thêm mốc thời gian thì người kia không phải chờ vô định.",
+                  "reply": [
+                    { "them": "No rush, take your time.", "themvi": "Không vội đâu, bạn cứ thong thả.", "you": "Thanks — I just want to be sure.", "youvi": "Cảm ơn — mình chỉ muốn chắc chắn thôi." }
+                  ]
+                },
+                {
+                  "en": "Let me finish, then you can tell me what you think.",
+                  "vi": "Để mình nói nốt, rồi bạn cho ý kiến nhé.",
+                  "note": "Cách chặn người cắt ngang mà không gay gắt — vì bạn có mời họ nói sau đó.",
+                  "reply": [
+                    { "them": "Sorry, go on.", "themvi": "Xin lỗi, bạn nói tiếp đi.", "you": "Thanks. So as I was saying…", "youvi": "Cảm ơn. Như mình đang nói…" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Let me check if we have it in the back.",
+                  "vi": "Để em kiểm tra xem trong kho còn không ạ.",
+                  "note": "Câu nhân viên hay nói. Nghe quen để biết là họ đang đi tìm hàng cho bạn.",
+                  "reply": [
+                    { "them": "Thank you, no rush.", "themvi": "Cảm ơn bạn, không vội đâu.", "you": "One moment.", "youvi": "Một lát ạ." }
+                  ]
+                },
+                {
+                  "en": "Let me sort that out for you.",
+                  "vi": "Để tôi giải quyết việc đó giúp anh/chị.",
+                  "note": "<span class=\"k\">sort out</span> = xử lý dứt điểm. Câu trấn an khách hàng rất hiệu quả.",
+                  "reply": [
+                    { "them": "That would be a relief, thank you.", "themvi": "Vậy thì nhẹ cả người, cảm ơn bạn.", "you": "Give me two minutes.", "youvi": "Cho tôi hai phút ạ." }
+                  ]
+                },
+                {
+                  "en": "Let me just double-check the total.",
+                  "vi": "Để tôi kiểm tra lại tổng tiền cho chắc.",
+                  "note": "<i>just</i> khiến việc này nghe rất nhanh — không ai thấy bị nghi ngờ tính sai.",
+                  "reply": [
+                    { "them": "Of course, take your time.", "themvi": "Vâng ạ, anh/chị cứ thong thả.", "you": "Yes, that's right. Thank you.", "youvi": "Vâng, đúng rồi ạ. Cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "Let me ask my manager first.",
+                  "vi": "Để em hỏi quản lý trước đã ạ.",
+                  "note": "Nhân viên nói câu này nghĩa là họ chưa có quyền quyết — hãy kiên nhẫn chờ.",
+                  "reply": [
+                    { "them": "No problem, I'll wait.", "themvi": "Không sao, tôi chờ được.", "you": "Thank you, I won't be long.", "youvi": "Cảm ơn anh/chị, em quay lại ngay." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Let me get you a glass of water.",
+                  "vi": "Để tôi lấy cho bạn một ly nước.",
+                  "reply": [
+                    { "them": "That would be great, thanks.", "themvi": "Vậy thì tuyệt, cảm ơn bạn.", "you": "Coming right up.", "youvi": "Có ngay đây." }
+                  ]
+                },
+                {
+                  "en": "Let me see the menu again, please.",
+                  "vi": "Cho tôi xem lại thực đơn ạ.",
+                  "reply": [
+                    { "them": "Of course, here you are.", "themvi": "Vâng ạ, đây ạ.", "you": "Thank you — I just want to check the sides.", "youvi": "Cảm ơn bạn — tôi xem lại phần món ăn kèm chút." }
+                  ]
+                },
+                {
+                  "en": "Let me know when you're ready to order.",
+                  "vi": "Khi nào anh/chị sẵn sàng gọi món thì báo em nhé.",
+                  "note": "Câu nhân viên phục vụ hay nói. Trả lời gọn: <i>Could we have a few more minutes?</i>",
+                  "reply": [
+                    { "them": "Could we have a few more minutes?", "themvi": "Cho chúng tôi thêm vài phút nhé?", "you": "Of course, no rush.", "youvi": "Vâng ạ, anh/chị cứ thong thả." }
+                  ]
+                },
+                {
+                  "en": "Let me try that dish you recommended.",
+                  "vi": "Cho tôi thử món bạn vừa gợi ý.",
+                  "reply": [
+                    { "them": "Great choice — it's our best seller.", "themvi": "Chọn khéo lắm ạ — đó là món bán chạy nhất.", "you": "Sounds good. And a water, please.", "youvi": "Nghe hấp dẫn đấy. Cho tôi thêm nước lọc ạ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Let me check the timetable for you.",
+                  "vi": "Để tôi xem lịch trình giúp bạn.",
+                  "reply": [
+                    { "them": "That's very kind, thank you.", "themvi": "Bạn tử tế quá, cảm ơn bạn.", "you": "There's one at four twenty.", "youvi": "Có một chuyến lúc bốn giờ hai mươi." }
+                  ]
+                },
+                {
+                  "en": "Let me grab my bag and I'll be right with you.",
+                  "vi": "Để tôi lấy cái túi rồi tôi ra ngay.",
+                  "reply": [
+                    { "them": "No rush, we've got time.", "themvi": "Không vội đâu, mình còn thời gian.", "you": "Two seconds.", "youvi": "Hai giây thôi." }
+                  ]
+                },
+                {
+                  "en": "Let me know when you land.",
+                  "vi": "Hạ cánh thì báo mình nhé.",
+                  "note": "Lại là dạng nhờ người kia — không phải bạn làm gì cả.",
+                  "reply": [
+                    { "them": "Will do. It's a long flight.", "themvi": "Mình sẽ nhắn. Bay lâu lắm.", "you": "Get some sleep. Safe trip.", "youvi": "Ngủ chút đi. Đi đường bình an." }
+                  ]
+                },
+                {
+                  "en": "Let me take care of the tickets.",
+                  "vi": "Cứ để mình lo phần vé.",
+                  "note": "Nhận một phần việc cụ thể khi đi chung — rõ ràng và tránh trùng lặp.",
+                  "reply": [
+                    { "them": "Great — then I'll book the hotel.", "themvi": "Tuyệt — vậy mình đặt khách sạn.", "you": "Deal. I'll send you the total after.", "youvi": "Chốt. Xong mình gửi bạn tổng tiền." }
+                  ],
+                  "close": { "en": "Let me know if the dates change.", "vi": "Ngày giờ có đổi thì báo mình nhé." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Bị hỏi điều chưa biết trong cuộc họp",
+          "lines": [
+            { "speaker": "Client", "en": "What's the exact delivery date?", "vi": "Ngày giao hàng chính xác là khi nào?" },
+            { "speaker": "You", "me": true, "en": "I'm not sure off the top of my head — let me check and get back to you.", "vi": "Tôi chưa nhớ chính xác — để tôi kiểm tra rồi báo lại anh/chị." },
+            { "speaker": "Client", "en": "When can you let me know?", "vi": "Khi nào anh báo lại được?" },
+            { "speaker": "You", "me": true, "en": "Let me call the warehouse now. I'll email you by four.", "vi": "Để tôi gọi kho ngay. Tôi sẽ email anh/chị trước bốn giờ." },
+            { "speaker": "Client", "en": "Perfect.", "vi": "Tuyệt." },
+            { "speaker": "You", "me": true, "en": "And let me know if anything changes on your end too.", "vi": "Và bên anh/chị có gì thay đổi cũng báo tôi nhé." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Giành trả tiền sau bữa ăn",
+          "lines": [
+            { "speaker": "Friend", "en": "Shall we split it?", "vi": "Mình chia đôi nhé?" },
+            { "speaker": "You", "me": true, "en": "Put your wallet away — let me get this.", "vi": "Cất ví đi — để mình trả." },
+            { "speaker": "Friend", "en": "Are you sure? It's not cheap.", "vi": "Bạn chắc chứ? Không rẻ đâu." },
+            { "speaker": "You", "me": true, "en": "Positive. Let me get it, and next time's on you.", "vi": "Chắc chắn. Để mình trả, lần sau đến lượt bạn." },
+            { "speaker": "Friend", "en": "That's very kind of you. Thank you.", "vi": "Bạn tử tế quá. Cảm ơn nhé." },
+            { "speaker": "You", "me": true, "en": "Any time. Let me know when you're free again.", "vi": "Có gì đâu. Khi nào bạn rảnh nữa thì báo mình." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Let me to check.", "right": "Let me check.", "why": "Sau <b>let me</b> là động từ nguyên thể <b>không “to”</b>. Lỗi số một của khung này." },
+            { "wrong": "Let me checking.", "right": "Let me check.", "why": "Không dùng V-ing. Luôn là động từ trần." },
+            { "wrong": "Let me know you when it's ready.", "right": "Let me know when it's ready.", "why": "<b>Let me know</b> đã đủ nghĩa “báo tôi biết” — thêm <i>you</i> là thừa và sai." },
+            { "wrong": "Let's me check.", "right": "Let me check.", "why": "<i>Let's</i> đã là <i>let us</i> rồi. Hai cách nói không trộn được với nhau." },
+            { "wrong": "Let me to help you with that.", "right": "Let me help you with that.", "why": "Cùng một lỗi <i>to</i> — kể cả khi có thêm tân ngữ phía sau." },
+            { "wrong": "Let me know about if you can come.", "right": "Let me know if you can come.", "why": "Dùng <b>if</b> thì bỏ <i>about</i>. Chỉ dùng <i>about</i> trước danh từ: <i>let me know about Friday</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>Let me + V</code>", "Tôi nhận việc về mình", "<i>Let me check.</i>"],
+            ["<code>Let's + V</code>", "Chúng ta cùng làm", "<i>Let's check.</i> — Xem [Khung 31]."],
+            ["<code>Let me know…</code>", "Nhờ NGƯỜI KIA báo lại", "<i>Let me know if you need anything.</i>"],
+            ["<code>Shall I + V?</code>", "Hỏi ý trước khi làm giúp", "<i>Shall I check for you?</i> — Nhã hơn, để ngỏ."],
+            ["<code>Would you like me to + V?</code>", "Hỏi ý, lịch sự nhất", "<i>Would you like me to check?</i> — Xem [Khung 30]."],
+            ["<code>I'll + V</code>", "Tuyên bố sẽ làm, không xin phép", "<i>I'll check.</i> — Dứt khoát hơn."],
+            ["<code>Allow me to + V</code>", "Trang trọng, nghi thức", "<i>Allow me to introduce…</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — đề nghị kiểm tra giúp ai đó" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'll check.", "vi": "Dứt khoát — tự quyết" },
+            { "en": "Let me check.", "vi": "Nhận việc — thân thiện" },
+            { "en": "Shall I check for you?", "vi": "Hỏi ý — để ngỏ" },
+            { "en": "Would you like me to check?", "vi": "Lịch sự — trao quyền quyết" },
+            { "en": "Allow me to check that for you.", "vi": "Trang trọng — dịch vụ cao cấp" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Let me</b> nói nhanh dính thành <b>“LEM-mi”</b> — âm /t/ bị nuốt hoàn toàn vào /m/.",
+            "<b>Let me know</b> → “lem-mi-NOW”, trọng âm rơi vào <i>know</i>.",
+            "<b>Let me check</b> → “lem-mi-CHEK”, cả cụm đầu nói rất nhanh và nhẹ.",
+            "<b>Let me just</b> → “lem-mi-JUS”, âm /t/ cuối <i>just</i> gần như mất.",
+            "<b>Let me get back to you</b> → “lem-mi-get-BAK-tə-yə” — cụm dài nhưng nói liền một hơi.",
+            "Trọng âm luôn rơi vào <b>động từ chính</b>, không bao giờ vào <i>let</i> hay <i>me</i>."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Let me check and get back to you.", "vi": "Luyện shadowing: nói “lem-mi” thật nhanh, nhấn vào “check” và “back”." },
+            { "en": "Let me know if you have any questions.", "vi": "Câu kết email phổ biến nhất — lặp 10 lần cho thành phản xạ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Để tôi kiểm tra rồi báo lại anh/chị.", "blank": "__________ and get back to you.", "a": "Let me check" },
+            { "vi": "Có thắc mắc gì anh/chị báo tôi nhé.", "blank": "__________ if you have any questions.", "a": "Let me know" },
+            { "vi": "Để tôi giúp bạn cái đó.", "blank": "__________ you with that.", "a": "Let me help" },
+            { "vi": "Cất ví đi — để mình trả.", "blank": "Put your wallet away — __________.", "a": "let me get this" },
+            { "vi": "Để tôi hướng dẫn bạn từng bước quy trình.", "blank": "__________ you through the process.", "a": "Let me walk" },
+            { "vi": "Để tôi kiểm tra lại ngày cho chắc.", "blank": "__________ double-check the date.", "a": "Let me just" },
+            { "vi": "Cứ để tôi lo việc đó.", "blank": "__________ of it.", "a": "Let me take care" },
+            { "vi": "Xin phép cho tôi giới thiệu quản lý mới.", "blank": "__________ introduce our new manager.", "a": "Allow me to" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Để tôi hỏi quản lý trước đã.", "a": "Let me ask my manager first." },
+            { "vi": "2. Để mình suy nghĩ đã, mai mình gọi bạn.", "a": "Let me think about it and I'll call you tomorrow." },
+            { "vi": "3. Để mình nói nốt, rồi bạn cho ý kiến nhé.", "a": "Let me finish, then you can tell me what you think." },
+            { "vi": "4. Cần gì cứ báo tôi nhé.", "a": "Let me know if you need anything." },
+            { "vi": "5. Để tôi giải quyết việc đó giúp anh/chị.", "a": "Let me sort that out for you." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Thuộc câu câu giờ:</b> <i>Let me check and get back to you.</i> — nó cứu bạn mỗi lần bị hỏi điều chưa biết. Nhớ kèm mốc thời gian cụ thể.",
+            "<b>Dùng “Let me know” để kết email:</b> <i>Let me know if you have any questions.</i> Gần như không email công việc nào thiếu câu này.",
+            "<b>Nhớ không có “to”:</b> đọc thầm mười lần — <i>let me check, let me see, let me help</i>.",
+            "<b>Đề nghị giúp bằng “Let me” thay vì hỏi:</b> <i>Let me help you with that</i> hiệu quả hơn <i>Do you need help?</i>, vì người ta thường ngại nói là cần.",
+            "<b>Phân biệt với “Let's”:</b> <i>Let me</i> là một mình tôi; <i>Let's</i> là chúng ta cùng.",
+            "<b>Bài tập 3 phút:</b> nghĩ 5 tình huống bạn hay bị hỏi mà chưa biết trả lời, và tập nói <i>Let me check and get back to you by…</i> kèm một mốc thời gian thật."
+          ]
+        }
+      ]
+    }
+  ]
+}

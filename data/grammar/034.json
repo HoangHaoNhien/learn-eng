@@ -1,0 +1,277 @@
+{
+  "id": 34,
+  "group": "Nhóm 6 · Tính từ & Trạng từ",
+  "title": "bored ↔ boring — đuôi -ed và -ing",
+  "subtitle": "Một luật duy nhất, dễ nhớ, nhưng sai là buồn cười: đuôi -ed dành cho NGƯỜI đang cảm thấy, đuôi -ing dành cho THỨ gây ra cảm giác đó. Nói I'm boring là bạn vừa tự nhận mình là người nhàm chán.",
+  "meaning": "Tính từ chỉ cảm xúc — ai cảm thấy, cái gì gây ra",
+  "rule": [
+    "<em>-ed</em> → NGƯỜI cảm thấy: <em>I'm bored</em>",
+    "<em>-ing</em> → THỨ gây ra: <em>The film is boring</em>",
+    "Hỏi: ai cảm thấy, cái gì gây ra?"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2–B1", "hot": true },
+    { "text": "I'm boring ✗" },
+    { "text": "-ed người · -ing sự việc" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [81, 82, 85, 87, 89],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Rất nhiều tính từ chỉ cảm xúc có <b>hai dạng</b>: một kết thúc bằng <b>-ed</b>, một bằng <b>-ing</b>. Chúng không thay nhau được, và dùng nhầm thì câu có nghĩa hoàn toàn khác." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — câu sai buồn cười nhất:</b><br>• <i>I'm <b>bored</b></i> ✓ = tôi đang chán.<br>• <i>I'm <b>boring</b></i> ✗ = tôi là người nhàm chán — bạn vừa tự chê mình.<br>Cùng kiểu: <i>I'm <b>interesting</b></i> = tôi là người thú vị (tự khen), còn muốn nói “tôi thấy hứng thú” thì là <i>I'm <b>interested</b></i>." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — luật một câu:</b> hỏi <b>“ai cảm thấy, cái gì gây ra?”</b><br>• Người cảm thấy → <b>-ed</b>: <i>I'm tired, I'm excited, I'm worried</i><br>• Thứ gây ra cảm giác → <b>-ing</b>: <i>a tiring day, an exciting film, a worrying situation</i>" },
+        { "t": "h3", "text": "Một cảm xúc, hai mặt" },
+        {
+          "t": "table",
+          "head": ["Cảm xúc", "Người cảm thấy (-ed)", "Thứ gây ra (-ing)"],
+          "rows": [
+            ["Chán", "I'm <b>bored</b>.", "The film is <b>boring</b>."],
+            ["Hứng thú", "I'm <b>interested</b>.", "The book is <b>interesting</b>."],
+            ["Mệt", "I'm <b>tired</b>.", "It was a <b>tiring</b> day."],
+            ["Bất ngờ", "I'm <b>surprised</b>.", "The news is <b>surprising</b>."]
+          ]
+        },
+        { "t": "p", "html": "Một lưu ý nhỏ: dạng <b>-ing</b> vẫn dùng được cho người, nhưng khi đó nó mô tả <b>tính chất</b> của người đó chứ không phải cảm xúc — <i>He's <b>annoying</b></i> = anh ta phiền phức (gây khó chịu cho người khác), còn <i>He's <b>annoyed</b></i> = anh ta đang bực." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp", "-ed (người cảm thấy)", "-ing (thứ gây ra)"],
+          "rows": [
+            ["bore", "I'm bored.", "The film is boring."],
+            ["interest", "I'm interested in it.", "It's an interesting book."],
+            ["excite", "I'm excited about the trip.", "It's an exciting trip."],
+            ["tire", "I'm tired.", "It was a tiring day."],
+            ["surprise", "I'm surprised.", "The news is surprising."],
+            ["confuse", "I'm confused.", "The form is confusing."],
+            ["worry", "I'm worried.", "It's worrying."],
+            ["annoy", "I'm annoyed.", "He's annoying."],
+            ["embarrass", "I'm embarrassed.", "It was embarrassing."],
+            ["disappoint", "I'm disappointed.", "The result is disappointing."],
+            ["relax", "I feel relaxed.", "It's a relaxing place."],
+            ["frighten", "I was frightened.", "It was frightening."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Chú ý giới từ đi kèm dạng <i>-ed</i>:</b> <i>interested <b>in</b></i>, <i>excited <b>about</b></i>, <i>worried <b>about</b></i>, <i>surprised <b>at/by</b></i>, <i>annoyed <b>with</b></i> (người) hoặc <b>about</b> (việc). Xem [Ngữ pháp 42]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm bored. Let's do something else.", "vi": "Mình chán rồi. Làm gì khác đi.", "note": "BẪY SỐ MỘT: <b>bored</b> = tôi chán. <i>I'm boring</i> = tôi nhàm chán. Xem [Khung 81]." },
+            { "en": "The film was really boring.", "vi": "Bộ phim chán thật.", "note": "Phim là THỨ GÂY RA cảm giác chán nên dùng <b>-ing</b>." },
+            { "en": "I'm interested in learning Thai.", "vi": "Tôi muốn học tiếng Thái.", "note": "<b>interested in</b> + V-ing. Xem [Ngữ pháp 25]." },
+            { "en": "It's an interesting book.", "vi": "Đó là một quyển sách hay.", "note": "Sách gây ra sự hứng thú nên dùng <b>-ing</b>." },
+            { "en": "I'm excited about the trip.", "vi": "Tôi háo hức về chuyến đi.", "note": "<b>excited about</b> — giới từ cố định. Xem [Khung 82]." },
+            { "en": "It was a long and tiring day.", "vi": "Một ngày dài và mệt mỏi.", "note": "Ngày GÂY RA mệt nên dùng <b>tiring</b>, không phải <i>tired</i>." },
+            { "en": "I'm surprised to hear that.", "vi": "Tôi bất ngờ khi nghe vậy.", "note": "Người cảm thấy nên dùng <b>-ed</b>." },
+            { "en": "The form was really confusing.", "vi": "Cái mẫu đơn rối thật.", "note": "Mẫu đơn gây rối cho người đọc nên dùng <b>-ing</b>." },
+            { "en": "I'm worried about the exam.", "vi": "Tôi lo về kỳ thi.", "note": "<b>worried about</b> — xem [Khung 87]." },
+            { "en": "It's worrying that nobody replied.", "vi": "Đáng lo là chẳng ai trả lời.", "note": "Sự việc gây lo nên dùng <b>worrying</b>." },
+            { "en": "He's annoying — he never listens.", "vi": "Anh ta phiền lắm — chẳng bao giờ nghe ai.", "note": "Dạng <b>-ing</b> dùng cho NGƯỜI thì mô tả TÍNH CHẤT, không phải cảm xúc." },
+            { "en": "He's annoyed because we were late.", "vi": "Anh ấy bực vì bọn tôi đến muộn.", "note": "Còn <b>-ed</b> mới là cảm xúc anh ấy đang có." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "😑", "title": "Nói mình đang chán", "text": "<i>I'm bored.</i> Không phải <i>I'm boring</i>." },
+            { "icon": "🎬", "title": "Nhận xét phim, sách", "text": "<i>The film was boring.</i> Dùng <b>-ing</b>." },
+            { "icon": "😃", "title": "Nói mình háo hức", "text": "<i>I'm excited about the trip.</i> Xem [Khung 82]." },
+            { "icon": "😴", "title": "Kể một ngày mệt", "text": "<i>It was a tiring day.</i> Ngày gây mệt." },
+            { "icon": "😟", "title": "Nói mình lo", "text": "<i>I'm worried about it.</i> Xem [Khung 87]." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Nói cảm xúc của mình bằng <b>-ing</b>. <i>I'm boring</i> là tự chê." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Đuôi -ed — người cảm thấy",
+              "items": [
+                { "w": "bored", "vi": "chán", "ex": "I'm bored.", "exvi": "Mình chán rồi.", "note": "BẪY SỐ MỘT: <i>I'm boring</i> = tôi là người nhàm chán." },
+                { "w": "interested in", "vi": "hứng thú với", "ex": "I'm interested in learning Thai.", "exvi": "Tôi muốn học tiếng Thái.", "note": "Giới từ là <b>in</b>, và theo sau là V-ing." },
+                { "w": "excited about", "vi": "háo hức về", "ex": "I'm excited about the trip.", "exvi": "Tôi háo hức về chuyến đi.", "note": "Giới từ là <b>about</b>, không phải <i>for</i>. Xem [Khung 82]." },
+                { "w": "tired", "vi": "mệt", "ex": "I'm tired.", "exvi": "Tôi mệt.", "note": "Khác <i>tiring</i> — thứ làm mình mệt." },
+                { "w": "tired of", "vi": "chán việc", "ex": "I'm tired of waiting.", "exvi": "Tôi chán chờ đợi rồi.", "note": "Thêm <b>of</b> thì nghĩa đổi thành “chán, phát ngán”." },
+                { "w": "surprised", "vi": "bất ngờ", "ex": "I'm surprised to hear that.", "exvi": "Tôi bất ngờ khi nghe vậy.", "note": "Giới từ là <b>at</b> hoặc <b>by</b>: <i>surprised at the news</i>." },
+                { "w": "confused", "vi": "rối, không hiểu", "ex": "I'm confused.", "exvi": "Tôi thấy rối quá.", "note": "Câu rất hữu ích khi chưa hiểu. Xem [Khung 68]." },
+                { "w": "worried about", "vi": "lo về", "ex": "I'm worried about the exam.", "exvi": "Tôi lo về kỳ thi.", "note": "Giới từ là <b>about</b>, không phải <i>for</i>. Xem [Khung 87]." },
+                { "w": "annoyed", "vi": "bực", "ex": "He's annoyed because we were late.", "exvi": "Anh ấy bực vì bọn tôi muộn.", "note": "<b>annoyed with</b> người, <b>annoyed about</b> việc." },
+                { "w": "embarrassed", "vi": "ngượng", "ex": "I was so embarrassed.", "exvi": "Tôi ngượng quá." },
+                { "w": "disappointed", "vi": "thất vọng", "ex": "I'm disappointed with the result.", "exvi": "Tôi thất vọng về kết quả." },
+                { "w": "relaxed", "vi": "thư thái", "ex": "I feel relaxed now.", "exvi": "Giờ tôi thấy thư thái." }
+              ]
+            },
+            {
+              "title": "Đuôi -ing — thứ gây ra cảm giác",
+              "items": [
+                { "w": "boring", "vi": "chán, nhàm", "ex": "The film was really boring.", "exvi": "Bộ phim chán thật.", "note": "Thứ GÂY RA cảm giác chán." },
+                { "w": "interesting", "vi": "thú vị, hay", "ex": "It's an interesting book.", "exvi": "Đó là một quyển sách hay." },
+                { "w": "exciting", "vi": "hấp dẫn, phấn khích", "ex": "It's an exciting trip.", "exvi": "Đó là một chuyến đi hấp dẫn." },
+                { "w": "tiring", "vi": "làm mệt", "ex": "It was a long and tiring day.", "exvi": "Một ngày dài và mệt mỏi.", "note": "Ngày GÂY RA mệt — <i>a tired day</i> ✗." },
+                { "w": "surprising", "vi": "đáng ngạc nhiên", "ex": "The news is surprising.", "exvi": "Tin đó thật bất ngờ." },
+                { "w": "confusing", "vi": "gây rối", "ex": "The form was really confusing.", "exvi": "Cái mẫu đơn rối thật." },
+                { "w": "worrying", "vi": "đáng lo", "ex": "It's worrying that nobody replied.", "exvi": "Đáng lo là chẳng ai trả lời. Xem [Khung 87]." },
+                { "w": "annoying", "vi": "phiền, khó chịu", "ex": "He's annoying — he never listens.", "exvi": "Anh ta phiền lắm.", "note": "Dùng cho NGƯỜI thì mô tả TÍNH CHẤT, không phải cảm xúc." },
+                { "w": "embarrassing", "vi": "gây ngượng", "ex": "It was an embarrassing moment.", "exvi": "Đó là một khoảnh khắc ngượng ngùng." },
+                { "w": "disappointing", "vi": "gây thất vọng", "ex": "The result is disappointing.", "exvi": "Kết quả đáng thất vọng." },
+                { "w": "relaxing", "vi": "thư giãn", "ex": "It's a relaxing place.", "exvi": "Đó là một nơi thư giãn." },
+                { "w": "That sounds + tính từ", "vi": "nghe có vẻ", "ex": "That sounds interesting.", "exvi": "Nghe hay đấy.", "note": "Sau <i>sound</i> là TÍNH TỪ, và ở đây thường là dạng <b>-ing</b>. Xem [Khung 85]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'm <b>boring</b>. <i>(ý: tôi chán)</i>", "right": "I'm <b>bored</b>.", "why": "BẪY SỐ MỘT: <i>I'm boring</i> nghĩa là “tôi là người nhàm chán” — bạn vừa tự chê mình. Xem [Khung 81]." },
+            { "wrong": "I'm <b>interesting</b> in learning Thai.", "right": "I'm <b>interested</b> in learning Thai.", "why": "Người cảm thấy hứng thú thì dùng <b>-ed</b>. <i>I'm interesting</i> = tôi là người thú vị." },
+            { "wrong": "It was a <b>tired</b> day.", "right": "It was a <b>tiring</b> day.", "why": "Ngày GÂY RA mệt mỏi nên dùng <b>-ing</b>. Chỉ người mới <i>tired</i>." },
+            { "wrong": "The film was <b>bored</b>.", "right": "The film was <b>boring</b>.", "why": "Phim không có cảm xúc — nó gây ra cảm xúc cho người xem." },
+            { "wrong": "I'm <b>exciting</b> about the trip.", "right": "I'm <b>excited</b> about the trip.", "why": "Người háo hức thì dùng <b>-ed</b>. Xem [Khung 82]." },
+            { "wrong": "I'm <b>worrying</b> about the exam.", "right": "I'm <b>worried</b> about the exam.", "why": "Người lo thì dùng <b>worried</b>. <i>worrying</i> dành cho sự việc. Xem [Khung 87]." },
+            { "wrong": "I'm excited <b>for</b> the trip.", "right": "I'm excited <b>about</b> the trip.", "why": "Giới từ cố định sau <i>excited</i> là <b>about</b>. Xem [Ngữ pháp 42]." },
+            { "wrong": "I'm worried <b>for</b> my mother.", "right": "I'm worried <b>about</b> my mother.", "why": "Tiếng Việt “lo cho” kéo người học sang <i>for</i>. Giới từ đúng là <b>about</b>." },
+            { "wrong": "I'm <b>stressful</b> about work.", "right": "I'm <b>stressed</b> about work.", "why": "Người thì <b>stressed</b>, công việc mới <b>stressful</b>. Cùng luật -ed/-ing." },
+            { "wrong": "That sounds <b>interested</b>.", "right": "That sounds <b>interesting</b>.", "why": "Thứ gây hứng thú thì dùng <b>-ing</b>. Và sau <i>sound</i> là tính từ. Xem [Khung 85]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp", "Nghĩa", "Dùng cho"],
+          "rows": [
+            ["<code>bored</code> / <code>boring</code>", "Đang chán / gây chán", "Người / sự việc"],
+            ["<code>interested</code> / <code>interesting</code>", "Hứng thú / thú vị", "Người / sự việc"],
+            ["<code>tired</code> / <code>tiring</code>", "Mệt / làm mệt", "Người / sự việc"],
+            ["<code>worried</code> / <code>worrying</code>", "Lo / đáng lo", "Người / sự việc"],
+            ["<code>annoyed</code> / <code>annoying</code>", "Bực / phiền phức", "Cảm xúc / tính chất"],
+            ["<code>stressed</code> / <code>stressful</code>", "Căng thẳng / gây căng thẳng", "Người / công việc"],
+            ["<code>sound + tính từ</code>", "Nghe có vẻ. Xem [Khung 85]", "That sounds interesting."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: -ed hay -ing?" },
+        {
+          "t": "tree",
+          "q": "Chủ ngữ của bạn cảm thấy, hay gây ra cảm giác?",
+          "nodes": [
+            { "if": "Là NGƯỜI và đang có cảm xúc đó", "then": "-ed", "ex": "I'm bored. · I'm excited." },
+            { "if": "Là SỰ VIỆC, đồ vật, phim, sách", "then": "-ing", "ex": "The film is boring." },
+            { "if": "Là NGƯỜI nhưng mô tả tính cách họ", "then": "-ing", "ex": "He's annoying." },
+            { "if": "Là một ngày, một chuyến đi gây mệt", "then": "-ing", "ex": "It was a tiring day." },
+            { "if": "Đứng sau It's … that + mệnh đề", "then": "-ing", "ex": "It's worrying that nobody replied." },
+            { "if": "Đứng sau sound, look, seem, feel", "then": "Tính từ — thường là -ing cho sự việc", "ex": "That sounds interesting." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ của một cảm xúc" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'm a bit bored.", "vi": "Hơi chán" },
+            { "en": "I'm bored.", "vi": "Chán" },
+            { "en": "I'm really bored.", "vi": "Chán lắm" },
+            { "en": "I'm bored to death.", "vi": "Chán chết đi được" },
+            { "en": "I can't take it anymore.", "vi": "Mạnh nhất — hết chịu nổi" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Luật -ed/-ing xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 81, "why": "I'm so… — khung chính của cặp -ed/-ing, có cả I'm bored và I'm boring." },
+            { "id": 87, "why": "I'm worried… — cặp worried và worrying, kèm bẫy giới từ about." },
+            { "id": 82, "why": "I'm happy about/with… — cặp excited về giới từ cố định sau tính từ cảm xúc." },
+            { "id": 85, "why": "That sounds… — sau linking verb là tính từ, thường ở dạng -ing." },
+            { "id": 89, "why": "What a…! — câu cảm thán hay dùng tính từ -ing: What an interesting book!" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chọn -ed hay -ing" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Mình chán rồi.", "blank": "I'm __________ (bore).", "a": "bored" },
+            { "vi": "Bộ phim chán thật.", "blank": "The film was really __________ (bore).", "a": "boring" },
+            { "vi": "Tôi muốn học tiếng Thái.", "blank": "I'm __________ (interest) in learning Thai.", "a": "interested" },
+            { "vi": "Đó là một quyển sách hay.", "blank": "It's an __________ (interest) book.", "a": "interesting" },
+            { "vi": "Một ngày dài và mệt mỏi.", "blank": "It was a long and __________ (tire) day.", "a": "tiring" },
+            { "vi": "Tôi lo về kỳ thi.", "blank": "I'm __________ (worry) about the exam.", "a": "worried" },
+            { "vi": "Đáng lo là chẳng ai trả lời.", "blank": "It's __________ (worry) that nobody replied.", "a": "worrying" },
+            { "vi": "Cái mẫu đơn rối thật.", "blank": "The form was really __________ (confuse).", "a": "confusing" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn giới từ hoặc dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi háo hức về chuyến đi.", "blank": "I'm excited __________ the trip.  (for / about)", "a": "about" },
+            { "vi": "Tôi lo cho mẹ tôi.", "blank": "I'm worried __________ my mother.  (for / about)", "a": "about" },
+            { "vi": "Tôi căng thẳng vì công việc.", "blank": "I'm __________ about work.  (stressed / stressful)", "a": "stressed" },
+            { "vi": "Nghe hay đấy.", "blank": "That sounds __________.  (interested / interesting)", "a": "interesting" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Mình chán rồi. Làm gì khác đi.", "a": "I'm bored. Let's do something else." },
+            { "vi": "2. Một ngày dài và mệt mỏi.", "a": "It was a long and tiring day." },
+            { "vi": "3. Tôi háo hức về chuyến đi.", "a": "I'm excited about the trip." },
+            { "vi": "4. Đáng lo là chẳng ai trả lời.", "a": "It's worrying that nobody replied." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Hỏi một câu là xong:</b> ai CẢM THẤY → <i>-ed</i>; cái gì GÂY RA → <i>-ing</i>.",
+            "<b>Câu nhớ đời:</b> <i>I'm <b>bored</b></i> (tôi chán) ≠ <i>I'm <b>boring</b></i> (tôi nhàm chán). Đọc to hai câu để không bao giờ quên.",
+            "<b>Người cũng dùng được <i>-ing</i></b> — nhưng khi đó là mô tả TÍNH CÁCH: <i>He's <b>annoying</b></i> = anh ta phiền phức.",
+            "<b>Cặp đặc biệt:</b> <i>stressed</i> (người) / <i>stressful</i> (công việc) — khác đuôi nhưng cùng một luật.",
+            "<b>Nhớ luôn giới từ đi kèm:</b> <i>interested <b>in</b></i>, <i>excited <b>about</b></i>, <i>worried <b>about</b></i>. Xem [Ngữ pháp 42].",
+            "<b>Bài tập 3 phút:</b> viết năm câu về cảm xúc của bạn hôm nay với <i>-ed</i>, rồi năm câu nhận xét phim, sách, công việc với <i>-ing</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

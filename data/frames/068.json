@@ -1,0 +1,501 @@
+{
+  "id": 68,
+  "group": "Nhóm 7 · Hỏi thông tin",
+  "title": "What do you mean by…? — Yêu cầu làm rõ",
+  "subtitle": "Khung câu để hỏi lại khi người kia dùng một từ mơ hồ: “sớm”, “vài”, “có vấn đề”. Nhưng đây cũng là khung câu nguy hiểm nhất về mặt ngữ điệu — cùng một câu chữ, nói cách này là xin làm rõ, nói cách kia là chất vấn thẳng mặt.",
+  "pattern": [
+    "What do you mean by <em>+ từ/cụm</em>?",
+    "Do you mean <em>+ mệnh đề</em>?",
+    "Sorry, I'm not sure what you mean."
+  ],
+  "meaning": "Ý bạn là gì khi nói…? / Bạn nói vậy nghĩa là sao?",
+  "grammar": [29],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5 — tùy ngữ điệu", "hot": false },
+    { "text": "Cẩn thận sắc thái" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">What do you mean by…?</span> yêu cầu người kia <b>làm rõ một từ cụ thể</b> mà họ vừa dùng. Nó rất hữu ích vì nhiều từ trong công việc mơ hồ đến mức nguy hiểm: <i>soon, a few, an issue, shortly, minor</i>." },
+        { "t": "p", "html": "Sức mạnh của nó nằm ở chữ <b>by</b>: bạn trích ra đúng cái từ gây khó hiểu, thay vì nói chung chung rằng bạn không hiểu. <i>What do you mean by “soon”?</i> buộc người ta đưa ra một mốc cụ thể." },
+        { "t": "p", "html": "Nhưng đây là <b>khung câu nguy hiểm nhất về ngữ điệu</b>. Nói nhẹ, giọng đi lên, nó là lời xin làm rõ. Nói gắt, nhấn mạnh vào <i>mean</i>, nó thành lời chất vấn — gần như “bạn ám chỉ cái gì?”." },
+        { "t": "callout", "html": "<b>CẢNH BÁO SẮC THÁI:</b> <span class=\"k\">What do you MEAN?</span> nói cụt và nhấn mạnh có thể nghe như <b>“bạn ám chỉ gì đấy?”</b> — một lời thách thức. Luôn thêm <i>by + từ cụ thể</i> hoặc mở đầu bằng <i>Sorry</i> để giữ an toàn." },
+        { "t": "h3", "text": "Bốn mức từ nhẹ đến gay gắt" },
+        {
+          "t": "table",
+          "head": ["Câu", "Sắc thái", "Bối cảnh"],
+          "rows": [
+            ["<code>Sorry, I'm not sure what you mean.</code>", "Nhẹ nhất — nhận về mình", "An toàn mọi lúc"],
+            ["<code>Do you mean the blue one?</code>", "Đoán giúp — rất hợp tác", "Khi bạn có thể đoán"],
+            ["<code>What do you mean by “soon”?</code>", "Trung tính — trích từ cụ thể", "Công việc, làm rõ mốc"],
+            ["<code>What do you MEAN?</code>", "Chất vấn — có thể gây căng", "Tránh trừ khi cố ý"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cách an toàn nhất là đoán giúp:</b> <i>Do you mean by the end of the week?</i> Thay vì bắt người ta giải thích, bạn đưa ra một phương án — họ chỉ cần gật hoặc sửa. Nghe rất hợp tác." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🔍", "title": "Làm rõ một từ mơ hồ", "text": "Bối cảnh số 1. <i>What do you mean by “soon”?</i>" },
+            { "icon": "📅", "title": "Chốt một mốc thời gian", "text": "<i>Do you mean by Friday?</i> Đoán giúp thay vì bắt giải thích." },
+            { "icon": "⚠️", "title": "Làm rõ mức độ nghiêm trọng", "text": "<i>What do you mean by “an issue”?</i>" },
+            { "icon": "🤝", "title": "Tránh hiểu nhầm sớm", "text": "Hỏi ngay còn hơn làm sai cả tuần." },
+            { "icon": "😅", "title": "Thú nhận không hiểu", "text": "<i>Sorry, I'm not sure what you mean.</i> Nhẹ nhất." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn đang bực. Nói cụt lủn là thành chất vấn ngay." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Chuẩn — trích từ", "<code>What do you mean by + “từ”?</code>", "What do you mean by “soon”?"],
+            ["Đoán giúp", "<code>Do you mean + mệnh đề?</code>", "Do you mean by Friday?"],
+            ["Thú nhận không hiểu", "<code>I'm not sure what you mean.</code>", "Sorry, I'm not sure what you mean."],
+            ["Hỏi khía cạnh", "<code>In what sense?</code>", "In what sense, exactly?"],
+            ["Diễn giải lại", "<code>So you're saying…?</code>", "So you're saying we should wait?"],
+            ["Xin ví dụ", "<code>Could you give me an example?</code>", "Could you give me an example?"],
+            ["Nhấn mạnh", "<code>What exactly do you mean?</code>", "What exactly do you mean by that?"],
+            ["Kiểm tra cách hiểu", "<code>If I understand you correctly…</code>", "If I understand you correctly, we wait."],
+            ["Tự làm rõ ý mình", "<code>What I mean is…</code>", "What I mean is, it's too risky."],
+            ["Cuối câu — thân mật", "<code>…, if you know what I mean.</code>", "It was a bit odd, if you know what I mean."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng chia tiếp diễn.</b> <span class=\"k\">What are you meaning?</span> ✗ — với nghĩa “ý là”, <i>mean</i> là động từ trạng thái, giống <i>believe</i> ở [Khung 43] và <i>agree</i> ở [Khung 51]." },
+        { "t": "callout", "html": "<b>“So you're saying…?” cần cẩn thận.</b> Nó diễn giải lại lời người kia, rất hữu ích để kiểm tra cách hiểu — nhưng nếu bạn diễn giải lệch đi thì nghe như đang gán lời cho họ. Dùng kèm giọng nhẹ." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Những từ mơ hồ hay phải hỏi lại",
+              "items": [
+                { "w": "by “soon”", "vi": "khi nói “sớm”", "ex": "What do you mean by “soon”?", "exvi": "Anh/chị nói “sớm” là khi nào ạ?", "note": "Từ mơ hồ nguy hiểm nhất trong công việc — luôn hỏi lại." },
+                { "w": "by “a few”", "vi": "khi nói “vài”", "ex": "What do you mean by “a few”?", "exvi": "Anh/chị nói “vài” là bao nhiêu ạ?" },
+                { "w": "by “an issue”", "vi": "khi nói “có vấn đề”", "ex": "What do you mean by “an issue”?", "exvi": "Anh/chị nói “có vấn đề” là sao ạ?", "note": "Rất quan trọng — mức độ nghiêm trọng khác nhau hoàn toàn." },
+                { "w": "by “shortly”", "vi": "khi nói “chốc nữa”", "ex": "What do you mean by “shortly”?", "exvi": "Anh/chị nói “chốc nữa” là bao lâu ạ?" },
+                { "w": "by “minor”", "vi": "khi nói “nhỏ thôi”", "ex": "What do you mean by “minor”?", "exvi": "Anh/chị nói “nhỏ thôi” là thế nào ạ?" },
+                { "w": "by “expensive”", "vi": "khi nói “đắt”", "ex": "What do you mean by “expensive”?", "exvi": "Anh/chị nói “đắt” là khoảng bao nhiêu ạ?" },
+                { "w": "by “later”", "vi": "khi nói “lát nữa”", "ex": "What do you mean by “later”?", "exvi": "Bạn nói “lát nữa” là lúc nào?" },
+                { "w": "by “nearly done”", "vi": "khi nói “gần xong”", "ex": "What do you mean by “nearly done”?", "exvi": "Anh/chị nói “gần xong” là bao nhiêu phần trăm ạ?" },
+                { "w": "by “fine”", "vi": "khi nói “ổn”", "ex": "What do you mean by “fine”?", "exvi": "Bạn nói “ổn” là sao?", "note": "<i>fine</i> đặc biệt mơ hồ — có thể là thật sự ổn, cũng có thể là hoàn toàn không ổn." },
+                { "w": "by “flexible”", "vi": "khi nói “linh hoạt”", "ex": "What do you mean by “flexible”?", "exvi": "Anh/chị nói “linh hoạt” là thế nào ạ?" },
+                { "w": "by that", "vi": "khi nói vậy", "ex": "What do you mean by that?", "exvi": "Anh/chị nói vậy là ý gì ạ?", "note": "CẨN THẬN: nói gắt thì thành chất vấn. Luôn dùng giọng nhẹ." },
+                { "w": "by “it depends”", "vi": "khi nói “còn tùy”", "ex": "What do you mean by “it depends”?", "exvi": "Anh/chị nói “còn tùy” là tùy cái gì ạ?", "note": "Xem [Khung 57] — câu này buộc người ta nêu biến số cụ thể." }
+              ]
+            },
+            {
+              "title": "Các cách làm rõ khác",
+              "items": [
+                { "w": "Do you mean…?", "vi": "ý bạn là…?", "ex": "Do you mean by Friday?", "exvi": "Ý anh/chị là trước thứ Sáu ạ?", "note": "Cách AN TOÀN NHẤT — bạn đoán giúp, họ chỉ cần gật hoặc sửa." },
+                { "w": "I'm not sure what you mean", "vi": "tôi chưa rõ ý bạn", "ex": "Sorry, I'm not sure what you mean.", "exvi": "Xin lỗi, tôi chưa rõ ý anh/chị.", "note": "Nhẹ nhất — nhận sự không hiểu về phía mình. Xem [Khung 50]." },
+                { "w": "In what sense?", "vi": "theo nghĩa nào ạ?", "ex": "In what sense, exactly?", "exvi": "Chính xác thì theo nghĩa nào ạ?", "note": "Ngắn gọn và trí thức — hỏi khía cạnh của một từ đa nghĩa." },
+                { "w": "So you're saying…?", "vi": "vậy ý anh/chị là…?", "ex": "So you're saying we should wait?", "exvi": "Vậy ý anh/chị là mình nên đợi ạ?", "note": "Diễn giải lại để kiểm tra — nhưng nếu lệch thì nghe như gán lời." },
+                { "w": "If I understand you correctly", "vi": "nếu tôi hiểu đúng ý anh/chị", "ex": "If I understand you correctly, we wait.", "exvi": "Nếu tôi hiểu đúng thì mình đợi.", "note": "Trang trọng và an toàn — rất hợp trong họp và email." },
+                { "w": "Could you give me an example?", "vi": "cho tôi một ví dụ được không?", "ex": "Could you give me an example?", "exvi": "Anh/chị cho tôi một ví dụ được không ạ?", "note": "Cách làm rõ hiệu quả nhất — ví dụ luôn rõ hơn định nghĩa." },
+                { "w": "What exactly do you mean?", "vi": "chính xác thì ý anh/chị là gì?", "ex": "What exactly do you mean by that?", "exvi": "Chính xác thì anh/chị nói vậy là ý gì ạ?", "note": "<i>exactly</i> làm câu mạnh hơn — cẩn thận, dễ nghe như chất vấn." },
+                { "w": "Sorry, I didn't follow that", "vi": "xin lỗi, tôi chưa theo kịp", "ex": "Sorry, I didn't follow that.", "exvi": "Xin lỗi, tôi chưa theo kịp chỗ đó.", "note": "Xem [Khung 58]." },
+                { "w": "Could you put it another way?", "vi": "anh/chị nói cách khác được không?", "ex": "Could you put it another way?", "exvi": "Anh/chị diễn đạt cách khác được không ạ?" },
+                { "w": "What I mean is", "vi": "ý tôi là", "ex": "What I mean is, it's too risky.", "exvi": "Ý tôi là việc này quá rủi ro.", "note": "Dùng khi bạn tự làm rõ ý mình sau khi thấy người ta chưa hiểu." },
+                { "w": "if you know what I mean", "vi": "nếu bạn hiểu ý mình", "ex": "It was a bit odd, if you know what I mean.", "exvi": "Hơi lạ, nếu bạn hiểu ý mình.", "note": "Đặt cuối câu, thân mật — ngụ ý có điều gì đó khó nói thẳng." },
+                { "w": "Let me rephrase that", "vi": "để tôi nói lại cách khác", "ex": "Let me rephrase that.", "exvi": "Để tôi nói lại cách khác." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại khi được hỏi",
+              "items": [
+                { "w": "By “soon” I mean…", "vi": "“sớm” tôi nói là…", "ex": "By “soon” I mean within two days.", "exvi": "“Sớm” tôi nói là trong vòng hai ngày.", "note": "Cách trả lời chuẩn — lặp lại từ rồi định nghĩa cụ thể." },
+                { "w": "Good question", "vi": "câu hỏi hay đấy", "ex": "Good question — let me be specific.", "exvi": "Câu hỏi hay — để tôi nói cụ thể." },
+                { "w": "Sorry, I wasn't clear", "vi": "xin lỗi, tôi nói chưa rõ", "ex": "Sorry, I wasn't clear.", "exvi": "Xin lỗi, tôi nói chưa rõ.", "note": "Nhận lỗi về mình — rất lịch thiệp và giữ hòa khí." },
+                { "w": "Let me give you an example", "vi": "để tôi cho một ví dụ", "ex": "Let me give you an example.", "exvi": "Để tôi cho anh/chị một ví dụ." },
+                { "w": "Exactly", "vi": "đúng vậy", "ex": "Exactly — that's what I meant.", "exvi": "Đúng vậy — ý tôi là thế. Xem [Khung 56]." },
+                { "w": "Not quite", "vi": "không hẳn vậy", "ex": "Not quite — I meant the other one.", "exvi": "Không hẳn — ý tôi là cái kia.", "note": "Sửa lại cách hiểu của người kia một cách nhẹ nhàng." },
+                { "w": "That's not what I meant", "vi": "không phải ý tôi", "ex": "That's not what I meant at all.", "exvi": "Hoàn toàn không phải ý tôi.", "note": "Khá mạnh — chỉ dùng khi bị hiểu lệch nghiêm trọng." },
+                { "w": "To put it simply", "vi": "nói đơn giản thì", "ex": "To put it simply, we're behind.", "exvi": "Nói đơn giản thì mình đang chậm." },
+                { "w": "In other words", "vi": "nói cách khác", "ex": "In other words, we need more time.", "exvi": "Nói cách khác, mình cần thêm thời gian." },
+                { "w": "Does that make sense?", "vi": "vậy có dễ hiểu không?", "ex": "Does that make sense now?", "exvi": "Giờ có dễ hiểu hơn không ạ?", "note": "Kiểm tra lại sau khi giải thích — rất chu đáo." },
+                { "w": "I mean specifically", "vi": "cụ thể ý tôi là", "ex": "I mean specifically the second phase.", "exvi": "Cụ thể ý tôi là giai đoạn hai." },
+                { "w": "Fair question", "vi": "hỏi cũng đúng", "ex": "Fair question. I should have said.", "exvi": "Hỏi cũng đúng. Lẽ ra tôi phải nói rõ." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "What do you mean by “soon”?",
+                  "vi": "Anh/chị nói “sớm” là khi nào ạ?",
+                  "note": "<i>soon</i> là từ mơ hồ nguy hiểm nhất trong công việc — với người này là hai ngày, với người kia là hai tuần.",
+                  "open": { "en": "Sorry, just to be clear —", "vi": "Xin lỗi, cho rõ thêm chút —" },
+                  "reply": [
+                    { "them": "By “soon” I mean within two days.", "themvi": "“Sớm” tôi nói là trong vòng hai ngày.", "you": "Perfect, that's clear now.", "youvi": "Tuyệt, giờ thì rõ rồi." },
+                    { "them": "Good question — let me be specific.", "themvi": "Câu hỏi hay — để tôi nói cụ thể.", "you": "A date would help most.", "youvi": "Có một mốc ngày thì tốt nhất." }
+                  ],
+                  "close": { "en": "I'll plan around that.", "vi": "Tôi sẽ lên kế hoạch theo đó." }
+                },
+                {
+                  "en": "Do you mean by Friday?",
+                  "vi": "Ý anh/chị là trước thứ Sáu ạ?",
+                  "note": "Cách AN TOÀN NHẤT — bạn đoán giúp một phương án, họ chỉ cần gật hoặc sửa. Nghe rất hợp tác.",
+                  "reply": [
+                    { "them": "Exactly — end of play Friday.", "themvi": "Đúng vậy — cuối giờ làm thứ Sáu.", "you": "Noted. I'll aim for Thursday.", "youvi": "Đã rõ. Tôi nhắm thứ Năm." },
+                    { "them": "Not quite — I meant Friday week.", "themvi": "Không hẳn — tôi nói thứ Sáu tuần sau.", "you": "Ah, that changes things.", "youvi": "À, vậy thì khác rồi." }
+                  ]
+                },
+                {
+                  "en": "What do you mean by “an issue”?",
+                  "vi": "Anh/chị nói “có vấn đề” là sao ạ?",
+                  "note": "Rất quan trọng — <i>an issue</i> có thể là lỗi nhỏ, cũng có thể là sự cố nghiêm trọng.",
+                  "reply": [
+                    { "them": "The payment page isn't loading.", "themvi": "Trang thanh toán không tải được.", "you": "That's not an issue, that's an outage.", "youvi": "Đó không phải vấn đề, đó là sự cố ngừng hoạt động." }
+                  ],
+                  "vars": [
+                    { "en": "In what sense, exactly?", "vi": "Chính xác thì theo nghĩa nào ạ?" }
+                  ]
+                },
+                {
+                  "en": "If I understand you correctly, we're pausing the launch?",
+                  "vi": "Nếu tôi hiểu đúng thì mình đang tạm dừng ra mắt ạ?",
+                  "note": "Trang trọng và an toàn — diễn giải lại để kiểm tra mà không nghe như gán lời cho ai.",
+                  "reply": [
+                    { "them": "That's right, until Monday.", "themvi": "Đúng vậy, đến thứ Hai.", "you": "I'll tell the team.", "youvi": "Tôi sẽ báo nhóm." }
+                  ],
+                  "close": { "en": "Thanks for clarifying.", "vi": "Cảm ơn đã làm rõ." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "What do you mean by “limited warranty”?",
+                  "vi": "Em nói “bảo hành giới hạn” là thế nào ạ?",
+                  "reply": [
+                    { "them": "It covers parts but not labour.", "themvi": "Bao gồm linh kiện nhưng không bao công ạ.", "you": "Could you give me an example?", "youvi": "Em cho tôi một ví dụ được không?" }
+                  ],
+                  "close": { "en": "Good to know before I buy.", "vi": "Biết trước khi mua thì tốt quá." }
+                },
+                {
+                  "en": "Do you mean it's out of stock everywhere?",
+                  "vi": "Ý em là hết hàng ở mọi nơi ạ?",
+                  "reply": [
+                    { "them": "Not quite — just this branch.", "themvi": "Không hẳn — chỉ chi nhánh này thôi ạ.", "you": "Which branch has it?", "youvi": "Chi nhánh nào có ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "So you're saying I should try another shop?", "vi": "Vậy ý em là tôi nên thử cửa hàng khác ạ?" }
+                  ]
+                },
+                {
+                  "en": "What do you mean by “expensive”?",
+                  "vi": "Bạn nói “đắt” là khoảng bao nhiêu?",
+                  "note": "Rất hữu ích khi hỏi bạn bè — “đắt” với mỗi người là một con số khác hẳn.",
+                  "reply": [
+                    { "them": "Anything over five hundred.", "themvi": "Trên năm trăm là đắt.", "you": "Then this is fine.", "youvi": "Vậy cái này ổn." }
+                  ]
+                },
+                {
+                  "en": "Sorry, I'm not sure what you mean.",
+                  "vi": "Xin lỗi, tôi chưa rõ ý em.",
+                  "note": "Nhẹ nhất — nhận sự không hiểu về phía mình, không ai bị chê là giải thích kém.",
+                  "reply": [
+                    { "them": "Sorry, I wasn't clear. Let me show you.", "themvi": "Xin lỗi, em nói chưa rõ. Để em chỉ cho anh/chị ạ.", "you": "Thank you.", "youvi": "Cảm ơn em." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "What do you mean by “shortly”?",
+                  "vi": "Anh/chị nói “chốc nữa” là bao lâu ạ?",
+                  "note": "Ở sân bay và nhà ga, <i>shortly</i> có thể là năm phút hoặc một tiếng — luôn hỏi lại.",
+                  "reply": [
+                    { "them": "Within the hour, we hope.", "themvi": "Bên em hy vọng trong vòng một tiếng ạ.", "you": "Should we stay at the gate?", "youvi": "Chúng tôi có nên ở lại cổng không ạ?" }
+                  ],
+                  "close": { "en": "Thanks for being honest.", "vi": "Cảm ơn đã nói thật." }
+                },
+                {
+                  "en": "Do you mean the flight is cancelled?",
+                  "vi": "Ý anh/chị là chuyến bay bị hủy ạ?",
+                  "note": "Đoán thẳng vào khả năng xấu nhất — buộc người ta xác nhận hoặc phủ nhận rõ ràng.",
+                  "reply": [
+                    { "them": "Delayed, not cancelled.", "themvi": "Hoãn thôi ạ, không hủy.", "you": "That's a relief.", "youvi": "Vậy thì nhẹ cả người." }
+                  ],
+                  "vars": [
+                    { "en": "So you're saying we won't leave tonight?", "vi": "Vậy ý anh/chị là tối nay chúng tôi không bay ạ?" }
+                  ]
+                },
+                {
+                  "en": "What do you mean by “sea view”?",
+                  "vi": "Anh/chị nói “view biển” là thế nào ạ?",
+                  "reply": [
+                    { "them": "You can see the sea from the balcony.", "themvi": "Từ ban công nhìn thấy biển ạ.", "you": "Partially or fully?", "youvi": "Nhìn được một phần hay toàn cảnh ạ?" }
+                  ]
+                },
+                {
+                  "en": "Sorry, I didn't follow that — could you put it another way?",
+                  "vi": "Xin lỗi, tôi chưa theo kịp — anh/chị nói cách khác được không ạ?",
+                  "reply": [
+                    { "them": "Of course. Change trains at the junction.", "themvi": "Vâng ạ. Đổi tàu ở ga trung chuyển.", "you": "Ah, now I understand.", "youvi": "À, giờ tôi hiểu rồi." }
+                  ],
+                  "close": { "en": "Much clearer, thank you.", "vi": "Rõ hơn nhiều rồi, cảm ơn ạ." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "What do you mean by “mild”?",
+                  "vi": "Em nói “ít cay” là thế nào ạ?",
+                  "note": "Độ cay là thứ chủ quan bậc nhất — hỏi lại luôn đáng, nhất là ở nước khác.",
+                  "reply": [
+                    { "them": "About a two out of ten.", "themvi": "Khoảng hai trên mười ạ.", "you": "That's fine for me.", "youvi": "Với tôi vậy là ổn." }
+                  ]
+                },
+                {
+                  "en": "Do you mean it comes with rice?",
+                  "vi": "Ý em là món đó có kèm cơm ạ?",
+                  "reply": [
+                    { "them": "Exactly, rice is included.", "themvi": "Đúng vậy, có kèm cơm ạ.", "you": "Then one portion is enough.", "youvi": "Vậy một phần là đủ." }
+                  ],
+                  "vars": [
+                    { "en": "So the rice is included?", "vi": "Vậy là có kèm cơm ạ?" }
+                  ]
+                },
+                {
+                  "en": "What do you mean by “fresh”?",
+                  "vi": "Em nói “tươi” là thế nào ạ?",
+                  "reply": [
+                    { "them": "Caught this morning.", "themvi": "Đánh bắt sáng nay ạ.", "you": "Then I'll have that.", "youvi": "Vậy tôi lấy món đó." }
+                  ]
+                },
+                {
+                  "en": "It was a bit odd, if you know what I mean.",
+                  "vi": "Hơi lạ, nếu bạn hiểu ý mình.",
+                  "note": "Đặt cuối câu, thân mật — ngụ ý có điều gì đó khó nói thẳng.",
+                  "reply": [
+                    { "them": "I know exactly what you mean.", "themvi": "Mình hiểu chính xác ý bạn.", "you": "We won't go back.", "youvi": "Mình không quay lại nữa." }
+                  ],
+                  "close": { "en": "Let's find somewhere new.", "vi": "Tìm chỗ mới đi." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "What do you mean by “fine”?",
+                  "vi": "Bạn nói “ổn” là sao?",
+                  "note": "<i>fine</i> đặc biệt mơ hồ — có thể thật sự ổn, cũng có thể là hoàn toàn không ổn.",
+                  "reply": [
+                    { "them": "I mean I'm tired, that's all.", "themvi": "Ý mình là mình mệt, chỉ vậy thôi.", "you": "Fair enough. Want to talk?", "youvi": "Cũng được. Muốn nói chuyện không?" }
+                  ],
+                  "close": { "en": "I'm here if you do.", "vi": "Mình luôn ở đây nếu bạn cần." }
+                },
+                {
+                  "en": "Do you mean tonight or tomorrow?",
+                  "vi": "Ý bạn là tối nay hay ngày mai?",
+                  "note": "Đưa ra hai lựa chọn cụ thể — cách làm rõ nhanh và hoàn toàn không gây căng.",
+                  "reply": [
+                    { "them": "Tomorrow, sorry — I wasn't clear.", "themvi": "Ngày mai, xin lỗi — mình nói chưa rõ.", "you": "No problem at all.", "youvi": "Không sao đâu." }
+                  ]
+                },
+                {
+                  "en": "Sorry, I'm not sure what you mean by that.",
+                  "vi": "Xin lỗi, mình chưa rõ ý bạn nói vậy.",
+                  "note": "Thêm <i>Sorry</i> ở đầu là cách an toàn nhất để hỏi lại mà không nghe như chất vấn.",
+                  "reply": [
+                    { "them": "Let me rephrase that.", "themvi": "Để mình nói lại cách khác.", "you": "Thanks, that'd help.", "youvi": "Cảm ơn, vậy thì dễ hiểu hơn." }
+                  ],
+                  "vars": [
+                    { "en": "Could you put it another way?", "vi": "Bạn nói cách khác được không?" }
+                  ]
+                },
+                {
+                  "en": "So you're saying it was my fault?",
+                  "vi": "Vậy ý bạn là lỗi của mình à?",
+                  "note": "CẢNH BÁO: câu này diễn giải lại theo hướng tiêu cực — rất dễ đẩy cuộc nói chuyện thành tranh cãi.",
+                  "reply": [
+                    { "them": "That's not what I meant at all.", "themvi": "Hoàn toàn không phải ý mình.", "you": "Then what did you mean?", "youvi": "Vậy ý bạn là gì?" }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Làm rõ một hạn chót mơ hồ",
+          "lines": [
+            { "speaker": "Manager", "en": "I'd like the report soon.", "vi": "Tôi muốn có báo cáo sớm." },
+            { "speaker": "You", "me": true, "en": "Sorry, just to be clear — what do you mean by “soon”?", "vi": "Xin lỗi, cho rõ thêm chút — anh/chị nói “sớm” là khi nào ạ?" },
+            { "speaker": "Manager", "en": "Before the board meeting.", "vi": "Trước cuộc họp hội đồng." },
+            { "speaker": "You", "me": true, "en": "Do you mean by Friday, then?", "vi": "Vậy ý anh/chị là trước thứ Sáu ạ?" },
+            { "speaker": "Manager", "en": "Exactly — end of play Friday.", "vi": "Đúng vậy — cuối giờ làm thứ Sáu." },
+            { "speaker": "You", "me": true, "en": "If I understand you correctly, a draft is fine?", "vi": "Nếu tôi hiểu đúng thì bản nháp là được ạ?" }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Hỏi lại về gói bảo hành",
+          "lines": [
+            { "speaker": "Staff", "en": "This model comes with a limited warranty.", "vi": "Mẫu này có bảo hành giới hạn ạ." },
+            { "speaker": "You", "me": true, "en": "What do you mean by “limited”?", "vi": "Em nói “giới hạn” là thế nào ạ?" },
+            { "speaker": "Staff", "en": "It covers parts but not labour.", "vi": "Bao gồm linh kiện nhưng không bao công ạ." },
+            { "speaker": "You", "me": true, "en": "Sorry, I'm not sure what you mean. Could you give me an example?", "vi": "Xin lỗi, tôi chưa rõ. Em cho tôi một ví dụ được không?" },
+            { "speaker": "Staff", "en": "If the screen breaks, we send a new one free — but you pay for fitting.", "vi": "Nếu màn hình hỏng, bên em gửi cái mới miễn phí — nhưng anh/chị trả tiền lắp ạ." },
+            { "speaker": "You", "me": true, "en": "Ah, now I understand. Does that apply for two years?", "vi": "À, giờ tôi hiểu rồi. Áp dụng trong hai năm phải không ạ?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "What you mean?", "right": "What do you mean?", "why": "Thiếu trợ động từ <b>do</b>. Câu hỏi trực tiếp với động từ thường luôn cần nó. Xem [Khung 61]." },
+            { "wrong": "What are you meaning?", "right": "What do you mean?", "why": "Với nghĩa “ý là”, <b>mean</b> là động từ trạng thái — không chia tiếp diễn." },
+            { "wrong": "What do you mean with “soon”?", "right": "What do you mean by “soon”?", "why": "Giới từ cố định là <b>by</b>, không phải <i>with</i>." },
+            { "wrong": "What do you MEAN? <i>(nói cụt, gắt, với khách hàng)</i>", "right": "Sorry, I'm not sure what you mean.", "why": "CẢNH BÁO SẮC THÁI. Nói cụt và nhấn mạnh nghe như “bạn ám chỉ gì đấy?” — một lời thách thức." },
+            { "wrong": "Do you know what do you mean?", "right": "Do you know what you mean?", "why": "Câu gián tiếp KHÔNG đảo ngữ — bỏ <i>do</i> ở mệnh đề sau. Xem [Khung 67]." },
+            { "wrong": "What is the meaning of you?", "right": "What do you mean?", "why": "Dịch thẳng từ tiếng Việt. <i>meaning</i> là danh từ và không dùng với người như vậy." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>Sorry, I'm not sure what you mean.</code>", "Nhẹ nhất — nhận về mình", "An toàn mọi lúc."],
+            ["<code>Do you mean…?</code>", "Đoán giúp — hợp tác", "<i>Do you mean by Friday?</i>"],
+            ["<code>What do you mean by “X”?</code>", "Trung tính — trích từ", "Làm rõ một từ mơ hồ."],
+            ["<code>In what sense?</code>", "Ngắn, hỏi khía cạnh", "Với từ đa nghĩa."],
+            ["<code>So you're saying…?</code>", "Diễn giải lại — cẩn thận", "Dễ nghe như gán lời."],
+            ["<code>What exactly do you mean?</code>", "Mạnh — dễ thành chất vấn", "Dùng hạn chế."],
+            ["<code>Could you explain that?</code>", "Xin giải thích đầy đủ", "Xem [Khung 69]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — hỏi lại một từ mơ hồ" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Sorry, I'm not sure what you mean.", "vi": "Nhẹ nhất — nhận sự không hiểu về mình" },
+            { "en": "Do you mean by Friday?", "vi": "Đoán giúp — rất hợp tác" },
+            { "en": "What do you mean by “soon”?", "vi": "Trung tính — trích đúng từ" },
+            { "en": "What exactly do you mean?", "vi": "Mạnh hơn — cẩn thận giọng" },
+            { "en": "What do you MEAN?", "vi": "Chất vấn — tránh trừ khi cố ý" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>What do you</b> nói nhanh dính thành <b>“wə-də-yə”</b> hoặc gọn hơn là <b>“wə-jə”</b>.",
+            "<b>mean by</b> → “meen-bai”, hai từ nối liền, âm /n/ chuyển thẳng sang /b/.",
+            "Cả cụm: <b>“wə-jə-MEEN-bai”</b> — nhấn vào <i>MEAN</i> và vào từ được trích dẫn.",
+            "<b>Từ trong ngoặc kép được nhấn rõ và tách ra:</b> <i>What do you mean by</i> … <b>“SOON”?</b> — chỗ ngắt nhỏ trước nó rất quan trọng.",
+            "<b>Giọng đi lên nhẹ ở cuối</b> = xin làm rõ. Giọng đi xuống và nhấn mạnh vào <i>MEAN</i> = chất vấn.",
+            "Nguyên âm trong <i>mean</i> là <b>/iː/ dài</b> — <i>meen</i>, không phải <i>min</i> ngắn."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "What do you mean by “soon”?", "vi": "Luyện shadowing: “wə-jə-MEEN-bai” rồi ngắt nhẹ trước từ trích dẫn." },
+            { "en": "Sorry, I'm not sure what you mean.", "vi": "Tập giọng nhẹ và hơi ngập ngừng — đây là câu thú nhận chưa hiểu." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Anh/chị nói “sớm” là khi nào ạ?", "blank": "__________ “soon”?", "a": "What do you mean by" },
+            { "vi": "Ý anh/chị là trước thứ Sáu ạ?", "blank": "__________ by Friday?", "a": "Do you mean" },
+            { "vi": "Xin lỗi, tôi chưa rõ ý anh/chị.", "blank": "Sorry, __________ what you mean.", "a": "I'm not sure" },
+            { "vi": "Chính xác thì theo nghĩa nào ạ?", "blank": "__________, exactly?", "a": "In what sense" },
+            { "vi": "Nếu tôi hiểu đúng thì mình đợi.", "blank": "__________, we wait.", "a": "If I understand you correctly" },
+            { "vi": "Anh/chị cho tôi một ví dụ được không ạ?", "blank": "Could you __________?", "a": "give me an example" },
+            { "vi": "Ý tôi là việc này quá rủi ro.", "blank": "__________, it's too risky.", "a": "What I mean is" },
+            { "vi": "Hơi lạ, nếu bạn hiểu ý mình.", "blank": "It was a bit odd, __________.", "a": "if you know what I mean" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Anh/chị nói “sớm” là khi nào ạ?", "a": "What do you mean by “soon”?" },
+            { "vi": "2. Ý anh/chị là trước thứ Sáu ạ?", "a": "Do you mean by Friday?" },
+            { "vi": "3. Anh/chị nói “có vấn đề” là sao ạ?", "a": "What do you mean by “an issue”?" },
+            { "vi": "4. Xin lỗi, tôi chưa rõ ý em.", "a": "Sorry, I'm not sure what you mean." },
+            { "vi": "5. Nếu tôi hiểu đúng thì mình đang tạm dừng ra mắt ạ?", "a": "If I understand you correctly, we're pausing the launch?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luôn thêm “by + từ cụ thể”</b> — nó biến câu từ chất vấn thành yêu cầu làm rõ, và buộc người ta trả lời đúng chỗ.",
+            "<b>Cách an toàn nhất là đoán giúp:</b> <i>Do you mean by Friday?</i> Người ta chỉ cần gật hoặc sửa.",
+            "<b>Mở đầu bằng “Sorry” khi bạn không chắc</b> — nó nhận sự không hiểu về phía mình và giữ hòa khí.",
+            "<b>Ngữ điệu quan trọng hơn từ ngữ ở đây.</b> Giọng lên nhẹ = xin làm rõ; giọng xuống nhấn mạnh = thách thức.",
+            "<b>Bốn từ luôn đáng hỏi lại trong công việc:</b> <i>soon, a few, an issue, fine</i>. Chúng mơ hồ đến mức nguy hiểm.",
+            "<b>Bài tập 3 phút:</b> nhớ lại 3 lần bạn làm sai vì hiểu nhầm, viết câu <i>What do you mean by…?</i> mà lẽ ra bạn nên hỏi lúc đó."
+          ]
+        }
+      ]
+    }
+  ]
+}

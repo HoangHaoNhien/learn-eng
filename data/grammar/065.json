@@ -1,0 +1,231 @@
+{
+  "id": 65,
+  "group": "Nhóm 12 · Nhấn mạnh, nối ý & dấu câu",
+  "title": "I do think … · It is said that …",
+  "subtitle": "Hai thế đối nhau, cùng một mục đích: <b>điều khiển xem có bao nhiêu phần \"tôi\" trong câu</b>. <i>I <b>do</b> think</i> đẩy tiếng nói của mình lên trước; <i>It is said that…</i> rút mình ra hẳn, để câu đứng một mình không gắn với ai. Người học B2 thiếu cả hai nên câu nào cũng phẳng như nhau.",
+  "meaning": "Nhấn mạnh bằng do/does/did — và nói mà không nhận là của mình",
+  "rule": [
+    "<em>do / does / did</em> + V nguyên thể — nhấn mạnh câu khẳng định",
+    "<em>It is said that</em> + mệnh đề — người ta nói rằng…",
+    "<em>S + be said to</em> + V — cùng nghĩa, gọn hơn"
+  ],
+  "tags": [
+    { "text": "Trình độ: B2", "hot": true },
+    { "text": "I DO like it — không phải I do liked" },
+    { "text": "It is said that = He is said to" },
+    { "text": "Dùng nhiều ở báo chí và bài luận" }
+  ],
+  "frames": [43, 45, 50, 54, 59],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Bài này gộp hai công cụ ngược chiều nhau. Cả hai đều trả lời cùng một câu hỏi: <b>bạn muốn đứng gần hay đứng xa điều mình vừa nói?</b>" },
+        { "t": "callout", "html": "<b>A · Đẩy mình ra trước — <i>do / does / did</i></b><br>Thêm <b>do</b> vào câu khẳng định để nhấn: <i>I <b>do</b> like it.</i> = Tôi thích nó <b>thật mà</b>.<br><br><b>B · Rút mình ra sau — <i>It is said that…</i></b><br>Nói điều ai cũng nói nhưng không nhận là của mình: <i><b>It is said that</b> he lives in Paris.</i> = Người ta nói rằng anh ấy sống ở Paris." },
+        { "t": "h3", "text": "A · Nhấn mạnh bằng do / does / did" },
+        { "t": "table", "head": ["Điều kiện", "Vì sao", "Ví dụ"], "rows": [
+          ["Chỉ câu <b>khẳng định</b>", "câu phủ định đã có <i>don't</i> rồi", "<i>I <b>do</b> agree.</i> ✓ — <i>I do not don't agree</i> ✗"],
+          ["Chỉ <b>hiện tại đơn</b> và <b>quá khứ đơn</b>", "các thì khác đã có trợ động từ", "<i>I <b>do</b> know · He <b>did</b> call</i>"],
+          ["Động từ chính về <b>nguyên thể</b>", "<i>did</i> đã gánh thì rồi", "<i>He <b>did tell</b> me</i> ✓ — <i>did told</i> ✗"],
+          ["Không dùng với <b>be</b> và modal", "chúng tự nhấn được", "<i>I <b>am</b> tired</i> (nhấn vào <i>am</i>)"],
+          ["Dùng cả ở <b>câu mệnh lệnh</b>", "nghe nồng hậu, mời mọc", "<i><b>Do</b> come in! · <b>Do</b> sit down.</i>"]
+        ] },
+        { "t": "p", "html": "<b>Trọng âm rơi vào chính chữ <i>do</i></b>, không rơi vào động từ. Nói <i>I <b>DO</b> like it</i> — nhấn mạnh nằm ở giọng chứ không chỉ ở chữ viết." },
+        { "t": "h3", "text": "B · It is said that … và dạng rút gọn" },
+        { "t": "callout", "html": "<b>Một ý, hai cách viết — đổi qua lại được:</b><br><i><b>It is said that</b> he lives in Paris.</i><br><i><b>He is said to</b> live in Paris.</i><br><br>Cách đổi: lấy chủ ngữ của mệnh đề sau đưa lên đầu, <i>that</i> biến mất, động từ thành <b>to V</b>.<br>Nếu việc đã xảy ra <b>trước đó</b> thì thành <b>to have V3</b>: <i>He is said <b>to have lived</b> there.</i>" }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        { "t": "h3", "text": "do / does / did theo ngôi" },
+        { "t": "table", "head": ["Chủ ngữ", "Hiện tại", "Quá khứ"], "rows": [
+          ["I / you / we / they", "<i>I <b>do</b> like it.</i>", "<i>I <b>did</b> like it.</i>"],
+          ["he / she / it", "<i>She <b>does</b> like it.</i>", "<i>She <b>did</b> like it.</i>"],
+          ["Mệnh lệnh (không chủ ngữ)", "<i><b>Do</b> come in!</i>", "—"]
+        ] },
+        { "t": "h3", "text": "Động từ tường thuật khách quan — cả hai dạng" },
+        { "t": "table", "head": ["Động từ", "Dạng dài", "Dạng rút gọn"], "rows": [
+          ["say", "<i>It is <b>said</b> that he is rich.</i>", "<i>He is <b>said</b> to be rich.</i>"],
+          ["believe", "<i>It is <b>believed</b> that she left.</i>", "<i>She is <b>believed</b> to have left.</i>"],
+          ["think", "<i>It is <b>thought</b> that they know.</i>", "<i>They are <b>thought</b> to know.</i>"],
+          ["report", "<i>It is <b>reported</b> that ten died.</i>", "<i>Ten people are <b>reported</b> to have died.</i>"],
+          ["know", "<i>It is <b>known</b> that it works.</i>", "<i>It is <b>known</b> to work.</i>"],
+          ["expect", "<i>It is <b>expected</b> that prices will rise.</i>", "<i>Prices are <b>expected</b> to rise.</i>"],
+          ["consider", "<i>It is <b>considered</b> that this is safe.</i>", "<i>This is <b>considered</b> to be safe.</i>"],
+          ["claim", "<i>It is <b>claimed</b> that the drug works.</i>", "<i>The drug is <b>claimed</b> to work.</i>"]
+        ] },
+        { "t": "callout", "html": "<b>Nhìn cột phải sẽ thấy cả một quy luật:</b> việc xảy ra <b>cùng lúc</b> thì <b>to V</b>, việc xảy ra <b>trước đó</b> thì <b>to have V3</b>. Chỉ có đúng hai lựa chọn này." },
+        { "t": "h3", "text": "Mười hai câu mẫu để nhập tâm" },
+        { "t": "ex", "items": [
+          { "en": "I do like your idea, but we have no budget.", "vi": "Tôi thích ý của bạn thật, nhưng chúng ta không có kinh phí.", "note": "Kiểu dùng hay nhất: công nhận trước rồi mới phản bác." },
+          { "en": "She does want to come; she is just busy.", "vi": "Cô ấy muốn đến thật đấy, chỉ là đang bận thôi.", "note": "<i>does</i> cho ngôi thứ ba số ít." },
+          { "en": "He did tell me, but I forgot.", "vi": "Anh ấy có nói với tôi thật, nhưng tôi quên mất.", "note": "<b>did tell</b> — động từ chính về nguyên thể, không phải <i>told</i>." },
+          { "en": "Do come in and sit down.", "vi": "Mời anh vào ngồi ạ.", "note": "<i>do</i> trước câu mệnh lệnh nghe niềm nở hẳn lên." },
+          { "en": "I do apologise for the delay.", "vi": "Tôi thành thật xin lỗi vì sự chậm trễ.", "note": "Công thức xin lỗi trang trọng trong email công việc." },
+          { "en": "It does look better in the light.", "vi": "Để ra sáng trông đẹp hơn thật.", "note": "Dùng khi vừa đổi ý sau khi nhìn lại." },
+          { "en": "It is said that the castle is over 800 years old.", "vi": "Người ta nói tòa lâu đài đã hơn 800 năm tuổi.", "note": "Dạng dài, mở đầu bằng <i>It</i> trống nghĩa." },
+          { "en": "The castle is said to be over 800 years old.", "vi": "Tòa lâu đài được cho là đã hơn 800 năm tuổi.", "note": "Cùng một ý, rút gọn lại. Gọn hơn nên báo chí chuộng hơn." },
+          { "en": "He is believed to have left the country.", "vi": "Người ta tin rằng anh ta đã rời khỏi nước.", "note": "<b>to have left</b> — việc xảy ra TRƯỚC thời điểm nói." },
+          { "en": "Prices are expected to rise next year.", "vi": "Giá cả dự kiến sẽ tăng vào năm tới.", "note": "Câu kinh điển trên báo kinh tế." },
+          { "en": "It is widely believed that exercise improves sleep.", "vi": "Nhiều người tin rằng tập thể dục giúp ngủ ngon hơn.", "note": "<i>widely</i> chen vào giữa, rất hay gặp trong bài luận." },
+          { "en": "Two workers are reported to have been injured.", "vi": "Hai công nhân được cho là đã bị thương.", "note": "<b>to have been injured</b> — vừa hoàn thành vừa bị động." }
+        ] }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        { "t": "cards", "items": [
+          { "icon": "💬", "title": "Cãi lại một hiểu lầm", "text": "<i>— You don't like it. — I <b>do</b> like it!</i> Đây là chỗ <i>do</i> sinh ra để dùng." },
+          { "icon": "🤝", "title": "Công nhận rồi mới phản bác", "text": "<i>I <b>do</b> see your point, but…</i> Nghe mềm hơn hẳn so với vào thẳng chữ <i>but</i>." },
+          { "icon": "🙏", "title": "Mời mọc, xin lỗi trang trọng", "text": "<i><b>Do</b> have a seat. · I <b>do</b> apologise.</i> Lịch sự kiểu Anh." },
+          { "icon": "📰", "title": "Viết tin, viết báo cáo", "text": "<i>It is reported that… · Prices are expected to…</i> Không cần nêu nguồn cụ thể." },
+          { "icon": "🎓", "title": "Viết bài luận học thuật", "text": "<i>It is widely believed that…</i> Nêu quan điểm chung trước khi đưa ý mình." },
+          { "icon": "🚫", "title": "KHÔNG dùng do với be và modal", "text": "<i>I do am tired</i> ✗ · <i>I do can swim</i> ✗. Chúng tự nhấn được rồi." }
+        ] }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Hai mươi tư mục: sáu cụm nhấn mạnh thông dụng, sáu tình huống cụ thể hay bật <i>do</i> ra, sáu mở đầu <i>It is … that</i>, và sáu dạng rút gọn." },
+        { "t": "words", "groups": [
+          { "title": "Nhấn mạnh bằng do / does / did", "items": [
+            { "w": "I do think…", "vi": "tôi thật sự nghĩ rằng…", "ex": "I do think we should wait.", "exvi": "Tôi thật sự nghĩ chúng ta nên chờ.", "note": "Cụm nhấn mạnh dùng nhiều nhất khi nêu ý kiến." },
+            { "w": "I do like…", "vi": "tôi thích thật đấy", "ex": "I do like this design.", "exvi": "Tôi thích bản thiết kế này thật đấy." },
+            { "w": "She does want…", "vi": "cô ấy muốn thật mà", "ex": "She does want the job.", "exvi": "Cô ấy muốn công việc đó thật mà.", "note": "Ngôi ba số ít dùng <i>does</i>, động từ về nguyên thể." },
+            { "w": "He did tell me", "vi": "anh ấy có nói với tôi thật", "ex": "He did tell me, I just forgot.", "exvi": "Anh ấy có nói thật, chỉ là tôi quên." },
+            { "w": "Do come in!", "vi": "Mời vào ạ!", "ex": "Do come in, the door is open.", "exvi": "Mời vào ạ, cửa mở rồi." },
+            { "w": "Do have a seat.", "vi": "Mời ngồi ạ.", "ex": "Do have a seat while you wait.", "exvi": "Mời anh ngồi trong lúc chờ." }
+          ] },
+          { "title": "Sáu tình huống hay bật do ra", "items": [
+            { "w": "I do apologise.", "vi": "Tôi thành thật xin lỗi.", "ex": "I do apologise for the confusion.", "exvi": "Tôi thành thật xin lỗi vì sự nhầm lẫn.", "note": "Trang trọng, hợp email công việc." },
+            { "w": "It does look better.", "vi": "Trông đẹp hơn thật.", "ex": "You were right — it does look better.", "exvi": "Bạn nói đúng — trông đẹp hơn thật." },
+            { "w": "We did try.", "vi": "Chúng tôi đã cố thật mà.", "ex": "We did try, but the shop was closed.", "exvi": "Chúng tôi đã cố thật, nhưng cửa hàng đóng rồi." },
+            { "w": "I do hope so.", "vi": "Tôi rất mong là vậy.", "ex": "— Will it work? — I do hope so.", "exvi": "— Liệu có được không? — Tôi rất mong là vậy." },
+            { "w": "He does know.", "vi": "Anh ấy biết thật đấy.", "ex": "Ask him — he does know the answer.", "exvi": "Hỏi anh ấy đi — anh ấy biết câu trả lời thật đấy." },
+            { "w": "They did warn us.", "vi": "Họ có cảnh báo chúng ta thật.", "ex": "They did warn us about the traffic.", "exvi": "Họ có cảnh báo chúng ta về giao thông thật." }
+          ] },
+          { "title": "Người ta nói rằng — dạng dài It is … that", "items": [
+            { "w": "It is said that…", "vi": "người ta nói rằng…", "ex": "It is said that the water here is pure.", "exvi": "Người ta nói nước ở đây rất sạch." },
+            { "w": "It is believed that…", "vi": "người ta tin rằng…", "ex": "It is believed that the temple is 500 years old.", "exvi": "Người ta tin ngôi đền đã 500 năm tuổi." },
+            { "w": "It is thought that…", "vi": "người ta cho rằng…", "ex": "It is thought that the fire started at night.", "exvi": "Người ta cho rằng đám cháy bắt đầu lúc đêm." },
+            { "w": "It is reported that…", "vi": "có tin cho hay…", "ex": "It is reported that the road will close.", "exvi": "Có tin cho hay con đường sẽ bị đóng.", "note": "Giọng của bản tin." },
+            { "w": "It is known that…", "vi": "ai cũng biết rằng…", "ex": "It is known that sugar harms teeth.", "exvi": "Ai cũng biết đường hại răng.", "note": "Chắc chắn nhất trong nhóm." },
+            { "w": "It is expected that…", "vi": "dự kiến là…", "ex": "It is expected that the result will come on Friday.", "exvi": "Dự kiến kết quả sẽ có vào thứ Sáu." }
+          ] },
+          { "title": "Dạng rút gọn — gọn hơn, báo chí chuộng hơn", "items": [
+            { "w": "be said to + V", "vi": "được cho là…", "ex": "The soup is said to cure colds.", "exvi": "Món canh này được cho là chữa được cảm." },
+            { "w": "be believed to be…", "vi": "được tin là…", "ex": "He is believed to be in Hanoi.", "exvi": "Người ta tin anh ấy đang ở Hà Nội." },
+            { "w": "be thought to have + V3", "vi": "được cho là đã…", "ex": "They are thought to have left early.", "exvi": "Người ta cho rằng họ đã đi sớm.", "note": "<i>to have V3</i> cho việc xảy ra TRƯỚC đó." },
+            { "w": "be considered to be…", "vi": "được xem là…", "ex": "She is considered to be the best candidate.", "exvi": "Cô ấy được xem là ứng viên tốt nhất." },
+            { "w": "be reported to have + V3", "vi": "được đưa tin là đã…", "ex": "Three cars are reported to have been damaged.", "exvi": "Có tin ba chiếc xe đã bị hư hại." },
+            { "w": "be expected to + V", "vi": "dự kiến sẽ…", "ex": "The flight is expected to land at six.", "exvi": "Chuyến bay dự kiến hạ cánh lúc sáu giờ.", "note": "Cụm thông báo ở sân bay, nhà ga." }
+          ] }
+        ] }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        { "t": "pairs", "items": [
+          { "wrong": "He <b>did told</b> me about it.", "right": "He <b>did tell</b> me about it.", "why": "BẪY SỐ MỘT. <i>did</i> đã gánh thì quá khứ rồi nên động từ chính phải về <b>nguyên thể</b>. Chia hai lần quá khứ là sai." },
+          { "wrong": "She <b>do like</b> it.", "right": "She <b>does like</b> it.", "why": "Ngôi ba số ít phải là <b>does</b>. Và khi đã có <i>does</i> thì động từ chính là <i>like</i>, không phải <i>likes</i>." },
+          { "wrong": "I <b>do am</b> tired.", "right": "I <b>am</b> tired. <i>(nhấn giọng vào am)</i>", "why": "<b>be</b> không bao giờ đi với <i>do</i> nhấn mạnh. Muốn nhấn thì nhấn giọng vào chính chữ <i>am</i>." },
+          { "wrong": "I <b>do can</b> swim.", "right": "I <b>can</b> swim. <i>(nhấn giọng vào can)</i>", "why": "Động từ khuyết thiếu cũng vậy — chúng đã là trợ động từ nên tự nhấn được." },
+          { "wrong": "I <b>do don't</b> agree.", "right": "I <b>don't</b> agree.", "why": "<i>do</i> nhấn mạnh CHỈ dùng cho câu khẳng định. Câu phủ định đã có sẵn <i>don't</i> để nhấn rồi." },
+          { "wrong": "<b>Is said that</b> he is rich.", "right": "<b>It is said that</b> he is rich.", "why": "Thiếu chủ ngữ giả <b>It</b>. Tiếng Việt bỏ trống chủ ngữ được, tiếng Anh thì không." },
+          { "wrong": "He <b>is said that</b> he lives in Paris.", "right": "He <b>is said to</b> live in Paris.", "why": "Trộn lẫn hai dạng. Chủ ngữ đã đưa lên đầu thì phải dùng <b>to V</b>, chữ <i>that</i> biến mất." },
+          { "wrong": "He is said <b>to lived</b> there before.", "right": "He is said <b>to have lived</b> there before.", "why": "Việc xảy ra TRƯỚC thời điểm nói phải là <b>to have V3</b>. Sau <i>to</i> không bao giờ chia thì." },
+          { "wrong": "It is <b>say</b> that the soup is good.", "right": "It is <b>said</b> that the soup is good.", "why": "Đây là câu bị động nên phải dùng <b>V3</b>. Quên chia V3 là lỗi hay gặp nhất của dạng dài." },
+          { "wrong": "<b>People say</b> that the castle is 800 years old. <i>(trong bài luận)</i>", "right": "<b>It is said</b> that the castle is 800 years old.", "why": "Không sai ngữ pháp, nhưng SAI VĂN PHONG. Bài luận và bản tin dùng dạng khách quan; <i>People say</i> nghe như nói chuyện phiếm." }
+        ] }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        { "t": "table", "head": ["Cách nói", "Nhấn vào đâu", "Ví dụ"], "rows": [
+          ["<code>I think…</code>", "trung tính, không nhấn", "<i>I think it works.</i>"],
+          ["<code>I DO think…</code>", "nhấn chính lời khẳng định", "<i>I do think it works.</i>"],
+          ["<code>It is … that I think</code>", "câu chẻ — nhấn vào một THÀNH PHẦN (bài 62)", "<i>It is me who thinks so.</i>"],
+          ["<code>Never have I…</code>", "đảo ngữ — nhấn bằng trật tự lạ (bài 49)", "<i>Never have I seen that.</i>"],
+          ["<code>It is said that…</code>", "giấu hẳn người nói", "<i>It is said that it works.</i>"],
+          ["<code>He said that…</code>", "nêu rõ ai nói (bài 47)", "<i>He said that it works.</i>"]
+        ] },
+        { "t": "h3", "text": "Hỏi một câu là ra ngay" },
+        { "t": "tree", "q": "Bạn muốn đứng gần hay đứng xa câu mình nói?", "nodes": [
+          { "if": "Muốn khẳng định mạnh ý của CHÍNH MÌNH", "then": "do / does / did + V nguyên thể", "ex": "I do think you should go." },
+          { "if": "Muốn nhấn vào một thành phần cụ thể", "then": "câu chẻ — bài 62", "ex": "It was John who called." },
+          { "if": "Muốn nói điều ai cũng nói, không nhận là của mình", "then": "It is said that… / be said to…", "ex": "It is said that the soup cures colds." },
+          { "if": "Muốn nêu rõ nguồn là ai", "then": "câu tường thuật thường — bài 47", "ex": "My doctor said it helps." }
+        ] },
+        { "t": "h3", "text": "Thang chắc chắn: cùng bộ khung, khác hẳn độ tin" },
+        { "t": "scale", "items": [
+          { "en": "It is known that…", "vi": "Chắc chắn — đã được chứng minh" },
+          { "en": "It is reported that…", "vi": "Có nguồn tin, chưa khẳng định" },
+          { "en": "It is believed that…", "vi": "Nhiều người tin, chưa chắc" },
+          { "en": "It is thought that…", "vi": "Phỏng đoán chung" },
+          { "en": "It is claimed that…", "vi": "Có người khẳng định — hàm ý ngờ vực" }
+        ] }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Cả hai công cụ đều sống trong nhóm khung câu <b>nêu ý kiến</b> và <b>đồng ý / phản đối</b> — chỗ mà mức độ chắc chắn và việc nhận hay không nhận quan điểm là vấn đề trung tâm." },
+        { "t": "link", "items": [
+          { "id": 43, "why": "I believe (that) + mệnh đề — đối trọng trực tiếp với <i>It is believed that…</i>: một bên là niềm tin của bạn, một bên là niềm tin của thiên hạ." },
+          { "id": 45, "why": "As far as I know, … — cùng việc hạ mức cam kết như <i>It is said that…</i>, nhưng vẫn nhận là hiểu biết của mình." },
+          { "id": 50, "why": "I'm not sure, but… — khi muốn nói điều chưa chắc, dạng khách quan là cách nâng câu này lên văn viết." },
+          { "id": 54, "why": "I'm afraid I disagree — ghép với <i>do</i> thành mẫu công nhận rồi phản bác: <i>I do see your point, but I'm afraid I disagree.</i>" },
+          { "id": 59, "why": "Not necessarily — phản bác một điều \"ai cũng nói\"; câu trước nó thường chính là <i>It is believed that…</i>" }
+        ] }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A · Thêm do / does / did cho đúng" },
+        { "t": "quiz", "items": [
+          { "vi": "Tôi thật sự nghĩ chúng ta nên chờ.", "blank": "I __________ think we should wait.", "a": "do" },
+          { "vi": "Cô ấy muốn công việc đó thật mà.", "blank": "She __________ want the job.", "a": "does — ngôi ba số ít" },
+          { "vi": "Anh ấy có nói với tôi thật.", "blank": "He __________ __________ (tell) me.", "a": "did tell — động từ chính về nguyên thể" },
+          { "vi": "Mời anh vào ạ.", "blank": "__________ come in, please.", "a": "Do — đặt trước câu mệnh lệnh" },
+          { "vi": "Chúng tôi đã cố thật mà.", "blank": "We __________ try, but it was closed.", "a": "did" },
+          { "vi": "Tôi mệt thật. (nhấn mạnh)", "blank": "I __________ tired.  (am / do am)", "a": "am — be không đi với do nhấn mạnh" }
+        ] },
+        { "t": "h3", "text": "B · Đổi sang dạng rút gọn" },
+        { "t": "quiz", "items": [
+          { "vi": "Người ta nói anh ấy sống ở Paris.", "blank": "It is said that he lives in Paris.  →  He __________ in Paris.", "a": "is said to live" },
+          { "vi": "Người ta tin cô ấy đã rời đi.", "blank": "It is believed that she left.  →  She __________.", "a": "is believed to have left — việc xảy ra trước" },
+          { "vi": "Dự kiến giá sẽ tăng.", "blank": "It is expected that prices will rise.  →  Prices __________.", "a": "are expected to rise" },
+          { "vi": "Cô ấy được xem là ứng viên tốt nhất.", "blank": "It is considered that she is the best.  →  She __________ the best.", "a": "is considered to be" },
+          { "vi": "Có tin hai người đã bị thương.", "blank": "It is reported that two people were injured.  →  Two people __________.", "a": "are reported to have been injured" }
+        ] },
+        { "t": "h3", "text": "C · Dịch cả câu" },
+        { "t": "quiz", "items": [
+          { "vi": "1. Tôi thích ý của bạn thật, nhưng chúng ta không có kinh phí.", "a": "I do like your idea, but we have no budget." },
+          { "vi": "2. Tôi thành thật xin lỗi vì sự chậm trễ.", "a": "I do apologise for the delay." },
+          { "vi": "3. Nhiều người tin rằng tập thể dục giúp ngủ ngon hơn.", "a": "It is widely believed that exercise improves sleep." },
+          { "vi": "4. Tòa lâu đài được cho là đã hơn 800 năm tuổi.", "a": "The castle is said to be over 800 years old." },
+          { "vi": "5. Chuyến bay dự kiến hạ cánh lúc sáu giờ.", "a": "The flight is expected to land at six." }
+        ] }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>Một câu chốt cho nửa đầu bài:</b> <i>do</i> gánh thì, động từ chính về trần. <i>did <b>tell</b></i> · <i>does <b>want</b></i> — không bao giờ có <i>did told</i> hay <i>does wants</i>.",
+          "<b><i>do</i> chỉ bò vào ba chỗ:</b> câu khẳng định, hiện tại đơn, quá khứ đơn — cộng thêm câu mệnh lệnh. Ngoài bốn chỗ đó là sai.",
+          "<b>Thấy <i>be</i> hoặc modal là bỏ <i>do</i> đi.</b> <i>am · is · can · will</i> tự nhấn được bằng giọng, không cần ai gánh hộ.",
+          "<b>Hai dạng của nửa sau bài đổi qua lại bằng một thao tác:</b> kéo chủ ngữ lên đầu, xóa <i>that</i>, đổi động từ thành <b>to V</b>.",
+          "<b>Chỉ có hai lựa chọn sau <i>to</i>:</b> cùng lúc thì <b>to V</b>, trước đó thì <b>to have V3</b>. Không có lựa chọn thứ ba.",
+          "<b>Mẹo chọn văn phong:</b> nói chuyện thì <i>People say…</i>, viết bài hay viết tin thì <i>It is said…</i>. Cùng một ý, khác hẳn độ trang trọng."
+        ] }
+      ]
+    }
+  ]
+}

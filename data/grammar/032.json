@@ -1,0 +1,277 @@
+{
+  "id": 32,
+  "group": "Nhóm 9 · Động từ khuyết thiếu",
+  "title": "should · ought to · had better",
+  "subtitle": "Ba cách đưa lời khuyên, chênh nhau rõ về sức nặng. Bẫy nằm ở chữ to: should KHÔNG có to nhưng ought to thì CÓ. Và had better tuy mang chữ had vẫn nói về hiện tại hoặc tương lai, không phải quá khứ.",
+  "meaning": "Lời khuyên · điều nên làm · cảnh báo nhẹ",
+  "rule": [
+    "<em>should</em> + V trần — không có <em>to</em>",
+    "<em>ought to</em> + V trần — CÓ <em>to</em>",
+    "<em>had better</em> + V trần — hiện tại, không phải quá khứ"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1", "hot": true },
+    { "text": "ought TO · should không to" },
+    { "text": "had better = hiện tại" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [52, 60, 69, 88, 98],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Ba cấu trúc này đều đưa lời khuyên, nhưng <b>sức nặng khác hẳn nhau</b>. <i>should</i> là gợi ý bình thường, <i>ought to</i> hơi trang trọng hơn, còn <i>had better</i> mang theo một lời cảnh báo ngầm về hậu quả nếu không làm." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — chữ <i>to</i>:</b><br>• <i>You <b>should rest</b></i> ✓ — <i>should to rest</i> ✗<br>• <i>You <b>ought to rest</b></i> ✓ — <i>ought rest</i> ✗<br>• <i>You'<b>d better rest</b></i> ✓ — <i>had better to rest</i> ✗<br>Chỉ <b>ought</b> là có <i>to</i>, hai từ kia thì không." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>had better</i> KHÔNG phải quá khứ:</b> dù có chữ <i>had</i>, nó nói về <b>hiện tại hoặc tương lai</b>.<br>• <i>You'd better leave now</i> = tốt nhất là bạn đi ngay bây giờ.<br>Muốn nói lời khuyên về quá khứ thì dùng <b>should have + V3</b>. Xem [Ngữ pháp 33]." },
+        { "t": "h3", "text": "Ba mức độ của lời khuyên" },
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Sức nặng", "Sắc thái"],
+          "rows": [
+            ["<code>could</code>", "Nhẹ nhất", "Chỉ nêu một lựa chọn"],
+            ["<code>should</code>", "Vừa phải", "Lời khuyên bình thường"],
+            ["<code>ought to</code>", "Vừa phải, trang trọng hơn", "Nhấn vào nghĩa vụ, lẽ phải"],
+            ["<code>had better</code>", "Mạnh nhất", "Cảnh báo ngầm về hậu quả"]
+          ]
+        },
+        { "t": "p", "html": "Ngoài lời khuyên, <b>should</b> còn dùng để <b>suy đoán theo lẽ thường</b>: <i>It <b>should</b> be ready by now</i> = theo lẽ thì giờ này xong rồi. Ngữ cảnh quyết định nghĩa nào." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Lời khuyên", "<code>S + should + V trần</code>", "You should rest."],
+            ["Phủ định", "<code>S + shouldn't + V trần</code>", "You shouldn't worry."],
+            ["Câu hỏi", "<code>Should + S + V trần?</code>", "Should I call him?"],
+            ["Trang trọng hơn", "<code>S + ought to + V trần</code>", "You ought to rest."],
+            ["Phủ định trang trọng", "<code>S + oughtn't to + V</code>", "You oughtn't to worry."],
+            ["Mạnh — có cảnh báo", "<code>S + had better + V trần</code>", "You'd better leave now."],
+            ["Phủ định mạnh", "<code>S + had better not + V</code>", "You'd better not be late."],
+            ["Tiếc nuối quá khứ", "<code>should have + V3</code>", "I should have told you."],
+            ["Trách nhẹ người khác", "<code>shouldn't have + V3</code>", "You shouldn't have said that."],
+            ["Suy đoán theo lẽ thường", "<code>should + V trần</code>", "It should be ready by now."],
+            ["Gợi ý nhẹ nhất", "<code>might want to + V</code>", "You might want to check."],
+            ["Lời khuyên lịch sự nhất", "<code>If I were you, I'd + V</code>", "If I were you, I'd rest."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dạng rút gọn gần như luôn dùng:</b> <i>had better</i> rút thành <b>'d better</b> — <i>You<b>'d</b> better leave now</i>. Viết đầy đủ <i>You had better</i> nghe rất cứng, chỉ gặp trong văn bản trang trọng." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "You should rest for a while.", "vi": "Bạn nên nghỉ một lát.", "note": "BẪY SỐ MỘT: <b>rest</b> dạng trần, không có <i>to</i>." },
+            { "en": "You shouldn't worry about it.", "vi": "Bạn không nên lo chuyện đó.", "note": "Phủ định rút gọn <b>shouldn't</b>. Xem [Khung 87]." },
+            { "en": "Should I call him or wait?", "vi": "Tôi nên gọi anh ấy hay chờ?", "note": "Câu hỏi đảo <i>should</i> lên trước chủ ngữ." },
+            { "en": "You ought to tell her the truth.", "vi": "Bạn nên nói thật với cô ấy.", "note": "<b>ought</b> CÓ <i>to</i> — khác hẳn <i>should</i>." },
+            { "en": "You'd better leave now.", "vi": "Tốt nhất là bạn đi ngay bây giờ.", "note": "BẪY SỐ HAI: <b>had better</b> nói về HIỆN TẠI, không phải quá khứ." },
+            { "en": "You'd better not be late.", "vi": "Tốt nhất là đừng muộn đấy.", "note": "Phủ định là <b>had better not</b>, không phải <i>hadn't better</i>." },
+            { "en": "I should have told you earlier.", "vi": "Đáng lẽ tôi nên nói với bạn sớm hơn.", "note": "Tiếc nuối QUÁ KHỨ. Xem [Khung 88]." },
+            { "en": "You shouldn't have said that.", "vi": "Đáng lẽ bạn không nên nói thế.", "note": "Trách nhẹ về một việc đã làm." },
+            { "en": "It should be ready by now.", "vi": "Theo lẽ thì giờ này xong rồi.", "note": "Nghĩa THỨ HAI: suy đoán theo lẽ thường, khoảng tám mươi phần trăm." },
+            { "en": "You might want to check first.", "vi": "Có lẽ bạn nên kiểm tra trước.", "note": "Cách gợi ý NHẸ nhất, gần như không có sức ép." },
+            { "en": "If I were you, I'd rest.", "vi": "Nếu tôi là bạn, tôi sẽ nghỉ.", "note": "Lịch sự nhất — đặt mình vào vị trí người kia. Xem [Khung 98]." },
+            { "en": "That's a good point, but I'd wait.", "vi": "Ý hay đấy, nhưng tôi thì sẽ chờ.", "note": "Phản biện rồi đưa lời khuyên thay thế. Xem [Khung 52]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💡", "title": "Khuyên bình thường", "text": "<i>You should rest.</i> Mức vừa phải." },
+            { "icon": "📋", "title": "Nhấn vào lẽ phải", "text": "<i>You ought to tell her the truth.</i>" },
+            { "icon": "⚠️", "title": "Cảnh báo hậu quả", "text": "<i>You'd better leave now.</i> Mạnh nhất." },
+            { "icon": "😔", "title": "Tiếc nuối chuyện đã rồi", "text": "<i>I should have told you.</i> Xem [Khung 88]." },
+            { "icon": "🔮", "title": "Suy đoán theo lẽ thường", "text": "<i>It should be ready by now.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Muốn khuyên về quá khứ bằng <i>had better</i>. Dùng <i>should have</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "should · ought to · had better",
+              "items": [
+                { "w": "should + V trần", "vi": "nên", "ex": "You should rest.", "exvi": "Bạn nên nghỉ.", "note": "BẪY SỐ MỘT: KHÔNG có <i>to</i>. <i>should to rest</i> ✗." },
+                { "w": "shouldn't + V trần", "vi": "không nên", "ex": "You shouldn't worry.", "exvi": "Bạn không nên lo." },
+                { "w": "Should I…?", "vi": "tôi có nên… không?", "ex": "Should I call him?", "exvi": "Tôi có nên gọi anh ấy không?", "note": "Câu xin lời khuyên rất tự nhiên." },
+                { "w": "ought to + V trần", "vi": "nên (trang trọng)", "ex": "You ought to tell her.", "exvi": "Bạn nên nói với cô ấy.", "note": "CÓ <i>to</i> — khác hẳn <i>should</i>. Nhấn vào lẽ phải, nghĩa vụ." },
+                { "w": "oughtn't to", "vi": "không nên", "ex": "You oughtn't to worry.", "exvi": "Bạn không nên lo.", "note": "Dạng phủ định hiếm gặp — người ta thường dùng <i>shouldn't</i>." },
+                { "w": "had better + V trần", "vi": "tốt nhất là", "ex": "You'd better leave now.", "exvi": "Tốt nhất là bạn đi ngay.", "note": "BẪY SỐ HAI: nói về HIỆN TẠI dù có chữ <i>had</i>." },
+                { "w": "had better not + V", "vi": "tốt nhất đừng", "ex": "You'd better not be late.", "exvi": "Tốt nhất đừng muộn đấy.", "note": "<b>not</b> đứng SAU <i>better</i>. <i>hadn't better</i> ✗." },
+                { "w": "'d better", "vi": "dạng rút gọn", "ex": "I'd better go.", "exvi": "Tôi nên đi đây.", "note": "Gần như luôn rút gọn khi nói. Viết đầy đủ nghe rất cứng." },
+                { "w": "should have + V3", "vi": "đáng lẽ nên", "ex": "I should have told you.", "exvi": "Đáng lẽ tôi nên nói với bạn.", "note": "Tiếc nuối QUÁ KHỨ. Xem [Ngữ pháp 33]." },
+                { "w": "shouldn't have + V3", "vi": "đáng lẽ không nên", "ex": "You shouldn't have said that.", "exvi": "Đáng lẽ bạn không nên nói thế." },
+                { "w": "should (suy đoán)", "vi": "chắc là", "ex": "It should be ready by now.", "exvi": "Giờ này chắc xong rồi.", "note": "Nghĩa THỨ HAI — suy đoán theo lẽ thường." },
+                { "w": "should be + V-ing", "vi": "đáng lẽ đang phải", "ex": "You should be studying.", "exvi": "Đáng lẽ bạn đang phải học." }
+              ]
+            },
+            {
+              "title": "Các cách khuyên khác & từ đi kèm",
+              "items": [
+                { "w": "If I were you, I'd", "vi": "nếu tôi là bạn, tôi sẽ", "ex": "If I were you, I'd rest.", "exvi": "Nếu tôi là bạn, tôi sẽ nghỉ.", "note": "Lịch sự nhất. Xem [Khung 98]." },
+                { "w": "I wouldn't + V", "vi": "tôi thì sẽ không", "ex": "I wouldn't worry about it.", "exvi": "Tôi thì sẽ không lo chuyện đó.", "note": "Can ngăn nhẹ nhàng hơn hẳn <i>Don't worry</i>." },
+                { "w": "You might want to", "vi": "có lẽ bạn nên", "ex": "You might want to check first.", "exvi": "Có lẽ bạn nên kiểm tra trước.", "note": "Nhẹ nhất — gần như không có sức ép. Xem [Ngữ pháp 30]." },
+                { "w": "Why don't you…?", "vi": "sao bạn không…?", "ex": "Why don't you ask her?", "exvi": "Sao bạn không hỏi cô ấy?", "note": "Gợi ý thân mật — theo sau là động từ TRẦN." },
+                { "w": "How about + V-ing?", "vi": "hay là…?", "ex": "How about asking her?", "exvi": "Hay là hỏi cô ấy đi?", "note": "Theo sau là V-ing, không phải động từ trần." },
+                { "w": "Have you thought about…?", "vi": "bạn đã nghĩ tới… chưa?", "ex": "Have you thought about calling them?", "exvi": "Bạn đã nghĩ tới việc gọi họ chưa?", "note": "Gợi ý dưới dạng câu hỏi — người nghe không thấy bị dạy đời." },
+                { "w": "It's up to you", "vi": "tùy bạn thôi", "ex": "It's up to you, of course.", "exvi": "Tất nhiên là tùy bạn.", "note": "Câu kết lời khuyên — trả quyền quyết định lại." },
+                { "w": "but that's just me", "vi": "nhưng đó là ý tôi thôi", "ex": "…but that's just me.", "exvi": "…nhưng đó là ý tôi thôi.", "note": "Làm lời khuyên nghe khiêm tốn hẳn." },
+                { "w": "I suggest (that)", "vi": "tôi đề nghị", "ex": "I suggest you go early.", "exvi": "Tôi đề nghị bạn đi sớm.", "note": "Trang trọng. <i>suggest to go</i> ✗. Xem [Ngữ pháp 18]." },
+                { "w": "I advise you to", "vi": "tôi khuyên bạn", "ex": "I advise you to go early.", "exvi": "Tôi khuyên bạn đi sớm.", "note": "<b>advise</b> BẮT BUỘC có người + <i>to V</i>." },
+                { "w": "That's a good point, but", "vi": "ý hay đấy, nhưng", "ex": "That's a good point, but…", "exvi": "Ý hay đấy, nhưng… Xem [Khung 52]." },
+                { "w": "Fair enough", "vi": "hợp lý thôi", "ex": "Fair enough.", "exvi": "Hợp lý thôi. Xem [Khung 60]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "You should <b>to rest</b>.", "right": "You should <b>rest</b>.", "why": "BẪY SỐ MỘT: sau <i>should</i> là ĐỘNG TỪ TRẦN, không có <i>to</i>." },
+            { "wrong": "You <b>ought rest</b>.", "right": "You <b>ought to rest</b>.", "why": "Ngược lại: <b>ought</b> BẮT BUỘC có <i>to</i>. Đây là modal duy nhất trong nhóm có <i>to</i>." },
+            { "wrong": "You'd better <b>to leave</b> now.", "right": "You'd better <b>leave</b> now.", "why": "<b>had better</b> cũng đi với động từ TRẦN, dù trông có vẻ như cần <i>to</i>." },
+            { "wrong": "You <b>hadn't better</b> be late.", "right": "You'd <b>better not</b> be late.", "why": "Phủ định đặt <b>not</b> SAU <i>better</i>, không phải phủ định chữ <i>had</i>." },
+            { "wrong": "Yesterday you'd <b>better</b> leave early. <i>(ý: đáng lẽ)</i>", "right": "Yesterday you <b>should have left</b> early.", "why": "BẪY SỐ HAI: <i>had better</i> nói HIỆN TẠI. Lời khuyên về quá khứ dùng <b>should have + V3</b>." },
+            { "wrong": "He <b>shoulds</b> rest.", "right": "He <b>should</b> rest.", "why": "Modal không chia theo ngôi. Xem [Ngữ pháp 29]." },
+            { "wrong": "I should <b>told</b> you.", "right": "I should <b>have told</b> you.", "why": "Tiếc nuối quá khứ cần đủ <b>should have + V3</b>. Xem [Khung 88]." },
+            { "wrong": "I <b>should of</b> told you.", "right": "I <b>should have</b> told you.", "why": "Nói nhanh nghe thành “əv” nhưng viết phải là <b>have</b>. Lỗi cả người bản xứ cũng mắc." },
+            { "wrong": "How about <b>ask</b> her?", "right": "How about <b>asking</b> her?", "why": "<b>How about</b> đi với V-ing, khác <i>Why don't you</i> đi với động từ trần." },
+            { "wrong": "I advise you <b>go</b> early.", "right": "I advise you <b>to go</b> early.", "why": "<b>advise</b> BẮT BUỘC có <i>to</i>, khác <i>suggest</i>. Xem [Ngữ pháp 18]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Sức nặng & sắc thái", "Ví dụ"],
+          "rows": [
+            ["<code>might want to + V</code>", "Nhẹ nhất — gần như không ép", "You might want to check."],
+            ["<code>could + V</code>", "Chỉ nêu một lựa chọn", "You could ask her."],
+            ["<code>should + V trần</code>", "Lời khuyên bình thường", "You should rest."],
+            ["<code>ought to + V trần</code>", "Trang trọng, nhấn lẽ phải", "You ought to tell her."],
+            ["<code>had better + V trần</code>", "Mạnh — có cảnh báo hậu quả", "You'd better leave now."],
+            ["<code>must / have to</code>", "Bắt buộc. Xem [Ngữ pháp 31]", "You must leave now."],
+            ["<code>If I were you, I'd + V</code>", "Lịch sự nhất. Xem [Khung 98]", "If I were you, I'd rest."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: khuyên bằng cách nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn muốn khuyên nặng hay nhẹ, và về lúc nào?",
+          "nodes": [
+            { "if": "Chỉ muốn gợi ý rất nhẹ", "then": "You might want to + V", "ex": "You might want to check first." },
+            { "if": "Lời khuyên bình thường", "then": "should + V trần", "ex": "You should rest." },
+            { "if": "Muốn trang trọng, nhấn vào lẽ phải", "then": "ought to + V trần", "ex": "You ought to tell her." },
+            { "if": "Có hậu quả nếu không làm", "then": "had better + V trần", "ex": "You'd better leave now." },
+            { "if": "Khuyên về chuyện đã rồi", "then": "should have + V3", "ex": "I should have told you." },
+            { "if": "Muốn lịch sự nhất, không áp đặt", "then": "If I were you, I'd + V", "ex": "If I were you, I'd rest." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ áp đặt" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "You might want to rest.", "vi": "Nhẹ nhất — chỉ gợi ý" },
+            { "en": "If I were you, I'd rest.", "vi": "Lịch sự, đặt mình vào vị trí người kia" },
+            { "en": "You should rest.", "vi": "Thẳng thắn" },
+            { "en": "You'd better rest.", "vi": "Có cảnh báo ngầm" },
+            { "en": "You must rest.", "vi": "Mạnh nhất — bắt buộc" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Nhóm modal đưa lời khuyên xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 98, "why": "If I were you, I'd + V — khung chính của lời khuyên, có thang năm mức áp đặt." },
+            { "id": 88, "why": "I feel bad about… — mẫu I should have told you, tiếc nuối về quá khứ." },
+            { "id": 52, "why": "That's a good point, but… — phản biện rồi đưa lời khuyên thay thế." },
+            { "id": 69, "why": "Could you explain…? — cách nhờ vả nhẹ nhàng, họ hàng với lời khuyên." },
+            { "id": 60, "why": "Fair enough — cách chấp nhận một lời khuyên người khác đưa ra." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ hoặc điền từ" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Bạn nên nghỉ một lát.", "blank": "You should __________ (rest) for a while.", "a": "rest — động từ trần" },
+            { "vi": "Bạn nên nói thật với cô ấy.", "blank": "You ought __________ tell her the truth.", "a": "to" },
+            { "vi": "Tốt nhất là bạn đi ngay bây giờ.", "blank": "You'd better __________ (leave) now.", "a": "leave" },
+            { "vi": "Tốt nhất đừng muộn đấy.", "blank": "You'd better __________ be late.", "a": "not" },
+            { "vi": "Đáng lẽ tôi nên nói với bạn.", "blank": "I should __________ told you.", "a": "have" },
+            { "vi": "Đáng lẽ bạn không nên nói thế.", "blank": "You __________ have said that.", "a": "shouldn't" },
+            { "vi": "Hay là hỏi cô ấy đi?", "blank": "How about __________ (ask) her?", "a": "asking — V-ing" },
+            { "vi": "Sao bạn không hỏi cô ấy?", "blank": "Why don't you __________ (ask) her?", "a": "ask — động từ trần" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Bạn nên nghỉ.", "blank": "You should __________.  (rest / to rest)", "a": "rest" },
+            { "vi": "Bạn nên nói với cô ấy.", "blank": "You __________ tell her.  (ought / ought to)", "a": "ought to" },
+            { "vi": "Tốt nhất đừng muộn.", "blank": "You __________ be late.  (hadn't better / 'd better not)", "a": "'d better not" },
+            { "vi": "Đáng lẽ tôi nên nói với bạn.", "blank": "I should __________ told you.  (of / have)", "a": "have" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Bạn nên nghỉ một lát.", "a": "You should rest for a while." },
+            { "vi": "2. Tốt nhất là bạn đi ngay bây giờ.", "a": "You'd better leave now." },
+            { "vi": "3. Đáng lẽ tôi nên nói với bạn sớm hơn.", "a": "I should have told you earlier." },
+            { "vi": "4. Có lẽ bạn nên kiểm tra trước.", "a": "You might want to check first." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Chỉ <i>ought</i> có <i>to</i>:</b> <i>should rest</i> ✓, <i>ought <b>to</b> rest</i> ✓, <i>had better rest</i> ✓.",
+            "<b><i>had better</i> nói về hiện tại</b>, dù có chữ <i>had</i>. Muốn khuyên về quá khứ thì dùng <i>should have + V3</i>.",
+            "<b>Phủ định của <i>had better</i> đặt <i>not</i> ở sau:</b> <i>You'd better <b>not</b> be late</i>.",
+            "<b>Không bao giờ viết <i>should of</i></b> — luôn là <i>should <b>have</b></i>, dù nói nhanh nghe giống nhau.",
+            "<b>Muốn khuyên mà không áp đặt</b> thì dùng <i>If I were you, I'd…</i> hoặc thêm <i>but that's just me</i> ở cuối.",
+            "<b>Bài tập 3 phút:</b> nghĩ ba vấn đề của bạn bè, viết mỗi vấn đề ba lời khuyên — một bằng <i>should</i>, một bằng <i>'d better</i>, một bằng <i>If I were you</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

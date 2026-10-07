@@ -1,0 +1,277 @@
+{
+  "id": 18,
+  "group": "Nhóm 4 · Viết — cấu trúc trước, chữ sau",
+  "title": "Bài luận nêu quan điểm",
+  "subtitle": "Lỗi nặng nhất là giấu lập trường: viết cả bài mà người chấm đọc xong vẫn không rõ bạn đồng ý hay không. Mở bài phải nói thẳng bạn đứng về phía nào — rồi cả bài chỉ việc chứng minh điều đó.",
+  "meaning": "Viết bài luận bảo vệ một quan điểm",
+  "rule": [
+    "Mở bài <em>nêu rõ lập trường</em> ở câu cuối",
+    "Mỗi đoạn thân bài <em>một lý do</em>, có ví dụ",
+    "Kết bài <em>tổng kết</em>, không nêu ý mới"
+  ],
+  "tags": [
+    { "text": "Mức độ: B2 bắt buộc", "hot": true },
+    { "text": "Giấu lập trường = mất điểm" },
+    { "text": "Kết bài không thêm ý mới" },
+    { "text": "Ảnh hưởng: rất lớn" }
+  ],
+  "frames": [41, 42, 47, 48, 49],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Bài luận nêu quan điểm là dạng đề hay gặp nhất ở B2: <i>“Do you agree or disagree?”</i>. Người chấm tìm <b>ba thứ</b> — lập trường rõ, lý do có chứng minh, và bố cục đi đúng hướng từ đầu đến cuối." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — giấu lập trường:</b><br>Viết cả bài nêu cả mặt tốt lẫn mặt xấu, đến câu cuối mới nói <i>“So it depends.”</i> — người chấm đọc hết vẫn không biết bạn nghĩ gì.<br><b>Đề hỏi “agree or disagree” là đề hỏi BẠN</b>, không phải đề hỏi “có những ý kiến nào”.<br><b>Cách sửa:</b> câu cuối mở bài phải là <b>câu luận đề</b> — nói thẳng bạn đứng đâu:<br><i>“In my view, the benefits of remote work clearly outweigh the drawbacks.”</i><br>Rồi cả bài chỉ việc chứng minh câu đó." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — kết bài nêu ý mới:</b><br><i>“In conclusion, remote work is better. <b>Also, companies should provide equipment.</b>”</i> ✗<br>Ý cuối cùng đó chưa hề được chứng minh ở đâu cả — nó làm bài kết thúc lửng lơ.<br><b>Kết bài chỉ làm hai việc:</b> ① nhắc lại lập trường bằng <b>chữ khác</b>, ② tổng kết lý do đã nêu. Không thêm gì mới.<br>Và đừng chép lại nguyên câu luận đề — phải diễn đạt lại." },
+        { "t": "h3", "text": "Bốn đoạn của một bài luận" },
+        {
+          "t": "table",
+          "head": ["Đoạn", "Việc của nó", "Số câu"],
+          "rows": [
+            ["Mở bài", "Nêu bối cảnh → <b>câu luận đề</b>", "2–3"],
+            ["Thân bài 1", "Lý do mạnh nhất + ví dụ", "4–5"],
+            ["Thân bài 2", "Lý do thứ hai + ví dụ", "4–5"],
+            ["Kết bài", "Nhắc lập trường + tổng kết", "2–3"]
+          ]
+        },
+        { "t": "p", "html": "Mỗi đoạn thân bài dựng đúng theo khung của [Kỹ năng 17]: câu chủ đề → giải thích → ví dụ → chốt. Và lý do <b>mạnh nhất để ở đoạn đầu</b>, không để dành." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Vị trí", "Chức năng", "Cụm mẫu"],
+          "rows": [
+            ["Mở bài câu 1", "Nêu bối cảnh, không vòng vo", "Remote work has become common in recent years."],
+            ["Mở bài câu 2", "Nêu có tranh cãi", "Opinions differ on whether…"],
+            ["Mở bài câu cuối", "<b>Câu luận đề</b> — nêu lập trường", "In my view,… · This essay will argue that…"],
+            ["Thân 1 câu đầu", "Lý do mạnh nhất", "The strongest argument is that…"],
+            ["Thân 1 giữa", "Giải thích + ví dụ", "This is because… For example,…"],
+            ["Thân 2 câu đầu", "Lý do thứ hai", "A second reason is that…"],
+            ["Lật ý", "Thừa nhận mặt kia", "It is true that… · Critics argue that…"],
+            ["Bác lại", "Quay về lập trường", "However,… · Nevertheless,…"],
+            ["Kết bài câu 1", "Nhắc lập trường, chữ khác", "To sum up, … · In conclusion, …"],
+            ["Kết bài câu 2", "Tổng kết lý do", "Both the time saved and the lower costs…"],
+            ["Kết bài câu cuối", "Chốt mềm", "For this reason, I believe…"],
+            ["Tránh", "Không viết ở kết bài", "Ý mới chưa chứng minh"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Văn viết khác văn nói — bốn thứ phải bỏ:</b><br>• Rút gọn: <i>don't, it's, gonna</i> → viết đủ <b>do not, it is, going to</b> [Kỹ năng 10]<br>• Từ nói: <i>a lot of, kids, stuff</i> → <b>many, children, things</b><br>• Câu hỏi tu từ liên tục: <i>Why? Because…</i> → nêu thẳng<br>• <i>I think</i> ở mọi câu → khẳng định thẳng, chỉ dùng khi thật cần" },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Remote work has become common in many industries.", "vi": "Làm việc từ xa đã trở nên phổ biến ở nhiều ngành.", "note": "Mở bài câu 1 — nêu bối cảnh, một câu là đủ." },
+            { "en": "Opinions differ on whether it benefits employees.", "vi": "Có nhiều ý kiến khác nhau về việc nó có lợi cho người lao động không.", "note": "Câu 2 — báo rằng có tranh cãi." },
+            { "en": "In my view, the benefits clearly outweigh the drawbacks.", "vi": "Theo tôi, lợi ích rõ ràng lớn hơn bất lợi.", "note": "BẪY SỐ MỘT: câu luận đề — nêu THẲNG lập trường. Xem [Khung 42]." },
+            { "en": "The strongest argument is that remote work saves time.", "vi": "Lý lẽ mạnh nhất là làm từ xa tiết kiệm thời gian.", "note": "Thân bài 1 — lý do MẠNH NHẤT để ở đoạn đầu." },
+            { "en": "This is because employees no longer have to commute.", "vi": "Đó là vì nhân viên không phải đi lại nữa.", "note": "Giải thích. Xem [Kỹ năng 17]." },
+            { "en": "For example, a worker in Hanoi can save two hours a day.", "vi": "Ví dụ, một người ở Hà Nội tiết kiệm được hai tiếng mỗi ngày.", "note": "Ví dụ cụ thể, có con số." },
+            { "en": "A second reason is that it reduces costs for both sides.", "vi": "Lý do thứ hai là nó giảm chi phí cho cả hai bên.", "note": "Thân bài 2 — câu chủ đề của đoạn mới." },
+            { "en": "It is true that remote work can be isolating.", "vi": "Đúng là làm từ xa có thể khiến người ta cô đơn.", "note": "Lật ý — thừa nhận mặt kia. Xem [Ngữ pháp 48]." },
+            { "en": "However, regular team meetings can solve this problem.", "vi": "Tuy nhiên họp nhóm đều đặn giải quyết được việc đó.", "note": "Bác lại rồi quay về lập trường." },
+            { "en": "To sum up, remote work offers clear advantages for most employees.", "vi": "Tóm lại, làm từ xa có những lợi ích rõ với phần lớn nhân viên.", "note": "BẪY SỐ HAI: nhắc lập trường bằng CHỮ KHÁC, không chép lại." },
+            { "en": "Both the time saved and the lower costs support this view.", "vi": "Cả thời gian tiết kiệm lẫn chi phí thấp hơn đều ủng hộ ý này.", "note": "Tổng kết lại hai lý do đã nêu — không thêm ý mới." },
+            { "en": "From my point of view, the trade-off is clearly worth it.", "vi": "Từ góc nhìn của tôi, đánh đổi này rõ ràng là đáng.", "note": "Câu chốt mềm. Xem [Khung 47]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào cần để ý nhất",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "📝", "title": "Đề “agree or disagree”", "text": "Đề hỏi BẠN, không hỏi “có ý kiến nào”." },
+            { "icon": "🎯", "title": "Viết câu luận đề", "text": "Câu cuối mở bài — quan trọng nhất cả bài." },
+            { "icon": "💪", "title": "Sắp xếp lý do", "text": "Mạnh nhất để ĐOẠN ĐẦU, đừng để dành." },
+            { "icon": "⚖️", "title": "Lật một ý", "text": "<i>It is true that… However,…</i>" },
+            { "icon": "🔚", "title": "Viết kết bài", "text": "Tổng kết, tuyệt đối không thêm ý mới." },
+            { "icon": "🚫", "title": "Đừng làm…", "text": "Đừng dùng <i>gonna, a lot of, kids</i> trong bài viết." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cụm để viết bài luận",
+      "blocks": [
+        { "t": "p", "html": "Chọn một cụm ở cột trái để xem nó dùng ở đoạn nào và ví dụ hoàn chỉnh." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Mở bài & thân bài",
+              "items": [
+                { "w": "…has become common", "vi": "…đã trở nên phổ biến", "ex": "Remote work has become common in many industries.", "exvi": "Làm từ xa đã phổ biến ở nhiều ngành.", "note": "Mở bài một câu là đủ — đừng vòng vo." },
+                { "w": "Opinions differ on whether…", "vi": "Có nhiều ý kiến về việc…", "ex": "Opinions differ on whether it benefits employees.", "exvi": "Có nhiều ý kiến về việc nó có lợi không." },
+                { "w": "In my view,…", "vi": "Theo tôi,…", "ex": "In my view, the benefits outweigh the drawbacks.", "exvi": "Theo tôi lợi ích lớn hơn bất lợi.", "note": "BẪY SỐ MỘT: câu luận đề — phải có, phải rõ. Xem [Khung 42]." },
+                { "w": "This essay will argue that…", "vi": "Bài viết này lập luận rằng…", "ex": "This essay will argue that the change is positive.", "exvi": "Bài này lập luận rằng thay đổi là tích cực.", "note": "Trang trọng hơn — hợp bài thi học thuật." },
+                { "w": "From my point of view,…", "vi": "Từ góc nhìn của tôi,…", "ex": "From my point of view, it is worth it.", "exvi": "Từ góc nhìn của tôi thì đáng. Xem [Khung 47]." },
+                { "w": "The strongest argument is that…", "vi": "Lý lẽ mạnh nhất là…", "ex": "The strongest argument is that it saves time.", "exvi": "Lý lẽ mạnh nhất là tiết kiệm thời gian.", "note": "Lý do MẠNH NHẤT để ở đoạn đầu." },
+                { "w": "The main reason is that…", "vi": "Lý do chính là…", "ex": "The main reason is that costs are lower.", "exvi": "Lý do chính là chi phí thấp hơn." },
+                { "w": "A second reason is that…", "vi": "Lý do thứ hai là…", "ex": "A second reason is that it reduces costs.", "exvi": "Lý do thứ hai là giảm chi phí." },
+                { "w": "This is because…", "vi": "Đó là vì…", "ex": "This is because employees no longer commute.", "exvi": "Đó là vì nhân viên không phải đi lại." },
+                { "w": "For example,…", "vi": "Ví dụ,…", "ex": "For example, a worker can save two hours a day.", "exvi": "Ví dụ, một người tiết kiệm hai tiếng mỗi ngày." },
+                { "w": "Research shows that…", "vi": "Nghiên cứu cho thấy…", "ex": "Research shows that productivity often rises.", "exvi": "Nghiên cứu cho thấy năng suất thường tăng." },
+                { "w": "As a result,…", "vi": "Nhờ vậy,…", "ex": "As a result, employees are less tired.", "exvi": "Nhờ vậy nhân viên đỡ mệt hơn." }
+              ]
+            },
+            {
+              "title": "Lật ý & kết bài",
+              "items": [
+                { "w": "It is true that…", "vi": "Đúng là…", "ex": "It is true that remote work can be isolating.", "exvi": "Đúng là làm từ xa có thể cô đơn.", "note": "Thừa nhận mặt kia — dấu hiệu B2." },
+                { "w": "Critics argue that…", "vi": "Người phản đối cho rằng…", "ex": "Critics argue that it weakens teamwork.", "exvi": "Người phản đối cho rằng nó làm yếu tinh thần nhóm." },
+                { "w": "Admittedly,…", "vi": "Phải thừa nhận là…", "ex": "Admittedly, not every job suits it.", "exvi": "Phải thừa nhận không phải việc nào cũng hợp." },
+                { "w": "However,…", "vi": "Tuy nhiên,…", "ex": "However, regular meetings solve this.", "exvi": "Tuy nhiên họp đều đặn giải quyết được. Xem [Ngữ pháp 48]." },
+                { "w": "Nevertheless,…", "vi": "Dẫu vậy,…", "ex": "Nevertheless, the trend continues.", "exvi": "Dẫu vậy xu hướng vẫn tiếp tục." },
+                { "w": "To sum up,…", "vi": "Tóm lại,…", "ex": "To sum up, remote work offers clear advantages.", "exvi": "Tóm lại, làm từ xa có lợi ích rõ.", "note": "BẪY SỐ HAI: nhắc lập trường bằng CHỮ KHÁC." },
+                { "w": "In conclusion,…", "vi": "Kết lại,…", "ex": "In conclusion, the change has been positive.", "exvi": "Kết lại, thay đổi là tích cực." },
+                { "w": "Both … and … support this", "vi": "Cả… lẫn… đều ủng hộ ý này", "ex": "Both the time saved and the lower costs support this view.", "exvi": "Cả thời gian lẫn chi phí đều ủng hộ ý này.", "note": "Tổng kết lại lý do ĐÃ nêu, không thêm mới." },
+                { "w": "For this reason, I believe…", "vi": "Vì vậy tôi tin rằng…", "ex": "For this reason, I believe it should continue.", "exvi": "Vì vậy tôi tin nên tiếp tục. Xem [Khung 43]." },
+                { "w": "The way I see it,…", "vi": "Theo cách tôi nhìn nhận,…", "ex": "The way I see it, the benefits are clear.", "exvi": "Theo cách tôi nhìn, lợi ích rất rõ. Xem [Khung 48]." },
+                { "w": "If you ask me,…", "vi": "Nếu hỏi tôi thì…", "ex": "If you ask me, the answer is obvious.", "exvi": "Nếu hỏi tôi thì câu trả lời rõ rồi.", "note": "Hơi thân mật — hợp bài nhẹ, không hợp bài học thuật. Xem [Khung 49]." },
+                { "w": "do not / it is / going to", "vi": "dạng đầy đủ", "ex": "It is clear that this does not apply to all jobs.", "exvi": "Rõ ràng điều này không đúng với mọi công việc.", "note": "Văn viết KHÔNG rút gọn. Xem [Kỹ năng 10]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Viết cả bài hai mặt rồi kết: <b>“So it depends.”</b>", "right": "Mở bài: <b>“In my view, the benefits clearly outweigh the drawbacks.”</b>", "why": "BẪY SỐ MỘT: đề hỏi BẠN nghĩ gì. Không nêu lập trường là mất điểm nặng nhất." },
+            { "wrong": "Kết bài thêm: <b>“Also, companies should provide equipment.”</b>", "right": "Kết bài chỉ <b>tổng kết lý do đã nêu</b>", "why": "BẪY SỐ HAI: ý mới chưa chứng minh làm bài kết thúc lửng lơ." },
+            { "wrong": "Kết bài <b>chép lại nguyên câu luận đề</b>", "right": "Diễn đạt lại bằng <b>chữ khác</b>", "why": "Chép lại nguyên văn bị trừ điểm vốn từ." },
+            { "wrong": "Để lý do mạnh nhất ở <b>đoạn cuối</b>", "right": "Để ở <b>đoạn thân bài thứ nhất</b>", "why": "Người đọc tập trung nhất ở đoạn đầu. Để dành là phí." },
+            { "wrong": "Mở bài viết <b>bốn câu dẫn dắt</b> chung chung", "right": "<b>Một câu bối cảnh</b> rồi vào luận đề ngay", "why": "Mở bài dài làm loãng, mà câu quan trọng nhất lại bị đẩy xuống. Xem [Kỹ năng 17]." },
+            { "wrong": "Dùng <b>don't, it's, gonna</b> trong bài", "right": "<b>do not, it is, going to</b>", "why": "Văn viết không rút gọn. Xem [Kỹ năng 10]." },
+            { "wrong": "Dùng <b>a lot of, kids, stuff</b>", "right": "<b>many, children, things</b>", "why": "Từ văn nói trong bài luận bị trừ điểm vốn từ." },
+            { "wrong": "Viết <b>“I think”</b> ở mọi câu", "right": "Khẳng định thẳng, <i>I think</i> chỉ dùng khi cần", "why": "Trong văn viết, khẳng định thẳng mạnh hơn. Xem [Khung 41]." },
+            { "wrong": "Nêu lý do mà <b>không có ví dụ nào</b>", "right": "Mỗi đoạn thân bài <b>ít nhất một ví dụ</b>", "why": "Lý do không chứng minh chỉ là ý kiến suông." },
+            { "wrong": "Lật ý rồi <b>quên bác lại</b>", "right": "<b>It is true that… However,…</b>", "why": "Thừa nhận mà không bác thì thành ra bạn đổi lập trường giữa bài." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với lỗi gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["Nêu quan điểm / liệt kê ý kiến", "Có lập trường / không", "Đề hỏi BẠN"],
+            ["Luận đề / câu bối cảnh", "Câu cuối mở bài / câu đầu", "In my view,… ≠ …has become common"],
+            ["Kết bài tổng kết / nêu ý mới", "Đóng bài / bỏ lửng", "Không thêm gì ở kết bài"],
+            ["Diễn đạt lại / chép lại", "Được điểm / bị trừ", "Đổi chữ ở kết bài"],
+            ["Văn viết / văn nói", "do not / don't", "Xem [Kỹ năng 10]"],
+            ["Lý do mạnh trước / để dành", "Hiệu quả / phí", "Đoạn thân bài 1"],
+            ["Lật rồi bác / lật rồi thôi", "Giữ lập trường / đổi ý", "It is true… However…"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: viết tiếp phần nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn đang viết bài luận — xác định mình đang ở đâu.",
+          "nodes": [
+            { "if": "Vừa bắt đầu", "then": "Một câu bối cảnh, không vòng vo", "ex": "Remote work has become common." },
+            { "if": "Đã nêu bối cảnh", "then": "Câu luận đề — nêu THẲNG lập trường", "ex": "In my view, the benefits outweigh…" },
+            { "if": "Vào thân bài", "then": "Lý do MẠNH NHẤT trước", "ex": "The strongest argument is that…" },
+            { "if": "Đã nêu lý do", "then": "Giải thích rồi đưa ví dụ", "ex": "This is because… For example,…" },
+            { "if": "Muốn bài cân hơn", "then": "It is true that… rồi However,…", "ex": "Thừa nhận rồi bác lại" },
+            { "if": "Đã đủ hai lý do", "then": "Kết bài: nhắc lập trường + tổng kết", "ex": "To sum up,… — KHÔNG ý mới" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ rõ của câu luận đề" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "There are advantages and disadvantages.", "vi": "Tệ nhất — không có lập trường" },
+            { "en": "It depends on the situation.", "vi": "Né tránh câu hỏi" },
+            { "en": "I think remote work is quite good.", "vi": "Có lập trường nhưng mờ" },
+            { "en": "In my view, the benefits outweigh the drawbacks.", "vi": "Rõ — đạt B2" },
+            { "en": "This essay will argue that remote work benefits both sides.", "vi": "Rõ nhất — báo luôn hướng đi của bài" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kỹ năng này dùng ở đâu",
+      "blocks": [
+        { "t": "p", "html": "Bài luận nêu quan điểm dùng chung khung lập luận với phần nói. Bấm vào để luyện trên khung câu thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 42, "why": "In my opinion, … — khung chuẩn nhất cho câu luận đề ở mở bài." },
+            { "id": 47, "why": "From my point of view, … — cách nêu lập trường ở kết bài, tránh lặp lại mở bài." },
+            { "id": 41, "why": "I think (that) + mệnh đề — trong bài viết nên dùng ít, khẳng định thẳng mạnh hơn." },
+            { "id": 48, "why": "The way I see it, … — câu chốt mềm cho kết bài." },
+            { "id": 49, "why": "If you ask me, … — hợp bài nhẹ, không hợp bài học thuật." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Câu này thuộc đoạn nào?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Làm từ xa đã phổ biến ở nhiều ngành.", "blank": "Remote work has become common…  →  __________", "a": "mở bài, câu 1 — bối cảnh" },
+            { "vi": "Theo tôi, lợi ích lớn hơn bất lợi.", "blank": "In my view, the benefits outweigh…  →  __________", "a": "mở bài, câu cuối — câu luận đề" },
+            { "vi": "Lý lẽ mạnh nhất là tiết kiệm thời gian.", "blank": "The strongest argument is…  →  __________", "a": "thân bài 1, câu chủ đề" },
+            { "vi": "Ví dụ, tiết kiệm hai tiếng mỗi ngày.", "blank": "For example, a worker can save…  →  __________", "a": "thân bài 1, ví dụ" },
+            { "vi": "Lý do thứ hai là giảm chi phí.", "blank": "A second reason is that…  →  __________", "a": "thân bài 2, câu chủ đề" },
+            { "vi": "Đúng là làm từ xa có thể cô đơn.", "blank": "It is true that…  →  __________", "a": "lật ý" },
+            { "vi": "Tuy nhiên họp đều đặn giải quyết được.", "blank": "However, regular meetings…  →  __________", "a": "bác lại" },
+            { "vi": "Tóm lại, làm từ xa có lợi ích rõ.", "blank": "To sum up,…  →  __________", "a": "kết bài, nhắc lập trường" }
+          ]
+        },
+        { "t": "h3", "text": "B. Câu nào đúng chuẩn bài viết?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Câu luận đề", "blank": "(a) There are advantages and disadvantages.  (b) In my view, the benefits outweigh the drawbacks.", "a": "(b)" },
+            { "vi": "Dạng từ trong bài viết", "blank": "(a) It doesn't work for a lot of kids.  (b) It does not work for many children.", "a": "(b)" },
+            { "vi": "Kết bài", "blank": "(a) …Also, companies should provide equipment.  (b) …Both the time saved and the lower costs support this view.", "a": "(b)" },
+            { "vi": "Mở bài", "blank": "(a) bốn câu dẫn dắt chung chung  (b) một câu bối cảnh rồi vào luận đề", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Viết một bài 4 đoạn, khoảng 200 từ" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Làm việc từ xa có tốt cho người lao động không?", "a": "Mở bài (bối cảnh + luận đề) → lý do mạnh nhất + ví dụ → lý do 2 + ví dụ → kết bài" },
+            { "vi": "2. Học sinh có nên dùng điện thoại ở trường?", "a": "Nhớ thêm một đoạn lật: It is true that… However,…" },
+            { "vi": "3. Viết xong, đọc riêng câu luận đề và câu kết.", "a": "Hai câu phải CÙNG lập trường nhưng KHÁC chữ." },
+            { "vi": "4. Soát lại: còn rút gọn hay từ văn nói nào không?", "a": "don't → do not · a lot of → many · kids → children. Xem [Kỹ năng 10]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Đề hỏi BẠN, không hỏi “có những ý kiến nào”.</b> Không nêu lập trường là lỗi mất điểm nặng nhất.",
+            "<b>Câu luận đề nằm ở CÂU CUỐI mở bài.</b> Đó là câu quan trọng nhất cả bài — cả bài chỉ để chứng minh nó.",
+            "<b>Lý do mạnh nhất để ở đoạn thân bài ĐẦU TIÊN.</b> Để dành đến cuối là phí.",
+            "<b>Kết bài chỉ làm hai việc:</b> nhắc lập trường bằng <b>chữ khác</b>, và tổng kết lý do đã nêu. <b>Không ý mới.</b>",
+            "<b>Bốn thứ phải bỏ khi viết:</b> rút gọn, từ văn nói, câu hỏi tu từ liên tục, và <i>I think</i> ở mọi câu.",
+            "<b>Soát 30 giây:</b> đọc riêng <b>câu luận đề</b> và <b>câu kết</b> — phải cùng lập trường nhưng khác chữ."
+          ]
+        }
+      ]
+    }
+  ]
+}

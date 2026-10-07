@@ -1,0 +1,277 @@
+{
+  "id": 59,
+  "group": "Nhóm 10 · Điều kiện & Giả định",
+  "title": "I wish / If only — ước điều trái thực tế",
+  "subtitle": "I wish I am rich ✗. Muốn nói điều TRÁI với sự thật, tiếng Anh lùi động từ một bậc về quá khứ — I wish I were rich. Thì lùi ở đây không nói về thời gian, nó đánh dấu “điều này không có thật”.",
+  "meaning": "Ước một điều khác với thực tế",
+  "rule": [
+    "Ước hiện tại → <em>wish + V2</em> (<em>were</em> cho mọi chủ ngữ)",
+    "Tiếc quá khứ → <em>wish + had + V3</em>",
+    "Phàn nàn việc người khác làm → <em>wish + would + V</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1–B2", "hot": true },
+    { "text": "I wish I am rich ✗" },
+    { "text": "Lùi thì = không có thật" },
+    { "text": "Tần suất: cao" }
+  ],
+  "frames": [9, 79, 84, 88, 98],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "<b>I wish</b> và <b>If only</b> dùng để nói một điều <b>khác với sự thật</b>. Cách tiếng Anh đánh dấu “điều này không có thật” là <b>lùi động từ một bậc về quá khứ</b> — y hệt câu điều kiện loại 2. Xem [Ngữ pháp 15]." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — quên lùi thì:</b><br><i>I wish I <b>am</b> rich</i> ✗ → <i>I wish I <b>were</b> rich.</i> ✓<br><i>I wish I <b>can</b> speak English</i> ✗ → <i>I wish I <b>could</b> speak English.</i> ✓<br>Thì lùi ở đây <b>không nói về thời gian</b> — nó là dấu hiệu “điều này trái với thực tế”. Và dùng <b>were</b> cho <b>mọi</b> chủ ngữ: <i>I were, he were, she were</i>. Xem [Khung 9]." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>wish + would</i> chỉ dùng cho NGƯỜI KHÁC:</b><br><i>I wish I <b>would</b> be taller</i> ✗ → <i>I wish I <b>were</b> taller.</i> ✓<br><i>I wish he <b>would</b> stop talking.</i> ✓ — phàn nàn về việc anh ta cứ làm mãi.<br><b>wish + would</b> mang nghĩa <b>bực mình, muốn ai đó đổi hành vi</b>, nên không dùng cho chính mình và không dùng cho trạng thái không đổi được." },
+        { "t": "h3", "text": "Bốn khuôn phải thuộc" },
+        {
+          "t": "table",
+          "head": ["Ước gì", "Cấu trúc", "Ví dụ"],
+          "rows": [
+            ["Hiện tại khác đi", "wish + V2 / were", "I wish I were rich."],
+            ["Quá khứ khác đi", "wish + had + V3", "I wish I had studied harder."],
+            ["Người khác đổi hành vi", "wish + would + V", "I wish he would stop talking."],
+            ["Có khả năng làm gì", "wish + could + V", "I wish I could help."]
+          ]
+        },
+        { "t": "p", "html": "<b>If only</b> dùng y hệt bốn khuôn trên nhưng <b>nặng cảm xúc hơn</b>: <i>If only I were rich!</i>" }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>wish + V2</code>", "Ước hiện tại khác đi", "I wish I had more time."],
+            ["<code>wish + were</code>", "<code>were</code> cho MỌI chủ ngữ", "I wish I were taller."],
+            ["<code>wish + didn't + V</code>", "Ước mình không phải làm gì", "I wish I didn't have to work."],
+            ["<code>wish + could + V</code>", "Ước có thể làm gì", "I wish I could help you."],
+            ["<code>wish + had + V3</code>", "Tiếc một việc đã xảy ra", "I wish I had studied harder."],
+            ["<code>wish + hadn't + V3</code>", "Tiếc vì đã làm gì", "I wish I hadn't said that."],
+            ["<code>wish + would + V</code>", "Phàn nàn về người khác", "I wish he would call me back."],
+            ["<code>wish + wouldn't + V</code>", "Mong ai đó thôi làm gì", "I wish you wouldn't do that."],
+            ["<code>If only + V2</code>", "Như <code>wish</code> nhưng mạnh hơn", "If only I were rich!"],
+            ["<code>If only + had + V3</code>", "Tiếc nuối mạnh", "If only I had known!"],
+            ["<code>wish + to V</code>", "Muốn (rất trang trọng)", "I wish to make a complaint."],
+            ["<code>wish sb sth</code>", "Chúc ai điều gì", "I wish you a happy birthday."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Hai dòng cuối khác hẳn phần trên.</b> <i>wish to V</i> chỉ là cách nói trang trọng của <i>want to</i>, và <i>wish somebody something</i> là lời chúc — cả hai <b>không</b> mang nghĩa trái thực tế, nên <b>không lùi thì</b>. Xem [Khung 80]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I wish I were rich.", "vi": "Ước gì tôi giàu.", "note": "BẪY SỐ MỘT: <i>I wish I am rich</i> ✗. <b>were</b> cho mọi chủ ngữ." },
+            { "en": "I wish I had more time.", "vi": "Ước gì tôi có nhiều thời gian hơn.", "note": "Sự thật là tôi KHÔNG có nhiều thời gian." },
+            { "en": "I wish I could speak English well.", "vi": "Ước gì tôi nói tiếng Anh giỏi.", "note": "<i>can</i> lùi thành <b>could</b>. Xem [Khung 9]." },
+            { "en": "I wish I didn't have to work on Saturday.", "vi": "Ước gì thứ Bảy không phải đi làm.", "note": "Phủ định cũng lùi thì theo." },
+            { "en": "I wish I had studied harder.", "vi": "Giá mà hồi đó tôi học chăm hơn.", "note": "Tiếc chuyện QUÁ KHỨ thì dùng <b>had + V3</b>." },
+            { "en": "I wish I hadn't said that.", "vi": "Giá mà tôi đừng nói câu đó.", "note": "Tiếc vì đã lỡ làm. Xem [Khung 88]." },
+            { "en": "I wish he would stop talking.", "vi": "Ước gì anh ta thôi nói đi.", "note": "BẪY SỐ HAI: <b>would</b> chỉ dùng cho NGƯỜI KHÁC." },
+            { "en": "I wish you wouldn't do that.", "vi": "Bạn đừng làm thế nữa được không.", "note": "Cách phàn nàn lịch sự." },
+            { "en": "If only I had known!", "vi": "Giá mà tôi biết trước!", "note": "<b>If only</b> nặng cảm xúc hơn <i>I wish</i>." },
+            { "en": "If I were you, I'd accept the offer.", "vi": "Nếu tôi là bạn, tôi sẽ nhận.", "note": "Cùng một luật <b>were</b>. Xem [Khung 98]." },
+            { "en": "I wish to make a complaint.", "vi": "Tôi muốn khiếu nại.", "note": "<b>wish to V</b> = <i>want to</i> trang trọng, KHÔNG lùi thì." },
+            { "en": "I wish you a happy birthday.", "vi": "Chúc bạn sinh nhật vui vẻ.", "note": "Lời chúc, cũng không lùi thì. Xem [Khung 80]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💭", "title": "Ước hiện tại khác đi", "text": "<i>I wish I were rich.</i> Dùng <b>V2 / were</b>." },
+            { "icon": "😔", "title": "Tiếc chuyện đã rồi", "text": "<i>I wish I had studied harder.</i>" },
+            { "icon": "😤", "title": "Phàn nàn về người khác", "text": "<i>I wish he would stop talking.</i>" },
+            { "icon": "🤲", "title": "Tiếc vì không giúp được", "text": "<i>I wish I could help.</i> Xem [Khung 9]." },
+            { "icon": "🎉", "title": "Chúc tụng", "text": "<i>I wish you a happy birthday.</i> — không lùi thì." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Đừng dùng <i>would</i> cho chính mình hay cho trạng thái." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một mục ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi mục đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Ước hiện tại & tiếc quá khứ",
+              "items": [
+                { "w": "I wish I were…", "vi": "ước gì tôi là…", "ex": "I wish I were rich.", "exvi": "Ước gì tôi giàu.", "note": "BẪY SỐ MỘT: <b>were</b> cho mọi chủ ngữ, không dùng <i>was</i>." },
+                { "w": "I wish I had…", "vi": "ước gì tôi có…", "ex": "I wish I had more time.", "exvi": "Ước gì tôi có nhiều thời gian hơn.", "note": "Đây là <i>have</i> lùi thành <i>had</i>, không phải thì hoàn thành." },
+                { "w": "I wish I knew", "vi": "ước gì tôi biết", "ex": "I wish I knew the answer.", "exvi": "Ước gì tôi biết đáp án." },
+                { "w": "I wish I could…", "vi": "ước gì tôi có thể…", "ex": "I wish I could help you.", "exvi": "Ước gì tôi giúp được bạn. Xem [Khung 9]." },
+                { "w": "I wish I didn't have to…", "vi": "ước gì không phải…", "ex": "I wish I didn't have to work.", "exvi": "Ước gì không phải đi làm." },
+                { "w": "I wish I lived…", "vi": "ước gì tôi sống ở…", "ex": "I wish I lived closer to work.", "exvi": "Ước gì tôi ở gần chỗ làm hơn." },
+                { "w": "I wish I had + V3", "vi": "giá mà tôi đã…", "ex": "I wish I had studied harder.", "exvi": "Giá mà hồi đó tôi học chăm hơn.", "note": "Tiếc chuyện QUÁ KHỨ. Xem [Ngữ pháp 16]." },
+                { "w": "I wish I hadn't + V3", "vi": "giá mà tôi đừng…", "ex": "I wish I hadn't said that.", "exvi": "Giá mà tôi đừng nói câu đó. Xem [Khung 88]." },
+                { "w": "If only", "vi": "giá mà", "ex": "If only I were rich!", "exvi": "Giá mà tôi giàu!", "note": "Cùng luật với <i>wish</i> nhưng nặng cảm xúc hơn." },
+                { "w": "If only I had known", "vi": "giá mà tôi biết trước", "ex": "If only I had known!", "exvi": "Giá mà tôi biết trước! Xem [Khung 84]." },
+                { "w": "I'd rather", "vi": "tôi thà…", "ex": "I'd rather stay home tonight.", "exvi": "Tối nay tôi thà ở nhà.", "note": "Họ hàng gần: <i>I'd rather you didn't</i> cũng lùi thì. Xem [Khung 8]." },
+                { "w": "It's time + V2", "vi": "đã đến lúc phải…", "ex": "It's time we left.", "exvi": "Đến lúc bọn mình phải đi rồi.", "note": "Cũng lùi thì dù nói về hiện tại." }
+              ]
+            },
+            {
+              "title": "Phàn nàn, tiếc nuối & lời chúc",
+              "items": [
+                { "w": "I wish he would…", "vi": "ước gì anh ta chịu…", "ex": "I wish he would call me back.", "exvi": "Ước gì anh ta gọi lại cho tôi.", "note": "BẪY SỐ HAI: <b>would</b> chỉ cho NGƯỜI KHÁC." },
+                { "w": "I wish you wouldn't…", "vi": "mong bạn đừng…", "ex": "I wish you wouldn't do that.", "exvi": "Bạn đừng làm thế nữa được không." },
+                { "w": "I wish it would stop", "vi": "ước gì nó dừng lại", "ex": "I wish it would stop raining.", "exvi": "Ước gì trời tạnh mưa đi." },
+                { "w": "I regret + V-ing", "vi": "tôi tiếc vì đã…", "ex": "I regret saying that.", "exvi": "Tôi tiếc vì đã nói câu đó.", "note": "Cùng ý với <i>wish I hadn't</i>. Xem [Ngữ pháp 24]." },
+                { "w": "I should have + V3", "vi": "lẽ ra tôi phải…", "ex": "I should have called her.", "exvi": "Lẽ ra tôi phải gọi cô ấy. Xem [Ngữ pháp 33]." },
+                { "w": "I'm sorry for + V-ing", "vi": "tôi xin lỗi vì đã…", "ex": "I'm sorry for being late.", "exvi": "Xin lỗi vì tôi đến muộn. Xem [Khung 79]." },
+                { "w": "I feel bad about…", "vi": "tôi thấy áy náy vì…", "ex": "I feel bad about it.", "exvi": "Tôi thấy áy náy chuyện đó. Xem [Khung 88]." },
+                { "w": "Hopefully", "vi": "hi vọng là", "ex": "Hopefully it won't rain.", "exvi": "Hi vọng trời không mưa.", "note": "Ước điều CÓ THỂ xảy ra thì dùng <i>hope</i>, không dùng <i>wish</i>." },
+                { "w": "I hope", "vi": "tôi hi vọng", "ex": "I hope you feel better soon.", "exvi": "Mong bạn mau khỏe.", "note": "<b>hope</b> cho điều có thể thành · <b>wish</b> cho điều trái thực tế." },
+                { "w": "wish to V", "vi": "muốn (trang trọng)", "ex": "I wish to make a complaint.", "exvi": "Tôi muốn khiếu nại.", "note": "Chỉ là <i>want to</i> lịch sự — KHÔNG lùi thì." },
+                { "w": "wish sb sth", "vi": "chúc ai điều gì", "ex": "I wish you a happy birthday.", "exvi": "Chúc bạn sinh nhật vui vẻ. Xem [Khung 80]." },
+                { "w": "Best wishes", "vi": "chúc mọi điều tốt", "ex": "Best wishes, Nam.", "exvi": "Thân ái, Nam.", "note": "Câu kết email thông dụng." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I wish I <b>am</b> rich.", "right": "I wish I <b>were</b> rich.", "why": "BẪY SỐ MỘT: phải lùi thì để đánh dấu “trái thực tế”. Và dùng <b>were</b> cho mọi chủ ngữ." },
+            { "wrong": "I wish I <b>can</b> speak English.", "right": "I wish I <b>could</b> speak English.", "why": "<i>can</i> lùi thành <b>could</b>. Xem [Ngữ pháp 29]." },
+            { "wrong": "I wish I <b>have</b> more time.", "right": "I wish I <b>had</b> more time.", "why": "<i>have</i> lùi thành <b>had</b> — đây là lùi thì, không phải thì hoàn thành." },
+            { "wrong": "I wish I <b>would be</b> taller.", "right": "I wish I <b>were</b> taller.", "why": "BẪY SỐ HAI: <b>would</b> không dùng cho chính mình, cũng không dùng cho trạng thái." },
+            { "wrong": "I wish he <b>stops</b> talking.", "right": "I wish he <b>would stop</b> talking.", "why": "Phàn nàn về hành vi người khác thì dùng <b>wish + would</b>." },
+            { "wrong": "I wish I <b>studied</b> harder <i>(hồi đó)</i>.", "right": "I wish I <b>had studied</b> harder.", "why": "Tiếc chuyện QUÁ KHỨ thì phải lùi thêm một bậc nữa: <b>had + V3</b>." },
+            { "wrong": "I wish I <b>didn't say</b> that.", "right": "I wish I <b>hadn't said</b> that.", "why": "Cùng lỗi — việc đã lỡ rồi nên dùng <b>hadn't + V3</b>." },
+            { "wrong": "I <b>wish</b> you pass the exam.", "right": "I <b>hope</b> you pass the exam.", "why": "Điều CÓ THỂ xảy ra thì dùng <b>hope</b>. <b>wish</b> dành cho điều trái thực tế." },
+            { "wrong": "If only I <b>was</b> rich!", "right": "If only I <b>were</b> rich!", "why": "Trong câu ước, <b>were</b> dùng cho mọi chủ ngữ. Xem [Ngữ pháp 15]." },
+            { "wrong": "I wish you <b>a happy birthday</b> — viết thành <i>I wish you were happy birthday</i>.", "right": "I wish you <b>a happy birthday</b>.", "why": "Lời chúc KHÔNG lùi thì — nó không nói điều trái thực tế." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>wish</code> / <code>hope</code>", "Trái thực tế / có thể xảy ra", "I wish I were rich ≠ I hope you pass"],
+            ["<code>wish + V2</code> / <code>wish + had V3</code>", "Hiện tại / quá khứ", "wish I were ≠ wish I had been"],
+            ["<code>wish + were</code> / <code>wish + would</code>", "Chính mình & trạng thái / người khác & hành vi", "I wish I were ≠ I wish he would"],
+            ["<code>wish</code> trái thực tế / <code>wish to V</code>", "Lùi thì / không lùi thì", "I wish I were ≠ I wish to complain"],
+            ["<code>wish sb sth</code>", "Lời chúc, không lùi thì", "I wish you a happy birthday."],
+            ["<code>If only</code> / <code>I wish</code>", "Mạnh hơn / trung tính", "Cùng cấu trúc"],
+            ["<code>wish I hadn't</code> / <code>should have</code>", "Tiếc / tự trách", "wish I hadn't said ≠ I should have called"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: ước thế nào cho đúng?" },
+        {
+          "t": "tree",
+          "q": "Bạn muốn ước một điều — điều đó có thể thành hiện thực không, và nó thuộc về ai?",
+          "nodes": [
+            { "if": "Có thể xảy ra thật", "then": "Dùng hope, không lùi thì", "ex": "I hope you pass the exam." },
+            { "if": "Trái với hiện tại, về chính mình", "then": "wish + V2 / were", "ex": "I wish I were rich." },
+            { "if": "Trái với hiện tại, về khả năng", "then": "wish + could + V", "ex": "I wish I could help." },
+            { "if": "Tiếc một việc đã xảy ra", "then": "wish + had + V3", "ex": "I wish I had studied harder." },
+            { "if": "Bực vì người khác cứ làm mãi", "then": "wish + would + V", "ex": "I wish he would stop talking." },
+            { "if": "Chỉ muốn chúc ai điều gì", "then": "wish sb sth — không lùi thì", "ex": "I wish you a happy birthday." }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ tiếc nuối về một câu lỡ lời" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Maybe I shouldn't have said that.", "vi": "Nhẹ nhất — hơi phân vân" },
+            { "en": "I probably shouldn't have said that.", "vi": "Thấy mình sai" },
+            { "en": "I shouldn't have said that.", "vi": "Nhận lỗi rõ" },
+            { "en": "I wish I hadn't said that.", "vi": "Tiếc thật sự" },
+            { "en": "If only I hadn't said that!", "vi": "Nặng nhất — day dứt" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Câu ước xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 9, "why": "I wish I could + V — khung chính của câu ước, cách từ chối khéo khi không giúp được." },
+            { "id": 98, "why": "If I were you, I'd + V — cùng một luật were cho mọi chủ ngữ." },
+            { "id": 88, "why": "I feel bad about + V-ing — tiếc nuối, hay đi với I wish I hadn't…" },
+            { "id": 79, "why": "I'm sorry for + V-ing — xin lỗi, bước tiếp theo sau một câu ước tiếc nuối." },
+            { "id": 84, "why": "I can't believe + mệnh đề — ngạc nhiên, hay kéo theo If only I had known!" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Ước gì tôi giàu.", "blank": "I wish I __________ rich.  (be)", "a": "were" },
+            { "vi": "Ước gì tôi có nhiều thời gian hơn.", "blank": "I wish I __________ more time.  (have)", "a": "had" },
+            { "vi": "Ước gì tôi nói tiếng Anh giỏi.", "blank": "I wish I __________ speak English well.  (can)", "a": "could" },
+            { "vi": "Giá mà hồi đó tôi học chăm hơn.", "blank": "I wish I __________ harder.  (study)", "a": "had studied" },
+            { "vi": "Giá mà tôi đừng nói câu đó.", "blank": "I wish I __________ that.  (not say)", "a": "hadn't said" },
+            { "vi": "Ước gì anh ta thôi nói đi.", "blank": "I wish he __________ talking.  (stop)", "a": "would stop" },
+            { "vi": "Giá mà tôi biết trước!", "blank": "If only I __________ !  (know)", "a": "had known" },
+            { "vi": "Mong bạn thi đỗ.", "blank": "I __________ you pass the exam.", "a": "hope — không phải wish" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn câu đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Ước gì tôi giàu.", "blank": "(a) I wish I am rich.  (b) I wish I were rich.", "a": "(b)" },
+            { "vi": "Ước gì tôi cao hơn.", "blank": "(a) I wish I would be taller.  (b) I wish I were taller.", "a": "(b)" },
+            { "vi": "Giá mà hồi đó tôi học chăm hơn.", "blank": "(a) I wish I studied harder.  (b) I wish I had studied harder.", "a": "(b)" },
+            { "vi": "Mong bạn thi đỗ.", "blank": "(a) I wish you pass the exam.  (b) I hope you pass the exam.", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Ước gì tôi nói tiếng Anh giỏi.", "a": "I wish I could speak English well." },
+            { "vi": "2. Giá mà tôi đừng nói câu đó.", "a": "I wish I hadn't said that." },
+            { "vi": "3. Ước gì anh ta gọi lại cho tôi.", "a": "I wish he would call me back." },
+            { "vi": "4. Giá mà tôi biết trước!", "a": "If only I had known!" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Lùi thì = “không có thật”.</b> Nó không nói về thời gian, nó đánh dấu điều trái thực tế.",
+            "<b>Ba mốc, ba dạng:</b> hiện tại → <i>V2 / were</i> · quá khứ → <i>had + V3</i> · hành vi người khác → <i>would + V</i>.",
+            "<b><i>were</i> cho mọi chủ ngữ</b> trong câu ước: <i>I were, he were, she were</i>. Giống [Ngữ pháp 15].",
+            "<b>Mẹo <i>wish</i> hay <i>hope</i>:</b> điều đó còn có thể thành hiện thực không? Còn → <b>hope</b>. Không → <b>wish</b>.",
+            "<b><i>would</i> không dùng cho chính mình</b> và không dùng cho trạng thái không đổi được. <i>I wish I would be taller</i> ✗.",
+            "<b>Bài tập 3 phút:</b> viết bốn câu — một điều ước về hiện tại, một điều tiếc về quá khứ, một lời phàn nàn với <i>would</i>, và một câu <i>I hope…</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

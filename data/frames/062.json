@@ -1,0 +1,497 @@
+{
+  "id": 62,
+  "group": "Nhóm 7 · Hỏi thông tin",
+  "title": "Where can I…? — Hỏi chỗ để làm một việc",
+  "subtitle": "Khung câu dùng hằng ngày khi bạn ở một nơi lạ: tìm chỗ mua, chỗ gửi đồ, chỗ đổi tiền, chỗ nộp hồ sơ. Nó cũng là nơi lộ ra rõ nhất một quy tắc mà người Việt hay sai: câu hỏi trực tiếp phải đảo ngữ, nhưng câu hỏi gián tiếp thì tuyệt đối không.",
+  "pattern": [
+    "Where can I <em>+ V</em>?",
+    "Where's the nearest <em>+ N</em>?",
+    "Do you know where I can <em>+ V</em>?"
+  ],
+  "meaning": "Tôi có thể… ở đâu? / Chỗ nào…?",
+  "grammar": [29, 36, 40, 51],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Thiết yếu khi đi lại" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">Where can I…?</span> hỏi <b>nơi nào cho phép bạn làm một việc</b>. Nó khác với <i>Where is…?</i> vốn chỉ hỏi vị trí của một vật. Ở đây bạn quan tâm đến <b>mục đích</b>: tôi muốn mua, muốn gửi, muốn đổi — vậy phải đi đâu?" },
+        { "t": "p", "html": "Đây là câu hỏi bạn sẽ dùng nhiều nhất khi ở một thành phố lạ. Nó mở đường cho mọi nhu cầu thực tế: <i>Where can I buy a SIM card? Where can I get a taxi? Where can I leave my bags?</i>" },
+        { "t": "p", "html": "So với <i>Where do I…?</i>, khung này mềm hơn. <i>Where <b>do</b> I pay?</i> hỏi về <b>quy trình bắt buộc</b> (“tôi phải trả ở đâu”). <i>Where <b>can</b> I pay?</i> hỏi về <b>khả năng</b> (“có chỗ nào cho tôi trả không”). Trong đa số tình huống du lịch, <i>can</i> là lựa chọn an toàn." },
+        { "t": "callout", "html": "<b>BẪY ĐẢO NGỮ — quan trọng nhất của khung này:</b> câu hỏi TRỰC TIẾP phải đảo: <span class=\"k\">Where can I buy…?</span> ✓ (<i>Where I can buy…?</i> ✗). Nhưng câu hỏi GIÁN TIẾP thì KHÔNG đảo: <span class=\"k\">Do you know where I can buy…?</span> ✓ (<i>Do you know where can I buy…?</i> ✗)." },
+        { "t": "h3", "text": "Bốn cách hỏi chỗ" },
+        {
+          "t": "table",
+          "head": ["Câu", "Hỏi về", "Sắc thái"],
+          "rows": [
+            ["<code>Where can I buy a SIM card?</code>", "Nơi cho phép làm việc đó", "Phổ biến nhất"],
+            ["<code>Where's the nearest ATM?</code>", "Cái gần nhất", "Khi bạn đang vội"],
+            ["<code>Is there a pharmacy around here?</code>", "Có hay không", "Nhẹ nhất, ít áp lực"],
+            ["<code>Do you know where I can…?</code>", "Gián tiếp", "Lịch sự nhất"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Sau “can” luôn là động từ trần.</b> <span class=\"k\">Where can I buy…?</span> ✓ — <i>Where can I to buy…?</i> ✗. Đây là quy tắc chung cho mọi động từ khiếm khuyết: <i>can, could, should, must, will</i>." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🛒", "title": "Tìm chỗ mua một thứ", "text": "Bối cảnh số 1. <i>Where can I buy a SIM card?</i>" },
+            { "icon": "🏧", "title": "Tìm tiện ích gần nhất", "text": "<i>Where's the nearest ATM?</i> Khi bạn đang vội." },
+            { "icon": "🧳", "title": "Tìm chỗ gửi đồ", "text": "<i>Where can I leave my bags?</i>" },
+            { "icon": "📄", "title": "Hỏi nơi nộp giấy tờ", "text": "<i>Where do I hand this in?</i> Dùng <i>do</i> khi là quy trình bắt buộc." },
+            { "icon": "🙋", "title": "Hỏi lịch sự người lạ", "text": "<i>Do you know where I can find…?</i> Gián tiếp, không đảo ngữ." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn chỉ cần vị trí một vật cụ thể. Ở đó dùng <i>Where is…?</i>" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Chuẩn", "<code>Where can I + V?</code>", "Where can I buy a ticket?"],
+            ["Tìm kiếm", "<code>Where can I find + N?</code>", "Where can I find the manager?"],
+            ["Gần nhất", "<code>Where's the nearest + N?</code>", "Where's the nearest ATM?"],
+            ["Hỏi sự tồn tại", "<code>Is there a + N + around here?</code>", "Is there a pharmacy around here?"],
+            ["Quy trình bắt buộc", "<code>Where do I + V?</code>", "Where do I pay?"],
+            ["Xin lời khuyên", "<code>Where should I + V?</code>", "Where should I park?"],
+            ["Gián tiếp — lịch sự", "<code>Do you know where I can + V?</code>", "Do you know where I can get a taxi?"],
+            ["Gián tiếp trang trọng", "<code>Could you tell me where…?</code>", "Could you tell me where the lifts are?"],
+            ["Hỏi chính xác chỗ nào", "<code>Whereabouts…?</code>", "Whereabouts is it?"],
+            ["Chỉ hỏi vị trí", "<code>Where is + N?</code>", "Where is the toilet?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Quy tắc đảo ngữ tóm gọn:</b> câu hỏi bắt đầu bằng <i>Where</i> thì <b>đảo</b> (<i>where <b>can I</b></i>). Câu hỏi bắt đầu bằng <i>Do you know</i> hay <i>Could you tell me</i> thì phần sau <b>không đảo</b> (<i>where <b>I can</b></i>). Xem thêm [Khung 17]." },
+        { "t": "callout", "html": "<b>“Whereabouts” là từ rất Anh-Anh</b> — nó hỏi chính xác chỗ nào trong một khu vực. <i>“It's in the station.” — “Whereabouts?”</i> = “Chỗ nào trong ga?”" }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ hay theo sau “Where can I…”",
+              "items": [
+                { "w": "buy", "vi": "mua", "ex": "Where can I buy a SIM card?", "exvi": "Tôi mua SIM ở đâu được ạ?", "note": "Sau <i>can</i> là động từ TRẦN — <i>Where can I to buy</i> ✗." },
+                { "w": "get", "vi": "kiếm được, lấy được", "ex": "Where can I get a taxi?", "exvi": "Tôi bắt taxi ở đâu được ạ?", "note": "<i>get</i> linh hoạt hơn <i>buy</i> — dùng được cho cả dịch vụ lẫn đồ vật." },
+                { "w": "find", "vi": "tìm thấy", "ex": "Where can I find the manager?", "exvi": "Tôi tìm quản lý ở đâu ạ?" },
+                { "w": "pay", "vi": "thanh toán", "ex": "Where can I pay?", "exvi": "Tôi thanh toán ở đâu ạ?" },
+                { "w": "leave my bags", "vi": "gửi hành lý", "ex": "Where can I leave my bags?", "exvi": "Tôi gửi hành lý ở đâu ạ?" },
+                { "w": "change money", "vi": "đổi tiền", "ex": "Where can I change money?", "exvi": "Tôi đổi tiền ở đâu ạ?" },
+                { "w": "charge my phone", "vi": "sạc điện thoại", "ex": "Where can I charge my phone?", "exvi": "Tôi sạc điện thoại ở đâu được ạ?" },
+                { "w": "catch the bus", "vi": "bắt xe buýt", "ex": "Where can I catch the bus to the centre?", "exvi": "Tôi bắt xe buýt vào trung tâm ở đâu ạ?" },
+                { "w": "try this on", "vi": "thử đồ này", "ex": "Where can I try this on?", "exvi": "Tôi thử cái này ở đâu ạ?" },
+                { "w": "park", "vi": "đỗ xe", "ex": "Where can I park around here?", "exvi": "Quanh đây tôi đỗ xe ở đâu được ạ?" },
+                { "w": "sit", "vi": "ngồi", "ex": "Where can I sit?", "exvi": "Tôi ngồi đâu được ạ?" },
+                { "w": "print this", "vi": "in cái này", "ex": "Where can I print this?", "exvi": "Tôi in cái này ở đâu được ạ?" }
+              ]
+            },
+            {
+              "title": "Địa điểm & các dạng hỏi khác",
+              "items": [
+                { "w": "the nearest ATM", "vi": "máy rút tiền gần nhất", "ex": "Where's the nearest ATM?", "exvi": "Máy rút tiền gần nhất ở đâu ạ?", "note": "<i>nearest</i> luôn đi với <b>the</b> vì là so sánh nhất." },
+                { "w": "the nearest pharmacy", "vi": "hiệu thuốc gần nhất", "ex": "Where's the nearest pharmacy?", "exvi": "Hiệu thuốc gần nhất ở đâu ạ?" },
+                { "w": "the toilets", "vi": "nhà vệ sinh", "ex": "Where are the toilets, please?", "exvi": "Cho hỏi nhà vệ sinh ở đâu ạ?", "note": "Tiếng Anh-Anh dùng số nhiều <i>toilets</i>; Anh-Mỹ nói <i>restroom</i>." },
+                { "w": "the lifts", "vi": "thang máy", "ex": "Could you tell me where the lifts are?", "exvi": "Anh/chị cho hỏi thang máy ở đâu ạ?", "note": "Anh-Anh là <i>lift</i>, Anh-Mỹ là <i>elevator</i>." },
+                { "w": "around here", "vi": "quanh đây", "ex": "Is there a bank around here?", "exvi": "Quanh đây có ngân hàng không ạ?" },
+                { "w": "nearby", "vi": "gần đây", "ex": "Is there a café nearby?", "exvi": "Gần đây có quán cà phê không ạ?" },
+                { "w": "within walking distance", "vi": "đi bộ được", "ex": "Is it within walking distance?", "exvi": "Đi bộ đến được không ạ?", "note": "Cụm rất hữu dụng khi hỏi khoảng cách." },
+                { "w": "Whereabouts?", "vi": "chỗ nào cụ thể?", "ex": "“It's in the station.” — “Whereabouts?”", "exvi": "“Ở trong ga ấy.” — “Chỗ nào trong ga ạ?”", "note": "Rất Anh-Anh — hỏi chính xác vị trí trong một khu vực." },
+                { "w": "Where do I…?", "vi": "tôi phải… ở đâu?", "ex": "Where do I hand this in?", "exvi": "Tôi nộp cái này ở đâu ạ?", "note": "<i>do</i> hỏi về QUY TRÌNH bắt buộc; <i>can</i> hỏi về khả năng." },
+                { "w": "Where should I…?", "vi": "tôi nên… ở đâu?", "ex": "Where should I wait?", "exvi": "Tôi nên đợi ở đâu ạ?", "note": "Xin lời khuyên thay vì hỏi quy định." },
+                { "w": "Do you know where…?", "vi": "anh/chị có biết… ở đâu không?", "ex": "Do you know where I can get a taxi?", "exvi": "Anh/chị có biết tôi bắt taxi ở đâu được không?", "note": "BẪY: phần sau KHÔNG đảo ngữ — <i>where I can</i>, không phải <i>where can I</i>." },
+                { "w": "Could you tell me where…?", "vi": "cho tôi hỏi… ở đâu ạ?", "ex": "Could you tell me where the exit is?", "exvi": "Cho tôi hỏi lối ra ở đâu ạ?", "note": "Lịch sự nhất. Cũng không đảo ngữ. Xem [Khung 17]." }
+              ]
+            },
+            {
+              "title": "Cách chỉ đường & đáp lại",
+              "items": [
+                { "w": "It's just over there", "vi": "ngay đằng kia", "ex": "It's just over there, on the left.", "exvi": "Ngay đằng kia, bên trái ạ." },
+                { "w": "on your left", "vi": "bên tay trái bạn", "ex": "It's on your left.", "exvi": "Nó ở bên tay trái anh/chị." },
+                { "w": "round the corner", "vi": "ở góc phố kia", "ex": "Just round the corner.", "exvi": "Ngay góc phố kia thôi.", "note": "Anh-Mỹ nói <i>around the corner</i>." },
+                { "w": "next to the bank", "vi": "cạnh ngân hàng", "ex": "It's next to the bank.", "exvi": "Nó ở cạnh ngân hàng." },
+                { "w": "opposite the station", "vi": "đối diện nhà ga", "ex": "Opposite the station.", "exvi": "Đối diện nhà ga ạ.", "note": "<i>opposite</i> = đối diện. Anh-Mỹ hay nói <i>across from</i>." },
+                { "w": "on the second floor", "vi": "ở tầng hai", "ex": "It's on the second floor.", "exvi": "Ở tầng hai ạ.", "note": "BẪY: <i>first floor</i> ở Anh là TẦNG HAI của Việt Nam; tầng trệt là <i>ground floor</i>." },
+                { "w": "about five minutes' walk", "vi": "đi bộ khoảng năm phút", "ex": "About five minutes' walk.", "exvi": "Đi bộ khoảng năm phút ạ." },
+                { "w": "you can't miss it", "vi": "không thể lạc được đâu", "ex": "Go straight — you can't miss it.", "exvi": "Đi thẳng — không lạc được đâu.", "note": "Thành ngữ trấn an người hỏi đường — rất phổ biến." },
+                { "w": "I'm not from around here", "vi": "tôi không phải người ở đây", "ex": "Sorry, I'm not from around here.", "exvi": "Xin lỗi, tôi không phải người ở đây.", "note": "Câu từ chối lịch sự khi bạn cũng không biết đường." },
+                { "w": "Try the one on Main Street", "vi": "thử chỗ ở phố chính xem", "ex": "Try the one on Main Street.", "exvi": "Anh/chị thử chỗ ở phố chính xem ạ." },
+                { "w": "Let me show you", "vi": "để tôi dẫn bạn đi", "ex": "Let me show you.", "exvi": "Để tôi dẫn anh/chị đi.", "note": "Rất tử tế — chỉ đường bằng cách đưa đi luôn." },
+                { "w": "It's a bit of a walk", "vi": "đi bộ cũng hơi xa", "ex": "It's a bit of a walk, to be honest.", "exvi": "Thật lòng thì đi bộ cũng hơi xa." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Where can I buy a SIM card?",
+                  "vi": "Tôi mua SIM ở đâu được ạ?",
+                  "note": "Câu đầu tiên bạn cần khi đến một nước mới. Sau <i>can</i> là động từ trần <i>buy</i>.",
+                  "open": { "en": "Excuse me, sorry to bother you —", "vi": "Xin lỗi làm phiền anh/chị —" },
+                  "reply": [
+                    { "them": "There's a shop in arrivals, on your left.", "themvi": "Có một cửa hàng ở khu đến, bên trái anh/chị ạ.", "you": "Is it open this late?", "youvi": "Muộn thế này còn mở không ạ?" },
+                    { "them": "Sorry, I'm not from around here.", "themvi": "Xin lỗi, tôi không phải người ở đây.", "you": "No problem, thanks anyway.", "youvi": "Không sao, dù sao cũng cảm ơn." }
+                  ],
+                  "close": { "en": "Thanks very much for your help.", "vi": "Cảm ơn anh/chị nhiều ạ." }
+                },
+                {
+                  "en": "Where's the nearest ATM?",
+                  "vi": "Máy rút tiền gần nhất ở đâu ạ?",
+                  "note": "<i>nearest</i> luôn đi với <b>the</b>. Đây là câu hỏi khi bạn đang vội.",
+                  "reply": [
+                    { "them": "Just round the corner, next to the bank.", "themvi": "Ngay góc phố kia, cạnh ngân hàng ạ.", "you": "About how far?", "youvi": "Khoảng bao xa ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "Is there a cash machine around here?", "vi": "Quanh đây có máy rút tiền không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Where can I leave my bags?",
+                  "vi": "Tôi gửi hành lý ở đâu được ạ?",
+                  "reply": [
+                    { "them": "There's a left-luggage office downstairs.", "themvi": "Có quầy gửi hành lý ở tầng dưới ạ.", "you": "How much per bag?", "youvi": "Bao nhiêu một kiện ạ?" }
+                  ]
+                },
+                {
+                  "en": "Do you know where I can get a taxi?",
+                  "vi": "Anh/chị có biết tôi bắt taxi ở đâu được không ạ?",
+                  "note": "BẪY: câu gián tiếp KHÔNG đảo ngữ — <b>where I can</b>, không phải <i>where can I</i>.",
+                  "reply": [
+                    { "them": "The rank is outside exit three.", "themvi": "Bến taxi ở ngoài lối ra số ba ạ.", "you": "Whereabouts is exit three?", "youvi": "Lối ra số ba ở chỗ nào ạ?" }
+                  ],
+                  "close": { "en": "Brilliant, thank you.", "vi": "Tuyệt quá, cảm ơn ạ." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Where can I try this on?",
+                  "vi": "Tôi thử cái này ở đâu ạ?",
+                  "reply": [
+                    { "them": "Fitting rooms are at the back.", "themvi": "Phòng thử đồ ở phía sau ạ.", "you": "Thanks — is there a queue?", "youvi": "Cảm ơn — có phải xếp hàng không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Where do I pay?",
+                  "vi": "Tôi thanh toán ở đâu ạ?",
+                  "note": "Dùng <b>do</b> vì đây là quy trình bắt buộc, không phải lựa chọn.",
+                  "reply": [
+                    { "them": "At the till by the entrance.", "themvi": "Ở quầy thu ngân gần cửa vào ạ.", "you": "Card or cash only?", "youvi": "Thẻ hay chỉ tiền mặt ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "Where can I pay?", "vi": "Tôi trả tiền ở đâu được ạ?" }
+                  ]
+                },
+                {
+                  "en": "Could you tell me where the lifts are?",
+                  "vi": "Cho tôi hỏi thang máy ở đâu ạ?",
+                  "note": "Dạng lịch sự nhất, và cũng KHÔNG đảo ngữ: <i>where the lifts <b>are</b></i>. Xem [Khung 17].",
+                  "reply": [
+                    { "them": "Past the tills, on your right.", "themvi": "Qua khỏi quầy thu ngân, bên phải anh/chị ạ.", "you": "Which floor is homeware?", "youvi": "Đồ gia dụng ở tầng mấy ạ?" }
+                  ],
+                  "close": { "en": "That's very helpful, thanks.", "vi": "Rất hữu ích, cảm ơn ạ." }
+                },
+                {
+                  "en": "Is there a pharmacy around here?",
+                  "vi": "Quanh đây có hiệu thuốc không ạ?",
+                  "note": "Cách hỏi nhẹ nhất — bạn chỉ hỏi có hay không, ít tạo áp lực cho người trả lời.",
+                  "reply": [
+                    { "them": "Yes, opposite the station.", "themvi": "Có ạ, đối diện nhà ga.", "you": "Is it within walking distance?", "youvi": "Đi bộ đến được không ạ?" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Where can I find the meeting room?",
+                  "vi": "Cho tôi hỏi phòng họp ở đâu ạ?",
+                  "reply": [
+                    { "them": "Second floor, room 204.", "themvi": "Tầng hai, phòng 204 ạ.", "you": "Is there a lift?", "youvi": "Có thang máy không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Where do I hand this in?",
+                  "vi": "Tôi nộp cái này ở đâu ạ?",
+                  "note": "<b>do</b> vì đây là quy trình có quy định — không phải bạn tự chọn.",
+                  "reply": [
+                    { "them": "Reception will take it.", "themvi": "Lễ tân nhận ạ.", "you": "Do I need a copy?", "youvi": "Tôi có cần bản sao không ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "Who should I give this to?", "vi": "Tôi nên đưa cái này cho ai ạ?" }
+                  ]
+                },
+                {
+                  "en": "Where can I print this?",
+                  "vi": "Tôi in cái này ở đâu được ạ?",
+                  "reply": [
+                    { "them": "The printer's by the kitchen.", "themvi": "Máy in ở cạnh phòng bếp.", "you": "Do I need a code?", "youvi": "Có cần mã không?" }
+                  ]
+                },
+                {
+                  "en": "Do you know where I can find the IT team?",
+                  "vi": "Anh/chị có biết đội IT ở đâu không ạ?",
+                  "note": "Gián tiếp, không đảo ngữ: <b>where I can find</b>.",
+                  "reply": [
+                    { "them": "Third floor, but they work remotely on Fridays.", "themvi": "Tầng ba, nhưng thứ Sáu họ làm từ xa.", "you": "I'll email them then.", "youvi": "Vậy tôi gửi email." }
+                  ],
+                  "close": { "en": "Thanks for pointing me in the right direction.", "vi": "Cảm ơn đã chỉ giúp tôi." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Where can I get a good coffee around here?",
+                  "vi": "Quanh đây tôi uống cà phê ngon ở đâu được ạ?",
+                  "note": "<i>get</i> linh hoạt hơn <i>buy</i> — dùng được cho cả đồ ăn, đồ uống và dịch vụ.",
+                  "reply": [
+                    { "them": "The place on the corner is excellent.", "themvi": "Quán ở góc phố ngon lắm ạ.", "you": "Do they open early?", "youvi": "Họ mở sớm không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Where are the toilets, please?",
+                  "vi": "Cho hỏi nhà vệ sinh ở đâu ạ?",
+                  "note": "Tiếng Anh-Anh dùng số nhiều <i>toilets</i>; Anh-Mỹ nói <i>restroom</i>. Thêm <i>please</i> cho lịch sự.",
+                  "reply": [
+                    { "them": "Down the stairs, on your left.", "themvi": "Xuống cầu thang, bên trái ạ.", "you": "Thank you.", "youvi": "Cảm ơn ạ." }
+                  ],
+                  "vars": [
+                    { "en": "Could you tell me where the toilets are?", "vi": "Cho tôi hỏi nhà vệ sinh ở đâu ạ?" }
+                  ]
+                },
+                {
+                  "en": "Where can I sit?",
+                  "vi": "Tôi ngồi đâu được ạ?",
+                  "reply": [
+                    { "them": "Anywhere that's free.", "themvi": "Chỗ nào trống cũng được ạ.", "you": "Is the table by the window taken?", "youvi": "Bàn cạnh cửa sổ có ai chưa ạ?" }
+                  ]
+                },
+                {
+                  "en": "Is there somewhere nearby that does breakfast?",
+                  "vi": "Gần đây có chỗ nào bán bữa sáng không ạ?",
+                  "note": "<i>somewhere</i> dùng khi bạn chưa biết chỗ đó là quán gì — linh hoạt hơn hỏi một loại cụ thể.",
+                  "reply": [
+                    { "them": "The bakery two doors down.", "themvi": "Tiệm bánh cách hai căn ạ.", "you": "What time do they open?", "youvi": "Họ mở mấy giờ ạ?" }
+                  ],
+                  "close": { "en": "We'll head there now.", "vi": "Chúng tôi qua đó luôn." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Where can I park around here?",
+                  "vi": "Quanh đây mình đỗ xe ở đâu được?",
+                  "reply": [
+                    { "them": "There's a car park behind the church.", "themvi": "Có bãi đỗ xe sau nhà thờ.", "you": "Is it free after six?", "youvi": "Sau sáu giờ có miễn phí không?" }
+                  ]
+                },
+                {
+                  "en": "Where can I charge my phone?",
+                  "vi": "Mình sạc điện thoại ở đâu được?",
+                  "reply": [
+                    { "them": "There's a socket behind the sofa.", "themvi": "Có ổ cắm sau ghế sofa.", "you": "Perfect, thanks.", "youvi": "Chuẩn luôn, cảm ơn." }
+                  ],
+                  "vars": [
+                    { "en": "Have you got somewhere I can charge this?", "vi": "Bạn có chỗ nào cho mình sạc cái này không?" }
+                  ]
+                },
+                {
+                  "en": "Whereabouts is it exactly?",
+                  "vi": "Chính xác thì nó ở chỗ nào?",
+                  "note": "Rất Anh-Anh — dùng khi người ta trả lời chung chung và bạn cần cụ thể hơn.",
+                  "reply": [
+                    { "them": "Near the park, on the high street.", "themvi": "Gần công viên, trên phố chính.", "you": "I'll find it.", "youvi": "Mình sẽ tìm được." }
+                  ]
+                },
+                {
+                  "en": "Do you know where I can buy stamps?",
+                  "vi": "Bạn có biết mình mua tem ở đâu được không?",
+                  "reply": [
+                    { "them": "Any newsagent, usually.", "themvi": "Thường thì tiệm báo nào cũng có.", "you": "Is there one nearby?", "youvi": "Gần đây có tiệm nào không?" }
+                  ],
+                  "close": { "en": "Thanks, that saves me a trip.", "vi": "Cảm ơn, đỡ mình một chuyến." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Mới đến sân bay ở một nước lạ",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Excuse me, where can I buy a SIM card?", "vi": "Xin lỗi, tôi mua SIM ở đâu được ạ?" },
+            { "speaker": "Staff", "en": "There's a shop in arrivals, on your left.", "vi": "Có một cửa hàng ở khu đến, bên trái anh/chị ạ." },
+            { "speaker": "You", "me": true, "en": "Thanks. And where's the nearest ATM?", "vi": "Cảm ơn. Máy rút tiền gần nhất ở đâu ạ?" },
+            { "speaker": "Staff", "en": "Just past the SIM shop, next to the pharmacy.", "vi": "Qua khỏi cửa hàng SIM một chút, cạnh hiệu thuốc ạ." },
+            { "speaker": "You", "me": true, "en": "Perfect. Do you know where I can get a taxi?", "vi": "Tuyệt. Anh/chị có biết tôi bắt taxi ở đâu được không ạ?" },
+            { "speaker": "Staff", "en": "The rank is outside exit three. You can't miss it.", "vi": "Bến taxi ở ngoài lối ra số ba. Không lạc được đâu ạ." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Ngày đầu tiên ở văn phòng mới",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Sorry, where can I find the meeting room?", "vi": "Xin lỗi, cho tôi hỏi phòng họp ở đâu ạ?" },
+            { "speaker": "Colleague", "en": "Second floor, room 204. The lifts are past reception.", "vi": "Tầng hai, phòng 204. Thang máy qua khỏi quầy lễ tân." },
+            { "speaker": "You", "me": true, "en": "Thanks. And where do I hand in my forms?", "vi": "Cảm ơn. Tôi nộp giấy tờ ở đâu ạ?" },
+            { "speaker": "Colleague", "en": "Reception will take them.", "vi": "Lễ tân nhận ạ." },
+            { "speaker": "You", "me": true, "en": "One more thing — do you know where I can print something?", "vi": "Một việc nữa — bạn có biết tôi in tài liệu ở đâu được không?" },
+            { "speaker": "Colleague", "en": "The printer's by the kitchen. Let me show you.", "vi": "Máy in cạnh phòng bếp. Để tôi dẫn bạn đi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Where I can buy a ticket?", "right": "Where can I buy a ticket?", "why": "Câu hỏi TRỰC TIẾP phải <b>đảo ngữ</b>: <i>can</i> đứng trước <i>I</i>." },
+            { "wrong": "Do you know where can I buy a ticket?", "right": "Do you know where I can buy a ticket?", "why": "Câu hỏi GIÁN TIẾP thì KHÔNG đảo ngữ — trả về trật tự thường <i>where I can</i>. Xem [Khung 17]." },
+            { "wrong": "Where can I to buy a ticket?", "right": "Where can I buy a ticket?", "why": "Sau động từ khiếm khuyết <b>can</b> luôn là động từ TRẦN, không có <i>to</i>." },
+            { "wrong": "Where is the nearest ATM? — <i>Where is nearest ATM?</i>", "right": "Where's the nearest ATM?", "why": "Thiếu mạo từ <b>the</b>. So sánh nhất luôn đi kèm <i>the</i>." },
+            { "wrong": "Where can I buy? <i>(không có tân ngữ)</i>", "right": "Where can I buy a SIM card?", "why": "<b>buy</b> cần tân ngữ. Nếu không muốn nói rõ, dùng <i>Where can I get one?</i>" },
+            { "wrong": "Where can I go to the toilet? <i>(hỏi vị trí)</i>", "right": "Where are the toilets, please?", "why": "Câu sai nghe như bạn xin phép chứ không hỏi vị trí. Hỏi chỗ thì dùng <i>Where are…?</i>" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu hỏi", "Hỏi về", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>Where can I…?</code>", "Nơi cho phép làm việc đó", "<i>Where can I buy a SIM?</i> Phổ biến nhất."],
+            ["<code>Where do I…?</code>", "Quy trình bắt buộc", "<i>Where do I pay?</i> Khi có quy định."],
+            ["<code>Where should I…?</code>", "Lời khuyên", "<i>Where should I park?</i>"],
+            ["<code>Where is…?</code>", "Vị trí một vật", "<i>Where is the exit?</i>"],
+            ["<code>Where's the nearest…?</code>", "Cái gần nhất", "<i>Where's the nearest ATM?</i> Khi vội."],
+            ["<code>Is there a … around here?</code>", "Có tồn tại hay không", "Nhẹ nhất, ít áp lực."],
+            ["<code>Do you know where…?</code>", "Gián tiếp — lịch sự", "Không đảo ngữ. Xem [Khung 17]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — hỏi chỗ mua vé" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Where do I buy tickets?", "vi": "Trực tiếp nhất — hỏi quy trình" },
+            { "en": "Where can I buy a ticket?", "vi": "Chuẩn mực, dùng được mọi nơi" },
+            { "en": "Is there a ticket office around here?", "vi": "Nhẹ hơn — chỉ hỏi có hay không" },
+            { "en": "Do you know where I can buy a ticket?", "vi": "Gián tiếp — lịch sự" },
+            { "en": "Could you tell me where I can buy a ticket?", "vi": "Lịch sự nhất. Xem [Khung 17]" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Where can I</b> nối âm thành <b>“wer-kə-nai”</b> — ba từ dính thành một khối, <i>can</i> đọc rất nhẹ thành /kən/.",
+            "<b>can</b> trong câu hỏi KHÔNG bao giờ được nhấn — nó lướt qua thành /kən/, không phải /kæn/.",
+            "Trọng âm rơi vào <b>WHERE</b> và <b>động từ chính</b>: <i>WHERE can I BUY…?</i>",
+            "<b>Where's the nearest</b> → “werz-thə-NEER-ist”, nhấn NEER.",
+            "<b>Giọng đi xuống ở cuối</b> — đây là câu hỏi có từ để hỏi, không phải câu hỏi có-không.",
+            "<b>Whereabouts</b> nhấn âm đầu: <b>WHERE</b>-ə-bouts — và thường lên giọng ở cuối vì mang tính hỏi lại."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Where can I buy a SIM card?", "vi": "Luyện shadowing: “wer-kə-nai-BAI-ə-sim-card”, nuốt nhẹ chữ can." },
+            { "en": "Do you know where I can get a taxi?", "vi": "Tập giữ trật tự “where I can” — đừng đảo thành “where can I”." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi mua SIM ở đâu được ạ?", "blank": "__________ buy a SIM card?", "a": "Where can I (đảo ngữ trong câu hỏi trực tiếp)" },
+            { "vi": "Anh/chị có biết tôi bắt taxi ở đâu được không?", "blank": "Do you know __________ get a taxi?", "a": "where I can (KHÔNG đảo ngữ)" },
+            { "vi": "Máy rút tiền gần nhất ở đâu ạ?", "blank": "Where's __________ ATM?", "a": "the nearest (nhớ mạo từ “the”)" },
+            { "vi": "Quanh đây có hiệu thuốc không ạ?", "blank": "__________ a pharmacy around here?", "a": "Is there" },
+            { "vi": "Tôi thanh toán ở đâu ạ? (quy trình bắt buộc)", "blank": "Where __________ pay?", "a": "do I" },
+            { "vi": "Cho tôi hỏi thang máy ở đâu ạ?", "blank": "Could you tell me where __________?", "a": "the lifts are" },
+            { "vi": "Chính xác thì nó ở chỗ nào?", "blank": "__________ is it exactly?", "a": "Whereabouts" },
+            { "vi": "Đi bộ đến được không ạ?", "blank": "Is it __________?", "a": "within walking distance" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi gửi hành lý ở đâu được ạ?", "a": "Where can I leave my bags?" },
+            { "vi": "2. Anh/chị có biết tôi bắt taxi ở đâu được không ạ?", "a": "Do you know where I can get a taxi?" },
+            { "vi": "3. Quanh đây tôi uống cà phê ngon ở đâu được ạ?", "a": "Where can I get a good coffee around here?" },
+            { "vi": "4. Cho hỏi nhà vệ sinh ở đâu ạ?", "a": "Where are the toilets, please?" },
+            { "vi": "5. Tôi nộp cái này ở đâu ạ?", "a": "Where do I hand this in?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Nhớ luật đảo ngữ:</b> hỏi thẳng thì <i>Where <b>can I</b></i>; hỏi gián tiếp thì <i>Do you know where <b>I can</b></i>. Đây là lỗi lộ ra ngay lập tức.",
+            "<b>Sau “can” luôn là động từ trần</b> — không bao giờ có <i>to</i>.",
+            "<b>Phân biệt can và do:</b> <i>can</i> hỏi khả năng (an toàn khi du lịch), <i>do</i> hỏi quy trình bắt buộc.",
+            "<b>Học thuộc “Where's the nearest…?”</b> — câu cứu bạn khi cần gấp một hiệu thuốc, ATM hay nhà vệ sinh.",
+            "<b>Cẩn thận với số tầng:</b> <i>first floor</i> ở Anh là tầng hai của Việt Nam; tầng trệt là <i>ground floor</i>.",
+            "<b>Bài tập 3 phút:</b> liệt kê 8 việc bạn cần làm khi đến một thành phố lạ, viết mỗi việc thành một câu <i>Where can I…?</i> rồi viết lại dạng gián tiếp."
+          ]
+        }
+      ]
+    }
+  ]
+}

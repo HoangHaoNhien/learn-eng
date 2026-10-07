@@ -1,0 +1,132 @@
+{
+  "title": "62 Bài Ngữ Pháp",
+  "tagline": "Xếp theo thứ tự nên học · bám vào bẫy người Việt hay mắc",
+  "groups": [
+    {
+      "name": "Nhóm 1 · Nền móng câu tiếng Anh",
+      "items": [
+        { "id": 43, "pat": "S + V + O + (nơi) + (lúc)", "vi": "Trật tự từ & vị trí trạng ngữ", "detail": true },
+        { "id": 53, "pat": "I / me / my / mine / myself", "vi": "Đại từ nhân xưng, sở hữu & phản thân", "detail": true },
+        { "id": 52, "pat": "It + be + tính từ + to V", "vi": "Chủ ngữ giả It — câu không được thiếu chủ ngữ", "detail": true },
+        { "id": 51, "pat": "There is / There are + N", "vi": "Cách nói “có” trong tiếng Anh", "detail": true },
+        { "id": 54, "pat": "-s / -ed / -ing", "vi": "Quy tắc chính tả khi thêm đuôi", "detail": true }
+      ]
+    },
+    {
+      "name": "Nhóm 2 · Danh từ, mạo từ & lượng từ",
+      "items": [
+        { "id": 19, "pat": "a book ↔ some water", "vi": "Đếm được & không đếm được", "detail": true },
+        { "id": 20, "pat": "a / an", "vi": "Mạo từ không xác định", "detail": true },
+        { "id": 21, "pat": "the", "vi": "Mạo từ xác định — ba luật", "detail": true },
+        { "id": 22, "pat": "some / any / much / many / a few", "vi": "Lượng từ", "detail": true },
+        { "id": 57, "pat": "both / either / neither / all / none", "vi": "Lượng từ cho hai và cho nhiều", "detail": true },
+        { "id": 23, "pat": "people / children / Nam's book", "vi": "Số nhiều bất quy tắc & sở hữu cách", "detail": true },
+        { "id": 58, "pat": "a five-year-old boy", "vi": "Danh từ ghép & tính từ ghép", "detail": true }
+      ]
+    },
+    {
+      "name": "Nhóm 3 · Thì hiện tại & quá khứ",
+      "items": [
+        { "id": 1, "pat": "S + V(s/es)", "vi": "Hiện tại đơn", "detail": true },
+        { "id": 2, "pat": "S + am/is/are + V-ing", "vi": "Hiện tại tiếp diễn", "detail": true },
+        { "id": 3, "pat": "S + V2 / didn't + V", "vi": "Quá khứ đơn", "detail": true },
+        { "id": 4, "pat": "S + was/were + V-ing", "vi": "Quá khứ tiếp diễn", "detail": true },
+        { "id": 5, "pat": "S + had + V3", "vi": "Quá khứ hoàn thành", "detail": true }
+      ]
+    },
+    {
+      "name": "Nhóm 4 · Thì hoàn thành",
+      "items": [
+        { "id": 6, "pat": "S + have/has + V3", "vi": "Hiện tại hoàn thành", "detail": true },
+        { "id": 7, "pat": "for / since / yet / already / just", "vi": "Trạng từ đi với thì hoàn thành", "detail": true },
+        { "id": 8, "pat": "S + have/has been + V-ing", "vi": "Hoàn thành tiếp diễn", "detail": true },
+        { "id": 9, "pat": "have + V3  ↔  V2", "vi": "Hoàn thành hay Quá khứ đơn?", "detail": true }
+      ]
+    },
+    {
+      "name": "Nhóm 5 · Tương lai",
+      "items": [
+        { "id": 10, "pat": "S + will + V", "vi": "will — quyết định ngay lúc nói", "detail": true },
+        { "id": 11, "pat": "S + be going to + V", "vi": "be going to — kế hoạch đã quyết", "detail": true },
+        { "id": 12, "pat": "S + am/is/are + V-ing (tương lai)", "vi": "Hiện tại chỉ tương lai", "detail": true },
+        { "id": 13, "pat": "will have + V3 / will be + V-ing", "vi": "Tương lai hoàn thành & tiếp diễn", "detail": true }
+      ]
+    },
+    {
+      "name": "Nhóm 6 · Tính từ & Trạng từ",
+      "items": [
+        { "id": 34, "pat": "bored ↔ boring", "vi": "Đuôi -ed và -ing", "detail": true },
+        { "id": 35, "pat": "sound / feel / look + tính từ", "vi": "Tính từ sau linking verb", "detail": true },
+        { "id": 36, "pat": "a nice big old red car", "vi": "Trật tự nhiều tính từ", "detail": true },
+        { "id": 37, "pat": "bigger / the biggest / as … as", "vi": "So sánh hơn & nhất", "detail": true },
+        { "id": 64, "pat": "the more … the more", "vi": "So sánh kép — càng … càng …", "detail": true },
+        { "id": 38, "pat": "always / often / carefully", "vi": "Trạng từ: vị trí & tần suất", "detail": true },
+        { "id": 56, "pat": "too / very / enough / so / such", "vi": "Mức độ & kết quả", "detail": true }
+      ]
+    },
+    {
+      "name": "Nhóm 7 · Giới từ",
+      "items": [
+        { "id": 39, "pat": "in / on / at + thời gian", "vi": "Giới từ chỉ thời gian", "detail": true },
+        { "id": 40, "pat": "in / on / at + nơi chốn", "vi": "Giới từ chỉ nơi chốn & phương tiện", "detail": true },
+        { "id": 61, "pat": "into / onto / out of / through", "vi": "Giới từ chỉ chuyển động", "detail": true },
+        { "id": 41, "pat": "for / since / during / by / until", "vi": "Giới từ chỉ khoảng thời gian", "detail": true },
+        { "id": 42, "pat": "worried about / good at / depend on", "vi": "Giới từ cố định", "detail": true }
+      ]
+    },
+    {
+      "name": "Nhóm 8 · Dạng theo sau động từ",
+      "items": [
+        { "id": 24, "pat": "want to V / enjoy V-ing", "vi": "to V hay V-ing sau động từ", "detail": true },
+        { "id": 25, "pat": "giới từ + V-ing", "vi": "Sau giới từ luôn là V-ing", "detail": true },
+        { "id": 26, "pat": "used to V / be used to V-ing", "vi": "used to & be used to", "detail": true },
+        { "id": 27, "pat": "make / let / have somebody + V", "vi": "Động từ sai khiến & tri giác", "detail": true },
+        { "id": 63, "pat": "have / get something done", "vi": "Nhờ người khác làm — và chuyện xấu xảy đến", "detail": true },
+        { "id": 55, "pat": "turn it on / look after him", "vi": "Phrasal verb — tách được hay không", "detail": true },
+        { "id": 28, "pat": "having done / being done", "vi": "Danh động từ hoàn thành & bị động", "detail": true }
+      ]
+    },
+    {
+      "name": "Nhóm 9 · Động từ khuyết thiếu",
+      "items": [
+        { "id": 29, "pat": "can / could / be able to", "vi": "Khả năng & xin phép", "detail": true },
+        { "id": 30, "pat": "may / might / could", "vi": "Mức độ có thể xảy ra", "detail": true },
+        { "id": 31, "pat": "must / have to / need to", "vi": "Bắt buộc — và phủ định của nó", "detail": true },
+        { "id": 32, "pat": "should / ought to / had better", "vi": "Lời khuyên", "detail": true },
+        { "id": 33, "pat": "must have / should have + V3", "vi": "Modal hoàn thành", "detail": true }
+      ]
+    },
+    {
+      "name": "Nhóm 10 · Điều kiện & Giả định",
+      "items": [
+        { "id": 14, "pat": "If + hiện tại, will + V", "vi": "Điều kiện loại 1", "detail": true },
+        { "id": 15, "pat": "If + V2, would + V", "vi": "Điều kiện loại 2", "detail": true },
+        { "id": 16, "pat": "If + had V3, would have + V3", "vi": "Điều kiện loại 3 & hỗn hợp", "detail": true },
+        { "id": 17, "pat": "unless / as long as / in case", "vi": "Liên từ điều kiện khác", "detail": true },
+        { "id": 59, "pat": "I wish / If only + V2", "vi": "Ước điều trái thực tế", "detail": true },
+        { "id": 18, "pat": "I suggest (that) he + V trần", "vi": "Thức giả định", "detail": true }
+      ]
+    },
+    {
+      "name": "Nhóm 11 · Mệnh đề & Dạng câu",
+      "items": [
+        { "id": 45, "pat": "who / which / that / where", "vi": "Mệnh đề quan hệ", "detail": true },
+        { "id": 60, "pat": "the man sitting there", "vi": "Mệnh đề quan hệ rút gọn", "detail": true },
+        { "id": 44, "pat": "Do/Did + S + V? … , isn't it?", "vi": "Câu hỏi & câu hỏi đuôi", "detail": true },
+        { "id": 46, "pat": "be + V3 (+ by …)", "vi": "Câu bị động", "detail": true },
+        { "id": 47, "pat": "He said (that) he was…", "vi": "Câu tường thuật", "detail": true },
+        { "id": 66, "pat": "He asked where I lived / told me to wait", "vi": "Tường thuật câu hỏi & mệnh lệnh", "detail": true }
+      ]
+    },
+    {
+      "name": "Nhóm 12 · Nhấn mạnh, nối ý & dấu câu",
+      "items": [
+        { "id": 48, "pat": "although / despite / however", "vi": "Liên từ & mệnh đề nhượng bộ", "detail": true },
+        { "id": 49, "pat": "Never have I seen…", "vi": "Đảo ngữ", "detail": true },
+        { "id": 62, "pat": "It was John who… / What I need is…", "vi": "Câu chẻ nhấn mạnh", "detail": true },
+        { "id": 65, "pat": "I do think … / It is said that …", "vi": "Nhấn mạnh bằng do & tường thuật khách quan", "detail": true },
+        { "id": 50, "pat": ", . ' \" ; :", "vi": "Dấu câu tiếng Anh", "detail": true }
+      ]
+    }
+  ]
+}

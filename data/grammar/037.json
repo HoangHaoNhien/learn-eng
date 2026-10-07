@@ -1,0 +1,277 @@
+{
+  "id": 37,
+  "group": "Nhóm 6 · Tính từ & Trạng từ",
+  "title": "So sánh hơn & so sánh nhất",
+  "subtitle": "Luật chia theo độ dài của tính từ: ngắn thì thêm -er, dài thì thêm more. Bẫy lớn nhất là dùng cả hai cùng lúc — more better ✗ — vì tiếng Việt nói hơn một lần nên ta vô thức đánh dấu hai lần.",
+  "meaning": "So sánh hai thứ, hoặc chọn ra cái nhất",
+  "rule": [
+    "Tính từ ngắn: <em>-er … than</em> · <em>the -est</em>",
+    "Tính từ dài: <em>more … than</em> · <em>the most</em>",
+    "Bằng nhau: <em>as … as</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2–B1", "hot": true },
+    { "text": "more better ✗" },
+    { "text": "So sánh nhất luôn có the" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [57, 66, 81, 85, 89],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Tiếng Anh chia luật so sánh theo <b>độ dài của tính từ</b>. Một âm tiết thì thêm đuôi, từ ba âm tiết trở lên thì dùng <i>more</i>. Hai âm tiết thì tùy từ — nhưng có quy luật nhỏ giúp đoán." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — không đánh dấu HAI LẦN:</b><br>• <i>This is <b>better</b></i> ✓ — <i>more better</i> ✗<br>• <i>It's <b>more expensive</b></i> ✓ — <i>more expensiver</i> ✗<br>Tiếng Việt nói “hơn” một lần nên ta vô thức thêm cả hai dấu hiệu. Chỉ chọn MỘT." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — so sánh nhất LUÔN có <i>the</i>:</b><br>• <i>It's <b>the</b> best restaurant in town</i> ✓ — <i>It's best restaurant</i> ✗<br>• <i>the biggest, the most expensive</i><br>Và so sánh hơn thì đi với <b>than</b>, không bao giờ có <i>the</i>. Xem [Ngữ pháp 21]." },
+        { "t": "h3", "text": "Luật theo độ dài" },
+        {
+          "t": "table",
+          "head": ["Độ dài", "So sánh hơn", "So sánh nhất"],
+          "rows": [
+            ["1 âm tiết", "<code>-er</code> — bigger, taller", "<code>the -est</code> — the biggest"],
+            ["2 âm tiết tận cùng <code>-y</code>", "<code>-ier</code> — happier, easier", "<code>the -iest</code> — the happiest"],
+            ["2 âm tiết khác", "<code>more</code> — more careful", "<code>the most</code> — the most careful"],
+            ["3 âm tiết trở lên", "<code>more</code> — more expensive", "<code>the most</code> — the most expensive"]
+          ]
+        },
+        { "t": "p", "html": "Bốn từ <b>bất quy tắc</b> phải thuộc riêng: <i>good → <b>better</b> → the best</i>, <i>bad → <b>worse</b> → the worst</i>, <i>far → <b>further</b> → the furthest</i>, <i>little → <b>less</b> → the least</i>." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["So sánh hơn — ngắn", "<code>adj-er + than</code>", "He's taller than me."],
+            ["So sánh hơn — dài", "<code>more + adj + than</code>", "It's more expensive than that."],
+            ["So sánh nhất — ngắn", "<code>the + adj-est</code>", "It's the biggest room."],
+            ["So sánh nhất — dài", "<code>the most + adj</code>", "It's the most expensive one."],
+            ["Bằng nhau", "<code>as + adj + as</code>", "She's as tall as me."],
+            ["Không bằng", "<code>not as + adj + as</code>", "It's not as cold as yesterday."],
+            ["Kém hơn", "<code>less + adj + than</code>", "It's less expensive than that."],
+            ["Ngày càng", "<code>adj-er and adj-er</code>", "It's getting colder and colder."],
+            ["Ngày càng (dài)", "<code>more and more + adj</code>", "It's getting more and more expensive."],
+            ["Càng… càng…", "<code>The + adj-er, the + adj-er</code>", "The sooner, the better."],
+            ["Gấp đôi, gấp ba", "<code>twice/three times as + adj + as</code>", "It's twice as big as mine."],
+            ["Hơn nhiều", "<code>much / far + adj-er</code>", "It's much better."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Nhấn mạnh so sánh hơn thì dùng <i>much</i> hoặc <i>far</i>, không dùng <i>very</i>:</b> <i>It's <b>much</b> better</i> ✓ — <i>It's very better</i> ✗. Còn <b>very</b> chỉ dùng với tính từ nguyên dạng: <i>very good</i> ✓." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "He's taller than me.", "vi": "Anh ấy cao hơn tôi.", "note": "Tính từ MỘT âm tiết nên thêm <b>-er</b>, và đi với <b>than</b>." },
+            { "en": "This one is more expensive than that one.", "vi": "Cái này đắt hơn cái kia.", "note": "Tính từ BA âm tiết nên dùng <b>more</b>, không thêm <i>-er</i>." },
+            { "en": "This is better than I expected.", "vi": "Cái này tốt hơn tôi tưởng.", "note": "BẪY SỐ MỘT: <b>better</b> đã là so sánh hơn rồi — <i>more better</i> ✗." },
+            { "en": "It's the best restaurant in town.", "vi": "Đó là nhà hàng ngon nhất vùng.", "note": "BẪY SỐ HAI: so sánh nhất LUÔN có <b>the</b>. Xem [Ngữ pháp 21]." },
+            { "en": "It's the most expensive one here.", "vi": "Đây là cái đắt nhất ở đây.", "note": "Tính từ dài thì dùng <b>the most</b>." },
+            { "en": "She's as tall as me.", "vi": "Cô ấy cao bằng tôi.", "note": "<b>as … as</b> = bằng nhau. Giữa hai chữ <i>as</i> là tính từ NGUYÊN DẠNG." },
+            { "en": "It's not as cold as yesterday.", "vi": "Hôm nay không lạnh bằng hôm qua.", "note": "Phủ định của <i>as … as</i>." },
+            { "en": "The weather is getting colder and colder.", "vi": "Trời ngày càng lạnh.", "note": "<b>adj-er and adj-er</b> = ngày càng." },
+            { "en": "The sooner, the better.", "vi": "Càng sớm càng tốt.", "note": "<b>The + so sánh hơn, the + so sánh hơn</b> = càng… càng…" },
+            { "en": "This room is twice as big as mine.", "vi": "Phòng này to gấp đôi phòng tôi.", "note": "<b>twice as … as</b> = gấp đôi." },
+            { "en": "It's much better than before.", "vi": "Tốt hơn trước nhiều.", "note": "Nhấn mạnh bằng <b>much</b>, không dùng <i>very</i>." },
+            { "en": "What's the difference between these two?", "vi": "Hai cái này khác nhau thế nào?", "note": "Câu hỏi so sánh rất thông dụng. Xem [Khung 66]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "⚖️", "title": "So sánh hai thứ", "text": "<i>This one is cheaper than that one.</i>" },
+            { "icon": "🏆", "title": "Chọn ra cái nhất", "text": "<i>It's the best restaurant in town.</i>" },
+            { "icon": "🟰", "title": "Nói bằng nhau", "text": "<i>She's as tall as me.</i>" },
+            { "icon": "📈", "title": "Nói xu hướng tăng dần", "text": "<i>It's getting colder and colder.</i>" },
+            { "icon": "❓", "title": "Hỏi khác nhau thế nào", "text": "<i>What's the difference?</i> Xem [Khung 66]." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Thêm cả <i>more</i> lẫn <i>-er</i>. Chọn một thôi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Dạng so sánh & từ bất quy tắc",
+              "items": [
+                { "w": "bigger / biggest", "vi": "to hơn / to nhất", "ex": "It's the biggest room.", "exvi": "Đó là phòng to nhất.", "note": "Một âm tiết tận cùng phụ âm thì GẤP ĐÔI: <i>big → bigger</i>." },
+                { "w": "taller / tallest", "vi": "cao hơn / cao nhất", "ex": "He's taller than me.", "exvi": "Anh ấy cao hơn tôi." },
+                { "w": "happier / happiest", "vi": "vui hơn / vui nhất", "ex": "I'm happier now.", "exvi": "Giờ tôi vui hơn.", "note": "Hai âm tiết tận cùng <b>-y</b> thì đổi thành <b>-ier</b>." },
+                { "w": "more expensive", "vi": "đắt hơn", "ex": "It's more expensive than that.", "exvi": "Cái này đắt hơn cái kia.", "note": "Ba âm tiết trở lên thì dùng <b>more</b>." },
+                { "w": "the most expensive", "vi": "đắt nhất", "ex": "It's the most expensive one.", "exvi": "Đây là cái đắt nhất." },
+                { "w": "good → better → the best", "vi": "tốt → tốt hơn → tốt nhất", "ex": "This is better than I expected.", "exvi": "Cái này tốt hơn tôi tưởng.", "note": "BẤT QUY TẮC. <i>more better</i> ✗ là lỗi kinh điển." },
+                { "w": "bad → worse → the worst", "vi": "tệ → tệ hơn → tệ nhất", "ex": "It's worse than last year.", "exvi": "Tệ hơn năm ngoái.", "note": "<i>more worse</i> ✗ và <i>badder</i> ✗." },
+                { "w": "far → further → the furthest", "vi": "xa → xa hơn → xa nhất", "ex": "It's further than I thought.", "exvi": "Xa hơn tôi tưởng." },
+                { "w": "little → less → the least", "vi": "ít → ít hơn → ít nhất", "ex": "I have less time now.", "exvi": "Giờ tôi có ít thời gian hơn." },
+                { "w": "many/much → more → the most", "vi": "nhiều → nhiều hơn → nhiều nhất", "ex": "I need more time.", "exvi": "Tôi cần thêm thời gian." },
+                { "w": "than", "vi": "hơn (so sánh)", "ex": "He's taller than me.", "exvi": "Anh ấy cao hơn tôi.", "note": "So sánh hơn đi với <b>than</b>, KHÔNG có <i>the</i>." },
+                { "w": "the + so sánh nhất", "vi": "nhất", "ex": "the best restaurant", "exvi": "nhà hàng ngon nhất", "note": "BẪY SỐ HAI: so sánh nhất LUÔN có <b>the</b>." }
+              ]
+            },
+            {
+              "title": "Cấu trúc so sánh khác",
+              "items": [
+                { "w": "as … as", "vi": "bằng, như", "ex": "She's as tall as me.", "exvi": "Cô ấy cao bằng tôi.", "note": "Giữa hai chữ <i>as</i> là tính từ NGUYÊN DẠNG, không thêm <i>-er</i>." },
+                { "w": "not as … as", "vi": "không bằng", "ex": "It's not as cold as yesterday.", "exvi": "Hôm nay không lạnh bằng hôm qua." },
+                { "w": "less … than", "vi": "kém hơn", "ex": "It's less expensive than that.", "exvi": "Cái này rẻ hơn cái kia.", "note": "Thường người ta nói <i>not as expensive as</i> cho tự nhiên hơn." },
+                { "w": "twice as … as", "vi": "gấp đôi", "ex": "It's twice as big as mine.", "exvi": "To gấp đôi của tôi." },
+                { "w": "colder and colder", "vi": "ngày càng lạnh", "ex": "It's getting colder and colder.", "exvi": "Trời ngày càng lạnh." },
+                { "w": "more and more", "vi": "ngày càng", "ex": "It's getting more and more expensive.", "exvi": "Ngày càng đắt." },
+                { "w": "The sooner, the better", "vi": "càng sớm càng tốt", "ex": "The sooner, the better.", "exvi": "Càng sớm càng tốt.", "note": "Cấu trúc <b>The + so sánh hơn, the + so sánh hơn</b>." },
+                { "w": "much / far + so sánh", "vi": "hơn nhiều", "ex": "It's much better.", "exvi": "Tốt hơn nhiều.", "note": "Nhấn mạnh so sánh dùng <b>much/far</b>, KHÔNG dùng <i>very</i>." },
+                { "w": "a bit / slightly", "vi": "hơi", "ex": "It's a bit cheaper.", "exvi": "Rẻ hơn một chút." },
+                { "w": "by far the best", "vi": "tốt nhất hẳn", "ex": "It's by far the best.", "exvi": "Tốt nhất hẳn luôn.", "note": "Nhấn mạnh so sánh NHẤT." },
+                { "w": "the same as", "vi": "giống như", "ex": "It's the same as mine.", "exvi": "Giống hệt của tôi.", "note": "<i>same</i> luôn đi với <b>the</b> và <b>as</b>. Xem [Ngữ pháp 21]." },
+                { "w": "different from", "vi": "khác với", "ex": "It's different from the other one.", "exvi": "Nó khác cái kia.", "note": "Giới từ là <b>from</b> (Anh) hoặc <b>than</b> (Mỹ). Xem [Khung 66]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "This is <b>more better</b>.", "right": "This is <b>better</b>.", "why": "BẪY SỐ MỘT: <i>better</i> đã là so sánh hơn. Không đánh dấu hai lần." },
+            { "wrong": "It's <b>more expensiver</b>.", "right": "It's <b>more expensive</b>.", "why": "Cùng lỗi ở dạng khác — chọn <i>more</i> HOẶC <i>-er</i>, không cả hai." },
+            { "wrong": "It's <b>best</b> restaurant in town.", "right": "It's <b>the best</b> restaurant in town.", "why": "BẪY SỐ HAI: so sánh nhất LUÔN có <b>the</b>. Xem [Ngữ pháp 21]." },
+            { "wrong": "He's taller <b>the</b> me.", "right": "He's taller <b>than</b> me.", "why": "So sánh hơn đi với <b>than</b>, không bao giờ có <i>the</i>." },
+            { "wrong": "She's as <b>taller</b> as me.", "right": "She's as <b>tall</b> as me.", "why": "Giữa hai chữ <i>as</i> là tính từ NGUYÊN DẠNG." },
+            { "wrong": "It's <b>very better</b> than before.", "right": "It's <b>much better</b> than before.", "why": "Nhấn mạnh so sánh dùng <b>much</b> hoặc <b>far</b>, không dùng <i>very</i>." },
+            { "wrong": "It's <b>badder</b> than last year.", "right": "It's <b>worse</b> than last year.", "why": "<i>bad</i> bất quy tắc: <b>bad → worse → the worst</b>." },
+            { "wrong": "He's <b>bigest</b> in the class.", "right": "He's <b>the biggest</b> in the class.", "why": "Một âm tiết tận cùng phụ âm thì GẤP ĐÔI: <i>big → biggest</i>. Và cần <b>the</b>." },
+            { "wrong": "It's the same <b>with</b> mine.", "right": "It's the same <b>as</b> mine.", "why": "<i>the same</i> luôn đi với <b>as</b>, không phải <i>with</i>." },
+            { "wrong": "It's different <b>with</b> the other one.", "right": "It's different <b>from</b> the other one.", "why": "Giới từ đúng là <b>from</b> (kiểu Anh) hoặc <b>than</b> (kiểu Mỹ). Xem [Khung 66]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>adj-er than</code>", "Hơn — tính từ ngắn", "He's taller than me."],
+            ["<code>more adj than</code>", "Hơn — tính từ dài", "It's more expensive than that."],
+            ["<code>the adj-est</code>", "Nhất — tính từ ngắn", "the biggest room"],
+            ["<code>the most adj</code>", "Nhất — tính từ dài", "the most expensive one"],
+            ["<code>as adj as</code>", "Bằng nhau", "She's as tall as me."],
+            ["<code>not as adj as</code>", "Không bằng", "It's not as cold as yesterday."],
+            ["<code>The adj-er, the adj-er</code>", "Càng… càng…", "The sooner, the better."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: -er hay more?" },
+        {
+          "t": "tree",
+          "q": "Đếm số âm tiết của tính từ, rồi xem bạn muốn nói gì.",
+          "nodes": [
+            { "if": "Là good, bad, far, little", "then": "Bất quy tắc — better, worse, further, less", "ex": "This is better." },
+            { "if": "Một âm tiết (big, tall, cheap)", "then": "-er / the -est", "ex": "He's taller than me." },
+            { "if": "Hai âm tiết tận cùng -y (happy, easy)", "then": "-ier / the -iest", "ex": "I'm happier now." },
+            { "if": "Ba âm tiết trở lên (expensive, beautiful)", "then": "more / the most", "ex": "It's more expensive." },
+            { "if": "Muốn nói hai thứ BẰNG nhau", "then": "as + tính từ nguyên dạng + as", "ex": "She's as tall as me." },
+            { "if": "Muốn nhấn mạnh mức độ hơn", "then": "much / far + so sánh — không dùng very", "ex": "It's much better." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ so sánh" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "It's not as good as that one.", "vi": "Kém hơn" },
+            { "en": "It's as good as that one.", "vi": "Bằng nhau" },
+            { "en": "It's a bit better.", "vi": "Hơn một chút" },
+            { "en": "It's much better.", "vi": "Hơn nhiều" },
+            { "en": "It's by far the best.", "vi": "Tốt nhất hẳn" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Luật so sánh xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 66, "why": "What's the difference between…? — khung chính để so sánh hai thứ, kèm different from." },
+            { "id": 89, "why": "What a…! — câu cảm thán hay dùng so sánh nhất: the best meal I've had." },
+            { "id": 85, "why": "That sounds… — thang mức độ phản ứng, từ OK đến amazing." },
+            { "id": 57, "why": "It depends on… — so sánh có điều kiện, hay đi kèm cấu trúc as … as." },
+            { "id": 81, "why": "I'm so… — tính từ chỉ cảm xúc, nền tảng cho dạng so sánh." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Viết dạng so sánh đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Anh ấy cao hơn tôi.", "blank": "He's __________ (tall) than me.", "a": "taller" },
+            { "vi": "Cái này đắt hơn cái kia.", "blank": "This is __________ (expensive) than that.", "a": "more expensive" },
+            { "vi": "Cái này tốt hơn tôi tưởng.", "blank": "This is __________ (good) than I expected.", "a": "better" },
+            { "vi": "Tệ hơn năm ngoái.", "blank": "It's __________ (bad) than last year.", "a": "worse" },
+            { "vi": "Đó là phòng to nhất.", "blank": "It's __________ (big) room.", "a": "the biggest" },
+            { "vi": "Đây là cái đắt nhất.", "blank": "It's __________ (expensive) one.", "a": "the most expensive" },
+            { "vi": "Giờ tôi vui hơn.", "blank": "I'm __________ (happy) now.", "a": "happier" },
+            { "vi": "Cô ấy cao bằng tôi.", "blank": "She's as __________ (tall) as me.", "a": "tall — nguyên dạng" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Cái này tốt hơn.", "blank": "This is __________.  (more better / better)", "a": "better" },
+            { "vi": "Đó là nhà hàng ngon nhất vùng.", "blank": "It's __________ restaurant in town.  (best / the best)", "a": "the best" },
+            { "vi": "Tốt hơn trước nhiều.", "blank": "It's __________ better than before.  (very / much)", "a": "much" },
+            { "vi": "Giống hệt của tôi.", "blank": "It's the same __________ mine.  (with / as)", "a": "as" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Anh ấy cao hơn tôi.", "a": "He's taller than me." },
+            { "vi": "2. Đó là nhà hàng ngon nhất vùng.", "a": "It's the best restaurant in town." },
+            { "vi": "3. Hôm nay không lạnh bằng hôm qua.", "a": "It's not as cold as yesterday." },
+            { "vi": "4. Càng sớm càng tốt.", "a": "The sooner, the better." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Chỉ đánh dấu MỘT lần:</b> <i>better</i> hoặc <i>more expensive</i> — không bao giờ <i>more better</i>.",
+            "<b>Đếm âm tiết:</b> một âm tiết thì <i>-er</i>, ba âm tiết trở lên thì <i>more</i>. Hai âm tiết tận cùng <i>-y</i> thì <i>-ier</i>.",
+            "<b>Bốn từ bất quy tắc phải thuộc:</b> <i>good–better–best</i>, <i>bad–worse–worst</i>, <i>far–further</i>, <i>little–less</i>.",
+            "<b>So sánh hơn đi với <i>than</i>, so sánh nhất đi với <i>the</i></b> — không bao giờ lẫn hai cái.",
+            "<b>Nhấn mạnh bằng <i>much</i> hoặc <i>far</i>, không dùng <i>very</i>:</b> <i>much better</i> ✓, <i>very better</i> ✗.",
+            "<b>Bài tập 3 phút:</b> chọn hai món đồ quanh bạn, viết năm câu so sánh — hai câu <i>-er than</i>, hai câu <i>more … than</i>, một câu <i>as … as</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

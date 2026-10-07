@@ -1,0 +1,277 @@
+{
+  "id": 15,
+  "group": "Nhóm 10 · Điều kiện & Giả định",
+  "title": "Điều kiện loại 2 — chuyện không có thật",
+  "subtitle": "Dùng cho điều trái với sự thật ở hiện tại, và cũng là cách khuyên lịch sự nhất tiếng Anh. Hai bẫy: vế if dùng quá khứ đơn dù đang nói về hiện tại, và động từ be luôn chia thành were cho mọi chủ ngữ — kể cả I.",
+  "meaning": "Nếu… (nhưng thực tế không phải vậy), thì sẽ…",
+  "rule": [
+    "<em>If</em> + S + V2, S + <em>would</em> + V trần",
+    "<em>If I were you</em>, I'd + V trần",
+    "S + <em>wouldn't</em> + V trần"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1", "hot": true },
+    { "text": "were cho MỌI chủ ngữ" },
+    { "text": "Sau would là động từ trần" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [41, 52, 88, 97, 98],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Điều kiện loại hai nói về điều <b>trái với sự thật ở hiện tại</b>: <i>If I had money, I'd travel</i> = thực tế tôi không có tiền. Nó cũng là khung khuyên bảo lịch sự nhất: <i>If I were you, I'd rest</i> — bạn đặt mình vào vị trí người kia thay vì bảo họ phải làm gì." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — <i>were</i> chứ không phải <i>was</i>:</b> ở câu giả định, động từ <b>be</b> chia thành <b>were</b> cho <b>mọi chủ ngữ</b>.<br>• <i>If <b>I were</b> you</i> ✓ — <i>If I was you</i> nghe bình dân và bị coi là sai trong văn viết.<br>• <i>If <b>he were</b> here</i> ✓ — cả <i>he, she, it</i> cũng dùng <i>were</i>." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — vế <i>if</i> dùng QUÁ KHỨ ĐƠN nhưng nói về HIỆN TẠI:</b> <i>If I <b>had</b> money…</i> không phải chuyện hôm qua, mà là chuyện bây giờ. Dạng quá khứ ở đây chỉ để đánh dấu “không có thật”, không chỉ thời gian." },
+        { "t": "h3", "text": "Loại 1 và loại 2 đặt cạnh nhau" },
+        {
+          "t": "table",
+          "head": ["Loại", "Cấu trúc", "Thực tế"],
+          "rows": [
+            ["Loại 1 — có thật", "<code>If + hiện tại, will + V</code>", "Có thể xảy ra thật"],
+            ["Loại 2 — không có thật", "<code>If + V2, would + V</code>", "Trái với sự thật hiện tại"],
+            ["Loại 2 với <code>be</code>", "<code>If + were, would + V</code>", "<i>If I were you…</i>"],
+            ["Loại 3 — tiếc quá khứ", "<code>If + had V3, would have + V3</code>", "Đã không xảy ra"]
+          ]
+        },
+        { "t": "p", "html": "Điểm chung của cả ba loại: <b>vế <i>if</i> không bao giờ chứa <i>will</i> hay <i>would</i></b>. Loại 1 dùng hiện tại, loại 2 dùng quá khứ đơn, loại 3 dùng <i>had + V3</i>. Xem [Ngữ pháp 14] và [Ngữ pháp 16]." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Chuẩn", "<code>If + S + V2, S + would + V.</code>", "If I had money, I'd travel."],
+            ["Với động từ <code>be</code>", "<code>If + S + were, S + would + V.</code>", "If I were you, I'd rest."],
+            ["Đảo vế — không cần phẩy", "<code>S + would + V + if + S + V2.</code>", "I'd rest if I were you."],
+            ["Rút gọn", "<code>I'd / he'd / they'd</code>", "I'd take the train."],
+            ["Phủ định vế kết quả", "<code>S + wouldn't + V.</code>", "I wouldn't worry about it."],
+            ["Phủ định vế điều kiện", "<code>If + S + didn't + V…</code>", "If I didn't have to work…"],
+            ["Câu hỏi", "<code>What would you do if…?</code>", "What would you do in my place?"],
+            ["Khả năng mềm hơn", "<code>might / could + V</code>", "If I had time, I might go."],
+            ["Nhấn mạnh", "<code>would definitely + V</code>", "I'd definitely take it."],
+            ["Ngôi thứ ba với <code>be</code>", "<code>If he were…</code>", "If he were here, he'd help."],
+            ["Nói sở thích (khác nghĩa)", "<code>I'd rather + V trần</code>", "I'd rather stay in."],
+            ["Loại 1 — có thật", "<code>If + hiện tại, will + V</code>", "If it rains, I'll take a taxi."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Phân biệt <i>I'd</i>:</b> theo sau là <b>động từ trần</b> thì đó là <i>I <b>would</b></i> (<i>I'd rest</i>); theo sau là <b>V3</b> thì là <i>I <b>had</b></i> (<i>I'd rested</i>). Nhìn vào dạng động từ là biết ngay. Xem [Ngữ pháp 05]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "If I were you, I'd rest.", "vi": "Nếu tôi là bạn, tôi sẽ nghỉ.", "note": "BẪY SỐ MỘT: <b>were</b> ✓, không phải <i>was</i>. Xem [Khung 98]." },
+            { "en": "If I had money, I'd travel for a year.", "vi": "Nếu có tiền, tôi sẽ đi du lịch một năm.", "note": "BẪY SỐ HAI: <b>had</b> là quá khứ đơn nhưng nói về HIỆN TẠI." },
+            { "en": "I'd rest if I were you.", "vi": "Nếu tôi là bạn, tôi sẽ nghỉ.", "note": "Đảo vế thì KHÔNG cần dấu phẩy." },
+            { "en": "I wouldn't worry about it.", "vi": "Tôi sẽ không lo chuyện đó.", "note": "Cách can ngăn nhẹ nhàng hơn hẳn <i>Don't worry</i>." },
+            { "en": "If he were here, he'd know what to do.", "vi": "Nếu anh ấy ở đây thì sẽ biết phải làm gì.", "note": "<b>were</b> dùng cho cả <i>he</i> trong câu giả định." },
+            { "en": "If I had more time, I'd learn to cook.", "vi": "Nếu có thêm thời gian, tôi sẽ học nấu ăn.", "note": "Sau <i>I'd</i> là ĐỘNG TỪ TRẦN: <i>learn</i> ✓, <i>to learn</i> ✗." },
+            { "en": "What would you do in my place?", "vi": "Ở vị trí tôi thì bạn sẽ làm gì?", "note": "Câu HỎI XIN lời khuyên — mở đường cho người kia dùng khung này." },
+            { "en": "If I didn't have to work, I'd come with you.", "vi": "Nếu không phải đi làm, tôi sẽ đi cùng bạn.", "note": "Phủ định vế điều kiện dùng <b>didn't</b>, không dùng <i>wouldn't</i>." },
+            { "en": "If I had time, I might go.", "vi": "Nếu có thời gian, có khi tôi sẽ đi.", "note": "<b>might</b> nhẹ hơn <i>would</i> — khả năng thấp hơn." },
+            { "en": "I'd definitely take it, if I were you.", "vi": "Nếu tôi là bạn, chắc chắn tôi sẽ lấy nó.", "note": "Trạng từ đặt giữa <i>would</i> và động từ." },
+            { "en": "I'd rather stay in tonight.", "vi": "Tối nay tôi thà ở nhà còn hơn.", "note": "KHÁC nghĩa: đây là nói SỞ THÍCH, không phải điều kiện. Cũng đi với động từ trần." },
+            { "en": "If it rains, I'll take a taxi.", "vi": "Nếu trời mưa, tôi sẽ đi taxi.", "note": "Loại 1 — chuyện CÓ thể xảy ra thật. Xem [Ngữ pháp 14]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💡", "title": "Khuyên lịch sự", "text": "<i>If I were you, I'd rest.</i> Xem [Khung 98]." },
+            { "icon": "🚫", "title": "Can ngăn nhẹ nhàng", "text": "<i>I wouldn't worry about it.</i> Mềm hơn <i>Don't worry</i>." },
+            { "icon": "💭", "title": "Tưởng tượng điều không có", "text": "<i>If I had money, I'd travel.</i>" },
+            { "icon": "🤔", "title": "Xin lời khuyên", "text": "<i>What would you do in my place?</i>" },
+            { "icon": "😔", "title": "Tiếc vì hoàn cảnh", "text": "<i>If I didn't have to work, I'd come.</i>" },
+            { "icon": "⚠️", "title": "Đừng dùng khi…", "text": "Chuyện có thể xảy ra thật. Lúc đó là loại 1 — xem [Ngữ pháp 14]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các dạng của loại 2",
+              "items": [
+                { "w": "If I were you", "vi": "nếu tôi là bạn", "ex": "If I were you, I'd rest.", "exvi": "Nếu tôi là bạn, tôi sẽ nghỉ.", "note": "BẪY SỐ MỘT: <b>were</b> ✓, không phải <i>was</i>." },
+                { "w": "If he were here", "vi": "nếu anh ấy ở đây", "ex": "If he were here, he'd help.", "exvi": "Nếu anh ấy ở đây thì đã giúp rồi.", "note": "<b>were</b> dùng cho MỌI chủ ngữ trong câu giả định." },
+                { "w": "If I had money", "vi": "nếu tôi có tiền", "ex": "If I had money, I'd travel.", "exvi": "Nếu có tiền tôi sẽ đi du lịch.", "note": "BẪY SỐ HAI: quá khứ đơn nhưng nói về HIỆN TẠI." },
+                { "w": "If I had more time", "vi": "nếu tôi có thêm thời gian", "ex": "If I had more time, I'd learn to cook.", "exvi": "Nếu có thêm thời gian tôi sẽ học nấu ăn." },
+                { "w": "If I didn't have to", "vi": "nếu tôi không phải", "ex": "If I didn't have to work, I'd come.", "exvi": "Nếu không phải đi làm tôi sẽ đến.", "note": "Phủ định vế điều kiện dùng <b>didn't</b>." },
+                { "w": "If I could", "vi": "nếu tôi có thể", "ex": "If I could, I'd stay another week.", "exvi": "Nếu được, tôi sẽ ở thêm một tuần." },
+                { "w": "I'd + V trần", "vi": "tôi sẽ", "ex": "I'd take the train.", "exvi": "Tôi sẽ đi tàu.", "note": "<i>I'd</i> = <i>I would</i>, theo sau là ĐỘNG TỪ TRẦN. <i>I'd to take</i> ✗." },
+                { "w": "I wouldn't", "vi": "tôi sẽ không", "ex": "I wouldn't worry about it.", "exvi": "Tôi sẽ không lo chuyện đó.", "note": "Cách can ngăn nhẹ nhàng hơn hẳn <i>Don't worry</i>." },
+                { "w": "I'd probably", "vi": "chắc tôi sẽ", "ex": "I'd probably wait.", "exvi": "Chắc tôi sẽ chờ.", "note": "Trạng từ đặt GIỮA <i>would</i> và động từ." },
+                { "w": "I'd definitely", "vi": "chắc chắn tôi sẽ", "ex": "I'd definitely take it.", "exvi": "Chắc chắn tôi sẽ lấy nó." },
+                { "w": "might / could", "vi": "có thể", "ex": "If I had time, I might go.", "exvi": "Nếu có thời gian, có khi tôi sẽ đi.", "note": "Nhẹ hơn <i>would</i> — khả năng thấp hơn." },
+                { "w": "What would you do?", "vi": "bạn sẽ làm gì?", "ex": "What would you do in my place?", "exvi": "Ở vị trí tôi thì bạn sẽ làm gì?", "note": "Câu xin lời khuyên — mở đường cho người kia dùng khung này." }
+              ]
+            },
+            {
+              "title": "Nội dung lời khuyên & từ dễ nhầm",
+              "items": [
+                { "w": "I'd get some rest", "vi": "tôi sẽ đi nghỉ", "ex": "If I were you, I'd get some rest.", "exvi": "Nếu tôi là bạn, tôi sẽ đi nghỉ." },
+                { "w": "I'd talk to him", "vi": "tôi sẽ nói với anh ấy", "ex": "I'd talk to him directly.", "exvi": "Tôi sẽ nói thẳng với anh ấy." },
+                { "w": "I'd sleep on it", "vi": "tôi sẽ để qua đêm rồi tính", "ex": "I'd sleep on it.", "exvi": "Tôi sẽ để qua đêm rồi tính.", "note": "Thành ngữ — khuyên đừng quyết vội." },
+                { "w": "I'd give it a go", "vi": "tôi sẽ thử xem", "ex": "I'd give it a go.", "exvi": "Tôi sẽ thử xem sao." },
+                { "w": "but that's just me", "vi": "nhưng đó là ý tôi thôi", "ex": "…but that's just me.", "exvi": "…nhưng đó là ý tôi thôi.", "note": "Thêm vào cuối để lời khuyên nghe khiêm tốn hẳn." },
+                { "w": "It's up to you", "vi": "tùy bạn thôi", "ex": "It's up to you, of course.", "exvi": "Tất nhiên là tùy bạn." },
+                { "w": "You should + V", "vi": "bạn nên", "ex": "You should rest.", "exvi": "Bạn nên nghỉ.", "note": "Thẳng thắn hơn — hợp người thân quen. Xem [Ngữ pháp 32]." },
+                { "w": "I'd rather + V trần", "vi": "tôi thà", "ex": "I'd rather stay in.", "exvi": "Tôi thà ở nhà còn hơn.", "note": "KHÁC nghĩa: nói SỞ THÍCH, không phải điều kiện. Vẫn đi với động từ trần." },
+                { "w": "I wish + V2", "vi": "ước gì", "ex": "I wish I had more time.", "exvi": "Ước gì tôi có thêm thời gian.", "note": "Cùng logic giả định: dạng quá khứ cho điều KHÔNG có thật ở hiện tại." },
+                { "w": "If only + V2", "vi": "giá mà", "ex": "If only I knew!", "exvi": "Giá mà tôi biết!", "note": "Mạnh hơn <i>I wish</i> — nghe tiếc nuối rõ rệt." },
+                { "w": "If + hiện tại, will + V", "vi": "loại 1 — có thật", "ex": "If it rains, I'll take a taxi.", "exvi": "Nếu mưa tôi sẽ đi taxi.", "note": "Chuyện CÓ thể xảy ra. Xem [Ngữ pháp 14]." },
+                { "w": "If + had V3, would have + V3", "vi": "loại 3 — tiếc quá khứ", "ex": "If I had known, I'd have called.", "exvi": "Nếu biết trước tôi đã gọi.", "note": "Xem [Ngữ pháp 16]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "If I <b>was</b> you, I'd rest.", "right": "If I <b>were</b> you, I'd rest.", "why": "BẪY SỐ MỘT: đây là dạng giả định cho điều KHÔNG CÓ THẬT. <i>were</i> dùng cho mọi chủ ngữ, kể cả <i>I, he, she</i>." },
+            { "wrong": "If I <b>have</b> money, I'd travel.", "right": "If I <b>had</b> money, I'd travel.", "why": "BẪY SỐ HAI: loại 2 dùng QUÁ KHỨ ĐƠN ở vế <i>if</i>, dù đang nói về hiện tại." },
+            { "wrong": "If I were you, I'd <b>to rest</b>.", "right": "If I were you, I'd <b>rest</b>.", "why": "<i>I'd</i> = <i>I would</i>, và sau <i>would</i> luôn là ĐỘNG TỪ TRẦN." },
+            { "wrong": "If I were you, I'd <b>resting</b>.", "right": "If I were you, I'd <b>rest</b>.", "why": "Sau <i>would</i> không bao giờ là V-ing. Chỉ động từ trần." },
+            { "wrong": "If I <b>would be</b> you, I'd rest.", "right": "If I <b>were</b> you, I'd rest.", "why": "Vế <i>if</i> KHÔNG BAO GIỜ chứa <i>would</i>, giống như nó không chứa <i>will</i> ở [Ngữ pháp 14]." },
+            { "wrong": "If I <b>wouldn't</b> have to work, I'd come.", "right": "If I <b>didn't</b> have to work, I'd come.", "why": "Phủ định vế điều kiện dùng <b>didn't</b>, vế kết quả mới dùng <i>wouldn't</i>." },
+            { "wrong": "I <b>'d</b> have money, I'd travel.", "right": "If I <b>had</b> money, I'd travel.", "why": "Thiếu chữ <b>If</b>. Không có nó thì câu mất hẳn nghĩa giả định." },
+            { "wrong": "If I were you, I'd <b>have rested</b>.", "right": "If I were you, I'd <b>rest</b>.", "why": "<i>would have + V3</i> là loại 3, dành cho tiếc nuối QUÁ KHỨ. Xem [Ngữ pháp 16]." },
+            { "wrong": "I'd rather <b>to stay</b> in.", "right": "I'd rather <b>stay</b> in.", "why": "<b>would rather</b> cũng đi với động từ TRẦN, không có <i>to</i>." },
+            { "wrong": "If I had money, I <b>will</b> travel.", "right": "If I had money, I <b>would</b> travel.", "why": "Loại 2 thì vế kết quả dùng <b>would</b>, không dùng <i>will</i>. Trộn hai loại là sai." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Thực tế", "Ví dụ"],
+          "rows": [
+            ["<code>If + V2, would + V</code>", "Trái với sự thật HIỆN TẠI", "If I had money, I'd travel."],
+            ["<code>If I were you, I'd + V</code>", "Lời khuyên lịch sự nhất", "If I were you, I'd rest."],
+            ["<code>I wouldn't + V</code>", "Can ngăn nhẹ nhàng", "I wouldn't worry about it."],
+            ["<code>If + hiện tại, will + V</code>", "CÓ thể xảy ra. Xem [Ngữ pháp 14]", "If it rains, I'll take a taxi."],
+            ["<code>If + had V3, would have + V3</code>", "Tiếc nuối QUÁ KHỨ. Xem [Ngữ pháp 16]", "If I had known, I'd have called."],
+            ["<code>I wish + V2</code>", "Ước điều không có ở hiện tại", "I wish I had more time."],
+            ["<code>I'd rather + V trần</code>", "Nói sở thích, không phải điều kiện", "I'd rather stay in."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: loại mấy?" },
+        {
+          "t": "tree",
+          "q": "Chuyện trong vế if có thật không, và thuộc về lúc nào?",
+          "nodes": [
+            { "if": "Có thể xảy ra thật trong tương lai", "then": "Loại 1 — If + hiện tại, will + V", "ex": "If it rains, I'll take a taxi." },
+            { "if": "Trái với sự thật ở hiện tại", "then": "Loại 2 — If + V2, would + V", "ex": "If I had money, I'd travel." },
+            { "if": "Muốn khuyên ai đó một cách lịch sự", "then": "If I were you, I'd + V", "ex": "If I were you, I'd rest." },
+            { "if": "Muốn can ngăn nhẹ nhàng", "then": "I wouldn't + V", "ex": "I wouldn't worry about it." },
+            { "if": "Đã không xảy ra trong quá khứ", "then": "Loại 3 — If + had V3, would have + V3", "ex": "If I had known, I'd have called." },
+            { "if": "Chỉ muốn nói sở thích", "then": "I'd rather + V trần", "ex": "I'd rather stay in." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ áp đặt của lời khuyên" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "You might want to rest.", "vi": "Nhẹ nhất — chỉ gợi ý" },
+            { "en": "Have you thought about resting?", "vi": "Gợi ý dưới dạng câu hỏi" },
+            { "en": "If I were you, I'd rest.", "vi": "Lịch sự, đặt mình vào vị trí người kia" },
+            { "en": "You should rest.", "vi": "Thẳng thắn" },
+            { "en": "You really must rest.", "vi": "Mạnh nhất — gần như ra lệnh" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Điều kiện loại hai xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 98, "why": "If I were you, I'd + V — khung chính, có đủ thang mức độ áp đặt và mẫu I wouldn't…" },
+            { "id": 97, "why": "If + hiện tại, I'll + V — loại 1 đặt cạnh loại 2 để thấy khác biệt." },
+            { "id": 52, "why": "That's a good point, but… — cách phản ứng với lời khuyên." },
+            { "id": 88, "why": "I feel bad about… — mẫu I should have told you, họ hàng gần của loại 3." },
+            { "id": 41, "why": "I think… — nêu quan điểm, hay đi kèm trước một lời khuyên giả định." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ trong ngoặc" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Nếu tôi là bạn, tôi sẽ nghỉ.", "blank": "If I __________ (be) you, I'd rest.", "a": "were — không phải was" },
+            { "vi": "Nếu có tiền tôi sẽ đi du lịch.", "blank": "If I __________ (have) money, I'd travel.", "a": "had — quá khứ đơn" },
+            { "vi": "Nếu tôi là bạn, tôi sẽ nghỉ.", "blank": "If I were you, I'd __________ (rest).", "a": "rest — động từ trần" },
+            { "vi": "Nếu anh ấy ở đây thì đã giúp rồi.", "blank": "If he __________ (be) here, he'd help.", "a": "were" },
+            { "vi": "Nếu không phải đi làm, tôi sẽ đến.", "blank": "If I __________ (not have to) work, I'd come.", "a": "didn't have to" },
+            { "vi": "Nếu có thời gian, có khi tôi sẽ đi.", "blank": "If I had time, I __________ go.", "a": "might" },
+            { "vi": "Ở vị trí tôi thì bạn sẽ làm gì?", "blank": "What __________ you do in my place?", "a": "would" },
+            { "vi": "Ước gì tôi có thêm thời gian.", "blank": "I wish I __________ (have) more time.", "a": "had" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Nếu tôi là bạn…", "blank": "If I __________ you…  (was / were)", "a": "were" },
+            { "vi": "Nếu có tiền tôi sẽ đi du lịch.", "blank": "If I had money, I __________ travel.  (will / would)", "a": "would — loại 2" },
+            { "vi": "Tôi thà ở nhà còn hơn.", "blank": "I'd rather __________ in.  (stay / to stay)", "a": "stay — động từ trần" },
+            { "vi": "Nếu trời mưa, tôi sẽ đi taxi (có thể xảy ra).", "blank": "If it __________, I'll take a taxi.  (rains / rained)", "a": "rains — loại 1" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Nếu tôi là bạn, tôi sẽ đi nghỉ.", "a": "If I were you, I'd get some rest." },
+            { "vi": "2. Nếu có tiền, tôi sẽ đi du lịch một năm.", "a": "If I had money, I'd travel for a year." },
+            { "vi": "3. Thật lòng thì tôi sẽ không lo chuyện đó.", "a": "I wouldn't worry about it, honestly." },
+            { "vi": "4. Nếu không phải đi làm, tôi sẽ đi cùng bạn.", "a": "If I didn't have to work, I'd come with you." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luôn là <i>were</i>, không bao giờ <i>was</i></b> — kể cả với <i>I, he, she</i>. Đây là dấu hiệu của điều không có thật.",
+            "<b>Vế <i>if</i> dùng quá khứ đơn nhưng nói về hiện tại.</b> Dạng quá khứ ở đây đánh dấu “không có thật”, không chỉ thời gian.",
+            "<b>Sau <i>would</i> luôn là động từ trần</b> — không <i>to</i>, không <i>-ing</i>.",
+            "<b>Vế <i>if</i> không chứa <i>will</i> lẫn <i>would</i></b> — luật chung cho cả ba loại điều kiện.",
+            "<b>Phân biệt <i>I'd</i>:</b> theo sau là động từ trần thì là <i>would</i>; theo sau là V3 thì là <i>had</i>.",
+            "<b>Bài tập 3 phút:</b> nghĩ ba vấn đề của bạn bè, viết mỗi vấn đề một câu <i>If I were you, I'd…</i> và một câu <i>I wouldn't…</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

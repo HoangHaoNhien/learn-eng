@@ -1,0 +1,502 @@
+{
+  "id": 86,
+  "group": "Nhóm 9 · Cảm xúc & Phản ứng",
+  "title": "I'm looking forward to… — Bẫy “to” nổi tiếng nhất",
+  "subtitle": "Khung câu bày tỏ sự mong chờ, và cũng là cái bẫy ngữ pháp nổi tiếng nhất tiếng Anh: chữ to ở đây là giới từ chứ không phải dấu hiệu động từ nguyên thể, nên theo sau nó phải là V-ing. Nghịch lý là I can't wait to see you — cùng nghĩa nhưng lại dùng động từ trần.",
+  "pattern": [
+    "I'm looking forward to <em>+ V-ing</em>.",
+    "I look forward to <em>+ V-ing</em>. <em>(trang trọng)</em>",
+    "I can't wait to <em>+ V trần</em>."
+  ],
+  "meaning": "Tôi đang mong chờ… / Tôi rất mong…",
+  "grammar": [2, 11, 24, 25],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 5/5" },
+    { "text": "Bẫy “to + V-ing”" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "Trong <span class=\"k\">look forward to</span>, chữ <b>to</b> là một <b>giới từ</b>, không phải dấu hiệu của động từ nguyên thể. Mà sau giới từ thì luôn là <b>danh từ</b> hoặc <b>V-ing</b> — giống hệt <i>for</i> ở [Khung 78]." },
+        { "t": "p", "html": "Đó là lý do <span class=\"k\">I'm looking forward to seeing you</span> đúng, còn <i>looking forward to see you</i> sai. Mẹo kiểm tra: thử thay bằng một danh từ. <i>Looking forward to <b>the weekend</b></i> nghe xuôi — vậy thì phải là <i>seeing</i>, không phải <i>see</i>." },
+        { "t": "p", "html": "Có hai dạng: <b>I look forward to</b> (không tiếp diễn) trang trọng hơn và là chuẩn mực kết thúc email công việc; <b>I'm looking forward to</b> thân mật và ấm hơn, hợp khi nói chuyện." },
+        { "t": "callout", "html": "<b>NGHỊCH LÝ đáng nhớ:</b> <span class=\"k\">I'm looking forward to see<b>ing</b> you</span> nhưng <span class=\"k\">I can't wait <b>to see</b> you</span>. Cùng nghĩa, hai cấu trúc ngược nhau — vì <i>wait</i> đi với động từ nguyên thể thật." },
+        { "t": "h3", "text": "Nhóm cụm có “to” là giới từ" },
+        {
+          "t": "table",
+          "head": ["Cụm", "Sau “to” là", "Ví dụ"],
+          "rows": [
+            ["<code>look forward to</code>", "V-ing", "looking forward to seeing you"],
+            ["<code>be used to</code>", "V-ing", "I'm used to working late"],
+            ["<code>get used to</code>", "V-ing", "getting used to the noise"],
+            ["<code>object to</code>", "V-ing", "I object to being treated so"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cặp cực kỳ dễ nhầm:</b> <i>I <b>used to</b> work late</i> = ngày xưa tôi hay làm khuya (giờ không nữa). <i>I'm <b>used to</b> working late</i> = tôi đã quen với việc làm khuya. Một cái <i>to + V</i>, một cái <i>to + V-ing</i>." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "📧", "title": "Kết thúc email công việc", "text": "Bối cảnh số 1. <i>I look forward to hearing from you.</i>" },
+            { "icon": "🤝", "title": "Trước một cuộc gặp", "text": "<i>Looking forward to meeting you.</i>" },
+            { "icon": "✈️", "title": "Mong chờ chuyến đi", "text": "<i>I'm really looking forward to the trip.</i>" },
+            { "icon": "🎉", "title": "Thân mật, hào hứng", "text": "<i>I can't wait to see you!</i> Ở đây <i>to + V</i> trần." },
+            { "icon": "💬", "title": "Đáp lại một lời mời", "text": "<i>Looking forward to it!</i> Ngắn gọn và ấm." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Viết <i>to see</i> sau <i>look forward</i>. Luôn là <b>V-ing</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Thân mật", "<code>I'm looking forward to + V-ing.</code>", "I'm looking forward to seeing you."],
+            ["Trang trọng", "<code>I look forward to + V-ing.</code>", "I look forward to hearing from you."],
+            ["Với danh từ", "<code>looking forward to + N.</code>", "Looking forward to the weekend."],
+            ["Rút gọn", "<code>Looking forward to it.</code>", "Looking forward to it!"],
+            ["Nhấn mạnh", "<code>really looking forward to…</code>", "I'm really looking forward to it."],
+            ["Thân mật, hào hứng", "<code>I can't wait to + V trần.</code>", "I can't wait to see you!"],
+            ["Với V-ing", "<code>I can't wait for + N.</code>", "I can't wait for the weekend."],
+            ["Đã quen với", "<code>I'm used to + V-ing.</code>", "I'm used to working late."],
+            ["Từng làm (quá khứ)", "<code>I used to + V trần.</code>", "I used to work late."],
+            ["Đang quen dần", "<code>getting used to + V-ing</code>", "I'm getting used to it."]
+          ]
+        },
+        { "t": "callout", "html": "<b>“I look forward to hearing from you” là câu kết email chuẩn mực</b> trong tiếng Anh công sở. Nó lịch sự, chuyên nghiệp, và ngầm nhắc người ta trả lời. Học thuộc nguyên câu." },
+        { "t": "callout", "html": "<b>Mẹo kiểm tra nhanh:</b> thử thay động từ bằng một danh từ. Nếu <i>looking forward to <b>the meeting</b></i> nghe xuôi thì chữ <i>to</i> là giới từ, và động từ phải ở dạng <b>V-ing</b>." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "V-ing sau “look forward to”",
+              "items": [
+                { "w": "to seeing you", "vi": "mong được gặp bạn", "ex": "I'm looking forward to seeing you.", "exvi": "Tôi mong được gặp bạn.", "note": "BẪY NỔI TIẾNG: phải là <b>seeing</b>, không bao giờ <i>to see</i> ✗." },
+                { "w": "to hearing from you", "vi": "mong nhận hồi âm", "ex": "I look forward to hearing from you.", "exvi": "Tôi mong nhận được hồi âm của anh/chị.", "note": "Câu kết EMAIL chuẩn mực nhất trong tiếng Anh công sở. Học thuộc nguyên câu." },
+                { "w": "to meeting you", "vi": "mong được gặp mặt", "ex": "Looking forward to meeting you on Tuesday.", "exvi": "Mong được gặp anh/chị vào thứ Ba.", "note": "Dùng <b>meeting</b> khi chưa từng gặp. Xem [Khung 72]." },
+                { "w": "to working with you", "vi": "mong được làm việc cùng", "ex": "I look forward to working with you.", "exvi": "Tôi mong được làm việc cùng anh/chị.", "note": "Câu chuẩn khi bắt đầu hợp tác — rất chuyên nghiệp." },
+                { "w": "to getting started", "vi": "mong được bắt đầu", "ex": "I'm looking forward to getting started.", "exvi": "Tôi mong được bắt đầu." },
+                { "w": "to reading it", "vi": "mong được đọc", "ex": "I look forward to reading it.", "exvi": "Tôi mong được đọc nó." },
+                { "w": "to the weekend", "vi": "mong đến cuối tuần", "ex": "Looking forward to the weekend.", "exvi": "Mong đến cuối tuần.", "note": "Sau <i>to</i> là DANH TỪ cũng được — đây là bằng chứng <i>to</i> là giới từ." },
+                { "w": "to the trip", "vi": "mong đến chuyến đi", "ex": "I'm really looking forward to the trip.", "exvi": "Tôi thật sự mong đến chuyến đi." },
+                { "w": "to trying it", "vi": "mong được thử", "ex": "I'm looking forward to trying it.", "exvi": "Tôi mong được thử nó." },
+                { "w": "to catching up", "vi": "mong được hàn huyên", "ex": "Looking forward to catching up.", "exvi": "Mong được gặp nhau hàn huyên. Xem [Khung 77]." },
+                { "w": "to having you here", "vi": "mong được đón bạn", "ex": "We're looking forward to having you here.", "exvi": "Chúng tôi mong được đón anh/chị." },
+                { "w": "Looking forward to it", "vi": "mong lắm", "ex": "Looking forward to it!", "exvi": "Mong lắm!", "note": "Dạng rút gọn — bỏ cả chủ ngữ, rất tự nhiên khi đáp lại lời mời." }
+              ]
+            },
+            {
+              "title": "Nhóm “to” là giới từ & cặp dễ nhầm",
+              "items": [
+                { "w": "I can't wait to see you", "vi": "tôi nóng lòng gặp bạn", "ex": "I can't wait to see you!", "exvi": "Tôi nóng lòng được gặp bạn!", "note": "NGHỊCH LÝ: ở đây <b>to + V TRẦN</b>, ngược hẳn với <i>look forward to</i>." },
+                { "w": "I can't wait for", "vi": "tôi nóng lòng chờ", "ex": "I can't wait for the weekend.", "exvi": "Tôi nóng lòng chờ cuối tuần.", "note": "Với danh từ thì dùng <b>for</b>, không dùng <i>to</i>." },
+                { "w": "I'm used to working late", "vi": "tôi quen làm khuya rồi", "ex": "I'm used to working late.", "exvi": "Tôi quen làm khuya rồi.", "note": "<b>be used to + V-ing</b> = đã quen với. <i>to</i> ở đây cũng là giới từ." },
+                { "w": "I used to work late", "vi": "ngày xưa tôi hay làm khuya", "ex": "I used to work late, but not now.", "exvi": "Ngày xưa tôi hay làm khuya, giờ thì không.", "note": "CẶP DỄ NHẦM NHẤT: <i>used to + V TRẦN</i> = thói quen QUÁ KHỨ, giờ không còn." },
+                { "w": "getting used to", "vi": "đang quen dần với", "ex": "I'm getting used to the noise.", "exvi": "Tôi đang quen dần với tiếng ồn." },
+                { "w": "object to", "vi": "phản đối việc", "ex": "I object to being rushed.", "exvi": "Tôi phản đối việc bị giục.", "note": "Cũng là giới từ <i>to</i> — theo sau là V-ing." },
+                { "w": "get around to", "vi": "rốt cuộc mới làm được", "ex": "I finally got around to doing it.", "exvi": "Cuối cùng tôi cũng làm được việc đó.", "note": "Thành ngữ — nghĩa là trì hoãn mãi rồi mới làm." },
+                { "w": "in addition to", "vi": "ngoài việc", "ex": "In addition to writing it, I edited it.", "exvi": "Ngoài việc viết, tôi còn biên tập nó." },
+                { "w": "be committed to", "vi": "cam kết với việc", "ex": "We're committed to improving.", "exvi": "Chúng tôi cam kết cải thiện." },
+                { "w": "I'm excited about", "vi": "tôi háo hức về", "ex": "I'm excited about the trip.", "exvi": "Tôi háo hức về chuyến đi.", "note": "Giới từ khác — <b>about</b>, không phải <i>to</i>. Xem [Khung 82]." },
+                { "w": "I'm keen to", "vi": "tôi rất muốn", "ex": "I'm keen to start.", "exvi": "Tôi rất muốn bắt đầu.", "note": "BẪY: <i>keen <b>to</b> + V trần</i>, nhưng <i>keen <b>on</b> + V-ing</i>. Hai cấu trúc khác nhau." },
+                { "w": "I'm keen on", "vi": "tôi thích, tôi mê", "ex": "I'm keen on cycling.", "exvi": "Tôi mê đạp xe." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại & nối tiếp",
+              "items": [
+                { "w": "Me too", "vi": "tôi cũng vậy", "ex": "Me too — see you Tuesday.", "exvi": "Mình cũng vậy — thứ Ba gặp." },
+                { "w": "So am I", "vi": "tôi cũng thế", "ex": "So am I, actually.", "exvi": "Thật ra tôi cũng thế.", "note": "Đảo trật tự: <b>So am I</b>, không phải <i>I am so</i>." },
+                { "w": "It'll be great", "vi": "sẽ tuyệt lắm", "ex": "It'll be great.", "exvi": "Sẽ tuyệt lắm." },
+                { "w": "See you then", "vi": "hẹn gặp lúc đó", "ex": "See you then!", "exvi": "Hẹn gặp lúc đó! Xem [Khung 80]." },
+                { "w": "Not long now", "vi": "sắp đến rồi", "ex": "Not long now!", "exvi": "Sắp đến rồi!", "note": "Câu chia sẻ sự háo hức — ngắn và ấm." },
+                { "w": "Only two more days", "vi": "chỉ còn hai ngày nữa", "ex": "Only two more days!", "exvi": "Chỉ còn hai ngày nữa!" },
+                { "w": "I'll be in touch", "vi": "tôi sẽ liên hệ", "ex": "I'll be in touch shortly.", "exvi": "Tôi sẽ liên hệ sớm." },
+                { "w": "Likewise", "vi": "tôi cũng vậy", "ex": "Likewise.", "exvi": "Tôi cũng vậy. Xem [Khung 72]." },
+                { "w": "Same here", "vi": "mình cũng thế", "ex": "Same here!", "exvi": "Mình cũng thế!" },
+                { "w": "Fingers crossed", "vi": "hy vọng suôn sẻ", "ex": "Fingers crossed it goes well.", "exvi": "Hy vọng mọi việc suôn sẻ.", "note": "Thành ngữ — bắt chéo ngón tay cầu may. Rất phổ biến." },
+                { "w": "Have a great time", "vi": "chúc vui vẻ", "ex": "Have a great time!", "exvi": "Chúc bạn vui vẻ!" },
+                { "w": "Let me know how it goes", "vi": "cho mình biết kết quả nhé", "ex": "Let me know how it goes.", "exvi": "Cho mình biết kết quả thế nào nhé." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I look forward to hearing from you.",
+                  "vi": "Tôi mong nhận được hồi âm của anh/chị.",
+                  "note": "Câu kết EMAIL chuẩn mực nhất trong tiếng Anh công sở. Phải là <b>hearing</b>, không bao giờ <i>to hear</i> ✗.",
+                  "open": { "en": "Thank you for your time today.", "vi": "Cảm ơn anh/chị đã dành thời gian hôm nay." },
+                  "reply": [
+                    { "them": "I'll be in touch by Friday.", "themvi": "Thứ Sáu tôi sẽ liên hệ.", "you": "That's perfect, thank you.", "youvi": "Vậy thì tuyệt, cảm ơn anh/chị." },
+                    { "them": "Likewise. Have a good week.", "themvi": "Tôi cũng vậy. Chúc anh/chị tuần tốt lành.", "you": "And you.", "youvi": "Anh/chị cũng vậy." }
+                  ],
+                  "close": { "en": "Kind regards.", "vi": "Trân trọng." }
+                },
+                {
+                  "en": "I look forward to working with you.",
+                  "vi": "Tôi mong được làm việc cùng anh/chị.",
+                  "note": "Câu chuẩn khi bắt đầu hợp tác — dùng <b>working</b>, không phải <i>to work</i>.",
+                  "reply": [
+                    { "them": "Likewise. Welcome aboard.", "themvi": "Tôi cũng vậy. Chào mừng gia nhập.", "you": "Thank you — I'm keen to start.", "youvi": "Cảm ơn — tôi rất muốn bắt đầu." }
+                  ],
+                  "vars": [
+                    { "en": "I'm looking forward to getting started.", "vi": "Tôi mong được bắt đầu." }
+                  ]
+                },
+                {
+                  "en": "Looking forward to meeting you on Tuesday.",
+                  "vi": "Mong được gặp anh/chị vào thứ Ba.",
+                  "note": "Dùng <b>meeting</b> khi chưa từng gặp. Nếu đã quen thì là <i>seeing</i>. Xem [Khung 72].",
+                  "reply": [
+                    { "them": "Me too. Ten o'clock?", "themvi": "Tôi cũng vậy. Mười giờ nhé?", "you": "Ten works. See you then.", "youvi": "Mười giờ được. Hẹn gặp lúc đó." }
+                  ]
+                },
+                {
+                  "en": "I'm used to working late, so it's fine.",
+                  "vi": "Tôi quen làm khuya rồi nên không sao.",
+                  "note": "CẶP DỄ NHẦM: <b>be used to + V-ing</b> = đã quen. <i>I used to work late</i> = ngày xưa hay làm, giờ không.",
+                  "reply": [
+                    { "them": "Don't make a habit of it.", "themvi": "Đừng biến thành thói quen nhé.", "you": "Just this week, I promise.", "youvi": "Chỉ tuần này thôi, tôi hứa." }
+                  ],
+                  "close": { "en": "I'll leave early on Friday.", "vi": "Thứ Sáu tôi sẽ về sớm." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I'm really looking forward to seeing you.",
+                  "vi": "Mình thật sự mong được gặp bạn.",
+                  "note": "BẪY NỔI TIẾNG: phải là <b>seeing</b>. Mẹo kiểm tra — thay bằng danh từ <i>the weekend</i> thấy xuôi thì <i>to</i> là giới từ.",
+                  "reply": [
+                    { "them": "Same here! Not long now.", "themvi": "Mình cũng thế! Sắp đến rồi.", "you": "Only two more days.", "youvi": "Chỉ còn hai ngày nữa." }
+                  ],
+                  "close": { "en": "See you Saturday!", "vi": "Thứ Bảy gặp nhé!" }
+                },
+                {
+                  "en": "I can't wait to see you!",
+                  "vi": "Mình nóng lòng được gặp bạn!",
+                  "note": "NGHỊCH LÝ: ở đây là <b>to + V TRẦN</b>, ngược hẳn với <i>look forward to</i>. Vì <i>wait</i> đi với nguyên thể thật.",
+                  "reply": [
+                    { "them": "Me too! It's been ages.", "themvi": "Mình cũng vậy! Lâu lắm rồi.", "you": "Far too long.", "youvi": "Lâu quá rồi ấy chứ." }
+                  ],
+                  "vars": [
+                    { "en": "I can't wait for the weekend.", "vi": "Mình nóng lòng chờ cuối tuần." }
+                  ]
+                },
+                {
+                  "en": "Looking forward to it!",
+                  "vi": "Mong lắm!",
+                  "note": "Dạng RÚT GỌN — bỏ cả chủ ngữ. Cách đáp lại lời mời tự nhiên và ấm áp nhất.",
+                  "reply": [
+                    { "them": "Great — I'll send the details.", "themvi": "Tuyệt — mình gửi chi tiết sau.", "you": "Perfect.", "youvi": "Chuẩn luôn." }
+                  ]
+                },
+                {
+                  "en": "I'm getting used to the noise.",
+                  "vi": "Mình đang quen dần với tiếng ồn.",
+                  "note": "<b>getting used to + V-ing/danh từ</b> = đang quen dần. Cũng là giới từ <i>to</i>.",
+                  "reply": [
+                    { "them": "You'll stop noticing it soon.", "themvi": "Rồi bạn sẽ chẳng để ý nữa.", "you": "I hope so.", "youvi": "Mình hy vọng vậy." }
+                  ],
+                  "close": { "en": "Give it a month.", "vi": "Cho nó một tháng." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I'm really looking forward to the trip.",
+                  "vi": "Mình thật sự mong đến chuyến đi.",
+                  "note": "Sau <i>to</i> là DANH TỪ cũng hoàn toàn đúng — đây chính là bằng chứng <i>to</i> là giới từ.",
+                  "reply": [
+                    { "them": "Me too. Have you packed?", "themvi": "Mình cũng vậy. Bạn xếp đồ chưa?", "you": "Not even close.", "youvi": "Còn lâu mới xong." }
+                  ],
+                  "close": { "en": "Fingers crossed for good weather.", "vi": "Hy vọng thời tiết đẹp." }
+                },
+                {
+                  "en": "We're looking forward to having you here.",
+                  "vi": "Chúng tôi mong được đón anh/chị.",
+                  "note": "Câu chào đón ấm áp — dùng <b>having</b>, không phải <i>to have</i>.",
+                  "reply": [
+                    { "them": "That's very kind, thank you.", "themvi": "Anh/chị tốt quá, cảm ơn.", "you": "We'll pick you up at the airport.", "youvi": "Chúng tôi sẽ đón anh/chị ở sân bay." }
+                  ]
+                },
+                {
+                  "en": "I can't wait to try the food there.",
+                  "vi": "Mình nóng lòng được thử đồ ăn ở đó.",
+                  "note": "<b>can't wait to + V trần</b> — nhớ sự đối lập với <i>look forward to trying</i>.",
+                  "reply": [
+                    { "them": "It's the best part.", "themvi": "Đó là phần hay nhất.", "you": "I've made a list already.", "youvi": "Mình lên cả danh sách rồi." }
+                  ],
+                  "vars": [
+                    { "en": "I'm looking forward to trying the food.", "vi": "Mình mong được thử đồ ăn ở đó." }
+                  ]
+                },
+                {
+                  "en": "I used to travel a lot for work.",
+                  "vi": "Ngày xưa tôi hay đi công tác nhiều.",
+                  "note": "<b>used to + V TRẦN</b> = thói quen QUÁ KHỨ, giờ không còn. Khác hẳn <i>I'm used to travelling</i>.",
+                  "reply": [
+                    { "them": "Do you miss it?", "themvi": "Anh/chị có nhớ không?", "you": "Not the airports.", "youvi": "Không nhớ mấy cái sân bay." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I'm looking forward to trying this place.",
+                  "vi": "Mình mong được thử quán này.",
+                  "reply": [
+                    { "them": "It's had great reviews.", "themvi": "Đánh giá tốt lắm.", "you": "Let's not build it up too much.", "youvi": "Đừng kỳ vọng quá nhé." }
+                  ]
+                },
+                {
+                  "en": "Looking forward to catching up properly.",
+                  "vi": "Mong được gặp nhau hàn huyên tử tế.",
+                  "note": "<b>catch up</b> = gặp nhau cập nhật tin tức. Xem [Khung 77].",
+                  "reply": [
+                    { "them": "Same here. It's been too long.", "themvi": "Mình cũng vậy. Lâu quá rồi.", "you": "Saturday still works?", "youvi": "Thứ Bảy vẫn được chứ?" }
+                  ],
+                  "close": { "en": "I'll book a table.", "vi": "Mình đặt bàn." }
+                },
+                {
+                  "en": "I can't wait for dessert.",
+                  "vi": "Mình nóng lòng chờ món tráng miệng.",
+                  "note": "Với DANH TỪ thì dùng <b>for</b>, không dùng <i>to</i>: <i>can't wait <b>for</b> the weekend</i>.",
+                  "reply": [
+                    { "them": "You've not finished your main!", "themvi": "Bạn còn chưa ăn hết món chính!", "you": "I'm pacing myself.", "youvi": "Mình đang giữ sức." }
+                  ]
+                },
+                {
+                  "en": "I'm used to eating late now.",
+                  "vi": "Giờ mình quen ăn muộn rồi.",
+                  "reply": [
+                    { "them": "Since you moved here?", "themvi": "Từ hồi bạn chuyển đến đây à?", "you": "Everyone eats at nine.", "youvi": "Ở đây ai cũng ăn lúc chín giờ." }
+                  ],
+                  "vars": [
+                    { "en": "I used to eat at six.", "vi": "Ngày xưa mình ăn lúc sáu giờ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I'm looking forward to using it.",
+                  "vi": "Tôi mong được dùng nó.",
+                  "reply": [
+                    { "them": "Let me know how you get on.", "themvi": "Anh/chị dùng thế nào báo em nhé.", "you": "I will, thanks.", "youvi": "Tôi sẽ báo, cảm ơn em." }
+                  ]
+                },
+                {
+                  "en": "I look forward to receiving it.",
+                  "vi": "Tôi mong nhận được hàng.",
+                  "note": "Trang trọng — hợp khi xác nhận đơn hàng qua email hoặc điện thoại.",
+                  "reply": [
+                    { "them": "It should arrive by Thursday.", "themvi": "Thứ Năm sẽ tới ạ.", "you": "Perfect, thank you.", "youvi": "Tuyệt, cảm ơn em." }
+                  ],
+                  "close": { "en": "I'll watch out for it.", "vi": "Tôi sẽ để ý." }
+                },
+                {
+                  "en": "I can't wait to see it in person.",
+                  "vi": "Tôi nóng lòng được xem tận mắt.",
+                  "reply": [
+                    { "them": "It's even better than the photos.", "themvi": "Còn đẹp hơn ảnh nữa ạ.", "you": "That's what I like to hear.", "youvi": "Nghe vậy tôi thích rồi." }
+                  ],
+                  "vars": [
+                    { "en": "I'm looking forward to seeing it.", "vi": "Tôi mong được xem nó." }
+                  ]
+                },
+                {
+                  "en": "I object to being charged twice.",
+                  "vi": "Tôi phản đối việc bị tính tiền hai lần.",
+                  "note": "<b>object to</b> cũng có <i>to</i> là giới từ — theo sau là V-ing, ở đây là dạng bị động <i>being charged</i>.",
+                  "reply": [
+                    { "them": "Let me look into it immediately.", "themvi": "Để em kiểm tra ngay ạ.", "you": "Thank you.", "youvi": "Cảm ơn em." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Kết thúc cuộc phỏng vấn",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Thank you for your time today. I look forward to hearing from you.", "vi": "Cảm ơn anh/chị đã dành thời gian hôm nay. Tôi mong nhận được hồi âm." },
+            { "speaker": "Interviewer", "en": "Likewise. We'll be in touch by Friday.", "vi": "Tôi cũng vậy. Chúng tôi sẽ liên hệ trước thứ Sáu." },
+            { "speaker": "You", "me": true, "en": "That's perfect. I'm really keen to start.", "vi": "Vậy thì tuyệt. Tôi rất muốn bắt đầu." },
+            { "speaker": "Interviewer", "en": "The hours can be long, I should say.", "vi": "Tôi nên nói trước là giờ giấc có thể dài." },
+            { "speaker": "You", "me": true, "en": "I'm used to working late, so that's fine.", "vi": "Tôi quen làm khuya rồi nên không sao." },
+            { "speaker": "Interviewer", "en": "Good. I look forward to working with you.", "vi": "Tốt. Tôi mong được làm việc cùng anh/chị." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Nhắn tin với bạn trước chuyến đi",
+          "lines": [
+            { "speaker": "Friend", "en": "Three days to go!", "vi": "Còn ba ngày nữa!" },
+            { "speaker": "You", "me": true, "en": "I'm really looking forward to the trip.", "vi": "Mình thật sự mong đến chuyến đi." },
+            { "speaker": "Friend", "en": "Same here. Have you packed?", "vi": "Mình cũng thế. Bạn xếp đồ chưa?" },
+            { "speaker": "You", "me": true, "en": "Not even close. But I can't wait to try the food there.", "vi": "Còn lâu mới xong. Nhưng mình nóng lòng được thử đồ ăn ở đó." },
+            { "speaker": "Friend", "en": "That's the best part.", "vi": "Đó là phần hay nhất." },
+            { "speaker": "You", "me": true, "en": "Looking forward to catching up properly too. Not long now!", "vi": "Cũng mong được hàn huyên tử tế nữa. Sắp đến rồi!" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'm looking forward to see you.", "right": "I'm looking forward to seeing you.", "why": "BẪY NỔI TIẾNG NHẤT. Chữ <b>to</b> ở đây là GIỚI TỪ, nên theo sau phải là <b>V-ing</b>." },
+            { "wrong": "I look forward to hear from you.", "right": "I look forward to hearing from you.", "why": "Cùng lỗi. Mẹo kiểm tra: <i>look forward to <b>the weekend</b></i> nghe xuôi → <i>to</i> là giới từ." },
+            { "wrong": "I can't wait seeing you.", "right": "I can't wait to see you.", "why": "NGƯỢC LẠI: <b>wait</b> đi với động từ NGUYÊN THỂ thật — <i>to see</i>, không phải <i>seeing</i>." },
+            { "wrong": "I can't wait to the weekend.", "right": "I can't wait for the weekend.", "why": "Với DANH TỪ thì <i>can't wait</i> dùng <b>for</b>, không dùng <i>to</i>." },
+            { "wrong": "I'm used to work late. <i>(ý: tôi đã quen)</i>", "right": "I'm used to working late.", "why": "<b>be used to + V-ing</b> = đã quen với. Dạng <i>to work</i> lại thành <i>used to</i> quá khứ." },
+            { "wrong": "I used to working late. <i>(ý: ngày xưa hay làm)</i>", "right": "I used to work late.", "why": "<b>used to + V TRẦN</b> = thói quen quá khứ. Đây là cặp dễ nhầm nhất của cả khung." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Sau nó là", "Nghĩa"],
+          "rows": [
+            ["<code>look forward to + V-ing</code>", "V-ing", "Mong chờ — <i>to</i> là giới từ."],
+            ["<code>can't wait to + V trần</code>", "Động từ trần", "Nóng lòng — <i>to</i> là nguyên thể."],
+            ["<code>can't wait for + N</code>", "Danh từ", "Nóng lòng chờ."],
+            ["<code>be used to + V-ing</code>", "V-ing", "Đã quen với."],
+            ["<code>used to + V trần</code>", "Động từ trần", "Thói quen quá khứ."],
+            ["<code>be keen to + V trần</code>", "Động từ trần", "Rất muốn làm gì."],
+            ["<code>be excited about + V-ing</code>", "V-ing", "Háo hức. Xem [Khung 82]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — bày tỏ sự mong chờ" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I look forward to hearing from you.", "vi": "Trang trọng nhất — email công việc" },
+            { "en": "I'm looking forward to seeing you.", "vi": "Ấm và lịch sự" },
+            { "en": "Looking forward to it!", "vi": "Thân mật, rút gọn" },
+            { "en": "I can't wait to see you!", "vi": "Hào hứng rõ rệt" },
+            { "en": "I can't wait — only two more days!", "vi": "Hào hứng nhất, kèm đếm ngược" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>looking forward to</b> nói nhanh thành <b>“luk-ing-FOR-wəd-tə”</b> — chữ <i>to</i> lướt thành /tə/, không nhấn.",
+            "<b>forward</b> nhấn âm đầu: <b>FOR</b>-wəd — đuôi <i>-ward</i> đọc rất nhẹ.",
+            "<b>to seeing</b> → “tə-SEE-ing”, chữ <i>to</i> gần như biến mất, nghe rõ nhất là <i>SEE</i>.",
+            "<b>Trọng âm rơi vào FOR và vào động từ V-ing</b> — phần còn lại lướt nhanh.",
+            "<b>can't wait</b> → âm /t/ ở <i>can't</i> nuốt mất, nghe như <b>“kaan-WAIT”</b>.",
+            "<b>Giọng lên cao ở cuối</b> — đây là câu bày tỏ sự háo hức, nói giọng phẳng là mất hết cảm xúc."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I look forward to hearing from you.", "vi": "Luyện shadowing: “luk-FOR-wəd-tə-HEER-ing”, giọng đều và lịch sự." },
+            { "en": "I can't wait to see you!", "vi": "Tập nuốt /t/ ở can't và lên giọng mạnh ở cuối." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi mong được gặp bạn.", "blank": "I'm looking forward to __________ you.", "a": "seeing (V-ing sau “to”)" },
+            { "vi": "Tôi mong nhận được hồi âm của anh/chị.", "blank": "I look forward to __________ from you.", "a": "hearing" },
+            { "vi": "Mình nóng lòng được gặp bạn!", "blank": "I can't wait __________ you!", "a": "to see (động từ trần)" },
+            { "vi": "Mình nóng lòng chờ cuối tuần.", "blank": "I can't wait __________ the weekend.", "a": "for" },
+            { "vi": "Tôi quen làm khuya rồi.", "blank": "I'm used to __________ late.", "a": "working" },
+            { "vi": "Ngày xưa tôi hay làm khuya.", "blank": "I used to __________ late.", "a": "work (động từ trần)" },
+            { "vi": "Mong lắm!", "blank": "__________!", "a": "Looking forward to it" },
+            { "vi": "Tôi mong được làm việc cùng anh/chị.", "blank": "I look forward to __________ with you.", "a": "working" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi mong nhận được hồi âm của anh/chị.", "a": "I look forward to hearing from you." },
+            { "vi": "2. Mình thật sự mong được gặp bạn.", "a": "I'm really looking forward to seeing you." },
+            { "vi": "3. Mình nóng lòng được thử đồ ăn ở đó.", "a": "I can't wait to try the food there." },
+            { "vi": "4. Tôi quen làm khuya rồi nên không sao.", "a": "I'm used to working late, so it's fine." },
+            { "vi": "5. Mong được gặp anh/chị vào thứ Ba.", "a": "Looking forward to meeting you on Tuesday." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Mẹo kiểm tra vàng:</b> thử thay động từ bằng danh từ. <i>Looking forward to <b>the weekend</b></i> xuôi → vậy phải là <b>V-ing</b>.",
+            "<b>Nhớ nghịch lý:</b> <i>look forward to see<b>ing</b></i> nhưng <i>can't wait <b>to see</b></i>. Hai cấu trúc ngược nhau.",
+            "<b>Học thuộc câu kết email:</b> <i>I look forward to hearing from you.</i> — chuẩn mực trong mọi thư công việc.",
+            "<b>Cặp dễ nhầm nhất:</b> <i>used to + V trần</i> (ngày xưa hay) vs <i>be used to + V-ing</i> (đã quen).",
+            "<b>Dạng rút gọn “Looking forward to it!”</b> là cách đáp lại lời mời ấm áp và tự nhiên nhất.",
+            "<b>Bài tập 3 phút:</b> viết năm câu mong chờ — ba câu dùng <i>look forward to + V-ing</i>, hai câu dùng <i>can't wait to + V</i> — rồi so sánh."
+          ]
+        }
+      ]
+    }
+  ]
+}

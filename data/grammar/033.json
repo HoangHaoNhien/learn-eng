@@ -1,0 +1,277 @@
+{
+  "id": 33,
+  "group": "Nhóm 9 · Động từ khuyết thiếu",
+  "title": "must have · should have + V3",
+  "subtitle": "Modal nhìn về quá khứ — để suy đoán chuyện đã xảy ra, hoặc để tiếc nuối chuyện đáng lẽ khác đi. Bẫy chính tả ở đây nổi tiếng đến mức cả người bản xứ cũng mắc: nói nhanh nghe là əv nhưng viết luôn phải là have, không bao giờ of.",
+  "meaning": "Suy đoán về quá khứ · tiếc nuối · trách móc nhẹ",
+  "rule": [
+    "modal + <em>have</em> + V3 — không bao giờ <em>of</em>",
+    "<em>must have</em> = chắc đã · <em>can't have</em> = chắc không",
+    "<em>should have</em> = đáng lẽ nên · <em>could have</em> = đã có thể"
+  ],
+  "tags": [
+    { "text": "Trình độ: B2", "hot": true },
+    { "text": "should have ✓ · should of ✗" },
+    { "text": "Sau have luôn là V3" },
+    { "text": "Tần suất: cao" }
+  ],
+  "frames": [50, 79, 88, 96, 98],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Modal không có dạng quá khứ riêng. Muốn nói về chuyện đã xảy ra, ta thêm <b>have + V3</b> phía sau — và tùy modal mà câu mang nghĩa <b>suy đoán</b> hay <b>tiếc nuối</b>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — lỗi chính tả nổi tiếng nhất:</b><br>• <i>I should <b>have</b> told you</i> ✓ — <i>I should <b>of</b> told you</i> ✗<br>• <i>He must <b>have</b> forgotten</i> ✓ — <i>must of</i> ✗<br>Khi nói nhanh, <i>have</i> đọc thành “əv”, nghe giống hệt <i>of</i>. Nhưng viết ra thì luôn là <b>have</b>. Cả người bản xứ cũng hay mắc lỗi này." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — sau <i>have</i> luôn là V3:</b><br>• <i>should have <b>told</b></i> ✓ — <i>should have tell</i> ✗<br>• <i>must have <b>gone</b></i> ✓ — <i>must have went</i> ✗<br>Cùng luật với thì hoàn thành. Xem [Ngữ pháp 06]." },
+        { "t": "h3", "text": "Hai nhóm nghĩa" },
+        {
+          "t": "table",
+          "head": ["Nhóm", "Modal", "Nghĩa"],
+          "rows": [
+            ["Suy đoán — chắc chắn có", "<code>must have + V3</code>", "Chắc hẳn đã…"],
+            ["Suy đoán — chắc chắn không", "<code>can't have + V3</code>", "Không thể nào đã…"],
+            ["Suy đoán — có khi", "<code>might/could have + V3</code>", "Có khi đã…"],
+            ["Tiếc nuối", "<code>should have + V3</code>", "Đáng lẽ nên…"]
+          ]
+        },
+        { "t": "p", "html": "Lưu ý: suy đoán <b>chắc chắn KHÔNG</b> thì dùng <b>can't have</b>, không bao giờ <i>mustn't have</i>. Và <b>couldn't have</b> cũng mang nghĩa tương tự <i>can't have</i>." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>must have + V3</code>", "Chắc hẳn đã — suy đoán mạnh", "He must have forgotten."],
+            ["<code>can't have + V3</code>", "Không thể nào đã", "He can't have forgotten."],
+            ["<code>couldn't have + V3</code>", "Không thể nào đã", "She couldn't have known."],
+            ["<code>might have + V3</code>", "Có khi đã", "He might have missed the bus."],
+            ["<code>could have + V3</code>", "Đã có thể — nhưng không làm", "You could have told me!"],
+            ["<code>may have + V3</code>", "Có thể đã — trang trọng hơn", "There may have been a mistake."],
+            ["<code>should have + V3</code>", "Đáng lẽ nên — tiếc nuối", "I should have told you."],
+            ["<code>shouldn't have + V3</code>", "Đáng lẽ không nên", "You shouldn't have said that."],
+            ["<code>would have + V3</code>", "Đã sẽ — điều kiện loại 3", "I'd have called if I'd known."],
+            ["<code>needn't have + V3</code>", "Không cần nhưng ĐÃ làm", "You needn't have waited."],
+            ["<code>didn't need to + V</code>", "Không cần nên KHÔNG làm", "I didn't need to wait."],
+            ["<code>ought to have + V3</code>", "Đáng lẽ nên — trang trọng", "You ought to have asked."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Hai dòng áp chót là cặp tinh vi nhất:</b> <i>You <b>needn't have</b> waited</i> = bạn đã chờ, nhưng lẽ ra không cần. <i>I <b>didn't need to</b> wait</i> = tôi không cần chờ, nên tôi đã không chờ. Một cái đã làm, một cái không." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "He must have forgotten.", "vi": "Chắc anh ấy quên rồi.", "note": "Suy đoán MẠNH — gần như chắc chắn, có bằng chứng." },
+            { "en": "He can't have forgotten — I reminded him.", "vi": "Không thể nào anh ấy quên — tôi nhắc rồi mà.", "note": "Suy đoán chắc chắn KHÔNG. <i>mustn't have</i> ✗." },
+            { "en": "He might have missed the bus.", "vi": "Có khi anh ấy lỡ xe buýt.", "note": "Suy đoán nhẹ — khoảng một nửa. Xem [Ngữ pháp 30]." },
+            { "en": "I should have told you earlier.", "vi": "Đáng lẽ tôi nên nói với bạn sớm hơn.", "note": "BẪY SỐ MỘT: viết <b>have</b>, không bao giờ <i>of</i>. Xem [Khung 88]." },
+            { "en": "You shouldn't have said that.", "vi": "Đáng lẽ bạn không nên nói thế.", "note": "Trách nhẹ về một việc đã làm." },
+            { "en": "You could have told me!", "vi": "Đáng lẽ bạn có thể nói với tôi chứ!", "note": "<b>could have</b> với <i>you</i> mang chút trách móc." },
+            { "en": "I'd have called if I'd known.", "vi": "Nếu biết thì tôi đã gọi.", "note": "Điều kiện loại 3. <i>I'd have</i> = <i>I would have</i>. Xem [Khung 98]." },
+            { "en": "There may have been a mistake.", "vi": "Có thể đã có nhầm lẫn.", "note": "Trang trọng — hay dùng khi khiếu nại lịch sự." },
+            { "en": "You needn't have waited for me.", "vi": "Bạn đã chờ tôi nhưng lẽ ra không cần.", "note": "Bạn ĐÃ chờ rồi — chỉ là không cần thiết." },
+            { "en": "I didn't need to wait, so I left.", "vi": "Tôi không cần chờ nên tôi về.", "note": "Tôi KHÔNG chờ. Khác hẳn câu trên." },
+            { "en": "She must have been exhausted.", "vi": "Chắc cô ấy kiệt sức rồi.", "note": "V3 của <i>be</i> là <b>been</b>." },
+            { "en": "I'm not sure, but he might have left.", "vi": "Tôi không chắc, nhưng có khi anh ấy đi rồi.", "note": "Rào đón trước khi suy đoán. Xem [Khung 50]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🔍", "title": "Đoán chuyện đã xảy ra", "text": "<i>He must have forgotten.</i>" },
+            { "icon": "🙅", "title": "Bác bỏ một suy đoán", "text": "<i>He can't have forgotten — I reminded him.</i>" },
+            { "icon": "😔", "title": "Tiếc nuối việc mình làm", "text": "<i>I should have told you.</i> Xem [Khung 88]." },
+            { "icon": "😤", "title": "Trách nhẹ người khác", "text": "<i>You could have told me!</i>" },
+            { "icon": "📄", "title": "Khiếu nại lịch sự", "text": "<i>There may have been a mistake.</i>" },
+            { "icon": "🚫", "title": "Đừng viết…", "text": "<i>should of, must of, could of</i> ✗ — luôn là <b>have</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Suy đoán về quá khứ",
+              "items": [
+                { "w": "must have + V3", "vi": "chắc hẳn đã", "ex": "He must have forgotten.", "exvi": "Chắc anh ấy quên rồi.", "note": "Suy đoán MẠNH, có bằng chứng." },
+                { "w": "can't have + V3", "vi": "không thể nào đã", "ex": "He can't have forgotten.", "exvi": "Không thể nào anh ấy quên.", "note": "Suy đoán chắc chắn KHÔNG. <i>mustn't have</i> ✗." },
+                { "w": "couldn't have + V3", "vi": "không thể nào đã", "ex": "She couldn't have known.", "exvi": "Cô ấy không thể nào biết được.", "note": "Cùng nghĩa <i>can't have</i>." },
+                { "w": "might have + V3", "vi": "có khi đã", "ex": "He might have missed the bus.", "exvi": "Có khi anh ấy lỡ xe buýt.", "note": "Suy đoán nhẹ. Xem [Ngữ pháp 30]." },
+                { "w": "may have + V3", "vi": "có thể đã", "ex": "There may have been a mistake.", "exvi": "Có thể đã có nhầm lẫn.", "note": "Trang trọng — hợp khi khiếu nại lịch sự." },
+                { "w": "could have + V3", "vi": "đã có thể", "ex": "You could have told me!", "exvi": "Đáng lẽ bạn có thể nói với tôi chứ!", "note": "Với <i>you</i> thì mang chút TRÁCH MÓC." },
+                { "w": "must have been", "vi": "chắc hẳn đã là", "ex": "She must have been exhausted.", "exvi": "Chắc cô ấy kiệt sức rồi.", "note": "V3 của <i>be</i> là <b>been</b>." },
+                { "w": "must have been + V-ing", "vi": "chắc đang làm gì đó", "ex": "He must have been sleeping.", "exvi": "Chắc anh ấy đang ngủ." },
+                { "w": "I'm not sure, but", "vi": "tôi không chắc, nhưng", "ex": "I'm not sure, but he might have left.", "exvi": "Tôi không chắc, nhưng có khi anh ấy đi rồi. Xem [Khung 50]." },
+                { "w": "That would explain it", "vi": "thảo nào", "ex": "That would explain it.", "exvi": "Thảo nào.", "note": "Câu đáp khi nghe một suy đoán hợp lý." },
+                { "w": "It's possible that", "vi": "có khả năng là", "ex": "It's possible that he forgot.", "exvi": "Có khả năng là anh ấy quên." },
+                { "w": "Apparently", "vi": "nghe nói, hình như", "ex": "Apparently he forgot.", "exvi": "Hình như anh ấy quên." }
+              ]
+            },
+            {
+              "title": "Tiếc nuối & trách móc",
+              "items": [
+                { "w": "should have + V3", "vi": "đáng lẽ nên", "ex": "I should have told you earlier.", "exvi": "Đáng lẽ tôi nên nói sớm hơn.", "note": "BẪY SỐ MỘT: viết <b>have</b>, không bao giờ <i>of</i>. Xem [Khung 88]." },
+                { "w": "shouldn't have + V3", "vi": "đáng lẽ không nên", "ex": "You shouldn't have said that.", "exvi": "Đáng lẽ bạn không nên nói thế." },
+                { "w": "ought to have + V3", "vi": "đáng lẽ nên (trang trọng)", "ex": "You ought to have asked.", "exvi": "Đáng lẽ bạn nên hỏi.", "note": "<b>ought</b> giữ chữ <i>to</i>. Xem [Ngữ pháp 32]." },
+                { "w": "would have + V3", "vi": "đã sẽ", "ex": "I'd have called if I'd known.", "exvi": "Nếu biết thì tôi đã gọi.", "note": "Điều kiện loại 3. Xem [Ngữ pháp 16]." },
+                { "w": "needn't have + V3", "vi": "không cần nhưng ĐÃ làm", "ex": "You needn't have waited.", "exvi": "Bạn đã chờ nhưng lẽ ra không cần.", "note": "Bạn ĐÃ làm rồi — chỉ là thừa." },
+                { "w": "didn't need to + V", "vi": "không cần nên KHÔNG làm", "ex": "I didn't need to wait, so I left.", "exvi": "Tôi không cần chờ nên tôi về.", "note": "Cặp tinh vi nhất của bài — một cái đã làm, một cái không." },
+                { "w": "I wish I had + V3", "vi": "ước gì tôi đã", "ex": "I wish I had known.", "exvi": "Ước gì tôi biết trước.", "note": "Cùng logic tiếc nuối. Xem [Ngữ pháp 16]." },
+                { "w": "If only I had + V3", "vi": "giá mà tôi đã", "ex": "If only I had listened!", "exvi": "Giá mà tôi nghe lời!", "note": "Mạnh hơn <i>I wish</i> — day dứt rõ rệt." },
+                { "w": "It's my fault", "vi": "lỗi của tôi", "ex": "It's my fault, not yours.", "exvi": "Lỗi của tôi, không phải của bạn. Xem [Khung 88]." },
+                { "w": "I didn't mean to", "vi": "tôi không cố ý", "ex": "I didn't mean to upset you.", "exvi": "Tôi không cố ý làm bạn buồn. Xem [Khung 79]." },
+                { "w": "Let me make it up to you", "vi": "để tôi bù lại", "ex": "Let me make it up to you.", "exvi": "Để tôi bù lại cho bạn." },
+                { "w": "Don't beat yourself up", "vi": "đừng tự trách mình", "ex": "Don't beat yourself up about it.", "exvi": "Đừng tự trách mình chuyện đó.", "note": "Thành ngữ an ủi người đang tiếc nuối." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I should <b>of</b> told you.", "right": "I should <b>have</b> told you.", "why": "BẪY SỐ MỘT: nói nhanh nghe là “əv” nhưng viết luôn là <b>have</b>. Cả người bản xứ cũng mắc." },
+            { "wrong": "He must <b>of</b> forgotten.", "right": "He must <b>have</b> forgotten.", "why": "Cùng lỗi với mọi modal hoàn thành: <i>could of, would of, might of</i> đều sai." },
+            { "wrong": "I should have <b>tell</b> you.", "right": "I should have <b>told</b> you.", "why": "BẪY SỐ HAI: sau <b>have</b> luôn là V3. Xem [Ngữ pháp 06]." },
+            { "wrong": "He must have <b>went</b>.", "right": "He must have <b>gone</b>.", "why": "V3 của <i>go</i> là <b>gone</b>, không phải <i>went</i>." },
+            { "wrong": "He <b>mustn't have</b> forgotten. <i>(ý: không thể nào)</i>", "right": "He <b>can't have</b> forgotten.", "why": "Suy đoán chắc chắn KHÔNG thì dùng <b>can't have</b>. <i>mustn't</i> nghĩa là cấm." },
+            { "wrong": "I <b>should told</b> you.", "right": "I <b>should have told</b> you.", "why": "Thiếu <b>have</b> — tiếc nuối quá khứ cần đủ ba phần: modal + have + V3." },
+            { "wrong": "You <b>didn't need to wait</b> — but thanks for waiting.", "right": "You <b>needn't have waited</b> — but thanks.", "why": "Người kia ĐÃ chờ rồi, nên dùng <b>needn't have</b>. <i>didn't need to</i> hàm ý họ không chờ." },
+            { "wrong": "I'd <b>have call</b> you if I'd known.", "right": "I'd <b>have called</b> you if I'd known.", "why": "Sau <i>have</i> là V3, kể cả trong điều kiện loại 3. Xem [Ngữ pháp 16]." },
+            { "wrong": "You <b>ought have</b> asked.", "right": "You <b>ought to have</b> asked.", "why": "<b>ought</b> giữ chữ <i>to</i> kể cả ở dạng hoàn thành." },
+            { "wrong": "He might <b>forgot</b>.", "right": "He might <b>have forgotten</b>.", "why": "Modal không đi với V2. Muốn nói quá khứ phải dùng <b>have + V3</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>must have + V3</code>", "Chắc hẳn đã — suy đoán mạnh", "He must have forgotten."],
+            ["<code>can't have + V3</code>", "Không thể nào đã", "He can't have forgotten."],
+            ["<code>might / could have + V3</code>", "Có khi đã. Xem [Ngữ pháp 30]", "He might have missed it."],
+            ["<code>should have + V3</code>", "Đáng lẽ nên — tiếc nuối", "I should have told you."],
+            ["<code>could have + V3</code>", "Đã có thể — trách nhẹ", "You could have told me!"],
+            ["<code>needn't have + V3</code>", "Không cần nhưng ĐÃ làm", "You needn't have waited."],
+            ["<code>didn't need to + V</code>", "Không cần nên KHÔNG làm", "I didn't need to wait."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng modal nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn muốn suy đoán hay tiếc nuối, và chắc chắn đến mức nào?",
+          "nodes": [
+            { "if": "Gần như chắc chắn chuyện đó ĐÃ xảy ra", "then": "must have + V3", "ex": "He must have forgotten." },
+            { "if": "Gần như chắc chắn KHÔNG xảy ra", "then": "can't have + V3 — không dùng mustn't have", "ex": "He can't have forgotten." },
+            { "if": "Chỉ đoán, khoảng một nửa", "then": "might / could / may have + V3", "ex": "He might have missed the bus." },
+            { "if": "Tiếc vì mình đã không làm", "then": "should have + V3", "ex": "I should have told you." },
+            { "if": "Trách nhẹ vì người kia đã không làm", "then": "could have + V3", "ex": "You could have told me!" },
+            { "if": "Người kia đã làm nhưng thừa", "then": "needn't have + V3", "ex": "You needn't have waited." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ chắc chắn khi suy đoán quá khứ" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "He can't have forgotten.", "vi": "Chắc chắn không" },
+            { "en": "He might have forgotten.", "vi": "Có khi — khoảng 40%" },
+            { "en": "He may have forgotten.", "vi": "Có thể — khoảng 50%" },
+            { "en": "He probably forgot.", "vi": "Nhiều khả năng" },
+            { "en": "He must have forgotten.", "vi": "Gần như chắc chắn" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Modal hoàn thành xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 88, "why": "I feel bad about… — khung chính của I should have told you, mẫu tiếc nuối." },
+            { "id": 98, "why": "If I were you, I'd + V — điều kiện loại 3 dùng would have + V3." },
+            { "id": 79, "why": "I'm sorry for… — xin lỗi kèm tiếc nuối, hay đi với should have." },
+            { "id": 96, "why": "When I was…, I + V2 — nền quá khứ mà modal hoàn thành quy chiếu về." },
+            { "id": 50, "why": "I'm not sure, but… — rào đón trước khi đưa một suy đoán về quá khứ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ trong ngoặc" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Chắc anh ấy quên rồi.", "blank": "He must have __________ (forget).", "a": "forgotten" },
+            { "vi": "Đáng lẽ tôi nên nói với bạn.", "blank": "I should have __________ (tell) you.", "a": "told" },
+            { "vi": "Chắc anh ấy đi rồi.", "blank": "He must have __________ (go).", "a": "gone" },
+            { "vi": "Chắc cô ấy kiệt sức rồi.", "blank": "She must have __________ (be) exhausted.", "a": "been" },
+            { "vi": "Nếu biết thì tôi đã gọi.", "blank": "I'd have __________ (call) you if I'd known.", "a": "called" },
+            { "vi": "Đáng lẽ bạn không nên nói thế.", "blank": "You __________ have said that.", "a": "shouldn't" },
+            { "vi": "Bạn đã chờ nhưng lẽ ra không cần.", "blank": "You __________ have waited.", "a": "needn't" },
+            { "vi": "Đáng lẽ bạn nên hỏi.", "blank": "You ought __________ have asked.", "a": "to" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Đáng lẽ tôi nên nói với bạn.", "blank": "I should __________ told you.  (of / have)", "a": "have — không bao giờ of" },
+            { "vi": "Không thể nào anh ấy quên.", "blank": "He __________ have forgotten.  (mustn't / can't)", "a": "can't" },
+            { "vi": "Tôi không cần chờ nên tôi về.", "blank": "I __________ wait, so I left.  (needn't have / didn't need to)", "a": "didn't need to" },
+            { "vi": "Có khi anh ấy lỡ xe buýt.", "blank": "He __________ the bus.  (might forgot / might have missed)", "a": "might have missed" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Chắc anh ấy quên rồi.", "a": "He must have forgotten." },
+            { "vi": "2. Đáng lẽ tôi nên nói với bạn sớm hơn.", "a": "I should have told you earlier." },
+            { "vi": "3. Không thể nào anh ấy quên — tôi nhắc rồi mà.", "a": "He can't have forgotten — I reminded him." },
+            { "vi": "4. Đáng lẽ bạn có thể nói với tôi chứ!", "a": "You could have told me!" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Không bao giờ viết <i>of</i>:</b> <i>should <b>have</b></i>, <i>must <b>have</b></i>, <i>could <b>have</b></i>. Nghe là “əv” nhưng viết là <i>have</i>.",
+            "<b>Đủ ba phần:</b> modal + <i>have</i> + <b>V3</b>. Thiếu phần nào cũng hỏng câu.",
+            "<b>Suy đoán chắc chắn KHÔNG thì dùng <i>can't have</i></b>, không bao giờ <i>mustn't have</i>.",
+            "<b><i>could have</i> với <i>you</i> mang chút trách móc:</b> <i>You <b>could have</b> told me!</i>",
+            "<b>Cặp tinh vi:</b> <i>needn't have waited</i> (đã chờ, nhưng thừa) ≠ <i>didn't need to wait</i> (không chờ).",
+            "<b>Bài tập 3 phút:</b> nghĩ ba chuyện khó hiểu gần đây, đoán bằng <i>must have</i> và <i>might have</i>; rồi viết ba điều bạn tiếc bằng <i>should have</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

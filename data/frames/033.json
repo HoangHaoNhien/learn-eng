@@ -1,0 +1,485 @@
+{
+  "id": 33,
+  "group": "Nhóm 4 · Đề nghị & Rủ rê",
+  "title": "How about…? — Gợi ý nhẹ nhất, và cách hỏi ngược lại",
+  "subtitle": "Khung gợi ý nhẹ nhàng nhất trong nhóm: bạn chỉ thả một ý ra giữa bàn chứ không đẩy ai làm gì. Nó cũng là cách ngắn nhất để hỏi ngược ý người khác — “How about you?” — và đó là câu giữ cho một cuộc trò chuyện không bị chết.",
+  "pattern": [
+    "How about <em>+ V-ing</em>?",
+    "How about <em>+ danh từ</em>?",
+    "How about <em>+ mệnh đề</em>?"
+  ],
+  "meaning": "Hay là…? / Còn… thì sao?",
+  "grammar": [25, 24],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Gợi ý nhẹ nhất trong nhóm" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">How about…?</span> là cách thả một ý tưởng ra mà <b>không hề thúc ép</b>. So với [Khung 31]: <i>Let's meet at six</i> nghe như đã quyết; <i>How about six?</i> chỉ là một con số đưa ra để bàn. Người kia bác bỏ cũng chẳng cần lý do gì." },
+        { "t": "p", "html": "Nó có hai công dụng khác hẳn nhau. Một là <b>đề xuất</b>: <i>How about meeting tomorrow?</i> Hai là <b>hỏi ngược ý người khác</b>: <i>I'm from Hanoi. How about you?</i> — công dụng thứ hai cực kỳ quan trọng vì nó chuyền lượt nói sang người kia và giữ cho cuộc trò chuyện tiếp tục." },
+        { "t": "p", "html": "<span class=\"k\">What about…?</span> gần như y hệt khi đề xuất. Nhưng nó còn một nghĩa riêng mà <i>How about</i> không có: <b>nêu điều bị bỏ sót</b>. <i>What about the budget?</i> = còn ngân sách thì sao, mình chưa bàn tới." },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp:</b> sau <i>how about</i> là <b>V-ing</b> hoặc <b>danh từ</b>, không bao giờ là <i>to V</i>. <span class=\"k\">How about meeting at six?</span> ✓ — <i>How about to meet at six?</i> ✗" },
+        { "t": "h3", "text": "Ba thứ có thể theo sau" },
+        {
+          "t": "table",
+          "head": ["Công thức", "Ví dụ", "Ghi chú"],
+          "rows": [
+            ["<code>How about + V-ing?</code>", "How about meeting tomorrow?", "Đề xuất một hành động"],
+            ["<code>How about + danh từ?</code>", "How about Thursday?", "Ngắn gọn nhất — rất hay dùng"],
+            ["<code>How about + mệnh đề?</code>", "How about we meet tomorrow?", "Thân mật, phổ biến khi nói"],
+            ["<code>How about you?</code>", "I'm fine. How about you?", "Hỏi ngược — chuyền lượt nói"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "📅", "title": "Chốt lịch, chốt giờ", "text": "Bối cảnh số 1. <i>How about Thursday at three?</i> Ngắn nhất để thả một phương án." },
+            { "icon": "🔄", "title": "Đề xuất lại sau khi bị từ chối", "text": "<i>Thursday doesn't work? How about Friday?</i> Chuỗi đề xuất rất tự nhiên." },
+            { "icon": "💬", "title": "Hỏi ngược ý người khác", "text": "<i>How about you?</i> Câu giữ cho hội thoại không chết." },
+            { "icon": "🧠", "title": "Thả ý tưởng trong họp", "text": "<i>How about a smaller pilot?</i> Không đẩy ai, chỉ đặt lên bàn." },
+            { "icon": "🍽", "title": "Rủ ăn uống", "text": "<i>How about Vietnamese tonight?</i>" },
+            { "icon": "⚠️", "title": "Cẩn thận khi…", "text": "Cần chốt dứt khoát — khung này quá mềm, người nghe sẽ tưởng vẫn đang bàn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Đề xuất hành động", "<code>How about + V-ing?</code>", "How about starting earlier?"],
+            ["Đề xuất ngắn gọn", "<code>How about + N?</code>", "How about Friday?"],
+            ["Thân mật khi nói", "<code>How about we + V?</code>", "How about we start earlier?"],
+            ["Hỏi ngược", "<code>How about you?</code>", "I'll have tea. How about you?"],
+            ["Nêu điều bỏ sót", "<code>What about + N?</code>", "What about the budget?"],
+            ["Đề xuất lại", "<code>Then how about + N?</code>", "Then how about Saturday?"],
+            ["Thêm lựa chọn", "<code>Or how about + N?</code>", "Or how about the café instead?"],
+            ["Rủ làm ngay", "<code>How about now?</code>", "How about now — are you free?"],
+            ["Trả lời đồng ý", "<code>That works. / Sounds good.</code>", "Friday? That works."],
+            ["Trả lời từ chối", "<code>That's a bit tricky — how about…?</code>", "That's tricky — how about Monday?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Chuỗi đề xuất là ứng dụng mạnh nhất:</b> bị từ chối thì thả ngay phương án khác bằng <span class=\"k\">Then how about…?</span> Cả hai bên đều không mất mặt, và cuộc thương lượng cứ thế tiến tới." },
+        { "t": "callout", "html": "<b>“How about you?” là câu cứu nguy hội thoại:</b> khi bạn vừa trả lời xong một câu hỏi, thêm ba chữ này là chuyền lượt sang người kia — cuộc nói chuyện không rơi vào im lặng." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "V-ing thường theo sau “How about…”",
+              "items": [
+                { "w": "meeting", "vi": "gặp nhau", "ex": "How about meeting at the café instead?", "exvi": "Hay mình gặp ở quán cà phê đi?" },
+                { "w": "starting", "vi": "bắt đầu", "ex": "How about starting a bit earlier?", "exvi": "Hay mình bắt đầu sớm chút?" },
+                { "w": "going", "vi": "đi", "ex": "How about going on Saturday?", "exvi": "Hay mình đi thứ Bảy?" },
+                { "w": "trying", "vi": "thử", "ex": "How about trying the other route?", "exvi": "Hay mình thử đường khác?" },
+                { "w": "waiting", "vi": "chờ", "ex": "How about waiting until next week?", "exvi": "Hay mình chờ tới tuần sau?" },
+                { "w": "splitting", "vi": "chia ra", "ex": "How about splitting it into two parts?", "exvi": "Hay mình chia thành hai phần?" },
+                { "w": "asking", "vi": "hỏi", "ex": "How about asking the client first?", "exvi": "Hay mình hỏi khách hàng trước?" },
+                { "w": "doing it later", "vi": "để sau làm", "ex": "How about doing it after lunch?", "exvi": "Hay để sau bữa trưa làm?" },
+                { "w": "taking a break", "vi": "nghỉ giải lao", "ex": "How about taking a short break?", "exvi": "Hay mình nghỉ chút?" },
+                { "w": "ordering in", "vi": "gọi đồ về", "ex": "How about ordering in tonight?", "exvi": "Tối nay hay mình gọi đồ về?" },
+                { "w": "moving it", "vi": "dời lịch", "ex": "How about moving it to Friday?", "exvi": "Hay mình dời sang thứ Sáu?" },
+                { "w": "sharing", "vi": "chia sẻ, ăn chung", "ex": "How about sharing a few dishes?", "exvi": "Hay mình gọi vài món ăn chung?" },
+                { "w": "walking", "vi": "đi bộ", "ex": "How about walking? It's only ten minutes.", "exvi": "Hay mình đi bộ? Có mười phút thôi." },
+                { "w": "checking", "vi": "kiểm tra", "ex": "How about checking with them first?", "exvi": "Hay mình hỏi họ trước?" },
+                { "w": "calling", "vi": "gọi điện", "ex": "How about calling instead of emailing?", "exvi": "Hay mình gọi điện thay vì gửi email?" },
+                { "w": "booking", "vi": "đặt chỗ", "ex": "How about booking now to be safe?", "exvi": "Hay mình đặt luôn cho chắc?" },
+                { "w": "swapping", "vi": "đổi cho nhau", "ex": "How about swapping seats?", "exvi": "Hay mình đổi chỗ?" },
+                { "w": "leaving it", "vi": "gác lại", "ex": "How about leaving it for today?", "exvi": "Hay hôm nay mình gác lại?" },
+                { "w": "keeping it simple", "vi": "giữ đơn giản", "ex": "How about keeping it simple this time?", "exvi": "Lần này hay mình giữ cho đơn giản?" },
+                { "w": "doing both", "vi": "làm cả hai", "ex": "How about doing both?", "exvi": "Hay mình làm cả hai?" }
+              ]
+            },
+            {
+              "title": "Danh từ & cụm ngắn theo sau",
+              "items": [
+                { "w": "Thursday", "vi": "thứ Năm", "ex": "How about Thursday at three?", "exvi": "Hay ba giờ thứ Năm?", "note": "Dạng ngắn nhất — rất hay dùng khi chốt lịch." },
+                { "w": "next week", "vi": "tuần sau", "ex": "How about next week instead?", "exvi": "Hay tuần sau đi?" },
+                { "w": "tomorrow morning", "vi": "sáng mai", "ex": "How about tomorrow morning?", "exvi": "Hay sáng mai?" },
+                { "w": "the café", "vi": "quán cà phê", "ex": "How about the café on the corner?", "exvi": "Hay quán cà phê ở góc đường?" },
+                { "w": "something lighter", "vi": "món gì nhẹ hơn", "ex": "How about something lighter?", "exvi": "Hay món gì nhẹ hơn?", "note": "Tính từ đứng SAU <i>something</i>." },
+                { "w": "a compromise", "vi": "một phương án dung hòa", "ex": "How about a compromise — half now, half later?", "exvi": "Hay một phương án dung hòa — một nửa bây giờ, một nửa sau?" },
+                { "w": "a quick call", "vi": "một cuộc gọi nhanh", "ex": "How about a quick call at four?", "exvi": "Hay gọi nhanh lúc bốn giờ?" },
+                { "w": "the same again", "vi": "giống như lần trước", "ex": "How about the same again?", "exvi": "Hay giống lần trước?" },
+                { "w": "a different approach", "vi": "một cách tiếp cận khác", "ex": "How about a different approach altogether?", "exvi": "Hay một cách tiếp cận hoàn toàn khác?" },
+                { "w": "you?", "vi": "còn bạn thì sao?", "ex": "I'm from Hanoi. How about you?", "exvi": "Mình ở Hà Nội. Còn bạn?", "note": "Câu chuyền lượt nói — giữ cho hội thoại không chết." }
+              ]
+            },
+            {
+              "title": "Biến thể & cách đáp",
+              "items": [
+                { "w": "What about…?", "vi": "còn… thì sao?", "ex": "What about the budget? We haven't discussed it.", "exvi": "Còn ngân sách thì sao? Mình chưa bàn tới.", "note": "Nghĩa riêng: nêu điều BỊ BỎ SÓT. <i>How about</i> không có nghĩa này." },
+                { "w": "How about we…?", "vi": "hay mình…?", "ex": "How about we start earlier?", "exvi": "Hay mình bắt đầu sớm hơn?", "note": "Dạng mệnh đề — thân mật, rất phổ biến khi nói." },
+                { "w": "Then how about…?", "vi": "vậy hay là…?", "ex": "Thursday's no good? Then how about Friday?", "exvi": "Thứ Năm không được à? Vậy hay thứ Sáu?", "note": "Chuỗi đề xuất — ứng dụng mạnh nhất của khung này." },
+                { "w": "Or how about…?", "vi": "hoặc hay là…?", "ex": "Or how about the café instead?", "exvi": "Hoặc hay là ra quán cà phê?" },
+                { "w": "That works", "vi": "vậy được đấy", "ex": "Friday? That works.", "exvi": "Thứ Sáu à? Vậy được đấy.", "note": "Cách đồng ý gọn nhất khi chốt lịch." },
+                { "w": "That's a bit tricky", "vi": "hơi khó đấy", "ex": "That's a bit tricky — how about Monday?", "exvi": "Hơi khó đấy — hay thứ Hai?", "note": "Từ chối nhẹ rồi thả ngay phương án khác." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "How about Thursday at three?",
+                  "vi": "Hay ba giờ thứ Năm?",
+                  "note": "Dạng ngắn nhất để chốt lịch. Thả một con số cụ thể bao giờ cũng nhanh hơn hỏi chung chung “khi nào bạn rảnh”.",
+                  "reply": [
+                    { "them": "That works. I'll put it in the calendar.", "themvi": "Vậy được đấy. Tôi ghi vào lịch.", "you": "Great — I'll send the invite.", "youvi": "Tuyệt — tôi gửi lời mời." },
+                    { "them": "Thursday's a bit tricky.", "themvi": "Thứ Năm hơi khó.", "you": "Then how about Friday morning?", "youvi": "Vậy hay sáng thứ Sáu?" }
+                  ],
+                  "close": { "en": "Let me know if anything changes.", "vi": "Có gì thay đổi báo tôi nhé." }
+                },
+                {
+                  "en": "How about a smaller pilot first?",
+                  "vi": "Hay thử quy mô nhỏ trước đã?",
+                  "note": "Thả ý tưởng ra giữa bàn mà không đẩy ai — rất hợp khi bạn không phải người quyết định.",
+                  "open": { "en": "Just thinking out loud —", "vi": "Tôi nghĩ ra sao nói vậy —" },
+                  "reply": [
+                    { "them": "How small are we talking?", "themvi": "Nhỏ cỡ nào?", "you": "One region, two weeks.", "youvi": "Một khu vực, hai tuần." }
+                  ]
+                },
+                {
+                  "en": "What about the budget? We haven't discussed it.",
+                  "vi": "Còn ngân sách thì sao? Mình chưa bàn tới.",
+                  "note": "Đây là nghĩa riêng của <b>What about</b> — nêu điều bị bỏ sót. <i>How about</i> không dùng được ở đây.",
+                  "reply": [
+                    { "them": "Good point. Let's add it to the agenda.", "themvi": "Ý hay. Mình thêm vào chương trình họp.", "you": "I'll bring the figures.", "youvi": "Tôi sẽ mang số liệu tới." }
+                  ],
+                  "vars": [
+                    { "en": "What about the people who can't attend?", "vi": "Còn những người không dự được thì sao?" }
+                  ]
+                },
+                {
+                  "en": "How about calling instead of emailing?",
+                  "vi": "Hay mình gọi điện thay vì gửi email?",
+                  "reply": [
+                    { "them": "Email's safer — we'd have a record.", "themvi": "Email an toàn hơn — có bằng chứng.", "you": "Then how about calling and following up by email?", "youvi": "Vậy hay gọi rồi gửi email xác nhận lại?" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "How about Vietnamese tonight?",
+                  "vi": "Tối nay hay ăn đồ Việt?",
+                  "reply": [
+                    { "them": "We had that on Tuesday.", "themvi": "Thứ Ba mình ăn rồi mà.", "you": "Then how about Japanese?", "youvi": "Vậy hay đồ Nhật?" },
+                    { "them": "Sounds good. Where?", "themvi": "Nghe được đấy. Ở đâu?", "you": "The place near the station?", "youvi": "Quán gần nhà ga nhé?" }
+                  ]
+                },
+                {
+                  "en": "How about sharing a few dishes?",
+                  "vi": "Hay mình gọi vài món ăn chung?",
+                  "note": "Cách gọi món hay nhất khi đi nhóm — thử được nhiều món mà không ai ăn thừa.",
+                  "reply": [
+                    { "them": "Good idea — you pick three.", "themvi": "Ý hay — bạn chọn ba món đi.", "you": "Any allergies I should know about?", "youvi": "Có ai dị ứng gì mình cần biết không?" }
+                  ]
+                },
+                {
+                  "en": "How about something lighter?",
+                  "vi": "Hay món gì nhẹ hơn?",
+                  "note": "Tính từ đứng <b>sau</b> <i>something</i> — ngược với tiếng Việt.",
+                  "reply": [
+                    { "them": "Like what?", "themvi": "Ví dụ như gì?", "you": "A salad, or just soup.", "youvi": "Salad, hoặc chỉ súp thôi." }
+                  ]
+                },
+                {
+                  "en": "I'll have the fish. How about you?",
+                  "vi": "Mình gọi món cá. Còn bạn?",
+                  "note": "Câu chuyền lượt — giữ cho cuộc trò chuyện tiếp tục thay vì để rơi vào im lặng.",
+                  "reply": [
+                    { "them": "I can't decide. What do you recommend?", "themvi": "Mình chưa quyết được. Bạn gợi ý gì?", "you": "The noodles are always good here.", "youvi": "Món mì ở đây lúc nào cũng ngon." }
+                  ],
+                  "close": { "en": "Shall we order then?", "vi": "Vậy mình gọi món nhé?" }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I'm from Hanoi. How about you?",
+                  "vi": "Mình ở Hà Nội. Còn bạn?",
+                  "note": "Câu cứu nguy hội thoại. Trả lời xong thì thêm ba chữ này — người kia buộc phải nói tiếp.",
+                  "reply": [
+                    { "them": "I grew up in Da Nang, but I live here now.", "themvi": "Mình lớn lên ở Đà Nẵng, giờ sống ở đây.", "you": "Oh, I love Da Nang. How long have you been here?", "youvi": "Ồ, mình thích Đà Nẵng lắm. Bạn ở đây bao lâu rồi?" }
+                  ],
+                  "vars": [
+                    { "en": "I'm good, thanks. How about you?", "vi": "Mình ổn, cảm ơn. Còn bạn?" }
+                  ]
+                },
+                {
+                  "en": "How about Saturday instead?",
+                  "vi": "Hay thứ Bảy đi?",
+                  "reply": [
+                    { "them": "Saturday's better for me actually.", "themvi": "Thật ra thứ Bảy mình tiện hơn.", "you": "Perfect — let's say eleven?", "youvi": "Tuyệt — mười một giờ nhé?" }
+                  ]
+                },
+                {
+                  "en": "How about taking a short break?",
+                  "vi": "Hay mình nghỉ chút?",
+                  "reply": [
+                    { "them": "I could do with one, honestly.", "themvi": "Thật ra mình đang cần nghỉ.", "you": "Ten minutes?", "youvi": "Mười phút nhé?" }
+                  ]
+                },
+                {
+                  "en": "How about a compromise — half now, half later?",
+                  "vi": "Hay một phương án dung hòa — một nửa bây giờ, một nửa sau?",
+                  "note": "<span class=\"k\">a compromise</span> = phương án dung hòa. Câu gỡ bế tắc khi hai bên không ai nhường.",
+                  "reply": [
+                    { "them": "I could live with that.", "themvi": "Mình chấp nhận được.", "you": "Let's write it down so we don't forget.", "youvi": "Mình ghi lại kẻo quên nhé." }
+                  ],
+                  "close": { "en": "Glad we sorted that out.", "vi": "Mừng vì mình giải quyết xong." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "How about walking? It's only ten minutes.",
+                  "vi": "Hay mình đi bộ? Có mười phút thôi.",
+                  "reply": [
+                    { "them": "In this heat?", "themvi": "Trời nóng thế này à?", "you": "Then how about a taxi?", "youvi": "Vậy hay bắt taxi?" }
+                  ]
+                },
+                {
+                  "en": "How about leaving at six to be safe?",
+                  "vi": "Hay mình đi lúc sáu giờ cho chắc?",
+                  "reply": [
+                    { "them": "Six is very early.", "themvi": "Sáu giờ sớm quá.", "you": "Six thirty then?", "youvi": "Vậy sáu rưỡi nhé?" }
+                  ]
+                },
+                {
+                  "en": "How about swapping seats so you can see out?",
+                  "vi": "Hay mình đổi chỗ để bạn nhìn ra ngoài được?",
+                  "reply": [
+                    { "them": "Are you sure? Thank you!", "themvi": "Bạn chắc chứ? Cảm ơn nhé!", "you": "I'll be asleep anyway.", "youvi": "Đằng nào mình cũng ngủ thôi." }
+                  ]
+                },
+                {
+                  "en": "What about the luggage? Will it all fit?",
+                  "vi": "Còn hành lý thì sao? Có vừa hết không?",
+                  "note": "Lại là <b>What about</b> nêu điều chưa ai tính tới — rất hữu ích khi lên kế hoạch.",
+                  "reply": [
+                    { "them": "Good point. Let's measure the boot.", "themvi": "Ý hay. Mình đo cốp xe đi.", "you": "Or we could take two bags each.", "youvi": "Hoặc mỗi người hai túi thôi." }
+                  ],
+                  "close": { "en": "Better to check now than at six in the morning.", "vi": "Kiểm tra bây giờ còn hơn sáu giờ sáng mới biết." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "How about the blue one instead?",
+                  "vi": "Hay lấy cái màu xanh đi?",
+                  "reply": [
+                    { "them": "I'm not sure blue suits me.", "themvi": "Mình không chắc màu xanh có hợp không.", "you": "Then how about the grey?", "youvi": "Vậy hay màu xám?" }
+                  ]
+                },
+                {
+                  "en": "How about waiting until the sale?",
+                  "vi": "Hay đợi đến đợt giảm giá?",
+                  "reply": [
+                    { "them": "It might sell out.", "themvi": "Có khi hết mất.", "you": "Then how about asking them to hold it?", "youvi": "Vậy hay nhờ họ giữ hàng?" }
+                  ]
+                },
+                {
+                  "en": "How about a smaller size?",
+                  "vi": "Hay lấy cỡ nhỏ hơn?",
+                  "reply": [
+                    { "them": "Let me check if we have one.", "themvi": "Để em kiểm tra xem còn không ạ.", "you": "Thank you, no rush.", "youvi": "Cảm ơn bạn, không vội." }
+                  ]
+                },
+                {
+                  "en": "That's over budget. How about something similar but cheaper?",
+                  "vi": "Cái đó vượt ngân sách. Hay món gì tương tự mà rẻ hơn?",
+                  "note": "Nêu giới hạn rồi thả ngay phương án — nhân viên sẽ tìm giúp bạn thay vì cố bán món đắt.",
+                  "reply": [
+                    { "them": "We have this one at half the price.", "themvi": "Bên em có mẫu này giá bằng nửa ạ.", "you": "That looks perfect. I'll take it.", "youvi": "Trông hợp quá. Tôi lấy cái này." }
+                  ],
+                  "close": { "en": "Thanks for finding that.", "vi": "Cảm ơn bạn đã tìm giúp." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Chuỗi đề xuất để chốt lịch",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "How about Thursday at three?", "vi": "Hay ba giờ thứ Năm?" },
+            { "speaker": "Client", "en": "Thursday's a bit tricky, I'm afraid.", "vi": "E là thứ Năm hơi khó." },
+            { "speaker": "You", "me": true, "en": "Then how about Friday morning?", "vi": "Vậy hay sáng thứ Sáu?" },
+            { "speaker": "Client", "en": "Friday morning I'm travelling.", "vi": "Sáng thứ Sáu tôi đi công tác." },
+            { "speaker": "You", "me": true, "en": "Or how about a quick call this afternoon instead?", "vi": "Hoặc hay gọi nhanh chiều nay thay thế?" },
+            { "speaker": "Client", "en": "That works. Four o'clock?", "vi": "Vậy được. Bốn giờ nhé?" }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Làm quen trong một sự kiện",
+          "lines": [
+            { "speaker": "Stranger", "en": "So what brings you here?", "vi": "Điều gì đưa bạn tới đây vậy?" },
+            { "speaker": "You", "me": true, "en": "I work in software. How about you?", "vi": "Mình làm phần mềm. Còn bạn?" },
+            { "speaker": "Stranger", "en": "Marketing, for a travel company.", "vi": "Marketing, cho một công ty du lịch." },
+            { "speaker": "You", "me": true, "en": "Oh nice. Have you been to many of these events? How about this one — worth it?", "vi": "Hay đấy. Bạn dự nhiều sự kiện kiểu này chưa? Còn buổi này — có đáng không?" },
+            { "speaker": "Stranger", "en": "First time, actually.", "vi": "Thật ra đây là lần đầu." },
+            { "speaker": "You", "me": true, "en": "Same here. How about we grab a coffee and compare notes?", "vi": "Mình cũng vậy. Hay mình đi uống cà phê rồi trao đổi?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "How about to meet at six?", "right": "How about meeting at six?", "why": "Sau <b>how about</b> là <b>V-ing</b> hoặc danh từ, không bao giờ là <i>to V</i>." },
+            { "wrong": "How about we to start?", "right": "How about we start?", "why": "Dạng mệnh đề thì động từ chia bình thường, không có <i>to</i>." },
+            { "wrong": "How about the budget? <i>(ý: nêu điều bỏ sót)</i>", "right": "What about the budget?", "why": "Nêu điều BỊ BỎ SÓT thì dùng <b>What about</b>. <i>How about</i> chỉ dùng để đề xuất." },
+            { "wrong": "How about you? <i>(hỏi sức khỏe người ốm)</i>", "right": "How are you feeling?", "why": "<i>How about you?</i> là hỏi ngược lại ý kiến/lựa chọn, không phải hỏi thăm sức khỏe." },
+            { "wrong": "How about go to the cinema?", "right": "How about going to the cinema?", "why": "Thiếu đuôi <b>-ing</b> — lỗi hay gặp khi nói nhanh." },
+            { "wrong": "How about if we start earlier?", "right": "How about we start earlier?", "why": "Không cần <b>if</b>. Dạng mệnh đề đi thẳng sau <i>how about</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>How about + V-ing?</code>", "Gợi ý nhẹ nhất — chỉ thả ý ra", "<i>How about meeting at six?</i>"],
+            ["<code>What about + N?</code>", "Nêu điều bị bỏ sót — nghĩa riêng", "<i>What about the budget?</i>"],
+            ["<code>Why don't we + V?</code>", "Đề xuất dưới dạng câu hỏi", "<i>Why don't we meet at six?</i> — Xem [Khung 32]."],
+            ["<code>Shall we + V?</code>", "Hỏi ý — lịch sự, Anh-Anh", "<i>Shall we meet at six?</i> — Xem [Khung 34]."],
+            ["<code>Let's + V</code>", "Rủ — nghe như đã quyết", "<i>Let's meet at six.</i> — Xem [Khung 31]."],
+            ["<code>We could + V</code>", "Nêu khả năng — trung tính", "<i>We could meet at six.</i> — Xem [Khung 36]."],
+            ["<code>What do you say we + V?</code>", "Rủ thân mật, hỏi ý thẳng", "<i>What do you say we meet at six?</i> — Xem [Khung 40]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ thúc ép — đề xuất giờ gặp" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "How about six?", "vi": "Nhẹ nhất — chỉ thả một con số" },
+            { "en": "Why don't we meet at six?", "vi": "Nhẹ — dạng câu hỏi" },
+            { "en": "Shall we meet at six?", "vi": "Lịch sự — hỏi ý" },
+            { "en": "Let's meet at six.", "vi": "Rủ — nghe như đã quyết" },
+            { "en": "We'll meet at six.", "vi": "Mạnh nhất — thông báo" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>How about</b> nối liền thành <b>“hau-wə-BAUT”</b> — âm /w/ xuất hiện giữa hai nguyên âm.",
+            "Khi nói rất nhanh, cả cụm rút thành <b>“hau-BAUT”</b> — gần như nuốt mất chữ <i>a</i>.",
+            "<b>How about you?</b> → “hau-wə-bau-CHƯ” — <i>about you</i> dính thành /tʃ/, nghe như “bao-chơ”.",
+            "<b>What about</b> → “wo-də-BAUT” — âm /t/ giữa hai nguyên âm thành /d/ nhẹ trong giọng Mỹ.",
+            "Trọng âm rơi vào <b>BOUT</b> và vào từ chính theo sau: <i>How a</i><b>BOUT</b> <b>THURS</b>-<i>day?</i>",
+            "<b>Giọng đi lên ở cuối</b> — đây là câu hỏi thật, mời người kia phản hồi."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "How about meeting at the café instead?", "vi": "Luyện shadowing: nói “hau-wə-baut” liền một khối, nhấn vào “café”." },
+            { "en": "I'm good, thanks. How about you?", "vi": "Chú ý “about you” dính thành “bao-chơ” — nghe quen để bắt kịp." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Hay mình gặp ở quán cà phê đi?", "blank": "__________ at the café?", "a": "How about meeting (V-ing, không phải “to meet”)" },
+            { "vi": "Hay ba giờ thứ Năm?", "blank": "__________ at three?", "a": "How about Thursday" },
+            { "vi": "Còn ngân sách thì sao? Mình chưa bàn tới.", "blank": "__________ the budget? We haven't discussed it.", "a": "What about (nêu điều bỏ sót)" },
+            { "vi": "Mình ở Hà Nội. Còn bạn?", "blank": "I'm from Hanoi. __________?", "a": "How about you" },
+            { "vi": "Thứ Năm không được à? Vậy hay thứ Sáu?", "blank": "Thursday's no good? __________ Friday?", "a": "Then how about" },
+            { "vi": "Hay mình bắt đầu sớm hơn? (dạng mệnh đề)", "blank": "__________ start earlier?", "a": "How about we" },
+            { "vi": "Hay món gì nhẹ hơn?", "blank": "How about __________?", "a": "something lighter" },
+            { "vi": "Thứ Sáu à? Vậy được đấy.", "blank": "Friday? __________.", "a": "That works" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tối nay hay ăn đồ Việt?", "a": "How about Vietnamese tonight?" },
+            { "vi": "2. Hay mình gọi vài món ăn chung?", "a": "How about sharing a few dishes?" },
+            { "vi": "3. Hay mình đi bộ? Có mười phút thôi.", "a": "How about walking? It's only ten minutes." },
+            { "vi": "4. Hay một phương án dung hòa — một nửa bây giờ, một nửa sau?", "a": "How about a compromise — half now, half later?" },
+            { "vi": "5. Hay mình gọi điện thay vì gửi email?", "a": "How about calling instead of emailing?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Dùng để chốt lịch nhanh:</b> thả một con số cụ thể — <i>How about Thursday at three?</i> — bao giờ cũng nhanh hơn hỏi “khi nào bạn rảnh”.",
+            "<b>Học chuỗi đề xuất:</b> bị từ chối thì thả ngay <i>Then how about…?</i> Cuộc thương lượng cứ thế tiến tới mà không ai mất mặt.",
+            "<b>Thuộc “How about you?”:</b> ba chữ này cứu bạn khỏi mọi khoảng lặng ngượng ngùng trong hội thoại.",
+            "<b>Nhớ V-ing, không phải to V:</b> <i>How about <b>meeting</b></i>. Đây là lỗi bám dai nhất của khung này.",
+            "<b>Phân biệt how / what:</b> đề xuất thì dùng cả hai được; nhưng nêu điều bị bỏ sót thì chỉ <i>What about</i> mới đúng.",
+            "<b>Bài tập 3 phút:</b> nghĩ một cuộc hẹn cần chốt, viết ba phương án nối tiếp nhau bằng <i>How about… / Then how about… / Or how about…</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

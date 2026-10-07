@@ -1,0 +1,143 @@
+{
+  "id": 2,
+  "title": "Đọc ký hiệu phiên âm — nguyên âm",
+  "skipWordCheck": true,
+  "_whySkip": "Bài này dạy KÝ HIỆU, nên phần tiếng Anh là các từ mẫu một âm tiết dùng để minh hoạ âm, không phải câu — soát theo từ vựng A1 sẽ báo nhầm.",
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn sẽ <b>đọc được phần nguyên âm</b> trong những ký hiệu lạ mắt kiểu <code>/ˈdedlaɪn/</code>, và tự tra được cách đọc bất kỳ từ nào mà không cần ai dạy." },
+        { "t": "callout", "html": "<b>Vì sao phải học thứ này?</b><br>Chữ viết tiếng Anh <b>nói dối</b> về cách đọc. Cùng chữ <code>ea</code>:<br>• <i>eat</i> đọc /iː/ · <i>bread</i> đọc /e/ · <i>heart</i> đọc /ɑː/<br><br>Nhìn mặt chữ là đoán sai. Phiên âm thì <b>một ký hiệu luôn là một âm</b>, không bao giờ đổi. Học 20 ký hiệu một lần, dùng được cả đời." },
+        { "t": "p", "html": "<b>Nguyên âm</b> là âm phát ra khi hơi đi thẳng ra, miệng không bị chặn — trong tiếng Việt là <i>a, e, i, o, u</i>. <b>Phụ âm</b> là âm bị lưỡi hoặc môi chặn lại — <i>b, c, d, m, n…</i> Bài này chỉ học nguyên âm; phụ âm để bài sau." }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "Bài 01 — bảng chữ cái. Nhớ rằng <b>tên chữ</b> khác <b>âm chữ</b>: chữ <code>A</code> tên là “ây”, nhưng âm nó tạo ra trong từ thì có tới năm sáu kiểu khác nhau. Bài này học chính các âm đó." },
+        { "t": "p", "html": "Ký hiệu phiên âm luôn nằm giữa hai gạch chéo: <code>/ /</code>. Thấy hai gạch này là biết bên trong không phải chữ viết mà là âm." }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "table", "head": ["Luật", "Nghĩa là gì", "Ví dụ"], "rows": [
+          ["<b>1.</b> Một ký hiệu = một âm", "Không bao giờ đổi, dù nằm trong từ nào", "<code>/iː/</code> luôn là “i” dài"],
+          ["<b>2.</b> Dấu <code>ː</code> nghĩa là kéo dài", "Cùng một âm, chỉ khác dài ngắn", "<code>/ɪ/</code> ngắn · <code>/iː/</code> dài"],
+          ["<b>3.</b> Hai ký hiệu dính nhau = âm đôi", "Miệng trượt từ âm này sang âm kia", "<code>/aɪ/</code> = “a” trượt sang “i”"]
+        ] },
+        { "t": "h3", "text": "Mười hai nguyên âm đơn" },
+        { "t": "table", "head": ["Ký hiệu", "Đọc thế nào", "Từ mẫu"], "rows": [
+          ["<code>/iː/</code>", "“i” <b>dài</b>, môi kéo ngang", "see · tea · meet"],
+          ["<code>/ɪ/</code>", "“i” <b>ngắn</b>, miệng lỏng hơn", "sit · big · fish"],
+          ["<code>/e/</code>", "“e” như trong <i>em</i>", "bed · ten · red"],
+          ["<code>/æ/</code>", "giữa “a” và “e”, miệng mở rộng", "cat · bag · hand"],
+          ["<code>/ɑː/</code>", "“a” <b>dài</b>, mở to cổ họng", "car · park · arm"],
+          ["<code>/ɒ/</code>", "“o” <b>ngắn</b>, môi tròn", "hot · dog · box"],
+          ["<code>/ɔː/</code>", "“o” <b>dài</b>, môi tròn chặt", "door · four · small"],
+          ["<code>/ʊ/</code>", "“u” <b>ngắn</b>", "book · good · put"],
+          ["<code>/uː/</code>", "“u” <b>dài</b>, môi chúm", "food · blue · two"],
+          ["<code>/ʌ/</code>", "giữa “ă” và “â”, miệng thả lỏng", "cup · sun · money"],
+          ["<code>/ɜː/</code>", "“ơ” <b>dài</b>", "work · girl · learn"],
+          ["<code>/ə/</code>", "“ơ” <b>rất nhẹ</b>, gần như nuốt", "teacher · water · sofa"]
+        ] },
+        { "t": "callout", "html": "<b>Ký hiệu quan trọng nhất là <code>/ə/</code>.</b> Nó xuất hiện nhiều hơn mọi âm khác trong tiếng Anh, vì <b>mọi âm tiết không được nhấn đều rút về <code>/ə/</code></b>.<br><br><i>teacher</i> = <code>/ˈtiːtʃə/</code> — phần sau không đọc “chơ” rõ ràng mà chỉ là một tiếng “ơ” lướt qua.<br><br>Người Việt hay đọc <b>rõ từng âm tiết</b> nên nghe rất cứng. Biết <code>/ə/</code> là biết chỗ nào được phép đọc lướt." },
+        { "t": "h3", "text": "Tám âm đôi" },
+        { "t": "table", "head": ["Ký hiệu", "Trượt từ đâu sang đâu", "Từ mẫu"], "rows": [
+          ["<code>/eɪ/</code>", "“ê” → “i”", "day · name · eight"],
+          ["<code>/aɪ/</code>", "“a” → “i”", "five · my · time"],
+          ["<code>/ɔɪ/</code>", "“o” → “i”", "boy · toilet"],
+          ["<code>/əʊ/</code>", "“ơ” → “u”", "go · home · no"],
+          ["<code>/aʊ/</code>", "“a” → “u”", "now · house · brown"],
+          ["<code>/ɪə/</code>", "“i” → “ơ”", "here · near · ear"],
+          ["<code>/eə/</code>", "“e” → “ơ”", "hair · chair · where"],
+          ["<code>/ʊə/</code>", "“u” → “ơ”", "sure · tour"]
+        ] }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "Cặp dài / ngắn — nghe kỹ sự khác nhau" },
+        { "t": "ex", "items": [
+          { "en": "sit /sɪt/ — seat /siːt/", "vi": "ngồi — chỗ ngồi", "note": "Chỉ khác <b>độ dài</b>. Đọc nhầm là ra từ khác." },
+          { "en": "fish /fɪʃ/", "vi": "con cá", "note": "<code>/ɪ/</code> ngắn, miệng thả lỏng." },
+          { "en": "tea /tiː/", "vi": "trà", "note": "<code>/iː/</code> dài, môi kéo ngang như đang cười." },
+          { "en": "full /fʊl/ — food /fuːd/", "vi": "no — thức ăn", "note": "<code>/ʊ/</code> ngắn và <code>/uː/</code> dài." },
+          { "en": "book /bʊk/", "vi": "quyển sách", "note": "<code>/ʊ/</code> ngắn — không phải “bu” kéo dài." },
+          { "en": "blue /bluː/", "vi": "màu xanh dương", "note": "<code>/uː/</code> dài, môi chúm tròn." },
+          { "en": "hot /hɒt/", "vi": "nóng", "note": "<code>/ɒ/</code> ngắn, môi tròn nhỏ." },
+          { "en": "door /dɔː/", "vi": "cái cửa", "note": "<code>/ɔː/</code> dài — giữ môi tròn lâu hơn." }
+        ] },
+        { "t": "h3", "text": "Ba âm người Việt hay lẫn" },
+        { "t": "ex", "items": [
+          { "en": "cat /kæt/", "vi": "con mèo", "note": "<code>/æ/</code> — mở miệng rộng hơn “e” tiếng Việt." },
+          { "en": "bed /bed/", "vi": "cái giường", "note": "<code>/e/</code> — hẹp hơn <code>/æ/</code>. So với <i>bad</i> /bæd/." },
+          { "en": "cup /kʌp/", "vi": "cái cốc", "note": "<code>/ʌ/</code> — miệng thả lỏng, không tròn môi." },
+          { "en": "car /kɑː/", "vi": "ô tô", "note": "<code>/ɑː/</code> — mở to cổ họng, kéo dài." },
+          { "en": "work /wɜːk/", "vi": "làm việc", "note": "<code>/ɜː/</code> — “ơ” dài, không phải “o”." },
+          { "en": "girl /ɡɜːl/", "vi": "cô bé", "note": "Cùng <code>/ɜː/</code> với <i>work</i>, dù mặt chữ khác hẳn." }
+        ] },
+        { "t": "h3", "text": "Âm /ə/ — chỗ được phép đọc lướt" },
+        { "t": "ex", "items": [
+          { "en": "teacher /ˈtiːtʃə/", "vi": "giáo viên", "note": "Âm tiết hai lướt thành <code>/ə/</code>, không đọc rõ." },
+          { "en": "water /ˈwɔːtə/", "vi": "nước", "note": "Đuôi <i>-er</i> cũng chỉ là <code>/ə/</code>." },
+          { "en": "doctor /ˈdɒktə/", "vi": "bác sĩ", "note": "Đuôi <i>-or</i> cũng ra <code>/ə/</code> — mặt chữ khác, âm giống." },
+          { "en": "about /əˈbaʊt/", "vi": "về, khoảng", "note": "<code>/ə/</code> đứng ngay đầu từ." },
+          { "en": "banana /bəˈnɑːnə/", "vi": "quả chuối", "note": "Ba chữ <code>a</code>, chỉ chữ giữa đọc rõ — hai chữ kia đều là <code>/ə/</code>." }
+        ] },
+        { "t": "h3", "text": "Âm đôi — miệng phải trượt" },
+        { "t": "ex", "items": [
+          { "en": "day /deɪ/", "vi": "ngày", "note": "Miệng trượt “ê” sang “i”, không dừng ở một chỗ." },
+          { "en": "five /faɪv/", "vi": "số năm", "note": "<code>/aɪ/</code> — “a” trượt sang “i”." },
+          { "en": "go /ɡəʊ/", "vi": "đi", "note": "<code>/əʊ/</code> bắt đầu bằng “ơ” chứ không phải “ô”." },
+          { "en": "now /naʊ/", "vi": "bây giờ", "note": "<code>/aʊ/</code> — “a” trượt sang “u”." },
+          { "en": "here /hɪə/", "vi": "ở đây", "note": "<code>/ɪə/</code> — “i” trượt sang “ơ”." },
+          { "en": "chair /tʃeə/", "vi": "cái ghế", "note": "<code>/eə/</code> — “e” trượt sang “ơ”." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — đọc ký hiệu" },
+        { "t": "quiz", "items": [
+          { "vi": "Dấu <code>ː</code> trong <code>/iː/</code> có nghĩa gì?", "a": "Kéo dài âm đó ra" },
+          { "vi": "Ký hiệu nào xuất hiện nhiều nhất trong tiếng Anh?", "a": "<code>/ə/</code> — âm “ơ” rất nhẹ ở âm tiết không nhấn" },
+          { "vi": "<code>/aɪ/</code> đọc thế nào?", "a": "“a” trượt sang “i”, như trong <i>five</i>" },
+          { "vi": "<code>/ɜː/</code> đọc thế nào?", "a": "“ơ” dài, như trong <i>work</i>, <i>girl</i>" },
+          { "vi": "Khác nhau giữa <code>/ɪ/</code> và <code>/iː/</code> là gì?", "a": "Chỉ khác độ dài — <i>sit</i> ngắn, <i>seat</i> dài" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — đọc từ qua phiên âm" },
+        { "t": "quiz", "items": [
+          { "vi": "<code>/bʊk/</code> là từ nào?", "a": "book — quyển sách" },
+          { "vi": "<code>/kɑː/</code> là từ nào?", "a": "car — ô tô" },
+          { "vi": "<code>/ɡəʊ/</code> là từ nào?", "a": "go — đi" },
+          { "vi": "<code>/ˈwɔːtə/</code> là từ nào?", "a": "water — nước" },
+          { "vi": "<code>/naʊ/</code> là từ nào?", "a": "now — bây giờ" }
+        ] },
+        { "t": "h3", "text": "Phần 3 — tự tra" },
+        { "t": "quiz", "items": [
+          { "vi": "Mở tab Từ vựng, tìm từ <i>teacher</i>, đọc to phiên âm của nó.", "a": "<code>/ˈtiːtʃə/</code> — âm tiết hai lướt nhẹ thành <code>/ə/</code>" },
+          { "vi": "Tìm ba từ trong tab Từ vựng có chứa <code>/ə/</code>.", "a": "Rất nhiều — hầu như từ nào từ hai âm tiết trở lên cũng có" }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>Chữ viết nói dối, phiên âm thì không.</b> Thấy từ lạ, đừng đoán theo mặt chữ — nhìn phần <code>/ /</code> trong tab Từ vựng.",
+          "<b><code>/ə/</code> là ký hiệu quan trọng nhất.</b> Nó đánh dấu chỗ được đọc lướt. Đọc rõ mọi âm tiết là lý do câu tiếng Anh của người Việt nghe cứng.",
+          "<b>Dấu <code>ː</code> chỉ nghĩa là dài hơn.</b> Nhưng dài ngắn đổi cả nghĩa: <i>sit</i> ≠ <i>seat</i>, <i>full</i> ≠ <i>fool</i>."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "<i>book</i> đọc “búc” kéo dài", "right": "<i>book</i> = <code>/bʊk/</code>, âm <code>/ʊ/</code> ngắn", "why": "Người Việt hay kéo dài mọi nguyên âm. Nhưng <code>/ʊ/</code> ngắn và <code>/uː/</code> dài là hai âm khác nhau — <i>full</i> /fʊl/ và <i>fool</i> /fuːl/ là hai từ." },
+          { "wrong": "<i>teacher</i> đọc “ti-chơ” rõ hai tiếng đều nhau", "right": "<i>teacher</i> = <code>/ˈtiːtʃə/</code> — tiếng sau lướt nhẹ", "why": "Tiếng Việt mỗi âm tiết một thanh rõ ràng nên ta quen đọc đều. Tiếng Anh thì âm tiết không nhấn phải nhẹ hẳn đi, nếu không nghe như đang đánh vần." },
+          { "wrong": "<i>go</i> đọc “gô”", "right": "<i>go</i> = <code>/ɡəʊ/</code>, bắt đầu bằng “ơ”", "why": "<code>/əʊ/</code> là âm đôi trượt từ “ơ” sang “u”, không phải “ô” đứng yên. Đây là âm làm giọng Việt lộ rõ nhất khi nói tiếng Anh." }
+        ] }
+      ]
+    }
+  ]
+}

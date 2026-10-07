@@ -1,0 +1,277 @@
+{
+  "id": 13,
+  "group": "Nhóm 5 · Tương lai",
+  "title": "Tương lai hoàn thành & tiếp diễn",
+  "subtitle": "Hai cấu trúc để nói về một thời điểm trong tương lai: lúc đó việc sẽ đã xong (will have + V3) hay lúc đó bạn sẽ đang làm dở (will be + V-ing). Bẫy nằm ở cặp giới từ by và at — chọn sai là chọn nhầm luôn cấu trúc.",
+  "meaning": "Đến lúc đó sẽ đã xong · vào lúc đó sẽ đang làm",
+  "rule": [
+    "S + <em>will have</em> + V3 <em>(đã xong)</em>",
+    "S + <em>will be</em> + V-ing <em>(đang làm dở)</em>",
+    "<em>by</em> + mốc · <em>at</em> + giờ"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1–B2", "hot": true },
+    { "text": "by → have V3 · at → be V-ing" },
+    { "text": "Sau will have là V3" },
+    { "text": "Tần suất: trung bình" }
+  ],
+  "frames": [91, 92, 94, 97, 99],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Cả hai cấu trúc đều nhìn về một <b>thời điểm trong tương lai</b> rồi hỏi: lúc đó chuyện gì đang ở trạng thái nào? Khác nhau ở câu trả lời — <b>đã xong rồi</b> hay <b>vẫn đang làm dở</b>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — cặp giới từ quyết định cấu trúc:</b><br>• <b>by</b> + mốc thời gian → việc sẽ ĐÃ XONG: <i>I'll have finished <b>by</b> six.</i><br>• <b>at</b> + giờ → việc sẽ ĐANG diễn ra: <i>I'll be working <b>at</b> six.</i><br>Chọn sai giới từ là chọn nhầm luôn cấu trúc." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — dạng động từ:</b> sau <b>will have</b> là <b>V3</b>, sau <b>will be</b> là <b>V-ing</b>.<br>• <i>I'll have <b>gone</b></i> ✓ — <i>I'll have went</i> ✗<br>• <i>I'll be <b>working</b></i> ✓ — <i>I'll be work</i> ✗<br>Và <i>will</i> không chia theo ngôi — không có <i>wills</i>." },
+        { "t": "h3", "text": "Hai cấu trúc, hai câu hỏi" },
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Trả lời câu hỏi", "Ví dụ"],
+          "rows": [
+            ["<code>will have + V3</code>", "Đến lúc đó XONG chưa?", "I'll have finished by six."],
+            ["<code>will be + V-ing</code>", "Vào lúc đó ĐANG làm gì?", "I'll be working at six."],
+            ["<code>will have been + V-ing</code>", "Đến lúc đó được BAO LÂU rồi?", "I'll have been working here for ten years."],
+            ["<code>will + V trần</code>", "Nói chung về tương lai", "I'll finish it tomorrow."]
+          ]
+        },
+        { "t": "p", "html": "Còn một công dụng ít người biết của <b>will be + V-ing</b>: hỏi lịch người khác một cách <b>rất lịch sự</b>, không có ý thúc ép. <i>Will you be using the car tonight?</i> nghe nhẹ hơn hẳn <i>Are you going to use the car?</i> — nó chỉ hỏi về sự việc, không hỏi về ý định." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Tương lai hoàn thành", "<code>S + will have + V3</code>", "I'll have finished by six."],
+            ["Phủ định", "<code>S + won't have + V3</code>", "I won't have finished by then."],
+            ["Câu hỏi", "<code>Will + S + have + V3?</code>", "Will you have finished by six?"],
+            ["Tương lai tiếp diễn", "<code>S + will be + V-ing</code>", "I'll be working at six."],
+            ["Phủ định", "<code>S + won't be + V-ing</code>", "I won't be working tomorrow."],
+            ["Câu hỏi", "<code>Will + S + be + V-ing?</code>", "Will you be using the car?"],
+            ["Hoàn thành tiếp diễn", "<code>will have been + V-ing</code>", "I'll have been working here for ten years."],
+            ["Với <code>by</code>", "<code>by + mốc</code> → have V3", "by six · by Friday · by then"],
+            ["Với <code>at</code>", "<code>at + giờ</code> → be V-ing", "at six · at this time tomorrow"],
+            ["Với <code>by the time</code>", "<code>by the time + hiện tại</code>", "By the time you arrive, I'll have left."],
+            ["Hỏi lịch lịch sự", "<code>Will you be + V-ing?</code>", "Will you be joining us?"],
+            ["Rút gọn", "<code>I'll have / I'll be</code>", "I'll have done it by then."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dòng 10 là bẫy phụ:</b> sau <b>by the time</b> dùng <b>hiện tại đơn</b>, dù cả câu nói về tương lai — <i>By the time you <b>arrive</b>, I'll have left</i> ✓. Cùng luật với <i>when, if, as soon as</i>. Xem [Ngữ pháp 12]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'll have finished by six.", "vi": "Sáu giờ tôi sẽ xong rồi.", "note": "<b>by</b> + mốc → việc sẽ ĐÃ xong trước hoặc đúng lúc đó." },
+            { "en": "I'll be working at six.", "vi": "Sáu giờ tôi sẽ đang làm việc.", "note": "<b>at</b> + giờ → việc sẽ ĐANG diễn ra lúc đó." },
+            { "en": "I won't have finished by then.", "vi": "Đến lúc đó tôi vẫn chưa xong đâu.", "note": "Phủ định: <b>won't have</b> + V3." },
+            { "en": "Will you have finished by Friday?", "vi": "Thứ Sáu anh/chị xong chưa?", "note": "Câu hỏi đảo <i>will</i> lên trước chủ ngữ." },
+            { "en": "By the time you arrive, I'll have left.", "vi": "Lúc bạn đến thì tôi đã đi rồi.", "note": "Sau <b>by the time</b> dùng HIỆN TẠI: <i>you arrive</i> ✓." },
+            { "en": "This time tomorrow, I'll be flying to Da Nang.", "vi": "Giờ này mai tôi sẽ đang bay đi Đà Nẵng.", "note": "<i>this time tomorrow</i> là mốc rất hay đi với tương lai tiếp diễn." },
+            { "en": "Will you be using the car tonight?", "vi": "Tối nay anh/chị có dùng xe không?", "note": "Cách hỏi lịch LỊCH SỰ, không có ý thúc ép." },
+            { "en": "I won't be working tomorrow.", "vi": "Mai tôi không làm việc.", "note": "Phủ định: <b>won't be</b> + V-ing." },
+            { "en": "Next year I'll have been working here for ten years.", "vi": "Sang năm là tôi làm ở đây được mười năm.", "note": "<b>will have been + V-ing</b> — đếm thời lượng tính đến một mốc tương lai. Xem [Khung 94]." },
+            { "en": "I'll have done it by then, don't worry.", "vi": "Đến lúc đó tôi làm xong rồi, đừng lo.", "note": "V3 của <i>do</i> là <b>done</b>, không phải <i>did</i>." },
+            { "en": "Will you be joining us for dinner?", "vi": "Anh/chị có dùng bữa tối cùng không ạ?", "note": "Rất lịch sự — hay nghe trong nhà hàng, khách sạn." },
+            { "en": "I'll finish it tomorrow.", "vi": "Mai tôi sẽ làm xong.", "note": "Nói chung về tương lai thì <i>will + V trần</i> là đủ. Xem [Ngữ pháp 10]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "✅", "title": "Hứa xong trước hạn", "text": "<i>I'll have finished by six.</i> Dùng <b>by</b>." },
+            { "icon": "🕕", "title": "Nói lúc đó đang bận", "text": "<i>I'll be working at six.</i> Dùng <b>at</b>." },
+            { "icon": "🙋", "title": "Hỏi lịch lịch sự", "text": "<i>Will you be using the car?</i> Không thúc ép." },
+            { "icon": "🎂", "title": "Đếm mốc kỷ niệm", "text": "<i>Next year I'll have been here for ten years.</i>" },
+            { "icon": "⏰", "title": "Báo hạn chót không kịp", "text": "<i>I won't have finished by then.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Chỉ nói chung về tương lai. Lúc đó <i>will + V</i> là đủ — xem [Ngữ pháp 10]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Tương lai hoàn thành — will have + V3",
+              "items": [
+                { "w": "by six / by Friday", "vi": "trước sáu giờ / trước thứ Sáu", "ex": "I'll have finished by six.", "exvi": "Sáu giờ tôi sẽ xong rồi.", "note": "BẪY SỐ MỘT: <b>by</b> kéo theo <i>will have + V3</i>." },
+                { "w": "by then", "vi": "đến lúc đó", "ex": "I'll have done it by then.", "exvi": "Đến lúc đó tôi làm xong rồi." },
+                { "w": "by the time + hiện tại", "vi": "đến lúc mà", "ex": "By the time you arrive, I'll have left.", "exvi": "Lúc bạn đến thì tôi đã đi rồi.", "note": "Sau <i>by the time</i> dùng HIỆN TẠI, không dùng <i>will</i>." },
+                { "w": "by the end of + N", "vi": "trước khi kết thúc", "ex": "By the end of the week, we'll have finished.", "exvi": "Trước cuối tuần bọn tôi sẽ xong." },
+                { "w": "will have finished", "vi": "sẽ đã xong", "ex": "I'll have finished by six.", "exvi": "Sáu giờ tôi xong rồi." },
+                { "w": "will have done", "vi": "sẽ đã làm", "ex": "I'll have done it by then.", "exvi": "Đến lúc đó tôi làm xong.", "note": "V3 của <i>do</i> là <b>done</b>. <i>will have did</i> ✗." },
+                { "w": "will have gone", "vi": "sẽ đã đi", "ex": "He'll have gone by nine.", "exvi": "Chín giờ anh ấy đi rồi.", "note": "V3 của <i>go</i> là <b>gone</b>. <i>will have went</i> ✗." },
+                { "w": "will have left", "vi": "sẽ đã rời đi", "ex": "I'll have left by then.", "exvi": "Đến lúc đó tôi đi rồi." },
+                { "w": "won't have + V3", "vi": "sẽ vẫn chưa", "ex": "I won't have finished by then.", "exvi": "Đến lúc đó tôi vẫn chưa xong." },
+                { "w": "Will you have…?", "vi": "anh/chị sẽ xong chưa?", "ex": "Will you have finished by Friday?", "exvi": "Thứ Sáu anh/chị xong chưa?" },
+                { "w": "will have been + V-ing", "vi": "sẽ được bao lâu rồi", "ex": "I'll have been working here for ten years.", "exvi": "Tôi sẽ làm ở đây được mười năm.", "note": "Đếm thời lượng tính đến một mốc TƯƠNG LAI. Xem [Khung 94]." },
+                { "w": "until ≠ by", "vi": "cho đến ≠ trước khi", "ex": "Wait until six. · Finish by six.", "exvi": "Chờ đến sáu giờ. · Xong trước sáu giờ.", "note": "<b>until</b> = suốt cho đến lúc đó; <b>by</b> = trước hoặc đúng lúc đó." }
+              ]
+            },
+            {
+              "title": "Tương lai tiếp diễn — will be + V-ing",
+              "items": [
+                { "w": "at six", "vi": "lúc sáu giờ", "ex": "I'll be working at six.", "exvi": "Sáu giờ tôi sẽ đang làm việc.", "note": "<b>at</b> kéo theo <i>will be + V-ing</i>." },
+                { "w": "this time tomorrow", "vi": "giờ này mai", "ex": "This time tomorrow, I'll be flying.", "exvi": "Giờ này mai tôi sẽ đang bay.", "note": "Mốc rất hay đi với tương lai tiếp diễn." },
+                { "w": "all day tomorrow", "vi": "cả ngày mai", "ex": "I'll be working all day tomorrow.", "exvi": "Cả ngày mai tôi sẽ làm việc." },
+                { "w": "will be working", "vi": "sẽ đang làm việc", "ex": "I'll be working at six.", "exvi": "Sáu giờ tôi đang làm việc." },
+                { "w": "will be flying", "vi": "sẽ đang bay", "ex": "I'll be flying to Da Nang.", "exvi": "Tôi sẽ đang bay đi Đà Nẵng." },
+                { "w": "will be waiting", "vi": "sẽ đang chờ", "ex": "I'll be waiting outside.", "exvi": "Tôi sẽ chờ ở ngoài." },
+                { "w": "won't be + V-ing", "vi": "sẽ không đang làm", "ex": "I won't be working tomorrow.", "exvi": "Mai tôi không làm việc." },
+                { "w": "Will you be using…?", "vi": "anh/chị có dùng… không?", "ex": "Will you be using the car tonight?", "exvi": "Tối nay anh/chị có dùng xe không?", "note": "Cách hỏi lịch LỊCH SỰ nhất — không có ý thúc ép." },
+                { "w": "Will you be joining us?", "vi": "anh/chị có tham gia cùng không?", "ex": "Will you be joining us for dinner?", "exvi": "Anh/chị dùng bữa tối cùng chứ ạ?", "note": "Hay nghe trong nhà hàng, khách sạn." },
+                { "w": "I'll be in touch", "vi": "tôi sẽ liên hệ", "ex": "I'll be in touch next week.", "exvi": "Tuần sau tôi sẽ liên hệ.", "note": "Cụm cố định rất thông dụng khi kết thúc trao đổi." },
+                { "w": "will + V trần", "vi": "sẽ (nói chung)", "ex": "I'll finish it tomorrow.", "exvi": "Mai tôi sẽ làm xong.", "note": "Nói chung về tương lai thì dạng đơn giản này là đủ. Xem [Ngữ pháp 10]." },
+                { "w": "am/is/are + V-ing", "vi": "lịch đã chốt", "ex": "I'm meeting him at six.", "exvi": "Sáu giờ tôi có hẹn gặp anh ấy.", "note": "Gần nghĩa nhưng nhấn vào CUỘC HẸN, không phải trạng thái đang làm. Xem [Khung 92]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'll have finished <b>at</b> six.", "right": "I'll have finished <b>by</b> six.", "why": "BẪY SỐ MỘT: <b>by</b> = trước hoặc đúng lúc đó, hợp với nghĩa đã xong. <b>at</b> dành cho việc đang diễn ra." },
+            { "wrong": "I'll be working <b>by</b> six.", "right": "I'll be working <b>at</b> six.", "why": "Ngược lại: việc ĐANG diễn ra vào một thời điểm thì dùng <b>at</b>." },
+            { "wrong": "I'll have <b>went</b> by then.", "right": "I'll have <b>gone</b> by then.", "why": "BẪY SỐ HAI: sau <b>will have</b> là V3. <i>go – went – <b>gone</b></i>." },
+            { "wrong": "I'll be <b>work</b> at six.", "right": "I'll be <b>working</b> at six.", "why": "Sau <b>will be</b> là V-ing. Thiếu đuôi <i>-ing</i> là câu hỏng." },
+            { "wrong": "By the time you <b>will arrive</b>, I'll have left.", "right": "By the time you <b>arrive</b>, I'll have left.", "why": "Sau <b>by the time</b> dùng HIỆN TẠI, dù cả câu nói về tương lai. Xem [Ngữ pháp 12]." },
+            { "wrong": "He <b>wills have</b> finished.", "right": "He <b>will have</b> finished.", "why": "<b>will</b> không chia theo ngôi — không có <i>wills</i>." },
+            { "wrong": "I <b>willn't</b> have finished.", "right": "I <b>won't</b> have finished.", "why": "Phủ định của <i>will</i> là <b>won't</b>." },
+            { "wrong": "Finish it <b>until</b> six.", "right": "Finish it <b>by</b> six.", "why": "<b>until</b> = suốt cho đến lúc đó; <b>by</b> = trước hoặc đúng lúc đó. Hạn chót thì luôn dùng <b>by</b>." },
+            { "wrong": "I'll have been <b>work</b> here for ten years.", "right": "I'll have been <b>working</b> here for ten years.", "why": "Cấu trúc đủ bốn phần: <i>will</i> + <i>have</i> + <i>been</i> + <i>V-ing</i>." },
+            { "wrong": "I'll be <b>knowing</b> the answer tomorrow.", "right": "I'll <b>know</b> the answer tomorrow.", "why": "Động từ TRẠNG THÁI không có dạng tiếp diễn, kể cả ở tương lai. Xem [Ngữ pháp 02]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Dùng khi", "Ví dụ"],
+          "rows": [
+            ["<code>will have + V3</code>", "Đến mốc đó việc sẽ ĐÃ xong", "I'll have finished by six."],
+            ["<code>will be + V-ing</code>", "Vào mốc đó việc sẽ ĐANG diễn ra", "I'll be working at six."],
+            ["<code>will have been + V-ing</code>", "Đến mốc đó đã kéo dài bao lâu", "I'll have been working here for ten years."],
+            ["<code>will + V trần</code>", "Nói chung về tương lai. Xem [Ngữ pháp 10]", "I'll finish it tomorrow."],
+            ["<code>be going to + V</code>", "Kế hoạch đã quyết. Xem [Ngữ pháp 11]", "I'm going to finish it."],
+            ["<code>am/is/are + V-ing</code>", "Cuộc hẹn đã chốt. Xem [Khung 92]", "I'm meeting him at six."],
+            ["<code>had + V3</code>", "Trước một mốc QUÁ KHỨ. Xem [Ngữ pháp 05]", "I had finished by six."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng cấu trúc nào?" },
+        {
+          "t": "tree",
+          "q": "Nhìn tới một thời điểm trong tương lai — lúc đó chuyện này ở trạng thái nào?",
+          "nodes": [
+            { "if": "Lúc đó việc sẽ ĐÃ xong rồi", "then": "will have + V3, đi với by", "ex": "I'll have finished by six." },
+            { "if": "Lúc đó việc sẽ ĐANG diễn ra", "then": "will be + V-ing, đi với at", "ex": "I'll be working at six." },
+            { "if": "Muốn đếm xem đến lúc đó được bao lâu", "then": "will have been + V-ing", "ex": "I'll have been working here for ten years." },
+            { "if": "Muốn hỏi lịch người khác một cách lịch sự", "then": "Will you be + V-ing?", "ex": "Will you be using the car?" },
+            { "if": "Chỉ nói chung là sẽ làm", "then": "will + V trần", "ex": "I'll finish it tomorrow." },
+            { "if": "Nằm sau by the time, when, if", "then": "Hiện tại đơn", "ex": "By the time you arrive…" }
+          ]
+        },
+        { "t": "h3", "text": "Thang mốc thời gian tương lai" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'm about to finish.", "vi": "Gần nhất — sắp xong ngay" },
+            { "en": "I'll finish it tonight.", "vi": "Tối nay" },
+            { "en": "I'll have finished by six.", "vi": "Trước một hạn chót" },
+            { "en": "I'll be working at six tomorrow.", "vi": "Đang làm vào một thời điểm" },
+            { "en": "Next year I'll have been here for ten years.", "vi": "Xa nhất — đếm cả một chặng" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Hai cấu trúc này xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 91, "why": "I'm going to + V — bảng biến thể có cả will have + V3 và will be + V-ing." },
+            { "id": 92, "why": "I'm meeting him at six — so sánh cuộc hẹn đã chốt với trạng thái đang làm dở." },
+            { "id": 94, "why": "I've been… for/since — nền tảng cho will have been V-ing, cùng cặp for và since." },
+            { "id": 99, "why": "It takes… — cách nói thời lượng, hay đi kèm khi hứa hạn chót." },
+            { "id": 97, "why": "If + hiện tại, I'll + V — luật mệnh đề thời gian dùng hiện tại." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ trong ngoặc" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Sáu giờ tôi sẽ xong rồi.", "blank": "I'll have __________ (finish) by six.", "a": "finished" },
+            { "vi": "Sáu giờ tôi sẽ đang làm việc.", "blank": "I'll be __________ (work) at six.", "a": "working" },
+            { "vi": "Chín giờ anh ấy đi rồi.", "blank": "He'll have __________ (go) by nine.", "a": "gone — V3, không phải went" },
+            { "vi": "Đến lúc đó tôi làm xong rồi.", "blank": "I'll have __________ (do) it by then.", "a": "done" },
+            { "vi": "Lúc bạn đến thì tôi đã đi rồi.", "blank": "By the time you __________ (arrive), I'll have left.", "a": "arrive — hiện tại sau by the time" },
+            { "vi": "Giờ này mai tôi sẽ đang bay.", "blank": "This time tomorrow, I'll be __________ (fly).", "a": "flying" },
+            { "vi": "Mai tôi không làm việc.", "blank": "I __________ be working tomorrow.", "a": "won't" },
+            { "vi": "Tôi sẽ làm ở đây được mười năm.", "blank": "I'll have been __________ (work) here for ten years.", "a": "working" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn by hay at, và chọn cấu trúc" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Sáu giờ tôi sẽ xong rồi.", "blank": "I'll have finished __________ six.  (by / at)", "a": "by" },
+            { "vi": "Sáu giờ tôi sẽ đang làm việc.", "blank": "I'll be working __________ six.  (by / at)", "a": "at" },
+            { "vi": "Làm xong trước sáu giờ nhé.", "blank": "Finish it __________ six.  (by / until)", "a": "by — hạn chót luôn dùng by" },
+            { "vi": "Thứ Sáu anh/chị xong chưa?", "blank": "__________ you have finished by Friday?  (Will / Do)", "a": "Will" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Sáu giờ tôi sẽ xong rồi.", "a": "I'll have finished by six." },
+            { "vi": "2. Sáu giờ tôi sẽ đang làm việc.", "a": "I'll be working at six." },
+            { "vi": "3. Lúc bạn đến thì tôi đã đi rồi.", "a": "By the time you arrive, I'll have left." },
+            { "vi": "4. Tối nay anh/chị có dùng xe không?", "a": "Will you be using the car tonight?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Giới từ chọn hộ bạn cấu trúc:</b> thấy <b>by</b> thì dùng <i>will have + V3</i>; thấy <b>at</b> thì dùng <i>will be + V-ing</i>.",
+            "<b>Đếm phần cho đủ:</b> <i>will have</i> + V3 là ba phần; <i>will have been</i> + V-ing là bốn phần. Thiếu phần nào cũng sai.",
+            "<b><i>by</i> khác <i>until</i>:</b> <i>Finish it <b>by</b> six</i> (xong trước sáu giờ) vs <i>Wait <b>until</b> six</i> (chờ suốt đến sáu giờ).",
+            "<b>Sau <i>by the time</i> dùng hiện tại</b>, dù cả câu nói về tương lai — cùng luật với <i>when, if, as soon as</i>.",
+            "<b><i>Will you be + V-ing?</i> là câu hỏi lịch sự nhất</b> để hỏi lịch người khác — không mang ý thúc ép.",
+            "<b>Bài tập 3 phút:</b> chọn một mốc giờ ngày mai, viết hai câu — một câu việc sẽ đã xong (<i>by</i>), một câu việc sẽ đang làm (<i>at</i>)."
+          ]
+        }
+      ]
+    }
+  ]
+}

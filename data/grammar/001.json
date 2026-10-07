@@ -1,0 +1,277 @@
+{
+  "id": 1,
+  "group": "Nhóm 3 · Thì hiện tại & quá khứ",
+  "title": "Hiện tại đơn — thói quen và sự thật",
+  "subtitle": "Thì đầu tiên ai cũng học, và cũng là thì người Việt sai nhiều nhất — vì tiếng Việt không chia động từ. Bẫy số một là quên chữ s ở ngôi thứ ba; bẫy số hai ngược đời hơn: sau does và doesn't thì chữ s đó phải biến mất.",
+  "meaning": "Việc lặp đi lặp lại, sự thật hiển nhiên, lịch trình cố định",
+  "rule": [
+    "S + V<em>(s/es)</em>",
+    "S + <em>do/does not</em> + V trần",
+    "<em>Do/Does</em> + S + V trần?"
+  ],
+  "tags": [
+    { "text": "Trình độ: A1", "hot": true },
+    { "text": "Bẫy: quên -s ngôi thứ ba" },
+    { "text": "Sau does → V trần" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [41, 57, 74, 75, 92],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Hiện tại đơn nói về ba thứ: <b>thói quen lặp đi lặp lại</b> (<i>I get up at six</i>), <b>sự thật hiển nhiên</b> (<i>Water boils at 100 degrees</i>), và <b>lịch trình cố định</b> (<i>The train leaves at six</i>). Điểm chung: không gắn với một khoảnh khắc cụ thể nào." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — chữ <i>s</i> ở ngôi thứ ba:</b> với <b>he / she / it</b> (và mọi danh từ số ít) thì động từ phải thêm <b>-s</b>. <i>He <b>works</b> here</i> ✓ — <i>He work here</i> ✗. Tiếng Việt không chia động từ nên đây là lỗi lộ rõ nhất của người học Việt." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — và nó ngược đời:</b> khi câu đã có <b>does</b> hoặc <b>doesn't</b> thì chữ <i>s</i> đó <b>biến mất</b>. <i>He <b>doesn't work</b> here</i> ✓ — <i>He doesn't works</i> ✗. Vì <i>does</i> đã mang dấu ngôi thứ ba rồi, không đánh dấu hai lần." },
+        { "t": "h3", "text": "Thêm -s hay -es?" },
+        {
+          "t": "table",
+          "head": ["Đuôi động từ", "Thêm", "Ví dụ"],
+          "rows": [
+            ["Hầu hết các động từ", "<code>-s</code>", "work → work<b>s</b> · live → live<b>s</b>"],
+            ["Tận cùng <code>-s -sh -ch -x -o</code>", "<code>-es</code>", "watch → watch<b>es</b> · go → go<b>es</b> · fix → fix<b>es</b>"],
+            ["Phụ âm + <code>y</code>", "<code>-ies</code>", "stud<b>y</b> → stud<b>ies</b> · tr<b>y</b> → tr<b>ies</b>"],
+            ["Nguyên âm + <code>y</code>", "<code>-s</code>", "pl<b>ay</b> → play<b>s</b> · b<b>uy</b> → buy<b>s</b>"]
+          ]
+        },
+        { "t": "p", "html": "Hai động từ bất quy tắc phải thuộc riêng: <b>have → has</b> và <b>be → am / is / are</b>. <i>He <b>has</b> a car</i> ✓ — <i>He haves</i> ✗." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Khẳng định — I/you/we/they", "<code>S + V</code>", "I work here."],
+            ["Khẳng định — he/she/it", "<code>S + V<b>s</b></code>", "He work<b>s</b> here."],
+            ["Phủ định — I/you/we/they", "<code>S + don't + V trần</code>", "I don't work here."],
+            ["Phủ định — he/she/it", "<code>S + doesn't + V trần</code>", "He doesn't work here."],
+            ["Câu hỏi — I/you/we/they", "<code>Do + S + V trần?</code>", "Do you work here?"],
+            ["Câu hỏi — he/she/it", "<code>Does + S + V trần?</code>", "Does he work here?"],
+            ["Trả lời ngắn — có", "<code>Yes, S + do/does.</code>", "Yes, he does."],
+            ["Trả lời ngắn — không", "<code>No, S + don't/doesn't.</code>", "No, he doesn't."],
+            ["Câu hỏi có từ để hỏi", "<code>Từ hỏi + do/does + S + V?</code>", "Where do you work?"],
+            ["Câu hỏi về CHỦ NGỮ", "<code>Who + V<b>s</b>?</code> — không có <i>does</i>", "Who work<b>s</b> here?"],
+            ["Động từ <code>be</code>", "<code>am / is / are</code>", "I am / He is / They are late."],
+            ["Động từ <code>have</code>", "<code>have / has</code>", "I have a car. He ha<b>s</b> a car."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dòng áp chót là bẫy ít người biết:</b> khi từ để hỏi chính là <b>chủ ngữ</b> thì KHÔNG dùng <i>do/does</i>. <i><b>Who works</b> here?</i> ✓ — <i>Who does work here?</i> ✗. So với <i>Who <b>do you</b> work for?</i> ✓ (ở đây <i>who</i> là tân ngữ nên vẫn cần <i>do</i>)." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I get up at six every morning.", "vi": "Sáng nào tôi cũng dậy lúc sáu giờ.", "note": "Thói quen lặp lại — dấu hiệu là <i>every morning</i>." },
+            { "en": "She works for a bank in Hanoi.", "vi": "Cô ấy làm cho một ngân hàng ở Hà Nội.", "note": "Ngôi thứ ba nên có <b>-s</b>. Xem [Khung 75]." },
+            { "en": "He doesn't drink coffee.", "vi": "Anh ấy không uống cà phê.", "note": "Có <i>doesn't</i> nên động từ về dạng TRẦN: <i>drink</i>, không phải <i>drinks</i>." },
+            { "en": "Do you live near here?", "vi": "Bạn sống gần đây à?", "note": "Câu hỏi làm quen rất thông dụng. Xem [Khung 74]." },
+            { "en": "Does the shop open on Sunday?", "vi": "Chủ nhật cửa hàng có mở không?", "note": "<i>Does</i> + chủ ngữ + <b>open</b> dạng trần." },
+            { "en": "Water boils at one hundred degrees.", "vi": "Nước sôi ở một trăm độ.", "note": "Sự thật hiển nhiên — luôn dùng hiện tại đơn." },
+            { "en": "The train leaves at six.", "vi": "Tàu chạy lúc sáu giờ.", "note": "LỊCH TRÌNH cố định dùng hiện tại đơn, không dùng tiếp diễn. Xem [Khung 92]." },
+            { "en": "My brother has two children.", "vi": "Anh trai tôi có hai con.", "note": "<b>has</b> ✓, không bao giờ <i>haves</i> ✗." },
+            { "en": "I usually walk to work.", "vi": "Tôi thường đi bộ đi làm.", "note": "<i>usually</i> đứng TRƯỚC động từ thường." },
+            { "en": "She always arrives early.", "vi": "Cô ấy lúc nào cũng đến sớm.", "note": "<i>always</i> cũng đứng trước động từ — không đứng đầu câu." },
+            { "en": "Who works on reception?", "vi": "Ai trực lễ tân vậy?", "note": "Từ hỏi là CHỦ NGỮ nên không có <i>does</i>, và động từ vẫn có <b>-s</b>." },
+            { "en": "It depends on the weather.", "vi": "Còn tùy thời tiết.", "note": "<i>it</i> là ngôi thứ ba nên <b>depends</b> có <i>s</i>. Xem [Khung 57]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🔁", "title": "Thói quen lặp lại", "text": "<i>I get up at six.</i> Đi với <i>always, usually, every day</i>." },
+            { "icon": "🌍", "title": "Sự thật hiển nhiên", "text": "<i>Water boils at 100 degrees.</i> Luôn đúng nên luôn hiện tại đơn." },
+            { "icon": "🚆", "title": "Lịch trình cố định", "text": "<i>The train leaves at six.</i> Tàu xe, rạp phim, giờ mở cửa." },
+            { "icon": "👤", "title": "Giới thiệu bản thân", "text": "<i>I live in Hanoi. I work as a teacher.</i> Xem [Khung 74], [Khung 75]." },
+            { "icon": "💭", "title": "Động từ chỉ trạng thái", "text": "<i>I know, I want, I need.</i> Những động từ này gần như luôn ở hiện tại đơn." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Việc đang xảy ra ngay lúc này. Lúc đó là <i>I'm working</i> — xem [Ngữ pháp 02]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Trạng từ tần suất & cụm chỉ thời gian",
+              "items": [
+                { "w": "always", "vi": "luôn luôn (100%)", "ex": "She always arrives early.", "exvi": "Cô ấy lúc nào cũng đến sớm.", "note": "Đứng TRƯỚC động từ thường. <i>Always she arrives</i> ✗." },
+                { "w": "usually", "vi": "thường (80%)", "ex": "I usually walk to work.", "exvi": "Tôi thường đi bộ đi làm." },
+                { "w": "often", "vi": "hay, thường (60%)", "ex": "We often eat out on Fridays.", "exvi": "Thứ Sáu bọn tôi hay ăn ngoài." },
+                { "w": "sometimes", "vi": "thỉnh thoảng (40%)", "ex": "Sometimes I work from home.", "exvi": "Thỉnh thoảng tôi làm ở nhà.", "note": "Riêng <i>sometimes</i> đứng đầu câu được — khác với <i>always</i>." },
+                { "w": "rarely / seldom", "vi": "hiếm khi (10%)", "ex": "He rarely says no.", "exvi": "Anh ấy hiếm khi từ chối.", "note": "Đã mang nghĩa phủ định rồi — không thêm <i>not</i>." },
+                { "w": "never", "vi": "không bao giờ (0%)", "ex": "I never drink coffee at night.", "exvi": "Tôi không bao giờ uống cà phê buổi tối.", "note": "<i>I don't never</i> ✗ — <i>never</i> đã là phủ định." },
+                { "w": "every day", "vi": "mỗi ngày", "ex": "I check my email every day.", "exvi": "Ngày nào tôi cũng kiểm tra email.", "note": "Cụm chỉ thời gian đứng CUỐI câu, khác trạng từ tần suất." },
+                { "w": "every morning", "vi": "mỗi sáng", "ex": "I get up at six every morning.", "exvi": "Sáng nào tôi cũng dậy lúc sáu giờ." },
+                { "w": "on Mondays", "vi": "vào các thứ Hai", "ex": "The shop closes early on Mondays.", "exvi": "Thứ Hai cửa hàng đóng sớm.", "note": "Thêm <b>s</b> vào thứ để chỉ việc lặp lại hằng tuần." },
+                { "w": "twice a week", "vi": "hai lần một tuần", "ex": "I go to the gym twice a week.", "exvi": "Tôi đi tập hai lần một tuần.", "note": "Cấu trúc <i>once/twice/three times + a + khoảng thời gian</i>." },
+                { "w": "in general", "vi": "nói chung", "ex": "In general, I prefer tea.", "exvi": "Nói chung tôi thích trà hơn." },
+                { "w": "as a rule", "vi": "theo lệ thường", "ex": "As a rule, we meet on Tuesdays.", "exvi": "Theo lệ thường bọn tôi họp thứ Ba." }
+              ]
+            },
+            {
+              "title": "Động từ đổi dạng ở ngôi thứ ba",
+              "items": [
+                { "w": "work → works", "vi": "làm việc", "ex": "He works here.", "exvi": "Anh ấy làm ở đây.", "note": "Quy tắc chung: chỉ thêm <b>-s</b>." },
+                { "w": "live → lives", "vi": "sống", "ex": "She lives in Hue.", "exvi": "Cô ấy sống ở Huế. Xem [Khung 74]." },
+                { "w": "go → goes", "vi": "đi", "ex": "He goes to work by bus.", "exvi": "Anh ấy đi làm bằng xe buýt.", "note": "Tận cùng <b>-o</b> nên thêm <b>-es</b>." },
+                { "w": "do → does", "vi": "làm", "ex": "She does the accounts.", "exvi": "Cô ấy lo phần sổ sách.", "note": "Vừa là động từ thường, vừa là trợ động từ." },
+                { "w": "watch → watches", "vi": "xem", "ex": "He watches the news every night.", "exvi": "Tối nào anh ấy cũng xem thời sự.", "note": "Tận cùng <b>-ch</b> nên thêm <b>-es</b>. <i>watchs</i> ✗." },
+                { "w": "finish → finishes", "vi": "kết thúc", "ex": "The class finishes at five.", "exvi": "Lớp tan lúc năm giờ.", "note": "Tận cùng <b>-sh</b> nên thêm <b>-es</b>." },
+                { "w": "study → studies", "vi": "học", "ex": "She studies law.", "exvi": "Cô ấy học luật.", "note": "Phụ âm + <b>y</b> nên đổi thành <b>-ies</b>. <i>studys</i> ✗." },
+                { "w": "try → tries", "vi": "cố gắng, thử", "ex": "He tries his best.", "exvi": "Anh ấy cố hết sức." },
+                { "w": "play → plays", "vi": "chơi", "ex": "She plays the piano.", "exvi": "Cô ấy chơi dương cầm.", "note": "Nguyên âm + <b>y</b> thì chỉ thêm <b>-s</b>. <i>plaies</i> ✗." },
+                { "w": "have → has", "vi": "có", "ex": "He has two children.", "exvi": "Anh ấy có hai con.", "note": "BẤT QUY TẮC. <i>haves</i> ✗ — phải thuộc riêng." },
+                { "w": "be → am / is / are", "vi": "thì, là, ở", "ex": "She is a teacher.", "exvi": "Cô ấy là giáo viên.", "note": "Bất quy tắc hoàn toàn, và không dùng <i>do/does</i> khi phủ định hay hỏi." },
+                { "w": "depend → depends", "vi": "tùy thuộc", "ex": "It depends on the weather.", "exvi": "Còn tùy thời tiết.", "note": "<i>it</i> là ngôi thứ ba nên có <b>-s</b>. Xem [Khung 57]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "He <b>work</b> in a bank.", "right": "He <b>works</b> in a bank.", "why": "BẪY SỐ MỘT. Ngôi thứ ba số ít bắt buộc thêm <b>-s</b>. Tiếng Việt không chia động từ nên rất dễ quên." },
+            { "wrong": "He doesn't <b>works</b> here.", "right": "He doesn't <b>work</b> here.", "why": "BẪY SỐ HAI: đã có <b>doesn't</b> thì động từ về dạng TRẦN. Không đánh dấu ngôi thứ ba hai lần." },
+            { "wrong": "<b>Does</b> he <b>goes</b> to work by bus?", "right": "<b>Does</b> he <b>go</b> to work by bus?", "why": "Câu hỏi cũng vậy — chỉ <b>does</b> mang dấu ngôi thứ ba." },
+            { "wrong": "She <b>don't</b> like coffee.", "right": "She <b>doesn't</b> like coffee.", "why": "<i>she</i> là ngôi thứ ba nên phải là <b>doesn't</b>, không phải <i>don't</i>." },
+            { "wrong": "He <b>studys</b> law.", "right": "He <b>studies</b> law.", "why": "Phụ âm + <b>y</b> thì đổi <i>y</i> thành <b>-ies</b>. Nhưng <i>play → plays</i> vì trước <i>y</i> là nguyên âm." },
+            { "wrong": "He <b>haves</b> two children.", "right": "He <b>has</b> two children.", "why": "<b>have</b> là động từ bất quy tắc ở ngôi thứ ba — phải thuộc riêng." },
+            { "wrong": "<b>I am go</b> to school every day.", "right": "<b>I go</b> to school every day.", "why": "Hiện tại đơn KHÔNG có <i>am/is/are</i> đi kèm động từ thường. Thêm vào là trộn hai thì." },
+            { "wrong": "The train <b>is leaving</b> at six. <i>(theo lịch trình)</i>", "right": "The train <b>leaves</b> at six.", "why": "Lịch trình tàu xe, rạp phim, giờ mở cửa dùng HIỆN TẠI ĐƠN. Xem [Khung 92]." },
+            { "wrong": "<b>Always I</b> get up at six.", "right": "I <b>always</b> get up at six.", "why": "Trạng từ tần suất đứng TRƯỚC động từ thường, không đứng đầu câu. Riêng <i>sometimes</i> là ngoại lệ." },
+            { "wrong": "<b>Who does work</b> here?", "right": "<b>Who works</b> here?", "why": "Khi từ để hỏi chính là CHỦ NGỮ thì không dùng <i>do/does</i>, và động từ vẫn giữ <b>-s</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Dùng khi", "Ví dụ"],
+          "rows": [
+            ["<code>Hiện tại đơn</code>", "Thói quen, sự thật, lịch trình", "I work here. The train leaves at six."],
+            ["<code>Hiện tại tiếp diễn</code>", "Đang xảy ra lúc này. Xem [Ngữ pháp 02]", "I'm working right now."],
+            ["<code>Hiện tại tiếp diễn</code>", "Lịch đã chốt trong tương lai. Xem [Khung 92]", "I'm meeting him at six."],
+            ["<code>used to + V</code>", "Thói quen CŨ đã chấm dứt. Xem [Khung 93]", "I used to work here."],
+            ["<code>be going to + V</code>", "Kế hoạch đã quyết. Xem [Khung 91]", "I'm going to look for a job."],
+            ["<code>Quá khứ đơn</code>", "Việc đã xong ở quá khứ. Xem [Ngữ pháp 03]", "I worked here in 2019."],
+            ["<code>have been V-ing</code>", "Kéo dài đến giờ. Xem [Khung 94]", "I've been working here for three years."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: hiện tại đơn hay hiện tại tiếp diễn?" },
+        {
+          "t": "tree",
+          "q": "Việc này có đang xảy ra ngay lúc bạn nói không?",
+          "nodes": [
+            { "if": "Đang xảy ra ngay lúc này", "then": "Hiện tại tiếp diễn", "ex": "I'm having lunch right now." },
+            { "if": "Lặp đi lặp lại, là thói quen", "then": "Hiện tại đơn", "ex": "I have lunch at twelve every day." },
+            { "if": "Là sự thật luôn đúng", "then": "Hiện tại đơn", "ex": "Water boils at 100 degrees." },
+            { "if": "Lịch trình cố định của tàu xe, rạp phim", "then": "Hiện tại đơn", "ex": "The train leaves at six." },
+            { "if": "Cuộc hẹn riêng đã chốt giờ", "then": "Hiện tại tiếp diễn", "ex": "I'm meeting him at six." },
+            { "if": "Động từ chỉ trạng thái (know, want, need)", "then": "Hiện tại đơn — luôn luôn", "ex": "I know what you mean." }
+          ]
+        },
+        { "t": "h3", "text": "Thang tần suất" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I never drink coffee.", "vi": "0% — không bao giờ" },
+            { "en": "I rarely drink coffee.", "vi": "10% — hiếm khi" },
+            { "en": "I sometimes drink coffee.", "vi": "40% — thỉnh thoảng" },
+            { "en": "I usually drink coffee.", "vi": "80% — thường" },
+            { "en": "I always drink coffee.", "vi": "100% — luôn luôn" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Hiện tại đơn là xương sống của những khung câu sau. Bấm vào để xem cách nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 74, "why": "I'm from… / I live in… — giới thiệu nơi ở, toàn bộ dùng hiện tại đơn." },
+            { "id": 75, "why": "I work as… / I work for… — nói nghề nghiệp, chú ý chữ s khi kể về người khác." },
+            { "id": 92, "why": "Lịch trình tàu xe dùng hiện tại đơn, còn cuộc hẹn riêng dùng tiếp diễn." },
+            { "id": 57, "why": "It depends on… — it là ngôi thứ ba nên depends có s." },
+            { "id": 41, "why": "I think… — động từ chỉ suy nghĩ hầu như luôn ở hiện tại đơn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ trong ngoặc" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Anh ấy làm ở một ngân hàng.", "blank": "He __________ (work) in a bank.", "a": "works" },
+            { "vi": "Cô ấy học luật.", "blank": "She __________ (study) law.", "a": "studies (phụ âm + y → -ies)" },
+            { "vi": "Anh ấy đi làm bằng xe buýt.", "blank": "He __________ (go) to work by bus.", "a": "goes (tận cùng -o → -es)" },
+            { "vi": "Anh ấy có hai con.", "blank": "He __________ (have) two children.", "a": "has (bất quy tắc)" },
+            { "vi": "Tối nào anh ấy cũng xem thời sự.", "blank": "He __________ (watch) the news every night.", "a": "watches (tận cùng -ch → -es)" },
+            { "vi": "Cô ấy chơi dương cầm.", "blank": "She __________ (play) the piano.", "a": "plays (nguyên âm + y → -s)" },
+            { "vi": "Tàu chạy lúc sáu giờ.", "blank": "The train __________ (leave) at six.", "a": "leaves" },
+            { "vi": "Còn tùy thời tiết.", "blank": "It __________ (depend) on the weather.", "a": "depends" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Anh ấy không uống cà phê.", "blank": "He doesn't __________ coffee.  (drink / drinks)", "a": "drink — đã có doesn't nên động từ về dạng trần" },
+            { "vi": "Chủ nhật cửa hàng có mở không?", "blank": "__________ the shop open on Sunday?  (Do / Does)", "a": "Does — the shop là ngôi thứ ba số ít" },
+            { "vi": "Cô ấy không thích cà phê.", "blank": "She __________ like coffee.  (don't / doesn't)", "a": "doesn't" },
+            { "vi": "Ai trực lễ tân vậy?", "blank": "__________ on reception?  (Who works / Who does work)", "a": "Who works — từ hỏi là chủ ngữ nên không có does" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Sáng nào tôi cũng dậy lúc sáu giờ.", "a": "I get up at six every morning." },
+            { "vi": "2. Cô ấy làm cho một ngân hàng ở Hà Nội.", "a": "She works for a bank in Hanoi." },
+            { "vi": "3. Anh ấy không uống cà phê.", "a": "He doesn't drink coffee." },
+            { "vi": "4. Cô ấy lúc nào cũng đến sớm.", "a": "She always arrives early." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật một chữ s:</b> mỗi câu chỉ được đánh dấu ngôi thứ ba MỘT lần. Đã có <i>does/doesn't</i> thì động từ bỏ <i>s</i>.",
+            "<b>Mẹo kiểm tra nhanh:</b> đọc lại câu, nếu chủ ngữ thay được bằng <i>he/she/it</i> mà động từ chưa có <i>s</i> thì sai.",
+            "<b>Học thuộc bốn quy tắc thêm đuôi</b> theo cặp đối lập: <i>study → studies</i> nhưng <i>play → plays</i>.",
+            "<b>Hai động từ bất quy tắc</b> phải thuộc riêng: <i>have → has</i> và <i>be → am/is/are</i>.",
+            "<b>Trạng từ tần suất đứng trước động từ thường</b>, nhưng đứng SAU động từ <i>be</i>: <i>He <b>is always</b> late</i> ✓.",
+            "<b>Bài tập 3 phút:</b> viết năm câu về một ngày bình thường của bạn, rồi viết lại cả năm câu đó về một người khác — chính là lúc chữ <i>s</i> xuất hiện."
+          ]
+        }
+      ]
+    }
+  ]
+}

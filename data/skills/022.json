@@ -1,0 +1,277 @@
+{
+  "id": 22,
+  "group": "Nhóm 4 · Viết — cấu trúc trước, chữ sau",
+  "title": "Từ nối & cách tránh lặp từ",
+  "subtitle": "Tiếng Việt lặp lại danh từ là bình thường; tiếng Anh thì lặp ba lần một danh từ nghe rất vụng. Và nhồi Moreover, Furthermore, In addition ba câu liền cũng không làm bài mạch lạc hơn — mạch lạc đến từ trật tự ý.",
+  "meaning": "Nối ý và thay thế từ cho bài viết trôi chảy",
+  "rule": [
+    "Nhắc lại thì dùng <em>it · this · such</em>, đừng lặp danh từ",
+    "Từ nối <em>ít mà đúng</em> hơn nhiều mà bừa",
+    "Mạch lạc đến từ <em>trật tự ý</em>, không từ số lượng từ nối"
+  ],
+  "tags": [
+    { "text": "Mức độ: B2 bắt buộc", "hot": true },
+    { "text": "Lặp danh từ ba lần" },
+    { "text": "Nhồi từ nối không cứu được bài" },
+    { "text": "Ảnh hưởng: lớn" }
+  ],
+  "frames": [41, 42, 48, 50, 52],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Hai bài trước lo <b>bố cục</b> [Kỹ năng 17] và <b>lập luận</b> [Kỹ năng 18]. Bài này lo phần còn lại: làm sao các câu <b>dính vào nhau</b> mà không lặp và không gượng." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — lặp lại danh từ thay vì thay thế:</b><br><i>“<b>Remote work</b> has grown fast. <b>Remote work</b> saves time. Many companies now allow <b>remote work</b>.”</i><br>Tiếng Việt lặp vậy là bình thường, tiếng Anh thì nghe rất vụng.<br><b>Bốn cách thay:</b><br>• Đại từ — <i><b>It</b> saves time.</i><br>• <i>this / that</i> + danh từ chung — <i><b>This trend</b> has grown fast.</i><br>• Từ đồng nghĩa — <i><b>working from home</b></i><br>• <i>such</i> + danh từ — <i><b>Such arrangements</b> are now common.</i>" },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — nhồi từ nối cho “mạch lạc”:</b><br><i>“Moreover, it saves time. Furthermore, it cuts costs. In addition, it reduces stress.”</i><br>Ba từ nối cùng nghĩa, ba câu liền — bài không mạch lạc hơn, chỉ <b>gượng hơn</b>.<br><b>Sự thật:</b> mạch lạc đến từ <b>trật tự ý</b>, không từ số lượng từ nối. Một đoạn sắp xếp tốt gần như <b>không cần</b> từ nối nào.<br><b>Luật thực tế:</b> mỗi đoạn dùng <b>một đến hai</b> từ nối, ở chỗ ý thật sự <b>đổi hướng</b>." },
+        { "t": "h3", "text": "Bốn cách tránh lặp" },
+        {
+          "t": "table",
+          "head": ["Cách", "Dùng khi", "Ví dụ"],
+          "rows": [
+            ["Đại từ", "Danh từ vừa nhắc, rõ ràng", "Remote work → <b>it</b>"],
+            ["<code>this/that</code> + danh từ chung", "Nhắc lại cả một ý", "→ <b>this trend</b> · <b>this approach</b>"],
+            ["Từ đồng nghĩa", "Đổi cách gọi", "→ <b>working from home</b>"],
+            ["<code>such</code> + danh từ", "Gộp nhiều thứ vừa kể", "→ <b>such arrangements</b>"]
+          ]
+        },
+        { "t": "p", "html": "Cách thứ hai mạnh nhất vì nó vừa <b>tránh lặp</b> vừa <b>tóm ý</b>: <i>this trend</i>, <i>this problem</i>, <i>this approach</i> — người đọc biết ngay bạn đang nói về cái vừa nêu." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Quan hệ giữa hai ý", "Từ nối", "Ghi chú"],
+          "rows": [
+            ["Thêm cùng hướng", "Moreover · In addition · Furthermore", "Dùng MỘT cái, không dùng cả ba"],
+            ["Trái chiều", "However · Nevertheless · That said", "Xem [Ngữ pháp 48]"],
+            ["Đối chiếu hai bên", "Whereas · While · By contrast", "Đặt hai thứ cạnh nhau"],
+            ["Nguyên nhân", "because · since · as", "+ mệnh đề"],
+            ["Nguyên nhân (danh từ)", "because of · due to", "+ danh từ"],
+            ["Kết quả", "As a result · Therefore · Consequently", "Trạng từ, cần dấu chấm trước"],
+            ["Ví dụ", "For example · For instance · such as", "<i>such as</i> + danh từ"],
+            ["Làm rõ", "In other words · That is", "Nói lại cho dễ hiểu"],
+            ["Nhấn mạnh", "Indeed · In fact", "Dùng ít"],
+            ["Tóm lại", "Overall · In short · To sum up", "Câu chốt"],
+            ["Thay thế — đại từ", "it · they · this · these", "Phải rõ nó thay cho gì"],
+            ["Thay thế — danh từ chung", "this trend · such cases", "Vừa tránh lặp vừa tóm ý"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đại từ phải rõ nó thay cho gì.</b> Câu này mơ hồ:<br><i>“Companies offer flexible hours and many staff now work remotely. <b>This</b> has caused problems.”</i> — <i>this</i> là giờ linh hoạt, hay làm từ xa, hay cả hai?<br><b>Sửa:</b> thêm một danh từ chung sau <i>this</i> — <i><b>This shift</b> has caused problems.</i><br>Ở văn viết, <i>this</i> đứng một mình đầu câu gần như luôn nên kèm danh từ." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Remote work has grown fast. It saves employees a great deal of time.", "vi": "Làm từ xa tăng nhanh. Nó giúp nhân viên tiết kiệm nhiều thời gian.", "note": "BẪY SỐ MỘT: dùng <b>it</b> thay vì lặp lại <i>remote work</i>." },
+            { "en": "This trend began during the pandemic.", "vi": "Xu hướng này bắt đầu từ thời dịch.", "note": "<b>this + danh từ chung</b> — vừa tránh lặp vừa tóm ý." },
+            { "en": "Working from home suits some roles better than others.", "vi": "Làm ở nhà hợp với một số vị trí hơn vị trí khác.", "note": "Từ đồng nghĩa — đổi cách gọi cho đỡ lặp." },
+            { "en": "Such arrangements are now common in many industries.", "vi": "Những cách sắp xếp như vậy giờ phổ biến ở nhiều ngành.", "note": "<b>such + danh từ</b> gộp lại nhiều thứ vừa kể." },
+            { "en": "This shift has caused problems for new staff.", "vi": "Sự chuyển dịch này gây khó cho nhân viên mới.", "note": "Thêm danh từ sau <i>this</i> để không mơ hồ." },
+            { "en": "Moreover, it reduces costs for both sides.", "vi": "Hơn nữa, nó giảm chi phí cho cả hai bên.", "note": "BẪY SỐ HAI: dùng MỘT từ nối thêm ý, không dùng ba cái liền." },
+            { "en": "However, teamwork can suffer.", "vi": "Tuy nhiên tinh thần nhóm có thể bị ảnh hưởng.", "note": "Dùng ở chỗ ý thật sự đổi hướng. Xem [Ngữ pháp 48]." },
+            { "en": "Whereas senior staff adapt quickly, newcomers often struggle.", "vi": "Trong khi nhân viên lâu năm thích nghi nhanh, người mới thường chật vật.", "note": "Đối chiếu hai bên trong một câu." },
+            { "en": "As a result, many firms now use a hybrid model.", "vi": "Nhờ vậy nhiều công ty giờ dùng mô hình kết hợp.", "note": "Nêu kết quả." },
+            { "en": "In other words, flexibility and training pull against each other.", "vi": "Nói cách khác, linh hoạt và đào tạo kéo ngược nhau.", "note": "Làm rõ ý vừa nêu." },
+            { "en": "Some tasks, such as design, suit remote work well.", "vi": "Một số việc, chẳng hạn thiết kế, rất hợp làm từ xa.", "note": "<b>such as</b> + danh từ, khác <i>for example</i> + cả câu." },
+            { "en": "Overall, the picture is mixed.", "vi": "Nhìn chung bức tranh khá phức tạp.", "note": "Câu chốt. Xem [Khung 48]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào cần để ý nhất",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🔁", "title": "Một danh từ xuất hiện 3 lần", "text": "Thay bằng <i>it</i>, <i>this trend</i>, từ đồng nghĩa." },
+            { "icon": "🔗", "title": "Nối hai ý trái chiều", "text": "<i>However</i> — một lần là đủ." },
+            { "icon": "📄", "title": "Viết luận", "text": "Mỗi đoạn một đến hai từ nối thôi." },
+            { "icon": "✉️", "title": "Email dài", "text": "<i>this</i> đứng một mình dễ gây mơ hồ." },
+            { "icon": "🎤", "title": "Nói một đoạn dài", "text": "Cùng nguyên tắc. Xem [Kỹ năng 12]." },
+            { "icon": "🚫", "title": "Đừng làm…", "text": "Đừng rải <i>Moreover</i> ba câu liền cho “mạch lạc”." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Từ nối & cách thay thế",
+      "blocks": [
+        { "t": "p", "html": "Chọn một mục ở cột trái để xem nó nối quan hệ gì và câu mẫu hoàn chỉnh." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Từ nối theo quan hệ",
+              "items": [
+                { "w": "Moreover,…", "vi": "Hơn nữa,…", "ex": "Moreover, it reduces costs.", "exvi": "Hơn nữa, nó giảm chi phí.", "note": "BẪY SỐ HAI: dùng MỘT cái trong nhóm thêm ý, không dùng cả ba." },
+                { "w": "In addition,…", "vi": "Ngoài ra,…", "ex": "In addition, staff report less stress.", "exvi": "Ngoài ra nhân viên bớt căng thẳng." },
+                { "w": "Furthermore,…", "vi": "Thêm vào đó,…", "ex": "Furthermore, offices cost less to run.", "exvi": "Thêm nữa, vận hành văn phòng rẻ hơn.", "note": "Trang trọng nhất trong ba cái." },
+                { "w": "However,…", "vi": "Tuy nhiên,…", "ex": "However, teamwork can suffer.", "exvi": "Tuy nhiên tinh thần nhóm bị ảnh hưởng.", "note": "Cần dấu CHẤM trước. Xem [Ngữ pháp 48]." },
+                { "w": "Nevertheless,…", "vi": "Dẫu vậy,…", "ex": "Nevertheless, the trend continues.", "exvi": "Dẫu vậy xu hướng vẫn tiếp tục." },
+                { "w": "That said,…", "vi": "Tuy vậy,…", "ex": "That said, it does not suit every job.", "exvi": "Tuy vậy không hợp mọi công việc." },
+                { "w": "Whereas…", "vi": "Trong khi đó…", "ex": "Whereas senior staff adapt, newcomers struggle.", "exvi": "Nhân viên cũ thích nghi, người mới chật vật." },
+                { "w": "By contrast,…", "vi": "Ngược lại,…", "ex": "By contrast, office work offers more support.", "exvi": "Ngược lại, làm văn phòng được hỗ trợ nhiều hơn." },
+                { "w": "As a result,…", "vi": "Nhờ vậy,…", "ex": "As a result, many firms use a hybrid model.", "exvi": "Nhờ vậy nhiều công ty dùng mô hình kết hợp." },
+                { "w": "Therefore,…", "vi": "Do đó,…", "ex": "Therefore, training must change.", "exvi": "Do đó đào tạo phải thay đổi." },
+                { "w": "such as…", "vi": "chẳng hạn như…", "ex": "Some tasks, such as design, suit it well.", "exvi": "Một số việc, chẳng hạn thiết kế, rất hợp.", "note": "<b>such as</b> + DANH TỪ · <i>for example</i> + cả câu." },
+                { "w": "In other words,…", "vi": "Nói cách khác,…", "ex": "In other words, the two goals conflict.", "exvi": "Nói cách khác, hai mục tiêu xung đột." }
+              ]
+            },
+            {
+              "title": "Cách thay thế để không lặp",
+              "items": [
+                { "w": "it / they", "vi": "nó / chúng", "ex": "Remote work has grown. It saves time.", "exvi": "Làm từ xa tăng. Nó tiết kiệm thời gian.", "note": "BẪY SỐ MỘT: cách đơn giản nhất, dùng khi danh từ vừa nhắc." },
+                { "w": "this trend", "vi": "xu hướng này", "ex": "This trend began during the pandemic.", "exvi": "Xu hướng này bắt đầu từ thời dịch.", "note": "<b>this</b> + danh từ chung — vừa tránh lặp vừa tóm ý." },
+                { "w": "this shift", "vi": "sự chuyển dịch này", "ex": "This shift has caused problems.", "exvi": "Sự chuyển dịch này gây ra vấn đề." },
+                { "w": "this approach", "vi": "cách làm này", "ex": "This approach works for small teams.", "exvi": "Cách này hợp với nhóm nhỏ." },
+                { "w": "this problem", "vi": "vấn đề này", "ex": "This problem affects new staff most.", "exvi": "Vấn đề này ảnh hưởng nhân viên mới nhất." },
+                { "w": "such arrangements", "vi": "những cách sắp xếp như vậy", "ex": "Such arrangements are now common.", "exvi": "Những cách như vậy giờ phổ biến.", "note": "<b>such</b> + danh từ gộp lại nhiều thứ vừa kể." },
+                { "w": "such cases", "vi": "những trường hợp như vậy", "ex": "In such cases, a hybrid model helps.", "exvi": "Trong những trường hợp đó, mô hình kết hợp giúp được." },
+                { "w": "the former / the latter", "vi": "cái trước / cái sau", "ex": "The former is cheaper; the latter is faster.", "exvi": "Cái trước rẻ hơn, cái sau nhanh hơn.", "note": "Chỉ dùng khi vừa nêu ĐÚNG HAI thứ." },
+                { "w": "working from home", "vi": "làm việc tại nhà", "ex": "Working from home suits some roles.", "exvi": "Làm ở nhà hợp một số vị trí.", "note": "Từ đồng nghĩa của <i>remote work</i>." },
+                { "w": "do so", "vi": "làm như vậy", "ex": "Many companies have done so already.", "exvi": "Nhiều công ty đã làm vậy rồi.", "note": "Thay cho cả một cụm động từ vừa nêu." },
+                { "w": "one / ones", "vi": "cái, người", "ex": "The new ones work better.", "exvi": "Mấy cái mới chạy tốt hơn." },
+                { "w": "the issue", "vi": "vấn đề đó", "ex": "The issue is hard to solve.", "exvi": "Vấn đề đó khó giải quyết.", "note": "Danh từ chung thay cho cả một ý dài." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<b>Remote work</b> has grown. <b>Remote work</b> saves time. Many allow <b>remote work</b>.", "right": "<b>Remote work</b> has grown. <b>It</b> saves time. Many companies now allow <b>such arrangements</b>.", "why": "BẪY SỐ MỘT: lặp ba lần một danh từ nghe rất vụng trong tiếng Anh." },
+            { "wrong": "<b>Moreover</b>, … <b>Furthermore</b>, … <b>In addition</b>, …", "right": "Dùng <b>một</b> cái, rồi đổi kiểu nối", "why": "BẪY SỐ HAI: ba từ nối cùng nghĩa liền nhau làm bài gượng, không mạch lạc hơn." },
+            { "wrong": "<b>This</b> has caused problems. <i>(this là cái gì?)</i>", "right": "<b>This shift</b> has caused problems.", "why": "<i>this</i> đứng một mình đầu câu gần như luôn mơ hồ — thêm một danh từ chung." },
+            { "wrong": "<b>It</b> is a big problem. <i>(it chưa nhắc gì trước đó)</i>", "right": "Nêu danh từ TRƯỚC rồi mới dùng <i>it</i>", "why": "Đại từ phải có cái để thay — không thì người đọc không biết nói về gì." },
+            { "wrong": "Nối hai câu bằng <b>, however,</b>", "right": "<b>. However,</b>", "why": "<i>however</i> là trạng từ, cần dấu chấm trước. Xem [Ngữ pháp 50]." },
+            { "wrong": "<b>For example</b> design and writing.", "right": "<b>such as</b> design and writing.", "why": "<i>such as</i> đi với DANH TỪ; <i>for example</i> mở đầu cả một câu." },
+            { "wrong": "Dùng <b>the former / the latter</b> khi vừa nêu ba thứ", "right": "Chỉ dùng khi nêu <b>đúng hai</b>", "why": "Hai từ này chỉ có nghĩa khi có đúng hai lựa chọn." },
+            { "wrong": "Mở mọi đoạn bằng <b>Firstly, Secondly, Thirdly</b>", "right": "Nêu thẳng ý chính của đoạn", "why": "Đánh số không cho thấy quan hệ giữa các ý. Xem [Kỹ năng 17]." },
+            { "wrong": "Thay danh từ bằng từ đồng nghĩa <b>quá xa nghĩa</b>", "right": "Dùng từ đồng nghĩa <b>sát nghĩa</b> hoặc <i>this + danh từ</i>", "why": "Cố tránh lặp bằng từ lạ làm người đọc tưởng bạn đang nói chuyện khác." },
+            { "wrong": "Nghĩ rằng <b>nhiều từ nối = bài hay</b>", "right": "<b>Trật tự ý</b> mới làm bài mạch lạc", "why": "Một đoạn sắp xếp tốt gần như không cần từ nối nào." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với lỗi gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>such as</code> / <code>for example</code>", "+ danh từ / + cả câu", "such as design ✓"],
+            ["<code>. However,</code> / <code>, however,</code>", "Đúng / sai", "Xem [Ngữ pháp 50]"],
+            ["<code>this</code> / <code>this + danh từ</code>", "Mơ hồ / rõ", "This shift ✓"],
+            ["<code>because</code> / <code>because of</code>", "+ mệnh đề / + danh từ", "Xem [Ngữ pháp 48]"],
+            ["Thay thế / lặp lại", "Trôi chảy / vụng", "it, this trend, such cases"],
+            ["<code>the former/latter</code>", "Chỉ khi có ĐÚNG HAI thứ", "Ba thứ thì không dùng được"],
+            ["Nhiều từ nối / trật tự ý tốt", "Gượng / thật sự mạch lạc", "1–2 từ nối mỗi đoạn"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: nhắc lại một ý thì dùng gì?" },
+        {
+          "t": "tree",
+          "q": "Bạn vừa nêu một thứ và muốn nhắc lại nó ở câu sau.",
+          "nodes": [
+            { "if": "Danh từ vừa nhắc, chỉ có một khả năng", "then": "it / they", "ex": "Remote work… It saves time." },
+            { "if": "Muốn nhắc lại cả một Ý", "then": "this + danh từ chung", "ex": "this trend · this shift · this problem" },
+            { "if": "Vừa kể nhiều thứ cùng loại", "then": "such + danh từ số nhiều", "ex": "such arrangements · such cases" },
+            { "if": "Vừa nêu ĐÚNG HAI thứ", "then": "the former / the latter", "ex": "The former is cheaper." },
+            { "if": "Muốn đổi cách gọi", "then": "Từ đồng nghĩa SÁT nghĩa", "ex": "remote work → working from home" },
+            { "if": "Thay cho cả một hành động", "then": "do so", "ex": "Many companies have done so." }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ trôi chảy của cùng một đoạn" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Remote work… Remote work… Remote work…", "vi": "Vụng nhất — lặp ba lần" },
+            { "en": "Remote work… It… It… It…", "vi": "Đỡ hơn nhưng vẫn đơn điệu" },
+            { "en": "Remote work… It… This trend…", "vi": "Bắt đầu linh hoạt" },
+            { "en": "…It… This trend… such arrangements…", "vi": "Trôi chảy — đạt B2" },
+            { "en": "…thêm 1–2 từ nối đúng chỗ ý đổi hướng", "vi": "Tốt nhất" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kỹ năng này dùng ở đâu",
+      "blocks": [
+        { "t": "p", "html": "Từ nối và cách thay thế là lớp cuối cùng phủ lên bố cục và lập luận đã học ở hai bài trước." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 48, "why": "The way I see it, … — cách mở đoạn nêu quan điểm, và câu chốt Overall." },
+            { "id": 52, "why": "That's a good point, but… — nối hai ý trái chiều trong hội thoại." },
+            { "id": 41, "why": "I think (that) + mệnh đề — trong văn viết nên thay bằng khẳng định thẳng." },
+            { "id": 42, "why": "In my opinion, … — câu mở đoạn, hay đi kèm từ nối ở câu sau." },
+            { "id": 50, "why": "I'm not sure, but… — cách mở đầu thận trọng, nối sang ý chính." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Thay từ lặp bằng gì?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Làm từ xa tăng nhanh. ___ tiết kiệm thời gian.", "blank": "Remote work has grown. __________ saves time.", "a": "It" },
+            { "vi": "Xu hướng này bắt đầu từ thời dịch.", "blank": "__________ began during the pandemic.", "a": "This trend" },
+            { "vi": "Sự chuyển dịch này gây ra vấn đề.", "blank": "__________ has caused problems.", "a": "This shift — không chỉ “This”" },
+            { "vi": "Những cách sắp xếp như vậy giờ phổ biến.", "blank": "__________ are now common.", "a": "Such arrangements" },
+            { "vi": "Cái trước rẻ hơn, cái sau nhanh hơn.", "blank": "__________ is cheaper; __________ is faster.", "a": "The former / the latter" },
+            { "vi": "Nhiều công ty đã làm vậy rồi.", "blank": "Many companies have __________ already.", "a": "done so" },
+            { "vi": "Một số việc, chẳng hạn thiết kế, rất hợp.", "blank": "Some tasks, __________ design, suit it well.", "a": "such as" },
+            { "vi": "Tuy nhiên tinh thần nhóm bị ảnh hưởng.", "blank": "__________ teamwork can suffer.", "a": "However, — có dấu chấm trước" }
+          ]
+        },
+        { "t": "h3", "text": "B. Câu nào tốt hơn?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tránh lặp", "blank": "(a) Remote work saves time. Remote work cuts costs.  (b) Remote work saves time. It also cuts costs.", "a": "(b)" },
+            { "vi": "Dùng từ nối", "blank": "(a) Moreover… Furthermore… In addition…  (b) Moreover… However…", "a": "(b) — ít mà đúng quan hệ" },
+            { "vi": "Tránh mơ hồ", "blank": "(a) This has caused problems.  (b) This shift has caused problems.", "a": "(b)" },
+            { "vi": "Nêu ví dụ", "blank": "(a) For example design and writing.  (b) such as design and writing.", "a": "(b) — such as + danh từ" }
+          ]
+        },
+        { "t": "h3", "text": "C. Sửa lại một đoạn của chính bạn" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tìm danh từ nào xuất hiện quá hai lần trong một đoạn.", "a": "Thay lần 2 bằng it/they, lần 3 bằng this + danh từ chung." },
+            { "vi": "2. Đếm số từ nối trong mỗi đoạn.", "a": "Quá hai cái thì bỏ bớt — giữ cái ở chỗ ý thật sự đổi hướng." },
+            { "vi": "3. Tìm mọi chữ this đứng một mình ở đầu câu.", "a": "Thêm một danh từ chung sau nó: this trend, this problem, this approach." },
+            { "vi": "4. Thử bỏ HẾT từ nối rồi đọc lại.", "a": "Nếu vẫn hiểu được thì trật tự ý của bạn đã tốt — chỉ cần thêm lại 1–2 cái." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Một danh từ xuất hiện lần thứ ba là lúc phải thay.</b> Lần hai dùng <i>it</i>, lần ba dùng <i>this + danh từ chung</i>.",
+            "<b><i>this</i> đứng một mình đầu câu gần như luôn mơ hồ.</b> Thêm một danh từ: <i>this trend</i>, <i>this shift</i>, <i>this problem</i>.",
+            "<b>Mạch lạc đến từ TRẬT TỰ Ý, không từ số lượng từ nối.</b> Một đoạn sắp xếp tốt gần như không cần từ nối nào.",
+            "<b>Mỗi đoạn một đến hai từ nối</b>, đặt ở chỗ ý <b>thật sự đổi hướng</b> — không rải đều cho đẹp.",
+            "<b><i>such as</i> + danh từ, <i>for example</i> + cả câu.</b> Hai cái không thay nhau được.",
+            "<b>Bài kiểm tra cuối:</b> bỏ HẾT từ nối rồi đọc lại. Vẫn hiểu được thì bài bạn thật sự mạch lạc."
+          ]
+        }
+      ]
+    }
+  ]
+}

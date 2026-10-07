@@ -1,0 +1,503 @@
+{
+  "id": 75,
+  "group": "Nhóm 8 · Giới thiệu & Xã giao",
+  "title": "I work as… / I work for… — Nói về công việc",
+  "subtitle": "Câu hỏi thứ ba trong mọi cuộc làm quen. Tiếng Anh có tới bốn giới từ đi với work, mỗi cái nói một điều khác nhau — và có một mạo từ nhỏ xíu mà thiếu nó là lộ ngay người học: I work as a teacher, không bao giờ là as teacher.",
+  "pattern": [
+    "I work as <em>+ a/an + nghề</em>.",
+    "I work for <em>+ công ty</em>.",
+    "I work in <em>+ ngành / bộ phận</em>."
+  ],
+  "meaning": "Tôi làm nghề… / Tôi làm ở…",
+  "grammar": [1, 20, 46],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Bẫy mạo từ “a”" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "Bốn giới từ đi với <b>work</b> nói bốn điều khác nhau: <span class=\"k\">work as</span> + nghề nghiệp, <span class=\"k\">work for</span> + công ty, <span class=\"k\">work in</span> + ngành hoặc bộ phận, <span class=\"k\">work at</span> + địa điểm cụ thể." },
+        { "t": "p", "html": "Trong đời sống, cách nói phổ biến nhất lại đơn giản hơn nhiều: <span class=\"k\">I'm a teacher.</span> Người bản xứ dùng dạng này thường xuyên hơn <i>I work as a teacher</i> — ngắn hơn và tự nhiên hơn." },
+        { "t": "p", "html": "Câu hỏi chuẩn để hỏi nghề nghiệp là <span class=\"k\">What do you do?</span> — không phải <i>What is your job?</i> vốn nghe cứng như một cuộc điều tra. Đây là điểm khác biệt nhỏ nhưng rất dễ nhận ra." },
+        { "t": "callout", "html": "<b>BẪY MẠO TỪ — lỗi kinh điển:</b> tên nghề nghiệp trong tiếng Anh <b>bắt buộc có mạo từ</b>. <span class=\"k\">I'm a teacher</span> ✓ / <span class=\"k\">I work as an engineer</span> ✓ — <i>I am teacher</i> ✗, <i>I work as teacher</i> ✗." },
+        { "t": "h3", "text": "Bốn giới từ, bốn nghĩa" },
+        {
+          "t": "table",
+          "head": ["Câu", "Nói về", "Ghi chú"],
+          "rows": [
+            ["<code>I work as an analyst.</code>", "Nghề nghiệp", "Bắt buộc có <i>a/an</i>"],
+            ["<code>I work for a bank.</code>", "Công ty, tổ chức", "Nhấn vào nơi trả lương"],
+            ["<code>I work in marketing.</code>", "Ngành, bộ phận", "Không có mạo từ"],
+            ["<code>I work at the hospital.</code>", "Địa điểm cụ thể", "Nhấn vào chỗ làm việc"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng nói “What is your job?”</b> — đúng ngữ pháp nhưng nghe như phỏng vấn hải quan. Câu tự nhiên là <b>What do you do?</b> hoặc đầy đủ hơn là <i>What do you do for a living?</i>" }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💬", "title": "Làm quen, hỏi nghề", "text": "Bối cảnh số 1. <i>What do you do?</i> — <i>I'm an analyst.</i>" },
+            { "icon": "🏢", "title": "Nói nơi làm việc", "text": "<i>I work for a bank.</i> Nhấn vào tổ chức." },
+            { "icon": "📊", "title": "Nói ngành nghề", "text": "<i>I work in marketing.</i> Không có mạo từ." },
+            { "icon": "🏥", "title": "Nói địa điểm", "text": "<i>I work at the hospital.</i> Chỗ làm cụ thể." },
+            { "icon": "💻", "title": "Làm tự do", "text": "<i>I'm self-employed.</i> / <i>I freelance.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Hỏi nghề người lạ. Dùng <i>What do you do?</i> chứ đừng <i>What is your job?</i>" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Phổ biến nhất", "<code>I'm + a/an + nghề.</code>", "I'm an analyst."],
+            ["Nghề nghiệp", "<code>I work as + a/an + nghề.</code>", "I work as an analyst."],
+            ["Công ty", "<code>I work for + công ty.</code>", "I work for a bank."],
+            ["Ngành / bộ phận", "<code>I work in + ngành.</code>", "I work in marketing."],
+            ["Địa điểm", "<code>I work at + nơi.</code>", "I work at the hospital."],
+            ["Ngắn gọn", "<code>I'm in + ngành.</code>", "I'm in sales."],
+            ["Tự do", "<code>I'm self-employed.</code>", "I'm self-employed."],
+            ["Đang nghỉ việc", "<code>I'm between jobs.</code>", "I'm between jobs at the moment."],
+            ["Hỏi nghề", "<code>What do you do?</code>", "What do you do?"],
+            ["Hỏi đầy đủ", "<code>What do you do for a living?</code>", "What do you do for a living?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>“I'm between jobs” là cách nói khéo</b> khi bạn đang thất nghiệp. Nó trung tính, không bi quan, và người nghe hiểu ngay mà không hỏi sâu thêm." },
+        { "t": "callout", "html": "<b>“work at” hay “work for”?</b> <i>work <b>for</b> Google</i> nhấn vào việc Google là chủ lao động của bạn. <i>work <b>at</b> Google</i> nhấn vào nơi bạn đến làm mỗi ngày. Trong nhiều trường hợp cả hai đều được." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Bốn giới từ và nghề nghiệp",
+              "items": [
+                { "w": "work as an analyst", "vi": "làm chuyên viên phân tích", "ex": "I work as an analyst.", "exvi": "Tôi làm chuyên viên phân tích.", "note": "BẮT BUỘC có <b>an</b>. <i>work as analyst</i> ✗ là lỗi kinh điển." },
+                { "w": "work as a teacher", "vi": "làm giáo viên", "ex": "I work as a teacher.", "exvi": "Tôi làm giáo viên.", "note": "Phụ âm đầu thì dùng <b>a</b>, nguyên âm đầu thì dùng <b>an</b>." },
+                { "w": "work for a bank", "vi": "làm cho một ngân hàng", "ex": "I work for a bank.", "exvi": "Tôi làm cho một ngân hàng.", "note": "<b>for</b> nhấn vào tổ chức trả lương cho bạn." },
+                { "w": "work in marketing", "vi": "làm trong ngành marketing", "ex": "I work in marketing.", "exvi": "Tôi làm trong ngành marketing.", "note": "Ngành và bộ phận thì KHÔNG có mạo từ." },
+                { "w": "work at the hospital", "vi": "làm ở bệnh viện", "ex": "I work at the hospital.", "exvi": "Tôi làm ở bệnh viện.", "note": "<b>at</b> nhấn vào địa điểm cụ thể bạn đến mỗi ngày." },
+                { "w": "I'm an engineer", "vi": "tôi là kỹ sư", "ex": "I'm an engineer.", "exvi": "Tôi là kỹ sư.", "note": "Cách nói PHỔ BIẾN NHẤT — ngắn và tự nhiên hơn <i>I work as</i>." },
+                { "w": "I'm in sales", "vi": "tôi làm bên bán hàng", "ex": "I'm in sales.", "exvi": "Tôi làm bên bán hàng.", "note": "Rút gọn của <i>I work in sales</i> — rất tự nhiên khi nói." },
+                { "w": "a designer", "vi": "nhà thiết kế", "ex": "I'm a designer.", "exvi": "Tôi là nhà thiết kế." },
+                { "w": "an accountant", "vi": "kế toán", "ex": "I work as an accountant.", "exvi": "Tôi làm kế toán.", "note": "Từ bắt đầu bằng nguyên âm thì dùng <b>an</b>." },
+                { "w": "a nurse", "vi": "y tá", "ex": "She's a nurse at the city hospital.", "exvi": "Cô ấy là y tá ở bệnh viện thành phố." },
+                { "w": "in HR", "vi": "bên nhân sự", "ex": "I work in HR.", "exvi": "Tôi làm bên nhân sự.", "note": "Tên bộ phận viết tắt cũng không có mạo từ." },
+                { "w": "in IT", "vi": "bên công nghệ thông tin", "ex": "I'm in IT.", "exvi": "Tôi làm bên IT." }
+              ]
+            },
+            {
+              "title": "Các tình huống nghề nghiệp khác",
+              "items": [
+                { "w": "I'm self-employed", "vi": "tôi làm tự do", "ex": "I'm self-employed.", "exvi": "Tôi làm tự do.", "note": "Có gạch nối. Nghĩa là bạn tự kinh doanh hoặc tự làm chủ." },
+                { "w": "I freelance", "vi": "tôi làm tự do theo dự án", "ex": "I freelance as a designer.", "exvi": "Tôi làm thiết kế tự do.", "note": "<i>freelance</i> ở đây là ĐỘNG TỪ — không cần <i>am</i>." },
+                { "w": "I run my own business", "vi": "tôi có công ty riêng", "ex": "I run my own business.", "exvi": "Tôi có công ty riêng." },
+                { "w": "I'm between jobs", "vi": "tôi đang trong giai đoạn chuyển việc", "ex": "I'm between jobs at the moment.", "exvi": "Hiện tôi đang trong giai đoạn chuyển việc.", "note": "Cách nói khéo khi thất nghiệp — trung tính, không bi quan." },
+                { "w": "I'm looking for work", "vi": "tôi đang tìm việc", "ex": "I'm looking for work at the moment.", "exvi": "Hiện tôi đang tìm việc." },
+                { "w": "I'm retired", "vi": "tôi đã nghỉ hưu", "ex": "I'm retired now.", "exvi": "Giờ tôi nghỉ hưu rồi.", "note": "Tính từ — dùng với <i>am</i>, không phải <i>I retired</i> (hành động trong quá khứ)." },
+                { "w": "I'm a student", "vi": "tôi là sinh viên", "ex": "I'm a student — final year.", "exvi": "Tôi là sinh viên — năm cuối.", "note": "Vẫn cần mạo từ <b>a</b>." },
+                { "w": "I work part-time", "vi": "tôi làm bán thời gian", "ex": "I work part-time at a café.", "exvi": "Tôi làm bán thời gian ở một quán cà phê." },
+                { "w": "I work from home", "vi": "tôi làm việc tại nhà", "ex": "I work from home three days a week.", "exvi": "Tôi làm ở nhà ba ngày một tuần.", "note": "Là <b>from</b> home, không phải <i>at home</i> khi nói về hình thức làm việc." },
+                { "w": "I've just started", "vi": "tôi mới bắt đầu", "ex": "I've just started at a new company.", "exvi": "Tôi mới bắt đầu ở công ty mới." },
+                { "w": "I'm on maternity leave", "vi": "tôi đang nghỉ thai sản", "ex": "I'm on maternity leave.", "exvi": "Tôi đang nghỉ thai sản." },
+                { "w": "I'm a stay-at-home parent", "vi": "tôi ở nhà chăm con", "ex": "I'm a stay-at-home parent.", "exvi": "Tôi ở nhà chăm con.", "note": "Cách nói trung tính và được tôn trọng trong tiếng Anh hiện đại." }
+              ]
+            },
+            {
+              "title": "Hỏi & đáp về công việc",
+              "items": [
+                { "w": "What do you do?", "vi": "bạn làm nghề gì?", "ex": "What do you do?", "exvi": "Bạn làm nghề gì?", "note": "Câu chuẩn. KHÔNG dùng <i>What is your job?</i> — nghe cứng như điều tra." },
+                { "w": "What do you do for a living?", "vi": "bạn làm nghề gì để sống?", "ex": "What do you do for a living?", "exvi": "Bạn làm nghề gì vậy?", "note": "Dạng đầy đủ — rõ ràng hơn khi ngữ cảnh chưa chắc." },
+                { "w": "Who do you work for?", "vi": "bạn làm cho công ty nào?", "ex": "Who do you work for?", "exvi": "Bạn làm cho công ty nào?", "note": "Dùng <b>who</b> chứ không phải <i>where</i> khi hỏi về tổ chức." },
+                { "w": "What line of work are you in?", "vi": "bạn làm ngành gì?", "ex": "What line of work are you in?", "exvi": "Anh/chị làm ngành gì ạ?", "note": "Trang trọng và lịch sự — hợp khi mới quen người lớn tuổi." },
+                { "w": "How long have you been there?", "vi": "bạn làm ở đó bao lâu rồi?", "ex": "How long have you been there?", "exvi": "Bạn làm ở đó bao lâu rồi?", "note": "Hiện tại hoàn thành. Xem [Khung 64]." },
+                { "w": "Do you enjoy it?", "vi": "bạn có thích công việc đó không?", "ex": "Do you enjoy it?", "exvi": "Bạn có thích công việc đó không?", "note": "Câu hỏi tiếp tự nhiên nhất — mở ra trò chuyện thật." },
+                { "w": "What does that involve?", "vi": "công việc đó gồm những gì?", "ex": "What does that involve?", "exvi": "Công việc đó gồm những gì vậy?", "note": "Rất hay khi bạn chưa hình dung được nghề của người kia." },
+                { "w": "It's hard to explain", "vi": "khó giải thích lắm", "ex": "It's hard to explain, honestly.", "exvi": "Thật lòng thì khó giải thích lắm." },
+                { "w": "No two days are the same", "vi": "không ngày nào giống ngày nào", "ex": "No two days are the same.", "exvi": "Không ngày nào giống ngày nào." },
+                { "w": "It pays the bills", "vi": "cũng đủ sống", "ex": "It pays the bills.", "exvi": "Cũng đủ sống thôi.", "note": "Thành ngữ khiêm tốn — ngụ ý bạn không đam mê lắm nhưng vẫn ổn." },
+                { "w": "I love it, actually", "vi": "thật ra tôi rất thích", "ex": "I love it, actually.", "exvi": "Thật ra tôi rất thích công việc đó." },
+                { "w": "That sounds interesting", "vi": "nghe thú vị đấy", "ex": "That sounds interesting.", "exvi": "Nghe thú vị đấy." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I'm an analyst — I work for a bank.",
+                  "vi": "Mình là chuyên viên phân tích — mình làm cho một ngân hàng.",
+                  "note": "Ghép nghề nghiệp với nơi làm — câu trả lời đầy đủ nhất cho <i>What do you do?</i>",
+                  "open": { "en": "So what do you do?", "vi": "Vậy bạn làm nghề gì?" },
+                  "reply": [
+                    { "them": "That sounds interesting. What does that involve?", "themvi": "Nghe thú vị đấy. Công việc đó gồm những gì?", "you": "Mostly numbers and reports.", "youvi": "Chủ yếu là số liệu và báo cáo." },
+                    { "them": "Do you enjoy it?", "themvi": "Bạn có thích không?", "you": "I do, actually. No two days are the same.", "youvi": "Thật ra mình thích. Không ngày nào giống ngày nào." }
+                  ],
+                  "close": { "en": "What about you?", "vi": "Còn bạn thì sao?" }
+                },
+                {
+                  "en": "I'm self-employed — I run my own business.",
+                  "vi": "Mình làm tự do — mình có công ty riêng.",
+                  "note": "<i>self-employed</i> có gạch nối. Nghĩa là bạn tự làm chủ, không có chủ lao động.",
+                  "reply": [
+                    { "them": "How long have you done that?", "themvi": "Bạn làm vậy bao lâu rồi?", "you": "Four years now.", "youvi": "Bốn năm rồi." }
+                  ],
+                  "vars": [
+                    { "en": "I freelance as a designer.", "vi": "Mình làm thiết kế tự do." }
+                  ]
+                },
+                {
+                  "en": "I'm between jobs at the moment.",
+                  "vi": "Hiện mình đang trong giai đoạn chuyển việc.",
+                  "note": "Cách nói khéo khi thất nghiệp — trung tính và người nghe hiểu ngay mà không hỏi sâu.",
+                  "reply": [
+                    { "them": "What are you looking for?", "themvi": "Bạn đang tìm việc gì?", "you": "Something in marketing, ideally.", "youvi": "Lý tưởng thì là gì đó bên marketing." }
+                  ]
+                },
+                {
+                  "en": "What line of work are you in?",
+                  "vi": "Anh/chị làm ngành gì ạ?",
+                  "note": "Trang trọng và lịch sự — hợp khi mới quen người lớn tuổi hoặc trong bối cảnh nghiêm túc.",
+                  "reply": [
+                    { "them": "Education. I'm a teacher.", "themvi": "Giáo dục. Tôi là giáo viên.", "you": "What do you teach?", "youvi": "Anh/chị dạy môn gì ạ?" }
+                  ],
+                  "close": { "en": "That must be rewarding.", "vi": "Chắc công việc đó ý nghĩa lắm." }
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I work in marketing, on the campaign side.",
+                  "vi": "Tôi làm bên marketing, mảng chiến dịch.",
+                  "note": "Ngành và bộ phận KHÔNG có mạo từ: <i>in marketing</i>, không phải <i>in the marketing</i>.",
+                  "reply": [
+                    { "them": "Who do you work for?", "themvi": "Anh/chị làm cho công ty nào?", "you": "A small agency in the old quarter.", "youvi": "Một công ty nhỏ ở phố cổ." }
+                  ],
+                  "close": { "en": "We should compare notes.", "vi": "Mình nên trao đổi thêm." }
+                },
+                {
+                  "en": "I've just started at a new company.",
+                  "vi": "Tôi mới bắt đầu ở một công ty mới.",
+                  "reply": [
+                    { "them": "How's it going so far?", "themvi": "Đến giờ thế nào rồi?", "you": "Steep learning curve, but good.", "youvi": "Phải học nhiều, nhưng ổn." }
+                  ],
+                  "vars": [
+                    { "en": "I moved jobs last month.", "vi": "Tháng trước tôi đổi việc." }
+                  ]
+                },
+                {
+                  "en": "I work from home three days a week.",
+                  "vi": "Tôi làm ở nhà ba ngày một tuần.",
+                  "note": "Là <b>from</b> home khi nói về hình thức làm việc — không phải <i>at home</i>.",
+                  "reply": [
+                    { "them": "Does that suit you?", "themvi": "Vậy có hợp với anh/chị không?", "you": "It does — no commute.", "youvi": "Hợp — khỏi phải đi lại." }
+                  ]
+                },
+                {
+                  "en": "I work as an accountant for a logistics firm.",
+                  "vi": "Tôi làm kế toán cho một công ty logistics.",
+                  "note": "Ghép <b>work as + nghề</b> với <b>for + công ty</b> — câu giới thiệu đầy đủ trong công việc.",
+                  "reply": [
+                    { "them": "How long have you been there?", "themvi": "Anh/chị làm ở đó bao lâu rồi?", "you": "Coming up to three years.", "youvi": "Sắp ba năm rồi." }
+                  ],
+                  "close": { "en": "Time flies.", "vi": "Thời gian trôi nhanh thật." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I'm a nurse — I work at the city hospital.",
+                  "vi": "Tôi là y tá — tôi làm ở bệnh viện thành phố.",
+                  "note": "<b>at</b> nhấn vào địa điểm cụ thể bạn đến làm mỗi ngày.",
+                  "reply": [
+                    { "them": "That must be demanding.", "themvi": "Chắc vất vả lắm.", "you": "It is, but I love it.", "youvi": "Đúng vậy, nhưng tôi thích." }
+                  ],
+                  "close": { "en": "This trip is my first break in a year.", "vi": "Chuyến này là lần nghỉ đầu tiên của tôi trong năm." }
+                },
+                {
+                  "en": "I'm here for work, not holiday.",
+                  "vi": "Tôi ở đây vì công việc, không phải đi nghỉ.",
+                  "reply": [
+                    { "them": "What do you do?", "themvi": "Anh/chị làm nghề gì?", "you": "I'm an engineer — site visits.", "youvi": "Tôi là kỹ sư — đi khảo sát công trường." }
+                  ],
+                  "vars": [
+                    { "en": "I'm on a business trip.", "vi": "Tôi đi công tác." }
+                  ]
+                },
+                {
+                  "en": "I'm retired now, so I travel a lot.",
+                  "vi": "Giờ tôi nghỉ hưu rồi nên đi đây đi đó nhiều.",
+                  "note": "<b>I'm retired</b> là tính từ chỉ trạng thái. <i>I retired</i> chỉ hành động nghỉ hưu trong quá khứ.",
+                  "reply": [
+                    { "them": "What did you do before?", "themvi": "Trước đây bác làm nghề gì ạ?", "you": "I was a teacher for thirty years.", "youvi": "Tôi làm giáo viên ba mươi năm." }
+                  ]
+                },
+                {
+                  "en": "I freelance, so I can work anywhere.",
+                  "vi": "Tôi làm tự do nên làm việc ở đâu cũng được.",
+                  "note": "<i>freelance</i> ở đây là ĐỘNG TỪ — không cần <i>am</i> trước nó.",
+                  "reply": [
+                    { "them": "That sounds ideal.", "themvi": "Nghe lý tưởng quá.", "you": "It has its downsides too.", "youvi": "Cũng có mặt trái của nó." }
+                  ],
+                  "close": { "en": "But I'm not complaining.", "vi": "Nhưng tôi không phàn nàn gì." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "So, what do you do?",
+                  "vi": "Vậy bạn làm nghề gì?",
+                  "note": "Câu hỏi CHUẨN. Đừng dùng <i>What is your job?</i> — nghe cứng như điều tra.",
+                  "reply": [
+                    { "them": "I'm in IT. You?", "themvi": "Mình bên IT. Còn bạn?", "you": "Marketing, for a small agency.", "youvi": "Marketing, cho một công ty nhỏ." }
+                  ],
+                  "close": { "en": "Let's not talk shop all night.", "vi": "Thôi đừng nói chuyện công việc cả tối." }
+                },
+                {
+                  "en": "I work part-time at a café while I study.",
+                  "vi": "Mình làm bán thời gian ở quán cà phê trong lúc đi học.",
+                  "reply": [
+                    { "them": "What are you studying?", "themvi": "Bạn học ngành gì?", "you": "Design — final year.", "youvi": "Thiết kế — năm cuối." }
+                  ],
+                  "vars": [
+                    { "en": "I'm a student, working part-time.", "vi": "Mình là sinh viên, làm thêm bán thời gian." }
+                  ]
+                },
+                {
+                  "en": "It's hard to explain — no two days are the same.",
+                  "vi": "Khó giải thích lắm — không ngày nào giống ngày nào.",
+                  "note": "Câu trả lời khi nghề của bạn khó mô tả gọn — và nó luôn khiến người ta tò mò hỏi tiếp.",
+                  "reply": [
+                    { "them": "Now I'm curious.", "themvi": "Giờ mình tò mò rồi đấy.", "you": "I'll explain over dessert.", "youvi": "Để món tráng miệng mình kể." }
+                  ]
+                },
+                {
+                  "en": "It pays the bills.",
+                  "vi": "Cũng đủ sống thôi.",
+                  "note": "Thành ngữ khiêm tốn — ngụ ý bạn không đam mê lắm nhưng công việc vẫn ổn.",
+                  "reply": [
+                    { "them": "Not your dream job, then?", "themvi": "Vậy không phải việc trong mơ nhỉ?", "you": "Not quite, but I'm not complaining.", "youvi": "Không hẳn, nhưng mình không kêu ca." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I work in retail myself, so I know how it is.",
+                  "vi": "Tôi cũng làm bên bán lẻ nên tôi hiểu mà.",
+                  "note": "Nói nghề của mình để tạo đồng cảm với nhân viên — một cách cư xử rất được lòng.",
+                  "reply": [
+                    { "them": "Then you'll understand the queue!", "themvi": "Vậy anh/chị hiểu cảnh xếp hàng này rồi!", "you": "All too well.", "youvi": "Quá hiểu luôn." }
+                  ],
+                  "close": { "en": "No rush at all.", "vi": "Không vội đâu ạ." }
+                },
+                {
+                  "en": "It's for work — I'm an engineer.",
+                  "vi": "Mua cho công việc — tôi là kỹ sư.",
+                  "reply": [
+                    { "them": "Then you'll want the heavy-duty version.", "themvi": "Vậy anh/chị nên lấy bản chuyên dụng ạ.", "you": "That makes sense.", "youvi": "Nghe hợp lý." }
+                  ],
+                  "vars": [
+                    { "en": "I need it for work.", "vi": "Tôi cần nó cho công việc." }
+                  ]
+                },
+                {
+                  "en": "Do you work here full-time?",
+                  "vi": "Em làm ở đây toàn thời gian à?",
+                  "reply": [
+                    { "them": "Part-time — I'm a student too.", "themvi": "Bán thời gian ạ — em cũng là sinh viên.", "you": "Busy life, then.", "youvi": "Vậy là bận rộn nhỉ." }
+                  ]
+                },
+                {
+                  "en": "I'm self-employed, so I'll need a receipt.",
+                  "vi": "Tôi làm tự do nên tôi cần hóa đơn.",
+                  "note": "Người làm tự do cần hóa đơn để khai thuế — lý do rất thường gặp.",
+                  "reply": [
+                    { "them": "Of course — VAT receipt?", "themvi": "Vâng ạ — hóa đơn VAT phải không?", "you": "Yes please.", "youvi": "Vâng, cảm ơn." }
+                  ],
+                  "close": { "en": "Thanks for that.", "vi": "Cảm ơn em." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Làm quen ở một bữa tiệc",
+          "lines": [
+            { "speaker": "Stranger", "en": "So what do you do?", "vi": "Vậy bạn làm nghề gì?" },
+            { "speaker": "You", "me": true, "en": "I'm an analyst — I work for a bank.", "vi": "Mình là chuyên viên phân tích — mình làm cho một ngân hàng." },
+            { "speaker": "Stranger", "en": "What does that involve, exactly?", "vi": "Công việc đó cụ thể gồm những gì?" },
+            { "speaker": "You", "me": true, "en": "Mostly reports and forecasting. It's hard to explain, honestly.", "vi": "Chủ yếu là báo cáo và dự báo. Thật lòng thì khó giải thích lắm." },
+            { "speaker": "Stranger", "en": "Do you enjoy it?", "vi": "Bạn có thích không?" },
+            { "speaker": "You", "me": true, "en": "I do, actually. What line of work are you in?", "vi": "Thật ra mình thích. Còn bạn làm ngành gì?" }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Nói về công việc với đồng nghiệp mới",
+          "lines": [
+            { "speaker": "Colleague", "en": "How long have you been here?", "vi": "Anh/chị làm ở đây bao lâu rồi?" },
+            { "speaker": "You", "me": true, "en": "I've just started — I work as an accountant.", "vi": "Tôi mới bắt đầu — tôi làm kế toán." },
+            { "speaker": "Colleague", "en": "And before that?", "vi": "Trước đó thì sao?" },
+            { "speaker": "You", "me": true, "en": "I was self-employed for four years. Then I wanted stability.", "vi": "Tôi làm tự do bốn năm. Rồi tôi muốn ổn định hơn." },
+            { "speaker": "Colleague", "en": "Do you work from home at all?", "vi": "Anh/chị có làm ở nhà không?" },
+            { "speaker": "You", "me": true, "en": "Three days a week. It suits me — no commute.", "vi": "Ba ngày một tuần. Hợp với tôi — khỏi phải đi lại." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I am teacher.", "right": "I'm a teacher.", "why": "LỖI KINH ĐIỂN. Tên nghề nghiệp trong tiếng Anh BẮT BUỘC có mạo từ <b>a</b> hoặc <b>an</b>." },
+            { "wrong": "I work as teacher.", "right": "I work as a teacher.", "why": "Cùng lỗi — sau <b>as</b> vẫn cần mạo từ khi nói về nghề nghiệp." },
+            { "wrong": "I work in a marketing.", "right": "I work in marketing.", "why": "Ngược lại: tên NGÀNH và BỘ PHẬN thì KHÔNG có mạo từ." },
+            { "wrong": "What is your job?", "right": "What do you do?", "why": "Đúng ngữ pháp nhưng nghe cứng như phỏng vấn hải quan. Câu tự nhiên là <b>What do you do?</b>" },
+            { "wrong": "Where do you work for?", "right": "Who do you work for?", "why": "Hỏi về TỔ CHỨC thì dùng <b>who</b>. <i>Where do you work?</i> là hỏi địa điểm, không có <i>for</i>." },
+            { "wrong": "I work at home three days a week.", "right": "I work from home three days a week.", "why": "Nói về hình thức làm việc thì dùng <b>from home</b>. <i>at home</i> chỉ nơi chốn thuần túy." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu", "Nói về", "Ghi chú"],
+          "rows": [
+            ["<code>I'm an analyst.</code>", "Nghề nghiệp", "Phổ biến nhất — cần mạo từ."],
+            ["<code>I work as an analyst.</code>", "Nghề nghiệp", "Trang trọng hơn một chút."],
+            ["<code>I work for a bank.</code>", "Công ty, tổ chức", "Nhấn vào chủ lao động."],
+            ["<code>I work in marketing.</code>", "Ngành, bộ phận", "Không có mạo từ."],
+            ["<code>I work at the hospital.</code>", "Địa điểm", "Nhấn vào nơi làm việc."],
+            ["<code>I'm self-employed.</code>", "Tự làm chủ", "Có gạch nối."],
+            ["<code>I'm between jobs.</code>", "Đang chuyển việc", "Cách nói khéo khi thất nghiệp."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — trả lời “What do you do?”" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Marketing.", "vi": "Ngắn nhất — có thể hơi cụt" },
+            { "en": "I'm in marketing.", "vi": "Ngắn, tự nhiên" },
+            { "en": "I'm an analyst.", "vi": "Nêu rõ nghề — chuẩn mực" },
+            { "en": "I work as an analyst for a bank.", "vi": "Đầy đủ — nghề và nơi làm" },
+            { "en": "I'm an analyst at a bank — mostly reports and forecasting.", "vi": "Đầy đủ nhất — mở ra trò chuyện" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>work as</b> nối âm thành <b>“wer-kəz”</b> — âm /k/ nối sang nguyên âm của <i>as</i>.",
+            "<b>as an</b> → “ə-zən”, hai từ dính liền, cả hai đều đọc rất nhẹ.",
+            "<b>work for</b> → “werk-fə”, chữ <i>for</i> lướt thành /fə/, không nhấn.",
+            "<b>Nhấn vào TÊN NGHỀ hoặc TÊN NGÀNH</b> — đó là thông tin mới, còn giới từ nói lướt.",
+            "<b>What do you do?</b> → “wə-jə-DOO”, ba từ đầu nói rất nhanh, nhấn chữ <i>do</i> cuối.",
+            "<b>self-employed</b> nhấn ở <i>ployed</i>: self-im-<b>PLOYD</b> — bốn âm tiết, đừng tách rời hai từ."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I work as an analyst for a bank.", "vi": "Luyện shadowing: “wer-kə-zən-AN-ə-list”, nối gọn as an." },
+            { "en": "What do you do for a living?", "vi": "Tập nói lướt “wə-jə-DOO” rồi nhấn LIV-ing." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi là giáo viên.", "blank": "I'm __________ teacher.", "a": "a (bắt buộc có mạo từ)" },
+            { "vi": "Tôi làm chuyên viên phân tích.", "blank": "I work as __________ analyst.", "a": "an" },
+            { "vi": "Tôi làm cho một ngân hàng.", "blank": "I work __________ a bank.", "a": "for" },
+            { "vi": "Tôi làm trong ngành marketing.", "blank": "I work __________ marketing.", "a": "in (không có mạo từ)" },
+            { "vi": "Tôi làm ở bệnh viện.", "blank": "I work __________ the hospital.", "a": "at" },
+            { "vi": "Bạn làm nghề gì?", "blank": "__________?", "a": "What do you do (KHÔNG phải “What is your job”)" },
+            { "vi": "Hiện tôi đang trong giai đoạn chuyển việc.", "blank": "I'm __________ at the moment.", "a": "between jobs" },
+            { "vi": "Tôi làm ở nhà ba ngày một tuần.", "blank": "I work __________ three days a week.", "a": "from home" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Mình là chuyên viên phân tích — mình làm cho một ngân hàng.", "a": "I'm an analyst — I work for a bank." },
+            { "vi": "2. Tôi làm bên marketing, mảng chiến dịch.", "a": "I work in marketing, on the campaign side." },
+            { "vi": "3. Mình làm tự do — mình có công ty riêng.", "a": "I'm self-employed — I run my own business." },
+            { "vi": "4. Tôi làm kế toán cho một công ty logistics.", "a": "I work as an accountant for a logistics firm." },
+            { "vi": "5. Anh/chị làm ngành gì ạ?", "a": "What line of work are you in?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Đừng bao giờ quên mạo từ trước tên nghề:</b> <i>I'm <b>a</b> teacher</i>, <i>I work as <b>an</b> engineer</i>. Đây là lỗi lộ ra ngay.",
+            "<b>Nhưng tên ngành thì không có mạo từ:</b> <i>I work in marketing</i>, không phải <i>in a marketing</i>.",
+            "<b>Hỏi nghề luôn là “What do you do?”</b> — <i>What is your job?</i> nghe cứng như điều tra.",
+            "<b>Bốn giới từ, bốn nghĩa:</b> <i>as</i> + nghề, <i>for</i> + công ty, <i>in</i> + ngành, <i>at</i> + địa điểm.",
+            "<b>Học “I'm between jobs”</b> — cách nói khéo và trung tính khi bạn đang tìm việc.",
+            "<b>Bài tập 3 phút:</b> viết bốn câu về công việc của bạn, mỗi câu dùng một giới từ khác nhau — <i>as, for, in, at</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "id": 52,
+  "group": "Nhóm 1 · Nền móng câu tiếng Anh",
+  "title": "Chủ ngữ giả It — câu tiếng Anh không được thiếu chủ ngữ",
+  "subtitle": "Tiếng Việt nói trống không được: “Hôm nay nóng quá.” Tiếng Anh thì MỌI câu phải có chủ ngữ, nên khi không có ai làm chủ, người ta mượn chữ It. Is very hot today ✗ — thiếu mất chủ ngữ.",
+  "meaning": "Mượn It làm chủ ngữ khi câu không có chủ ngữ thật",
+  "rule": [
+    "Mọi câu tiếng Anh <em>phải có chủ ngữ</em> — không có thì mượn <em>It</em>",
+    "<em>It + be + tính từ + to V</em>",
+    "Người thụ hưởng dùng <em>for</em>, phẩm chất người dùng <em>of</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2–B1", "hot": true },
+    { "text": "Is very hot today ✗" },
+    { "text": "Nền móng — học sớm" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [44, 57, 61, 83, 99],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Tiếng Việt bỏ chủ ngữ thoải mái — “Hôm nay nóng quá”, “Mất hai tiếng”, “Khó lắm”. Tiếng Anh thì <b>mọi câu đều phải có chủ ngữ</b>. Khi không có ai hay cái gì làm chủ, tiếng Anh <b>mượn chữ <i>It</i></b> đứng vào chỗ trống đó." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — viết câu không có chủ ngữ:</b><br><i><b>Is</b> very hot today</i> ✗ · <i><b>Very hot today</b></i> ✗ → <i><b>It's</b> very hot today.</i> ✓<br><i><b>Takes</b> two hours</i> ✗ → <i><b>It takes</b> two hours.</i> ✓<br><i><b>Is</b> difficult to learn English</i> ✗ → <i><b>It's</b> difficult to learn English.</i> ✓<br>Chữ <i>It</i> ở đây <b>không dịch ra tiếng Việt</b> và cũng không thay cho vật gì — nó chỉ giữ chỗ chủ ngữ." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>for</i> hay <i>of</i> trước người:</b><br>• Nói việc đó <b>thế nào ĐỐI VỚI</b> ai → <b>for</b>: <i>It's difficult <b>for me</b> to get up early.</i><br>• Nói <b>phẩm chất CỦA</b> người đó → <b>of</b>: <i>It's kind <b>of you</b> to help.</i><br><i>It's difficult <b>to me</b></i> ✗ · <i>It's important <b>with me</b></i> ✗ — hai lỗi dịch thẳng từ “với tôi”." },
+        { "t": "h3", "text": "Bốn chỗ bắt buộc mượn It" },
+        {
+          "t": "table",
+          "head": ["Nói về", "Khuôn", "Ví dụ"],
+          "rows": [
+            ["Thời tiết", "It + be + tính từ", "It's very hot today."],
+            ["Giờ, ngày, tháng", "It + be + mốc", "It's six o'clock."],
+            ["Khoảng cách, thời lượng", "It + takes / is", "It takes two hours."],
+            ["Đẩy mệnh đề dài ra sau", "It + be + tính từ + to V", "It's difficult to learn English."]
+          ]
+        },
+        { "t": "p", "html": "Dòng cuối là mẹo hay nhất: thay vì viết <i>To learn English is difficult</i> (đúng ngữ pháp nhưng nặng nề), tiếng Anh đẩy phần dài xuống cuối và đặt <b>It</b> lên đầu cho nhẹ câu." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khuôn", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>It's + tính từ</code>", "Thời tiết, không khí chung", "It's cold in here."],
+            ["<code>It's + giờ / thứ / ngày</code>", "Thời điểm", "It's Monday. · It's half past six."],
+            ["<code>It's + khoảng cách</code>", "Xa bao nhiêu", "It's ten kilometres from here."],
+            ["<code>It takes + (ai) + thời gian + to V</code>", "Mất bao lâu để làm gì", "It takes me an hour to get there."],
+            ["<code>It's + tính từ + to V</code>", "Làm việc đó thì thế nào", "It's difficult to learn English."],
+            ["<code>It's + tính từ + for ai + to V</code>", "Thế nào ĐỐI VỚI ai", "It's hard for me to say no."],
+            ["<code>It's + tính từ + of ai + to V</code>", "Phẩm chất CỦA ai", "It's kind of you to help."],
+            ["<code>It's + tính từ + that…</code>", "Nhận định về một sự việc", "It's clear that he's right."],
+            ["<code>It seems / appears that…</code>", "Có vẻ như", "It seems that he's busy."],
+            ["<code>It is said / believed that…</code>", "Người ta nói rằng", "It is said that he's rich."],
+            ["<code>It's worth + V-ing</code>", "Đáng để làm", "It's worth trying."],
+            ["<code>It's no use + V-ing</code>", "Vô ích khi làm", "It's no use arguing."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Ba dòng cuối là khuôn cố định</b> — sau <i>worth</i> và <i>no use</i> <b>luôn</b> là V-ing, không phải <i>to V</i>: <i>It's worth <b>to try</b></i> ✗ → <i>It's worth <b>trying</b></i> ✓. Xem [Ngữ pháp 24]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "It's very hot today.", "vi": "Hôm nay nóng quá.", "note": "BẪY SỐ MỘT: <i>Is very hot today</i> ✗ — thiếu chủ ngữ." },
+            { "en": "It's six o'clock.", "vi": "Sáu giờ rồi.", "note": "Giờ giấc luôn mượn <b>It</b>. Xem [Khung 61]." },
+            { "en": "It takes two hours to get there.", "vi": "Mất hai tiếng để tới đó.", "note": "<i>Takes two hours</i> ✗. Xem [Khung 99]." },
+            { "en": "It takes me an hour to get to work.", "vi": "Tôi mất một tiếng để đi làm.", "note": "Người đi ngay sau <b>takes</b>, không có giới từ." },
+            { "en": "It's difficult to learn English.", "vi": "Học tiếng Anh khó lắm.", "note": "Đẩy phần dài <i>to learn English</i> xuống cuối câu." },
+            { "en": "It's hard for me to say no.", "vi": "Tôi rất khó nói không.", "note": "BẪY SỐ HAI: <b>for me</b>, không phải <i>to me</i>." },
+            { "en": "It's kind of you to help.", "vi": "Bạn tốt quá đã giúp tôi.", "note": "Khen phẩm chất người thì dùng <b>of you</b>." },
+            { "en": "It seems that he's busy.", "vi": "Có vẻ anh ấy bận.", "note": "Xem [Khung 44]." },
+            { "en": "It's clear that he's right.", "vi": "Rõ ràng là anh ấy đúng.", "note": "<b>It's + tính từ + that</b> — nhận định về cả một sự việc." },
+            { "en": "It depends on the weather.", "vi": "Cái đó còn tùy thời tiết.", "note": "<i>Depends on the weather</i> ✗. Xem [Khung 57]." },
+            { "en": "It's worth trying.", "vi": "Thử cũng đáng.", "note": "Sau <b>worth</b> luôn là V-ing." },
+            { "en": "It makes me nervous.", "vi": "Việc đó làm tôi lo.", "note": "Ở đây <i>It</i> thay cho việc vừa nhắc. Xem [Khung 83]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🌤", "title": "Nói thời tiết", "text": "<i>It's very hot today.</i> Luôn có <b>It</b>." },
+            { "icon": "🕕", "title": "Nói giờ, ngày", "text": "<i>It's six o'clock.</i> Xem [Khung 61]." },
+            { "icon": "🚌", "title": "Nói mất bao lâu, xa bao xa", "text": "<i>It takes two hours.</i> Xem [Khung 99]." },
+            { "icon": "📏", "title": "Nhận xét một việc", "text": "<i>It's difficult to learn English.</i>" },
+            { "icon": "🙏", "title": "Khen ai tốt bụng", "text": "<i>It's kind of you to help.</i> — dùng <b>of</b>." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Thứ đó TỒN TẠI ở đâu đó → dùng <i>There is/are</i>. Xem [Ngữ pháp 51]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một mục ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi mục đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "It cho thời tiết, giờ giấc, khoảng cách",
+              "items": [
+                { "w": "It's hot / cold", "vi": "trời nóng / lạnh", "ex": "It's very hot today.", "exvi": "Hôm nay nóng quá.", "note": "BẪY SỐ MỘT: không bao giờ bỏ <b>It</b>." },
+                { "w": "It's raining", "vi": "trời đang mưa", "ex": "It's raining outside.", "exvi": "Ngoài trời đang mưa.", "note": "<i>Is raining</i> ✗ · <i>Raining</i> ✗." },
+                { "w": "It's sunny / windy", "vi": "trời nắng / có gió", "ex": "It's sunny today.", "exvi": "Hôm nay trời nắng." },
+                { "w": "It's six o'clock", "vi": "sáu giờ rồi", "ex": "It's six o'clock.", "exvi": "Sáu giờ rồi. Xem [Khung 61]." },
+                { "w": "It's Monday", "vi": "hôm nay thứ Hai", "ex": "It's Monday today.", "exvi": "Hôm nay thứ Hai." },
+                { "w": "It's late / early", "vi": "muộn rồi / còn sớm", "ex": "It's getting late.", "exvi": "Muộn rồi đấy." },
+                { "w": "It's ten kilometres", "vi": "xa mười cây số", "ex": "It's ten kilometres from here.", "exvi": "Từ đây đi mười cây." },
+                { "w": "It takes + thời gian", "vi": "mất bao lâu", "ex": "It takes two hours.", "exvi": "Mất hai tiếng. Xem [Khung 99]." },
+                { "w": "It takes me…", "vi": "tôi mất bao lâu", "ex": "It takes me an hour to get to work.", "exvi": "Tôi mất một tiếng đi làm.", "note": "Người đứng NGAY SAU <i>takes</i>, không có giới từ." },
+                { "w": "It costs…", "vi": "giá bao nhiêu", "ex": "It costs about ten dollars.", "exvi": "Khoảng mười đô." },
+                { "w": "It depends on…", "vi": "còn tùy vào", "ex": "It depends on the weather.", "exvi": "Còn tùy thời tiết.", "note": "Không bỏ được <i>It</i> lẫn <i>on</i>. Xem [Khung 57]." },
+                { "w": "It doesn't matter", "vi": "không sao đâu", "ex": "It doesn't matter.", "exvi": "Không sao đâu." }
+              ]
+            },
+            {
+              "title": "It + tính từ và các khuôn cố định",
+              "items": [
+                { "w": "It's difficult to V", "vi": "khó mà làm gì", "ex": "It's difficult to learn English.", "exvi": "Học tiếng Anh khó lắm." },
+                { "w": "It's easy to V", "vi": "dễ làm gì", "ex": "It's easy to make a mistake here.", "exvi": "Chỗ này rất dễ sai." },
+                { "w": "It's important to V", "vi": "quan trọng là phải", "ex": "It's important to be on time.", "exvi": "Đúng giờ là quan trọng." },
+                { "w": "It's hard for me to V", "vi": "với tôi thì khó", "ex": "It's hard for me to say no.", "exvi": "Tôi rất khó nói không.", "note": "BẪY SỐ HAI: <b>for me</b>, không phải <i>to me</i>." },
+                { "w": "It's kind of you to V", "vi": "bạn thật tốt bụng", "ex": "It's kind of you to help.", "exvi": "Bạn tốt quá đã giúp.", "note": "Khen PHẨM CHẤT người thì dùng <b>of</b>." },
+                { "w": "It's nice of you", "vi": "bạn thật tử tế", "ex": "It's nice of you to come.", "exvi": "Cảm ơn bạn đã đến." },
+                { "w": "It's clear that…", "vi": "rõ ràng là", "ex": "It's clear that he's right.", "exvi": "Rõ ràng anh ấy đúng." },
+                { "w": "It's true that…", "vi": "đúng là", "ex": "It's true that she left.", "exvi": "Đúng là cô ấy đã đi." },
+                { "w": "It seems that…", "vi": "có vẻ như", "ex": "It seems that he's busy.", "exvi": "Có vẻ anh ấy bận. Xem [Khung 44]." },
+                { "w": "It is said that…", "vi": "người ta nói rằng", "ex": "It is said that he's rich.", "exvi": "Người ta nói ông ấy giàu.", "note": "Bị động vô nhân xưng. Xem [Ngữ pháp 46]." },
+                { "w": "It's worth + V-ing", "vi": "đáng để làm", "ex": "It's worth trying.", "exvi": "Thử cũng đáng.", "note": "Sau <b>worth</b> LUÔN là V-ing, không phải <i>to V</i>." },
+                { "w": "It's no use + V-ing", "vi": "vô ích khi làm", "ex": "It's no use arguing.", "exvi": "Cãi cũng vô ích.", "note": "Cũng luôn là V-ing. Xem [Ngữ pháp 24]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<b>Is</b> very hot today.", "right": "<b>It's</b> very hot today.", "why": "BẪY SỐ MỘT: tiếng Anh không có câu nào thiếu chủ ngữ." },
+            { "wrong": "<b>Very hot today.</b>", "right": "<b>It's very hot today.</b>", "why": "Tiếng Việt nói trống không được, tiếng Anh thì không." },
+            { "wrong": "<b>Takes</b> two hours to get there.", "right": "<b>It takes</b> two hours to get there.", "why": "Vẫn là lỗi thiếu chủ ngữ. Xem [Khung 99]." },
+            { "wrong": "It's difficult <b>to me</b> to get up early.", "right": "It's difficult <b>for me</b> to get up early.", "why": "BẪY SỐ HAI: người thụ hưởng đi với <b>for</b>." },
+            { "wrong": "It's important <b>with me</b>.", "right": "It's important <b>to me</b>. / It's important <b>for me</b> to…", "why": "“Với tôi” không dịch thành <i>with me</i> — đây là lỗi dịch thẳng." },
+            { "wrong": "It's kind <b>for you</b> to help.", "right": "It's kind <b>of you</b> to help.", "why": "Khen phẩm chất người thì dùng <b>of</b>, không dùng <i>for</i>." },
+            { "wrong": "<b>It is</b> a book on the desk.", "right": "<b>There is</b> a book on the desk.", "why": "Nói thứ gì TỒN TẠI ở đâu thì dùng <i>There be</i>. Xem [Ngữ pháp 51]." },
+            { "wrong": "It's worth <b>to try</b>.", "right": "It's worth <b>trying</b>.", "why": "Sau <b>worth</b> luôn là V-ing. Xem [Ngữ pháp 24]." },
+            { "wrong": "It takes <b>for me</b> an hour.", "right": "It takes <b>me</b> an hour.", "why": "Sau <b>takes</b>, người đứng thẳng vào, không có giới từ." },
+            { "wrong": "<b>Depends on</b> the weather.", "right": "<b>It depends on</b> the weather.", "why": "Câu trả lời ngắn vẫn phải có chủ ngữ. Xem [Khung 57]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>It is</code> / <code>There is</code>", "Nhận xét / sự tồn tại", "It's cold ≠ There's a book here"],
+            ["<code>for</code> / <code>of</code> trước người", "Thế nào với ai / phẩm chất của ai", "hard for me ≠ kind of you"],
+            ["<code>to me</code> / <code>for me</code>", "Theo ý tôi / đối với tôi khi làm gì", "important to me ≠ hard for me to V"],
+            ["<code>It takes me</code>", "Người đứng thẳng, không giới từ", "It takes me an hour."],
+            ["<code>It's + adj + to V</code> / <code>To V is + adj</code>", "Tự nhiên / cứng, ít dùng", "It's difficult to learn ✓"],
+            ["<code>It's worth V-ing</code>", "Luôn V-ing, không <code>to V</code>", "It's worth trying."],
+            ["<code>It</code> giả / <code>It</code> thật", "Giữ chỗ / thay cho vật đã nhắc", "It's hot. ≠ I lost my pen. It was new."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: câu này mở đầu bằng gì?" },
+        {
+          "t": "tree",
+          "q": "Bạn đang viết một câu tiếng Việt không có chủ ngữ — mở đầu tiếng Anh thế nào?",
+          "nodes": [
+            { "if": "Nói thời tiết, giờ giấc, khoảng cách", "then": "It + be", "ex": "It's very hot today." },
+            { "if": "Nói mất bao lâu để làm gì", "then": "It takes (+ ai) + thời gian + to V", "ex": "It takes me an hour to get there." },
+            { "if": "Nhận xét về việc làm gì đó", "then": "It's + tính từ + to V", "ex": "It's difficult to learn English." },
+            { "if": "Muốn nói rõ với AI thì thế nào", "then": "It's + tính từ + for ai + to V", "ex": "It's hard for me to say no." },
+            { "if": "Khen phẩm chất của người đó", "then": "It's + tính từ + of ai + to V", "ex": "It's kind of you to help." },
+            { "if": "Nói có thứ gì đó TỒN TẠI ở đâu", "then": "There is / There are", "ex": "There's a book on the desk." }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ chắc chắn của một nhận định" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "It might be true.", "vi": "Yếu nhất — có thể thôi" },
+            { "en": "It seems that it's true.", "vi": "Có vẻ vậy" },
+            { "en": "It's probably true.", "vi": "Chắc là vậy" },
+            { "en": "It's clear that it's true.", "vi": "Rõ ràng" },
+            { "en": "It's obvious that it's true.", "vi": "Mạnh nhất — hiển nhiên" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Chủ ngữ giả <i>It</i> xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 99, "why": "It takes + thời gian + to V — khung chính của chủ ngữ giả It." },
+            { "id": 44, "why": "It seems (to me) that… — mở lời nhận định mà không chỉ mặt ai." },
+            { "id": 57, "why": "It depends on… — câu trả lời ngắn nhưng vẫn phải có It." },
+            { "id": 61, "why": "What time…? — giờ giấc luôn trả lời bằng It's…" },
+            { "id": 83, "why": "It makes me + tính từ — It thay cho sự việc vừa nhắc." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Thêm chủ ngữ hoặc giới từ còn thiếu" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Hôm nay nóng quá.", "blank": "__________ very hot today.", "a": "It's" },
+            { "vi": "Sáu giờ rồi.", "blank": "__________ six o'clock.", "a": "It's" },
+            { "vi": "Mất hai tiếng để tới đó.", "blank": "__________ two hours to get there.", "a": "It takes" },
+            { "vi": "Tôi mất một tiếng để đi làm.", "blank": "It takes __________ an hour to get to work.", "a": "me — không có giới từ" },
+            { "vi": "Học tiếng Anh khó lắm.", "blank": "__________ difficult to learn English.", "a": "It's" },
+            { "vi": "Tôi rất khó nói không.", "blank": "It's hard __________ me to say no.", "a": "for" },
+            { "vi": "Bạn tốt quá đã giúp tôi.", "blank": "It's kind __________ you to help.", "a": "of" },
+            { "vi": "Cái đó còn tùy thời tiết.", "blank": "__________ depends on the weather.", "a": "It" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn câu đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Hôm nay nóng quá.", "blank": "(a) Is very hot today.  (b) It's very hot today.", "a": "(b)" },
+            { "vi": "Tôi rất khó dậy sớm.", "blank": "(a) It's difficult to me to get up early.  (b) It's difficult for me to get up early.", "a": "(b)" },
+            { "vi": "Trên bàn có một quyển sách.", "blank": "(a) It is a book on the desk.  (b) There is a book on the desk.", "a": "(b)" },
+            { "vi": "Thử cũng đáng.", "blank": "(a) It's worth to try.  (b) It's worth trying.", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Hôm nay nóng quá.", "a": "It's very hot today." },
+            { "vi": "2. Tôi mất một tiếng để đi làm.", "a": "It takes me an hour to get to work." },
+            { "vi": "3. Bạn tốt quá đã giúp tôi.", "a": "It's kind of you to help." },
+            { "vi": "4. Rõ ràng là anh ấy đúng.", "a": "It's clear that he's right." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật sắt:</b> viết xong một câu tiếng Anh, chỉ tay vào chủ ngữ. Chỉ không ra thì thiếu — mượn <b>It</b>.",
+            "<b>Bốn chỗ luôn mượn <i>It</i>:</b> thời tiết, giờ giấc, khoảng cách, và câu <i>It takes…</i>.",
+            "<b>Mẹo <i>for</i> / <i>of</i>:</b> khen <b>người</b> thì <i>of</i> (<i>kind of you</i>), nói việc đó <b>thế nào với</b> người thì <i>for</i> (<i>hard for me</i>).",
+            "<b>Câu dài thì đẩy xuống cuối:</b> <i>To learn English is difficult</i> → <i>It's difficult to learn English</i>. Tự nhiên hơn hẳn.",
+            "<b>Đừng lẫn với <i>There is</i>:</b> <i>It</i> để nhận xét, <i>There</i> để nói thứ gì tồn tại. Xem [Ngữ pháp 51].",
+            "<b>Bài tập 3 phút:</b> viết sáu câu về hôm nay — thời tiết, mấy giờ, mất bao lâu đi làm, việc gì khó, việc gì đáng thử."
+          ]
+        }
+      ]
+    }
+  ]
+}

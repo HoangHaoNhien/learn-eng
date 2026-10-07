@@ -1,0 +1,277 @@
+{
+  "id": 12,
+  "group": "Nhóm 3 · Nói — từ câu lẻ lên đoạn dài",
+  "title": "Nói kéo dài 60 giây — mô tả & kể",
+  "subtitle": "Người Việt nói xong một câu là hết chuyện, rồi im lặng chờ người kia hỏi tiếp. Đó không phải vì thiếu từ mà vì thiếu BỘ KHUNG triển khai — B2 đòi bạn nói liền mạch 60–90 giây về một chủ đề thường.",
+  "meaning": "Nói liền mạch một đoạn dài, không chỉ một câu",
+  "rule": [
+    "Một ý = <em>câu chính + mở rộng + ví dụ</em>",
+    "Dùng <em>khung có sẵn</em>, đừng dịch trong đầu",
+    "Hết ý thì <em>nối sang ý kế</em>, đừng dừng"
+  ],
+  "tags": [
+    { "text": "Mức độ: B2 bắt buộc", "hot": true },
+    { "text": "Nói một câu rồi im" },
+    { "text": "Thiếu khung, không thiếu từ" },
+    { "text": "Ảnh hưởng: rất lớn" }
+  ],
+  "frames": [41, 70, 74, 93, 96],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Ở trình A2–B1 bạn trả lời <b>từng câu</b>. B2 đòi khác hẳn: nói <b>liền mạch 60–90 giây</b> về một chủ đề thường — tả một nơi, kể một chuyện, nêu một quan điểm. Chuyển từ câu lẻ sang đoạn dài là bước khó nhất của người học Việt Nam." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — nói một câu rồi hết:</b><br>Hỏi <i>“What's your hometown like?”</i> → trả lời <i>“It's nice.”</i> rồi im.<br>Không phải vì thiếu từ. Vấn đề là <b>thiếu bộ khung triển khai</b> — bạn không có sẵn câu hỏi nào để tự đặt tiếp cho mình.<br><b>Khung ba lớp:</b> mỗi ý nói <b>ba câu</b>, không phải một:<br>① <b>Câu chính</b> — <i>It's a small town near the coast.</i><br>② <b>Mở rộng</b> — <i>It's quiet, and everyone knows everyone.</i><br>③ <b>Ví dụ cụ thể</b> — <i>For example, my neighbour still brings us fruit every week.</i>" },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — dịch trong đầu rồi mới nói:</b><br>Bạn nghĩ câu tiếng Việt → dịch → tìm từ → mới mở miệng. Mỗi câu mất bốn năm giây, nên nói ba câu là hết hơi.<br><b>Cách thoát:</b> nói bằng <b>cụm có sẵn</b>, không dịch từng chữ. Học thuộc mươi cái mở đầu như <i>It's the kind of place where…</i>, <i>What I like most is…</i>, <i>To be honest…</i> — chúng chạy tự động, để đầu óc rảnh mà nghĩ nội dung.<br>Bí thì câu giờ, đừng im. Xem [Kỹ năng 15]." },
+        { "t": "h3", "text": "Bốn khung để kéo dài" },
+        {
+          "t": "table",
+          "head": ["Khung", "Dùng khi", "Ví dụ mở đầu"],
+          "rows": [
+            ["Ba lớp", "Mọi câu trả lời", "chính → mở rộng → ví dụ"],
+            ["Năm chữ W", "Kể một chuyện", "khi nào · ở đâu · ai · gì · rồi sao"],
+            ["Trước — giờ", "Tả thay đổi", "It used to be… but now…"],
+            ["Nêu rồi lật", "Nêu quan điểm", "I like… although…"]
+          ]
+        },
+        { "t": "p", "html": "Chỉ cần <b>một</b> khung là đủ 60 giây. Thuộc hai khung là bạn không bao giờ tắc giữa chừng nữa." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Bước", "Nói gì", "Cụm mở đầu"],
+          "rows": [
+            ["1. Trả lời thẳng", "Một câu trả lời đúng trọng tâm", "It's a small town near the coast."],
+            ["2. Mở rộng", "Thêm một chi tiết nữa", "It's quiet, and…"],
+            ["3. Ví dụ", "Một chuyện cụ thể, có thật", "For example… · Like last week…"],
+            ["4. Cảm nhận", "Bạn thấy thế nào về nó", "What I like most is…"],
+            ["5. So sánh", "Đặt cạnh một cái khác", "Compared to Hanoi, it's…"],
+            ["6. Thay đổi", "Trước khác, giờ khác", "It used to be… but now…"],
+            ["7. Lật một chút", "Thừa nhận mặt kia", "Although… · That said…"],
+            ["8. Chốt lại", "Quay về ý đầu", "So overall, …"],
+            ["Nối ý", "Chuyển sang ý mới", "Another thing is… · Also…"],
+            ["Câu giờ", "Khi cần nghĩ", "Let me think… · That's a good question."],
+            ["Tự sửa", "Nói nhầm thì sửa", "Sorry, I mean…"],
+            ["Kết thúc", "Báo là mình nói xong", "…, I suppose. · Yeah, something like that."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Không cần dùng hết tám bước.</b> Bốn bước đầu đã đủ 45–60 giây rồi. Điều quan trọng là <b>biết bước tiếp theo là gì</b> ngay khi vừa nói xong một câu — đó chính là thứ ngăn bạn im lặng." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "It's a small town near the coast.", "vi": "Đó là một thị trấn nhỏ gần biển.", "note": "Bước 1 — trả lời thẳng. Xem [Khung 70]." },
+            { "en": "It's quiet, and everyone knows everyone.", "vi": "Yên tĩnh, và ai cũng biết nhau.", "note": "Bước 2 — mở rộng bằng một chi tiết nữa." },
+            { "en": "For example, my neighbour still brings us fruit every week.", "vi": "Ví dụ, hàng xóm tuần nào cũng mang hoa quả sang.", "note": "Bước 3 — ví dụ CỤ THỂ, có thật. Đây là bước làm đoạn văn sống dậy." },
+            { "en": "What I like most is how slow life is there.", "vi": "Điều tôi thích nhất là nhịp sống chậm ở đó.", "note": "Bước 4 — cảm nhận riêng. Xem [Ngữ pháp 62]." },
+            { "en": "Compared to Hanoi, it's much quieter.", "vi": "So với Hà Nội thì yên hơn nhiều.", "note": "Bước 5 — so sánh. Xem [Ngữ pháp 37]." },
+            { "en": "It used to be very poor, but now it's changing fast.", "vi": "Trước đây rất nghèo, giờ thì đang đổi nhanh.", "note": "Bước 6 — thay đổi theo thời gian. Xem [Khung 93]." },
+            { "en": "Although it's quiet, there isn't much to do.", "vi": "Tuy yên tĩnh nhưng chẳng có gì chơi.", "note": "Bước 7 — lật một chút cho cân. Xem [Ngữ pháp 48]." },
+            { "en": "So overall, it's a nice place to grow up.", "vi": "Nói chung là một nơi tốt để lớn lên.", "note": "Bước 8 — chốt, quay về ý đầu." },
+            { "en": "Another thing is the food — it's really good.", "vi": "Một điều nữa là đồ ăn — ngon lắm.", "note": "Nối sang ý mới thay vì dừng lại." },
+            { "en": "That's a good question. Let me think.", "vi": "Câu hỏi hay đấy. Để tôi nghĩ đã.", "note": "Câu giờ — nói được là không bị im. Xem [Kỹ năng 15]." },
+            { "en": "When I was a child, I lived in Hue.", "vi": "Hồi bé tôi sống ở Huế.", "note": "Mở đầu kiểu kể chuyện. Xem [Khung 96]." },
+            { "en": "I think it depends on what you're looking for.", "vi": "Tôi nghĩ còn tùy bạn tìm gì.", "note": "Câu chốt an toàn khi chưa muốn kết luận. Xem [Khung 41]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào cần để ý nhất",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🎤", "title": "Thi nói B2", "text": "Phần mô tả đòi nói liền 60–90 giây." },
+            { "icon": "💼", "title": "Phỏng vấn xin việc", "text": "<i>Tell me about yourself</i> — không ai muốn nghe một câu." },
+            { "icon": "🏠", "title": "Tả nơi chốn, con người", "text": "<i>What's it like?</i> Xem [Khung 70]." },
+            { "icon": "📖", "title": "Kể một chuyện đã xảy ra", "text": "Dùng khung năm chữ W. Xem [Khung 96]." },
+            { "icon": "🤝", "title": "Nói chuyện xã giao", "text": "Trả lời một câu làm hội thoại chết ngay." },
+            { "icon": "🚫", "title": "Đừng làm…", "text": "Đừng dịch từng câu trong đầu — sẽ tắc." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cụm có sẵn để kéo dài",
+      "blocks": [
+        { "t": "p", "html": "Chọn một cụm ở cột trái để xem nó dùng ở bước nào và một câu mẫu hoàn chỉnh." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Mở rộng & đưa ví dụ",
+              "items": [
+                { "w": "It's the kind of place where…", "vi": "Đó là kiểu nơi mà…", "ex": "It's the kind of place where everyone knows everyone.", "exvi": "Đó là kiểu nơi ai cũng biết nhau.", "note": "Mở đầu mạnh cho phần mô tả. Xem [Khung 70]." },
+                { "w": "What I like most is…", "vi": "Điều tôi thích nhất là…", "ex": "What I like most is how quiet it is.", "exvi": "Điều tôi thích nhất là sự yên tĩnh.", "note": "Câu chẻ nhấn mạnh. Xem [Ngữ pháp 62]." },
+                { "w": "For example…", "vi": "Ví dụ…", "ex": "For example, my neighbour brings us fruit.", "exvi": "Ví dụ, hàng xóm mang hoa quả sang." },
+                { "w": "Like last week,…", "vi": "Như tuần trước,…", "ex": "Like last week, we had a street party.", "exvi": "Như tuần trước, cả phố có tiệc." },
+                { "w": "The thing is,…", "vi": "Vấn đề là,…", "ex": "The thing is, it's quite far from the city.", "exvi": "Vấn đề là nó khá xa thành phố." },
+                { "w": "Compared to…", "vi": "So với…", "ex": "Compared to Hanoi, it's much quieter.", "exvi": "So với Hà Nội thì yên hơn nhiều." },
+                { "w": "It used to be… but now…", "vi": "Trước đây… nhưng giờ…", "ex": "It used to be poor, but now it's changing.", "exvi": "Trước nghèo, giờ đang đổi. Xem [Khung 93]." },
+                { "w": "Another thing is…", "vi": "Một điều nữa là…", "ex": "Another thing is the food.", "exvi": "Một điều nữa là đồ ăn." },
+                { "w": "On top of that,…", "vi": "Hơn nữa,…", "ex": "On top of that, it's cheap.", "exvi": "Hơn nữa lại rẻ." },
+                { "w": "That reminds me…", "vi": "Nhắc mới nhớ…", "ex": "That reminds me, we also have a market.", "exvi": "Nhắc mới nhớ, chỗ tôi còn có chợ." },
+                { "w": "To be honest,…", "vi": "Nói thật thì…", "ex": "To be honest, I miss it a lot.", "exvi": "Nói thật thì tôi nhớ lắm." },
+                { "w": "I'd say…", "vi": "Tôi thì cho rằng…", "ex": "I'd say it's the best place I've lived.", "exvi": "Tôi cho là nơi tốt nhất tôi từng ở. Xem [Khung 46]." }
+              ]
+            },
+            {
+              "title": "Kể chuyện, lật ý & chốt",
+              "items": [
+                { "w": "When I was…,", "vi": "Hồi tôi…,", "ex": "When I was a child, I lived in Hue.", "exvi": "Hồi bé tôi sống ở Huế. Xem [Khung 96]." },
+                { "w": "At the time,…", "vi": "Hồi đó,…", "ex": "At the time, I didn't speak any English.", "exvi": "Hồi đó tôi chẳng biết tiếng Anh." },
+                { "w": "and then…", "vi": "rồi thì…", "ex": "and then we moved to Hanoi.", "exvi": "rồi bọn tôi chuyển ra Hà Nội." },
+                { "w": "After that,…", "vi": "Sau đó,…", "ex": "After that, everything changed.", "exvi": "Sau đó mọi thứ đổi hẳn." },
+                { "w": "In the end,…", "vi": "Cuối cùng thì…", "ex": "In the end, we stayed for ten years.", "exvi": "Cuối cùng bọn tôi ở đó mười năm." },
+                { "w": "Although…", "vi": "Mặc dù…", "ex": "Although it's quiet, there isn't much to do.", "exvi": "Tuy yên nhưng chẳng có gì chơi. Xem [Ngữ pháp 48]." },
+                { "w": "That said,…", "vi": "Tuy vậy,…", "ex": "That said, I'd still live there.", "exvi": "Tuy vậy tôi vẫn muốn ở đó." },
+                { "w": "It depends on…", "vi": "Còn tùy vào…", "ex": "It depends on what you're looking for.", "exvi": "Còn tùy bạn tìm gì. Xem [Khung 57]." },
+                { "w": "So overall,…", "vi": "Nói chung thì…", "ex": "So overall, it's a nice place.", "exvi": "Nói chung là một nơi tốt." },
+                { "w": "…, I suppose.", "vi": "…, tôi nghĩ vậy.", "ex": "It's a good place to grow up, I suppose.", "exvi": "Chỗ tốt để lớn lên, tôi nghĩ vậy.", "note": "Thêm vào cuối để báo mình nói xong, nghe mềm." },
+                { "w": "Yeah, something like that.", "vi": "Ừ, đại loại thế.", "ex": "Yeah, something like that.", "exvi": "Ừ, đại khái vậy.", "note": "Câu kết an toàn khi hết ý." },
+                { "w": "Let me think…", "vi": "Để tôi nghĩ đã…", "ex": "That's a good question. Let me think.", "exvi": "Câu hỏi hay. Để tôi nghĩ. Xem [Kỹ năng 15]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<i>What's your hometown like?</i> → <b>“It's nice.”</b> rồi im", "right": "<b>“It's a small town near the coast. It's quiet, and everyone knows everyone. For example, my neighbour still brings us fruit.”</b>", "why": "BẪY SỐ MỘT: một câu là chưa trả lời ở mức B2. Dùng khung ba lớp." },
+            { "wrong": "Nghĩ câu tiếng Việt rồi dịch từng chữ", "right": "Nói bằng <b>cụm có sẵn</b>: <i>It's the kind of place where…</i>", "why": "BẪY SỐ HAI: dịch tốn bốn năm giây mỗi câu, nói ba câu là hết hơi." },
+            { "wrong": "Im lặng khi bí từ", "right": "<b>“Let me think…”</b> rồi nói tiếp", "why": "Im lặng làm người nghe tưởng bạn hết lượt. Xem [Kỹ năng 15]." },
+            { "wrong": "Nói ba câu <b>cùng một ý</b> cho đủ dài", "right": "Mỗi câu <b>thêm một lớp mới</b>", "why": "Lặp ý thì dài mà rỗng — người nghe nhận ra ngay." },
+            { "wrong": "Chỉ nói <b>chung chung</b>: <i>It's nice. It's good. I like it.</i>", "right": "Thêm <b>một ví dụ cụ thể</b>", "why": "Ví dụ thật là thứ làm đoạn văn sống. Đây là khác biệt lớn nhất giữa B1 và B2." },
+            { "wrong": "Dùng mãi <b>and</b> để nối", "right": "Đổi sang <i>Another thing is…</i>, <i>On top of that…</i>", "why": "Nối toàn bằng <i>and</i> nghe như trẻ con kể chuyện." },
+            { "wrong": "Khen một chiều từ đầu đến cuối", "right": "Lật một chút: <b>“Although it's quiet, there isn't much to do.”</b>", "why": "B2 đòi nêu được cả hai mặt. Xem [Ngữ pháp 48]." },
+            { "wrong": "Nói xong rồi <b>dừng đột ngột</b>", "right": "Chốt: <b>“So overall, …”</b> hoặc <b>“…, I suppose.”</b>", "why": "Không có câu chốt thì người nghe không biết bạn xong chưa." },
+            { "wrong": "Cố nói <b>câu phức thật dài</b> cho sang", "right": "Câu ngắn, <b>nhiều câu</b>, nối mạch lạc", "why": "Câu dài dễ gãy giữa chừng. B2 chấm độ trôi chảy, không chấm độ phức tạp." },
+            { "wrong": "Nói sai rồi <b>quay lại sửa từ đầu</b>", "right": "<b>“Sorry, I mean…”</b> rồi đi tiếp", "why": "Quay lại từ đầu làm mất mạch. Sửa gọn một câu rồi tiếp tục." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với lỗi gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["Dài / rỗng", "Thêm lớp mới / lặp một ý", "Mỗi câu phải thêm thông tin"],
+            ["Chung chung / cụ thể", "<i>It's nice</i> / có ví dụ thật", "Ví dụ là thứ phân biệt B1 với B2"],
+            ["Nối bằng <code>and</code> / nối đa dạng", "Trẻ con / trưởng thành", "and ≠ Another thing is…"],
+            ["Một chiều / có lật", "Khen suốt / nêu cả hai mặt", "Although… · That said…"],
+            ["Dừng đột ngột / có chốt", "Người nghe hoang mang / rõ ràng", "So overall, …"],
+            ["Câu dài phức tạp / nhiều câu ngắn", "Dễ gãy / trôi chảy", "B2 chấm độ trôi chảy"],
+            ["Im lặng / câu giờ", "Mất lượt / giữ lượt", "Xem [Kỹ năng 15]"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: vừa nói xong một câu, nói gì tiếp?" },
+        {
+          "t": "tree",
+          "q": "Bạn vừa trả lời thẳng câu hỏi — đừng dừng, đi tiếp theo nhánh.",
+          "nodes": [
+            { "if": "Chưa có chi tiết nào", "then": "Thêm một chi tiết nữa", "ex": "It's quiet, and everyone knows everyone." },
+            { "if": "Đã có chi tiết, chưa có ví dụ", "then": "Kể một chuyện CỤ THỂ", "ex": "For example, my neighbour…" },
+            { "if": "Đã có ví dụ", "then": "Nói cảm nhận riêng", "ex": "What I like most is…" },
+            { "if": "Muốn đoạn văn cân hơn", "then": "Lật một chút", "ex": "Although it's quiet, …" },
+            { "if": "Hết ý về chủ đề này", "then": "Nối sang ý mới", "ex": "Another thing is…" },
+            { "if": "Đã đủ dài", "then": "Chốt lại rồi dừng", "ex": "So overall, …, I suppose." }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ đầy đặn của một câu trả lời" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "It's nice.", "vi": "A2 — ba giây, hội thoại chết" },
+            { "en": "It's nice. It's a small town.", "vi": "A2+ — hai câu rời" },
+            { "en": "It's a small town near the coast, and it's very quiet.", "vi": "B1 — có nối" },
+            { "en": "…and it's quiet. For example, my neighbour still brings us fruit.", "vi": "B1+ — có ví dụ" },
+            { "en": "…What I like most is the slow pace. Although there isn't much to do, I'd still live there.", "vi": "B2 — đủ lớp, có lật, có chốt" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kỹ năng này dùng ở đâu",
+      "blocks": [
+        { "t": "p", "html": "Khung triển khai này dùng được cho mọi câu hỏi mở. Bấm vào để luyện trên khung câu thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 70, "why": "What's + N + like? — câu hỏi kinh điển đòi nói dài, nơi khung ba lớp phát huy nhất." },
+            { "id": 74, "why": "I'm from… / I live in… — giới thiệu quê quán, chỗ ai cũng phải nói được 60 giây." },
+            { "id": 96, "why": "When I was…, I + V2 — mở đầu kể chuyện bằng khung năm chữ W." },
+            { "id": 93, "why": "I used to + V — khung trước–giờ, cách dễ nhất để kéo dài bằng so sánh thời gian." },
+            { "id": 41, "why": "I think (that) + mệnh đề — câu chốt và câu nối ý an toàn nhất." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Câu này thuộc bước nào trong khung?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Đó là một thị trấn nhỏ gần biển.", "blank": "It's a small town near the coast.  →  bước __________", "a": "1 — trả lời thẳng" },
+            { "vi": "Ví dụ, hàng xóm tuần nào cũng mang hoa quả sang.", "blank": "For example, my neighbour…  →  bước __________", "a": "3 — ví dụ cụ thể" },
+            { "vi": "Điều tôi thích nhất là nhịp sống chậm.", "blank": "What I like most is…  →  bước __________", "a": "4 — cảm nhận" },
+            { "vi": "So với Hà Nội thì yên hơn nhiều.", "blank": "Compared to Hanoi…  →  bước __________", "a": "5 — so sánh" },
+            { "vi": "Trước đây rất nghèo, giờ đang đổi nhanh.", "blank": "It used to be… but now…  →  bước __________", "a": "6 — thay đổi" },
+            { "vi": "Tuy yên tĩnh nhưng chẳng có gì chơi.", "blank": "Although it's quiet…  →  bước __________", "a": "7 — lật một chút" },
+            { "vi": "Nói chung là một nơi tốt để lớn lên.", "blank": "So overall…  →  bước __________", "a": "8 — chốt lại" },
+            { "vi": "Một điều nữa là đồ ăn.", "blank": "Another thing is…  →  bước __________", "a": "nối sang ý mới" }
+          ]
+        },
+        { "t": "h3", "text": "B. Câu trả lời nào đạt B2?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Quê bạn thế nào?", "blank": "(a) It's nice.  (b) It's a small town near the coast — quiet, and everyone knows everyone.", "a": "(b)" },
+            { "vi": "Nối ý thứ hai", "blank": "(a) And it has food.  (b) Another thing is the food — it's really good.", "a": "(b)" },
+            { "vi": "Làm đoạn văn cân hơn", "blank": "(a) It's perfect in every way.  (b) Although it's quiet, there isn't much to do.", "a": "(b)" },
+            { "vi": "Khi bí từ giữa chừng", "blank": "(a) (im lặng)  (b) Let me think…", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Nói 60 giây, bấm giờ, không được dừng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tả quê bạn — dùng đủ 4 bước đầu.", "a": "Câu chính → mở rộng → ví dụ cụ thể → cảm nhận. Xem [Khung 70]." },
+            { "vi": "2. Kể một ngày đáng nhớ hồi bé.", "a": "When I was… → At the time… → and then… → In the end… Xem [Khung 96]." },
+            { "vi": "3. Tả công việc của bạn, có lật một ý.", "a": "I work as… → What I like most is… → Although… → That said… Xem [Khung 75]." },
+            { "vi": "4. So sánh nơi bạn sống giờ với nơi bạn lớn lên.", "a": "It used to be… but now… → Compared to… → So overall… Xem [Khung 93]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Một ý là BA câu, không phải một:</b> câu chính → mở rộng → <b>ví dụ cụ thể</b>. Chỉ cần vậy là đủ 45 giây.",
+            "<b>Ví dụ thật là thứ phân biệt B1 với B2.</b> <i>It's nice</i> ai cũng nói được; <i>my neighbour still brings us fruit</i> thì không.",
+            "<b>Đừng dịch, hãy dùng cụm có sẵn.</b> Thuộc mươi cụm mở đầu để chúng chạy tự động, đầu óc rảnh mà nghĩ nội dung.",
+            "<b>Luôn biết trước bước tiếp theo.</b> Thứ khiến bạn im lặng không phải thiếu từ mà là không biết nói gì nữa.",
+            "<b>Lật một chút cho cân:</b> một câu <i>Although…</i> làm cả đoạn nghe chín hơn hẳn. Xem [Ngữ pháp 48].",
+            "<b>Bài tập mỗi ngày:</b> bấm giờ 60 giây, nói về một thứ quanh bạn, <b>không được dừng</b>. Ghi âm rồi đếm xem được mấy lớp."
+          ]
+        }
+      ]
+    }
+  ]
+}

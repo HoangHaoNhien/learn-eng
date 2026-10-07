@@ -1,0 +1,277 @@
+{
+  "id": 16,
+  "group": "Nhóm 10 · Điều kiện & Giả định",
+  "title": "Điều kiện loại 3 & hỗn hợp — tiếc nuối",
+  "subtitle": "Dùng khi nhìn lại một chuyện đã rồi và nghĩ giá như khác đi. Cấu trúc dài nhất trong các loại điều kiện, nên cũng dễ rơi mất một mảnh nhất — và có một lỗi chính tả kinh điển mà cả người bản xứ cũng mắc: I'd of ✗.",
+  "meaning": "Nếu (đã)… thì (đã)… — nhưng thực tế đã không như vậy",
+  "rule": [
+    "<em>If</em> + S + <em>had</em> + V3, S + <em>would have</em> + V3",
+    "<em>If</em> + S + <em>had</em> + V3, S + <em>would</em> + V trần <em>(hỗn hợp)</em>",
+    "S + <em>wouldn't have</em> + V3"
+  ],
+  "tags": [
+    { "text": "Trình độ: B2", "hot": true },
+    { "text": "I'd have ✓ · I'd of ✗" },
+    { "text": "Hai vế đều có V3" },
+    { "text": "Tần suất: trung bình" }
+  ],
+  "frames": [79, 88, 96, 97, 98],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">If I had known, I'd have called you.</span> Câu này nhìn lại quá khứ và nói: thực tế tôi <b>đã không biết</b>, nên tôi <b>đã không gọi</b>. Cả hai vế đều trái với chuyện đã xảy ra." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — lỗi chính tả kinh điển:</b> <i>I'd <b>have</b> called</i> ✓ — <i>I'd <b>of</b> called</i> ✗. Khi nói nhanh, <i>I'd have</i> nghe thành “ai-dəv”, giống hệt <i>I'd of</i>. Nhưng viết ra là sai, và cả người bản xứ cũng hay mắc." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — đếm cho đủ mảnh:</b> vế <i>if</i> cần <b>had + V3</b>, vế chính cần <b>would have + V3</b>. Rơi mất mảnh nào cũng hỏng:<br>• <i>If I <b>knew</b>, I'd have called</i> ✗ — thiếu <i>had</i><br>• <i>If I had known, I'd <b>call</b></i> ✗ — thiếu <i>have</i> và V3" },
+        { "t": "h3", "text": "Loại 3 và loại hỗn hợp" },
+        {
+          "t": "table",
+          "head": ["Loại", "Cấu trúc", "Nghĩa"],
+          "rows": [
+            ["Loại 3", "<code>If + had V3, would have + V3</code>", "Quá khứ → kết quả ở quá khứ"],
+            ["Hỗn hợp 3→2", "<code>If + had V3, would + V trần</code>", "Quá khứ → kết quả ở hiện tại"],
+            ["Hỗn hợp 2→3", "<code>If + V2, would have + V3</code>", "Hiện tại → kết quả ở quá khứ"],
+            ["Loại 2", "<code>If + V2, would + V trần</code>", "Hiện tại → kết quả ở hiện tại"]
+          ]
+        },
+        { "t": "p", "html": "Loại <b>hỗn hợp 3→2</b> rất hữu ích mà ít người dùng: <i>If I had studied harder, I'<b>d be</b> a doctor now</i> = ngày xưa tôi không học chăm, nên <b>bây giờ</b> tôi không phải bác sĩ. Nguyên nhân ở quá khứ, hậu quả còn ở hiện tại." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Loại 3 chuẩn", "<code>If + had V3, would have + V3</code>", "If I had known, I'd have called."],
+            ["Đảo vế — không cần phẩy", "<code>would have V3 + if + had V3</code>", "I'd have called if I had known."],
+            ["Rút gọn", "<code>I'd have / he'd have</code>", "I'd have told you."],
+            ["Phủ định vế chính", "<code>wouldn't have + V3</code>", "I wouldn't have gone."],
+            ["Phủ định vế điều kiện", "<code>If + hadn't + V3</code>", "If I hadn't been late…"],
+            ["Câu hỏi", "<code>Would you have + V3?</code>", "Would you have told me?"],
+            ["Khả năng mềm hơn", "<code>might/could have + V3</code>", "I might have helped."],
+            ["Hỗn hợp 3→2", "<code>If + had V3, would + V trần</code>", "If I'd studied, I'd be a doctor now."],
+            ["Hỗn hợp 2→3", "<code>If + V2, would have + V3</code>", "If I were braver, I'd have said so."],
+            ["Tiếc nuối không có <code>if</code>", "<code>I should have + V3</code>", "I should have told you."],
+            ["Ước về quá khứ", "<code>I wish + had V3</code>", "I wish I had known."],
+            ["Đảo ngữ (trang trọng)", "<code>Had + S + V3, …</code>", "Had I known, I'd have called."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dòng cuối là dạng trang trọng:</b> bỏ <i>if</i> rồi đảo <b>had</b> lên đầu — <i><b>Had I known</b>, I'd have called.</i> Hay gặp trong văn viết và diễn văn. Xem [Ngữ pháp 49]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "If I had known, I'd have called you.", "vi": "Nếu biết trước thì tôi đã gọi bạn.", "note": "Thực tế: tôi đã không biết, nên đã không gọi. Xem [Khung 98]." },
+            { "en": "If I hadn't been late, I'd have seen her.", "vi": "Nếu tôi không muộn thì đã gặp được cô ấy.", "note": "Phủ định vế điều kiện: <b>hadn't</b> + V3." },
+            { "en": "I'd have told you if I'd known.", "vi": "Nếu biết thì tôi đã nói với bạn.", "note": "Đảo vế thì KHÔNG cần dấu phẩy. <i>I'd known</i> = <i>I had known</i>." },
+            { "en": "I wouldn't have gone if you'd warned me.", "vi": "Nếu bạn báo trước thì tôi đã không đi.", "note": "Phủ định vế chính: <b>wouldn't have</b> + V3." },
+            { "en": "Would you have told me?", "vi": "Liệu bạn có nói với tôi không?", "note": "Câu hỏi đảo <i>would</i> lên trước chủ ngữ." },
+            { "en": "If I'd studied harder, I'd be a doctor now.", "vi": "Nếu ngày xưa học chăm hơn thì giờ tôi đã là bác sĩ.", "note": "HỖN HỢP 3→2: nguyên nhân quá khứ, hậu quả HIỆN TẠI." },
+            { "en": "If I were braver, I'd have said so.", "vi": "Nếu tôi gan hơn thì lúc đó tôi đã nói rồi.", "note": "HỖN HỢP 2→3: tính cách hiện tại, hậu quả ở quá khứ." },
+            { "en": "I might have helped if you'd asked.", "vi": "Nếu bạn nhờ thì có khi tôi đã giúp.", "note": "<b>might have</b> nhẹ hơn <i>would have</i>." },
+            { "en": "I should have told you.", "vi": "Đáng lẽ tôi nên nói với bạn.", "note": "Tiếc nuối không cần vế <i>if</i>. Sau <i>should have</i> là V3. Xem [Khung 88]." },
+            { "en": "I wish I had known.", "vi": "Ước gì tôi biết trước.", "note": "<b>I wish + had V3</b> — ước về quá khứ, cùng logic giả định." },
+            { "en": "Had I known, I'd have called.", "vi": "Giá mà tôi biết trước thì đã gọi rồi.", "note": "Dạng ĐẢO NGỮ trang trọng — bỏ <i>if</i>, đưa <i>had</i> lên đầu." },
+            { "en": "If I had money, I'd travel.", "vi": "Nếu có tiền tôi sẽ đi du lịch.", "note": "Loại 2 — chuyện ở HIỆN TẠI. Xem [Ngữ pháp 15]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "😔", "title": "Tiếc một chuyện đã rồi", "text": "<i>If I had known, I'd have called.</i>" },
+            { "icon": "🙇", "title": "Xin lỗi kèm giải thích", "text": "<i>I'd have told you if I'd known.</i> Xem [Khung 79]." },
+            { "icon": "⏳", "title": "Hậu quả còn đến hiện tại", "text": "<i>If I'd studied, I'd be a doctor now.</i> Hỗn hợp." },
+            { "icon": "🤷", "title": "Trách nhẹ người khác", "text": "<i>I wouldn't have gone if you'd warned me.</i>" },
+            { "icon": "💭", "title": "Tự trách mình", "text": "<i>I should have told you.</i> Không cần vế <i>if</i>." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Chuyện ở hiện tại. Lúc đó là loại 2 — xem [Ngữ pháp 15]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các mảnh của loại 3",
+              "items": [
+                { "w": "If I had known", "vi": "nếu tôi biết trước", "ex": "If I had known, I'd have called.", "exvi": "Nếu biết trước thì tôi đã gọi.", "note": "Vế <i>if</i> cần <b>had + V3</b>. Rút gọn thành <i>If I'd known</i>." },
+                { "w": "If I hadn't", "vi": "nếu tôi đã không", "ex": "If I hadn't been late, I'd have seen her.", "exvi": "Nếu không muộn thì tôi đã gặp cô ấy.", "note": "Phủ định vế điều kiện: <b>hadn't</b> + V3." },
+                { "w": "I'd have + V3", "vi": "tôi đã sẽ", "ex": "I'd have told you.", "exvi": "Tôi đã nói với bạn rồi.", "note": "BẪY SỐ MỘT: viết là <b>I'd have</b>, không bao giờ <i>I'd of</i> ✗." },
+                { "w": "I wouldn't have + V3", "vi": "tôi đã không", "ex": "I wouldn't have gone.", "exvi": "Tôi đã không đi.", "note": "Phủ định vế chính." },
+                { "w": "Would you have…?", "vi": "liệu bạn có…?", "ex": "Would you have told me?", "exvi": "Liệu bạn có nói với tôi không?" },
+                { "w": "might have + V3", "vi": "có khi đã", "ex": "I might have helped.", "exvi": "Có khi tôi đã giúp.", "note": "Nhẹ hơn <i>would have</i> — khả năng thấp hơn." },
+                { "w": "could have + V3", "vi": "đã có thể", "ex": "You could have told me!", "exvi": "Đáng lẽ bạn có thể nói với tôi chứ!", "note": "Mang chút trách móc khi dùng với <i>you</i>." },
+                { "w": "should have + V3", "vi": "đáng lẽ nên", "ex": "I should have told you.", "exvi": "Đáng lẽ tôi nên nói với bạn.", "note": "Tiếc nuối không cần vế <i>if</i>. Xem [Ngữ pháp 33]." },
+                { "w": "I wish + had V3", "vi": "ước gì đã", "ex": "I wish I had known.", "exvi": "Ước gì tôi biết trước." },
+                { "w": "If only + had V3", "vi": "giá mà đã", "ex": "If only I had listened!", "exvi": "Giá mà tôi nghe lời!", "note": "Mạnh hơn <i>I wish</i> — nghe tiếc nuối rõ rệt." },
+                { "w": "Had I known…", "vi": "giá mà tôi biết", "ex": "Had I known, I'd have called.", "exvi": "Giá mà tôi biết thì đã gọi.", "note": "Dạng ĐẢO NGỮ trang trọng — bỏ <i>if</i>. Xem [Ngữ pháp 49]." },
+                { "w": "otherwise", "vi": "nếu không thì", "ex": "I didn't know; otherwise I'd have called.", "exvi": "Tôi không biết; nếu không thì đã gọi.", "note": "Cách nói gọn thay cho cả vế <i>if</i>." }
+              ]
+            },
+            {
+              "title": "Dạng V3 hay dùng & loại hỗn hợp",
+              "items": [
+                { "w": "known", "vi": "đã biết", "ex": "If I had known…", "exvi": "Nếu tôi biết trước…", "note": "V3 của <i>know</i>." },
+                { "w": "told", "vi": "đã nói với", "ex": "I'd have told you.", "exvi": "Tôi đã nói với bạn rồi.", "note": "V2 và V3 trùng nhau — dễ nhớ." },
+                { "w": "gone", "vi": "đã đi", "ex": "I wouldn't have gone.", "exvi": "Tôi đã không đi.", "note": "V3 của <i>go</i> là <b>gone</b>. <i>would have went</i> ✗." },
+                { "w": "seen", "vi": "đã thấy", "ex": "I'd have seen her.", "exvi": "Tôi đã gặp được cô ấy.", "note": "V3 của <i>see</i> là <b>seen</b>. <i>would have saw</i> ✗." },
+                { "w": "done", "vi": "đã làm", "ex": "I'd have done it myself.", "exvi": "Tôi đã tự làm rồi.", "note": "V3 của <i>do</i> là <b>done</b>." },
+                { "w": "been", "vi": "đã ở, đã là", "ex": "If I hadn't been late…", "exvi": "Nếu tôi không muộn…" },
+                { "w": "said", "vi": "đã nói", "ex": "I'd have said so.", "exvi": "Tôi đã nói vậy rồi." },
+                { "w": "asked", "vi": "đã nhờ, đã hỏi", "ex": "If you'd asked, I'd have helped.", "exvi": "Nếu bạn nhờ thì tôi đã giúp." },
+                { "w": "If I'd studied, I'd be…", "vi": "hỗn hợp 3→2", "ex": "If I'd studied harder, I'd be a doctor now.", "exvi": "Nếu ngày xưa học chăm thì giờ tôi đã là bác sĩ.", "note": "Nguyên nhân QUÁ KHỨ, hậu quả HIỆN TẠI — vế chính dùng <i>would + V trần</i>." },
+                { "w": "If I were…, I'd have…", "vi": "hỗn hợp 2→3", "ex": "If I were braver, I'd have said so.", "exvi": "Nếu tôi gan hơn thì lúc đó đã nói rồi.", "note": "Tính cách HIỆN TẠI, hậu quả QUÁ KHỨ." },
+                { "w": "If + V2, would + V", "vi": "loại 2", "ex": "If I had money, I'd travel.", "exvi": "Nếu có tiền tôi sẽ đi du lịch.", "note": "Chuyện ở hiện tại. Xem [Ngữ pháp 15]." },
+                { "w": "If + hiện tại, will + V", "vi": "loại 1", "ex": "If it rains, I'll take a taxi.", "exvi": "Nếu mưa tôi sẽ đi taxi.", "note": "Chuyện có thể xảy ra. Xem [Ngữ pháp 14]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'd <b>of</b> called you.", "right": "I'd <b>have</b> called you.", "why": "BẪY SỐ MỘT: khi nói nhanh <i>I'd have</i> nghe thành “ai-dəv”, nhưng viết ra phải là <b>have</b>. Cả người bản xứ cũng hay mắc." },
+            { "wrong": "If I <b>knew</b>, I'd have called.", "right": "If I <b>had known</b>, I'd have called.", "why": "BẪY SỐ HAI: vế <i>if</i> của loại 3 cần <b>had + V3</b>, không phải V2." },
+            { "wrong": "If I had known, I'd <b>call</b> you.", "right": "If I had known, I'd <b>have called</b> you.", "why": "Vế chính cần đủ <b>would have + V3</b>. Thiếu <i>have</i> là thành loại hỗn hợp, đổi nghĩa." },
+            { "wrong": "If I <b>would have</b> known, I'd have called.", "right": "If I <b>had</b> known, I'd have called.", "why": "Vế <i>if</i> KHÔNG BAO GIỜ chứa <i>would</i>. Luật chung cho cả ba loại điều kiện." },
+            { "wrong": "I'd have <b>went</b> if you'd asked.", "right": "I'd have <b>gone</b> if you'd asked.", "why": "Sau <i>have</i> là V3: <i>go – went – <b>gone</b></i>." },
+            { "wrong": "I'd have <b>saw</b> her.", "right": "I'd have <b>seen</b> her.", "why": "Cùng lỗi. <i>see – saw – <b>seen</b></i>." },
+            { "wrong": "I <b>should of</b> told you.", "right": "I <b>should have</b> told you.", "why": "Cùng lỗi với <i>I'd of</i>. Mọi modal hoàn thành đều dùng <b>have</b>." },
+            { "wrong": "If I <b>hadn't have</b> been late…", "right": "If I <b>hadn't</b> been late…", "why": "Thừa một chữ <i>have</i>. Phủ định chỉ cần <b>hadn't + V3</b>." },
+            { "wrong": "If I'd studied harder, I'd <b>have been</b> a doctor now.", "right": "If I'd studied harder, I'<b>d be</b> a doctor now.", "why": "Hậu quả ở HIỆN TẠI (<i>now</i>) thì vế chính dùng <b>would + V trần</b> — đây là loại hỗn hợp." },
+            { "wrong": "If I had money, I'<b>d have travelled</b>. <i>(ý: bây giờ)</i>", "right": "If I had money, I'<b>d travel</b>.", "why": "Chuyện ở hiện tại thì dùng loại 2. Xem [Ngữ pháp 15]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Nguyên nhân → Hậu quả", "Ví dụ"],
+          "rows": [
+            ["<code>If + had V3, would have + V3</code>", "Quá khứ → quá khứ", "If I had known, I'd have called."],
+            ["<code>If + had V3, would + V</code>", "Quá khứ → hiện tại", "If I'd studied, I'd be a doctor now."],
+            ["<code>If + V2, would have + V3</code>", "Hiện tại → quá khứ", "If I were braver, I'd have said so."],
+            ["<code>If + V2, would + V</code>", "Hiện tại → hiện tại. Xem [Ngữ pháp 15]", "If I had money, I'd travel."],
+            ["<code>should have + V3</code>", "Tự trách, không cần vế if", "I should have told you."],
+            ["<code>I wish + had V3</code>", "Ước về quá khứ", "I wish I had known."],
+            ["<code>Had + S + V3, …</code>", "Đảo ngữ trang trọng. Xem [Ngữ pháp 49]", "Had I known, I'd have called."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: nguyên nhân và hậu quả ở đâu?" },
+        {
+          "t": "tree",
+          "q": "Chuyện trong vế if thuộc lúc nào, và kết quả thuộc lúc nào?",
+          "nodes": [
+            { "if": "Cả hai đều ở quá khứ", "then": "Loại 3 — If + had V3, would have + V3", "ex": "If I had known, I'd have called." },
+            { "if": "Nguyên nhân quá khứ, hậu quả còn ở hiện tại", "then": "Hỗn hợp — If + had V3, would + V trần", "ex": "If I'd studied, I'd be a doctor now." },
+            { "if": "Tính cách hiện tại, hậu quả ở quá khứ", "then": "Hỗn hợp — If + V2, would have + V3", "ex": "If I were braver, I'd have said so." },
+            { "if": "Cả hai đều ở hiện tại", "then": "Loại 2 — If + V2, would + V trần", "ex": "If I had money, I'd travel." },
+            { "if": "Chỉ muốn tự trách, không cần vế if", "then": "should have + V3", "ex": "I should have told you." },
+            { "if": "Muốn nghe trang trọng, văn viết", "then": "Had + S + V3, …", "ex": "Had I known, I'd have called." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ tiếc nuối" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I might have helped.", "vi": "Nhẹ nhất — có khi đã giúp" },
+            { "en": "I could have helped.", "vi": "Đã có thể giúp" },
+            { "en": "I would have helped.", "vi": "Chắc chắn đã giúp" },
+            { "en": "I should have helped.", "vi": "Tự trách rõ rệt" },
+            { "en": "If only I had helped!", "vi": "Mạnh nhất — day dứt" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Điều kiện loại ba xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 98, "why": "If I were you, I'd + V — khung chính, có cả loại 2 và loại 3 kèm mẫu If I had known." },
+            { "id": 88, "why": "I feel bad about… — mẫu I should have told you, họ hàng gần nhất của loại 3." },
+            { "id": 79, "why": "I'm sorry for… — xin lỗi kèm giải thích bằng câu điều kiện loại 3." },
+            { "id": 97, "why": "If + hiện tại, I'll + V — loại 1, để thấy ba loại xếp cạnh nhau." },
+            { "id": 96, "why": "When I was…, I + V2 — nền quá khứ mà loại 3 luôn quy chiếu về." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ trong ngoặc" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Nếu biết trước thì tôi đã gọi bạn.", "blank": "If I __________ (know), I'd have called you.", "a": "had known" },
+            { "vi": "Nếu biết trước thì tôi đã gọi bạn.", "blank": "If I had known, I'd have __________ (call) you.", "a": "called" },
+            { "vi": "Nếu bạn nhờ thì tôi đã giúp.", "blank": "If you'd asked, I'd have __________ (help).", "a": "helped" },
+            { "vi": "Tôi đã không đi.", "blank": "I __________ have gone.", "a": "wouldn't" },
+            { "vi": "Nếu tôi không muộn thì đã gặp được cô ấy.", "blank": "If I __________ (not be) late, I'd have seen her.", "a": "hadn't been" },
+            { "vi": "Tôi đã gặp được cô ấy.", "blank": "I'd have __________ (see) her.", "a": "seen — V3" },
+            { "vi": "Nếu ngày xưa học chăm thì giờ tôi đã là bác sĩ.", "blank": "If I'd studied harder, I'd __________ a doctor now.", "a": "be — hỗn hợp, hậu quả hiện tại" },
+            { "vi": "Ước gì tôi biết trước.", "blank": "I wish I __________ (know).", "a": "had known" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi đã gọi bạn rồi.", "blank": "I'd __________ called you.  (of / have)", "a": "have — không bao giờ viết “of”" },
+            { "vi": "Nếu biết trước…", "blank": "If I __________ known…  (had / would have)", "a": "had — vế if không chứa would" },
+            { "vi": "Đáng lẽ tôi nên nói với bạn.", "blank": "I should __________ told you.  (of / have)", "a": "have" },
+            { "vi": "Nếu có tiền tôi sẽ đi du lịch (bây giờ).", "blank": "If I had money, I'd __________.  (travel / have travelled)", "a": "travel — loại 2" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Nếu biết trước thì tôi đã gọi bạn.", "a": "If I had known, I'd have called you." },
+            { "vi": "2. Nếu bạn báo trước thì tôi đã không đi.", "a": "I wouldn't have gone if you'd warned me." },
+            { "vi": "3. Nếu ngày xưa học chăm hơn thì giờ tôi đã là bác sĩ.", "a": "If I'd studied harder, I'd be a doctor now." },
+            { "vi": "4. Đáng lẽ tôi nên nói với bạn.", "a": "I should have told you." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Không bao giờ viết <i>of</i>:</b> <i>I'd <b>have</b></i>, <i>should <b>have</b></i>, <i>could <b>have</b></i>. Nghe là “əv” nhưng viết là <i>have</i>.",
+            "<b>Đếm mảnh cho đủ:</b> vế <i>if</i> cần <b>had + V3</b>, vế chính cần <b>would have + V3</b>. Rơi mảnh nào cũng hỏng.",
+            "<b>Vế <i>if</i> không chứa <i>would</i></b> — luật chung cho cả ba loại điều kiện.",
+            "<b>Hậu quả còn ở hiện tại thì bỏ <i>have</i>:</b> <i>If I'd studied, I'<b>d be</b> a doctor <b>now</b></i>. Chữ <i>now</i> là dấu hiệu.",
+            "<b>Muốn gọn thì dùng <i>should have + V3</i></b> — tiếc nuối mà không cần cả vế <i>if</i>.",
+            "<b>Bài tập 3 phút:</b> nghĩ ba chuyện bạn tiếc trong năm qua, viết mỗi chuyện một câu loại 3, rồi đổi một câu sang dạng <i>I should have…</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

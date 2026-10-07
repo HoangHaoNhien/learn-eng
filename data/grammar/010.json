@@ -1,0 +1,277 @@
+{
+  "id": 10,
+  "group": "Nhóm 5 · Tương lai",
+  "title": "will — quyết định ngay lúc nói",
+  "subtitle": "Người Việt dùng will cho mọi thứ thuộc về tương lai, nên câu nghe cứng và thiếu tự nhiên. Sự thật hẹp hơn nhiều: will dành cho quyết định vừa nảy ra trong đầu lúc này, cho lời hứa, và cho dự đoán theo cảm nhận.",
+  "meaning": "Quyết định ngay lúc nói · lời hứa · dự đoán theo cảm nhận",
+  "rule": [
+    "S + <em>will</em> + V trần",
+    "S + <em>won't</em> + V trần",
+    "<em>Will</em> + S + V trần?"
+  ],
+  "tags": [
+    { "text": "Trình độ: A1–A2", "hot": true },
+    { "text": "will ≠ be going to" },
+    { "text": "Sau will là động từ trần" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [41, 80, 91, 92, 97],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Tiếng Việt chỉ có một chữ “sẽ”, nên người học gắn nó với <i>will</i> rồi dùng cho mọi tình huống tương lai. Nhưng tiếng Anh chia việc đó cho <b>bốn cấu trúc khác nhau</b>, và <i>will</i> chỉ chiếm một phần nhỏ." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — <i>will</i> hay <i>be going to</i>:</b><br>• <i>A: Can you help? B: OK, <b>I'll</b> do it.</i> ✓ — quyết định VỪA nảy ra lúc này.<br>• <i>I'<b>m going to</b> look for a new job.</i> ✓ — kế hoạch đã có sẵn trong đầu từ trước.<br>Dùng <i>will</i> cho kế hoạch đã quyết nghe rất cứng. Xem [Khung 91]." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI:</b> sau <b>will</b> luôn là <b>ĐỘNG TỪ TRẦN</b> — không <i>to</i>, không <i>-s</i>, không <i>-ing</i>.<br>• <i>He will <b>go</b></i> ✓ — <i>He will goes</i> ✗ — <i>He will to go</i> ✗<br>Và <i>will</i> dùng chung cho MỌI chủ ngữ — không có <i>wills</i>." },
+        { "t": "h3", "text": "Bốn công dụng của will" },
+        {
+          "t": "table",
+          "head": ["Công dụng", "Dấu hiệu", "Ví dụ"],
+          "rows": [
+            ["Quyết định ngay lúc nói", "phản ứng tức thì", "OK, I'll do it."],
+            ["Lời hứa, lời đề nghị", "<code>I promise · Shall I…?</code>", "I'll call you tomorrow, I promise."],
+            ["Dự đoán theo cảm nhận", "<code>I think · probably · maybe</code>", "I think it'll rain."],
+            ["Sự thật tương lai không đổi được", "<code>will be</code>", "I'll be thirty next year."]
+          ]
+        },
+        { "t": "p", "html": "Dạng rút gọn <b>'ll</b> cực kỳ phổ biến khi nói: <i>I'll, you'll, he'll, we'll</i>. Phủ định là <b>won't</b> (không phải <i>willn't</i>) — và riêng <i>won't</i> còn mang thêm nghĩa <b>từ chối dứt khoát</b>: <i>He won't listen</i> = anh ấy nhất định không chịu nghe." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Khẳng định — mọi chủ ngữ", "<code>S + will + V trần</code>", "I will go. · He will go."],
+            ["Rút gọn", "<code>I'll / he'll / they'll</code>", "I'll do it."],
+            ["Phủ định", "<code>S + won't + V trần</code>", "I won't be late."],
+            ["Câu hỏi", "<code>Will + S + V trần?</code>", "Will you be there?"],
+            ["Trả lời ngắn", "<code>Yes/No, S + will/won't.</code>", "Yes, I will. · No, I won't."],
+            ["Câu hỏi có từ để hỏi", "<code>Từ hỏi + will + S + V?</code>", "What will you do?"],
+            ["Đề nghị giúp đỡ", "<code>Shall I + V trần?</code>", "Shall I carry that for you?"],
+            ["Rủ cùng làm", "<code>Shall we + V trần?</code>", "Shall we go?"],
+            ["Dự đoán có cảm nhận", "<code>I think + S + will…</code>", "I think it'll rain."],
+            ["Tương lai tiếp diễn", "<code>will be + V-ing</code>", "I'll be working at six."],
+            ["Tương lai hoàn thành", "<code>will have + V3</code>", "I'll have finished by then."],
+            ["Trong vế <code>if</code> — KHÔNG có will", "<code>If + hiện tại, will + V</code>", "If it rains, I'll take a taxi."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dòng cuối là luật quan trọng nhất:</b> vế <i>if</i> <b>không bao giờ chứa <i>will</i></b>, dù đang nói về tương lai. <i>If it <b>rains</b>, I'll take a taxi</i> ✓ — <i>If it will rain</i> ✗. Luật này áp dụng cho cả <i>when, unless, as soon as, before, after</i>. Xem [Khung 97]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "OK, I'll do it.", "vi": "Được rồi, để tôi làm.", "note": "Quyết định VỪA nảy ra lúc này — đây mới là chỗ của <i>will</i>. Xem [Khung 91]." },
+            { "en": "I'll have the fish, please.", "vi": "Cho tôi món cá nhé.", "note": "Gọi món là quyết định ngay tại bàn — mẫu chuẩn dùng <i>will</i>." },
+            { "en": "I'll call you tomorrow, I promise.", "vi": "Mai tôi sẽ gọi bạn, tôi hứa.", "note": "Lời hứa — nhánh thứ hai của <i>will</i>." },
+            { "en": "I think it'll rain tomorrow.", "vi": "Tôi nghĩ mai trời sẽ mưa.", "note": "Dự đoán theo CẢM NHẬN. Nếu thấy mây đen thì dùng <i>it's going to rain</i>." },
+            { "en": "I won't be late, don't worry.", "vi": "Tôi sẽ không muộn đâu, đừng lo.", "note": "Phủ định là <b>won't</b>, không phải <i>willn't</i> ✗." },
+            { "en": "He won't listen to anyone.", "vi": "Anh ấy nhất định không chịu nghe ai.", "note": "<b>won't</b> còn mang nghĩa TỪ CHỐI dứt khoát, không chỉ là tương lai." },
+            { "en": "Shall I carry that for you?", "vi": "Để tôi xách hộ nhé?", "note": "<b>Shall I…?</b> là cách đề nghị giúp đỡ rất lịch sự kiểu Anh." },
+            { "en": "Will you be there on Friday?", "vi": "Thứ Sáu bạn có ở đó không?", "note": "Câu hỏi đảo <i>will</i> lên trước chủ ngữ." },
+            { "en": "If it rains, I'll take a taxi.", "vi": "Nếu trời mưa, tôi sẽ đi taxi.", "note": "Vế <i>if</i> dùng hiện tại đơn, vế chính mới có <i>will</i>. Xem [Khung 97]." },
+            { "en": "I'll be thirty next year.", "vi": "Sang năm tôi ba mươi tuổi.", "note": "Sự thật tương lai không ai đổi được." },
+            { "en": "I'll see you then.", "vi": "Hẹn gặp bạn lúc đó.", "note": "Câu chia tay rất thông dụng. Xem [Khung 80]." },
+            { "en": "I'm going to look for a new job.", "vi": "Tôi định tìm việc mới.", "note": "BẪY SỐ MỘT: kế hoạch ĐÃ quyết thì dùng <i>be going to</i>, không dùng <i>will</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "⚡", "title": "Quyết định ngay lúc nói", "text": "<i>OK, I'll do it.</i> Vừa nghĩ ra trong đầu." },
+            { "icon": "🤝", "title": "Lời hứa", "text": "<i>I'll call you tomorrow, I promise.</i>" },
+            { "icon": "🙋", "title": "Đề nghị giúp đỡ", "text": "<i>Shall I carry that?</i> hoặc <i>I'll help you.</i>" },
+            { "icon": "🤔", "title": "Dự đoán theo cảm nhận", "text": "<i>I think it'll rain.</i> Không có bằng chứng trước mắt." },
+            { "icon": "🚫", "title": "Từ chối dứt khoát", "text": "<i>He won't listen.</i> Nhất định không chịu." },
+            { "icon": "⚠️", "title": "Đừng dùng khi…", "text": "Kế hoạch đã quyết từ trước, hoặc trong vế <i>if</i>. Xem [Khung 91], [Khung 97]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các cách dùng will & từ đi kèm",
+              "items": [
+                { "w": "OK, I'll do it", "vi": "được rồi, để tôi làm", "ex": "OK, I'll do it.", "exvi": "Được rồi, để tôi làm.", "note": "Quyết định VỪA nảy ra — đây là chỗ đúng nhất của <i>will</i>." },
+                { "w": "I'll have…", "vi": "cho tôi…", "ex": "I'll have the fish, please.", "exvi": "Cho tôi món cá nhé.", "note": "Mẫu gọi món chuẩn — quyết định ngay tại bàn." },
+                { "w": "I promise", "vi": "tôi hứa", "ex": "I'll call you, I promise.", "exvi": "Tôi sẽ gọi bạn, tôi hứa." },
+                { "w": "I'll let you know", "vi": "tôi sẽ báo bạn", "ex": "I'll let you know tomorrow.", "exvi": "Mai tôi sẽ báo bạn." },
+                { "w": "I think … will", "vi": "tôi nghĩ sẽ", "ex": "I think it'll rain.", "exvi": "Tôi nghĩ trời sẽ mưa.", "note": "Dự đoán theo CẢM NHẬN. Xem [Khung 41]." },
+                { "w": "probably", "vi": "chắc là", "ex": "I'll probably stay in.", "exvi": "Chắc là tôi sẽ ở nhà.", "note": "Đặt SAU <i>will</i>: <i>I'll <b>probably</b> stay</i> ✓." },
+                { "w": "definitely", "vi": "chắc chắn", "ex": "I'll definitely be there.", "exvi": "Tôi chắc chắn sẽ có mặt." },
+                { "w": "won't", "vi": "sẽ không", "ex": "I won't be late.", "exvi": "Tôi sẽ không muộn.", "note": "KHÔNG phải <i>willn't</i> ✗. Đọc /wəʊnt/, khác <i>want</i> /wɒnt/." },
+                { "w": "won't (từ chối)", "vi": "nhất định không", "ex": "He won't listen.", "exvi": "Anh ấy nhất định không chịu nghe.", "note": "Nghĩa thứ hai của <i>won't</i> — không chỉ là tương lai." },
+                { "w": "Shall I…?", "vi": "để tôi… nhé?", "ex": "Shall I carry that for you?", "exvi": "Để tôi xách hộ nhé?", "note": "Cách đề nghị giúp đỡ lịch sự kiểu Anh." },
+                { "w": "Shall we…?", "vi": "mình… nhé?", "ex": "Shall we go?", "exvi": "Mình đi nhé?" },
+                { "w": "I'll see you then", "vi": "hẹn gặp lúc đó", "ex": "I'll see you then.", "exvi": "Hẹn gặp bạn lúc đó. Xem [Khung 80]." }
+              ]
+            },
+            {
+              "title": "Cách nói tương lai khác & từ dễ nhầm",
+              "items": [
+                { "w": "be going to + V", "vi": "định, sẽ (đã tính trước)", "ex": "I'm going to look for a job.", "exvi": "Tôi định tìm việc.", "note": "BẪY SỐ MỘT: kế hoạch ĐÃ quyết thì dùng cái này, không dùng <i>will</i>. Xem [Khung 91]." },
+                { "w": "be going to (dự đoán)", "vi": "sắp (có bằng chứng)", "ex": "Look at those clouds — it's going to rain.", "exvi": "Nhìn mây kia kìa — trời sắp mưa.", "note": "Có BẰNG CHỨNG trước mắt thì dùng <i>going to</i>, đoán mò thì dùng <i>will</i>." },
+                { "w": "am/is/are + V-ing", "vi": "lịch đã chốt", "ex": "I'm meeting him at six.", "exvi": "Sáu giờ tôi có hẹn gặp anh ấy.", "note": "Chắc chắn nhất — có giờ, có người. Xem [Khung 92]." },
+                { "w": "be about to + V", "vi": "sắp sửa", "ex": "I'm about to leave.", "exvi": "Tôi sắp đi rồi.", "note": "Ngay trong vài phút — gấp hơn <i>will</i> nhiều." },
+                { "w": "Hiện tại đơn (lịch trình)", "vi": "theo lịch cố định", "ex": "The train leaves at six.", "exvi": "Tàu chạy lúc sáu giờ.", "note": "Lịch trình tàu xe, rạp phim. Xem [Ngữ pháp 01]." },
+                { "w": "If + hiện tại, will + V", "vi": "nếu…, sẽ…", "ex": "If it rains, I'll take a taxi.", "exvi": "Nếu mưa tôi sẽ đi taxi.", "note": "Vế <i>if</i> KHÔNG BAO GIỜ có <i>will</i>. Xem [Khung 97]." },
+                { "w": "when + hiện tại", "vi": "khi… (tương lai)", "ex": "When I see him, I'll tell him.", "exvi": "Khi gặp anh ấy tôi sẽ nói.", "note": "Sau <i>when</i> chỉ tương lai cũng dùng HIỆN TẠI, không dùng <i>will</i>." },
+                { "w": "as soon as + hiện tại", "vi": "ngay khi", "ex": "I'll call as soon as I get there.", "exvi": "Đến nơi là tôi gọi ngay.", "note": "Cùng luật với <i>if</i> và <i>when</i>." },
+                { "w": "will be + V-ing", "vi": "sẽ đang làm", "ex": "I'll be working at six.", "exvi": "Sáu giờ tôi sẽ đang làm việc.", "note": "Tương lai tiếp diễn. Xem [Ngữ pháp 13]." },
+                { "w": "will have + V3", "vi": "sẽ đã xong", "ex": "I'll have finished by then.", "exvi": "Đến lúc đó tôi sẽ xong rồi.", "note": "Tương lai hoàn thành — sau <i>have</i> là V3." },
+                { "w": "would", "vi": "sẽ (giả định)", "ex": "If I were you, I'd rest.", "exvi": "Nếu tôi là bạn, tôi sẽ nghỉ.", "note": "Dạng giả định của <i>will</i>, dùng cho điều KHÔNG có thật. Xem [Khung 98]." },
+                { "w": "want ≠ won't", "vi": "muốn ≠ sẽ không", "ex": "I want to go. · I won't go.", "exvi": "Tôi muốn đi. · Tôi sẽ không đi.", "note": "Hai từ phát âm gần nhau nhưng nghĩa ngược hẳn — <i>want</i> /wɒnt/, <i>won't</i> /wəʊnt/." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I <b>will</b> visit my parents next week. <i>(đã lên kế hoạch)</i>", "right": "I'<b>m going to</b> visit my parents next week.", "why": "BẪY SỐ MỘT: kế hoạch ĐÃ quyết từ trước thì dùng <b>be going to</b>. Dùng <i>will</i> nghe cứng và thiếu tự nhiên. Xem [Khung 91]." },
+            { "wrong": "He will <b>goes</b> tomorrow.", "right": "He will <b>go</b> tomorrow.", "why": "BẪY SỐ HAI: sau <b>will</b> luôn là ĐỘNG TỪ TRẦN — không thêm <i>-s</i> dù chủ ngữ là ngôi thứ ba." },
+            { "wrong": "He will <b>to go</b> tomorrow.", "right": "He will <b>go</b> tomorrow.", "why": "Cùng lỗi ở dạng khác. Sau modal không bao giờ có <i>to</i>." },
+            { "wrong": "If it <b>will rain</b>, I'll take a taxi.", "right": "If it <b>rains</b>, I'll take a taxi.", "why": "Vế <i>if</i> KHÔNG BAO GIỜ chứa <i>will</i>. Luật này áp dụng cho cả <i>when, unless, as soon as</i>. Xem [Khung 97]." },
+            { "wrong": "I <b>willn't</b> be late.", "right": "I <b>won't</b> be late.", "why": "Phủ định của <i>will</i> là <b>won't</b> — một dạng riêng, không ghép theo quy tắc thường." },
+            { "wrong": "He <b>wills</b> come.", "right": "He <b>will</b> come.", "why": "<b>will</b> dùng chung cho MỌI chủ ngữ — không chia theo ngôi." },
+            { "wrong": "Look at those clouds — it <b>will rain</b>.", "right": "Look at those clouds — it'<b>s going to rain</b>.", "why": "Có BẰNG CHỨNG trước mắt thì dùng <i>going to</i>. <i>will</i> dành cho dự đoán theo cảm nhận." },
+            { "wrong": "A: Can you help? B: <b>I'm going to</b> do it.", "right": "B: <b>I'll</b> do it.", "why": "Quyết định NGAY lúc nói thì dùng <b>will</b>. <i>going to</i> nghe như bạn đã tính từ trước, rất lạ." },
+            { "wrong": "I'll call <b>as soon as I will get</b> there.", "right": "I'll call <b>as soon as I get</b> there.", "why": "Sau <i>as soon as</i> dùng hiện tại đơn, dù nói về tương lai." },
+            { "wrong": "I will <b>probably</b> won't go.", "right": "I <b>probably won't</b> go.", "why": "Không dùng <i>will</i> hai lần. Trạng từ đứng trước <i>won't</i> trong câu phủ định." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Dùng khi", "Ví dụ"],
+          "rows": [
+            ["<code>will + V</code>", "Quyết định NGAY lúc nói", "OK, I'll do it."],
+            ["<code>will + V</code>", "Lời hứa, dự đoán theo cảm nhận", "I think it'll rain."],
+            ["<code>be going to + V</code>", "Kế hoạch đã quyết. Xem [Khung 91]", "I'm going to look for a job."],
+            ["<code>be going to + V</code>", "Dự đoán CÓ bằng chứng", "It's going to rain."],
+            ["<code>am/is/are + V-ing</code>", "Lịch đã chốt. Xem [Khung 92]", "I'm meeting him at six."],
+            ["<code>be about to + V</code>", "Sắp xảy ra trong vài phút", "I'm about to leave."],
+            ["<code>Hiện tại đơn</code>", "Lịch trình cố định. Xem [Ngữ pháp 01]", "The train leaves at six."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng cách nói tương lai nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn đã quyết chuyện này từ bao giờ, và có bằng chứng gì không?",
+          "nodes": [
+            { "if": "Vừa quyết định ngay lúc đang nói", "then": "will", "ex": "OK, I'll do it." },
+            { "if": "Đã tính từ trước, chưa chốt giờ", "then": "be going to", "ex": "I'm going to look for a job." },
+            { "if": "Đã hẹn, có giờ có người", "then": "Hiện tại tiếp diễn", "ex": "I'm meeting him at six." },
+            { "if": "Dự đoán, có bằng chứng trước mắt", "then": "be going to", "ex": "It's going to rain." },
+            { "if": "Dự đoán, chỉ theo cảm nhận", "then": "I think … will", "ex": "I think it'll rain." },
+            { "if": "Nằm trong vế if, when, as soon as", "then": "Hiện tại đơn — không có will", "ex": "If it rains, I'll take a taxi." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ chắc chắn" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I might go.", "vi": "Yếu nhất — có thể" },
+            { "en": "I'll probably go.", "vi": "Nhiều khả năng" },
+            { "en": "I'll go.", "vi": "Chắc chắn" },
+            { "en": "I'm going to go.", "vi": "Đã quyết từ trước" },
+            { "en": "I'm going at six.", "vi": "Mạnh nhất — đã chốt giờ" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "<i>will</i> xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 91, "why": "I'm going to + V — khung chính của ranh giới will và going to, có bảng đối chiếu đầy đủ." },
+            { "id": 97, "why": "If + hiện tại, I'll + V — luật sau if không bao giờ có will." },
+            { "id": 92, "why": "I'm + V-ing — cách nói tương lai chắc chắn nhất, so với will." },
+            { "id": 41, "why": "I think… — mẫu I think it'll rain, dự đoán theo cảm nhận." },
+            { "id": 80, "why": "See you…! — I'll see you then, lời hứa gặp lại." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ hoặc điền từ" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Mai anh ấy sẽ đi.", "blank": "He will __________ (go) tomorrow.", "a": "go — động từ trần sau will" },
+            { "vi": "Tôi sẽ không muộn đâu.", "blank": "I __________ be late.", "a": "won't" },
+            { "vi": "Nếu trời mưa, tôi sẽ đi taxi.", "blank": "If it __________ (rain), I'll take a taxi.", "a": "rains — vế if dùng hiện tại đơn" },
+            { "vi": "Thứ Sáu bạn có ở đó không?", "blank": "__________ you be there on Friday?", "a": "Will" },
+            { "vi": "Để tôi xách hộ nhé?", "blank": "__________ I carry that for you?", "a": "Shall" },
+            { "vi": "Đến nơi là tôi gọi ngay.", "blank": "I'll call as soon as I __________ (get) there.", "a": "get — hiện tại đơn sau as soon as" },
+            { "vi": "Chắc là tôi sẽ ở nhà.", "blank": "I'll __________ stay in.", "a": "probably" },
+            { "vi": "Đến lúc đó tôi sẽ xong rồi.", "blank": "I'll have __________ (finish) by then.", "a": "finished — V3 sau will have" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "A: Giúp tôi được không? B: Được, để tôi làm.", "blank": "B: OK, __________ do it.  (I'll / I'm going to)", "a": "I'll — quyết định ngay lúc nói" },
+            { "vi": "Tôi định tìm việc mới (đã tính từ trước).", "blank": "__________ look for a new job.  (I'll / I'm going to)", "a": "I'm going to" },
+            { "vi": "Nhìn mây kia kìa — trời sắp mưa.", "blank": "Look at those clouds — it __________.  (will rain / is going to rain)", "a": "is going to rain — có bằng chứng" },
+            { "vi": "Tôi nghĩ mai trời sẽ mưa.", "blank": "I think it __________ tomorrow.  (will rain / is going to rain)", "a": "will rain — dự đoán theo cảm nhận" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Được rồi, để tôi làm.", "a": "OK, I'll do it." },
+            { "vi": "2. Mai tôi sẽ gọi bạn, tôi hứa.", "a": "I'll call you tomorrow, I promise." },
+            { "vi": "3. Nếu trời mưa, tôi sẽ đi taxi.", "a": "If it rains, I'll take a taxi." },
+            { "vi": "4. Để tôi xách hộ nhé?", "a": "Shall I carry that for you?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Hỏi một câu trước khi nói:</b> “Mình vừa nghĩ ra điều này hay đã tính từ trước?” Vừa nghĩ ra thì <i>I'll</i>, tính từ trước thì <i>I'm going to</i>.",
+            "<b>Sau <i>will</i> luôn là động từ trần</b> — không <i>to</i>, không <i>-s</i>, không <i>-ing</i>. Và <i>will</i> không chia theo ngôi.",
+            "<b>Vế <i>if, when, as soon as</i> không bao giờ có <i>will</i></b>, dù đang nói về tương lai. Xem [Khung 97].",
+            "<b>Phủ định là <i>won't</i></b>, không phải <i>willn't</i>. Và nhớ <i>won't</i> /wəʊnt/ khác <i>want</i> /wɒnt/.",
+            "<b>Thấy bằng chứng trước mắt thì chuyển sang <i>going to</i>:</b> mây đen thì <i>It's going to rain</i>, đoán mò thì <i>I think it'll rain</i>.",
+            "<b>Bài tập 3 phút:</b> viết năm câu tương lai về tuần này — hai câu bạn vừa quyết lúc viết, ba câu đã tính từ trước — rồi chọn <i>will</i> hay <i>going to</i> cho đúng."
+          ]
+        }
+      ]
+    }
+  ]
+}

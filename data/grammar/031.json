@@ -1,0 +1,277 @@
+{
+  "id": 31,
+  "group": "Nhóm 9 · Động từ khuyết thiếu",
+  "title": "must · have to · need to",
+  "subtitle": "Ở thể khẳng định, ba từ này gần như thay nhau được. Nhưng ở thể phủ định thì chúng tách đôi theo hai hướng ngược hẳn: mustn't nghĩa là CẤM, còn don't have to nghĩa là không bắt buộc — ai cũng từng dùng nhầm ít nhất một lần.",
+  "meaning": "Sự bắt buộc — và sự vắng mặt của nó",
+  "rule": [
+    "<em>must / have to / need to</em> + V trần — bắt buộc",
+    "<em>mustn't</em> = CẤM · <em>don't have to</em> = không bắt buộc",
+    "Quá khứ chỉ có <em>had to</em> — không có <em>musted</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1", "hot": true },
+    { "text": "mustn't ≠ don't have to" },
+    { "text": "Quá khứ: had to" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [60, 69, 79, 88, 91],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Ở thể <b>khẳng định</b>, <i>must</i>, <i>have to</i> và <i>need to</i> đều nói về sự bắt buộc và gần như thay nhau được. Sắc thái khác nhau rất nhỏ: <b>must</b> là bắt buộc từ <b>bên trong</b> (chính bạn thấy cần), <b>have to</b> là từ <b>bên ngoài</b> (quy định, hoàn cảnh)." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — thể phủ định tách đôi NGƯỢC HẲN nhau:</b><br>• <i>You <b>mustn't</b> park here</i> = bạn <b>KHÔNG ĐƯỢC PHÉP</b> đỗ ở đây.<br>• <i>You <b>don't have to</b> park here</i> = bạn <b>không bắt buộc</b> phải đỗ ở đây, tùy bạn.<br>Một cái cấm, một cái cho tự do. Dùng nhầm là nói ngược hẳn ý." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>must</i> không có dạng quá khứ:</b> muốn nói về quá khứ thì bắt buộc mượn <b>had to</b>.<br>• <i>I <b>had to</b> leave early yesterday</i> ✓ — <i>I musted</i> ✗, <i>I must left</i> ✗<br>Tương lai cũng vậy: <b>will have to</b>, không phải <i>will must</i>." },
+        { "t": "h3", "text": "Bốn ô của bảng" },
+        {
+          "t": "table",
+          "head": ["Thể", "must", "have to"],
+          "rows": [
+            ["Khẳng định", "Bắt buộc (từ bên trong)", "Bắt buộc (từ bên ngoài)"],
+            ["Phủ định", "<code>mustn't</code> = CẤM", "<code>don't have to</code> = không bắt buộc"],
+            ["Quá khứ", "không có — mượn <code>had to</code>", "<code>had to</code>"],
+            ["Tương lai", "không có — mượn <code>will have to</code>", "<code>will have to</code>"]
+          ]
+        },
+        { "t": "p", "html": "<b>need to</b> nhẹ hơn cả hai — nó nói về <b>sự cần thiết</b> chứ không hẳn là bắt buộc. Và phủ định của nó, <b>don't need to</b>, đồng nghĩa với <i>don't have to</i>, không phải với <i>mustn't</i>." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Bắt buộc — tự thấy cần", "<code>S + must + V trần</code>", "I must call her today."],
+            ["Bắt buộc — quy định", "<code>S + have/has to + V trần</code>", "I have to wear a uniform."],
+            ["Cần thiết", "<code>S + need to + V trần</code>", "I need to check something."],
+            ["CẤM", "<code>S + mustn't + V trần</code>", "You mustn't park here."],
+            ["Không bắt buộc", "<code>S + don't have to + V</code>", "You don't have to come."],
+            ["Không cần", "<code>S + don't need to + V</code>", "You don't need to wait."],
+            ["Quá khứ — bắt buộc", "<code>S + had to + V trần</code>", "I had to leave early."],
+            ["Quá khứ — không bắt buộc", "<code>S + didn't have to + V</code>", "I didn't have to pay."],
+            ["Tương lai", "<code>S + will have to + V trần</code>", "You'll have to wait."],
+            ["Bất đắc dĩ", "<code>be going to have to + V</code>", "I'm going to have to leave early."],
+            ["Câu hỏi", "<code>Do + S + have to + V?</code>", "Do I have to book?"],
+            ["Suy đoán chắc chắn", "<code>must + V trần</code>", "He must be busy."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dòng cuối là nghĩa thứ hai của <i>must</i>:</b> ngoài bắt buộc, nó còn dùng để <b>suy đoán gần như chắc chắn</b> — <i>He <b>must</b> be busy</i> = chắc anh ấy bận. Ngữ cảnh quyết định nghĩa nào. Xem [Ngữ pháp 30]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I must call her today.", "vi": "Hôm nay tôi phải gọi cho cô ấy.", "note": "<b>must</b> = chính tôi thấy cần, không ai bắt." },
+            { "en": "I have to wear a uniform at work.", "vi": "Ở chỗ làm tôi phải mặc đồng phục.", "note": "<b>have to</b> = quy định từ bên ngoài." },
+            { "en": "I need to check something first.", "vi": "Tôi cần kiểm tra một chút trước đã.", "note": "<b>need to</b> nhẹ hơn — nói sự cần thiết." },
+            { "en": "You mustn't park here.", "vi": "Ở đây không được đỗ xe.", "note": "BẪY SỐ MỘT: <b>mustn't</b> = CẤM." },
+            { "en": "You don't have to come if you're busy.", "vi": "Bận thì bạn không cần đến đâu.", "note": "<b>don't have to</b> = KHÔNG BẮT BUỘC, tùy bạn. Nghĩa ngược hẳn <i>mustn't</i>." },
+            { "en": "You don't need to wait for me.", "vi": "Bạn không cần chờ tôi đâu.", "note": "<b>don't need to</b> đồng nghĩa với <i>don't have to</i>." },
+            { "en": "I had to leave early yesterday.", "vi": "Hôm qua tôi phải về sớm.", "note": "BẪY SỐ HAI: quá khứ chỉ có <b>had to</b>. <i>I musted</i> ✗." },
+            { "en": "I didn't have to pay — it was free.", "vi": "Tôi không phải trả tiền — miễn phí mà.", "note": "Phủ định quá khứ: <b>didn't have to</b>." },
+            { "en": "You'll have to wait a few minutes.", "vi": "Anh/chị phải chờ vài phút ạ.", "note": "Tương lai là <b>will have to</b> — <i>will must</i> ✗." },
+            { "en": "I'm going to have to leave early.", "vi": "Chắc tôi phải về sớm.", "note": "Nghe mềm hơn <i>I must</i> khi báo việc bất đắc dĩ. Xem [Khung 91]." },
+            { "en": "Do I have to book in advance?", "vi": "Tôi có phải đặt trước không ạ?", "note": "Câu hỏi dùng <b>Do … have to</b>, không dùng <i>Must I</i> (nghe cổ)." },
+            { "en": "He must be busy — his light is on.", "vi": "Chắc anh ấy bận — đèn vẫn sáng.", "note": "Nghĩa THỨ HAI: suy đoán gần như chắc chắn. Xem [Ngữ pháp 30]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "✅", "title": "Việc tự thấy cần làm", "text": "<i>I must call her today.</i>" },
+            { "icon": "📋", "title": "Quy định bắt buộc", "text": "<i>I have to wear a uniform.</i>" },
+            { "icon": "⛔", "title": "Cấm làm gì", "text": "<i>You mustn't park here.</i>" },
+            { "icon": "🆓", "title": "Nói không bắt buộc", "text": "<i>You don't have to come.</i> Tùy bạn." },
+            { "icon": "🙇", "title": "Báo việc bất đắc dĩ", "text": "<i>I'm going to have to leave early.</i> Xem [Khung 91]." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Nói quá khứ bằng <i>must</i>. Phải mượn <i>had to</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Thể khẳng định — sự bắt buộc",
+              "items": [
+                { "w": "must + V trần", "vi": "phải (tự thấy cần)", "ex": "I must call her today.", "exvi": "Hôm nay tôi phải gọi cô ấy.", "note": "Bắt buộc từ BÊN TRONG — chính bạn quyết." },
+                { "w": "have to + V trần", "vi": "phải (quy định)", "ex": "I have to wear a uniform.", "exvi": "Tôi phải mặc đồng phục.", "note": "Bắt buộc từ BÊN NGOÀI. Chia theo ngôi: <i>he <b>has to</b></i>." },
+                { "w": "has to", "vi": "phải (ngôi thứ ba)", "ex": "He has to work on Saturday.", "exvi": "Thứ Bảy anh ấy phải làm.", "note": "Khác <i>must</i> — <b>have to</b> CÓ chia theo ngôi." },
+                { "w": "need to + V trần", "vi": "cần", "ex": "I need to check something.", "exvi": "Tôi cần kiểm tra một chút.", "note": "Nhẹ hơn <i>must</i> và <i>have to</i>." },
+                { "w": "had to + V trần", "vi": "đã phải", "ex": "I had to leave early yesterday.", "exvi": "Hôm qua tôi phải về sớm.", "note": "BẪY SỐ HAI: quá khứ của CẢ <i>must</i> lẫn <i>have to</i>." },
+                { "w": "will have to", "vi": "sẽ phải", "ex": "You'll have to wait.", "exvi": "Anh/chị phải chờ ạ.", "note": "<i>will must</i> ✗ — hai modal không đứng cạnh nhau." },
+                { "w": "going to have to", "vi": "chắc phải", "ex": "I'm going to have to leave early.", "exvi": "Chắc tôi phải về sớm.", "note": "Nghe mềm hơn <i>I must</i> khi báo việc bất đắc dĩ. Xem [Khung 91]." },
+                { "w": "have got to", "vi": "phải (khẩu ngữ)", "ex": "I've got to go now.", "exvi": "Tôi phải đi đây.", "note": "Rất khẩu ngữ, nói nhanh thành <i>gotta</i> — nhưng không viết." },
+                { "w": "be supposed to", "vi": "lẽ ra phải", "ex": "I'm supposed to be there at six.", "exvi": "Lẽ ra sáu giờ tôi phải có mặt.", "note": "Nhấn vào KỲ VỌNG của người khác, không hẳn bắt buộc." },
+                { "w": "be required to", "vi": "được yêu cầu phải", "ex": "You're required to sign here.", "exvi": "Anh/chị cần ký vào đây ạ.", "note": "Trang trọng — hay gặp trong văn bản." },
+                { "w": "must (suy đoán)", "vi": "chắc hẳn là", "ex": "He must be busy.", "exvi": "Chắc anh ấy bận.", "note": "Nghĩa THỨ HAI của <i>must</i>. Xem [Ngữ pháp 30]." },
+                { "w": "Do I have to…?", "vi": "tôi có phải… không?", "ex": "Do I have to book in advance?", "exvi": "Tôi có phải đặt trước không ạ?", "note": "Câu hỏi dùng <i>Do … have to</i>, <i>Must I</i> nghe cổ." }
+              ]
+            },
+            {
+              "title": "Thể phủ định — hai hướng ngược nhau",
+              "items": [
+                { "w": "mustn't", "vi": "không được phép", "ex": "You mustn't park here.", "exvi": "Ở đây không được đỗ xe.", "note": "BẪY SỐ MỘT: nghĩa CẤM, không phải “không cần”." },
+                { "w": "don't have to", "vi": "không bắt buộc", "ex": "You don't have to come.", "exvi": "Bạn không cần đến đâu.", "note": "Nghĩa NGƯỢC HẲN <i>mustn't</i> — cho tự do lựa chọn." },
+                { "w": "doesn't have to", "vi": "không bắt buộc (ngôi ba)", "ex": "He doesn't have to come.", "exvi": "Anh ấy không cần đến." },
+                { "w": "don't need to", "vi": "không cần", "ex": "You don't need to wait for me.", "exvi": "Bạn không cần chờ tôi.", "note": "Đồng nghĩa <i>don't have to</i>, KHÔNG đồng nghĩa <i>mustn't</i>." },
+                { "w": "needn't", "vi": "không cần", "ex": "You needn't worry.", "exvi": "Bạn không cần lo.", "note": "Dạng rút gọn kiểu Anh, cùng nghĩa <i>don't need to</i>." },
+                { "w": "didn't have to", "vi": "đã không phải", "ex": "I didn't have to pay.", "exvi": "Tôi không phải trả tiền.", "note": "Phủ định quá khứ — không có <i>mustn't</i> ở quá khứ." },
+                { "w": "won't have to", "vi": "sẽ không phải", "ex": "You won't have to wait long.", "exvi": "Anh/chị sẽ không phải chờ lâu." },
+                { "w": "You're not allowed to", "vi": "bạn không được phép", "ex": "You're not allowed to smoke here.", "exvi": "Ở đây không được hút thuốc.", "note": "Cùng nghĩa <i>mustn't</i> nhưng nhẹ hơn. Xem [Ngữ pháp 27]." },
+                { "w": "can't + V trần", "vi": "không thể, không được", "ex": "You can't park here.", "exvi": "Ở đây không đỗ được.", "note": "Thông dụng hơn <i>mustn't</i> trong hội thoại hằng ngày." },
+                { "w": "should / shouldn't", "vi": "nên / không nên", "ex": "You shouldn't worry.", "exvi": "Bạn không nên lo.", "note": "Nhẹ hơn nhiều — là lời khuyên, không phải bắt buộc. Xem [Ngữ pháp 32]." },
+                { "w": "had better not", "vi": "tốt nhất đừng", "ex": "You'd better not be late.", "exvi": "Tốt nhất là đừng muộn.", "note": "Mạnh hơn <i>shouldn't</i>, có ý cảnh báo hậu quả." },
+                { "w": "Fair enough", "vi": "hợp lý thôi", "ex": "Fair enough.", "exvi": "Hợp lý thôi. Xem [Khung 60]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "You <b>mustn't</b> come if you're busy. <i>(ý: không bắt buộc)</i>", "right": "You <b>don't have to</b> come if you're busy.", "why": "BẪY SỐ MỘT: <b>mustn't</b> nghĩa là CẤM. Câu sai thành “bạn bị cấm đến”." },
+            { "wrong": "You <b>don't have to</b> park here. <i>(ý: cấm đỗ)</i>", "right": "You <b>mustn't</b> park here.", "why": "Ngược lại: muốn CẤM thì dùng <b>mustn't</b> hoặc <i>can't</i>." },
+            { "wrong": "I <b>musted</b> leave early yesterday.", "right": "I <b>had to</b> leave early yesterday.", "why": "BẪY SỐ HAI: <i>must</i> KHÔNG có dạng quá khứ — mượn <b>had to</b>." },
+            { "wrong": "You <b>will must</b> wait.", "right": "You <b>will have to</b> wait.", "why": "Hai modal không đứng cạnh nhau. Tương lai mượn <b>will have to</b>." },
+            { "wrong": "He <b>musts</b> work on Saturday.", "right": "He <b>must</b> work on Saturday.", "why": "<i>must</i> không chia theo ngôi. Nhưng <b>have to</b> thì có: <i>he <b>has to</b></i> ✓." },
+            { "wrong": "He <b>have to</b> work on Saturday.", "right": "He <b>has to</b> work on Saturday.", "why": "<b>have to</b> CHIA theo ngôi — khác hẳn <i>must</i>." },
+            { "wrong": "I must <b>to call</b> her.", "right": "I must <b>call</b> her.", "why": "Sau <i>must</i> là động từ TRẦN. Nhưng <i>have <b>to</b> call</i> ✓ vì <i>to</i> thuộc về cụm <i>have to</i>." },
+            { "wrong": "<b>Must I</b> book in advance? <i>(hội thoại thường)</i>", "right": "<b>Do I have to</b> book in advance?", "why": "<i>Must I</i> nghe cổ và cứng. Câu hỏi tự nhiên dùng <b>Do … have to</b>." },
+            { "wrong": "I <b>mustn't</b> pay — it was free.", "right": "I <b>didn't have to</b> pay — it was free.", "why": "Không có dạng quá khứ của <i>mustn't</i>. Và nghĩa ở đây là “không phải trả”, không phải “bị cấm trả”." },
+            { "wrong": "He <b>mustn't</b> be serious. <i>(ý: không thể nào)</i>", "right": "He <b>can't</b> be serious.", "why": "Suy đoán chắc chắn KHÔNG thì dùng <b>can't</b>. Xem [Ngữ pháp 30]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>must + V trần</code>", "Bắt buộc — tự thấy cần", "I must call her today."],
+            ["<code>have to + V trần</code>", "Bắt buộc — quy định bên ngoài", "I have to wear a uniform."],
+            ["<code>need to + V trần</code>", "Cần thiết — nhẹ hơn", "I need to check something."],
+            ["<code>mustn't</code>", "CẤM — không được phép", "You mustn't park here."],
+            ["<code>don't have to / don't need to</code>", "Không bắt buộc — tùy bạn", "You don't have to come."],
+            ["<code>should</code>", "Lời khuyên. Xem [Ngữ pháp 32]", "You should rest."],
+            ["<code>had to</code>", "Quá khứ của cả must lẫn have to", "I had to leave early."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng từ nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn muốn nói bắt buộc, cấm, hay không bắt buộc?",
+          "nodes": [
+            { "if": "Bắt buộc, do chính bạn thấy cần", "then": "must + V trần", "ex": "I must call her today." },
+            { "if": "Bắt buộc, do quy định hoặc hoàn cảnh", "then": "have to + V trần", "ex": "I have to wear a uniform." },
+            { "if": "CẤM — không được phép làm", "then": "mustn't (hoặc can't)", "ex": "You mustn't park here." },
+            { "if": "Không bắt buộc — tùy người nghe", "then": "don't have to / don't need to", "ex": "You don't have to come." },
+            { "if": "Nói về quá khứ", "then": "had to — must không có quá khứ", "ex": "I had to leave early." },
+            { "if": "Chỉ là lời khuyên, không bắt buộc", "then": "should + V trần", "ex": "You should rest." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ bắt buộc" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "You don't have to come.", "vi": "Hoàn toàn tùy bạn" },
+            { "en": "You could come if you like.", "vi": "Gợi ý nhẹ" },
+            { "en": "You should come.", "vi": "Nên đến" },
+            { "en": "You have to come.", "vi": "Bắt buộc theo quy định" },
+            { "en": "You must come.", "vi": "Mạnh nhất — không có lựa chọn" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Nhóm modal chỉ sự bắt buộc xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 91, "why": "I'm going to + V — mẫu I'm going to have to leave early, cách báo việc bất đắc dĩ." },
+            { "id": 88, "why": "I feel bad about… — mẫu I should have told you, họ hàng gần của must và should." },
+            { "id": 79, "why": "I'm sorry for… — xin lỗi vì phải làm điều bất đắc dĩ." },
+            { "id": 69, "why": "Could you explain…? — cách nhờ vả nhẹ nhàng, đối lập với must." },
+            { "id": 60, "why": "Fair enough — cách chấp nhận một điều bắt buộc do người khác đưa ra." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền must / have to / had to" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Hôm nay tôi phải gọi cho cô ấy.", "blank": "I __________ call her today.", "a": "must" },
+            { "vi": "Thứ Bảy anh ấy phải làm.", "blank": "He __________ work on Saturday.", "a": "has to" },
+            { "vi": "Hôm qua tôi phải về sớm.", "blank": "I __________ leave early yesterday.", "a": "had to" },
+            { "vi": "Anh/chị sẽ phải chờ vài phút.", "blank": "You'll __________ wait a few minutes.", "a": "have to" },
+            { "vi": "Tôi cần kiểm tra một chút.", "blank": "I __________ check something.", "a": "need to" },
+            { "vi": "Tôi có phải đặt trước không ạ?", "blank": "__________ I have to book in advance?", "a": "Do" },
+            { "vi": "Chắc tôi phải về sớm.", "blank": "I'm going to __________ leave early.", "a": "have to" },
+            { "vi": "Hôm nay tôi phải gọi cô ấy.", "blank": "I must __________ (call) her today.", "a": "call — động từ trần" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng theo nghĩa" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Bận thì bạn không cần đến đâu.", "blank": "You __________ come if you're busy.  (mustn't / don't have to)", "a": "don't have to" },
+            { "vi": "Ở đây không được đỗ xe.", "blank": "You __________ park here.  (mustn't / don't have to)", "a": "mustn't" },
+            { "vi": "Tôi không phải trả tiền — miễn phí mà.", "blank": "I __________ pay — it was free.  (mustn't / didn't have to)", "a": "didn't have to" },
+            { "vi": "Anh ấy không thể nghiêm túc được.", "blank": "He __________ be serious.  (mustn't / can't)", "a": "can't" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Ở đây không được đỗ xe.", "a": "You mustn't park here." },
+            { "vi": "2. Bận thì bạn không cần đến đâu.", "a": "You don't have to come if you're busy." },
+            { "vi": "3. Hôm qua tôi phải về sớm.", "a": "I had to leave early yesterday." },
+            { "vi": "4. Tôi có phải đặt trước không ạ?", "a": "Do I have to book in advance?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Hai phủ định ngược hẳn nhau:</b> <i>mustn't</i> = CẤM · <i>don't have to</i> = KHÔNG BẮT BUỘC. Đây là lỗi ai cũng từng mắc.",
+            "<b><i>must</i> không có quá khứ.</b> Mọi câu quá khứ đều mượn <b>had to</b>, dù ý gốc là <i>must</i> hay <i>have to</i>.",
+            "<b>Hai modal không đứng cạnh nhau:</b> tương lai là <b>will have to</b>, không bao giờ <i>will must</i>.",
+            "<b><i>must</i> không chia theo ngôi, nhưng <i>have to</i> thì có:</b> <i>he <b>has to</b></i> ✓.",
+            "<b>Câu hỏi dùng <i>Do … have to</i></b> — <i>Must I…?</i> nghe cổ và cứng trong hội thoại hằng ngày.",
+            "<b>Bài tập 3 phút:</b> viết ba quy định ở chỗ làm bằng <i>I have to…</i>, rồi ba điều không bắt buộc bằng <i>I don't have to…</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

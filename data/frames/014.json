@@ -1,0 +1,492 @@
+{
+  "id": 14,
+  "group": "Nhóm 2 · Yêu cầu & Nhờ vả",
+  "title": "Do you mind if I…? — Xin phép cho chính mình",
+  "subtitle": "Anh em song sinh của [Khung 13], nhưng đảo vai: ở đó bạn nhờ người khác làm, ở đây bạn xin phép để chính mình làm. Cùng chung một cái bẫy trả lời ngược nghĩa, và thêm một bẫy ngữ pháp riêng về thì của động từ.",
+  "pattern": [
+    "Do you mind if I <em>+ V (hiện tại)</em>?",
+    "Would you mind if I <em>+ V (quá khứ)</em>?",
+    "Mind if I <em>+ V</em>?"
+  ],
+  "meaning": "Tôi… có phiền không? / Tôi … được không ạ?",
+  "grammar": [14, 44],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 5/5" },
+    { "text": "Bẫy: thì của động từ" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "Ở [Khung 13] bạn hỏi <i>Would you mind waiting?</i> — người làm là <b>họ</b>. Ở đây <span class=\"k\">Do you mind if I sit here?</span> — người làm là <b>bạn</b>. Chỉ khác cụm <i>if I</i> mà đổi hẳn vai, nên hai khung này rất dễ lẫn khi nói nhanh." },
+        { "t": "p", "html": "Về nghĩa, bạn đang hỏi “việc tôi làm điều đó có làm bạn khó chịu không?”. Cách hỏi này thừa nhận trước rằng hành động của bạn có thể ảnh hưởng tới người kia — vì thế nó nhã hơn hẳn <i>Can I…?</i>, vốn chỉ hỏi bạn có được phép hay không." },
+        { "t": "p", "html": "Trong đời sống hằng ngày, người bản xứ hay rút gọn thành <span class=\"k\">Mind if I…?</span> — bỏ luôn <i>Do you</i>. Nghe rất tự nhiên và thân thiện: <i>Mind if I join you?</i> Nhưng khi nói với người trên hoặc trong công việc thì nên giữ dạng đầy đủ." },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp riêng của khung này:</b> <span class=\"k\">Do you mind if I <b>sit</b></span> — động từ ở <b>hiện tại</b>. Nhưng <span class=\"k\">Would you mind if I <b>sat</b></span> — động từ ở <b>quá khứ</b>. Đổi <i>Do</i> thành <i>Would</i> thì phải đổi luôn thì của động từ." },
+        { "t": "h3", "text": "Hai khung anh em — ai là người làm?" },
+        {
+          "t": "table",
+          "head": ["Câu", "Ai làm việc đó", "Ghi chú"],
+          "rows": [
+            ["<code>Would you mind opening the window?</code>", "<b>Bạn</b> (người nghe)", "Nhờ vả — xem [Khung 13]"],
+            ["<code>Do you mind if I open the window?</code>", "<b>Tôi</b> (người nói)", "Xin phép — hiện tại"],
+            ["<code>Would you mind if I opened the window?</code>", "<b>Tôi</b> (người nói)", "Xin phép — quá khứ, nhã hơn"],
+            ["<code>Mind if I open the window?</code>", "<b>Tôi</b> (người nói)", "Rút gọn, thân mật"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💺", "title": "Xin chỗ ngồi", "text": "Bối cảnh số 1. <i>Do you mind if I sit here?</i> Dùng ở quán, tàu xe, phòng chờ." },
+            { "icon": "🪟", "title": "Động vào không gian chung", "text": "<i>Do you mind if I open the window?</i> Khi việc bạn làm ảnh hưởng tới người khác." },
+            { "icon": "🤝", "title": "Xin nhập hội", "text": "<i>Mind if I join you?</i> Câu xin ngồi cùng bàn tự nhiên nhất." },
+            { "icon": "🎙", "title": "Xin phép trong công việc", "text": "<i>Do you mind if I record this call?</i> Bắt buộc phải hỏi trước khi ghi âm." },
+            { "icon": "❓", "title": "Trước câu hỏi riêng tư", "text": "<i>Do you mind if I ask you something personal?</i> Cho người kia đường lui." },
+            { "icon": "🚪", "title": "Xin về sớm, xin rời đi", "text": "<i>Do you mind if I leave a bit early today?</i>" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Chuẩn, hiện tại", "<code>Do you mind if I + V?</code>", "Do you mind if I sit here?"],
+            ["Nhã hơn, quá khứ", "<code>Would you mind if I + V2?</code>", "Would you mind if I sat here?"],
+            ["Rút gọn, thân mật", "<code>Mind if I + V?</code>", "Mind if I join you?"],
+            ["Xin cho nhóm", "<code>Do you mind if we + V?</code>", "Do you mind if we move tables?"],
+            ["Trả lời — đồng ý", "<code>No, go ahead. / Not at all.</code>", "“Mind if I sit here?” — “No, go ahead.”"],
+            ["Trả lời — mời mọc", "<code>Please do.</code>", "“Mind if I join you?” — “Please do!”"],
+            ["Trả lời — từ chối", "<code>Actually, I'd rather you didn't.</code>", "Sorry, I'd rather you didn't."],
+            ["Hỏi lý do trước", "<code>Do you mind if I ask why?</code>", "Do you mind if I ask why you're leaving?"],
+            ["Rất trang trọng", "<code>Would it be all right if I + V2?</code>", "Would it be all right if I left early?"],
+            ["Xin trước cả câu hỏi", "<code>Do you mind me + V-ing?</code>", "Do you mind me asking?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Bẫy trả lời giống hệt [Khung 13]:</b> câu hỏi là “có phiền không”, nên <b>No = không phiền = được</b>, còn <b>Yes = có phiền = không được</b>. Muốn đồng ý, hãy nói <span class=\"k\">No, go ahead.</span> hoặc <span class=\"k\">Not at all.</span> hoặc <span class=\"k\">Please do.</span>" },
+        { "t": "callout", "html": "<b>Cách từ chối chuẩn:</b> <span class=\"k\">Actually, I'd rather you didn't.</span> — dùng đúng cấu trúc <i>I'd rather you + quá khứ</i> ở [Khung 08]. Nhẹ hơn hẳn <i>No, you can't.</i>" }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “Do you mind if I…”",
+              "items": [
+                { "w": "sit", "vi": "ngồi", "ex": "Do you mind if I sit here?", "exvi": "Tôi ngồi đây có phiền không ạ?" },
+                { "w": "join", "vi": "nhập hội, ngồi cùng", "ex": "Mind if I join you?", "exvi": "Mình ngồi cùng được không?", "note": "Dạng rút gọn cực tự nhiên giữa bạn bè và đồng nghiệp." },
+                { "w": "open", "vi": "mở", "ex": "Do you mind if I open the window?", "exvi": "Tôi mở cửa sổ có phiền không?" },
+                { "w": "close", "vi": "đóng", "ex": "Do you mind if I close the door?", "exvi": "Tôi đóng cửa có phiền không?" },
+                { "w": "ask", "vi": "hỏi", "ex": "Do you mind if I ask you something?", "exvi": "Tôi hỏi bạn một chuyện được không?" },
+                { "w": "take", "vi": "lấy, ngồi vào", "ex": "Do you mind if I take this seat?", "exvi": "Tôi ngồi chỗ này được không ạ?" },
+                { "w": "use", "vi": "dùng", "ex": "Do you mind if I use your phone?", "exvi": "Tôi dùng điện thoại của bạn được không?" },
+                { "w": "borrow", "vi": "mượn", "ex": "Do you mind if I borrow your pen?", "exvi": "Tôi mượn cái bút của bạn nhé?", "note": "<i>borrow</i> = mượn về phía mình. <i>lend</i> = cho ai đó mượn." },
+                { "w": "bring", "vi": "dẫn theo, mang theo", "ex": "Do you mind if I bring a friend?", "exvi": "Tôi dẫn theo một người bạn được không?" },
+                { "w": "leave", "vi": "rời đi, về", "ex": "Do you mind if I leave a bit early?", "exvi": "Tôi về sớm chút có phiền không ạ?" },
+                { "w": "record", "vi": "ghi âm", "ex": "Do you mind if I record this call?", "exvi": "Tôi ghi âm cuộc gọi này được không ạ?", "note": "Bắt buộc phải hỏi trước khi ghi âm — ở nhiều nước đây là quy định pháp luật." },
+                { "w": "call", "vi": "gọi điện", "ex": "Do you mind if I call you back later?", "exvi": "Lát tôi gọi lại cho bạn có được không?" },
+                { "w": "turn on", "vi": "bật", "ex": "Do you mind if I turn on the air con?", "exvi": "Tôi bật điều hòa có phiền không?" },
+                { "w": "turn off", "vi": "tắt", "ex": "Do you mind if I turn the TV off?", "exvi": "Tôi tắt tivi có phiền không?" },
+                { "w": "move", "vi": "dịch chuyển", "ex": "Do you mind if I move your bag?", "exvi": "Tôi dịch cái túi của bạn ra có được không?" },
+                { "w": "change", "vi": "đổi", "ex": "Do you mind if I change the date?", "exvi": "Tôi đổi ngày có phiền không?" },
+                { "w": "pay", "vi": "trả tiền", "ex": "Do you mind if I pay by card?", "exvi": "Tôi trả bằng thẻ có được không ạ?" },
+                { "w": "check", "vi": "kiểm tra, xem", "ex": "Do you mind if I check my phone quickly?", "exvi": "Tôi xem điện thoại một chút có phiền không?" },
+                { "w": "go first", "vi": "đi trước", "ex": "Do you mind if I go first? I'm in a rush.", "exvi": "Tôi đi trước được không? Tôi đang vội." },
+                { "w": "sit this one out", "vi": "bỏ qua lần này", "ex": "Do you mind if I sit this one out?", "exvi": "Lần này tôi xin phép không tham gia nhé?", "note": "Cách xin không tham gia một hoạt động mà không cần giải thích." }
+              ]
+            },
+            {
+              "title": "Câu hoàn chỉnh nên thuộc lòng",
+              "items": [
+                { "w": "Do you mind if I sit here?", "vi": "tôi ngồi đây được không?", "ex": "Excuse me, do you mind if I sit here?", "exvi": "Xin lỗi, tôi ngồi đây có phiền không ạ?" },
+                { "w": "Mind if I join you?", "vi": "mình ngồi cùng nhé?", "ex": "Mind if I join you for lunch?", "exvi": "Mình ăn trưa cùng bạn nhé?" },
+                { "w": "Do you mind if I ask you something?", "vi": "tôi hỏi bạn một chuyện nhé?", "ex": "Do you mind if I ask you something personal?", "exvi": "Tôi hỏi bạn một chuyện riêng tư được không?", "note": "Lớp đệm trước câu hỏi nhạy cảm — cho người kia đường lui." },
+                { "w": "Do you mind if I record this?", "vi": "tôi ghi âm cái này nhé?", "ex": "Do you mind if I record this for my notes?", "exvi": "Tôi ghi âm để ghi chép lại có được không ạ?" },
+                { "w": "Do you mind if I bring a friend?", "vi": "tôi dẫn theo bạn nhé?", "ex": "Do you mind if I bring a friend along?", "exvi": "Tôi dẫn theo một người bạn có được không?" },
+                { "w": "Do you mind if I leave early?", "vi": "tôi về sớm nhé?", "ex": "Do you mind if I leave a bit early today?", "exvi": "Hôm nay tôi về sớm chút có phiền không ạ?" },
+                { "w": "Do you mind if I go ahead?", "vi": "tôi làm tiếp nhé?", "ex": "Do you mind if I go ahead and book it?", "exvi": "Tôi cứ đặt luôn có được không?", "note": "<i>go ahead and + V</i> = cứ làm luôn. Xem [Khung 29]." },
+                { "w": "Do you mind if we move?", "vi": "chúng tôi chuyển chỗ nhé?", "ex": "Do you mind if we move to another table?", "exvi": "Chúng tôi chuyển sang bàn khác có được không ạ?" },
+                { "w": "Would it be all right if I…?", "vi": "liệu tôi… có được không?", "ex": "Would it be all right if I started on Monday?", "exvi": "Liệu tôi bắt đầu từ thứ Hai có được không ạ?", "note": "Rất trang trọng — hợp khi nói với cấp trên hoặc khách hàng." },
+                { "w": "Do you mind me asking?", "vi": "tôi hỏi vậy có phiền không?", "ex": "How much did it cost, if you don't mind me asking?", "exvi": "Nếu bạn không phiền thì cái đó giá bao nhiêu?", "note": "Đặt cuối câu hỏi để làm mềm — rất hay dùng." }
+              ]
+            },
+            {
+              "title": "Cách trả lời & biến thể",
+              "items": [
+                { "w": "No, go ahead", "vi": "không, cứ tự nhiên", "ex": "“Mind if I sit here?” — “No, go ahead.”", "exvi": "“Tôi ngồi đây nhé?” — “Được, bạn cứ tự nhiên.”", "note": "Cách ĐỒNG Ý tự nhiên nhất. Chữ <i>No</i> ở đây nghĩa là “không phiền”." },
+                { "w": "Not at all", "vi": "không phiền gì cả", "ex": "“Do you mind if I open the window?” — “Not at all.”", "exvi": "“Tôi mở cửa sổ nhé?” — “Không sao cả.”" },
+                { "w": "Please do", "vi": "bạn cứ làm đi", "ex": "“Mind if I join you?” — “Please do!”", "exvi": "“Mình ngồi cùng nhé?” — “Mời bạn!”", "note": "Nồng nhiệt nhất — vừa đồng ý vừa mời mọc." },
+                { "w": "I'd rather you didn't", "vi": "tôi mong bạn đừng", "ex": "Sorry, I'd rather you didn't — I'm expecting someone.", "exvi": "Xin lỗi, tôi mong bạn đừng — tôi đang đợi người.", "note": "Cách TỪ CHỐI lịch sự. Cấu trúc ở [Khung 08]." },
+                { "w": "Would you mind if I + V2", "vi": "liệu tôi… có phiền không", "ex": "Would you mind if I left a little early?", "exvi": "Liệu tôi về sớm chút có phiền không ạ?", "note": "Đổi <i>Do</i> thành <i>Would</i> thì động từ phải lùi về QUÁ KHỨ." },
+                { "w": "if you don't mind", "vi": "nếu bạn không phiền", "ex": "I'll take this one, if you don't mind.", "exvi": "Tôi lấy cái này, nếu bạn không phiền.", "note": "Đặt cuối câu khẳng định — xin phép mà không cần đặt câu hỏi." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Excuse me, do you mind if I sit here?",
+                  "vi": "Xin lỗi, tôi ngồi đây có phiền không ạ?",
+                  "note": "Bối cảnh kinh điển: quán đông, chỉ còn ghế trống ở bàn người khác.",
+                  "reply": [
+                    { "them": "No, go ahead.", "themvi": "Không sao, bạn cứ ngồi.", "you": "Thanks a lot.", "youvi": "Cảm ơn bạn nhiều." },
+                    { "them": "Sorry, I'm saving it for a friend.", "themvi": "Xin lỗi, tôi giữ chỗ cho bạn tôi.", "you": "No problem at all.", "youvi": "Không sao đâu ạ." }
+                  ],
+                  "vars": [
+                    { "en": "Do you mind if I take this seat?", "vi": "Tôi ngồi chỗ này được không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Mind if I join you?",
+                  "vi": "Mình ngồi cùng nhé?",
+                  "note": "Dạng rút gọn, bỏ luôn <i>Do you</i>. Cực tự nhiên trong căng tin công ty.",
+                  "reply": [
+                    { "them": "Please do! Pull up a chair.", "themvi": "Mời bạn! Kéo ghế ngồi đi.", "you": "Thanks. How's your week going?", "youvi": "Cảm ơn nhé. Tuần này bạn thế nào?" }
+                  ],
+                  "close": { "en": "Good to catch up.", "vi": "Vui vì được nói chuyện với bạn." }
+                },
+                {
+                  "en": "Do you mind if we move to another table?",
+                  "vi": "Chúng tôi chuyển sang bàn khác có được không ạ?",
+                  "reply": [
+                    { "them": "Not at all. Which one would you like?", "themvi": "Không sao ạ. Anh/chị muốn bàn nào?", "you": "The one by the window, if it's free.", "youvi": "Bàn cạnh cửa sổ, nếu còn trống ạ." }
+                  ]
+                },
+                {
+                  "en": "Do you mind if I pay by card?",
+                  "vi": "Tôi trả bằng thẻ có được không ạ?",
+                  "reply": [
+                    { "them": "Of course not, the machine's here.", "themvi": "Tất nhiên rồi ạ, máy ở đây ạ.", "you": "Thank you.", "youvi": "Cảm ơn bạn." },
+                    { "them": "Sorry, we're cash only.", "themvi": "Xin lỗi, bên em chỉ nhận tiền mặt ạ.", "you": "Is there an ATM nearby?", "youvi": "Có máy ATM nào gần đây không ạ?" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Do you mind if I record this call for my notes?",
+                  "vi": "Tôi ghi âm cuộc gọi này để ghi chép có được không ạ?",
+                  "note": "Luôn phải hỏi trước khi ghi âm. Nêu lý do <i>for my notes</i> làm người kia yên tâm hơn nhiều.",
+                  "open": { "en": "Before we start —", "vi": "Trước khi mình bắt đầu —" },
+                  "reply": [
+                    { "them": "Not at all, that's fine.", "themvi": "Không sao đâu, được thôi.", "you": "Thank you. I'll delete it after.", "youvi": "Cảm ơn anh/chị. Xong tôi sẽ xóa." },
+                    { "them": "I'd rather you didn't, sorry.", "themvi": "Tôi mong anh/chị đừng, xin lỗi nhé.", "you": "No problem — I'll just take notes.", "youvi": "Không sao — tôi ghi chép tay vậy." }
+                  ]
+                },
+                {
+                  "en": "Do you mind if I leave a bit early today?",
+                  "vi": "Hôm nay tôi về sớm chút có phiền không ạ?",
+                  "note": "So với <i>I need to leave early</i> ở [Khung 03], câu này trao quyền quyết định cho người kia — hợp khi bạn không có lý do khẩn cấp.",
+                  "reply": [
+                    { "them": "Not at all. Anything urgent?", "themvi": "Không sao. Có việc gì gấp không?", "you": "Just a family thing, nothing serious.", "youvi": "Chỉ việc gia đình thôi ạ, không có gì nghiêm trọng." }
+                  ],
+                  "close": { "en": "Thanks — I'll finish the rest tonight.", "vi": "Cảm ơn anh/chị — phần còn lại em làm buổi tối." }
+                },
+                {
+                  "en": "Do you mind if I ask why the budget changed?",
+                  "vi": "Tôi hỏi vì sao ngân sách thay đổi có được không ạ?",
+                  "note": "Xin phép trước khi hỏi chuyện nhạy cảm — người kia có cơ hội chuẩn bị hoặc từ chối.",
+                  "reply": [
+                    { "them": "Good question. Sales came in lower.", "themvi": "Câu hỏi hay. Doanh số thấp hơn dự kiến.", "you": "That makes sense. Thanks for explaining.", "youvi": "Vậy là hợp lý. Cảm ơn anh/chị đã giải thích." }
+                  ],
+                  "vars": [
+                    { "en": "Do you mind if I ask what happened?", "vi": "Tôi hỏi chuyện gì đã xảy ra có được không?" }
+                  ]
+                },
+                {
+                  "en": "Do you mind if I go ahead and book the room?",
+                  "vi": "Tôi cứ đặt phòng họp luôn có được không?",
+                  "note": "<span class=\"k\">go ahead and + V</span> = cứ làm luôn, không chờ nữa. Xem [Khung 29].",
+                  "reply": [
+                    { "them": "Please do. Ten o'clock works.", "themvi": "Bạn cứ đặt đi. Mười giờ được đấy.", "you": "Booked. I'll send the invite.", "youvi": "Đặt rồi. Tôi gửi lời mời nhé." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Do you mind if I open the window?",
+                  "vi": "Tôi mở cửa sổ có phiền không?",
+                  "note": "Việc bạn làm ảnh hưởng tới người bên cạnh — đây chính là lúc phải hỏi thay vì cứ làm.",
+                  "reply": [
+                    { "them": "Not at all, it is stuffy in here.", "themvi": "Không sao cả, trong này bí thật.", "you": "Thanks.", "youvi": "Cảm ơn bạn." },
+                    { "them": "Actually, I'd rather you didn't — I've got a cold.", "themvi": "Thật ra tôi mong bạn đừng — tôi đang bị cảm.", "you": "Of course, no problem.", "youvi": "Tất nhiên rồi, không sao đâu." }
+                  ]
+                },
+                {
+                  "en": "Do you mind if I move your bag a little?",
+                  "vi": "Tôi dịch cái túi của bạn ra chút có được không?",
+                  "reply": [
+                    { "them": "Oh, sorry — let me do it.", "themvi": "Ồ, xin lỗi — để tôi dịch.", "you": "Thank you.", "youvi": "Cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "Do you mind if I go first? I'm in a bit of a rush.",
+                  "vi": "Tôi đi trước được không ạ? Tôi hơi vội.",
+                  "note": "Nêu lý do ngay sau câu hỏi thì tỉ lệ được đồng ý cao hơn hẳn.",
+                  "reply": [
+                    { "them": "Sure, go ahead.", "themvi": "Được chứ, mời bạn.", "you": "That's very kind, thank you.", "youvi": "Bạn tử tế quá, cảm ơn nhiều." }
+                  ],
+                  "close": { "en": "Thanks again — you saved me!", "vi": "Cảm ơn bạn lần nữa — bạn cứu tôi rồi!" }
+                },
+                {
+                  "en": "Would you mind if I sat by the window?",
+                  "vi": "Liệu tôi ngồi cạnh cửa sổ có phiền không?",
+                  "note": "Dùng <b>Would</b> nên động từ phải lùi về quá khứ: <i>sat</i>, không phải <i>sit</i>.",
+                  "reply": [
+                    { "them": "Not at all — I prefer the aisle anyway.", "themvi": "Không sao cả — tôi thích ngồi lối đi hơn mà.", "you": "Perfect, thank you.", "youvi": "Tuyệt, cảm ơn bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Do you mind if I bring a friend along?",
+                  "vi": "Tôi dẫn theo một người bạn có được không?",
+                  "note": "<span class=\"k\">bring someone along</span> = dẫn ai đi cùng. Luôn nên hỏi trước khi dẫn thêm người.",
+                  "reply": [
+                    { "them": "Not at all, the more the merrier.", "themvi": "Không sao, càng đông càng vui.", "you": "Great, I'll let her know.", "youvi": "Tuyệt, mình báo bạn ấy." },
+                    { "them": "It's quite a small table, sorry.", "themvi": "Bàn hơi nhỏ, xin lỗi nhé.", "you": "No problem, I'll come alone.", "youvi": "Không sao, mình đi một mình vậy." }
+                  ]
+                },
+                {
+                  "en": "Do you mind if I borrow your charger?",
+                  "vi": "Tôi mượn cục sạc của bạn nhé?",
+                  "reply": [
+                    { "them": "Go ahead, it's in my bag.", "themvi": "Cứ lấy đi, trong túi mình ấy.", "you": "Thanks, I'll give it back in ten.", "youvi": "Cảm ơn nhé, mười phút nữa mình trả." }
+                  ]
+                },
+                {
+                  "en": "How much did it cost, if you don't mind me asking?",
+                  "vi": "Nếu bạn không phiền thì cái đó giá bao nhiêu?",
+                  "note": "Đặt <i>if you don't mind me asking</i> ở CUỐI là cách hỏi chuyện tiền bạc nhẹ nhàng nhất.",
+                  "reply": [
+                    { "them": "About eight million.", "themvi": "Khoảng tám triệu.", "you": "That's not bad at all.", "youvi": "Vậy cũng được đấy chứ." },
+                    { "them": "I'd rather not say, actually.", "themvi": "Thật ra mình không tiện nói.", "you": "Of course, sorry I asked.", "youvi": "Tất nhiên rồi, xin lỗi vì đã hỏi." }
+                  ]
+                },
+                {
+                  "en": "Do you mind if I sit this one out?",
+                  "vi": "Lần này tôi xin phép không tham gia nhé?",
+                  "note": "<span class=\"k\">sit this one out</span> = bỏ qua lần này. Xin rút lui mà không phải giải thích lý do.",
+                  "reply": [
+                    { "them": "Of course not. Rest up.", "themvi": "Tất nhiên là không rồi. Nghỉ ngơi đi.", "you": "Thanks — next time for sure.", "youvi": "Cảm ơn nhé — lần sau chắc chắn tham gia." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Do you mind if I try this on?",
+                  "vi": "Tôi thử cái này có được không ạ?",
+                  "reply": [
+                    { "them": "Not at all — the fitting room's over there.", "themvi": "Không sao ạ — phòng thử ở đằng kia.", "you": "Thank you.", "youvi": "Cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "Do you mind if I take a photo of the label?",
+                  "vi": "Tôi chụp cái nhãn có phiền không ạ?",
+                  "note": "Nhiều cửa hàng không cho chụp ảnh — hỏi trước là an toàn nhất.",
+                  "reply": [
+                    { "them": "Go ahead, that's fine.", "themvi": "Anh/chị cứ chụp ạ, không sao.", "you": "Thanks, I just want to compare prices.", "youvi": "Cảm ơn, tôi chỉ muốn so giá thôi." }
+                  ]
+                },
+                {
+                  "en": "Do you mind if I think about it and come back?",
+                  "vi": "Tôi suy nghĩ thêm rồi quay lại có được không?",
+                  "note": "Cách rời cửa hàng lịch sự nhất — vừa xin phép vừa để ngỏ khả năng quay lại.",
+                  "reply": [
+                    { "them": "Of course, take your time.", "themvi": "Tất nhiên rồi ạ, anh/chị cứ thong thả.", "you": "Thanks for all your help.", "youvi": "Cảm ơn bạn đã tư vấn nhiệt tình." }
+                  ],
+                  "close": { "en": "I'll see you soon, hopefully.", "vi": "Hi vọng sớm gặp lại bạn." }
+                },
+                {
+                  "en": "Do you mind if I ask what the difference is?",
+                  "vi": "Tôi hỏi hai cái khác nhau thế nào có được không ạ?",
+                  "reply": [
+                    { "them": "Not at all — this one has a longer warranty.", "themvi": "Không sao ạ — cái này bảo hành lâu hơn.", "you": "And the price gap?", "youvi": "Còn chênh giá bao nhiêu ạ?" }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Quán cà phê đông khách",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Excuse me, do you mind if I sit here?", "vi": "Xin lỗi, tôi ngồi đây có phiền không ạ?" },
+            { "speaker": "Stranger", "en": "No, go ahead. It's free.", "vi": "Không sao, bạn cứ ngồi. Ghế trống mà." },
+            { "speaker": "You", "me": true, "en": "Thanks. And do you mind if I plug my laptop in here?", "vi": "Cảm ơn bạn. Với lại tôi cắm sạc laptop ở đây có phiền không?" },
+            { "speaker": "Stranger", "en": "Not at all.", "vi": "Không sao cả." },
+            { "speaker": "You", "me": true, "en": "Great. Sorry — one more. Do you mind if I move your cup slightly?", "vi": "Tuyệt. Xin lỗi — một điều nữa. Tôi dịch cái cốc của bạn chút có được không?" },
+            { "speaker": "Stranger", "en": "Oh, of course. Let me get it.", "vi": "Ồ, tất nhiên rồi. Để tôi lấy." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Xin phép trước một cuộc phỏng vấn",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Before we start, do you mind if I record this?", "vi": "Trước khi bắt đầu, tôi ghi âm buổi này có được không ạ?" },
+            { "speaker": "Client", "en": "What's it for?", "vi": "Để làm gì vậy?" },
+            { "speaker": "You", "me": true, "en": "Just for my notes. I'll delete it afterwards.", "vi": "Chỉ để tôi ghi chép thôi ạ. Xong tôi sẽ xóa." },
+            { "speaker": "Client", "en": "Not at all, then. Go ahead.", "vi": "Vậy thì không sao. Anh cứ ghi." },
+            { "speaker": "You", "me": true, "en": "Thank you. And do you mind if I ask a few personal questions later?", "vi": "Cảm ơn anh. Với lại lát tôi hỏi vài câu riêng tư có được không ạ?" },
+            { "speaker": "Client", "en": "Ask away. I'll tell you if I'd rather not answer.", "vi": "Cứ hỏi. Câu nào tôi không muốn trả lời thì tôi sẽ nói." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "“Do you mind if I sit here?” — “Yes.” <i>(ý: vâng, mời bạn)</i>", "right": "“Do you mind if I sit here?” — “No, go ahead.”", "why": "Câu hỏi là “có phiền không”, nên <b>Yes = có phiền = từ chối</b>. Cùng bẫy với [Khung 13]." },
+            { "wrong": "Would you mind if I sit here?", "right": "Would you mind if I sat here?", "why": "Dùng <b>Would</b> thì động từ phải lùi về <b>quá khứ</b>. Với <i>Do you mind</i> thì mới dùng hiện tại." },
+            { "wrong": "Do you mind if I to open the window?", "right": "Do you mind if I open the window?", "why": "Sau <i>if I</i> là động từ chia bình thường, không có <b>to</b>." },
+            { "wrong": "Do you mind if I ask you to something?", "right": "Do you mind if I ask you something?", "why": "Thừa <b>to</b>. <i>ask someone something</i> là cấu trúc đủ rồi." },
+            { "wrong": "Do you mind opening the window? <i>(ý: tôi muốn tự mở)</i>", "right": "Do you mind if I open the window?", "why": "Thiếu <b>if I</b> thì thành nhờ NGƯỜI KIA mở — đảo hẳn vai. Xem [Khung 13]." },
+            { "wrong": "No, I don't mind you. <i>(ý: không phiền đâu)</i>", "right": "No, not at all. / No, go ahead.", "why": "<i>I don't mind you</i> nghe rất lạ, như đang đánh giá con người họ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>Do you mind if I…?</code>", "Xin phép — nhã, hỏi về sự khó chịu", "<i>Do you mind if I sit here?</i>"],
+            ["<code>Would you mind if I + V2?</code>", "Xin phép — nhã hơn nữa", "<i>Would you mind if I sat here?</i>"],
+            ["<code>Mind if I…?</code>", "Rút gọn — thân mật", "<i>Mind if I join you?</i>"],
+            ["<code>Can I…?</code>", "Xin phép — thẳng, thân mật", "<i>Can I sit here?</i> — Xem [Khung 21]."],
+            ["<code>Is it OK if I…?</code>", "Xin phép — đời thường, trung tính", "<i>Is it OK if I sit here?</i> — Xem [Khung 22]."],
+            ["<code>May I…?</code>", "Xin phép — rất trang trọng", "<i>May I sit here?</i> — Hơi cổ khi nói đời thường."],
+            ["<code>Would you mind + V-ing?</code>", "Nhờ NGƯỜI KHÁC làm — khác vai", "<i>Would you mind sitting here?</i> — Xem [Khung 13]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang độ lịch sự — xin ngồi cùng bàn" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'll sit here.", "vi": "Không xin phép — dễ bị coi là thô" },
+            { "en": "Can I sit here?", "vi": "Thẳng — thân mật" },
+            { "en": "Is it OK if I sit here?", "vi": "Trung tính — đời thường" },
+            { "en": "Do you mind if I sit here?", "vi": "Nhã — người lạ" },
+            { "en": "Would you mind if I sat here?", "vi": "Nhã nhất — trang trọng" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Do you</b> nói nhanh thành <b>“djə”</b>: <i>Do you mind…</i> → “djə-MAIND”.",
+            "<b>mind if I</b> nối liền thành “MAIN-di-fai” — ba từ dính thành một khối, âm /d/ trượt sang <i>if</i>.",
+            "<b>Mind if I…?</b> dạng rút gọn chỉ còn “main-di-FAI” — rất nhanh, nghe quen mới bắt kịp.",
+            "<b>Would you mind if I</b> → “wu-jə-main-di-fai” — năm âm tiết nói liền một hơi.",
+            "<b>go ahead</b> nối thành “gow-ə-HED”, nhấn ở cuối.",
+            "Câu phải <b>lên giọng ở cuối</b> — đây là câu hỏi thật, người kia có quyền nói không."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Do you mind if I sit here?", "vi": "Luyện shadowing: nghe — nhại lại — lặp 5 lần cho trôi cụm “mind if I”." },
+            { "en": "No, go ahead. Not at all.", "vi": "Hai câu đồng ý chuẩn — lặp đến khi bật ra không cần nghĩ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi ngồi đây có phiền không ạ?", "blank": "__________ sit here?", "a": "Do you mind if I" },
+            { "vi": "Liệu tôi ngồi cạnh cửa sổ có phiền không?", "blank": "Would you mind if I __________ by the window?", "a": "sat (quá khứ sau “Would”)" },
+            { "vi": "“Tôi ngồi đây nhé?” — “Được, bạn cứ tự nhiên.”", "blank": "“Mind if I sit here?” — “__________.”", "a": "No, go ahead" },
+            { "vi": "Mình ngồi cùng nhé?", "blank": "__________ join you?", "a": "Mind if I" },
+            { "vi": "Nếu bạn không phiền thì cái đó giá bao nhiêu?", "blank": "How much was it, __________?", "a": "if you don't mind me asking" },
+            { "vi": "Xin lỗi, tôi mong bạn đừng.", "blank": "Sorry, __________.", "a": "I'd rather you didn't" },
+            { "vi": "Tôi ghi âm cuộc gọi này có được không ạ?", "blank": "__________ record this call?", "a": "Do you mind if I" },
+            { "vi": "“Mình ngồi cùng nhé?” — “Mời bạn!”", "blank": "“Mind if I join you?” — “__________!”", "a": "Please do" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi mở cửa sổ có phiền không?", "a": "Do you mind if I open the window?" },
+            { "vi": "2. Hôm nay tôi về sớm chút có phiền không ạ?", "a": "Do you mind if I leave a bit early today?" },
+            { "vi": "3. Tôi dẫn theo một người bạn có được không?", "a": "Do you mind if I bring a friend along?" },
+            { "vi": "4. Tôi hỏi bạn một chuyện riêng tư được không?", "a": "Do you mind if I ask you something personal?" },
+            { "vi": "5. Tôi suy nghĩ thêm rồi quay lại có được không?", "a": "Do you mind if I think about it and come back?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Nhớ vai bằng chữ “if I”:</b> có <i>if I</i> là <b>tôi</b> làm; không có là <b>bạn</b> làm. Đây là cách phân biệt nhanh nhất với [Khung 13].",
+            "<b>Nhớ thì bằng chữ đầu câu:</b> <i>Do</i> → động từ hiện tại. <i>Would</i> → động từ quá khứ. Không có ngoại lệ.",
+            "<b>Thuộc ba câu trả lời:</b> <i>No, go ahead.</i> / <i>Not at all.</i> / <i>Please do.</i> — cả ba đều nghĩa là “được”.",
+            "<b>Luôn kèm lý do khi xin việc lớn:</b> <i>Do you mind if I go first? I'm in a rush.</i> Một vế lý do ngắn tăng tỉ lệ đồng ý rõ rệt.",
+            "<b>Dùng “if you don't mind me asking” ở cuối câu:</b> đây là cách hỏi chuyện tiền bạc, tuổi tác, gia đình mà không sỗ sàng.",
+            "<b>Bài tập 3 phút:</b> nghĩ 5 việc bạn hay làm mà có ảnh hưởng tới người bên cạnh — mở cửa sổ, bật đèn, dịch đồ — và nói to bằng <i>Do you mind if I…?</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

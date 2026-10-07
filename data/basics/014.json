@@ -1,0 +1,134 @@
+{
+  "id": 14,
+  "title": "Động từ thường — và chữ -s của he/she/it",
+  "teaches": ["works", "lives", "eats", "drinks", "reads", "sleeps", "goes", "does", "watches", "studies", "plays", "likes", "wants", "needs", "speaks", "walks", "runs", "cooks", "buys", "helps", "teaches", "washes", "flies", "is", "are"],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn nói được <b>mọi việc làm hằng ngày</b>: <i>I work</i> · <i>She works</i> · <i>They go to school</i>." },
+        { "t": "p", "html": "Đến giờ bạn mới chỉ nói được câu có <code>to be</code> (bài 07). Bài này mở ra <b>tất cả các động từ còn lại</b> — ăn, uống, đi, làm, học, thích…" },
+        { "t": "callout", "html": "<b>Chỉ một thứ phải nhớ:</b> khi chủ ngữ là <b>he · she · it</b> (hoặc một người/vật số ít), động từ <b>phải thêm -s</b>.<br><br><i>I work.</i> · <i>You work.</i> · <i>We work.</i> · <i>They work.</i><br><i>He work<b>s</b>.</i> · <i>She work<b>s</b>.</i> · <i>It work<b>s</b>.</i><br><br>Sáu trong bảy trường hợp giữ nguyên. Chỉ ba đứa <i>he/she/it</i> là khác." }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "Bài 06 — bảy đại từ. Bài 10 — cách thêm <b>-s</b> vào danh từ, vì luật thêm <b>-s</b> vào động từ gần giống hệt." },
+        { "t": "p", "html": "<b>Cảnh báo một nhầm lẫn rất hay gặp:</b> chữ <b>-s</b> ở danh từ nghĩa là <i>nhiều</i>, nhưng chữ <b>-s</b> ở động từ lại nghĩa là <i>một</i>. Ngược nhau hoàn toàn." },
+        { "t": "link", "items": [
+          { "id": 6, "label": "Bài 06 — bảy đại từ" },
+          { "id": 10, "label": "Bài 10 — thêm -s vào danh từ" }
+        ] }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "table", "head": ["Luật", "Nghĩa là gì", "Ví dụ"], "rows": [
+          ["<b>1.</b> <b>he · she · it</b> → động từ thêm <b>-s</b>", "Chỉ ba đứa này thôi", "<i>She work<b>s</b>.</i>"],
+          ["<b>2.</b> Mọi chủ ngữ khác → <b>giữ nguyên</b>", "I · you · we · they đều vậy", "<i>They work.</i>"],
+          ["<b>3.</b> Danh từ cũng theo luật đó", "Một người như <i>he</i> · nhiều người như <i>they</i>", "<i>My father work<b>s</b>.</i>"]
+        ] },
+        { "t": "h3", "text": "Bảng chia — nhìn một lần là thấy" },
+        { "t": "table", "head": ["Chủ ngữ", "Động từ", "Ví dụ"], "rows": [
+          ["<b>I</b>", "work", "<i>I work at a bank.</i>"],
+          ["<b>You</b>", "work", "<i>You work very hard.</i>"],
+          ["<b>He</b>", "work<b>s</b>", "<i>He works here.</i>"],
+          ["<b>She</b>", "work<b>s</b>", "<i>She works at home.</i>"],
+          ["<b>It</b>", "work<b>s</b>", "<i>It works well.</i>"],
+          ["<b>We</b>", "work", "<i>We work together.</i>"],
+          ["<b>They</b>", "work", "<i>They work every day.</i>"]
+        ] },
+        { "t": "h3", "text": "Thêm -s thế nào" },
+        { "t": "table", "head": ["Đuôi động từ", "Làm gì", "Ví dụ"], "rows": [
+          ["Bình thường", "thêm <b>-s</b>", "work → work<b>s</b> · eat → eat<b>s</b>"],
+          ["<code>s · x · ch · sh · o</code>", "thêm <b>-es</b>", "watch → watch<b>es</b> · go → go<b>es</b>"],
+          ["phụ âm + <code>y</code>", "bỏ <code>y</code>, thêm <b>-ies</b>", "study → stud<b>ies</b> · fly → fl<b>ies</b>"],
+          ["nguyên âm + <code>y</code>", "chỉ thêm <b>-s</b>", "play → play<b>s</b> · buy → buy<b>s</b>"]
+        ] },
+        { "t": "callout", "html": "<b>Luật này giống hệt luật thêm -s vào danh từ ở bài 10.</b> Học một lần, dùng cho cả hai.<br><br>Chỉ khác ở <b>ý nghĩa</b>:<br>• danh từ + <b>-s</b> = <b>nhiều</b> (book<b>s</b> = nhiều quyển sách)<br>• động từ + <b>-s</b> = <b>một</b> (he work<b>s</b> = một người làm)" }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "Không thêm -s — I, you, we, they" },
+        { "t": "ex", "items": [
+          { "en": "I work every day.", "vi": "Ngày nào tôi cũng làm việc.", "note": "Chủ ngữ <b>I</b> — động từ giữ nguyên." },
+          { "en": "You speak English well.", "vi": "Bạn nói tiếng Anh giỏi.", "note": "Chủ ngữ <b>You</b> — giữ nguyên." },
+          { "en": "We live in Hue.", "vi": "Chúng tôi sống ở Huế.", "note": "Chủ ngữ <b>We</b> — giữ nguyên." },
+          { "en": "They go to school.", "vi": "Họ đi học.", "note": "Chủ ngữ <b>They</b> — giữ nguyên." },
+          { "en": "I eat rice every day.", "vi": "Ngày nào tôi cũng ăn cơm.", "note": "Cùng luật." },
+          { "en": "My parents work in a shop.", "vi": "Bố mẹ tôi làm ở một cửa hàng.", "note": "Danh từ số nhiều — như <i>they</i>, giữ nguyên." }
+        ] },
+        { "t": "h3", "text": "Thêm -s — he, she, it" },
+        { "t": "ex", "items": [
+          { "en": "He works here.", "vi": "Anh ấy làm ở đây.", "note": "<b>He</b> → thêm <b>-s</b>." },
+          { "en": "She reads a book every night.", "vi": "Tối nào cô ấy cũng đọc sách.", "note": "<b>She</b> → <i>reads</i>." },
+          { "en": "It sleeps all day.", "vi": "Nó ngủ cả ngày.", "note": "Con vật dùng <b>It</b> → <i>sleeps</i>." },
+          { "en": "My father drives a car.", "vi": "Bố tôi lái ô tô.", "note": "Một người — như <i>he</i>, thêm <b>-s</b>." },
+          { "en": "My mother cooks dinner.", "vi": "Mẹ tôi nấu bữa tối.", "note": "Cùng luật." },
+          { "en": "The shop opens at eight.", "vi": "Cửa hàng mở lúc tám giờ.", "note": "Vật số ít — như <i>it</i>." }
+        ] },
+        { "t": "h3", "text": "Thêm -es hoặc đổi chữ" },
+        { "t": "ex", "items": [
+          { "en": "He goes to work by bus.", "vi": "Anh ấy đi làm bằng xe buýt.", "note": "Đuôi <code>o</code> → <b>goes</b>." },
+          { "en": "She watches TV at night.", "vi": "Buổi tối cô ấy xem ti vi.", "note": "Đuôi <code>ch</code> → <b>watches</b>." },
+          { "en": "He washes his hands.", "vi": "Anh ấy rửa tay.", "note": "Đuôi <code>sh</code> → <b>washes</b>." },
+          { "en": "She studies English.", "vi": "Cô ấy học tiếng Anh.", "note": "Phụ âm + <code>y</code> → <b>studies</b>." },
+          { "en": "He plays with the children.", "vi": "Anh ấy chơi với bọn trẻ.", "note": "Nguyên âm + <code>y</code> → chỉ thêm <b>-s</b>." },
+          { "en": "She buys fruit every week.", "vi": "Tuần nào cô ấy cũng mua trái cây.", "note": "Cùng luật với <i>plays</i>." },
+          { "en": "My teacher teaches very well.", "vi": "Thầy tôi dạy rất hay.", "note": "Đuôi <code>ch</code> → <b>teaches</b>." }
+        ] },
+        { "t": "h3", "text": "Đặt cạnh nhau để thấy rõ" },
+        { "t": "ex", "items": [
+          { "en": "I work. — He works.", "vi": "Tôi làm việc. — Anh ấy làm việc.", "note": "Cùng một việc, chỉ khác chủ ngữ." },
+          { "en": "We eat rice. — She eats rice.", "vi": "Chúng tôi ăn cơm. — Cô ấy ăn cơm.", "note": "Chỉ <i>she</i> mới thêm <b>-s</b>." },
+          { "en": "They go to school. — He goes to school.", "vi": "Họ đi học. — Cậu ấy đi học.", "note": "<i>go</i> → <b>goes</b>." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — thêm -s hay không" },
+        { "t": "quiz", "items": [
+          { "vi": "Tôi làm việc mỗi ngày.", "blank": "I ___ every day.", "a": "work — chủ ngữ I thì giữ nguyên" },
+          { "vi": "Anh ấy làm ở đây.", "blank": "He ___ here.", "a": "works — he thì thêm -s" },
+          { "vi": "Họ đi học.", "blank": "They ___ to school.", "a": "go" },
+          { "vi": "Cô ấy đọc sách.", "blank": "She ___ a book.", "a": "reads" },
+          { "vi": "Bố tôi lái ô tô.", "blank": "My father ___ a car.", "a": "drives — một người, như he" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — chia đúng dạng" },
+        { "t": "quiz", "items": [
+          { "vi": "He + go → ?", "a": "He goes — đuôi o thêm -es" },
+          { "vi": "She + watch → ?", "a": "She watches — đuôi ch thêm -es" },
+          { "vi": "She + study → ?", "a": "She studies — bỏ y thêm -ies" },
+          { "vi": "He + play → ?", "a": "He plays — nguyên âm + y thì chỉ thêm -s" }
+        ] },
+        { "t": "h3", "text": "Phần 3 — hiểu quy tắc" },
+        { "t": "quiz", "items": [
+          { "vi": "Những chủ ngữ nào làm động từ thêm -s?", "a": "he · she · it — và danh từ số ít" },
+          { "vi": "<b>-s</b> ở danh từ và <b>-s</b> ở động từ khác nhau thế nào?", "a": "Danh từ + s = NHIỀU · động từ + s = MỘT. Ngược nhau." },
+          { "vi": "Tự nói ba câu về gia đình bạn, dùng đúng -s.", "a": "Ví dụ: <i>My father works. My parents live in Hue. My sister studies English.</i>" }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>Chỉ <code>he · she · it</code> mới thêm <code>-s</code>.</b> Sáu trong bảy trường hợp giữ nguyên — nhớ ba đứa ngoại lệ là đủ.",
+          "<b>Danh từ số ít cũng tính là <code>he/it</code>.</b> <i>My father work<b>s</b></i> · <i>The shop open<b>s</b></i>.",
+          "<b><code>-s</code> ở danh từ nghĩa là nhiều, <code>-s</code> ở động từ nghĩa là một.</b> Ngược nhau — đây là chỗ dễ lẫn nhất."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "<i>He work here.</i>", "right": "<i>He works here.</i>", "why": "Đây là lỗi phổ biến nhất của người Việt trong cả năm đầu. Tiếng Việt không đổi động từ theo chủ ngữ bao giờ, nên chữ <b>-s</b> này hoàn toàn xa lạ — phải tập thành phản xạ chứ không thể suy ra." },
+          { "wrong": "<i>They works here.</i>", "right": "<i>They work here.</i>", "why": "Lỗi ngược lại: thêm <b>-s</b> ở chỗ không cần. Hay xảy ra khi người học vừa mới nhớ ra luật rồi áp cho tất cả. Chỉ <i>he/she/it</i> thôi." },
+          { "wrong": "<i>My parents works in a shop.</i>", "right": "<i>My parents work in a shop.</i>", "why": "<i>parents</i> là số nhiều nên giống <i>they</i> — động từ giữ nguyên. Nhìn danh từ có <b>-s</b> rồi vội thêm <b>-s</b> cho động từ là sai: hai chữ <b>-s</b> này nghĩa ngược nhau." }
+        ] }
+      ]
+    }
+  ]
+}

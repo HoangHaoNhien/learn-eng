@@ -1,0 +1,123 @@
+{
+  "id": 11,
+  "title": "a và an — nhắc tới lần đầu",
+  "teaches": ["an", "apple", "egg", "hour", "umbrella", "is", "are", "books", "eggs", "apples", "cats", "friends", "teachers", "nurse", "driver", "Vietnamese", "university", "honest"],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn biết khi nào đặt <b>a</b> hoặc <b>an</b> trước danh từ, và vì sao câu <i>I am student</i> nghe sai tai người bản xứ." },
+        { "t": "p", "html": "Nhắc lại từ bài 04: <b>mạo từ</b> là những chữ nhỏ đứng trước danh từ. Tiếng Anh có ba chữ: <b>a</b>, <b>an</b>, <b>the</b>. Bài này học hai chữ đầu, <b>the</b> để bài 12." },
+        { "t": "callout", "html": "<b>Tiếng Việt không có mạo từ,</b> nên đây là thứ hoàn toàn mới — không phải “học lại” mà là “học thêm”.<br><br>Gần nhất là chữ <i>một</i>: <i>Tôi là <b>một</b> sinh viên.</i> Nhưng tiếng Việt bỏ chữ <i>một</i> vẫn đúng, còn tiếng Anh thì <b>không được bỏ</b>." }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "Bài 10 — số ít và số nhiều. Luật quan trọng: <b>a / an chỉ đi với danh từ số ít đếm được</b>. Số nhiều thì không dùng, không đếm được cũng không dùng." },
+        { "t": "p", "html": "Bài 02 — nguyên âm. Chọn <b>a</b> hay <b>an</b> phụ thuộc vào <b>âm</b> chứ không phải chữ viết, nên biết nguyên âm là gì sẽ dễ hơn." },
+        { "t": "link", "items": [
+          { "id": 10, "label": "Bài 10 — số ít và số nhiều" },
+          { "id": 2, "label": "Bài 02 — nguyên âm" }
+        ] }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "table", "head": ["Luật", "Nghĩa là gì", "Ví dụ"], "rows": [
+          ["<b>1.</b> Danh từ số ít đếm được thì <b>phải</b> có mạo từ", "Không được để trống", "<i>I am <b>a</b> student.</i>"],
+          ["<b>2.</b> Trước <b>âm</b> nguyên âm → dùng <b>an</b>", "Nghe âm, đừng nhìn chữ", "<b>an</b> apple · <b>an</b> hour"],
+          ["<b>3.</b> Số nhiều và không đếm được → <b>không</b> dùng", "Để trống mới đúng", "<i>I like books.</i> · <i>I drink water.</i>"]
+        ] },
+        { "t": "h3", "text": "Chọn a hay an — nghe âm đầu" },
+        { "t": "table", "head": ["Âm đầu là", "Dùng", "Ví dụ"], "rows": [
+          ["Phụ âm", "<b>a</b>", "a book · a cat · a teacher · a dog"],
+          ["Nguyên âm", "<b>an</b>", "an apple · an egg · an orange"],
+          ["Chữ <code>h</code> CÂM → nghe ra nguyên âm", "<b>an</b>", "<b>an</b> hour <i>/ˈaʊə/</i> · <b>an</b> honest man"],
+          ["Chữ <code>u</code> đọc <i>/juː/</i> → nghe ra phụ âm", "<b>a</b>", "<b>a</b> university <i>/ˌjuːnɪˈvɜːsəti/</i>"]
+        ] },
+        { "t": "callout", "html": "<b>Vì sao có hai chữ?</b> Chỉ để dễ đọc thôi.<br><br>Thử nói nhanh <i>“a apple”</i> — hai nguyên âm dính nhau, miệng bị vấp. Nói <i>“an apple”</i> thì trôi.<br><br>Nên đừng học thuộc danh sách. Cứ <b>thử nói ra miệng</b>: vấp thì dùng <b>an</b>." }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "Dùng a — âm đầu là phụ âm" },
+        { "t": "ex", "items": [
+          { "en": "I have a book.", "vi": "Tôi có một quyển sách.", "note": "<i>book</i> bắt đầu bằng âm /b/." },
+          { "en": "She is a teacher.", "vi": "Cô ấy là giáo viên.", "note": "Nói nghề nghiệp thì bắt buộc có mạo từ." },
+          { "en": "He is a doctor.", "vi": "Anh ấy là bác sĩ.", "note": "Cùng luật." },
+          { "en": "I want a cup of tea.", "vi": "Tôi muốn một tách trà.", "note": "Đếm cái tách chứ không đếm trà." },
+          { "en": "There is a cat here.", "vi": "Có một con mèo ở đây.", "note": "Nhắc tới lần đầu nên dùng <b>a</b>." },
+          { "en": "I need a pen.", "vi": "Tôi cần một cây bút.", "note": "Bất kỳ cây bút nào cũng được." }
+        ] },
+        { "t": "h3", "text": "Dùng an — âm đầu là nguyên âm" },
+        { "t": "ex", "items": [
+          { "en": "I want an apple.", "vi": "Tôi muốn một quả táo.", "note": "<i>apple</i> bắt đầu bằng âm /æ/." },
+          { "en": "I eat an egg every morning.", "vi": "Sáng nào tôi cũng ăn một quả trứng.", "note": "<i>egg</i> bắt đầu bằng /e/." },
+          { "en": "She eats an orange.", "vi": "Cô ấy ăn một quả cam.", "note": "<i>orange</i> bắt đầu bằng /ɒ/." },
+          { "en": "I wait an hour.", "vi": "Tôi đợi một tiếng.", "note": "<i>hour</i> viết bằng <code>h</code> nhưng chữ đó CÂM — nghe ra /ˈaʊə/." },
+          { "en": "He is an honest man.", "vi": "Anh ấy là người trung thực.", "note": "<i>honest</i> cũng có <code>h</code> câm." }
+        ] },
+        { "t": "h3", "text": "Khi KHÔNG dùng mạo từ" },
+        { "t": "ex", "items": [
+          { "en": "I like books.", "vi": "Tôi thích sách.", "note": "Số nhiều — không dùng <b>a</b>." },
+          { "en": "They are teachers.", "vi": "Họ là giáo viên.", "note": "Số nhiều nên bỏ mạo từ." },
+          { "en": "I drink water.", "vi": "Tôi uống nước.", "note": "Không đếm được — không dùng mạo từ." },
+          { "en": "I eat rice every day.", "vi": "Ngày nào tôi cũng ăn cơm.", "note": "<i>rice</i> không đếm được." },
+          { "en": "I don't have money.", "vi": "Tôi không có tiền.", "note": "<i>money</i> không đếm được." },
+          { "en": "I am Vietnamese.", "vi": "Tôi là người Việt.", "note": "Quốc tịch dùng như tính từ nên không cần mạo từ." }
+        ] },
+        { "t": "h3", "text": "So sánh ba trường hợp cạnh nhau" },
+        { "t": "ex", "items": [
+          { "en": "I have a cat.", "vi": "Tôi có một con mèo.", "note": "Một con — số ít đếm được." },
+          { "en": "I have cats.", "vi": "Tôi có mấy con mèo.", "note": "Nhiều con — bỏ mạo từ, thêm <b>-s</b>." },
+          { "en": "I am a nurse.", "vi": "Tôi là y tá.", "note": "Một người — có mạo từ." },
+          { "en": "We are nurses.", "vi": "Chúng tôi là y tá.", "note": "Nhiều người — bỏ mạo từ, thêm <b>-s</b>." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — chọn a hay an" },
+        { "t": "quiz", "items": [
+          { "vi": "một quyển sách", "blank": "___ book", "a": "a — âm /b/ là phụ âm" },
+          { "vi": "một quả táo", "blank": "___ apple", "a": "an — âm /æ/ là nguyên âm" },
+          { "vi": "một quả trứng", "blank": "___ egg", "a": "an" },
+          { "vi": "một con chó", "blank": "___ dog", "a": "a" },
+          { "vi": "một tiếng đồng hồ", "blank": "___ hour", "a": "an — chữ h CÂM nên nghe ra nguyên âm" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — có dùng mạo từ không" },
+        { "t": "quiz", "items": [
+          { "vi": "Tôi thích sách.", "a": "I like books. — số nhiều nên KHÔNG dùng mạo từ" },
+          { "vi": "Tôi uống nước.", "a": "I drink water. — không đếm được nên KHÔNG dùng" },
+          { "vi": "Cô ấy là giáo viên.", "a": "She is a teacher. — số ít đếm được nên PHẢI dùng" },
+          { "vi": "Họ là giáo viên.", "a": "They are teachers. — số nhiều nên bỏ mạo từ" }
+        ] },
+        { "t": "h3", "text": "Phần 3 — hiểu quy tắc" },
+        { "t": "quiz", "items": [
+          { "vi": "Vì sao <i>an hour</i> dùng <b>an</b> dù viết bằng chữ h?", "a": "Vì chọn theo ÂM, mà chữ h trong <i>hour</i> là câm" },
+          { "vi": "Vì sao <i>I am student</i> sai?", "a": "Danh từ số ít đếm được phải có mạo từ — <i>I am a student</i>" },
+          { "vi": "Cách nhanh nhất để biết dùng a hay an?", "a": "Nói thành tiếng — vấp miệng thì dùng <b>an</b>" }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>Danh từ số ít đếm được thì bắt buộc có mạo từ.</b> <i>I am a student</i>, không bao giờ <i>I am student</i>.",
+          "<b>Chọn theo ÂM, không theo chữ viết.</b> <i>an hour</i> (h câm) · <i>a university</i> (đọc /juː/ nên là phụ âm).",
+          "<b>Số nhiều và không đếm được thì bỏ hẳn.</b> <i>I like books</i> · <i>I drink water</i>."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "<i>I am student.</i>", "right": "<i>I am a student.</i>", "why": "Tiếng Việt nói <i>“Tôi là sinh viên”</i> không cần chữ <i>một</i>, nên người Việt hay bỏ luôn mạo từ trong tiếng Anh. Nhưng với danh từ số ít đếm được thì mạo từ là bắt buộc, không phải tuỳ chọn." },
+          { "wrong": "<i>I want a apple.</i>", "right": "<i>I want an apple.</i>", "why": "Hai nguyên âm dính nhau làm miệng vấp. Cứ thử nói to <i>“a apple”</i> là thấy ngay — đó chính là lý do tồn tại của chữ <b>an</b>." },
+          { "wrong": "<i>I drink a water.</i>", "right": "<i>I drink water.</i>", "why": "<i>water</i> không đếm được nên không đi với <b>a</b>. Muốn đếm thì đếm vật đựng: <i>a glass of water</i>." }
+        ] }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "id": 22,
+  "group": "Nhóm 2 · Danh từ, mạo từ & lượng từ",
+  "title": "some · any · much · many · a few",
+  "subtitle": "Nhóm lượng từ tách đôi theo hai trục cùng lúc: danh từ đếm được hay không, và câu khẳng định hay phủ định. Bẫy tinh vi nhất là some vẫn dùng được trong câu hỏi — khi đó là lời mời chứ không phải câu hỏi thật.",
+  "meaning": "Nói về số lượng khi không cần con số chính xác",
+  "rule": [
+    "<em>some</em> — khẳng định · <em>any</em> — phủ định & câu hỏi",
+    "<em>many/a few</em> — đếm được · <em>much/a little</em> — không đếm được",
+    "<em>a lot of</em> — dùng được cho cả hai"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2–B1", "hot": true },
+    { "text": "some trong lời mời" },
+    { "text": "a few ≠ few" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [65, 87, 89, 99, 100],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Nhóm lượng từ này chia theo <b>hai trục cùng lúc</b>. Trục thứ nhất: danh từ <b>đếm được hay không</b> (xem [Ngữ pháp 19]). Trục thứ hai: câu <b>khẳng định hay phủ định</b>. Chọn đúng cả hai trục thì câu mới tự nhiên." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — <i>some</i> hay <i>any</i>:</b><br>• <b>some</b> trong câu KHẲNG ĐỊNH — <i>There's <b>some</b> water.</i><br>• <b>any</b> trong câu PHỦ ĐỊNH và CÂU HỎI — <i>There isn't <b>any</b> water. · Is there <b>any</b> water?</i><br>Nhưng có ngoại lệ quan trọng ở callout dưới." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>some</i> trong câu hỏi là LỜI MỜI:</b><br>• <i>Would you like <b>some</b> coffee?</i> ✓ — mời uống, mong câu trả lời có.<br>• <i>Is there <b>any</b> coffee?</i> ✓ — hỏi thật, chưa biết có hay không.<br>Dùng <i>any</i> khi mời thì nghe lạnh lùng và xa cách." },
+        { "t": "h3", "text": "Bốn ô của bảng" },
+        {
+          "t": "table",
+          "head": ["Loại câu", "Đếm được", "Không đếm được"],
+          "rows": [
+            ["Khẳng định — nhiều", "<code>a lot of books</code>", "<code>a lot of water</code>"],
+            ["Phủ định & câu hỏi — nhiều", "<code>many books</code>", "<code>much water</code>"],
+            ["Một ít (tích cực)", "<code>a few books</code>", "<code>a little water</code>"],
+            ["Rất ít (tiêu cực)", "<code>few books</code>", "<code>little water</code>"]
+          ]
+        },
+        { "t": "p", "html": "Lưu ý: trong câu <b>khẳng định</b>, người bản xứ ít dùng <i>much</i> và <i>many</i> — họ nói <b>a lot of</b>. <i>I have much money</i> nghe rất cứng; <i>I have a lot of money</i> ✓ mới tự nhiên. Nhưng trong phủ định và câu hỏi thì <i>much/many</i> lại hoàn toàn bình thường." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Tình huống", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Khẳng định — một ít", "<code>some + N</code>", "There's some water."],
+            ["Phủ định", "<code>not any + N</code>", "There isn't any water."],
+            ["Câu hỏi thật", "<code>any + N?</code>", "Is there any water?"],
+            ["LỜI MỜI (câu hỏi)", "<code>some + N?</code>", "Would you like some coffee?"],
+            ["Phủ định gọn", "<code>no + N</code>", "There's no water."],
+            ["Nhiều — khẳng định", "<code>a lot of + N</code>", "I have a lot of work."],
+            ["Nhiều — phủ định & hỏi", "<code>much / many</code>", "I don't have much time."],
+            ["Hỏi số lượng", "<code>How much / How many?</code>", "How much time do you have?"],
+            ["Một ít — đếm được", "<code>a few + N số nhiều</code>", "I have a few friends."],
+            ["Một ít — không đếm được", "<code>a little + N</code>", "I have a little time."],
+            ["Rất ít (tiêu cực)", "<code>few / little</code>", "I have little time."],
+            ["Bất kỳ (khẳng định)", "<code>any + N</code>", "Any day is fine."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dòng cuối là nghĩa thứ hai của <i>any</i>:</b> trong câu khẳng định, <b>any</b> nghĩa là <b>bất kỳ cái nào cũng được</b> — <i><b>Any</b> day is fine</i> = ngày nào cũng được. Khác hẳn nghĩa phủ định." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "There's some water in the fridge.", "vi": "Trong tủ lạnh có ít nước.", "note": "<b>some</b> trong câu khẳng định. Xem [Khung 100]." },
+            { "en": "There isn't any milk left.", "vi": "Không còn chút sữa nào.", "note": "Phủ định dùng <b>any</b>, không dùng <i>some</i>." },
+            { "en": "Is there any coffee?", "vi": "Có cà phê không?", "note": "Câu hỏi THẬT — chưa biết có hay không." },
+            { "en": "Would you like some coffee?", "vi": "Bạn uống cà phê nhé?", "note": "BẪY SỐ HAI: đây là LỜI MỜI nên dùng <b>some</b>, dù là câu hỏi." },
+            { "en": "I don't have much time today.", "vi": "Hôm nay tôi không có nhiều thời gian.", "note": "<b>much</b> trong phủ định là tự nhiên." },
+            { "en": "I have a lot of work today.", "vi": "Hôm nay tôi có nhiều việc.", "note": "Khẳng định thì dùng <b>a lot of</b>, không dùng <i>much</i>." },
+            { "en": "How many bags do you have?", "vi": "Bạn có mấy cái túi?", "note": "<i>bags</i> đếm được nên dùng <b>how many</b>. Xem [Khung 65]." },
+            { "en": "How much luggage do you have?", "vi": "Bạn có bao nhiêu hành lý?", "note": "<i>luggage</i> không đếm được nên dùng <b>how much</b>." },
+            { "en": "I have a few friends here.", "vi": "Mình có vài người bạn ở đây.", "note": "<b>a few</b> nghe TÍCH CỰC — có một số." },
+            { "en": "I have few friends here.", "vi": "Mình có rất ít bạn ở đây.", "note": "Bỏ chữ <i>a</i> là nghe TIÊU CỰC — gần như không có." },
+            { "en": "There's no milk left.", "vi": "Hết sữa rồi.", "note": "<b>no + danh từ</b> = <i>not any</i>, nhưng gọn hơn." },
+            { "en": "Any day next week is fine.", "vi": "Tuần sau ngày nào cũng được.", "note": "<b>any</b> trong khẳng định = BẤT KỲ cái nào." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "✅", "title": "Nói có một ít", "text": "<i>There's some water.</i> Khẳng định dùng <b>some</b>." },
+            { "icon": "❌", "title": "Nói không có", "text": "<i>There isn't any milk.</i> Phủ định dùng <b>any</b>." },
+            { "icon": "☕", "title": "Mời ai đó", "text": "<i>Would you like some coffee?</i> Lời mời dùng <b>some</b>." },
+            { "icon": "❓", "title": "Hỏi số lượng", "text": "<i>How much / How many?</i> Xem [Khung 65]." },
+            { "icon": "🤷", "title": "Nói bất kỳ cũng được", "text": "<i>Any day is fine.</i> Nghĩa thứ hai của <b>any</b>." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "<i>much/many</i> trong câu khẳng định. Lúc đó dùng <i>a lot of</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "some · any · no",
+              "items": [
+                { "w": "some", "vi": "một ít, một vài", "ex": "There's some water in the fridge.", "exvi": "Trong tủ lạnh có ít nước.", "note": "Dùng trong câu KHẲNG ĐỊNH, cho cả đếm được lẫn không đếm được." },
+                { "w": "some (lời mời)", "vi": "một ít (mời)", "ex": "Would you like some coffee?", "exvi": "Bạn uống cà phê nhé?", "note": "BẪY SỐ HAI: câu hỏi nhưng là LỜI MỜI nên dùng <b>some</b>." },
+                { "w": "some (đề nghị)", "vi": "một ít (xin)", "ex": "Could I have some water?", "exvi": "Cho tôi xin ít nước được không?", "note": "Xin xỏ cũng dùng <b>some</b> — mong câu trả lời có." },
+                { "w": "any (phủ định)", "vi": "chút nào", "ex": "There isn't any milk left.", "exvi": "Không còn chút sữa nào." },
+                { "w": "any (câu hỏi)", "vi": "có… không?", "ex": "Is there any coffee?", "exvi": "Có cà phê không?", "note": "Câu hỏi THẬT — chưa biết có hay không." },
+                { "w": "any (khẳng định)", "vi": "bất kỳ", "ex": "Any day next week is fine.", "exvi": "Tuần sau ngày nào cũng được.", "note": "Nghĩa THỨ HAI của <i>any</i> — bất kỳ cái nào cũng được." },
+                { "w": "no + danh từ", "vi": "không có", "ex": "There's no milk left.", "exvi": "Hết sữa rồi.", "note": "<b>no</b> = <i>not any</i> nhưng gọn hơn. Động từ ở dạng KHẲNG ĐỊNH." },
+                { "w": "none", "vi": "không cái nào", "ex": "None of them came.", "exvi": "Không ai trong số họ đến.", "note": "Đứng một mình, không cần danh từ theo sau." },
+                { "w": "something / anything", "vi": "cái gì đó / bất cứ gì", "ex": "Is there anything I can do?", "exvi": "Có gì tôi giúp được không?", "note": "Cùng luật: <i>something</i> khẳng định, <i>anything</i> phủ định và câu hỏi." },
+                { "w": "somewhere / anywhere", "vi": "đâu đó / bất cứ đâu", "ex": "Let's go somewhere quiet.", "exvi": "Mình đi chỗ nào yên tĩnh đi." },
+                { "w": "someone / anyone", "vi": "ai đó / bất cứ ai", "ex": "Is there anyone here?", "exvi": "Có ai ở đây không?" },
+                { "w": "somebody else", "vi": "người khác", "ex": "Ask somebody else.", "exvi": "Hỏi người khác đi.", "note": "<b>else</b> đứng SAU các từ này: <i>something else</i>, <i>anywhere else</i>." }
+              ]
+            },
+            {
+              "title": "much · many · a few · a little",
+              "items": [
+                { "w": "many + đếm được", "vi": "nhiều", "ex": "I don't have many friends here.", "exvi": "Tôi không có nhiều bạn ở đây.", "note": "Tự nhiên nhất trong PHỦ ĐỊNH và CÂU HỎI." },
+                { "w": "much + không đếm được", "vi": "nhiều", "ex": "I don't have much time.", "exvi": "Tôi không có nhiều thời gian.", "note": "<i>I have much time</i> nghe rất cứng — khẳng định thì dùng <i>a lot of</i>." },
+                { "w": "a lot of", "vi": "nhiều (cả hai loại)", "ex": "I have a lot of work today.", "exvi": "Hôm nay tôi có nhiều việc.", "note": "An toàn nhất — đi được với CẢ HAI loại danh từ, mọi loại câu." },
+                { "w": "lots of", "vi": "nhiều (thân mật)", "ex": "There were lots of people.", "exvi": "Có nhiều người lắm.", "note": "Khẩu ngữ hơn <i>a lot of</i>, nghĩa như nhau." },
+                { "w": "plenty of", "vi": "thừa sức, dư dả", "ex": "There's plenty of time.", "exvi": "Còn khối thời gian.", "note": "Mang ý TRẤN AN: nhiều hơn mức cần." },
+                { "w": "a few + đếm được", "vi": "một vài (tích cực)", "ex": "I have a few friends here.", "exvi": "Mình có vài người bạn ở đây." },
+                { "w": "a little + không đếm được", "vi": "một ít (tích cực)", "ex": "I have a little time.", "exvi": "Tôi có chút thời gian." },
+                { "w": "few (không có a)", "vi": "rất ít (tiêu cực)", "ex": "I have few friends here.", "exvi": "Mình có rất ít bạn ở đây.", "note": "Bỏ chữ <i>a</i> là đổi hẳn sắc thái — nghe gần như không có." },
+                { "w": "little (không có a)", "vi": "rất ít (tiêu cực)", "ex": "I have little time today.", "exvi": "Hôm nay tôi có rất ít thời gian." },
+                { "w": "quite a few", "vi": "khá nhiều", "ex": "Quite a few people came.", "exvi": "Khá nhiều người đã đến.", "note": "BẪY NGƯỢC ĐỜI: <i>quite a few</i> nghĩa là NHIỀU, không phải ít." },
+                { "w": "How much…?", "vi": "bao nhiêu? (không đếm được)", "ex": "How much time do you have?", "exvi": "Bạn có bao nhiêu thời gian? Xem [Khung 65]." },
+                { "w": "How many…?", "vi": "mấy? (đếm được)", "ex": "How many bags do you have?", "exvi": "Bạn có mấy cái túi?" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "There isn't <b>some</b> milk.", "right": "There isn't <b>any</b> milk.", "why": "BẪY SỐ MỘT: câu PHỦ ĐỊNH dùng <b>any</b>, không dùng <i>some</i>." },
+            { "wrong": "Would you like <b>any</b> coffee?", "right": "Would you like <b>some</b> coffee?", "why": "BẪY SỐ HAI: đây là LỜI MỜI nên dùng <b>some</b>. Dùng <i>any</i> nghe lạnh lùng và xa cách." },
+            { "wrong": "I have <b>much</b> work today.", "right": "I have <b>a lot of</b> work today.", "why": "Trong câu KHẲNG ĐỊNH, <i>much</i> nghe rất cứng. Người bản xứ dùng <b>a lot of</b>." },
+            { "wrong": "He gave me many <b>advice</b>.", "right": "He gave me a lot of <b>advice</b>.", "why": "<i>advice</i> không đếm được nên không đi với <i>many</i>. Xem [Ngữ pháp 19]." },
+            { "wrong": "<b>How many</b> time do you have?", "right": "<b>How much</b> time do you have?", "why": "<i>time</i> không đếm được nên hỏi bằng <b>how much</b>." },
+            { "wrong": "I have <b>few</b> friends here, so I'm never lonely.", "right": "I have <b>a few</b> friends here.", "why": "Bỏ chữ <i>a</i> là đổi hẳn sắc thái: <b>few</b> = rất ít, gần như không có." },
+            { "wrong": "There's <b>not no</b> milk.", "right": "There's <b>no</b> milk. / There <b>isn't any</b> milk.", "why": "<b>no</b> đã mang nghĩa phủ định nên động từ giữ dạng KHẲNG ĐỊNH." },
+            { "wrong": "Is there <b>something</b> I can do?", "right": "Is there <b>anything</b> I can do?", "why": "Câu hỏi thật thì dùng <b>anything</b>. Nhưng <i>Would you like something to drink?</i> ✓ vì đó là lời mời." },
+            { "wrong": "I don't have <b>a lot of</b> many friends.", "right": "I don't have many friends.", "why": "Không dùng hai lượng từ cùng lúc. Chọn một trong hai." },
+            { "wrong": "<b>Quite a few</b> people came — only three.", "right": "<b>A few</b> people came — only three.", "why": "BẪY NGƯỢC ĐỜI: <i>quite a few</i> nghĩa là KHÁ NHIỀU, không phải ít." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Từ", "Loại câu & danh từ", "Ví dụ"],
+          "rows": [
+            ["<code>some</code>", "Khẳng định, và LỜI MỜI", "There's some water. · Would you like some?"],
+            ["<code>any</code>", "Phủ định, câu hỏi thật", "There isn't any water."],
+            ["<code>any</code> (khẳng định)", "= bất kỳ cái nào", "Any day is fine."],
+            ["<code>no + N</code>", "Phủ định gọn, động từ khẳng định", "There's no water."],
+            ["<code>a lot of</code>", "Khẳng định, cả hai loại danh từ", "I have a lot of work."],
+            ["<code>much / many</code>", "Phủ định & câu hỏi", "I don't have much time."],
+            ["<code>a few</code> / <code>few</code>", "Tích cực / tiêu cực. Xem [Ngữ pháp 19]", "a few friends · few friends"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng lượng từ nào?" },
+        {
+          "t": "tree",
+          "q": "Câu của bạn thuộc loại nào, và danh từ đếm được không?",
+          "nodes": [
+            { "if": "Câu khẳng định, muốn nói có một ít", "then": "some", "ex": "There's some water." },
+            { "if": "Câu hỏi nhưng là lời mời hoặc xin xỏ", "then": "some", "ex": "Would you like some coffee?" },
+            { "if": "Câu phủ định hoặc câu hỏi thật", "then": "any", "ex": "Is there any coffee?" },
+            { "if": "Khẳng định, muốn nói nhiều", "then": "a lot of — cả hai loại danh từ", "ex": "I have a lot of work." },
+            { "if": "Phủ định hoặc câu hỏi, muốn nói nhiều", "then": "many (đếm được) / much (không đếm)", "ex": "I don't have much time." },
+            { "if": "Muốn nói ít và nghe tiêu cực", "then": "few / little — bỏ chữ a", "ex": "I have little time." }
+          ]
+        },
+        { "t": "h3", "text": "Thang số lượng" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "There's no time.", "vi": "Không có gì cả" },
+            { "en": "There's little time.", "vi": "Rất ít — nghe tiêu cực" },
+            { "en": "There's a little time.", "vi": "Có chút — nghe tích cực" },
+            { "en": "There's a lot of time.", "vi": "Nhiều" },
+            { "en": "There's plenty of time.", "vi": "Thừa sức — nghe trấn an" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Nhóm lượng từ này xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 65, "why": "How much / How many…? — cặp câu hỏi tách đôi theo đúng hai loại danh từ." },
+            { "id": 100, "why": "There is / There are — some và any xuất hiện dày đặc trong khung này." },
+            { "id": 89, "why": "What a…! — cùng gốc với luật đếm được quyết định lượng từ." },
+            { "id": 99, "why": "It takes… — cách nói thời lượng, hay đi với a lot of và plenty of." },
+            { "id": 87, "why": "I'm worried… — mẫu There's nothing to worry about, họ hàng của no và any." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền some / any / much / many / a few / a little" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Trong tủ lạnh có ít nước.", "blank": "There's __________ water in the fridge.", "a": "some" },
+            { "vi": "Không còn chút sữa nào.", "blank": "There isn't __________ milk left.", "a": "any" },
+            { "vi": "Bạn uống cà phê nhé?", "blank": "Would you like __________ coffee?", "a": "some — lời mời" },
+            { "vi": "Hôm nay tôi không có nhiều thời gian.", "blank": "I don't have __________ time today.", "a": "much" },
+            { "vi": "Tôi không có nhiều bạn ở đây.", "blank": "I don't have __________ friends here.", "a": "many" },
+            { "vi": "Mình có vài người bạn ở đây.", "blank": "I have __________ friends here.", "a": "a few" },
+            { "vi": "Tôi có chút thời gian.", "blank": "I have __________ time.", "a": "a little" },
+            { "vi": "Hôm nay tôi có nhiều việc.", "blank": "I have __________ work today.", "a": "a lot of" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Có cà phê không? (hỏi thật)", "blank": "Is there __________ coffee?  (some / any)", "a": "any" },
+            { "vi": "Bạn có bao nhiêu thời gian?", "blank": "How __________ time do you have?  (much / many)", "a": "much" },
+            { "vi": "Hết sữa rồi.", "blank": "There's __________ milk left.  (no / not any)", "a": "no — động từ giữ dạng khẳng định" },
+            { "vi": "Tuần sau ngày nào cũng được.", "blank": "__________ day next week is fine.  (Some / Any)", "a": "Any — nghĩa bất kỳ" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Bạn uống cà phê nhé?", "a": "Would you like some coffee?" },
+            { "vi": "2. Không còn chút sữa nào.", "a": "There isn't any milk left." },
+            { "vi": "3. Hôm nay tôi không có nhiều thời gian.", "a": "I don't have much time today." },
+            { "vi": "4. Mình có vài người bạn ở đây.", "a": "I have a few friends here." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật cơ bản:</b> <i>some</i> cho khẳng định, <i>any</i> cho phủ định và câu hỏi. Nhớ luật này trước rồi mới học ngoại lệ.",
+            "<b>Ngoại lệ quan trọng:</b> mời hoặc xin thì dùng <i>some</i> dù là câu hỏi — <i>Would you like <b>some</b> coffee?</i>",
+            "<b>Khẳng định thì dùng <i>a lot of</i></b>, đừng dùng <i>much/many</i> — nó nghe cứng. Nhưng phủ định và câu hỏi thì ngược lại.",
+            "<b>Chưa chắc thì dùng <i>a lot of</i></b> — nó đi được với cả hai loại danh từ và mọi loại câu.",
+            "<b>Bỏ chữ <i>a</i> là đổi thái độ:</b> <i>a few</i> (có một số) ↔ <i>few</i> (gần như không có).",
+            "<b>Bài tập 3 phút:</b> mở tủ lạnh ra, viết năm câu <i>There's some…</i> và năm câu <i>There isn't any…</i> về những gì bạn thấy."
+          ]
+        }
+      ]
+    }
+  ]
+}

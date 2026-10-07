@@ -1,0 +1,493 @@
+{
+  "id": 27,
+  "group": "Nhóm 3 · Xin phép & Cho phép",
+  "title": "You're not supposed to… — Nhắc quy định mà không làm ai mất mặt",
+  "subtitle": "Cách nhắc nhở nhẹ nhất khi ai đó đang làm sai quy định. Thay vì cấm thẳng, bạn chỉ nói rằng “lẽ ra không nên thế” — người kia sửa ngay mà không cảm thấy bị mắng. Khung này cũng dùng để nói về những gì đáng lẽ phải xảy ra mà chưa xảy ra.",
+  "pattern": [
+    "You're not supposed to <em>+ V</em>",
+    "You're supposed to <em>+ V</em>",
+    "It was supposed to <em>+ V</em>"
+  ],
+  "meaning": "Bạn không được… / Lẽ ra phải… (theo quy định hoặc lẽ thường)",
+  "grammar": [46],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Nhắc nhở mềm nhất" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">be supposed to</span> nghĩa là “đáng lẽ phải, được cho là phải”. Nó nói về một <b>kỳ vọng hoặc quy định</b> — không phải ý muốn của bạn. Vì thế khi nhắc nhở, bạn không phải là người cấm; bạn chỉ đang nhắc lại điều đã được quy định sẵn." },
+        { "t": "p", "html": "Đó là lý do <i>You're not supposed to park here</i> nhẹ hơn hẳn <i>You can't park here</i>. Câu sau nghe như bạn đang ra lệnh; câu trước nghe như bạn đang giúp người kia tránh rắc rối. Người nghe gần như luôn xin lỗi và sửa ngay." },
+        { "t": "p", "html": "Khung này còn hai nghĩa nữa rất hay dùng. Dạng khẳng định <span class=\"k\">You're supposed to sign here</span> = lẽ ra bạn phải ký chỗ này. Dạng quá khứ <span class=\"k\">It was supposed to arrive yesterday</span> = lẽ ra nó phải tới hôm qua — cách phàn nàn mà không đổ lỗi cho ai cụ thể." },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp kép:</b> phải có <b>be</b> (am/is/are/was) và phải có đuôi <b>-ed</b>. <span class=\"k\">You're not supposed to…</span> ✓ — <i>You not suppose to…</i> ✗ Cả hai lỗi này rất phổ biến vì khi nói nhanh nghe như không có gì." },
+        { "t": "h3", "text": "Ba nghĩa của cùng một cấu trúc" },
+        {
+          "t": "table",
+          "head": ["Câu", "Nghĩa", "Dùng khi"],
+          "rows": [
+            ["<code>You're not supposed to park here.</code>", "Bạn không được đỗ ở đây", "Nhắc nhở nhẹ về quy định"],
+            ["<code>You're supposed to sign at the bottom.</code>", "Lẽ ra bạn phải ký ở dưới", "Chỉ ra điều người ta bỏ sót"],
+            ["<code>It was supposed to arrive yesterday.</code>", "Lẽ ra nó phải tới hôm qua", "Phàn nàn mà không đổ lỗi ai"],
+            ["<code>I'm supposed to be there at nine.</code>", "Tôi phải có mặt lúc chín giờ", "Nói về lịch, nghĩa vụ của mình"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🙋", "title": "Nhắc ai đó đang làm sai", "text": "Bối cảnh số 1. <i>You're not supposed to eat in here.</i> Nhẹ hơn hẳn <i>You can't.</i>" },
+            { "icon": "📝", "title": "Chỉ ra chỗ bỏ sót", "text": "<i>You're supposed to sign at the bottom too.</i>" },
+            { "icon": "📦", "title": "Phàn nàn về dịch vụ", "text": "<i>It was supposed to arrive yesterday.</i> Nêu sự việc, không đổ lỗi cá nhân." },
+            { "icon": "📅", "title": "Nói về lịch của mình", "text": "<i>I'm supposed to be in a meeting at three.</i>" },
+            { "icon": "🤔", "title": "Nói về điều nghe đồn", "text": "<i>It's supposed to be the best in town.</i> = nghe nói là ngon nhất." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Tình huống nguy hiểm cần cấm dứt khoát — lúc đó phải nói <i>You mustn't</i> hoặc <i>Stop!</i>" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Nhắc nhở", "<code>You're not supposed to + V</code>", "You're not supposed to park here."],
+            ["Chỉ ra điều phải làm", "<code>You're supposed to + V</code>", "You're supposed to sign here."],
+            ["Nói về mình", "<code>I'm supposed to + V</code>", "I'm supposed to be there at nine."],
+            ["Quá khứ — chưa xảy ra", "<code>It was supposed to + V</code>", "It was supposed to arrive yesterday."],
+            ["Quá khứ — về mình", "<code>I was supposed to + V</code>", "I was supposed to call her back."],
+            ["Nghe đồn, tiếng tăm", "<code>It's supposed to be + tính từ</code>", "It's supposed to be excellent."],
+            ["Hỏi lại", "<code>Am I supposed to + V?</code>", "Am I supposed to bring anything?"],
+            ["Hỏi về cách làm", "<code>How am I supposed to + V?</code>", "How am I supposed to open this?"],
+            ["Nhắc nhẹ hơn nữa", "<code>I don't think you're supposed to…</code>", "I don't think you're supposed to do that."],
+            ["Thừa nhận mình sai", "<code>I know I'm not supposed to, but…</code>", "I know I'm not supposed to, but I did."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Mẹo nhắc nhở êm nhất:</b> thêm <span class=\"k\">I don't think…</span> ở đầu. <i>I don't think you're supposed to park there.</i> Bạn vừa nhắc vừa để ngỏ khả năng mình nhầm — không ai phải mất mặt." },
+        { "t": "callout", "html": "<b>Nghĩa “nghe đồn” rất hay dùng:</b> <span class=\"k\">It's supposed to be really good.</span> = nghe nói là rất ngon/hay. Bạn truyền đạt tiếng tăm của thứ gì đó mà không tự nhận là đã trải nghiệm." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “supposed to…”",
+              "items": [
+                { "w": "park", "vi": "đỗ xe", "ex": "You're not supposed to park here.", "exvi": "Ở đây không được đỗ xe đâu bạn ạ." },
+                { "w": "eat", "vi": "ăn", "ex": "You're not supposed to eat in the library.", "exvi": "Trong thư viện không được ăn đâu ạ." },
+                { "w": "smoke", "vi": "hút thuốc", "ex": "You're not supposed to smoke inside.", "exvi": "Bên trong không được hút thuốc đâu ạ." },
+                { "w": "sign", "vi": "ký", "ex": "You're supposed to sign at the bottom too.", "exvi": "Lẽ ra anh/chị phải ký cả ở dưới nữa ạ." },
+                { "w": "be", "vi": "có mặt", "ex": "I'm supposed to be there at nine.", "exvi": "Chín giờ tôi phải có mặt ở đó." },
+                { "w": "arrive", "vi": "đến nơi", "ex": "It was supposed to arrive yesterday.", "exvi": "Lẽ ra nó phải tới hôm qua." },
+                { "w": "call", "vi": "gọi điện", "ex": "I was supposed to call her back.", "exvi": "Lẽ ra tôi phải gọi lại cho cô ấy." },
+                { "w": "wear", "vi": "mặc, đeo", "ex": "You're supposed to wear a badge in this area.", "exvi": "Ở khu vực này phải đeo thẻ ạ." },
+                { "w": "bring", "vi": "mang theo", "ex": "Am I supposed to bring anything?", "exvi": "Tôi có phải mang gì theo không ạ?" },
+                { "w": "book", "vi": "đặt trước", "ex": "You're supposed to book at least a day ahead.", "exvi": "Lẽ ra phải đặt trước ít nhất một ngày ạ." },
+                { "w": "queue", "vi": "xếp hàng", "ex": "You're supposed to queue over there.", "exvi": "Anh/chị phải xếp hàng ở đằng kia ạ.", "note": "Anh-Mỹ nói <i>line up</i>." },
+                { "w": "take off", "vi": "cởi ra", "ex": "You're supposed to take your shoes off here.", "exvi": "Ở đây phải cởi giày ạ." },
+                { "w": "use", "vi": "dùng", "ex": "You're not supposed to use your phone here.", "exvi": "Ở đây không được dùng điện thoại ạ." },
+                { "w": "touch", "vi": "chạm vào", "ex": "You're not supposed to touch the exhibits.", "exvi": "Không được chạm vào hiện vật ạ." },
+                { "w": "know", "vi": "biết", "ex": "You're not supposed to know that yet.", "exvi": "Lẽ ra bạn chưa được biết chuyện đó đâu.", "note": "Nửa đùa nửa thật — hay dùng khi lỡ tiết lộ điều gì." },
+                { "w": "start", "vi": "bắt đầu", "ex": "It was supposed to start at seven.", "exvi": "Lẽ ra phải bắt đầu lúc bảy giờ." },
+                { "w": "reply", "vi": "trả lời", "ex": "I was supposed to reply last week.", "exvi": "Lẽ ra tuần trước tôi phải trả lời rồi." },
+                { "w": "finish", "vi": "kết thúc", "ex": "It's supposed to finish by five.", "exvi": "Dự kiến năm giờ là xong ạ." },
+                { "w": "hand it in", "vi": "nộp bài, nộp giấy tờ", "ex": "You're supposed to hand it in by Friday.", "exvi": "Lẽ ra phải nộp trước thứ Sáu ạ." },
+                { "w": "check in", "vi": "làm thủ tục", "ex": "You're supposed to check in two hours before.", "exvi": "Lẽ ra phải làm thủ tục trước hai tiếng ạ." }
+              ]
+            },
+            {
+              "title": "Câu hoàn chỉnh nên thuộc lòng",
+              "items": [
+                { "w": "You're not supposed to park here.", "vi": "ở đây không được đỗ xe đâu", "ex": "Sorry — you're not supposed to park here.", "exvi": "Xin lỗi — ở đây không được đỗ xe đâu bạn ạ." },
+                { "w": "I don't think you're supposed to do that.", "vi": "hình như bạn không được làm vậy", "ex": "I don't think you're supposed to do that, actually.", "exvi": "Thật ra hình như bạn không được làm vậy đâu.", "note": "Cách nhắc êm nhất — để ngỏ khả năng bạn nhầm." },
+                { "w": "You're supposed to sign at the bottom.", "vi": "lẽ ra anh/chị phải ký ở dưới", "ex": "You're supposed to sign at the bottom too.", "exvi": "Lẽ ra anh/chị phải ký cả ở dưới nữa ạ." },
+                { "w": "It was supposed to arrive yesterday.", "vi": "lẽ ra nó phải tới hôm qua", "ex": "The package was supposed to arrive yesterday.", "exvi": "Lẽ ra kiện hàng phải tới hôm qua.", "note": "Phàn nàn mà không đổ lỗi cá nhân nào — rất hiệu quả." },
+                { "w": "I'm supposed to be there at nine.", "vi": "chín giờ tôi phải có mặt", "ex": "I can't stay — I'm supposed to be there at nine.", "exvi": "Tôi không ở lại được — chín giờ tôi phải có mặt ở đó." },
+                { "w": "Am I supposed to bring anything?", "vi": "tôi có phải mang gì theo không?", "ex": "Am I supposed to bring anything to the meeting?", "exvi": "Tôi có phải mang gì tới cuộc họp không ạ?", "note": "Câu hỏi rất hữu ích khi bạn chưa rõ quy tắc ngầm." },
+                { "w": "How am I supposed to…?", "vi": "tôi phải… bằng cách nào?", "ex": "How am I supposed to open this?", "exvi": "Cái này mở bằng cách nào vậy?", "note": "Có thể mang chút bực dọc — cẩn thận với ngữ điệu." },
+                { "w": "It's supposed to be really good.", "vi": "nghe nói là ngon/hay lắm", "ex": "Let's try that place — it's supposed to be really good.", "exvi": "Thử quán đó đi — nghe nói ngon lắm.", "note": "Nghĩa “nghe đồn” — bạn chưa từng thử nhưng nghe tiếng." },
+                { "w": "I know I'm not supposed to, but…", "vi": "tôi biết là không nên, nhưng…", "ex": "I know I'm not supposed to, but I checked anyway.", "exvi": "Tôi biết là không nên, nhưng tôi vẫn kiểm tra." },
+                { "w": "You're not supposed to know that yet.", "vi": "lẽ ra bạn chưa được biết", "ex": "Oops — you're not supposed to know that yet!", "exvi": "Ôi — lẽ ra bạn chưa được biết chuyện đó đâu!", "note": "Nửa đùa nửa thật khi bạn lỡ miệng." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại & cụm gần nghĩa",
+              "items": [
+                { "w": "Oh, sorry — I didn't know", "vi": "ồ xin lỗi — tôi không biết", "ex": "Oh, sorry — I didn't know. I'll move it.", "exvi": "Ồ xin lỗi — tôi không biết. Tôi dời đi ngay." },
+                { "w": "I didn't see the sign", "vi": "tôi không thấy biển", "ex": "Sorry, I didn't see the sign.", "exvi": "Xin lỗi, tôi không thấy biển báo." },
+                { "w": "Thanks for telling me", "vi": "cảm ơn bạn đã nhắc", "ex": "Thanks for telling me — I'd have got a fine.", "exvi": "Cảm ơn bạn đã nhắc — không thì tôi bị phạt rồi." },
+                { "w": "You're not allowed to…", "vi": "bạn không được phép…", "ex": "You're not allowed to park here.", "exvi": "Ở đây không được phép đỗ xe.", "note": "Cứng hơn, nêu thẳng quy định. Xem [Khung 23]." },
+                { "w": "You can't…", "vi": "bạn không thể…", "ex": "You can't park here.", "exvi": "Anh/chị không đỗ ở đây được.", "note": "Dứt khoát nhất — dùng khi cần rõ ràng ngay. Xem [Khung 28]." },
+                { "w": "You're meant to…", "vi": "lẽ ra bạn phải…", "ex": "You're meant to fill in both sides.", "exvi": "Lẽ ra phải điền cả hai mặt ạ.", "note": "Anh-Anh, nghĩa gần y hệt <i>supposed to</i>." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Sorry — I don't think you're supposed to park here.",
+                  "vi": "Xin lỗi — hình như ở đây không được đỗ xe đâu bạn ạ.",
+                  "note": "Cách nhắc êm nhất. <i>I don't think</i> để ngỏ khả năng bạn nhầm, nên không ai phải mất mặt.",
+                  "open": { "en": "Excuse me —", "vi": "Xin lỗi bạn —" },
+                  "reply": [
+                    { "them": "Oh, sorry — I didn't see the sign.", "themvi": "Ồ, xin lỗi — tôi không thấy biển.", "you": "No worries, there's space round the corner.", "youvi": "Không sao đâu, có chỗ trống ngay góc kia." },
+                    { "them": "Are you sure? I've parked here before.", "themvi": "Bạn chắc chứ? Tôi từng đỗ đây rồi mà.", "you": "The sign's new, I think.", "youvi": "Chắc là biển mới đặt đấy." }
+                  ],
+                  "close": { "en": "Thanks — just didn't want you to get a fine.", "vi": "Cảm ơn — mình chỉ không muốn bạn bị phạt thôi." }
+                },
+                {
+                  "en": "You're not supposed to know that yet!",
+                  "vi": "Lẽ ra bạn chưa được biết chuyện đó đâu!",
+                  "note": "Nửa đùa nửa thật khi bạn lỡ miệng tiết lộ điều gì. Nói kèm tiếng cười.",
+                  "reply": [
+                    { "them": "Too late — tell me everything.", "themvi": "Muộn rồi — kể hết đi.", "you": "You didn't hear it from me.", "youvi": "Không phải mình nói đâu đấy nhé." }
+                  ]
+                },
+                {
+                  "en": "I'm supposed to be there at nine, so I'd better go.",
+                  "vi": "Chín giờ mình phải có mặt ở đó, nên mình đi đây.",
+                  "note": "Cách rời khỏi một cuộc trò chuyện mà không có vẻ chán — vì lý do là lịch chứ không phải người kia.",
+                  "reply": [
+                    { "them": "Of course — good luck!", "themvi": "Tất nhiên rồi — chúc may mắn nhé!", "you": "Thanks, I'll message you later.", "youvi": "Cảm ơn, lát mình nhắn bạn." }
+                  ]
+                },
+                {
+                  "en": "I was supposed to call her back and I completely forgot.",
+                  "vi": "Lẽ ra mình phải gọi lại cho cô ấy mà mình quên béng.",
+                  "note": "Thừa nhận thiếu sót bằng dạng quá khứ — nghe thành thật mà không quá nặng nề.",
+                  "reply": [
+                    { "them": "Call her now, it's not too late.", "themvi": "Gọi ngay đi, chưa muộn đâu.", "you": "You're right. Doing it now.", "youvi": "Bạn nói đúng. Mình gọi luôn đây." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "You're supposed to sign at the bottom too.",
+                  "vi": "Lẽ ra anh/chị phải ký cả ở dưới nữa ạ.",
+                  "note": "Chỉ ra chỗ bỏ sót mà không nói người kia làm sai — nghe như đang giúp chứ không phải chê.",
+                  "reply": [
+                    { "them": "Oh, I missed that. Thanks.", "themvi": "Ồ, tôi bỏ sót. Cảm ơn nhé.", "you": "No problem — easy to miss.", "youvi": "Không sao ạ — chỗ đó dễ bỏ sót lắm." }
+                  ],
+                  "vars": [
+                    { "en": "You're supposed to fill in both sides.", "vi": "Lẽ ra phải điền cả hai mặt ạ." }
+                  ]
+                },
+                {
+                  "en": "The report was supposed to go out yesterday.",
+                  "vi": "Lẽ ra báo cáo phải gửi đi từ hôm qua.",
+                  "note": "Nêu sự việc bằng dạng bị động — không chỉ đích danh ai chậm trễ, nên cuộc nói chuyện không thành đổ lỗi.",
+                  "open": { "en": "Just flagging something —", "vi": "Tôi nêu một việc —" },
+                  "reply": [
+                    { "them": "I know — I'm waiting on finance.", "themvi": "Tôi biết — tôi đang chờ bên tài chính.", "you": "Want me to chase them?", "youvi": "Tôi giục họ giúp bạn nhé?" }
+                  ],
+                  "close": { "en": "Let's get it out today then.", "vi": "Vậy hôm nay mình gửi đi nhé." }
+                },
+                {
+                  "en": "Am I supposed to bring anything to the meeting?",
+                  "vi": "Tôi có phải mang gì tới cuộc họp không ạ?",
+                  "note": "Câu hỏi rất hữu ích khi bạn chưa nắm được quy tắc ngầm của nhóm mới.",
+                  "reply": [
+                    { "them": "Just your laptop and the numbers.", "themvi": "Chỉ cần laptop và số liệu thôi.", "you": "Got it, thanks.", "youvi": "Em rõ rồi, cảm ơn anh/chị." }
+                  ]
+                },
+                {
+                  "en": "You're not supposed to share that outside the team.",
+                  "vi": "Tài liệu đó không được chia sẻ ra ngoài nhóm đâu ạ.",
+                  "note": "Nhắc về bảo mật mà không buộc tội ai — người kia sửa ngay mà không phòng thủ.",
+                  "reply": [
+                    { "them": "Oh — I've already sent it to a client.", "themvi": "Ồ — tôi gửi cho khách hàng rồi.", "you": "Let's tell the manager now, before it spreads.", "youvi": "Mình báo quản lý ngay đi, trước khi lan rộng." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "It was supposed to arrive yesterday.",
+                  "vi": "Lẽ ra nó phải tới hôm qua ạ.",
+                  "note": "Phàn nàn hiệu quả nhất: nêu kỳ vọng đã được hứa, không tố ai cả. Nhân viên dễ hợp tác hơn nhiều.",
+                  "open": { "en": "I'm chasing an order —", "vi": "Tôi hỏi về một đơn hàng —" },
+                  "reply": [
+                    { "them": "Let me check the tracking for you.", "themvi": "Để em kiểm tra vận đơn giúp anh/chị.", "you": "Thank you — the order number is 4471.", "youvi": "Cảm ơn bạn — mã đơn là 4471." },
+                    { "them": "I'm sorry about that — there's been a delay.", "themvi": "Em xin lỗi ạ — có sự chậm trễ.", "you": "When can I expect it now?", "youvi": "Vậy giờ khi nào tôi nhận được ạ?" }
+                  ],
+                  "close": { "en": "Thanks for looking into it.", "vi": "Cảm ơn bạn đã kiểm tra giúp." }
+                },
+                {
+                  "en": "You're supposed to queue over there, I think.",
+                  "vi": "Hình như phải xếp hàng ở đằng kia ạ.",
+                  "note": "<i>I think</i> ở cuối làm câu nhẹ hẳn — bạn nhắc mà không ra vẻ hiểu biết hơn.",
+                  "reply": [
+                    { "them": "Oh, thanks — I couldn't see the sign.", "themvi": "Ồ, cảm ơn — tôi không thấy biển.", "you": "It's a bit hidden.", "youvi": "Biển hơi khuất." }
+                  ]
+                },
+                {
+                  "en": "This was supposed to be on sale.",
+                  "vi": "Cái này lẽ ra đang giảm giá mà ạ.",
+                  "note": "Nêu chênh lệch giá mà không tố ai tính sai — nhân viên kiểm tra ngay thay vì phòng thủ.",
+                  "reply": [
+                    { "them": "Let me scan it again… you're right.", "themvi": "Để em quét lại… anh/chị nói đúng ạ.", "you": "No problem at all.", "youvi": "Không sao đâu ạ." }
+                  ]
+                },
+                {
+                  "en": "You're not supposed to take photos in here.",
+                  "vi": "Trong này không được chụp ảnh đâu ạ.",
+                  "reply": [
+                    { "them": "Sorry, I didn't realise.", "themvi": "Xin lỗi, tôi không để ý.", "you": "No problem — most people don't.", "youvi": "Không sao ạ — hầu như ai cũng vậy." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Let's try that place — it's supposed to be really good.",
+                  "vi": "Thử quán đó đi — nghe nói ngon lắm.",
+                  "note": "Nghĩa <b>“nghe đồn”</b> — bạn chưa từng ăn ở đó nhưng đã nghe tiếng. Rất hay dùng khi rủ rê.",
+                  "reply": [
+                    { "them": "Who told you?", "themvi": "Ai nói với bạn vậy?", "you": "Everyone at work raves about it.", "youvi": "Cả công ty mình khen nức nở." }
+                  ],
+                  "vars": [
+                    { "en": "It's supposed to be the best pho in the city.", "vi": "Nghe nói là quán phở ngon nhất thành phố." }
+                  ]
+                },
+                {
+                  "en": "You're not supposed to bring outside drinks in.",
+                  "vi": "Không được mang đồ uống từ ngoài vào đâu ạ.",
+                  "reply": [
+                    { "them": "Oh, sorry. Shall I leave it outside?", "themvi": "Ồ, xin lỗi. Tôi để ngoài nhé?", "you": "You can leave it at the front desk.", "youvi": "Anh/chị để ở quầy trước cũng được ạ." }
+                  ]
+                },
+                {
+                  "en": "It was supposed to be ready twenty minutes ago.",
+                  "vi": "Lẽ ra hai mươi phút trước là xong rồi ạ.",
+                  "note": "Nêu thời gian cụ thể làm câu phàn nàn có sức nặng mà vẫn bình tĩnh.",
+                  "reply": [
+                    { "them": "I'm so sorry — let me check the kitchen.", "themvi": "Em xin lỗi ạ — để em hỏi bếp.", "you": "Thank you, we're a bit pushed for time.", "youvi": "Cảm ơn bạn, chúng tôi hơi gấp." }
+                  ],
+                  "close": { "en": "Thanks for chasing it.", "vi": "Cảm ơn bạn đã giục giúp." }
+                },
+                {
+                  "en": "Am I supposed to tip here?",
+                  "vi": "Ở đây tôi có phải cho tiền boa không ạ?",
+                  "note": "Câu nên hỏi khi ở nước lạ — quy tắc boa khác nhau hoàn toàn giữa các nước.",
+                  "reply": [
+                    { "them": "It's already included in the bill.", "themvi": "Đã tính trong hóa đơn rồi ạ.", "you": "Good to know, thank you.", "youvi": "May mà biết, cảm ơn bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "You're supposed to check in two hours before.",
+                  "vi": "Lẽ ra phải làm thủ tục trước hai tiếng ạ.",
+                  "reply": [
+                    { "them": "I know, I got stuck in traffic.", "themvi": "Tôi biết, tôi bị kẹt xe.", "you": "Let me see if I can still get you on.", "youvi": "Để em xem còn kịp cho anh/chị lên không ạ." }
+                  ]
+                },
+                {
+                  "en": "You're supposed to take your shoes off here.",
+                  "vi": "Ở đây phải cởi giày ạ.",
+                  "note": "Nhắc về phong tục địa phương — câu này nhẹ hơn hẳn việc chỉ tay vào biển báo.",
+                  "reply": [
+                    { "them": "Oh! Thank you for telling me.", "themvi": "Ồ! Cảm ơn bạn đã nhắc.", "you": "There's a rack by the door.", "youvi": "Có giá để giày cạnh cửa ạ." }
+                  ]
+                },
+                {
+                  "en": "The train was supposed to leave at four.",
+                  "vi": "Lẽ ra tàu phải khởi hành lúc bốn giờ.",
+                  "reply": [
+                    { "them": "There's a twenty-minute delay, I'm afraid.", "themvi": "E là trễ hai mươi phút ạ.", "you": "Will I still make my connection?", "youvi": "Vậy tôi có kịp chuyến nối không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Am I supposed to fill this in before or after security?",
+                  "vi": "Tôi phải điền cái này trước hay sau cửa an ninh ạ?",
+                  "note": "Hỏi trước cho chắc — tránh phải quay lại xếp hàng lần nữa.",
+                  "reply": [
+                    { "them": "Before, at the desk over there.", "themvi": "Trước ạ, ở quầy đằng kia.", "you": "Thanks — I'd have gone the wrong way.", "youvi": "Cảm ơn — không thì tôi đi nhầm rồi." }
+                  ],
+                  "close": { "en": "That's saved me a lot of time.", "vi": "Vậy là đỡ mất bao nhiêu thời gian." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Nhắc người lạ đang đỗ xe sai chỗ",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Excuse me — I don't think you're supposed to park here.", "vi": "Xin lỗi bạn — hình như ở đây không được đỗ xe đâu." },
+            { "speaker": "Driver", "en": "Really? There's no sign.", "vi": "Thật à? Có biển báo đâu." },
+            { "speaker": "You", "me": true, "en": "It's on the wall behind you. You're supposed to use the car park round the back.", "vi": "Biển ở trên tường sau lưng bạn. Lẽ ra phải đỗ ở bãi xe phía sau." },
+            { "speaker": "Driver", "en": "Ah, I see it now. Thanks for telling me.", "vi": "À, giờ tôi thấy rồi. Cảm ơn bạn đã nhắc." },
+            { "speaker": "You", "me": true, "en": "No problem — they do fine people here.", "vi": "Không có gì — ở đây họ phạt thật đấy." },
+            { "speaker": "Driver", "en": "Then I'm glad you said something!", "vi": "Vậy thì may là bạn đã nói!" }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Hỏi về một đơn hàng chậm",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Hi, I'm chasing an order — it was supposed to arrive yesterday.", "vi": "Chào bạn, tôi hỏi về một đơn hàng — lẽ ra nó phải tới hôm qua ạ." },
+            { "speaker": "Staff", "en": "Sorry about that. Do you have the order number?", "vi": "Em xin lỗi ạ. Anh/chị có mã đơn không ạ?" },
+            { "speaker": "You", "me": true, "en": "It's 4471. I'm supposed to give it as a present on Friday.", "vi": "Mã 4471. Thứ Sáu tôi phải mang tặng ai đó." },
+            { "speaker": "Staff", "en": "I see. It's in the depot — I can upgrade the delivery.", "vi": "Em hiểu rồi. Hàng đang ở kho — em nâng cấp giao nhanh cho anh/chị ạ." },
+            { "speaker": "You", "me": true, "en": "Would it arrive by Thursday? It's supposed to be wrapped too.", "vi": "Thứ Năm có tới không ạ? Lẽ ra nó còn được gói quà nữa." },
+            { "speaker": "Staff", "en": "Thursday morning, and I'll add the gift wrap free.", "vi": "Sáng thứ Năm ạ, và em thêm gói quà miễn phí." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "You not suppose to park here.", "right": "You're not supposed to park here.", "why": "Thiếu cả <b>'re</b> lẫn đuôi <b>-ed</b>. Đây là lỗi kép rất phổ biến vì khi nói nhanh nghe như không có gì." },
+            { "wrong": "You're not supposed park here.", "right": "You're not supposed to park here.", "why": "Thiếu <b>to</b>. Cấu trúc luôn là <i>supposed <b>to</b> + V</i>." },
+            { "wrong": "You're not supposed to parking here.", "right": "You're not supposed to park here.", "why": "Sau <b>to</b> là động từ nguyên thể, không phải V-ing." },
+            { "wrong": "It supposed to arrive yesterday.", "right": "It was supposed to arrive yesterday.", "why": "Thiếu động từ <b>was</b>. Nói về quá khứ phải có <i>was/were</i>." },
+            { "wrong": "You're not supposed to touch that! <i>(khi có nguy hiểm thật)</i>", "right": "Don't touch that — it's hot!", "why": "Tình huống nguy hiểm cần câu dứt khoát. Khung này quá mềm cho lúc khẩn cấp." },
+            { "wrong": "I'm suppose to be there at nine.", "right": "I'm supposed to be there at nine.", "why": "Viết thiếu <b>-d</b> là lỗi chính tả rất hay gặp, kể cả với người bản xứ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>You're not supposed to + V</code>", "Nhắc nhở mềm — nêu kỳ vọng chung", "<i>You're not supposed to park here.</i>"],
+            ["<code>You're not allowed to + V</code>", "Nêu thẳng quy định — cứng hơn", "<i>You're not allowed to park here.</i> — Xem [Khung 23]."],
+            ["<code>You can't + V</code>", "Dứt khoát — không thương lượng", "<i>You can't park here.</i> — Xem [Khung 28]."],
+            ["<code>You mustn't + V</code>", "Cấm tuyệt đối — nguy hiểm, nghiêm trọng", "<i>You mustn't touch that.</i> — Xem [Khung 26]."],
+            ["<code>You're meant to + V</code>", "Anh-Anh, nghĩa gần y hệt", "<i>You're meant to sign here.</i>"],
+            ["<code>You should + V</code>", "Khuyên nhủ — không phải quy định", "<i>You should park round the back.</i> — Xem [Khung 38]."],
+            ["<code>It's supposed to be + adj</code>", "Nghe đồn, tiếng tăm — nghĩa khác", "<i>It's supposed to be excellent.</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — nhắc ai đó đỗ xe sai chỗ" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I don't think you're supposed to park here.", "vi": "Mềm nhất — để ngỏ khả năng mình nhầm" },
+            { "en": "You're not supposed to park here.", "vi": "Nhắc nhẹ — nêu kỳ vọng" },
+            { "en": "You're not allowed to park here.", "vi": "Nêu quy định — rõ ràng hơn" },
+            { "en": "You can't park here.", "vi": "Dứt khoát — không thương lượng" },
+            { "en": "You mustn't park here — it's a fire exit.", "vi": "Cấm tuyệt đối — có lý do nghiêm trọng" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>supposed</b> = /səˈpəʊzd/ — trọng âm ở âm tiết <b>thứ hai</b>: sə-<b>POHZD</b>.",
+            "<b>supposed to</b> khi nói nhanh thành <b>“sə-POHS-tə”</b> — âm /z/ biến thành /s/ và nuốt luôn /d/. Nhiều người nghe thành “sposta”.",
+            "<b>You're not supposed to</b> → “yə-nət-sə-POHS-tə” — cả cụm nói liền, rất nhanh.",
+            "Chính vì đọc nhanh như vậy mà nhiều người học <b>không nghe thấy “-ed”</b> rồi viết sai thành <i>suppose to</i>.",
+            "<b>It was supposed to</b> → “i-wəz-sə-POHS-tə”, <i>was</i> giảm thành /wəz/.",
+            "Khi nhắc nhở, nói với <b>giọng đi xuống và nhẹ</b>. Lên giọng hoặc nhấn mạnh sẽ thành trách móc."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I don't think you're supposed to park here.", "vi": "Luyện shadowing: nói “sə-POHS-tə” liền một khối, giọng nhẹ và đi xuống." },
+            { "en": "It was supposed to arrive yesterday.", "vi": "Câu phàn nàn bình tĩnh — chú ý không nhấn mạnh quá kẻo thành gay gắt." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Ở đây không được đỗ xe đâu bạn ạ.", "blank": "__________ park here.", "a": "You're not supposed to" },
+            { "vi": "Lẽ ra anh/chị phải ký cả ở dưới nữa ạ.", "blank": "__________ at the bottom too.", "a": "You're supposed to sign" },
+            { "vi": "Lẽ ra nó phải tới hôm qua.", "blank": "__________ arrive yesterday.", "a": "It was supposed to" },
+            { "vi": "Thật ra hình như bạn không được làm vậy đâu.", "blank": "__________ you're supposed to do that, actually.", "a": "I don't think" },
+            { "vi": "Tôi có phải mang gì theo không ạ?", "blank": "__________ bring anything?", "a": "Am I supposed to" },
+            { "vi": "Thử quán đó đi — nghe nói ngon lắm.", "blank": "Let's try that place — __________ really good.", "a": "it's supposed to be" },
+            { "vi": "Chín giờ tôi phải có mặt ở đó.", "blank": "__________ there at nine.", "a": "I'm supposed to be" },
+            { "vi": "Cái này mở bằng cách nào vậy?", "blank": "__________ open this?", "a": "How am I supposed to" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Trong thư viện không được ăn đâu ạ.", "a": "You're not supposed to eat in the library." },
+            { "vi": "2. Lẽ ra báo cáo phải gửi đi từ hôm qua.", "a": "The report was supposed to go out yesterday." },
+            { "vi": "3. Tài liệu đó không được chia sẻ ra ngoài nhóm đâu.", "a": "You're not supposed to share that outside the team." },
+            { "vi": "4. Ở đây phải cởi giày ạ.", "a": "You're supposed to take your shoes off here." },
+            { "vi": "5. Lẽ ra mình phải gọi lại cho cô ấy mà mình quên béng.", "a": "I was supposed to call her back and I completely forgot." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Dùng khi nhắc người lạ:</b> nó khiến bạn thành người giúp đỡ chứ không phải người cấm đoán — nên người ta sửa ngay mà không khó chịu.",
+            "<b>Thêm “I don't think” để êm nhất:</b> <i>I don't think you're supposed to…</i> vừa nhắc vừa để ngỏ khả năng bạn nhầm.",
+            "<b>Dùng dạng quá khứ để phàn nàn:</b> <i>It was supposed to arrive yesterday</i> nêu kỳ vọng đã hứa mà không tố cá nhân nào — nhân viên hợp tác hơn hẳn.",
+            "<b>Nhớ hai chữ bắt buộc:</b> phải có <b>be</b> và phải có <b>-ed</b>. Khi nói nhanh chúng biến mất, nhưng khi viết thì không được thiếu.",
+            "<b>Biết nghĩa “nghe đồn”:</b> <i>It's supposed to be really good</i> = nghe nói là hay lắm, chứ không phải “nó phải hay”.",
+            "<b>Bài tập 3 phút:</b> nghĩ 3 quy định ở nơi bạn làm việc, 2 việc bạn đáng lẽ phải làm tuần này, và 1 thứ bạn nghe đồn là hay — viết cả sáu câu bằng <i>supposed to</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

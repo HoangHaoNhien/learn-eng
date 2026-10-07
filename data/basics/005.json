@@ -1,0 +1,121 @@
+{
+  "id": 5,
+  "title": "Chủ ngữ & vị ngữ — câu gồm những gì",
+  "teaches": ["swims", "walks", "works", "sings", "cooks"],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn biết <b>một câu tiếng Anh tối thiểu phải có gì</b>, và vì sao câu tiếng Việt dịch thẳng sang tiếng Anh hay bị thiếu." },
+        { "t": "callout", "html": "<b>Khác biệt lớn nhất giữa hai thứ tiếng:</b><br><br>Tiếng Việt cho phép bỏ chủ ngữ. <i>“Đói rồi.”</i> — ai đói? Người nghe tự hiểu.<br><br>Tiếng Anh <b>không bao giờ</b> cho phép. Phải nói <i>I am hungry.</i> — thiếu <i>I</i> là câu hỏng, không phải câu rút gọn." }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "Bài 04 — thuật ngữ. Nhắc lại ba chữ sẽ dùng suốt bài này:" },
+        { "t": "list", "items": [
+          "<b>chủ ngữ</b> (S) = ai hoặc cái gì <b>làm</b> việc trong câu",
+          "<b>động từ</b> (V) = việc đang xảy ra, hoặc trạng thái “là / ở”",
+          "<b>tân ngữ</b> (O) = ai hoặc cái gì <b>bị tác động</b>"
+        ] },
+        { "t": "link", "items": [{ "id": 4, "label": "Xem lại bài 04 nếu ba chữ trên còn lạ" }] }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "table", "head": ["Luật", "Nghĩa là gì", "Ví dụ"], "rows": [
+          ["<b>1.</b> Câu phải có <b>chủ ngữ + động từ</b>", "Thiếu một trong hai là chưa thành câu", "<i>I work.</i> — đủ rồi"],
+          ["<b>2.</b> Chủ ngữ đứng <b>trước</b> động từ", "Thứ tự này gần như không đổi", "<i>The cat sleeps.</i>"],
+          ["<b>3.</b> Có tân ngữ thì nó đứng <b>ngay sau</b> động từ", "Không chen gì vào giữa", "<i>I eat rice.</i>"]
+        ] },
+        { "t": "h3", "text": "Ba kiểu câu bạn sẽ gặp" },
+        { "t": "table", "head": ["Kiểu", "Công thức", "Ví dụ"], "rows": [
+          ["Không cần tân ngữ", "<b>S + V</b>", "<i>I work.</i> · <i>The baby sleeps.</i>"],
+          ["Có tân ngữ", "<b>S + V + O</b>", "<i>I eat rice.</i> · <i>She reads a book.</i>"],
+          ["Nói “là / ở”", "<b>S + be + …</b>", "<i>I am a student.</i> · <i>He is here.</i>"]
+        ] },
+        { "t": "callout", "html": "<b>Vì sao có câu cần tân ngữ, có câu không?</b><br><br>Hỏi thử: <i>ngủ</i> — ngủ <b>cái gì</b>? Không trả lời được, nên <i>sleep</i> không cần tân ngữ.<br><i>ăn</i> — ăn <b>cái gì</b>? Trả lời được, nên <i>eat</i> thường có tân ngữ.<br><br>Tiếng Việt cũng y như vậy, nên bạn đã có sẵn cảm giác này rồi." }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "Câu ngắn nhất — chỉ chủ ngữ và động từ" },
+        { "t": "ex", "items": [
+          { "en": "I work.", "vi": "Tôi làm việc.", "note": "<b>I</b> = chủ ngữ · <b>work</b> = động từ. Hai từ là đủ thành câu." },
+          { "en": "She sings.", "vi": "Cô ấy hát.", "note": "Động từ thêm <b>-s</b> vì chủ ngữ là <i>she</i>. Bài 14 sẽ nói kỹ." },
+          { "en": "The baby sleeps.", "vi": "Em bé ngủ.", "note": "Chủ ngữ có thể là hai từ: <b>The baby</b>." },
+          { "en": "My father works.", "vi": "Bố tôi làm việc.", "note": "Chủ ngữ <b>My father</b>, động từ <b>works</b>." },
+          { "en": "Birds sing.", "vi": "Chim hót.", "note": "Chủ ngữ số nhiều thì động từ <b>không</b> thêm -s." },
+          { "en": "We walk.", "vi": "Chúng tôi đi bộ.", "note": "Chủ ngữ <b>We</b>." }
+        ] },
+        { "t": "h3", "text": "Thêm tân ngữ — làm gì lên cái gì" },
+        { "t": "ex", "items": [
+          { "en": "I eat rice.", "vi": "Tôi ăn cơm.", "note": "<b>rice</b> là tân ngữ — ăn <i>cái gì</i>." },
+          { "en": "She reads a book.", "vi": "Cô ấy đọc một quyển sách.", "note": "Tân ngữ <b>a book</b>." },
+          { "en": "My mother cooks dinner.", "vi": "Mẹ tôi nấu bữa tối.", "note": "S = <b>My mother</b> · V = <b>cooks</b> · O = <b>dinner</b>." },
+          { "en": "I like you.", "vi": "Tôi thích bạn.", "note": "Tân ngữ cũng có thể là người." },
+          { "en": "He drinks water.", "vi": "Anh ấy uống nước.", "note": "Ba phần rõ ràng." },
+          { "en": "They buy fruit.", "vi": "Họ mua trái cây.", "note": "Chủ ngữ số nhiều, động từ không -s." }
+        ] },
+        { "t": "h3", "text": "Câu nói “là / ở”" },
+        { "t": "ex", "items": [
+          { "en": "I am a student.", "vi": "Tôi là sinh viên.", "note": "<b>am</b> là động từ. Bài 07 dạy kỹ phần này." },
+          { "en": "She is a teacher.", "vi": "Cô ấy là giáo viên.", "note": "Cùng kiểu, dùng <b>is</b>." },
+          { "en": "The book is here.", "vi": "Quyển sách ở đây.", "note": "<b>is</b> dùng cho cả nghĩa “ở”." },
+          { "en": "We are happy.", "vi": "Chúng tôi vui.", "note": "Sau <b>are</b> là một tính từ." }
+        ] },
+        { "t": "h3", "text": "Tiếng Việt bỏ chủ ngữ được, tiếng Anh thì không" },
+        { "t": "ex", "items": [
+          { "en": "I am hungry.", "vi": "Đói rồi. / Tôi đói.", "note": "Tiếng Việt bỏ <i>tôi</i> vẫn hiểu. Tiếng Anh bắt buộc phải có <b>I</b>." },
+          { "en": "It is hot today.", "vi": "Hôm nay nóng.", "note": "Tiếng Việt không có chủ ngữ. Tiếng Anh phải mượn <b>It</b> làm chủ ngữ giả." },
+          { "en": "I don't know.", "vi": "Không biết.", "note": "Phải có <b>I</b>, dù tiếng Việt bỏ hẳn." },
+          { "en": "She is a doctor.", "vi": "Bác sĩ đấy.", "note": "Tiếng Việt chỉ cần hai chữ. Tiếng Anh cần đủ chủ ngữ và động từ." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — tìm chủ ngữ và động từ" },
+        { "t": "quiz", "items": [
+          { "vi": "<i>I work.</i> — chủ ngữ là gì?", "a": "<b>I</b>" },
+          { "vi": "<i>The baby sleeps.</i> — động từ là gì?", "a": "<b>sleeps</b>" },
+          { "vi": "<i>My father works.</i> — chủ ngữ là gì?", "a": "<b>My father</b> — chủ ngữ có thể dài hơn một từ" },
+          { "vi": "Một câu tiếng Anh tối thiểu phải có gì?", "a": "Chủ ngữ và động từ" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — xếp vào S, V, O" },
+        { "t": "quiz", "items": [
+          { "vi": "<i>I eat rice.</i>", "a": "<b>I</b> = S · <b>eat</b> = V · <b>rice</b> = O" },
+          { "vi": "<i>She reads a book.</i>", "a": "<b>She</b> = S · <b>reads</b> = V · <b>a book</b> = O" },
+          { "vi": "<i>My mother cooks dinner.</i>", "a": "<b>My mother</b> = S · <b>cooks</b> = V · <b>dinner</b> = O" },
+          { "vi": "<i>The cat sleeps.</i> — tân ngữ đâu?", "a": "Không có. <i>Ngủ</i> không ngủ “lên cái gì”." }
+        ] },
+        { "t": "h3", "text": "Phần 3 — thêm chủ ngữ còn thiếu" },
+        { "t": "quiz", "items": [
+          { "vi": "Đói rồi.", "blank": "___ am hungry.", "a": "I am hungry." },
+          { "vi": "Hôm nay nóng.", "blank": "___ is hot today.", "a": "It is hot today. — phải mượn It làm chủ ngữ" },
+          { "vi": "Không biết.", "blank": "___ don't know.", "a": "I don't know." },
+          { "vi": "Vì sao tiếng Anh không bỏ chủ ngữ được?", "a": "Vì câu thiếu chủ ngữ là câu hỏng, không phải câu rút gọn" }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>Chủ ngữ + động từ là mức tối thiểu.</b> <i>I work.</i> đã là một câu hoàn chỉnh.",
+          "<b>Tiếng Anh không bao giờ bỏ chủ ngữ.</b> Tiếng Việt nói <i>“Đói rồi”</i>, tiếng Anh phải nói <i>I am hungry.</i>",
+          "<b>Không phải câu nào cũng cần tân ngữ.</b> Thử hỏi “làm gì lên cái gì?” — không trả lời được thì không cần."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "<i>Am hungry.</i>", "right": "<i>I am hungry.</i>", "why": "Đây là lỗi số một của người Việt mới học, vì tiếng Việt bỏ chủ ngữ rất tự nhiên. Trong tiếng Anh, câu không có chủ ngữ thì người nghe không biết ai đói." },
+          { "wrong": "<i>Is hot today.</i>", "right": "<i>It is hot today.</i>", "why": "Nói về thời tiết, giờ giấc, khoảng cách thì tiếng Anh mượn <b>It</b> làm chủ ngữ, dù <i>it</i> ở đây không chỉ vật gì cả. Không có chủ ngữ thật thì phải có chủ ngữ giả." },
+          { "wrong": "<i>I rice eat.</i>", "right": "<i>I eat rice.</i>", "why": "Tân ngữ phải đứng <b>sau</b> động từ. Thứ tự S-V-O trong tiếng Anh gần như cố định, không đảo được như tiếng Việt đôi khi vẫn làm." }
+        ] }
+      ]
+    }
+  ]
+}

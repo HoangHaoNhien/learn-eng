@@ -1,0 +1,277 @@
+{
+  "id": 40,
+  "group": "Nhóm 7 · Giới từ",
+  "title": "in · on · at — nơi chốn & phương tiện",
+  "subtitle": "Cùng ba giới từ nhưng luật khác hẳn phần thời gian: in cho không gian kín, on cho bề mặt, at cho một điểm. Bẫy riêng của người Việt là động từ arrive — nó không bao giờ đi với to.",
+  "meaning": "Giới từ chỉ vị trí và phương tiện đi lại",
+  "rule": [
+    "<em>in</em> + không gian kín · <em>on</em> + bề mặt · <em>at</em> + một điểm",
+    "<em>in</em> the car · <em>on</em> the bus — xe nhỏ vs xe lớn",
+    "<em>arrive in / at</em> — không bao giờ <em>arrive to</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2–B1", "hot": true },
+    { "text": "arrive to ✗" },
+    { "text": "in the car · on the bus" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [62, 63, 74, 92, 100],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Ba giới từ này chia theo <b>cách bạn hình dung không gian</b>: bên trong một khối thì <i>in</i>, trên một bề mặt thì <i>on</i>, tại một điểm trên bản đồ thì <i>at</i>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — phương tiện chia theo kích cỡ:</b><br>• <b>in</b> cho xe NHỎ, phải cúi người chui vào — <i>in the car, in a taxi</i><br>• <b>on</b> cho xe LỚN, đứng thẳng đi lại được — <i>on the bus, on the train, on a plane</i><br>Mẹo nhớ: đi lại được bên trong thì dùng <i>on</i>." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>arrive</i> KHÔNG đi với <i>to</i>:</b><br>• <i>arrive <b>in</b> Hanoi</i> ✓ — thành phố, nước<br>• <i>arrive <b>at</b> the station</i> ✓ — địa điểm cụ thể<br>• <i>arrive <b>to</b></i> ✗ — không bao giờ<br>Nhưng <i>get <b>to</b></i> ✓ và <i>go <b>to</b></i> ✓ thì có. Xem [Khung 63]." },
+        { "t": "h3", "text": "Ba giới từ, ba cách hình dung" },
+        {
+          "t": "table",
+          "head": ["Giới từ", "Hình dung", "Ví dụ"],
+          "rows": [
+            ["<code>in</code>", "Bên trong một khối, một vùng", "in the room · in Hanoi · in Vietnam"],
+            ["<code>on</code>", "Trên một bề mặt, một đường", "on the table · on Main Street · on the wall"],
+            ["<code>at</code>", "Tại một điểm trên bản đồ", "at the station · at the door · at work"],
+            ["Không mạo từ", "<code>at home · at work · at school</code>", "I'm at work."]
+          ]
+        },
+        { "t": "p", "html": "Cùng một nơi có thể dùng hai giới từ tùy cách nhìn: <i><b>at</b> the station</i> = tôi đang ở ga (một điểm hẹn), còn <i><b>in</b> the station</i> = tôi đang bên trong tòa nhà ga. Cả hai đều đúng, chỉ khác góc nhìn." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Giới từ", "Loại nơi chốn", "Ví dụ"],
+          "rows": [
+            ["<code>in</code>", "Không gian kín", "in the room · in the kitchen · in a box"],
+            ["<code>in</code>", "Thành phố, nước, vùng", "in Hanoi · in Vietnam · in the north"],
+            ["<code>in</code>", "Xe nhỏ", "in the car · in a taxi"],
+            ["<code>in</code>", "Sách, ảnh, báo", "in the book · in the photo"],
+            ["<code>on</code>", "Bề mặt", "on the table · on the wall · on the floor"],
+            ["<code>on</code>", "Đường phố", "on Main Street · on the corner"],
+            ["<code>on</code>", "Xe lớn, công cộng", "on the bus · on the train · on a plane"],
+            ["<code>on</code>", "Tầng, trang", "on the second floor · on page 10"],
+            ["<code>at</code>", "Một điểm cụ thể", "at the station · at the door · at the bus stop"],
+            ["<code>at</code>", "Địa chỉ đầy đủ", "at 25 Main Street"],
+            ["<code>at</code>", "Sự kiện", "at the party · at a concert"],
+            ["Không mạo từ", "<code>at home · at work · at school</code>", "I'm at work now."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Nhớ bộ ba không mạo từ:</b> <i>at <b>home</b>, at <b>work</b>, at <b>school</b></i> — không bao giờ có <i>the</i>. Nhưng <i>at <b>the</b> office</i> ✓ và <i>at <b>the</b> university</i> ✓ thì lại có. Xem [Ngữ pháp 21]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I live in Hanoi.", "vi": "Tôi sống ở Hà Nội.", "note": "Thành phố và nước đi với <b>in</b>. Xem [Khung 74]." },
+            { "en": "The book is on the table.", "vi": "Quyển sách ở trên bàn.", "note": "Bề mặt đi với <b>on</b>. Xem [Khung 100]." },
+            { "en": "I'll meet you at the station.", "vi": "Tôi gặp bạn ở nhà ga.", "note": "Một ĐIỂM hẹn thì dùng <b>at</b>." },
+            { "en": "I go to work in the car.", "vi": "Tôi đi làm bằng ô tô.", "note": "BẪY SỐ MỘT: xe NHỎ dùng <b>in</b>." },
+            { "en": "I go to work on the bus.", "vi": "Tôi đi làm bằng xe buýt.", "note": "Xe LỚN đi lại được bên trong thì dùng <b>on</b>." },
+            { "en": "I'm at work at the moment.", "vi": "Lúc này tôi đang ở chỗ làm.", "note": "<b>at work</b> không có <i>the</i>." },
+            { "en": "We arrived in Hanoi at six.", "vi": "Sáu giờ bọn tôi đến Hà Nội.", "note": "BẪY SỐ HAI: <b>arrive in</b> + thành phố. <i>arrive to</i> ✗." },
+            { "en": "We arrived at the station late.", "vi": "Bọn tôi đến ga muộn.", "note": "<b>arrive at</b> + địa điểm cụ thể." },
+            { "en": "How do I get to the airport?", "vi": "Tôi đến sân bay bằng cách nào?", "note": "<b>get to</b> ✓ có <i>to</i> — khác <i>arrive</i>. Xem [Khung 63]." },
+            { "en": "The office is on the second floor.", "vi": "Văn phòng ở tầng hai.", "note": "Tầng lầu đi với <b>on</b>." },
+            { "en": "There's a café on the corner.", "vi": "Có một quán cà phê ở góc đường.", "note": "<b>on the corner</b> — góc phố. Xem [Khung 62]." },
+            { "en": "I saw her at the party.", "vi": "Tôi gặp cô ấy ở bữa tiệc.", "note": "Sự kiện đi với <b>at</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🏙️", "title": "Nói nơi sống", "text": "<i>I live in Hanoi.</i> Xem [Khung 74]." },
+            { "icon": "📍", "title": "Hẹn gặp ở đâu", "text": "<i>I'll meet you at the station.</i>" },
+            { "icon": "🚌", "title": "Nói phương tiện", "text": "<i>on the bus</i> nhưng <i>in the car</i>." },
+            { "icon": "🗺️", "title": "Chỉ đường", "text": "<i>on the corner · on the left</i> Xem [Khung 62]." },
+            { "icon": "📦", "title": "Mô tả vị trí đồ vật", "text": "<i>The book is on the table.</i> Xem [Khung 100]." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "<i>arrive <b>to</b></i> ✗. Luôn là <i>arrive in</i> hoặc <i>arrive at</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "in & on — không gian và bề mặt",
+              "items": [
+                { "w": "in Hanoi / in Vietnam", "vi": "ở Hà Nội / ở Việt Nam", "ex": "I live in Hanoi.", "exvi": "Tôi sống ở Hà Nội.", "note": "Thành phố và nước đi với <b>in</b>. Xem [Khung 74]." },
+                { "w": "in the room", "vi": "trong phòng", "ex": "There's no one in the room.", "exvi": "Trong phòng không có ai." },
+                { "w": "in the car / in a taxi", "vi": "trong ô tô / taxi", "ex": "I go to work in the car.", "exvi": "Tôi đi làm bằng ô tô.", "note": "BẪY SỐ MỘT: xe NHỎ dùng <b>in</b>." },
+                { "w": "in the photo", "vi": "trong ảnh", "ex": "Who's that in the photo?", "exvi": "Ai trong ảnh thế?" },
+                { "w": "in the north", "vi": "ở miền bắc", "ex": "It's colder in the north.", "exvi": "Miền bắc lạnh hơn." },
+                { "w": "on the table", "vi": "trên bàn", "ex": "The book is on the table.", "exvi": "Quyển sách ở trên bàn.", "note": "Bề mặt đi với <b>on</b>. Xem [Khung 100]." },
+                { "w": "on the wall", "vi": "trên tường", "ex": "There's a picture on the wall.", "exvi": "Có một bức tranh trên tường." },
+                { "w": "on the bus / on the train", "vi": "trên xe buýt / tàu", "ex": "I go to work on the bus.", "exvi": "Tôi đi làm bằng xe buýt.", "note": "Xe LỚN đi lại được bên trong thì dùng <b>on</b>." },
+                { "w": "on Main Street", "vi": "trên phố Main", "ex": "The bank is on Main Street.", "exvi": "Ngân hàng ở phố Main.", "note": "Đường phố đi với <b>on</b> (kiểu Mỹ) hoặc <b>in</b> (kiểu Anh)." },
+                { "w": "on the corner", "vi": "ở góc đường", "ex": "There's a café on the corner.", "exvi": "Có quán cà phê ở góc đường. Xem [Khung 62]." },
+                { "w": "on the second floor", "vi": "ở tầng hai", "ex": "The office is on the second floor.", "exvi": "Văn phòng ở tầng hai." },
+                { "w": "on the left / right", "vi": "bên trái / phải", "ex": "It's on your left.", "exvi": "Nó ở bên trái bạn. Xem [Khung 63]." }
+              ]
+            },
+            {
+              "title": "at & các động từ đi kèm",
+              "items": [
+                { "w": "at the station", "vi": "ở nhà ga", "ex": "I'll meet you at the station.", "exvi": "Tôi gặp bạn ở nhà ga.", "note": "Một ĐIỂM hẹn thì dùng <b>at</b>." },
+                { "w": "at the door", "vi": "ở cửa", "ex": "Someone's at the door.", "exvi": "Có ai ở ngoài cửa." },
+                { "w": "at the bus stop", "vi": "ở bến xe buýt", "ex": "I'm waiting at the bus stop.", "exvi": "Tôi đang chờ ở bến xe buýt." },
+                { "w": "at home", "vi": "ở nhà", "ex": "I'm at home today.", "exvi": "Hôm nay tôi ở nhà.", "note": "KHÔNG có <i>the</i>: <i>at the home</i> ✗." },
+                { "w": "at work", "vi": "ở chỗ làm", "ex": "I'm at work at the moment.", "exvi": "Lúc này tôi đang ở chỗ làm.", "note": "Cũng không có <i>the</i>." },
+                { "w": "at school", "vi": "ở trường", "ex": "My son is at school.", "exvi": "Con tôi đang ở trường.", "note": "Nhưng <i>at <b>the</b> office</i> ✓ thì lại có. Xem [Ngữ pháp 21]." },
+                { "w": "at the party", "vi": "ở bữa tiệc", "ex": "I saw her at the party.", "exvi": "Tôi gặp cô ấy ở bữa tiệc.", "note": "Sự kiện đi với <b>at</b>." },
+                { "w": "at 25 Main Street", "vi": "tại số 25 phố Main", "ex": "We live at 25 Main Street.", "exvi": "Nhà tôi ở số 25 phố Main.", "note": "Địa chỉ ĐẦY ĐỦ có số nhà thì dùng <b>at</b>." },
+                { "w": "arrive in + thành phố", "vi": "đến (thành phố)", "ex": "We arrived in Hanoi at six.", "exvi": "Sáu giờ bọn tôi đến Hà Nội.", "note": "BẪY SỐ HAI: <i>arrive to Hanoi</i> ✗." },
+                { "w": "arrive at + địa điểm", "vi": "đến (nơi cụ thể)", "ex": "We arrived at the station late.", "exvi": "Bọn tôi đến ga muộn." },
+                { "w": "get to", "vi": "đến được", "ex": "How do I get to the airport?", "exvi": "Tôi đến sân bay bằng cách nào?", "note": "<b>get to</b> CÓ <i>to</i> — khác <i>arrive</i>. Xem [Khung 63]." },
+                { "w": "go to / come to", "vi": "đi đến / tới", "ex": "I go to work by bus.", "exvi": "Tôi đi làm bằng xe buýt.", "note": "Nhưng <i>go <b>home</b></i> ✓ không có <i>to</i>. Xem [Khung 91]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "We arrived <b>to</b> Hanoi at six.", "right": "We arrived <b>in</b> Hanoi at six.", "why": "BẪY SỐ HAI: <b>arrive</b> KHÔNG BAO GIỜ đi với <i>to</i>. Thành phố thì <i>arrive in</i>." },
+            { "wrong": "We arrived <b>to</b> the station.", "right": "We arrived <b>at</b> the station.", "why": "Địa điểm cụ thể thì <b>arrive at</b>. Nhưng <i>get <b>to</b> the station</i> ✓." },
+            { "wrong": "I go to work <b>in</b> the bus.", "right": "I go to work <b>on</b> the bus.", "why": "BẪY SỐ MỘT: xe LỚN đi lại được bên trong thì dùng <b>on</b>." },
+            { "wrong": "I go to work <b>on</b> the car.", "right": "I go to work <b>in</b> the car.", "why": "Ngược lại: xe NHỎ phải cúi người chui vào thì dùng <b>in</b>." },
+            { "wrong": "I'm at <b>the</b> work.", "right": "I'm at work.", "why": "Bộ ba <i>at home, at work, at school</i> KHÔNG có mạo từ. Xem [Ngữ pháp 21]." },
+            { "wrong": "I live <b>at</b> Hanoi.", "right": "I live <b>in</b> Hanoi.", "why": "Thành phố và nước luôn đi với <b>in</b>. Xem [Khung 74]." },
+            { "wrong": "The office is <b>in</b> the second floor.", "right": "The office is <b>on</b> the second floor.", "why": "Tầng lầu đi với <b>on</b> — coi như một mặt phẳng." },
+            { "wrong": "I saw her <b>in</b> the party.", "right": "I saw her <b>at</b> the party.", "why": "Sự kiện đi với <b>at</b>." },
+            { "wrong": "I'm going <b>to home</b>.", "right": "I'm going <b>home</b>.", "why": "<i>home</i> là TRẠNG TỪ nên không cần <i>to</i>. Xem [Khung 91]." },
+            { "wrong": "There's a café <b>in</b> the corner. <i>(ý: góc phố)</i>", "right": "There's a café <b>on</b> the corner.", "why": "<b>on the corner</b> = góc phố ngoài đường; <i>in the corner</i> = góc trong phòng." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>in the car</code> / <code>on the bus</code>", "Xe nhỏ / xe lớn", "in a taxi ≠ on a plane"],
+            ["<code>at the station</code> / <code>in the station</code>", "Điểm hẹn / bên trong tòa nhà", "Cả hai đều đúng, khác góc nhìn"],
+            ["<code>on the corner</code> / <code>in the corner</code>", "Góc phố / góc phòng", "a café on the corner"],
+            ["<code>arrive in</code> / <code>arrive at</code>", "Thành phố / địa điểm", "arrive in Hanoi · arrive at the station"],
+            ["<code>arrive</code> / <code>get to</code>", "Không có to / CÓ to", "arrive at ≠ get to"],
+            ["<code>at home / work / school</code>", "Không mạo từ. Xem [Ngữ pháp 21]", "at work ≠ at the work"],
+            ["<code>go home</code>", "Không có to", "I'm going home."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng giới từ nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn hình dung nơi đó như thế nào?",
+          "nodes": [
+            { "if": "Bên trong một khối kín, hoặc một vùng rộng", "then": "in", "ex": "in the room · in Hanoi" },
+            { "if": "Trên một bề mặt, một đường, một tầng", "then": "on", "ex": "on the table · on the second floor" },
+            { "if": "Một điểm hẹn, một địa chỉ, một sự kiện", "then": "at", "ex": "at the station · at the party" },
+            { "if": "Phương tiện mà bạn chui vào (ô tô, taxi)", "then": "in", "ex": "in the car" },
+            { "if": "Phương tiện đi lại được bên trong (buýt, tàu, máy bay)", "then": "on", "ex": "on the bus" },
+            { "if": "Dùng động từ arrive", "then": "arrive in (thành phố) / arrive at (địa điểm) — không bao giờ to", "ex": "arrive in Hanoi" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ cụ thể của nơi chốn" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "in Vietnam", "vi": "Rộng nhất — cả nước" },
+            { "en": "in Hanoi", "vi": "Một thành phố" },
+            { "en": "on Main Street", "vi": "Một con phố" },
+            { "en": "at 25 Main Street", "vi": "Một địa chỉ cụ thể" },
+            { "en": "in the kitchen", "vi": "Hẹp nhất — một căn phòng" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Giới từ nơi chốn xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 63, "why": "How do I get to…? — khung chính của hỏi đường, có cả get to và arrive at." },
+            { "id": 62, "why": "Where can I…? — mô tả vị trí: on the corner, on your left, at the station." },
+            { "id": 74, "why": "I'm from… / I live in… — giới thiệu nơi ở, luôn dùng in với thành phố." },
+            { "id": 100, "why": "There is a book on the table — giới từ chỉ vị trí đồ vật." },
+            { "id": 92, "why": "I'm meeting him at six — phương tiện đi lại và địa điểm hẹn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền in / on / at" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi sống ở Hà Nội.", "blank": "I live __________ Hanoi.", "a": "in" },
+            { "vi": "Quyển sách ở trên bàn.", "blank": "The book is __________ the table.", "a": "on" },
+            { "vi": "Tôi gặp bạn ở nhà ga.", "blank": "I'll meet you __________ the station.", "a": "at" },
+            { "vi": "Tôi đi làm bằng xe buýt.", "blank": "I go to work __________ the bus.", "a": "on" },
+            { "vi": "Tôi đi làm bằng ô tô.", "blank": "I go to work __________ the car.", "a": "in" },
+            { "vi": "Lúc này tôi đang ở chỗ làm.", "blank": "I'm __________ work at the moment.", "a": "at" },
+            { "vi": "Văn phòng ở tầng hai.", "blank": "The office is __________ the second floor.", "a": "on" },
+            { "vi": "Tôi gặp cô ấy ở bữa tiệc.", "blank": "I saw her __________ the party.", "a": "at" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Sáu giờ bọn tôi đến Hà Nội.", "blank": "We arrived __________ Hanoi at six.  (to / in)", "a": "in — arrive không đi với to" },
+            { "vi": "Bọn tôi đến ga muộn.", "blank": "We arrived __________ the station late.  (to / at)", "a": "at" },
+            { "vi": "Tôi đến sân bay bằng cách nào?", "blank": "How do I get __________ the airport?  (to / at)", "a": "to — get to có to" },
+            { "vi": "Lúc này tôi đang ở chỗ làm.", "blank": "I'm at __________ work.  (the / không gì)", "a": "không gì" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi sống ở Hà Nội.", "a": "I live in Hanoi." },
+            { "vi": "2. Tôi gặp bạn ở nhà ga nhé.", "a": "I'll meet you at the station." },
+            { "vi": "3. Sáu giờ bọn tôi đến Hà Nội.", "a": "We arrived in Hanoi at six." },
+            { "vi": "4. Có một quán cà phê ở góc đường.", "a": "There's a café on the corner." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Hình dung không gian:</b> bên trong một khối thì <i>in</i> · trên bề mặt thì <i>on</i> · tại một điểm thì <i>at</i>.",
+            "<b>Mẹo phương tiện:</b> đi lại được bên trong thì dùng <i>on</i> (buýt, tàu, máy bay); phải chui vào thì dùng <i>in</i> (ô tô, taxi).",
+            "<b><i>arrive</i> không bao giờ đi với <i>to</i></b> — luôn là <i>arrive in</i> (thành phố) hoặc <i>arrive at</i> (địa điểm).",
+            "<b>Bộ ba không mạo từ:</b> <i>at home, at work, at school</i>. Nhưng <i>at <b>the</b> office</i> ✓.",
+            "<b>Cặp <i>corner</i>:</b> <i>on the corner</i> = góc phố ngoài đường · <i>in the corner</i> = góc trong phòng.",
+            "<b>Bài tập 3 phút:</b> mô tả đường từ nhà bạn đến chỗ làm bằng năm câu — dùng đủ <i>in</i>, <i>on</i>, <i>at</i> và một câu có <i>get to</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

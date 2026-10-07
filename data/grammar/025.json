@@ -1,0 +1,277 @@
+{
+  "id": 25,
+  "group": "Nhóm 8 · Dạng theo sau động từ",
+  "title": "Giới từ + V-ing — bẫy chữ to",
+  "subtitle": "Một luật duy nhất, không ngoại lệ: sau giới từ luôn là V-ing. Vấn đề nằm ở chỗ chữ to vừa có thể là giới từ vừa có thể là dấu hiệu nguyên thể — nên look forward to seeing ✓ mà want to see cũng ✓.",
+  "meaning": "Dạng động từ sau mọi giới từ",
+  "rule": [
+    "Giới từ + <em>V-ing</em> — không có ngoại lệ",
+    "<em>look forward to / be used to / object to</em> + <em>V-ing</em>",
+    "<em>want to / need to / decide to</em> + <em>V trần</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1", "hot": true },
+    { "text": "to giới từ ≠ to nguyên thể" },
+    { "text": "Mẹo: thay bằng danh từ" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [82, 86, 87, 88, 93],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Luật này đơn giản đến mức không có ngoại lệ nào: <b>sau giới từ luôn là danh từ hoặc V-ing</b>. <i>good <b>at</b> swimming</i>, <i>interested <b>in</b> learning</i>, <i>tired <b>of</b> waiting</i>, <i>instead <b>of</b> going</i>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — chữ <i>to</i> có hai vai:</b><br>• <b>to GIỚI TỪ</b> → V-ing: <i>look forward <b>to seeing</b></i> ✓, <i>be used <b>to working</b></i> ✓<br>• <b>to NGUYÊN THỂ</b> → động từ trần: <i>want <b>to see</b></i> ✓, <i>going <b>to call</b></i> ✓<br>Nhìn chữ <i>to</i> không phân biệt được — phải nhìn cụm đứng trước." },
+        { "t": "callout", "html": "<b>MẸO KIỂM TRA VÀNG:</b> thử thay động từ bằng một <b>danh từ</b>.<br>• <i>I'm looking forward to <b>the weekend</b></i> ✓ nghe xuôi → <i>to</i> là GIỚI TỪ → dùng V-ing<br>• <i>I want <b>the weekend</b></i> nghe lạ ở ngữ cảnh này → <i>to</i> là NGUYÊN THỂ → dùng động từ trần<br>Mẹo này đúng trong mọi trường hợp." },
+        { "t": "h3", "text": "Bốn cụm có to là giới từ" },
+        {
+          "t": "table",
+          "head": ["Cụm", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>look forward to</code>", "mong chờ", "looking forward to seeing you"],
+            ["<code>be used to</code>", "đã quen với", "I'm used to working late"],
+            ["<code>get used to</code>", "đang quen dần", "getting used to the noise"],
+            ["<code>object to</code>", "phản đối việc", "I object to being rushed"]
+          ]
+        },
+        { "t": "p", "html": "Thêm vài cụm nữa cũng có <i>to</i> là giới từ: <b>in addition to, be committed to, be opposed to, get around to, look up to</b>. Danh sách không dài, học thuộc là xong." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Giới từ", "Cụm tiêu biểu", "Ví dụ"],
+          "rows": [
+            ["<code>about</code>", "worried about · think about", "I'm worried about failing."],
+            ["<code>of</code>", "tired of · instead of · afraid of", "I'm tired of waiting."],
+            ["<code>for</code>", "sorry for · thank you for · famous for", "Sorry for being late."],
+            ["<code>in</code>", "interested in · succeed in", "I'm interested in learning Thai."],
+            ["<code>at</code>", "good at · bad at", "She's good at swimming."],
+            ["<code>on</code>", "keen on · insist on · depend on", "He insisted on paying."],
+            ["<code>after / before</code>", "after doing · before leaving", "After eating, I left."],
+            ["<code>without</code>", "without saying", "He left without saying goodbye."],
+            ["<code>by</code>", "by doing", "You learn by practising."],
+            ["<code>to</code> (giới từ)", "look forward to · be used to", "I'm looking forward to seeing you."],
+            ["<code>to</code> (nguyên thể)", "want to · need to · going to", "I want to see you."],
+            ["Động từ chỉ V-ing", "enjoy · finish · avoid. Xem [Ngữ pháp 24]", "I enjoy reading."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cặp dễ nhầm nhất tiếng Anh nằm ngay ở đây:</b> <i>I <b>used to</b> work late</i> = ngày xưa tôi hay làm khuya (giờ không). <i>I'm <b>used to</b> working late</i> = tôi đã quen làm khuya. Một cái <i>to + V trần</i>, một cái <i>to + V-ing</i>. Xem [Khung 93]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm looking forward to seeing you.", "vi": "Tôi mong được gặp bạn.", "note": "BẪY SỐ MỘT: <i>to</i> là GIỚI TỪ nên dùng <b>seeing</b>. Xem [Khung 86]." },
+            { "en": "I look forward to hearing from you.", "vi": "Tôi mong nhận được hồi âm.", "note": "Câu kết email chuẩn mực trong tiếng Anh công sở." },
+            { "en": "I want to see you.", "vi": "Tôi muốn gặp bạn.", "note": "Ở đây <i>to</i> là NGUYÊN THỂ nên dùng <b>see</b> dạng trần." },
+            { "en": "I'm used to working late.", "vi": "Tôi quen làm khuya rồi.", "note": "<b>be used to</b> + V-ing = đã quen với." },
+            { "en": "I used to work late.", "vi": "Ngày xưa tôi hay làm khuya.", "note": "<b>used to</b> + V TRẦN = thói quen quá khứ. Cặp dễ nhầm nhất. Xem [Khung 93]." },
+            { "en": "I'm worried about failing the exam.", "vi": "Tôi lo trượt kỳ thi.", "note": "Sau <b>about</b> là V-ing. Xem [Khung 87]." },
+            { "en": "She's good at swimming.", "vi": "Cô ấy bơi giỏi.", "note": "Sau <b>at</b> là V-ing." },
+            { "en": "I'm tired of waiting.", "vi": "Tôi chán chờ đợi rồi.", "note": "Sau <b>of</b> là V-ing." },
+            { "en": "Thank you for coming.", "vi": "Cảm ơn bạn đã đến.", "note": "Sau <b>for</b> là V-ing. Xem [Khung 78]." },
+            { "en": "He left without saying goodbye.", "vi": "Anh ấy đi mà không chào.", "note": "Sau <b>without</b> là V-ing." },
+            { "en": "After eating, I went for a walk.", "vi": "Ăn xong tôi đi dạo.", "note": "Sau <b>after</b> và <b>before</b> cũng là V-ing." },
+            { "en": "You learn by practising.", "vi": "Học bằng cách luyện tập.", "note": "<b>by + V-ing</b> = bằng cách làm gì." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "📧", "title": "Kết email công việc", "text": "<i>I look forward to hearing from you.</i> Xem [Khung 86]." },
+            { "icon": "💪", "title": "Nói giỏi việc gì", "text": "<i>She's good at swimming.</i> Sau <b>at</b> là V-ing." },
+            { "icon": "😟", "title": "Nói lo lắng", "text": "<i>I'm worried about failing.</i> Xem [Khung 87]." },
+            { "icon": "🙏", "title": "Cảm ơn, xin lỗi", "text": "<i>Thank you for coming.</i> · <i>Sorry for being late.</i>" },
+            { "icon": "🔄", "title": "Nói đã quen với", "text": "<i>I'm used to working late.</i> Khác <i>I used to work</i>." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "<i>to</i> là nguyên thể. <i>I want to seeing</i> ✗ — xem [Ngữ pháp 24]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Cụm có to là GIỚI TỪ",
+              "items": [
+                { "w": "look forward to + V-ing", "vi": "mong chờ", "ex": "I'm looking forward to seeing you.", "exvi": "Tôi mong được gặp bạn.", "note": "BẪY SỐ MỘT. <i>look forward to see</i> ✗. Xem [Khung 86]." },
+                { "w": "be used to + V-ing", "vi": "đã quen với", "ex": "I'm used to working late.", "exvi": "Tôi quen làm khuya rồi.", "note": "Khác hẳn <i>used to + V trần</i> = thói quen quá khứ." },
+                { "w": "get used to + V-ing", "vi": "đang quen dần", "ex": "I'm getting used to the noise.", "exvi": "Tôi đang quen dần với tiếng ồn." },
+                { "w": "object to + V-ing", "vi": "phản đối việc", "ex": "I object to being rushed.", "exvi": "Tôi phản đối việc bị giục." },
+                { "w": "in addition to + V-ing", "vi": "ngoài việc", "ex": "In addition to writing it, I edited it.", "exvi": "Ngoài viết, tôi còn biên tập nó." },
+                { "w": "be committed to + V-ing", "vi": "cam kết với việc", "ex": "We're committed to improving.", "exvi": "Chúng tôi cam kết cải thiện." },
+                { "w": "get around to + V-ing", "vi": "rốt cuộc mới làm được", "ex": "I finally got around to doing it.", "exvi": "Cuối cùng tôi cũng làm được.", "note": "Thành ngữ — trì hoãn mãi rồi mới làm." },
+                { "w": "be opposed to + V-ing", "vi": "phản đối", "ex": "They're opposed to changing it.", "exvi": "Họ phản đối việc thay đổi nó." },
+                { "w": "look up to + người", "vi": "ngưỡng mộ ai", "ex": "I look up to my teacher.", "exvi": "Tôi ngưỡng mộ thầy tôi.", "note": "Ở đây theo sau là người, nhưng <i>to</i> vẫn là giới từ." },
+                { "w": "want to + V trần", "vi": "muốn", "ex": "I want to see you.", "exvi": "Tôi muốn gặp bạn.", "note": "ĐỐI LẬP: ở đây <i>to</i> là NGUYÊN THỂ. Xem [Ngữ pháp 24]." },
+                { "w": "going to + V trần", "vi": "định, sẽ", "ex": "I'm going to call him.", "exvi": "Tôi định gọi anh ấy.", "note": "Cũng là <i>to</i> nguyên thể. Xem [Khung 91]." },
+                { "w": "used to + V trần", "vi": "ngày xưa hay", "ex": "I used to work late.", "exvi": "Ngày xưa tôi hay làm khuya.", "note": "Cặp dễ nhầm nhất với <i>be used to + V-ing</i>. Xem [Khung 93]." }
+              ]
+            },
+            {
+              "title": "Các giới từ khác + V-ing",
+              "items": [
+                { "w": "worried about + V-ing", "vi": "lo về việc", "ex": "I'm worried about failing.", "exvi": "Tôi lo trượt. Xem [Khung 87]." },
+                { "w": "think about + V-ing", "vi": "nghĩ đến việc", "ex": "I'm thinking about moving.", "exvi": "Tôi đang nghĩ đến chuyện chuyển đi." },
+                { "w": "tired of + V-ing", "vi": "chán việc", "ex": "I'm tired of waiting.", "exvi": "Tôi chán chờ đợi rồi." },
+                { "w": "afraid of + V-ing", "vi": "sợ việc", "ex": "I'm afraid of flying.", "exvi": "Tôi sợ đi máy bay." },
+                { "w": "instead of + V-ing", "vi": "thay vì", "ex": "Let's walk instead of driving.", "exvi": "Mình đi bộ thay vì lái xe." },
+                { "w": "thank you for + V-ing", "vi": "cảm ơn vì đã", "ex": "Thank you for coming.", "exvi": "Cảm ơn bạn đã đến. Xem [Khung 78]." },
+                { "w": "sorry for + V-ing", "vi": "xin lỗi vì đã", "ex": "Sorry for being late.", "exvi": "Xin lỗi vì đến muộn. Xem [Khung 79]." },
+                { "w": "interested in + V-ing", "vi": "quan tâm đến việc", "ex": "I'm interested in learning Thai.", "exvi": "Tôi muốn học tiếng Thái." },
+                { "w": "good at / bad at + V-ing", "vi": "giỏi / dở việc", "ex": "She's good at swimming.", "exvi": "Cô ấy bơi giỏi." },
+                { "w": "insist on + V-ing", "vi": "nằng nặc đòi", "ex": "He insisted on paying.", "exvi": "Anh ấy nằng nặc đòi trả tiền." },
+                { "w": "without + V-ing", "vi": "mà không", "ex": "He left without saying goodbye.", "exvi": "Anh ấy đi mà không chào." },
+                { "w": "by + V-ing", "vi": "bằng cách", "ex": "You learn by practising.", "exvi": "Học bằng cách luyện tập.", "note": "Khác <i>by bus</i> — ở đây là cách thức, không phải phương tiện." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'm looking forward to <b>see</b> you.", "right": "I'm looking forward to <b>seeing</b> you.", "why": "BẪY SỐ MỘT: <i>to</i> ở đây là GIỚI TỪ. Mẹo kiểm tra — <i>looking forward to <b>the weekend</b></i> nghe xuôi." },
+            { "wrong": "I look forward to <b>hear</b> from you.", "right": "I look forward to <b>hearing</b> from you.", "why": "Cùng lỗi, và đây là câu kết email nên sai thì lộ ngay." },
+            { "wrong": "I'm used to <b>work</b> late. <i>(ý: đã quen)</i>", "right": "I'm used to <b>working</b> late.", "why": "Đã có <i>be</i> thì <i>to</i> là giới từ, nên theo sau là V-ing." },
+            { "wrong": "I used to <b>working</b> late. <i>(ý: ngày xưa hay làm)</i>", "right": "I used to <b>work</b> late.", "why": "Không có <i>be</i> thì <i>to</i> là nguyên thể. Cặp dễ nhầm nhất tiếng Anh. Xem [Khung 93]." },
+            { "wrong": "I'm worried about <b>fail</b> the exam.", "right": "I'm worried about <b>failing</b> the exam.", "why": "Sau mọi giới từ đều là V-ing — <b>about</b> cũng vậy." },
+            { "wrong": "Thank you for <b>come</b>.", "right": "Thank you for <b>coming</b>.", "why": "Sau <b>for</b> là V-ing. Xem [Khung 78]." },
+            { "wrong": "She's good at <b>swim</b>.", "right": "She's good at <b>swimming</b>.", "why": "Sau <b>at</b> là V-ing." },
+            { "wrong": "He left without <b>to say</b> goodbye.", "right": "He left without <b>saying</b> goodbye.", "why": "<b>without</b> là giới từ nên không bao giờ đi với <i>to V</i>." },
+            { "wrong": "Let's walk instead of <b>to drive</b>.", "right": "Let's walk instead of <b>driving</b>.", "why": "<b>instead of</b> kết thúc bằng giới từ <i>of</i> nên kéo theo V-ing." },
+            { "wrong": "I want <b>to seeing</b> you.", "right": "I want <b>to see</b> you.", "why": "Ngược lại: ở đây <i>to</i> là NGUYÊN THỂ nên theo sau là động từ trần. Xem [Ngữ pháp 24]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "to là gì", "Ví dụ"],
+          "rows": [
+            ["<code>look forward to + V-ing</code>", "GIỚI TỪ", "looking forward to seeing you"],
+            ["<code>be used to + V-ing</code>", "GIỚI TỪ", "I'm used to working late."],
+            ["<code>object to + V-ing</code>", "GIỚI TỪ", "I object to being rushed."],
+            ["<code>want to + V trần</code>", "NGUYÊN THỂ", "I want to see you."],
+            ["<code>used to + V trần</code>", "NGUYÊN THỂ. Xem [Khung 93]", "I used to work late."],
+            ["<code>going to + V trần</code>", "NGUYÊN THỂ. Xem [Khung 91]", "I'm going to call him."],
+            ["<code>enjoy / finish + V-ing</code>", "Không có to. Xem [Ngữ pháp 24]", "I enjoy reading."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: V-ing hay động từ trần?" },
+        {
+          "t": "tree",
+          "q": "Thử thay động từ bằng một danh từ — câu có nghe xuôi không?",
+          "nodes": [
+            { "if": "Thay bằng danh từ nghe xuôi (looking forward to the weekend)", "then": "to là GIỚI TỪ → V-ing", "ex": "looking forward to seeing you" },
+            { "if": "Phía trước có be hoặc get (be used to, get used to)", "then": "to là GIỚI TỪ → V-ing", "ex": "I'm used to working late." },
+            { "if": "Phía trước là want, need, decide, hope, going", "then": "to là NGUYÊN THỂ → động từ trần", "ex": "I want to see you." },
+            { "if": "Phía trước là about, of, for, in, at, on, without, by", "then": "Giới từ → V-ing", "ex": "good at swimming" },
+            { "if": "Phía trước là after hoặc before", "then": "Giới từ → V-ing", "ex": "After eating, I left." },
+            { "if": "Phía trước là enjoy, finish, avoid, mind", "then": "V-ing — không có to. Xem [Ngữ pháp 24]", "ex": "I enjoy reading." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ quen thuộc với một việc" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'm not used to working late.", "vi": "Chưa quen chút nào" },
+            { "en": "I'm getting used to working late.", "vi": "Đang quen dần" },
+            { "en": "I'm used to working late.", "vi": "Đã quen" },
+            { "en": "I'm quite used to working late now.", "vi": "Khá quen rồi" },
+            { "en": "I used to work late, but not anymore.", "vi": "Ngày xưa hay làm, giờ thì không" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Luật giới từ + V-ing xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 86, "why": "I'm looking forward to… — khung chính, mổ xẻ kỹ nhất bẫy chữ to và mẹo thay bằng danh từ." },
+            { "id": 93, "why": "I used to… — cặp used to + V trần và be used to + V-ing đặt cạnh nhau." },
+            { "id": 87, "why": "I'm worried about… — giới từ about kéo theo V-ing." },
+            { "id": 88, "why": "I feel bad about… — cùng giới từ about, và cặp about vs for." },
+            { "id": 82, "why": "I'm happy about/with… — giới từ cố định sau tính từ chỉ cảm xúc." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ trong ngoặc" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi mong được gặp bạn.", "blank": "I'm looking forward to __________ (see) you.", "a": "seeing" },
+            { "vi": "Tôi muốn gặp bạn.", "blank": "I want __________ (see) you.", "a": "to see" },
+            { "vi": "Tôi quen làm khuya rồi.", "blank": "I'm used to __________ (work) late.", "a": "working" },
+            { "vi": "Ngày xưa tôi hay làm khuya.", "blank": "I used to __________ (work) late.", "a": "work" },
+            { "vi": "Cảm ơn bạn đã đến.", "blank": "Thank you for __________ (come).", "a": "coming" },
+            { "vi": "Cô ấy bơi giỏi.", "blank": "She's good at __________ (swim).", "a": "swimming" },
+            { "vi": "Anh ấy đi mà không chào.", "blank": "He left without __________ (say) goodbye.", "a": "saying" },
+            { "vi": "Mình đi bộ thay vì lái xe.", "blank": "Let's walk instead of __________ (drive).", "a": "driving" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi mong nhận được hồi âm.", "blank": "I look forward to __________ from you.  (hear / hearing)", "a": "hearing — to là giới từ" },
+            { "vi": "Tôi định gọi anh ấy.", "blank": "I'm going to __________ him.  (call / calling)", "a": "call — to là nguyên thể" },
+            { "vi": "Tôi lo trượt kỳ thi.", "blank": "I'm worried about __________ the exam.  (fail / failing)", "a": "failing" },
+            { "vi": "Tôi đang quen dần với tiếng ồn.", "blank": "I'm getting used to __________ the noise.  (hear / hearing)", "a": "hearing" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi mong nhận được hồi âm của anh/chị.", "a": "I look forward to hearing from you." },
+            { "vi": "2. Tôi quen làm khuya rồi.", "a": "I'm used to working late." },
+            { "vi": "3. Anh ấy đi mà không chào.", "a": "He left without saying goodbye." },
+            { "vi": "4. Mình đi bộ thay vì lái xe nhé.", "a": "Let's walk instead of driving." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Mẹo kiểm tra vàng:</b> thử thay động từ bằng một DANH TỪ. Nghe xuôi thì <i>to</i> là giới từ → dùng V-ing.",
+            "<b>Học thuộc bốn cụm có <i>to</i> giới từ:</b> <i>look forward to, be used to, get used to, object to</i>.",
+            "<b>Có <i>be</i> hoặc <i>get</i> phía trước thì <i>to</i> là giới từ:</b> <i>I'm used to working</i> ✓ nhưng <i>I used to work</i> ✓.",
+            "<b>Mọi giới từ khác đều rõ ràng:</b> <i>about, of, for, in, at, on, without, by, after, before</i> — tất cả đều kéo V-ing.",
+            "<b>Câu kết email phải thuộc:</b> <i>I look forward to <b>hearing</b> from you.</i> — sai chỗ này là lộ ngay.",
+            "<b>Bài tập 3 phút:</b> viết năm câu với các cụm <i>good at, worried about, tired of, thank you for, instead of</i> — tất cả đều V-ing."
+          ]
+        }
+      ]
+    }
+  ]
+}

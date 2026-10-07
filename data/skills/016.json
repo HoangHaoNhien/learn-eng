@@ -1,0 +1,277 @@
+{
+  "id": 16,
+  "group": "Nhóm 3 · Nói — từ câu lẻ lên đoạn dài",
+  "title": "Giữ lượt & chuyển lượt trong hội thoại",
+  "subtitle": "Bị cắt lời rồi im luôn, hoặc chờ mãi không chen vào được — cả hai đều vì tiếng Anh dùng tín hiệu riêng để báo lượt nói, mà im lặng lịch sự kiểu Việt Nam lại bị hiểu là bạn không có gì để nói.",
+  "meaning": "Giành lượt, giữ lượt và trao lượt trong hội thoại",
+  "rule": [
+    "Muốn nói thì <em>báo hiệu</em>, đừng chờ khoảng lặng",
+    "Bị cắt lời thì <em>giành lại</em>: <em>Sorry, can I just finish…</em>",
+    "Nói xong thì <em>trao lượt</em> rõ ràng"
+  ],
+  "tags": [
+    { "text": "Mức độ: B2 bắt buộc", "hot": true },
+    { "text": "Bị cắt lời rồi im luôn" },
+    { "text": "Chờ mãi không chen được" },
+    { "text": "Ảnh hưởng: lớn" }
+  ],
+  "frames": [52, 53, 56, 58, 59],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Hội thoại tiếng Anh vận hành bằng <b>tín hiệu lượt nói</b>. Người Việt quen chờ người kia dứt hẳn rồi mới nói — nhưng trong tiếng Anh, khoảng lặng đủ dài để bạn chờ <b>gần như không bao giờ xuất hiện</b>, nên bạn ngồi im cả buổi." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — chờ khoảng lặng để chen vào:</b><br>Người bản ngữ nối câu liên tục, chỗ ngắt chỉ khoảng nửa giây. Nếu bạn đợi một khoảng lặng “lịch sự”, bạn sẽ đợi mãi.<br><b>Cách vào đúng:</b> phát một tín hiệu ngắn ngay chỗ người kia vừa xuống giọng:<br><i>“Can I just say something?”</i> · <i>“Actually,…”</i> · <i>“Sorry, but…”</i><br>Nói chồng lên nửa giây đầu là <b>bình thường</b> trong tiếng Anh, không bị coi là bất lịch sự." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — bị cắt lời rồi im luôn:</b><br>Người kia chen ngang, bạn nhường — rồi mất hẳn ý đang nói dở.<br><b>Hai câu giành lại:</b><br><i>“Sorry, can I just finish my point?”</i> — lịch sự nhưng dứt khoát<br><i>“Hang on, I was just going to say…”</i> — thân mật<br>Và nếu bạn <b>chưa nói xong</b>, hãy báo trước: <i>“There are two things — first,…”</i>. Người nghe biết còn phần hai nên sẽ không cắt ngang." },
+        { "t": "h3", "text": "Bốn việc trong một lượt nói" },
+        {
+          "t": "table",
+          "head": ["Việc", "Khi nào", "Câu mẫu"],
+          "rows": [
+            ["Giành lượt", "Muốn chen vào", "Can I just say something?"],
+            ["Giữ lượt", "Chưa nói xong", "Let me just finish…"],
+            ["Trao lượt", "Nói xong, mời người kia", "What do you think?"],
+            ["Giành lại", "Bị cắt ngang", "Sorry, can I just finish?"]
+          ]
+        },
+        { "t": "p", "html": "Việc thứ ba hay bị bỏ qua: nói xong mà <b>không trao lượt</b> thì hội thoại chết. Một câu <i>“What about you?”</i> giữ cho nó chạy tiếp." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Chức năng", "Câu", "Mức lịch sự"],
+          "rows": [
+            ["Chen vào lịch sự", "Can I just say something?", "Cao"],
+            ["Chen vào nhanh", "Actually,… · Sorry, but…", "Trung tính"],
+            ["Chen vào thân mật", "Oh, that reminds me…", "Thấp, bạn bè"],
+            ["Thêm vào ý người kia", "Yes, and another thing is…", "Đồng tình rồi mở rộng"],
+            ["Báo còn nhiều ý", "There are two things — first,…", "Giữ lượt trước"],
+            ["Giữ lượt giữa chừng", "Let me just finish this point.", "Dứt khoát, lịch sự"],
+            ["Giành lại khi bị cắt", "Sorry, can I just finish?", "Cao"],
+            ["Giành lại thân mật", "Hang on, I was just going to say…", "Thấp"],
+            ["Trao lượt — hỏi ý", "What do you think?", "Xem [Khung 52]"],
+            ["Trao lượt — hỏi lại", "What about you?", "Thân mật"],
+            ["Xác nhận rồi trao", "Exactly. And you?", "Xem [Khung 56]"],
+            ["Nhường lượt", "Sorry, go ahead. · You first.", "Khi hai người cùng nói"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Khi hai người cùng mở miệng một lúc</b> — chuyện xảy ra liên tục — đừng cả hai cùng im. Người bản ngữ xử lý bằng một câu ngắn:<br><i>“Sorry — go ahead.”</i> hoặc <i>“No, you first.”</i><br>Rồi khi họ nói xong, bạn quay lại: <i>“So, what I was going to say was…”</i>" },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Can I just say something?", "vi": "Cho tôi nói một câu được không?", "note": "BẪY SỐ MỘT: tín hiệu chen vào lịch sự nhất." },
+            { "en": "Actually, I see it a bit differently.", "vi": "Thật ra tôi nhìn hơi khác.", "note": "<b>Actually</b> là cách vào nhanh và tự nhiên nhất." },
+            { "en": "Sorry, but I'm not sure that's right.", "vi": "Xin lỗi, nhưng tôi không chắc đúng vậy.", "note": "Chen vào để phản biện. Xem [Khung 59]." },
+            { "en": "There are two things — first, the cost.", "vi": "Có hai điều — thứ nhất là chi phí.", "note": "Báo trước còn phần hai nên người nghe sẽ không cắt ngang." },
+            { "en": "Let me just finish this point.", "vi": "Để tôi nói hết ý này đã.", "note": "Giữ lượt khi bị chen giữa chừng." },
+            { "en": "Sorry, can I just finish my point?", "vi": "Xin lỗi, cho tôi nói hết ý được không?", "note": "BẪY SỐ HAI: giành lại lượt, lịch sự mà dứt khoát." },
+            { "en": "Hang on, I was just going to say that.", "vi": "Khoan, tôi vừa định nói điều đó.", "note": "Bản thân mật của câu trên." },
+            { "en": "Yes, and another thing is the time.", "vi": "Đúng, và một điều nữa là thời gian.", "note": "Đồng tình rồi mở rộng — cách vào mượt nhất." },
+            { "en": "Exactly — that's what I meant.", "vi": "Chính xác — ý tôi là vậy.", "note": "Xác nhận nhanh. Xem [Khung 56]." },
+            { "en": "I'm with you on that, but…", "vi": "Tôi ủng hộ bạn chuyện đó, nhưng…", "note": "Đồng tình trước rồi mới lật. Xem [Khung 58]." },
+            { "en": "What do you think?", "vi": "Bạn nghĩ sao?", "note": "Trao lượt — câu giữ cho hội thoại chạy tiếp." },
+            { "en": "Sorry — go ahead.", "vi": "Xin lỗi — bạn nói trước đi.", "note": "Khi hai người cùng mở miệng một lúc." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào cần để ý nhất",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🎤", "title": "Thi nói phần cặp đôi", "text": "Không chen được là không có điểm tương tác." },
+            { "icon": "💼", "title": "Họp nhóm", "text": "Chờ khoảng lặng thì cả buổi không nói được câu nào." },
+            { "icon": "✂️", "title": "Bị cắt lời", "text": "<i>Sorry, can I just finish?</i> — giành lại." },
+            { "icon": "🔀", "title": "Hai người cùng nói", "text": "<i>Sorry — go ahead.</i> rồi quay lại sau." },
+            { "icon": "🏓", "title": "Nói chuyện xã giao", "text": "Nói xong phải trao lượt, nếu không hội thoại chết." },
+            { "icon": "🚫", "title": "Đừng làm…", "text": "Đừng im lặng chờ được mời — sẽ không ai mời." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Câu giành lượt, giữ lượt & trao lượt",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem dùng lúc nào và ví dụ hoàn chỉnh." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Giành lượt & giữ lượt",
+              "items": [
+                { "w": "Can I just say something?", "vi": "Cho tôi nói một câu nhé?", "ex": "Can I just say something?", "exvi": "Cho tôi nói một câu được không?", "note": "BẪY SỐ MỘT: lịch sự nhất, dùng được ở mọi tình huống." },
+                { "w": "Actually,…", "vi": "Thật ra thì…", "ex": "Actually, I see it a bit differently.", "exvi": "Thật ra tôi nhìn hơi khác.", "note": "Cách vào nhanh và tự nhiên nhất." },
+                { "w": "Sorry, but…", "vi": "Xin lỗi, nhưng…", "ex": "Sorry, but I'm not sure that's right.", "exvi": "Xin lỗi nhưng tôi không chắc đúng vậy." },
+                { "w": "Yes, and another thing is…", "vi": "Đúng, và một điều nữa là…", "ex": "Yes, and another thing is the time.", "exvi": "Đúng, và một điều nữa là thời gian.", "note": "Đồng tình rồi mở rộng — cách vào mượt nhất." },
+                { "w": "That reminds me…", "vi": "Nhắc mới nhớ…", "ex": "Oh, that reminds me — did you call her?", "exvi": "Nhắc mới nhớ — bạn gọi cô ấy chưa?" },
+                { "w": "Just to add to that,…", "vi": "Bổ sung thêm là…", "ex": "Just to add to that, it's also cheaper.", "exvi": "Bổ sung thêm là còn rẻ hơn." },
+                { "w": "There are two things —", "vi": "Có hai điều —", "ex": "There are two things — first, the cost.", "exvi": "Có hai điều — thứ nhất là chi phí.", "note": "Báo trước để người nghe không cắt ngang." },
+                { "w": "Let me just finish…", "vi": "Để tôi nói hết…", "ex": "Let me just finish this point.", "exvi": "Để tôi nói hết ý này đã." },
+                { "w": "Sorry, can I just finish?", "vi": "Cho tôi nói hết được không?", "ex": "Sorry, can I just finish my point?", "exvi": "Xin lỗi, cho tôi nói hết ý nhé?", "note": "BẪY SỐ HAI: giành lại lượt khi bị cắt ngang." },
+                { "w": "Hang on,…", "vi": "Khoan đã,…", "ex": "Hang on, I was just going to say that.", "exvi": "Khoan, tôi vừa định nói điều đó.", "note": "Thân mật — dùng với bạn bè, không dùng trong họp trang trọng." },
+                { "w": "If I could just…", "vi": "Nếu cho phép tôi…", "ex": "If I could just come back to the first point.", "exvi": "Cho tôi quay lại ý thứ nhất.", "note": "Rất trang trọng — hợp cuộc họp." },
+                { "w": "What I was going to say was…", "vi": "Cái tôi định nói là…", "ex": "So, what I was going to say was…", "exvi": "Thì cái tôi định nói là… Xem [Ngữ pháp 62]." }
+              ]
+            },
+            {
+              "title": "Đồng tình, phản biện & trao lượt",
+              "items": [
+                { "w": "Exactly.", "vi": "Chính xác.", "ex": "Exactly — that's what I meant.", "exvi": "Chính xác — ý tôi là vậy. Xem [Khung 56]." },
+                { "w": "That's right.", "vi": "Đúng vậy.", "ex": "That's right, I agree.", "exvi": "Đúng vậy, tôi đồng ý." },
+                { "w": "I'm with you on that.", "vi": "Tôi ủng hộ bạn chuyện đó.", "ex": "I'm with you on that, but…", "exvi": "Tôi ủng hộ, nhưng… Xem [Khung 58]." },
+                { "w": "That's a good point, but…", "vi": "Ý đó hay, nhưng…", "ex": "That's a good point, but it depends.", "exvi": "Ý hay đấy, nhưng còn tùy. Xem [Khung 52]." },
+                { "w": "I see what you mean, but…", "vi": "Tôi hiểu ý bạn, nhưng…", "ex": "I see what you mean, but I'd disagree.", "exvi": "Tôi hiểu ý bạn nhưng không đồng ý. Xem [Khung 53]." },
+                { "w": "Not necessarily.", "vi": "Không hẳn vậy.", "ex": "Not necessarily — it depends on the job.", "exvi": "Không hẳn — còn tùy công việc. Xem [Khung 59]." },
+                { "w": "What do you think?", "vi": "Bạn nghĩ sao?", "ex": "What do you think?", "exvi": "Bạn nghĩ sao?", "note": "Trao lượt — câu giữ hội thoại chạy tiếp." },
+                { "w": "What about you?", "vi": "Còn bạn thì sao?", "ex": "I'd go for the first one. What about you?", "exvi": "Tôi chọn cái đầu. Còn bạn?" },
+                { "w": "Does that make sense?", "vi": "Vậy có dễ hiểu không?", "ex": "Does that make sense?", "exvi": "Vậy có hiểu không ạ?", "note": "Vừa kiểm tra vừa trao lượt. Xem [Kỹ năng 15]." },
+                { "w": "Would you agree?", "vi": "Bạn thấy đúng không?", "ex": "Would you agree with that?", "exvi": "Bạn thấy vậy đúng không?" },
+                { "w": "Sorry — go ahead.", "vi": "Xin lỗi — bạn nói trước đi.", "ex": "Sorry — go ahead.", "exvi": "Xin lỗi, bạn nói trước.", "note": "Khi hai người cùng mở miệng một lúc." },
+                { "w": "No, you first.", "vi": "Không, bạn trước đi.", "ex": "No, you first — I'll wait.", "exvi": "Không, bạn nói trước, tôi đợi." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<b>Chờ khoảng lặng</b> rồi mới nói", "right": "<b>“Can I just say something?”</b> ngay chỗ người kia xuống giọng", "why": "BẪY SỐ MỘT: khoảng lặng đủ dài gần như không xuất hiện — bạn sẽ đợi mãi." },
+            { "wrong": "Bị cắt lời rồi <b>im luôn</b>", "right": "<b>“Sorry, can I just finish my point?”</b>", "why": "BẪY SỐ HAI: nhường là mất hẳn ý đang nói dở. Giành lại vẫn lịch sự." },
+            { "wrong": "Nói xong rồi <b>im</b>, chờ người kia tự nói", "right": "<b>“What do you think?”</b>", "why": "Không trao lượt thì hội thoại chết ngay tại đó." },
+            { "wrong": "Hai người cùng nói, <b>cả hai cùng im</b>", "right": "<b>“Sorry — go ahead.”</b> rồi quay lại sau", "why": "Cùng im thì mất mấy giây lúng túng. Một câu ngắn là xong." },
+            { "wrong": "Chen vào bằng <b>“Excuse me!”</b> to tiếng", "right": "<b>“Actually,…”</b> nhẹ nhàng", "why": "<i>Excuse me</i> to tiếng nghe như gọi phục vụ hoặc sắp trách móc." },
+            { "wrong": "Phản bác thẳng: <b>“No, that's wrong.”</b>", "right": "<b>“Not necessarily…”</b> hoặc <b>“I see what you mean, but…”</b>", "why": "Phản bác thẳng đóng cửa hội thoại. Xem [Khung 53]." },
+            { "wrong": "Có ba ý mà <b>không báo trước</b>", "right": "<b>“There are two things — first,…”</b>", "why": "Báo trước thì người nghe giữ lượt giúp bạn, không cắt ngang." },
+            { "wrong": "Dùng <b>“Hang on”</b> trong họp với sếp", "right": "<b>“If I could just…”</b>", "why": "<i>Hang on</i> là thân mật — sai ngữ cảnh nghe thiếu tôn trọng." },
+            { "wrong": "Quay lại ý cũ mà <b>không báo</b>", "right": "<b>“So, what I was going to say was…”</b>", "why": "Nhảy ngược lại mà không báo làm người nghe mất mạch." },
+            { "wrong": "Chỉ gật đầu khi đồng ý", "right": "Nói ra: <b>“Exactly.”</b> · <b>“I'm with you on that.”</b>", "why": "Gật đầu không đủ — nhất là qua điện thoại hoặc họp online. Xem [Khung 56]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với lỗi gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["Chen vào / cắt lời", "Đúng chỗ xuống giọng / giữa câu", "Nửa giây chồng lên là bình thường"],
+            ["Giữ lượt / giành lại", "Chưa bị cắt / đã bị cắt", "Let me just finish ≠ Sorry, can I just finish?"],
+            ["Trang trọng / thân mật", "If I could just… / Hang on…", "Sai ngữ cảnh nghe thiếu tôn trọng"],
+            ["Trao lượt / bỏ lửng", "What do you think? / im lặng", "Không trao thì hội thoại chết"],
+            ["Phản bác thẳng / mềm", "No, that's wrong / Not necessarily", "Xem [Khung 59]"],
+            ["Đồng tình bằng lời / gật đầu", "Nghe được / không nghe được", "Qua điện thoại phải nói ra"],
+            ["Báo trước / không báo", "Giữ được lượt / bị cắt", "There are two things —"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: trong hội thoại thì nói gì?" },
+        {
+          "t": "tree",
+          "q": "Tùy vị trí của bạn trong lượt nói mà chọn câu.",
+          "nodes": [
+            { "if": "Muốn chen vào, trang trọng", "then": "Can I just say something?", "ex": "Dùng được ở mọi tình huống" },
+            { "if": "Muốn chen vào, nhanh gọn", "then": "Actually,…", "ex": "Tự nhiên nhất" },
+            { "if": "Có nhiều ý, sợ bị cắt", "then": "Báo trước: There are two things —", "ex": "Người nghe sẽ giữ lượt giúp" },
+            { "if": "Đang nói mà bị chen ngang", "then": "Sorry, can I just finish?", "ex": "Lịch sự mà dứt khoát" },
+            { "if": "Hai người cùng mở miệng", "then": "Sorry — go ahead.", "ex": "Rồi quay lại: what I was going to say…" },
+            { "if": "Nói xong rồi", "then": "Trao lượt: What do you think?", "ex": "Giữ hội thoại chạy tiếp" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ mạnh khi giành lại lượt" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "(im lặng, nhường luôn)", "vi": "Mất hẳn ý đang nói" },
+            { "en": "Er… I was… never mind.", "vi": "Bỏ cuộc giữa chừng" },
+            { "en": "Sorry, can I just finish my point?", "vi": "Lịch sự và hiệu quả" },
+            { "en": "Hang on, I was just going to say…", "vi": "Thân mật, dứt khoát hơn" },
+            { "en": "If I could just finish — there are two things.", "vi": "Trang trọng, mạnh nhất" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kỹ năng này dùng ở đâu",
+      "blocks": [
+        { "t": "p", "html": "Giữ và trao lượt là phần <b>tương tác</b> của hội thoại — chỗ người chấm nhìn vào nhiều nhất ở phần thi cặp đôi." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 52, "why": "That's a good point, but… — chen vào bằng cách công nhận trước, cách vào mượt nhất." },
+            { "id": 53, "why": "I see what you mean, but… — cùng khuôn, mềm hơn một bậc." },
+            { "id": 56, "why": "Exactly! / That's right — đồng tình bằng LỜI, không chỉ gật đầu." },
+            { "id": 58, "why": "I'm with you on that — ủng hộ rồi mới lật sang ý của mình." },
+            { "id": 59, "why": "Not necessarily — phản biện mà không đóng cửa hội thoại." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Tình huống này nói câu gì?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Muốn chen vào một cách lịch sự.", "blank": "__________ say something?", "a": "Can I just" },
+            { "vi": "Muốn chen vào nhanh, tự nhiên.", "blank": "__________, I see it a bit differently.", "a": "Actually" },
+            { "vi": "Có hai ý, sợ bị cắt ngang.", "blank": "__________ two things — first, the cost.", "a": "There are" },
+            { "vi": "Đang nói thì bị chen ngang.", "blank": "Sorry, can I just __________ my point?", "a": "finish" },
+            { "vi": "Hai người cùng mở miệng.", "blank": "Sorry — __________ .", "a": "go ahead" },
+            { "vi": "Nói xong, mời người kia.", "blank": "__________ do you think?", "a": "What" },
+            { "vi": "Đồng tình rồi mở rộng.", "blank": "Yes, and __________ is the time.", "a": "another thing" },
+            { "vi": "Quay lại ý đang nói dở.", "blank": "So, __________ was…", "a": "what I was going to say" }
+          ]
+        },
+        { "t": "h3", "text": "B. Cách nào phù hợp hơn?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Chen vào trong họp với sếp", "blank": "(a) Hang on…  (b) If I could just…", "a": "(b) — trang trọng hơn" },
+            { "vi": "Bị cắt lời", "blank": "(a) (im lặng nhường)  (b) Sorry, can I just finish?", "a": "(b)" },
+            { "vi": "Phản biện một ý", "blank": "(a) No, that's wrong.  (b) Not necessarily…", "a": "(b)" },
+            { "vi": "Đồng tình qua điện thoại", "blank": "(a) (gật đầu)  (b) Exactly.", "a": "(b) — gật đầu không nghe được" }
+          ]
+        },
+        { "t": "h3", "text": "C. Đóng vai — luyện với một người bạn" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Bạn kia nói liên tục 30 giây, bạn phải chen vào đúng một lần.", "a": "Chờ chỗ xuống giọng → “Can I just say something?” hoặc “Actually,…”" },
+            { "vi": "2. Bạn đang nói, bạn kia cố cắt ngang — giữ lượt.", "a": "“Let me just finish this point.” rồi nói tiếp." },
+            { "vi": "3. Bạn bị cắt thật — giành lại ý cũ.", "a": "“Sorry, can I just finish?” → “So, what I was going to say was…”" },
+            { "vi": "4. Nói một ý rồi trao lượt tử tế.", "a": "“…That's how I see it. What do you think?”" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Đừng chờ khoảng lặng — nó không tới.</b> Vào ngay chỗ người kia <b>xuống giọng</b>, chồng nửa giây là bình thường.",
+            "<b>Bị cắt thì giành lại, đừng nhường.</b> <i>“Sorry, can I just finish my point?”</i> — lịch sự mà dứt khoát.",
+            "<b>Có nhiều ý thì báo trước:</b> <i>“There are two things —”</i>. Người nghe sẽ tự giữ lượt giúp bạn.",
+            "<b>Nói xong phải trao lượt.</b> Một câu <i>“What do you think?”</i> là thứ giữ hội thoại chạy tiếp.",
+            "<b>Đồng tình phải nói ra thành lời.</b> Gật đầu không nghe được qua điện thoại hay họp online.",
+            "<b>Bài tập:</b> trong cuộc trò chuyện tới, đặt mục tiêu <b>chen vào đúng hai lần</b> bằng <i>“Actually,…”</i> và <i>“Can I just say something?”</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

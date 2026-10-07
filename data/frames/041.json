@@ -1,0 +1,496 @@
+{
+  "id": 41,
+  "group": "Nhóm 5 · Ý kiến & Quan điểm",
+  "title": "I think… — Khung nêu ý kiến phổ biến nhất",
+  "subtitle": "Đây là khung câu nêu ý kiến được dùng nhiều nhất trong tiếng Anh. Nhưng vai trò thật của nó không phải là “tôi suy nghĩ” — phần lớn thời gian nó là một lớp đệm làm mềm câu nói, giúp ý kiến của bạn nghe như một góc nhìn chứ không phải một phán quyết.",
+  "pattern": [
+    "I think (that) <em>+ mệnh đề</em>",
+    "I don't think <em>+ mệnh đề</em>",
+    "…, <em>I think</em>."
+  ],
+  "meaning": "Tôi nghĩ rằng… / Theo tôi thì…",
+  "grammar": [1, 10, 15, 18],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Dùng được mọi nơi" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I think</span> nghĩa đen là “tôi nghĩ”, nhưng trong hội thoại thật nó thường <b>không nói về suy nghĩ</b>. Nó là một <b>lớp đệm</b>: biến một khẳng định cứng thành một ý kiến cá nhân, để người nghe có chỗ không đồng ý." },
+        { "t": "p", "html": "So sánh: <i>This is wrong.</i> (phán quyết, dễ gây căng) với <i>I think this is wrong.</i> (ý kiến, mời trao đổi). Cùng một nội dung, nhưng hai chữ đầu đổi hoàn toàn không khí." },
+        { "t": "p", "html": "Nó <b>nhẹ hơn</b> <i>I believe</i> ở [Khung 43] và <b>đời thường hơn</b> <i>In my opinion</i> ở [Khung 42]. Đây là lựa chọn mặc định — dùng được với sếp, khách hàng, bạn bè, trong email lẫn khi nói." },
+        { "t": "callout", "html": "<b>Bẫy lớn nhất với người Việt — phủ định chuyển lên trước:</b> tiếng Anh nói <span class=\"k\">I <b>don't</b> think it's a good idea.</span> chứ hầu như không bao giờ nói <i>I think it's <b>not</b> a good idea.</i> Tiếng Việt “tôi nghĩ là không nên” khiến ta đặt <i>not</i> sai chỗ." },
+        { "t": "h3", "text": "I think mạnh hay yếu?" },
+        {
+          "t": "table",
+          "head": ["Câu", "Độ chắc chắn", "Sắc thái"],
+          "rows": [
+            ["<code>It's on Monday.</code>", "100%", "Khẳng định — không có chỗ sai"],
+            ["<code>I think it's on Monday.</code>", "~75%", "Khá chắc nhưng để ngỏ"],
+            ["<code>It's on Monday, I think.</code>", "~65%", "Nhớ mang máng — đặt cuối nghe nhẹ hơn nữa"],
+            ["<code>I'm not sure, but I think it's Monday.</code>", "~50%", "Nói rõ là đang đoán"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đặt cuối câu thì nhẹ hơn đặt đầu.</b> <i>I think it's too expensive.</i> là ý kiến. <i>It's too expensive, I think.</i> nghe như một ý vừa chợt đến — mềm hơn hẳn, rất hay dùng khi góp ý." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💬", "title": "Nêu ý kiến trong họp", "text": "Bối cảnh số 1. <i>I think we should wait.</i> Nói quan điểm mà không đóng cửa tranh luận." },
+            { "icon": "🛡", "title": "Không đồng ý một cách lịch sự", "text": "<i>I don't think that'll work.</i> Nhẹ hơn hẳn <i>That won't work.</i>" },
+            { "icon": "❓", "title": "Trả lời khi chưa chắc", "text": "<i>I think it's on the second floor.</i> Thà nói vậy còn hơn khẳng định rồi sai." },
+            { "icon": "🤝", "title": "Góp ý cho đồng nghiệp", "text": "<i>The intro is a bit long, I think.</i> Đặt cuối câu để nghe như một gợi ý." },
+            { "icon": "🔮", "title": "Dự đoán", "text": "<i>I think it's going to rain.</i> Dùng với <i>will / be going to</i>." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Nói một sự thật hiển nhiên. <i>I think water is wet.</i> nghe rất kỳ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cơ bản", "<code>I think (that) + mệnh đề</code>", "I think (that) we should wait."],
+            ["Phủ định — đúng chuẩn", "<code>I don't think + mệnh đề khẳng định</code>", "I don't think it's a good idea."],
+            ["Đặt cuối — nhẹ nhất", "<code>…, I think.</code>", "It's too expensive, I think."],
+            ["Đồng ý ngắn", "<code>I think so.</code>", "“Is he coming?” — “I think so.”"],
+            ["Không đồng ý ngắn", "<code>I don't think so.</code>", "“Is it open?” — “I don't think so.”"],
+            ["Dự đoán", "<code>I think + will / be going to</code>", "I think it'll rain."],
+            ["Hỏi ngược", "<code>…, don't you think?</code>", "It's a bit much, don't you think?"],
+            ["Làm nhẹ thêm", "<code>I think maybe / I think probably</code>", "I think maybe we should wait."],
+            ["Nhấn mạnh", "<code>I really think / I do think</code>", "I really think we should go."],
+            ["Đang cân nhắc", "<code>I'm thinking of / about + V-ing</code>", "I'm thinking of changing jobs."]
+          ]
+        },
+        { "t": "callout", "html": "<b>“that” bỏ được thoải mái.</b> <i>I think that we should wait.</i> và <i>I think we should wait.</i> giống hệt nhau. Khi nói người ta gần như luôn bỏ <i>that</i>; khi viết trang trọng thì giữ lại." },
+        { "t": "callout", "html": "<b>Phân biệt “I think” và “I'm thinking”:</b> <i>I think</i> = ý kiến (không bao giờ chia tiếp diễn theo nghĩa này). <i>I'm thinking of…</i> = đang cân nhắc một việc sắp làm. <span class=\"k\">I'm thinking it's a good idea</span> ✗ — phải là <i>I think it's a good idea</i>." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Mệnh đề hay theo sau “I think”",
+              "items": [
+                { "w": "we should", "vi": "chúng ta nên", "ex": "I think we should wait a week.", "exvi": "Tôi nghĩ mình nên đợi một tuần." },
+                { "w": "it's a good idea", "vi": "đó là ý hay", "ex": "I think it's a good idea.", "exvi": "Tôi nghĩ đó là ý hay." },
+                { "w": "it'll work", "vi": "nó sẽ chạy được", "ex": "I think it'll work.", "exvi": "Tôi nghĩ nó sẽ chạy được." },
+                { "w": "you're right", "vi": "bạn nói đúng", "ex": "I think you're right about that.", "exvi": "Tôi nghĩ bạn nói đúng chỗ đó." },
+                { "w": "there's a problem", "vi": "có vấn đề", "ex": "I think there's a problem with the file.", "exvi": "Tôi nghĩ file này có vấn đề." },
+                { "w": "it's too expensive", "vi": "nó quá đắt", "ex": "I think it's too expensive.", "exvi": "Tôi nghĩ nó quá đắt." },
+                { "w": "we need more time", "vi": "cần thêm thời gian", "ex": "I think we need more time.", "exvi": "Tôi nghĩ mình cần thêm thời gian." },
+                { "w": "that's fair", "vi": "vậy là công bằng", "ex": "I think that's fair.", "exvi": "Tôi nghĩ vậy là công bằng." },
+                { "w": "it depends", "vi": "còn tùy", "ex": "I think it depends on the budget.", "exvi": "Tôi nghĩ còn tùy ngân sách." },
+                { "w": "it's worth trying", "vi": "đáng để thử", "ex": "I think it's worth trying.", "exvi": "Tôi nghĩ đáng để thử." },
+                { "w": "it's on the second floor", "vi": "ở tầng hai", "ex": "I think it's on the second floor.", "exvi": "Tôi nghĩ nó ở tầng hai." },
+                { "w": "she's already left", "vi": "cô ấy đi rồi", "ex": "I think she's already left.", "exvi": "Tôi nghĩ cô ấy đi rồi." },
+                { "w": "it'll rain", "vi": "trời sẽ mưa", "ex": "I think it'll rain later.", "exvi": "Tôi nghĩ lát nữa trời sẽ mưa.", "note": "Dự đoán — <i>I think</i> đi rất tự nhiên với <i>will</i> và <i>be going to</i>." },
+                { "w": "we're missing something", "vi": "mình đang bỏ sót gì đó", "ex": "I think we're missing something here.", "exvi": "Tôi nghĩ mình đang bỏ sót gì đó." },
+                { "w": "that's the best option", "vi": "đó là phương án tốt nhất", "ex": "I think that's the best option.", "exvi": "Tôi nghĩ đó là phương án tốt nhất." },
+                { "w": "it's worth the money", "vi": "đáng đồng tiền", "ex": "I think it's worth the money.", "exvi": "Tôi nghĩ nó đáng đồng tiền." },
+                { "w": "we've met before", "vi": "mình từng gặp nhau", "ex": "I think we've met before.", "exvi": "Tôi nghĩ mình từng gặp nhau rồi." },
+                { "w": "it's the wrong size", "vi": "sai cỡ", "ex": "I think it's the wrong size.", "exvi": "Tôi nghĩ cái này sai cỡ." },
+                { "w": "there's been a mistake", "vi": "có nhầm lẫn", "ex": "I think there's been a mistake with the bill.", "exvi": "Tôi nghĩ hóa đơn có nhầm lẫn.", "note": "Cách phàn nàn cực lịch sự — đổ lỗi cho tình huống chứ không cho người." },
+                { "w": "that's everything", "vi": "vậy là đủ rồi", "ex": "I think that's everything, thanks.", "exvi": "Tôi nghĩ vậy là đủ rồi, cảm ơn." }
+              ]
+            },
+            {
+              "title": "Các dạng biến thể",
+              "items": [
+                { "w": "I don't think", "vi": "tôi nghĩ là không", "ex": "I don't think that'll work.", "exvi": "Tôi nghĩ cái đó không ổn đâu.", "note": "BẪY LỚN: phủ định đứng ở <i>think</i>, không ở mệnh đề sau. KHÔNG nói <i>I think it won't work</i>." },
+                { "w": "I think so", "vi": "tôi nghĩ vậy", "ex": "“Is he coming?” — “I think so.”", "exvi": "“Anh ấy đến không?” — “Tôi nghĩ là có.”", "note": "Không nói <i>I think yes</i>. Phải là <i>I think so</i>." },
+                { "w": "I don't think so", "vi": "tôi nghĩ là không", "ex": "“Is it still open?” — “I don't think so.”", "exvi": "“Còn mở cửa không?” — “Tôi nghĩ là không.”" },
+                { "w": ", I think", "vi": "…, tôi nghĩ vậy", "ex": "It's too long, I think.", "exvi": "Hơi dài, tôi nghĩ vậy.", "note": "Đặt cuối câu nghe mềm nhất — như một ý vừa chợt đến." },
+                { "w": "don't you think?", "vi": "bạn thấy vậy không?", "ex": "It's a bit much, don't you think?", "exvi": "Hơi quá, bạn thấy vậy không?", "note": "Kéo người nghe vào, biến ý kiến thành câu hỏi." },
+                { "w": "I really think", "vi": "tôi thật sự nghĩ", "ex": "I really think we should go now.", "exvi": "Tôi thật sự nghĩ mình nên đi ngay." },
+                { "w": "I think maybe", "vi": "tôi nghĩ có lẽ", "ex": "I think maybe we should ask first.", "exvi": "Tôi nghĩ có lẽ mình nên hỏi trước.", "note": "Chồng hai lớp đệm — cực kỳ mềm, hợp khi góp ý cho người trên." },
+                { "w": "I'm thinking of", "vi": "tôi đang tính", "ex": "I'm thinking of changing jobs.", "exvi": "Tôi đang tính đổi việc.", "note": "Khác hẳn <i>I think</i>: đây là đang cân nhắc làm gì đó, không phải nêu ý kiến." },
+                { "w": "I thought", "vi": "tôi tưởng", "ex": "I thought the meeting was at ten.", "exvi": "Tôi tưởng cuộc họp lúc mười giờ.", "note": "BẪY: <i>I thought</i> thường mang nghĩa “tôi tưởng nhầm”, không phải quá khứ trung tính." },
+                { "w": "come to think of it", "vi": "nghĩ lại thì", "ex": "Come to think of it, I think she did mention it.", "exvi": "Nghĩ lại thì tôi nghĩ cô ấy có nhắc đến." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "I think so too", "vi": "tôi cũng nghĩ vậy", "ex": "I think so too, actually.", "exvi": "Thật ra tôi cũng nghĩ vậy." },
+                { "w": "That's a fair point", "vi": "ý đó hợp lý", "ex": "That's a fair point.", "exvi": "Ý đó hợp lý đấy.", "note": "Công nhận ý người khác trước khi nói ý mình — mở đầu rất an toàn." },
+                { "w": "I see what you mean, but…", "vi": "tôi hiểu ý bạn, nhưng…", "ex": "I see what you mean, but I think it's too risky.", "exvi": "Tôi hiểu ý bạn, nhưng tôi nghĩ hơi rủi ro." },
+                { "w": "I'm not so sure", "vi": "tôi không chắc lắm", "ex": "I'm not so sure about that.", "exvi": "Chỗ đó tôi không chắc lắm.", "note": "Cách phản đối mềm nhất trong công việc." },
+                { "w": "Really? I thought…", "vi": "thật à? tôi tưởng…", "ex": "Really? I thought it was next week.", "exvi": "Thật à? Tôi tưởng tuần sau chứ." },
+                { "w": "Why do you think that?", "vi": "sao bạn nghĩ vậy?", "ex": "Why do you think that?", "exvi": "Sao bạn lại nghĩ vậy?", "note": "Trật tự câu hỏi gián tiếp: <i>do you think</i> rồi mới đến phần còn lại." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I think we should wait until next week.",
+                  "vi": "Tôi nghĩ mình nên đợi đến tuần sau.",
+                  "note": "Nêu quan điểm trong họp mà không đóng cửa tranh luận — ai cũng còn chỗ để phản biện.",
+                  "open": { "en": "Can I say something here?", "vi": "Cho tôi nói một ý được không?" },
+                  "reply": [
+                    { "them": "That's a fair point. What's the risk of waiting?", "themvi": "Ý đó hợp lý. Đợi thì rủi ro gì?", "you": "We lose a week, but we get real data.", "youvi": "Mất một tuần, nhưng có số liệu thật." },
+                    { "them": "I'm not so sure. The client's already waiting.", "themvi": "Tôi không chắc lắm. Khách đang đợi rồi.", "you": "Fair — then I think we do a partial release.", "youvi": "Đúng — vậy tôi nghĩ mình phát hành một phần." }
+                  ],
+                  "close": { "en": "But it's your call.", "vi": "Nhưng anh/chị quyết định." }
+                },
+                {
+                  "en": "I don't think that'll work, to be honest.",
+                  "vi": "Thật lòng thì tôi nghĩ cái đó không ổn.",
+                  "note": "Phủ định nằm ở <b>don't think</b>, không phải ở mệnh đề sau. Đây là cách không đồng ý an toàn nhất.",
+                  "reply": [
+                    { "them": "Why not?", "themvi": "Sao lại không?", "you": "The data doesn't sync in real time.", "youvi": "Dữ liệu không đồng bộ theo thời gian thực." }
+                  ],
+                  "vars": [
+                    { "en": "I'm not sure that'll work.", "vi": "Tôi không chắc cái đó chạy được." }
+                  ]
+                },
+                {
+                  "en": "The intro is a bit long, I think.",
+                  "vi": "Phần mở đầu hơi dài, tôi nghĩ vậy.",
+                  "note": "Đặt <b>I think</b> ở cuối — nghe như một ý vừa chợt đến, rất hợp khi góp ý bài của người khác.",
+                  "reply": [
+                    { "them": "You're right, I'll cut it.", "themvi": "Bạn nói đúng, mình cắt bớt.", "you": "Maybe just the first two slides.", "youvi": "Chắc chỉ hai slide đầu thôi." }
+                  ]
+                },
+                {
+                  "en": "I think there's been a mistake in the report.",
+                  "vi": "Tôi nghĩ báo cáo có nhầm lẫn.",
+                  "note": "Dùng <i>there's been a mistake</i> để chỉ ra lỗi mà không quy trách nhiệm cho ai.",
+                  "reply": [
+                    { "them": "Where exactly?", "themvi": "Chỗ nào cụ thể?", "you": "The totals on page four.", "youvi": "Cột tổng ở trang bốn." }
+                  ],
+                  "close": { "en": "I might be wrong, though.", "vi": "Nhưng cũng có thể tôi nhầm." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I think there's been a mistake with the bill.",
+                  "vi": "Tôi nghĩ hóa đơn có nhầm lẫn.",
+                  "note": "Cực lịch sự — không nói “anh tính sai” mà nói “có nhầm lẫn”.",
+                  "reply": [
+                    { "them": "Let me check for you.", "themvi": "Để em kiểm tra ạ.", "you": "I think we were charged twice for the coffee.", "youvi": "Tôi nghĩ cà phê bị tính hai lần." }
+                  ]
+                },
+                {
+                  "en": "I think I'll have the same, please.",
+                  "vi": "Tôi nghĩ tôi gọi giống vậy luôn.",
+                  "note": "<i>I think I'll…</i> dùng khi vừa quyết định ngay lúc nói — rất tự nhiên khi gọi món.",
+                  "reply": [
+                    { "them": "Same as your friend? Certainly.", "themvi": "Giống bạn anh/chị ạ? Vâng ạ.", "you": "And a glass of water, thanks.", "youvi": "Thêm một ly nước, cảm ơn." }
+                  ]
+                },
+                {
+                  "en": "I don't think I can finish this.",
+                  "vi": "Tôi nghĩ tôi ăn không hết.",
+                  "reply": [
+                    { "them": "Would you like a box?", "themvi": "Anh/chị lấy hộp mang về nhé?", "you": "Yes please, that'd be great.", "youvi": "Vâng, vậy thì tốt quá." }
+                  ]
+                },
+                {
+                  "en": "It's a bit salty, don't you think?",
+                  "vi": "Hơi mặn, bạn thấy vậy không?",
+                  "note": "Thêm <i>don't you think?</i> để rủ người kia cùng nhận xét — nhẹ hơn nhiều so với chê thẳng.",
+                  "reply": [
+                    { "them": "A little. Should we say something?", "themvi": "Hơi hơi. Mình có nên nói không?", "you": "No, I think it's fine.", "youvi": "Thôi, mình nghĩ không sao." }
+                  ],
+                  "close": { "en": "The rest is lovely, though.", "vi": "Mấy món còn lại ngon mà." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I think it's the wrong size.",
+                  "vi": "Tôi nghĩ cái này sai cỡ.",
+                  "reply": [
+                    { "them": "Do you have the receipt?", "themvi": "Anh/chị có hóa đơn không ạ?", "you": "Yes, here you go.", "youvi": "Có đây ạ." }
+                  ]
+                },
+                {
+                  "en": "I think it's too expensive for what it is.",
+                  "vi": "Tôi nghĩ nó đắt so với chất lượng.",
+                  "note": "<i>for what it is</i> = so với giá trị thật của nó. Cụm rất hay khi chê giá.",
+                  "reply": [
+                    { "them": "We can do ten percent off.", "themvi": "Bên em giảm được mười phần trăm ạ.", "you": "I think that works. I'll take it.", "youvi": "Tôi nghĩ vậy được. Tôi lấy." }
+                  ],
+                  "vars": [
+                    { "en": "It's a bit much, I think.", "vi": "Hơi đắt, tôi nghĩ vậy." }
+                  ]
+                },
+                {
+                  "en": "I don't think I need the extra warranty, thanks.",
+                  "vi": "Tôi nghĩ tôi không cần bảo hành mở rộng, cảm ơn.",
+                  "note": "Từ chối gói bán thêm một cách dứt khoát mà vẫn lịch sự.",
+                  "reply": [
+                    { "them": "It's only two hundred more.", "themvi": "Chỉ thêm hai trăm thôi ạ.", "you": "I'll pass, thanks.", "youvi": "Thôi, cảm ơn." }
+                  ]
+                },
+                {
+                  "en": "I think that's everything, thanks.",
+                  "vi": "Tôi nghĩ vậy là đủ rồi, cảm ơn.",
+                  "reply": [
+                    { "them": "Anything else today?", "themvi": "Anh/chị cần gì nữa không ạ?", "you": "No, I think that's it.", "youvi": "Không, tôi nghĩ vậy là hết." }
+                  ],
+                  "close": { "en": "Card, please.", "vi": "Cho tôi quẹt thẻ." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I think it's on the second floor.",
+                  "vi": "Tôi nghĩ nó ở tầng hai.",
+                  "note": "Dùng khi bạn khá chắc nhưng không muốn khẳng định — an toàn hơn nói chắc rồi chỉ sai đường.",
+                  "reply": [
+                    { "them": "Are you sure?", "themvi": "Bạn chắc không?", "you": "Not really — let's check the map.", "youvi": "Cũng không chắc lắm — xem bản đồ đi." }
+                  ]
+                },
+                {
+                  "en": "I think we're going the wrong way.",
+                  "vi": "Tôi nghĩ mình đi nhầm đường rồi.",
+                  "reply": [
+                    { "them": "I thought you knew the way.", "themvi": "Tôi tưởng bạn biết đường chứ.", "you": "I did, until they changed the exits.", "youvi": "Biết chứ, cho đến khi họ đổi lối ra." }
+                  ]
+                },
+                {
+                  "en": "I think there's been a mix-up with my booking.",
+                  "vi": "Tôi nghĩ đặt phòng của tôi bị nhầm lẫn.",
+                  "note": "<span class=\"k\">a mix-up</span> = một sự nhầm lẫn. Nhẹ hơn <i>a mistake</i> vì không ám chỉ ai sai.",
+                  "open": { "en": "Sorry to bother you —", "vi": "Xin lỗi làm phiền —" },
+                  "reply": [
+                    { "them": "Let me look into it.", "themvi": "Để em kiểm tra ạ.", "you": "I booked a twin, not a double.", "youvi": "Tôi đặt phòng hai giường đơn, không phải giường đôi." }
+                  ],
+                  "close": { "en": "Thanks for sorting that out.", "vi": "Cảm ơn đã xử lý giúp." }
+                },
+                {
+                  "en": "I think it'll rain later, so bring a jacket.",
+                  "vi": "Tôi nghĩ lát nữa trời mưa, mang áo khoác đi.",
+                  "note": "<i>I think</i> đi rất tự nhiên với <i>will</i> khi dự đoán.",
+                  "reply": [
+                    { "them": "The forecast says clear.", "themvi": "Dự báo nói trời quang mà.", "you": "It always says that. I think it's wrong.", "youvi": "Lúc nào chả nói vậy. Tôi nghĩ nó sai." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I think we've met before.",
+                  "vi": "Tôi nghĩ mình từng gặp nhau rồi.",
+                  "note": "Cách bắt chuyện an toàn — nếu nhầm thì <i>I think</i> đã đỡ sẵn cho bạn.",
+                  "reply": [
+                    { "them": "Really? Where?", "themvi": "Thật à? Ở đâu?", "you": "At the conference last year, I think.", "youvi": "Ở hội thảo năm ngoái, tôi nghĩ vậy." }
+                  ]
+                },
+                {
+                  "en": "I'm thinking of changing jobs.",
+                  "vi": "Tôi đang tính đổi việc.",
+                  "note": "Khác hẳn <i>I think</i>: đây là <b>đang cân nhắc</b> làm gì đó, không phải nêu ý kiến.",
+                  "reply": [
+                    { "them": "Really? What's brought that on?", "themvi": "Thật à? Vì sao vậy?", "you": "I don't think I'm learning anything new.", "youvi": "Tôi nghĩ mình không học thêm được gì mới." }
+                  ],
+                  "vars": [
+                    { "en": "I'm thinking about moving out of the city.", "vi": "Tôi đang tính dọn ra khỏi thành phố." }
+                  ]
+                },
+                {
+                  "en": "I don't think so, sorry.",
+                  "vi": "Tôi nghĩ là không, xin lỗi nhé.",
+                  "note": "Không nói <i>I think no</i>. Phải là <i>I don't think so</i>.",
+                  "reply": [
+                    { "them": "Are you free on Saturday?", "themvi": "Thứ Bảy bạn rảnh không?", "you": "I don't think so — I've got family over.", "youvi": "Chắc không — nhà tôi có khách." }
+                  ]
+                },
+                {
+                  "en": "I think you're right, actually.",
+                  "vi": "Thật ra tôi nghĩ bạn nói đúng.",
+                  "note": "<i>actually</i> ở cuối mang nghĩa “nghĩ lại thì” — công nhận sau khi đã do dự.",
+                  "reply": [
+                    { "them": "So you'll come?", "themvi": "Vậy bạn đi chứ?", "you": "I think so, yes.", "youvi": "Tôi nghĩ là có." }
+                  ],
+                  "close": { "en": "Let me know the time.", "vi": "Báo tôi giờ nhé." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Nêu ý kiến trái chiều trong cuộc họp",
+          "lines": [
+            { "speaker": "Manager", "en": "So we launch on Friday. Any concerns?", "vi": "Vậy thứ Sáu mình ra mắt. Có lo ngại gì không?" },
+            { "speaker": "You", "me": true, "en": "I don't think we're ready, to be honest.", "vi": "Thật lòng thì tôi nghĩ mình chưa sẵn sàng." },
+            { "speaker": "Manager", "en": "What's missing?", "vi": "Còn thiếu gì?" },
+            { "speaker": "You", "me": true, "en": "I think there's a problem with the payment flow. It's a bit rushed, I think.", "vi": "Tôi nghĩ luồng thanh toán có vấn đề. Hơi vội, tôi nghĩ vậy." },
+            { "speaker": "Manager", "en": "That's a fair point. What do you suggest?", "vi": "Ý đó hợp lý. Bạn đề xuất gì?" },
+            { "speaker": "You", "me": true, "en": "I think maybe we push to Monday. It's only two days, don't you think?", "vi": "Tôi nghĩ có lẽ mình dời sang thứ Hai. Chỉ hai ngày thôi mà, anh/chị thấy sao?" }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Hóa đơn bị tính nhầm ở quán",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Sorry, I think there's been a mistake with the bill.", "vi": "Xin lỗi, tôi nghĩ hóa đơn có nhầm lẫn." },
+            { "speaker": "Staff", "en": "Oh? Let me have a look.", "vi": "Dạ? Để em xem ạ." },
+            { "speaker": "You", "me": true, "en": "I think we were charged twice for the coffee.", "vi": "Tôi nghĩ cà phê bị tính hai lần." },
+            { "speaker": "Staff", "en": "You're right. I'm so sorry about that.", "vi": "Anh/chị nói đúng ạ. Em xin lỗi." },
+            { "speaker": "You", "me": true, "en": "No problem at all. I think that's everything else, though.", "vi": "Không sao cả. Còn lại thì tôi nghĩ đúng hết rồi." },
+            { "speaker": "Staff", "en": "Thank you for your patience.", "vi": "Cảm ơn anh/chị đã thông cảm ạ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I think it's not a good idea.", "right": "I don't think it's a good idea.", "why": "BẪY LỚN NHẤT. Tiếng Anh <b>chuyển phủ định lên mệnh đề đầu</b>. Câu sai không sai ngữ pháp nhưng nghe rất không tự nhiên." },
+            { "wrong": "I think yes.", "right": "I think so.", "why": "Trả lời ngắn phải là <b>I think so</b> / <b>I don't think so</b>, không bao giờ là <i>I think yes/no</i>." },
+            { "wrong": "I'm thinking it's a good idea.", "right": "I think it's a good idea.", "why": "Với nghĩa “nêu ý kiến”, <b>think</b> không chia tiếp diễn. <i>I'm thinking of…</i> mang nghĩa khác hẳn — đang cân nhắc." },
+            { "wrong": "What you think about it?", "right": "What do you think about it?", "why": "Vẫn cần trợ động từ <b>do</b>. Đây là lỗi lặp lại nhiều nhất khi hỏi ý kiến." },
+            { "wrong": "I think that we should to wait.", "right": "I think that we should wait.", "why": "Sau <b>should</b> là động từ trần. <i>that</i> thì bỏ được, nhưng <i>to</i> thì sai." },
+            { "wrong": "I think the meeting was at ten. <i>(ý: tôi tưởng nhầm)</i>", "right": "I thought the meeting was at ten.", "why": "Khi bạn <b>tưởng nhầm</b>, phải dùng quá khứ <b>I thought</b>. Dùng <i>I think</i> nghĩa là bạn vẫn đang tin thế." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Độ chắc / trang trọng", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I think…</code>", "Mặc định — trung tính", "<i>I think we should wait.</i> Dùng được mọi nơi."],
+            ["<code>In my opinion,…</code>", "Trang trọng hơn — có cân nhắc", "<i>In my opinion, it's too risky.</i> Xem [Khung 42]."],
+            ["<code>I believe…</code>", "Chắc chắn hơn — có niềm tin", "<i>I believe it's the right call.</i> Xem [Khung 43]."],
+            ["<code>I guess / I suppose…</code>", "Yếu nhất — miễn cưỡng", "<i>I guess so.</i> Nghe như đồng ý cho xong."],
+            ["<code>I feel (that)…</code>", "Cảm tính — nhấn cảm nhận", "<i>I feel we're rushing.</i> Khó phản bác hơn."],
+            ["<code>I reckon…</code>", "Rất thân mật — Anh-Anh, Úc", "<i>I reckon it'll rain.</i> Không dùng trong email công việc."],
+            ["<code>If you ask me,…</code>", "Thẳng thắn — hơi chủ quan", "<i>If you ask me, it's a waste.</i> Chỉ dùng chỗ thân mật."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — nói rằng một kế hoạch có vấn đề" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I guess it might not work.", "vi": "Yếu nhất — gần như chỉ thả ý" },
+            { "en": "I'm not so sure it'll work.", "vi": "Nghi ngờ nhẹ" },
+            { "en": "I don't think it'll work.", "vi": "Ý kiến rõ ràng — chuẩn mực" },
+            { "en": "In my opinion, it won't work.", "vi": "Trang trọng, có cân nhắc" },
+            { "en": "It won't work.", "vi": "Phán quyết — dễ gây căng" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>I think</b> nói nhanh gần như dính thành một từ: <b>“ai-THINK”</b>, nhấn nhẹ vào <i>think</i>.",
+            "Âm <b>/θ/</b> trong <i>think</i>: đầu lưỡi chạm nhẹ răng trên, thổi hơi ra. Người Việt hay đọc thành <i>/t/</i> hoặc <i>/s/</i> — thành <i>tink</i> hoặc <i>sink</i>.",
+            "<b>I don't think</b> nói nhanh thành <b>“ai-don-THINK”</b> — âm /t/ cuối <i>don't</i> gần như biến mất.",
+            "Kết thúc <i>think</i> bằng <b>/ŋk/</b>, không phải <i>/n/</i>: <i>think</i> khác hẳn <i>thin</i>.",
+            "Khi <i>I think</i> đứng <b>đầu câu</b>, nó nói rất nhanh và nhẹ — trọng âm dồn vào phần nội dung phía sau.",
+            "Khi <i>I think</i> đứng <b>cuối câu</b>, giọng hạ xuống và nói chậm lại — đó là điều làm nó nghe mềm."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I don't think that'll work.", "vi": "Luyện shadowing: “ai-don-THINK-thatull-work”, nuốt âm /t/ ở don't." },
+            { "en": "It's a bit long, I think.", "vi": "Tập hạ giọng và nói chậm lại ở hai chữ cuối." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi nghĩ cái đó không ổn đâu. (đúng chuẩn Anh)", "blank": "__________ that'll work.", "a": "I don't think (KHÔNG phải “I think it won't”)" },
+            { "vi": "“Anh ấy đến không?” — “Tôi nghĩ là có.”", "blank": "“Is he coming?” — “__________.”", "a": "I think so" },
+            { "vi": "Hơi dài, tôi nghĩ vậy.", "blank": "It's a bit long, __________.", "a": "I think" },
+            { "vi": "Tôi đang tính đổi việc.", "blank": "__________ changing jobs.", "a": "I'm thinking of" },
+            { "vi": "Tôi tưởng cuộc họp lúc mười giờ.", "blank": "__________ the meeting was at ten.", "a": "I thought (quá khứ = tưởng nhầm)" },
+            { "vi": "Hơi quá, bạn thấy vậy không?", "blank": "It's a bit much, __________?", "a": "don't you think" },
+            { "vi": "Bạn nghĩ sao về chuyện đó?", "blank": "What __________ about it?", "a": "do you think" },
+            { "vi": "Tôi nghĩ hóa đơn có nhầm lẫn.", "blank": "I think __________ a mistake with the bill.", "a": "there's been" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi nghĩ mình nên đợi đến tuần sau.", "a": "I think we should wait until next week." },
+            { "vi": "2. Thật lòng thì tôi nghĩ cái đó không ổn.", "a": "I don't think that'll work, to be honest." },
+            { "vi": "3. Tôi nghĩ hóa đơn có nhầm lẫn.", "a": "I think there's been a mistake with the bill." },
+            { "vi": "4. Tôi nghĩ mình từng gặp nhau rồi.", "a": "I think we've met before." },
+            { "vi": "5. Phần mở đầu hơi dài, tôi nghĩ vậy.", "a": "The intro is a bit long, I think." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật số một:</b> muốn nói “tôi nghĩ là không…”, hãy phủ định ở <i>think</i>: <b>I don't think…</b> Tập lại mười câu theo mẫu này cho thành phản xạ.",
+            "<b>Trả lời ngắn chỉ có hai dạng:</b> <i>I think so</i> và <i>I don't think so</i>. Xóa hẳn <i>I think yes/no</i> khỏi đầu.",
+            "<b>Cần mềm hơn nữa thì đẩy ra cuối:</b> <i>It's too long, I think.</i> nghe nhẹ hơn hẳn khi góp ý cho người khác.",
+            "<b>Đừng lạm dụng:</b> nếu mỗi câu đều mở bằng <i>I think</i>, bạn nghe như không tự tin. Dùng khoảng một phần ba số câu nêu ý kiến là vừa.",
+            "<b>Nhớ “I thought” = tôi tưởng nhầm.</b> Rất hữu ích khi hiểu sai lịch hẹn: <i>Sorry, I thought it was at ten.</i>",
+            "<b>Bài tập 3 phút:</b> lấy 5 câu khẳng định bạn hay nói và thêm <i>I think</i> vào — một lần ở đầu, một lần ở cuối. Đọc to và nghe sự khác biệt."
+          ]
+        }
+      ]
+    }
+  ]
+}

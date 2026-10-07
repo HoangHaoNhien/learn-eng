@@ -1,0 +1,490 @@
+{
+  "id": 19,
+  "group": "Nhóm 2 · Yêu cầu & Nhờ vả",
+  "title": "Can I get…? — Gọi món và mua hàng kiểu tự nhiên nhất",
+  "subtitle": "Câu gọi món phổ biến nhất ở Mỹ, ngắn gọn và không cần suy nghĩ. Nhưng ở Anh và Úc thì nó có thể nghe hơi trống không với người lớn tuổi — bài này chỉ rõ dùng ở đâu thì tự nhiên, ở đâu nên đổi sang dạng khác.",
+  "pattern": [
+    "Can I get <em>+ danh từ</em>?",
+    "Could I get <em>+ danh từ</em>?",
+    "Can I get <em>+ ai đó + cái gì</em>?"
+  ],
+  "meaning": "Cho tôi… (gọi món, mua hàng)",
+  "grammar": [55, 29, 22],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Anh-Mỹ nhiều hơn Anh-Anh" },
+    { "text": "Trình độ: A1–A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">get</span> ở đây nghĩa là <b>nhận được, lấy được</b> — không phải “đi lấy”. <i>Can I get a coffee?</i> = “Tôi có thể được một ly cà phê không?”, tức là bạn đang gọi món chứ không xin phép tự vào quầy pha." },
+        { "t": "p", "html": "Đây là cách gọi món <b>phổ biến nhất ở Mỹ</b> và đã lan rộng khắp nơi. Ưu điểm là cực ngắn, không phải nghĩ nhiều, và dùng được cho mọi thứ: đồ ăn, đồ uống, hóa đơn, túi đựng, biên lai." },
+        { "t": "p", "html": "Nhưng cần biết một điều: ở <b>Anh và Úc</b>, một số người lớn tuổi thấy <i>Can I get…</i> hơi trống không, vì nó không có hình thức nhờ vả nào cả. Ở đó an toàn hơn là nói <span class=\"k\">Could I have…?</span> hoặc <span class=\"k\">Could I get…, please?</span>. Thêm <i>please</i> là giải quyết được gần hết vấn đề." },
+        { "t": "callout", "html": "<b>Quy tắc vàng cho khung này:</b> luôn kết thúc bằng <b>please</b>. <i>Can I get a coffee, please?</i> nghe hoàn toàn bình thường ở mọi nơi. Bỏ <i>please</i> thì ở Anh–Úc có thể bị coi là cộc." },
+        { "t": "h3", "text": "Bốn cách gọi cùng một ly cà phê" },
+        {
+          "t": "table",
+          "head": ["Câu", "Sắc thái", "Dùng ở đâu"],
+          "rows": [
+            ["<code>Coffee.</code>", "Cụt — chỉ nên dùng khi rất vội", "Quầy đông, nói nhanh"],
+            ["<code>Can I get a coffee, please?</code>", "Tự nhiên, thân thiện", "Mỹ — và khắp nơi nếu có <i>please</i>"],
+            ["<code>Could I have a coffee, please?</code>", "Lịch sự chuẩn mực", "Anh, Úc — an toàn tuyệt đối"],
+            ["<code>I'd like a coffee, please.</code>", "Lịch sự, hơi trang trọng hơn", "Nhà hàng, khách sạn — xem [Khung 01]"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "☕", "title": "Quán cà phê, đồ ăn nhanh", "text": "Bối cảnh số 1. <i>Can I get a large latte, please?</i> Nhanh, gọn, ai cũng hiểu." },
+            { "icon": "🧾", "title": "Xin hóa đơn, biên lai", "text": "<i>Can I get the bill, please?</i> Cách xin tính tiền ngắn nhất." },
+            { "icon": "🥡", "title": "Mang đi, xin túi", "text": "<i>Can I get that to go?</i> — <i>to go</i> là Anh-Mỹ, Anh-Anh nói <i>takeaway</i>." },
+            { "icon": "🛍", "title": "Mua hàng ở cửa hàng", "text": "<i>Can I get two of these, please?</i>" },
+            { "icon": "👋", "title": "Nghe nhân viên hỏi bạn", "text": "<i>Can I get you anything?</i> = Anh/chị dùng gì ạ? Nghe quen để trả lời ngay." },
+            { "icon": "🚫", "title": "Cẩn thận khi…", "text": "Nhà hàng sang trọng ở Anh, hoặc nói với người lớn tuổi — hãy đổi sang <i>Could I have…?</i>" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cơ bản", "<code>Can I get + N, please?</code>", "Can I get a coffee, please?"],
+            ["Lịch sự hơn", "<code>Could I get + N, please?</code>", "Could I get a receipt, please?"],
+            ["Anh-Anh an toàn", "<code>Could I have + N, please?</code>", "Could I have the bill, please?"],
+            ["Gọi cho cả nhóm", "<code>Can we get + N?</code>", "Can we get two more chairs?"],
+            ["Gọi hộ người khác", "<code>Can I get you + N?</code>", "Can I get you a drink?"],
+            ["Nhân viên hỏi khách", "<code>Can I get you anything?</code>", "Hi! Can I get you anything?"],
+            ["Nói mang đi", "<code>Can I get that to go?</code>", "Can I get that to go, please?"],
+            ["Dạng gọn nhất khi gọi món", "<code>I'll have + N</code>", "I'll have the chicken, please."],
+            ["Hỏi lại khi chưa nghe rõ", "<code>Can I get that again?</code>", "Sorry, can I get that again?"],
+            ["Kết thúc đơn hàng", "<code>That's all, thanks.</code>", "That's all, thanks."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng nhầm hai chữ get:</b> <span class=\"k\">Can I get a coffee?</span> = cho tôi một ly cà phê (gọi món). <span class=\"k\">Can I get you a coffee?</span> = tôi lấy cà phê cho bạn nhé (mời). Thêm một chữ <i>you</i> là đổi hẳn vai người phục vụ." },
+        { "t": "callout", "html": "<b>Câu nhân viên hay hỏi bạn:</b> <i>Can I get you anything else?</i> Trả lời gọn là <span class=\"k\">No, that's all, thanks.</span> hoặc <span class=\"k\">Yes, could I also get…</span>" }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Đồ ăn, đồ uống hay gọi",
+              "items": [
+                { "w": "a coffee", "vi": "một ly cà phê", "ex": "Can I get a coffee, please?", "exvi": "Cho tôi một ly cà phê ạ." },
+                { "w": "a large latte", "vi": "một latte cỡ lớn", "ex": "Can I get a large latte, please?", "exvi": "Cho tôi một ly latte cỡ lớn ạ.", "note": "Cỡ thường là <i>small / medium / large</i>. Một số quán dùng tên riêng." },
+                { "w": "an iced tea", "vi": "một ly trà đá", "ex": "Can I get an iced tea, please?", "exvi": "Cho tôi một ly trà đá ạ." },
+                { "w": "a glass of water", "vi": "một ly nước", "ex": "Can I get a glass of water, please?", "exvi": "Cho tôi một ly nước ạ.", "note": "<i>water</i> không đếm được nên phải có <i>a glass of</i>." },
+                { "w": "the chicken", "vi": "món gà", "ex": "Can I get the chicken, please?", "exvi": "Cho tôi món gà ạ.", "note": "Dùng <i>the</i> khi chỉ một món cụ thể trên thực đơn." },
+                { "w": "the set menu", "vi": "phần ăn combo", "ex": "Can I get the set menu?", "exvi": "Cho tôi phần combo ạ." },
+                { "w": "a side of rice", "vi": "một phần cơm ăn kèm", "ex": "Can I get a side of rice with that?", "exvi": "Cho tôi thêm một phần cơm ăn kèm ạ.", "note": "<i>a side of…</i> = món ăn kèm. Cụm rất hay dùng ở nhà hàng." },
+                { "w": "extra sauce", "vi": "thêm sốt", "ex": "Can I get extra sauce, please?", "exvi": "Cho tôi thêm sốt ạ." },
+                { "w": "a refill", "vi": "rót thêm", "ex": "Can I get a refill, please?", "exvi": "Cho tôi rót thêm ạ.", "note": "<i>a refill</i> = rót thêm cùng loại đồ uống, thường miễn phí ở Mỹ." },
+                { "w": "some napkins", "vi": "mấy tờ giấy ăn", "ex": "Can I get some napkins, please?", "exvi": "Cho tôi xin ít giấy ăn ạ." },
+                { "w": "a straw", "vi": "một cái ống hút", "ex": "Can I get a straw, please?", "exvi": "Cho tôi một cái ống hút ạ." },
+                { "w": "a fork", "vi": "một cái nĩa", "ex": "Could I get a fork, please?", "exvi": "Cho tôi một cái nĩa ạ." },
+                { "w": "a to-go cup", "vi": "một cốc mang đi", "ex": "Can I get a to-go cup for this?", "exvi": "Cho tôi một cốc mang đi cái này ạ." },
+                { "w": "the same again", "vi": "cho giống lần nữa", "ex": "Can I get the same again, please?", "exvi": "Cho tôi một phần giống vậy nữa ạ.", "note": "Tiện khi bạn không nhớ tên món vừa gọi." },
+                { "w": "two of these", "vi": "hai cái này", "ex": "Can I get two of these, please?", "exvi": "Cho tôi hai cái này ạ.", "note": "Vừa nói vừa chỉ tay — cứu bạn khi không biết tên món." },
+                { "w": "a menu", "vi": "một tờ thực đơn", "ex": "Could I get a menu, please?", "exvi": "Cho tôi xin thực đơn ạ." },
+                { "w": "the bill", "vi": "hóa đơn", "ex": "Can I get the bill, please?", "exvi": "Cho tôi hóa đơn ạ.", "note": "Anh-Mỹ nói <i>the check</i>." },
+                { "w": "a receipt", "vi": "biên lai", "ex": "Can I get a receipt, please?", "exvi": "Cho tôi biên lai ạ." },
+                { "w": "a bag", "vi": "một cái túi", "ex": "Can I get a bag for this?", "exvi": "Cho tôi một cái túi đựng ạ." },
+                { "w": "change", "vi": "tiền lẻ, tiền thối", "ex": "Can I get change for a hundred?", "exvi": "Đổi giúp tôi tờ một trăm được không ạ?", "note": "<i>change</i> ở đây là tiền lẻ — không đếm được, không có <i>a change</i>." }
+              ]
+            },
+            {
+              "title": "Câu hoàn chỉnh nên thuộc lòng",
+              "items": [
+                { "w": "Can I get a coffee, please?", "vi": "cho tôi một ly cà phê", "ex": "Hi, can I get a coffee, please?", "exvi": "Chào bạn, cho tôi một ly cà phê ạ." },
+                { "w": "Can I get that to go?", "vi": "cho tôi mang đi", "ex": "Can I get that to go, please?", "exvi": "Cho tôi mang đi ạ.", "note": "Anh-Anh nói <i>takeaway</i>: <i>Can I get that as a takeaway?</i>" },
+                { "w": "Can I get the bill, please?", "vi": "cho tôi hóa đơn", "ex": "Excuse me, can I get the bill, please?", "exvi": "Xin lỗi, cho tôi hóa đơn ạ." },
+                { "w": "Can I get two of these?", "vi": "cho tôi hai cái này", "ex": "Can I get two of these, please?", "exvi": "Cho tôi hai cái này ạ." },
+                { "w": "Can I get this in a different size?", "vi": "cho tôi cỡ khác", "ex": "Can I get this in a larger size?", "exvi": "Cho tôi cỡ lớn hơn của cái này ạ." },
+                { "w": "Can I get you anything?", "vi": "anh/chị dùng gì ạ?", "ex": "Hi! Can I get you anything?", "exvi": "Chào anh/chị! Anh/chị dùng gì ạ?", "note": "Đây là câu NHÂN VIÊN hỏi bạn — nghe quen để trả lời ngay." },
+                { "w": "Can I get you a drink?", "vi": "tôi lấy nước cho bạn nhé?", "ex": "Can I get you a drink while you wait?", "exvi": "Trong lúc chờ tôi lấy nước cho bạn nhé?", "note": "Thêm <i>you</i> là bạn thành người mời — dùng khi tiếp khách." },
+                { "w": "That's all, thanks", "vi": "vậy thôi, cảm ơn", "ex": "No, that's all, thanks.", "exvi": "Không, vậy thôi, cảm ơn bạn.", "note": "Câu kết thúc đơn hàng gọn nhất." },
+                { "w": "Sorry, can I get that again?", "vi": "xin lỗi, bạn nói lại giúp", "ex": "Sorry, can I get that again?", "exvi": "Xin lỗi, bạn nói lại giúp tôi được không?", "note": "Ở đây <i>get</i> nghĩa là “nghe được” — câu cứu nguy rất tự nhiên." },
+                { "w": "Can we get a table for two?", "vi": "cho chúng tôi bàn hai người", "ex": "Can we get a table for two, please?", "exvi": "Cho chúng tôi bàn cho hai người ạ." }
+              ]
+            },
+            {
+              "title": "Biến thể theo vùng & mức lịch sự",
+              "items": [
+                { "w": "Could I get…", "vi": "cho tôi… (lịch sự hơn)", "ex": "Could I get a receipt, please?", "exvi": "Cho tôi xin biên lai ạ.", "note": "Đổi <i>Can</i> thành <i>Could</i> là nâng một bậc lịch sự mà không đổi gì khác." },
+                { "w": "Can I have…", "vi": "cho tôi… (trung tính)", "ex": "Can I have a glass of water, please?", "exvi": "Cho tôi một ly nước ạ." },
+                { "w": "Could I have…", "vi": "cho tôi… (an toàn nhất)", "ex": "Could I have the bill, please?", "exvi": "Cho tôi hóa đơn ạ.", "note": "Dạng an toàn tuyệt đối ở Anh và Úc." },
+                { "w": "I'll have…", "vi": "tôi gọi món…", "ex": "I'll have the beef noodles, please.", "exvi": "Cho tôi phở bò ạ.", "note": "Rất tự nhiên khi gọi món ở nhà hàng — dứt khoát mà vẫn lịch sự." },
+                { "w": "I'd like…", "vi": "tôi muốn… (trang trọng hơn)", "ex": "I'd like the set menu, please.", "exvi": "Cho tôi phần combo ạ.", "note": "Xem đầy đủ ở [Khung 01]." },
+                { "w": "Just…, thanks", "vi": "chỉ… thôi, cảm ơn", "ex": "Just a water, thanks.", "exvi": "Cho tôi nước thôi, cảm ơn bạn.", "note": "Gọn nhất khi bạn chỉ lấy một thứ nhỏ." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Hi, can I get a large latte, please?",
+                  "vi": "Chào bạn, cho tôi một ly latte cỡ lớn ạ.",
+                  "note": "Câu gọi đồ uống chuẩn mực. Nói <i>Hi</i> trước rồi mới gọi món là cách mở lời tự nhiên nhất.",
+                  "open": { "en": "Hi there!", "vi": "Chào bạn!" },
+                  "reply": [
+                    { "them": "For here or to go?", "themvi": "Dùng tại chỗ hay mang đi ạ?", "you": "To go, please.", "youvi": "Mang đi ạ." },
+                    { "them": "Any milk preference?", "themvi": "Anh/chị dùng loại sữa nào ạ?", "you": "Oat milk, if you have it.", "youvi": "Sữa yến mạch, nếu bên bạn có." }
+                  ],
+                  "close": { "en": "That's all, thanks.", "vi": "Vậy thôi, cảm ơn bạn." }
+                },
+                {
+                  "en": "Can I get the bill, please?",
+                  "vi": "Cho tôi hóa đơn ạ.",
+                  "note": "Cách xin tính tiền ngắn nhất. Anh-Mỹ nói <i>the check</i>.",
+                  "reply": [
+                    { "them": "Of course. Together or separately?", "themvi": "Vâng ạ. Tính chung hay riêng ạ?", "you": "Separately, please.", "youvi": "Tính riêng ạ." }
+                  ],
+                  "vars": [
+                    { "en": "Can I get a receipt as well?", "vi": "Cho tôi xin cả biên lai nữa ạ." }
+                  ]
+                },
+                {
+                  "en": "Can I get a side of rice with that?",
+                  "vi": "Cho tôi thêm một phần cơm ăn kèm ạ.",
+                  "note": "<span class=\"k\">a side of…</span> = món ăn kèm. Cụm bạn sẽ dùng rất nhiều ở nhà hàng.",
+                  "reply": [
+                    { "them": "Sure. Steamed or fried?", "themvi": "Được ạ. Cơm trắng hay cơm chiên?", "you": "Steamed, please.", "youvi": "Cơm trắng ạ." }
+                  ]
+                },
+                {
+                  "en": "Sorry, can I get that again? I didn't catch it.",
+                  "vi": "Xin lỗi, bạn nói lại giúp tôi được không? Tôi chưa nghe kịp.",
+                  "note": "Ở đây <i>get</i> nghĩa là “nghe được”, không phải gọi món. Câu cứu nguy rất tự nhiên.",
+                  "reply": [
+                    { "them": "No problem — that's ninety-five thousand.", "themvi": "Không sao ạ — chín mươi lăm nghìn ạ.", "you": "Got it, thank you.", "youvi": "Rõ rồi, cảm ơn bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Can I get two of these, please?",
+                  "vi": "Cho tôi hai cái này ạ.",
+                  "note": "Vừa nói vừa chỉ tay — cứu bạn mỗi khi không biết tên món hàng bằng tiếng Anh.",
+                  "reply": [
+                    { "them": "Sure. Anything else?", "themvi": "Vâng ạ. Anh/chị lấy thêm gì không?", "you": "No, that's all, thanks.", "youvi": "Không, vậy thôi, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "Can I get this in a larger size?",
+                  "vi": "Cho tôi cỡ lớn hơn của cái này ạ.",
+                  "reply": [
+                    { "them": "Let me check the back.", "themvi": "Để em xem trong kho ạ.", "you": "Thank you, no rush.", "youvi": "Cảm ơn bạn, không vội đâu." },
+                    { "them": "Sorry, that's the last one.", "themvi": "Xin lỗi, đó là cái cuối rồi ạ.", "you": "No worries — thanks for checking.", "youvi": "Không sao — cảm ơn bạn đã kiểm tra." }
+                  ]
+                },
+                {
+                  "en": "Can I get a bag for this, please?",
+                  "vi": "Cho tôi một cái túi đựng ạ.",
+                  "reply": [
+                    { "them": "That's two thousand for a bag.", "themvi": "Túi là hai nghìn ạ.", "you": "That's fine, thanks.", "youvi": "Không sao ạ, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "Can I get change for a hundred?",
+                  "vi": "Đổi giúp tôi tờ một trăm được không ạ?",
+                  "note": "<i>change</i> ở đây là tiền lẻ — danh từ không đếm được, không có <i>a change</i>.",
+                  "reply": [
+                    { "them": "Sorry, we don't have enough coins.", "themvi": "Xin lỗi, bên em không đủ tiền lẻ ạ.", "you": "No problem, I'll pay by card.", "youvi": "Không sao, tôi trả bằng thẻ vậy." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Can I get you a coffee while you wait?",
+                  "vi": "Trong lúc chờ tôi lấy cà phê cho anh/chị nhé?",
+                  "note": "Thêm <b>you</b> là bạn thành người mời. Câu tiếp khách rất lịch thiệp ở văn phòng.",
+                  "reply": [
+                    { "them": "That would be lovely, thank you.", "themvi": "Vậy thì tuyệt quá, cảm ơn anh/chị.", "you": "Milk and sugar?", "youvi": "Anh/chị dùng sữa và đường chứ?" },
+                    { "them": "I'm fine, thanks.", "themvi": "Tôi ổn rồi, cảm ơn.", "you": "Just let me know if you change your mind.", "youvi": "Đổi ý thì cứ bảo tôi nhé." }
+                  ]
+                },
+                {
+                  "en": "Can I get a copy of the slides?",
+                  "vi": "Cho tôi xin một bản slide được không ạ?",
+                  "reply": [
+                    { "them": "I'll email them to everyone.", "themvi": "Tôi sẽ gửi email cho mọi người.", "you": "Perfect, thank you.", "youvi": "Tuyệt, cảm ơn anh/chị." }
+                  ],
+                  "vars": [
+                    { "en": "Can I get access to that folder?", "vi": "Cho tôi quyền truy cập thư mục đó được không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Can I get five minutes with you this afternoon?",
+                  "vi": "Chiều nay cho tôi xin năm phút được không ạ?",
+                  "note": "<span class=\"k\">get five minutes with someone</span> = xin gặp ngắn. Con số cụ thể khiến yêu cầu nhỏ và dễ đồng ý.",
+                  "reply": [
+                    { "them": "Sure — after three?", "themvi": "Được — sau ba giờ nhé?", "you": "Three works. Thank you.", "youvi": "Ba giờ được ạ. Cảm ơn anh/chị." }
+                  ]
+                },
+                {
+                  "en": "Can I get an update on the timeline?",
+                  "vi": "Cho tôi xin thông tin cập nhật về tiến độ ạ?",
+                  "note": "Hỏi tiến độ mà không giục ai — nhẹ hơn <i>Where are we?</i>",
+                  "reply": [
+                    { "them": "We're on track for the fifteenth.", "themvi": "Vẫn đúng tiến độ cho ngày mười lăm ạ.", "you": "Great — thanks for confirming.", "youvi": "Tuyệt — cảm ơn đã xác nhận." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Can I get a window seat, please?",
+                  "vi": "Cho tôi chỗ ngồi cạnh cửa sổ ạ.",
+                  "reply": [
+                    { "them": "There's one in row twelve.", "themvi": "Còn một chỗ ở dãy mười hai ạ.", "you": "That's great, thank you.", "youvi": "Tuyệt quá, cảm ơn bạn." }
+                  ],
+                  "vars": [
+                    { "en": "Can I get an aisle seat instead?", "vi": "Cho tôi đổi sang ghế lối đi được không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Can I get a taxi from here?",
+                  "vi": "Từ đây bắt taxi được không ạ?",
+                  "reply": [
+                    { "them": "The rank is just outside, on the left.", "themvi": "Bến taxi ngay bên ngoài, phía trái ạ.", "you": "Thank you.", "youvi": "Cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "Could I get a wake-up call at six, please?",
+                  "vi": "Cho tôi đăng ký báo thức lúc sáu giờ ạ.",
+                  "note": "Dùng <i>Could</i> ở khách sạn nghe chỉn chu hơn <i>Can</i>.",
+                  "reply": [
+                    { "them": "Of course. Room number?", "themvi": "Vâng ạ. Số phòng ạ?", "you": "Five-oh-two.", "youvi": "Năm không hai ạ." }
+                  ]
+                },
+                {
+                  "en": "Can I get a map of the city?",
+                  "vi": "Cho tôi xin một tấm bản đồ thành phố ạ.",
+                  "reply": [
+                    { "them": "Here you go — the free one is fine for walking.", "themvi": "Đây ạ — bản miễn phí là đủ để đi bộ rồi.", "you": "Perfect, thanks a lot.", "youvi": "Tuyệt, cảm ơn bạn nhiều." }
+                  ],
+                  "close": { "en": "That's really helpful.", "vi": "Cái này hữu ích lắm." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Can I get you anything while I'm up?",
+                  "vi": "Mình đứng dậy rồi, lấy gì cho bạn không?",
+                  "note": "<span class=\"k\">while I'm up</span> = nhân tiện mình đang đứng dậy. Câu rất đời thường và tử tế.",
+                  "reply": [
+                    { "them": "A glass of water would be great.", "themvi": "Một ly nước thì tuyệt.", "you": "Coming up.", "youvi": "Có ngay đây." }
+                  ]
+                },
+                {
+                  "en": "Can I get your number?",
+                  "vi": "Cho mình xin số của bạn nhé?",
+                  "note": "Rất thân mật. Trong công việc thì nói <i>Could I take your number?</i> sẽ chỉn chu hơn.",
+                  "reply": [
+                    { "them": "Sure, it's oh-nine-one…", "themvi": "Được, số mình là không chín một…", "you": "Got it — I'll message you now.", "youvi": "Ghi rồi — mình nhắn cho bạn luôn." }
+                  ]
+                },
+                {
+                  "en": "Can I get a hand with this?",
+                  "vi": "Bạn phụ mình cái này được không?",
+                  "reply": [
+                    { "them": "Sure, what do you need?", "themvi": "Được chứ, bạn cần gì?", "you": "Just hold this end.", "youvi": "Giữ giúp mình đầu này thôi." }
+                  ]
+                },
+                {
+                  "en": "Can we get together sometime next week?",
+                  "vi": "Tuần sau mình gặp nhau lúc nào đó nhé?",
+                  "note": "<span class=\"k\">get together</span> = gặp mặt, tụ tập. Cách rủ rất nhẹ nhàng, không ép ngày giờ.",
+                  "reply": [
+                    { "them": "Yes! What day suits you?", "themvi": "Ừ! Bạn tiện hôm nào?", "you": "Thursday or Friday?", "youvi": "Thứ Năm hay thứ Sáu?" }
+                  ],
+                  "close": { "en": "I'll text you to confirm.", "vi": "Mình sẽ nhắn xác nhận lại." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Gọi đồ ở quán cà phê",
+          "lines": [
+            { "speaker": "Barista", "en": "Hi there! Can I get you anything?", "vi": "Chào bạn! Bạn dùng gì ạ?" },
+            { "speaker": "You", "me": true, "en": "Hi — can I get a large latte, please?", "vi": "Chào bạn — cho mình một ly latte cỡ lớn ạ." },
+            { "speaker": "Barista", "en": "For here or to go?", "vi": "Dùng tại chỗ hay mang đi ạ?" },
+            { "speaker": "You", "me": true, "en": "To go, please. And can I get a croissant as well?", "vi": "Mang đi ạ. Với lại cho mình thêm một cái bánh sừng bò nữa." },
+            { "speaker": "Barista", "en": "Sure. Anything else?", "vi": "Vâng ạ. Bạn dùng thêm gì không?" },
+            { "speaker": "You", "me": true, "en": "No, that's all, thanks. Oh — can I get a receipt?", "vi": "Không, vậy thôi, cảm ơn bạn. À — cho mình xin biên lai nhé?" }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Tiếp khách ở văn phòng",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Please take a seat. Can I get you a coffee?", "vi": "Mời anh/chị ngồi. Tôi lấy cà phê cho anh/chị nhé?" },
+            { "speaker": "Client", "en": "A tea would be lovely, actually.", "vi": "Thật ra một tách trà thì tuyệt hơn." },
+            { "speaker": "You", "me": true, "en": "Of course. Can I get you anything else? Water?", "vi": "Vâng ạ. Anh/chị dùng gì thêm không? Nước lọc chứ?" },
+            { "speaker": "Client", "en": "No, tea is fine. Thank you.", "vi": "Không, trà là được rồi. Cảm ơn anh/chị." },
+            { "speaker": "You", "me": true, "en": "One moment. Can I get you a copy of the agenda while you wait?", "vi": "Một lát ạ. Trong lúc chờ tôi đưa anh/chị bản chương trình nhé?" },
+            { "speaker": "Client", "en": "That would be helpful, thanks.", "vi": "Vậy thì tiện quá, cảm ơn anh/chị." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Can I get a coffee? <i>(không có please, ở Anh)</i>", "right": "Can I get a coffee, please?", "why": "Thiếu <b>please</b> thì ở Anh và Úc dễ bị coi là cộc. Thêm một từ là giải quyết xong." },
+            { "wrong": "Can I get you a coffee? <i>(khi muốn gọi cho mình)</i>", "right": "Can I get a coffee?", "why": "Thêm <b>you</b> là bạn thành người mời chứ không phải người gọi món — đảo hẳn vai." },
+            { "wrong": "Can I get a water?", "right": "Can I get a glass of water? / Can I get some water?", "why": "<b>water</b> không đếm được nên không đi với <i>a</i>. Phải có <i>a glass of</i> hoặc <i>some</i>." },
+            { "wrong": "Can I get a change for a hundred?", "right": "Can I get change for a hundred?", "why": "<b>change</b> nghĩa tiền lẻ là danh từ không đếm được — bỏ <i>a</i>." },
+            { "wrong": "Can I get to the bill?", "right": "Can I get the bill?", "why": "Thừa <b>to</b>. Sau <i>get</i> là danh từ trực tiếp." },
+            { "wrong": "I get a coffee, please.", "right": "Can I get a coffee, please?", "why": "Thiếu <b>Can I</b> thì câu thành lời kể, không phải lời gọi món." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>Can I get + N?</code>", "Tự nhiên, nhanh — Anh-Mỹ", "<i>Can I get a coffee, please?</i>"],
+            ["<code>Could I get + N?</code>", "Lịch sự hơn một bậc", "<i>Could I get a receipt, please?</i>"],
+            ["<code>Could I have + N?</code>", "An toàn tuyệt đối ở Anh, Úc", "<i>Could I have the bill, please?</i>"],
+            ["<code>I'd like + N</code>", "Lịch sự, hơi trang trọng", "<i>I'd like the set menu.</i> — Xem [Khung 01]."],
+            ["<code>I'll have + N</code>", "Dứt khoát khi gọi món ở nhà hàng", "<i>I'll have the chicken, please.</i>"],
+            ["<code>Can I get you + N?</code>", "Bạn là người MỜI, không phải người gọi", "<i>Can I get you a drink?</i>"],
+            ["<code>Just…, thanks</code>", "Gọn nhất khi chỉ lấy một thứ nhỏ", "<i>Just a water, thanks.</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Thang độ lịch sự — gọi một ly cà phê" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Coffee.", "vi": "Cụt — chỉ khi rất vội" },
+            { "en": "Can I get a coffee?", "vi": "Tự nhiên — Mỹ" },
+            { "en": "Can I get a coffee, please?", "vi": "An toàn — khắp nơi" },
+            { "en": "Could I have a coffee, please?", "vi": "Lịch sự — Anh, Úc" },
+            { "en": "I'd like a coffee, please.", "vi": "Trang trọng — nhà hàng" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Can I</b> nói nhanh dính thành <b>“kə-nai”</b> — <i>can</i> giảm rất nhẹ, không nhấn.",
+            "<b>Can I get</b> → “kə-nai-GET”, trọng âm rơi vào <i>get</i> và vào món bạn gọi.",
+            "<b>get a</b> nối liền thành “GE-də” — âm /t/ giữa hai nguyên âm biến thành âm /d/ nhẹ trong giọng Mỹ.",
+            "<b>to go</b> → “tə-GOW”, <i>to</i> giảm thành /tə/.",
+            "<b>Can I get you</b> → “kə-nai-ge-tjə” — chữ <i>you</i> giảm thành /jə/, rất dễ nghe sót. Nghe kỹ chỗ này để không nhầm vai.",
+            "Câu phải <b>lên giọng ở cuối</b>, và đừng quên <i>please</i> — nó cũng được đọc với giọng đi lên nhẹ."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Can I get a large latte, please?", "vi": "Luyện shadowing: nói nhanh “kə-nai-GET”, nhấn vào “large latte”." },
+            { "en": "Can I get you anything else?", "vi": "Câu nhân viên hay hỏi — nghe quen để trả lời ngay “No, that's all, thanks.”" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Cho tôi một ly latte cỡ lớn ạ.", "blank": "__________ a large latte, please?", "a": "Can I get" },
+            { "vi": "Cho tôi mang đi ạ.", "blank": "Can I get that __________?", "a": "to go" },
+            { "vi": "Cho tôi một ly nước ạ.", "blank": "Can I get __________ water, please?", "a": "a glass of (hoặc some) — không nói “a water”" },
+            { "vi": "Trong lúc chờ tôi lấy cà phê cho anh/chị nhé?", "blank": "__________ a coffee while you wait?", "a": "Can I get you" },
+            { "vi": "Đổi giúp tôi tờ một trăm được không ạ?", "blank": "Can I get __________ for a hundred?", "a": "change (không có “a”)" },
+            { "vi": "Không, vậy thôi, cảm ơn bạn.", "blank": "No, __________, thanks.", "a": "that's all" },
+            { "vi": "Cho tôi hóa đơn ạ.", "blank": "__________ the bill, please?", "a": "Can I get" },
+            { "vi": "Cho tôi thêm một phần cơm ăn kèm ạ.", "blank": "Can I get __________ rice with that?", "a": "a side of" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Cho tôi hai cái này ạ.", "a": "Can I get two of these, please?" },
+            { "vi": "2. Cho tôi cỡ lớn hơn của cái này ạ.", "a": "Can I get this in a larger size?" },
+            { "vi": "3. Cho tôi chỗ ngồi cạnh cửa sổ ạ.", "a": "Can I get a window seat, please?" },
+            { "vi": "4. Xin lỗi, bạn nói lại giúp tôi được không?", "a": "Sorry, can I get that again?" },
+            { "vi": "5. Chiều nay cho tôi xin năm phút được không ạ?", "a": "Can I get five minutes with you this afternoon?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luôn kết bằng “please”:</b> một từ này biến câu từ chỗ có thể bị coi là cộc thành hoàn toàn bình thường ở mọi nước.",
+            "<b>Ở Anh và Úc thì đổi sang “Could I have…?”:</b> đây là dạng không bao giờ sai với bất kỳ ai, bất kỳ độ tuổi nào.",
+            "<b>Nhớ chữ “you” đổi vai:</b> <i>Can I get a coffee</i> là bạn gọi; <i>Can I get you a coffee</i> là bạn mời.",
+            "<b>Dùng “two of these” khi bí từ:</b> chỉ tay và nói câu này — bạn mua được mọi thứ mà không cần biết tên tiếng Anh của nó.",
+            "<b>Thuộc câu nhân viên hỏi:</b> <i>Can I get you anything else?</i> — trả lời ngay <i>No, that's all, thanks.</i>",
+            "<b>Bài tập 3 phút:</b> gọi to 5 món bạn hay dùng bằng <i>Can I get…, please?</i>, rồi nói lại 5 câu đó bằng <i>Could I have…, please?</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

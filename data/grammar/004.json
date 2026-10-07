@@ -1,0 +1,277 @@
+{
+  "id": 4,
+  "group": "Nhóm 3 · Thì hiện tại & quá khứ",
+  "title": "Quá khứ tiếp diễn — cái nền của câu chuyện",
+  "subtitle": "Thì này hiếm khi đứng một mình. Vai trò của nó là dựng bối cảnh đang diễn ra để một việc khác xen vào: When I was walking home, I saw him. Đảo ngược hai thì là câu chuyện đổi hẳn ý — và đó chính là bẫy.",
+  "meaning": "Việc đang diễn ra tại một thời điểm trong quá khứ, làm nền cho việc khác",
+  "rule": [
+    "S + <em>was/were</em> + V-ing",
+    "When S + <em>was/were</em> + V-ing, S + <em>V2</em>",
+    "While S + <em>was/were</em> + V-ing, S + <em>V2</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2", "hot": true },
+    { "text": "Nền vs việc xen vào" },
+    { "text": "while + tiếp diễn" },
+    { "text": "Tần suất: cao" }
+  ],
+  "frames": [87, 92, 93, 95, 96],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Quá khứ tiếp diễn gần như không bao giờ đứng một mình. Công việc của nó là <b>dựng bối cảnh</b>: một việc <b>dài, đang diễn ra</b>, để một việc <b>ngắn, xen vào</b> ở thì quá khứ đơn." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — ai làm nền, ai xen vào:</b><br><i>When I <b>was walking</b> home, I <b>saw</b> him.</i> ✓ — đang đi (dài) thì thấy anh ấy (ngắn).<br><i>When I <b>walked</b> home, I <b>was seeing</b> him.</i> ✗ — đảo ngược là câu vô nghĩa.<br>Việc nào kéo dài hơn thì việc đó ở tiếp diễn." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>when</i> hay <i>while</i>:</b> <b>while</b> hầu như luôn đi với <b>tiếp diễn</b> (<i>While I was cooking…</i>), còn <b>when</b> đi được với cả hai. Chưa chắc thì dùng <i>when</i> — nó an toàn hơn. Và nhớ: <i>was/were</i> theo chủ ngữ, không theo việc." },
+        { "t": "h3", "text": "Bốn kiểu phối hợp hai thì" },
+        {
+          "t": "table",
+          "head": ["Tình huống", "Cấu trúc", "Ví dụ"],
+          "rows": [
+            ["Nền dài + việc ngắn xen vào", "<code>was/were V-ing … + V2</code>", "I was walking when I saw him."],
+            ["Hai việc song song cùng lúc", "cả hai đều <code>was/were V-ing</code>", "I was cooking while she was reading."],
+            ["Chuỗi việc nối tiếp nhau", "cả hai đều <code>V2</code>", "I finished, then I left."],
+            ["Bối cảnh chung của cả đoạn", "<code>was/were V-ing</code> đứng riêng", "It was raining. People were running."]
+          ]
+        },
+        { "t": "p", "html": "Quy tắc thêm <b>-ing</b> giống hệt hiện tại tiếp diễn: bỏ <i>e</i> câm (<i>make → making</i>), gấp đôi phụ âm khi nhấn âm cuối (<i>sit → sitting</i>), đổi <i>-ie</i> thành <i>-ying</i> (<i>lie → lying</i>). Xem [Ngữ pháp 02]." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Khẳng định — I/he/she/it", "<code>S was + V-ing</code>", "I was working."],
+            ["Khẳng định — you/we/they", "<code>S were + V-ing</code>", "They were working."],
+            ["Phủ định — số ít", "<code>S wasn't + V-ing</code>", "He wasn't listening."],
+            ["Phủ định — số nhiều", "<code>S weren't + V-ing</code>", "They weren't listening."],
+            ["Câu hỏi", "<code>Was/Were + S + V-ing?</code>", "Were you waiting long?"],
+            ["Trả lời ngắn", "<code>Yes/No, S + was/wasn't.</code>", "Yes, I was. · No, I wasn't."],
+            ["Câu hỏi có từ để hỏi", "<code>Từ hỏi + was/were + S + V-ing?</code>", "What were you doing?"],
+            ["Nền + việc xen vào", "<code>When + was/were V-ing, + V2</code>", "When I was walking, I saw him."],
+            ["Đảo vế (bỏ dấu phẩy)", "<code>V2 + when + was/were V-ing</code>", "I saw him when I was walking."],
+            ["Với <code>while</code>", "<code>While + was/were V-ing, + V2</code>", "While I was cooking, he called."],
+            ["Hai việc song song", "cả hai cùng tiếp diễn", "I was cooking while she was reading."],
+            ["Việc xảy ra TRƯỚC đó nữa", "<code>had + V3</code>", "By then, I had already left."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dấu phẩy:</b> vế <i>when/while</i> đứng TRƯỚC thì có dấu phẩy — <i>When I was walking home<b>,</b> I saw him.</i> Đứng SAU thì không cần — <i>I saw him when I was walking home.</i> Cùng luật với [Khung 96]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "When I was walking home, I saw him.", "vi": "Khi tôi đang đi bộ về thì tôi thấy anh ấy.", "note": "BẪY SỐ MỘT: nền dài ở tiếp diễn, việc ngắn ở quá khứ đơn. Xem [Khung 96]." },
+            { "en": "While I was cooking, he called.", "vi": "Trong lúc tôi đang nấu thì anh ấy gọi.", "note": "<b>while</b> hầu như luôn đi với TIẾP DIỄN." },
+            { "en": "I was cooking while she was reading.", "vi": "Tôi nấu ăn còn cô ấy đọc sách.", "note": "Hai việc SONG SONG nên cả hai đều ở tiếp diễn." },
+            { "en": "It was raining when we arrived.", "vi": "Trời đang mưa lúc bọn tôi đến.", "note": "Thời tiết hay được dùng làm nền cho câu chuyện." },
+            { "en": "What were you doing at six?", "vi": "Sáu giờ bạn đang làm gì?", "note": "Hỏi về một thời điểm cụ thể trong quá khứ." },
+            { "en": "He wasn't listening.", "vi": "Anh ấy không nghe.", "note": "Phủ định rút gọn <b>wasn't</b>." },
+            { "en": "Were you waiting long?", "vi": "Bạn chờ lâu chưa?", "note": "Câu hỏi đảo <i>were</i> lên trước chủ ngữ." },
+            { "en": "We were living in Hue at the time.", "vi": "Hồi đó nhà tôi đang sống ở Huế.", "note": "Tiếp diễn nhấn vào tính TẠM THỜI của giai đoạn đó." },
+            { "en": "While I was waiting, the flight was cancelled.", "vi": "Trong lúc tôi đang chờ thì chuyến bay bị hủy.", "note": "Vế bị động <i>was cancelled</i> là việc xen vào, không phải tiếp diễn." },
+            { "en": "I was going to call you, but I fell asleep.", "vi": "Tôi đã định gọi cho bạn nhưng lại ngủ mất.", "note": "<b>was going to</b> = dự định KHÔNG thành. Xem [Khung 91]." },
+            { "en": "Sorry, I was driving. What did you say?", "vi": "Xin lỗi, lúc đó tôi đang lái xe. Bạn nói gì cơ?", "note": "Lý do rất tự nhiên khi giải thích vì sao không nghe máy." },
+            { "en": "I knew something was wrong.", "vi": "Tôi biết có gì đó không ổn.", "note": "<i>know</i> là động từ TRẠNG THÁI — <i>I was knowing</i> ✗ kể cả ở quá khứ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🎬", "title": "Dựng nền cho câu chuyện", "text": "<i>When I was walking home, I saw…</i> Xem [Khung 96]." },
+            { "icon": "☔", "title": "Mô tả bối cảnh", "text": "<i>It was raining. People were running.</i>" },
+            { "icon": "⏰", "title": "Một thời điểm cụ thể", "text": "<i>What were you doing at six?</i>" },
+            { "icon": "🙇", "title": "Giải thích vì sao không trả lời", "text": "<i>Sorry, I was driving.</i>" },
+            { "icon": "🔀", "title": "Hai việc song song", "text": "<i>I was cooking while she was reading.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Chuỗi việc nối tiếp nhau. Lúc đó cả hai đều ở quá khứ đơn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Từ nối & mốc thời gian",
+              "items": [
+                { "w": "when", "vi": "khi, lúc", "ex": "When I was walking home, I saw him.", "exvi": "Khi tôi đang đi bộ về thì thấy anh ấy.", "note": "Đi được với cả tiếp diễn lẫn quá khứ đơn — an toàn hơn <i>while</i>." },
+                { "w": "while", "vi": "trong lúc", "ex": "While I was cooking, he called.", "exvi": "Trong lúc tôi đang nấu thì anh ấy gọi.", "note": "BẪY SỐ HAI: <b>while</b> hầu như luôn đi với TIẾP DIỄN." },
+                { "w": "as", "vi": "khi, trong khi", "ex": "As I was leaving, the phone rang.", "exvi": "Lúc tôi đang ra về thì điện thoại reo.", "note": "Trang trọng hơn <i>while</i>, hay gặp trong văn viết." },
+                { "w": "at that moment", "vi": "ngay lúc đó", "ex": "At that moment, I was still waiting.", "exvi": "Ngay lúc đó tôi vẫn đang chờ." },
+                { "w": "at six / at the time", "vi": "lúc sáu giờ / hồi đó", "ex": "What were you doing at six?", "exvi": "Sáu giờ bạn đang làm gì?" },
+                { "w": "all day / all morning", "vi": "cả ngày / cả sáng", "ex": "It was raining all day.", "exvi": "Trời mưa cả ngày.", "note": "Nhấn vào việc kéo dài suốt khoảng thời gian đó." },
+                { "w": "this time last year", "vi": "giờ này năm ngoái", "ex": "This time last year, I was living in Hue.", "exvi": "Giờ này năm ngoái tôi đang sống ở Huế." },
+                { "w": "suddenly", "vi": "đột nhiên", "ex": "Suddenly the lights went out.", "exvi": "Đột nhiên đèn tắt phụt.", "note": "Mở đầu việc XEN VÀO — nên đi với quá khứ đơn." },
+                { "w": "just as", "vi": "đúng lúc", "ex": "Just as I was leaving, he arrived.", "exvi": "Đúng lúc tôi ra về thì anh ấy đến." },
+                { "w": "in the middle of", "vi": "đang giữa chừng", "ex": "I was in the middle of cooking.", "exvi": "Tôi đang nấu dở.", "note": "Sau <i>in the middle of</i> là V-ing hoặc danh từ." },
+                { "w": "the whole time", "vi": "suốt cả lúc đó", "ex": "He was watching the whole time.", "exvi": "Anh ấy nhìn suốt cả lúc đó." },
+                { "w": "by then", "vi": "đến lúc đó thì", "ex": "By then, I had already left.", "exvi": "Đến lúc đó thì tôi đã đi rồi.", "note": "Báo hiệu việc xảy ra TRƯỚC nữa — dùng <b>had + V3</b>." }
+              ]
+            },
+            {
+              "title": "Động từ hay làm nền & nhóm không tiếp diễn",
+              "items": [
+                { "w": "was walking", "vi": "đang đi bộ", "ex": "I was walking home.", "exvi": "Tôi đang đi bộ về nhà." },
+                { "w": "was waiting", "vi": "đang chờ", "ex": "While I was waiting, the flight was cancelled.", "exvi": "Trong lúc chờ thì chuyến bay bị hủy." },
+                { "w": "was cooking", "vi": "đang nấu ăn", "ex": "While I was cooking, he called.", "exvi": "Trong lúc tôi nấu thì anh ấy gọi." },
+                { "w": "was driving", "vi": "đang lái xe", "ex": "Sorry, I was driving.", "exvi": "Xin lỗi, lúc đó tôi đang lái xe." },
+                { "w": "was raining", "vi": "trời đang mưa", "ex": "It was raining when we arrived.", "exvi": "Trời đang mưa lúc bọn tôi đến." },
+                { "w": "was living", "vi": "đang sống", "ex": "We were living in Hue at the time.", "exvi": "Hồi đó nhà tôi đang sống ở Huế.", "note": "Tiếp diễn nhấn vào tính TẠM THỜI của giai đoạn." },
+                { "w": "was going to + V", "vi": "đã định", "ex": "I was going to call, but I fell asleep.", "exvi": "Tôi đã định gọi nhưng lại ngủ mất.", "note": "Dự định KHÔNG thành — mẫu giải thích rất tự nhiên. Xem [Khung 91]." },
+                { "w": "was trying to", "vi": "đang cố", "ex": "I was trying to reach you.", "exvi": "Tôi đang cố liên lạc với bạn." },
+                { "w": "knew (không tiếp diễn)", "vi": "biết", "ex": "I knew something was wrong.", "exvi": "Tôi biết có gì đó không ổn.", "note": "<i>know</i> là động từ TRẠNG THÁI — <i>I was knowing</i> ✗ kể cả ở quá khứ. Xem [Ngữ pháp 02]." },
+                { "w": "wanted (không tiếp diễn)", "vi": "muốn", "ex": "I wanted to help.", "exvi": "Tôi muốn giúp.", "note": "<i>I was wanting</i> ✗." },
+                { "w": "had (sở hữu)", "vi": "có", "ex": "We had no phones back then.", "exvi": "Hồi đó chúng tôi không có điện thoại.", "note": "Nghĩa SỞ HỮU không tiếp diễn. Nhưng <i>I was having lunch</i> ✓." },
+                { "w": "was worried", "vi": "đang lo", "ex": "I was worried about you.", "exvi": "Tôi đã lo cho bạn.", "note": "<b>worried</b> là tính từ nên dùng <i>was</i>, không phải <i>was worrying</i>. Xem [Khung 87]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "When I <b>walked</b> home, I <b>was seeing</b> him.", "right": "When I <b>was walking</b> home, I <b>saw</b> him.", "why": "BẪY SỐ MỘT: việc DÀI làm nền ở tiếp diễn, việc NGẮN xen vào ở quá khứ đơn. Đảo ngược là câu vô nghĩa." },
+            { "wrong": "<b>While</b> I <b>cooked</b>, he called.", "right": "<b>While</b> I <b>was cooking</b>, he called.", "why": "BẪY SỐ HAI: <b>while</b> hầu như luôn đi với TIẾP DIỄN." },
+            { "wrong": "They <b>was</b> working.", "right": "They <b>were</b> working.", "why": "<b>was</b> cho I/he/she/it · <b>were</b> cho you/we/they. Chia theo CHỦ NGỮ, không theo việc." },
+            { "wrong": "I <b>was walk</b> home.", "right": "I <b>was walking</b> home.", "why": "Thiếu đuôi <b>-ing</b>. Cấu trúc đầy đủ là <i>was/were + V-ing</i>." },
+            { "wrong": "I <b>walking</b> home when I saw him.", "right": "I <b>was walking</b> home when I saw him.", "why": "Thiếu <b>was</b>. Tiếng Việt không có từ này nên rất dễ rơi mất." },
+            { "wrong": "I <b>was knowing</b> something was wrong.", "right": "I <b>knew</b> something was wrong.", "why": "Động từ TRẠNG THÁI không có dạng tiếp diễn, kể cả ở quá khứ. Xem [Ngữ pháp 02]." },
+            { "wrong": "He was <b>siting</b> there.", "right": "He was <b>sitting</b> there.", "why": "1 nguyên âm + 1 phụ âm và nhấn âm cuối thì GẤP ĐÔI phụ âm." },
+            { "wrong": "I finished, then I <b>was leaving</b>.", "right": "I finished, then I <b>left</b>.", "why": "Chuỗi việc NỐI TIẾP nhau thì cả hai đều ở quá khứ đơn — không có việc nào làm nền." },
+            { "wrong": "I <b>was worrying</b> about you.", "right": "I <b>was worried</b> about you.", "why": "<b>worried</b> là TÍNH TỪ đi sau <i>was</i>. Xem [Khung 87]." },
+            { "wrong": "<b>Did</b> you <b>were</b> waiting long?", "right": "<b>Were</b> you waiting long?", "why": "Động từ <b>be</b> không bao giờ mượn <i>did</i> — nó tự đảo lên đầu câu." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Dùng khi", "Ví dụ"],
+          "rows": [
+            ["<code>was/were + V-ing</code>", "Nền đang diễn ra ở quá khứ", "I was walking home."],
+            ["<code>V2</code>", "Việc ngắn xen vào, hoặc chuỗi nối tiếp. Xem [Ngữ pháp 03]", "I saw him."],
+            ["<code>While + was V-ing</code>", "Nhấn vào khoảng thời gian đang diễn ra", "While I was cooking…"],
+            ["<code>used to + V</code>", "Thói quen cũ lặp lại. Xem [Khung 93]", "I used to walk to school."],
+            ["<code>had + V3</code>", "Việc xảy ra TRƯỚC một việc quá khứ", "By then I had already left."],
+            ["<code>was going to + V</code>", "Dự định KHÔNG thành. Xem [Khung 91]", "I was going to call, but…"],
+            ["<code>am/is/are + V-ing</code>", "Đang xảy ra lúc NÀY. Xem [Ngữ pháp 02]", "I'm walking home now."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: tiếp diễn hay quá khứ đơn?" },
+        {
+          "t": "tree",
+          "q": "Trong câu chuyện của bạn, việc này đóng vai gì?",
+          "nodes": [
+            { "if": "Việc dài, đang diễn ra khi chuyện khác xảy đến", "then": "Quá khứ tiếp diễn", "ex": "I was walking home when I saw him." },
+            { "if": "Việc ngắn, xen vào giữa chừng", "then": "Quá khứ đơn", "ex": "…when I saw him." },
+            { "if": "Hai việc cùng kéo dài song song", "then": "Cả hai ở tiếp diễn", "ex": "I was cooking while she was reading." },
+            { "if": "Chuỗi việc lần lượt nối tiếp nhau", "then": "Cả hai ở quá khứ đơn", "ex": "I finished, then I left." },
+            { "if": "Việc đã xong TRƯỚC thời điểm đang kể", "then": "had + V3", "ex": "By then, I had already left." },
+            { "if": "Động từ chỉ trạng thái (know, want, have)", "then": "Quá khứ đơn — bắt buộc", "ex": "I knew something was wrong." }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ dài của cái nền" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I was just leaving when he called.", "vi": "Ngắn nhất — chỉ vài giây" },
+            { "en": "I was cooking when he called.", "vi": "Vài phút" },
+            { "en": "I was working all morning.", "vi": "Cả buổi sáng" },
+            { "en": "It was raining all day.", "vi": "Cả ngày" },
+            { "en": "We were living in Hue at the time.", "vi": "Dài nhất — cả một giai đoạn" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Quá khứ tiếp diễn xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 96, "why": "When I was…, I + V2 — khung kể chuyện chính, nơi cặp nền và việc xen vào được dạy kỹ nhất." },
+            { "id": 95, "why": "I've just + V3 — so sánh ranh giới giữa quá khứ và thì hoàn thành." },
+            { "id": 93, "why": "I used to… — cùng nói chuyện quá khứ nhưng nhấn vào thói quen đã chấm dứt." },
+            { "id": 92, "why": "Danh sách động từ trạng thái — nhóm không bao giờ dùng tiếp diễn, kể cả ở quá khứ." },
+            { "id": 87, "why": "I'm worried… — cặp I was worried / I was worrying, tính từ hay động từ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ trong ngoặc" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Khi tôi đang đi bộ về thì tôi thấy anh ấy.", "blank": "When I __________ (walk) home, I saw him.", "a": "was walking" },
+            { "vi": "Khi tôi đang đi bộ về thì tôi thấy anh ấy.", "blank": "When I was walking home, I __________ (see) him.", "a": "saw — việc ngắn xen vào" },
+            { "vi": "Trong lúc tôi đang nấu thì anh ấy gọi.", "blank": "While I __________ (cook), he called.", "a": "was cooking" },
+            { "vi": "Họ không nghe.", "blank": "They __________ (not listen).", "a": "weren't listening" },
+            { "vi": "Anh ấy đang ngồi đằng kia.", "blank": "He was __________ (sit) over there.", "a": "sitting (gấp đôi phụ âm)" },
+            { "vi": "Sáu giờ bạn đang làm gì?", "blank": "What __________ you __________ (do) at six?", "a": "were … doing" },
+            { "vi": "Tôi biết có gì đó không ổn.", "blank": "I __________ (know) something was wrong.", "a": "knew — động từ trạng thái, không tiếp diễn" },
+            { "vi": "Trời đang mưa lúc bọn tôi đến.", "blank": "It __________ (rain) when we arrived.", "a": "was raining" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Trong lúc tôi đang chờ thì chuyến bay bị hủy.", "blank": "__________ I was waiting, the flight was cancelled.  (While / When)", "a": "While — đi với tiếp diễn" },
+            { "vi": "Họ đang làm việc.", "blank": "They __________ working.  (was / were)", "a": "were" },
+            { "vi": "Bạn chờ lâu chưa?", "blank": "__________ you waiting long?  (Did you were / Were you)", "a": "Were you — be không mượn did" },
+            { "vi": "Tôi làm xong rồi tôi đi.", "blank": "I finished, then I __________.  (left / was leaving)", "a": "left — chuỗi việc nối tiếp" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Khi tôi đang đi bộ về thì tôi thấy anh ấy.", "a": "When I was walking home, I saw him." },
+            { "vi": "2. Trong lúc tôi đang chờ thì chuyến bay bị hủy.", "a": "While I was waiting, the flight was cancelled." },
+            { "vi": "3. Tôi đã định gọi cho bạn nhưng lại ngủ mất.", "a": "I was going to call you, but I fell asleep." },
+            { "vi": "4. Xin lỗi, lúc đó tôi đang lái xe.", "a": "Sorry, I was driving." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Hỏi một câu trước khi chia:</b> việc nào DÀI hơn? Việc đó ở tiếp diễn, việc ngắn xen vào ở quá khứ đơn.",
+            "<b><i>while</i> kéo theo tiếp diễn</b>, còn <i>when</i> đi được với cả hai. Chưa chắc thì dùng <i>when</i>.",
+            "<b>Đủ hai nửa:</b> <i>was/were</i> + <i>V-ing</i>. Người Việt hay rơi mất chữ <i>was/were</i>.",
+            "<b>Chia theo chủ ngữ, không theo việc:</b> <i>was</i> cho I/he/she/it, <i>were</i> cho you/we/they.",
+            "<b>Động từ trạng thái vẫn không tiếp diễn ở quá khứ:</b> <i>I knew</i> ✓, <i>I was knowing</i> ✗.",
+            "<b>Bài tập 3 phút:</b> viết ba câu kiểu <i>When I was …-ing, I …</i> về chuyện thật của bạn, rồi đổi một câu sang <i>While</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

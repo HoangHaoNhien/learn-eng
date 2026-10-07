@@ -1,0 +1,504 @@
+{
+  "id": 78,
+  "group": "Nhóm 8 · Giới thiệu & Xã giao",
+  "title": "Thank you for… — Cảm ơn cho đúng cách",
+  "subtitle": "Ai cũng biết nói thank you, nhưng ít người dùng đúng cấu trúc đầy đủ. Sau chữ for luôn là V-ing, không bao giờ là to V. Và có một nửa còn lại mà người Việt hay bỏ quên: biết đáp lại khi người khác cảm ơn mình.",
+  "pattern": [
+    "Thank you for <em>+ V-ing</em>.",
+    "Thanks for <em>+ danh từ</em>.",
+    "I really appreciate it."
+  ],
+  "meaning": "Cảm ơn bạn vì đã… / Cảm ơn về…",
+  "grammar": [25, 42],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 5/5" },
+    { "text": "Bẫy V-ing sau “for”" },
+    { "text": "Trình độ: A1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "Sau giới từ <b>for</b> luôn là <b>danh từ</b> hoặc <b>V-ing</b>. Đó là lý do <span class=\"k\">Thank you for helping</span> đúng, còn <i>Thank you for to help</i> sai. Đây là quy tắc chung cho mọi giới từ trong tiếng Anh." },
+        { "t": "p", "html": "Nói rõ <b>lý do</b> cảm ơn khiến lời cảm ơn có trọng lượng hẳn. <i>Thanks</i> trần trụi thì nhẹ; <i>Thanks for waiting</i> cho người kia biết bạn thật sự để ý đến điều họ đã làm." },
+        { "t": "p", "html": "Nửa quan trọng không kém mà người Việt hay bỏ quên: <b>đáp lại lời cảm ơn</b>. Trong tiếng Anh, im lặng khi ai đó nói <i>Thank you</i> nghe hơi lạnh. Luôn có một câu đáp, dù chỉ hai từ." },
+        { "t": "callout", "html": "<b>BẪY CẤU TRÚC:</b> <span class=\"k\">Thank you for helping me</span> ✓ — <i>Thank you for help me</i> ✗ — <i>Thank you to help me</i> ✗. Sau <b>for</b> chỉ có <b>V-ing</b> hoặc <b>danh từ</b>." },
+        { "t": "h3", "text": "Thang mức độ cảm ơn" },
+        {
+          "t": "table",
+          "head": ["Câu", "Mức độ", "Dùng khi"],
+          "rows": [
+            ["<code>Cheers.</code>", "Nhẹ nhất, rất Anh", "Việc nhỏ, bạn bè"],
+            ["<code>Thanks.</code>", "Thân mật", "Hằng ngày"],
+            ["<code>Thank you.</code>", "Chuẩn mực", "Mọi hoàn cảnh"],
+            ["<code>Thank you so much.</code>", "Nhấn mạnh", "Việc đáng kể"],
+            ["<code>I really appreciate it.</code>", "Chân thành nhất", "Khi ai đó giúp bạn thật sự"]
+          ]
+        },
+        { "t": "callout", "html": "<b>“I really appreciate it” mạnh hơn mọi lời cảm ơn khác</b> vì nó nói về cảm nhận của bạn chứ không chỉ là nghi thức. Dùng khi ai đó thật sự bỏ công sức ra giúp bạn." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🙏", "title": "Cảm ơn vì một việc cụ thể", "text": "Bối cảnh số 1. <i>Thank you for helping with the report.</i>" },
+            { "icon": "⏳", "title": "Cảm ơn vì người ta đã chờ", "text": "<i>Thanks for waiting.</i> Rất hay dùng trong dịch vụ." },
+            { "icon": "📧", "title": "Kết thúc email", "text": "<i>Thanks in advance.</i> Trước khi người ta làm." },
+            { "icon": "🎁", "title": "Nhận quà, nhận lời mời", "text": "<i>Thank you so much for having us.</i>" },
+            { "icon": "↩️", "title": "Đáp lại khi được cảm ơn", "text": "<i>No worries.</i> Đừng im lặng." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Sau <i>for</i> mà đặt <i>to V</i>. Luôn là V-ing." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Với động từ", "<code>Thank you for + V-ing.</code>", "Thank you for helping."],
+            ["Với danh từ", "<code>Thanks for + danh từ.</code>", "Thanks for your help."],
+            ["Thân mật", "<code>Thanks for + V-ing.</code>", "Thanks for waiting."],
+            ["Nhấn mạnh", "<code>Thank you so much for…</code>", "Thank you so much for coming."],
+            ["Chân thành nhất", "<code>I really appreciate it.</code>", "I really appreciate it."],
+            ["Trang trọng", "<code>I'm very grateful for…</code>", "I'm very grateful for your support."],
+            ["Trong email", "<code>Thanks in advance.</code>", "Thanks in advance for your help."],
+            ["Rất Anh, thân mật", "<code>Cheers.</code>", "Cheers, mate."],
+            ["Nợ ân tình", "<code>I owe you one.</code>", "I owe you one."],
+            ["Đáp lại", "<code>No worries. / You're welcome.</code>", "No worries at all."]
+          ]
+        },
+        { "t": "callout", "html": "<b>“Thanks in advance” chỉ dùng trong email</b> — khi bạn cảm ơn trước cho việc người ta <b>sẽ</b> làm. Trong hội thoại nó nghe kỳ, vì bạn đang cảm ơn cho chuyện chưa xảy ra." },
+        { "t": "callout", "html": "<b>Coi chừng “Thank God”:</b> đây là thành ngữ cảm thán (“may quá!”), <b>không có -s</b>. <i>Thanks God</i> ✗ là lỗi rất phổ biến. Ví dụ: <i>Thank God it's Friday!</i>" }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Lý do cảm ơn — sau “for”",
+              "items": [
+                { "w": "for helping", "vi": "vì đã giúp", "ex": "Thank you for helping with the report.", "exvi": "Cảm ơn anh/chị đã giúp làm báo cáo.", "note": "Sau <b>for</b> là V-ING. <i>for to help</i> ✗ và <i>for help me</i> ✗ đều sai." },
+                { "w": "for waiting", "vi": "vì đã chờ", "ex": "Thanks for waiting.", "exvi": "Cảm ơn anh/chị đã chờ.", "note": "Câu chuẩn mực trong ngành dịch vụ — nói ngay khi bạn quay lại phục vụ." },
+                { "w": "for coming", "vi": "vì đã đến", "ex": "Thank you so much for coming.", "exvi": "Cảm ơn bạn rất nhiều vì đã đến." },
+                { "w": "for letting me know", "vi": "vì đã báo cho tôi biết", "ex": "Thanks for letting me know.", "exvi": "Cảm ơn đã báo cho mình biết.", "note": "Cực kỳ hữu dụng — dùng khi ai đó chia sẻ thông tin với bạn." },
+                { "w": "for your time", "vi": "vì đã dành thời gian", "ex": "Thank you for your time.", "exvi": "Cảm ơn anh/chị đã dành thời gian.", "note": "Sau <i>for</i> là DANH TỪ cũng được — không nhất thiết phải là V-ing." },
+                { "w": "for your patience", "vi": "vì đã kiên nhẫn", "ex": "Thank you for your patience.", "exvi": "Cảm ơn anh/chị đã kiên nhẫn.", "note": "Câu chuẩn khi bạn vừa để ai đó chờ lâu hoặc xử lý chậm." },
+                { "w": "for having us", "vi": "vì đã tiếp đón chúng tôi", "ex": "Thank you for having us.", "exvi": "Cảm ơn đã tiếp đón chúng tôi.", "note": "Câu cảm ơn chủ nhà chuẩn mực khi bạn ra về." },
+                { "w": "for the update", "vi": "vì đã cập nhật", "ex": "Thanks for the update.", "exvi": "Cảm ơn đã cập nhật.", "note": "Rất phổ biến trong email công việc — ngắn và chuyên nghiệp." },
+                { "w": "for getting back to me", "vi": "vì đã phản hồi", "ex": "Thanks for getting back to me.", "exvi": "Cảm ơn anh/chị đã phản hồi." },
+                { "w": "for understanding", "vi": "vì đã thông cảm", "ex": "Thank you for understanding.", "exvi": "Cảm ơn anh/chị đã thông cảm.", "note": "Dùng sau khi bạn vừa từ chối hoặc báo tin không vui." },
+                { "w": "for everything", "vi": "vì tất cả mọi thứ", "ex": "Thank you for everything.", "exvi": "Cảm ơn vì tất cả.", "note": "Câu cảm ơn bao trùm — dùng khi chia tay hoặc kết thúc một giai đoạn." },
+                { "w": "for sorting that out", "vi": "vì đã xử lý giúp", "ex": "Thanks for sorting that out.", "exvi": "Cảm ơn đã xử lý giúp.", "note": "<i>sort out</i> = giải quyết. Rất Anh và rất hữu dụng." }
+              ]
+            },
+            {
+              "title": "Các mức độ cảm ơn",
+              "items": [
+                { "w": "Cheers", "vi": "cảm ơn nhé", "ex": "Cheers, mate.", "exvi": "Cảm ơn nhé.", "note": "Rất Anh và rất thân mật — cũng dùng khi nâng ly và khi tạm biệt." },
+                { "w": "Thanks", "vi": "cảm ơn", "ex": "Thanks, that's kind of you.", "exvi": "Cảm ơn, bạn tốt quá." },
+                { "w": "Thank you", "vi": "cảm ơn bạn", "ex": "Thank you very much.", "exvi": "Cảm ơn anh/chị rất nhiều.", "note": "Chuẩn mực — dùng được mọi hoàn cảnh, kể cả trang trọng." },
+                { "w": "Thanks a lot", "vi": "cảm ơn nhiều", "ex": "Thanks a lot for this.", "exvi": "Cảm ơn nhiều vì chuyện này.", "note": "CẨN THẬN: nói với giọng mỉa thì thành “cảm ơn nhé” châm biếm." },
+                { "w": "Thank you so much", "vi": "cảm ơn rất nhiều", "ex": "Thank you so much for coming.", "exvi": "Cảm ơn bạn rất nhiều vì đã đến." },
+                { "w": "I really appreciate it", "vi": "tôi thật sự trân trọng", "ex": "I really appreciate it.", "exvi": "Tôi thật sự trân trọng điều đó.", "note": "MẠNH NHẤT — nói về cảm nhận của bạn chứ không chỉ là nghi thức." },
+                { "w": "I'm very grateful", "vi": "tôi rất biết ơn", "ex": "I'm very grateful for your support.", "exvi": "Tôi rất biết ơn sự hỗ trợ của anh/chị.", "note": "Trang trọng — hợp email chính thức và thư cảm ơn." },
+                { "w": "That's very kind of you", "vi": "anh/chị tốt quá", "ex": "That's very kind of you.", "exvi": "Anh/chị tốt quá.", "note": "Câu cảm ơn lịch thiệp rất Anh — khen người kia thay vì chỉ cảm ơn." },
+                { "w": "I owe you one", "vi": "tôi nợ bạn một lần", "ex": "I owe you one.", "exvi": "Mình nợ bạn một lần nhé.", "note": "Thân mật — hứa sẽ đáp lại ơn trong tương lai." },
+                { "w": "You've been a great help", "vi": "bạn đã giúp tôi rất nhiều", "ex": "You've been a great help.", "exvi": "Anh/chị đã giúp tôi rất nhiều." },
+                { "w": "Thanks in advance", "vi": "cảm ơn trước", "ex": "Thanks in advance for your help.", "exvi": "Cảm ơn trước vì sự giúp đỡ của anh/chị.", "note": "CHỈ dùng trong EMAIL — trong hội thoại nghe kỳ." },
+                { "w": "Thank God", "vi": "may quá", "ex": "Thank God it's Friday!", "exvi": "May quá, thứ Sáu rồi!", "note": "BẪY: KHÔNG có <i>-s</i>. <i>Thanks God</i> ✗ là lỗi rất phổ biến." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại lời cảm ơn",
+              "items": [
+                { "w": "You're welcome", "vi": "không có gì", "ex": "You're welcome.", "exvi": "Không có gì.", "note": "Chuẩn mực và an toàn — dùng được mọi nơi." },
+                { "w": "No worries", "vi": "không sao đâu", "ex": "No worries at all.", "exvi": "Không có gì đâu.", "note": "Thân mật và rất tự nhiên — phổ biến ở Anh và Úc." },
+                { "w": "No problem", "vi": "không vấn đề gì", "ex": "No problem.", "exvi": "Không vấn đề gì." },
+                { "w": "Not at all", "vi": "không có gì cả", "ex": "Not at all.", "exvi": "Không có gì cả.", "note": "Lịch sự và hơi trang trọng — rất Anh." },
+                { "w": "My pleasure", "vi": "hân hạnh thôi", "ex": "My pleasure.", "exvi": "Hân hạnh thôi ạ.", "note": "Ấm áp và lịch thiệp — rất hợp trong dịch vụ." },
+                { "w": "Any time", "vi": "lúc nào cũng được", "ex": "Any time.", "exvi": "Lúc nào cũng vậy mà.", "note": "Ngụ ý bạn sẵn sàng giúp lại — rất ấm." },
+                { "w": "Don't mention it", "vi": "có gì đâu mà", "ex": "Don't mention it.", "exvi": "Có gì đâu mà." },
+                { "w": "It was nothing", "vi": "chuyện nhỏ thôi", "ex": "It was nothing, really.", "exvi": "Thật ra chuyện nhỏ thôi." },
+                { "w": "Happy to help", "vi": "rất vui được giúp", "ex": "Happy to help.", "exvi": "Rất vui được giúp ạ.", "note": "Chuyên nghiệp và tích cực — rất hợp trong công việc." },
+                { "w": "That's what friends are for", "vi": "bạn bè là để vậy mà", "ex": "That's what friends are for.", "exvi": "Bạn bè là để vậy mà." },
+                { "w": "You'd do the same", "vi": "bạn cũng sẽ làm vậy thôi", "ex": "You'd do the same for me.", "exvi": "Bạn cũng sẽ làm vậy cho mình thôi." },
+                { "w": "Glad I could help", "vi": "mừng vì giúp được", "ex": "Glad I could help.", "exvi": "Mừng vì giúp được bạn." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Thank you for helping with the report.",
+                  "vi": "Cảm ơn anh/chị đã giúp làm báo cáo.",
+                  "note": "Sau <b>for</b> là V-ING. Nêu rõ lý do khiến lời cảm ơn có trọng lượng hẳn.",
+                  "open": { "en": "Before you go —", "vi": "Trước khi anh/chị đi —" },
+                  "reply": [
+                    { "them": "Happy to help.", "themvi": "Rất vui được giúp.", "you": "I owe you one.", "youvi": "Tôi nợ anh/chị một lần." },
+                    { "them": "No worries at all.", "themvi": "Không có gì đâu.", "you": "It saved me hours.", "youvi": "Tiết kiệm cho tôi mấy tiếng." }
+                  ],
+                  "close": { "en": "I really appreciate it.", "vi": "Tôi thật sự trân trọng." }
+                },
+                {
+                  "en": "Thanks for getting back to me so quickly.",
+                  "vi": "Cảm ơn anh/chị đã phản hồi nhanh như vậy.",
+                  "note": "Câu cảm ơn chuẩn mực trong email công việc — cụ thể và chuyên nghiệp.",
+                  "reply": [
+                    { "them": "Not at all.", "themvi": "Không có gì cả.", "you": "I'll action it today.", "youvi": "Hôm nay tôi sẽ xử lý." }
+                  ],
+                  "vars": [
+                    { "en": "Thanks for the update.", "vi": "Cảm ơn đã cập nhật." }
+                  ]
+                },
+                {
+                  "en": "Thanks in advance for your help.",
+                  "vi": "Cảm ơn trước vì sự giúp đỡ của anh/chị.",
+                  "note": "CHỈ dùng trong EMAIL — cảm ơn trước cho việc người ta <b>sẽ</b> làm. Trong hội thoại nghe kỳ.",
+                  "reply": [
+                    { "them": "I'll look at it this afternoon.", "themvi": "Chiều nay tôi sẽ xem.", "you": "That's perfect, thank you.", "youvi": "Vậy thì tuyệt, cảm ơn anh/chị." }
+                  ]
+                },
+                {
+                  "en": "Thank you for your time today.",
+                  "vi": "Cảm ơn anh/chị đã dành thời gian hôm nay.",
+                  "note": "Sau <i>for</i> là DANH TỪ cũng hoàn toàn đúng — không nhất thiết phải V-ing.",
+                  "reply": [
+                    { "them": "My pleasure. We'll be in touch.", "themvi": "Hân hạnh. Chúng tôi sẽ liên hệ.", "you": "I look forward to hearing from you.", "youvi": "Tôi mong tin từ anh/chị." }
+                  ],
+                  "close": { "en": "Have a good afternoon.", "vi": "Chúc anh/chị buổi chiều tốt lành." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Thanks for waiting.",
+                  "vi": "Cảm ơn anh/chị đã chờ.",
+                  "note": "Câu chuẩn mực trong ngành dịch vụ — nói ngay khi bạn quay lại phục vụ sau khi để khách chờ.",
+                  "reply": [
+                    { "them": "No worries.", "themvi": "Không sao đâu.", "you": "Sorry about the delay.", "youvi": "Xin lỗi vì để anh/chị chờ." }
+                  ],
+                  "close": { "en": "Thank you for your patience.", "vi": "Cảm ơn anh/chị đã kiên nhẫn." }
+                },
+                {
+                  "en": "Thank you for sorting that out.",
+                  "vi": "Cảm ơn em đã xử lý giúp.",
+                  "note": "<span class=\"k\">sort out</span> = giải quyết, xử lý. Rất Anh và cực kỳ hữu dụng.",
+                  "reply": [
+                    { "them": "Glad I could help.", "themvi": "Mừng vì giúp được ạ.", "you": "You've been a great help.", "youvi": "Em đã giúp tôi rất nhiều." }
+                  ],
+                  "vars": [
+                    { "en": "Thanks for looking into it.", "vi": "Cảm ơn em đã kiểm tra giúp." }
+                  ]
+                },
+                {
+                  "en": "That's very kind of you.",
+                  "vi": "Em tốt quá.",
+                  "note": "Câu cảm ơn lịch thiệp rất Anh — khen người kia thay vì chỉ nói cảm ơn suông.",
+                  "reply": [
+                    { "them": "Not at all.", "themvi": "Không có gì cả ạ.", "you": "I really appreciate it.", "youvi": "Tôi thật sự trân trọng." }
+                  ]
+                },
+                {
+                  "en": "Cheers.",
+                  "vi": "Cảm ơn nhé.",
+                  "note": "Rất Anh và rất thân mật — dùng cho việc nhỏ. Cũng là lời nâng ly và lời tạm biệt.",
+                  "reply": [
+                    { "them": "Any time.", "themvi": "Lúc nào cũng vậy ạ.", "you": "See you next week.", "youvi": "Tuần sau gặp." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Thanks for letting me know.",
+                  "vi": "Cảm ơn đã báo cho mình biết.",
+                  "note": "Cực kỳ hữu dụng — dùng mỗi khi ai đó chia sẻ thông tin, dù nhỏ đến đâu.",
+                  "reply": [
+                    { "them": "No problem.", "themvi": "Không có gì.", "you": "I'd have turned up otherwise!", "youvi": "Không thì mình đã đến rồi!" }
+                  ]
+                },
+                {
+                  "en": "Thank you so much for having us.",
+                  "vi": "Cảm ơn bạn rất nhiều vì đã tiếp đón chúng mình.",
+                  "note": "Câu cảm ơn chủ nhà chuẩn mực khi bạn ra về — gần như bắt buộc trong văn hóa Anh-Mỹ.",
+                  "open": { "en": "We should get going —", "vi": "Bọn mình nên về —" },
+                  "reply": [
+                    { "them": "Any time! Come again soon.", "themvi": "Lúc nào cũng được! Sớm ghé lại nhé.", "you": "We'd love to.", "youvi": "Bọn mình rất muốn." }
+                  ],
+                  "close": { "en": "Thanks again for everything.", "vi": "Cảm ơn lần nữa vì tất cả." }
+                },
+                {
+                  "en": "I really appreciate it.",
+                  "vi": "Mình thật sự trân trọng điều đó.",
+                  "note": "MẠNH NHẤT trong nhóm — nói về cảm nhận của bạn chứ không chỉ là nghi thức xã giao.",
+                  "reply": [
+                    { "them": "That's what friends are for.", "themvi": "Bạn bè là để vậy mà.", "you": "You'd do the same.", "youvi": "Bạn cũng sẽ làm vậy thôi." }
+                  ],
+                  "vars": [
+                    { "en": "I owe you one.", "vi": "Mình nợ bạn một lần." }
+                  ]
+                },
+                {
+                  "en": "Thank God it's Friday!",
+                  "vi": "May quá, thứ Sáu rồi!",
+                  "note": "BẪY: <b>Thank God</b> KHÔNG có <i>-s</i>. <i>Thanks God</i> ✗ là lỗi rất phổ biến.",
+                  "reply": [
+                    { "them": "Long week?", "themvi": "Tuần dài nhỉ?", "you": "You have no idea.", "youvi": "Bạn không tưởng tượng nổi đâu." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Thank you for your patience.",
+                  "vi": "Cảm ơn anh/chị đã kiên nhẫn.",
+                  "note": "Câu chuẩn của nhân viên sau khi để khách chờ lâu hoặc xử lý chậm.",
+                  "reply": [
+                    { "them": "These things happen.", "themvi": "Chuyện thường mà.", "you": "We'll get you on the next flight.", "youvi": "Chúng em sẽ xếp anh/chị chuyến kế tiếp." }
+                  ],
+                  "close": { "en": "Thanks for understanding.", "vi": "Cảm ơn anh/chị đã thông cảm." }
+                },
+                {
+                  "en": "Thanks for showing us around.",
+                  "vi": "Cảm ơn anh/chị đã dẫn chúng tôi đi.",
+                  "reply": [
+                    { "them": "My pleasure.", "themvi": "Hân hạnh ạ.", "you": "You've been a great guide.", "youvi": "Anh/chị là hướng dẫn viên tuyệt vời." }
+                  ],
+                  "vars": [
+                    { "en": "Thank you for everything today.", "vi": "Cảm ơn anh/chị vì tất cả hôm nay." }
+                  ]
+                },
+                {
+                  "en": "Thank you for understanding.",
+                  "vi": "Cảm ơn anh/chị đã thông cảm.",
+                  "note": "Dùng ngay sau khi bạn vừa từ chối hoặc báo một tin không vui — làm dịu hẳn tình huống.",
+                  "reply": [
+                    { "them": "It's not your fault.", "themvi": "Không phải lỗi của em.", "you": "I'll do what I can.", "youvi": "Em sẽ làm hết sức." }
+                  ]
+                },
+                {
+                  "en": "Cheers for the lift.",
+                  "vi": "Cảm ơn đã cho đi nhờ xe.",
+                  "note": "<i>lift</i> là Anh-Anh (Anh-Mỹ nói <i>ride</i>). <b>Cheers for</b> + danh từ rất thân mật.",
+                  "reply": [
+                    { "them": "No worries at all.", "themvi": "Không có gì đâu.", "you": "Saved me an hour on the bus.", "youvi": "Đỡ cho mình một tiếng đi xe buýt." }
+                  ],
+                  "close": { "en": "I owe you one.", "vi": "Mình nợ bạn một lần." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Thank you for coming, both of you.",
+                  "vi": "Cảm ơn cả hai bạn đã đến.",
+                  "reply": [
+                    { "them": "Thanks for having us!", "themvi": "Cảm ơn đã mời bọn mình!", "you": "Any time.", "youvi": "Lúc nào cũng được mà." }
+                  ]
+                },
+                {
+                  "en": "Thanks for the recommendation — it was excellent.",
+                  "vi": "Cảm ơn đã giới thiệu — ngon tuyệt.",
+                  "note": "Quay lại cảm ơn sau khi đã dùng lời khuyên của ai đó — một cử chỉ rất được lòng.",
+                  "reply": [
+                    { "them": "Glad you enjoyed it!", "themvi": "Mừng là bạn thích!", "you": "We'll be going back.", "youvi": "Bọn mình sẽ quay lại." }
+                  ],
+                  "close": { "en": "Next one's on me.", "vi": "Lần sau mình mời." }
+                },
+                {
+                  "en": "Thank you, that's very kind.",
+                  "vi": "Cảm ơn em, tốt quá.",
+                  "reply": [
+                    { "them": "My pleasure.", "themvi": "Hân hạnh ạ.", "you": "Could we get the bill when you have a moment?", "youvi": "Lúc nào tiện em cho xin hóa đơn nhé?" }
+                  ],
+                  "vars": [
+                    { "en": "That's very kind of you.", "vi": "Em tốt quá." }
+                  ]
+                },
+                {
+                  "en": "Thanks for sorting the table out.",
+                  "vi": "Cảm ơn em đã sắp xếp bàn giúp.",
+                  "reply": [
+                    { "them": "Not at all — enjoy your meal.", "themvi": "Không có gì ạ — chúc anh/chị ngon miệng.", "you": "Thank you.", "youvi": "Cảm ơn em." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Cảm ơn đồng nghiệp đã giúp gấp",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Before you go — thank you for helping with the report.", "vi": "Trước khi anh/chị đi — cảm ơn đã giúp làm báo cáo." },
+            { "speaker": "Colleague", "en": "Happy to help. Did it go in on time?", "vi": "Rất vui được giúp. Có nộp kịp giờ không?" },
+            { "speaker": "You", "me": true, "en": "Just about. It saved me hours — I really appreciate it.", "vi": "Vừa kịp. Tiết kiệm cho tôi mấy tiếng — tôi thật sự trân trọng." },
+            { "speaker": "Colleague", "en": "No worries at all.", "vi": "Không có gì đâu." },
+            { "speaker": "You", "me": true, "en": "I owe you one. And thanks for getting back to me so quickly.", "vi": "Tôi nợ anh/chị một lần. Và cảm ơn đã phản hồi nhanh như vậy." },
+            { "speaker": "Colleague", "en": "Any time.", "vi": "Lúc nào cũng vậy mà." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Ra về sau khi được mời ăn tối",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "We should get going. Thank you so much for having us.", "vi": "Bọn mình nên về. Cảm ơn bạn rất nhiều vì đã tiếp đón." },
+            { "speaker": "Host", "en": "Any time! It's been lovely.", "vi": "Lúc nào cũng được! Vui lắm." },
+            { "speaker": "You", "me": true, "en": "The food was incredible. Thanks for the recommendation last time too.", "vi": "Đồ ăn tuyệt vời. Cảm ơn cả lời giới thiệu lần trước nữa." },
+            { "speaker": "Host", "en": "Glad you enjoyed it.", "vi": "Mừng là bạn thích." },
+            { "speaker": "You", "me": true, "en": "Thanks again for everything. Next one's on us.", "vi": "Cảm ơn lần nữa vì tất cả. Lần sau bọn mình mời." },
+            { "speaker": "Host", "en": "I'll hold you to that!", "vi": "Mình sẽ giữ lời hứa đó đấy!" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Thank you for to help me.", "right": "Thank you for helping me.", "why": "BẪY SỐ MỘT. Sau giới từ <b>for</b> luôn là <b>V-ing</b> hoặc danh từ, không bao giờ là <i>to V</i>." },
+            { "wrong": "Thank you for help me.", "right": "Thank you for helping me.", "why": "Cùng lỗi — động từ phải ở dạng <b>V-ing</b> sau <i>for</i>." },
+            { "wrong": "Thank you to come.", "right": "Thank you for coming.", "why": "Cần giới từ <b>for</b> và động từ dạng <b>V-ing</b>. Bỏ <i>for</i> là sai cấu trúc." },
+            { "wrong": "Thanks God it's Friday!", "right": "Thank God it's Friday!", "why": "<b>Thank God</b> là thành ngữ cố định, KHÔNG có <i>-s</i>." },
+            { "wrong": "“Thank you.” — <i>rồi im lặng</i>", "right": "No worries. / You're welcome.", "why": "Trong tiếng Anh, im lặng khi được cảm ơn nghe hơi lạnh. Luôn có một câu đáp, dù chỉ hai từ." },
+            { "wrong": "Thanks in advance. <i>(nói trực tiếp)</i>", "right": "Thanks for your help.", "why": "<i>Thanks in advance</i> CHỈ dùng trong email. Nói trực tiếp nghe kỳ vì bạn cảm ơn chuyện chưa xảy ra." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu", "Mức độ", "Dùng khi"],
+          "rows": [
+            ["<code>Cheers.</code>", "Nhẹ nhất, rất Anh", "Việc nhỏ, bạn bè."],
+            ["<code>Thanks.</code>", "Thân mật", "Hằng ngày."],
+            ["<code>Thank you for + V-ing.</code>", "Chuẩn mực, cụ thể", "Nêu rõ lý do cảm ơn."],
+            ["<code>Thank you so much.</code>", "Nhấn mạnh", "Việc đáng kể."],
+            ["<code>I really appreciate it.</code>", "Chân thành nhất", "Khi ai đó thật sự bỏ công sức."],
+            ["<code>I'm very grateful for…</code>", "Trang trọng", "Email chính thức, thư cảm ơn."],
+            ["<code>Thanks in advance.</code>", "Cảm ơn trước", "Chỉ trong email."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — đáp lại lời cảm ơn" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "No worries.", "vi": "Thân mật nhất — Anh, Úc" },
+            { "en": "No problem.", "vi": "Thân mật, phổ biến" },
+            { "en": "You're welcome.", "vi": "Chuẩn mực — an toàn mọi nơi" },
+            { "en": "Not at all.", "vi": "Lịch sự, hơi trang trọng — rất Anh" },
+            { "en": "My pleasure.", "vi": "Ấm áp nhất — hợp dịch vụ" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Thank you</b> nói nhanh dính thành <b>“thæn-kyu”</b> — âm /k/ nối sang <i>you</i>.",
+            "Âm <b>/θ/</b> ở đầu: đầu lưỡi chạm nhẹ răng trên. Người Việt hay đọc thành <i>tank you</i> hoặc <i>sank you</i>.",
+            "<b>Thanks for</b> → “thænks-fə”, chữ <i>for</i> lướt thành /fə/, không nhấn.",
+            "<b>Nhấn vào LÝ DO cảm ơn</b>, không nhấn vào <i>thank you</i>: <i>Thanks for</i> <b>WAIT</b>-ing.",
+            "<b>appreciate</b> nhấn ở âm tiết thứ hai: ə-<b>PREE</b>-shi-eit — bốn âm tiết.",
+            "<b>Giọng ấm và hơi xuống ở cuối</b> — lời cảm ơn nói giọng phẳng nghe như thủ tục."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Thank you for helping with the report.", "vi": "Luyện shadowing: “thæn-kyu-fə-HELP-ing”, nhấn vào lý do." },
+            { "en": "I really appreciate it.", "vi": "Tập nhấn ə-PREE-shi-eit và nói chậm lại để nghe chân thành." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Cảm ơn anh/chị đã giúp.", "blank": "Thank you for __________.", "a": "helping (V-ing sau “for”)" },
+            { "vi": "Cảm ơn anh/chị đã chờ.", "blank": "Thanks for __________.", "a": "waiting" },
+            { "vi": "Cảm ơn đã báo cho mình biết.", "blank": "Thanks for __________.", "a": "letting me know" },
+            { "vi": "Cảm ơn anh/chị đã dành thời gian.", "blank": "Thank you for __________.", "a": "your time" },
+            { "vi": "Tôi thật sự trân trọng điều đó.", "blank": "I really __________.", "a": "appreciate it" },
+            { "vi": "Cảm ơn trước vì sự giúp đỡ. (email)", "blank": "__________ for your help.", "a": "Thanks in advance" },
+            { "vi": "May quá, thứ Sáu rồi!", "blank": "__________ it's Friday!", "a": "Thank God (KHÔNG có -s)" },
+            { "vi": "Không có gì đâu.", "blank": "__________ at all.", "a": "No worries" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Cảm ơn anh/chị đã giúp làm báo cáo.", "a": "Thank you for helping with the report." },
+            { "vi": "2. Cảm ơn anh/chị đã phản hồi nhanh như vậy.", "a": "Thanks for getting back to me so quickly." },
+            { "vi": "3. Cảm ơn bạn rất nhiều vì đã tiếp đón chúng mình.", "a": "Thank you so much for having us." },
+            { "vi": "4. Cảm ơn em đã xử lý giúp.", "a": "Thank you for sorting that out." },
+            { "vi": "5. Cảm ơn anh/chị đã thông cảm.", "a": "Thank you for understanding." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Sau “for” luôn là V-ing hoặc danh từ</b> — không bao giờ <i>to V</i>. Đây là quy tắc chung cho mọi giới từ.",
+            "<b>Luôn nêu lý do:</b> <i>Thanks for waiting</i> có trọng lượng hơn hẳn <i>Thanks</i> trần trụi.",
+            "<b>Học cả nửa còn lại — cách đáp lại.</b> Im lặng khi được cảm ơn nghe hơi lạnh trong tiếng Anh.",
+            "<b>“I really appreciate it” là mạnh nhất</b> — để dành cho khi ai đó thật sự bỏ công sức giúp bạn.",
+            "<b>Nhớ “Thank God” không có -s</b> — đây là thành ngữ cố định, không phải lời cảm ơn thông thường.",
+            "<b>Bài tập 3 phút:</b> nhớ lại năm việc người khác làm cho bạn tuần này, viết một câu <i>Thank you for + V-ing</i> cho từng việc."
+          ]
+        }
+      ]
+    }
+  ]
+}

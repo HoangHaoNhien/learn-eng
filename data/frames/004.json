@@ -1,0 +1,497 @@
+{
+  "id": 4,
+  "group": "Nhóm 1 · Mong muốn & Nhu cầu",
+  "title": "I'm looking for… — Nói ra thứ mình đang tìm",
+  "subtitle": "Câu mở lời hoàn hảo trong cửa hàng, và cũng là cách kể về việc tìm nhà, tìm việc, tìm giải pháp. Sức mạnh của nó nằm ở chỗ: bạn nêu nhu cầu mà không hề nhờ vả, nhưng người nghe gần như luôn tự động giúp.",
+  "pattern": [
+    "I'm looking for <em>+ danh từ</em>",
+    "I'm looking for <em>+ somewhere / something / someone + to V</em>",
+    "I'm looking <em>+ to V</em>"
+  ],
+  "meaning": "Tôi đang tìm… (chưa thấy, đang trong quá trình)",
+  "grammar": [45, 51, 55, 60],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Câu mở lời số 1 khi mua sắm" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">look for</span> = <b>tìm kiếm</b> (quá trình), khác hẳn <span class=\"k\">find</span> = <b>tìm thấy</b> (kết quả). Thì tiếp diễn <i>am looking</i> nhấn mạnh rằng việc tìm đang diễn ra ngay lúc này hoặc trong giai đoạn này của đời bạn." },
+        { "t": "p", "html": "Điều làm khung này đặc biệt hữu ích: nó <b>không phải là một lời nhờ vả</b>. Bạn chỉ đang mô tả tình trạng của mình. Nhưng trong văn hóa giao tiếp Anh–Mỹ, mô tả một nhu cầu chính là cách mời người khác giúp một cách lịch sự nhất — người nghe sẽ tự nhảy vào hỗ trợ mà không thấy bị sai khiến." },
+        { "t": "p", "html": "Vì vậy trong cửa hàng, <i>I'm looking for a charger</i> nghe dễ chịu hơn hẳn <i>Give me a charger</i> hay thậm chí <i>I need a charger</i>. Nó cũng cho bạn đường lui: nếu không có hàng, chẳng ai mất mặt cả." },
+        { "t": "callout", "html": "<b>Bẫy lớn nhất:</b> người Việt hay dịch “tôi đang tìm việc” thành <i>I'm finding a job</i>. Sai. <b>find</b> là tìm ra được. Đang tìm thì luôn là <span class=\"k\">looking for</span>." },
+        { "t": "h3", "text": "Ba động từ “look” dễ nhầm" },
+        {
+          "t": "table",
+          "head": ["Cụm", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>look for</code>", "Tìm kiếm", "I'm looking for my keys. (tìm chìa khóa)"],
+            ["<code>look at</code>", "Nhìn vào", "I'm looking at the menu. (đang xem thực đơn)"],
+            ["<code>look after</code>", "Chăm sóc", "I'm looking after my niece today. (trông cháu)"],
+            ["<code>look into</code>", "Xem xét, điều tra", "I'll look into it. (tôi sẽ xem xét việc đó)"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🛍", "title": "Trong cửa hàng", "text": "Bối cảnh số 1. <i>I'm looking for a gift for my mum.</i> Nhân viên sẽ dẫn bạn đi ngay." },
+            { "icon": "💼", "title": "Tìm việc, tìm cơ hội", "text": "<i>I'm looking for a job in marketing.</i> Câu chuẩn khi kết nối, phỏng vấn, viết hồ sơ." },
+            { "icon": "🏠", "title": "Tìm nhà, tìm chỗ", "text": "<i>I'm looking for somewhere near the office.</i>" },
+            { "icon": "🧭", "title": "Bị lạc, hỏi đường", "text": "<i>I'm looking for the train station.</i> Mềm hơn <i>Where is the station?</i> rất nhiều." },
+            { "icon": "👥", "title": "Tìm người", "text": "<i>I'm looking for Ms. Lan — is she in?</i> Dùng ở quầy lễ tân, văn phòng." },
+            { "icon": "🚫", "title": "Từ chối khéo", "text": "<i>I'm not looking for anything right now, thanks.</i> Cách gạt người bán hàng mà không mất lòng." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cơ bản", "<code>I'm looking for + N</code>", "I'm looking for a charger."],
+            ["Tìm nơi chốn", "<code>I'm looking for somewhere to + V</code>", "I'm looking for somewhere to park."],
+            ["Tìm vật", "<code>I'm looking for something + tính từ</code>", "I'm looking for something cheaper."],
+            ["Tìm người", "<code>I'm looking for someone who + V</code>", "I'm looking for someone who speaks Japanese."],
+            ["Không có “for”", "<code>I'm looking to + V</code>", "I'm looking to buy a second-hand bike."],
+            ["Phủ định", "<code>I'm not looking for + N</code>", "I'm not looking for anything right now."],
+            ["Câu hỏi", "<code>Are you looking for + N?</code>", "Are you looking for anything in particular?"],
+            ["Hỏi mở", "<code>What are you looking for?</code>", "What exactly are you looking for?"],
+            ["Đã tìm lâu", "<code>I've been looking for + N</code>", "I've been looking for this book for months."],
+            ["Quá khứ", "<code>I was looking for + N</code>", "I was looking for you earlier."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Phân biệt tinh:</b> <span class=\"k\">I'm looking for a bike</span> = tìm một chiếc xe (vật thể). <span class=\"k\">I'm looking to buy a bike</span> = tôi đang có ý định mua (hành động). Dạng <i>looking to</i> nghe chuyên nghiệp, hay dùng trong kinh doanh." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Đồ vật & nơi chốn hay tìm",
+              "items": [
+                { "w": "a charger", "vi": "cục sạc", "ex": "I'm looking for a charger for this phone.", "exvi": "Tôi đang tìm cục sạc cho cái điện thoại này." },
+                { "w": "a gift", "vi": "món quà", "ex": "I'm looking for a gift for my mum.", "exvi": "Tôi đang tìm quà cho mẹ tôi.", "note": "Anh-Anh hay nói <i>a present</i>, nghĩa như nhau." },
+                { "w": "a bigger size", "vi": "cỡ lớn hơn", "ex": "I'm looking for a bigger size in this shirt.", "exvi": "Tôi đang tìm cỡ lớn hơn của cái áo này." },
+                { "w": "the exit", "vi": "lối ra", "ex": "Sorry, I'm looking for the exit.", "exvi": "Xin lỗi, tôi đang tìm lối ra." },
+                { "w": "the toilet", "vi": "nhà vệ sinh", "ex": "Excuse me, I'm looking for the toilet.", "exvi": "Xin lỗi, tôi đang tìm nhà vệ sinh.", "note": "Anh-Mỹ nói <i>the restroom</i> hoặc <i>the bathroom</i>; <i>toilet</i> nghe hơi thô với người Mỹ." },
+                { "w": "my keys", "vi": "chìa khóa của tôi", "ex": "I'm looking for my keys — have you seen them?", "exvi": "Tôi đang tìm chìa khóa — bạn có thấy không?" },
+                { "w": "the train station", "vi": "nhà ga", "ex": "I'm looking for the train station.", "exvi": "Tôi đang tìm nhà ga." },
+                { "w": "a cash machine", "vi": "máy ATM", "ex": "I'm looking for a cash machine around here.", "exvi": "Tôi đang tìm máy ATM quanh đây.", "note": "Anh-Mỹ nói <i>an ATM</i>." },
+                { "w": "a pharmacy", "vi": "hiệu thuốc", "ex": "I'm looking for a pharmacy that's open late.", "exvi": "Tôi đang tìm hiệu thuốc mở cửa muộn.", "note": "Anh-Anh còn nói <i>a chemist's</i>." },
+                { "w": "a parking space", "vi": "chỗ đậu xe", "ex": "I'm looking for a parking space near the mall.", "exvi": "Tôi đang tìm chỗ đậu xe gần trung tâm thương mại." },
+                { "w": "the platform", "vi": "sân ga", "ex": "I'm looking for platform seven.", "exvi": "Tôi đang tìm sân ga số bảy." },
+                { "w": "my seat", "vi": "chỗ ngồi của tôi", "ex": "I'm looking for my seat — it's 14B.", "exvi": "Tôi đang tìm chỗ ngồi — số 14B ạ." },
+                { "w": "the entrance", "vi": "lối vào", "ex": "I'm looking for the main entrance.", "exvi": "Tôi đang tìm lối vào chính." },
+                { "w": "a taxi", "vi": "xe taxi", "ex": "I'm looking for a taxi to the airport.", "exvi": "Tôi đang tìm taxi đi sân bay." },
+                { "w": "the receipt", "vi": "biên lai", "ex": "I'm looking for the receipt — I want to return this.", "exvi": "Tôi đang tìm biên lai — tôi muốn trả lại món này." },
+                { "w": "a quieter table", "vi": "bàn yên tĩnh hơn", "ex": "I'm looking for a quieter table, if you have one.", "exvi": "Nếu có bàn yên tĩnh hơn thì cho tôi ạ." },
+                { "w": "the manager", "vi": "quản lý", "ex": "I'm looking for the manager, please.", "exvi": "Cho tôi gặp quản lý ạ." },
+                { "w": "a smaller one", "vi": "cái nhỏ hơn", "ex": "I'm looking for a smaller one, actually.", "exvi": "Thật ra tôi đang tìm cái nhỏ hơn." },
+                { "w": "the check-in desk", "vi": "quầy làm thủ tục", "ex": "I'm looking for the check-in desk for Vietnam Airlines.", "exvi": "Tôi đang tìm quầy làm thủ tục của Vietnam Airlines." },
+                { "w": "a power outlet", "vi": "ổ cắm điện", "ex": "I'm looking for a power outlet to charge my laptop.", "exvi": "Tôi đang tìm ổ cắm để sạc laptop.", "note": "Anh-Anh nói <i>a plug socket</i>." }
+              ]
+            },
+            {
+              "title": "Việc làm, chỗ ở & những thứ trừu tượng",
+              "items": [
+                { "w": "a job", "vi": "công việc", "ex": "I'm looking for a job in marketing.", "exvi": "Tôi đang tìm việc trong ngành marketing.", "note": "TUYỆT ĐỐI không nói <i>I'm finding a job</i> — đó là lỗi kinh điển." },
+                { "w": "a new challenge", "vi": "thử thách mới", "ex": "I'm looking for a new challenge.", "exvi": "Tôi đang tìm một thử thách mới.", "note": "Câu chuẩn trong phỏng vấn khi được hỏi vì sao muốn đổi việc." },
+                { "w": "an apartment", "vi": "căn hộ", "ex": "I'm looking for an apartment near the office.", "exvi": "Tôi đang tìm căn hộ gần văn phòng.", "note": "Anh-Anh nói <i>a flat</i>." },
+                { "w": "a flatmate", "vi": "người ở ghép", "ex": "I'm looking for a flatmate to share the rent.", "exvi": "Tôi đang tìm người ở ghép chia tiền nhà.", "note": "Anh-Mỹ nói <i>a roommate</i>." },
+                { "w": "some advice", "vi": "lời khuyên", "ex": "I'm looking for some advice on this.", "exvi": "Tôi đang muốn xin lời khuyên về chuyện này.", "note": "<i>advice</i> không đếm được — không có <i>an advice</i> hay <i>advices</i>." },
+                { "w": "a solution", "vi": "giải pháp", "ex": "We're looking for a solution that works for both sides.", "exvi": "Chúng tôi đang tìm giải pháp có lợi cho cả hai bên." },
+                { "w": "feedback", "vi": "góp ý", "ex": "I'm looking for honest feedback on this draft.", "exvi": "Tôi muốn nghe góp ý thẳng thắn về bản nháp này." },
+                { "w": "a mentor", "vi": "người hướng dẫn", "ex": "I'm looking for a mentor in this field.", "exvi": "Tôi đang tìm một người hướng dẫn trong lĩnh vực này." },
+                { "w": "a fresh start", "vi": "một khởi đầu mới", "ex": "I'm looking for a fresh start somewhere else.", "exvi": "Tôi đang muốn có một khởi đầu mới ở nơi khác." },
+                { "w": "the right person", "vi": "đúng người", "ex": "We're looking for the right person, not just anyone.", "exvi": "Chúng tôi tìm đúng người, không phải ai cũng được." }
+              ]
+            },
+            {
+              "title": "Biến thể & từ đi kèm",
+              "items": [
+                { "w": "somewhere to…", "vi": "chỗ nào đó để…", "ex": "I'm looking for somewhere to park.", "exvi": "Tôi đang tìm chỗ nào đó để đậu xe.", "note": "Công thức <i>somewhere / something / someone + to V</i> cực kỳ hay dùng." },
+                { "w": "something + adj", "vi": "cái gì đó…", "ex": "I'm looking for something cheaper.", "exvi": "Tôi đang tìm cái gì đó rẻ hơn.", "note": "Tính từ đứng SAU <i>something</i>, khác với tiếng Việt." },
+                { "w": "in particular", "vi": "cụ thể nào đó", "ex": "Are you looking for anything in particular?", "exvi": "Anh/chị tìm món gì cụ thể không ạ?", "note": "Câu nhân viên bán hàng hay hỏi — nên thuộc để trả lời." },
+                { "w": "I'm looking to…", "vi": "tôi đang có ý định…", "ex": "I'm looking to buy a second-hand bike.", "exvi": "Tôi đang muốn mua một chiếc xe đạp cũ.", "note": "Không có <i>for</i>. Nghe chuyên nghiệp, hay dùng trong kinh doanh." },
+                { "w": "I'm not looking for…", "vi": "tôi không tìm…", "ex": "I'm not looking for anything right now, thanks.", "exvi": "Giờ tôi chưa tìm gì cả, cảm ơn bạn.", "note": "Cách từ chối người bán hàng lịch sự nhất." },
+                { "w": "I've been looking for…", "vi": "tôi tìm mãi…", "ex": "I've been looking for this book for months!", "exvi": "Tôi tìm cuốn sách này mấy tháng trời rồi!", "note": "Thì hoàn thành tiếp diễn — nhấn mạnh đã tìm rất lâu." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I'm looking for a gift for my mum.",
+                  "vi": "Tôi đang tìm quà cho mẹ tôi.",
+                  "note": "Nói rõ “tặng ai” là nhân viên tư vấn trúng ngay — nhanh hơn tự đi vòng quanh cửa hàng.",
+                  "open": { "en": "Hi, could you help me?", "vi": "Chào bạn, bạn giúp tôi một chút được không?" },
+                  "reply": [
+                    { "them": "Sure! What kind of thing does she like?", "themvi": "Vâng ạ! Bác thích kiểu gì ạ?", "you": "She likes reading and tea.", "youvi": "Mẹ tôi thích đọc sách và uống trà." },
+                    { "them": "What's your budget?", "themvi": "Ngân sách của anh/chị khoảng bao nhiêu?", "you": "Around five hundred thousand.", "youvi": "Khoảng năm trăm nghìn." }
+                  ],
+                  "close": { "en": "That's perfect. I'll take it.", "vi": "Cái này hợp quá. Tôi lấy cái này." }
+                },
+                {
+                  "en": "I'm looking for a bigger size in this shirt.",
+                  "vi": "Tôi đang tìm cỡ lớn hơn của cái áo này.",
+                  "reply": [
+                    { "them": "What size are you after?", "themvi": "Anh/chị cần cỡ nào ạ?", "you": "Large, if you have it.", "youvi": "Cỡ L, nếu bên bạn có." },
+                    { "them": "Sorry, that's the last one.", "themvi": "Xin lỗi, đó là cái cuối cùng rồi ạ.", "you": "No worries. Thanks for checking.", "youvi": "Không sao. Cảm ơn bạn đã kiểm tra." }
+                  ],
+                  "vars": [
+                    { "en": "I'm looking for something cheaper.", "vi": "Tôi đang tìm cái gì đó rẻ hơn." },
+                    { "en": "I'm looking for a smaller one, actually.", "vi": "Thật ra tôi đang tìm cái nhỏ hơn." }
+                  ]
+                },
+                {
+                  "en": "I'm not looking for anything right now, thanks. I'm just browsing.",
+                  "vi": "Giờ tôi chưa tìm gì cả, cảm ơn bạn. Tôi chỉ xem thôi.",
+                  "note": "<span class=\"k\">I'm just browsing</span> = tôi chỉ xem thôi. Đây là câu gạt người bán hàng lịch sự nhất mà không mất lòng ai.",
+                  "reply": [
+                    { "them": "No problem. Let me know if you need anything.", "themvi": "Không sao ạ. Cần gì anh/chị cứ gọi em.", "you": "Thanks, I will.", "youvi": "Cảm ơn bạn, tôi sẽ gọi." }
+                  ]
+                },
+                {
+                  "en": "I'm looking for a charger for this phone.",
+                  "vi": "Tôi đang tìm cục sạc cho cái điện thoại này.",
+                  "note": "Đưa máy ra cùng lúc nói để nhân viên nhìn được cổng sạc.",
+                  "reply": [
+                    { "them": "Is it USB-C?", "themvi": "Cổng USB-C phải không ạ?", "you": "I think so — could you check?", "youvi": "Tôi nghĩ vậy — bạn kiểm tra giúp được không?" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I'm looking for a job in marketing.",
+                  "vi": "Tôi đang tìm việc trong ngành marketing.",
+                  "note": "Câu chuẩn khi kết nối, gặp gỡ ngành nghề. Nhớ: KHÔNG phải <i>I'm finding a job</i>.",
+                  "open": { "en": "Actually, can I ask you something?", "vi": "Thật ra, tôi hỏi bạn một chuyện được không?" },
+                  "reply": [
+                    { "them": "What kind of role exactly?", "themvi": "Cụ thể là vị trí kiểu gì?", "you": "Something on the content side.", "youvi": "Thiên về mảng nội dung ấy." },
+                    { "them": "I might know someone. Send me your CV.", "themvi": "Mình có thể biết một người. Gửi CV cho mình nhé.", "you": "That would be a huge help, thank you.", "youvi": "Vậy thì giúp mình nhiều lắm, cảm ơn bạn." }
+                  ],
+                  "close": { "en": "I really appreciate you thinking of me.", "vi": "Cảm ơn bạn đã nghĩ đến mình." }
+                },
+                {
+                  "en": "I'm looking for a new challenge.",
+                  "vi": "Tôi đang tìm một thử thách mới.",
+                  "note": "Câu trả lời an toàn nhất khi phỏng vấn hỏi “Vì sao bạn muốn rời công ty cũ?” — không nói xấu ai.",
+                  "reply": [
+                    { "them": "What's missing in your current role?", "themvi": "Vị trí hiện tại của bạn thiếu điều gì?", "you": "I've stopped learning new things.", "youvi": "Em không còn học được điều gì mới nữa ạ." }
+                  ]
+                },
+                {
+                  "en": "I'm looking for someone who speaks Japanese.",
+                  "vi": "Tôi đang tìm người biết tiếng Nhật.",
+                  "note": "Công thức <span class=\"k\">someone who + động từ</span> — tả người bằng khả năng của họ.",
+                  "reply": [
+                    { "them": "Try Hoa in the QA team.", "themvi": "Thử hỏi chị Hoa bên nhóm QA xem.", "you": "Great, thanks. I'll message her.", "youvi": "Tuyệt, cảm ơn. Tôi sẽ nhắn chị ấy." }
+                  ],
+                  "vars": [
+                    { "en": "I'm looking for someone who's done this before.", "vi": "Tôi đang tìm người từng làm việc này rồi." }
+                  ]
+                },
+                {
+                  "en": "I'm looking for honest feedback on this draft.",
+                  "vi": "Tôi muốn nghe góp ý thẳng thắn về bản nháp này.",
+                  "note": "Nói rõ “honest” là cách mời người ta nói thật thay vì khen xã giao.",
+                  "reply": [
+                    { "them": "Sure. Do you want the good news or the bad news?", "themvi": "Được. Bạn muốn nghe tin tốt hay tin xấu trước?", "you": "The bad news, please.", "youvi": "Tin xấu trước đi." }
+                  ],
+                  "close": { "en": "This is really useful — thank you.", "vi": "Cái này hữu ích lắm — cảm ơn bạn." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Excuse me, I'm looking for the train station.",
+                  "vi": "Xin lỗi, tôi đang tìm nhà ga.",
+                  "note": "Mềm hơn hẳn <i>Where is the station?</i> — và người ta gần như luôn dừng lại chỉ đường.",
+                  "open": { "en": "Sorry to bother you —", "vi": "Xin lỗi làm phiền bạn —" },
+                  "reply": [
+                    { "them": "It's about ten minutes that way.", "themvi": "Đi hướng đó khoảng mười phút ạ.", "you": "Straight down this road?", "youvi": "Đi thẳng đường này ạ?" },
+                    { "them": "Sorry, I'm not from here.", "themvi": "Xin lỗi, tôi không phải người ở đây.", "you": "No problem, thanks anyway.", "youvi": "Không sao, vẫn cảm ơn bạn." }
+                  ],
+                  "close": { "en": "Thanks so much for your help.", "vi": "Cảm ơn bạn nhiều lắm." }
+                },
+                {
+                  "en": "I'm looking for the check-in desk for Vietnam Airlines.",
+                  "vi": "Tôi đang tìm quầy làm thủ tục của Vietnam Airlines.",
+                  "reply": [
+                    { "them": "Row G, at the far end.", "themvi": "Dãy G, ở cuối kia ạ.", "you": "Thank you.", "youvi": "Cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "I'm looking for somewhere to park around here.",
+                  "vi": "Tôi đang tìm chỗ đậu xe quanh đây.",
+                  "note": "<span class=\"k\">somewhere to + V</span> — dùng khi bạn không quan tâm chỗ nào, miễn là làm được việc.",
+                  "reply": [
+                    { "them": "There's a car park behind the building.", "themvi": "Có bãi xe phía sau tòa nhà ạ.", "you": "Is it free?", "youvi": "Có mất phí không ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "I'm looking for somewhere to sit and work.", "vi": "Tôi đang tìm chỗ nào đó ngồi làm việc." }
+                  ]
+                },
+                {
+                  "en": "I'm looking for my seat — it's 14B.",
+                  "vi": "Tôi đang tìm chỗ ngồi — số 14B ạ.",
+                  "reply": [
+                    { "them": "It's just here, by the window.", "themvi": "Ngay đây ạ, cạnh cửa sổ.", "you": "Great, thank you.", "youvi": "Tuyệt, cảm ơn bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I'm looking for an apartment near the office.",
+                  "vi": "Tôi đang tìm căn hộ gần văn phòng.",
+                  "reply": [
+                    { "them": "What's your budget?", "themvi": "Ngân sách của bạn bao nhiêu?", "you": "Under eight million a month.", "youvi": "Dưới tám triệu một tháng." },
+                    { "them": "My friend has a place free.", "themvi": "Bạn mình có một chỗ đang trống.", "you": "Really? Could you introduce us?", "youvi": "Thật à? Bạn giới thiệu giúp mình nhé?" }
+                  ],
+                  "close": { "en": "Let me know if you hear of anything.", "vi": "Bạn nghe ngóng được gì thì báo mình nhé." }
+                },
+                {
+                  "en": "I'm looking for my keys — have you seen them?",
+                  "vi": "Tôi đang tìm chìa khóa — bạn có thấy không?",
+                  "reply": [
+                    { "them": "Did you check your jacket?", "themvi": "Bạn xem trong áo khoác chưa?", "you": "Oh — found them. Thanks!", "youvi": "À — thấy rồi. Cảm ơn nhé!" }
+                  ]
+                },
+                {
+                  "en": "I'm looking for some advice on this, honestly.",
+                  "vi": "Thật lòng thì tôi đang muốn xin lời khuyên về chuyện này.",
+                  "note": "<i>advice</i> không đếm được: không có <i>an advice</i>, không có <i>advices</i>.",
+                  "reply": [
+                    { "them": "Of course. Tell me what happened.", "themvi": "Tất nhiên rồi. Kể mình nghe chuyện gì đi.", "you": "It's about my job.", "youvi": "Là chuyện công việc của mình." }
+                  ]
+                },
+                {
+                  "en": "I've been looking for this book for months!",
+                  "vi": "Tôi tìm cuốn sách này mấy tháng trời rồi!",
+                  "note": "Thì hiện tại hoàn thành tiếp diễn — nhấn mạnh quá trình kéo dài đến tận bây giờ.",
+                  "reply": [
+                    { "them": "Where did you finally find it?", "themvi": "Cuối cùng bạn tìm thấy ở đâu?", "you": "In a second-hand shop downtown.", "youvi": "Ở một tiệm sách cũ dưới phố." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I'm looking for a quieter table, if you have one.",
+                  "vi": "Nếu có bàn yên tĩnh hơn thì cho tôi ạ.",
+                  "note": "<i>if you have one</i> ở cuối cho người kia đường lui khi không đáp ứng được.",
+                  "reply": [
+                    { "them": "There's one at the back.", "themvi": "Có một bàn ở phía trong ạ.", "you": "That's perfect, thank you.", "youvi": "Vậy tốt quá, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "I'm looking for something without dairy.",
+                  "vi": "Tôi đang tìm món nào không có sữa.",
+                  "note": "<span class=\"k\">something without + N</span> — mẫu cực hữu dụng khi bạn kiêng hoặc dị ứng.",
+                  "reply": [
+                    { "them": "The noodle dishes are all dairy-free.", "themvi": "Các món mì đều không có sữa ạ.", "you": "Great, I'll have the beef noodles.", "youvi": "Tuyệt, cho tôi phở bò." }
+                  ]
+                },
+                {
+                  "en": "I'm looking for a place that's open late.",
+                  "vi": "Tôi đang tìm chỗ nào mở cửa muộn.",
+                  "reply": [
+                    { "them": "How late are we talking?", "themvi": "Muộn cỡ nào?", "you": "After eleven.", "youvi": "Sau mười một giờ." }
+                  ]
+                },
+                {
+                  "en": "I'm looking for the manager, please.",
+                  "vi": "Cho tôi gặp quản lý ạ.",
+                  "note": "Nghe bình tĩnh hơn <i>Get me the manager</i> rất nhiều — vẫn đạt mục đích mà không gây căng thẳng.",
+                  "reply": [
+                    { "them": "Is there a problem?", "themvi": "Có vấn đề gì không ạ?", "you": "Yes, but nothing urgent.", "youvi": "Có, nhưng không có gì gấp." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Trong cửa hàng quà tặng",
+          "lines": [
+            { "speaker": "Staff", "en": "Hi there, are you looking for anything in particular?", "vi": "Chào anh/chị, anh/chị tìm món gì cụ thể không ạ?" },
+            { "speaker": "You", "me": true, "en": "Yes, I'm looking for a gift for my mum.", "vi": "Có ạ, tôi đang tìm quà cho mẹ tôi." },
+            { "speaker": "Staff", "en": "Lovely. What sort of things does she like?", "vi": "Hay quá. Bác thích những thứ kiểu gì ạ?" },
+            { "speaker": "You", "me": true, "en": "She likes reading and tea. I'm looking for something under five hundred thousand.", "vi": "Mẹ tôi thích đọc sách và uống trà. Tôi tìm món gì đó dưới năm trăm nghìn." },
+            { "speaker": "Staff", "en": "This tea set is four hundred and fifty.", "vi": "Bộ ấm trà này bốn trăm năm mươi ạ." },
+            { "speaker": "You", "me": true, "en": "That's perfect. I'll take it.", "vi": "Hợp quá. Tôi lấy cái này." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Nói chuyện nghề nghiệp với người quen",
+          "lines": [
+            { "speaker": "Friend", "en": "How's work going these days?", "vi": "Dạo này công việc thế nào?" },
+            { "speaker": "You", "me": true, "en": "Honestly, I'm looking for a new challenge.", "vi": "Thật lòng thì mình đang tìm một thử thách mới." },
+            { "speaker": "Friend", "en": "Oh? What are you looking for exactly?", "vi": "Ồ? Cụ thể bạn tìm gì?" },
+            { "speaker": "You", "me": true, "en": "A job in marketing — something on the content side.", "vi": "Việc trong ngành marketing — thiên về mảng nội dung ấy." },
+            { "speaker": "Friend", "en": "I might know someone. Send me your CV.", "vi": "Mình có thể biết một người. Gửi CV cho mình nhé." },
+            { "speaker": "You", "me": true, "en": "That would be a huge help. Thank you.", "vi": "Vậy thì giúp mình nhiều lắm. Cảm ơn bạn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'm finding a job.", "right": "I'm looking for a job.", "why": "<b>find</b> = tìm THẤY (kết quả). Đang trong quá trình tìm thì luôn là <b>look for</b>. Đây là lỗi kinh điển của người Việt." },
+            { "wrong": "I'm looking a charger.", "right": "I'm looking for a charger.", "why": "Rơi mất <b>for</b> là câu mất nghĩa hoàn toàn. <i>look</i> một mình chỉ là “nhìn”." },
+            { "wrong": "I'm looking for to buy a bike.", "right": "I'm looking to buy a bike.", "why": "Có <b>to + V</b> thì bỏ <b>for</b>. Có <b>for</b> thì theo sau phải là danh từ." },
+            { "wrong": "I'm looking after my keys.", "right": "I'm looking for my keys.", "why": "<b>look after</b> = chăm sóc. Câu sai này thành “tôi đang chăm sóc chìa khóa”." },
+            { "wrong": "I'm looking for cheaper something.", "right": "I'm looking for something cheaper.", "why": "Tính từ đứng <b>sau</b> <i>something / anything / nothing</i> — ngược với tiếng Việt." },
+            { "wrong": "I'm looking for an advice.", "right": "I'm looking for some advice.", "why": "<b>advice</b> không đếm được: không có <i>an advice</i>, cũng không có <i>advices</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I'm looking for + N</code>", "Đang tìm — mô tả tình trạng, không nhờ vả", "<i>I'm looking for a charger.</i> — Mở lời trong cửa hàng."],
+            ["<code>I'm looking to + V</code>", "Đang có ý định làm gì", "<i>I'm looking to buy a bike.</i> — Nghe chuyên nghiệp."],
+            ["<code>Do you have + N?</code>", "Hỏi thẳng có hàng không", "<i>Do you have chargers?</i> — Nhanh nhưng cụt hơn."],
+            ["<code>Where can I find + N?</code>", "Hỏi vị trí cụ thể", "<i>Where can I find the chargers?</i> — Xem [Khung 62]."],
+            ["<code>I need + N</code>", "Cần thiết, có hậu quả", "<i>I need a charger.</i> — Xem [Khung 03]."],
+            ["<code>I'm after + N</code>", "Anh-Anh, rất tự nhiên khi nói", "<i>I'm after a charger.</i> — Người Mỹ ít dùng."],
+            ["<code>I'm trying to find + N</code>", "Đã tìm mà chưa ra, có chút bế tắc", "<i>I'm trying to find the exit.</i> — Xem [Khung 06]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — hỏi mua cùng một món" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Chargers?", "vi": "Cụt — chỉ dùng khi rất vội" },
+            { "en": "Do you have chargers?", "vi": "Thẳng — ổn nhưng khô" },
+            { "en": "I'm looking for a charger.", "vi": "Chuẩn mực — dùng mọi nơi" },
+            { "en": "I'm looking for a charger — could you help me?", "vi": "Lịch sự — mời người ta giúp" },
+            { "en": "Sorry to bother you, I'm looking for a charger.", "vi": "Nhã nhất — khi họ đang bận" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>look</b> = /lʊk/ — nguyên âm <b>ngắn</b>, môi hơi tròn. Đọc dài thành /luːk/ sẽ thành từ khác.",
+            "<b>looking</b> khi nói nhanh mất âm /g/ cuối: nghe thành <b>“lookin'”</b> /ˈlʊkɪn/.",
+            "<b>for</b> ở đây là từ chức năng nên bị giảm thành /fə/ — rất nhẹ, gần như “fơ”. Đừng nhấn vào nó.",
+            "<b>looking for a</b> nối liền thành “LOO-kin-fə-rə”: <i>I'm looking for a job</i> → “am-LOO-kin-fə-rə-job”.",
+            "<b>I'm</b> đầu câu khi nói nhanh chỉ còn “am”: <i>I'm looking for…</i> → “am-LOO-kin-fə…”",
+            "Trọng âm rơi vào <b>LOOK</b> và vào danh từ chính: <i>I'm</i> <b>LOO</b>-<i>king for a</i> <b>JOB</b>."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm looking for a job in marketing.", "vi": "Luyện shadowing: nghe — nhại lại — lặp 5 lần cho trôi cụm “looking for a”." },
+            { "en": "Are you looking for anything in particular?", "vi": "Câu nhân viên bán hàng hay hỏi — nghe quen để phản xạ trả lời ngay." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi đang tìm việc trong ngành marketing.", "blank": "__________ a job in marketing.", "a": "I'm looking for" },
+            { "vi": "Tôi đang tìm chỗ nào đó để đậu xe.", "blank": "I'm looking for __________ park.", "a": "somewhere to" },
+            { "vi": "Tôi đang tìm cái gì đó rẻ hơn.", "blank": "I'm looking for __________.", "a": "something cheaper" },
+            { "vi": "Tôi đang muốn mua một chiếc xe đạp cũ.", "blank": "__________ buy a second-hand bike.", "a": "I'm looking to" },
+            { "vi": "Giờ tôi chưa tìm gì cả, cảm ơn bạn.", "blank": "__________ anything right now, thanks.", "a": "I'm not looking for" },
+            { "vi": "Anh/chị tìm món gì cụ thể không ạ?", "blank": "Are you looking for __________?", "a": "anything in particular" },
+            { "vi": "Tôi đang tìm người biết tiếng Nhật.", "blank": "I'm looking for __________ speaks Japanese.", "a": "someone who" },
+            { "vi": "Tôi tìm cuốn sách này mấy tháng trời rồi.", "blank": "__________ this book for months.", "a": "I've been looking for" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Xin lỗi, tôi đang tìm nhà ga.", "a": "Excuse me, I'm looking for the train station." },
+            { "vi": "2. Tôi đang tìm quà cho mẹ tôi.", "a": "I'm looking for a gift for my mum." },
+            { "vi": "3. Tôi đang tìm căn hộ gần văn phòng.", "a": "I'm looking for an apartment near the office." },
+            { "vi": "4. Tôi đang tìm món nào không có sữa.", "a": "I'm looking for something without dairy." },
+            { "vi": "5. Tôi chỉ xem thôi, cảm ơn bạn.", "a": "I'm just browsing, thanks." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Xóa “I'm finding” khỏi đầu:</b> đây là lỗi bám dai nhất. Nhắc lại ba lần: đang tìm là <i>looking for</i>, tìm thấy mới là <i>find</i>.",
+            "<b>Dùng làm câu mở lời:</b> bước vào cửa hàng nào cũng chỉ cần một câu <i>Hi, I'm looking for…</i> là xong phần khó nhất.",
+            "<b>Học thuộc bộ ba:</b> <i>somewhere to / something + tính từ / someone who</i> — ba công thức này phủ gần hết mọi thứ bạn cần tìm.",
+            "<b>Thuộc câu từ chối:</b> <i>I'm just browsing, thanks.</i> Câu này cứu bạn mỗi lần bị nhân viên bám theo.",
+            "<b>Nghe cho quen câu hỏi ngược:</b> <i>Are you looking for anything in particular?</i> — nghe được câu này là bạn đỡ hoảng khi vào cửa hàng.",
+            "<b>Bài tập 3 phút:</b> kể 5 thứ bạn đang tìm trong đời thật — đồ vật, chỗ ở, cơ hội — bằng <i>I'm looking for…</i>, nói to thành tiếng."
+          ]
+        }
+      ]
+    }
+  ]
+}

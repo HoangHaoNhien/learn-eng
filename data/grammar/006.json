@@ -1,0 +1,277 @@
+{
+  "id": 6,
+  "group": "Nhóm 4 · Thì hoàn thành",
+  "title": "Hiện tại hoàn thành — have + V3",
+  "subtitle": "Thì nối quá khứ với hiện tại. Bẫy hình thức là sau have phải là V3 chứ không phải V2 — I've just went ✗. Nhưng bẫy khó hơn nằm ở chỗ khác: hễ câu có mốc quá khứ xác định như yesterday thì thì này tuyệt đối không dùng được.",
+  "meaning": "Việc đã xảy ra nhưng còn liên quan đến hiện tại",
+  "rule": [
+    "S + <em>have/has</em> + V3",
+    "S + <em>haven't/hasn't</em> + V3",
+    "<em>Have/Has</em> + S + V3?"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2–B1", "hot": true },
+    { "text": "Sau have là V3, không phải V2" },
+    { "text": "Không đi với yesterday" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [72, 77, 94, 95, 96],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Hiện tại hoàn thành là chiếc cầu giữa quá khứ và hiện tại. Việc đã xảy ra rồi, nhưng người nói quan tâm tới <b>kết quả hoặc ý nghĩa của nó ở thời điểm này</b> — chứ không phải nó xảy ra lúc nào." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — dạng động từ:</b> sau <b>have/has</b> luôn là <b>V3</b> (quá khứ phân từ), không phải V2.<br>• <i>I've just <b>gone</b></i> ✓ — <i>I've just went</i> ✗<br>• <i>I've <b>eaten</b></i> ✓ — <i>I've ate</i> ✗<br>• <i>I've <b>seen</b></i> ✓ — <i>I've saw</i> ✗" },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — và nó quan trọng hơn:</b> thì này <b>không bao giờ đi với mốc quá khứ xác định</b>. <i>I've finished it <b>yesterday</b></i> ✗ — đã nói <i>yesterday, last week, in 2019, two hours ago</i> thì bắt buộc dùng <b>quá khứ đơn</b>: <i>I finished it yesterday</i> ✓." },
+        { "t": "h3", "text": "Bốn công dụng" },
+        {
+          "t": "table",
+          "head": ["Công dụng", "Dấu hiệu", "Ví dụ"],
+          "rows": [
+            ["Kinh nghiệm cả đời tính đến giờ", "<code>ever · never</code>", "Have you ever been to Hue?"],
+            ["Vừa xong, kết quả còn nguyên", "<code>just · already · yet</code>", "I've just finished."],
+            ["Kéo dài đến tận bây giờ", "<code>for · since</code>", "I've lived here for years."],
+            ["Số lần tính đến giờ", "<code>twice · three times</code>", "I've been there twice."]
+          ]
+        },
+        { "t": "p", "html": "Chia rất gọn: <b>have</b> cho I/you/we/they, <b>has</b> cho he/she/it. Rút gọn thành <i>I've, you've, he's, she's</i> — chú ý <i>he's</i> có thể là <i>he is</i> hoặc <i>he has</i>, nhìn vào dạng động từ phía sau để biết: <i>he's <b>working</b></i> (is) còn <i>he's <b>worked</b></i> (has)." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Khẳng định — I/you/we/they", "<code>S + have + V3</code>", "I have finished."],
+            ["Khẳng định — he/she/it", "<code>S + has + V3</code>", "He has finished."],
+            ["Rút gọn", "<code>I've / he's / they've</code>", "I've finished."],
+            ["Phủ định", "<code>S + haven't/hasn't + V3</code>", "I haven't finished."],
+            ["Câu hỏi", "<code>Have/Has + S + V3?</code>", "Have you finished?"],
+            ["Trả lời ngắn", "<code>Yes/No, S + have/haven't.</code>", "Yes, I have. · No, he hasn't."],
+            ["Vừa mới xong", "<code>have just + V3</code>", "I've just finished."],
+            ["Đã xong rồi", "<code>have already + V3</code>", "I've already sent it."],
+            ["Chưa xong", "<code>haven't + V3 + yet</code>", "I haven't finished yet."],
+            ["Kinh nghiệm", "<code>Have you ever + V3?</code>", "Have you ever been to Hue?"],
+            ["Đã đi VÀ VỀ", "<code>have been to</code>", "I've been to the bank."],
+            ["Đi rồi CHƯA VỀ", "<code>have gone to</code>", "He's gone to the bank."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Hai dòng cuối là cặp hay nhầm nhất:</b> <i>He's <b>been</b> to the bank</i> = đã đi <b>và về rồi</b>. <i>He's <b>gone</b> to the bank</i> = <b>đang ở đó</b>, chưa về. Một chữ khác nhau, hai tình huống khác hẳn. Xem [Khung 95]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I've just finished the report.", "vi": "Tôi vừa làm xong báo cáo.", "note": "<i>just</i> đứng GIỮA <i>have</i> và V3. Xem [Khung 95]." },
+            { "en": "I've already sent it.", "vi": "Tôi gửi rồi.", "note": "<b>already</b> nhấn vào việc xong SỚM hơn dự kiến." },
+            { "en": "I haven't finished yet.", "vi": "Tôi chưa xong.", "note": "<b>yet</b> chỉ dùng trong phủ định và câu hỏi, và luôn ở CUỐI câu." },
+            { "en": "Have you ever been to Hue?", "vi": "Bạn từng đến Huế chưa?", "note": "<b>ever</b> dùng cho kinh nghiệm cả đời, đứng giữa <i>have</i> và V3." },
+            { "en": "I've never been there.", "vi": "Tôi chưa từng đến đó.", "note": "<i>never</i> đã là phủ định — không thêm <i>not</i>." },
+            { "en": "She has lived here for ten years.", "vi": "Cô ấy sống ở đây mười năm rồi.", "note": "<b>has</b> cho ngôi thứ ba. Việc vẫn đang tiếp tục. Xem [Khung 94]." },
+            { "en": "I haven't seen you for ages!", "vi": "Lâu lắm rồi không gặp bạn!", "note": "Câu chào gặp lại rất tự nhiên. Xem [Khung 77]." },
+            { "en": "He's gone to the bank.", "vi": "Anh ấy ra ngân hàng rồi.", "note": "<b>gone to</b> = đang ở đó, chưa về." },
+            { "en": "I've been to the bank already.", "vi": "Tôi ra ngân hàng về rồi.", "note": "<b>been to</b> = đã đi VÀ VỀ." },
+            { "en": "I've been there twice.", "vi": "Tôi đến đó hai lần rồi.", "note": "Đếm SỐ LẦN tính đến hiện tại." },
+            { "en": "I finished it yesterday.", "vi": "Hôm qua tôi làm xong.", "note": "BẪY SỐ HAI: có <i>yesterday</i> thì bắt buộc dùng QUÁ KHỨ ĐƠN." },
+            { "en": "Have we met before?", "vi": "Mình gặp nhau rồi phải không?", "note": "Câu hỏi làm quen rất lịch sự. Xem [Khung 72]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "✅", "title": "Vừa xong, kết quả còn đó", "text": "<i>I've just finished the report.</i> Xem [Khung 95]." },
+            { "icon": "🌏", "title": "Kinh nghiệm cả đời", "text": "<i>Have you ever been to Hue?</i> Không nói lúc nào." },
+            { "icon": "⏳", "title": "Kéo dài đến bây giờ", "text": "<i>I've lived here for years.</i> Xem [Khung 94]." },
+            { "icon": "🔢", "title": "Đếm số lần đến giờ", "text": "<i>I've been there twice.</i>" },
+            { "icon": "👋", "title": "Gặp lại sau thời gian dài", "text": "<i>I haven't seen you for ages!</i> Xem [Khung 77]." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Có mốc quá khứ: <i>yesterday, last week, ago, in 2019</i>. Lúc đó là quá khứ đơn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Dạng V3 bất quy tắc hay dùng",
+              "items": [
+                { "w": "go → been / gone", "vi": "đã đi", "ex": "I've been to the bank. · He's gone to the bank.", "exvi": "Tôi ra ngân hàng về rồi. · Anh ấy đang ở ngân hàng.", "note": "CẶP HAY NHẦM NHẤT: <b>been</b> = đi và về; <b>gone</b> = đang ở đó." },
+                { "w": "see → seen", "vi": "đã thấy", "ex": "I've just seen him.", "exvi": "Tôi vừa thấy anh ấy.", "note": "V3 là <b>seen</b>, V2 là <i>saw</i>. <i>I've just saw</i> ✗." },
+                { "w": "eat → eaten", "vi": "đã ăn", "ex": "I've just eaten, thanks.", "exvi": "Tôi vừa ăn xong, cảm ơn.", "note": "V3 là <b>eaten</b>. <i>I've just ate</i> ✗." },
+                { "w": "do → done", "vi": "đã làm", "ex": "I've done it already.", "exvi": "Tôi làm rồi.", "note": "V3 là <b>done</b>. <i>I've did</i> ✗." },
+                { "w": "take → taken", "vi": "đã lấy", "ex": "I've just taken the last one.", "exvi": "Tôi vừa lấy cái cuối cùng." },
+                { "w": "write → written", "vi": "đã viết", "ex": "I've just written to them.", "exvi": "Tôi vừa viết cho họ." },
+                { "w": "speak → spoken", "vi": "đã nói chuyện", "ex": "I've just spoken to her.", "exvi": "Tôi vừa nói chuyện với cô ấy." },
+                { "w": "wake → woken", "vi": "đã tỉnh dậy", "ex": "I've just woken up.", "exvi": "Tôi vừa ngủ dậy.", "note": "V3 là <b>woken</b>. <i>I've just woke up</i> ✗." },
+                { "w": "give → given", "vi": "đã đưa", "ex": "I've given him the file.", "exvi": "Tôi đưa hồ sơ cho anh ấy rồi." },
+                { "w": "forget → forgotten", "vi": "đã quên", "ex": "I've forgotten his name.", "exvi": "Tôi quên tên anh ấy mất rồi." },
+                { "w": "hear → heard", "vi": "đã nghe", "ex": "I've just heard the news.", "exvi": "Tôi vừa nghe tin.", "note": "V2 và V3 trùng nhau — dễ nhớ." },
+                { "w": "be → been", "vi": "đã ở, đã từng", "ex": "I've never been there.", "exvi": "Tôi chưa từng đến đó." }
+              ]
+            },
+            {
+              "title": "Trạng từ đi kèm & từ dễ nhầm",
+              "items": [
+                { "w": "just", "vi": "vừa mới", "ex": "I've just finished.", "exvi": "Tôi vừa xong.", "note": "Đứng GIỮA <i>have</i> và V3." },
+                { "w": "already", "vi": "đã… rồi", "ex": "I've already sent it.", "exvi": "Tôi gửi rồi.", "note": "Cũng đứng giữa <i>have</i> và V3. Dùng trong câu KHẲNG ĐỊNH." },
+                { "w": "yet", "vi": "chưa, đã… chưa", "ex": "I haven't finished yet.", "exvi": "Tôi chưa xong.", "note": "Chỉ dùng trong PHỦ ĐỊNH và CÂU HỎI, luôn ở CUỐI câu. Xem [Ngữ pháp 07]." },
+                { "w": "ever", "vi": "đã từng", "ex": "Have you ever been to Hue?", "exvi": "Bạn từng đến Huế chưa?", "note": "Dùng trong CÂU HỎI về kinh nghiệm." },
+                { "w": "never", "vi": "chưa bao giờ", "ex": "I've never been there.", "exvi": "Tôi chưa từng đến đó.", "note": "Đã là phủ định rồi — <i>I haven't never</i> ✗." },
+                { "w": "for + khoảng", "vi": "được bao lâu", "ex": "I've lived here for ten years.", "exvi": "Tôi sống ở đây mười năm rồi.", "note": "<b>for</b> + KHOẢNG thời gian. Xem [Khung 94]." },
+                { "w": "since + mốc", "vi": "từ khi nào", "ex": "I've lived here since 2015.", "exvi": "Tôi sống ở đây từ năm 2015.", "note": "<b>since</b> + MỐC thời gian. <i>since ten years</i> ✗." },
+                { "w": "twice / three times", "vi": "hai lần / ba lần", "ex": "I've been there twice.", "exvi": "Tôi đến đó hai lần rồi.", "note": "Đếm số lần tính đến HIỆN TẠI." },
+                { "w": "so far", "vi": "cho đến giờ", "ex": "So far, so good.", "exvi": "Đến giờ thì vẫn ổn." },
+                { "w": "recently / lately", "vi": "gần đây", "ex": "I've seen him recently.", "exvi": "Gần đây tôi có gặp anh ấy." },
+                { "w": "yesterday ✗", "vi": "mốc quá khứ", "ex": "I finished it yesterday. ✓", "exvi": "Hôm qua tôi làm xong.", "note": "BẪY SỐ HAI: <i>I've finished it yesterday</i> ✗. Có mốc quá khứ thì dùng quá khứ đơn." },
+                { "w": "ago ✗", "vi": "cách đây", "ex": "He left two hours ago. ✓", "exvi": "Anh ấy đi cách đây hai tiếng.", "note": "<i>ago</i> cũng là mốc quá khứ — không đi với thì hoàn thành." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I've just <b>went</b> to the bank.", "right": "I've just <b>been</b> to the bank.", "why": "BẪY SỐ MỘT: sau <i>have</i> luôn là V3. Và <b>been to</b> mới có nghĩa đã đi và về." },
+            { "wrong": "I've just <b>ate</b>.", "right": "I've just <b>eaten</b>.", "why": "Cùng lỗi. Học bộ ba: <i>eat–ate–<b>eaten</b></i>, <i>see–saw–<b>seen</b></i>, <i>do–did–<b>done</b></i>." },
+            { "wrong": "I've finished it <b>yesterday</b>.", "right": "I <b>finished</b> it yesterday.", "why": "BẪY SỐ HAI: có mốc quá khứ xác định thì bắt buộc dùng QUÁ KHỨ ĐƠN. Xem [Ngữ pháp 03]." },
+            { "wrong": "He <b>have</b> finished.", "right": "He <b>has</b> finished.", "why": "<b>has</b> cho he/she/it · <b>have</b> cho I/you/we/they." },
+            { "wrong": "He's <b>been</b> to the bank — he'll be back in ten minutes.", "right": "He's <b>gone</b> to the bank.", "why": "<b>been to</b> = đã đi và VỀ RỒI. <b>gone to</b> = đang ở đó, chưa về." },
+            { "wrong": "I have <b>yet</b> finished.", "right": "I haven't finished <b>yet</b>.", "why": "<b>yet</b> chỉ dùng trong phủ định và câu hỏi, và luôn đứng ở CUỐI câu." },
+            { "wrong": "I've lived here <b>since</b> ten years.", "right": "I've lived here <b>for</b> ten years.", "why": "<b>for</b> + KHOẢNG thời gian, <b>since</b> + MỐC thời gian. Xem [Ngữ pháp 07]." },
+            { "wrong": "I <b>haven't never</b> been there.", "right": "I've <b>never</b> been there.", "why": "<i>never</i> đã mang nghĩa phủ định — không phủ định hai lần." },
+            { "wrong": "<b>Did</b> you <b>have</b> finished?", "right": "<b>Have</b> you finished?", "why": "Thì hoàn thành không mượn <i>did</i> — <i>have</i> tự đảo lên đầu câu." },
+            { "wrong": "<b>I am working</b> here for three years.", "right": "<b>I have worked</b> here for three years.", "why": "Việc kéo dài từ quá khứ đến hiện tại cần thì hoàn thành. Hiện tại tiếp diễn chỉ nói chuyện đang xảy ra. Xem [Khung 94]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Dùng khi", "Ví dụ"],
+          "rows": [
+            ["<code>have/has + V3</code>", "Việc xong nhưng còn liên quan hiện tại", "I've just finished."],
+            ["<code>V2</code>", "Có mốc quá khứ xác định. Xem [Ngữ pháp 03]", "I finished it yesterday."],
+            ["<code>have been + V-ing</code>", "Nhấn QUÁ TRÌNH kéo dài. Xem [Ngữ pháp 08]", "I've been waiting for an hour."],
+            ["<code>had + V3</code>", "Trước một mốc QUÁ KHỨ. Xem [Ngữ pháp 05]", "I had left by then."],
+            ["<code>have been to</code>", "Đã đi và về rồi", "I've been to Hue."],
+            ["<code>have gone to</code>", "Đang ở đó, chưa về", "He's gone to the bank."],
+            ["<code>used to + V</code>", "Thói quen cũ đã chấm dứt. Xem [Khung 93]", "I used to live here."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: hoàn thành hay quá khứ đơn?" },
+        {
+          "t": "tree",
+          "q": "Câu của bạn có mốc thời gian quá khứ không, và việc đó còn liên quan đến bây giờ chứ?",
+          "nodes": [
+            { "if": "Có mốc quá khứ (yesterday, in 2019, ago)", "then": "Quá khứ đơn — bắt buộc", "ex": "I finished it yesterday." },
+            { "if": "Vừa xong, kết quả còn nguyên giá trị", "then": "Hiện tại hoàn thành", "ex": "I've just finished." },
+            { "if": "Hỏi về kinh nghiệm cả đời", "then": "Have you ever + V3?", "ex": "Have you ever been to Hue?" },
+            { "if": "Bắt đầu từ trước và VẪN tiếp tục", "then": "have + V3 + for/since", "ex": "I've lived here for ten years." },
+            { "if": "Muốn nhấn vào quá trình kéo dài", "then": "have been + V-ing", "ex": "I've been waiting for an hour." },
+            { "if": "Việc đã xong hẳn, giờ không còn liên quan", "then": "Quá khứ đơn", "ex": "I worked there for three years." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ mới của một sự việc" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I've only just finished.", "vi": "Mới nhất — vừa xong giây lát" },
+            { "en": "I've just finished.", "vi": "Vừa xong" },
+            { "en": "I've already finished.", "vi": "Xong rồi, sớm hơn dự kiến" },
+            { "en": "I finished this morning.", "vi": "Có mốc — sáng nay" },
+            { "en": "I finished last week.", "vi": "Xa nhất — tuần trước" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Hiện tại hoàn thành là xương sống của những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 95, "why": "I've just + V3 — khung chính, nơi bộ ba just/already/yet và cặp been/gone được dạy kỹ nhất." },
+            { "id": 94, "why": "I've been… for/since — nhánh kéo dài đến hiện tại, và cặp for/since." },
+            { "id": 77, "why": "Long time no see! — I haven't seen you for ages, câu chào gặp lại." },
+            { "id": 72, "why": "Nice to meet you — Have we met before? câu hỏi làm quen." },
+            { "id": 96, "why": "When I was…, I + V2 — ranh giới giữa thì hoàn thành và quá khứ đơn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ trong ngoặc" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi vừa ăn xong.", "blank": "I've just __________ (eat).", "a": "eaten" },
+            { "vi": "Tôi vừa thấy anh ấy.", "blank": "I've just __________ (see) him.", "a": "seen" },
+            { "vi": "Anh ấy đã làm xong.", "blank": "He __________ (finish) already.", "a": "has finished" },
+            { "vi": "Tôi chưa từng đến đó.", "blank": "I've never __________ (be) there.", "a": "been" },
+            { "vi": "Tôi vừa ngủ dậy.", "blank": "I've just __________ (wake) up.", "a": "woken" },
+            { "vi": "Bạn làm xong chưa?", "blank": "__________ you __________ (finish) yet?", "a": "Have … finished" },
+            { "vi": "Cô ấy sống ở đây mười năm rồi.", "blank": "She __________ (live) here for ten years.", "a": "has lived" },
+            { "vi": "Tôi quên tên anh ấy mất rồi.", "blank": "I've __________ (forget) his name.", "a": "forgotten" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Hôm qua tôi làm xong.", "blank": "I __________ it yesterday.  (have finished / finished)", "a": "finished — có mốc quá khứ nên dùng quá khứ đơn" },
+            { "vi": "Anh ấy ra ngân hàng rồi (chưa về).", "blank": "He's __________ to the bank.  (been / gone)", "a": "gone" },
+            { "vi": "Tôi sống ở đây mười năm rồi.", "blank": "I've lived here __________ ten years.  (for / since)", "a": "for — khoảng thời gian" },
+            { "vi": "Bạn làm xong chưa?", "blank": "__________ you finished?  (Did / Have)", "a": "Have — thì hoàn thành không mượn did" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi vừa làm xong báo cáo.", "a": "I've just finished the report." },
+            { "vi": "2. Bạn từng đến Huế chưa?", "a": "Have you ever been to Hue?" },
+            { "vi": "3. Lâu lắm rồi không gặp bạn!", "a": "I haven't seen you for ages!" },
+            { "vi": "4. Tôi chưa xong.", "a": "I haven't finished yet." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Hỏi một câu trước khi chia:</b> câu có <i>yesterday, last week, ago, in 2019</i> không? Có thì bỏ thì hoàn thành ngay.",
+            "<b>Sau <i>have</i> luôn là V3.</b> Học bộ ba hay sai nhất: <i>eat–ate–<b>eaten</b></i>, <i>see–saw–<b>seen</b></i>, <i>go–went–<b>gone</b></i>, <i>do–did–<b>done</b></i>.",
+            "<b>Cặp <i>been</i> / <i>gone</i>:</b> <i>been to</i> = đi và về rồi; <i>gone to</i> = đang ở đó.",
+            "<b>Ba trạng từ ba chỗ:</b> <i>just</i> và <i>already</i> đứng giữa <i>have</i> và V3; <i>yet</i> đứng cuối câu phủ định hoặc câu hỏi.",
+            "<b>Phân biệt <i>he's</i>:</b> theo sau là V-ing thì đó là <i>he is</i>; theo sau là V3 thì là <i>he has</i>.",
+            "<b>Bài tập 3 phút:</b> viết năm việc bạn đã làm trong tuần này với <i>I've…</i>, rồi thêm <i>yesterday</i> vào hai câu và chia lại — chính là lúc phải đổi sang quá khứ đơn."
+          ]
+        }
+      ]
+    }
+  ]
+}

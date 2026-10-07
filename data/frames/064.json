@@ -1,0 +1,500 @@
+{
+  "id": 64,
+  "group": "Nhóm 7 · Hỏi thông tin",
+  "title": "How long does it take…? — Hỏi mất bao lâu",
+  "subtitle": "Khung câu hỏi thời lượng, dùng mỗi khi bạn cần biết một việc kéo dài bao lâu: đi đến đó, làm xong thủ tục, chờ giao hàng. Động từ take ở đây là bắt buộc và có một cấu trúc cố định mà nếu chệch đi là câu nghe sai ngay.",
+  "pattern": [
+    "How long does it take to <em>+ V</em>?",
+    "How long does it take you to <em>+ V</em>?",
+    "It takes <em>+ (người) + thời gian + to V</em>"
+  ],
+  "meaning": "Mất bao lâu để…? / …mất bao lâu?",
+  "grammar": [58, 61, 41, 44],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Thiết yếu khi lên kế hoạch" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">How long does it take…?</span> hỏi về <b>thời lượng</b> — một việc kéo dài bao lâu. Nó khác hẳn <i>How long have you been…?</i> vốn hỏi về khoảng thời gian đã trôi qua từ lúc bắt đầu đến giờ." },
+        { "t": "p", "html": "Động từ <b>take</b> ở đây mang nghĩa “tốn, mất” — <i>It takes two hours.</i> = “mất hai tiếng”. Đây là một trong những cách dùng <i>take</i> quan trọng nhất và cũng là chỗ người học hay chệch sang cấu trúc khác." },
+        { "t": "p", "html": "Chủ ngữ <b>it</b> là chủ ngữ giả, không trỏ vào cái gì cụ thể. Khi muốn nói rõ ai mất thời gian đó, chèn tân ngữ vào giữa: <span class=\"k\">How long does it take <b>you</b> to get to work?</span>" },
+        { "t": "callout", "html": "<b>CẤU TRÚC CỐ ĐỊNH — học nguyên khối:</b> <span class=\"k\">It takes + (người) + thời gian + to + V</span>. Ví dụ: <i>It takes me twenty minutes to get to work.</i> Sai thứ tự hoặc thay <i>to V</i> bằng <i>for V-ing</i> là hỏng ngay." },
+        { "t": "h3", "text": "Phân biệt các câu hỏi “How…”" },
+        {
+          "t": "table",
+          "head": ["Câu hỏi", "Hỏi về", "Ví dụ trả lời"],
+          "rows": [
+            ["<code>How long does it take?</code>", "Thời lượng", "Two hours."],
+            ["<code>How far is it?</code>", "Khoảng cách", "Ten kilometres."],
+            ["<code>How often does it run?</code>", "Tần suất", "Every twenty minutes."],
+            ["<code>How long have you been here?</code>", "Đã bao lâu rồi", "Since Monday."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng nói “How long time?”</b> ✗ — <i>how long</i> đã hàm nghĩa thời gian rồi. Và <i>How much time does it take?</i> tuy đúng ngữ pháp nhưng nghe nặng nề; người bản xứ gần như luôn nói <b>How long</b>." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🚕", "title": "Hỏi thời gian di chuyển", "text": "Bối cảnh số 1. <i>How long does it take to get to the airport?</i>" },
+            { "icon": "📦", "title": "Hỏi thời gian giao hàng", "text": "<i>How long does delivery take?</i>" },
+            { "icon": "📋", "title": "Hỏi thời gian làm thủ tục", "text": "<i>How long does the process take?</i>" },
+            { "icon": "⏲", "title": "Hỏi thời gian chờ", "text": "<i>How long's the wait?</i> Rút gọn, rất tự nhiên." },
+            { "icon": "💼", "title": "Ước lượng khối lượng việc", "text": "<i>How long will it take you to finish?</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Hỏi khoảng cách. Ở đó dùng <i>How far is it?</i>" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Chuẩn", "<code>How long does it take to + V?</code>", "How long does it take to get there?"],
+            ["Nêu rõ người", "<code>How long does it take + người + to V?</code>", "How long does it take you to get to work?"],
+            ["Với danh từ", "<code>How long does + N + take?</code>", "How long does delivery take?"],
+            ["Tương lai", "<code>How long will it take to + V?</code>", "How long will it take to fix?"],
+            ["Quá khứ", "<code>How long did it take to + V?</code>", "How long did it take to arrive?"],
+            ["Rút gọn khi nói", "<code>How long's the wait?</code>", "How long's the wait?"],
+            ["Câu trả lời", "<code>It takes + thời gian</code>", "It takes about an hour."],
+            ["Nhấn ít thời gian", "<code>It only takes + thời gian</code>", "It only takes ten minutes."],
+            ["Ước lượng", "<code>It'll take roughly…</code>", "It'll take roughly two hours."],
+            ["Gián tiếp — lịch sự", "<code>Do you know how long it takes?</code>", "Do you know how long it takes?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Bẫy đảo ngữ lặp lại:</b> câu gián tiếp KHÔNG đảo — <i>Do you know how long <b>it takes</b>?</i> ✓, không phải <i>how long does it take</i> ✗. Cùng quy tắc với [Khung 62]." },
+        { "t": "callout", "html": "<b>Sau “to” là động từ trần, không phải V-ing.</b> <span class=\"k\">It takes me an hour to get there.</span> ✓ — <i>It takes me an hour for getting there</i> ✗. Đây là lỗi dịch thẳng từ tiếng Việt “để đi đến đó”." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các dạng câu hỏi thời lượng",
+              "items": [
+                { "w": "to get there", "vi": "để đến đó", "ex": "How long does it take to get there?", "exvi": "Đến đó mất bao lâu ạ?", "note": "Sau <i>to</i> là động từ TRẦN. <i>for getting there</i> ✗." },
+                { "w": "to get to work", "vi": "để đi làm", "ex": "How long does it take you to get to work?", "exvi": "Anh/chị đi làm mất bao lâu?", "note": "Chèn tân ngữ <i>you</i> vào giữa để nói rõ ai." },
+                { "w": "does delivery take", "vi": "giao hàng mất bao lâu", "ex": "How long does delivery take?", "exvi": "Giao hàng mất bao lâu ạ?", "note": "Với danh từ thì bỏ <i>it</i> và <i>to V</i>." },
+                { "w": "does the process take", "vi": "quy trình mất bao lâu", "ex": "How long does the process take?", "exvi": "Quy trình mất bao lâu ạ?" },
+                { "w": "will it take to fix", "vi": "sửa sẽ mất bao lâu", "ex": "How long will it take to fix?", "exvi": "Sửa sẽ mất bao lâu ạ?" },
+                { "w": "did it take", "vi": "đã mất bao lâu", "ex": "How long did it take in the end?", "exvi": "Cuối cùng mất bao lâu?" },
+                { "w": "How long's the wait?", "vi": "phải đợi bao lâu?", "ex": "How long's the wait?", "exvi": "Phải đợi bao lâu ạ?", "note": "Dạng rút gọn rất tự nhiên khi nói — <i>how long is</i>." },
+                { "w": "How long does it last?", "vi": "nó kéo dài bao lâu?", "ex": "How long does the film last?", "exvi": "Phim dài bao lâu ạ?", "note": "<i>last</i> dùng cho sự kiện có độ dài cố định: phim, buổi họp, khóa học." },
+                { "w": "How much longer?", "vi": "còn bao lâu nữa?", "ex": "How much longer do we have to wait?", "exvi": "Còn phải đợi bao lâu nữa ạ?" },
+                { "w": "How long by bus?", "vi": "đi xe buýt mất bao lâu?", "ex": "How long by bus?", "exvi": "Đi xe buýt mất bao lâu ạ?", "note": "Dạng rút gọn cực ngắn — rất hay dùng khi hỏi nhanh." },
+                { "w": "Do you know how long it takes?", "vi": "bạn có biết mất bao lâu không?", "ex": "Do you know how long it takes?", "exvi": "Anh/chị có biết mất bao lâu không ạ?", "note": "Gián tiếp — KHÔNG đảo ngữ: <i>how long it takes</i>." },
+                { "w": "How long have you been here?", "vi": "bạn ở đây bao lâu rồi?", "ex": "How long have you been here?", "exvi": "Anh/chị ở đây bao lâu rồi?", "note": "BẪY: đây hỏi thời gian ĐÃ TRÔI QUA, khác hẳn hỏi thời lượng." }
+              ]
+            },
+            {
+              "title": "Cách trả lời & ước lượng",
+              "items": [
+                { "w": "It takes about", "vi": "mất khoảng", "ex": "It takes about an hour.", "exvi": "Mất khoảng một tiếng.", "note": "Cấu trúc cố định: <i>It takes + (người) + thời gian + to V</i>." },
+                { "w": "It only takes", "vi": "chỉ mất", "ex": "It only takes ten minutes.", "exvi": "Chỉ mất mười phút thôi.", "note": "<i>only</i> đặt trước <i>takes</i> để nhấn rằng nhanh thôi." },
+                { "w": "It'll take roughly", "vi": "sẽ mất khoảng chừng", "ex": "It'll take roughly two hours.", "exvi": "Sẽ mất khoảng chừng hai tiếng." },
+                { "w": "no more than", "vi": "không quá", "ex": "No more than twenty minutes.", "exvi": "Không quá hai mươi phút." },
+                { "w": "at least", "vi": "ít nhất", "ex": "At least three days.", "exvi": "Ít nhất ba ngày." },
+                { "w": "anything from … to …", "vi": "từ … đến …", "ex": "Anything from one to three days.", "exvi": "Từ một đến ba ngày.", "note": "Cách nêu khoảng ước lượng rất tự nhiên khi chưa chắc chắn." },
+                { "w": "depending on traffic", "vi": "tùy tình hình giao thông", "ex": "Forty minutes, depending on traffic.", "exvi": "Bốn mươi phút, tùy giao thông.", "note": "Xem [Khung 57]." },
+                { "w": "give or take", "vi": "xê dịch chút ít", "ex": "An hour, give or take.", "exvi": "Khoảng một tiếng, xê dịch chút ít.", "note": "Thành ngữ ước lượng rất hay — đặt ở cuối câu." },
+                { "w": "in no time", "vi": "chỉ trong nháy mắt", "ex": "We'll be there in no time.", "exvi": "Chỉ nháy mắt là tới thôi." },
+                { "w": "it varies", "vi": "còn tùy lúc", "ex": "It varies, to be honest.", "exvi": "Thật lòng thì còn tùy lúc." },
+                { "w": "same-day", "vi": "trong ngày", "ex": "We offer same-day delivery.", "exvi": "Bên em có giao trong ngày ạ." },
+                { "w": "within the hour", "vi": "trong vòng một tiếng", "ex": "It'll be ready within the hour.", "exvi": "Trong vòng một tiếng là xong ạ.", "note": "Chú ý <i>the</i> — <i>within the hour</i> nghĩa là “trong vòng một tiếng kể từ bây giờ”." }
+              ]
+            },
+            {
+              "title": "Hỏi tiếp & đáp lại",
+              "items": [
+                { "w": "Is that including traffic?", "vi": "có tính cả kẹt xe không?", "ex": "Is that including traffic?", "exvi": "Có tính cả kẹt xe chưa ạ?", "note": "Câu hỏi tiếp rất khôn ngoan — con số đầu tiên thường là điều kiện lý tưởng." },
+                { "w": "Is there a quicker way?", "vi": "có cách nào nhanh hơn không?", "ex": "Is there a quicker way?", "exvi": "Có cách nào nhanh hơn không ạ?" },
+                { "w": "That's longer than I thought", "vi": "lâu hơn tôi tưởng", "ex": "That's longer than I thought.", "exvi": "Lâu hơn tôi tưởng đấy." },
+                { "w": "Can you do it any faster?", "vi": "làm nhanh hơn được không?", "ex": "Can you do it any faster?", "exvi": "Có làm nhanh hơn được không ạ?" },
+                { "w": "What if I pay extra?", "vi": "nếu tôi trả thêm thì sao?", "ex": "What if I pay extra?", "exvi": "Nếu tôi trả thêm thì sao ạ?" },
+                { "w": "I'll allow an extra hour", "vi": "tôi sẽ trừ hao thêm một tiếng", "ex": "I'll allow an extra hour.", "exvi": "Tôi sẽ trừ hao thêm một tiếng.", "note": "<i>allow</i> ở đây nghĩa là dành thêm thời gian dự phòng." },
+                { "w": "That works", "vi": "vậy là ổn", "ex": "That works for me.", "exvi": "Vậy là ổn với tôi." },
+                { "w": "Cutting it fine", "vi": "hơi sát giờ", "ex": "That's cutting it fine.", "exvi": "Vậy là hơi sát giờ đấy.", "note": "Thành ngữ — nghĩa là chỉ vừa đủ thời gian, rất rủi ro." },
+                { "w": "We'd better leave now", "vi": "mình nên đi ngay thì hơn", "ex": "We'd better leave now then.", "exvi": "Vậy mình nên đi ngay." },
+                { "w": "How long have we got?", "vi": "mình còn bao nhiêu thời gian?", "ex": "How long have we got?", "exvi": "Mình còn bao nhiêu thời gian?" },
+                { "w": "Plenty of time", "vi": "còn nhiều thời gian", "ex": "Plenty of time, don't worry.", "exvi": "Còn nhiều thời gian, đừng lo." },
+                { "w": "We're running out of time", "vi": "mình sắp hết thời gian", "ex": "We're running out of time.", "exvi": "Mình sắp hết thời gian rồi." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "How long does it take to get to the airport?",
+                  "vi": "Đi sân bay mất bao lâu ạ?",
+                  "note": "Cấu trúc chuẩn: <b>take to + động từ trần</b>. Đây là câu hỏi thiết yếu khi lên kế hoạch di chuyển.",
+                  "open": { "en": "Sorry, one more question —", "vi": "Xin lỗi, một câu hỏi nữa ạ —" },
+                  "reply": [
+                    { "them": "Forty minutes, depending on traffic.", "themvi": "Bốn mươi phút, tùy giao thông ạ.", "you": "Is that including rush hour?", "youvi": "Có tính cả giờ cao điểm chưa ạ?" },
+                    { "them": "About an hour, give or take.", "themvi": "Khoảng một tiếng, xê dịch chút ít ạ.", "you": "I'll allow an extra hour then.", "youvi": "Vậy tôi trừ hao thêm một tiếng." }
+                  ],
+                  "close": { "en": "Thanks, that's very helpful.", "vi": "Cảm ơn, rất hữu ích ạ." }
+                },
+                {
+                  "en": "How long by bus?",
+                  "vi": "Đi xe buýt mất bao lâu ạ?",
+                  "note": "Dạng rút gọn cực ngắn — rất tự nhiên khi hỏi nhanh ở bến xe hay nhà ga.",
+                  "reply": [
+                    { "them": "About twice as long as the train.", "themvi": "Khoảng gấp đôi đi tàu ạ.", "you": "Is there a quicker way?", "youvi": "Có cách nào nhanh hơn không ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "How long does the bus take?", "vi": "Xe buýt đi mất bao lâu ạ?" }
+                  ]
+                },
+                {
+                  "en": "Do you know how long it takes to check in?",
+                  "vi": "Anh/chị có biết làm thủ tục mất bao lâu không ạ?",
+                  "note": "Gián tiếp — KHÔNG đảo ngữ: <b>how long it takes</b>, không phải <i>how long does it take</i>.",
+                  "reply": [
+                    { "them": "Twenty minutes if the queue's short.", "themvi": "Hai mươi phút nếu hàng chờ ngắn ạ.", "you": "And if it's not?", "youvi": "Nếu không ngắn thì sao ạ?" }
+                  ]
+                },
+                {
+                  "en": "How much longer do we have to wait?",
+                  "vi": "Còn phải đợi bao lâu nữa ạ?",
+                  "reply": [
+                    { "them": "Another twenty minutes, I'm afraid.", "themvi": "E là thêm hai mươi phút nữa ạ.", "you": "That's cutting it fine for our connection.", "youvi": "Vậy là hơi sát giờ cho chuyến nối của chúng tôi." }
+                  ],
+                  "close": { "en": "We'd better tell the desk.", "vi": "Mình nên báo quầy thì hơn." }
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "How long will it take you to finish the report?",
+                  "vi": "Anh/chị làm xong báo cáo mất bao lâu?",
+                  "note": "Chèn tân ngữ <b>you</b> vào giữa để hỏi rõ người. Dạng tương lai dùng <i>will</i>.",
+                  "reply": [
+                    { "them": "Anything from one to three days.", "themvi": "Từ một đến ba ngày.", "you": "What would make it one?", "youvi": "Cần gì để chỉ mất một ngày?" },
+                    { "them": "It varies, to be honest.", "themvi": "Thật lòng thì còn tùy.", "you": "Give me a worst case.", "youvi": "Cho tôi trường hợp tệ nhất." }
+                  ],
+                  "close": { "en": "Let's say Wednesday then.", "vi": "Vậy chốt thứ Tư nhé." }
+                },
+                {
+                  "en": "How long does the approval process take?",
+                  "vi": "Quy trình duyệt mất bao lâu ạ?",
+                  "note": "Với danh từ làm chủ ngữ thì bỏ <i>it</i> và <i>to V</i>: <i>How long does <b>X</b> take?</i>",
+                  "reply": [
+                    { "them": "Two weeks, usually.", "themvi": "Thường là hai tuần.", "you": "Can it be fast-tracked?", "youvi": "Có đẩy nhanh được không?" }
+                  ],
+                  "vars": [
+                    { "en": "How long does sign-off usually take?", "vi": "Thường thì duyệt ký mất bao lâu?" }
+                  ]
+                },
+                {
+                  "en": "How long does the meeting last?",
+                  "vi": "Cuộc họp kéo dài bao lâu?",
+                  "note": "<b>last</b> dùng cho sự kiện có độ dài cố định — họp, phim, khóa học. Khác với <i>take</i>.",
+                  "reply": [
+                    { "them": "An hour, but it always overruns.", "themvi": "Một tiếng, nhưng lúc nào cũng quá giờ.", "you": "I'll block ninety minutes then.", "youvi": "Vậy tôi chặn lịch chín mươi phút." }
+                  ]
+                },
+                {
+                  "en": "How long did it take in the end?",
+                  "vi": "Cuối cùng mất bao lâu?",
+                  "note": "Quá khứ dùng <b>did</b>, và <i>take</i> trở về nguyên thể.",
+                  "reply": [
+                    { "them": "Three weeks, twice what we planned.", "themvi": "Ba tuần, gấp đôi dự kiến.", "you": "Let's build that into the next estimate.", "youvi": "Lần sau mình tính luôn vào ước lượng." }
+                  ],
+                  "close": { "en": "Good lesson for next time.", "vi": "Bài học tốt cho lần sau." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "How long does delivery take?",
+                  "vi": "Giao hàng mất bao lâu ạ?",
+                  "reply": [
+                    { "them": "Three to five working days.", "themvi": "Ba đến năm ngày làm việc ạ.", "you": "Is there a faster option?", "youvi": "Có tùy chọn nhanh hơn không ạ?" }
+                  ]
+                },
+                {
+                  "en": "How long will the repair take?",
+                  "vi": "Sửa sẽ mất bao lâu ạ?",
+                  "reply": [
+                    { "them": "About a week, depending on parts.", "themvi": "Khoảng một tuần, tùy linh kiện ạ.", "you": "What if I pay extra?", "youvi": "Nếu tôi trả thêm thì sao ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "How long does it take to repair?", "vi": "Sửa mất bao lâu ạ?" }
+                  ]
+                },
+                {
+                  "en": "How long's the wait for a fitting room?",
+                  "vi": "Đợi phòng thử đồ mất bao lâu ạ?",
+                  "note": "Dạng rút gọn <b>How long's</b> = <i>How long is</i> — rất tự nhiên khi nói.",
+                  "reply": [
+                    { "them": "Five minutes, no more.", "themvi": "Năm phút thôi ạ, không hơn.", "you": "That's fine, I'll wait.", "youvi": "Không sao, tôi đợi." }
+                  ]
+                },
+                {
+                  "en": "Do you know how long the sale lasts?",
+                  "vi": "Anh/chị có biết đợt giảm giá kéo dài bao lâu không ạ?",
+                  "reply": [
+                    { "them": "Until Sunday, I believe.", "themvi": "Em tin là đến Chủ nhật ạ.", "you": "I'll come back tomorrow then.", "youvi": "Vậy mai tôi quay lại." }
+                  ],
+                  "close": { "en": "Thanks for checking.", "vi": "Cảm ơn đã kiểm tra giúp." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "How long's the wait for a table?",
+                  "vi": "Đợi bàn mất bao lâu ạ?",
+                  "reply": [
+                    { "them": "About twenty minutes.", "themvi": "Khoảng hai mươi phút ạ.", "you": "We'll wait at the bar.", "youvi": "Bọn tôi đợi ở quầy bar." }
+                  ]
+                },
+                {
+                  "en": "How long does the set menu take?",
+                  "vi": "Thực đơn cố định mất bao lâu ạ?",
+                  "note": "Hỏi thời lượng cả bữa — rất hữu ích khi bạn có lịch hẹn sau đó.",
+                  "reply": [
+                    { "them": "About ninety minutes for all five courses.", "themvi": "Khoảng chín mươi phút cho cả năm món ạ.", "you": "That's cutting it fine — we have a train at nine.", "youvi": "Vậy hơi sát giờ — chúng tôi có chuyến tàu lúc chín giờ." }
+                  ],
+                  "close": { "en": "We'll order à la carte instead.", "vi": "Vậy chúng tôi gọi theo món." }
+                },
+                {
+                  "en": "How long does it take to make?",
+                  "vi": "Món đó làm mất bao lâu ạ?",
+                  "reply": [
+                    { "them": "Twenty-five minutes, it's cooked to order.", "themvi": "Hai mươi lăm phút, nấu theo yêu cầu ạ.", "you": "That's fine, no rush.", "youvi": "Không sao, không vội." }
+                  ],
+                  "vars": [
+                    { "en": "How long will it be?", "vi": "Bao lâu thì có ạ?" }
+                  ]
+                },
+                {
+                  "en": "How much longer will the food be?",
+                  "vi": "Còn bao lâu nữa thì có đồ ăn ạ?",
+                  "note": "Dùng khi đã đợi lâu — <i>How much longer</i> hàm ý bạn đã chờ một lúc rồi.",
+                  "reply": [
+                    { "them": "Two minutes, I'll chase it now.", "themvi": "Hai phút ạ, em giục bếp ngay.", "you": "Thank you.", "youvi": "Cảm ơn em." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "How long does it take you to get to work?",
+                  "vi": "Bạn đi làm mất bao lâu?",
+                  "note": "Chèn <b>you</b> vào giữa — đây là câu hỏi xã giao rất phổ biến khi mới quen ai đó.",
+                  "reply": [
+                    { "them": "About forty minutes door to door.", "themvi": "Khoảng bốn mươi phút từ nhà đến nơi.", "you": "That's not bad at all.", "youvi": "Vậy cũng không tệ." }
+                  ]
+                },
+                {
+                  "en": "How long does the film last?",
+                  "vi": "Phim dài bao lâu?",
+                  "reply": [
+                    { "them": "Just over two hours.", "themvi": "Hơn hai tiếng một chút.", "you": "We'd better eat first then.", "youvi": "Vậy mình ăn trước thì hơn." }
+                  ],
+                  "vars": [
+                    { "en": "How long is it?", "vi": "Nó dài bao lâu?" }
+                  ]
+                },
+                {
+                  "en": "How long have we got?",
+                  "vi": "Mình còn bao nhiêu thời gian?",
+                  "note": "Hỏi thời gian còn lại, khác với hỏi thời lượng một việc.",
+                  "reply": [
+                    { "them": "Half an hour. Plenty of time.", "themvi": "Nửa tiếng. Còn nhiều thời gian.", "you": "Enough for a coffee, then.", "youvi": "Vậy đủ làm ly cà phê." }
+                  ]
+                },
+                {
+                  "en": "How long have you been here?",
+                  "vi": "Bạn ở đây bao lâu rồi?",
+                  "note": "BẪY: đây hỏi thời gian ĐÃ TRÔI QUA (dùng thì hiện tại hoàn thành), khác hẳn hỏi thời lượng.",
+                  "reply": [
+                    { "them": "Since about eight.", "themvi": "Từ khoảng tám giờ.", "you": "Sorry I'm late.", "youvi": "Xin lỗi mình đến muộn." }
+                  ],
+                  "close": { "en": "Let me get the first round.", "vi": "Để mình mời lượt đầu." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Hỏi đường đi sân bay ở quầy lễ tân",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "How long does it take to get to the airport from here?", "vi": "Từ đây đi sân bay mất bao lâu ạ?" },
+            { "speaker": "Receptionist", "en": "Forty minutes, depending on traffic.", "vi": "Bốn mươi phút, tùy giao thông ạ." },
+            { "speaker": "You", "me": true, "en": "Is that including rush hour?", "vi": "Có tính cả giờ cao điểm chưa ạ?" },
+            { "speaker": "Receptionist", "en": "No — in the morning it's more like an hour, give or take.", "vi": "Chưa ạ — buổi sáng thì khoảng một tiếng, xê dịch chút ít." },
+            { "speaker": "You", "me": true, "en": "And how long does check-in take?", "vi": "Làm thủ tục mất bao lâu ạ?" },
+            { "speaker": "Receptionist", "en": "Twenty minutes if the queue's short.", "vi": "Hai mươi phút nếu hàng chờ ngắn ạ." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Ước lượng tiến độ với đồng nghiệp",
+          "lines": [
+            { "speaker": "Manager", "en": "How long will it take you to finish the report?", "vi": "Anh/chị làm xong báo cáo mất bao lâu?" },
+            { "speaker": "You", "me": true, "en": "Anything from one to three days, depending on the data.", "vi": "Từ một đến ba ngày, tùy dữ liệu." },
+            { "speaker": "Manager", "en": "What would make it one?", "vi": "Cần gì để chỉ mất một ngày?" },
+            { "speaker": "You", "me": true, "en": "If finance send the figures today, it only takes a day.", "vi": "Nếu hôm nay bên tài chính gửi số liệu thì chỉ mất một ngày." },
+            { "speaker": "Manager", "en": "And how long does their sign-off usually take?", "vi": "Thường thì bên họ duyệt mất bao lâu?" },
+            { "speaker": "You", "me": true, "en": "Two days, give or take. I'll allow an extra day.", "vi": "Khoảng hai ngày. Tôi sẽ trừ hao thêm một ngày." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "How long time does it take?", "right": "How long does it take?", "why": "<b>how long</b> đã hàm nghĩa thời gian — thêm <i>time</i> là thừa và sai." },
+            { "wrong": "It takes me an hour for getting there.", "right": "It takes me an hour to get there.", "why": "Cấu trúc cố định là <b>to + động từ trần</b>, không phải <i>for + V-ing</i>. Lỗi dịch thẳng từ “để đi đến đó”." },
+            { "wrong": "How long it takes to get there?", "right": "How long does it take to get there?", "why": "Câu hỏi TRỰC TIẾP cần trợ động từ <b>does</b>. Xem thêm [Khung 61]." },
+            { "wrong": "Do you know how long does it take?", "right": "Do you know how long it takes?", "why": "Câu hỏi GIÁN TIẾP thì KHÔNG đảo ngữ. Cùng quy tắc với [Khung 62]." },
+            { "wrong": "It takes two hours to me.", "right": "It takes me two hours.", "why": "Tân ngữ người đứng NGAY SAU <i>takes</i>, không có giới từ <i>to</i>." },
+            { "wrong": "How long does it take? <i>(ý: bạn ở đây bao lâu rồi)</i>", "right": "How long have you been here?", "why": "Hỏi thời gian ĐÃ TRÔI QUA thì dùng hiện tại hoàn thành, không dùng <i>take</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu hỏi", "Hỏi về", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>How long does it take?</code>", "Thời lượng một việc", "<i>How long does it take to get there?</i>"],
+            ["<code>How long does it last?</code>", "Độ dài một sự kiện", "<i>How long does the film last?</i> Phim, họp, khóa học."],
+            ["<code>How long have you been…?</code>", "Thời gian đã trôi qua", "<i>How long have you been here?</i> Hiện tại hoàn thành."],
+            ["<code>How far is it?</code>", "Khoảng cách", "<i>How far is the station?</i>"],
+            ["<code>How often…?</code>", "Tần suất", "<i>How often does it run?</i>"],
+            ["<code>What time…?</code>", "Giờ cụ thể", "<i>What time does it start?</i> Xem [Khung 61]."],
+            ["<code>How much longer?</code>", "Thời gian còn lại", "<i>How much longer do we wait?</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — trả lời “đi đến đó mất bao lâu”" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "It only takes ten minutes.", "vi": "Nhanh — nhấn mạnh bằng <i>only</i>" },
+            { "en": "About half an hour, give or take.", "vi": "Ước lượng có xê dịch" },
+            { "en": "Anything from one to two hours.", "vi": "Nêu khoảng khi chưa chắc" },
+            { "en": "At least two hours, depending on traffic.", "vi": "Nêu mức tối thiểu kèm điều kiện" },
+            { "en": "It varies — I wouldn't risk it.", "vi": "Không đoán được, kèm cảnh báo" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>How long</b> → “hau-LONG”, trọng âm rơi vào <i>LONG</i>.",
+            "<b>does it</b> nối âm thành <b>“də-zit”</b> — chữ <i>does</i> đọc rất nhẹ, không nhấn.",
+            "<b>take to</b> → âm /k/ nối sang /t/, nghe như <b>“tei-ktə”</b>, chữ <i>to</i> lướt thành /tə/.",
+            "Cả cụm: <b>“hau-long-də-zit-TEIK-tə”</b> — chỉ nhấn <i>LONG</i> và <i>TAKE</i>.",
+            "<b>How long's</b> (rút gọn của <i>how long is</i>) → “hau-LONGZ”, rất tự nhiên khi nói.",
+            "<b>Giọng đi xuống ở cuối</b> — câu hỏi có từ để hỏi luôn hạ giọng, giống [Khung 61] và [Khung 63]."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "How long does it take to get there?", "vi": "Luyện shadowing: “hau-long-də-zit-TEIK-tə-ge-thair”." },
+            { "en": "It takes me twenty minutes to get to work.", "vi": "Tập nguyên khối: takes + me + thời gian + to + V." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Đến đó mất bao lâu ạ?", "blank": "__________ to get there?", "a": "How long does it take" },
+            { "vi": "Anh/chị đi làm mất bao lâu?", "blank": "How long does it take __________ to get to work?", "a": "you" },
+            { "vi": "Mất khoảng một tiếng.", "blank": "__________ about an hour.", "a": "It takes" },
+            { "vi": "Tôi đến đó mất một tiếng.", "blank": "It takes __________ to get there.", "a": "me an hour (KHÔNG phải “an hour to me”)" },
+            { "vi": "Anh/chị có biết mất bao lâu không ạ?", "blank": "Do you know __________?", "a": "how long it takes (không đảo ngữ)" },
+            { "vi": "Phim dài bao lâu?", "blank": "How long does the film __________?", "a": "last" },
+            { "vi": "Khoảng một tiếng, xê dịch chút ít.", "blank": "An hour, __________.", "a": "give or take" },
+            { "vi": "Còn phải đợi bao lâu nữa ạ?", "blank": "__________ do we have to wait?", "a": "How much longer" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Đi sân bay mất bao lâu ạ?", "a": "How long does it take to get to the airport?" },
+            { "vi": "2. Anh/chị làm xong báo cáo mất bao lâu?", "a": "How long will it take you to finish the report?" },
+            { "vi": "3. Giao hàng mất bao lâu ạ?", "a": "How long does delivery take?" },
+            { "vi": "4. Tôi đi làm mất khoảng bốn mươi phút.", "a": "It takes me about forty minutes to get to work." },
+            { "vi": "5. Anh/chị có biết làm thủ tục mất bao lâu không ạ?", "a": "Do you know how long it takes to check in?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Học nguyên khối cấu trúc:</b> <i>It takes + (người) + thời gian + <b>to</b> + V</i>. Đọc to mười lần cho thành phản xạ.",
+            "<b>Đừng nói “How long time”</b> — <i>how long</i> đã đủ nghĩa thời gian rồi.",
+            "<b>Tân ngữ người đứng ngay sau “takes”</b>, không có <i>to</i>: <i>It takes <b>me</b> an hour.</i>",
+            "<b>Phân biệt take và last:</b> <i>take</i> cho việc cần làm, <i>last</i> cho sự kiện có độ dài cố định như phim và họp.",
+            "<b>Luôn hỏi thêm “Is that including traffic?”</b> — con số đầu tiên người ta đưa thường là điều kiện lý tưởng.",
+            "<b>Bài tập 3 phút:</b> viết 5 việc bạn làm hằng ngày và ước lượng thời gian cho mỗi việc bằng <i>It takes me … to …</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

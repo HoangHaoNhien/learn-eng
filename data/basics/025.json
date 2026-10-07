@@ -1,0 +1,451 @@
+{
+  "id": 25,
+  "title": "Nói \"có\" — there is / there are",
+  "teaches": [
+    "there",
+    "is",
+    "are",
+    "isn't",
+    "aren't",
+    "was",
+    "were",
+    "books",
+    "chairs",
+    "people",
+    "children",
+    "shops",
+    "any",
+    "some",
+    "a",
+    "an",
+    "many",
+    "much",
+    "near",
+    "in",
+    "on",
+    "problem",
+    "questions"
+  ],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Xong bài này bạn nói được <b>có cái gì ở đâu</b>: <i>There is a book on the table</i> · <i>There are two chairs here</i>."
+        },
+        {
+          "t": "callout",
+          "html": "<b>Đây là chỗ tiếng Việt và tiếng Anh lệch nhau rõ nhất.</b><br><br>Tiếng Việt: <i><b>Có</b> một quyển sách trên bàn.</i> — chỉ một chữ <i>có</i>.<br>Tiếng Anh: <i><b>There is</b> a book on the table.</i> — hai chữ, và chữ <b>There</b> không có nghĩa gì cả.<br><br>Nó chỉ là <b>chủ ngữ giả</b> — tiếng Anh bắt buộc câu phải có chủ ngữ (bài 05), mà câu này không có ai làm gì, nên phải mượn chữ <b>There</b> đứng chỗ đó."
+        }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Bài 05 — câu tiếng Anh bắt buộc có chủ ngữ. Bài 10 — số ít/số nhiều, vì <b>there is</b> hay <b>there are</b> phụ thuộc vào danh từ ĐỨNG SAU."
+        },
+        {
+          "t": "p",
+          "html": "Bài 22 — giới từ nơi chốn, vì câu kiểu này hầu như luôn có đuôi chỉ vị trí."
+        },
+        {
+          "t": "link",
+          "items": [
+            {
+              "id": 5,
+              "label": "Bài 05 — câu phải có chủ ngữ"
+            },
+            {
+              "id": 10,
+              "label": "Bài 10 — số ít và số nhiều"
+            },
+            {
+              "id": 22,
+              "label": "Bài 22 — giới từ nơi chốn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        {
+          "t": "table",
+          "head": [
+            "Luật",
+            "Nghĩa là gì",
+            "Ví dụ"
+          ],
+          "rows": [
+            [
+              "<b>1.</b> Một cái → <b>There is</b>",
+              "Danh từ số ít hoặc không đếm được",
+              "<i>There is a book.</i>"
+            ],
+            [
+              "<b>2.</b> Nhiều cái → <b>There are</b>",
+              "Danh từ số nhiều",
+              "<i>There are two books.</i>"
+            ],
+            [
+              "<b>3.</b> Nhìn danh từ ĐỨNG SAU mà chọn",
+              "Không nhìn chữ <i>There</i>",
+              "<i>There <b>are</b> many <b>people</b>.</i>"
+            ]
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Bốn dạng câu"
+        },
+        {
+          "t": "table",
+          "head": [
+            "Dạng",
+            "Số ít",
+            "Số nhiều"
+          ],
+          "rows": [
+            [
+              "Khẳng định",
+              "<b>There is</b> a book.",
+              "<b>There are</b> two books."
+            ],
+            [
+              "Phủ định",
+              "<b>There isn't</b> a book.",
+              "<b>There aren't</b> any books."
+            ],
+            [
+              "Câu hỏi",
+              "<b>Is there</b> a book?",
+              "<b>Are there</b> any books?"
+            ],
+            [
+              "Đáp CÓ",
+              "Yes, there is.",
+              "Yes, there are."
+            ],
+            [
+              "Đáp KHÔNG",
+              "No, there isn't.",
+              "No, there aren't."
+            ]
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Quá khứ — đổi sang was / were"
+        },
+        {
+          "t": "table",
+          "head": [
+            "Hiện tại",
+            "Quá khứ",
+            "Ví dụ"
+          ],
+          "rows": [
+            [
+              "There is",
+              "<b>There was</b>",
+              "<i>There was a shop here.</i>"
+            ],
+            [
+              "There are",
+              "<b>There were</b>",
+              "<i>There were two shops here.</i>"
+            ]
+          ]
+        },
+        {
+          "t": "callout",
+          "html": "<b>Dùng <code>some</code> hay <code>any</code>?</b><br>• Câu khẳng định → <b>some</b> · <i>There are <b>some</b> books.</i><br>• Câu phủ định và câu hỏi → <b>any</b> · <i>There aren't <b>any</b> books.</i> · <i>Are there <b>any</b> books?</i><br><br>Với danh từ số ít đếm được thì dùng <b>a/an</b>: <i>There is <b>a</b> book.</i>"
+        }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        {
+          "t": "h3",
+          "text": "There is — một cái"
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "There is a book on the table.",
+              "vi": "Có một quyển sách trên bàn.",
+              "note": "Một quyển → <b>is</b>."
+            },
+            {
+              "en": "There is a cat under the chair.",
+              "vi": "Có một con mèo dưới ghế.",
+              "note": "Ghép với giới từ bài 22."
+            },
+            {
+              "en": "There is a shop near my house.",
+              "vi": "Có một cửa hàng gần nhà tôi.",
+              "note": "Cùng luật."
+            },
+            {
+              "en": "There is some water in the glass.",
+              "vi": "Có một ít nước trong ly.",
+              "note": "<i>water</i> không đếm được → vẫn dùng <b>is</b>."
+            },
+            {
+              "en": "There's a problem.",
+              "vi": "Có vấn đề rồi.",
+              "note": "Rút gọn <i>There's</i> rất hay dùng khi nói."
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "There are — nhiều cái"
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "There are two chairs here.",
+              "vi": "Có hai cái ghế ở đây.",
+              "note": "Hai cái → <b>are</b>."
+            },
+            {
+              "en": "There are many people in the shop.",
+              "vi": "Có nhiều người trong cửa hàng.",
+              "note": "<i>people</i> là số nhiều → <b>are</b>."
+            },
+            {
+              "en": "There are some books on the table.",
+              "vi": "Có mấy quyển sách trên bàn.",
+              "note": "Câu khẳng định dùng <b>some</b>."
+            },
+            {
+              "en": "There are three children in the room.",
+              "vi": "Có ba đứa trẻ trong phòng.",
+              "note": "<i>children</i> số nhiều."
+            },
+            {
+              "en": "There are two shops near here.",
+              "vi": "Có hai cửa hàng gần đây.",
+              "note": "Cùng luật."
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Phủ định"
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "There isn't a bank near here.",
+              "vi": "Gần đây không có ngân hàng nào.",
+              "note": "<b>isn't</b> cho số ít."
+            },
+            {
+              "en": "There aren't any books here.",
+              "vi": "Ở đây không có quyển sách nào.",
+              "note": "Câu phủ định dùng <b>any</b>."
+            },
+            {
+              "en": "There isn't any water.",
+              "vi": "Không có nước.",
+              "note": "Không đếm được → <b>isn't</b> + <b>any</b>."
+            },
+            {
+              "en": "There aren't many people today.",
+              "vi": "Hôm nay không đông người.",
+              "note": "<b>many</b> cho đếm được."
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Câu hỏi"
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "Is there a toilet here?",
+              "vi": "Ở đây có nhà vệ sinh không?",
+              "note": "Đảo <b>is</b> lên trước <b>there</b>."
+            },
+            {
+              "en": "Is there a bank near here? — Yes, there is.",
+              "vi": "Gần đây có ngân hàng không? — Có.",
+              "note": "Hỏi đường rất hay dùng câu này."
+            },
+            {
+              "en": "Are there any shops near here?",
+              "vi": "Gần đây có cửa hàng nào không?",
+              "note": "Câu hỏi dùng <b>any</b>."
+            },
+            {
+              "en": "Are there any questions? — No, there aren't.",
+              "vi": "Có câu hỏi nào không? — Không.",
+              "note": "Câu thầy cô hay hỏi."
+            },
+            {
+              "en": "How many people are there?",
+              "vi": "Có bao nhiêu người?",
+              "note": "Ghép với <b>How many</b> ở bài 17."
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Quá khứ"
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "There was a shop here.",
+              "vi": "Trước đây có một cửa hàng ở đây.",
+              "note": "<b>was</b> cho số ít."
+            },
+            {
+              "en": "There were many people yesterday.",
+              "vi": "Hôm qua có nhiều người.",
+              "note": "<b>were</b> cho số nhiều."
+            },
+            {
+              "en": "There wasn't any water.",
+              "vi": "Lúc đó không có nước.",
+              "note": "Phủ định quá khứ."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        {
+          "t": "h3",
+          "text": "Phần 1 — chọn is hay are"
+        },
+        {
+          "t": "quiz",
+          "items": [
+            {
+              "vi": "Có một quyển sách trên bàn.",
+              "blank": "There ___ a book on the table.",
+              "a": "is"
+            },
+            {
+              "vi": "Có hai cái ghế ở đây.",
+              "blank": "There ___ two chairs here.",
+              "a": "are"
+            },
+            {
+              "vi": "Có nhiều người trong cửa hàng.",
+              "blank": "There ___ many people in the shop.",
+              "a": "are — <i>people</i> là số nhiều"
+            },
+            {
+              "vi": "Có một ít nước trong ly.",
+              "blank": "There ___ some water in the glass.",
+              "a": "is — <i>water</i> không đếm được"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Phần 2 — some hay any"
+        },
+        {
+          "t": "quiz",
+          "items": [
+            {
+              "vi": "Có mấy quyển sách trên bàn.",
+              "blank": "There are ___ books on the table.",
+              "a": "some — câu khẳng định"
+            },
+            {
+              "vi": "Ở đây không có quyển sách nào.",
+              "blank": "There aren't ___ books here.",
+              "a": "any — câu phủ định"
+            },
+            {
+              "vi": "Gần đây có cửa hàng nào không?",
+              "blank": "Are there ___ shops near here?",
+              "a": "any — câu hỏi"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Phần 3 — đặt câu"
+        },
+        {
+          "t": "quiz",
+          "items": [
+            {
+              "vi": "Ở đây có nhà vệ sinh không?",
+              "a": "Is there a toilet here?"
+            },
+            {
+              "vi": "Trước đây có một cửa hàng ở đây.",
+              "a": "There was a shop here."
+            },
+            {
+              "vi": "Vì sao câu này cần chữ <b>There</b>?",
+              "a": "Vì tiếng Anh bắt buộc câu phải có chủ ngữ — <b>There</b> là chủ ngữ giả"
+            },
+            {
+              "vi": "Nhìn quanh phòng và nói ba câu <i>There is/are…</i>",
+              "a": "Không có đáp án sẵn — nhớ chọn <b>is</b> hay <b>are</b> theo danh từ đứng sau"
+            },
+            {
+              "vi": "Có bao nhiêu người ở đây?",
+              "a": "How many people are there?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Nhìn danh từ ĐỨNG SAU mà chọn <code>is</code> hay <code>are</code>.</b> <i>There <b>are</b> many <b>people</b></i> — <i>people</i> quyết định, không phải <i>There</i>.",
+            "<b><code>There</code> ở đây không có nghĩa gì cả.</b> Nó chỉ là chủ ngữ giả, vì tiếng Anh bắt buộc câu phải có chủ ngữ.",
+            "<b>Khẳng định dùng <code>some</code>, phủ định và câu hỏi dùng <code>any</code>.</b>"
+          ]
+        },
+        {
+          "t": "pairs",
+          "items": [
+            {
+              "wrong": "<i>Have a book on the table.</i>",
+              "right": "<i>There is a book on the table.</i>",
+              "why": "Tiếng Việt nói <i>“Có một quyển sách”</i> nên người học hay lấy thẳng động từ <i>have</i>. Nhưng <i>have</i> nghĩa là <b>ai đó sở hữu</b> cái gì, còn nói <b>tồn tại ở đâu</b> thì phải dùng <b>there is/are</b>."
+            },
+            {
+              "wrong": "<i>There is two chairs.</i>",
+              "right": "<i>There are two chairs.</i>",
+              "why": "Nhiều người nhìn chữ <i>There</i> rồi chọn <b>is</b> cho tiện. Thực ra phải nhìn danh từ đứng sau: <i>two chairs</i> là số nhiều nên dùng <b>are</b>."
+            },
+            {
+              "wrong": "<i>Is a bank near here?</i>",
+              "right": "<i>Is there a bank near here?</i>",
+              "why": "Bỏ mất chữ <b>there</b> thì câu không còn chủ ngữ. Dù <i>there</i> không mang nghĩa, nó vẫn bắt buộc phải có mặt."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

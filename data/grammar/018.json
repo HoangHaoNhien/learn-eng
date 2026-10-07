@@ -1,0 +1,277 @@
+{
+  "id": 18,
+  "group": "Nhóm 10 · Điều kiện & Giả định",
+  "title": "Thức giả định — I suggest he go",
+  "subtitle": "Một góc ngữ pháp nhìn như lỗi mà lại đúng: sau suggest, recommend, insist thì động từ KHÔNG chia, dù chủ ngữ là he hay she. I suggest he go ✓ chứ không phải goes. Và riêng suggest thì không bao giờ đi với to V.",
+  "meaning": "Đề nghị, yêu cầu, nhấn mạnh điều cần thiết",
+  "rule": [
+    "S + <em>suggest/recommend</em> + (that) + S + <em>V trần</em>",
+    "<em>It's important</em> + (that) + S + <em>V trần</em>",
+    "<em>suggest + V-ing</em> — không bao giờ <em>suggest to V</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: B2–C1", "hot": true },
+    { "text": "Động từ KHÔNG chia" },
+    { "text": "suggest to V ✗" },
+    { "text": "Tần suất: trung bình" }
+  ],
+  "frames": [41, 42, 52, 97, 98],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Khi bạn <b>đề nghị, yêu cầu hoặc nhấn mạnh điều cần thiết</b>, tiếng Anh dùng một dạng động từ đặc biệt: <b>động từ trần</b>, không chia theo ngôi, không chia theo thì. Nó nhìn như lỗi nhưng lại là chuẩn mực." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — động từ KHÔNG chia:</b><br>• <i>I suggest he <b>go</b></i> ✓ — <i>I suggest he goes</i> (chấp nhận được trong khẩu ngữ Anh, nhưng <i>go</i> mới là chuẩn mực)<br>• <i>It's important that she <b>be</b> here</i> ✓ — <i>that she is here</i> ✗ trong văn trang trọng<br>Và phủ định là <b>not + V trần</b>: <i>I suggest he <b>not go</b></i> ✓, không phải <i>doesn't go</i>." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>suggest</i> không đi với <i>to V</i>:</b> đây là lỗi người Việt mắc nhiều nhất ở nhóm này.<br>• <i>I suggest <b>going</b> early</i> ✓<br>• <i>I suggest <b>that we go</b> early</i> ✓<br>• <i>I suggest <b>to go</b> early</i> ✗ — không bao giờ." },
+        { "t": "h3", "text": "Hai nhóm kích hoạt thức giả định" },
+        {
+          "t": "table",
+          "head": ["Nhóm", "Từ tiêu biểu", "Ví dụ"],
+          "rows": [
+            ["Động từ đề nghị, yêu cầu", "suggest · recommend · insist · demand", "I suggest he go."],
+            ["Tính từ chỉ sự cần thiết", "important · essential · vital · necessary", "It's vital that he be here."],
+            ["Danh từ tương ứng", "suggestion · recommendation · demand", "My suggestion is that he go."],
+            ["Phủ định", "<code>not + V trần</code>", "I suggest he not go."]
+          ]
+        },
+        { "t": "p", "html": "Tiếng Anh Anh thường tránh dạng này bằng cách thêm <b>should</b>: <i>I suggest he <b>should</b> go</i> ✓ — cùng nghĩa, nghe mềm hơn và an toàn hơn cho người học. Nhưng dạng động từ trần mới là chuẩn mực quốc tế và luôn đúng." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Với <code>suggest</code>", "<code>suggest (that) + S + V trần</code>", "I suggest he go early."],
+            ["Với <code>recommend</code>", "<code>recommend (that) + S + V trần</code>", "I recommend she apply now."],
+            ["Với <code>insist</code>", "<code>insist (that) + S + V trần</code>", "He insisted that I stay."],
+            ["Với <code>demand / request</code>", "<code>demand (that) + S + V trần</code>", "They demanded that he leave."],
+            ["Với tính từ", "<code>It's important (that) + S + V trần</code>", "It's important that he be here."],
+            ["Phủ định", "<code>(that) + S + not + V trần</code>", "I suggest he not go."],
+            ["Dạng mềm với <code>should</code>", "<code>(that) + S + should + V</code>", "I suggest he should go."],
+            ["<code>suggest + V-ing</code>", "<code>suggest + V-ing</code>", "I suggest going early."],
+            ["<code>suggest to V</code> ✗", "KHÔNG tồn tại", "<i>I suggest to go</i> ✗"],
+            ["<code>advise</code> thì khác", "<code>advise + người + to V</code>", "I advise you to go."],
+            ["<code>want</code> thì khác", "<code>want + người + to V</code>", "I want you to go."],
+            ["Đảo ngữ giả định", "<code>Were I you, …</code>", "Were I you, I'd rest."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Ba động từ, ba cấu trúc khác nhau:</b> <i>suggest</i> KHÔNG đi với <i>to V</i>; <i>advise</i> và <i>want</i> thì BẮT BUỘC có <i>người + to V</i>. <i>I suggest you to go</i> ✗ nhưng <i>I advise you to go</i> ✓." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I suggest he go early.", "vi": "Tôi đề nghị anh ấy đi sớm.", "note": "BẪY SỐ MỘT: <b>go</b> không chia, dù chủ ngữ là <i>he</i>." },
+            { "en": "I suggest going early.", "vi": "Tôi đề nghị đi sớm.", "note": "Dạng V-ing khi không nêu rõ ai làm." },
+            { "en": "I suggest that we go early.", "vi": "Tôi đề nghị chúng ta đi sớm.", "note": "Có <i>that</i> và chủ ngữ — cả hai dạng đều đúng." },
+            { "en": "I recommend she apply now.", "vi": "Tôi khuyên cô ấy nộp đơn ngay.", "note": "<b>apply</b> không có <i>-s</i> dù chủ ngữ là <i>she</i>." },
+            { "en": "He insisted that I stay for dinner.", "vi": "Anh ấy nằng nặc giữ tôi ở lại ăn tối.", "note": "Dù <i>insisted</i> ở quá khứ, động từ sau vẫn là <b>stay</b> dạng trần." },
+            { "en": "They demanded that he leave immediately.", "vi": "Họ yêu cầu anh ấy rời đi ngay.", "note": "<b>leave</b>, không phải <i>left</i> hay <i>leaves</i>." },
+            { "en": "It's important that he be here on time.", "vi": "Quan trọng là anh ấy phải có mặt đúng giờ.", "note": "<b>be</b> ở dạng trần — đây là chỗ nhìn lạ nhất." },
+            { "en": "It's essential that everyone know the rules.", "vi": "Điều thiết yếu là mọi người phải biết luật.", "note": "<b>know</b> không có <i>-s</i> dù <i>everyone</i> là số ít." },
+            { "en": "I suggest he not go alone.", "vi": "Tôi đề nghị anh ấy đừng đi một mình.", "note": "Phủ định là <b>not + V trần</b>, không dùng <i>doesn't</i>." },
+            { "en": "I suggest he should go.", "vi": "Tôi đề nghị anh ấy nên đi.", "note": "Dạng mềm với <b>should</b> — phổ biến trong tiếng Anh Anh, an toàn cho người học." },
+            { "en": "I advise you to go early.", "vi": "Tôi khuyên bạn đi sớm.", "note": "<b>advise</b> thì BẮT BUỘC có <i>người + to V</i> — khác hẳn <i>suggest</i>." },
+            { "en": "If I were you, I'd rest.", "vi": "Nếu tôi là bạn, tôi sẽ nghỉ.", "note": "<b>were</b> cũng là dạng giả định. Xem [Ngữ pháp 15]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💼", "title": "Đề nghị trong họp", "text": "<i>I suggest we postpone the launch.</i>" },
+            { "icon": "📧", "title": "Khuyến nghị trong email", "text": "<i>I recommend she apply now.</i>" },
+            { "icon": "📄", "title": "Yêu cầu trong văn bản", "text": "<i>It's essential that everyone know the rules.</i>" },
+            { "icon": "✊", "title": "Nằng nặc đòi hỏi", "text": "<i>He insisted that I stay.</i>" },
+            { "icon": "🙅", "title": "Đề nghị đừng làm", "text": "<i>I suggest he not go alone.</i> Dùng <b>not</b>, không dùng <i>doesn't</i>." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Nói chuyện thường ngày. Lúc đó <i>You should…</i> hay <i>Why don't you…?</i> tự nhiên hơn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ & tính từ kích hoạt giả định",
+              "items": [
+                { "w": "suggest (that)", "vi": "đề nghị", "ex": "I suggest he go early.", "exvi": "Tôi đề nghị anh ấy đi sớm.", "note": "BẪY SỐ HAI: KHÔNG bao giờ <i>suggest to V</i> ✗." },
+                { "w": "suggest + V-ing", "vi": "đề nghị làm gì", "ex": "I suggest going early.", "exvi": "Tôi đề nghị đi sớm.", "note": "Dùng khi không cần nêu rõ ai làm." },
+                { "w": "recommend (that)", "vi": "khuyến nghị", "ex": "I recommend she apply now.", "exvi": "Tôi khuyên cô ấy nộp đơn ngay.", "note": "Cũng không đi với <i>to V</i>: <i>recommend to apply</i> ✗." },
+                { "w": "insist (that)", "vi": "nằng nặc, khăng khăng", "ex": "He insisted that I stay.", "exvi": "Anh ấy nằng nặc giữ tôi ở lại.", "note": "Dù <i>insisted</i> ở quá khứ, động từ sau vẫn ở dạng trần." },
+                { "w": "demand (that)", "vi": "yêu cầu", "ex": "They demanded that he leave.", "exvi": "Họ yêu cầu anh ấy rời đi." },
+                { "w": "request (that)", "vi": "đề nghị (trang trọng)", "ex": "We request that you arrive early.", "exvi": "Chúng tôi đề nghị quý vị đến sớm." },
+                { "w": "propose (that)", "vi": "đề xuất", "ex": "I propose we vote on it.", "exvi": "Tôi đề xuất chúng ta biểu quyết." },
+                { "w": "It's important that", "vi": "điều quan trọng là", "ex": "It's important that he be here.", "exvi": "Quan trọng là anh ấy phải có mặt.", "note": "<b>be</b> dạng trần — chỗ nhìn lạ nhất của cấu trúc này." },
+                { "w": "It's essential that", "vi": "điều thiết yếu là", "ex": "It's essential that everyone know.", "exvi": "Điều thiết yếu là mọi người phải biết." },
+                { "w": "It's vital that", "vi": "điều sống còn là", "ex": "It's vital that we act now.", "exvi": "Điều sống còn là chúng ta phải hành động ngay." },
+                { "w": "It's necessary that", "vi": "cần thiết là", "ex": "It's necessary that she sign it.", "exvi": "Cần thiết là cô ấy phải ký vào đó." },
+                { "w": "not + V trần", "vi": "phủ định giả định", "ex": "I suggest he not go alone.", "exvi": "Tôi đề nghị anh ấy đừng đi một mình.", "note": "Không dùng <i>doesn't</i> — chỉ <b>not</b> rồi động từ trần." }
+              ]
+            },
+            {
+              "title": "Cấu trúc dễ nhầm & cách nói thay thế",
+              "items": [
+                { "w": "advise + người + to V", "vi": "khuyên ai làm gì", "ex": "I advise you to go early.", "exvi": "Tôi khuyên bạn đi sớm.", "note": "KHÁC <i>suggest</i>: <b>advise</b> BẮT BUỘC có người + <i>to V</i>." },
+                { "w": "want + người + to V", "vi": "muốn ai làm gì", "ex": "I want you to go.", "exvi": "Tôi muốn bạn đi.", "note": "Cũng bắt buộc có <i>to V</i>. <i>I want that you go</i> ✗." },
+                { "w": "tell + người + to V", "vi": "bảo ai làm gì", "ex": "He told me to wait.", "exvi": "Anh ấy bảo tôi chờ." },
+                { "w": "ask + người + to V", "vi": "nhờ ai làm gì", "ex": "She asked me to help.", "exvi": "Cô ấy nhờ tôi giúp.", "note": "Nhưng <i>ask that + V trần</i> cũng có, mang nghĩa trang trọng hơn." },
+                { "w": "should + V trần", "vi": "nên", "ex": "I suggest he should go.", "exvi": "Tôi đề nghị anh ấy nên đi.", "note": "Dạng MỀM — phổ biến trong tiếng Anh Anh, an toàn cho người học." },
+                { "w": "You should + V", "vi": "bạn nên", "ex": "You should go early.", "exvi": "Bạn nên đi sớm.", "note": "Cách nói thường ngày, tự nhiên hơn thức giả định. Xem [Ngữ pháp 32]." },
+                { "w": "Why don't you + V?", "vi": "sao bạn không…?", "ex": "Why don't you go early?", "exvi": "Sao bạn không đi sớm?", "note": "Gợi ý thân mật — động từ TRẦN sau <i>Why don't you</i>." },
+                { "w": "If I were you, I'd", "vi": "nếu tôi là bạn, tôi sẽ", "ex": "If I were you, I'd go early.", "exvi": "Nếu tôi là bạn, tôi sẽ đi sớm.", "note": "<b>were</b> cũng là dạng giả định. Xem [Ngữ pháp 15]." },
+                { "w": "Were I you…", "vi": "giá tôi là bạn", "ex": "Were I you, I'd rest.", "exvi": "Giá tôi là bạn, tôi sẽ nghỉ.", "note": "Dạng ĐẢO NGỮ rất trang trọng — bỏ <i>if</i>. Xem [Ngữ pháp 49]." },
+                { "w": "I wish + V2", "vi": "ước gì", "ex": "I wish I had more time.", "exvi": "Ước gì tôi có thêm thời gian.", "note": "Cùng logic giả định: quá khứ cho điều không có thật." },
+                { "w": "I'd rather + S + V2", "vi": "tôi muốn ai đó", "ex": "I'd rather you didn't go.", "exvi": "Tôi muốn bạn đừng đi.", "note": "Sau <i>I'd rather + người</i> là QUÁ KHỨ ĐƠN, dù nói về hiện tại." },
+                { "w": "In my opinion", "vi": "theo tôi", "ex": "In my opinion, we should wait.", "exvi": "Theo tôi thì nên chờ. Xem [Khung 42]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I suggest <b>to go</b> early.", "right": "I suggest <b>going</b> early.", "why": "BẪY SỐ HAI, lỗi phổ biến nhất của nhóm này. <b>suggest</b> KHÔNG BAO GIỜ đi với <i>to V</i>." },
+            { "wrong": "I suggest <b>you to go</b> early.", "right": "I suggest <b>(that) you go</b> early.", "why": "Cùng lỗi. Nhưng <i>I advise you to go</i> ✓ — vì <b>advise</b> có cấu trúc khác hẳn." },
+            { "wrong": "I suggest he <b>goes</b> early. <i>(văn trang trọng)</i>", "right": "I suggest he <b>go</b> early.", "why": "BẪY SỐ MỘT: động từ KHÔNG chia theo ngôi trong thức giả định." },
+            { "wrong": "It's important that he <b>is</b> here.", "right": "It's important that he <b>be</b> here.", "why": "Dạng trần của <i>be</i> là <b>be</b>. Đây là chỗ nhìn lạ nhất nhưng đúng chuẩn." },
+            { "wrong": "I suggest he <b>doesn't go</b> alone.", "right": "I suggest he <b>not go</b> alone.", "why": "Phủ định giả định là <b>not + V trần</b>, không mượn <i>doesn't</i>." },
+            { "wrong": "He insisted that I <b>stayed</b> for dinner.", "right": "He insisted that I <b>stay</b> for dinner.", "why": "Dù <i>insisted</i> ở quá khứ, động từ sau vẫn ở dạng TRẦN — thức giả định không chia thì." },
+            { "wrong": "I <b>want that you go</b>.", "right": "I <b>want you to go</b>.", "why": "<b>want</b> bắt buộc có <i>người + to V</i>, không đi với mệnh đề <i>that</i>." },
+            { "wrong": "I recommend <b>to apply</b> now.", "right": "I recommend <b>applying</b> now.", "why": "<b>recommend</b> cùng nhóm với <i>suggest</i> — không đi với <i>to V</i>." },
+            { "wrong": "I'd rather you <b>don't</b> go.", "right": "I'd rather you <b>didn't</b> go.", "why": "Sau <i>I'd rather + người</i> là QUÁ KHỨ ĐƠN, dù đang nói về hiện tại." },
+            { "wrong": "It's essential that everyone <b>knows</b> the rules.", "right": "It's essential that everyone <b>know</b> the rules.", "why": "<i>everyone</i> là số ít nhưng thức giả định vẫn dùng động từ trần." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Theo sau là", "Ví dụ"],
+          "rows": [
+            ["<code>suggest / recommend</code>", "V-ing hoặc <i>that + S + V trần</i>", "I suggest going. · I suggest he go."],
+            ["<code>advise / want / tell / ask</code>", "người + <i>to V</i>", "I advise you to go."],
+            ["<code>It's important that</code>", "S + V trần", "It's important that he be here."],
+            ["<code>suggest … should</code>", "S + should + V — dạng mềm", "I suggest he should go."],
+            ["<code>You should + V</code>", "Cách nói thường ngày. Xem [Ngữ pháp 32]", "You should go early."],
+            ["<code>If I were you, I'd + V</code>", "Lời khuyên lịch sự. Xem [Ngữ pháp 15]", "If I were you, I'd go."],
+            ["<code>I'd rather + S + V2</code>", "Quá khứ đơn dù nói hiện tại", "I'd rather you didn't go."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng cấu trúc nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn dùng động từ nào, và viết trang trọng hay nói chuyện thường?",
+          "nodes": [
+            { "if": "Dùng suggest hoặc recommend, không nêu rõ ai", "then": "+ V-ing", "ex": "I suggest going early." },
+            { "if": "Dùng suggest hoặc recommend, có nêu rõ ai", "then": "that + S + V trần", "ex": "I suggest he go early." },
+            { "if": "Dùng advise, want, tell, ask", "then": "người + to V", "ex": "I advise you to go." },
+            { "if": "Dùng tính từ important, essential, vital", "then": "that + S + V trần", "ex": "It's important that he be here." },
+            { "if": "Muốn nghe mềm hơn, kiểu Anh", "then": "that + S + should + V", "ex": "I suggest he should go." },
+            { "if": "Nói chuyện thường ngày với bạn bè", "then": "You should… / Why don't you…?", "ex": "Why don't you go early?" }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ trang trọng của một đề nghị" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Why don't you go early?", "vi": "Thân mật nhất" },
+            { "en": "You should go early.", "vi": "Thường ngày, thẳng thắn" },
+            { "en": "I suggest he should go early.", "vi": "Lịch sự, kiểu Anh" },
+            { "en": "I suggest he go early.", "vi": "Chuẩn mực, trang trọng" },
+            { "en": "It is essential that he go early.", "vi": "Trang trọng nhất — văn bản" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Thức giả định xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 98, "why": "If I were you, I'd + V — dạng giả định quen thuộc nhất, với were cho mọi chủ ngữ." },
+            { "id": 42, "why": "In my opinion… — cách nêu đề xuất trong họp, hay đi kèm I suggest." },
+            { "id": 52, "why": "That's a good point, but… — phản biện rồi đưa đề xuất thay thế." },
+            { "id": 41, "why": "I think… — cách nói mềm hơn trước khi dùng cấu trúc trang trọng." },
+            { "id": 97, "why": "If + hiện tại, I'll + V — họ hàng gần: đều là câu điều kiện và giả định." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ trong ngoặc" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi đề nghị anh ấy đi sớm.", "blank": "I suggest he __________ (go) early.", "a": "go — không chia" },
+            { "vi": "Tôi khuyên cô ấy nộp đơn ngay.", "blank": "I recommend she __________ (apply) now.", "a": "apply" },
+            { "vi": "Quan trọng là anh ấy phải có mặt.", "blank": "It's important that he __________ (be) here.", "a": "be" },
+            { "vi": "Anh ấy nằng nặc giữ tôi ở lại.", "blank": "He insisted that I __________ (stay).", "a": "stay — dù insisted ở quá khứ" },
+            { "vi": "Điều thiết yếu là mọi người phải biết.", "blank": "It's essential that everyone __________ (know).", "a": "know" },
+            { "vi": "Tôi đề nghị anh ấy đừng đi một mình.", "blank": "I suggest he __________ go alone.", "a": "not" },
+            { "vi": "Tôi đề nghị đi sớm.", "blank": "I suggest __________ (go) early.", "a": "going" },
+            { "vi": "Tôi muốn bạn đừng đi.", "blank": "I'd rather you __________ (not go).", "a": "didn't go" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi đề nghị đi sớm.", "blank": "I suggest __________ early.  (to go / going)", "a": "going — suggest không đi với to V" },
+            { "vi": "Tôi khuyên bạn đi sớm.", "blank": "I advise __________ early.  (you to go / that you go)", "a": "you to go — advise cần người + to V" },
+            { "vi": "Tôi muốn bạn đi.", "blank": "I want __________.  (you to go / that you go)", "a": "you to go" },
+            { "vi": "Tôi đề nghị anh ấy đi.", "blank": "I suggest __________.  (he go / him to go)", "a": "he go" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi đề nghị anh ấy đi sớm.", "a": "I suggest he go early." },
+            { "vi": "2. Quan trọng là anh ấy phải có mặt đúng giờ.", "a": "It's important that he be here on time." },
+            { "vi": "3. Tôi đề nghị anh ấy đừng đi một mình.", "a": "I suggest he not go alone." },
+            { "vi": "4. Tôi khuyên bạn đi sớm.", "a": "I advise you to go early." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Khắc vào đầu:</b> <i>suggest</i> và <i>recommend</i> KHÔNG BAO GIỜ đi với <i>to V</i>. Chỉ <i>V-ing</i> hoặc <i>that + S + V trần</i>.",
+            "<b>Trong thức giả định, động từ không chia</b> — không theo ngôi, không theo thì. <i>he go</i>, <i>she apply</i>, <i>everyone know</i>.",
+            "<b>Dạng trần của <i>be</i> là <i>be</i>:</b> <i>It's important that he <b>be</b> here</i>. Nhìn lạ nhưng đúng.",
+            "<b>Phủ định là <i>not + V trần</i></b>, không mượn <i>doesn't</i>: <i>I suggest he <b>not go</b></i>.",
+            "<b>Chưa chắc thì thêm <i>should</i></b> — <i>I suggest he should go</i> luôn an toàn và nghe mềm hơn.",
+            "<b>Bài tập 3 phút:</b> viết ba đề xuất công việc bằng <i>I suggest (that)…</i>, rồi viết lại cả ba bằng <i>I advise you to…</i> để thấy hai cấu trúc khác nhau."
+          ]
+        }
+      ]
+    }
+  ]
+}

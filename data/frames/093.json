@@ -1,0 +1,499 @@
+{
+  "id": 93,
+  "group": "Nhóm 10 · Kể chuyện, Kế hoạch & Thời gian",
+  "title": "I used to… — Chuyện ngày xưa, giờ không còn",
+  "subtitle": "Khung câu kể về thói quen hoặc trạng thái trong quá khứ mà nay đã chấm dứt. Ba bẫy: phủ định là didn't USE to (không có chữ d), không có dạng hiện tại, và đừng lẫn với be used to + V-ing vốn nghĩa hoàn toàn khác.",
+  "pattern": [
+    "I used to <em>+ V trần</em>.",
+    "I didn't use to <em>+ V trần</em>.",
+    "Did you use to <em>+ V trần</em>?"
+  ],
+  "meaning": "Trước đây tôi hay… (giờ không còn)",
+  "grammar": [3, 4, 5, 9],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "didn't USE to (không có d)" },
+    { "text": "Không có dạng hiện tại" },
+    { "text": "Trình độ: A2–B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I used to…</span> kể về một điều <b>đúng trong quá khứ nhưng giờ không còn</b>. Chính vế “giờ không còn” mới là phần quan trọng — đó là lý do người ta chọn khung này thay vì thì quá khứ đơn." },
+        { "t": "callout", "html": "<b>Sức mạnh nằm ở ý ngầm:</b> nói <i>I used to smoke</i> thì người nghe hiểu ngay <b>giờ bạn đã bỏ</b> — bạn không cần nói thêm câu nào. Nói <i>I smoked</i> thì chỉ là một sự việc trong quá khứ, không hàm ý gì." },
+        { "t": "p", "html": "Khung này dùng được cho <b>cả thói quen lẫn trạng thái</b>: <i>I used to walk to school</i> (thói quen) và <i>I used to have long hair</i> (trạng thái). Đây là ưu thế của nó so với <i>would</i>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — phủ định và câu hỏi:</b> <i>I <b>didn't use to</b> like it</i> ✓ và <i>Did you <b>use to</b> live here?</i> ✓ — <b>KHÔNG có chữ d</b>. Vì <i>did</i> đã mang dấu quá khứ rồi. Viết <i>didn't used to</i> là lỗi rất phổ biến." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI:</b> <i>used to</i> <b>không có dạng hiện tại</b>. Muốn nói thói quen bây giờ thì dùng <i>usually</i>: <i>I <b>usually</b> walk to work</i> ✓ — <i>I use to walk to work</i> ✗." },
+        { "t": "h3", "text": "Ba cấu trúc nghe giống nhau" },
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>used to + V trần</code>", "Ngày xưa hay làm, giờ không", "I used to smoke."],
+            ["<code>be used to + V-ing</code>", "Đã quen với. Xem [Khung 86]", "I'm used to working late."],
+            ["<code>get used to + V-ing</code>", "Đang quen dần với", "I'm getting used to it."],
+            ["<code>usually + V</code>", "Thói quen HIỆN TẠI", "I usually walk to work."]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🚬", "title": "Kể về thói quen đã bỏ", "text": "<i>I used to smoke.</i> Người nghe hiểu ngay là giờ đã bỏ." },
+            { "icon": "🏠", "title": "Nơi từng sống", "text": "<i>I used to live in Hanoi.</i>" },
+            { "icon": "💇", "title": "Ngoại hình ngày xưa", "text": "<i>I used to have long hair.</i>" },
+            { "icon": "😅", "title": "Sở thích đã đổi", "text": "<i>I didn't use to like coffee.</i>" },
+            { "icon": "🗣️", "title": "Hỏi về quá khứ của ai", "text": "<i>Did you use to work there?</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Nói thói quen hiện tại. Lúc đó là <i>I usually…</i>, không phải <i>I use to…</i>" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Khẳng định", "<code>I used to + V trần.</code>", "I used to live in Hanoi."],
+            ["Phủ định", "<code>I didn't use to + V.</code>", "I didn't use to like it."],
+            ["Câu hỏi", "<code>Did you use to + V?</code>", "Did you use to work there?"],
+            ["Phủ định trang trọng", "<code>I never used to + V.</code>", "I never used to worry."],
+            ["Thói quen lặp lại", "<code>I would + V.</code>", "Every summer we would swim."],
+            ["Thói quen hiện tại", "<code>I usually + V.</code>", "I usually walk to work."],
+            ["Đã quen với", "<code>I'm used to + V-ing.</code>", "I'm used to working late."],
+            ["Đang quen dần", "<code>I'm getting used to + V-ing.</code>", "I'm getting used to it."],
+            ["Nhấn tương phản", "<code>I used to…, but now…</code>", "I used to smoke, but now I don't."],
+            ["Hỏi lại ngạc nhiên", "<code>You used to…?</code>", "You used to play football?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Về <i>would</i>:</b> nó thay được <i>used to</i> cho <b>HÀNH ĐỘNG lặp lại</b> (<i>Every summer we <b>would</b> swim in the lake</i> ✓) nhưng <b>không dùng được cho TRẠNG THÁI</b>: <i>I would live in Hanoi</i> ✗, <i>I would have long hair</i> ✗." },
+        { "t": "callout", "html": "<b>Mẹo viết cho chắc:</b> hễ trong câu đã có <b>did/didn't</b> thì viết <b>use to</b> (không d). Không có <i>did</i> thì viết <b>used to</b> (có d). Quy tắc này không có ngoại lệ." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các dạng của “used to”",
+              "items": [
+                { "w": "I used to live", "vi": "trước đây tôi sống", "ex": "I used to live in Hanoi.", "exvi": "Trước đây tôi sống ở Hà Nội.", "note": "Người nghe hiểu ngay là GIỜ KHÔNG CÒN sống ở đó nữa." },
+                { "w": "I used to work", "vi": "trước đây tôi làm", "ex": "I used to work in a bank.", "exvi": "Trước đây tôi làm ngân hàng." },
+                { "w": "I used to smoke", "vi": "trước đây tôi hút thuốc", "ex": "I used to smoke, but I quit.", "exvi": "Trước tôi hút thuốc, nhưng tôi bỏ rồi." },
+                { "w": "I used to have", "vi": "trước đây tôi có", "ex": "I used to have long hair.", "exvi": "Trước đây tóc tôi dài.", "note": "Dùng được cho TRẠNG THÁI — điều mà <i>would</i> không làm được." },
+                { "w": "I didn't use to", "vi": "trước đây tôi không", "ex": "I didn't use to like coffee.", "exvi": "Trước đây tôi không thích cà phê.", "note": "BẪY SỐ MỘT: <b>use</b> không có chữ d, vì <i>did</i> đã mang dấu quá khứ rồi." },
+                { "w": "Did you use to…?", "vi": "trước đây bạn có… không?", "ex": "Did you use to work there?", "exvi": "Trước đây bạn làm ở đó à?", "note": "Cũng bỏ chữ d: <i>Did you used to</i> ✗." },
+                { "w": "I never used to", "vi": "trước đây tôi chưa bao giờ", "ex": "I never used to worry about it.", "exvi": "Trước đây tôi chưa bao giờ lo về chuyện đó.", "note": "Ở đây CÓ chữ d vì không có <i>did</i> trong câu." },
+                { "w": "I used to be", "vi": "trước đây tôi từng là", "ex": "I used to be quite shy.", "exvi": "Trước đây tôi khá nhút nhát." },
+                { "w": "We used to go", "vi": "chúng tôi hay đi", "ex": "We used to go every summer.", "exvi": "Hè nào chúng tôi cũng đi." },
+                { "w": "It used to be", "vi": "nơi đó từng là", "ex": "It used to be a cinema.", "exvi": "Chỗ đó từng là rạp chiếu phim." },
+                { "w": "You used to…?", "vi": "bạn từng… à?", "ex": "You used to play football?", "exvi": "Bạn từng đá bóng à?", "note": "Hỏi lại tỏ ý NGẠC NHIÊN — giữ nguyên trật tự, chỉ lên giọng cuối câu." },
+                { "w": "I used to think", "vi": "trước tôi cứ tưởng", "ex": "I used to think it was easy.", "exvi": "Trước tôi cứ tưởng chuyện đó dễ.", "note": "Cụm rất hay khi kể lại một hiểu lầm đã được sửa." }
+              ]
+            },
+            {
+              "title": "Cấu trúc dễ nhầm & từ thay thế",
+              "items": [
+                { "w": "I'm used to + V-ing", "vi": "tôi đã quen với", "ex": "I'm used to working late.", "exvi": "Tôi quen làm khuya rồi.", "note": "KHÁC HẲN: có <b>be</b> và theo sau là <b>V-ing</b>. Nghĩa là ĐÃ QUEN, không phải quá khứ. Xem [Khung 86]." },
+                { "w": "I'm getting used to", "vi": "tôi đang quen dần", "ex": "I'm getting used to the noise.", "exvi": "Tôi đang quen dần với tiếng ồn." },
+                { "w": "I usually", "vi": "tôi thường", "ex": "I usually walk to work.", "exvi": "Tôi thường đi bộ đi làm.", "note": "BẪY SỐ HAI: thói quen HIỆN TẠI dùng <i>usually</i>. <i>I use to walk</i> ✗." },
+                { "w": "would (thói quen cũ)", "vi": "hồi đó hay", "ex": "Every summer we would swim.", "exvi": "Hè nào chúng tôi cũng đi bơi.", "note": "Chỉ thay được cho HÀNH ĐỘNG lặp lại. <i>I would live in Hanoi</i> ✗." },
+                { "w": "back then", "vi": "hồi đó", "ex": "Back then, everything was cheaper.", "exvi": "Hồi đó mọi thứ rẻ hơn." },
+                { "w": "in those days", "vi": "hồi ấy", "ex": "In those days we had no phones.", "exvi": "Hồi ấy chúng tôi không có điện thoại." },
+                { "w": "when I was younger", "vi": "hồi tôi còn trẻ", "ex": "When I was younger, I used to run.", "exvi": "Hồi trẻ tôi hay chạy bộ." },
+                { "w": "not anymore", "vi": "giờ thì không nữa", "ex": "I used to, but not anymore.", "exvi": "Trước thì có, giờ thì không.", "note": "Câu đáp rất gọn — nhấn đúng vào ý ngầm của <i>used to</i>." },
+                { "w": "I still do", "vi": "giờ tôi vẫn thế", "ex": "I still do, actually.", "exvi": "Thật ra giờ tôi vẫn vậy.", "note": "Dùng khi muốn đính chính rằng thói quen đó CHƯA chấm dứt." },
+                { "w": "I gave it up", "vi": "tôi đã bỏ", "ex": "I gave it up two years ago.", "exvi": "Tôi bỏ cách đây hai năm.", "note": "<b>give up</b> = từ bỏ. Hay đi kèm khi kể chuyện bỏ thói quen." },
+                { "w": "I grew out of it", "vi": "lớn lên tôi hết thích", "ex": "I grew out of it.", "exvi": "Lớn lên tôi hết thích rồi.", "note": "Thành ngữ — nghĩa là sở thích tự nhiên mất đi theo tuổi." },
+                { "w": "things have changed", "vi": "mọi thứ đã khác", "ex": "Things have changed a lot.", "exvi": "Mọi thứ đã khác nhiều." }
+              ]
+            },
+            {
+              "title": "Phản ứng & nối tiếp câu chuyện",
+              "items": [
+                { "w": "Really?", "vi": "thật à?", "ex": "Really? I had no idea.", "exvi": "Thật à? Mình không biết đấy." },
+                { "w": "I had no idea", "vi": "mình không biết đấy", "ex": "I had no idea!", "exvi": "Mình hoàn toàn không biết!" },
+                { "w": "What made you stop?", "vi": "sao bạn dừng lại?", "ex": "What made you stop?", "exvi": "Điều gì khiến bạn dừng lại?", "note": "Câu hỏi tiếp rất tự nhiên sau một câu <i>used to</i>." },
+                { "w": "Do you miss it?", "vi": "bạn có nhớ không?", "ex": "Do you miss it?", "exvi": "Bạn có nhớ chuyện đó không?" },
+                { "w": "Not at all", "vi": "không hề", "ex": "Not at all, honestly.", "exvi": "Thật lòng là không hề." },
+                { "w": "A little, yes", "vi": "cũng có chút", "ex": "A little, yes.", "exvi": "Ừ, cũng có chút." },
+                { "w": "Me too", "vi": "tôi cũng vậy", "ex": "Me too, back in the day.", "exvi": "Mình cũng vậy, hồi xưa ấy." },
+                { "w": "Same here", "vi": "mình cũng thế", "ex": "Same here.", "exvi": "Mình cũng thế." },
+                { "w": "How long for?", "vi": "trong bao lâu?", "ex": "How long for?", "exvi": "Trong bao lâu vậy?" },
+                { "w": "That was ages ago", "vi": "lâu lắm rồi", "ex": "That was ages ago.", "exvi": "Chuyện đó lâu lắm rồi." },
+                { "w": "Good times", "vi": "thời hoàng kim", "ex": "Good times.", "exvi": "Thời hoàng kim.", "note": "Câu hoài niệm rất ngắn gọn, nghe rất bản xứ." },
+                { "w": "I don't regret it", "vi": "tôi không hối hận", "ex": "I don't regret it at all.", "exvi": "Tôi chẳng hối hận chút nào." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I used to work in a bank.",
+                  "vi": "Trước đây tôi làm ngân hàng.",
+                  "note": "Người nghe hiểu ngay là GIỜ KHÔNG CÒN làm ở đó. Đó là sức mạnh của khung này.",
+                  "open": { "en": "How did you get into this line of work?", "vi": "Anh/chị vào nghề này thế nào?" },
+                  "reply": [
+                    { "them": "Really? What made you leave?", "themvi": "Thật à? Sao anh/chị nghỉ?", "you": "The hours, mostly.", "youvi": "Chủ yếu là giờ giấc." },
+                    { "them": "Do you miss it?", "themvi": "Anh/chị có nhớ không?", "you": "Not at all, honestly.", "youvi": "Thật lòng là không hề." }
+                  ],
+                  "close": { "en": "This suits me much better.", "vi": "Việc này hợp với tôi hơn nhiều." }
+                },
+                {
+                  "en": "I didn't use to enjoy presenting.",
+                  "vi": "Trước đây tôi không thích thuyết trình.",
+                  "note": "BẪY SỐ MỘT: <b>use</b> không có chữ d khi trong câu đã có <i>didn't</i>.",
+                  "reply": [
+                    { "them": "You'd never know now.", "themvi": "Giờ thì chẳng ai đoán được.", "you": "Practice, that's all.", "youvi": "Luyện tập thôi mà." }
+                  ],
+                  "vars": [
+                    { "en": "I never used to enjoy presenting.", "vi": "Trước đây tôi chưa bao giờ thích thuyết trình." }
+                  ]
+                },
+                {
+                  "en": "Did you use to work with her?",
+                  "vi": "Trước đây anh/chị từng làm với cô ấy à?",
+                  "note": "Câu hỏi cũng bỏ chữ d: <i>Did you used to</i> ✗.",
+                  "reply": [
+                    { "them": "For about three years, yes.", "themvi": "Khoảng ba năm, đúng rồi.", "you": "She speaks very highly of you.", "youvi": "Cô ấy nhắc đến anh/chị rất tốt." }
+                  ]
+                },
+                {
+                  "en": "I'm used to working late now.",
+                  "vi": "Giờ tôi quen làm khuya rồi.",
+                  "note": "KHÁC HẲN: có <b>be</b> + <b>V-ing</b> = ĐÃ QUEN, không phải quá khứ. Đặt cạnh <i>I used to work late</i> để thấy rõ.",
+                  "reply": [
+                    { "them": "That's not necessarily a good thing.", "themvi": "Chưa chắc đã là chuyện tốt đâu.", "you": "Fair point.", "youvi": "Anh/chị nói cũng đúng." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I used to live in Hanoi.",
+                  "vi": "Trước đây mình sống ở Hà Nội.",
+                  "note": "Dùng được cho TRẠNG THÁI. Không thay bằng <i>would</i> được: <i>I would live in Hanoi</i> ✗.",
+                  "reply": [
+                    { "them": "How long for?", "themvi": "Trong bao lâu?", "you": "Nearly ten years.", "youvi": "Gần mười năm." },
+                    { "them": "Do you go back much?", "themvi": "Bạn có hay về không?", "you": "Once a year, if I can.", "youvi": "Mỗi năm một lần nếu được." }
+                  ],
+                  "close": { "en": "It's changed a lot since then.", "vi": "Từ đó đến giờ thay đổi nhiều lắm." }
+                },
+                {
+                  "en": "I used to have long hair.",
+                  "vi": "Trước đây tóc mình dài.",
+                  "note": "TRẠNG THÁI, không phải hành động — đây là lúc <i>would</i> không dùng được.",
+                  "reply": [
+                    { "them": "Really? I had no idea.", "themvi": "Thật à? Mình không biết đấy.", "you": "I'll show you a photo.", "youvi": "Để mình cho bạn xem ảnh." }
+                  ]
+                },
+                {
+                  "en": "I used to smoke, but I gave it up two years ago.",
+                  "vi": "Trước mình hút thuốc, nhưng bỏ cách đây hai năm.",
+                  "note": "Mẫu <i>used to…, but…</i> làm rõ hẳn vế tương phản. <b>give up</b> = từ bỏ.",
+                  "reply": [
+                    { "them": "Well done. Was it hard?", "themvi": "Giỏi đấy. Có khó không?", "you": "The first month was.", "youvi": "Tháng đầu thì khó." }
+                  ],
+                  "vars": [
+                    { "en": "I used to, but not anymore.", "vi": "Trước thì có, giờ thì không." }
+                  ]
+                },
+                {
+                  "en": "I usually walk to work these days.",
+                  "vi": "Dạo này mình thường đi bộ đi làm.",
+                  "note": "BẪY SỐ HAI: thói quen HIỆN TẠI dùng <b>usually</b>. <i>I use to walk</i> ✗ — không có dạng hiện tại.",
+                  "reply": [
+                    { "them": "How far is it?", "themvi": "Xa không?", "you": "About twenty minutes.", "youvi": "Khoảng hai mươi phút." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "We used to go there every summer.",
+                  "vi": "Hè nào nhà mình cũng đến đó.",
+                  "note": "Hành động lặp lại nên thay được bằng <i>would</i>: <i>Every summer we <b>would</b> go there</i> ✓.",
+                  "reply": [
+                    { "them": "That sounds idyllic.", "themvi": "Nghe thanh bình quá.", "you": "Good times.", "youvi": "Thời hoàng kim." }
+                  ],
+                  "close": { "en": "I should take the kids one day.", "vi": "Mình nên đưa bọn trẻ đi một ngày nào đó." }
+                },
+                {
+                  "en": "It used to be a cinema.",
+                  "vi": "Chỗ đó từng là rạp chiếu phim.",
+                  "note": "<i>It used to be</i> — cách kể một nơi đã đổi công năng, rất tự nhiên khi đi dạo phố.",
+                  "reply": [
+                    { "them": "You'd never guess now.", "themvi": "Giờ thì chẳng đoán ra được.", "you": "Things have changed a lot.", "youvi": "Mọi thứ thay đổi nhiều rồi." }
+                  ]
+                },
+                {
+                  "en": "Did you use to travel much for work?",
+                  "vi": "Trước đây bạn có hay đi công tác không?",
+                  "reply": [
+                    { "them": "Constantly. I don't miss it.", "themvi": "Liên tục luôn. Mình chẳng nhớ đâu.", "you": "I can imagine.", "youvi": "Mình hình dung được." }
+                  ],
+                  "vars": [
+                    { "en": "Did you use to fly a lot?", "vi": "Trước bạn có hay bay không?" }
+                  ]
+                },
+                {
+                  "en": "I never used to get travel sick.",
+                  "vi": "Trước đây mình chưa bao giờ bị say xe.",
+                  "note": "Ở đây CÓ chữ d vì trong câu không có <i>did</i>. Quy tắc: có <i>did</i> thì bỏ d.",
+                  "reply": [
+                    { "them": "It happens as you get older.", "themvi": "Lớn tuổi rồi hay bị thế.", "you": "Don't say that!", "youvi": "Đừng nói vậy chứ!" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I didn't use to like coffee.",
+                  "vi": "Trước đây mình không thích cà phê.",
+                  "note": "BẪY SỐ MỘT: <b>use</b> không d. Viết <i>didn't used to</i> là lỗi rất phổ biến, kể cả với người bản xứ.",
+                  "reply": [
+                    { "them": "What changed?", "themvi": "Sao lại đổi?", "you": "Working nights, mostly.", "youvi": "Chủ yếu vì làm ca đêm." }
+                  ],
+                  "close": { "en": "Now I can't start without it.", "vi": "Giờ không có nó là không dậy nổi." }
+                },
+                {
+                  "en": "I used to eat out every night.",
+                  "vi": "Trước mình ăn ngoài mỗi tối.",
+                  "reply": [
+                    { "them": "That must have cost a fortune.", "themvi": "Chắc tốn khối tiền.", "you": "That's exactly why I stopped.", "youvi": "Chính vì thế mà mình dừng." }
+                  ]
+                },
+                {
+                  "en": "This place used to be much cheaper.",
+                  "vi": "Quán này trước rẻ hơn nhiều.",
+                  "reply": [
+                    { "them": "Everything used to be cheaper.", "themvi": "Cái gì trước cũng rẻ hơn mà.", "you": "Back then, yes.", "youvi": "Hồi đó thì đúng." }
+                  ],
+                  "vars": [
+                    { "en": "It didn't use to be this expensive.", "vi": "Trước đâu có đắt thế này." }
+                  ]
+                },
+                {
+                  "en": "I used to think cooking was hard.",
+                  "vi": "Trước mình cứ tưởng nấu ăn khó lắm.",
+                  "note": "<b>I used to think</b> — cụm rất hay khi kể lại một hiểu lầm nay đã được sửa.",
+                  "reply": [
+                    { "them": "And now?", "themvi": "Còn giờ thì sao?", "you": "Now I quite enjoy it.", "youvi": "Giờ mình khá thích." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "You used to sell these, didn't you?",
+                  "vi": "Trước bên em có bán mấy cái này đúng không?",
+                  "reply": [
+                    { "them": "We did, but not anymore.", "themvi": "Trước có ạ, giờ thì không.", "you": "That's a shame.", "youvi": "Tiếc thật. Xem [Khung 89]." }
+                  ]
+                },
+                {
+                  "en": "This shop used to be on the other side of the road.",
+                  "vi": "Cửa hàng này trước ở bên kia đường.",
+                  "note": "<i>used to be</i> + nơi chốn — kể chuyện thay đổi của một địa điểm.",
+                  "reply": [
+                    { "them": "We moved three years ago.", "themvi": "Bên em chuyển cách đây ba năm ạ.", "you": "It's much bigger now.", "youvi": "Giờ rộng hơn nhiều." }
+                  ]
+                },
+                {
+                  "en": "I used to come here all the time.",
+                  "vi": "Trước tôi hay đến đây lắm.",
+                  "reply": [
+                    { "them": "Welcome back, then!", "themvi": "Vậy thì mừng anh/chị quay lại ạ!", "you": "It's good to see it's still here.", "youvi": "Mừng là quán vẫn còn." }
+                  ],
+                  "vars": [
+                    { "en": "I would come here every week.", "vi": "Tuần nào tôi cũng đến đây." }
+                  ]
+                },
+                {
+                  "en": "I'm getting used to the new layout.",
+                  "vi": "Tôi đang quen dần với cách bày mới.",
+                  "note": "<b>getting used to + V-ing/danh từ</b> = ĐANG QUEN DẦN. Không liên quan gì đến quá khứ.",
+                  "reply": [
+                    { "them": "Most people say that.", "themvi": "Nhiều khách cũng nói vậy ạ.", "you": "Give me a month.", "youvi": "Cho tôi một tháng." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Kể về công việc cũ trong bữa tiệc",
+          "lines": [
+            { "speaker": "Guest", "en": "How did you get into this line of work?", "vi": "Anh/chị vào nghề này thế nào?" },
+            { "speaker": "You", "me": true, "en": "By accident, really. I used to work in a bank.", "vi": "Thật ra là tình cờ. Trước tôi làm ngân hàng." },
+            { "speaker": "Guest", "en": "Really? What made you leave?", "vi": "Thật à? Sao anh/chị nghỉ?" },
+            { "speaker": "You", "me": true, "en": "The hours. I didn't use to see my family at all.", "vi": "Giờ giấc. Hồi đó tôi gần như không gặp được gia đình." },
+            { "speaker": "Guest", "en": "Do you miss it?", "vi": "Anh/chị có nhớ không?" },
+            { "speaker": "You", "me": true, "en": "Not at all. I'm used to a normal life now.", "vi": "Không hề. Giờ tôi quen với cuộc sống bình thường rồi." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Đi ngang qua khu phố cũ với bạn",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "That building used to be a cinema.", "vi": "Tòa nhà kia từng là rạp chiếu phim." },
+            { "speaker": "Friend", "en": "Really? You'd never guess.", "vi": "Thật à? Chẳng đoán ra nổi." },
+            { "speaker": "You", "me": true, "en": "We used to come every Saturday when I was younger.", "vi": "Hồi trẻ tuần nào thứ Bảy bọn mình cũng đến." },
+            { "speaker": "Friend", "en": "Did you use to live around here?", "vi": "Trước bạn sống quanh đây à?" },
+            { "speaker": "You", "me": true, "en": "Just round the corner. Things have changed a lot.", "vi": "Ngay góc kia thôi. Mọi thứ thay đổi nhiều rồi." },
+            { "speaker": "Friend", "en": "Good times, though.", "vi": "Nhưng mà thời hoàng kim nhỉ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I <b>didn't used to</b> like it.", "right": "I <b>didn't use to</b> like it.", "why": "BẪY SỐ MỘT: <i>did</i> đã mang dấu quá khứ rồi nên <b>use</b> bỏ chữ d. Quy tắc: có <i>did</i> thì không có d." },
+            { "wrong": "<b>Did you used to</b> work there?", "right": "<b>Did you use to</b> work there?", "why": "Cùng luật cho câu hỏi. Chỉ <i>did</i> mang dấu quá khứ." },
+            { "wrong": "I <b>use to</b> walk to work. <i>(ý: hiện tại)</i>", "right": "I <b>usually</b> walk to work.", "why": "BẪY SỐ HAI: <i>used to</i> KHÔNG có dạng hiện tại. Thói quen bây giờ dùng <b>usually</b>." },
+            { "wrong": "I used to <b>working</b> late. <i>(ý: ngày xưa hay làm)</i>", "right": "I used to <b>work</b> late.", "why": "Sau <i>used to</i> là ĐỘNG TỪ TRẦN. Có <i>V-ing</i> thì phải thêm <b>be</b>: <i>I'm used to working</i>, nghĩa khác hẳn." },
+            { "wrong": "I <b>would live</b> in Hanoi.", "right": "I <b>used to live</b> in Hanoi.", "why": "<i>would</i> chỉ thay được cho HÀNH ĐỘNG lặp lại, không dùng cho TRẠNG THÁI như <i>live, have, be, know</i>." },
+            { "wrong": "I'm <b>used to work</b> late. <i>(ý: tôi đã quen)</i>", "right": "I'm <b>used to working</b> late.", "why": "Đã có <i>be</i> thì phải là <b>V-ing</b>. Đây là cặp dễ nhầm nhất của cả khung. Xem [Khung 86]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>used to + V trần</code>", "Ngày xưa hay làm, giờ không còn", "I used to smoke."],
+            ["<code>didn't use to + V</code>", "Ngày xưa không, giờ thì có", "I didn't use to like coffee."],
+            ["<code>be used to + V-ing</code>", "Đã quen với. Xem [Khung 86]", "I'm used to working late."],
+            ["<code>get used to + V-ing</code>", "Đang quen dần với", "I'm getting used to it."],
+            ["<code>usually + V</code>", "Thói quen HIỆN TẠI", "I usually walk to work."],
+            ["<code>would + V</code>", "Hành động lặp lại trong quá khứ", "Every summer we would swim."],
+            ["<code>Quá khứ đơn</code>", "Sự việc quá khứ, không hàm ý gì", "I smoked for ten years."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ của một thói quen cũ" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I tried it once.", "vi": "Nhạt nhất — chỉ một lần" },
+            { "en": "I used to do it sometimes.", "vi": "Thỉnh thoảng" },
+            { "en": "I used to do it a lot.", "vi": "Thường xuyên" },
+            { "en": "I used to do it every single day.", "vi": "Ngày nào cũng làm" },
+            { "en": "I couldn't get through a day without it.", "vi": "Mạnh nhất — không thể thiếu" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>used to</b> đọc là <b>“YUUS-tə”</b> với âm /s/, KHÔNG phải /z/. Khác hẳn động từ <i>used</i> (/juːzd/) trong <i>I used a pen</i>.",
+            "<b>Hai âm /d/ và /t/ gộp làm một</b>: không đọc “yuuzd-tuu” mà là một khối “YUUS-tə”.",
+            "<b>didn't use to</b> → <b>“DID-ən-YUUS-tə”</b>, âm /t/ của <i>didn't</i> gần như biến mất.",
+            "<b>Trọng âm rơi vào ĐỘNG TỪ phía sau</b>: “yuus-tə-<b>LIV</b>-in-hə-NOI”.",
+            "<b>I'm used to</b> (đã quen) đọc y hệt <b>“am-YUUS-tə”</b> — chỉ phân biệt được nhờ chữ <i>am</i> và đuôi <i>-ing</i> phía sau.",
+            "<b>Giọng đi xuống ở cuối</b> khi kể chuyện xưa — đây là câu hồi tưởng, không phải câu hỏi."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I used to live in Hanoi.", "vi": "Luyện shadowing: “ai-YUUS-tə-LIV-in-hə-NOI”, chú ý âm /s/ chứ không phải /z/." },
+            { "en": "I didn't use to like coffee.", "vi": "Tập nuốt /t/ ở didn't và gộp thành “DID-ən-YUUS-tə”." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Trước đây tôi sống ở Hà Nội.", "blank": "I used to __________ in Hanoi.", "a": "live (động từ trần)" },
+            { "vi": "Trước đây tôi không thích cà phê.", "blank": "I didn't __________ to like coffee.", "a": "use (không có chữ d)" },
+            { "vi": "Trước đây bạn làm ở đó à?", "blank": "Did you __________ to work there?", "a": "use (không có chữ d)" },
+            { "vi": "Tôi thường đi bộ đi làm.", "blank": "I __________ walk to work.", "a": "usually (thói quen hiện tại)" },
+            { "vi": "Tôi quen làm khuya rồi.", "blank": "I'm used to __________ late.", "a": "working (có “be” thì dùng V-ing)" },
+            { "vi": "Trước đây tôi chưa bao giờ lo về chuyện đó.", "blank": "I never __________ to worry about it.", "a": "used (có d, vì không có “did”)" },
+            { "vi": "Hè nào chúng tôi cũng đi bơi.", "blank": "Every summer we __________ swim.", "a": "would (hành động lặp lại)" },
+            { "vi": "Tôi đang quen dần với nó.", "blank": "I'm __________ used to it.", "a": "getting" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Trước đây tôi làm ngân hàng.", "a": "I used to work in a bank." },
+            { "vi": "2. Trước đây mình không thích cà phê.", "a": "I didn't use to like coffee." },
+            { "vi": "3. Trước mình hút thuốc, nhưng bỏ cách đây hai năm.", "a": "I used to smoke, but I gave it up two years ago." },
+            { "vi": "4. Trước đây anh/chị từng làm với cô ấy à?", "a": "Did you use to work with her?" },
+            { "vi": "5. Giờ tôi quen làm khuya rồi.", "a": "I'm used to working late now." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Quy tắc không ngoại lệ:</b> trong câu đã có <i>did/didn't</i> thì viết <b>use to</b>; không có <i>did</i> thì viết <b>used to</b>.",
+            "<b>Không có dạng hiện tại.</b> Thói quen bây giờ là <i>usually</i>, không bao giờ là <i>I use to</i>.",
+            "<b>Cặp phải thuộc lòng:</b> <i>I used to work late</i> (ngày xưa hay) vs <i>I'm used to working late</i> (đã quen). Xem [Khung 86].",
+            "<b><i>would</i> chỉ thay được cho hành động lặp lại</b>, không dùng cho trạng thái: <i>I would live there</i> ✗.",
+            "<b>Đọc là “YUUS-tə” với âm /s/</b>, không phải /z/ — chi tiết nhỏ này làm câu nghe bản xứ hẳn.",
+            "<b>Bài tập 3 phút:</b> viết năm câu về chính bạn mười năm trước — ba câu <i>used to</i>, hai câu <i>didn't use to</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

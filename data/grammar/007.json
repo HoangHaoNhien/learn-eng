@@ -1,0 +1,277 @@
+{
+  "id": 7,
+  "group": "Nhóm 4 · Thì hoàn thành",
+  "title": "for · since · yet · already · just",
+  "subtitle": "Năm từ nhỏ quyết định câu hoàn thành của bạn nghe đúng hay sai. Hai bẫy lớn: tiếng Việt dùng chung một chữ từ cho cả for và since nên ta hay nói since three years ✗; và yet thì chỉ sống ở cuối câu phủ định hoặc câu hỏi.",
+  "meaning": "Nhóm từ đi kèm thì hoàn thành — chỉ khoảng thời gian, mốc thời gian và trạng thái hoàn tất",
+  "rule": [
+    "<em>for</em> + khoảng thời gian · <em>since</em> + mốc thời gian",
+    "have <em>just / already</em> + V3",
+    "haven't + V3 + <em>yet</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2–B1", "hot": true },
+    { "text": "for = bao lâu · since = từ khi nào" },
+    { "text": "yet luôn ở cuối câu" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [72, 77, 94, 95, 99],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Thì hoàn thành gần như không bao giờ đi một mình — nó kéo theo một nhóm từ nhỏ làm rõ <b>bao lâu</b>, <b>từ khi nào</b>, và <b>đã xong hay chưa</b>. Dùng sai nhóm từ này thì câu đúng ngữ pháp vẫn nghe sai." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — <i>for</i> hay <i>since</i>:</b><br>• <b>for</b> + <b>KHOẢNG</b> thời gian → trả lời “bao <b>lâu</b>?” — <i>for three years, for an hour</i><br>• <b>since</b> + <b>MỐC</b> thời gian → trả lời “từ <b>khi nào</b>?” — <i>since 2020, since Monday</i><br>Tiếng Việt dùng chung chữ “từ” cho cả hai nên <i>since three years</i> ✗ là lỗi cực phổ biến." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — chỗ đứng của từng từ:</b> <b>just</b> và <b>already</b> nằm <b>giữa</b> <i>have</i> và V3; <b>yet</b> nằm ở <b>CUỐI</b> câu và chỉ dùng trong <b>phủ định hoặc câu hỏi</b>. <i>I have yet finished</i> ✗ — <i>I haven't finished <b>yet</b></i> ✓." },
+        { "t": "h3", "text": "Năm từ, năm chỗ đứng" },
+        {
+          "t": "table",
+          "head": ["Từ", "Dùng trong câu", "Vị trí"],
+          "rows": [
+            ["<code>for / since</code>", "Mọi loại câu", "CUỐI câu, sau động từ"],
+            ["<code>just</code>", "Khẳng định — vừa mới xong", "Giữa <i>have</i> và V3"],
+            ["<code>already</code>", "Khẳng định — xong sớm hơn dự kiến", "Giữa <i>have</i> và V3"],
+            ["<code>yet</code>", "Phủ định và câu hỏi", "CUỐI câu"]
+          ]
+        },
+        { "t": "p", "html": "Thêm một từ thứ sáu rất hữu ích: <b>still</b>. Nó đứng <b>trước</b> <i>haven't</i> và nghe <b>sốt ruột</b> hơn hẳn <i>yet</i>: <i>I <b>still</b> haven't heard back</i> = vẫn chưa thấy hồi âm, và tôi đang bực." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Khoảng thời gian", "<code>have + V3 + for + khoảng</code>", "I've lived here for ten years."],
+            ["Mốc thời gian", "<code>have + V3 + since + mốc</code>", "I've lived here since 2015."],
+            ["Since + cả mệnh đề", "<code>since + S + V2</code>", "…since I moved here."],
+            ["Hỏi thời lượng", "<code>How long have you + V3?</code>", "How long have you lived here?"],
+            ["Vừa mới xong", "<code>have just + V3</code>", "I've just finished."],
+            ["Nhấn mạnh sự mới", "<code>have only just + V3</code>", "I've only just arrived."],
+            ["Đã xong rồi", "<code>have already + V3</code>", "I've already sent it."],
+            ["Chưa xong", "<code>haven't + V3 + yet</code>", "I haven't finished yet."],
+            ["Đã… chưa?", "<code>Have + S + V3 + yet?</code>", "Have you eaten yet?"],
+            ["Vẫn chưa (sốt ruột)", "<code>still haven't + V3</code>", "I still haven't heard back."],
+            ["Phủ định + for", "<code>haven't + V3 + for ages</code>", "I haven't seen him for ages."],
+            ["Quá khứ đơn (có mốc)", "<code>V2 + ago</code>", "He left two hours ago."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dòng cuối là ranh giới:</b> <b>ago</b> luôn đi với <b>quá khứ đơn</b>, không bao giờ với thì hoàn thành. <i>He left two hours <b>ago</b></i> ✓ — <i>He has left two hours ago</i> ✗. Muốn dùng thì hoàn thành thì phải đổi thành <i>He has been gone <b>for</b> two hours</i>." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I've lived here for ten years.", "vi": "Tôi sống ở đây mười năm rồi.", "note": "<b>for</b> + KHOẢNG thời gian. Xem [Khung 94]." },
+            { "en": "I've lived here since 2015.", "vi": "Tôi sống ở đây từ năm 2015.", "note": "<b>since</b> + MỐC thời gian. Cùng một ý, hai cách nói." },
+            { "en": "I've been ill since Monday.", "vi": "Tôi ốm từ thứ Hai.", "note": "Thứ trong tuần là MỐC nên dùng <i>since</i>." },
+            { "en": "I've been travelling since I finished university.", "vi": "Tôi đi đây đi đó từ khi học xong đại học.", "note": "Sau <b>since</b> có thể là cả MỆNH ĐỀ chia ở QUÁ KHỨ ĐƠN." },
+            { "en": "How long have you lived here?", "vi": "Bạn sống ở đây bao lâu rồi?", "note": "Câu hỏi chung cho cả <i>for</i> lẫn <i>since</i>." },
+            { "en": "I've just finished the report.", "vi": "Tôi vừa làm xong báo cáo.", "note": "<b>just</b> đứng GIỮA <i>have</i> và V3. Xem [Khung 95]." },
+            { "en": "I've already sent it.", "vi": "Tôi gửi rồi.", "note": "<b>already</b> nhấn vào việc xong SỚM hơn người kia nghĩ." },
+            { "en": "I haven't finished yet.", "vi": "Tôi chưa xong.", "note": "<b>yet</b> ở CUỐI câu phủ định." },
+            { "en": "Have you eaten yet?", "vi": "Bạn ăn chưa?", "note": "<b>yet</b> cũng ở cuối câu hỏi." },
+            { "en": "I still haven't heard back from them.", "vi": "Tôi vẫn chưa nhận được hồi âm của họ.", "note": "<b>still</b> đứng TRƯỚC <i>haven't</i> — nghe sốt ruột hơn <i>yet</i>." },
+            { "en": "I haven't seen him for ages.", "vi": "Lâu lắm rồi tôi không gặp anh ấy.", "note": "<i>ages</i> = rất lâu. Câu chào gặp lại. Xem [Khung 77]." },
+            { "en": "He left two hours ago.", "vi": "Anh ấy đi cách đây hai tiếng.", "note": "<b>ago</b> đi với QUÁ KHỨ ĐƠN, không đi với thì hoàn thành." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "⏳", "title": "Nói thâm niên", "text": "<i>I've worked here for three years.</i> Xem [Khung 94]." },
+            { "icon": "📆", "title": "Nêu mốc bắt đầu", "text": "<i>I've been ill since Monday.</i> Nghe có sức nặng hơn." },
+            { "icon": "✅", "title": "Báo vừa xong việc", "text": "<i>I've just finished.</i> Xem [Khung 95]." },
+            { "icon": "⚡", "title": "Báo xong sớm hơn dự kiến", "text": "<i>I've already sent it.</i>" },
+            { "icon": "⏰", "title": "Nói việc chưa xong", "text": "<i>I haven't finished yet.</i> Dùng <i>still</i> nếu sốt ruột." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Câu có <i>ago</i>. Lúc đó là quá khứ đơn — xem [Ngữ pháp 03]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "for & since — khoảng và mốc",
+              "items": [
+                { "w": "for three years", "vi": "được ba năm", "ex": "I've worked here for three years.", "exvi": "Tôi làm ở đây ba năm rồi.", "note": "<b>for</b> + KHOẢNG thời gian — trả lời “bao lâu?”." },
+                { "w": "for an hour", "vi": "được một tiếng", "ex": "I've been waiting for an hour.", "exvi": "Tôi chờ một tiếng rồi." },
+                { "w": "for ages", "vi": "lâu lắm rồi", "ex": "I haven't seen him for ages.", "exvi": "Lâu lắm rồi tôi không gặp anh ấy.", "note": "<i>ages</i> = rất lâu. Rất khẩu ngữ. Xem [Khung 77]." },
+                { "w": "for a while", "vi": "một thời gian", "ex": "I've known her for a while.", "exvi": "Tôi quen cô ấy một thời gian rồi." },
+                { "w": "since 2015", "vi": "từ năm 2015", "ex": "I've lived here since 2015.", "exvi": "Tôi sống ở đây từ năm 2015.", "note": "<b>since</b> + MỐC thời gian — trả lời “từ khi nào?”." },
+                { "w": "since Monday", "vi": "từ thứ Hai", "ex": "I've been ill since Monday.", "exvi": "Tôi ốm từ thứ Hai." },
+                { "w": "since this morning", "vi": "từ sáng nay", "ex": "I've been here since this morning.", "exvi": "Tôi ở đây từ sáng nay." },
+                { "w": "since I moved here", "vi": "từ khi tôi chuyển đến", "ex": "I've been happier since I moved here.", "exvi": "Từ khi chuyển đến tôi vui hơn.", "note": "Sau <b>since</b> có thể là cả MỆNH ĐỀ chia ở QUÁ KHỨ ĐƠN." },
+                { "w": "ever since", "vi": "từ hồi đó đến giờ", "ex": "Ever since then, I've been careful.", "exvi": "Từ hồi đó đến giờ tôi cẩn thận hơn." },
+                { "w": "since three years ✗", "vi": "cụm sai kinh điển", "ex": "for three years ✓", "exvi": "được ba năm", "note": "BẪY SỐ MỘT: tiếng Việt dùng chung chữ “từ” nên rất dễ nhầm." },
+                { "w": "How long…?", "vi": "bao lâu rồi?", "ex": "How long have you lived here?", "exvi": "Bạn sống ở đây bao lâu rồi?", "note": "Câu hỏi chung cho cả hai — trả lời bằng <i>for</i> hoặc <i>since</i> đều được." },
+                { "w": "two hours ago", "vi": "cách đây hai tiếng", "ex": "He left two hours ago.", "exvi": "Anh ấy đi cách đây hai tiếng.", "note": "<b>ago</b> đi với QUÁ KHỨ ĐƠN, KHÔNG đi với thì hoàn thành." }
+              ]
+            },
+            {
+              "title": "just, already, yet, still",
+              "items": [
+                { "w": "just", "vi": "vừa mới", "ex": "I've just finished.", "exvi": "Tôi vừa xong.", "note": "Đứng GIỮA <i>have</i> và V3. Dùng trong câu khẳng định." },
+                { "w": "only just", "vi": "vừa mới đây thôi", "ex": "I've only just arrived.", "exvi": "Tôi vừa mới đến thôi.", "note": "Nhấn mạnh hơn <i>just</i> — ý là mới cực kỳ." },
+                { "w": "already", "vi": "đã… rồi", "ex": "I've already sent it.", "exvi": "Tôi gửi rồi.", "note": "Cũng đứng giữa <i>have</i> và V3. Nhấn vào việc xong SỚM hơn dự kiến." },
+                { "w": "Already?", "vi": "xong rồi á?", "ex": "Already? That was quick.", "exvi": "Xong rồi á? Nhanh thật.", "note": "Đứng một mình thành câu cảm thán ngạc nhiên." },
+                { "w": "yet (phủ định)", "vi": "chưa", "ex": "I haven't finished yet.", "exvi": "Tôi chưa xong.", "note": "BẪY SỐ HAI: luôn ở CUỐI câu, chỉ dùng trong phủ định và câu hỏi." },
+                { "w": "yet (câu hỏi)", "vi": "đã… chưa?", "ex": "Have you eaten yet?", "exvi": "Bạn ăn chưa?" },
+                { "w": "still haven't", "vi": "vẫn chưa", "ex": "I still haven't heard back.", "exvi": "Tôi vẫn chưa nhận được hồi âm.", "note": "<b>still</b> đứng TRƯỚC <i>haven't</i> — nghe sốt ruột hơn <i>yet</i>." },
+                { "w": "ever", "vi": "đã từng", "ex": "Have you ever been to Hue?", "exvi": "Bạn từng đến Huế chưa?", "note": "Dùng trong CÂU HỎI về kinh nghiệm, đứng giữa <i>have</i> và V3." },
+                { "w": "never", "vi": "chưa bao giờ", "ex": "I've never been there.", "exvi": "Tôi chưa từng đến đó.", "note": "Đã là phủ định — <i>I haven't never</i> ✗." },
+                { "w": "so far", "vi": "cho đến giờ", "ex": "So far, so good.", "exvi": "Đến giờ thì vẫn ổn." },
+                { "w": "recently / lately", "vi": "gần đây / dạo này", "ex": "I've been busy lately.", "exvi": "Dạo này tôi bận suốt.", "note": "Rộng hơn <i>just</i> — vài ngày hoặc vài tuần." },
+                { "w": "up until now", "vi": "cho đến giờ", "ex": "Up until now, it's been fine.", "exvi": "Cho đến giờ thì vẫn ổn." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I've lived here <b>since</b> ten years.", "right": "I've lived here <b>for</b> ten years.", "why": "BẪY SỐ MỘT: <b>for</b> + KHOẢNG thời gian. Tiếng Việt dùng chung chữ “từ” nên rất dễ nhầm." },
+            { "wrong": "I've lived here <b>for</b> 2015.", "right": "I've lived here <b>since</b> 2015.", "why": "Ngược lại: một năm cụ thể là MỐC, nên dùng <b>since</b>." },
+            { "wrong": "I have <b>yet</b> finished.", "right": "I haven't finished <b>yet</b>.", "why": "BẪY SỐ HAI: <b>yet</b> chỉ dùng trong phủ định và câu hỏi, và luôn đứng CUỐI câu." },
+            { "wrong": "I've <b>yet</b> eaten.", "right": "I've <b>already</b> eaten.", "why": "Câu khẳng định thì dùng <b>already</b>, đứng giữa <i>have</i> và V3." },
+            { "wrong": "I've finished <b>just</b>.", "right": "I've <b>just</b> finished.", "why": "<b>just</b> đứng GIỮA <i>have</i> và V3, không đứng cuối câu như <i>yet</i>." },
+            { "wrong": "He <b>has left</b> two hours ago.", "right": "He <b>left</b> two hours ago.", "why": "<b>ago</b> là mốc quá khứ nên đi với QUÁ KHỨ ĐƠN. Xem [Ngữ pháp 03]." },
+            { "wrong": "I <b>haven't never</b> been there.", "right": "I've <b>never</b> been there.", "why": "<i>never</i> đã mang nghĩa phủ định — không phủ định hai lần." },
+            { "wrong": "I've been waiting <b>since</b> an hour.", "right": "I've been waiting <b>for</b> an hour.", "why": "<i>an hour</i> là khoảng thời gian, không phải mốc." },
+            { "wrong": "I've been happier since I <b>have moved</b> here.", "right": "I've been happier since I <b>moved</b> here.", "why": "Sau <b>since</b> là mệnh đề chia ở QUÁ KHỨ ĐƠN, không phải thì hoàn thành." },
+            { "wrong": "I <b>haven't still</b> heard back.", "right": "I <b>still haven't</b> heard back.", "why": "<b>still</b> đứng TRƯỚC <i>haven't</i>, không đứng sau." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Từ", "Theo sau là", "Ví dụ"],
+          "rows": [
+            ["<code>for</code>", "KHOẢNG thời gian (bao lâu)", "for three years · for an hour"],
+            ["<code>since</code>", "MỐC thời gian (từ khi nào)", "since 2015 · since Monday"],
+            ["<code>since</code>", "Cả mệnh đề ở quá khứ đơn", "since I moved here"],
+            ["<code>ago</code>", "Đi với QUÁ KHỨ ĐƠN. Xem [Ngữ pháp 03]", "He left two hours ago."],
+            ["<code>just / already</code>", "Giữa <i>have</i> và V3 — câu khẳng định", "I've just finished."],
+            ["<code>yet</code>", "Cuối câu — phủ định và câu hỏi", "I haven't finished yet."],
+            ["<code>still</code>", "Trước <i>haven't</i> — nghe sốt ruột", "I still haven't heard back."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng từ nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn muốn nói điều gì về thời gian của việc này?",
+          "nodes": [
+            { "if": "Nó kéo dài BAO LÂU", "then": "for + khoảng thời gian", "ex": "I've lived here for ten years." },
+            { "if": "Nó bắt đầu TỪ KHI NÀO", "then": "since + mốc thời gian", "ex": "I've lived here since 2015." },
+            { "if": "Nó vừa mới xong", "then": "have just + V3", "ex": "I've just finished." },
+            { "if": "Nó xong rồi, sớm hơn người kia nghĩ", "then": "have already + V3", "ex": "I've already sent it." },
+            { "if": "Nó chưa xong", "then": "haven't + V3 + yet", "ex": "I haven't finished yet." },
+            { "if": "Nó vẫn chưa xong và bạn đang sốt ruột", "then": "still haven't + V3", "ex": "I still haven't heard back." }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ sốt ruột khi việc chưa xong" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'm still working on it.", "vi": "Nhẹ nhất — vẫn đang làm" },
+            { "en": "I haven't finished yet.", "vi": "Trung tính — nêu sự thật" },
+            { "en": "I still haven't finished.", "vi": "Bắt đầu sốt ruột" },
+            { "en": "I still haven't heard back from them.", "vi": "Sốt ruột rõ, trách người kia" },
+            { "en": "I've been waiting for ages.", "vi": "Mạnh nhất — hết kiên nhẫn" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Nhóm từ này xuất hiện dày đặc ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 94, "why": "I've been… for/since — khung chính của cặp for và since, kèm lỗi I am working here for 3 years." },
+            { "id": 95, "why": "I've just + V3 — khung chính của bộ ba just, already, yet và mẫu still haven't." },
+            { "id": 77, "why": "Long time no see! — I haven't seen you for ages, cách dùng for trong câu chào." },
+            { "id": 99, "why": "It takes… — cách nói thời lượng theo kiểu khác, so sánh với for." },
+            { "id": 72, "why": "Nice to meet you — Have we met before? câu hỏi kinh nghiệm với ever." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền for hay since" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi sống ở đây mười năm rồi.", "blank": "I've lived here __________ ten years.", "a": "for (khoảng thời gian)" },
+            { "vi": "Tôi sống ở đây từ năm 2015.", "blank": "I've lived here __________ 2015.", "a": "since (mốc thời gian)" },
+            { "vi": "Tôi ốm từ thứ Hai.", "blank": "I've been ill __________ Monday.", "a": "since" },
+            { "vi": "Tôi chờ một tiếng rồi.", "blank": "I've been waiting __________ an hour.", "a": "for" },
+            { "vi": "Lâu lắm rồi tôi không gặp anh ấy.", "blank": "I haven't seen him __________ ages.", "a": "for" },
+            { "vi": "Tôi đi đây đi đó từ khi học xong đại học.", "blank": "I've been travelling __________ I finished university.", "a": "since" },
+            { "vi": "Tôi ở đây từ sáng nay.", "blank": "I've been here __________ this morning.", "a": "since" },
+            { "vi": "Tôi quen cô ấy một thời gian rồi.", "blank": "I've known her __________ a while.", "a": "for" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn just / already / yet / still" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi vừa xong.", "blank": "I've __________ finished.", "a": "just" },
+            { "vi": "Tôi chưa xong.", "blank": "I haven't finished __________.", "a": "yet (cuối câu)" },
+            { "vi": "Tôi gửi rồi.", "blank": "I've __________ sent it.", "a": "already" },
+            { "vi": "Tôi vẫn chưa nhận được hồi âm.", "blank": "I __________ haven't heard back.", "a": "still (trước haven't)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi làm ở đây ba năm rồi.", "a": "I've worked here for three years." },
+            { "vi": "2. Tôi ốm từ thứ Hai.", "a": "I've been ill since Monday." },
+            { "vi": "3. Tôi vẫn chưa nhận được hồi âm của họ.", "a": "I still haven't heard back from them." },
+            { "vi": "4. Anh ấy đi cách đây hai tiếng.", "a": "He left two hours ago." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Mẹo phân biệt vàng:</b> <i>for</i> trả lời “bao <b>lâu</b>?”, <i>since</i> trả lời “từ <b>khi nào</b>?”. Hỏi thử câu đó trước khi viết.",
+            "<b>Thử thay bằng một con số:</b> nếu điền được <i>ba năm</i> thì dùng <i>for</i>; nếu điền được <i>thứ Hai</i> thì dùng <i>since</i>.",
+            "<b>Ba từ ba chỗ:</b> <i>just</i> và <i>already</i> đứng giữa <i>have</i> và V3; <i>yet</i> đứng cuối câu phủ định hoặc câu hỏi.",
+            "<b>Muốn nghe sốt ruột thì dùng <i>still haven't</i></b> thay cho <i>yet</i> — nó mạnh hơn hẳn.",
+            "<b><i>ago</i> không bao giờ đi với thì hoàn thành.</b> Thấy <i>ago</i> là chuyển ngay sang quá khứ đơn.",
+            "<b>Bài tập 3 phút:</b> viết năm câu thật về bạn — ba câu dùng <i>for</i>, hai câu dùng <i>since</i> — rồi đổi hai câu sang phủ định với <i>yet</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

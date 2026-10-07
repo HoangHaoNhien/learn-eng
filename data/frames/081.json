@@ -1,0 +1,504 @@
+{
+  "id": 81,
+  "group": "Nhóm 9 · Cảm xúc & Phản ứng",
+  "title": "I'm so… — Nói cảm xúc và bẫy -ed / -ing",
+  "subtitle": "Khung câu mở đầu Nhóm 9, và cũng là nơi chứa cái bẫy nổi tiếng nhất của tiếng Anh với người học: I'm bored nghĩa là tôi đang thấy chán, còn I'm boring nghĩa là tôi là người nhàm chán. Chỉ khác hai chữ cái nhưng đổi hẳn người bị nói tới.",
+  "pattern": [
+    "I'm <em>+ tính từ -ed</em>. <em>(cảm giác của tôi)</em>",
+    "It's <em>+ tính từ -ing</em>. <em>(đặc điểm của nó)</em>",
+    "I'm absolutely <em>+ tính từ mạnh</em>."
+  ],
+  "meaning": "Tôi (rất) … (vui / mệt / lo)",
+  "grammar": [34, 35, 36, 37],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Bẫy -ed / -ing kinh điển" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "Quy tắc gốc rất gọn: đuôi <b>-ed</b> nói về <b>cảm giác của người</b>, đuôi <b>-ing</b> nói về <b>đặc điểm của thứ gây ra cảm giác đó</b>. <i>I'm bored</i> = tôi đang chán. <i>The film is boring</i> = bộ phim nhàm chán." },
+        { "t": "p", "html": "Vì thế câu <span class=\"k\">I'm boring</span> không sai ngữ pháp — nó chỉ có nghĩa là <b>“tôi là người nhàm chán”</b>. Người nghe sẽ hiểu đúng như vậy, và đó là một lời tự chê khá nặng." },
+        { "t": "p", "html": "Về mức độ, <b>so</b> mang tính cảm thán hơn <b>very</b>. <i>I'm very tired</i> là mô tả; <i>I'm so tired</i> là than thở. Trong hội thoại thật, <i>so</i> xuất hiện nhiều hơn hẳn." },
+        { "t": "callout", "html": "<b>BẪY THỨ HAI — tính từ tuyệt đối:</b> những từ đã mang sẵn nghĩa cực mạnh như <i>exhausted, delighted, furious, starving</i> KHÔNG đi với <b>very</b>. Phải dùng <span class=\"k\">absolutely</span>: <i>absolutely exhausted</i> ✓, <i>very exhausted</i> ✗." },
+        { "t": "h3", "text": "Bốn cặp dễ nhầm nhất" },
+        {
+          "t": "table",
+          "head": ["Cảm giác của tôi (-ed)", "Đặc điểm của nó (-ing)", "Ghi chú"],
+          "rows": [
+            ["<code>I'm bored.</code> (tôi chán)", "<code>It's boring.</code> (nó nhàm chán)", "<i>I'm boring</i> = tôi nhàm chán"],
+            ["<code>I'm interested.</code> (tôi quan tâm)", "<code>It's interesting.</code> (nó thú vị)", "<i>I'm interesting</i> = tôi thú vị"],
+            ["<code>I'm confused.</code> (tôi rối)", "<code>It's confusing.</code> (nó khó hiểu)", "Rất hay dùng trong công việc"],
+            ["<code>I'm excited.</code> (tôi háo hức)", "<code>It's exciting.</code> (nó hấp dẫn)", "Cả hai đều phổ biến"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Mẹo nhớ nhanh:</b> nếu bạn là <b>người cảm nhận</b> thì dùng <b>-ed</b>. Nếu bạn nói về <b>thứ gây ra cảm giác</b> thì dùng <b>-ing</b>. Con người cũng có thể mang <i>-ing</i> — nhưng khi đó bạn đang mô tả họ, không phải cảm giác của họ." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "😩", "title": "Nói bạn mệt", "text": "Bối cảnh số 1. <i>I'm absolutely exhausted.</i>" },
+            { "icon": "😊", "title": "Nói bạn vui", "text": "<i>I'm so happy for you!</i> Chia vui với ai đó." },
+            { "icon": "😕", "title": "Nói bạn chưa hiểu", "text": "<i>I'm a bit confused.</i> Nhẹ nhàng và thành thật." },
+            { "icon": "😟", "title": "Nói bạn lo", "text": "<i>I'm quite worried about it.</i>" },
+            { "icon": "🎉", "title": "Nói bạn háo hức", "text": "<i>I'm really excited about the trip.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Nói <i>I'm boring</i> mà ý là bạn đang chán. Đó là tự chê." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cảm giác của tôi", "<code>I'm + tính từ -ed.</code>", "I'm tired."],
+            ["Đặc điểm của vật", "<code>It's + tính từ -ing.</code>", "It's tiring."],
+            ["Nhẹ", "<code>I'm a bit + adj.</code>", "I'm a bit tired."],
+            ["Vừa", "<code>I'm quite + adj.</code>", "I'm quite worried."],
+            ["Mạnh", "<code>I'm really + adj.</code>", "I'm really happy."],
+            ["Cảm thán", "<code>I'm so + adj.</code>", "I'm so tired."],
+            ["Với tính từ tuyệt đối", "<code>I'm absolutely + adj.</code>", "I'm absolutely exhausted."],
+            ["Nêu nguyên nhân", "<code>I'm + adj + about/with + N</code>", "I'm excited about the trip."],
+            ["Nêu lý do", "<code>I'm + adj + because…</code>", "I'm tired because I didn't sleep."],
+            ["Phủ định nhẹ", "<code>I'm not too + adj.</code>", "I'm not too worried."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Thang mức độ theo thứ tự tăng dần:</b> <i>a bit</i> → <i>quite</i> → <i>really</i> → <i>so</i> → <i>absolutely</i>. Chọn đúng mức khiến câu nói của bạn chính xác hơn nhiều so với chỉ dùng <i>very</i> cho mọi thứ." },
+        { "t": "callout", "html": "<b>“a bit” làm mềm rất hiệu quả trong công việc:</b> <i>I'm a bit confused</i> nghe nhẹ và không trách ai, trong khi <i>I'm confused</i> trần trụi có thể ngầm trách người giải thích." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Cặp -ed và -ing dễ nhầm",
+              "items": [
+                { "w": "bored", "vi": "chán (cảm giác của tôi)", "ex": "I'm bored.", "exvi": "Tôi đang chán.", "note": "BẪY KINH ĐIỂN: <i>I'm boring</i> nghĩa là “tôi là người nhàm chán”." },
+                { "w": "boring", "vi": "nhàm chán (đặc điểm)", "ex": "The film was boring.", "exvi": "Bộ phim nhàm chán." },
+                { "w": "interested", "vi": "quan tâm, thấy hứng thú", "ex": "I'm interested in the role.", "exvi": "Tôi quan tâm đến vị trí đó.", "note": "Đi với giới từ <b>in</b>. <i>I'm interesting</i> = “tôi là người thú vị”." },
+                { "w": "interesting", "vi": "thú vị (đặc điểm)", "ex": "That's an interesting idea.", "exvi": "Đó là một ý tưởng thú vị." },
+                { "w": "confused", "vi": "rối, chưa hiểu", "ex": "I'm a bit confused.", "exvi": "Tôi hơi rối.", "note": "Rất hữu dụng trong công việc — thành thật mà không trách ai." },
+                { "w": "confusing", "vi": "khó hiểu (đặc điểm)", "ex": "The instructions are confusing.", "exvi": "Hướng dẫn khó hiểu quá." },
+                { "w": "excited", "vi": "háo hức", "ex": "I'm really excited about the trip.", "exvi": "Tôi rất háo hức về chuyến đi.", "note": "Đi với giới từ <b>about</b>. Xem [Khung 82]." },
+                { "w": "exciting", "vi": "hấp dẫn (đặc điểm)", "ex": "It's an exciting project.", "exvi": "Đó là một dự án hấp dẫn." },
+                { "w": "tired", "vi": "mệt", "ex": "I'm so tired.", "exvi": "Tôi mệt quá." },
+                { "w": "tiring", "vi": "gây mệt (đặc điểm)", "ex": "It was a tiring day.", "exvi": "Đó là một ngày mệt mỏi." },
+                { "w": "surprised", "vi": "ngạc nhiên", "ex": "I'm surprised, to be honest.", "exvi": "Thật lòng thì tôi ngạc nhiên." },
+                { "w": "surprising", "vi": "đáng ngạc nhiên", "ex": "That's surprising.", "exvi": "Điều đó đáng ngạc nhiên đấy." }
+              ]
+            },
+            {
+              "title": "Tính từ cảm xúc thường dùng",
+              "items": [
+                { "w": "happy", "vi": "vui", "ex": "I'm so happy for you!", "exvi": "Tôi mừng cho bạn quá!", "note": "<i>happy <b>for</b> someone</i> = mừng cho ai đó. Xem [Khung 82]." },
+                { "w": "worried", "vi": "lo lắng", "ex": "I'm quite worried about it.", "exvi": "Tôi khá lo về chuyện đó." },
+                { "w": "exhausted", "vi": "kiệt sức", "ex": "I'm absolutely exhausted.", "exvi": "Tôi kiệt sức hoàn toàn.", "note": "TÍNH TỪ TUYỆT ĐỐI — dùng <b>absolutely</b>, không dùng <i>very</i> ✗." },
+                { "w": "delighted", "vi": "rất vui mừng", "ex": "I'm delighted to hear it.", "exvi": "Tôi rất vui khi nghe vậy.", "note": "Tuyệt đối — trang trọng và ấm, hợp email công việc." },
+                { "w": "furious", "vi": "giận điên lên", "ex": "She was absolutely furious.", "exvi": "Cô ấy giận điên lên.", "note": "Tuyệt đối — mạnh hơn <i>angry</i> rất nhiều." },
+                { "w": "starving", "vi": "đói lả", "ex": "I'm starving!", "exvi": "Tôi đói lả rồi!", "note": "Tuyệt đối — không nói <i>very starving</i> ✗." },
+                { "w": "frustrated", "vi": "bực bội, bí bách", "ex": "I'm getting frustrated with this.", "exvi": "Tôi bắt đầu thấy bực với chuyện này." },
+                { "w": "disappointed", "vi": "thất vọng", "ex": "I'm a bit disappointed, honestly.", "exvi": "Thật lòng thì tôi hơi thất vọng.", "note": "Thêm <i>a bit</i> làm mềm — rất hữu ích khi góp ý." },
+                { "w": "relieved", "vi": "nhẹ cả người", "ex": "I'm so relieved!", "exvi": "Nhẹ cả người luôn!" },
+                { "w": "nervous", "vi": "hồi hộp, lo lắng", "ex": "I'm a bit nervous about it.", "exvi": "Tôi hơi hồi hộp về chuyện đó." },
+                { "w": "grateful", "vi": "biết ơn", "ex": "I'm really grateful for your help.", "exvi": "Tôi thật sự biết ơn sự giúp đỡ của anh/chị.", "note": "Xem [Khung 78]." },
+                { "w": "embarrassed", "vi": "ngượng", "ex": "I'm so embarrassed.", "exvi": "Tôi ngượng quá.", "note": "BẪY: <i>embarrassed</i> là ngượng; <i>embarrassing</i> là gây ngượng." }
+              ]
+            },
+            {
+              "title": "Mức độ & cách đáp lại",
+              "items": [
+                { "w": "a bit", "vi": "hơi hơi", "ex": "I'm a bit tired.", "exvi": "Tôi hơi mệt.", "note": "Nhẹ nhất — làm mềm rất hiệu quả trong công việc." },
+                { "w": "quite", "vi": "khá là", "ex": "I'm quite worried.", "exvi": "Tôi khá lo.", "note": "Ở Anh, <i>quite</i> nghĩa là “khá”; ở Mỹ đôi khi lại mang nghĩa “rất”." },
+                { "w": "really", "vi": "thật sự", "ex": "I'm really happy.", "exvi": "Tôi thật sự vui." },
+                { "w": "so", "vi": "quá, ơi là", "ex": "I'm so tired.", "exvi": "Tôi mệt quá.", "note": "Mang tính CẢM THÁN hơn <i>very</i> — phổ biến hơn nhiều trong hội thoại." },
+                { "w": "absolutely", "vi": "hoàn toàn", "ex": "I'm absolutely exhausted.", "exvi": "Tôi kiệt sức hoàn toàn.", "note": "Dùng với TÍNH TỪ TUYỆT ĐỐI thay cho <i>very</i>." },
+                { "w": "not too", "vi": "không đến nỗi", "ex": "I'm not too worried.", "exvi": "Tôi cũng không lo lắm.", "note": "Phủ định nhẹ — trấn an mà không phủ nhận hoàn toàn." },
+                { "w": "a little", "vi": "một chút", "ex": "I'm a little nervous.", "exvi": "Tôi hơi hồi hộp một chút." },
+                { "w": "over the moon", "vi": "vui như mở cờ", "ex": "I'm over the moon!", "exvi": "Tôi vui như mở cờ trong bụng!", "note": "Thành ngữ rất Anh — vui mừng tột độ." },
+                { "w": "Are you alright?", "vi": "bạn ổn chứ?", "ex": "Are you alright?", "exvi": "Bạn ổn chứ?", "note": "Câu hỏi thăm khi thấy ai đó có vẻ không ổn." },
+                { "w": "What's wrong?", "vi": "có chuyện gì vậy?", "ex": "What's wrong?", "exvi": "Có chuyện gì vậy?" },
+                { "w": "I'm so happy for you", "vi": "tôi mừng cho bạn quá", "ex": "I'm so happy for you!", "exvi": "Tôi mừng cho bạn quá!", "note": "Câu chia vui chuẩn mực — <i>for you</i> là bắt buộc." },
+                { "w": "Get some rest", "vi": "nghỉ ngơi đi", "ex": "Get some rest.", "exvi": "Nghỉ ngơi chút đi." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I'm a bit confused about the timeline.",
+                  "vi": "Tôi hơi rối về tiến độ.",
+                  "note": "<b>confused</b> = cảm giác của tôi. Thêm <i>a bit</i> làm mềm — không ngầm trách người giải thích.",
+                  "open": { "en": "Sorry, one question —", "vi": "Xin lỗi, một câu hỏi —" },
+                  "reply": [
+                    { "them": "Which part?", "themvi": "Phần nào?", "you": "The overlap between phase one and two.", "youvi": "Chỗ chồng lấn giữa giai đoạn một và hai." },
+                    { "them": "The instructions are confusing, I agree.", "themvi": "Hướng dẫn khó hiểu thật, tôi đồng ý.", "you": "Could you walk me through it?", "youvi": "Anh/chị hướng dẫn tôi từng bước được không? Xem [Khung 69]." }
+                  ],
+                  "close": { "en": "That's much clearer, thanks.", "vi": "Rõ hơn nhiều rồi, cảm ơn." }
+                },
+                {
+                  "en": "I'm absolutely exhausted.",
+                  "vi": "Tôi kiệt sức hoàn toàn.",
+                  "note": "<b>exhausted</b> là TÍNH TỪ TUYỆT ĐỐI — dùng <i>absolutely</i>, không bao giờ <i>very</i> ✗.",
+                  "reply": [
+                    { "them": "Long week?", "themvi": "Tuần dài nhỉ?", "you": "Three late nights in a row.", "youvi": "Ba đêm liền thức khuya." }
+                  ],
+                  "vars": [
+                    { "en": "I'm so tired.", "vi": "Tôi mệt quá." }
+                  ]
+                },
+                {
+                  "en": "I'm really interested in that role.",
+                  "vi": "Tôi thật sự quan tâm đến vị trí đó.",
+                  "note": "<b>interested IN</b> — đi với giới từ <i>in</i>. Và <i>I'm interesting</i> ✗ nghĩa là “tôi là người thú vị”.",
+                  "reply": [
+                    { "them": "Then you should apply.", "themvi": "Vậy anh/chị nên nộp hồ sơ.", "you": "Do you know who's hiring?", "youvi": "Anh/chị có biết ai đang tuyển không?" }
+                  ]
+                },
+                {
+                  "en": "I'm a bit disappointed with the results, honestly.",
+                  "vi": "Thật lòng thì tôi hơi thất vọng với kết quả.",
+                  "note": "Thêm <i>a bit</i> và <i>honestly</i> khiến lời chê trở nên xây dựng thay vì gay gắt.",
+                  "reply": [
+                    { "them": "What were you expecting?", "themvi": "Anh/chị mong đợi gì?", "you": "Double this, given the budget.", "youvi": "Gấp đôi con số này, với ngân sách đó." }
+                  ],
+                  "close": { "en": "Let's look at why.", "vi": "Mình xem lý do đi." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I'm so happy for you!",
+                  "vi": "Mình mừng cho bạn quá!",
+                  "note": "Câu chia vui chuẩn mực — <b>for you</b> là bắt buộc. Bỏ nó đi thì thành “tôi vui”, không phải mừng cho bạn.",
+                  "reply": [
+                    { "them": "Thank you! I still can't believe it.", "themvi": "Cảm ơn bạn! Mình vẫn chưa tin nổi.", "you": "You deserve it.", "youvi": "Bạn xứng đáng mà." }
+                  ],
+                  "close": { "en": "We have to celebrate.", "vi": "Phải ăn mừng thôi." }
+                },
+                {
+                  "en": "I'm bored.",
+                  "vi": "Mình đang chán.",
+                  "note": "BẪY KINH ĐIỂN: <i>I'm boring</i> nghĩa là “mình là người nhàm chán” — một lời tự chê khá nặng.",
+                  "reply": [
+                    { "them": "Shall we go out?", "themvi": "Hay mình đi đâu đó?", "you": "Anything's better than this.", "youvi": "Gì cũng hơn ngồi đây." }
+                  ],
+                  "vars": [
+                    { "en": "This film is boring.", "vi": "Phim này chán quá." }
+                  ]
+                },
+                {
+                  "en": "I'm over the moon!",
+                  "vi": "Mình vui như mở cờ trong bụng!",
+                  "note": "Thành ngữ rất Anh — vui mừng tột độ, mạnh hơn nhiều so với <i>very happy</i>.",
+                  "reply": [
+                    { "them": "You should be!", "themvi": "Đáng vậy mà!", "you": "I've worked two years for this.", "youvi": "Mình làm hai năm vì chuyện này." }
+                  ]
+                },
+                {
+                  "en": "I'm not too worried, to be honest.",
+                  "vi": "Thật lòng thì mình cũng không lo lắm.",
+                  "note": "<b>not too</b> là phủ định nhẹ — trấn an mà không phủ nhận hoàn toàn mối lo.",
+                  "reply": [
+                    { "them": "Really? I would be.", "themvi": "Thật à? Mình thì lo đấy.", "you": "It's out of our hands anyway.", "youvi": "Dù sao cũng ngoài tầm mình." }
+                  ],
+                  "close": { "en": "Let's wait and see.", "vi": "Cứ chờ xem đã." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I'm starving!",
+                  "vi": "Mình đói lả rồi!",
+                  "note": "TÍNH TỪ TUYỆT ĐỐI — không nói <i>very starving</i> ✗. Mạnh hơn <i>hungry</i> rất nhiều.",
+                  "reply": [
+                    { "them": "Shall we order now?", "themvi": "Mình gọi món luôn nhé?", "you": "Please. I could eat anything.", "youvi": "Làm ơn. Mình ăn gì cũng được." }
+                  ]
+                },
+                {
+                  "en": "I'm so full.",
+                  "vi": "Mình no quá.",
+                  "reply": [
+                    { "them": "No dessert then?", "themvi": "Vậy không tráng miệng à?", "you": "Maybe just a coffee.", "youvi": "Chắc chỉ ly cà phê thôi." }
+                  ],
+                  "vars": [
+                    { "en": "I'm absolutely stuffed.", "vi": "Mình no căng luôn." }
+                  ]
+                },
+                {
+                  "en": "I'm really excited about trying this place.",
+                  "vi": "Mình rất háo hức được thử quán này.",
+                  "note": "<b>excited ABOUT</b> — đi với giới từ <i>about</i>. Xem [Khung 82].",
+                  "reply": [
+                    { "them": "It's been on my list for months.", "themvi": "Mình để ý quán này mấy tháng rồi.", "you": "Let's not build it up too much!", "youvi": "Đừng kỳ vọng quá nhé!" }
+                  ]
+                },
+                {
+                  "en": "I'm a bit disappointed, to be honest.",
+                  "vi": "Thật lòng thì mình hơi thất vọng.",
+                  "reply": [
+                    { "them": "Not as good as they said?", "themvi": "Không ngon như lời đồn à?", "you": "The starter was lovely, though.", "youvi": "Nhưng món khai vị thì ngon." }
+                  ],
+                  "close": { "en": "We'll try somewhere else next time.", "vi": "Lần sau thử chỗ khác." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I'm so relieved we made it.",
+                  "vi": "Nhẹ cả người vì mình kịp.",
+                  "note": "<b>relieved</b> = nhẹ nhõm sau khi lo lắng. Rất hay dùng sau một tình huống căng thẳng.",
+                  "reply": [
+                    { "them": "Five minutes to spare!", "themvi": "Dư đúng năm phút!", "you": "Never again.", "youvi": "Không bao giờ nữa." }
+                  ],
+                  "close": { "en": "Let's leave earlier next time.", "vi": "Lần sau mình đi sớm hơn." }
+                },
+                {
+                  "en": "I'm a bit nervous about the flight.",
+                  "vi": "Mình hơi hồi hộp về chuyến bay.",
+                  "note": "<i>a bit</i> làm mềm — chia sẻ mối lo mà không làm người kia hoảng theo.",
+                  "reply": [
+                    { "them": "It's a short one, don't worry.", "themvi": "Chuyến ngắn thôi, đừng lo.", "you": "That does help, actually.", "youvi": "Thật ra nghe vậy cũng đỡ." }
+                  ],
+                  "vars": [
+                    { "en": "I'm a little anxious about it.", "vi": "Mình hơi lo lắng về chuyện đó." }
+                  ]
+                },
+                {
+                  "en": "I'm absolutely exhausted after that journey.",
+                  "vi": "Tôi kiệt sức sau chuyến đi đó.",
+                  "reply": [
+                    { "them": "Get some rest.", "themvi": "Nghỉ ngơi chút đi.", "you": "I plan to sleep for a week.", "youvi": "Tôi định ngủ cả tuần." }
+                  ]
+                },
+                {
+                  "en": "I'm really excited about this trip.",
+                  "vi": "Mình rất háo hức về chuyến đi này.",
+                  "reply": [
+                    { "them": "Me too! First time there?", "themvi": "Mình cũng vậy! Lần đầu đến đó à?", "you": "First time. I've read everything.", "youvi": "Lần đầu. Mình đọc hết rồi." }
+                  ],
+                  "close": { "en": "It's going to be great.", "vi": "Chắc chắn sẽ tuyệt." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I'm a bit confused by the pricing.",
+                  "vi": "Tôi hơi rối về giá cả.",
+                  "note": "Dùng <i>a bit</i> để hỏi lại mà không nghe như đang trách nhân viên.",
+                  "reply": [
+                    { "them": "Let me explain it for you.", "themvi": "Để em giải thích cho anh/chị ạ.", "you": "Thank you — the discount part especially.", "youvi": "Cảm ơn em — nhất là phần giảm giá." }
+                  ],
+                  "close": { "en": "That's clearer now.", "vi": "Giờ thì rõ rồi." }
+                },
+                {
+                  "en": "I'm interested in the larger one.",
+                  "vi": "Tôi quan tâm đến cái lớn hơn.",
+                  "note": "<b>interested in</b> — giới từ cố định. Đây là cách nói bạn muốn mua mà chưa cam kết.",
+                  "reply": [
+                    { "them": "Would you like to see it?", "themvi": "Anh/chị muốn xem thử không ạ?", "you": "Please, if you have time.", "youvi": "Vâng, nếu em có thời gian." }
+                  ],
+                  "vars": [
+                    { "en": "I'm quite keen on that one.", "vi": "Tôi khá thích cái đó." }
+                  ]
+                },
+                {
+                  "en": "I'm delighted with it, thank you.",
+                  "vi": "Tôi rất hài lòng với nó, cảm ơn em.",
+                  "note": "<b>delighted</b> là tính từ tuyệt đối — trang trọng và ấm. Đi với <i>with</i>. Xem [Khung 82].",
+                  "reply": [
+                    { "them": "That's lovely to hear!", "themvi": "Nghe vậy em mừng quá ạ!", "you": "I'll be back for the matching one.", "youvi": "Tôi sẽ quay lại mua cái cùng bộ." }
+                  ]
+                },
+                {
+                  "en": "I'm getting a bit frustrated, to be honest.",
+                  "vi": "Thật lòng thì tôi bắt đầu thấy hơi bực.",
+                  "note": "<b>frustrated</b> = bực vì bí bách, không thông. Thêm <i>a bit</i> giữ cho lời phàn nàn không gay gắt.",
+                  "reply": [
+                    { "them": "I completely understand.", "themvi": "Em hoàn toàn hiểu ạ. Xem [Khung 53].", "you": "This is my third call about it.", "youvi": "Đây là lần thứ ba tôi gọi về chuyện này." }
+                  ],
+                  "close": { "en": "Let me escalate this for you.", "vi": "Để em chuyển lên cấp trên ạ." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Nói với đồng nghiệp rằng bạn chưa hiểu",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Sorry, one question — I'm a bit confused about the timeline.", "vi": "Xin lỗi, một câu hỏi — tôi hơi rối về tiến độ." },
+            { "speaker": "Colleague", "en": "Which part? The instructions are confusing, I agree.", "vi": "Phần nào? Hướng dẫn khó hiểu thật, tôi đồng ý." },
+            { "speaker": "You", "me": true, "en": "The overlap between phase one and two.", "vi": "Chỗ chồng lấn giữa giai đoạn một và hai." },
+            { "speaker": "Colleague", "en": "Ah — they run together for a week.", "vi": "À — hai giai đoạn chạy song song một tuần." },
+            { "speaker": "You", "me": true, "en": "That's much clearer. I'm relieved, honestly — I thought I'd missed something.", "vi": "Rõ hơn nhiều rồi. Thật lòng là nhẹ cả người — tôi tưởng mình bỏ sót gì đó." },
+            { "speaker": "Colleague", "en": "You're not the first to ask.", "vi": "Anh/chị không phải người đầu tiên hỏi đâu." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Chia vui với bạn về tin tốt",
+          "lines": [
+            { "speaker": "Friend", "en": "I got the job!", "vi": "Mình được nhận việc rồi!" },
+            { "speaker": "You", "me": true, "en": "I'm so happy for you! You deserve it.", "vi": "Mình mừng cho bạn quá! Bạn xứng đáng mà." },
+            { "speaker": "Friend", "en": "I'm over the moon. I still can't believe it.", "vi": "Mình vui như mở cờ. Vẫn chưa tin nổi." },
+            { "speaker": "You", "me": true, "en": "Were you nervous in the interview?", "vi": "Lúc phỏng vấn bạn có hồi hộp không?" },
+            { "speaker": "Friend", "en": "Absolutely terrified! But it went well.", "vi": "Sợ chết khiếp! Nhưng mọi thứ suôn sẻ." },
+            { "speaker": "You", "me": true, "en": "I'm so relieved for you. We have to celebrate.", "vi": "Mình nhẹ cả người thay bạn. Phải ăn mừng thôi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'm boring. <i>(ý: tôi đang chán)</i>", "right": "I'm bored.", "why": "BẪY KINH ĐIỂN. Đuôi <b>-ed</b> là CẢM GIÁC của tôi; <b>-ing</b> là ĐẶC ĐIỂM. <i>I'm boring</i> = tôi là người nhàm chán." },
+            { "wrong": "I'm very interesting in the job.", "right": "I'm very interested in the job.", "why": "Cùng lỗi — bạn là người CẢM NHẬN nên dùng <b>-ed</b>. Và giới từ là <b>in</b>." },
+            { "wrong": "I'm very exhausted.", "right": "I'm absolutely exhausted.", "why": "<b>exhausted</b> là tính từ TUYỆT ĐỐI — đã mang sẵn nghĩa cực mạnh nên không đi với <i>very</i>." },
+            { "wrong": "I'm very starving.", "right": "I'm starving.", "why": "Cùng lỗi tính từ tuyệt đối. <i>starving</i> tự nó đã là “đói lả” — không cần tăng cấp." },
+            { "wrong": "I'm happy for the news.", "right": "I'm happy about the news. / I'm happy for you.", "why": "<b>happy about</b> + sự việc, <b>happy for</b> + người. Xem [Khung 82]." },
+            { "wrong": "I'm very like this film.", "right": "I really like this film.", "why": "<b>like</b> là ĐỘNG TỪ, không phải tính từ — nên không đi với <i>I'm</i> và <i>very</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Nói về", "Ví dụ"],
+          "rows": [
+            ["<code>I'm + adj -ed</code>", "Cảm giác của người", "<i>I'm bored.</i>"],
+            ["<code>It's + adj -ing</code>", "Đặc điểm của vật", "<i>It's boring.</i>"],
+            ["<code>I'm a bit + adj</code>", "Mức nhẹ", "<i>I'm a bit tired.</i>"],
+            ["<code>I'm so + adj</code>", "Cảm thán", "<i>I'm so tired.</i>"],
+            ["<code>I'm absolutely + adj</code>", "Với tính từ tuyệt đối", "<i>I'm absolutely exhausted.</i>"],
+            ["<code>I'm + adj + about/with</code>", "Nêu nguyên nhân", "Xem [Khung 82]."],
+            ["<code>I feel + adj</code>", "Nhấn cảm nhận nhất thời", "<i>I feel tired today.</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — nói bạn mệt" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'm a bit tired.", "vi": "Nhẹ nhất — hơi mệt" },
+            { "en": "I'm quite tired.", "vi": "Khá mệt" },
+            { "en": "I'm really tired.", "vi": "Mệt thật sự" },
+            { "en": "I'm so tired.", "vi": "Cảm thán — mệt quá" },
+            { "en": "I'm absolutely exhausted.", "vi": "Mạnh nhất — kiệt sức" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "Đuôi <b>-ed</b> trong <i>bored, tired, worried</i> đọc là <b>/d/</b> một âm — đừng tách thành <i>bor-ed</i> hai âm tiết.",
+            "Đuôi <b>-ed</b> chỉ thành hai âm tiết khi từ kết thúc bằng /t/ hoặc /d/: <i>excited</i> → “ik-SAI-tid”.",
+            "<b>I'm so</b> nói nhanh dính thành <b>“aim-SO”</b> — nhấn vào <i>so</i> để tạo cảm thán.",
+            "<b>exhausted</b> đọc là <b>“ig-ZAW-stid”</b> — chữ <i>h</i> là âm câm, và <i>ex</i> đọc là /ɪɡz/ có rung.",
+            "<b>absolutely</b> nhấn âm đầu: <b>AB</b>-sə-loot-ly — người Việt hay nhấn nhầm vào <i>loot</i>.",
+            "<b>Kéo dài tính từ để tăng cảm xúc:</b> <i>I'm sooo tired</i> — đây là cách người bản xứ nhấn mạnh khi nói."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm absolutely exhausted.", "vi": "Luyện shadowing: “AB-sə-loot-ly-ig-ZAW-stid”, nuốt âm h." },
+            { "en": "I'm a bit confused about the timeline.", "vi": "Tập đuôi -ed thành hai âm tiết trong confused: “kən-FYOOZD”." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi đang chán.", "blank": "I'm __________.", "a": "bored (KHÔNG phải “boring”)" },
+            { "vi": "Bộ phim nhàm chán.", "blank": "The film is __________.", "a": "boring" },
+            { "vi": "Tôi quan tâm đến vị trí đó.", "blank": "I'm __________ the role.", "a": "interested in" },
+            { "vi": "Tôi kiệt sức hoàn toàn.", "blank": "I'm __________ exhausted.", "a": "absolutely (KHÔNG phải “very”)" },
+            { "vi": "Tôi hơi rối.", "blank": "I'm __________ confused.", "a": "a bit" },
+            { "vi": "Mình mừng cho bạn quá!", "blank": "I'm so happy __________!", "a": "for you" },
+            { "vi": "Mình đói lả rồi!", "blank": "I'm __________!", "a": "starving" },
+            { "vi": "Mình vui như mở cờ trong bụng!", "blank": "I'm __________!", "a": "over the moon" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi hơi rối về tiến độ.", "a": "I'm a bit confused about the timeline." },
+            { "vi": "2. Tôi kiệt sức hoàn toàn.", "a": "I'm absolutely exhausted." },
+            { "vi": "3. Mình mừng cho bạn quá! Bạn xứng đáng mà.", "a": "I'm so happy for you! You deserve it." },
+            { "vi": "4. Thật lòng thì tôi hơi thất vọng với kết quả.", "a": "I'm a bit disappointed with the results, honestly." },
+            { "vi": "5. Mình rất háo hức về chuyến đi này.", "a": "I'm really excited about this trip." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Quy tắc vàng:</b> <b>-ed</b> là cảm giác của TÔI, <b>-ing</b> là đặc điểm của NÓ. <i>I'm bored</i> ≠ <i>I'm boring</i>.",
+            "<b>Tính từ tuyệt đối không đi với “very”:</b> <i>exhausted, delighted, furious, starving</i> — dùng <b>absolutely</b>.",
+            "<b>Dùng “a bit” trong công việc</b> — nó làm mềm lời chê và lời thú nhận chưa hiểu rất hiệu quả.",
+            "<b>“so” cảm thán hơn “very”</b> — trong hội thoại thật, người bản xứ dùng <i>so</i> nhiều hơn hẳn.",
+            "<b>Nhớ “happy FOR you”</b> khi chia vui — bỏ <i>for you</i> thì thành “tôi vui”, không phải mừng cho bạn.",
+            "<b>Bài tập 3 phút:</b> viết năm cặp câu, mỗi cặp một câu <i>-ed</i> về bạn và một câu <i>-ing</i> về thứ gây ra cảm giác đó."
+          ]
+        }
+      ]
+    }
+  ]
+}

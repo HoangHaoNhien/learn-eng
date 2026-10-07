@@ -1,0 +1,499 @@
+{
+  "id": 43,
+  "group": "Nhóm 5 · Ý kiến & Quan điểm",
+  "title": "I believe… — Tin chắc, hoặc lịch sự khẳng định",
+  "subtitle": "Khung câu này có hai đời sống rất khác nhau: một là niềm tin sâu sắc về giá trị, hai là cách nói lịch sự rất Anh để khẳng định một thông tin mà vẫn chừa chỗ sai. Hiểu nhầm giữa hai nghĩa này khiến nhiều người Việt dùng I believe ở chỗ đáng lẽ chỉ cần I think.",
+  "pattern": [
+    "I believe (that) <em>+ mệnh đề</em>",
+    "I don't believe <em>+ mệnh đề</em>",
+    "I believe in <em>+ danh từ</em>"
+  ],
+  "meaning": "Tôi tin rằng… / Tôi cho là… (lịch sự, khá chắc)",
+  "grammar": [47],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Trang trọng hơn I think" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I believe</span> có <b>hai nghĩa tách biệt</b> mà người học hay trộn vào nhau. Nghĩa thứ nhất là <b>niềm tin</b>: <i>I believe everyone deserves a second chance.</i> — đây là giá trị sống, không phải ý kiến về một sự việc." },
+        { "t": "p", "html": "Nghĩa thứ hai — và là nghĩa bạn sẽ dùng nhiều hơn — là <b>khẳng định lịch sự</b>: <i>I believe your table is ready.</i> Ở đây nó không nói về niềm tin gì cả, mà là cách nói “theo tôi nắm được thì…”, khá chắc nhưng vẫn chừa chỗ để sai." },
+        { "t": "p", "html": "So với [Khung 41], <i>I believe</i> <b>chắc chắn hơn</b> <i>I think</i> và nghe <b>trang trọng hơn</b>. Nhân viên khách sạn, lễ tân, thư ký dùng nó suốt ngày — đó là dấu hiệu của tiếng Anh dịch vụ chuẩn mực." },
+        { "t": "callout", "html": "<b>BẪY LỚN NHẤT:</b> <span class=\"k\">believe</span> và <span class=\"k\">believe in</span> khác hẳn nhau. <i>I believe him</i> = tôi tin lời anh ta nói lúc này. <i>I believe in him</i> = tôi tin tưởng con người anh ta. Nhầm chỗ này là đổi hẳn ý nghĩa." },
+        { "t": "h3", "text": "Hai nghĩa, hai bối cảnh" },
+        {
+          "t": "table",
+          "head": ["Câu", "Nghĩa", "Bối cảnh"],
+          "rows": [
+            ["<code>I believe in second chances.</code>", "Niềm tin, giá trị sống", "Tâm sự, tranh luận, phỏng vấn"],
+            ["<code>I believe your room is ready.</code>", "Theo tôi nắm được thì…", "Dịch vụ, khách sạn, văn phòng"],
+            ["<code>I believe we've met.</code>", "Tôi khá chắc là…", "Xã giao, gặp lại người quen"],
+            ["<code>I don't believe it!</code>", "Không thể tin nổi!", "Ngạc nhiên, thốt lên"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Phủ định cũng chuyển lên trước</b> như ở [Khung 41]: nói <span class=\"k\">I don't believe that's correct.</span> chứ không nói <i>I believe that's not correct.</i>" }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🏨", "title": "Khẳng định lịch sự", "text": "Bối cảnh số 1. <i>I believe your table is ready.</i> Ngôn ngữ dịch vụ chuẩn." },
+            { "icon": "💎", "title": "Nói về giá trị sống", "text": "<i>I believe everyone deserves a fair chance.</i> Trong phỏng vấn, tranh luận." },
+            { "icon": "📋", "title": "Trả lời khi khá chắc", "text": "<i>I believe it starts at nine.</i> Chắc hơn <i>I think</i>, mềm hơn khẳng định." },
+            { "icon": "🛡", "title": "Phản bác có trọng lượng", "text": "<i>I don't believe that's accurate.</i> Nghiêm túc hơn <i>I don't think so</i>." },
+            { "icon": "😲", "title": "Thốt lên ngạc nhiên", "text": "<i>I don't believe it!</i> = Không thể tin nổi! Đây là thành ngữ." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Chuyện vặt hằng ngày. <i>I believe this coffee is hot.</i> nghe rất buồn cười." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cơ bản", "<code>I believe (that) + mệnh đề</code>", "I believe (that) it's the right call."],
+            ["Phủ định — đúng chuẩn", "<code>I don't believe + mệnh đề khẳng định</code>", "I don't believe that's correct."],
+            ["Tin tưởng vào", "<code>I believe in + N</code>", "I believe in hard work."],
+            ["Tin lời ai", "<code>I believe + người</code>", "I believe him."],
+            ["Rất chắc", "<code>I firmly believe + mệnh đề</code>", "I firmly believe we can do it."],
+            ["Trang trọng (văn viết)", "<code>It is believed that…</code>", "It is believed that the site is older."],
+            ["Ngạc nhiên", "<code>I can't believe + mệnh đề</code>", "I can't believe they said that."],
+            ["Thốt lên", "<code>I don't believe it!</code>", "I don't believe it — we won!"],
+            ["Hỏi lại", "<code>Do you believe + mệnh đề?</code>", "Do you believe it'll work?"],
+            ["Nghi ngờ nhẹ", "<code>I find that hard to believe.</code>", "I find that hard to believe."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Không chia tiếp diễn.</b> <span class=\"k\">I'm believing…</span> ✗ — <i>believe</i> là động từ trạng thái, giống <i>know</i>, <i>understand</i>, <i>think</i> (nghĩa ý kiến). Chỉ có <i>I believe</i>." },
+        { "t": "callout", "html": "<b>Phân biệt “I can't believe” và “I don't believe”:</b> <i>I can't believe it</i> = ngạc nhiên (thường vui hoặc sốc). <i>I don't believe it</i> cũng thường là ngạc nhiên, nhưng <i>I don't believe him</i> lại nghĩa là <b>tôi không tin lời anh ta</b> — nghiêm trọng hơn nhiều." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Mệnh đề hay theo sau “I believe”",
+              "items": [
+                { "w": "it's the right call", "vi": "đó là quyết định đúng", "ex": "I believe it's the right call.", "exvi": "Tôi tin đó là quyết định đúng." },
+                { "w": "your table is ready", "vi": "bàn của quý khách đã sẵn sàng", "ex": "I believe your table is ready, sir.", "exvi": "Thưa quý khách, bàn của quý khách đã sẵn sàng ạ.", "note": "Ngôn ngữ dịch vụ chuẩn — <i>I believe</i> ở đây chỉ là cách nói lịch sự, không phải niềm tin." },
+                { "w": "we've met before", "vi": "mình từng gặp nhau", "ex": "I believe we've met before.", "exvi": "Tôi tin là mình từng gặp nhau rồi." },
+                { "w": "there's been a mistake", "vi": "có nhầm lẫn", "ex": "I believe there's been a mistake.", "exvi": "Tôi tin là có nhầm lẫn." },
+                { "w": "it starts at nine", "vi": "bắt đầu lúc chín giờ", "ex": "I believe it starts at nine.", "exvi": "Tôi tin là bắt đầu lúc chín giờ." },
+                { "w": "she's on leave", "vi": "cô ấy đang nghỉ phép", "ex": "I believe she's on leave this week.", "exvi": "Tôi tin tuần này cô ấy nghỉ phép." },
+                { "w": "that's covered", "vi": "khoản đó được bao gồm", "ex": "I believe that's covered by the warranty.", "exvi": "Tôi tin khoản đó nằm trong bảo hành." },
+                { "w": "we can do it", "vi": "chúng ta làm được", "ex": "I firmly believe we can do it.", "exvi": "Tôi tin chắc chúng ta làm được." },
+                { "w": "it's included", "vi": "đã bao gồm", "ex": "I believe breakfast is included.", "exvi": "Tôi tin là đã bao gồm bữa sáng." },
+                { "w": "the deadline is Friday", "vi": "hạn chót là thứ Sáu", "ex": "I believe the deadline is Friday.", "exvi": "Tôi tin hạn chót là thứ Sáu." },
+                { "w": "you're in seat 12A", "vi": "quý khách ở ghế 12A", "ex": "I believe you're in seat 12A.", "exvi": "Tôi tin quý khách ngồi ghế 12A ạ." },
+                { "w": "it's worth doing", "vi": "đáng làm", "ex": "I believe it's worth doing properly.", "exvi": "Tôi tin việc này đáng làm cho tử tế." },
+                { "w": "everyone deserves a chance", "vi": "ai cũng đáng được trao cơ hội", "ex": "I believe everyone deserves a second chance.", "exvi": "Tôi tin ai cũng đáng được trao cơ hội thứ hai." },
+                { "w": "honesty matters", "vi": "sự trung thực quan trọng", "ex": "I believe honesty matters more than speed.", "exvi": "Tôi tin sự trung thực quan trọng hơn tốc độ." },
+                { "w": "that's not accurate", "vi": "điều đó không chính xác", "ex": "I don't believe that's accurate.", "exvi": "Tôi không tin điều đó chính xác.", "note": "Phủ định đặt ở <i>don't believe</i>, không ở mệnh đề sau." },
+                { "w": "the report is final", "vi": "báo cáo là bản cuối", "ex": "I believe the report is final now.", "exvi": "Tôi tin báo cáo giờ đã là bản cuối." },
+                { "w": "they're still open", "vi": "họ vẫn mở cửa", "ex": "I believe they're still open until ten.", "exvi": "Tôi tin họ vẫn mở đến mười giờ." },
+                { "w": "it's been resolved", "vi": "đã được xử lý", "ex": "I believe it's been resolved.", "exvi": "Tôi tin việc đó đã được xử lý." },
+                { "w": "this is yours", "vi": "cái này của bạn", "ex": "I believe this is yours.", "exvi": "Tôi tin cái này là của bạn.", "note": "Cách trả đồ cho người lạ rất lịch sự — nhẹ hơn khẳng định thẳng." },
+                { "w": "you have the wrong number", "vi": "bạn gọi nhầm số", "ex": "I believe you have the wrong number.", "exvi": "Tôi tin anh/chị gọi nhầm số rồi ạ." }
+              ]
+            },
+            {
+              "title": "Các dạng biến thể & thành ngữ",
+              "items": [
+                { "w": "I believe in", "vi": "tôi tin tưởng vào", "ex": "I believe in hard work.", "exvi": "Tôi tin vào sự chăm chỉ.", "note": "BẪY: <i>believe in</i> = tin tưởng vào giá trị hoặc con người. Khác hẳn <i>believe</i> không có <i>in</i>." },
+                { "w": "I believe him", "vi": "tôi tin lời anh ấy", "ex": "I believe him — he sounded sincere.", "exvi": "Tôi tin lời anh ấy — nghe rất thành thật.", "note": "Tin lời nói lúc này. Còn <i>I believe in him</i> là tin tưởng con người anh ấy." },
+                { "w": "I firmly believe", "vi": "tôi tin chắc", "ex": "I firmly believe this is the right path.", "exvi": "Tôi tin chắc đây là hướng đúng.", "note": "Nhấn mạnh — dùng trong thuyết trình, phỏng vấn." },
+                { "w": "I don't believe it!", "vi": "không thể tin nổi!", "ex": "I don't believe it — we got the contract!", "exvi": "Không thể tin nổi — mình ký được hợp đồng!", "note": "Là câu thốt lên vì ngạc nhiên, KHÔNG phải nghi ngờ." },
+                { "w": "I can't believe", "vi": "tôi không tin nổi", "ex": "I can't believe they said that.", "exvi": "Tôi không tin nổi họ lại nói vậy." },
+                { "w": "believe it or not", "vi": "tin hay không thì tùy", "ex": "Believe it or not, it worked.", "exvi": "Tin hay không thì tùy, nhưng nó chạy được.", "note": "Dẫn vào một chuyện bất ngờ — rất hay trong kể chuyện." },
+                { "w": "I find that hard to believe", "vi": "tôi thấy khó tin", "ex": "I find that hard to believe.", "exvi": "Tôi thấy chuyện đó khó tin.", "note": "Nghi ngờ một cách lịch sự — nhẹ hơn nói thẳng “anh nói dối”." },
+                { "w": "if you believe that…", "vi": "nếu bạn tin điều đó thì…", "ex": "If you believe that, you'll believe anything.", "exvi": "Nếu bạn tin điều đó thì bạn tin gì cũng được.", "note": "Câu mỉa mai — dùng cẩn thận." },
+                { "w": "make-believe", "vi": "tưởng tượng, giả vờ", "ex": "It's all make-believe.", "exvi": "Tất cả chỉ là tưởng tượng." },
+                { "w": "It is believed that", "vi": "người ta tin rằng", "ex": "It is believed that the temple is 800 years old.", "exvi": "Người ta tin rằng ngôi đền có 800 năm tuổi.", "note": "Dạng bị động — chỉ dùng trong văn viết trang trọng, báo chí." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "So do I", "vi": "tôi cũng vậy", "ex": "So do I, actually.", "exvi": "Thật ra tôi cũng vậy.", "note": "Đáp lại <i>I believe…</i> ở thể khẳng định. Đảo trật tự: <i>So do I</i>, không phải <i>So I do</i>." },
+                { "w": "You're quite right", "vi": "anh/chị hoàn toàn đúng", "ex": "You're quite right, it is Friday.", "exvi": "Anh/chị hoàn toàn đúng, đúng là thứ Sáu ạ." },
+                { "w": "Let me double-check", "vi": "để tôi kiểm tra lại", "ex": "Let me double-check that for you.", "exvi": "Để em kiểm tra lại giúp anh/chị ạ.", "note": "Phản hồi chuẩn khi ai đó nói <i>I believe…</i> mà bạn chưa chắc." },
+                { "w": "Are you sure about that?", "vi": "anh/chị chắc chứ?", "ex": "Are you sure about that?", "exvi": "Anh/chị chắc chứ?" },
+                { "w": "I'm afraid that's not the case", "vi": "e là không phải vậy", "ex": "I'm afraid that's not the case.", "exvi": "E là không phải vậy ạ.", "note": "Đính chính cực lịch sự. Xem [Khung 28]." },
+                { "w": "That's good to hear", "vi": "nghe vậy thì tốt quá", "ex": "That's good to hear.", "exvi": "Nghe vậy thì tốt quá." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I believe breakfast is included, isn't it?",
+                  "vi": "Tôi tin là đã bao gồm bữa sáng, đúng không ạ?",
+                  "note": "Cách hỏi lại thông tin mà vẫn tỏ ra bạn đã nắm được — lịch sự hơn hẳn <i>Is breakfast included?</i>",
+                  "reply": [
+                    { "them": "You're quite right, it is.", "themvi": "Anh/chị hoàn toàn đúng ạ, có bao gồm.", "you": "Wonderful. What time does it start?", "youvi": "Tuyệt. Mấy giờ bắt đầu ạ?" },
+                    { "them": "I'm afraid that's not the case for this rate.", "themvi": "E là gói này không có ạ.", "you": "Ah, I see. Can I add it?", "youvi": "À vậy à. Tôi thêm vào được không?" }
+                  ],
+                  "close": { "en": "Thank you for clarifying.", "vi": "Cảm ơn đã làm rõ giúp tôi." }
+                },
+                {
+                  "en": "I believe you're in seat 12A.",
+                  "vi": "Tôi tin quý khách ngồi ghế 12A ạ.",
+                  "note": "Nhân viên dùng câu này để nhắc khách ngồi nhầm ghế mà không khiến ai mất mặt.",
+                  "reply": [
+                    { "them": "Oh, sorry — let me check my boarding pass.", "themvi": "Ồ xin lỗi — để tôi xem thẻ lên máy bay.", "you": "No rush at all.", "youvi": "Không vội đâu ạ." }
+                  ]
+                },
+                {
+                  "en": "I believe there's been a mistake with my booking.",
+                  "vi": "Tôi tin là đặt phòng của tôi có nhầm lẫn.",
+                  "note": "Phàn nàn có trọng lượng hơn <i>I think</i>, nhưng vẫn chừa chỗ để mình sai.",
+                  "open": { "en": "Sorry to trouble you —", "vi": "Xin lỗi làm phiền —" },
+                  "reply": [
+                    { "them": "Let me look into it right away.", "themvi": "Để em kiểm tra ngay ạ.", "you": "I booked two nights, not one.", "youvi": "Tôi đặt hai đêm, không phải một." }
+                  ],
+                  "vars": [
+                    { "en": "I believe my reservation was for a twin room.", "vi": "Tôi tin đặt phòng của tôi là phòng hai giường đơn." }
+                  ]
+                },
+                {
+                  "en": "I believe they're still open until ten.",
+                  "vi": "Tôi tin họ vẫn mở đến mười giờ.",
+                  "reply": [
+                    { "them": "Are you sure about that?", "themvi": "Bạn chắc chứ?", "you": "Fairly sure — let me double-check.", "youvi": "Khá chắc — để mình kiểm tra lại." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I believe it's the right call.",
+                  "vi": "Tôi tin đó là quyết định đúng.",
+                  "note": "Nặng hơn <i>I think</i> — dùng khi bạn muốn đứng sau quan điểm của mình.",
+                  "reply": [
+                    { "them": "Even with the extra cost?", "themvi": "Kể cả khi tốn thêm chi phí à?", "you": "Yes. I firmly believe it pays off later.", "youvi": "Vâng. Tôi tin chắc về sau sẽ hoàn vốn." }
+                  ]
+                },
+                {
+                  "en": "I don't believe that's accurate.",
+                  "vi": "Tôi không tin điều đó chính xác.",
+                  "note": "Phủ định ở <b>don't believe</b>. Nghiêm túc hơn <i>I don't think so</i> — chỉ dùng khi bạn có bằng chứng.",
+                  "reply": [
+                    { "them": "What makes you say that?", "themvi": "Vì sao anh/chị nói vậy?", "you": "The Q2 figures tell a different story.", "youvi": "Số liệu quý hai nói khác." }
+                  ],
+                  "vars": [
+                    { "en": "I find that hard to believe, to be honest.", "vi": "Thật lòng thì tôi thấy khó tin." }
+                  ]
+                },
+                {
+                  "en": "I believe she's on leave this week.",
+                  "vi": "Tôi tin tuần này cô ấy nghỉ phép.",
+                  "note": "Trả lời thay đồng nghiệp khi bạn khá chắc nhưng không muốn khẳng định chắc nịch.",
+                  "reply": [
+                    { "them": "Do you know when she's back?", "themvi": "Bạn có biết khi nào cô ấy về không?", "you": "Monday, I believe.", "youvi": "Thứ Hai, tôi tin vậy." }
+                  ]
+                },
+                {
+                  "en": "I firmly believe we can meet the deadline.",
+                  "vi": "Tôi tin chắc chúng ta kịp hạn chót.",
+                  "note": "<i>firmly</i> làm câu nặng hẳn lên — hợp khi trấn an sếp hoặc khách hàng.",
+                  "open": { "en": "I know it looks tight, but —", "vi": "Tôi biết trông có vẻ gấp, nhưng —" },
+                  "reply": [
+                    { "them": "What's your plan?", "themvi": "Kế hoạch của anh/chị là gì?", "you": "Two people on testing from Monday.", "youvi": "Hai người làm kiểm thử từ thứ Hai." }
+                  ],
+                  "close": { "en": "I'll send a daily update.", "vi": "Tôi sẽ gửi cập nhật mỗi ngày." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I believe your table is ready, sir.",
+                  "vi": "Thưa quý khách, bàn của quý khách đã sẵn sàng ạ.",
+                  "note": "Câu kinh điển của ngành dịch vụ. <i>I believe</i> ở đây chỉ để nghe nhã nhặn.",
+                  "reply": [
+                    { "them": "Lovely, thank you.", "themvi": "Tuyệt, cảm ơn.", "you": "Right this way, please.", "youvi": "Mời quý khách đi lối này ạ." }
+                  ]
+                },
+                {
+                  "en": "I believe there's been a mistake with the bill.",
+                  "vi": "Tôi tin hóa đơn có nhầm lẫn.",
+                  "reply": [
+                    { "them": "Let me double-check that for you.", "themvi": "Để em kiểm tra lại giúp anh/chị ạ.", "you": "We didn't order the second dessert.", "youvi": "Chúng tôi không gọi món tráng miệng thứ hai." }
+                  ],
+                  "vars": [
+                    { "en": "I believe we were charged twice.", "vi": "Tôi tin là bị tính hai lần." }
+                  ]
+                },
+                {
+                  "en": "I believe this dish has nuts in it.",
+                  "vi": "Tôi tin món này có hạt.",
+                  "note": "Khi hỏi về dị ứng, <i>I believe</i> báo hiệu bạn đang xác nhận chứ không hỏi vu vơ — nhân viên sẽ kiểm tra nghiêm túc.",
+                  "open": { "en": "Sorry, one quick question —", "vi": "Xin lỗi, một câu hỏi nhanh —" },
+                  "reply": [
+                    { "them": "Let me check with the kitchen.", "themvi": "Để em hỏi bếp ạ.", "you": "Thank you — it's an allergy.", "youvi": "Cảm ơn — là dị ứng ạ." }
+                  ],
+                  "close": { "en": "I appreciate you checking.", "vi": "Cảm ơn đã kiểm tra giúp." }
+                },
+                {
+                  "en": "I believe this is yours.",
+                  "vi": "Tôi tin cái này là của bạn.",
+                  "note": "Cách trả lại đồ bỏ quên rất lịch sự — nhẹ hơn <i>This is yours.</i>",
+                  "reply": [
+                    { "them": "Oh! Thank you so much.", "themvi": "Ôi! Cảm ơn bạn nhiều lắm.", "you": "You left it on the chair.", "youvi": "Bạn để quên trên ghế." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I believe everyone deserves a second chance.",
+                  "vi": "Tôi tin ai cũng đáng được trao cơ hội thứ hai.",
+                  "note": "Đây là nghĩa <b>niềm tin</b> thật — nói về giá trị sống, không phải ý kiến về sự việc.",
+                  "reply": [
+                    { "them": "Even after what happened?", "themvi": "Kể cả sau chuyện đã xảy ra à?", "you": "Especially after that.", "youvi": "Nhất là sau chuyện đó." }
+                  ]
+                },
+                {
+                  "en": "I believe in him.",
+                  "vi": "Tôi tin tưởng cậu ấy.",
+                  "note": "Có <b>in</b> = tin tưởng con người. Bỏ <i>in</i> thành <i>I believe him</i> = tin lời cậu ấy nói lúc này.",
+                  "reply": [
+                    { "them": "Even though he's failed twice?", "themvi": "Dù cậu ấy trượt hai lần rồi à?", "you": "He'll get there. I believe in him.", "youvi": "Cậu ấy sẽ làm được. Tôi tin tưởng cậu ấy." }
+                  ],
+                  "vars": [
+                    { "en": "I believe him — he sounded sincere.", "vi": "Tôi tin lời cậu ấy — nghe rất thành thật." }
+                  ]
+                },
+                {
+                  "en": "I don't believe it — we won!",
+                  "vi": "Không thể tin nổi — mình thắng rồi!",
+                  "note": "Đây là câu <b>thốt lên vì ngạc nhiên</b>, không phải nghi ngờ. Ngữ điệu quyết định tất cả.",
+                  "reply": [
+                    { "them": "I know! I can't believe it either.", "themvi": "Đúng không! Mình cũng không tin nổi.", "you": "We have to celebrate.", "youvi": "Phải ăn mừng thôi." }
+                  ]
+                },
+                {
+                  "en": "Believe it or not, it actually worked.",
+                  "vi": "Tin hay không thì tùy, nhưng nó chạy được thật.",
+                  "note": "Cụm dẫn chuyện bất ngờ — rất tự nhiên khi kể chuyện.",
+                  "reply": [
+                    { "them": "No way. On the first try?", "themvi": "Không thể nào. Ngay lần đầu à?", "you": "First try. I'm as surprised as you.", "youvi": "Ngay lần đầu. Mình cũng ngạc nhiên như bạn." }
+                  ],
+                  "close": { "en": "I'll show you the video.", "vi": "Để mình cho xem video." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I believe that's covered by the warranty.",
+                  "vi": "Tôi tin khoản đó nằm trong bảo hành.",
+                  "note": "Khẳng định quyền lợi của mình mà không nghe như đang tranh cãi.",
+                  "reply": [
+                    { "them": "Let me check the terms.", "themvi": "Để em xem điều khoản ạ.", "you": "It's twelve months, I believe.", "youvi": "Mười hai tháng, tôi tin vậy." }
+                  ]
+                },
+                {
+                  "en": "I believe the price online was lower.",
+                  "vi": "Tôi tin giá trên mạng thấp hơn.",
+                  "note": "Nêu chênh lệch giá một cách lịch sự — chừa chỗ cho khả năng mình nhớ nhầm.",
+                  "reply": [
+                    { "them": "We can match it if you show me.", "themvi": "Nếu anh/chị cho em xem thì bên em khớp giá ạ.", "you": "Here — two hundred less.", "youvi": "Đây ạ — rẻ hơn hai trăm." }
+                  ],
+                  "close": { "en": "Thanks for sorting that.", "vi": "Cảm ơn đã xử lý giúp." }
+                },
+                {
+                  "en": "I don't believe this is the right model.",
+                  "vi": "Tôi không tin đây là đúng mẫu.",
+                  "reply": [
+                    { "them": "What did you order?", "themvi": "Anh/chị đặt mẫu nào ạ?", "you": "The Pro version, not the standard.", "youvi": "Bản Pro, không phải bản thường." }
+                  ]
+                },
+                {
+                  "en": "I believe it's been resolved, thank you.",
+                  "vi": "Tôi tin việc đó đã được xử lý, cảm ơn.",
+                  "reply": [
+                    { "them": "Anything else I can help with?", "themvi": "Em giúp gì thêm được không ạ?", "you": "No, that's everything.", "youvi": "Không, vậy là đủ rồi." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Làm rõ thông tin ở quầy lễ tân khách sạn",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Sorry to trouble you. I believe breakfast is included with my rate.", "vi": "Xin lỗi làm phiền. Tôi tin gói của tôi có bao gồm bữa sáng." },
+            { "speaker": "Staff", "en": "Let me double-check that for you. May I have your room number?", "vi": "Để em kiểm tra lại giúp ạ. Cho em xin số phòng?" },
+            { "speaker": "You", "me": true, "en": "Four-o-six. I believe I booked the bed-and-breakfast rate.", "vi": "Bốn không sáu. Tôi tin tôi đặt gói phòng kèm bữa sáng." },
+            { "speaker": "Staff", "en": "You're quite right, sir. Breakfast is from six thirty.", "vi": "Anh hoàn toàn đúng ạ. Bữa sáng từ sáu rưỡi ạ." },
+            { "speaker": "You", "me": true, "en": "Wonderful. And I believe check-out is at noon?", "vi": "Tuyệt. Và tôi tin trả phòng lúc mười hai giờ trưa?" },
+            { "speaker": "Staff", "en": "Midday, yes. Thank you for checking.", "vi": "Vâng, giữa trưa ạ. Cảm ơn anh đã hỏi lại." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Bảo vệ một quyết định trong cuộc họp",
+          "lines": [
+            { "speaker": "Colleague", "en": "The numbers say we should cut the feature.", "vi": "Số liệu nói mình nên bỏ tính năng đó." },
+            { "speaker": "You", "me": true, "en": "I don't believe that's accurate.", "vi": "Tôi không tin điều đó chính xác." },
+            { "speaker": "Colleague", "en": "What makes you say that?", "vi": "Vì sao anh/chị nói vậy?" },
+            { "speaker": "You", "me": true, "en": "The Q2 figures tell a different story. I firmly believe it's worth keeping.", "vi": "Số liệu quý hai nói khác. Tôi tin chắc là đáng giữ lại." },
+            { "speaker": "Colleague", "en": "I find that hard to believe, but show me.", "vi": "Tôi thấy khó tin, nhưng cho tôi xem thử." },
+            { "speaker": "You", "me": true, "en": "Believe it or not, usage doubled after the update.", "vi": "Tin hay không thì tùy, nhưng lượng dùng tăng gấp đôi sau bản cập nhật." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'm believing it's the right call.", "right": "I believe it's the right call.", "why": "<b>believe</b> là động từ trạng thái — không bao giờ chia tiếp diễn, giống <i>know</i> và <i>understand</i>." },
+            { "wrong": "I believe that's not correct.", "right": "I don't believe that's correct.", "why": "Giống [Khung 41], tiếng Anh <b>chuyển phủ định lên mệnh đề đầu</b>." },
+            { "wrong": "I believe in that he'll come.", "right": "I believe (that) he'll come.", "why": "<b>believe in</b> chỉ đi với <b>danh từ</b> (<i>believe in hard work</i>). Trước mệnh đề thì không có <i>in</i>." },
+            { "wrong": "I believe in him when he says he's sorry.", "right": "I believe him when he says he's sorry.", "why": "Tin <b>lời nói</b> thì bỏ <i>in</i>. Có <i>in</i> nghĩa là tin tưởng con người nói chung — khác hẳn." },
+            { "wrong": "I believe you are wrong. <i>(nói với khách hàng)</i>", "right": "I'm afraid that's not quite right.", "why": "<i>I believe you are wrong</i> nghe rất đối đầu. Dùng [Khung 28] để đính chính mềm hơn." },
+            { "wrong": "I believe this coffee is hot.", "right": "This coffee is hot.", "why": "Đừng dùng <i>I believe</i> cho chuyện hiển nhiên hằng ngày — nghe khoa trương và buồn cười." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Độ chắc / sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I believe…</code>", "Khá chắc — trang trọng, lịch sự", "<i>I believe it starts at nine.</i> Dịch vụ, công việc."],
+            ["<code>I think…</code>", "Nhẹ — lớp đệm", "<i>I think it starts at nine.</i> Xem [Khung 41]."],
+            ["<code>In my opinion,…</code>", "Quan điểm có cân nhắc", "<i>In my opinion, it's too risky.</i> Xem [Khung 42]."],
+            ["<code>It seems that…</code>", "Dựa trên dấu hiệu quan sát", "<i>It seems it's closed.</i> Xem [Khung 44]."],
+            ["<code>As far as I know,…</code>", "Giới hạn hiểu biết", "<i>As far as I know, it's free.</i> Xem [Khung 45]."],
+            ["<code>I'm sure…</code>", "Chắc chắn — không chừa đường lui", "<i>I'm sure it's fine.</i> Mạnh hơn <i>I believe</i>."],
+            ["<code>I know…</code>", "Sự thật — không tranh cãi", "<i>I know it starts at nine.</i> Chỉ nói khi thật sự biết."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — trả lời câu hỏi giờ mở cửa" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'm not sure, but maybe nine?", "vi": "Yếu nhất — đang đoán" },
+            { "en": "I think it's nine.", "vi": "Ý kiến nhẹ, đời thường" },
+            { "en": "As far as I know, it's nine.", "vi": "Theo hiểu biết của tôi — có chừa đường lui" },
+            { "en": "I believe it's nine.", "vi": "Khá chắc, lịch sự và chuyên nghiệp" },
+            { "en": "It's nine. I checked this morning.", "vi": "Chắc chắn — có căn cứ" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>believe</b> nhấn ở <b>âm tiết thứ hai</b>: bi-<b>LEEV</b>. Người Việt hay nhấn nhầm vào âm đầu.",
+            "Âm đầu là /bɪ/ đọc rất ngắn và nhẹ — gần như <b>“b'LEEV”</b>.",
+            "Đuôi <b>-ve</b> là âm <b>/v/</b>: răng trên chạm môi dưới. Người Việt hay đọc thành /b/ — thành <i>beliebe</i>.",
+            "Nguyên âm giữa là <b>/iː/</b> dài: <i>believe</i> chứ không phải <i>bi-lív</i> ngắn.",
+            "<b>I believe</b> nói nhanh dính thành <b>“ai-b'LEEV”</b> — trọng âm duy nhất ở LEEV.",
+            "<b>I don't believe it</b> khi thốt lên vì ngạc nhiên thì giọng <b>nhấn mạnh vào BELIEVE</b> và kéo dài ra."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I believe your table is ready.", "vi": "Luyện shadowing: “ai-b'LEEV-yor-TAY-bl-iz-RED-i”, giọng đều và nhã." },
+            { "en": "I don't believe it — we won!", "vi": "Tập ngữ điệu ngạc nhiên: kéo dài BELIEVE và lên giọng ở cuối." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi tin là đã bao gồm bữa sáng.", "blank": "__________ breakfast is included.", "a": "I believe" },
+            { "vi": "Tôi không tin điều đó chính xác.", "blank": "__________ that's accurate.", "a": "I don't believe (KHÔNG phải “I believe that's not”)" },
+            { "vi": "Tôi tin vào sự chăm chỉ.", "blank": "I believe __________ hard work.", "a": "in (có “in” khi theo sau là danh từ)" },
+            { "vi": "Tôi tin lời anh ấy — nghe rất thành thật.", "blank": "__________ — he sounded sincere.", "a": "I believe him (không có “in”)" },
+            { "vi": "Tôi tin chắc chúng ta làm được.", "blank": "I __________ believe we can do it.", "a": "firmly" },
+            { "vi": "Tin hay không thì tùy, nhưng nó chạy được.", "blank": "__________, it worked.", "a": "Believe it or not" },
+            { "vi": "Tôi thấy chuyện đó khó tin.", "blank": "I find that __________.", "a": "hard to believe" },
+            { "vi": "Không thể tin nổi — mình thắng rồi!", "blank": "__________ — we won!", "a": "I don't believe it" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Thưa quý khách, bàn của quý khách đã sẵn sàng ạ.", "a": "I believe your table is ready, sir." },
+            { "vi": "2. Tôi tin là đặt phòng của tôi có nhầm lẫn.", "a": "I believe there's been a mistake with my booking." },
+            { "vi": "3. Tôi tin ai cũng đáng được trao cơ hội thứ hai.", "a": "I believe everyone deserves a second chance." },
+            { "vi": "4. Tôi không tin điều đó chính xác.", "a": "I don't believe that's accurate." },
+            { "vi": "5. Tôi tin khoản đó nằm trong bảo hành.", "a": "I believe that's covered by the warranty." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Nhớ luật “in”:</b> có <i>in</i> thì theo sau là <b>danh từ</b> (<i>believe in honesty</i>); không có <i>in</i> thì theo sau là <b>mệnh đề hoặc người</b> (<i>believe he's right / believe him</i>).",
+            "<b>Dùng làm ngôn ngữ dịch vụ:</b> thay <i>Your table is ready</i> bằng <i>I believe your table is ready</i> — cùng nội dung nhưng nghe chuyên nghiệp hẳn.",
+            "<b>Phủ định luôn đặt trước:</b> <i>I don't believe that's correct.</i> Đừng nói <i>I believe that's not correct.</i>",
+            "<b>Đừng chia tiếp diễn.</b> <i>I'm believing</i> là lỗi ngay lập tức lộ ra bạn là người học.",
+            "<b>Cẩn thận với “I believe you are wrong”</b> — nghe rất đối đầu. Với khách hàng hãy dùng <i>I'm afraid that's not quite right</i>.",
+            "<b>Bài tập 3 phút:</b> viết 3 câu <i>I believe in…</i> về giá trị sống của bạn, và 3 câu <i>I believe (that)…</i> về thông tin công việc. Đọc to để cảm nhận hai nghĩa khác nhau."
+          ]
+        }
+      ]
+    }
+  ]
+}

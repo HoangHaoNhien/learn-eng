@@ -1,0 +1,277 @@
+{
+  "id": 53,
+  "group": "Nhóm 1 · Nền móng câu tiếng Anh",
+  "title": "Đại từ — I / me / my / mine / myself",
+  "subtitle": "Tiếng Việt chỉ có một chữ “tôi” cho cả năm dạng, nên người Việt hay chọn nhầm. Bẫy nặng nhất xảy ra khi câu có hai người: Me and him went ✗ — mẹo chữa là bỏ người kia đi rồi đọc lại.",
+  "meaning": "Năm dạng của một đại từ và chỗ đứng của từng dạng",
+  "rule": [
+    "<em>I</em> làm chủ ngữ · <em>me</em> làm tân ngữ",
+    "<em>my</em> + danh từ · <em>mine</em> đứng một mình",
+    "<em>myself</em> khi chủ ngữ và tân ngữ là cùng một người"
+  ],
+  "tags": [
+    { "text": "Trình độ: A1–A2", "hot": true },
+    { "text": "Me and him went ✗" },
+    { "text": "Nền móng — học sớm" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [20, 51, 71, 73, 83],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Một người trong tiếng Anh có tới <b>năm dạng</b>: <i>I — me — my — mine — myself</i>. Tiếng Việt chỉ dùng mỗi chữ “tôi” nên không có gì nhắc bạn phải đổi dạng. Chọn dạng nào hoàn toàn phụ thuộc vào <b>vị trí trong câu</b>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — câu có hai người:</b><br><i><b>Me and him</b> went to the party</i> ✗ → <i><b>He and I</b> went to the party.</i> ✓<br><i>between you and <b>I</b></i> ✗ → <i>between you and <b>me</b></i> ✓<br><b>Mẹo chữa trong một giây:</b> <b>bỏ người kia đi rồi đọc lại</b>.<br>“<i>Me went</i>” nghe sai ngay → phải là <i>I</i>. “<i>between I</i>” nghe sai ngay → phải là <i>me</i>." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>my</i> phải có danh từ, <i>mine</i> thì không:</b><br><i>This is <b>my</b></i> ✗ → <i>This is <b>mine</b>.</i> ✓<br><i><b>Mine</b> book</i> ✗ → <i><b>My</b> book.</i> ✓<br>• <b>my / your / his / her / our / their</b> — luôn <b>dính một danh từ</b> ngay sau.<br>• <b>mine / yours / his / hers / ours / theirs</b> — <b>đứng một mình</b>, thay cả cụm.<br>Và nhớ: <b>không dạng nào có dấu lược</b> — <i>her's</i> ✗, <i>your's</i> ✗." },
+        { "t": "h3", "text": "Bốn dạng cơ bản" },
+        {
+          "t": "table",
+          "head": ["Dạng", "Đứng ở đâu", "Ví dụ"],
+          "rows": [
+            ["Chủ ngữ — <code>I</code>", "Trước động từ", "<b>I</b> called him."],
+            ["Tân ngữ — <code>me</code>", "Sau động từ hoặc giới từ", "He called <b>me</b>. · with <b>me</b>"],
+            ["Sở hữu — <code>my</code>", "Trước một danh từ", "<b>my</b> book"],
+            ["Sở hữu đứng riêng — <code>mine</code>", "Thay cả cụm, không có danh từ", "This book is <b>mine</b>."]
+          ]
+        },
+        { "t": "p", "html": "Dạng thứ năm là <b>phản thân</b> — <i>myself</i> — dùng khi <b>chủ ngữ và tân ngữ là cùng một người</b>: <i>I hurt <b>myself</b>.</i>" }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Vai trò trong câu", "Dùng dạng nào", "Ví dụ"],
+          "rows": [
+            ["Chủ ngữ của động từ", "I · you · he · she · it · we · they", "<b>She</b> called me."],
+            ["Tân ngữ của động từ", "me · you · him · her · it · us · them", "I called <b>her</b>."],
+            ["Sau giới từ", "Luôn dạng tân ngữ", "with <b>me</b> · for <b>him</b> · between you and <b>me</b>"],
+            ["Trước một danh từ", "my · your · his · her · its · our · their", "<b>their</b> house"],
+            ["Đứng một mình", "mine · yours · his · hers · ours · theirs", "This is <b>theirs</b>."],
+            ["Sau <code>be</code> (văn nói)", "Dạng tân ngữ", "Who is it? — It's <b>me</b>."],
+            ["Chủ ngữ = tân ngữ", "myself · yourself · himself…", "I hurt <b>myself</b>."],
+            ["Nhấn mạnh “tự tay”", "Phản thân đặt cuối câu", "I did it <b>myself</b>."],
+            ["<code>by</code> + phản thân", "Nghĩa “một mình”", "I live <b>by myself</b>."],
+            ["Hai bên tác động lẫn nhau", "each other · one another", "They help <b>each other</b>."],
+            ["<code>its</code> ≠ <code>it's</code>", "Sở hữu không có dấu lược", "The dog hurt <b>its</b> leg."],
+            ["Nối hai người bằng <code>and</code>", "Bỏ người kia đi rồi đọc lại", "<b>He and I</b> went. · between you and <b>me</b>"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Hai dòng hay sai nhất là dòng 3 và dòng 12.</b> Sau <b>mọi</b> giới từ đều là dạng tân ngữ — kể cả khi có hai người nối bằng <i>and</i>. Nhiều người viết <i>between you and I</i> vì tưởng nghe “sang” hơn, nhưng đó là sai." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "He and I went to the party.", "vi": "Tôi với anh ấy đi dự tiệc.", "note": "BẪY SỐ MỘT: <i>Me and him went</i> ✗. Bỏ <i>he and</i> đi: <i>I went</i> ✓." },
+            { "en": "She invited him and me.", "vi": "Cô ấy mời anh ta và tôi.", "note": "Là tân ngữ nên dùng <b>him and me</b>." },
+            { "en": "This is a secret between you and me.", "vi": "Đây là bí mật giữa hai ta.", "note": "Sau giới từ <b>between</b> luôn là dạng tân ngữ." },
+            { "en": "My name is Nam.", "vi": "Tôi tên Nam.", "note": "<b>my</b> + danh từ. Xem [Khung 71]." },
+            { "en": "This book is mine.", "vi": "Quyển sách này của tôi.", "note": "BẪY SỐ HAI: <i>This book is my</i> ✗." },
+            { "en": "Mine is the blue one.", "vi": "Cái của tôi là cái màu xanh.", "note": "<b>mine</b> đứng một mình, thay cả cụm <i>my car</i>." },
+            { "en": "The dog hurt its leg.", "vi": "Con chó bị đau chân.", "note": "<b>its</b> sở hữu, KHÔNG có dấu lược. Xem [Ngữ pháp 50]." },
+            { "en": "I hurt myself.", "vi": "Tôi tự làm mình bị thương.", "note": "Chủ ngữ và tân ngữ cùng một người thì dùng phản thân." },
+            { "en": "I did it myself.", "vi": "Tôi tự tay làm đấy.", "note": "Phản thân đặt cuối câu để NHẤN MẠNH “tự tay”." },
+            { "en": "I live by myself.", "vi": "Tôi sống một mình.", "note": "<b>by + phản thân</b> = một mình, không ai giúp." },
+            { "en": "They help each other.", "vi": "Họ giúp đỡ lẫn nhau.", "note": "<i>They help themselves</i> nghĩa khác hẳn: mỗi người tự giúp mình." },
+            { "en": "Let me introduce myself.", "vi": "Để tôi tự giới thiệu.", "note": "Sau <i>let</i> là tân ngữ <b>me</b>. Xem [Khung 20]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🙋", "title": "Làm người hành động", "text": "<i>I called him.</i> Chủ ngữ dùng <b>I</b>." },
+            { "icon": "🎯", "title": "Làm người chịu tác động", "text": "<i>He called me.</i> Tân ngữ dùng <b>me</b>." },
+            { "icon": "🔗", "title": "Đứng sau giới từ", "text": "<i>with me</i>, <i>for him</i>, <i>between you and me</i>." },
+            { "icon": "🏷", "title": "Nói của ai", "text": "<i>my book</i> hoặc <i>This is mine.</i>" },
+            { "icon": "🪞", "title": "Tự làm gì với chính mình", "text": "<i>I hurt myself.</i> · <i>I did it myself.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Đừng viết <i>my</i> trống không, và đừng thêm dấu lược vào <i>its, hers, yours</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một mục ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi mục đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Dạng chủ ngữ & dạng tân ngữ",
+              "items": [
+                { "w": "I", "vi": "tôi (chủ ngữ)", "ex": "I called him yesterday.", "exvi": "Hôm qua tôi gọi anh ấy.", "note": "Luôn viết HOA chữ <b>I</b> dù nằm giữa câu." },
+                { "w": "me", "vi": "tôi (tân ngữ)", "ex": "He called me yesterday.", "exvi": "Hôm qua anh ấy gọi tôi.", "note": "Sau động từ và sau MỌI giới từ. Xem [Khung 83]." },
+                { "w": "you", "vi": "bạn (cả hai vai)", "ex": "You called me, didn't you?", "exvi": "Bạn có gọi tôi đúng không?", "note": "Dạng duy nhất không đổi giữa chủ ngữ và tân ngữ." },
+                { "w": "he", "vi": "anh ấy (chủ ngữ)", "ex": "He works here.", "exvi": "Anh ấy làm ở đây." },
+                { "w": "him", "vi": "anh ấy (tân ngữ)", "ex": "I agree with him.", "exvi": "Tôi đồng ý với anh ấy. Xem [Khung 51]." },
+                { "w": "she", "vi": "cô ấy (chủ ngữ)", "ex": "She invited us.", "exvi": "Cô ấy mời bọn tôi." },
+                { "w": "her", "vi": "cô ấy (tân ngữ)", "ex": "I called her this morning.", "exvi": "Sáng nay tôi gọi cô ấy.", "note": "<b>her</b> vừa là tân ngữ vừa là sở hữu — phải nhìn từ đứng sau để biết." },
+                { "w": "it", "vi": "nó (vật, cả hai vai)", "ex": "It's broken. I'll fix it.", "exvi": "Nó hỏng rồi. Để tôi sửa." },
+                { "w": "we", "vi": "chúng tôi (chủ ngữ)", "ex": "We live in Hanoi.", "exvi": "Bọn tôi sống ở Hà Nội." },
+                { "w": "us", "vi": "chúng tôi (tân ngữ)", "ex": "She invited us to dinner.", "exvi": "Cô ấy mời bọn tôi ăn tối." },
+                { "w": "they", "vi": "họ (chủ ngữ)", "ex": "They help each other.", "exvi": "Họ giúp đỡ lẫn nhau." },
+                { "w": "them", "vi": "họ (tân ngữ)", "ex": "I told them the news.", "exvi": "Tôi báo tin cho họ." }
+              ]
+            },
+            {
+              "title": "Sở hữu & phản thân",
+              "items": [
+                { "w": "my", "vi": "của tôi (+ danh từ)", "ex": "My name is Nam.", "exvi": "Tôi tên Nam. Xem [Khung 71]." },
+                { "w": "mine", "vi": "của tôi (đứng một mình)", "ex": "This book is mine.", "exvi": "Quyển sách này của tôi.", "note": "BẪY SỐ HAI: <i>This is my</i> ✗ · <i>mine book</i> ✗." },
+                { "w": "your", "vi": "của bạn (+ danh từ)", "ex": "What's your name?", "exvi": "Bạn tên gì?" },
+                { "w": "yours", "vi": "của bạn (đứng một mình)", "ex": "Is this bag yours?", "exvi": "Túi này của bạn à?", "note": "KHÔNG có dấu lược — <i>your's</i> ✗. Xem [Ngữ pháp 50]." },
+                { "w": "his", "vi": "của anh ấy", "ex": "His car is faster than mine.", "exvi": "Xe anh ấy nhanh hơn xe tôi.", "note": "Dạng duy nhất giống nhau ở cả hai cột." },
+                { "w": "hers", "vi": "của cô ấy (đứng một mình)", "ex": "That seat is hers.", "exvi": "Chỗ đó là của cô ấy.", "note": "<i>her's</i> ✗ — không có dấu lược." },
+                { "w": "its", "vi": "của nó", "ex": "The dog hurt its leg.", "exvi": "Con chó bị đau chân.", "note": "<b>its</b> sở hữu · <b>it's</b> = <i>it is</i>. Xem [Ngữ pháp 50]." },
+                { "w": "our / ours", "vi": "của chúng tôi", "ex": "Our house is big. The big one is ours.", "exvi": "Nhà bọn tôi to. Cái to là của bọn tôi." },
+                { "w": "their / theirs", "vi": "của họ", "ex": "Their car broke down.", "exvi": "Xe của họ hỏng rồi.", "note": "<b>their</b> sở hữu · <i>they're</i> = they are · <i>there</i> = ở đó." },
+                { "w": "myself", "vi": "chính tôi", "ex": "I hurt myself.", "exvi": "Tôi tự làm mình bị thương.", "note": "Chỉ dùng khi chủ ngữ và tân ngữ là CÙNG một người." },
+                { "w": "by myself", "vi": "một mình", "ex": "I live by myself.", "exvi": "Tôi sống một mình.", "note": "Khác <i>I did it myself</i> = tự tay làm." },
+                { "w": "each other", "vi": "lẫn nhau", "ex": "They help each other.", "exvi": "Họ giúp đỡ lẫn nhau.", "note": "Hai bên tác động QUA LẠI — khác <i>themselves</i> là mỗi người tự lo." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<b>Me and him</b> went to the party.", "right": "<b>He and I</b> went to the party.", "why": "BẪY SỐ MỘT: bỏ người kia đi — <i>Me went</i> nghe sai ngay, nên phải là <b>I</b>." },
+            { "wrong": "This is a secret between you and <b>I</b>.", "right": "This is a secret between you and <b>me</b>.", "why": "Sau giới từ luôn là dạng tân ngữ. Bỏ <i>you and</i>: <i>between I</i> ✗." },
+            { "wrong": "She invited <b>he and I</b>.", "right": "She invited <b>him and me</b>.", "why": "Hai người này là tân ngữ của <i>invited</i>." },
+            { "wrong": "This book is <b>my</b>.", "right": "This book is <b>mine</b>.", "why": "BẪY SỐ HAI: <b>my</b> phải dính một danh từ, đứng riêng thì dùng <b>mine</b>." },
+            { "wrong": "<b>Mine</b> book is new.", "right": "<b>My</b> book is new.", "why": "Ngược lại — có danh từ theo sau thì dùng <b>my</b>." },
+            { "wrong": "Is this bag <b>your's</b>?", "right": "Is this bag <b>yours</b>?", "why": "Đại từ sở hữu KHÔNG có dấu lược: <i>yours, hers, ours, theirs, its</i>." },
+            { "wrong": "The dog hurt <b>it's</b> leg.", "right": "The dog hurt <b>its</b> leg.", "why": "<b>it's</b> chỉ bằng <i>it is</i>. Sở hữu là <b>its</b>. Xem [Ngữ pháp 50]." },
+            { "wrong": "I live <b>alone by myself</b>. <i>(thừa)</i>", "right": "I live <b>by myself</b>. / I live <b>alone</b>.", "why": "<i>by myself</i> đã là “một mình” rồi, không thêm <i>alone</i>." },
+            { "wrong": "They help <b>themselves</b>. <i>(ý: giúp nhau)</i>", "right": "They help <b>each other</b>.", "why": "<b>themselves</b> = mỗi người tự lo · <b>each other</b> = qua lại giữa hai bên." },
+            { "wrong": "<b>Myself</b> did it.", "right": "<b>I</b> did it myself.", "why": "Phản thân không bao giờ làm chủ ngữ — nó chỉ đi kèm để nhấn mạnh." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>I</code> / <code>me</code>", "Chủ ngữ / tân ngữ", "I called him ≠ He called me"],
+            ["<code>my</code> / <code>mine</code>", "Có danh từ sau / đứng một mình", "my book ≠ This is mine"],
+            ["<code>her</code> (tân ngữ) / <code>her</code> (sở hữu)", "Nhìn từ đứng sau", "I called her ≠ her book"],
+            ["<code>its</code> / <code>it's</code>", "Sở hữu / <code>it is</code>", "its leg ≠ it's broken"],
+            ["<code>their</code> / <code>they're</code> / <code>there</code>", "Sở hữu / they are / ở đó", "their car ≠ they're late"],
+            ["<code>myself</code> / <code>by myself</code>", "Tự tay / một mình", "I did it myself ≠ I live by myself"],
+            ["<code>themselves</code> / <code>each other</code>", "Mỗi người tự lo / qua lại", "They help each other ✓"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng dạng nào của “tôi”?" },
+        {
+          "t": "tree",
+          "q": "Bạn đang viết “tôi” vào một chỗ trong câu — nhìn xem chỗ đó là chỗ nào.",
+          "nodes": [
+            { "if": "Đứng trước động từ, là người hành động", "then": "I", "ex": "I called him." },
+            { "if": "Đứng sau động từ hoặc sau giới từ", "then": "me", "ex": "He called me. · with me" },
+            { "if": "Ngay sau nó là một danh từ", "then": "my", "ex": "my book" },
+            { "if": "Đứng một mình, không có danh từ", "then": "mine", "ex": "This book is mine." },
+            { "if": "Chủ ngữ và tân ngữ là cùng một người", "then": "myself", "ex": "I hurt myself." },
+            { "if": "Có hai người nối bằng and", "then": "Bỏ người kia đi rồi đọc lại", "ex": "(He and) I went. ✓" }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ “tự làm lấy”" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Someone helped me do it.", "vi": "Ít tự chủ nhất — có người giúp" },
+            { "en": "I did it with some help.", "vi": "Có hỗ trợ phần nào" },
+            { "en": "I did it.", "vi": "Trung tính" },
+            { "en": "I did it myself.", "vi": "Tự tay làm" },
+            { "en": "I did it all by myself.", "vi": "Mạnh nhất — một mình, không ai giúp" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Đại từ xuất hiện trong mọi câu, nhưng rõ nhất ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 71, "why": "I'm + tên / My name is… — my + danh từ, khung đầu tiên ai cũng dùng." },
+            { "id": 73, "why": "This is + người — giới thiệu người khác, chỗ hay nhầm he/him." },
+            { "id": 20, "why": "Let me + V — sau let luôn là dạng tân ngữ me." },
+            { "id": 51, "why": "I agree with you — sau giới từ with luôn là dạng tân ngữ." },
+            { "id": 83, "why": "It makes me + tính từ — me làm tân ngữ của make." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi với anh ấy đi dự tiệc.", "blank": "He and __________ went to the party.", "a": "I" },
+            { "vi": "Cô ấy mời anh ta và tôi.", "blank": "She invited him and __________.", "a": "me" },
+            { "vi": "Đây là bí mật giữa hai ta.", "blank": "This is a secret between you and __________.", "a": "me" },
+            { "vi": "Tôi tên Nam.", "blank": "__________ name is Nam.", "a": "My" },
+            { "vi": "Quyển sách này của tôi.", "blank": "This book is __________.", "a": "mine" },
+            { "vi": "Con chó bị đau chân.", "blank": "The dog hurt __________ leg.", "a": "its — không có dấu lược" },
+            { "vi": "Tôi tự làm mình bị thương.", "blank": "I hurt __________.", "a": "myself" },
+            { "vi": "Họ giúp đỡ lẫn nhau.", "blank": "They help __________.", "a": "each other" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn câu đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi với anh ấy đi dự tiệc.", "blank": "(a) Me and him went to the party.  (b) He and I went to the party.", "a": "(b)" },
+            { "vi": "Đây là bí mật giữa hai ta.", "blank": "(a) …between you and I.  (b) …between you and me.", "a": "(b)" },
+            { "vi": "Quyển sách này của tôi.", "blank": "(a) This book is my.  (b) This book is mine.", "a": "(b)" },
+            { "vi": "Túi này của bạn à?", "blank": "(a) Is this bag your's?  (b) Is this bag yours?", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi với anh ấy đi dự tiệc.", "a": "He and I went to the party." },
+            { "vi": "2. Quyển sách này của tôi, không phải của bạn.", "a": "This book is mine, not yours." },
+            { "vi": "3. Tôi tự tay làm đấy.", "a": "I did it myself." },
+            { "vi": "4. Để tôi tự giới thiệu.", "a": "Let me introduce myself." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Mẹo một giây cho câu có hai người:</b> <b>bỏ người kia đi rồi đọc lại</b>. <i>Me went</i> ✗ → <i>I went</i> ✓.",
+            "<b>Sau MỌI giới từ đều là dạng tân ngữ</b> — kể cả <i>between you and <b>me</b></i>. Viết <i>and I</i> cho “sang” là sai.",
+            "<b>Mẹo <i>my</i> / <i>mine</i>:</b> nhìn từ ngay sau. Có danh từ → <b>my</b>. Không có gì → <b>mine</b>.",
+            "<b>Không đại từ sở hữu nào có dấu lược:</b> <i>yours, hers, ours, theirs, its</i>. Thấy <i>her's</i> là sai chắc.",
+            "<b>Phản thân không làm chủ ngữ được.</b> <i>Myself did it</i> ✗ — nó chỉ đi kèm: <i>I did it myself</i>.",
+            "<b>Bài tập 3 phút:</b> viết năm câu về bạn và một người bạn, mỗi câu dùng một dạng: <i>I, me, my, mine, myself</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "id": 4,
+  "group": "Nhóm 1 · Phát âm — gỡ chặn cả nghe lẫn nói",
+  "title": "Cụm phụ âm — desks · asked · strengths",
+  "subtitle": "Tiếng Việt không cho hai phụ âm đứng liền nhau, nên người Việt tự động chèn nguyên âm vào giữa: desks thành “đét-sờ-kơ-sờ”. Bốn âm tiết thay vì một — người nghe không ghép lại được.",
+  "meaning": "Đọc liền nhiều phụ âm trong một âm tiết",
+  "rule": [
+    "Phụ âm liền nhau đọc <em>liền một hơi</em>, không chèn nguyên âm",
+    "Giữ hình miệng, <em>chuyển thẳng</em> từ âm này sang âm kia",
+    "Có vài âm người bản ngữ <em>cũng lược</em> — nhưng theo luật"
+  ],
+  "tags": [
+    { "text": "Mức độ: nền móng", "hot": true },
+    { "text": "“đét-sờ-kơ-sờ” ✗" },
+    { "text": "Một âm tiết, không phải bốn" },
+    { "text": "Ảnh hưởng: rất lớn" }
+  ],
+  "frames": [11, 38, 64, 75, 95],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Âm tiết tiếng Việt có khuôn rất chặt: <b>một phụ âm đầu + nguyên âm + một phụ âm cuối</b>. Tiếng Anh thì cho phép <b>tới ba phụ âm ở đầu</b> (<i>street</i>) và <b>tới bốn ở cuối</b> (<i>strengths</i>). Đây là chỗ khác nhau lớn nhất giữa hai hệ thống âm." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — chèn nguyên âm vào giữa cụm:</b><br><i>desks</i> → “đét-<b>sờ</b>-kơ-<b>sờ</b>” ✗ · <i>street</i> → “sờ-tơ-rít” ✗ · <i>played</i> → “pơ-lây” ✗<br>Một từ <b>một âm tiết</b> bị biến thành ba bốn âm tiết. Người nghe đếm nhịp không khớp nên <b>không ghép lại được thành từ</b>.<br><b>Cách đúng:</b> đặt miệng vào vị trí âm đầu, rồi <b>trượt thẳng</b> sang âm sau mà không mở miệng ra giữa chừng. <i>desks</i> = /desks/ — một hơi." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — cắt bừa âm trong cụm:</b><br>Người Việt thấy khó nên bỏ bớt: <i>asked</i> → “át” ✗ · <i>months</i> → “mon” ✗<br>Nhưng người bản ngữ <b>cũng lược âm</b> — chỉ là theo luật: <b>/t/ và /d/ nằm GIỮA hai phụ âm khác thì được lược</b>.<br>• <i>nex<b>t</b> day</i> → “nex day” ✓ (lược được)<br>• <i>asked</i> = /ɑːskt/ — /t/ ở <b>cuối</b>, <b>không</b> lược được, vì mất nó là mất thì quá khứ [Kỹ năng 03]" },
+        { "t": "h3", "text": "Bốn kiểu cụm hay gặp" },
+        {
+          "t": "table",
+          "head": ["Kiểu", "Ví dụ", "Lỗi thường gặp"],
+          "rows": [
+            ["Hai phụ âm đầu", "play · school · green", "“pơ-lây” · “sơ-chun”"],
+            ["Ba phụ âm đầu", "street · spring · strong", "“sờ-tơ-rít”"],
+            ["Hai–ba phụ âm cuối", "asked · helped · world", "“át” · “heo” · “wơn”"],
+            ["Cụm bắc cầu <code>-s</code> / <code>-ed</code>", "desks · months · stopped", "“đét-sờ-kơ-sờ” · “mon”"]
+          ]
+        },
+        { "t": "p", "html": "Hàng cuối là khó nhất vì cụm <b>sinh ra từ ngữ pháp</b>: thêm <i>-s</i> hoặc <i>-ed</i> vào một từ vốn đã kết thúc bằng phụ âm. Mà đó lại đúng là hai đuôi mang nghĩa quan trọng nhất." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cụm", "Đọc", "Từ ví dụ"],
+          "rows": [
+            ["<code>pl · bl · kl · gl · fl</code>", "Liền, không chèn /ə/", "play · blue · clean · glass · fly"],
+            ["<code>pr · br · tr · dr · gr</code>", "Liền một hơi", "price · bring · try · drive · green"],
+            ["<code>sp · st · sk</code>", "/s/ rồi bật thẳng", "speak · study · school"],
+            ["<code>spr · str · skr</code>", "Ba âm, vẫn một hơi", "spring · street · scream"],
+            ["<code>sl · sm · sn · sw</code>", "/s/ kéo rồi trượt sang", "sleep · small · snow · sweet"],
+            ["<code>-sk</code> / <code>-sks</code>", "Giữ cả cụm", "ask · desk · desks · asks"],
+            ["<code>-skt</code>", "Ba phụ âm cuối", "asked · risked"],
+            ["<code>-lp · -lk · -ld</code>", "/l/ rồi phụ âm, không thành “o”", "help · milk · world · cold"],
+            ["<code>-nd · -nt · -ns</code>", "Mũi rồi bật", "and · want · once"],
+            ["<code>-ks · -ts · -ps</code>", "Một cụm liền, không tách", "books · cats · stops"],
+            ["<code>-nθs</code>", "Khó nhất bảng", "months · strengths"],
+            ["<code>-dʒd</code> / <code>-tʃt</code>", "Âm xuýt rồi đuôi", "changed · watched"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Khi nào người bản ngữ CŨNG lược:</b> âm <b>/t/</b> hoặc <b>/d/</b> kẹp <b>giữa hai phụ âm khác</b> thì gần như luôn biến mất trong câu nói nhanh.<br><i>nex<b>t</b> week</i> → “nex week” · <i>mus<b>t</b> be</i> → “mus be” · <i>han<b>d</b>bag</i> → “hanbag”<br>Nhưng ở <b>cuối câu</b> hoặc trước <b>nguyên âm</b> thì giữ nguyên: <i>next</i> · <i>next of kin</i>. Xem [Kỹ năng 08]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Two desks, please.", "vi": "Cho tôi hai cái bàn.", "note": "BẪY SỐ MỘT: <b>desks</b> = /desks/ — MỘT âm tiết, không phải “đét-sờ-kơ-sờ”." },
+            { "en": "I asked him twice.", "vi": "Tôi hỏi anh ấy hai lần.", "note": "<b>asked</b> = /ɑːskt/ — ba phụ âm cuối, giữ cả ba. Xem [Kỹ năng 03]." },
+            { "en": "The street is very quiet.", "vi": "Phố này yên lắm.", "note": "<b>street</b> = /striːt/ — ba phụ âm đầu, một hơi." },
+            { "en": "I've been here for six months.", "vi": "Tôi ở đây sáu tháng rồi.", "note": "<b>months</b> = /mʌnθs/ — cụm khó nhất bảng." },
+            { "en": "Could you help me, please?", "vi": "Bạn giúp tôi được không?", "note": "<b>help</b> = /help/ — /l/ không được biến thành “o”. Xem [Khung 11]." },
+            { "en": "I've just finished.", "vi": "Tôi vừa làm xong.", "note": "<b>just finished</b> — /stf/ rồi /ʃt/. Xem [Khung 95]." },
+            { "en": "You should ask first.", "vi": "Bạn nên hỏi trước đã.", "note": "<b>should ask</b> — /dɑː/ nối liền. Xem [Khung 38]." },
+            { "en": "How long does it take?", "vi": "Mất bao lâu?", "note": "<b>does it</b> nối thành “dơ-zit”. Xem [Khung 64]." },
+            { "en": "He works as a teacher.", "vi": "Anh ấy làm giáo viên.", "note": "<b>works as</b> — /ks/ rồi nối sang <i>as</i>. Xem [Khung 75]." },
+            { "en": "It's the world's biggest city.", "vi": "Đây là thành phố lớn nhất thế giới.", "note": "<b>world's</b> = /wɜːldz/ — bốn phụ âm cuối." },
+            { "en": "I played football last night.", "vi": "Tối qua tôi đá bóng.", "note": "<b>played</b> = /pleɪd/ — <i>pl</i> liền, không “pơ-lây”." },
+            { "en": "Next week I'll be away.", "vi": "Tuần sau tôi đi vắng.", "note": "<b>next week</b> → “nex week” — đây là chỗ lược âm ĐÚNG luật." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào cần để ý nhất",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🔢", "title": "Danh từ số nhiều", "text": "<i>desks, books, months</i> — đuôi <i>-s</i> tạo cụm mới." },
+            { "icon": "⏮", "title": "Động từ quá khứ", "text": "<i>asked, helped, stopped</i> — đuôi <i>-ed</i> cũng vậy." },
+            { "icon": "🙋", "title": "Nhờ vả lịch sự", "text": "<i>Could you help…</i> Xem [Khung 11]." },
+            { "icon": "💼", "title": "Nói về công việc", "text": "<i>He works as…</i> Xem [Khung 75]." },
+            { "icon": "📞", "title": "Nói nhanh, nói điện thoại", "text": "Cụm bị nhão là cả câu nhão theo." },
+            { "icon": "🚫", "title": "Đừng sửa kiểu…", "text": "Đừng chèn “ơ” vào giữa, cũng đừng cắt bớt âm." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay gặp",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem cụm phụ âm của nó và lỗi hay mắc." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Cụm ở ĐẦU từ",
+              "items": [
+                { "w": "play /pl/", "vi": "chơi", "ex": "I played football last night.", "exvi": "Tối qua tôi đá bóng.", "note": "BẪY SỐ MỘT: “pơ-lây” ✗ — /p/ trượt thẳng sang /l/." },
+                { "w": "blue /bl/", "vi": "màu xanh", "ex": "The man in the blue shirt.", "exvi": "Anh mặc áo xanh." },
+                { "w": "clean /kl/", "vi": "sạch, dọn", "ex": "The room is clean.", "exvi": "Phòng sạch sẽ." },
+                { "w": "price /pr/", "vi": "giá", "ex": "What's the price?", "exvi": "Giá bao nhiêu?" },
+                { "w": "bring /br/", "vi": "mang đến", "ex": "Could you bring me the menu?", "exvi": "Cho tôi xin thực đơn." },
+                { "w": "try /tr/", "vi": "thử", "ex": "I'll try again.", "exvi": "Tôi sẽ thử lại." },
+                { "w": "green /gr/", "vi": "màu xanh lá", "ex": "Turn left at the green sign.", "exvi": "Rẽ trái ở biển xanh." },
+                { "w": "speak /sp/", "vi": "nói", "ex": "Could you speak more slowly?", "exvi": "Bạn nói chậm hơn được không?" },
+                { "w": "study /st/", "vi": "học", "ex": "I study English every day.", "exvi": "Ngày nào tôi cũng học tiếng Anh." },
+                { "w": "school /sk/", "vi": "trường", "ex": "I go to school by bus.", "exvi": "Tôi đi học bằng buýt.", "note": "“sơ-chun” ✗ — /sk/ liền, không chèn gì." },
+                { "w": "street /str/", "vi": "đường phố", "ex": "The street is very quiet.", "exvi": "Phố này yên lắm.", "note": "Ba phụ âm đầu — “sờ-tơ-rít” ✗." },
+                { "w": "small /sm/", "vi": "nhỏ", "ex": "I work for a small company.", "exvi": "Tôi làm cho công ty nhỏ. Xem [Khung 75]." }
+              ]
+            },
+            {
+              "title": "Cụm ở CUỐI từ",
+              "items": [
+                { "w": "desks /sks/", "vi": "những cái bàn", "ex": "Two desks, please.", "exvi": "Cho tôi hai cái bàn.", "note": "Cụm bắc cầu: <i>desk</i> + <i>-s</i>. Một âm tiết." },
+                { "w": "asked /skt/", "vi": "đã hỏi", "ex": "I asked him twice.", "exvi": "Tôi hỏi anh ấy hai lần.", "note": "BẪY SỐ HAI: cắt thành “át” là mất thì. Xem [Kỹ năng 03]." },
+                { "w": "months /nθs/", "vi": "tháng (số nhiều)", "ex": "I've been here for six months.", "exvi": "Tôi ở đây sáu tháng rồi.", "note": "Khó nhất bảng — ba phụ âm, có cả /θ/. Xem [Kỹ năng 06]." },
+                { "w": "help /lp/", "vi": "giúp", "ex": "Could you help me?", "exvi": "Bạn giúp tôi được không?", "note": "/l/ phải chạm lợi, không biến thành “o”. Xem [Khung 11]." },
+                { "w": "world /ld/", "vi": "thế giới", "ex": "It's the world's biggest city.", "exvi": "Thành phố lớn nhất thế giới." },
+                { "w": "cold /ld/", "vi": "lạnh", "ex": "It's cold today.", "exvi": "Hôm nay lạnh." },
+                { "w": "want /nt/", "vi": "muốn", "ex": "I want to go home.", "exvi": "Tôi muốn về nhà." },
+                { "w": "and /nd/", "vi": "và", "ex": "Nam and Lan came.", "exvi": "Nam và Lan đều đến.", "note": "Trong câu nhanh rút thành /ən/. Xem [Kỹ năng 09]." },
+                { "w": "books /ks/", "vi": "những quyển sách", "ex": "I bought three books.", "exvi": "Tôi mua ba quyển sách. Xem [Kỹ năng 02]." },
+                { "w": "stopped /pt/", "vi": "đã dừng", "ex": "The bus stopped suddenly.", "exvi": "Xe buýt dừng đột ngột." },
+                { "w": "watched /tʃt/", "vi": "đã xem", "ex": "I watched it last night.", "exvi": "Tối qua tôi xem rồi." },
+                { "w": "next week /kst w/", "vi": "tuần sau", "ex": "Next week I'll be away.", "exvi": "Tuần sau tôi đi vắng.", "note": "Đây là chỗ lược /t/ ĐÚNG luật: “nex week”." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<i>desks</i> đọc là <b>“đét-sờ-kơ-sờ”</b>", "right": "<b>“desks”</b> — một âm tiết, một hơi", "why": "BẪY SỐ MỘT: chèn nguyên âm biến một từ thành bốn âm tiết, người nghe không ghép lại được." },
+            { "wrong": "<i>street</i> đọc là <b>“sờ-tơ-rít”</b>", "right": "<b>“striːt”</b>", "why": "Ba phụ âm đầu phải trượt liền. Đừng mở miệng ra giữa chừng." },
+            { "wrong": "<i>school</i> đọc là <b>“sơ-chun”</b>", "right": "<b>“skuːl”</b>", "why": "Vừa chèn “ơ” vừa đổi /k/ thành “ch” — hai lỗi một lúc." },
+            { "wrong": "<i>played</i> đọc là <b>“pơ-lây”</b>", "right": "<b>“pleɪd”</b>", "why": "Chèn “ơ” ở đầu rồi nuốt /d/ ở cuối. Xem [Kỹ năng 03]." },
+            { "wrong": "<i>asked</i> đọc là <b>“át”</b>", "right": "<b>“ɑːskt”</b>", "why": "BẪY SỐ HAI: cắt mất /sk/ lẫn /t/ — nghe thành một từ khác hẳn." },
+            { "wrong": "<i>months</i> đọc là <b>“mon”</b>", "right": "<b>“mʌnθs”</b>", "why": "Mất /θ/ và /s/ là mất luôn số nhiều." },
+            { "wrong": "<i>help</i> đọc là <b>“heo”</b>", "right": "<b>“help”</b>", "why": "/l/ bị biến thành nguyên âm rồi /p/ rơi mất. Xem [Kỹ năng 01]." },
+            { "wrong": "<i>world</i> đọc là <b>“wơn”</b>", "right": "<b>“wɜːld”</b>", "why": "Cụm /ld/ phải giữ cả hai âm." },
+            { "wrong": "<i>cats</i> đọc tách thành <b>“cat-sờ”</b>", "right": "<b>“kæts”</b>", "why": "/ts/ là MỘT cụm, không phải hai âm tiết." },
+            { "wrong": "<i>next week</i> đọc tách rõ <b>“nekst week”</b>", "right": "<b>“nex week”</b>", "why": "Đây là lỗi ngược: cố phát rõ quá. /t/ kẹp giữa hai phụ âm thì người bản ngữ lược." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với lỗi gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Hai cách sai", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["Chèn nguyên âm / cắt bớt âm", "Thừa âm tiết / thiếu âm", "“đét-sờ-kơ-sờ” ≠ “đét”"],
+            ["Lược ĐÚNG luật / cắt bừa", "/t/ giữa hai phụ âm / phụ âm cuối", "“nex week” ✓ ≠ “át” ✗"],
+            ["Cụm đầu / cụm cuối", "Trượt vào / bật ra", "street ≠ asked"],
+            ["<code>-ts</code> liền / tách", "Một cụm / hai âm tiết", "cats = /kæts/"],
+            ["<code>/l/</code> trong cụm / thành “o”", "Chạm lợi / không chạm", "help ≠ “heo”"],
+            ["Cụm vốn có / cụm do ngữ pháp", "<code>street</code> / <code>desks</code>", "Cụm bắc cầu khó hơn"],
+            ["Cuối câu / giữa câu", "Bật rõ / rất nhẹ", "<i>I asked.</i> ≠ <i>I asked him</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: gặp cụm phụ âm thì làm gì?" },
+        {
+          "t": "tree",
+          "q": "Bạn gặp hai hay ba phụ âm đứng liền nhau — xử lý thế nào?",
+          "nodes": [
+            { "if": "Cụm ở ĐẦU từ", "then": "Trượt liền, không mở miệng giữa chừng", "ex": "play · street · school" },
+            { "if": "Cụm ở CUỐI từ", "then": "Giữ đủ các âm, bật rất nhẹ", "ex": "asked · months · world" },
+            { "if": "Từ sau bắt đầu bằng NGUYÊN ÂM", "then": "Nối âm cuối sang từ sau", "ex": "asked him → “ɑːsk-tim”" },
+            { "if": "/t/ hoặc /d/ kẹp GIỮA hai phụ âm", "then": "Lược được — người bản ngữ cũng lược", "ex": "next week → “nex week”" },
+            { "if": "/t/ /d/ là đuôi -ed mang nghĩa", "then": "KHÔNG lược — mất thì quá khứ", "ex": "asked · stopped" },
+            { "if": "Thấy quá khó", "then": "Đọc chậm lại, đừng chèn “ơ”", "ex": "desks — chậm vẫn một âm tiết" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ gọn của một cụm" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "“đét-sờ-kơ-sờ” — bốn âm tiết", "vi": "Tệ nhất — không ai ghép lại được" },
+            { "en": "“đét-sờ” — cắt bớt", "vi": "Thiếu âm, mất số nhiều" },
+            { "en": "“đét-ks” — tách đôi", "vi": "Gần đúng" },
+            { "en": "“desks” — một hơi, chậm", "vi": "Đúng" },
+            { "en": "“desks” — một hơi, nhanh", "vi": "Tốt nhất" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kỹ năng này dùng ở đâu",
+      "blocks": [
+        { "t": "p", "html": "Cụm phụ âm có mặt trong hầu hết câu dài. Bấm vào để luyện trên câu thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 11, "why": "Could you + V…, please? — could you, help, please: ba cụm trong một câu ngắn." },
+            { "id": 95, "why": "I've just + V3 — I've just finished: /vdʒ/ rồi /ʃt/, dày cụm nhất." },
+            { "id": 64, "why": "How long does it take to…? — does it, takes: cụm nối giữa các từ." },
+            { "id": 75, "why": "I work as / for… — works as, small company." },
+            { "id": 38, "why": "You should + V / You'd better + V — should ask, you'd better: cụm bắc cầu giữa hai từ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Từ này có mấy âm tiết?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "những cái bàn", "blank": "desks  →  __________ âm tiết", "a": "1 — /desks/" },
+            { "vi": "đã hỏi", "blank": "asked  →  __________ âm tiết", "a": "1 — /ɑːskt/" },
+            { "vi": "đường phố", "blank": "street  →  __________ âm tiết", "a": "1 — /striːt/" },
+            { "vi": "tháng (số nhiều)", "blank": "months  →  __________ âm tiết", "a": "1 — /mʌnθs/" },
+            { "vi": "đã muốn", "blank": "wanted  →  __________ âm tiết", "a": "2 — /ˈwɒnt-ɪd/, vì sau /t/ thêm /ɪd/" },
+            { "vi": "đã chơi", "blank": "played  →  __________ âm tiết", "a": "1 — /pleɪd/" },
+            { "vi": "trường học", "blank": "school  →  __________ âm tiết", "a": "1 — /skuːl/" },
+            { "vi": "thế giới", "blank": "world  →  __________ âm tiết", "a": "1 — /wɜːld/" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn cách đọc đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "hai cái bàn", "blank": "(a) “đét-sờ-kơ-sờ”  (b) “desks”", "a": "(b)" },
+            { "vi": "Tôi hỏi anh ấy hai lần.", "blank": "(a) “ai át him twai”  (b) “ai ɑːskt him twais”", "a": "(b)" },
+            { "vi": "Bạn giúp tôi được không?", "blank": "(a) “kud iu heo mi”  (b) “kud iu help mi”", "a": "(b)" },
+            { "vi": "Tuần sau tôi đi vắng.", "blank": "(a) “nekst week” tách rõ  (b) “nex week” lược /t/", "a": "(b) — lược đúng luật" }
+          ]
+        },
+        { "t": "h3", "text": "C. Đọc to rồi ghi âm, đếm lại số âm tiết" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Cho tôi hai cái bàn.", "a": "Two desks, please.  →  desks = 1 âm tiết" },
+            { "vi": "2. Tôi hỏi anh ấy hai lần nhưng anh ấy không trả lời.", "a": "I asked him twice but he didn't answer.  →  asked /skt/" },
+            { "vi": "3. Tôi ở đây sáu tháng rồi.", "a": "I've been here for six months.  →  months /nθs/" },
+            { "vi": "4. Bạn giúp tôi được không?", "a": "Could you help me, please?  →  help /lp/" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật một hơi:</b> cả cụm đọc trong <b>một nhịp</b>. Chèn “ơ” vào giữa là biến một âm tiết thành ba bốn.",
+            "<b>Mẹo tập:</b> đọc <b>ngược từ cuối lên</b> — <i>sks → esks → desks</i>. Tai bạn sẽ bắt được chỗ nào bị hở.",
+            "<b>Cụm đầu thì trượt vào, cụm cuối thì bật ra.</b> Hai kiểu khác nhau, tập riêng.",
+            "<b>Lược âm có luật:</b> /t/ /d/ kẹp <b>giữa hai phụ âm</b> thì lược được (<i>next week</i>). Đuôi <i>-ed</i> mang nghĩa thì <b>không</b>.",
+            "<b>Cụm khó nhất là cụm do ngữ pháp sinh ra</b> — <i>desks</i>, <i>asked</i>, <i>months</i>. Mà đó lại là chỗ mang nghĩa quan trọng nhất.",
+            "<b>Bài tập 2 phút:</b> đọc mười từ <i>play, street, school, desks, asked, months, help, world, books, stopped</i> rồi ghi âm, chỉ chấm xem có chèn “ơ” không."
+          ]
+        }
+      ]
+    }
+  ]
+}

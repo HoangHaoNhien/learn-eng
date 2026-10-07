@@ -1,0 +1,122 @@
+{
+  "id": 6,
+  "title": "Đại từ — thay cho tên người",
+  "teaches": ["pronoun", "they", "them", "us", "him", "her", "it", "we", "he", "she", "Nam", "together"],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn dùng đúng bảy từ <b>I · you · he · she · it · we · they</b>, và biết khi nào phải đổi chúng thành <b>me · him · her · us · them</b>." },
+        { "t": "p", "html": "<b>Đại từ</b> là từ dùng <b>thay cho một danh từ</b> đã nhắc rồi, để khỏi lặp lại. Tiếng Việt cũng có: <i>“Lan đến. <b>Cô ấy</b> mang theo sách.”</i> — <i>cô ấy</i> chính là đại từ." },
+        { "t": "callout", "html": "<b>Điều làm người Việt bối rối nhất:</b> tiếng Việt chọn đại từ theo <b>tuổi và quan hệ</b> — anh, chị, em, cô, chú, bác, ông, bà…<br><br>Tiếng Anh <b>không quan tâm tuổi tác</b>. Chỉ có ba thứ cần biết: <b>ai đang nói</b>, <b>nam hay nữ</b>, và <b>một hay nhiều</b>. Ít lựa chọn hơn nhiều, nên dễ hơn." }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "Bài 05 — chủ ngữ và tân ngữ. Nhắc lại: <b>chủ ngữ</b> là ai làm, <b>tân ngữ</b> là ai bị tác động. Bài này cho biết đại từ <b>đổi hình</b> tuỳ theo nó đứng ở vị trí nào." },
+        { "t": "link", "items": [{ "id": 5, "label": "Xem lại bài 05 nếu chưa chắc chủ ngữ và tân ngữ" }] }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "table", "head": ["Luật", "Nghĩa là gì", "Ví dụ"], "rows": [
+          ["<b>1.</b> Làm chủ ngữ thì dùng dạng A", "Đứng <b>trước</b> động từ", "<b>I</b> like her."],
+          ["<b>2.</b> Làm tân ngữ thì dùng dạng B", "Đứng <b>sau</b> động từ hoặc sau giới từ", "She likes <b>me</b>."],
+          ["<b>3.</b> Vật thì luôn là <code>it</code>", "Không phân biệt nam nữ như tiếng Việt", "The book? <b>It</b> is new."]
+        ] },
+        { "t": "h3", "text": "Bảy đại từ và hai dạng của chúng" },
+        { "t": "table", "head": ["Dạng A (chủ ngữ)", "Dạng B (tân ngữ)", "Nghĩa"], "rows": [
+          ["<b>I</b>", "<b>me</b>", "tôi"],
+          ["<b>you</b>", "<b>you</b>", "bạn · các bạn (không đổi)"],
+          ["<b>he</b>", "<b>him</b>", "anh ấy · ông ấy (nam)"],
+          ["<b>she</b>", "<b>her</b>", "cô ấy · bà ấy (nữ)"],
+          ["<b>it</b>", "<b>it</b>", "nó (vật, con vật, thời tiết)"],
+          ["<b>we</b>", "<b>us</b>", "chúng tôi · chúng ta"],
+          ["<b>they</b>", "<b>them</b>", "họ · chúng nó (người và vật)"]
+        ] },
+        { "t": "callout", "html": "<b>Ba điều dễ chịu:</b><br>• <code>I</code> <b>luôn viết hoa</b>, đứng ở đâu trong câu cũng vậy.<br>• <code>you</code> dùng cho cả <b>một người lẫn nhiều người</b>, cả người lớn lẫn trẻ con — không phải chọn anh/chị/em gì cả.<br>• <code>they</code> dùng cho cả <b>người lẫn vật</b> số nhiều." }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "Dạng A — làm chủ ngữ, đứng trước động từ" },
+        { "t": "ex", "items": [
+          { "en": "I am a student.", "vi": "Tôi là sinh viên.", "note": "<b>I</b> luôn viết hoa." },
+          { "en": "You are my friend.", "vi": "Bạn là bạn tôi.", "note": "<b>You</b> dùng được cho mọi người, mọi tuổi." },
+          { "en": "He works here.", "vi": "Anh ấy làm ở đây.", "note": "<b>He</b> cho nam." },
+          { "en": "She reads a book.", "vi": "Cô ấy đọc sách.", "note": "<b>She</b> cho nữ." },
+          { "en": "It is hot today.", "vi": "Hôm nay nóng.", "note": "<b>It</b> cho thời tiết — không chỉ vật nào cả." },
+          { "en": "We live in Hue.", "vi": "Chúng tôi sống ở Huế.", "note": "<b>We</b> = tôi và người khác." },
+          { "en": "They are my parents.", "vi": "Họ là bố mẹ tôi.", "note": "<b>They</b> cho số nhiều." }
+        ] },
+        { "t": "h3", "text": "Dạng B — làm tân ngữ, đứng sau động từ" },
+        { "t": "ex", "items": [
+          { "en": "She likes me.", "vi": "Cô ấy thích tôi.", "note": "Sau động từ <i>likes</i> phải dùng <b>me</b>, không dùng <i>I</i>." },
+          { "en": "I know him.", "vi": "Tôi biết anh ấy.", "note": "<b>him</b> chứ không phải <i>he</i>." },
+          { "en": "We see her every day.", "vi": "Ngày nào chúng tôi cũng gặp cô ấy.", "note": "<b>her</b> làm tân ngữ." },
+          { "en": "They help us.", "vi": "Họ giúp chúng tôi.", "note": "<b>us</b> làm tân ngữ của <i>help</i>." },
+          { "en": "I don't know them.", "vi": "Tôi không biết họ.", "note": "<b>them</b> chứ không phải <i>they</i>." },
+          { "en": "Please call me.", "vi": "Hãy gọi cho tôi.", "note": "Câu không có chủ ngữ rõ, nhưng tân ngữ vẫn là <b>me</b>." }
+        ] },
+        { "t": "h3", "text": "Sau giới từ cũng dùng dạng B" },
+        { "t": "ex", "items": [
+          { "en": "This book is for me.", "vi": "Quyển sách này cho tôi.", "note": "Sau giới từ <b>for</b> dùng <b>me</b>." },
+          { "en": "Come with us.", "vi": "Đi cùng chúng tôi.", "note": "Sau <b>with</b> dùng <b>us</b>." },
+          { "en": "I live near them.", "vi": "Tôi sống gần họ.", "note": "Sau <b>near</b> dùng <b>them</b>." },
+          { "en": "She sits next to him.", "vi": "Cô ấy ngồi cạnh anh ấy.", "note": "Sau <b>next to</b> dùng <b>him</b>." }
+        ] },
+        { "t": "h3", "text": "Thay danh từ đã nhắc rồi" },
+        { "t": "ex", "items": [
+          { "en": "My mother is a teacher. She works at a school.", "vi": "Mẹ tôi là giáo viên. Bà ấy làm ở trường.", "note": "Câu hai dùng <b>She</b> thay cho <i>My mother</i>." },
+          { "en": "I have a cat. It sleeps all day.", "vi": "Tôi có một con mèo. Nó ngủ cả ngày.", "note": "Con vật dùng <b>It</b>." },
+          { "en": "The books are new. I like them.", "vi": "Những quyển sách này mới. Tôi thích chúng.", "note": "Vật số nhiều dùng <b>them</b> khi làm tân ngữ." },
+          { "en": "Nam and I are friends. We study together.", "vi": "Nam và tôi là bạn. Chúng tôi học cùng nhau.", "note": "<i>Nam và tôi</i> gộp lại thành <b>We</b>." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — chọn đúng dạng" },
+        { "t": "quiz", "items": [
+          { "vi": "Tôi là sinh viên.", "blank": "___ am a student.", "a": "I — luôn viết hoa" },
+          { "vi": "Cô ấy thích tôi.", "blank": "She likes ___.", "a": "me — làm tân ngữ nên dùng dạng B" },
+          { "vi": "Tôi biết anh ấy.", "blank": "I know ___.", "a": "him" },
+          { "vi": "Họ giúp chúng tôi.", "blank": "They help ___.", "a": "us" },
+          { "vi": "Quyển sách này cho tôi.", "blank": "This book is for ___.", "a": "me — sau giới từ cũng dùng dạng B" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — thay danh từ bằng đại từ" },
+        { "t": "quiz", "items": [
+          { "vi": "<i>My father</i> works here. → thay bằng đại từ", "a": "He works here." },
+          { "vi": "<i>My mother</i> is a teacher. → thay bằng đại từ", "a": "She is a teacher." },
+          { "vi": "<i>The cat</i> sleeps. → thay bằng đại từ", "a": "It sleeps. — con vật dùng it" },
+          { "vi": "<i>Nam and Lan</i> are my friends. → thay bằng đại từ", "a": "They are my friends." }
+        ] },
+        { "t": "h3", "text": "Phần 3 — hiểu quy tắc" },
+        { "t": "quiz", "items": [
+          { "vi": "Vì sao <i>She likes I</i> là sai?", "a": "Sau động từ phải dùng dạng tân ngữ — <b>me</b>, không phải <i>I</i>" },
+          { "vi": "<i>you</i> dùng cho một người hay nhiều người?", "a": "Cả hai — và không phân biệt tuổi tác" },
+          { "vi": "Nói về trời nóng thì dùng đại từ nào?", "a": "<b>It</b> — It is hot today." }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>Trước động từ dùng dạng A, sau động từ dùng dạng B.</b> <i>I like her</i> · <i>She likes me</i>. Cùng hai người, nhưng đổi chỗ thì đổi cả hình.",
+          "<b><code>I</code> luôn viết hoa</b>, dù nằm giữa câu. Đây là từ duy nhất trong tiếng Anh như vậy.",
+          "<b>Tiếng Anh không chọn đại từ theo tuổi.</b> Không có anh/chị/em/cô/chú — chỉ cần biết nam hay nữ, một hay nhiều."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "<i>She likes I.</i>", "right": "<i>She likes me.</i>", "why": "Sau động từ là vị trí tân ngữ, phải dùng dạng B. Tiếng Việt không đổi hình đại từ (<i>tôi</i> vẫn là <i>tôi</i> ở mọi vị trí) nên người Việt hay quên chỗ này." },
+          { "wrong": "<i>Me am a student.</i>", "right": "<i>I am a student.</i>", "why": "Ngược lại với lỗi trên: đứng trước động từ là vị trí chủ ngữ, phải dùng dạng A." },
+          { "wrong": "<i>The book? He is new.</i>", "right": "<i>The book? It is new.</i>", "why": "Vật và con vật dùng <b>it</b>, không dùng <i>he</i> hay <i>she</i>. Tiếng Việt gọi đồ vật là <i>nó</i> — tiếng Anh cũng vậy, chỉ là phải nhớ đúng chữ <b>it</b>." }
+        ] }
+      ]
+    }
+  ]
+}

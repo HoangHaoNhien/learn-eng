@@ -1,0 +1,498 @@
+{
+  "id": 88,
+  "group": "Nhóm 9 · Cảm xúc & Phản ứng",
+  "title": "I feel bad about… — Nói ra sự áy náy",
+  "subtitle": "Khung câu diễn tả cảm giác áy náy, day dứt vì điều mình đã làm hoặc không làm được. Ba bẫy nằm cạnh nhau: feel bad ABOUT (việc mình gây ra) khác feel bad FOR (thương cảm người khác), sau about phải là V-ing, và tuyệt đối không nói I feel badly.",
+  "pattern": [
+    "I feel bad <em>about + V-ing / N</em>.",
+    "I feel bad <em>for + người</em>.",
+    "I feel bad <em>(that) + mệnh đề</em>."
+  ],
+  "meaning": "Tôi thấy áy náy vì… / Tôi thấy thương cho…",
+  "grammar": [3, 15, 16, 25],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "about ✓ / for ✓ nhưng khác nghĩa" },
+    { "text": "Không bao giờ: I feel badly ✗" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I feel bad about…</span> là cảm giác áy náy, day dứt — nhẹ hơn <i>I'm sorry</i> ở chỗ nó nói về <b>cảm xúc bên trong bạn</b> chứ không phải một lời xin lỗi chính thức." },
+        { "t": "p", "html": "Khung này có hai giới từ, và chúng mang <b>hai nghĩa hoàn toàn khác nhau</b> — đây là điểm phải nắm cho chắc trước khi dùng." },
+        { "t": "callout", "html": "<b>HAI GIỚI TỪ, HAI NGHĨA:</b><br>• <i>I feel bad <b>about</b> shouting at her</i> = tôi áy náy vì <b>việc tôi đã làm</b>.<br>• <i>I feel bad <b>for</b> her</i> = tôi thấy <b>thương cho cô ấy</b> — không phải lỗi của tôi.<br>Dùng nhầm thì nghĩa lật ngược hẳn." },
+        { "t": "p", "html": "Chữ <b>about</b> là giới từ, nên theo sau nó là <b>danh từ</b> hoặc <b>V-ing</b> — giống hệt <i>worried about</i> ở [Khung 87] và <i>looking forward to</i> ở [Khung 86]." },
+        { "t": "callout", "html": "<b>BẪY NGƯỢC ĐỜI:</b> <i>I feel <b>bad</b></i> ✓ chứ không phải <i>I feel badly</i> ✗. Sau động từ chỉ cảm giác (<i>feel, look, sound, seem</i>) là <b>TÍNH TỪ</b>, không phải trạng từ. Giống <i>That sounds great</i> ở [Khung 85]." },
+        { "t": "h3", "text": "Ba nhánh của khung" },
+        {
+          "t": "table",
+          "head": ["Nhánh", "Cấu trúc", "Nghĩa"],
+          "rows": [
+            ["Áy náy vì việc mình làm", "<code>feel bad about + V-ing</code>", "I feel bad about lying."],
+            ["Áy náy vì một chuyện", "<code>feel bad about + N</code>", "I feel bad about the mess."],
+            ["Thương cảm cho ai", "<code>feel bad for + người</code>", "I feel bad for him."],
+            ["Áy náy, nói rõ nội dung", "<code>feel bad (that) + mệnh đề</code>", "I feel bad that I forgot."]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "😔", "title": "Quên mất việc gì đó", "text": "<i>I feel bad about forgetting your birthday.</i>" },
+            { "icon": "🙅", "title": "Phải từ chối ai", "text": "<i>I feel bad saying no, but I can't.</i>" },
+            { "icon": "💼", "title": "Đẩy việc sang người khác", "text": "<i>I feel bad about leaving you with all this.</i>" },
+            { "icon": "🤲", "title": "Thương cảm người khác", "text": "<i>I feel bad for her.</i> Ở đây là <b>for</b>, không phải <i>about</i>." },
+            { "icon": "🍽️", "title": "Ngại vì được đãi", "text": "<i>I feel bad letting you pay again.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Cần xin lỗi chính thức. Lúc đó phải là <i>I'm sorry for…</i> — xem [Khung 79]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Với V-ing", "<code>I feel bad about + V-ing.</code>", "I feel bad about forgetting."],
+            ["Với danh từ", "<code>I feel bad about + N.</code>", "I feel bad about the delay."],
+            ["Bỏ luôn “about”", "<code>I feel bad + V-ing.</code>", "I feel bad asking you again."],
+            ["Với mệnh đề", "<code>I feel bad (that) + S + V.</code>", "I feel bad that I forgot."],
+            ["Thương cảm", "<code>I feel bad for + người.</code>", "I feel bad for him."],
+            ["Làm nhẹ đi", "<code>I feel a bit bad about…</code>", "I feel a bit bad about it."],
+            ["Nhấn mạnh", "<code>I feel really bad about…</code>", "I feel really bad about this."],
+            ["Quá khứ", "<code>I felt bad about…</code>", "I felt bad about it all week."],
+            ["Trang trọng hơn", "<code>I feel guilty about…</code>", "I feel guilty about leaving early."],
+            ["Trấn an người áy náy", "<code>Don't feel bad about it.</code>", "Don't feel bad about it."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Bỏ luôn chữ <i>about</i></b> cũng rất tự nhiên khi theo sau là V-ing: <i>I feel bad ask<b>ing</b> you again.</i> Nhưng đã bỏ <i>about</i> thì <b>bắt buộc</b> phải có V-ing, không được dùng động từ trần." },
+        { "t": "callout", "html": "<b>Khác với lời xin lỗi:</b> <i>I feel bad about…</i> mô tả cảm xúc của bạn; <i>I'm sorry for…</i> mới là lời xin lỗi thật sự. Trong tình huống nghiêm túc, nói cả hai: <i>I feel bad about this — I'm really sorry.</i>" }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Nói ra sự áy náy",
+              "items": [
+                { "w": "feel bad about", "vi": "áy náy vì việc mình làm", "ex": "I feel bad about forgetting.", "exvi": "Tôi áy náy vì đã quên.", "note": "Sau <b>about</b> là danh từ hoặc <b>V-ing</b>, không bao giờ là động từ trần." },
+                { "w": "feel bad for", "vi": "thấy thương cho ai", "ex": "I feel bad for her.", "exvi": "Tôi thấy thương cho cô ấy.", "note": "KHÁC HẲN <i>about</i>: <b>for</b> là thương cảm người khác, không phải lỗi của mình." },
+                { "w": "feel bad (that)", "vi": "áy náy là", "ex": "I feel bad that I forgot.", "exvi": "Tôi áy náy là mình đã quên.", "note": "Với mệnh đề thì BỎ <i>about</i> đi." },
+                { "w": "feel a bit bad", "vi": "hơi áy náy", "ex": "I feel a bit bad about it.", "exvi": "Tôi hơi áy náy về chuyện đó." },
+                { "w": "feel really bad", "vi": "áy náy lắm", "ex": "I feel really bad about this.", "exvi": "Tôi thật sự áy náy về chuyện này." },
+                { "w": "feel terrible about", "vi": "áy náy kinh khủng", "ex": "I feel terrible about it.", "exvi": "Tôi áy náy kinh khủng về chuyện đó.", "note": "Mạnh hơn <i>bad</i> nhiều — dùng khi lỗi thật sự lớn." },
+                { "w": "feel guilty about", "vi": "thấy có lỗi vì", "ex": "I feel guilty about leaving early.", "exvi": "Tôi thấy có lỗi vì về sớm.", "note": "Trang trọng hơn và nhấn vào TRÁCH NHIỆM của mình." },
+                { "w": "feel awkward about", "vi": "thấy ngượng về", "ex": "I feel awkward about asking.", "exvi": "Tôi thấy ngượng khi phải hỏi." },
+                { "w": "feel sorry for", "vi": "thấy tội nghiệp cho", "ex": "I feel sorry for him.", "exvi": "Tôi thấy tội nghiệp cho anh ấy.", "note": "Giới từ <b>for</b>, giống <i>feel bad for</i>. Nhưng nghe thương hại hơn một chút." },
+                { "w": "It's been on my mind", "vi": "chuyện đó cứ lởn vởn trong đầu tôi", "ex": "It's been on my mind all week.", "exvi": "Chuyện đó lởn vởn trong đầu tôi cả tuần." },
+                { "w": "I can't stop thinking about", "vi": "tôi không thôi nghĩ về", "ex": "I can't stop thinking about it.", "exvi": "Tôi không thôi nghĩ về chuyện đó." },
+                { "w": "I owe you an apology", "vi": "tôi nợ bạn một lời xin lỗi", "ex": "I owe you an apology.", "exvi": "Tôi nợ bạn một lời xin lỗi.", "note": "Câu mở đường rất mạnh cho một lời xin lỗi nghiêm túc. Xem [Khung 79]." }
+              ]
+            },
+            {
+              "title": "Nội dung sự áy náy & từ dễ nhầm",
+              "items": [
+                { "w": "about forgetting", "vi": "vì đã quên", "ex": "I feel bad about forgetting your birthday.", "exvi": "Tôi áy náy vì quên sinh nhật bạn.", "note": "V-ing bắt buộc: <i>about forget</i> ✗." },
+                { "w": "about saying no", "vi": "vì phải từ chối", "ex": "I feel bad about saying no.", "exvi": "Tôi áy náy vì phải từ chối." },
+                { "w": "about leaving you with it", "vi": "vì để lại việc cho bạn", "ex": "I feel bad about leaving you with all this.", "exvi": "Tôi áy náy vì để lại hết việc này cho bạn." },
+                { "w": "about asking again", "vi": "vì lại phải nhờ", "ex": "I feel bad asking you again.", "exvi": "Tôi ngại khi lại phải nhờ bạn.", "note": "Ở đây <i>about</i> được bỏ hẳn — vẫn phải giữ <b>V-ing</b>." },
+                { "w": "about cancelling", "vi": "vì hủy hẹn", "ex": "I feel bad about cancelling.", "exvi": "Tôi áy náy vì hủy hẹn." },
+                { "w": "about not calling", "vi": "vì đã không gọi", "ex": "I feel bad about not calling you.", "exvi": "Tôi áy náy vì đã không gọi cho bạn.", "note": "Phủ định đặt TRƯỚC V-ing: <i>about <b>not</b> calling</i>." },
+                { "w": "I feel badly ✗", "vi": "câu sai kinh điển", "ex": "I feel bad. ✓", "exvi": "Tôi thấy áy náy.", "note": "BẪY NGƯỢC ĐỜI: sau <i>feel</i> là TÍNH TỪ. <i>I feel badly</i> ✗ nghĩa gốc là “tay tôi sờ kém”." },
+                { "w": "I'm sorry for + V-ing", "vi": "tôi xin lỗi vì", "ex": "I'm sorry for being late.", "exvi": "Tôi xin lỗi vì đến muộn.", "note": "Đây mới là LỜI XIN LỖI thật. <i>feel bad</i> chỉ là cảm xúc. Xem [Khung 79]." },
+                { "w": "It's my fault", "vi": "lỗi của tôi", "ex": "It's my fault, not yours.", "exvi": "Lỗi của tôi, không phải của bạn.", "note": "Nhận lỗi thẳng thắn — mạnh hơn <i>feel bad</i>." },
+                { "w": "I should have", "vi": "đáng lẽ tôi nên", "ex": "I should have told you.", "exvi": "Đáng lẽ tôi nên nói với bạn.", "note": "Sau <i>should have</i> là V3: <i>should have <b>told</b></i>, không phải <i>should have tell</i> ✗." },
+                { "w": "I didn't mean to", "vi": "tôi không cố ý", "ex": "I didn't mean to upset you.", "exvi": "Tôi không cố ý làm bạn buồn." },
+                { "w": "Let me make it up to you", "vi": "để tôi bù lại cho bạn", "ex": "Let me make it up to you.", "exvi": "Để tôi bù lại cho bạn.", "note": "Thành ngữ — cách chuộc lỗi rất tự nhiên và ấm áp." }
+              ]
+            },
+            {
+              "title": "Trấn an người đang áy náy",
+              "items": [
+                { "w": "Don't feel bad about it", "vi": "đừng áy náy chuyện đó", "ex": "Don't feel bad about it.", "exvi": "Đừng áy náy chuyện đó.", "note": "Giới từ vẫn là <b>about</b>, không bao giờ <i>for it</i> khi nói về sự việc." },
+                { "w": "It's not your fault", "vi": "không phải lỗi của bạn", "ex": "It's not your fault.", "exvi": "Không phải lỗi của bạn." },
+                { "w": "These things happen", "vi": "chuyện đó vẫn xảy ra mà", "ex": "These things happen.", "exvi": "Chuyện đó vẫn xảy ra mà." },
+                { "w": "No harm done", "vi": "có sao đâu", "ex": "No harm done.", "exvi": "Có sao đâu.", "note": "Thành ngữ ngắn gọn — nghĩa là không ai thiệt hại gì." },
+                { "w": "Honestly, it's fine", "vi": "thật đấy, không sao mà", "ex": "Honestly, it's fine.", "exvi": "Thật đấy, không sao mà." },
+                { "w": "You had no way of knowing", "vi": "bạn làm sao biết được", "ex": "You had no way of knowing.", "exvi": "Bạn làm sao biết được." },
+                { "w": "Please don't worry", "vi": "đừng lo mà", "ex": "Please don't worry about it.", "exvi": "Đừng lo chuyện đó mà. Xem [Khung 87]." },
+                { "w": "Let it go", "vi": "bỏ qua đi", "ex": "Let it go.", "exvi": "Bỏ qua đi." },
+                { "w": "I appreciate you saying that", "vi": "cảm ơn bạn đã nói vậy", "ex": "I appreciate you saying that.", "exvi": "Cảm ơn bạn đã nói vậy. Xem [Khung 78]." },
+                { "w": "That means a lot", "vi": "điều đó với tôi rất có ý nghĩa", "ex": "That means a lot.", "exvi": "Điều đó với tôi rất có ý nghĩa." },
+                { "w": "We're good", "vi": "mình ổn mà", "ex": "We're good, really.", "exvi": "Mình ổn mà, thật đấy.", "note": "Cách nói thân mật rằng chuyện đã qua, không giận nhau." },
+                { "w": "Forget about it", "vi": "quên chuyện đó đi", "ex": "Forget about it.", "exvi": "Quên chuyện đó đi." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I feel bad about leaving you with all this.",
+                  "vi": "Tôi áy náy vì để lại hết việc này cho anh/chị.",
+                  "note": "Sau <b>about</b> phải là <b>V-ing</b>: <i>leaving</i> ✓, <i>leave</i> ✗.",
+                  "open": { "en": "I have to head off early today.", "vi": "Hôm nay tôi phải về sớm." },
+                  "reply": [
+                    { "them": "Don't feel bad — it's not much left.", "themvi": "Đừng áy náy — còn ít việc thôi.", "you": "Let me make it up to you tomorrow.", "youvi": "Để mai tôi bù lại nhé." },
+                    { "them": "Honestly, it's fine. Go.", "themvi": "Thật đấy, không sao. Anh/chị về đi.", "you": "Thank you. I owe you one.", "youvi": "Cảm ơn. Tôi nợ anh/chị một lần." }
+                  ],
+                  "close": { "en": "I'll take the early shift on Friday.", "vi": "Thứ Sáu tôi sẽ nhận ca sớm." }
+                },
+                {
+                  "en": "I feel bad about the delay — it was my fault.",
+                  "vi": "Tôi áy náy về sự chậm trễ — đó là lỗi của tôi.",
+                  "note": "Sau <b>about</b> là DANH TỪ cũng đúng. Thêm <i>it was my fault</i> để nhận trách nhiệm rõ ràng.",
+                  "reply": [
+                    { "them": "I appreciate you saying that.", "themvi": "Cảm ơn anh/chị đã nói vậy.", "you": "It won't happen again.", "youvi": "Sẽ không có lần sau." }
+                  ],
+                  "vars": [
+                    { "en": "I feel terrible about the delay.", "vi": "Tôi áy náy kinh khủng về sự chậm trễ." }
+                  ]
+                },
+                {
+                  "en": "I feel bad saying no, but I can't take it on.",
+                  "vi": "Tôi ngại khi phải từ chối, nhưng tôi không nhận thêm được.",
+                  "note": "Ở đây chữ <b>about</b> được BỎ HẲN — nhưng vẫn bắt buộc phải là <b>V-ing</b>: <i>saying</i> ✓.",
+                  "reply": [
+                    { "them": "That's understandable. Thanks for being upfront.", "themvi": "Hiểu mà. Cảm ơn anh/chị đã nói thẳng.", "you": "I'd rather be honest early.", "youvi": "Tôi muốn nói thật sớm hơn." }
+                  ]
+                },
+                {
+                  "en": "I feel bad for her — that wasn't a fair decision.",
+                  "vi": "Tôi thấy thương cho cô ấy — quyết định đó không công bằng.",
+                  "note": "Giới từ <b>for</b> = THƯƠNG CẢM cho người khác, không phải lỗi của mình. Khác hẳn <i>about</i>.",
+                  "reply": [
+                    { "them": "I know. She took it hard.", "themvi": "Tôi biết. Cô ấy buồn lắm.", "you": "I'll check in with her.", "youvi": "Tôi sẽ hỏi thăm cô ấy." }
+                  ],
+                  "close": { "en": "Maybe we can raise it next week.", "vi": "Có lẽ tuần sau mình nêu lại chuyện đó." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I feel bad about forgetting your birthday.",
+                  "vi": "Mình áy náy vì quên sinh nhật bạn.",
+                  "note": "<b>forgetting</b> ✓, không bao giờ <i>about forget</i> ✗. Chữ <i>about</i> là giới từ — xem [Khung 86].",
+                  "reply": [
+                    { "them": "Don't feel bad — I barely remembered myself.", "themvi": "Đừng áy náy — chính mình còn suýt quên.", "you": "Still, let me take you out.", "youvi": "Dù sao, để mình mời bạn đi chơi." }
+                  ],
+                  "close": { "en": "Are you free this weekend?", "vi": "Cuối tuần này bạn rảnh không?" }
+                },
+                {
+                  "en": "I feel bad about not calling you back.",
+                  "vi": "Mình áy náy vì đã không gọi lại cho bạn.",
+                  "note": "Phủ định đặt TRƯỚC V-ing: <i>about <b>not</b> calling</i> ✓, không phải <i>about don't call</i> ✗.",
+                  "reply": [
+                    { "them": "It's fine, I knew you were busy.", "themvi": "Không sao, mình biết bạn bận.", "you": "That's kind of you.", "youvi": "Bạn tốt quá." }
+                  ]
+                },
+                {
+                  "en": "I felt bad about it all week, honestly.",
+                  "vi": "Thật lòng, mình áy náy chuyện đó cả tuần.",
+                  "note": "Dạng QUÁ KHỨ <i>felt</i> — kể lại cảm giác đã kéo dài.",
+                  "reply": [
+                    { "them": "You should have said something.", "themvi": "Đáng lẽ bạn phải nói chứ.", "you": "I know. I should have.", "youvi": "Mình biết. Đáng lẽ mình nên nói." }
+                  ],
+                  "vars": [
+                    { "en": "It's been on my mind all week.", "vi": "Chuyện đó lởn vởn trong đầu mình cả tuần." }
+                  ]
+                },
+                {
+                  "en": "Don't feel bad about it — these things happen.",
+                  "vi": "Đừng áy náy chuyện đó — chuyện vậy vẫn xảy ra mà.",
+                  "note": "Câu trấn an chuẩn. Giới từ vẫn là <b>about</b> khi nói về sự việc.",
+                  "reply": [
+                    { "them": "Thanks. That means a lot.", "themvi": "Cảm ơn bạn. Điều đó rất có ý nghĩa.", "you": "We're good, really.", "youvi": "Mình ổn mà, thật đấy." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I feel bad letting you pay again.",
+                  "vi": "Mình ngại khi lại để bạn trả tiền.",
+                  "note": "Bỏ <i>about</i>, giữ <b>V-ing</b>: <i>letting</i> ✓.",
+                  "reply": [
+                    { "them": "You got it last time.", "themvi": "Lần trước bạn trả rồi mà.", "you": "Then next one's definitely mine.", "youvi": "Vậy lần tới chắc chắn là mình." }
+                  ],
+                  "close": { "en": "I'll book the table next time too.", "vi": "Lần tới mình cũng đặt bàn luôn." }
+                },
+                {
+                  "en": "I feel bad about cancelling dinner.",
+                  "vi": "Mình áy náy vì hủy bữa tối.",
+                  "reply": [
+                    { "them": "No harm done. Another night?", "themvi": "Có sao đâu. Hôm khác nhé?", "you": "Thursday works for me.", "youvi": "Thứ Năm mình được." }
+                  ],
+                  "vars": [
+                    { "en": "I'm sorry for cancelling dinner.", "vi": "Mình xin lỗi vì hủy bữa tối." }
+                  ]
+                },
+                {
+                  "en": "I feel bad — I've eaten most of it.",
+                  "vi": "Mình ngại quá — mình ăn gần hết rồi.",
+                  "note": "Dùng một mình, không cần giới từ. Ngữ cảnh đã đủ rõ.",
+                  "reply": [
+                    { "them": "Good! That's why I made it.", "themvi": "Tốt chứ! Mình nấu để ăn mà.", "you": "It was excellent.", "youvi": "Ngon tuyệt." }
+                  ]
+                },
+                {
+                  "en": "I feel bad for the staff — it's packed tonight.",
+                  "vi": "Mình thấy thương nhân viên — tối nay quán đông nghịt.",
+                  "note": "Lại là <b>for</b> + NGƯỜI = thương cảm, không phải lỗi của mình.",
+                  "reply": [
+                    { "them": "They're handling it well.", "themvi": "Họ xoay xở tốt đấy chứ.", "you": "Let's leave a good tip.", "youvi": "Mình boa hậu hĩnh chút nhé." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I feel bad about dragging you all this way.",
+                  "vi": "Mình áy náy vì kéo bạn đi xa thế này.",
+                  "reply": [
+                    { "them": "Don't be silly, I wanted to come.", "themvi": "Nói vớ vẩn, mình muốn đi mà.", "you": "Still, thank you.", "youvi": "Dù sao cũng cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "I feel bad about changing the plan so late.",
+                  "vi": "Mình áy náy vì đổi kế hoạch muộn thế.",
+                  "note": "Sau <b>about</b> là <b>changing</b>, không phải <i>change</i>.",
+                  "reply": [
+                    { "them": "It's fine — nothing was booked yet.", "themvi": "Không sao — chưa đặt gì cả.", "you": "That's a relief.", "youvi": "Vậy thì mình nhẹ cả người." }
+                  ],
+                  "close": { "en": "I'll sort the new tickets.", "vi": "Mình sẽ lo vé mới." }
+                },
+                {
+                  "en": "I feel bad for anyone flying today.",
+                  "vi": "Mình thấy thương cho ai phải bay hôm nay.",
+                  "note": "<b>for</b> + người = thương cảm. Ở đây là người lạ, càng rõ nghĩa.",
+                  "reply": [
+                    { "them": "The delays are awful.", "themvi": "Hoãn chuyến kinh khủng.", "you": "We got lucky.", "youvi": "Mình may đấy." }
+                  ]
+                },
+                {
+                  "en": "I feel bad that I didn't book earlier.",
+                  "vi": "Mình áy náy là mình đã không đặt sớm hơn.",
+                  "note": "Với MỆNH ĐỀ thì bỏ <i>about</i>: <i>feel bad <b>that</b> + S + V</i>.",
+                  "reply": [
+                    { "them": "You had no way of knowing it'd sell out.", "themvi": "Bạn làm sao biết được là sẽ hết chỗ.", "you": "True. Next time I'll book early.", "youvi": "Đúng. Lần sau mình sẽ đặt sớm." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I feel bad about returning this.",
+                  "vi": "Tôi ngại khi phải trả lại cái này.",
+                  "reply": [
+                    { "them": "Not at all — that's what the policy is for.", "themvi": "Không sao đâu ạ — chính sách có để vậy mà.", "you": "Thank you, that's reassuring.", "youvi": "Cảm ơn em, tôi yên tâm rồi." }
+                  ]
+                },
+                {
+                  "en": "I feel bad asking, but could I try a bigger size?",
+                  "vi": "Tôi ngại hỏi, nhưng tôi thử cỡ to hơn được không?",
+                  "note": "Bỏ <i>about</i>, giữ <b>asking</b>. Đây là cách mở lời rất lịch sự khi nhờ vả.",
+                  "reply": [
+                    { "them": "Of course, I'll fetch one.", "themvi": "Dạ được ạ, em lấy cho anh/chị.", "you": "That's very kind.", "youvi": "Em tốt quá." }
+                  ],
+                  "close": { "en": "Sorry to be a bother.", "vi": "Xin lỗi vì làm phiền." }
+                },
+                {
+                  "en": "I feel bad about taking up your time.",
+                  "vi": "Tôi áy náy vì chiếm thời gian của em.",
+                  "reply": [
+                    { "them": "It's my job — take your time.", "themvi": "Việc của em mà — anh/chị cứ thong thả.", "you": "Thank you.", "youvi": "Cảm ơn em." }
+                  ],
+                  "vars": [
+                    { "en": "I feel bad that I've kept you so long.", "vi": "Tôi áy náy là đã giữ em lâu thế." }
+                  ]
+                },
+                {
+                  "en": "I feel bad for them — they've been queueing an hour.",
+                  "vi": "Tôi thấy thương họ — họ xếp hàng cả tiếng rồi.",
+                  "note": "<b>for</b> + người. Nhớ cặp đối lập: <i>bad about</i> việc mình, <i>bad for</i> người khác.",
+                  "reply": [
+                    { "them": "We'll open another till.", "themvi": "Bên em sẽ mở thêm quầy ạ.", "you": "That'll help a lot.", "youvi": "Vậy thì đỡ nhiều." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Về sớm và để việc lại cho đồng nghiệp",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "I feel bad about leaving you with all this.", "vi": "Tôi áy náy vì để lại hết việc này cho anh/chị." },
+            { "speaker": "Colleague", "en": "Don't feel bad — there's not much left.", "vi": "Đừng áy náy — còn ít việc thôi." },
+            { "speaker": "You", "me": true, "en": "Still, I feel bad saying it, but I have to go.", "vi": "Dù sao tôi cũng ngại khi nói ra, nhưng tôi phải đi." },
+            { "speaker": "Colleague", "en": "Honestly, it's fine. These things happen.", "vi": "Thật đấy, không sao. Chuyện vậy vẫn xảy ra mà." },
+            { "speaker": "You", "me": true, "en": "Let me make it up to you — I'll take Friday's early shift.", "vi": "Để tôi bù lại — tôi sẽ nhận ca sớm thứ Sáu." },
+            { "speaker": "Colleague", "en": "Deal. Now go.", "vi": "Xong. Giờ thì đi đi." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Xin lỗi bạn vì quên sinh nhật",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "I feel terrible about forgetting your birthday.", "vi": "Mình áy náy kinh khủng vì quên sinh nhật bạn." },
+            { "speaker": "Friend", "en": "Honestly, it's fine.", "vi": "Thật đấy, không sao mà." },
+            { "speaker": "You", "me": true, "en": "It's been on my mind all week. I should have set a reminder.", "vi": "Chuyện đó lởn vởn trong đầu mình cả tuần. Đáng lẽ mình phải đặt nhắc nhở." },
+            { "speaker": "Friend", "en": "You had a lot on. Let it go.", "vi": "Bạn bận nhiều mà. Bỏ qua đi." },
+            { "speaker": "You", "me": true, "en": "Let me make it up to you. Dinner on Saturday?", "vi": "Để mình bù lại. Tối thứ Bảy đi ăn nhé?" },
+            { "speaker": "Friend", "en": "Now that I'll accept.", "vi": "Cái đó thì mình nhận đấy." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I feel <b>badly</b> about it.", "right": "I feel <b>bad</b> about it.", "why": "BẪY NGƯỢC ĐỜI: sau động từ chỉ cảm giác (<i>feel, look, sound, seem</i>) là <b>TÍNH TỪ</b>. Xem [Khung 85]." },
+            { "wrong": "I feel bad about <b>forget</b> your birthday.", "right": "I feel bad about <b>forgetting</b> your birthday.", "why": "<b>about</b> là giới từ — theo sau phải là danh từ hoặc <b>V-ing</b>. Cùng luật với [Khung 86]." },
+            { "wrong": "I feel bad <b>for</b> shouting at her.", "right": "I feel bad <b>about</b> shouting at her.", "why": "Việc MÌNH gây ra thì dùng <b>about</b>. Dùng <i>for</i> ở đây thành “tôi thương cho việc quát cô ấy” — vô nghĩa." },
+            { "wrong": "I feel bad <b>about</b> her — she lost her job.", "right": "I feel bad <b>for</b> her — she lost her job.", "why": "Ngược lại: thương cảm cho NGƯỜI thì dùng <b>for</b>. Dùng <i>about</i> thành ra chính bạn có lỗi với cô ấy." },
+            { "wrong": "I feel bad about <b>I forgot</b>.", "right": "I feel bad <b>that</b> I forgot.", "why": "Khi theo sau là cả MỆNH ĐỀ thì bỏ <i>about</i>, dùng <b>that</b> hoặc không dùng gì." },
+            { "wrong": "I should have <b>tell</b> you.", "right": "I should have <b>told</b> you.", "why": "Sau <b>should have</b> luôn là V3 (quá khứ phân từ) — câu này hay đi kèm khi nói lời áy náy." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Sắc thái", "Ví dụ"],
+          "rows": [
+            ["<code>I feel bad about + V-ing</code>", "Áy náy vì việc mình làm", "I feel bad about forgetting."],
+            ["<code>I feel bad for + người</code>", "Thương cảm cho người khác", "I feel bad for her."],
+            ["<code>I feel guilty about…</code>", "Nặng hơn — nhấn vào trách nhiệm", "I feel guilty about leaving."],
+            ["<code>I feel terrible about…</code>", "Mạnh nhất về cảm xúc", "I feel terrible about it."],
+            ["<code>I'm sorry for + V-ing</code>", "LỜI XIN LỖI thật sự. Xem [Khung 79]", "I'm sorry for being late."],
+            ["<code>It's my fault</code>", "Nhận lỗi thẳng thắn", "It's my fault, not yours."],
+            ["<code>I feel sorry for + người</code>", "Thương hại — hơi bề trên", "I feel sorry for him."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ áy náy" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I feel a bit bad about it.", "vi": "Nhẹ nhất — chỉ hơi ngại" },
+            { "en": "I feel bad about it.", "vi": "Áy náy thật" },
+            { "en": "I feel really bad about it.", "vi": "Áy náy nhiều" },
+            { "en": "I feel terrible about it.", "vi": "Day dứt" },
+            { "en": "I feel terrible — I owe you an apology.", "vi": "Mạnh nhất, kèm lời xin lỗi chính thức" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>feel bad about</b> nối thành <b>“fiil-ba-də-BAUT”</b> — âm /d/ ở <i>bad</i> chạy sang <i>about</i>.",
+            "<b>bad</b> có nguyên âm /æ/ kéo dài, gần <b>“baad”</b> — đừng đọc ngắn thành <i>bed</i>, nghĩa sẽ khác hẳn.",
+            "<b>Đuôi /d/ ở <i>bad</i> phải phát ra</b>. Nuốt mất thì <i>bad</i> nghe thành <i>bat</i>.",
+            "<b>I feel bad for her</b> → “fiil-bad-fə-HƏR”, chữ <i>for</i> lướt thành /fə/, không nhấn.",
+            "<b>Trọng âm rơi vào BAD</b> và vào động từ V-ing phía sau — phần giữa lướt nhanh.",
+            "<b>Giọng đi xuống và chậm lại</b> — câu này là lời thú nhận, nói nhanh quá thì nghe không thật lòng."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I feel bad about forgetting your birthday.", "vi": "Luyện shadowing: “fiil-ba-də-BAUT-fə-GHET-ing”, giọng trầm và chậm." },
+            { "en": "I feel bad for her.", "vi": "Tập nhấn mạnh vào BAD và HER, chữ for lướt gần như mất." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi áy náy vì đã quên.", "blank": "I feel bad __________ forgetting.", "a": "about" },
+            { "vi": "Tôi thấy thương cho cô ấy.", "blank": "I feel bad __________ her.", "a": "for (thương cảm người khác)" },
+            { "vi": "Tôi áy náy vì phải từ chối.", "blank": "I feel bad about __________ no.", "a": "saying (V-ing sau giới từ)" },
+            { "vi": "Tôi thấy áy náy.", "blank": "I feel __________.", "a": "bad (tính từ, không phải “badly”)" },
+            { "vi": "Tôi áy náy là mình đã quên.", "blank": "I feel bad __________ I forgot.", "a": "that (bỏ “about”)" },
+            { "vi": "Tôi áy náy vì đã không gọi cho bạn.", "blank": "I feel bad about __________ calling you.", "a": "not (phủ định trước V-ing)" },
+            { "vi": "Đừng áy náy chuyện đó.", "blank": "Don't feel bad __________ it.", "a": "about" },
+            { "vi": "Đáng lẽ tôi nên nói với bạn.", "blank": "I should have __________ you.", "a": "told (V3 sau “should have”)" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Mình áy náy vì quên sinh nhật bạn.", "a": "I feel bad about forgetting your birthday." },
+            { "vi": "2. Tôi thấy thương cho cô ấy — quyết định đó không công bằng.", "a": "I feel bad for her — that wasn't a fair decision." },
+            { "vi": "3. Tôi ngại khi phải từ chối, nhưng tôi không nhận thêm được.", "a": "I feel bad saying no, but I can't take it on." },
+            { "vi": "4. Đừng áy náy chuyện đó — chuyện vậy vẫn xảy ra mà.", "a": "Don't feel bad about it — these things happen." },
+            { "vi": "5. Để tôi bù lại cho bạn.", "a": "Let me make it up to you." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Hai giới từ, hai nghĩa:</b> <i>bad <b>about</b></i> = việc MÌNH làm; <i>bad <b>for</b></i> = thương cho NGƯỜI khác. Nhầm là nghĩa lật ngược.",
+            "<b>Không bao giờ nói <i>I feel badly</i>.</b> Sau <i>feel</i> là tính từ — giống <i>That sounds great</i> ở [Khung 85].",
+            "<b>Sau <i>about</i> luôn là V-ing.</b> Bỏ được <i>about</i>, nhưng không bỏ được <i>-ing</i>.",
+            "<b>Muốn xin lỗi thật thì thêm <i>I'm sorry</i>:</b> <i>feel bad</i> chỉ mô tả cảm xúc, chưa phải lời xin lỗi. Xem [Khung 79].",
+            "<b>Học thuộc câu chuộc lỗi:</b> <i>Let me make it up to you.</i> — tự nhiên và ấm hơn nhiều so với xin lỗi thêm lần nữa.",
+            "<b>Bài tập 3 phút:</b> viết bốn câu — hai câu <i>feel bad about + V-ing</i>, một câu <i>feel bad for + người</i>, một câu <i>feel bad that + mệnh đề</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

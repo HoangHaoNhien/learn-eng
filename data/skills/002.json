@@ -1,0 +1,276 @@
+{
+  "id": 2,
+  "group": "Nhóm 1 · Phát âm — gỡ chặn cả nghe lẫn nói",
+  "title": "Đuôi -s và -es — /s/ · /z/ · /ɪz/",
+  "subtitle": "Đuôi -s có ba cách đọc, và chọn cách nào là do ÂM đứng ngay trước nó quyết định, không phải chữ cái. Không đọc đuôi này thì mất luôn số nhiều, ngôi thứ ba và sở hữu cách cùng một lúc.",
+  "meaning": "Đọc đúng ba biến thể của đuôi -s",
+  "rule": [
+    "Trước là âm <em>không rung</em> → <em>/s/</em>",
+    "Trước là âm <em>có rung</em> → <em>/z/</em>",
+    "Trước là âm <em>xuýt</em> → <em>/ɪz/</em> (thêm một âm tiết)"
+  ],
+  "tags": [
+    { "text": "Mức độ: nền móng", "hot": true },
+    { "text": "books /s/ · jobs /z/ · watches /ɪz/" },
+    { "text": "Nghe ÂM, không nhìn CHỮ" },
+    { "text": "Ảnh hưởng: rất lớn" }
+  ],
+  "frames": [65, 75, 99, 100],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Đuôi <b>-s</b> gánh ba việc cùng lúc: <b>số nhiều</b> (<i>books</i>), <b>ngôi thứ ba</b> (<i>he works</i>) và <b>sở hữu cách</b> (<i>Nam's</i>). Cả ba dùng <b>chung một luật đọc</b> — học một lần là xong cả ba." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — nhìn CHỮ thay vì nghe ÂM:</b><br>Luật dựa vào <b>âm cuối</b> của từ gốc, không phải chữ cái cuối.<br>• <i>book<b>s</b></i> → /s/ vì trước nó là âm /k/ (không rung)<br>• <i>job<b>s</b></i> → /z/ vì trước nó là âm /b/ (có rung)<br>• <i>watch<b>es</b></i> → /ɪz/ vì trước nó là âm xuýt /tʃ/<br>Chú ý: <i>house</i> viết bằng <i>s</i> nhưng đọc /s/, còn <i>houses</i> đọc /ˈhaʊzɪz/ — chữ không nói lên gì cả.<br><b>Mẹo kiểm tra rung:</b> đặt tay lên cổ họng. Rung → /z/, không rung → /s/." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — bỏ hẳn đuôi -s:</b><br><i>three book</i> ✗ · <i>he work here</i> ✗ · <i>Nam car</i> ✗<br>Người Việt quen nuốt phụ âm cuối [Kỹ năng 01] nên hay rơi mất đuôi này. Hậu quả: người nghe <b>không biết</b> bạn nói một hay nhiều, và tưởng câu của bạn sai ngữ pháp.<br>Ngược lại cũng sai: thêm <b>/ɪz/</b> vào mọi chỗ — <i>books</i> đọc thành “bu-kít” ✗." },
+        { "t": "h3", "text": "Ba cách đọc" },
+        {
+          "t": "table",
+          "head": ["Âm đứng trước", "Đọc là", "Ví dụ"],
+          "rows": [
+            ["Âm xuýt: /s z ʃ tʃ dʒ ʒ/", "<code>/ɪz/</code> — thêm một âm tiết", "watches · buses · pages"],
+            ["Âm không rung: /p t k f θ/", "<code>/s/</code>", "books · cats · stops"],
+            ["Âm có rung: /b d g v ð m n ŋ l r/", "<code>/z/</code>", "jobs · needs · bags"],
+            ["Nguyên âm", "<code>/z/</code>", "days · goes · ideas"]
+          ]
+        },
+        { "t": "p", "html": "Nhìn bảng sẽ thấy <b>/z/ là mặc định</b> — phần lớn từ rơi vào đó. Chỉ cần nhớ hai danh sách nhỏ: nhóm <b>âm xuýt</b> (→ /ɪz/) và nhóm <b>năm âm không rung</b> (→ /s/)." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Từ gốc kết thúc bằng", "Đuôi đọc", "Ví dụ"],
+          "rows": [
+            ["/p/", "/s/", "stops · cups · helps"],
+            ["/t/", "/s/", "cats · writes · wants"],
+            ["/k/", "/s/", "books · works · looks"],
+            ["/f/", "/s/", "laughs · roofs · chiefs"],
+            ["/θ/", "/s/", "months · myths"],
+            ["/b/ /d/ /g/", "/z/", "jobs · needs · bags"],
+            ["/v/ /ð/", "/z/", "lives · breathes"],
+            ["/m/ /n/ /ŋ/", "/z/", "comes · runs · things"],
+            ["/l/ /r/", "/z/", "feels · cars · girls"],
+            ["Nguyên âm", "/z/", "days · goes · ideas · sees"],
+            ["/s/ /z/", "/ɪz/", "buses · kisses · roses"],
+            ["/ʃ/ /tʃ/ /dʒ/", "/ɪz/", "washes · watches · pages"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Hai ngoại lệ chính tả đừng nhầm với luật đọc:</b><br>• <i>house</i> /haʊ<b>s</b>/ → <i>houses</i> /ˈhaʊ<b>zɪz</b>/ — âm /s/ biến thành /z/ rồi mới thêm /ɪz/.<br>• <i>says</i> đọc /sez/ chứ không phải /seɪz/; <i>does</i> đọc /dʌz/ chứ không phải /duːz/.<br>Còn luật <b>viết</b> (thêm <i>-es</i> sau <i>s, x, z, ch, sh, o</i>; <i>y</i> → <i>ies</i>) nằm ở [Ngữ pháp 54]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I bought three books.", "vi": "Tôi mua ba quyển sách.", "note": "<b>books</b> = /bʊks/ — trước <i>s</i> là /k/ không rung." },
+            { "en": "He works in a bank.", "vi": "Anh ấy làm ở ngân hàng.", "note": "<b>works</b> = /wɜːks/. Xem [Khung 75]." },
+            { "en": "She needs more time.", "vi": "Cô ấy cần thêm thời gian.", "note": "<b>needs</b> = /niːdz/ — trước <i>s</i> là /d/ có rung." },
+            { "en": "There are two jobs open.", "vi": "Có hai vị trí đang tuyển.", "note": "<b>jobs</b> = /dʒɒbz/. Xem [Khung 100]." },
+            { "en": "He watches TV every night.", "vi": "Tối nào anh ấy cũng xem ti vi.", "note": "BẪY: <b>watches</b> = /ˈwɒtʃɪz/ — thêm hẳn một âm tiết." },
+            { "en": "How many buses are there?", "vi": "Có bao nhiêu chuyến xe buýt?", "note": "<b>buses</b> = /ˈbʌsɪz/. Xem [Khung 65]." },
+            { "en": "It takes about ten minutes.", "vi": "Mất khoảng mười phút.", "note": "<b>takes</b> /s/ · <b>minutes</b> /s/ — cả hai sau /k/ và /t/. Xem [Khung 99]." },
+            { "en": "My parents live in Hue.", "vi": "Bố mẹ tôi sống ở Huế.", "note": "<b>parents</b> = /ˈpeərənts/ — /ts/ đọc liền, không tách." },
+            { "en": "The prices went up.", "vi": "Giá tăng rồi.", "note": "<b>prices</b> = /ˈpraɪsɪz/ — trước <i>s</i> là âm xuýt /s/." },
+            { "en": "She says she's busy.", "vi": "Cô ấy bảo cô ấy bận.", "note": "<b>says</b> đọc /sez/, không phải /seɪz/." },
+            { "en": "That's Nam's car.", "vi": "Đó là xe của Nam.", "note": "Sở hữu cách cũng theo luật này: <b>Nam's</b> = /næmz/." },
+            { "en": "I've been here for six months.", "vi": "Tôi ở đây sáu tháng rồi.", "note": "<b>months</b> = /mʌnθs/ — ba phụ âm liền. Xem [Kỹ năng 04]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào cần để ý nhất",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🔢", "title": "Nói số lượng", "text": "<i>three books</i> — mất /s/ là người nghe hiểu một quyển." },
+            { "icon": "🙋", "title": "Nói về người thứ ba", "text": "<i>He works…</i> — mất /s/ nghe như sai ngữ pháp." },
+            { "icon": "🏷", "title": "Nói của ai", "text": "<i>Nam's car</i> — sở hữu cách cùng một luật." },
+            { "icon": "🎧", "title": "Luyện nghe", "text": "Không phát được /ɪz/ thì cũng không nghe ra nó." },
+            { "icon": "📞", "title": "Nói điện thoại", "text": "Không có ngữ cảnh hình ảnh để đoán số nhiều." },
+            { "icon": "🚫", "title": "Đừng làm…", "text": "Đừng thêm /ɪz/ vào mọi từ — <i>books</i> ✗ “bu-kít”." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay gặp",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để nghe đuôi <b>-s</b> của nó đọc thế nào và vì sao." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Đọc /s/ và /ɪz/",
+              "items": [
+                { "w": "books /s/", "vi": "những quyển sách", "ex": "I bought three books.", "exvi": "Tôi mua ba quyển sách.", "note": "Trước <i>s</i> là /k/ — không rung nên đọc /s/." },
+                { "w": "works /s/", "vi": "làm việc (ngôi 3)", "ex": "He works in a bank.", "exvi": "Anh ấy làm ở ngân hàng. Xem [Khung 75]." },
+                { "w": "stops /s/", "vi": "dừng lại", "ex": "The bus stops here.", "exvi": "Xe buýt dừng ở đây." },
+                { "w": "cats /s/", "vi": "những con mèo", "ex": "I have two cats.", "exvi": "Tôi nuôi hai con mèo.", "note": "/ts/ đọc liền thành một cụm, không tách rời." },
+                { "w": "minutes /s/", "vi": "phút", "ex": "It takes ten minutes.", "exvi": "Mất mười phút. Xem [Khung 99]." },
+                { "w": "months /s/", "vi": "tháng", "ex": "I've been here six months.", "exvi": "Tôi ở đây sáu tháng rồi.", "note": "/nθs/ — ba phụ âm liền, khó nhất. Xem [Kỹ năng 04]." },
+                { "w": "watches /ɪz/", "vi": "xem (ngôi 3)", "ex": "He watches TV every night.", "exvi": "Tối nào anh ấy cũng xem ti vi.", "note": "Sau âm xuýt /tʃ/ nên thêm hẳn MỘT ÂM TIẾT." },
+                { "w": "buses /ɪz/", "vi": "những chuyến xe buýt", "ex": "How many buses are there?", "exvi": "Có mấy chuyến buýt? Xem [Khung 65]." },
+                { "w": "prices /ɪz/", "vi": "giá cả", "ex": "The prices went up.", "exvi": "Giá tăng rồi." },
+                { "w": "washes /ɪz/", "vi": "rửa, giặt", "ex": "She washes her car on Sunday.", "exvi": "Chủ nhật cô ấy rửa xe." },
+                { "w": "pages /ɪz/", "vi": "trang giấy", "ex": "It's only ten pages.", "exvi": "Có mười trang thôi." },
+                { "w": "houses /ɪz/", "vi": "những ngôi nhà", "ex": "These houses are new.", "exvi": "Mấy ngôi nhà này mới.", "note": "Ngoại lệ: /haʊs/ → /ˈhaʊzɪz/, âm /s/ biến thành /z/." }
+              ]
+            },
+            {
+              "title": "Đọc /z/ — nhóm đông nhất",
+              "items": [
+                { "w": "jobs /z/", "vi": "công việc", "ex": "There are two jobs open.", "exvi": "Có hai vị trí tuyển. Xem [Khung 100]." },
+                { "w": "needs /z/", "vi": "cần (ngôi 3)", "ex": "She needs more time.", "exvi": "Cô ấy cần thêm thời gian." },
+                { "w": "bags /z/", "vi": "những cái túi", "ex": "I have two bags.", "exvi": "Tôi có hai cái túi." },
+                { "w": "lives /z/", "vi": "sống (ngôi 3)", "ex": "He lives in Hanoi.", "exvi": "Anh ấy sống ở Hà Nội.", "note": "/v/ có rung nên đuôi là /z/." },
+                { "w": "comes /z/", "vi": "đến (ngôi 3)", "ex": "She comes at six.", "exvi": "Sáu giờ cô ấy đến." },
+                { "w": "runs /z/", "vi": "chạy (ngôi 3)", "ex": "He runs every morning.", "exvi": "Sáng nào anh ấy cũng chạy." },
+                { "w": "things /z/", "vi": "những thứ", "ex": "I need a few things.", "exvi": "Tôi cần mấy thứ." },
+                { "w": "feels /z/", "vi": "cảm thấy (ngôi 3)", "ex": "She feels better now.", "exvi": "Giờ cô ấy đỡ hơn rồi." },
+                { "w": "cars /z/", "vi": "những chiếc xe", "ex": "Both cars are new.", "exvi": "Cả hai xe đều mới." },
+                { "w": "days /z/", "vi": "những ngày", "ex": "It took three days.", "exvi": "Mất ba ngày." },
+                { "w": "goes /z/", "vi": "đi (ngôi 3)", "ex": "He goes to work by bus.", "exvi": "Anh ấy đi làm bằng buýt." },
+                { "w": "Nam's /z/", "vi": "của Nam", "ex": "That's Nam's car.", "exvi": "Đó là xe của Nam.", "note": "Sở hữu cách dùng chung luật. Xem [Ngữ pháp 23]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<i>three books</i> đọc là <b>“thri buk”</b>", "right": "<b>“thri buks”</b>", "why": "BẪY SỐ HAI: mất đuôi là mất số nhiều. Xem [Kỹ năng 01]." },
+            { "wrong": "<i>He works here</i> đọc là <b>“hi work hia”</b>", "right": "<b>“hi works hia”</b>", "why": "Mất /s/ ngôi thứ ba — người nghe tưởng bạn chia sai động từ. Xem [Ngữ pháp 01]." },
+            { "wrong": "<i>books</i> đọc là <b>“bu-kít”</b>", "right": "<b>“buks”</b>", "why": "Chỉ thêm /ɪz/ sau ÂM XUÝT. /k/ không phải âm xuýt." },
+            { "wrong": "<i>jobs</i> đọc là <b>“dʒɒb-s”</b>", "right": "<b>“dʒɒbz”</b>", "why": "BẪY SỐ MỘT: /b/ có rung nên đuôi phải là /z/, không phải /s/." },
+            { "wrong": "<i>watches</i> đọc là <b>“wɒtʃs”</b>", "right": "<b>“wɒtʃ-ɪz”</b>", "why": "Sau /tʃ/ phải thêm hẳn một âm tiết, nếu không thì không phát âm nổi." },
+            { "wrong": "<i>houses</i> đọc là <b>“haʊs-ɪz”</b>", "right": "<b>“haʊz-ɪz”</b>", "why": "Ngoại lệ: âm /s/ trong <i>house</i> biến thành /z/ khi thêm đuôi." },
+            { "wrong": "<i>says</i> đọc là <b>“seɪz”</b>", "right": "<b>“sez”</b>", "why": "Nguyên âm đổi luôn, không chỉ đuôi. Cùng kiểu với <i>does</i> = /dʌz/." },
+            { "wrong": "<i>months</i> đọc là <b>“mon”</b>", "right": "<b>“mʌnθs”</b>", "why": "Bỏ cả /θ/ lẫn /s/ — mất luôn số nhiều. Xem [Kỹ năng 04]." },
+            { "wrong": "<i>Nam's car</i> đọc là <b>“Nam ca”</b>", "right": "<b>“Namz ca”</b>", "why": "Sở hữu cách cũng phải phát ra, nếu không thì mất quan hệ sở hữu." },
+            { "wrong": "<i>cats</i> đọc tách thành <b>“cat-sờ”</b>", "right": "<b>“kæts”</b> — /ts/ liền một cụm", "why": "Không chen nguyên âm vào giữa /t/ và /s/. Xem [Kỹ năng 01]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với luật gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["/s/ / /z/", "Không rung / có rung", "books /s/ ≠ jobs /z/"],
+            ["/s/ / /ɪz/", "Không thêm âm tiết / thêm một âm tiết", "books ≠ buses"],
+            ["Luật ĐỌC / luật VIẾT", "Theo âm / theo chữ cái", "Luật viết ở [Ngữ pháp 54]"],
+            ["<code>house</code> / <code>houses</code>", "/s/ đổi thành /z/", "/haʊs/ ≠ /ˈhaʊzɪz/"],
+            ["<code>says</code> / <code>say</code>", "Nguyên âm đổi luôn", "/sez/ ≠ /seɪ/"],
+            ["Đuôi <code>-s</code> / đuôi <code>-ed</code>", "Cùng kiểu ba biến thể", "Xem [Kỹ năng 03]"],
+            ["<code>/ts/</code> liền / tách", "Một cụm / hai âm tiết", "cats = /kæts/, không phải “cat-sờ”"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: đuôi -s đọc thế nào?" },
+        {
+          "t": "tree",
+          "q": "Nghe ÂM cuối của từ gốc (không nhìn chữ cái) rồi đi theo nhánh.",
+          "nodes": [
+            { "if": "Âm xuýt /s z ʃ tʃ dʒ/", "then": "/ɪz/ — thêm một âm tiết", "ex": "buses · watches · pages" },
+            { "if": "Âm không rung /p t k f θ/", "then": "/s/", "ex": "stops · cats · books · months" },
+            { "if": "Âm có rung /b d g v m n ŋ l r/", "then": "/z/", "ex": "jobs · needs · comes · feels" },
+            { "if": "Nguyên âm", "then": "/z/", "ex": "days · goes · ideas" },
+            { "if": "Không chắc rung hay không", "then": "Đặt tay lên cổ họng rồi đọc âm đó", "ex": "/b/ rung → /z/ · /p/ không rung → /s/" },
+            { "if": "Vẫn phân vân", "then": "Chọn /z/ — nó là mặc định", "ex": "phần lớn từ rơi vào nhóm /z/" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ rõ của đuôi -s" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "“thri buk” — mất hẳn", "vi": "Tệ nhất — mất số nhiều" },
+            { "en": "“thri buk-sờ” — thêm nguyên âm", "vi": "Nghe lạ" },
+            { "en": "“thri buk-s” — tách rời", "vi": "Đúng nhưng còn cứng" },
+            { "en": "“thri buks” — liền một cụm", "vi": "Tự nhiên" },
+            { "en": "“thri buks” nhanh, nhẹ", "vi": "Tốt nhất" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kỹ năng này dùng ở đâu",
+      "blocks": [
+        { "t": "p", "html": "Đuôi <b>-s</b> xuất hiện trong gần như mọi câu bạn nói. Bấm vào để luyện trên câu thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 65, "why": "How much / How many…? — đếm số lượng là chỗ đuôi -s quan trọng nhất." },
+            { "id": 100, "why": "There is / There are + N — số nhiều quyết định chọn is hay are." },
+            { "id": 75, "why": "I work as / for… — kể nghề của người khác thì cần /s/ ngôi thứ ba." },
+            { "id": 99, "why": "It takes + thời gian — takes, minutes, hours: ba đuôi -s trong một câu." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Đuôi -s đọc là /s/, /z/ hay /ɪz/?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "những quyển sách", "blank": "books  →  __________", "a": "/s/ — trước là /k/ không rung" },
+            { "vi": "công việc (số nhiều)", "blank": "jobs  →  __________", "a": "/z/ — trước là /b/ có rung" },
+            { "vi": "xem (ngôi thứ ba)", "blank": "watches  →  __________", "a": "/ɪz/ — trước là âm xuýt /tʃ/" },
+            { "vi": "những chuyến buýt", "blank": "buses  →  __________", "a": "/ɪz/ — trước là /s/" },
+            { "vi": "những ngày", "blank": "days  →  __________", "a": "/z/ — trước là nguyên âm" },
+            { "vi": "tháng (số nhiều)", "blank": "months  →  __________", "a": "/s/ — trước là /θ/ không rung" },
+            { "vi": "sống (ngôi thứ ba)", "blank": "lives  →  __________", "a": "/z/ — trước là /v/ có rung" },
+            { "vi": "của Nam", "blank": "Nam's  →  __________", "a": "/z/ — trước là /m/ có rung" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn cách đọc đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "ba quyển sách", "blank": "(a) “thri buk”  (b) “thri buks”", "a": "(b)" },
+            { "vi": "hai công việc", "blank": "(a) “tu dʒɒbs”  (b) “tu dʒɒbz”", "a": "(b)" },
+            { "vi": "anh ấy xem ti vi", "blank": "(a) “hi wɒtʃs”  (b) “hi wɒtʃ-ɪz”", "a": "(b)" },
+            { "vi": "những ngôi nhà", "blank": "(a) “haʊs-ɪz”  (b) “haʊz-ɪz”", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Đọc to rồi ghi âm, chấm riêng đuôi -s" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi mua ba quyển sách.", "a": "I bought three books.  →  books /s/" },
+            { "vi": "2. Anh ấy làm ở ngân hàng và sống ở Hà Nội.", "a": "He works in a bank and lives in Hanoi.  →  works /s/ · lives /z/" },
+            { "vi": "3. Có mấy chuyến buýt tới đó?", "a": "How many buses go there?  →  buses /ɪz/" },
+            { "vi": "4. Tôi ở đây sáu tháng rồi.", "a": "I've been here for six months.  →  months /s/" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Nghe ÂM, đừng nhìn CHỮ.</b> Luật dựa vào âm cuối của từ gốc — <i>house</i> viết <i>s</i> nhưng đọc /s/, còn <i>houses</i> lại /z/.",
+            "<b>Đặt tay lên cổ họng</b> rồi đọc âm cuối. Rung → <b>/z/</b>. Không rung → <b>/s/</b>. Hết phân vân.",
+            "<b>/z/ là mặc định</b> — phần lớn từ rơi vào đó. Chỉ cần thuộc hai danh sách nhỏ: âm xuýt (→ /ɪz/) và /p t k f θ/ (→ /s/).",
+            "<b>Chỉ âm xuýt mới thêm âm tiết.</b> <i>buses, watches, pages</i> dài thêm một nhịp; <i>books, jobs</i> thì không.",
+            "<b>Một luật dùng cho ba việc:</b> số nhiều, ngôi thứ ba và sở hữu cách đọc giống hệt nhau.",
+            "<b>Bài tập 2 phút:</b> lấy mười danh từ quanh bạn, thêm <i>-s</i> và tự chấm mình đọc đúng nhánh nào trong ba nhánh."
+          ]
+        }
+      ]
+    }
+  ]
+}

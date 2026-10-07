@@ -1,0 +1,48 @@
+{
+  "title": "22 Bài Kỹ Năng B2",
+  "tagline": "Phát âm · Nghe · Nói · Viết — bốn mảng ngữ pháp không dạy",
+  "groups": [
+    {
+      "name": "Nhóm 1 · Phát âm — gỡ chặn cả nghe lẫn nói",
+      "items": [
+        { "id": 1, "pat": "like ≠ lie · cat ≠ cap", "vi": "Phụ âm cuối — lỗi số một của người Việt", "detail": true },
+        { "id": 2, "pat": "/s/ · /z/ · /ɪz/", "vi": "Đuôi -s và -es", "detail": true },
+        { "id": 3, "pat": "/t/ · /d/ · /ɪd/", "vi": "Đuôi -ed", "detail": true },
+        { "id": 4, "pat": "desks · asked · strengths", "vi": "Cụm phụ âm", "detail": true },
+        { "id": 5, "pat": "REcord ≠ reCORD", "vi": "Trọng âm từ & trọng âm câu", "detail": true },
+        { "id": 6, "pat": "think · ship · sheep", "vi": "Những âm tiếng Việt không có", "detail": true }
+      ]
+    },
+    {
+      "name": "Nhóm 2 · Nghe — vì sao nghe không ra",
+      "items": [
+        { "id": 7, "pat": "an apple → \"anapple\"", "vi": "Nối âm", "detail": true },
+        { "id": 8, "pat": "did you → \"didja\"", "vi": "Nuốt âm & biến âm", "detail": true },
+        { "id": 9, "pat": "to · of · can · was", "vi": "Dạng yếu trong câu nói nhanh", "detail": true },
+        { "id": 10, "pat": "gonna · wanna · I'd've", "vi": "Rút gọn trong văn nói", "detail": true },
+        { "id": 11, "pat": "15 ≠ 50 · B ≠ V ≠ P", "vi": "Nghe số, ngày và đánh vần", "detail": true }
+      ]
+    },
+    {
+      "name": "Nhóm 3 · Nói — từ câu lẻ lên đoạn dài",
+      "items": [
+        { "id": 12, "pat": "60 giây không dừng", "vi": "Nói kéo dài — mô tả & kể", "detail": true },
+        { "id": 13, "pat": "quan điểm + vì sao + ví dụ", "vi": "Lập luận có nhượng bộ", "detail": true },
+        { "id": 14, "pat": "A hơn B ở chỗ…", "vi": "So sánh hai lựa chọn", "detail": true },
+        { "id": 15, "pat": "Well, let me think…", "vi": "Câu câu giờ & sửa lời giữa chừng", "detail": true },
+        { "id": 16, "pat": "Sorry, can I just…?", "vi": "Giữ lượt & chuyển lượt", "detail": true }
+      ]
+    },
+    {
+      "name": "Nhóm 4 · Viết — cấu trúc trước, chữ sau",
+      "items": [
+        { "id": 17, "pat": "câu chủ đề + triển khai + ví dụ", "vi": "Cấu trúc một đoạn văn", "detail": true },
+        { "id": 18, "pat": "mở — thân — kết", "vi": "Bài luận nêu quan điểm", "detail": true },
+        { "id": 19, "pat": "một bên — bên kia — chốt", "vi": "Bài luận hai chiều", "detail": true },
+        { "id": 20, "pat": "Dear Sir / Yours sincerely", "vi": "Email trang trọng", "detail": true },
+        { "id": 21, "pat": "Hi Nam, / Cheers", "vi": "Email thân mật & tin nhắn", "detail": true },
+        { "id": 22, "pat": "however · moreover · it", "vi": "Từ nối & cách tránh lặp từ", "detail": true }
+      ]
+    }
+  ]
+}

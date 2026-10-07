@@ -1,0 +1,498 @@
+{
+  "id": 50,
+  "group": "Nhóm 5 · Ý kiến & Quan điểm",
+  "title": "I'm not sure, but… — Rào trước rồi vẫn nói",
+  "subtitle": "Khung câu an toàn nhất trong cả nhóm: nó cho phép bạn đóng góp một thông tin hoặc ý kiến mà không phải chịu trách nhiệm nếu sai. Và dạng ngắn I'm not sure about that là một trong những cách phản đối mềm nhất mà người bản xứ dùng hằng ngày.",
+  "pattern": [
+    "I'm not sure, but <em>+ mệnh đề</em>",
+    "I'm not sure if/whether <em>+ mệnh đề</em>",
+    "I'm not sure about <em>+ danh từ</em>"
+  ],
+  "meaning": "Tôi không chắc, nhưng… / Tôi không chắc lắm…",
+  "grammar": [30, 33, 48],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "An toàn nhất trong nhóm" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I'm not sure, but…</span> làm một việc rất hữu ích: nó cho phép bạn <b>vẫn nói ra</b> điều mình nghĩ trong khi đã tự miễn trách nhiệm. Bạn không im lặng, nhưng cũng không cam kết." },
+        { "t": "p", "html": "Người bản xứ dùng nó liên tục, kể cả khi họ <b>khá chắc</b>. Đó là một quy ước lịch sự: hạ thấp mức độ khẳng định để người nghe dễ phản bác. Nó không có nghĩa là bạn thiếu năng lực." },
+        { "t": "p", "html": "Điểm quan trọng nhất của khung này nằm ở dạng ngắn: <span class=\"k\">I'm not sure about that.</span> Đây <b>không phải</b> lời thú nhận không biết — đây là một <b>lời phản đối mềm</b>. Nó nghĩa là “tôi nghi ngờ điều bạn vừa nói”, nhưng nói theo cách không ai mất mặt." },
+        { "t": "callout", "html": "<b>BẪY LỚN NHẤT của người Việt:</b> <span class=\"k\">I don't sure</span> ✗. <i>Sure</i> là <b>tính từ</b>, không phải động từ — nên phải dùng động từ <i>to be</i>: <b>I'm not sure</b> ✓. Lỗi này lộ ra ngay lập tức." },
+        { "t": "h3", "text": "Hai công dụng rất khác nhau" },
+        {
+          "t": "table",
+          "head": ["Câu", "Ý thật sự", "Bối cảnh"],
+          "rows": [
+            ["<code>I'm not sure, but I think it's Monday.</code>", "Tôi có thông tin, chỉ không chắc", "Trả lời câu hỏi"],
+            ["<code>I'm not sure about that.</code>", "Tôi nghi ngờ điều bạn nói", "Phản đối mềm — RẤT quan trọng"],
+            ["<code>I'm not sure I follow.</code>", "Tôi chưa hiểu ý bạn", "Xin giải thích lại"],
+            ["<code>I'm not sure whether to go.</code>", "Tôi đang do dự", "Nói về quyết định của mình"]
+          ]
+        },
+        { "t": "callout", "html": "<b>“I'm not so sure” mạnh hơn “I'm not sure”.</b> Thêm <i>so</i> biến nó từ thú nhận thành nghi ngờ rõ rệt: <i>I'm not so sure about that.</i> nghe như “tôi thật sự nghĩ bạn sai”." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🛡", "title": "Phản đối mềm", "text": "Bối cảnh số 1. <i>I'm not sure about that.</i> Nghi ngờ mà không ai mất mặt." },
+            { "icon": "💡", "title": "Đóng góp thông tin chưa chắc", "text": "<i>I'm not sure, but I think it's on the third floor.</i>" },
+            { "icon": "❓", "title": "Xin giải thích lại", "text": "<i>I'm not sure I follow.</i> Lịch sự hơn <i>I don't understand</i>." },
+            { "icon": "🤔", "title": "Nói mình đang do dự", "text": "<i>I'm not sure whether to go.</i> Chia sẻ sự phân vân." },
+            { "icon": "📧", "title": "Mở đầu email góp ý", "text": "<i>I'm not sure if this helps, but…</i> Đề xuất mà không áp đặt." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn chịu trách nhiệm và người ta cần câu trả lời dứt khoát." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Rào rồi vẫn nói", "<code>I'm not sure, but + mệnh đề</code>", "I'm not sure, but I think it's Monday."],
+            ["Nghi ngờ điều gì", "<code>I'm not sure if + mệnh đề</code>", "I'm not sure if it's still open."],
+            ["Trang trọng hơn", "<code>I'm not sure whether + mệnh đề</code>", "I'm not sure whether they replied."],
+            ["Do dự giữa hai lựa chọn", "<code>I'm not sure whether to + V</code>", "I'm not sure whether to go."],
+            ["Về một việc/vật", "<code>I'm not sure about + N</code>", "I'm not sure about the price."],
+            ["Phản đối mềm", "<code>I'm not sure about that.</code>", "I'm not sure about that."],
+            ["Nghi ngờ rõ hơn", "<code>I'm not so sure…</code>", "I'm not so sure about that."],
+            ["Chưa hiểu", "<code>I'm not sure I follow.</code>", "I'm not sure I follow."],
+            ["Với từ để hỏi", "<code>I'm not sure + wh-…</code>", "I'm not sure what he meant."],
+            ["Nhấn mạnh", "<code>I'm not entirely sure…</code>", "I'm not entirely sure that's right."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp: sau “whether” mới dùng được “to + V”.</b> <span class=\"k\">I'm not sure whether to go</span> ✓ — <i>I'm not sure to go</i> ✗. Còn <i>if</i> thì KHÔNG đi với <i>to</i>: <i>I'm not sure if to go</i> ✗." },
+        { "t": "callout", "html": "<b>“if” hay “whether”?</b> Trong hội thoại thường ngày dùng <b>if</b>. Dùng <b>whether</b> khi viết trang trọng, khi có <i>to + V</i>, hoặc khi nêu rõ hai vế: <i>whether it's true or not</i>." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Mệnh đề hay theo sau “I'm not sure, but…”",
+              "items": [
+                { "w": "I think it's Monday", "vi": "tôi nghĩ là thứ Hai", "ex": "I'm not sure, but I think it's Monday.", "exvi": "Tôi không chắc, nhưng tôi nghĩ là thứ Hai." },
+                { "w": "it's on the third floor", "vi": "ở tầng ba", "ex": "I'm not sure, but I think it's on the third floor.", "exvi": "Tôi không chắc, nhưng chắc là ở tầng ba." },
+                { "w": "they've already left", "vi": "họ đi rồi", "ex": "I'm not sure, but they may have already left.", "exvi": "Tôi không chắc, nhưng có thể họ đi rồi." },
+                { "w": "it might be closed", "vi": "có thể đóng cửa", "ex": "I'm not sure, but it might be closed today.", "exvi": "Tôi không chắc, nhưng hôm nay có thể đóng cửa." },
+                { "w": "there's a fee", "vi": "có mất phí", "ex": "I'm not sure, but I think there's a fee.", "exvi": "Tôi không chắc, nhưng hình như có mất phí." },
+                { "w": "she's on leave", "vi": "cô ấy nghỉ phép", "ex": "I'm not sure, but I believe she's on leave.", "exvi": "Tôi không chắc, nhưng hình như cô ấy nghỉ phép." },
+                { "w": "this might help", "vi": "cái này có thể có ích", "ex": "I'm not sure if this helps, but here's the link.", "exvi": "Không biết có giúp được gì không, nhưng đây là đường dẫn.", "note": "Mở đầu email góp ý cực kỳ khéo — đề xuất mà không áp đặt." },
+                { "w": "it's worth a try", "vi": "đáng để thử", "ex": "I'm not sure, but it's worth a try.", "exvi": "Tôi không chắc, nhưng đáng để thử." },
+                { "w": "the deadline has changed", "vi": "hạn chót đã đổi", "ex": "I'm not sure, but I heard the deadline has changed.", "exvi": "Tôi không chắc, nhưng nghe nói hạn chót đã đổi." },
+                { "w": "we've met before", "vi": "mình từng gặp nhau", "ex": "I'm not sure, but I think we've met before.", "exvi": "Tôi không chắc, nhưng hình như mình từng gặp nhau." },
+                { "w": "it's included", "vi": "đã bao gồm", "ex": "I'm not sure, but I think it's included.", "exvi": "Tôi không chắc, nhưng hình như đã bao gồm." },
+                { "w": "that's the last one", "vi": "đó là cái cuối cùng", "ex": "I'm not sure, but that may be the last one.", "exvi": "Tôi không chắc, nhưng có thể đó là cái cuối." },
+                { "w": "he meant something else", "vi": "ý anh ấy là chuyện khác", "ex": "I'm not sure, but I think he meant something else.", "exvi": "Tôi không chắc, nhưng chắc ý anh ấy là chuyện khác." },
+                { "w": "we're in the wrong place", "vi": "mình đến nhầm chỗ", "ex": "I'm not sure, but I think we're in the wrong place.", "exvi": "Tôi không chắc, nhưng hình như mình đến nhầm chỗ." }
+              ]
+            },
+            {
+              "title": "Các dạng biến thể",
+              "items": [
+                { "w": "I'm not sure about that", "vi": "chỗ đó tôi không chắc", "ex": "I'm not sure about that, to be honest.", "exvi": "Thật lòng thì chỗ đó tôi không chắc.", "note": "KHÔNG phải thú nhận không biết — đây là PHẢN ĐỐI MỀM. Học kỹ sắc thái này." },
+                { "w": "I'm not so sure", "vi": "tôi không chắc lắm đâu", "ex": "I'm not so sure about that.", "exvi": "Chỗ đó tôi không chắc lắm đâu.", "note": "Thêm <i>so</i> làm nghi ngờ rõ hơn hẳn — gần như “tôi nghĩ bạn sai”." },
+                { "w": "I'm not sure I follow", "vi": "tôi chưa theo kịp", "ex": "I'm not sure I follow. Can you explain?", "exvi": "Tôi chưa theo kịp. Giải thích thêm được không?", "note": "Cách nói “tôi chưa hiểu” lịch sự nhất — không ai bị chê là giảng dở." },
+                { "w": "I'm not sure if", "vi": "tôi không chắc liệu", "ex": "I'm not sure if it's still open.", "exvi": "Tôi không chắc liệu còn mở cửa không.", "note": "Dùng <i>if</i> trong hội thoại thường ngày." },
+                { "w": "I'm not sure whether to", "vi": "tôi đang phân vân có nên", "ex": "I'm not sure whether to go or not.", "exvi": "Tôi đang phân vân có nên đi hay không.", "note": "BẪY: chỉ <i>whether</i> mới đi được với <i>to + V</i>. <i>I'm not sure to go</i> ✗." },
+                { "w": "I'm not entirely sure", "vi": "tôi không hoàn toàn chắc", "ex": "I'm not entirely sure that's correct.", "exvi": "Tôi không hoàn toàn chắc điều đó đúng.", "note": "Trang trọng hơn — hợp email và họp." },
+                { "w": "I can't say for certain", "vi": "tôi không dám khẳng định", "ex": "I can't say for certain, but probably yes.", "exvi": "Tôi không dám khẳng định, nhưng chắc là có." },
+                { "w": "Don't hold me to this", "vi": "đừng bắt bẻ tôi nhé", "ex": "Don't hold me to this, but I think it's free.", "exvi": "Đừng bắt bẻ tôi nhé, nhưng hình như miễn phí.", "note": "Rất thân mật — chối trách nhiệm kiểu vui vẻ." },
+                { "w": "I could be wrong, but", "vi": "có thể tôi nhầm, nhưng", "ex": "I could be wrong, but that doesn't sound right.", "exvi": "Có thể tôi nhầm, nhưng nghe không đúng lắm.", "note": "Mở đầu phản biện rất khéo — nhận rủi ro về mình trước." },
+                { "w": "I'm still undecided", "vi": "tôi vẫn chưa quyết", "ex": "I'm still undecided about the job.", "exvi": "Tôi vẫn chưa quyết về công việc đó.", "note": "Trang trọng hơn <i>I'm not sure</i> khi nói về một quyết định." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "Let me check", "vi": "để tôi kiểm tra", "ex": "Let me check and get back to you.", "exvi": "Để tôi kiểm tra rồi báo lại bạn.", "note": "Phản hồi chuẩn nhất khi ai đó nói <i>I'm not sure</i>." },
+                { "w": "No worries", "vi": "không sao đâu", "ex": "No worries — I'll ask someone else.", "exvi": "Không sao đâu — mình hỏi người khác." },
+                { "w": "What makes you doubt it?", "vi": "điều gì khiến bạn nghi ngờ?", "ex": "What makes you doubt it?", "exvi": "Điều gì khiến anh/chị nghi ngờ?", "note": "Dùng khi người kia nói <i>I'm not sure about that</i> — hỏi lý do phản đối." },
+                { "w": "Let me rephrase that", "vi": "để tôi nói lại cách khác", "ex": "Let me rephrase that.", "exvi": "Để tôi nói lại theo cách khác.", "note": "Đáp lại <i>I'm not sure I follow</i> — rất chuyên nghiệp." },
+                { "w": "Fair enough", "vi": "cũng có lý", "ex": "Fair enough, let's double-check.", "exvi": "Cũng có lý, mình kiểm tra lại đi." },
+                { "w": "Take your time", "vi": "cứ từ từ", "ex": "Take your time deciding.", "exvi": "Bạn cứ từ từ quyết định.", "note": "Đáp khi ai đó nói họ đang do dự." },
+                { "w": "I'm not sure either", "vi": "tôi cũng không chắc", "ex": "I'm not sure either, to be honest.", "exvi": "Thật lòng thì tôi cũng không chắc." },
+                { "w": "Who would know?", "vi": "ai sẽ biết nhỉ?", "ex": "Who would know for sure?", "exvi": "Ai biết chắc chuyện này nhỉ?" },
+                { "w": "That's fine", "vi": "vậy cũng được", "ex": "That's fine, thanks anyway.", "exvi": "Vậy cũng được, dù sao cũng cảm ơn." },
+                { "w": "Any idea who would?", "vi": "bạn biết ai sẽ biết không?", "ex": "Any idea who would know?", "exvi": "Bạn biết ai sẽ nắm rõ không?", "note": "Câu hỏi tiếp rất hữu dụng thay vì bỏ cuộc." },
+                { "w": "Same here", "vi": "tôi cũng vậy", "ex": "Same here — let's find out together.", "exvi": "Mình cũng vậy — cùng tìm hiểu đi." },
+                { "w": "Better to ask", "vi": "hỏi thì hơn", "ex": "Better to ask than guess.", "exvi": "Hỏi vẫn hơn đoán." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I'm not sure about that, to be honest.",
+                  "vi": "Thật lòng thì chỗ đó tôi không chắc.",
+                  "note": "Đây KHÔNG phải thú nhận không biết — đây là <b>phản đối mềm</b>. Người nghe hiểu ngay bạn đang nghi ngờ.",
+                  "open": { "en": "Can I push back a little?", "vi": "Cho tôi phản biện chút được không?" },
+                  "reply": [
+                    { "them": "What makes you doubt it?", "themvi": "Điều gì khiến anh/chị nghi ngờ?", "you": "The same approach failed last year.", "youvi": "Cách đó năm ngoái đã thất bại." },
+                    { "them": "Fair enough, let's double-check.", "themvi": "Cũng có lý, mình kiểm tra lại đi.", "you": "I'll pull the old report.", "youvi": "Tôi lấy báo cáo cũ ra." }
+                  ],
+                  "close": { "en": "Happy to be proved wrong.", "vi": "Tôi sẵn sàng nhận mình sai." }
+                },
+                {
+                  "en": "I'm not sure I follow. Can you explain that part?",
+                  "vi": "Tôi chưa theo kịp. Anh/chị giải thích phần đó được không?",
+                  "note": "Cách nói “tôi chưa hiểu” lịch sự nhất — nó không ám chỉ người kia giảng dở.",
+                  "reply": [
+                    { "them": "Let me rephrase that.", "themvi": "Để tôi nói lại cách khác.", "you": "Thanks — the middle part especially.", "youvi": "Cảm ơn — nhất là đoạn giữa." }
+                  ],
+                  "vars": [
+                    { "en": "I'm not entirely sure what you mean.", "vi": "Tôi chưa hoàn toàn hiểu ý anh/chị." }
+                  ]
+                },
+                {
+                  "en": "I could be wrong, but that doesn't sound right.",
+                  "vi": "Có thể tôi nhầm, nhưng nghe không đúng lắm.",
+                  "note": "Mở đầu phản biện rất khéo — bạn nhận rủi ro sai về mình trước khi chỉ ra vấn đề.",
+                  "reply": [
+                    { "them": "Which part?", "themvi": "Phần nào?", "you": "The figure on slide six.", "youvi": "Con số ở slide sáu." }
+                  ]
+                },
+                {
+                  "en": "I'm not sure if this helps, but here's the old template.",
+                  "vi": "Không biết có giúp được gì không, nhưng đây là mẫu cũ.",
+                  "note": "Mở đầu email góp ý cực khéo — đề xuất mà không áp đặt.",
+                  "reply": [
+                    { "them": "That's exactly what I needed.", "themvi": "Đúng thứ tôi cần luôn.", "you": "Glad it's useful.", "youvi": "May là có ích." }
+                  ],
+                  "close": { "en": "Shout if you need anything else.", "vi": "Cần gì nữa thì cứ gọi." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I'm not sure, but I think it's on the third floor.",
+                  "vi": "Tôi không chắc, nhưng hình như ở tầng ba.",
+                  "note": "Giúp người khác mà không cam kết — nếu sai cũng không ai trách bạn.",
+                  "reply": [
+                    { "them": "Thanks, I'll have a look.", "themvi": "Cảm ơn, để tôi lên xem.", "you": "Sorry I can't be more help.", "youvi": "Xin lỗi tôi không giúp được nhiều hơn." }
+                  ]
+                },
+                {
+                  "en": "I'm not sure if the last train has gone.",
+                  "vi": "Tôi không chắc chuyến tàu cuối đã chạy chưa.",
+                  "reply": [
+                    { "them": "Let me check the app.", "themvi": "Để mình xem ứng dụng.", "you": "Good idea — I'd only be guessing.", "youvi": "Ý hay — mình chỉ đoán thôi." }
+                  ],
+                  "vars": [
+                    { "en": "I'm not sure whether they run this late.", "vi": "Tôi không chắc muộn thế này còn chạy không." }
+                  ]
+                },
+                {
+                  "en": "I'm not sure whether to book now or wait.",
+                  "vi": "Tôi đang phân vân nên đặt luôn hay đợi.",
+                  "note": "BẪY: chỉ <b>whether</b> mới đi được với <i>to + V</i>. Không nói <i>I'm not sure to book</i>.",
+                  "open": { "en": "Help me decide —", "vi": "Giúp mình quyết với —" },
+                  "reply": [
+                    { "them": "Prices usually go up closer to the date.", "themvi": "Càng gần ngày giá càng lên.", "you": "Then I'll book tonight.", "youvi": "Vậy tối nay mình đặt." }
+                  ],
+                  "close": { "en": "Thanks for the push.", "vi": "Cảm ơn đã đẩy mình một cái." }
+                },
+                {
+                  "en": "Don't hold me to this, but I think the museum is free on Sundays.",
+                  "vi": "Đừng bắt bẻ mình nhé, nhưng hình như Chủ nhật bảo tàng miễn phí.",
+                  "note": "Rất thân mật — chối trách nhiệm kiểu vui vẻ. Không dùng với khách hàng.",
+                  "reply": [
+                    { "them": "We'll check at the door.", "themvi": "Đến cửa mình hỏi.", "you": "Safer that way.", "youvi": "Vậy chắc ăn hơn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I'm not sure about the price — has it changed?",
+                  "vi": "Tôi không chắc về giá — có thay đổi không ạ?",
+                  "reply": [
+                    { "them": "Let me check for you.", "themvi": "Để em kiểm tra giúp anh/chị ạ.", "you": "Thank you, no rush.", "youvi": "Cảm ơn, không vội đâu." }
+                  ]
+                },
+                {
+                  "en": "I'm not sure whether to take the bigger one.",
+                  "vi": "Tôi đang phân vân có nên lấy cái to hơn không.",
+                  "reply": [
+                    { "them": "How much space do you have?", "themvi": "Nhà anh/chị rộng bao nhiêu ạ?", "you": "Not much, now that you mention it.", "youvi": "Nhắc mới nhớ, cũng không rộng lắm." }
+                  ],
+                  "vars": [
+                    { "en": "I'm still undecided between these two.", "vi": "Tôi vẫn chưa quyết giữa hai cái này." }
+                  ]
+                },
+                {
+                  "en": "I'm not so sure about that, actually.",
+                  "vi": "Thật ra chỗ đó tôi không chắc lắm đâu.",
+                  "note": "Thêm <b>so</b> làm nghi ngờ rõ hơn hẳn — gần như nói “tôi nghĩ anh/chị nhầm”.",
+                  "reply": [
+                    { "them": "The box says twelve months.", "themvi": "Trên hộp ghi mười hai tháng ạ.", "you": "The website said twenty-four.", "youvi": "Trên trang web ghi hai mươi bốn." }
+                  ]
+                },
+                {
+                  "en": "I'm not sure, but I think there's a cheaper version.",
+                  "vi": "Tôi không chắc, nhưng hình như có bản rẻ hơn.",
+                  "reply": [
+                    { "them": "There is — last year's model.", "themvi": "Có ạ — mẫu năm ngoái.", "you": "Could I see that one?", "youvi": "Cho tôi xem cái đó được không?" }
+                  ],
+                  "close": { "en": "That'll do nicely.", "vi": "Cái đó là ổn rồi." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I'm not sure if this has nuts in it.",
+                  "vi": "Tôi không chắc món này có hạt không.",
+                  "note": "Với dị ứng thì <i>I'm not sure</i> là tín hiệu để nhân viên đi hỏi bếp — đừng đoán.",
+                  "reply": [
+                    { "them": "I'll check with the kitchen.", "themvi": "Em hỏi bếp ạ.", "you": "Thank you — it's an allergy.", "youvi": "Cảm ơn — là dị ứng ạ." }
+                  ],
+                  "close": { "en": "Better to ask than guess.", "vi": "Hỏi vẫn hơn đoán." }
+                },
+                {
+                  "en": "I'm not sure whether to order the set menu.",
+                  "vi": "Tôi đang phân vân có nên gọi thực đơn cố định không.",
+                  "reply": [
+                    { "them": "It's better value if you're hungry.", "themvi": "Nếu đói thì đáng tiền hơn ạ.", "you": "Then let's do that.", "youvi": "Vậy lấy cái đó." }
+                  ]
+                },
+                {
+                  "en": "I'm not sure, but I think we were charged twice.",
+                  "vi": "Tôi không chắc, nhưng hình như bị tính hai lần.",
+                  "note": "Cách phàn nàn cực an toàn — nếu hóa ra bạn nhầm thì cũng không ngượng.",
+                  "reply": [
+                    { "them": "Let me look at the bill.", "themvi": "Để em xem hóa đơn ạ.", "you": "The coffee line, I think.", "youvi": "Dòng cà phê thì phải." }
+                  ],
+                  "vars": [
+                    { "en": "I could be wrong, but the total looks high.", "vi": "Có thể tôi nhầm, nhưng tổng tiền trông hơi cao." }
+                  ]
+                },
+                {
+                  "en": "I'm not sure this is what I ordered.",
+                  "vi": "Tôi không chắc đây là món tôi gọi.",
+                  "reply": [
+                    { "them": "What did you order, sorry?", "themvi": "Anh/chị gọi món gì ạ?", "you": "The grilled one, I think.", "youvi": "Món nướng thì phải." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I'm not sure whether to go or not.",
+                  "vi": "Mình đang phân vân có nên đi hay không.",
+                  "reply": [
+                    { "them": "Take your time deciding.", "themvi": "Cứ từ từ quyết định.", "you": "I'll let you know tomorrow.", "youvi": "Mai mình báo bạn." }
+                  ]
+                },
+                {
+                  "en": "I'm not sure, but I think we've met before.",
+                  "vi": "Mình không chắc, nhưng hình như mình từng gặp nhau.",
+                  "note": "Cách bắt chuyện an toàn — nếu nhầm thì <i>I'm not sure</i> đã đỡ sẵn cho bạn.",
+                  "reply": [
+                    { "them": "Maybe at the conference?", "themvi": "Chắc ở hội thảo?", "you": "That's it — last spring.", "youvi": "Đúng rồi — mùa xuân năm ngoái." }
+                  ]
+                },
+                {
+                  "en": "I'm not sure about that, honestly.",
+                  "vi": "Thật lòng thì chỗ đó mình không chắc.",
+                  "reply": [
+                    { "them": "Everyone says it's true.", "themvi": "Ai cũng bảo đúng mà.", "you": "That's not the same as it being true.", "youvi": "Ai cũng bảo không có nghĩa là đúng." }
+                  ],
+                  "vars": [
+                    { "en": "I'm not so sure about that.", "vi": "Chỗ đó mình không chắc lắm đâu." }
+                  ]
+                },
+                {
+                  "en": "I'm still undecided about the job.",
+                  "vi": "Mình vẫn chưa quyết về công việc đó.",
+                  "note": "<i>undecided</i> trang trọng hơn <i>not sure</i> khi nói về một quyết định lớn.",
+                  "reply": [
+                    { "them": "What's holding you back?", "themvi": "Điều gì khiến bạn do dự?", "you": "The commute, mostly.", "youvi": "Chủ yếu là quãng đường đi làm." }
+                  ],
+                  "close": { "en": "I'll decide by Friday.", "vi": "Thứ Sáu mình sẽ quyết." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Phản biện nhẹ nhàng trong cuộc họp",
+          "lines": [
+            { "speaker": "Colleague", "en": "This approach worked for the other team, so it'll work for us.", "vi": "Cách này nhóm kia làm được, nên mình cũng làm được." },
+            { "speaker": "You", "me": true, "en": "I'm not sure about that, to be honest.", "vi": "Thật lòng thì chỗ đó tôi không chắc." },
+            { "speaker": "Colleague", "en": "What makes you doubt it?", "vi": "Điều gì khiến anh/chị nghi ngờ?" },
+            { "speaker": "You", "me": true, "en": "I could be wrong, but their data is much cleaner than ours.", "vi": "Có thể tôi nhầm, nhưng dữ liệu của họ sạch hơn của mình nhiều." },
+            { "speaker": "Colleague", "en": "Hmm. I'm not sure I follow.", "vi": "Hừm. Tôi chưa theo kịp." },
+            { "speaker": "You", "me": true, "en": "Let me rephrase — their input is validated, ours isn't.", "vi": "Để tôi nói lại — đầu vào của họ đã được kiểm tra, của mình thì chưa." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Hỏi đường khi không chắc",
+          "lines": [
+            { "speaker": "Tourist", "en": "Excuse me, is the museum this way?", "vi": "Xin lỗi, bảo tàng đi lối này phải không ạ?" },
+            { "speaker": "You", "me": true, "en": "I'm not sure, but I think it's on the other side of the park.", "vi": "Tôi không chắc, nhưng hình như nó ở phía bên kia công viên." },
+            { "speaker": "Tourist", "en": "Is it far?", "vi": "Có xa không ạ?" },
+            { "speaker": "You", "me": true, "en": "Don't hold me to this, but I'd say ten minutes.", "vi": "Đừng bắt bẻ tôi nhé, nhưng tôi đoán mười phút." },
+            { "speaker": "Tourist", "en": "And is it open today?", "vi": "Hôm nay có mở cửa không ạ?" },
+            { "speaker": "You", "me": true, "en": "I'm not sure if it opens on Mondays. Better to ask than guess — there's an info desk there.", "vi": "Tôi không chắc thứ Hai có mở không. Hỏi vẫn hơn đoán — có quầy thông tin đằng kia." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I don't sure about that.", "right": "I'm not sure about that.", "why": "BẪY LỚN NHẤT. <b>Sure</b> là TÍNH TỪ, không phải động từ — phải dùng <i>to be</i>: <b>I'm not sure</b>." },
+            { "wrong": "I'm not sure to go.", "right": "I'm not sure whether to go.", "why": "Chỉ <b>whether</b> mới đi được với <i>to + V</i>. Không có dạng <i>not sure + to V</i> trực tiếp." },
+            { "wrong": "I'm not sure if to go.", "right": "I'm not sure whether to go.", "why": "<b>if</b> KHÔNG bao giờ đi với <i>to + V</i>. Đây là điểm khác nhau chính giữa <i>if</i> và <i>whether</i>." },
+            { "wrong": "I'm not sure about it is correct.", "right": "I'm not sure it's correct.", "why": "Sau <b>about</b> phải là danh từ hoặc V-ing, không phải mệnh đề. Trước mệnh đề thì bỏ <i>about</i>." },
+            { "wrong": "I'm not sure, but I'm not sure it's right.", "right": "I'm not sure it's right.", "why": "Lặp lớp rào hai lần. Một lớp là đủ — giống lỗi chồng lớp ở [Khung 42]." },
+            { "wrong": "I'm unsure about that. <i>(phản đối trong hội thoại)</i>", "right": "I'm not sure about that.", "why": "<i>unsure</i> trang trọng và thiên về <b>do dự khi chọn</b>. Để phản đối mềm trong hội thoại, luôn dùng <i>not sure</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Mức chắc chắn / sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I'm not sure, but…</code>", "Thấp — rào rồi vẫn nói", "<i>I'm not sure, but I think it's Monday.</i> Mọi hoàn cảnh."],
+            ["<code>I'm not sure about that.</code>", "Phản đối mềm — không phải thú nhận", "<i>I'm not sure about that.</i> Họp, tranh luận."],
+            ["<code>I'm not so sure…</code>", "Nghi ngờ rõ hơn", "<i>I'm not so sure about that.</i> Gần như “bạn sai rồi”."],
+            ["<code>As far as I know,…</code>", "Có thông tin nhưng giới hạn", "<i>As far as I know, it's free.</i> Xem [Khung 45]."],
+            ["<code>I think…</code>", "Lớp đệm nhẹ", "<i>I think it's Monday.</i> Xem [Khung 41]."],
+            ["<code>I'd say…</code>", "Đoán có cơ sở", "<i>I'd say about fifty.</i> Xem [Khung 46]."],
+            ["<code>I have no idea.</code>", "Hoàn toàn không biết", "<i>I have no idea, sorry.</i> Không có thông tin gì."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — nghi ngờ một điều người khác vừa nói" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I could be wrong, but…", "vi": "Nhẹ nhất — nhận rủi ro về mình trước" },
+            { "en": "I'm not sure about that.", "vi": "Phản đối mềm — chuẩn mực" },
+            { "en": "I'm not so sure about that.", "vi": "Nghi ngờ rõ rệt" },
+            { "en": "I don't think that's right.", "vi": "Phản đối rõ. Xem [Khung 41]" },
+            { "en": "That's not correct.", "vi": "Bác bỏ thẳng — dễ gây căng" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>I'm not</b> nói nhanh dính thành <b>“aim-NOT”</b>, âm /t/ cuối gần như nuốt mất.",
+            "<b>not sure</b> → âm /t/ biến mất hẳn, nghe như <b>“no-SHOR”</b>.",
+            "<b>sure</b> đọc là <b>/ʃɔː/</b> hoặc <b>/ʃʊə/</b> — bắt đầu bằng âm /ʃ/ như trong <i>shoe</i>, KHÔNG phải /s/.",
+            "Cả cụm: <b>“aim-nət-SHOR”</b> — chỉ nhấn duy nhất vào <i>sure</i>.",
+            "<b>not sure about</b> → “nət-shor-ə-BAUT”, ba từ dính liền một hơi.",
+            "Khi dùng để <b>phản đối mềm</b>, kéo dài <i>sure</i> ra một chút và hạ giọng — chính ngữ điệu đó truyền tải sự nghi ngờ."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm not sure about that, to be honest.", "vi": "Luyện shadowing: “aim-nət-SHOR-ə-baut-that”, kéo dài SHOR." },
+            { "en": "I'm not sure whether to go or not.", "vi": "Tập nói liền “whether-to-GO” không ngắt giữa." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Chỗ đó tôi không chắc.", "blank": "__________ about that.", "a": "I'm not sure (KHÔNG phải “I don't sure”)" },
+            { "vi": "Tôi đang phân vân có nên đi hay không.", "blank": "I'm not sure __________ go or not.", "a": "whether to (KHÔNG dùng “if to”)" },
+            { "vi": "Tôi chưa theo kịp.", "blank": "I'm not sure __________.", "a": "I follow" },
+            { "vi": "Chỗ đó tôi không chắc lắm đâu.", "blank": "I'm not __________ about that.", "a": "so sure" },
+            { "vi": "Có thể tôi nhầm, nhưng nghe không đúng lắm.", "blank": "__________, but that doesn't sound right.", "a": "I could be wrong" },
+            { "vi": "Đừng bắt bẻ tôi nhé, nhưng hình như miễn phí.", "blank": "__________, but I think it's free.", "a": "Don't hold me to this" },
+            { "vi": "Tôi không chắc liệu còn mở cửa không.", "blank": "I'm not sure __________ it's still open.", "a": "if" },
+            { "vi": "Không biết có giúp được gì không, nhưng đây là đường dẫn.", "blank": "I'm not sure __________, but here's the link.", "a": "if this helps" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Thật lòng thì chỗ đó tôi không chắc.", "a": "I'm not sure about that, to be honest." },
+            { "vi": "2. Tôi chưa theo kịp. Anh/chị giải thích phần đó được không?", "a": "I'm not sure I follow. Can you explain that part?" },
+            { "vi": "3. Tôi không chắc, nhưng hình như ở tầng ba.", "a": "I'm not sure, but I think it's on the third floor." },
+            { "vi": "4. Tôi đang phân vân nên đặt luôn hay đợi.", "a": "I'm not sure whether to book now or wait." },
+            { "vi": "5. Tôi không chắc, nhưng hình như bị tính hai lần.", "a": "I'm not sure, but I think we were charged twice." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Xóa hẳn “I don't sure” khỏi đầu.</b> <i>Sure</i> là tính từ — luôn là <b>I'm not sure</b>.",
+            "<b>Học kỹ sắc thái của “I'm not sure about that.”</b> Nó là phản đối mềm, không phải thú nhận không biết. Đây là điểm giá trị nhất của khung này.",
+            "<b>Nhớ luật whether:</b> chỉ <i>whether</i> mới đi với <i>to + V</i>. <i>if to</i> luôn sai.",
+            "<b>Dùng “I'm not sure I follow” thay cho “I don't understand”</b> — nó không ám chỉ người kia giảng dở.",
+            "<b>Thêm “so” khi muốn nghi ngờ rõ hơn:</b> <i>I'm not so sure</i> mạnh hơn hẳn <i>I'm not sure</i>.",
+            "<b>Bài tập 3 phút:</b> viết 5 câu bạn muốn phản đối trong tuần này, mở mỗi câu bằng <i>I'm not sure about that</i> hoặc <i>I could be wrong, but…</i> rồi thêm một lý do cụ thể."
+          ]
+        }
+      ]
+    }
+  ]
+}

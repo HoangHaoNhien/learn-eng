@@ -1,0 +1,500 @@
+{
+  "id": 66,
+  "group": "Nhóm 7 · Hỏi thông tin",
+  "title": "What's the difference between…? — Hỏi khác nhau thế nào",
+  "subtitle": "Câu hỏi bạn cần mỗi khi đứng trước hai lựa chọn và không biết chọn cái nào: hai gói dịch vụ, hai mẫu máy, hai loại vé. Nó chứa một cặp giới từ cố định mà nếu thay đi là sai ngay, và một lỗi người Việt mắc rất nhiều: different with.",
+  "pattern": [
+    "What's the difference between <em>A and B</em>?",
+    "How is <em>A</em> different from <em>B</em>?",
+    "Is there much difference?"
+  ],
+  "meaning": "A và B khác nhau thế nào? / Khác gì nhau?",
+  "grammar": [37, 45, 57, 60],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Giúp ra quyết định" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">What's the difference between A and B?</span> là câu hỏi giúp bạn <b>ra quyết định</b>. Khi đứng trước hai gói dịch vụ, hai mẫu máy, hai loại vé mà không rõ khác gì nhau, đây là câu hỏi hiệu quả nhất." },
+        { "t": "p", "html": "Nó cũng rất hữu ích trong công việc: thay vì đoán mò về hai phương án, bạn hỏi thẳng người nắm rõ. Câu hỏi này <b>không hề ngại ngùng</b> — nó thể hiện bạn muốn hiểu kỹ trước khi quyết." },
+        { "t": "p", "html": "Có một nghĩa thứ hai cần biết: <span class=\"k\">What's the difference?</span> đứng một mình, nói với giọng hơi gắt, lại mang nghĩa <b>“thì có khác gì đâu”</b> — một câu hỏi tu từ thể hiện sự bất cần." },
+        { "t": "callout", "html": "<b>CẶP GIỚI TỪ CỐ ĐỊNH:</b> luôn là <span class=\"k\">difference <b>between</b> A <b>and</b> B</span>. Không bao giờ là <i>between A <b>with</b> B</i> ✗, <i>between A <b>to</b> B</i> ✗, hay <i>difference <b>of</b></i> ✗." },
+        { "t": "h3", "text": "Ba cách hỏi cùng một điều" },
+        {
+          "t": "table",
+          "head": ["Câu", "Sắc thái", "Bối cảnh"],
+          "rows": [
+            ["<code>What's the difference between A and B?</code>", "Trung tính, đầy đủ", "Phổ biến nhất"],
+            ["<code>How is A different from B?</code>", "Nhấn vào A", "Khi bạn đã biết B"],
+            ["<code>Is there much difference?</code>", "Nhẹ nhất", "Khi bạn ngờ rằng hai cái gần giống"],
+            ["<code>What's the difference?</code>", "Có thể là tu từ", "Tùy ngữ điệu — cẩn thận"]
+          ]
+        },
+        { "t": "callout", "html": "<b>BẪY LỚN của người Việt:</b> tính từ <i>different</i> đi với <b>from</b> (chuẩn quốc tế), <b>to</b> (Anh-Anh) hoặc <b>than</b> (Anh-Mỹ) — nhưng <b>KHÔNG BAO GIỜ</b> đi với <i>with</i>. <span class=\"k\">different with</span> ✗ là lỗi rất phổ biến." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🛍", "title": "So sánh hai sản phẩm", "text": "Bối cảnh số 1. <i>What's the difference between these two models?</i>" },
+            { "icon": "🎫", "title": "So sánh hai loại vé", "text": "<i>What's the difference between standard and flexible?</i>" },
+            { "icon": "💼", "title": "So sánh hai phương án", "text": "<i>How is option A different from option B?</i>" },
+            { "icon": "🤔", "title": "Ngờ rằng gần giống nhau", "text": "<i>Is there much difference?</i> Nhẹ nhàng nhất." },
+            { "icon": "🍽", "title": "Hỏi về món ăn", "text": "<i>What's the difference between these two dishes?</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn muốn biết cái nào tốt hơn. Ở đó hỏi thẳng <i>Which would you recommend?</i>" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Chuẩn", "<code>What's the difference between A and B?</code>", "What's the difference between these two?"],
+            ["Rút gọn", "<code>What's the difference?</code>", "What's the difference?"],
+            ["Với tính từ", "<code>How is A different from B?</code>", "How is this different from that?"],
+            ["Hỏi mức độ", "<code>Is there much difference?</code>", "Is there much difference between them?"],
+            ["Hỏi cái nào hơn", "<code>Which is better?</code>", "Which one is better for me?"],
+            ["Hỏi gợi ý", "<code>Which would you recommend?</code>", "Which would you recommend?"],
+            ["Phân biệt được", "<code>Can you tell the difference?</code>", "Can you tell the difference?"],
+            ["Không khác mấy", "<code>It doesn't make much difference.</code>", "It doesn't make much difference."],
+            ["So sánh giống nhau", "<code>What do they have in common?</code>", "What do they have in common?"],
+            ["Gián tiếp — lịch sự", "<code>Could you explain the difference?</code>", "Could you explain the difference?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng nhầm hai thành ngữ:</b> <i>tell the difference</i> = <b>phân biệt được</b> (<i>I can't tell the difference.</i> = tôi không phân biệt nổi). Còn <i>make a difference</i> = <b>tạo ra khác biệt, có tác dụng</b> (<i>It makes a big difference.</i>)." },
+        { "t": "callout", "html": "<b>Khi so sánh nhiều hơn hai thứ</b> thì dùng <b>among</b> hoặc đổi cách hỏi: <i>What are the differences <b>between</b> these three?</i> vẫn dùng được với <i>between</i> khi các đối tượng được nêu rõ ràng." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các dạng câu hỏi so sánh",
+              "items": [
+                { "w": "the difference between", "vi": "sự khác nhau giữa", "ex": "What's the difference between these two?", "exvi": "Hai cái này khác nhau thế nào ạ?", "note": "CỐ ĐỊNH: <i>between A <b>and</b> B</i>. Không bao giờ <i>with</i> hay <i>to</i>." },
+                { "w": "different from", "vi": "khác với", "ex": "How is this different from that one?", "exvi": "Cái này khác cái kia thế nào ạ?", "note": "BẪY LỚN: <b>different with</b> ✗. Dùng <i>from</i> (chuẩn), <i>to</i> (Anh), <i>than</i> (Mỹ)." },
+                { "w": "Is there much difference?", "vi": "có khác nhau nhiều không?", "ex": "Is there much difference between them?", "exvi": "Chúng có khác nhau nhiều không ạ?", "note": "Cách hỏi nhẹ nhất — ngầm rằng bạn ngờ hai cái gần giống." },
+                { "w": "What's the difference?", "vi": "khác gì nhau?", "ex": "What's the difference, exactly?", "exvi": "Chính xác thì khác gì nhau ạ?", "note": "Nói với giọng gắt thì thành “thì có khác gì đâu” — cẩn thận ngữ điệu." },
+                { "w": "Which is better?", "vi": "cái nào tốt hơn?", "ex": "Which is better for a beginner?", "exvi": "Với người mới thì cái nào tốt hơn ạ?" },
+                { "w": "Which would you recommend?", "vi": "anh/chị gợi ý cái nào?", "ex": "Which would you recommend?", "exvi": "Anh/chị gợi ý cái nào ạ?", "note": "Hỏi thẳng lời khuyên — hiệu quả hơn khi bạn không cần hiểu chi tiết." },
+                { "w": "Can you tell the difference?", "vi": "bạn phân biệt được không?", "ex": "Can you tell the difference?", "exvi": "Bạn phân biệt được không?", "note": "<i>tell the difference</i> = PHÂN BIỆT ĐƯỢC, khác hẳn <i>make a difference</i>." },
+                { "w": "in what way", "vi": "khác ở chỗ nào", "ex": "In what way are they different?", "exvi": "Chúng khác nhau ở chỗ nào ạ?" },
+                { "w": "apart from the price", "vi": "ngoài giá ra", "ex": "Apart from the price, what's different?", "exvi": "Ngoài giá ra thì khác gì nữa ạ?", "note": "Câu hỏi tiếp rất khôn — nó loại bỏ yếu tố hiển nhiên." },
+                { "w": "What do they have in common?", "vi": "chúng giống nhau ở điểm nào?", "ex": "What do they have in common?", "exvi": "Chúng giống nhau ở điểm nào ạ?", "note": "<i>have in common</i> = có điểm chung. Câu hỏi ngược lại." },
+                { "w": "Could you explain the difference?", "vi": "anh/chị giải thích khác biệt được không?", "ex": "Could you explain the difference?", "exvi": "Anh/chị giải thích giúp khác nhau thế nào được không ạ?", "note": "Dạng lịch sự nhất. Xem [Khung 69]." },
+                { "w": "What are the main differences?", "vi": "những khác biệt chính là gì?", "ex": "What are the main differences?", "exvi": "Những khác biệt chính là gì ạ?" }
+              ]
+            },
+            {
+              "title": "Từ mô tả khác biệt",
+              "items": [
+                { "w": "the main difference is", "vi": "khác biệt chính là", "ex": "The main difference is the battery life.", "exvi": "Khác biệt chính là thời lượng pin." },
+                { "w": "apart from that", "vi": "ngoài cái đó ra", "ex": "Apart from that, they're identical.", "exvi": "Ngoài cái đó ra thì giống hệt nhau." },
+                { "w": "identical", "vi": "giống hệt", "ex": "They're practically identical.", "exvi": "Chúng gần như giống hệt nhau." },
+                { "w": "much the same", "vi": "gần như giống nhau", "ex": "They're much the same, really.", "exvi": "Thật ra gần như giống nhau." },
+                { "w": "twice as expensive", "vi": "đắt gấp đôi", "ex": "This one's twice as expensive.", "exvi": "Cái này đắt gấp đôi.", "note": "Cấu trúc <i>twice as + tính từ + as</i> rất hay dùng khi so sánh." },
+                { "w": "slightly bigger", "vi": "to hơn một chút", "ex": "It's slightly bigger.", "exvi": "Nó to hơn một chút." },
+                { "w": "far better", "vi": "tốt hơn nhiều", "ex": "The second one is far better.", "exvi": "Cái thứ hai tốt hơn nhiều.", "note": "<i>far</i> + so sánh hơn = hơn rất nhiều. Mạnh hơn <i>much</i>." },
+                { "w": "the only difference", "vi": "khác biệt duy nhất", "ex": "The only difference is the colour.", "exvi": "Khác biệt duy nhất là màu sắc." },
+                { "w": "it doesn't make much difference", "vi": "không khác mấy đâu", "ex": "Honestly, it doesn't make much difference.", "exvi": "Thật lòng thì không khác mấy đâu.", "note": "<i>make a difference</i> = tạo ra khác biệt, khác hẳn <i>tell the difference</i>." },
+                { "w": "worlds apart", "vi": "khác một trời một vực", "ex": "They're worlds apart.", "exvi": "Chúng khác một trời một vực.", "note": "Thành ngữ nhấn mạnh sự khác biệt cực lớn." },
+                { "w": "six of one", "vi": "cũng như nhau cả thôi", "ex": "It's six of one, really.", "exvi": "Thật ra cũng như nhau cả thôi.", "note": "Rút gọn của <i>six of one, half a dozen of the other</i> — thành ngữ rất Anh." },
+                { "w": "it depends what you need", "vi": "còn tùy bạn cần gì", "ex": "It depends what you need it for.", "exvi": "Còn tùy anh/chị cần nó để làm gì.", "note": "Xem [Khung 57]." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại & hỏi tiếp",
+              "items": [
+                { "w": "Good question", "vi": "câu hỏi hay đấy", "ex": "Good question — let me explain.", "exvi": "Câu hỏi hay — để tôi giải thích." },
+                { "w": "Let me show you", "vi": "để tôi chỉ cho bạn", "ex": "Let me show you both.", "exvi": "Để em cho anh/chị xem cả hai ạ." },
+                { "w": "So which should I get?", "vi": "vậy tôi nên lấy cái nào?", "ex": "So which should I get?", "exvi": "Vậy tôi nên lấy cái nào ạ?" },
+                { "w": "Is it worth the extra?", "vi": "có đáng trả thêm không?", "ex": "Is it worth the extra money?", "exvi": "Có đáng trả thêm tiền không ạ?", "note": "Câu hỏi tiếp cực kỳ thực tế sau khi nghe giải thích khác biệt." },
+                { "w": "For what I need, no", "vi": "với nhu cầu của tôi thì không", "ex": "For what I need, probably not.", "exvi": "Với nhu cầu của tôi thì chắc là không." },
+                { "w": "I see the difference now", "vi": "giờ tôi thấy khác biệt rồi", "ex": "I see the difference now, thanks.", "exvi": "Giờ tôi thấy khác biệt rồi, cảm ơn." },
+                { "w": "That's clearer, thanks", "vi": "rõ hơn rồi, cảm ơn", "ex": "That's much clearer, thanks.", "exvi": "Rõ hơn nhiều rồi, cảm ơn ạ." },
+                { "w": "Could you say that again?", "vi": "anh/chị nói lại được không?", "ex": "Sorry, could you say that again?", "exvi": "Xin lỗi, anh/chị nói lại được không ạ?" },
+                { "w": "I'll go with the cheaper one", "vi": "tôi chọn cái rẻ hơn", "ex": "I'll go with the cheaper one then.", "exvi": "Vậy tôi chọn cái rẻ hơn." },
+                { "w": "What would you choose?", "vi": "anh/chị sẽ chọn cái nào?", "ex": "What would you choose yourself?", "exvi": "Nếu là anh/chị thì chọn cái nào ạ?", "note": "Rất hiệu quả — nhân viên thường trả lời thật lòng hơn." },
+                { "w": "Neither, thanks", "vi": "không cái nào cả, cảm ơn", "ex": "Neither, thanks — I'll keep looking.", "exvi": "Không cái nào cả, cảm ơn — tôi xem tiếp." },
+                { "w": "Both work for me", "vi": "cái nào cũng được với tôi", "ex": "Both work for me, honestly.", "exvi": "Thật lòng thì cái nào cũng được." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "What's the difference between these two models?",
+                  "vi": "Hai mẫu này khác nhau thế nào ạ?",
+                  "note": "Cặp giới từ cố định <b>between … and …</b>. Đây là câu hỏi giúp bạn ra quyết định mua.",
+                  "open": { "en": "Excuse me, could you help me choose?", "vi": "Xin lỗi, em giúp tôi chọn được không?" },
+                  "reply": [
+                    { "them": "The main difference is the battery life.", "themvi": "Khác biệt chính là thời lượng pin ạ.", "you": "Apart from that, are they the same?", "youvi": "Ngoài cái đó ra thì giống nhau chứ ạ?" },
+                    { "them": "This one's twice as expensive, though.", "themvi": "Nhưng cái này đắt gấp đôi ạ.", "you": "Is it worth the extra?", "youvi": "Có đáng trả thêm không ạ?" }
+                  ],
+                  "close": { "en": "I'll go with the cheaper one.", "vi": "Tôi chọn cái rẻ hơn." }
+                },
+                {
+                  "en": "How is this one different from that one?",
+                  "vi": "Cái này khác cái kia thế nào ạ?",
+                  "note": "BẪY: <b>different from</b>, không bao giờ <i>different with</i> ✗.",
+                  "reply": [
+                    { "them": "Slightly bigger screen, same everything else.", "themvi": "Màn hình to hơn chút, còn lại y hệt ạ.", "you": "Then I don't need the bigger one.", "youvi": "Vậy tôi không cần cái to hơn." }
+                  ],
+                  "vars": [
+                    { "en": "In what way are they different?", "vi": "Chúng khác nhau ở chỗ nào ạ?" }
+                  ]
+                },
+                {
+                  "en": "Is there much difference between them?",
+                  "vi": "Chúng có khác nhau nhiều không ạ?",
+                  "note": "Cách hỏi nhẹ nhất — ngầm rằng bạn ngờ hai cái gần giống nhau.",
+                  "reply": [
+                    { "them": "Honestly, it doesn't make much difference.", "themvi": "Thật lòng thì không khác mấy đâu ạ.", "you": "Then I'll take the cheaper one.", "youvi": "Vậy tôi lấy cái rẻ hơn." }
+                  ]
+                },
+                {
+                  "en": "What would you choose yourself?",
+                  "vi": "Nếu là em thì em chọn cái nào ạ?",
+                  "note": "Rất hiệu quả — nhân viên thường trả lời thật lòng hơn khi được hỏi kiểu này.",
+                  "reply": [
+                    { "them": "The second one, for what you've described.", "themvi": "Với nhu cầu anh/chị vừa nói thì cái thứ hai ạ.", "you": "Sold. I'll take it.", "youvi": "Chốt. Tôi lấy cái đó." }
+                  ],
+                  "close": { "en": "Thanks for being honest.", "vi": "Cảm ơn em đã nói thật." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "What's the difference between standard and flexible tickets?",
+                  "vi": "Vé thường và vé linh hoạt khác nhau thế nào ạ?",
+                  "note": "Câu hỏi thiết yếu khi mua vé — thường tiết kiệm được nhiều tiền hoặc tránh rắc rối về sau.",
+                  "reply": [
+                    { "them": "Flexible lets you change the date free.", "themvi": "Vé linh hoạt cho đổi ngày miễn phí ạ.", "you": "And how much is the difference?", "youvi": "Chênh nhau bao nhiêu ạ?" }
+                  ],
+                  "close": { "en": "I'll take the flexible one.", "vi": "Tôi lấy vé linh hoạt." }
+                },
+                {
+                  "en": "What's the difference between these two rooms?",
+                  "vi": "Hai phòng này khác nhau thế nào ạ?",
+                  "reply": [
+                    { "them": "One has a balcony, the other doesn't.", "themvi": "Một phòng có ban công, phòng kia không ạ.", "you": "Is the balcony worth the extra?", "youvi": "Ban công có đáng trả thêm không ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "How is the deluxe different from the standard?", "vi": "Phòng deluxe khác phòng thường thế nào ạ?" }
+                  ]
+                },
+                {
+                  "en": "Is there much difference between the two routes?",
+                  "vi": "Hai tuyến đường có khác nhau nhiều không ạ?",
+                  "reply": [
+                    { "them": "Twenty minutes, and one has fewer changes.", "themvi": "Chênh hai mươi phút, và một tuyến ít phải đổi tàu hơn ạ.", "you": "Fewer changes wins for me.", "youvi": "Với tôi thì ít đổi tàu thắng." }
+                  ]
+                },
+                {
+                  "en": "Could you explain the difference in the fares?",
+                  "vi": "Anh/chị giải thích giúp giá vé khác nhau thế nào được không ạ?",
+                  "note": "Dạng lịch sự nhất — dùng khi bạn cần giải thích kỹ chứ không chỉ một câu trả lời ngắn.",
+                  "reply": [
+                    { "them": "Of course. Peak, off-peak and super off-peak.", "themvi": "Vâng ạ. Giờ cao điểm, ngoài cao điểm và siêu ngoài cao điểm.", "you": "Which applies at two o'clock?", "youvi": "Hai giờ chiều thì thuộc loại nào ạ?" }
+                  ],
+                  "close": { "en": "That's much clearer, thank you.", "vi": "Rõ hơn nhiều rồi, cảm ơn ạ." }
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "What's the difference between option A and option B?",
+                  "vi": "Phương án A và B khác nhau thế nào?",
+                  "note": "Trong họp, câu này rất giá trị — nó buộc người trình bày làm rõ thay vì để mọi người đoán.",
+                  "open": { "en": "Before we vote —", "vi": "Trước khi bỏ phiếu —" },
+                  "reply": [
+                    { "them": "Cost, mainly. A is twice as expensive.", "themvi": "Chủ yếu là chi phí. A đắt gấp đôi.", "you": "Apart from cost, anything else?", "youvi": "Ngoài chi phí ra còn gì nữa không?" }
+                  ],
+                  "close": { "en": "That helps a lot, thanks.", "vi": "Vậy giúp ích nhiều, cảm ơn." }
+                },
+                {
+                  "en": "How is this different from what we did last year?",
+                  "vi": "Cái này khác gì so với năm ngoái mình làm?",
+                  "note": "<b>different from</b> — nhớ không bao giờ là <i>different with</i>.",
+                  "reply": [
+                    { "them": "We're starting with a pilot this time.", "themvi": "Lần này mình bắt đầu bằng bản thử nghiệm.", "you": "That's a big improvement.", "youvi": "Đó là cải thiện lớn đấy." }
+                  ],
+                  "vars": [
+                    { "en": "What's changed since last year?", "vi": "So với năm ngoái đã thay đổi gì?" }
+                  ]
+                },
+                {
+                  "en": "What are the main differences between the two proposals?",
+                  "vi": "Hai đề xuất khác nhau chính ở những điểm nào?",
+                  "reply": [
+                    { "them": "Timeline and team size.", "themvi": "Tiến độ và quy mô đội.", "you": "Which one do you favour?", "youvi": "Anh/chị nghiêng về cái nào?" }
+                  ]
+                },
+                {
+                  "en": "Does it make much difference which one we choose?",
+                  "vi": "Chọn cái nào có khác nhau nhiều không?",
+                  "note": "<i>make a difference</i> = tạo ra khác biệt. Khác hẳn <i>tell the difference</i> = phân biệt được.",
+                  "reply": [
+                    { "them": "Not really, at this stage.", "themvi": "Ở giai đoạn này thì không hẳn.", "you": "Then let's pick one and move on.", "youvi": "Vậy chọn một rồi đi tiếp." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "What's the difference between these two dishes?",
+                  "vi": "Hai món này khác nhau thế nào ạ?",
+                  "reply": [
+                    { "them": "One's grilled, the other's steamed.", "themvi": "Một món nướng, một món hấp ạ.", "you": "Which would you recommend?", "youvi": "Em gợi ý món nào ạ?" }
+                  ]
+                },
+                {
+                  "en": "Is there much difference in spice level?",
+                  "vi": "Độ cay có khác nhau nhiều không ạ?",
+                  "note": "Thu hẹp câu hỏi vào đúng thứ bạn quan tâm — hiệu quả hơn hỏi chung chung.",
+                  "reply": [
+                    { "them": "Yes — the red one is much hotter.", "themvi": "Có ạ — món màu đỏ cay hơn nhiều.", "you": "I'll have the other one then.", "youvi": "Vậy tôi lấy món kia." }
+                  ],
+                  "vars": [
+                    { "en": "Which is spicier?", "vi": "Món nào cay hơn ạ?" }
+                  ]
+                },
+                {
+                  "en": "Can you tell the difference between them?",
+                  "vi": "Bạn phân biệt được hai cái không?",
+                  "note": "<b>tell the difference</b> = phân biệt được. Đây là thành ngữ, không phải “nói sự khác biệt”.",
+                  "reply": [
+                    { "them": "Honestly, no. They taste the same.", "themvi": "Thật lòng là không. Vị y hệt.", "you": "Then we'll get the cheaper one.", "youvi": "Vậy mình lấy cái rẻ hơn." }
+                  ]
+                },
+                {
+                  "en": "What's the difference in price?",
+                  "vi": "Giá chênh nhau bao nhiêu ạ?",
+                  "reply": [
+                    { "them": "About fifty, for the larger portion.", "themvi": "Khoảng năm mươi, cho phần lớn hơn ạ.", "you": "We'll share the larger one.", "youvi": "Bọn tôi lấy phần lớn ăn chung." }
+                  ],
+                  "close": { "en": "Good, that settles it.", "vi": "Tốt, vậy là xong." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "What's the difference between them, really?",
+                  "vi": "Thật ra chúng khác gì nhau?",
+                  "reply": [
+                    { "them": "Not much, if I'm honest.", "themvi": "Thật lòng thì không nhiều.", "you": "Six of one, then.", "youvi": "Vậy cũng như nhau cả thôi." }
+                  ]
+                },
+                {
+                  "en": "How is your job different from your old one?",
+                  "vi": "Công việc mới khác việc cũ của bạn thế nào?",
+                  "note": "Câu hỏi xã giao rất tự nhiên khi ai đó vừa đổi việc.",
+                  "reply": [
+                    { "them": "Worlds apart — much better team.", "themvi": "Khác một trời một vực — đội tốt hơn nhiều.", "you": "That makes a big difference.", "youvi": "Điều đó khác biệt lớn đấy." }
+                  ],
+                  "vars": [
+                    { "en": "In what way is it different?", "vi": "Nó khác ở chỗ nào?" }
+                  ]
+                },
+                {
+                  "en": "Does it make much difference to you?",
+                  "vi": "Với bạn thì có khác nhau nhiều không?",
+                  "reply": [
+                    { "them": "Not really — either is fine.", "themvi": "Cũng không — cái nào cũng được.", "you": "Then I'll decide.", "youvi": "Vậy mình quyết nhé." }
+                  ]
+                },
+                {
+                  "en": "What do the two of them have in common?",
+                  "vi": "Hai người họ có điểm gì chung?",
+                  "note": "<b>have in common</b> = có điểm chung — câu hỏi ngược lại với hỏi khác biệt.",
+                  "reply": [
+                    { "them": "Both stubborn, that's for sure.", "themvi": "Chắc chắn là cùng bướng.", "you": "That explains a lot.", "youvi": "Thảo nào." }
+                  ],
+                  "close": { "en": "They'll get along fine.", "vi": "Rồi họ sẽ hợp nhau thôi." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Chọn giữa hai mẫu máy ở cửa hàng",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Excuse me, what's the difference between these two models?", "vi": "Xin lỗi, hai mẫu này khác nhau thế nào ạ?" },
+            { "speaker": "Staff", "en": "The main difference is the battery life.", "vi": "Khác biệt chính là thời lượng pin ạ." },
+            { "speaker": "You", "me": true, "en": "Apart from that, are they identical?", "vi": "Ngoài cái đó ra thì giống hệt nhau ạ?" },
+            { "speaker": "Staff", "en": "Practically, yes. But this one's twice as expensive.", "vi": "Gần như vậy ạ. Nhưng cái này đắt gấp đôi." },
+            { "speaker": "You", "me": true, "en": "Is it worth the extra? What would you choose yourself?", "vi": "Có đáng trả thêm không? Nếu là em thì em chọn cái nào?" },
+            { "speaker": "Staff", "en": "For normal use, the cheaper one. Honestly, it doesn't make much difference.", "vi": "Dùng bình thường thì cái rẻ hơn ạ. Thật lòng là không khác mấy đâu." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "So sánh hai phương án trong cuộc họp",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Before we vote — what's the difference between option A and option B?", "vi": "Trước khi bỏ phiếu — phương án A và B khác nhau thế nào?" },
+            { "speaker": "Colleague", "en": "Cost, mainly. A is twice as expensive.", "vi": "Chủ yếu là chi phí. A đắt gấp đôi." },
+            { "speaker": "You", "me": true, "en": "Apart from cost, is there much difference?", "vi": "Ngoài chi phí ra thì có khác nhiều không?" },
+            { "speaker": "Colleague", "en": "A is faster to deliver, but riskier.", "vi": "A triển khai nhanh hơn, nhưng rủi ro hơn." },
+            { "speaker": "You", "me": true, "en": "How is that different from what we tried last year?", "vi": "Cái đó khác gì so với thứ mình thử năm ngoái?" },
+            { "speaker": "Colleague", "en": "This time we start with a pilot. That makes a big difference.", "vi": "Lần này mình bắt đầu bằng bản thử nghiệm. Điều đó khác biệt lớn đấy." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "What's the difference between A with B?", "right": "What's the difference between A and B?", "why": "CỐ ĐỊNH: <b>between … and …</b>. Không bao giờ là <i>with</i>, <i>to</i>, hay <i>or</i>." },
+            { "wrong": "This is different with that one.", "right": "This is different from that one.", "why": "BẪY LỚN của người Việt. <b>different from</b> (chuẩn), <b>different to</b> (Anh), <b>different than</b> (Mỹ) — nhưng KHÔNG BAO GIỜ <i>with</i>." },
+            { "wrong": "What's the difference of these two?", "right": "What's the difference between these two?", "why": "Giới từ là <b>between</b>, không phải <i>of</i>." },
+            { "wrong": "I can't make the difference between them.", "right": "I can't tell the difference between them.", "why": "<b>tell the difference</b> = phân biệt được. <i>make a difference</i> nghĩa khác hẳn: tạo ra tác động." },
+            { "wrong": "What's different between A and B?", "right": "What's the difference between A and B?", "why": "Dùng DANH TỪ <i>the difference</i> sau <i>What's</i>. Dạng với tính từ phải là <i>How is A different from B?</i>" },
+            { "wrong": "What's the difference? <i>(nói gắt với khách hàng)</i>", "right": "Could you explain the difference?", "why": "Nói cụt và gắt thì câu thành “thì có khác gì đâu” — nghe rất thiếu tôn trọng. Ngữ điệu quyết định." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu hỏi", "Hỏi về", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>What's the difference between A and B?</code>", "Khác biệt giữa hai thứ", "Phổ biến nhất, trung tính."],
+            ["<code>How is A different from B?</code>", "Khác biệt, nhấn vào A", "Khi bạn đã biết rõ B."],
+            ["<code>Is there much difference?</code>", "Mức độ khác biệt", "Khi ngờ rằng gần giống nhau."],
+            ["<code>Which is better?</code>", "Cái nào hơn", "Khi bạn cần kết luận chứ không cần chi tiết."],
+            ["<code>Which would you recommend?</code>", "Lời khuyên", "Hiệu quả nhất khi bạn không rành."],
+            ["<code>What do they have in common?</code>", "Điểm giống nhau", "Câu hỏi ngược lại."],
+            ["<code>Could you explain the difference?</code>", "Giải thích kỹ", "Lịch sự nhất. Xem [Khung 69]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — hỏi về hai sản phẩm" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "What's the difference?", "vi": "Ngắn nhất — cẩn thận ngữ điệu" },
+            { "en": "Is there much difference between them?", "vi": "Nhẹ — ngầm rằng gần giống" },
+            { "en": "What's the difference between these two?", "vi": "Chuẩn mực, trung tính" },
+            { "en": "How is this one different from that one?", "vi": "Cụ thể hơn, nhấn vào một cái" },
+            { "en": "Could you explain the difference between them?", "vi": "Lịch sự nhất — xin giải thích kỹ" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>difference</b> nhấn <b>âm đầu</b>: <b>DIF</b>-rəns. Khi nói nhanh chỉ còn <b>hai âm tiết</b> — âm giữa gần như biến mất.",
+            "<b>What's the</b> → “wots-thə”, nói liền, chữ <i>the</i> đọc nhẹ thành /ðə/.",
+            "<b>between</b> nhấn âm sau: bi-<b>TWEEN</b>. Âm đầu /bɪ/ đọc rất nhẹ.",
+            "Cả cụm: <b>“wots-thə-DIF-rəns-bi-TWEEN”</b> — hai trọng âm ở <i>DIF</i> và <i>TWEEN</i>.",
+            "<b>different from</b> → “DIF-rənt-frəm”, chữ <i>from</i> lướt thành /frəm/.",
+            "<b>Giọng đi xuống ở cuối</b> — nhưng nếu hạ giọng quá gắt và nói cụt, câu thành “thì có khác gì đâu”."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "What's the difference between these two?", "vi": "Luyện shadowing: “wots-thə-DIF-rəns-bi-TWEEN-theez-too”." },
+            { "en": "How is this different from that one?", "vi": "Tập nối “DIF-rənt-frəm” và nhớ không dùng <i>with</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Hai cái này khác nhau thế nào ạ?", "blank": "What's the difference __________ these two?", "a": "between" },
+            { "vi": "Cái này khác cái kia thế nào ạ?", "blank": "How is this __________ that one?", "a": "different from (KHÔNG phải “different with”)" },
+            { "vi": "Chúng có khác nhau nhiều không ạ?", "blank": "__________ between them?", "a": "Is there much difference" },
+            { "vi": "Bạn phân biệt được không?", "blank": "Can you __________?", "a": "tell the difference" },
+            { "vi": "Thật lòng thì không khác mấy đâu.", "blank": "Honestly, it doesn't __________.", "a": "make much difference" },
+            { "vi": "Ngoài giá ra thì khác gì nữa ạ?", "blank": "__________ the price, what's different?", "a": "Apart from" },
+            { "vi": "Chúng giống nhau ở điểm nào ạ?", "blank": "What do they __________?", "a": "have in common" },
+            { "vi": "Cái này đắt gấp đôi.", "blank": "This one's __________ expensive.", "a": "twice as" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Hai mẫu này khác nhau thế nào ạ?", "a": "What's the difference between these two models?" },
+            { "vi": "2. Vé thường và vé linh hoạt khác nhau thế nào ạ?", "a": "What's the difference between standard and flexible tickets?" },
+            { "vi": "3. Cái này khác gì so với năm ngoái mình làm?", "a": "How is this different from what we did last year?" },
+            { "vi": "4. Thật lòng thì không khác mấy đâu.", "a": "Honestly, it doesn't make much difference." },
+            { "vi": "5. Anh/chị giải thích giúp khác nhau thế nào được không ạ?", "a": "Could you explain the difference?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Khắc cặp giới từ vào đầu:</b> <i>difference <b>between</b> A <b>and</b> B</i>. Không bao giờ <i>with</i>, <i>to</i> hay <i>of</i>.",
+            "<b>Xóa hẳn “different with”</b> — dùng <i>different <b>from</b></i> là an toàn nhất ở mọi nơi.",
+            "<b>Phân biệt hai thành ngữ:</b> <i>tell the difference</i> = phân biệt được; <i>make a difference</i> = tạo ra tác động.",
+            "<b>Hỏi tiếp “Apart from that…”</b> — nó loại bỏ yếu tố hiển nhiên và buộc người ta nói ra khác biệt thật sự.",
+            "<b>Câu hiệu quả nhất khi bạn không rành:</b> <i>What would you choose yourself?</i> — người ta thường trả lời thật lòng hơn.",
+            "<b>Bài tập 3 phút:</b> chọn 3 cặp đồ vật quanh bạn, viết một câu hỏi khác biệt cho mỗi cặp và một câu trả lời bắt đầu bằng <i>The main difference is…</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

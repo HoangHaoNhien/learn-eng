@@ -1,0 +1,277 @@
+{
+  "id": 24,
+  "group": "Nhóm 8 · Dạng theo sau động từ",
+  "title": "to V hay V-ing sau động từ?",
+  "subtitle": "Không có quy luật nào đoán được — phải thuộc theo nhóm. Nhưng có một nhóm đặc biệt quan trọng: stop, remember, forget và try đi được cả hai dạng mà nghĩa khác hẳn nhau, nên chọn sai là nói ngược hẳn ý mình.",
+  "meaning": "Động từ thứ hai trong câu lấy dạng nào",
+  "rule": [
+    "<em>want · need · decide · hope</em> + <em>to V</em>",
+    "<em>enjoy · finish · avoid · mind</em> + <em>V-ing</em>",
+    "<em>stop · remember · forget · try</em> + cả hai, <em>nghĩa khác nhau</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1", "hot": true },
+    { "text": "enjoy to do ✗" },
+    { "text": "stop to ≠ stop V-ing" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [41, 86, 91, 93, 95],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Khi một câu có hai động từ liền nhau, động từ thứ hai phải lấy một dạng nhất định: <b>to V</b> hoặc <b>V-ing</b>. Không có quy luật nào đoán được — dạng nào đi với động từ nào là do thói quen ngôn ngữ, phải học theo nhóm." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — nhóm <i>enjoy</i>:</b> những động từ này chỉ đi với <b>V-ing</b>, không bao giờ <i>to V</i>.<br><b>enjoy · finish · avoid · mind · suggest · practise · consider · keep · give up · can't help</b><br><i>I enjoy <b>reading</b></i> ✓ — <i>I enjoy to read</i> ✗" },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — bốn động từ đổi NGHĨA khi đổi dạng:</b><br>• <i>I <b>stopped to smoke</b></i> = tôi dừng lại ĐỂ hút thuốc<br>• <i>I <b>stopped smoking</b></i> = tôi BỎ thuốc<br>Chọn sai là nói ngược hẳn ý mình. Cùng nhóm: <i>remember, forget, try</i>." },
+        { "t": "h3", "text": "Bốn nhóm phải phân biệt" },
+        {
+          "t": "table",
+          "head": ["Nhóm", "Dạng", "Ví dụ tiêu biểu"],
+          "rows": [
+            ["Chỉ <code>to V</code>", "to + động từ trần", "want · need · decide · hope · plan · promise"],
+            ["Chỉ <code>V-ing</code>", "V + ing", "enjoy · finish · avoid · mind · suggest · practise"],
+            ["Cả hai, cùng nghĩa", "tùy ý", "like · love · hate · prefer · begin · start"],
+            ["Cả hai, KHÁC nghĩa", "cẩn thận", "stop · remember · forget · try · mean"]
+          ]
+        },
+        { "t": "p", "html": "Một mẹo nhỏ giúp nhớ nhóm hai: những động từ đi với <b>V-ing</b> thường nói về việc <b>đã hoặc đang diễn ra</b> (<i>finish, avoid, enjoy, keep</i>), còn nhóm <b>to V</b> thường hướng về <b>tương lai</b> (<i>want, hope, plan, decide</i>). Mẹo này không tuyệt đối nhưng đúng phần lớn." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Động từ", "Dạng theo sau", "Ví dụ"],
+          "rows": [
+            ["want · need · would like", "<code>to V</code>", "I want to go."],
+            ["decide · plan · hope · expect", "<code>to V</code>", "I decided to stay."],
+            ["promise · agree · offer · refuse", "<code>to V</code>", "He promised to call."],
+            ["manage · afford · learn · seem", "<code>to V</code>", "I can't afford to go."],
+            ["enjoy · finish · avoid · mind", "<code>V-ing</code>", "I enjoy reading."],
+            ["suggest · recommend · consider", "<code>V-ing</code>", "I suggest going early."],
+            ["practise · keep · give up · miss", "<code>V-ing</code>", "Keep going!"],
+            ["can't help · can't stand", "<code>V-ing</code>", "I can't help laughing."],
+            ["like · love · hate · prefer", "cả hai, cùng nghĩa", "I like reading. · I like to read."],
+            ["begin · start · continue", "cả hai, cùng nghĩa", "It started raining. · It started to rain."],
+            ["stop · remember · forget", "cả hai, KHÁC nghĩa", "stop to smoke ≠ stop smoking"],
+            ["try · mean · go on", "cả hai, KHÁC nghĩa", "try to open ≠ try opening"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Sau <i>to</i> giới từ thì lại là V-ing:</b> <i>look forward <b>to</b> seeing</i>, <i>be used <b>to</b> working</i>. Đây là chữ <i>to</i> khác hẳn — nó là giới từ, không phải dấu hiệu nguyên thể. Xem [Ngữ pháp 25]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I want to go home.", "vi": "Tôi muốn về nhà.", "note": "<i>want</i> luôn đi với <b>to V</b>." },
+            { "en": "I enjoy reading in the evening.", "vi": "Tôi thích đọc sách buổi tối.", "note": "BẪY SỐ MỘT: <i>I enjoy to read</i> ✗." },
+            { "en": "Would you mind waiting a moment?", "vi": "Bạn chờ một lát được không?", "note": "<i>mind</i> đi với <b>V-ing</b>. Câu nhờ vả rất lịch sự." },
+            { "en": "I've finished writing the report.", "vi": "Tôi viết xong báo cáo rồi.", "note": "<i>finish</i> đi với <b>V-ing</b>. Xem [Khung 95]." },
+            { "en": "He promised to call me back.", "vi": "Anh ấy hứa sẽ gọi lại.", "note": "<i>promise</i> đi với <b>to V</b>." },
+            { "en": "I stopped to buy some bread.", "vi": "Tôi dừng lại để mua bánh mì.", "note": "BẪY SỐ HAI: <b>stop to V</b> = dừng lại ĐỂ làm việc đó." },
+            { "en": "I stopped eating bread.", "vi": "Tôi bỏ ăn bánh mì.", "note": "<b>stop + V-ing</b> = NGỪNG làm việc đó. Nghĩa ngược hẳn." },
+            { "en": "Remember to lock the door.", "vi": "Nhớ khóa cửa nhé.", "note": "<b>remember to V</b> = nhớ PHẢI làm, việc chưa làm." },
+            { "en": "I remember locking the door.", "vi": "Tôi nhớ là đã khóa cửa.", "note": "<b>remember V-ing</b> = nhớ ĐÃ làm, việc đã xong." },
+            { "en": "I tried to open the window.", "vi": "Tôi cố mở cửa sổ.", "note": "<b>try to V</b> = CỐ GẮNG, có thể không được." },
+            { "en": "Try opening the window.", "vi": "Thử mở cửa sổ xem.", "note": "<b>try + V-ing</b> = THỬ cách đó xem có hiệu quả không." },
+            { "en": "I'm looking forward to seeing you.", "vi": "Tôi mong được gặp bạn.", "note": "Ở đây <i>to</i> là GIỚI TỪ nên có V-ing. Xem [Khung 86]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🎯", "title": "Nói ý muốn, kế hoạch", "text": "<i>want, need, hope, plan, decide</i> + <b>to V</b>" },
+            { "icon": "📖", "title": "Nói sở thích, thói quen", "text": "<i>enjoy, practise, keep, give up</i> + <b>V-ing</b>" },
+            { "icon": "🙏", "title": "Nhờ vả lịch sự", "text": "<i>Would you mind waiting?</i> — <b>mind</b> + V-ing." },
+            { "icon": "✅", "title": "Nhắc nhớ việc phải làm", "text": "<i>Remember to lock the door.</i> — <b>to V</b>." },
+            { "icon": "🧠", "title": "Nhớ việc đã làm", "text": "<i>I remember locking it.</i> — <b>V-ing</b>." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Sau <i>to</i> GIỚI TỪ. Lúc đó là V-ing — xem [Ngữ pháp 25]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Nhóm đi với to V",
+              "items": [
+                { "w": "want to", "vi": "muốn", "ex": "I want to go home.", "exvi": "Tôi muốn về nhà.", "note": "<i>want V-ing</i> ✗ — luôn là <b>to V</b>." },
+                { "w": "need to", "vi": "cần", "ex": "I need to check something.", "exvi": "Tôi cần kiểm tra một chút." },
+                { "w": "would like to", "vi": "muốn (lịch sự)", "ex": "I'd like to book a table.", "exvi": "Tôi muốn đặt bàn.", "note": "Lịch sự hơn <i>want</i> nhiều." },
+                { "w": "decide to", "vi": "quyết định", "ex": "I decided to stay.", "exvi": "Tôi quyết định ở lại." },
+                { "w": "plan to", "vi": "dự định", "ex": "We plan to move next year.", "exvi": "Bọn tôi dự định chuyển đi năm sau. Xem [Khung 91]." },
+                { "w": "hope to", "vi": "hy vọng", "ex": "I hope to see you soon.", "exvi": "Tôi hy vọng sớm gặp bạn." },
+                { "w": "promise to", "vi": "hứa", "ex": "He promised to call me back.", "exvi": "Anh ấy hứa sẽ gọi lại." },
+                { "w": "agree to", "vi": "đồng ý", "ex": "She agreed to help.", "exvi": "Cô ấy đồng ý giúp." },
+                { "w": "offer to", "vi": "ngỏ ý", "ex": "He offered to drive me.", "exvi": "Anh ấy ngỏ ý chở tôi." },
+                { "w": "refuse to", "vi": "từ chối", "ex": "He refused to answer.", "exvi": "Anh ấy từ chối trả lời." },
+                { "w": "manage to", "vi": "xoay xở làm được", "ex": "I managed to finish on time.", "exvi": "Tôi xoay xở xong đúng hạn.", "note": "Nhấn vào việc KHÓ mà vẫn làm được." },
+                { "w": "can't afford to", "vi": "không đủ khả năng", "ex": "I can't afford to go.", "exvi": "Tôi không đủ tiền để đi." }
+              ]
+            },
+            {
+              "title": "Nhóm V-ing & cặp đổi nghĩa",
+              "items": [
+                { "w": "enjoy + V-ing", "vi": "thích", "ex": "I enjoy reading.", "exvi": "Tôi thích đọc sách.", "note": "BẪY SỐ MỘT: <i>enjoy to read</i> ✗." },
+                { "w": "finish + V-ing", "vi": "làm xong", "ex": "I've finished writing it.", "exvi": "Tôi viết xong rồi." },
+                { "w": "avoid + V-ing", "vi": "tránh", "ex": "I avoid driving at night.", "exvi": "Tôi tránh lái xe ban đêm." },
+                { "w": "mind + V-ing", "vi": "phiền", "ex": "Would you mind waiting?", "exvi": "Bạn chờ một lát được không?", "note": "Câu nhờ vả rất lịch sự. Trả lời “không phiền” là <i>Not at all</i>." },
+                { "w": "suggest + V-ing", "vi": "đề nghị", "ex": "I suggest going early.", "exvi": "Tôi đề nghị đi sớm.", "note": "<i>suggest to go</i> ✗. Xem [Ngữ pháp 18]." },
+                { "w": "keep + V-ing", "vi": "cứ tiếp tục", "ex": "Keep going!", "exvi": "Cứ tiếp tục đi!" },
+                { "w": "give up + V-ing", "vi": "bỏ", "ex": "I gave up smoking.", "exvi": "Tôi bỏ thuốc rồi." },
+                { "w": "can't help + V-ing", "vi": "không nhịn được", "ex": "I can't help laughing.", "exvi": "Tôi không nhịn được cười.", "note": "Thành ngữ — không phải nghĩa “không giúp được”." },
+                { "w": "stop to V / stop V-ing", "vi": "dừng để làm / ngừng làm", "ex": "I stopped to smoke. · I stopped smoking.", "exvi": "Tôi dừng lại để hút thuốc. · Tôi bỏ thuốc.", "note": "BẪY SỐ HAI: nghĩa NGƯỢC hẳn nhau." },
+                { "w": "remember to / remember V-ing", "vi": "nhớ phải làm / nhớ đã làm", "ex": "Remember to lock it. · I remember locking it.", "exvi": "Nhớ khóa nhé. · Tôi nhớ là đã khóa.", "note": "<b>to V</b> hướng về việc CHƯA làm, <b>V-ing</b> về việc ĐÃ làm." },
+                { "w": "forget to / forget V-ing", "vi": "quên làm / quên là đã làm", "ex": "I forgot to call. · I'll never forget meeting her.", "exvi": "Tôi quên gọi. · Tôi sẽ không quên lần gặp cô ấy." },
+                { "w": "try to / try V-ing", "vi": "cố gắng / thử cách", "ex": "I tried to open it. · Try opening it.", "exvi": "Tôi cố mở nó. · Thử mở nó xem.", "note": "<b>to V</b> = cố gắng (có thể không được), <b>V-ing</b> = thử cách đó xem sao." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I enjoy <b>to read</b>.", "right": "I enjoy <b>reading</b>.", "why": "BẪY SỐ MỘT: nhóm <i>enjoy, finish, avoid, mind, suggest, practise</i> chỉ đi với <b>V-ing</b>." },
+            { "wrong": "I've finished <b>to write</b> it.", "right": "I've finished <b>writing</b> it.", "why": "Cùng nhóm với <i>enjoy</i>." },
+            { "wrong": "Would you mind <b>to wait</b>?", "right": "Would you mind <b>waiting</b>?", "why": "<i>mind</i> luôn đi với V-ing — câu nhờ vả này rất thông dụng." },
+            { "wrong": "I want <b>going</b> home.", "right": "I want <b>to go</b> home.", "why": "Ngược lại: <i>want, need, hope, plan, decide</i> chỉ đi với <b>to V</b>." },
+            { "wrong": "I <b>stopped to smoke</b> last year. <i>(ý: bỏ thuốc)</i>", "right": "I <b>stopped smoking</b> last year.", "why": "BẪY SỐ HAI: <i>stop to smoke</i> = dừng lại ĐỂ hút. Nghĩa ngược hẳn." },
+            { "wrong": "<b>Remember locking</b> the door! <i>(ý: nhắc nhở)</i>", "right": "<b>Remember to lock</b> the door!", "why": "<b>to V</b> cho việc CHƯA làm. <i>remember locking</i> = nhớ là đã khóa rồi." },
+            { "wrong": "I <b>forgot calling</b> him. <i>(ý: quên gọi)</i>", "right": "I <b>forgot to call</b> him.", "why": "Cùng luật với <i>remember</i>: <b>to V</b> = việc chưa làm." },
+            { "wrong": "I suggest <b>to go</b> early.", "right": "I suggest <b>going</b> early.", "why": "<i>suggest</i> không bao giờ đi với <i>to V</i>. Xem [Ngữ pháp 18]." },
+            { "wrong": "I'm looking forward to <b>see</b> you.", "right": "I'm looking forward to <b>seeing</b> you.", "why": "Ở đây <i>to</i> là GIỚI TỪ nên theo sau là V-ing. Xem [Ngữ pháp 25]." },
+            { "wrong": "I can't help <b>to laugh</b>.", "right": "I can't help <b>laughing</b>.", "why": "<b>can't help + V-ing</b> là thành ngữ cố định — nghĩa là không nhịn được." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>stop to V</code> / <code>stop V-ing</code>", "Dừng ĐỂ làm / NGỪNG làm", "stopped to smoke ≠ stopped smoking"],
+            ["<code>remember to V</code> / <code>remember V-ing</code>", "Nhớ phải làm / nhớ đã làm", "Remember to lock ≠ I remember locking"],
+            ["<code>forget to V</code> / <code>forget V-ing</code>", "Quên làm / quên là đã làm", "I forgot to call ≠ I'll never forget meeting her"],
+            ["<code>try to V</code> / <code>try V-ing</code>", "Cố gắng / thử cách đó", "tried to open ≠ try opening"],
+            ["<code>like to V</code> / <code>like V-ing</code>", "Gần như nhau", "I like reading. · I like to read."],
+            ["<code>to</code> giới từ + V-ing", "look forward to, be used to. Xem [Ngữ pháp 25]", "looking forward to seeing"],
+            ["<code>make/let + người + V trần</code>", "Không có to. Xem [Ngữ pháp 27]", "He made me wait."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: to V hay V-ing?" },
+        {
+          "t": "tree",
+          "q": "Động từ đứng trước thuộc nhóm nào?",
+          "nodes": [
+            { "if": "want, need, decide, hope, plan, promise, agree", "then": "to V", "ex": "I want to go." },
+            { "if": "enjoy, finish, avoid, mind, suggest, practise, keep", "then": "V-ing", "ex": "I enjoy reading." },
+            { "if": "like, love, hate, begin, start", "then": "Cả hai đều được, nghĩa như nhau", "ex": "I like reading. · I like to read." },
+            { "if": "stop, remember, forget, try", "then": "Cả hai nhưng NGHĨA KHÁC — chọn cẩn thận", "ex": "stop to smoke ≠ stop smoking" },
+            { "if": "Phía trước là GIỚI TỪ to (look forward to, be used to)", "then": "V-ing — bắt buộc", "ex": "looking forward to seeing you" },
+            { "if": "Phía trước là make, let, have (sai khiến)", "then": "Động từ TRẦN, không có to", "ex": "He made me wait." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ chắc chắn của một ý định" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'm thinking of going.", "vi": "Mơ hồ nhất — mới chỉ nghĩ" },
+            { "en": "I hope to go.", "vi": "Hy vọng" },
+            { "en": "I plan to go.", "vi": "Đã lên kế hoạch" },
+            { "en": "I've decided to go.", "vi": "Đã quyết" },
+            { "en": "I've promised to go.", "vi": "Chắc nhất — đã hứa" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Luật chọn dạng động từ xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 86, "why": "I'm looking forward to… — đối lập quan trọng nhất: to giới từ kéo theo V-ing." },
+            { "id": 91, "why": "I'm going to + V — to nguyên thể kéo theo động từ trần, đặt cạnh khung 86." },
+            { "id": 93, "why": "I used to… — cặp used to + V trần và be used to + V-ing." },
+            { "id": 95, "why": "I've just + V3 — mẫu I've finished writing, nhóm động từ đi với V-ing." },
+            { "id": 41, "why": "I think… — mẫu I'm thinking of going, giới từ of kéo theo V-ing." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ trong ngoặc" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi thích đọc sách.", "blank": "I enjoy __________ (read).", "a": "reading" },
+            { "vi": "Tôi muốn về nhà.", "blank": "I want __________ (go) home.", "a": "to go" },
+            { "vi": "Bạn chờ một lát được không?", "blank": "Would you mind __________ (wait)?", "a": "waiting" },
+            { "vi": "Anh ấy hứa sẽ gọi lại.", "blank": "He promised __________ (call) me back.", "a": "to call" },
+            { "vi": "Tôi viết xong báo cáo rồi.", "blank": "I've finished __________ (write) the report.", "a": "writing" },
+            { "vi": "Tôi đề nghị đi sớm.", "blank": "I suggest __________ (go) early.", "a": "going" },
+            { "vi": "Tôi không nhịn được cười.", "blank": "I can't help __________ (laugh).", "a": "laughing" },
+            { "vi": "Tôi mong được gặp bạn.", "blank": "I'm looking forward to __________ (see) you.", "a": "seeing — to là giới từ" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng theo nghĩa" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Năm ngoái tôi bỏ thuốc.", "blank": "I stopped __________ last year.  (to smoke / smoking)", "a": "smoking — ngừng làm" },
+            { "vi": "Nhớ khóa cửa nhé!", "blank": "Remember __________ the door!  (to lock / locking)", "a": "to lock — việc chưa làm" },
+            { "vi": "Tôi nhớ là đã khóa cửa.", "blank": "I remember __________ the door.  (to lock / locking)", "a": "locking — việc đã làm" },
+            { "vi": "Thử mở cửa sổ xem.", "blank": "Try __________ the window.  (to open / opening)", "a": "opening — thử cách đó" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi thích đọc sách buổi tối.", "a": "I enjoy reading in the evening." },
+            { "vi": "2. Bạn chờ một lát được không?", "a": "Would you mind waiting a moment?" },
+            { "vi": "3. Tôi dừng lại để mua bánh mì.", "a": "I stopped to buy some bread." },
+            { "vi": "4. Tôi nhớ là đã khóa cửa.", "a": "I remember locking the door." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Không có quy luật — phải thuộc theo nhóm.</b> Học mười từ phổ biến nhất của mỗi nhóm là đủ dùng hằng ngày.",
+            "<b>Mẹo gần đúng:</b> <i>to V</i> hướng về TƯƠNG LAI (want, hope, plan), <i>V-ing</i> nói việc ĐÃ hoặc ĐANG diễn ra (finish, enjoy, avoid).",
+            "<b>Bốn động từ phải cẩn thận:</b> <i>stop, remember, forget, try</i> — đổi dạng là đổi nghĩa.",
+            "<b>Cặp <i>remember</i> dễ nhớ:</b> <i>to V</i> cho việc CHƯA làm, <i>V-ing</i> cho việc ĐÃ làm.",
+            "<b>Thấy <i>to</i> thì xem nó là gì:</b> giới từ (<i>look forward to</i>) thì V-ing, nguyên thể (<i>want to</i>) thì động từ trần. Xem [Ngữ pháp 25].",
+            "<b>Bài tập 3 phút:</b> viết năm câu về sở thích với <i>I enjoy…</i> và năm câu về kế hoạch với <i>I want to…</i> — hai nhóm, hai dạng."
+          ]
+        }
+      ]
+    }
+  ]
+}

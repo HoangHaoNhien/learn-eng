@@ -1,0 +1,133 @@
+{
+  "id": 10,
+  "title": "Một và nhiều — thêm -s",
+  "teaches": ["books", "cats", "dogs", "boxes", "buses", "babies", "cities", "knives", "men", "women", "children", "teeth", "feet", "fish", "boys", "girls", "eggs", "apples", "chairs", "tables", "friends", "parents", "glasses", "clothes", "noodles", "is", "are", "many", "much"],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn biết khi nào thêm <b>-s</b> vào danh từ, thêm thế nào, và vì sao có những từ <b>không bao giờ</b> thêm được." },
+        { "t": "callout", "html": "<b>Đây là chỗ tiếng Việt và tiếng Anh khác nhau nhất.</b><br><br>Tiếng Việt: <i>một quyển sách</i> · <i>ba quyển <b>sách</b></i> — chữ <i>sách</i> không đổi.<br>Tiếng Anh: <i>one <b>book</b></i> · <i>three <b>books</b></i> — chữ phải đổi.<br><br>Người Việt quên <b>-s</b> không phải vì lười mà vì tiếng mẹ đẻ không có thói quen đó. Phải tập thành phản xạ." },
+        { "t": "p", "html": "Nhắc lại từ bài 04: <b>danh từ</b> là tên của người, vật, nơi chốn." }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "Bài 04 — biết danh từ là gì. Bài 07 — biết <code>is</code> dùng cho số ít, <code>are</code> dùng cho số nhiều. Bài này cho biết <b>danh từ nào là số nhiều</b>." },
+        { "t": "link", "items": [
+          { "id": 4, "label": "Bài 04 — danh từ là gì" },
+          { "id": 7, "label": "Bài 07 — is và are" }
+        ] }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "table", "head": ["Luật", "Nghĩa là gì", "Ví dụ"], "rows": [
+          ["<b>1.</b> Nhiều hơn một → thêm <b>-s</b>", "Đếm được từ hai trở lên là phải thêm", "<i>book</i> → <i>books</i>"],
+          ["<b>2.</b> Vài đuôi cần thêm <b>-es</b> hoặc đổi chữ", "Để dễ đọc hơn thôi", "<i>box</i> → <i>boxes</i>"],
+          ["<b>3.</b> Thứ <b>không đếm được</b> thì không bao giờ thêm", "Nước, cơm, tiền, thời gian…", "<i>water</i> ✓ · <i>waters</i> ✗"]
+        ] },
+        { "t": "h3", "text": "Thêm thế nào" },
+        { "t": "table", "head": ["Đuôi của từ", "Làm gì", "Ví dụ"], "rows": [
+          ["Bình thường", "thêm <b>-s</b>", "book → <b>books</b> · cat → <b>cats</b>"],
+          ["<code>s · x · ch · sh</code>", "thêm <b>-es</b>", "box → <b>boxes</b> · bus → <b>buses</b>"],
+          ["phụ âm + <code>y</code>", "bỏ <code>y</code>, thêm <b>-ies</b>", "baby → <b>babies</b> · city → <b>cities</b>"],
+          ["<code>f · fe</code>", "đổi thành <b>-ves</b>", "knife → <b>knives</b> · wife → <b>wives</b>"]
+        ] },
+        { "t": "h3", "text": "Bảy từ đổi hẳn — phải thuộc lòng" },
+        { "t": "table", "head": ["Một", "Nhiều", "Nghĩa"], "rows": [
+          ["<b>man</b>", "<b>men</b>", "đàn ông"],
+          ["<b>woman</b>", "<b>women</b> <i>(đọc /ˈwɪmɪn/)</i>", "phụ nữ"],
+          ["<b>child</b>", "<b>children</b>", "đứa trẻ"],
+          ["<b>tooth</b>", "<b>teeth</b>", "cái răng"],
+          ["<b>foot</b>", "<b>feet</b>", "bàn chân"],
+          ["<b>person</b>", "<b>people</b>", "người"],
+          ["<b>fish</b>", "<b>fish</b> <i>(không đổi)</i>", "con cá"]
+        ] },
+        { "t": "callout", "html": "<b>Ba loại danh từ không đếm được hay gặp:</b><br>• <b>Chất lỏng, chất bột:</b> <i>water, milk, rice, sugar, salt</i><br>• <b>Khái niệm:</b> <i>time, money, work, food, weather, hair</i><br>• <b>Nhóm gộp:</b> <i>paper, bread, meat, fruit</i><br><br>Muốn đếm thì đếm <b>vật đựng</b>: <i>a glass of water</i> · <i>two cups of tea</i>." }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "Thêm -s bình thường" },
+        { "t": "ex", "items": [
+          { "en": "one book → two books", "vi": "một quyển sách → hai quyển sách", "note": "Thêm thẳng <b>-s</b>." },
+          { "en": "I have three cats.", "vi": "Tôi có ba con mèo.", "note": "Có số đếm thì bắt buộc thêm <b>-s</b>." },
+          { "en": "The dogs are big.", "vi": "Mấy con chó to.", "note": "Số nhiều đi với <b>are</b>, không phải <i>is</i>." },
+          { "en": "My friends are here.", "vi": "Bạn tôi ở đây.", "note": "<i>friends</i> số nhiều nên dùng <b>are</b>." },
+          { "en": "I eat two eggs.", "vi": "Tôi ăn hai quả trứng.", "note": "Đếm được nên thêm <b>-s</b>." },
+          { "en": "The chairs are new.", "vi": "Mấy cái ghế mới.", "note": "Nhớ cả <b>-s</b> lẫn <b>are</b>." }
+        ] },
+        { "t": "h3", "text": "Thêm -es hoặc đổi chữ" },
+        { "t": "ex", "items": [
+          { "en": "one box → two boxes", "vi": "một cái hộp → hai cái hộp", "note": "Đuôi <code>x</code> nên thêm <b>-es</b>." },
+          { "en": "one bus → two buses", "vi": "một xe buýt → hai xe buýt", "note": "Đuôi <code>s</code> nên thêm <b>-es</b>." },
+          { "en": "one baby → two babies", "vi": "một em bé → hai em bé", "note": "Bỏ <code>y</code>, thêm <b>-ies</b>." },
+          { "en": "one city → two cities", "vi": "một thành phố → hai thành phố", "note": "Cùng luật với <i>baby</i>." },
+          { "en": "one knife → two knives", "vi": "một con dao → hai con dao", "note": "Đổi <code>fe</code> thành <b>-ves</b>." }
+        ] },
+        { "t": "h3", "text": "Bảy từ đổi hẳn" },
+        { "t": "ex", "items": [
+          { "en": "one man → two men", "vi": "một người đàn ông → hai người đàn ông", "note": "Đổi nguyên âm, không thêm <b>-s</b>." },
+          { "en": "one woman → two women", "vi": "một phụ nữ → hai phụ nữ", "note": "Viết đổi ít mà đọc đổi nhiều: /ˈwʊmən/ → /ˈwɪmɪn/." },
+          { "en": "one child → two children", "vi": "một đứa trẻ → hai đứa trẻ", "note": "Thêm hẳn <i>-ren</i>." },
+          { "en": "Many people live here.", "vi": "Nhiều người sống ở đây.", "note": "<b>people</b> đã là số nhiều rồi — không có <i>peoples</i>." },
+          { "en": "I have two fish.", "vi": "Tôi có hai con cá.", "note": "<b>fish</b> số nhiều viết y nguyên." }
+        ] },
+        { "t": "h3", "text": "Không đếm được — không bao giờ thêm -s" },
+        { "t": "ex", "items": [
+          { "en": "I drink water every day.", "vi": "Ngày nào tôi cũng uống nước.", "note": "<i>waters</i> là sai." },
+          { "en": "I eat rice.", "vi": "Tôi ăn cơm.", "note": "<i>rices</i> là sai." },
+          { "en": "I don't have much money.", "vi": "Tôi không có nhiều tiền.", "note": "<i>moneys</i> là sai. Không đếm được thì dùng <b>much</b>." },
+          { "en": "I don't have much time.", "vi": "Tôi không có nhiều thời gian.", "note": "<i>times</i> có tồn tại nhưng nghĩa khác — là “số lần”." },
+          { "en": "I want a glass of water.", "vi": "Tôi muốn một ly nước.", "note": "Muốn đếm thì đếm <b>cái ly</b>." },
+          { "en": "I have many friends.", "vi": "Tôi có nhiều bạn.", "note": "Đếm được thì dùng <b>many</b>, không dùng <i>much</i>." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — đổi sang số nhiều" },
+        { "t": "quiz", "items": [
+          { "vi": "one book → ?", "a": "two books" },
+          { "vi": "one box → ?", "a": "two boxes — đuôi x nên thêm -es" },
+          { "vi": "one baby → ?", "a": "two babies — bỏ y, thêm -ies" },
+          { "vi": "one knife → ?", "a": "two knives" },
+          { "vi": "one child → ?", "a": "two children" },
+          { "vi": "one fish → ?", "a": "two fish — viết y nguyên" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — chọn is hay are" },
+        { "t": "quiz", "items": [
+          { "vi": "Mấy cái ghế mới.", "blank": "The chairs ___ new.", "a": "are — số nhiều" },
+          { "vi": "Quyển sách mới.", "blank": "The book ___ new.", "a": "is — số ít" },
+          { "vi": "Bạn tôi ở đây.", "blank": "My friends ___ here.", "a": "are" }
+        ] },
+        { "t": "h3", "text": "Phần 3 — đếm được hay không" },
+        { "t": "quiz", "items": [
+          { "vi": "Vì sao <i>I drink two waters</i> là sai?", "a": "<i>water</i> không đếm được. Phải nói <i>two glasses of water</i>." },
+          { "vi": "Dùng <b>many</b> hay <b>much</b> với <i>friends</i>?", "a": "many — vì đếm được" },
+          { "vi": "Dùng <b>many</b> hay <b>much</b> với <i>money</i>?", "a": "much — vì không đếm được" }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>Nhiều hơn một là phải thêm -s.</b> Tiếng Việt không đổi chữ nên đây là phản xạ phải tập, không phải luật để hiểu.",
+          "<b>Số nhiều đi với <code>are</code>, số ít đi với <code>is</code>.</b> Thêm được <b>-s</b> rồi mà quên đổi động từ thì vẫn sai.",
+          "<b>Không đếm được thì không bao giờ thêm -s.</b> <i>water, rice, money, time, food</i>. Muốn đếm thì đếm vật đựng: <i>a glass of water</i>."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "<i>I have three book.</i>", "right": "<i>I have three books.</i>", "why": "Đây là lỗi phổ biến nhất của người Việt trong cả năm đầu học tiếng Anh. Đã có số <i>three</i> rồi thì danh từ vẫn phải thêm <b>-s</b> — tiếng Anh đánh dấu số nhiều ở <b>cả hai chỗ</b>, không chỉ một." },
+          { "wrong": "<i>The books is new.</i>", "right": "<i>The books are new.</i>", "why": "Thêm <b>-s</b> xong là phải nhớ đổi động từ theo. Nhiều người nhớ được vế đầu mà quên vế sau — sai một nửa vẫn là sai." },
+          { "wrong": "<i>I want two waters.</i>", "right": "<i>I want two glasses of water.</i>", "why": "<i>water</i> là chất lỏng, không đếm trực tiếp được. Muốn đếm thì đếm cái đựng nó. Cùng luật với <i>rice</i>, <i>bread</i>, <i>money</i>." }
+        ] }
+      ]
+    }
+  ]
+}

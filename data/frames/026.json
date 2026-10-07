@@ -1,0 +1,483 @@
+{
+  "id": 26,
+  "group": "Nhóm 3 · Xin phép & Cho phép",
+  "title": "You don't have to… — Gỡ nghĩa vụ, không phải cấm đoán",
+  "subtitle": "Khung để nói “bạn không bắt buộc phải làm” — và đây chính là chỗ gây hiểu nhầm nghiêm trọng nhất trong tiếng Anh. “You don't have to” là KHÔNG CẦN, còn “You mustn't” là CẤM. Nhầm hai cái này có thể dẫn tới hậu quả thật.",
+  "pattern": [
+    "You don't have to <em>+ V</em>",
+    "You don't need to <em>+ V</em>",
+    "You didn't have to! <em>(cảm thán)</em>"
+  ],
+  "meaning": "Bạn không cần phải… (nhưng muốn thì cứ)",
+  "grammar": [31, 29],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Bẫy nhầm với “mustn't”" },
+    { "text": "Trình độ: A2–B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">You don't have to…</span> nghĩa là việc đó <b>không bắt buộc</b> — bạn được tự do chọn. Nó <b>không cấm</b> gì cả. <i>You don't have to come</i> = bạn không phải đến, nhưng muốn đến thì hoàn toàn được." },
+        { "t": "p", "html": "Trong khi đó <span class=\"k\">You mustn't…</span> nghĩa là <b>cấm tuyệt đối</b>. <i>You mustn't touch that</i> = không được chạm vào. Hai câu nghe na ná nhưng ý nghĩa ngược hẳn nhau — và người Việt rất hay nhầm vì tiếng Việt dùng chung chữ “không phải/không được”." },
+        { "t": "p", "html": "Ngoài nghĩa gỡ nghĩa vụ, khung này còn có một công dụng xã giao rất đẹp: <span class=\"k\">You didn't have to!</span> — câu bạn nói khi nhận được quà hoặc khi ai đó làm điều tốt ngoài mong đợi. Nó nghĩa là “bạn chu đáo quá, đâu cần phải vậy”." },
+        { "t": "callout", "html": "<b>Phân biệt sống còn:</b> <span class=\"k\">You don't have to wear a tie</span> = không bắt buộc đeo cà vạt (đeo cũng được). <span class=\"k\">You mustn't wear a tie</span> = cấm đeo cà vạt. Nhầm chỗ này là gây hiểu lầm nghiêm trọng." },
+        { "t": "h3", "text": "Bốn mức nghĩa vụ" },
+        {
+          "t": "table",
+          "head": ["Câu", "Nghĩa", "Bạn có được làm không?"],
+          "rows": [
+            ["<code>You have to sign it.</code>", "Bắt buộc phải làm", "Phải làm"],
+            ["<code>You should sign it.</code>", "Nên làm", "Nên, nhưng không bắt buộc"],
+            ["<code>You don't have to sign it.</code>", "Không bắt buộc", "<b>Được</b> — tùy bạn"],
+            ["<code>You mustn't sign it.</code>", "Cấm", "<b>Không được</b>"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🎁", "title": "Khi nhận quà, nhận điều tốt", "text": "<i>Oh, you didn't have to!</i> Câu xã giao bắt buộc phải thuộc." },
+            { "icon": "😌", "title": "Trấn an ai đó", "text": "<i>You don't have to explain.</i> Gỡ áp lực khi người ta đang lúng túng." },
+            { "icon": "👔", "title": "Giải thích quy định ở công ty", "text": "<i>You don't have to be in before nine.</i> Nêu điều KHÔNG bắt buộc." },
+            { "icon": "🙅", "title": "Từ chối sự giúp đỡ nhẹ nhàng", "text": "<i>You don't have to wait for me.</i>" },
+            { "icon": "🤝", "title": "Cho người khác lối thoát", "text": "<i>You don't have to decide now.</i> Gỡ áp lực quyết định." },
+            { "icon": "🚫", "title": "Cẩn thận khi…", "text": "Muốn CẤM thì phải dùng <i>mustn't</i> hoặc <i>can't</i> — đừng dùng khung này." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cơ bản", "<code>You don't have to + V</code>", "You don't have to come if you're busy."],
+            ["Gần như y hệt", "<code>You don't need to + V</code>", "You don't need to bring anything."],
+            ["Trang trọng, Anh-Anh", "<code>You needn't + V</code>", "You needn't worry about it."],
+            ["Không có chủ ngữ", "<code>There's no need to + V</code>", "There's no need to apologise."],
+            ["Nói về mình", "<code>I don't have to + V</code>", "I don't have to be there until ten."],
+            ["Quá khứ — cảm thán", "<code>You didn't have to!</code>", "A present? You didn't have to!"],
+            ["Quá khứ — kể lại", "<code>I didn't have to + V</code>", "Luckily I didn't have to pay."],
+            ["Nhấn mạnh sự tự do", "<code>You don't have to, but you can</code>", "You don't have to, but you're welcome to."],
+            ["CẤM — khác hẳn", "<code>You mustn't + V</code>", "You mustn't tell anyone."],
+            ["Cấm nhẹ hơn", "<code>You can't + V</code>", "You can't park there."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp:</b> <span class=\"k\">You don't have to <b>go</b></span> — động từ nguyên thể. Không nói <i>You don't have to going</i> hay <i>You haven't to go</i>." },
+        { "t": "callout", "html": "<b>“You didn't have to!” là câu xã giao, không phải lời trách:</b> khi ai đó tặng quà hoặc giúp bạn việc gì ngoài mong đợi, câu này nghĩa là <b>“bạn chu đáo quá”</b>. Nói kèm nụ cười là được hiểu đúng." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “You don't have to…”",
+              "items": [
+                { "w": "come", "vi": "đến", "ex": "You don't have to come if you're busy.", "exvi": "Bận thì bạn không phải đến đâu." },
+                { "w": "wait", "vi": "chờ", "ex": "You don't have to wait for me — go ahead.", "exvi": "Bạn không phải chờ mình đâu — cứ đi trước đi." },
+                { "w": "pay", "vi": "trả tiền", "ex": "You don't have to pay today.", "exvi": "Hôm nay anh/chị chưa phải trả đâu ạ." },
+                { "w": "worry", "vi": "lo lắng", "ex": "You don't have to worry about it.", "exvi": "Bạn không phải lo chuyện đó đâu." },
+                { "w": "apologise", "vi": "xin lỗi", "ex": "You don't have to apologise — it wasn't your fault.", "exvi": "Bạn không phải xin lỗi đâu — đâu phải lỗi của bạn.", "note": "Anh-Mỹ viết <i>apologize</i>." },
+                { "w": "explain", "vi": "giải thích", "ex": "You don't have to explain yourself to me.", "exvi": "Bạn không phải giải thích với mình đâu.", "note": "Câu trấn an rất ấm khi ai đó đang lúng túng." },
+                { "w": "answer", "vi": "trả lời", "ex": "You don't have to answer that.", "exvi": "Câu đó bạn không phải trả lời đâu." },
+                { "w": "decide", "vi": "quyết định", "ex": "You don't have to decide right now.", "exvi": "Bạn chưa phải quyết ngay bây giờ đâu." },
+                { "w": "bring", "vi": "mang theo", "ex": "You don't have to bring anything — just yourself.", "exvi": "Bạn không phải mang gì cả — đến người là được." },
+                { "w": "stay", "vi": "ở lại", "ex": "You don't have to stay till the end.", "exvi": "Bạn không phải ở lại đến hết đâu." },
+                { "w": "rush", "vi": "vội", "ex": "You don't have to rush — we've got time.", "exvi": "Bạn không phải vội — mình còn thời gian." },
+                { "w": "dress up", "vi": "ăn mặc chỉn chu", "ex": "You don't have to dress up — it's casual.", "exvi": "Bạn không phải ăn mặc trang trọng đâu — thoải mái thôi." },
+                { "w": "book", "vi": "đặt trước", "ex": "You don't have to book in advance on weekdays.", "exvi": "Ngày thường anh/chị không cần đặt trước ạ." },
+                { "w": "call", "vi": "gọi điện", "ex": "You don't have to call — a text is fine.", "exvi": "Bạn không phải gọi đâu — nhắn tin là được." },
+                { "w": "reply", "vi": "trả lời (email)", "ex": "You don't have to reply to this.", "exvi": "Email này anh/chị không cần trả lời ạ.", "note": "Câu rất tử tế cuối email — gỡ nghĩa vụ hồi âm." },
+                { "w": "finish it today", "vi": "làm xong hôm nay", "ex": "You don't have to finish it today.", "exvi": "Hôm nay bạn chưa phải làm xong đâu." },
+                { "w": "tell anyone", "vi": "nói với ai", "ex": "You don't have to tell anyone if you don't want to.", "exvi": "Không muốn thì bạn không phải nói với ai cả.", "note": "So sánh: <i>You mustn't tell anyone</i> = CẤM nói. Khác hẳn." },
+                { "w": "be perfect", "vi": "hoàn hảo", "ex": "It doesn't have to be perfect.", "exvi": "Nó không cần phải hoàn hảo đâu.", "note": "Dùng <i>it</i> làm chủ ngữ — câu gỡ áp lực rất hay ở chỗ làm." },
+                { "w": "come in", "vi": "đến văn phòng", "ex": "You don't have to come in tomorrow.", "exvi": "Mai bạn không phải đến văn phòng đâu." },
+                { "w": "do it all", "vi": "làm hết", "ex": "You don't have to do it all yourself.", "exvi": "Bạn không phải tự làm hết mọi thứ đâu." }
+              ]
+            },
+            {
+              "title": "Câu hoàn chỉnh nên thuộc lòng",
+              "items": [
+                { "w": "You didn't have to!", "vi": "bạn chu đáo quá, đâu cần vậy", "ex": "A present? Oh, you didn't have to!", "exvi": "Quà à? Ôi, bạn chu đáo quá, đâu cần vậy!", "note": "Câu xã giao BẮT BUỘC phải thuộc khi nhận quà. Nói kèm nụ cười." },
+                { "w": "You don't have to explain.", "vi": "bạn không phải giải thích", "ex": "It's fine — you don't have to explain.", "exvi": "Không sao đâu — bạn không phải giải thích." },
+                { "w": "You don't have to decide now.", "vi": "bạn chưa phải quyết ngay", "ex": "Take your time — you don't have to decide now.", "exvi": "Bạn cứ thong thả — chưa phải quyết ngay đâu." },
+                { "w": "You don't have to bring anything.", "vi": "bạn không phải mang gì cả", "ex": "Just come — you don't have to bring anything.", "exvi": "Cứ đến thôi — bạn không phải mang gì cả." },
+                { "w": "There's no need to apologise.", "vi": "không cần xin lỗi đâu", "ex": "Really, there's no need to apologise.", "exvi": "Thật đấy, không cần xin lỗi đâu.", "note": "Không có chủ ngữ — nghe khách quan và nhẹ nhàng hơn." },
+                { "w": "It doesn't have to be perfect.", "vi": "không cần phải hoàn hảo", "ex": "Just send a draft — it doesn't have to be perfect.", "exvi": "Cứ gửi bản nháp đi — không cần hoàn hảo đâu.", "note": "Câu gỡ áp lực hay nhất khi giao việc cho người cầu toàn." },
+                { "w": "You don't have to reply to this.", "vi": "email này không cần trả lời", "ex": "FYI only — you don't have to reply to this.", "exvi": "Chỉ để anh/chị nắm thông tin — không cần trả lời ạ.", "note": "<i>FYI</i> = for your information. Cặp đôi rất tiện trong email." },
+                { "w": "You don't have to do it all yourself.", "vi": "bạn không phải tự làm hết", "ex": "Ask for help — you don't have to do it all yourself.", "exvi": "Cứ nhờ người khác — bạn không phải tự làm hết đâu." },
+                { "w": "You don't have to, but you're welcome to.", "vi": "không bắt buộc, nhưng bạn cứ tự nhiên", "ex": "You don't have to join, but you're welcome to.", "exvi": "Bạn không bắt buộc tham gia, nhưng muốn thì cứ tự nhiên.", "note": "Nêu rõ cả hai vế — cách trao quyền chọn đầy đủ nhất." },
+                { "w": "You mustn't tell anyone.", "vi": "bạn không được nói với ai", "ex": "This is confidential — you mustn't tell anyone.", "exvi": "Chuyện này bảo mật — bạn không được nói với ai.", "note": "ĐÂY LÀ CẤM, khác hẳn <i>don't have to</i>. Nhớ kỹ sự khác biệt." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại & cụm gần nghĩa",
+              "items": [
+                { "w": "Are you sure?", "vi": "bạn chắc chứ?", "ex": "“You don't have to wait.” — “Are you sure?”", "exvi": "“Bạn không phải chờ đâu.” — “Bạn chắc chứ?”" },
+                { "w": "I know, but I want to", "vi": "mình biết, nhưng mình muốn vậy", "ex": "I know, but I want to.", "exvi": "Mình biết, nhưng mình muốn làm vậy.", "note": "Câu đáp rất ấm — khẳng định bạn làm vì tự nguyện." },
+                { "w": "That's a relief", "vi": "vậy thì nhẹ cả người", "ex": "That's a relief, thank you.", "exvi": "Vậy thì nhẹ cả người, cảm ơn anh/chị." },
+                { "w": "You don't need to…", "vi": "bạn không cần…", "ex": "You don't need to bring a laptop.", "exvi": "Bạn không cần mang laptop đâu.", "note": "Gần như y hệt <i>don't have to</i>. Xem [Khung 03]." },
+                { "w": "You needn't…", "vi": "bạn khỏi cần…", "ex": "You needn't worry about that.", "exvi": "Bạn khỏi cần lo chuyện đó.", "note": "Anh-Anh, hơi trang trọng và ít dùng khi nói." },
+                { "w": "Don't feel obliged to…", "vi": "đừng thấy có nghĩa vụ phải…", "ex": "Don't feel obliged to stay.", "exvi": "Bạn đừng thấy phải ở lại nhé.", "note": "Nhấn vào cảm giác chứ không vào quy định. Xem [Khung 25]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "A present? Oh, you didn't have to!",
+                  "vi": "Quà à? Ôi, bạn chu đáo quá, đâu cần vậy!",
+                  "note": "Câu xã giao bắt buộc phải thuộc. Đây KHÔNG phải lời trách — nó nghĩa là “bạn chu đáo quá”.",
+                  "reply": [
+                    { "them": "I wanted to. Open it!", "themvi": "Mình muốn vậy mà. Mở ra đi!", "you": "You're too kind — thank you.", "youvi": "Bạn tốt quá — cảm ơn nhiều." },
+                    { "them": "It's nothing, really.", "themvi": "Có gì đâu mà.", "you": "It's lovely. Thank you so much.", "youvi": "Đẹp quá. Cảm ơn bạn nhiều lắm." }
+                  ],
+                  "close": { "en": "That's really thoughtful of you.", "vi": "Bạn chu đáo thật đấy." }
+                },
+                {
+                  "en": "You don't have to wait for me — go ahead.",
+                  "vi": "Bạn không phải chờ mình đâu — cứ đi trước đi.",
+                  "reply": [
+                    { "them": "Are you sure? I don't mind.", "themvi": "Bạn chắc chứ? Mình không phiền đâu.", "you": "Honestly, go. I'll catch up.", "youvi": "Thật đấy, bạn đi đi. Mình đuổi theo sau." }
+                  ],
+                  "vars": [
+                    { "en": "You don't have to stay till the end.", "vi": "Bạn không phải ở lại đến hết đâu." }
+                  ]
+                },
+                {
+                  "en": "You don't have to explain yourself to me.",
+                  "vi": "Bạn không phải giải thích với mình đâu.",
+                  "note": "Câu trấn an rất ấm khi ai đó đang lúng túng biện minh cho bản thân.",
+                  "reply": [
+                    { "them": "I just don't want you to think badly of me.", "themvi": "Mình chỉ không muốn bạn nghĩ xấu về mình.", "you": "I don't. Really.", "youvi": "Mình không nghĩ vậy đâu. Thật mà." }
+                  ]
+                },
+                {
+                  "en": "Just come — you don't have to bring anything.",
+                  "vi": "Cứ đến thôi — bạn không phải mang gì cả.",
+                  "reply": [
+                    { "them": "I'll bring something anyway.", "themvi": "Dù sao mình cũng mang gì đó.", "you": "You really don't have to, but thank you.", "youvi": "Thật sự không cần đâu, nhưng cảm ơn bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Just send a draft — it doesn't have to be perfect.",
+                  "vi": "Cứ gửi bản nháp đi — không cần hoàn hảo đâu.",
+                  "note": "Câu gỡ áp lực hay nhất khi giao việc cho người cầu toàn. Dùng <i>it</i> làm chủ ngữ để nói về công việc.",
+                  "reply": [
+                    { "them": "It's still pretty rough.", "themvi": "Vẫn còn thô lắm ạ.", "you": "That's fine — I just need the structure.", "youvi": "Không sao — tôi chỉ cần xem bố cục thôi." }
+                  ],
+                  "close": { "en": "We can polish it together.", "vi": "Mình cùng hoàn thiện sau." }
+                },
+                {
+                  "en": "FYI only — you don't have to reply to this.",
+                  "vi": "Chỉ để anh/chị nắm thông tin — không cần trả lời ạ.",
+                  "note": "<i>FYI</i> = for your information. Gỡ nghĩa vụ hồi âm — rất được lòng người bận.",
+                  "reply": [
+                    { "them": "Noted, thanks.", "themvi": "Đã nắm, cảm ơn anh/chị.", "you": "No problem.", "youvi": "Không có gì ạ." }
+                  ],
+                  "vars": [
+                    { "en": "You don't have to come to this meeting.", "vi": "Cuộc họp này anh/chị không phải dự đâu ạ." }
+                  ]
+                },
+                {
+                  "en": "You don't have to decide right now — take a day.",
+                  "vi": "Bạn chưa phải quyết ngay đâu — cứ suy nghĩ một ngày.",
+                  "note": "Gỡ áp lực quyết định. Nêu luôn khoảng thời gian cụ thể thì người kia yên tâm hơn.",
+                  "reply": [
+                    { "them": "That's a relief, thank you.", "themvi": "Vậy thì nhẹ cả người, cảm ơn anh/chị.", "you": "Let me know by Thursday.", "youvi": "Trước thứ Năm em báo tôi nhé." }
+                  ]
+                },
+                {
+                  "en": "This is confidential — you mustn't tell anyone.",
+                  "vi": "Chuyện này bảo mật — bạn không được nói với ai.",
+                  "note": "So sánh trực tiếp: đây là CẤM (<i>mustn't</i>), khác hẳn <i>don't have to</i> ở các câu trên.",
+                  "reply": [
+                    { "them": "Understood. My lips are sealed.", "themvi": "Em hiểu rồi. Em kín miệng.", "you": "Thanks. It'll be announced next week.", "youvi": "Cảm ơn em. Tuần sau sẽ công bố." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "You don't have to pay today — we can invoice you.",
+                  "vi": "Hôm nay anh/chị chưa phải trả — bên em xuất hóa đơn sau ạ.",
+                  "reply": [
+                    { "them": "Oh, that's convenient. When's it due?", "themvi": "Ồ, tiện quá. Hạn thanh toán khi nào ạ?", "you": "Thirty days from delivery.", "youvi": "Ba mươi ngày kể từ khi giao hàng ạ." }
+                  ]
+                },
+                {
+                  "en": "You don't have to buy it today — we'll hold it for you.",
+                  "vi": "Hôm nay anh/chị chưa phải mua — bên em giữ hàng cho ạ.",
+                  "note": "Câu này khiến khách thoải mái hơn hẳn và thường quay lại mua thật.",
+                  "reply": [
+                    { "them": "How long can you hold it?", "themvi": "Bên mình giữ được bao lâu ạ?", "you": "Until Saturday.", "youvi": "Đến thứ Bảy ạ." }
+                  ]
+                },
+                {
+                  "en": "You don't have to keep the box for the warranty.",
+                  "vi": "Anh/chị không cần giữ hộp để bảo hành đâu ạ.",
+                  "reply": [
+                    { "them": "Just the receipt then?", "themvi": "Vậy chỉ cần biên lai thôi ạ?", "you": "Exactly — or the bank statement.", "youvi": "Đúng rồi ạ — hoặc sao kê ngân hàng cũng được." }
+                  ]
+                },
+                {
+                  "en": "You mustn't use both offers together.",
+                  "vi": "Anh/chị không được dùng cả hai ưu đãi cùng lúc ạ.",
+                  "note": "Lại là CẤM. Nếu nói <i>You don't have to use both</i> thì nghĩa thành “không bắt buộc dùng cả hai” — sai hoàn toàn.",
+                  "reply": [
+                    { "them": "Which is the better deal?", "themvi": "Cái nào lợi hơn ạ?", "you": "The sale price, in your case.", "youvi": "Với trường hợp của anh/chị thì giá khuyến mãi lợi hơn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "You don't have to order a starter — the mains are big.",
+                  "vi": "Anh/chị không cần gọi món khai vị đâu — món chính to lắm ạ.",
+                  "note": "Nhân viên tư vấn thật lòng như vậy rất được lòng khách.",
+                  "reply": [
+                    { "them": "Good to know, thanks.", "themvi": "May mà biết, cảm ơn bạn.", "you": "Just the mains then?", "youvi": "Vậy chỉ món chính thôi ạ?" }
+                  ]
+                },
+                {
+                  "en": "You don't have to finish it if you're full.",
+                  "vi": "No rồi thì bạn không phải ăn hết đâu.",
+                  "reply": [
+                    { "them": "It's lovely, I'm just slow.", "themvi": "Ngon lắm, mình chỉ ăn chậm thôi.", "you": "Take your time.", "youvi": "Bạn cứ từ từ." }
+                  ]
+                },
+                {
+                  "en": "You don't have to book on weekdays.",
+                  "vi": "Ngày thường anh/chị không cần đặt bàn trước ạ.",
+                  "reply": [
+                    { "them": "And at weekends?", "themvi": "Còn cuối tuần thì sao ạ?", "you": "Weekends, definitely book.", "youvi": "Cuối tuần thì chắc chắn nên đặt ạ." }
+                  ]
+                },
+                {
+                  "en": "You don't have to tip here — it's included.",
+                  "vi": "Ở đây anh/chị không phải cho tiền boa — đã tính trong hóa đơn ạ.",
+                  "note": "Thông tin rất hữu ích khi đi nước ngoài — quy tắc boa khác nhau theo từng nước.",
+                  "reply": [
+                    { "them": "Oh, good to know. Thank you.", "themvi": "Ồ, may mà biết. Cảm ơn bạn.", "you": "Service charge is on the bill.", "youvi": "Phí phục vụ có trên hóa đơn ạ." }
+                  ],
+                  "close": { "en": "Thanks for telling me.", "vi": "Cảm ơn bạn đã nói cho tôi biết." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "You don't have to check in online — you can do it at the airport.",
+                  "vi": "Anh/chị không bắt buộc làm thủ tục trực tuyến — ra sân bay làm cũng được ạ.",
+                  "reply": [
+                    { "them": "Which is faster?", "themvi": "Cách nào nhanh hơn ạ?", "you": "Online, usually.", "youvi": "Thường thì trực tuyến nhanh hơn ạ." }
+                  ]
+                },
+                {
+                  "en": "You don't have to take your shoes off here.",
+                  "vi": "Ở đây anh/chị không phải cởi giày ạ.",
+                  "note": "Quy định an ninh sân bay khác nhau theo nước — câu này rất hay gặp.",
+                  "reply": [
+                    { "them": "Oh, thanks — different from last time.", "themvi": "Ồ, cảm ơn — khác lần trước nhỉ.", "you": "Just belts and laptops, please.", "youvi": "Chỉ cần thắt lưng và laptop thôi ạ." }
+                  ]
+                },
+                {
+                  "en": "You mustn't carry liquids over 100ml.",
+                  "vi": "Anh/chị không được mang chất lỏng quá 100ml ạ.",
+                  "note": "CẤM, không phải “không cần”. Đây là chỗ nhầm lẫn có thể khiến bạn mất đồ ở cửa an ninh.",
+                  "reply": [
+                    { "them": "This is 120. Can I check it in?", "themvi": "Cái này 120ml. Tôi ký gửi được không ạ?", "you": "Yes, that's fine.", "youvi": "Được ạ, không sao." }
+                  ]
+                },
+                {
+                  "en": "You don't have to rush — the gate doesn't close for an hour.",
+                  "vi": "Anh/chị không phải vội — một tiếng nữa cửa mới đóng ạ.",
+                  "reply": [
+                    { "them": "That's a relief.", "themvi": "Vậy thì nhẹ cả người.", "you": "Plenty of time for a coffee.", "youvi": "Thừa thời gian uống cà phê ạ." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Nhận một món quà bất ngờ",
+          "lines": [
+            { "speaker": "Friend", "en": "I got you something small.", "vi": "Mình có chút quà nhỏ cho bạn." },
+            { "speaker": "You", "me": true, "en": "Oh, you didn't have to!", "vi": "Ôi, bạn chu đáo quá, đâu cần vậy!" },
+            { "speaker": "Friend", "en": "I know. I wanted to.", "vi": "Mình biết. Mình muốn vậy mà." },
+            { "speaker": "You", "me": true, "en": "That's really thoughtful. You really didn't have to.", "vi": "Bạn chu đáo thật đấy. Thật sự đâu cần vậy." },
+            { "speaker": "Friend", "en": "Open it!", "vi": "Mở ra đi!" },
+            { "speaker": "You", "me": true, "en": "It's lovely — thank you so much.", "vi": "Đẹp quá — cảm ơn bạn nhiều lắm." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Phân biệt “không cần” và “không được” ở chỗ làm",
+          "lines": [
+            { "speaker": "New hire", "en": "Do I have to wear a tie?", "vi": "Em có phải đeo cà vạt không ạ?" },
+            { "speaker": "You", "me": true, "en": "No, you don't have to. Some people do, some don't.", "vi": "Không, em không bắt buộc. Có người đeo, có người không." },
+            { "speaker": "New hire", "en": "And jeans?", "vi": "Còn quần jean thì sao ạ?" },
+            { "speaker": "You", "me": true, "en": "Jeans are fine. But you mustn't wear shorts — that's a real rule.", "vi": "Quần jean thì được. Nhưng em không được mặc quần đùi — cái đó là quy định thật." },
+            { "speaker": "New hire", "en": "Got it. Do I have to be in by nine?", "vi": "Em hiểu rồi. Em có phải đến trước chín giờ không ạ?" },
+            { "speaker": "You", "me": true, "en": "You don't have to, as long as you're here for the ten o'clock stand-up.", "vi": "Không bắt buộc, miễn là có mặt cho buổi họp nhanh lúc mười giờ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "You mustn't come if you're busy. <i>(ý: không bắt buộc)</i>", "right": "You don't have to come if you're busy.", "why": "<b>mustn't</b> = CẤM. Câu sai kia nghĩa là “cấm bạn đến” — ngược hẳn ý định." },
+            { "wrong": "You don't have to touch that. <i>(ý: cấm chạm)</i>", "right": "You mustn't touch that.", "why": "Muốn CẤM thì phải dùng <b>mustn't</b> hoặc <b>can't</b>. Câu sai kia nghĩa là “không bắt buộc chạm”." },
+            { "wrong": "You haven't to come.", "right": "You don't have to come.", "why": "Phủ định của <i>have to</i> là <b>don't have to</b>, không phải <i>haven't to</i>." },
+            { "wrong": "You don't have to coming.", "right": "You don't have to come.", "why": "Sau <b>to</b> là động từ nguyên thể, không phải V-ing." },
+            { "wrong": "You don't have to! <i>(nói với giọng gắt khi nhận quà)</i>", "right": "You didn't have to! <i>(kèm nụ cười)</i>", "why": "Khi nhận quà phải dùng <b>quá khứ</b> và nói kèm nụ cười — nếu không sẽ nghe như đang trách." },
+            { "wrong": "There's no need to apologising.", "right": "There's no need to apologise.", "why": "Sau <b>no need to</b> cũng là động từ nguyên thể." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>You don't have to + V</code>", "Không bắt buộc — vẫn được làm", "<i>You don't have to come.</i>"],
+            ["<code>You don't need to + V</code>", "Gần như y hệt", "<i>You don't need to come.</i> — Xem [Khung 03]."],
+            ["<code>You needn't + V</code>", "Anh-Anh, hơi trang trọng", "<i>You needn't worry.</i>"],
+            ["<code>There's no need to + V</code>", "Khách quan — không nhắm vào ai", "<i>There's no need to apologise.</i>"],
+            ["<code>You mustn't + V</code>", "CẤM — ngược hẳn nghĩa", "<i>You mustn't tell anyone.</i>"],
+            ["<code>You can't + V</code>", "Không được phép — cấm nhẹ hơn", "<i>You can't park there.</i> — Xem [Khung 28]."],
+            ["<code>Don't feel obliged to + V</code>", "Gỡ cảm giác nghĩa vụ", "<i>Don't feel obliged to stay.</i> — Xem [Khung 25]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ nghĩa vụ — về việc ký một giấy tờ" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "You must sign it.", "vi": "Bắt buộc — không có lựa chọn" },
+            { "en": "You have to sign it.", "vi": "Bắt buộc — do quy định" },
+            { "en": "You should sign it.", "vi": "Nên — khuyên nhủ" },
+            { "en": "You don't have to sign it.", "vi": "Không bắt buộc — tùy bạn" },
+            { "en": "You mustn't sign it.", "vi": "CẤM — không được ký" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>have to</b> khi mang nghĩa bắt buộc đọc là <b>“hæf-tə”</b> — âm /v/ biến thành /f/. Đây là điều nhiều người học không biết.",
+            "<b>don't have to</b> → “dohn-hæf-tə”, âm /t/ ở <i>don't</i> gần như mất hẳn.",
+            "<b>didn't have to</b> → “di-dn-hæf-tə” — cụm này nói rất nhanh khi cảm thán.",
+            "<b>mustn't</b> = /ˈmʌsənt/ — âm <b>t</b> ở giữa CÂM. Đọc là “MUS-ənt”, không phải “mớt-xnt”.",
+            "<b>You don't have to</b> nhấn vào <b>HAVE</b>; còn <b>You mustn't</b> nhấn vào <b>MUS</b>-nt. Nghe trọng âm là phân biệt được hai câu.",
+            "Khi trấn an ai đó, nói cả cụm với <b>giọng đi xuống và mềm</b> — lên giọng sẽ nghe như đang sốt ruột."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "You don't have to come if you're busy.", "vi": "Luyện shadowing: chú ý “have to” đọc thành “hæf-tə”." },
+            { "en": "You mustn't tell anyone.", "vi": "So sánh trực tiếp với câu trên — nghe kỹ sự khác biệt về nghĩa và trọng âm." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Bận thì bạn không phải đến đâu.", "blank": "__________ come if you're busy.", "a": "You don't have to" },
+            { "vi": "Chuyện này bảo mật — bạn không được nói với ai.", "blank": "This is confidential — __________ tell anyone.", "a": "you mustn't (CẤM, không phải “don't have to”)" },
+            { "vi": "Quà à? Ôi, bạn chu đáo quá, đâu cần vậy!", "blank": "A present? Oh, __________!", "a": "you didn't have to" },
+            { "vi": "Thật đấy, không cần xin lỗi đâu.", "blank": "Really, __________ apologise.", "a": "there's no need to" },
+            { "vi": "Cứ gửi bản nháp đi — không cần hoàn hảo đâu.", "blank": "Just send a draft — __________ perfect.", "a": "it doesn't have to be" },
+            { "vi": "Bạn chưa phải quyết ngay đâu.", "blank": "__________ right now.", "a": "You don't have to decide" },
+            { "vi": "Bạn không phải tự làm hết đâu.", "blank": "You don't have to __________ yourself.", "a": "do it all" },
+            { "vi": "Bạn không bắt buộc tham gia, nhưng muốn thì cứ tự nhiên.", "blank": "You don't have to join, __________.", "a": "but you're welcome to" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Bạn không phải chờ mình đâu — cứ đi trước đi.", "a": "You don't have to wait for me — go ahead." },
+            { "vi": "2. Bạn không phải giải thích với mình đâu.", "a": "You don't have to explain yourself to me." },
+            { "vi": "3. Cứ đến thôi — bạn không phải mang gì cả.", "a": "Just come — you don't have to bring anything." },
+            { "vi": "4. Ở đây anh/chị không phải cho tiền boa — đã tính trong hóa đơn ạ.", "a": "You don't have to tip here — it's included." },
+            { "vi": "5. Anh/chị không được mang chất lỏng quá 100ml ạ.", "a": "You mustn't carry liquids over 100ml." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Khắc vào đầu một câu duy nhất:</b> <i>don't have to</i> = KHÔNG CẦN (vẫn được làm). <i>mustn't</i> = CẤM. Nhầm chỗ này gây hiểu lầm thật chứ không chỉ sai ngữ pháp.",
+            "<b>Thuộc câu nhận quà:</b> <i>Oh, you didn't have to!</i> — dùng thì quá khứ và nói kèm nụ cười.",
+            "<b>Dùng để gỡ áp lực:</b> <i>It doesn't have to be perfect</i> là câu tốt nhất khi giao việc cho người cầu toàn.",
+            "<b>Kết email tử tế:</b> <i>FYI only — you don't have to reply to this.</i> Người bận sẽ rất cảm kích.",
+            "<b>Nghe cho quen “hæf-tə”:</b> <i>have to</i> mang nghĩa bắt buộc thì /v/ đọc thành /f/ — biết điều này là nghe hiểu nhanh hơn hẳn.",
+            "<b>Bài tập 3 phút:</b> viết 5 việc ở công ty bạn KHÔNG bắt buộc phải làm và 3 việc bị CẤM, rồi nói to bằng đúng hai cấu trúc <i>don't have to</i> và <i>mustn't</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

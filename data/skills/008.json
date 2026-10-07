@@ -1,0 +1,861 @@
+{
+ "id": 8,
+ "group": "Nhóm 2 · Nghe — vì sao nghe không ra",
+ "title": "Nuốt âm & biến âm — did you nghe thành “didja”",
+ "subtitle": "Khi /t/ hoặc /d/ gặp chữ y, chúng hoà lại thành một âm hoàn toàn mới: did you thành “didja”, what you thành “whatcha”. Bạn thuộc cả hai từ nhưng âm phát ra không giống từ nào cả.",
+ "meaning": "Âm biến đổi và biến mất trong lời nói nhanh",
+ "rule": [
+  "<em>/t/ + /j/ → /tʃ/</em> · <em>/d/ + /j/ → /dʒ/</em>",
+  "<em>/t/ /d/</em> kẹp giữa hai phụ âm thì <em>biến mất</em>",
+  "<em>/h/</em> trong <em>him · her · have</em> rụng khi không nhấn"
+ ],
+ "tags": [
+  {
+   "text": "Mức độ: then chốt cho nghe",
+   "hot": true
+  },
+  {
+   "text": "did you → “didja”"
+  },
+  {
+   "text": "Âm mới, không phải âm cũ"
+  },
+  {
+   "text": "Ảnh hưởng: rất lớn"
+  }
+ ],
+ "frames": [
+  13,
+  30,
+  35,
+  61,
+  67
+ ],
+ "sections": [
+  {
+   "title": "Quy tắc cốt lõi",
+   "blocks": [
+    {
+     "t": "p",
+     "html": "[Kỹ năng 07] nói về âm <b>chuyển chỗ</b>. Bài này nói về hai chuyện nặng hơn: âm <b>đổi thành âm khác</b>, và âm <b>biến mất hẳn</b>. Cả hai đều xảy ra tự động trong lời nói nhanh, kể cả ở người nói rất chuẩn."
+    },
+    {
+     "t": "callout",
+     "html": "<b>BẪY SỐ MỘT — /t/ và /d/ gặp chữ <i>y</i> thì sinh ra ÂM MỚI:</b><br>• <b>/t/ + /j/ → /tʃ/</b> — <i>What you…</i> → <b>“whatcha”</b> · <i>Don't you…</i> → <b>“doncha”</b><br>• <b>/d/ + /j/ → /dʒ/</b> — <i>Did you…</i> → <b>“didja”</b> · <i>Would you…</i> → <b>“wouldja”</b><br>Đây <b>không phải nói ngọng</b> — đó là luật chuẩn của tiếng Anh. Vấn đề là bạn học <i>did</i> và <i>you</i> riêng rẽ, nên khi nghe “didja” thì não <b>không có mục nào khớp</b>."
+    },
+    {
+     "t": "callout",
+     "html": "<b>BẪY SỐ HAI — âm biến mất hẳn ở hai chỗ:</b><br>① <b>/t/ /d/ kẹp giữa hai phụ âm</b> → rụng:<br><i>nex<b>t</b> week</i> → “nex week” · <i>mus<b>t</b> be</i> → “mus be” · <i>han<b>d</b>bag</i> → “hanbag”<br>② <b>/h/ ở đầu <i>him, her, his, have, has</i></b> khi không được nhấn → rụng:<br><i>tell <b>h</b>im</i> → “tellim” · <i>give <b>h</b>er</i> → “giver” · <i>should <b>h</b>ave</i> → “shoulda”<br>Chữ <i>h</i> rụng là lý do <i>tell him</i> nghe hệt như một từ: “tellim”."
+    },
+    {
+     "t": "h3",
+     "text": "Bốn hiện tượng"
+    },
+    {
+     "t": "table",
+     "head": [
+      "Hiện tượng",
+      "Luật",
+      "Ví dụ"
+     ],
+     "rows": [
+      [
+       "Biến âm với <code>y</code>",
+       "/t/+/j/→/tʃ/ · /d/+/j/→/dʒ/",
+       "did you → “didja”"
+      ],
+      [
+       "Rụng <code>/t/ /d/</code>",
+       "Khi kẹp giữa hai phụ âm",
+       "next week → “nex week”"
+      ],
+      [
+       "Rụng <code>/h/</code>",
+       "<code>him her his have</code> không nhấn",
+       "tell him → “tellim”"
+      ],
+      [
+       "Đồng hoá <code>/n/</code>",
+       "<code>/n/</code> trước <code>/p/ /b/ /m/</code> thành <code>/m/</code>",
+       "in bed → “im bed”"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "html": "Hàng cuối là hiện tượng nhẹ nhất nhưng rất phổ biến: miệng <b>chuẩn bị trước</b> cho âm sắp tới nên âm đứng trước bị kéo theo."
+    }
+   ]
+  },
+  {
+   "title": "Bảng chia đầy đủ",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "Viết là",
+      "Nghe thành",
+      "Vì sao"
+     ],
+     "rows": [
+      [
+       "Did you…?",
+       "“didja”",
+       "/d/ + /j/ → /dʒ/"
+      ],
+      [
+       "Would you…?",
+       "“wouldja”",
+       "/d/ + /j/ → /dʒ/"
+      ],
+      [
+       "Could you…?",
+       "“couldja”",
+       "/d/ + /j/ → /dʒ/"
+      ],
+      [
+       "What you…",
+       "“whatcha”",
+       "/t/ + /j/ → /tʃ/"
+      ],
+      [
+       "Don't you…?",
+       "“doncha”",
+       "/t/ + /j/ → /tʃ/"
+      ],
+      [
+       "Want to",
+       "“wanna”",
+       "/t/ rụng giữa hai nguyên âm"
+      ],
+      [
+       "next week",
+       "“nex week”",
+       "/t/ kẹp giữa /ks/ và /w/"
+      ],
+      [
+       "must be",
+       "“mus be”",
+       "/t/ kẹp giữa /s/ và /b/"
+      ],
+      [
+       "last night",
+       "“las night”",
+       "/t/ kẹp giữa /s/ và /n/"
+      ],
+      [
+       "tell him",
+       "“tellim”",
+       "/h/ rụng khi không nhấn"
+      ],
+      [
+       "give her",
+       "“giver”",
+       "/h/ rụng khi không nhấn"
+      ],
+      [
+       "in bed",
+       "“im bed”",
+       "/n/ đồng hoá thành /m/ trước /b/"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "html": "<b>Khi nào KHÔNG rụng — ba trường hợp:</b><br>• Ở <b>cuối câu</b>: <i>Yes, I did.</i> — /d/ bật rõ<br>• Trước <b>nguyên âm</b>: <i>next of kin</i> — /t/ giữ nguyên vì nó nối sang [Kỹ năng 07]<br>• Khi từ đó <b>được nhấn</b>: <i>I told <b>HIM</b>, not her</i> — /h/ quay lại đầy đủ<br>Nói cách khác: âm chỉ rụng khi nó <b>vừa khó phát vừa không mang thông tin</b>."
+    },
+    {
+     "t": "h3",
+     "text": "Mười hai ví dụ song ngữ"
+    },
+    {
+     "t": "ex",
+     "items": [
+      {
+       "en": "Did you see him?",
+       "vi": "Bạn có gặp anh ấy không?",
+       "note": "BẪY SỐ MỘT: “didja see-im” — vừa biến âm vừa rụng /h/. Xem [Ngữ pháp 44]."
+      },
+      {
+       "en": "Would you mind waiting?",
+       "vi": "Phiền bạn đợi một chút nhé?",
+       "note": "“wouldja mind” — /d/+/j/ → /dʒ/. Xem [Khung 13]."
+      },
+      {
+       "en": "Could you say that again?",
+       "vi": "Bạn nói lại được không?",
+       "note": "“couldja” — cùng luật. Xem [Khung 11]."
+      },
+      {
+       "en": "What do you want to do?",
+       "vi": "Bạn muốn làm gì?",
+       "note": "“wha-dya wanna do” — ba chỗ biến đổi. Xem [Khung 35]."
+      },
+      {
+       "en": "Don't you think so?",
+       "vi": "Bạn không nghĩ vậy à?",
+       "note": "“doncha think so” — /t/+/j/ → /tʃ/."
+      },
+      {
+       "en": "Would you like me to help?",
+       "vi": "Bạn có muốn tôi giúp không?",
+       "note": "“wouldja like me ta help”. Xem [Khung 30]."
+      },
+      {
+       "en": "Next week I'll be away.",
+       "vi": "Tuần sau tôi đi vắng.",
+       "note": "BẪY SỐ HAI: “nex week” — /t/ kẹp giữa hai phụ âm."
+      },
+      {
+       "en": "There must be a mistake.",
+       "vi": "Chắc có nhầm lẫn gì rồi.",
+       "note": "“mus be a mistake”. Xem [Ngữ pháp 51]."
+      },
+      {
+       "en": "I saw him last night.",
+       "vi": "Tối qua tôi gặp anh ấy.",
+       "note": "“saw-im las night” — rụng cả /h/ lẫn /t/."
+      },
+      {
+       "en": "Tell him I called.",
+       "vi": "Bảo anh ấy là tôi đã gọi.",
+       "note": "“tellim ai called” — nghe như một từ."
+      },
+      {
+       "en": "What time does it start?",
+       "vi": "Mấy giờ bắt đầu?",
+       "note": "“wha-time da-zit start”. Xem [Khung 61]."
+      },
+      {
+       "en": "Do you know where he is?",
+       "vi": "Bạn có biết anh ấy ở đâu không?",
+       "note": "“d'ya know where-i-ziz”. Xem [Khung 67]."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Khi nào cần để ý nhất",
+   "blocks": [
+    {
+     "t": "cards",
+     "items": [
+      {
+       "icon": "❓",
+       "title": "Câu hỏi mở đầu bằng Do/Did/Would",
+       "text": "Đây là chỗ biến âm dày nhất."
+      },
+      {
+       "icon": "🙋",
+       "title": "Nhờ vả lịch sự",
+       "text": "<i>Could you…? Would you mind…?</i> Xem [Khung 13]."
+      },
+      {
+       "icon": "👤",
+       "title": "Nhắc đến người thứ ba",
+       "text": "<i>tell him, give her</i> — /h/ rụng."
+      },
+      {
+       "icon": "📅",
+       "title": "Nói mốc thời gian",
+       "text": "<i>next week, last night</i> — /t/ rụng."
+      },
+      {
+       "icon": "🎬",
+       "title": "Xem phim không phụ đề",
+       "text": "Hội thoại đời thường biến âm nhiều nhất."
+      },
+      {
+       "icon": "🚫",
+       "title": "Đừng làm…",
+       "text": "Đừng cố phát rõ từng âm — nghe lại càng gượng."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Dấu hiệu nhận biết & từ hay gặp",
+   "blocks": [
+    {
+     "t": "p",
+     "html": "Chọn một cụm ở cột trái để xem nó <b>nghe thành</b> gì và vì sao."
+    },
+    {
+     "t": "words",
+     "groups": [
+      {
+       "title": "Biến âm khi gặp chữ y",
+       "items": [
+        {
+         "w": "Did you → “didja”",
+         "vi": "bạn đã… chưa",
+         "ex": "Did you see him?",
+         "exvi": "Bạn có gặp anh ấy không?",
+         "note": "BẪY SỐ MỘT: /d/ + /j/ hoà thành /dʒ/, một âm MỚI."
+        },
+        {
+         "w": "Would you → “wouldja”",
+         "vi": "bạn có… không",
+         "ex": "Would you mind waiting?",
+         "exvi": "Phiền bạn đợi chút nhé? Xem [Khung 13]."
+        },
+        {
+         "w": "Could you → “couldja”",
+         "vi": "bạn có thể… không",
+         "ex": "Could you say that again?",
+         "exvi": "Bạn nói lại được không? Xem [Khung 11]."
+        },
+        {
+         "w": "What you → “whatcha”",
+         "vi": "bạn… cái gì",
+         "ex": "What you need is a break.",
+         "exvi": "Cái bạn cần là nghỉ ngơi."
+        },
+        {
+         "w": "Don't you → “doncha”",
+         "vi": "bạn không… à",
+         "ex": "Don't you think so?",
+         "exvi": "Bạn không nghĩ vậy à?"
+        },
+        {
+         "w": "Can't you → “cancha”",
+         "vi": "bạn không thể… à",
+         "ex": "Can't you come earlier?",
+         "exvi": "Bạn đến sớm hơn không được à?"
+        },
+        {
+         "w": "Do you → “d'ya”",
+         "vi": "bạn có… không",
+         "ex": "Do you know where he is?",
+         "exvi": "Bạn biết anh ấy ở đâu không? Xem [Khung 67]."
+        },
+        {
+         "w": "want to → “wanna”",
+         "vi": "muốn",
+         "ex": "What do you want to do?",
+         "exvi": "Bạn muốn làm gì? Xem [Khung 35]."
+        },
+        {
+         "w": "going to → “gonna”",
+         "vi": "sắp, định",
+         "ex": "I'm going to call her.",
+         "exvi": "Tôi định gọi cô ấy. Xem [Kỹ năng 10]."
+        },
+        {
+         "w": "got to → “gotta”",
+         "vi": "phải",
+         "ex": "I've got to go.",
+         "exvi": "Tôi phải đi đây."
+        },
+        {
+         "w": "What time → “wha-time”",
+         "vi": "mấy giờ",
+         "ex": "What time does it start?",
+         "exvi": "Mấy giờ bắt đầu? Xem [Khung 61]."
+        },
+        {
+         "w": "Would you like → “wouldja like”",
+         "vi": "bạn có muốn",
+         "ex": "Would you like me to help?",
+         "exvi": "Bạn muốn tôi giúp không? Xem [Khung 30]."
+        }
+       ]
+      },
+      {
+       "title": "Âm biến mất",
+       "items": [
+        {
+         "w": "next week → “nex week”",
+         "vi": "tuần sau",
+         "ex": "Next week I'll be away.",
+         "exvi": "Tuần sau tôi đi vắng.",
+         "note": "BẪY SỐ HAI: /t/ kẹp giữa hai phụ âm thì rụng."
+        },
+        {
+         "w": "last night → “las night”",
+         "vi": "tối qua",
+         "ex": "I saw him last night.",
+         "exvi": "Tối qua tôi gặp anh ấy."
+        },
+        {
+         "w": "must be → “mus be”",
+         "vi": "chắc hẳn là",
+         "ex": "There must be a mistake.",
+         "exvi": "Chắc có nhầm lẫn. Xem [Ngữ pháp 51]."
+        },
+        {
+         "w": "handbag → “hanbag”",
+         "vi": "túi xách",
+         "ex": "She lost her handbag.",
+         "exvi": "Cô ấy mất túi xách."
+        },
+        {
+         "w": "sandwich → “sanwich”",
+         "vi": "bánh mì kẹp",
+         "ex": "I'd like a sandwich.",
+         "exvi": "Cho tôi một cái sandwich."
+        },
+        {
+         "w": "tell him → “tellim”",
+         "vi": "bảo anh ấy",
+         "ex": "Tell him I called.",
+         "exvi": "Bảo anh ấy là tôi đã gọi.",
+         "note": "/h/ rụng — nghe như MỘT từ."
+        },
+        {
+         "w": "give her → “giver”",
+         "vi": "đưa cho cô ấy",
+         "ex": "Give her my number.",
+         "exvi": "Đưa cô ấy số của tôi."
+        },
+        {
+         "w": "ask him → “askim”",
+         "vi": "hỏi anh ấy",
+         "ex": "Ask him first.",
+         "exvi": "Hỏi anh ấy trước đã."
+        },
+        {
+         "w": "should have → “shoulda”",
+         "vi": "lẽ ra phải",
+         "ex": "I should have called.",
+         "exvi": "Lẽ ra tôi phải gọi. Xem [Ngữ pháp 33]."
+        },
+        {
+         "w": "in bed → “im bed”",
+         "vi": "trên giường",
+         "ex": "He's still in bed.",
+         "exvi": "Nó còn đang ngủ.",
+         "note": "/n/ đồng hoá thành /m/ vì âm sau là /b/."
+        },
+        {
+         "w": "ten pounds → “tem pounds”",
+         "vi": "mười bảng",
+         "ex": "It costs ten pounds.",
+         "exvi": "Giá mười bảng."
+        },
+        {
+         "w": "Yes, I did.",
+         "vi": "Vâng, có.",
+         "ex": "Did you call? — Yes, I did.",
+         "exvi": "Bạn gọi chưa? — Rồi.",
+         "note": "Ở CUỐI câu thì /d/ bật rõ — không rụng."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "BẪY người Việt hay mắc",
+   "blocks": [
+    {
+     "t": "pairs",
+     "items": [
+      {
+       "wrong": "Nghe <b>“didja”</b> rồi tìm từ <b>“didja”</b> trong từ điển",
+       "right": "Đó là <b>Did you</b>",
+       "why": "BẪY SỐ MỘT: /d/ và /j/ hoà thành /dʒ/ — một âm mới, không giống từ nào trong hai từ gốc."
+      },
+      {
+       "wrong": "Nói <b>“Did · you · see · him”</b> tách rõ",
+       "right": "<b>“Didja see-im?”</b>",
+       "why": "Tách rõ quá nghe gượng, và làm chính bạn khó nghe lại người khác."
+      },
+      {
+       "wrong": "Nghe <b>“wouldja”</b> mà không ra <i>Would you</i>",
+       "right": "<b>Would you…?</b>",
+       "why": "Mọi câu nhờ vả lịch sự đều bắt đầu như vậy. Xem [Khung 13]."
+      },
+      {
+       "wrong": "Nghe <b>“nex week”</b> rồi tưởng người ta nói sai",
+       "right": "<b>next week</b> — /t/ rụng đúng luật",
+       "why": "BẪY SỐ HAI: /t/ kẹp giữa hai phụ âm thì người bản ngữ nào cũng bỏ."
+      },
+      {
+       "wrong": "Nghe <b>“tellim”</b> rồi đoán là một từ mới",
+       "right": "<b>tell him</b> — /h/ rụng",
+       "why": "<i>him, her, have</i> khi không nhấn thì mất luôn chữ <i>h</i> đầu."
+      },
+      {
+       "wrong": "Nói <b>“tell HIM”</b> nhấn mạnh mọi lúc",
+       "right": "<b>“tellim”</b> khi bình thường",
+       "why": "Chỉ nhấn khi cần phân biệt: <i>I told HIM, not her.</i>"
+      },
+      {
+       "wrong": "Nghe <b>“shoulda”</b> rồi bó tay",
+       "right": "<b>should have</b>",
+       "why": "Đây là gốc của lỗi viết <i>should of</i> ✗ — nghe sao viết vậy. Xem [Ngữ pháp 33]."
+      },
+      {
+       "wrong": "Nói <b>“wanna”</b> trong email trang trọng",
+       "right": "Viết đủ <b>want to</b>",
+       "why": "Biến âm là chuyện của LỜI NÓI. Viết ra thì luôn viết đủ."
+      },
+      {
+       "wrong": "Cố phát rõ <b>“nekst week”</b> cho chuẩn",
+       "right": "<b>“nex week”</b>",
+       "why": "Phát quá rõ lại thành không tự nhiên — đây là lỗi ngược."
+      },
+      {
+       "wrong": "Nghe <b>“im bed”</b> rồi tưởng là <i>I'm bed</i>",
+       "right": "<b>in bed</b> — /n/ đồng hoá thành /m/",
+       "why": "Miệng chuẩn bị trước cho /b/ nên /n/ bị kéo theo."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Phân biệt với lỗi gần giống",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "Cặp dễ nhầm",
+      "Khác nhau",
+      "Ví dụ"
+     ],
+     "rows": [
+      [
+       "Biến âm / nối âm",
+       "Sinh âm mới / âm chuyển chỗ",
+       "“didja” ≠ “ca-nai”"
+      ],
+      [
+       "Biến âm / nuốt âm",
+       "Đổi thành âm khác / mất hẳn",
+       "“didja” ≠ “nex week”"
+      ],
+      [
+       "<code>/t/+/j/</code> / <code>/d/+/j/</code>",
+       "→ /tʃ/ / → /dʒ/",
+       "“whatcha” ≠ “didja”"
+      ],
+      [
+       "Rụng /t/ / giữ /t/",
+       "Giữa hai phụ âm / trước nguyên âm",
+       "“nex week” ≠ “next of kin”"
+      ],
+      [
+       "Rụng /h/ / giữ /h/",
+       "Không nhấn / được nhấn",
+       "“tellim” ≠ “told HIM”"
+      ],
+      [
+       "Lời nói / chữ viết",
+       "“wanna” / <code>want to</code>",
+       "Không bao giờ viết dạng nói"
+      ],
+      [
+       "Đồng hoá /n/→/m/",
+       "Trước /p/ /b/ /m/",
+       "in bed → “im bed”"
+      ]
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "Sơ đồ chọn: nghe một chuỗi lạ thì gỡ thế nào?"
+    },
+    {
+     "t": "tree",
+     "q": "Bạn nghe một cụm không giống từ nào mình biết — thử lần lượt bốn khả năng.",
+     "nodes": [
+      {
+       "if": "Có âm /tʃ/ hoặc /dʒ/ ở giữa",
+       "then": "Tách ra thành /t/+you hoặc /d/+you",
+       "ex": "“didja” → Did you"
+      },
+      {
+       "if": "Nghe thiếu một phụ âm giữa hai phụ âm",
+       "then": "Thử thêm /t/ hoặc /d/ vào",
+       "ex": "“nex week” → next week"
+      },
+      {
+       "if": "Hai từ dính thành một",
+       "then": "Thử thêm /h/ vào đầu từ sau",
+       "ex": "“tellim” → tell him"
+      },
+      {
+       "if": "Nghe /m/ mà nghĩa không hợp",
+       "then": "Thử đổi thành /n/",
+       "ex": "“im bed” → in bed"
+      },
+      {
+       "if": "Nghe một âm tiết thừa",
+       "then": "Có thể là dạng rút gọn",
+       "ex": "“shoulda” → should have"
+      },
+      {
+       "if": "Vẫn không ra",
+       "then": "Có thể là dạng yếu, không phải biến âm",
+       "ex": "Xem [Kỹ năng 09]"
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "Thang độ nhanh của cùng một câu hỏi"
+    },
+    {
+     "t": "scale",
+     "items": [
+      {
+       "en": "“Did · you · see · him?”",
+       "vi": "Chậm nhất — đọc chính tả"
+      },
+      {
+       "en": "“Did you see him?”",
+       "vi": "Rõ, hơi cứng"
+      },
+      {
+       "en": "“Didja see him?”",
+       "vi": "Biến âm"
+      },
+      {
+       "en": "“Didja see-im?”",
+       "vi": "Thêm rụng /h/ — tự nhiên"
+      },
+      {
+       "en": "“D'ja see-im?”",
+       "vi": "Nhanh nhất — nói đời thường"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Kỹ năng này dùng ở đâu",
+   "blocks": [
+    {
+     "t": "p",
+     "html": "Biến âm dày nhất ở các câu hỏi mở đầu bằng <i>Do / Did / Would / Could</i> — tức là phần lớn câu người ta hỏi bạn."
+    },
+    {
+     "t": "link",
+     "items": [
+      {
+       "id": 13,
+       "why": "Would you mind + V-ing? — “wouldja mind”, câu nhờ vả lịch sự nhất."
+      },
+      {
+       "id": 30,
+       "why": "Would you like me to + V? — “wouldja like me ta”, hai biến đổi liền nhau."
+      },
+      {
+       "id": 35,
+       "why": "Do you want to + V? — “d'ya wanna”, câu rủ rê hằng ngày."
+      },
+      {
+       "id": 67,
+       "why": "Do you know + wh-…? — “d'ya know”, câu hỏi gián tiếp."
+      },
+      {
+       "id": 61,
+       "why": "What time…? / When…? — “wha-time da-zit start”."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Luyện tập",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Nghe người thật nói"
+    },
+    {
+     "t": "listen",
+     "intro": "Đây là phần <b>TTS không làm được gì cả</b>: máy không nuốt âm và không biến âm. Tám cụm này là lýa do bạn nghe người bản ngữ không ra, dù từng từ đều là từ bạn biết. Nghe giọng thật vài lần rồi đọc theo — nghe ra được là nói được.",
+     "items": [
+      {
+       "en": "did you",
+       "vi": "bạn đã…",
+       "focus": "/d/ + /j/ → /dʒ/ — nghe thành “didja”",
+       "yg": "did you",
+       "src": "youglish"
+      },
+      {
+       "en": "don't you",
+       "vi": "bạn không… à?",
+       "focus": "/t/ + /j/ → /tʃ/ — “doncha”",
+       "yg": "don't you",
+       "src": "youglish"
+      },
+      {
+       "en": "what do you",
+       "vi": "bạn… gì?",
+       "focus": "nuốt gần hết — “whaddaya”",
+       "yg": "what do you",
+       "src": "youglish"
+      },
+      {
+       "en": "next day",
+       "vi": "hôm sau",
+       "focus": "/t/ giữa hai phụ âm bị nuốt — “nex day”",
+       "yg": "next day",
+       "src": "youglish"
+      },
+      {
+       "en": "last time",
+       "vi": "lần trước",
+       "focus": "cũng mất /t/ — “las time”",
+       "yg": "last time",
+       "src": "youglish"
+      },
+      {
+       "en": "got to",
+       "vi": "phải…",
+       "focus": "→ “gotta”, rất thông dụng trong nói",
+       "yg": "got to",
+       "src": "youglish"
+      },
+      {
+       "en": "want you",
+       "vi": "muốn bạn…",
+       "focus": "→ “wancha”",
+       "yg": "want you",
+       "src": "youglish"
+      },
+      {
+       "en": "handbag",
+       "vi": "túi xách",
+       "focus": "/d/ biến thành /m/ theo âm sau — “hambag”",
+       "yg": "handbag",
+       "src": "youglish"
+      }
+     ],
+     "more": [
+      {
+       "label": "BBC Learning English — mục phát âm",
+       "url": "https://www.bbc.co.uk/learningenglish"
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "A. Nghe thế này thì viết ra là gì?"
+    },
+    {
+     "t": "quiz",
+     "items": [
+      {
+       "vi": "Bạn có gặp anh ấy không?",
+       "blank": "“didja see-im”  →  __________",
+       "a": "Did you see him?"
+      },
+      {
+       "vi": "Phiền bạn đợi chút nhé?",
+       "blank": "“wouldja mind weiting”  →  __________",
+       "a": "Would you mind waiting?"
+      },
+      {
+       "vi": "Bạn không nghĩ vậy à?",
+       "blank": "“doncha think so”  →  __________",
+       "a": "Don't you think so?"
+      },
+      {
+       "vi": "Tuần sau tôi đi vắng.",
+       "blank": "“nex week ai-l bi awei”  →  __________",
+       "a": "Next week I'll be away."
+      },
+      {
+       "vi": "Bảo anh ấy là tôi đã gọi.",
+       "blank": "“tellim ai kɔːld”  →  __________",
+       "a": "Tell him I called."
+      },
+      {
+       "vi": "Lẽ ra tôi phải gọi.",
+       "blank": "“ai shoulda kɔːld”  →  __________",
+       "a": "I should have called."
+      },
+      {
+       "vi": "Bạn muốn làm gì?",
+       "blank": "“wha-dya wanna du”  →  __________",
+       "a": "What do you want to do?"
+      },
+      {
+       "vi": "Nó còn đang ngủ.",
+       "blank": "“hiz stil im bed”  →  __________",
+       "a": "He's still in bed."
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "B. Chỗ nào bị biến đổi?"
+    },
+    {
+     "t": "quiz",
+     "items": [
+      {
+       "vi": "Did you…",
+       "blank": "(a) /d/ rụng  (b) /d/ + /j/ hoà thành /dʒ/",
+       "a": "(b)"
+      },
+      {
+       "vi": "next week",
+       "blank": "(a) /t/ rụng vì kẹp giữa hai phụ âm  (b) /t/ đổi thành /k/",
+       "a": "(a)"
+      },
+      {
+       "vi": "tell him",
+       "blank": "(a) /l/ rụng  (b) /h/ rụng",
+       "a": "(b)"
+      },
+      {
+       "vi": "Yes, I did.",
+       "blank": "(a) /d/ rụng  (b) /d/ giữ nguyên vì ở cuối câu",
+       "a": "(b)"
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "C. Đọc to theo cách nói nhanh"
+    },
+    {
+     "t": "quiz",
+     "items": [
+      {
+       "vi": "1. Bạn có gặp anh ấy không?",
+       "a": "Did you see him?  →  “Didja see-im?”"
+      },
+      {
+       "vi": "2. Bạn nói lại được không?",
+       "a": "Could you say that again?  →  “Couldja say tha-tagen?”"
+      },
+      {
+       "vi": "3. Tối qua tôi gặp anh ấy.",
+       "a": "I saw him last night.  →  “ai sɔː-im las night”"
+      },
+      {
+       "vi": "4. Bạn có biết anh ấy ở đâu không?",
+       "a": "Do you know where he is?  →  “D'ya know where-i-ziz?”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Mẹo nhớ",
+   "blocks": [
+    {
+     "t": "list",
+     "items": [
+      "<b>Chữ <i>y</i> là chất xúc tác:</b> /t/ gặp nó thành <b>/tʃ/</b>, /d/ gặp nó thành <b>/dʒ/</b>. Nhớ hai công thức này là gỡ được phần lớn câu hỏi.",
+      "<b>Âm chỉ rụng khi vừa khó phát vừa không mang thông tin.</b> Ở cuối câu hay khi được nhấn thì nó quay lại đầy đủ.",
+      "<b>Ba từ hay mất chữ <i>h</i>:</b> <i>him · her · have</i>. <i>tell him</i> → “tellim” nghe y như một từ.",
+      "<b>Đây là luật chuẩn, không phải nói ngọng.</b> Người nói càng tự nhiên thì biến âm càng nhiều.",
+      "<b>Nói thì biến âm, viết thì viết đủ.</b> <i>“wanna”, “shoulda”</i> chỉ tồn tại trong lời nói — viết ra là <i>want to</i>, <i>should have</i>.",
+      "<b>Bài tập 2 phút:</b> lấy năm câu hỏi mở đầu bằng <i>Do/Did/Would/Could you</i>, đọc nhanh dần cho tới khi ra “didja”, “wouldja”."
+     ]
+    }
+   ]
+  }
+ ]
+}

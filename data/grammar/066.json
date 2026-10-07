@@ -1,0 +1,243 @@
+{
+  "id": 66,
+  "group": "Nhóm 11 · Mệnh đề & Dạng câu",
+  "title": "He asked where I lived · She told me to wait",
+  "subtitle": "Bài 47 đã dạy tường thuật câu kể. Còn hai loại câu nữa chiếm quá nửa lời nói hằng ngày: <b>câu hỏi</b> và <b>mệnh lệnh</b>. Mỗi loại có luật riêng, và luật của câu hỏi chính là cái bẫy dai dẳng nhất: <b>tường thuật xong thì nó hết là câu hỏi</b> — phải trả về trật tự câu kể.",
+  "meaning": "Thuật lại câu hỏi và câu mệnh lệnh của người khác",
+  "rule": [
+    "<em>ask + if / whether</em> + S + V — thuật câu hỏi Yes/No",
+    "<em>ask + wh-</em> + S + V — thuật câu hỏi Wh-, KHÔNG đảo ngữ",
+    "<em>tell / ask + ai + to V</em> — thuật câu mệnh lệnh"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1–B2", "hot": true },
+    { "text": "asked where I lived — không phải where did I live" },
+    { "text": "Không còn dấu hỏi" },
+    { "text": "told me NOT to be late" }
+  ],
+  "frames": [11, 15, 17, 37, 67],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Bài 47 lo câu kể. Bài này lo hai loại còn lại: <b>câu hỏi</b> và <b>câu mệnh lệnh</b>. Luật lùi thì, đổi đại từ, đổi mốc thời gian giữ nguyên như bài 47 — chỉ khác ở <b>bộ khung</b>." },
+        { "t": "callout", "html": "<b>Nguyên tắc chi phối cả bài:</b> khi đã tường thuật thì câu hỏi <b>thôi không còn là câu hỏi</b>. Nó trở thành một mệnh đề nằm trong câu kể, nên phải theo trật tự câu kể: <b>chủ ngữ đứng trước động từ</b>, không mượn <i>do/does/did</i>, và <b>không có dấu hỏi</b>." },
+        { "t": "h3", "text": "A · Câu hỏi Yes/No → ask + if / whether" },
+        { "t": "table", "head": ["Câu gốc", "Tường thuật", "Đổi gì"], "rows": [
+          ["<i>\"Are you busy?\"</i>", "<i>He asked <b>if I was</b> busy.</i>", "đảo ngữ về trật tự thường + lùi thì"],
+          ["<i>\"Do you like it?\"</i>", "<i>She asked <b>whether I liked</b> it.</i>", "<b>bỏ hẳn <i>do</i></b>, chia thì vào động từ chính"],
+          ["<i>\"Did he call?\"</i>", "<i>They asked <b>if he had called</b>.</i>", "<i>did</i> biến mất, động từ lùi thành hoàn thành"]
+        ] },
+        { "t": "h3", "text": "B · Câu hỏi Wh- → ask + wh- + S + V" },
+        { "t": "table", "head": ["Câu gốc", "Tường thuật", "Đổi gì"], "rows": [
+          ["<i>\"Where do you live?\"</i>", "<i>He asked <b>where I lived</b>.</i>", "giữ <i>where</i>, bỏ <i>do</i>, không đảo"],
+          ["<i>\"What is your name?\"</i>", "<i>She asked <b>what my name was</b>.</i>", "<b>chủ ngữ lên trước <i>was</i></b>"],
+          ["<i>\"Why did you leave?\"</i>", "<i>He asked <b>why I had left</b>.</i>", "<i>did</i> biến mất"]
+        ] },
+        { "t": "callout", "html": "<b>KHÔNG dùng <i>that</i> với câu hỏi.</b> Chữ <i>if / whether / wh-</i> đã làm đúng việc của <i>that</i> rồi. <i>He asked <b>that</b> where I lived</i> ✗" },
+        { "t": "h3", "text": "C · Mệnh lệnh → tell / ask + ai + to V" },
+        { "t": "table", "head": ["Câu gốc", "Tường thuật", "Sắc thái"], "rows": [
+          ["<i>\"Sit down.\"</i>", "<i>He <b>told me to</b> sit down.</i>", "ra lệnh, bảo ban"],
+          ["<i>\"Please help me.\"</i>", "<i>He <b>asked me to</b> help him.</i>", "nhờ vả, lịch sự"],
+          ["<i>\"Don't be late.\"</i>", "<i>She <b>told me not to</b> be late.</i>", "phủ định: <b>not</b> đứng TRƯỚC <i>to</i>"]
+        ] },
+        { "t": "p", "html": "<b>Mệnh lệnh không lùi thì</b> vì nó không có thì. Chỉ cần chọn đúng động từ tường thuật (<i>tell · ask · warn · remind…</i>) rồi gắn <b>to V</b>." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        { "t": "h3", "text": "Lùi thì — y hệt bài 47" },
+        { "t": "table", "head": ["Câu gốc", "Khi tường thuật", "Ví dụ"], "rows": [
+          ["hiện tại đơn", "quá khứ đơn", "<i>\"Where do you work?\" → where I <b>worked</b></i>"],
+          ["hiện tại tiếp diễn", "quá khứ tiếp diễn", "<i>\"What are you doing?\" → what I <b>was doing</b></i>"],
+          ["quá khứ đơn", "quá khứ hoàn thành", "<i>\"Did you go?\" → if I <b>had gone</b></i>"],
+          ["hiện tại hoàn thành", "quá khứ hoàn thành", "<i>\"Have you eaten?\" → if I <b>had eaten</b></i>"],
+          ["will", "would", "<i>\"Will you come?\" → if I <b>would</b> come</i>"],
+          ["can", "could", "<i>\"Can you swim?\" → if I <b>could</b> swim</i>"],
+          ["must / have to", "had to", "<i>\"Must you go?\" → if I <b>had to</b> go</i>"]
+        ] },
+        { "t": "h3", "text": "Chọn động từ tường thuật cho mệnh lệnh" },
+        { "t": "table", "head": ["Động từ", "Dùng khi", "Ví dụ"], "rows": [
+          ["<code>tell sb to</code>", "bảo, ra lệnh — người trên nói người dưới", "<i>She told me to wait.</i>"],
+          ["<code>ask sb to</code>", "nhờ vả — có <i>please</i> ở câu gốc", "<i>He asked me to open the door.</i>"],
+          ["<code>order sb to</code>", "ra lệnh dứt khoát", "<i>The officer ordered them to stop.</i>"],
+          ["<code>warn sb not to</code>", "cảnh báo", "<i>He warned me not to touch it.</i>"],
+          ["<code>remind sb to</code>", "nhắc nhở việc đã hẹn", "<i>She reminded me to call back.</i>"],
+          ["<code>advise sb to</code>", "khuyên", "<i>The doctor advised me to rest.</i>"],
+          ["<code>invite sb to</code>", "mời", "<i>They invited us to join them.</i>"],
+          ["<code>beg sb to</code>", "nài nỉ", "<i>He begged her to stay.</i>"]
+        ] },
+        { "t": "h3", "text": "Mười hai câu mẫu để nhập tâm" },
+        { "t": "ex", "items": [
+          { "en": "He asked where I lived.", "vi": "Anh ấy hỏi tôi sống ở đâu.", "note": "Câu gốc <i>\"Where do you live?\"</i> — <b>bỏ <i>do</i></b>, chủ ngữ trước động từ." },
+          { "en": "She asked what my name was.", "vi": "Cô ấy hỏi tên tôi là gì.", "note": "KHÔNG phải <i>what was my name</i>. Chủ ngữ <i>my name</i> phải đứng trước <i>was</i>." },
+          { "en": "They asked if I was free on Friday.", "vi": "Họ hỏi thứ Sáu tôi có rảnh không.", "note": "Câu hỏi Yes/No dùng <b>if</b>, không có từ để hỏi." },
+          { "en": "He asked whether I had finished the report.", "vi": "Anh ấy hỏi tôi làm xong báo cáo chưa.", "note": "<i>whether</i> trang trọng hơn <i>if</i>, nghĩa giống hệt." },
+          { "en": "She asked me why I had left early.", "vi": "Cô ấy hỏi tôi tại sao về sớm.", "note": "<i>did</i> biến mất, động từ lùi thành quá khứ hoàn thành." },
+          { "en": "The teacher asked how many students had come.", "vi": "Thầy giáo hỏi có bao nhiêu học sinh đã đến.", "note": "Cụm hỏi dài <i>how many students</i> đi nguyên khối." },
+          { "en": "He told me to wait outside.", "vi": "Anh ấy bảo tôi chờ bên ngoài.", "note": "Mệnh lệnh: <b>tell + ai + to V</b>." },
+          { "en": "She told me not to worry.", "vi": "Cô ấy bảo tôi đừng lo.", "note": "Phủ định: <b>not</b> đứng TRƯỚC <i>to</i>, không phải sau." },
+          { "en": "He asked me to send the file again.", "vi": "Anh ấy nhờ tôi gửi lại tệp.", "note": "Câu gốc có <i>please</i> nên dùng <b>ask</b>, không dùng <i>tell</i>." },
+          { "en": "The doctor advised me to rest for a week.", "vi": "Bác sĩ khuyên tôi nghỉ một tuần.", "note": "<i>advise</i> cho lời khuyên chuyên môn." },
+          { "en": "She reminded me to bring my passport.", "vi": "Cô ấy nhắc tôi mang hộ chiếu.", "note": "<i>remind</i> khi việc đó đã hẹn trước." },
+          { "en": "He warned us not to swim there.", "vi": "Anh ấy cảnh báo chúng tôi đừng bơi ở đó.", "note": "<i>warn … not to</i> — bộ đôi đi liền nhau." }
+        ] }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        { "t": "cards", "items": [
+          { "icon": "🗣️", "title": "Kể lại cuộc nói chuyện", "text": "<i>He asked where I lived and I told him.</i> Kỹ năng kể chuyện cơ bản nhất ở B1–B2." },
+          { "icon": "💼", "title": "Thuật lại cuộc họp, email", "text": "<i>She asked whether we could delay the launch.</i> Dùng mỗi ngày ở công sở." },
+          { "icon": "🎤", "title": "Kể lại buổi phỏng vấn", "text": "<i>They asked me why I wanted the job.</i> Đề thi nói hay hỏi đúng chỗ này." },
+          { "icon": "📋", "title": "Truyền lại chỉ thị", "text": "<i>The manager told us to finish by Friday.</i> Gọn hơn trích nguyên văn." },
+          { "icon": "❓", "title": "Hỏi lịch sự, gián tiếp", "text": "<i>Could you tell me where the station is?</i> Cùng luật trật tự từ — xem khung 17 và 67." },
+          { "icon": "🚫", "title": "KHÔNG giữ dấu hỏi", "text": "<i>He asked where I lived<b>?</b></i> ✗ Câu đã thành câu kể, kết bằng dấu chấm." }
+        ] }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Hai mươi tư mục: sáu cách thuật câu hỏi Yes/No, sáu cách thuật câu hỏi Wh-, sáu động từ thuật mệnh lệnh, và sáu động từ nữa để chọn đúng sắc thái." },
+        { "t": "words", "groups": [
+          { "title": "Thuật câu hỏi Yes/No", "items": [
+            { "w": "ask if", "vi": "hỏi xem có … không", "ex": "He asked if I was ready.", "exvi": "Anh ấy hỏi tôi đã sẵn sàng chưa.", "note": "Thông dụng nhất, hợp mọi hoàn cảnh." },
+            { "w": "ask whether", "vi": "hỏi liệu … hay không", "ex": "She asked whether the shop was open.", "exvi": "Cô ấy hỏi cửa hàng có mở không.", "note": "Trang trọng hơn <i>if</i> một chút." },
+            { "w": "want to know if", "vi": "muốn biết liệu…", "ex": "They wanted to know if we had paid.", "exvi": "Họ muốn biết chúng tôi đã trả tiền chưa." },
+            { "w": "wonder if", "vi": "không biết liệu…", "ex": "I wondered if he had got my message.", "exvi": "Tôi không biết anh ấy đã nhận tin nhắn chưa.", "note": "Mềm hơn, hợp lúc tự hỏi." },
+            { "w": "whether … or not", "vi": "liệu … hay không", "ex": "He asked whether or not we were coming.", "exvi": "Anh ấy hỏi rốt cuộc chúng tôi có đến hay không.", "note": "Chỉ <b>whether</b> ghép được với <i>or not</i>, <i>if</i> thì không." },
+            { "w": "ask if sb could…", "vi": "hỏi xem ai đó có thể…", "ex": "She asked if I could help her.", "exvi": "Cô ấy hỏi tôi có giúp được không.", "note": "<i>can</i> lùi thành <i>could</i>." }
+          ] },
+          { "title": "Thuật câu hỏi Wh-", "items": [
+            { "w": "ask where", "vi": "hỏi ở đâu", "ex": "He asked where the station was.", "exvi": "Anh ấy hỏi nhà ga ở đâu.", "note": "Chủ ngữ <i>the station</i> đứng TRƯỚC <i>was</i>." },
+            { "w": "ask what", "vi": "hỏi cái gì", "ex": "She asked what I wanted.", "exvi": "Cô ấy hỏi tôi muốn gì." },
+            { "w": "ask when", "vi": "hỏi khi nào", "ex": "They asked when the meeting would start.", "exvi": "Họ hỏi cuộc họp bắt đầu khi nào.", "note": "<i>will</i> lùi thành <i>would</i>." },
+            { "w": "ask why", "vi": "hỏi tại sao", "ex": "He asked why I had refused.", "exvi": "Anh ấy hỏi tại sao tôi từ chối." },
+            { "w": "ask how", "vi": "hỏi bằng cách nào", "ex": "She asked how I had found the place.", "exvi": "Cô ấy hỏi tôi tìm ra chỗ đó bằng cách nào." },
+            { "w": "ask who", "vi": "hỏi ai", "ex": "They asked who had called.", "exvi": "Họ hỏi ai đã gọi.", "note": "<i>who</i> làm chủ ngữ nên không đổi trật tự gì cả." }
+          ] },
+          { "title": "Thuật mệnh lệnh", "items": [
+            { "w": "tell sb to V", "vi": "bảo ai làm gì", "ex": "He told me to wait here.", "exvi": "Anh ấy bảo tôi chờ ở đây." },
+            { "w": "tell sb not to V", "vi": "bảo ai đừng làm gì", "ex": "She told me not to tell anyone.", "exvi": "Cô ấy bảo tôi đừng nói với ai.", "note": "<b>not</b> đứng trước <i>to</i>." },
+            { "w": "ask sb to V", "vi": "nhờ ai làm gì", "ex": "He asked me to sign the form.", "exvi": "Anh ấy nhờ tôi ký vào tờ đơn.", "note": "Dùng khi câu gốc có <i>please</i>." },
+            { "w": "order sb to V", "vi": "ra lệnh cho ai", "ex": "The officer ordered them to stop.", "exvi": "Viên sĩ quan ra lệnh cho họ dừng lại." },
+            { "w": "warn sb not to V", "vi": "cảnh báo ai đừng", "ex": "He warned me not to go alone.", "exvi": "Anh ấy cảnh báo tôi đừng đi một mình." },
+            { "w": "remind sb to V", "vi": "nhắc ai nhớ làm gì", "ex": "She reminded me to lock the door.", "exvi": "Cô ấy nhắc tôi khoá cửa." }
+          ] },
+          { "title": "Sáu động từ để chọn đúng sắc thái", "items": [
+            { "w": "advise sb to V", "vi": "khuyên ai nên", "ex": "The doctor advised him to stop smoking.", "exvi": "Bác sĩ khuyên anh ấy bỏ thuốc." },
+            { "w": "invite sb to V", "vi": "mời ai", "ex": "They invited us to stay for dinner.", "exvi": "Họ mời chúng tôi ở lại ăn tối." },
+            { "w": "encourage sb to V", "vi": "động viên ai", "ex": "She encouraged me to apply.", "exvi": "Cô ấy động viên tôi nộp đơn." },
+            { "w": "beg sb to V", "vi": "nài nỉ ai", "ex": "He begged her not to leave.", "exvi": "Anh ấy nài nỉ cô đừng đi." },
+            { "w": "urge sb to V", "vi": "thúc giục ai", "ex": "They urged us to act quickly.", "exvi": "Họ thúc giục chúng tôi hành động nhanh." },
+            { "w": "offer to V", "vi": "đề nghị sẽ làm gì", "ex": "He offered to drive me home.", "exvi": "Anh ấy đề nghị chở tôi về.", "note": "KHÔNG có tân ngữ: <i>offered to</i>, không phải <i>offered me to</i>." }
+          ] }
+        ] }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        { "t": "pairs", "items": [
+          { "wrong": "He asked where <b>did I live</b>.", "right": "He asked where <b>I lived</b>.", "why": "BẪY SỐ MỘT. Tường thuật xong thì nó hết là câu hỏi — phải về trật tự câu kể. <i>did</i> biến mất và thì chuyển vào động từ chính." },
+          { "wrong": "He asked where <b>do I live</b>.", "right": "He asked where <b>I lived</b>.", "why": "Cùng một lỗi, chỉ khác là quên luôn cả việc lùi thì. Hai việc phải làm cùng lúc: bỏ <i>do</i> VÀ lùi thì." },
+          { "wrong": "She asked what <b>was my name</b>.", "right": "She asked what <b>my name was</b>.", "why": "Bẫy khó thấy nhất. Với <i>be</i> người học hay quên đảo lại — chủ ngữ <i>my name</i> phải đứng TRƯỚC <i>was</i>." },
+          { "wrong": "He asked where I lived<b>?</b>", "right": "He asked where I lived<b>.</b>", "why": "Câu đã thành câu kể nên kết bằng dấu chấm. Giữ dấu hỏi là lỗi bị trừ điểm ngay trong bài viết." },
+          { "wrong": "He asked <b>that</b> where I lived.", "right": "He asked where I lived.", "why": "Thừa <b>that</b>. Chữ <i>where / if / whether</i> đã thay vai trò của <i>that</i>, không dùng cả hai." },
+          { "wrong": "He asked <b>if or not</b> we were coming.", "right": "He asked <b>whether or not</b> we were coming.", "why": "Chỉ <b>whether</b> ghép được với <i>or not</i>. Đây là chỗ duy nhất <i>if</i> và <i>whether</i> không thay nhau được." },
+          { "wrong": "She told me <b>don't be</b> late.", "right": "She told me <b>not to be</b> late.", "why": "Giữ nguyên câu mệnh lệnh gốc. Mẫu đúng là <b>not to V</b> — <i>not</i> đứng trước <i>to</i>." },
+          { "wrong": "She told me <b>to not be</b> late.", "right": "She told me <b>not to be</b> late.", "why": "Đặt <i>not</i> sau <i>to</i>. Văn viết chuẩn luôn để <b>not</b> trước <b>to</b>." },
+          { "wrong": "He <b>said me to</b> wait.", "right": "He <b>told me to</b> wait.", "why": "<i>say</i> không đi thẳng với tân ngữ người. Hoặc dùng <b>told me</b>, hoặc <i>said to me</i> — nhưng mệnh lệnh thì luôn là <b>tell</b>." },
+          { "wrong": "He <b>offered me to</b> drive me home.", "right": "He <b>offered to</b> drive me home.", "why": "<i>offer</i> không nhận tân ngữ người trước <i>to</i>. Khác hẳn <i>tell / ask / advise</i> — những động từ đó bắt buộc phải có người." }
+        ] }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        { "t": "table", "head": ["Loại câu gốc", "Bộ khung tường thuật", "Ví dụ"], "rows": [
+          ["Câu kể (bài 47)", "<code>say / tell + (that) + S + V</code>", "<i>He said that he was tired.</i>"],
+          ["Câu hỏi Yes/No", "<code>ask + if / whether + S + V</code>", "<i>He asked if I was tired.</i>"],
+          ["Câu hỏi Wh-", "<code>ask + wh- + S + V</code>", "<i>He asked why I was tired.</i>"],
+          ["Mệnh lệnh", "<code>tell / ask + sb + to V</code>", "<i>He told me to rest.</i>"],
+          ["Mệnh lệnh phủ định", "<code>tell / ask + sb + not to V</code>", "<i>He told me not to work.</i>"],
+          ["Lời đề nghị tự làm", "<code>offer + to V</code> (không có tân ngữ)", "<i>He offered to help.</i>"]
+        ] },
+        { "t": "h3", "text": "Hỏi một câu là ra ngay" },
+        { "t": "tree", "q": "Câu gốc là loại gì?", "nodes": [
+          { "if": "Câu kể bình thường", "then": "say / tell + that + mệnh đề — bài 47", "ex": "He said that it was late." },
+          { "if": "Câu hỏi trả lời có / không", "then": "ask + if / whether + S + V", "ex": "He asked if it was late." },
+          { "if": "Câu hỏi có từ để hỏi", "then": "ask + wh- + S + V, không đảo ngữ", "ex": "He asked when it had started." },
+          { "if": "Câu sai bảo, có dấu chấm than hoặc please", "then": "tell / ask + ai + to V", "ex": "He told me to hurry." }
+        ] },
+        { "t": "h3", "text": "Thang quyền lực: cùng một việc, khác hẳn người nói là ai" },
+        { "t": "scale", "items": [
+          { "en": "The officer ordered me to stop.", "vi": "Ra lệnh — người có quyền" },
+          { "en": "She told me to stop.", "vi": "Bảo — người trên hoặc ngang hàng thân" },
+          { "en": "They urged me to stop.", "vi": "Thúc giục — khẩn thiết nhưng không có quyền" },
+          { "en": "He asked me to stop.", "vi": "Nhờ — lịch sự, ngang hàng" },
+          { "en": "She begged me to stop.", "vi": "Nài nỉ — ở thế thấp nhất" }
+        ] }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Luật trật tự từ của bài này <b>dùng lại y nguyên</b> cho câu hỏi gián tiếp — nên hai khung 17 và 67 vừa là chỗ áp dụng, vừa là chỗ luyện thêm." },
+        { "t": "link", "items": [
+          { "id": 11, "why": "Could you + V…, please? — đây chính là câu gốc hay được thuật lại thành <i>He asked me to…</i> Học cả cặp thì chuyển đổi hai chiều rất nhanh." },
+          { "id": 15, "why": "Please + V / Please don't + V — hai dạng mệnh lệnh gốc, thuật lại thành <i>asked me to…</i> và <i>told me not to…</i>" },
+          { "id": 17, "why": "Could you tell me + wh-…? — CÙNG luật trật tự từ: <i>Could you tell me where the station <b>is</b>?</i> chứ không phải <i>where is the station</i>." },
+          { "id": 37, "why": "I suggest (that) you + V — họ hàng gần với <i>advise sb to V</i>; so hai cách để thấy sắc thái khác nhau." },
+          { "id": 67, "why": "Do you know + wh-…? — khung hỏi gián tiếp thông dụng nhất, luyện đúng cái bẫy đảo ngữ của bài này." }
+        ] }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A · Thuật lại câu hỏi" },
+        { "t": "quiz", "items": [
+          { "vi": "\"Where do you live?\" — anh ấy hỏi.", "blank": "He asked __________.", "a": "where I lived — bỏ do, chủ ngữ trước động từ" },
+          { "vi": "\"What is your name?\" — cô ấy hỏi.", "blank": "She asked __________.", "a": "what my name was — chủ ngữ đứng trước was" },
+          { "vi": "\"Are you free on Friday?\" — họ hỏi.", "blank": "They asked __________.", "a": "if I was free on Friday" },
+          { "vi": "\"Did you call him?\" — cô ấy hỏi.", "blank": "She asked __________.", "a": "if I had called him — did biến mất, lùi thành quá khứ hoàn thành" },
+          { "vi": "\"Why did you leave early?\" — anh ấy hỏi.", "blank": "He asked __________.", "a": "why I had left early" },
+          { "vi": "\"Can you swim?\" — thầy hỏi.", "blank": "The teacher asked __________.", "a": "if I could swim — can lùi thành could" }
+        ] },
+        { "t": "h3", "text": "B · Thuật lại mệnh lệnh — chọn đúng động từ" },
+        { "t": "quiz", "items": [
+          { "vi": "\"Wait here.\" — anh ấy bảo tôi.", "blank": "He __________ wait here.  (told me to / said me to)", "a": "told me to — say không đi thẳng với tân ngữ người" },
+          { "vi": "\"Don't be late.\" — cô ấy bảo tôi.", "blank": "She told me __________ late.  (not to be / to not be / don't be)", "a": "not to be — not đứng trước to" },
+          { "vi": "\"Please sign here.\" — anh ấy nhờ tôi.", "blank": "He __________ sign there.  (asked me to / told me to)", "a": "asked me to — câu gốc có please nên là nhờ vả" },
+          { "vi": "\"Remember to bring your passport.\" — cô ấy nói.", "blank": "She __________ bring my passport.  (reminded me to / warned me to)", "a": "reminded me to" },
+          { "vi": "\"I'll drive you home.\" — anh ấy nói.", "blank": "He __________ drive me home.  (offered to / offered me to)", "a": "offered to — offer không nhận tân ngữ người" }
+        ] },
+        { "t": "h3", "text": "C · Dịch cả câu" },
+        { "t": "quiz", "items": [
+          { "vi": "1. Họ hỏi tôi tại sao tôi muốn công việc này.", "a": "They asked me why I wanted the job." },
+          { "vi": "2. Cô ấy hỏi liệu chúng tôi có đến hay không.", "a": "She asked whether or not we were coming." },
+          { "vi": "3. Anh ấy cảnh báo chúng tôi đừng bơi ở đó.", "a": "He warned us not to swim there." },
+          { "vi": "4. Bác sĩ khuyên tôi nghỉ một tuần.", "a": "The doctor advised me to rest for a week." },
+          { "vi": "5. Thầy giáo hỏi có bao nhiêu học sinh đã đến.", "a": "The teacher asked how many students had come." }
+        ] }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>Câu thần chú: \"thuật xong thì hết hỏi\".</b> Không đảo ngữ, không <i>do/does/did</i>, không dấu hỏi. Nhớ một câu này là tránh được ba lỗi nặng nhất của bài.",
+          "<b>Thử bằng cách đọc to phần sau <i>asked</i>.</b> Nếu nghe vẫn ra một câu hỏi thì chắc chắn sai. Nó phải nghe như một mệnh đề kể bình thường.",
+          "<b>Có từ để hỏi thì giữ từ đó, không có thì mượn <i>if</i>.</b> Đó là toàn bộ khác biệt giữa hai loại câu hỏi.",
+          "<b>Chỉ <i>whether</i> đi được với <i>or not</i>.</b> Đây là chỗ duy nhất <i>if</i> và <i>whether</i> không thay nhau được — nhớ riêng đúng một ngoại lệ này.",
+          "<b>Mệnh lệnh không có thì nên không lùi thì.</b> Việc duy nhất phải làm là chọn động từ đúng sắc thái rồi gắn <b>to V</b>, phủ định thì <b>not to V</b>.",
+          "<b>Phân biệt <i>tell</i> và <i>ask</i> bằng chữ <i>please</i>:</b> câu gốc có <i>please</i> thì dùng <b>ask</b>, không có thì dùng <b>tell</b>."
+        ] }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "id": 5,
+  "group": "Nhóm 1 · Phát âm — gỡ chặn cả nghe lẫn nói",
+  "title": "Trọng âm từ & trọng âm câu",
+  "subtitle": "Tiếng Việt mọi âm tiết đều nặng như nhau nên người Việt đọc tiếng Anh đều đều, không nhịp. Nhưng tiếng Anh dựa vào trọng âm để nhận ra từ — đặt sai chỗ là người nghe không ra từ đó, dù phát âm từng âm đều đúng.",
+  "meaning": "Nhấn đúng âm tiết và đúng từ trong câu",
+  "rule": [
+    "Mỗi từ nhiều âm tiết có <em>đúng một</em> âm tiết nhấn",
+    "Âm tiết không nhấn bị <em>nuốt thành /ə/</em>",
+    "Trong câu: <em>từ mang nghĩa</em> nhấn, <em>từ chức năng</em> nhẹ"
+  ],
+  "tags": [
+    { "text": "Mức độ: nền móng", "hot": true },
+    { "text": "REcord ≠ reCORD" },
+    { "text": "Tiếng Anh có nhịp, tiếng Việt thì không" },
+    { "text": "Ảnh hưởng: rất lớn" }
+  ],
+  "frames": [41, 61, 68, 70, 89],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Tiếng Việt là ngôn ngữ <b>đơn âm có thanh điệu</b>: mỗi âm tiết một thanh, và <b>mọi âm tiết đều rõ như nhau</b>. Tiếng Anh ngược lại — nó có <b>nhịp</b>: vài âm tiết nổi hẳn lên, phần còn lại bị nén lại gần như biến mất." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — đọc đều đều, không có âm tiết nào nổi:</b><br><i>computer</i> đọc “com-piu-tơ” (ba nhịp bằng nhau) ✗ → đúng là <b>com-<b>PIU</b>-tơ</b> /kəmˈpjuːtə/<br>Chú ý âm đầu: <i>com-</i> không đọc là “com” mà nén thành <b>/kə/</b>.<br>Đây là lý do nhiều người Việt phát âm từng âm đều chuẩn mà người nghe vẫn <b>không nhận ra từ</b> — vì họ nhận từ qua <b>hình nhịp</b>, không phải qua từng âm rời." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — trọng âm đổi theo TỪ LOẠI:</b><br>Khoảng hai chục cặp danh từ/động từ viết giống hệt nhau, chỉ khác chỗ nhấn:<br>• <i>a <b>RE</b>cord</i> (bản ghi) ≠ <i>to re<b>CORD</b></i> (ghi âm)<br>• <i>a <b>PRE</b>sent</i> (món quà) ≠ <i>to pre<b>SENT</b></i> (trình bày)<br><b>Luật:</b> danh từ nhấn <b>đầu</b>, động từ nhấn <b>sau</b>. Nhấn sai là người nghe hiểu sang từ loại khác và câu thành vô nghĩa." },
+        { "t": "h3", "text": "Bốn điều phải nắm" },
+        {
+          "t": "table",
+          "head": ["Điều", "Nội dung", "Ví dụ"],
+          "rows": [
+            ["Một từ, một trọng âm", "Chỉ một âm tiết nổi, dù từ dài bao nhiêu", "com-<b>PU</b>-ter"],
+            ["Âm không nhấn → /ə/", "Nguyên âm bị nén, gần như mất", "<b>ba</b>-nana → /bəˈnɑːnə/"],
+            ["Danh từ ≠ động từ", "Danh từ nhấn đầu, động từ nhấn sau", "<b>RE</b>cord ≠ re<b>CORD</b>"],
+            ["Câu có nhịp riêng", "Từ mang nghĩa nhấn, từ chức năng nhẹ", "I <b>WANT</b> to <b>GO</b> <b>HOME</b>"]
+          ]
+        },
+        { "t": "p", "html": "Điều thứ tư là nền của cả kỹ năng nghe: từ chức năng bị nén chính là <b>dạng yếu</b> — chủ đề của [Kỹ năng 09]." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Loại từ / hậu tố", "Trọng âm rơi vào", "Ví dụ"],
+          "rows": [
+            ["Danh từ 2 âm tiết", "Âm tiết <b>đầu</b> (khoảng 90%)", "<b>TA</b>ble · <b>WA</b>ter · <b>DOC</b>tor"],
+            ["Động từ 2 âm tiết", "Âm tiết <b>sau</b> (khoảng 70%)", "de<b>CIDE</b> · for<b>GET</b> · be<b>GIN</b>"],
+            ["Cặp danh từ / động từ", "Đầu / sau", "<b>RE</b>cord ≠ re<b>CORD</b>"],
+            ["<code>-tion · -sion · -cian</code>", "Ngay <b>trước</b> hậu tố", "informa<b>TION</b> → infor<b>MA</b>tion"],
+            ["<code>-ity · -ical · -ity</code>", "Ngay trước hậu tố", "a<b>BI</b>lity · e<b>CO</b>nomical"],
+            ["<code>-ic</code>", "Ngay trước hậu tố", "fan<b>TAS</b>tic · eco<b>NO</b>mic"],
+            ["<code>-ee · -eer · -ese</code>", "Vào <b>chính</b> hậu tố", "employ<b>EE</b> · engi<b>NEER</b> · Vietnam<b>ESE</b>"],
+            ["<code>-ate</code> động từ", "Lùi hai âm tiết", "<b>CO</b>mmunicate · <b>E</b>ducate"],
+            ["Danh từ ghép", "Nhấn <b>từ đầu</b>", "<b>BUS</b> stop · <b>CRE</b>dit card"],
+            ["Tính từ ghép", "Nhấn <b>từ sau</b>", "well-<b>KNOWN</b> · old-<b>FA</b>shioned"],
+            ["Thêm hậu tố nhỏ", "Trọng âm <b>không đổi</b>", "<b>BEAU</b>ty → <b>BEAU</b>tiful"],
+            ["Trọng âm câu", "Từ mang nghĩa", "I <b>WANT</b> to <b>GO</b> <b>HOME</b>"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Hai hàng cuối bảng là chỗ nối sang ngữ pháp:</b> danh từ ghép nhấn từ đầu (<i><b>BUS</b> stop</i>) còn tính từ ghép nhấn từ sau (<i>well-<b>KNOWN</b></i>) — cùng luật với [Ngữ pháp 58]. Nói sai trọng âm thì <i>a <b>GREEN</b>house</i> (nhà kính) thành <i>a green <b>HOUSE</b></i> (ngôi nhà màu xanh)." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I need a new computer.", "vi": "Tôi cần một cái máy tính mới.", "note": "BẪY SỐ MỘT: com-<b>PU</b>-ter, âm đầu nén thành /kə/." },
+            { "en": "That's a great record.", "vi": "Đó là một bản thu hay.", "note": "<b>RE</b>cord — danh từ, nhấn đầu." },
+            { "en": "I'll record the meeting.", "vi": "Tôi sẽ ghi âm cuộc họp.", "note": "BẪY SỐ HAI: re<b>CORD</b> — động từ, nhấn sau." },
+            { "en": "Thanks for the present!", "vi": "Cảm ơn món quà nhé!", "note": "<b>PRE</b>sent — danh từ. Xem [Khung 89]." },
+            { "en": "He'll present the report.", "vi": "Anh ấy sẽ trình bày báo cáo.", "note": "pre<b>SENT</b> — động từ." },
+            { "en": "Could you give me more information?", "vi": "Cho tôi xin thêm thông tin?", "note": "infor<b>MA</b>tion — <i>-tion</i> kéo trọng âm về ngay trước nó." },
+            { "en": "I'm an engineer.", "vi": "Tôi là kỹ sư.", "note": "engi<b>NEER</b> — <i>-eer</i> nhận chính trọng âm." },
+            { "en": "I'm Vietnamese.", "vi": "Tôi là người Việt.", "note": "Vietnam<b>ESE</b> — cùng luật. Xem [Khung 74]." },
+            { "en": "What do you mean by that?", "vi": "Ý bạn là gì?", "note": "Nhấn vào <b>MEAN</b> và <b>THAT</b>. Xem [Khung 68]." },
+            { "en": "I think it's a good idea.", "vi": "Tôi nghĩ đó là ý hay.", "note": "<b>THINK</b>, <b>GOOD</b>, i<b>DE</b>a nổi; <i>it's a</i> nén lại. Xem [Khung 41]." },
+            { "en": "I'll wait at the bus stop.", "vi": "Tôi đợi ở điểm xe buýt.", "note": "<b>BUS</b> stop — danh từ ghép nhấn từ đầu. Xem [Ngữ pháp 58]." },
+            { "en": "He's a well-known writer.", "vi": "Ông ấy là nhà văn nổi tiếng.", "note": "well-<b>KNOWN</b> — tính từ ghép nhấn từ sau." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào cần để ý nhất",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🆕", "title": "Học một từ mới", "text": "Ghi luôn chỗ nhấn, đừng chỉ ghi nghĩa." },
+            { "icon": "🔁", "title": "Từ vừa là danh từ vừa là động từ", "text": "<i>record, present, increase, export</i>" },
+            { "icon": "📣", "title": "Muốn nhấn mạnh một ý", "text": "Đổi từ được nhấn là đổi ý cả câu." },
+            { "icon": "❓", "title": "Hỏi lại cho rõ", "text": "<i>What do you MEAN by that?</i> Xem [Khung 68]." },
+            { "icon": "🎧", "title": "Luyện nghe", "text": "Tai bắt nhịp trước, bắt từ sau." },
+            { "icon": "🚫", "title": "Đừng làm…", "text": "Đừng đọc đều đều từng âm tiết như tiếng Việt." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay gặp",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem trọng âm rơi vào đâu và vì sao. Chữ <b>IN HOA</b> là âm tiết được nhấn." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Trọng âm theo hậu tố",
+              "items": [
+                { "w": "com-PU-ter", "vi": "máy tính", "ex": "I need a new computer.", "exvi": "Tôi cần máy tính mới.", "note": "BẪY SỐ MỘT: âm đầu nén thành /kə/, không đọc rõ “com”." },
+                { "w": "infor-MA-tion", "vi": "thông tin", "ex": "Could you give me more information?", "exvi": "Cho tôi xin thêm thông tin?", "note": "<i>-tion</i> kéo trọng âm về ngay trước nó." },
+                { "w": "deci-SION", "vi": "quyết định", "ex": "It's your decision.", "exvi": "Đó là quyết định của bạn." },
+                { "w": "a-BI-lity", "vi": "khả năng", "ex": "He has the ability to lead.", "exvi": "Anh ấy có khả năng lãnh đạo.", "note": "<i>-ity</i> cùng luật với <i>-tion</i>." },
+                { "w": "fan-TAS-tic", "vi": "tuyệt vời", "ex": "That sounds fantastic!", "exvi": "Nghe tuyệt quá! Xem [Khung 85]." },
+                { "w": "eco-NO-mic", "vi": "thuộc kinh tế", "ex": "It's an economic problem.", "exvi": "Đó là vấn đề kinh tế." },
+                { "w": "engi-NEER", "vi": "kỹ sư", "ex": "I'm an engineer.", "exvi": "Tôi là kỹ sư.", "note": "<i>-eer</i> nhận CHÍNH trọng âm, khác hẳn <i>-tion</i>." },
+                { "w": "employ-EE", "vi": "nhân viên", "ex": "She's a new employee.", "exvi": "Cô ấy là nhân viên mới.", "note": "So sánh: em-<b>PLOY</b>-er (chủ) nhấn khác chỗ." },
+                { "w": "Vietnam-ESE", "vi": "người Việt", "ex": "I'm Vietnamese.", "exvi": "Tôi là người Việt. Xem [Khung 74]." },
+                { "w": "co-MMU-nicate", "vi": "giao tiếp", "ex": "We communicate by email.", "exvi": "Bọn tôi trao đổi qua email." },
+                { "w": "BEAU-tiful", "vi": "đẹp", "ex": "What a beautiful day!", "exvi": "Ngày đẹp quá! Xem [Khung 89]." },
+                { "w": "i-DE-a", "vi": "ý tưởng", "ex": "I think it's a good idea.", "exvi": "Tôi nghĩ đó là ý hay.", "note": "Nhấn giữa — người Việt hay nhấn đầu thành “AI-đia”." }
+              ]
+            },
+            {
+              "title": "Cặp danh từ / động từ đổi trọng âm",
+              "items": [
+                { "w": "RE-cord / re-CORD", "vi": "bản ghi / ghi âm", "ex": "I'll record that record.", "exvi": "Tôi sẽ ghi âm bản thu đó.", "note": "BẪY SỐ HAI: danh từ nhấn đầu, động từ nhấn sau." },
+                { "w": "PRE-sent / pre-SENT", "vi": "món quà / trình bày", "ex": "He'll present the present.", "exvi": "Anh ấy sẽ trao món quà." },
+                { "w": "IN-crease / in-CREASE", "vi": "sự tăng / tăng lên", "ex": "Prices increase every year.", "exvi": "Năm nào giá cũng tăng." },
+                { "w": "DE-crease / de-CREASE", "vi": "sự giảm / giảm đi", "ex": "There's been a decrease.", "exvi": "Có sự sụt giảm." },
+                { "w": "EX-port / ex-PORT", "vi": "hàng xuất / xuất khẩu", "ex": "We export rice.", "exvi": "Bọn tôi xuất khẩu gạo." },
+                { "w": "IM-port / im-PORT", "vi": "hàng nhập / nhập khẩu", "ex": "They import machines.", "exvi": "Họ nhập máy móc." },
+                { "w": "PRO-gress / pro-GRESS", "vi": "tiến bộ / tiến triển", "ex": "We're making progress.", "exvi": "Bọn tôi đang tiến triển." },
+                { "w": "OB-ject / ob-JECT", "vi": "đồ vật / phản đối", "ex": "I object to that.", "exvi": "Tôi phản đối điều đó." },
+                { "w": "CON-tract / con-TRACT", "vi": "hợp đồng / co lại", "ex": "Please sign the contract.", "exvi": "Xin ký hợp đồng." },
+                { "w": "BUS stop", "vi": "điểm xe buýt", "ex": "I'll wait at the bus stop.", "exvi": "Tôi đợi ở điểm buýt.", "note": "Danh từ ghép nhấn TỪ ĐẦU. Xem [Ngữ pháp 58]." },
+                { "w": "well-KNOWN", "vi": "nổi tiếng", "ex": "He's a well-known writer.", "exvi": "Ông ấy là nhà văn nổi tiếng.", "note": "Tính từ ghép nhấn TỪ SAU — ngược với danh từ ghép." },
+                { "w": "GREEN-house / green HOUSE", "vi": "nhà kính / ngôi nhà xanh", "ex": "It's a greenhouse.", "exvi": "Đó là nhà kính.", "note": "Chỉ trọng âm phân biệt hai nghĩa." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<i>computer</i> đọc <b>“com-piu-tơ”</b> đều ba nhịp", "right": "<b>com-PIU-tơ</b> /kəmˈpjuːtə/", "why": "BẪY SỐ MỘT: phải có đúng một âm tiết nổi, các âm còn lại nén lại." },
+            { "wrong": "<i>I'll record it</i> đọc <b>“RE-cord”</b>", "right": "<b>re-CORD</b>", "why": "BẪY SỐ HAI: là động từ nên nhấn âm sau. Nhấn đầu thì người nghe hiểu thành danh từ." },
+            { "wrong": "<i>information</i> đọc <b>“IN-formation”</b>", "right": "<b>infor-MA-tion</b>", "why": "Hậu tố <i>-tion</i> luôn kéo trọng âm về âm tiết ngay trước nó." },
+            { "wrong": "<i>idea</i> đọc <b>“AI-đia”</b>", "right": "<b>i-DE-a</b> /aɪˈdɪə/", "why": "Trọng âm ở giữa, không ở đầu." },
+            { "wrong": "<i>engineer</i> đọc <b>“EN-gineer”</b>", "right": "<b>engi-NEER</b>", "why": "<i>-eer</i> nhận chính trọng âm — khác hẳn luật <i>-tion</i>." },
+            { "wrong": "<i>Vietnamese</i> đọc <b>“vi-ET-namese”</b>", "right": "<b>Vietnam-ESE</b>", "why": "<i>-ese</i> cùng nhóm với <i>-ee</i> và <i>-eer</i>." },
+            { "wrong": "<i>a bus stop</i> đọc <b>“bus STOP”</b>", "right": "<b>“BUS stop”</b>", "why": "Danh từ ghép nhấn TỪ ĐẦU. Xem [Ngữ pháp 58]." },
+            { "wrong": "<i>a well-known writer</i> đọc <b>“WELL-known”</b>", "right": "<b>“well-KNOWN”</b>", "why": "Tính từ ghép nhấn TỪ SAU — ngược với danh từ ghép." },
+            { "wrong": "<i>I want to go home</i> đọc đều cả sáu từ", "right": "<b>I WANT to GO HOME</b>", "why": "Từ chức năng (<i>to</i>) phải nén lại thì câu mới có nhịp. Xem [Kỹ năng 09]." },
+            { "wrong": "<i>beautiful</i> đọc <b>“beau-TI-ful”</b>", "right": "<b>BEAU-tiful</b>", "why": "Thêm hậu tố nhỏ thì trọng âm GIỮ NGUYÊN chỗ cũ của <i>beauty</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với lỗi gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["Trọng âm từ / trọng âm câu", "Trong một từ / giữa các từ", "com-PU-ter ≠ I WANT to GO"],
+            ["Danh từ / động từ cùng mặt chữ", "Nhấn đầu / nhấn sau", "RE-cord ≠ re-CORD"],
+            ["<code>-tion · -ity · -ic</code>", "Nhấn NGAY TRƯỚC hậu tố", "infor-MA-tion"],
+            ["<code>-ee · -eer · -ese</code>", "Nhấn VÀO hậu tố", "engi-NEER"],
+            ["Danh từ ghép / tính từ ghép", "Nhấn từ đầu / từ sau", "BUS stop ≠ well-KNOWN"],
+            ["Hậu tố nhỏ", "Trọng âm không đổi", "BEAU-ty → BEAU-tiful"],
+            ["Âm nhấn / âm nén", "Rõ và dài / nén thành /ə/", "com- → /kə/"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: nhấn vào đâu?" },
+        {
+          "t": "tree",
+          "q": "Bạn gặp một từ nhiều âm tiết — trọng âm rơi vào đâu?",
+          "nodes": [
+            { "if": "Kết thúc bằng -tion, -sion, -ity, -ic", "then": "Âm tiết NGAY TRƯỚC hậu tố", "ex": "infor-MA-tion · a-BI-lity" },
+            { "if": "Kết thúc bằng -ee, -eer, -ese", "then": "Vào CHÍNH hậu tố", "ex": "employ-EE · engi-NEER" },
+            { "if": "Danh từ hai âm tiết", "then": "Thường nhấn ĐẦU", "ex": "TA-ble · DOC-tor" },
+            { "if": "Động từ hai âm tiết", "then": "Thường nhấn SAU", "ex": "de-CIDE · be-GIN" },
+            { "if": "Danh từ ghép (hai danh từ)", "then": "Nhấn từ ĐẦU", "ex": "BUS stop · CRE-dit card" },
+            { "if": "Đang nói cả câu", "then": "Nhấn từ MANG NGHĨA, nén từ chức năng", "ex": "I WANT to GO HOME" }
+          ]
+        },
+        { "t": "h3", "text": "Đổi chỗ nhấn là đổi ý cả câu" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I didn't say he stole it.", "vi": "Trung tính" },
+            { "en": "I didn't say he stole it.  (nhấn I)", "vi": "Người khác nói, không phải tôi" },
+            { "en": "I didn't SAY he stole it.", "vi": "Tôi có nghĩ nhưng không nói ra" },
+            { "en": "I didn't say HE stole it.", "vi": "Người khác lấy, không phải anh ta" },
+            { "en": "I didn't say he STOLE it.", "vi": "Anh ta mượn chứ không trộm" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kỹ năng này dùng ở đâu",
+      "blocks": [
+        { "t": "p", "html": "Trọng âm quyết định người nghe có nhận ra từ của bạn không. Bấm vào để luyện trên câu thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 68, "why": "What do you mean by + N? — hỏi lại cho rõ, trọng âm câu quyết định bạn đang hỏi về cái gì." },
+            { "id": 70, "why": "What's + N + like? — câu mô tả dài, cần nhịp rõ mới dễ nghe." },
+            { "id": 41, "why": "I think (that) + mệnh đề — nhấn vào từ mang nghĩa, nén it's a." },
+            { "id": 89, "why": "What a + tính từ + danh từ! — câu cảm thán sống bằng trọng âm." },
+            { "id": 61, "why": "What time…? / When…? — nhấn sai chỗ là người nghe trả lời nhầm thứ bạn hỏi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Trọng âm rơi vào âm tiết nào?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "máy tính", "blank": "com-pu-ter  →  nhấn âm tiết số __", "a": "2 — com-PU-ter" },
+            { "vi": "thông tin", "blank": "in-for-ma-tion  →  nhấn âm tiết số __", "a": "3 — infor-MA-tion" },
+            { "vi": "kỹ sư", "blank": "en-gi-neer  →  nhấn âm tiết số __", "a": "3 — engi-NEER" },
+            { "vi": "ý tưởng", "blank": "i-de-a  →  nhấn âm tiết số __", "a": "2 — i-DE-a" },
+            { "vi": "đẹp", "blank": "beau-ti-ful  →  nhấn âm tiết số __", "a": "1 — BEAU-tiful" },
+            { "vi": "khả năng", "blank": "a-bi-li-ty  →  nhấn âm tiết số __", "a": "2 — a-BI-lity" },
+            { "vi": "người Việt", "blank": "viet-nam-ese  →  nhấn âm tiết số __", "a": "3 — Vietnam-ESE" },
+            { "vi": "tuyệt vời", "blank": "fan-tas-tic  →  nhấn âm tiết số __", "a": "2 — fan-TAS-tic" }
+          ]
+        },
+        { "t": "h3", "text": "B. Danh từ hay động từ — nhấn ở đâu?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi sẽ ghi âm cuộc họp.", "blank": "I'll record the meeting.  →  (a) RE-cord  (b) re-CORD", "a": "(b) — động từ" },
+            { "vi": "Đó là một bản thu hay.", "blank": "That's a great record.  →  (a) RE-cord  (b) re-CORD", "a": "(a) — danh từ" },
+            { "vi": "Tôi đợi ở điểm xe buýt.", "blank": "the bus stop  →  (a) BUS stop  (b) bus STOP", "a": "(a) — danh từ ghép" },
+            { "vi": "nhà văn nổi tiếng", "blank": "a well-known writer  →  (a) WELL-known  (b) well-KNOWN", "a": "(b) — tính từ ghép" }
+          ]
+        },
+        { "t": "h3", "text": "C. Đọc to, vỗ tay vào đúng âm tiết nhấn" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi cần một cái máy tính mới.", "a": "I NEED a new com-PU-ter." },
+            { "vi": "2. Cho tôi xin thêm thông tin?", "a": "Could you GIVE me MORE infor-MA-tion?" },
+            { "vi": "3. Tôi sẽ ghi âm cuộc họp.", "a": "I'll re-CORD the MEE-ting." },
+            { "vi": "4. Tôi nghĩ đó là một ý hay.", "a": "I THINK it's a GOOD i-DE-a." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Một từ, một đỉnh.</b> Dù từ dài mấy âm tiết, chỉ <b>một</b> âm tiết được nổi lên — phần còn lại nén xuống.",
+            "<b>Học từ mới thì ghi luôn chỗ nhấn.</b> Biết nghĩa mà nhấn sai thì người nghe vẫn không ra từ.",
+            "<b>Danh từ nhấn đầu, động từ nhấn sau</b> — đúng cho khoảng hai chục cặp như <i>record, present, export, increase</i>.",
+            "<b>Hai nhóm hậu tố ngược nhau:</b> <i>-tion/-ity/-ic</i> nhấn <b>ngay trước</b> · <i>-ee/-eer/-ese</i> nhấn <b>vào chính</b> hậu tố.",
+            "<b>Danh từ ghép nhấn từ đầu, tính từ ghép nhấn từ sau:</b> <i><b>BUS</b> stop</i> ↔ <i>well-<b>KNOWN</b></i>. Xem [Ngữ pháp 58].",
+            "<b>Bài tập 2 phút:</b> đọc một câu năm lần, mỗi lần nhấn một từ khác nhau, nghe xem ý câu đổi thế nào."
+          ]
+        }
+      ]
+    }
+  ]
+}

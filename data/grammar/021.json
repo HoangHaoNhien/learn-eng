@@ -1,0 +1,277 @@
+{
+  "id": 21,
+  "group": "Nhóm 2 · Danh từ, mạo từ & lượng từ",
+  "title": "the — ba luật quyết định",
+  "subtitle": "Tiếng Việt không có mạo từ xác định, nên người học hoặc rắc the khắp nơi hoặc bỏ sạch. Thật ra chỉ cần ba luật: cả hai cùng biết là cái nào, duy nhất trên đời, hoặc có phần bổ nghĩa làm nó cụ thể.",
+  "meaning": "Mạo từ xác định — cái mà cả người nói lẫn người nghe đều biết là cái nào",
+  "rule": [
+    "<em>the</em> + cái cả hai cùng biết",
+    "<em>the</em> + thứ duy nhất trên đời",
+    "<em>the</em> + danh từ có phần bổ nghĩa xác định"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2–B1", "hot": true },
+    { "text": "Ba luật là đủ" },
+    { "text": "go to school ≠ go to the school" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [63, 74, 89, 99, 100],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "<b>the</b> có một công việc duy nhất: báo cho người nghe biết rằng <b>bạn và họ đang nói về cùng một thứ cụ thể</b>. Nếu người nghe chưa biết là cái nào thì dùng <i>a/an</i>, hoặc bỏ hẳn mạo từ." },
+        { "t": "callout", "html": "<b>BA LUẬT, chỉ cần nhớ bấy nhiêu:</b><br><b>1. Cả hai cùng biết</b> — <i>I saw a dog. <b>The</b> dog was huge.</i> (đã nhắc rồi)<br><b>2. Duy nhất trên đời</b> — <i><b>the</b> sun, <b>the</b> moon, <b>the</b> internet</i><br><b>3. Có phần bổ nghĩa</b> — <i><b>the</b> book on the table</i>, <i><b>the</b> best</i>, <i><b>the</b> first</i>" },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — <i>the</i> đổi hẳn nghĩa với nơi chốn:</b><br>• <i>go to <b>school</b></i> = đi học (mục đích)<br>• <i>go to <b>the school</b></i> = đến tòa nhà trường (có thể để sửa điện)<br>Cùng luật với <i>bed, hospital, prison, church, work</i>." },
+        { "t": "h3", "text": "Ba luật trong một bảng" },
+        {
+          "t": "table",
+          "head": ["Luật", "Dấu hiệu", "Ví dụ"],
+          "rows": [
+            ["Cả hai cùng biết", "đã nhắc, hoặc rõ trong ngữ cảnh", "Close the door. · The dog was huge."],
+            ["Duy nhất trên đời", "chỉ có một cái như thế", "the sun · the internet · the world"],
+            ["Có phần bổ nghĩa", "theo sau là <i>of</i>, mệnh đề, giới từ", "the book on the table"],
+            ["So sánh nhất & thứ tự", "<i>best, first, only, same</i>", "the best · the first time · the same"]
+          ]
+        },
+        { "t": "p", "html": "Còn lại thì <b>bỏ hẳn mạo từ</b>: tên riêng, tên nước (trừ vài ngoại lệ), danh từ không đếm được nói chung, số nhiều nói chung. Xem [Ngữ pháp 20]." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Tình huống", "Dùng", "Ví dụ"],
+          "rows": [
+            ["Đã nhắc ở câu trước", "<code>the</code>", "I saw a dog. The dog was huge."],
+            ["Rõ trong ngữ cảnh", "<code>the</code>", "Close the door, please."],
+            ["Duy nhất trên đời", "<code>the</code>", "the sun · the moon · the internet"],
+            ["Có bổ nghĩa phía sau", "<code>the</code>", "the book on the table"],
+            ["So sánh nhất", "<code>the</code>", "the best restaurant in town"],
+            ["Số thứ tự", "<code>the</code>", "the first time · the second floor"],
+            ["<code>same</code> và <code>only</code>", "<code>the</code>", "the same thing · the only one"],
+            ["Nhạc cụ", "<code>the</code>", "She plays the piano."],
+            ["Môn thể thao", "không dùng gì", "He plays football."],
+            ["Tên riêng, tên nước", "không dùng gì", "I live in Hanoi. · He's from Vietnam."],
+            ["Nước có <i>Kingdom, States, Republic</i>", "<code>the</code>", "the UK · the USA · the Philippines"],
+            ["Nơi chốn theo MỤC ĐÍCH", "không dùng gì", "go to school · go to bed · at work"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cặp đối lập thú vị:</b> <i>play <b>the</b> piano</i> ✓ (nhạc cụ có <i>the</i>) nhưng <i>play football</i> ✓ (môn thể thao không có). Một chi tiết nhỏ mà làm câu nghe chuẩn hẳn." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I saw a dog. The dog was huge.", "vi": "Tôi thấy một con chó. Con chó đó to lắm.", "note": "LUẬT 1: lần đầu dùng <i>a</i>, nhắc lại thì dùng <b>the</b>." },
+            { "en": "Close the door, please.", "vi": "Đóng cửa giúp tôi với.", "note": "LUẬT 1: cả hai cùng biết là cửa nào — chỉ có một cái trong phòng." },
+            { "en": "The sun rises in the east.", "vi": "Mặt trời mọc ở hướng đông.", "note": "LUẬT 2: duy nhất trên đời." },
+            { "en": "I found it on the internet.", "vi": "Tôi tìm thấy nó trên mạng.", "note": "<i>internet</i> luôn có <b>the</b> — <i>on internet</i> ✗." },
+            { "en": "The book on the table is mine.", "vi": "Quyển sách trên bàn là của tôi.", "note": "LUẬT 3: có cụm <i>on the table</i> làm rõ là quyển nào." },
+            { "en": "It's the best restaurant in town.", "vi": "Đó là nhà hàng ngon nhất vùng.", "note": "So sánh nhất luôn có <b>the</b>." },
+            { "en": "It was the first time I'd been there.", "vi": "Đó là lần đầu tôi đến đó.", "note": "Số thứ tự luôn có <b>the</b>." },
+            { "en": "She plays the piano.", "vi": "Cô ấy chơi dương cầm.", "note": "NHẠC CỤ có <b>the</b>." },
+            { "en": "He plays football every Sunday.", "vi": "Chủ nhật nào anh ấy cũng đá bóng.", "note": "MÔN THỂ THAO thì KHÔNG có <i>the</i>." },
+            { "en": "My son goes to school by bus.", "vi": "Con trai tôi đi học bằng xe buýt.", "note": "BẪY SỐ MỘT: <i>go to school</i> = đi học. Có <i>the</i> thì thành đến tòa nhà." },
+            { "en": "I live in Hanoi.", "vi": "Tôi sống ở Hà Nội.", "note": "Tên riêng không dùng mạo từ. Xem [Khung 74]." },
+            { "en": "He's from the UK.", "vi": "Anh ấy đến từ Vương quốc Anh.", "note": "Nước có chữ <i>Kingdom, States, Republic</i> thì CÓ <b>the</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🔁", "title": "Nhắc lại lần thứ hai", "text": "<i>I saw a dog. The dog was huge.</i>" },
+            { "icon": "🚪", "title": "Rõ trong ngữ cảnh", "text": "<i>Close the door.</i> Chỉ có một cái cửa ở đây." },
+            { "icon": "🌍", "title": "Thứ duy nhất trên đời", "text": "<i>the sun · the internet · the world</i>" },
+            { "icon": "🏆", "title": "So sánh nhất, số thứ tự", "text": "<i>the best · the first time</i>" },
+            { "icon": "🗺️", "title": "Hỏi đường", "text": "<i>How do I get to the station?</i> Xem [Khung 63]." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Tên riêng, môn thể thao, nơi chốn theo mục đích. <i>the Hanoi</i> ✗." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Luôn có the",
+              "items": [
+                { "w": "the sun / the moon", "vi": "mặt trời / mặt trăng", "ex": "The sun rises in the east.", "exvi": "Mặt trời mọc ở hướng đông.", "note": "LUẬT 2: duy nhất trên đời." },
+                { "w": "the internet", "vi": "mạng internet", "ex": "I found it on the internet.", "exvi": "Tôi tìm thấy nó trên mạng.", "note": "<i>on internet</i> ✗ — luôn có <b>the</b>." },
+                { "w": "the world", "vi": "thế giới", "ex": "the best in the world", "exvi": "tốt nhất thế giới" },
+                { "w": "the best / the worst", "vi": "tốt nhất / tệ nhất", "ex": "It's the best restaurant in town.", "exvi": "Đó là nhà hàng ngon nhất vùng.", "note": "So sánh nhất luôn có <b>the</b>. Xem [Ngữ pháp 37]." },
+                { "w": "the first / the second", "vi": "thứ nhất / thứ hai", "ex": "It was the first time.", "exvi": "Đó là lần đầu tiên.", "note": "Số thứ tự luôn có <b>the</b>." },
+                { "w": "the same", "vi": "giống nhau", "ex": "We had the same idea.", "exvi": "Bọn tôi nghĩ giống nhau.", "note": "<i>same</i> không bao giờ đứng một mình — luôn <b>the same</b>." },
+                { "w": "the only one", "vi": "cái duy nhất", "ex": "You're the only one who knows.", "exvi": "Bạn là người duy nhất biết." },
+                { "w": "the piano / the guitar", "vi": "đàn dương cầm / ghi-ta", "ex": "She plays the piano.", "exvi": "Cô ấy chơi dương cầm.", "note": "NHẠC CỤ có <b>the</b>, nhưng môn thể thao thì không." },
+                { "w": "the station / the airport", "vi": "nhà ga / sân bay", "ex": "How do I get to the station?", "exvi": "Đến nhà ga đi thế nào ạ? Xem [Khung 63]." },
+                { "w": "the UK / the USA", "vi": "Anh / Mỹ", "ex": "He's from the UK.", "exvi": "Anh ấy đến từ Anh.", "note": "Nước có <i>Kingdom, States, Republic</i> hoặc tên số nhiều thì CÓ <b>the</b>." },
+                { "w": "the Philippines", "vi": "Philippines", "ex": "She lives in the Philippines.", "exvi": "Cô ấy sống ở Philippines.", "note": "Tên nước ở dạng SỐ NHIỀU thì có <b>the</b>." },
+                { "w": "the book on the table", "vi": "quyển sách trên bàn", "ex": "The book on the table is mine.", "exvi": "Quyển sách trên bàn là của tôi.", "note": "LUẬT 3: có phần bổ nghĩa làm rõ là cái nào." }
+              ]
+            },
+            {
+              "title": "Không dùng the",
+              "items": [
+                { "w": "Hanoi / Vietnam", "vi": "Hà Nội / Việt Nam", "ex": "I live in Hanoi.", "exvi": "Tôi sống ở Hà Nội.", "note": "Tên riêng và hầu hết tên nước không dùng mạo từ. Xem [Khung 74]." },
+                { "w": "football / tennis", "vi": "bóng đá / quần vợt", "ex": "He plays football.", "exvi": "Anh ấy chơi bóng đá.", "note": "MÔN THỂ THAO không có <i>the</i> — khác hẳn nhạc cụ." },
+                { "w": "go to school", "vi": "đi học", "ex": "My son goes to school by bus.", "exvi": "Con trai tôi đi học bằng xe buýt.", "note": "BẪY SỐ MỘT: <i>go to the school</i> = đến tòa nhà trường, nghĩa khác hẳn." },
+                { "w": "go to bed", "vi": "đi ngủ", "ex": "I go to bed at eleven.", "exvi": "Mười một giờ tôi đi ngủ.", "note": "Nói về MỤC ĐÍCH thì bỏ mạo từ." },
+                { "w": "at work / at home", "vi": "ở chỗ làm / ở nhà", "ex": "I'm at work.", "exvi": "Tôi đang ở chỗ làm." },
+                { "w": "in hospital", "vi": "nằm viện", "ex": "He's in hospital.", "exvi": "Anh ấy đang nằm viện.", "note": "Kiểu Anh: không <i>the</i> khi là bệnh nhân. <i>in the hospital</i> = đang ở trong tòa nhà đó." },
+                { "w": "by bus / by car", "vi": "bằng xe buýt / ô tô", "ex": "I go to work by bus.", "exvi": "Tôi đi làm bằng xe buýt.", "note": "Cụm cố định — <i>by the bus</i> ✗." },
+                { "w": "English / maths", "vi": "tiếng Anh / toán", "ex": "I study English.", "exvi": "Tôi học tiếng Anh.", "note": "Ngôn ngữ và môn học không dùng mạo từ." },
+                { "w": "breakfast / lunch", "vi": "bữa sáng / bữa trưa", "ex": "I had lunch at twelve.", "exvi": "Mười hai giờ tôi ăn trưa." },
+                { "w": "coffee (nói chung)", "vi": "cà phê", "ex": "I like coffee.", "exvi": "Tôi thích cà phê.", "note": "Không đếm được, nói chung chung. Xem [Ngữ pháp 19]." },
+                { "w": "books (nói chung)", "vi": "sách", "ex": "I like books.", "exvi": "Tôi thích sách.", "note": "Số nhiều nói CHUNG thì bỏ mạo từ." },
+                { "w": "last week / next month", "vi": "tuần trước / tháng sau", "ex": "I saw him last week.", "exvi": "Tuần trước tôi gặp anh ấy.", "note": "<i>the last week</i> có nghĩa khác — tuần cuối cùng của một khoảng." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I live in <b>the</b> Hanoi.", "right": "I live in Hanoi.", "why": "Tên riêng và tên thành phố không dùng mạo từ. Đây là lỗi rắc <i>the</i> thừa." },
+            { "wrong": "I found it on <b>internet</b>.", "right": "I found it on <b>the internet</b>.", "why": "Ngược lại: <i>internet</i> là thứ duy nhất nên LUÔN có <b>the</b>." },
+            { "wrong": "He plays <b>the</b> football.", "right": "He plays football.", "why": "Môn thể thao KHÔNG có <i>the</i>. Nhưng nhạc cụ thì có: <i>play <b>the</b> piano</i> ✓." },
+            { "wrong": "She plays <b>piano</b>.", "right": "She plays <b>the piano</b>.", "why": "Nhạc cụ luôn có <b>the</b> — cặp đối lập với môn thể thao." },
+            { "wrong": "My son goes to <b>the school</b> by bus. <i>(ý: đi học)</i>", "right": "My son goes to school by bus.", "why": "BẪY SỐ MỘT: <i>go to school</i> = đi học. Thêm <i>the</i> là thành đến tòa nhà trường." },
+            { "wrong": "We had <b>same</b> idea.", "right": "We had <b>the same</b> idea.", "why": "<i>same</i> không bao giờ đứng một mình — luôn đi với <b>the</b>." },
+            { "wrong": "It's <b>best</b> restaurant in town.", "right": "It's <b>the best</b> restaurant in town.", "why": "So sánh nhất luôn có <b>the</b>. Xem [Ngữ pháp 37]." },
+            { "wrong": "He's from <b>UK</b>.", "right": "He's from <b>the UK</b>.", "why": "Nước có chữ <i>Kingdom, States, Republic</i> hoặc tên số nhiều thì CÓ <b>the</b>." },
+            { "wrong": "I go to work by <b>the</b> bus.", "right": "I go to work by bus.", "why": "<b>by + phương tiện</b> là cụm cố định, không có mạo từ." },
+            { "wrong": "I like <b>the</b> coffee. <i>(ý: nói chung)</i>", "right": "I like coffee.", "why": "Nói CHUNG CHUNG thì bỏ mạo từ. Có <i>the</i> thành ra một loại cà phê cụ thể nào đó." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp", "Nghĩa", "Vì sao"],
+          "rows": [
+            ["<code>a dog</code> → <code>the dog</code>", "Lần đầu → nhắc lại", "Người nghe đã biết là con nào"],
+            ["<code>go to school</code> / <code>the school</code>", "Đi học / đến tòa nhà", "Mục đích vs địa điểm"],
+            ["<code>in hospital</code> / <code>the hospital</code>", "Nằm viện / ở trong tòa nhà đó", "Kiểu Anh"],
+            ["<code>play the piano</code> / <code>play football</code>", "Nhạc cụ có the, thể thao không", "Quy ước cố định"],
+            ["<code>Vietnam</code> / <code>the UK</code>", "Tên thường / có Kingdom, States", "Ngoại lệ tên nước"],
+            ["<code>coffee</code> / <code>the coffee</code>", "Nói chung / loại cụ thể", "Xem [Ngữ pháp 19]"],
+            ["<code>a/an</code> / <code>the</code>", "Chưa xác định / đã xác định. Xem [Ngữ pháp 20]", "Người nghe biết chưa"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: có dùng the không?" },
+        {
+          "t": "tree",
+          "q": "Người nghe có biết chính xác bạn đang nói về cái nào không?",
+          "nodes": [
+            { "if": "Đã nhắc ở câu trước, hoặc rõ trong ngữ cảnh", "then": "the", "ex": "Close the door." },
+            { "if": "Thứ duy nhất trên đời", "then": "the", "ex": "the sun · the internet" },
+            { "if": "Có phần bổ nghĩa làm rõ là cái nào", "then": "the", "ex": "the book on the table" },
+            { "if": "So sánh nhất, số thứ tự, same, only", "then": "the", "ex": "the best · the first time" },
+            { "if": "Tên riêng, môn thể thao, nơi chốn theo mục đích", "then": "Không dùng gì", "ex": "I live in Hanoi. · go to school" },
+            { "if": "Đếm được số ít, người nghe chưa biết là cái nào", "then": "a hoặc an", "ex": "I saw a dog." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ xác định" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I like books.", "vi": "Chung chung nhất — không mạo từ" },
+            { "en": "I bought a book.", "vi": "Một cái, chưa rõ cái nào" },
+            { "en": "I bought the book.", "vi": "Cái cụ thể cả hai cùng biết" },
+            { "en": "I bought the book you mentioned.", "vi": "Có bổ nghĩa làm rõ hẳn" },
+            { "en": "I bought this book.", "vi": "Xác định nhất — chỉ tận tay" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Mạo từ <i>the</i> xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 63, "why": "How do I get to…? — hỏi đường luôn dùng the station, the airport, the bank." },
+            { "id": 74, "why": "I'm from… / I live in… — tên riêng và tên nước, khi nào có the khi nào không." },
+            { "id": 100, "why": "There is a book on the table — cặp a và the trong cùng một câu." },
+            { "id": 89, "why": "What a…! — mạo từ trong câu cảm thán, phụ thuộc vào loại danh từ." },
+            { "id": 99, "why": "It takes… — cụm cố định như by bus, at work không dùng mạo từ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền the hoặc không điền gì" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Đóng cửa giúp tôi với.", "blank": "Close __________ door, please.", "a": "the — cả hai cùng biết" },
+            { "vi": "Tôi tìm thấy nó trên mạng.", "blank": "I found it on __________ internet.", "a": "the" },
+            { "vi": "Anh ấy chơi bóng đá.", "blank": "He plays __________ football.", "a": "không điền gì" },
+            { "vi": "Cô ấy chơi dương cầm.", "blank": "She plays __________ piano.", "a": "the" },
+            { "vi": "Con trai tôi đi học bằng xe buýt.", "blank": "My son goes to __________ school by bus.", "a": "không điền gì — đi học" },
+            { "vi": "Tôi sống ở Hà Nội.", "blank": "I live in __________ Hanoi.", "a": "không điền gì" },
+            { "vi": "Anh ấy đến từ Anh.", "blank": "He's from __________ UK.", "a": "the" },
+            { "vi": "Bọn tôi nghĩ giống nhau.", "blank": "We had __________ same idea.", "a": "the" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi thấy một con chó. Con chó đó to lắm.", "blank": "I saw a dog. __________ dog was huge.  (A / The)", "a": "The — đã nhắc rồi" },
+            { "vi": "Đó là nhà hàng ngon nhất vùng.", "blank": "It's __________ best restaurant.  (the / không gì)", "a": "the — so sánh nhất" },
+            { "vi": "Tôi đi làm bằng xe buýt.", "blank": "I go to work by __________ bus.  (the / không gì)", "a": "không gì — cụm cố định" },
+            { "vi": "Tôi thích cà phê (nói chung).", "blank": "I like __________ coffee.  (the / không gì)", "a": "không gì" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Quyển sách trên bàn là của tôi.", "a": "The book on the table is mine." },
+            { "vi": "2. Con trai tôi đi học bằng xe buýt.", "a": "My son goes to school by bus." },
+            { "vi": "3. Đó là nhà hàng ngon nhất vùng.", "a": "It's the best restaurant in town." },
+            { "vi": "4. Tôi tìm thấy nó trên mạng.", "a": "I found it on the internet." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Hỏi một câu trước khi viết:</b> “Người nghe có biết chính xác mình nói cái nào không?” Có thì <i>the</i>, không thì <i>a</i> hoặc bỏ hẳn.",
+            "<b>Ba luật là đủ:</b> cả hai cùng biết · duy nhất trên đời · có phần bổ nghĩa xác định.",
+            "<b>Cặp đối lập phải thuộc:</b> <i>play <b>the</b> piano</i> nhưng <i>play football</i>.",
+            "<b>Nơi chốn theo mục đích thì bỏ <i>the</i>:</b> <i>go to school, go to bed, at work, in hospital</i>.",
+            "<b>Tên nước có <i>Kingdom, States, Republic</i> hoặc số nhiều thì có <i>the</i>:</b> <i>the UK, the USA, the Philippines</i>.",
+            "<b>Bài tập 3 phút:</b> viết năm câu về đường đi quanh nhà bạn — <i>the station, the market, the bank</i> — rồi năm câu về thói quen có <i>go to school, go to bed</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

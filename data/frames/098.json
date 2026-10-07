@@ -1,0 +1,498 @@
+{
+  "id": 98,
+  "group": "Nhóm 10 · Kể chuyện, Kế hoạch & Thời gian",
+  "title": "If I were you, I'd… — Khuyên mà không ra lệnh",
+  "subtitle": "Cách đưa lời khuyên lịch sự nhất tiếng Anh: đặt mình vào vị trí người kia thay vì bảo họ phải làm gì. Hai bẫy: phải là were chứ không phải was dù chủ ngữ là I, và sau I'd luôn là động từ trần.",
+  "pattern": [
+    "If I were you, I'd <em>+ V trần</em>.",
+    "If I <em>+ V2</em>, I'd <em>+ V trần</em>.",
+    "I'd <em>+ V trần</em> if I were you."
+  ],
+  "meaning": "Nếu tôi là bạn, tôi sẽ…",
+  "grammar": [5, 15, 16, 18],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "were, không phải was" },
+    { "text": "I'd + động từ trần" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">If I were you, I'd rest.</span> Đây là cách khuyên lịch sự nhất trong tiếng Anh. Thay vì bảo người ta <i>You should rest</i>, bạn đặt mình vào vị trí của họ — lời khuyên vì thế nghe như chia sẻ chứ không phải ra lệnh." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — <i>were</i> chứ không phải <i>was</i>:</b> <i>If I <b>were</b> you</i> ✓ — <i>If I was you</i> nghe rất bình dân và bị coi là sai trong văn viết. Đây là dạng giả định, áp dụng cho MỌI chủ ngữ: <i>if he were</i>, <i>if she were</i>." },
+        { "t": "p", "html": "Lý do dùng <i>were</i>: câu này nói về điều <b>không có thật</b> — bạn không thể là người kia được. Tiếng Anh dùng một dạng động từ riêng cho những giả định không thật như vậy." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI:</b> <i>I'd</i> là <i>I <b>would</b></i>, và sau <i>would</i> luôn là <b>ĐỘNG TỪ TRẦN</b>. <i>I'd <b>rest</b></i> ✓ — <i>I'd to rest</i> ✗ — <i>I'd resting</i> ✗." },
+        { "t": "h3", "text": "Điều kiện loại một và loại hai" },
+        {
+          "t": "table",
+          "head": ["Loại", "Cấu trúc", "Nghĩa"],
+          "rows": [
+            ["Loại 1 — có thật", "<code>If + hiện tại, will + V</code>", "If it rains, I'll take a taxi."],
+            ["Loại 2 — không thật", "<code>If + V2, would + V</code>", "If I had money, I'd travel."],
+            ["Khuyên bảo", "<code>If I were you, I'd + V</code>", "If I were you, I'd rest."],
+            ["Tiếc nuối quá khứ", "<code>If I had + V3, I'd have + V3</code>", "If I had known, I'd have called."]
+          ]
+        },
+        { "t": "p", "html": "Điểm chung của cả hai loại: <b>vế <i>if</i> không bao giờ chứa <i>will</i> hay <i>would</i></b>. Loại một dùng hiện tại đơn, loại hai dùng quá khứ đơn. Xem thêm [Khung 97]." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💡", "title": "Khuyên bạn bè", "text": "<i>If I were you, I'd get some rest.</i>" },
+            { "icon": "💼", "title": "Góp ý ở công sở", "text": "<i>If I were you, I'd talk to him directly.</i>" },
+            { "icon": "🛍️", "title": "Khuyên nên mua gì", "text": "<i>If I were you, I'd go for the blue one.</i>" },
+            { "icon": "🤔", "title": "Tưởng tượng điều không thật", "text": "<i>If I had more time, I'd learn to cook.</i>" },
+            { "icon": "😔", "title": "Tiếc nuối chuyện đã qua", "text": "<i>If I had known, I'd have called.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Khả năng có thật trong tương lai. Lúc đó là <i>If it rains, I'll…</i> — xem [Khung 97]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Lời khuyên chuẩn", "<code>If I were you, I'd + V.</code>", "If I were you, I'd rest."],
+            ["Đảo vế", "<code>I'd + V + if I were you.</code>", "I'd rest if I were you."],
+            ["Khuyên đừng làm", "<code>I wouldn't + V.</code>", "I wouldn't worry about it."],
+            ["Điều kiện loại 2", "<code>If I + V2, I'd + V.</code>", "If I had money, I'd travel."],
+            ["Với động từ be", "<code>If he were…, he'd + V.</code>", "If he were here, he'd help."],
+            ["Trực tiếp hơn", "<code>You should + V.</code>", "You should rest."],
+            ["Nhẹ nhàng hơn nữa", "<code>You might want to + V.</code>", "You might want to check."],
+            ["Tiếc nuối quá khứ", "<code>If I had + V3, I'd have + V3.</code>", "If I had known, I'd have called."],
+            ["Nhấn mạnh", "<code>If I were you, I'd definitely + V.</code>", "I'd definitely take it."],
+            ["Hỏi lời khuyên", "<code>What would you do?</code>", "What would you do in my place?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Khuyên đừng làm gì thì dùng <i>I wouldn't</i>:</b> <i>I wouldn't worry about it</i> = đừng lo chuyện đó. Đây là cách can ngăn nhẹ nhàng hơn hẳn so với <i>Don't worry</i>." },
+        { "t": "callout", "html": "<b>Cùng một lời khuyên, ba mức độ:</b> <i>You <b>must</b> rest</i> (ra lệnh) → <i>You <b>should</b> rest</i> (thẳng thắn) → <i>If I <b>were</b> you, I'd rest</i> (lịch sự nhất). Chọn mức phù hợp với quan hệ của bạn và người nghe." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các dạng của khung",
+              "items": [
+                { "w": "If I were you", "vi": "nếu tôi là bạn", "ex": "If I were you, I'd rest.", "exvi": "Nếu tôi là bạn, tôi sẽ nghỉ.", "note": "BẪY SỐ MỘT: <b>were</b> ✓, không phải <i>was</i>. Đây là dạng giả định cho điều không có thật." },
+                { "w": "I'd + V trần", "vi": "tôi sẽ", "ex": "I'd take the train.", "exvi": "Tôi sẽ đi tàu.", "note": "BẪY SỐ HAI: <i>I'd</i> = <i>I would</i>, theo sau là ĐỘNG TỪ TRẦN. <i>I'd to take</i> ✗." },
+                { "w": "I wouldn't", "vi": "tôi sẽ không", "ex": "I wouldn't worry about it.", "exvi": "Tôi sẽ không lo chuyện đó.", "note": "Cách can ngăn nhẹ nhàng hơn hẳn <i>Don't worry</i>." },
+                { "w": "I'd probably", "vi": "chắc tôi sẽ", "ex": "I'd probably wait.", "exvi": "Chắc tôi sẽ chờ." },
+                { "w": "I'd definitely", "vi": "chắc chắn tôi sẽ", "ex": "I'd definitely take it.", "exvi": "Chắc chắn tôi sẽ lấy nó." },
+                { "w": "I'd just", "vi": "tôi chỉ đơn giản là", "ex": "I'd just tell her.", "exvi": "Tôi chỉ đơn giản là nói thẳng với cô ấy.", "note": "<i>just</i> làm lời khuyên nghe nhẹ và dễ thực hiện hơn." },
+                { "w": "If he were here", "vi": "nếu anh ấy ở đây", "ex": "If he were here, he'd help.", "exvi": "Nếu anh ấy ở đây thì đã giúp rồi.", "note": "<b>were</b> dùng cho MỌI chủ ngữ trong câu giả định, kể cả <i>he/she/it</i>." },
+                { "w": "If I had money", "vi": "nếu tôi có tiền", "ex": "If I had money, I'd travel.", "exvi": "Nếu có tiền tôi sẽ đi du lịch.", "note": "Điều kiện loại 2 dùng QUÁ KHỨ ĐƠN ở vế <i>if</i>, dù nói về hiện tại." },
+                { "w": "If I had more time", "vi": "nếu tôi có nhiều thời gian hơn", "ex": "If I had more time, I'd learn to cook.", "exvi": "Nếu có thêm thời gian tôi sẽ học nấu ăn." },
+                { "w": "If I had known", "vi": "nếu tôi biết trước", "ex": "If I had known, I'd have called.", "exvi": "Nếu biết trước thì tôi đã gọi.", "note": "Tiếc nuối QUÁ KHỨ: <i>had + V3</i> ở vế if, <i>would have + V3</i> ở vế chính." },
+                { "w": "What would you do?", "vi": "bạn sẽ làm gì?", "ex": "What would you do in my place?", "exvi": "Ở vị trí tôi thì bạn sẽ làm gì?", "note": "Câu HỎI XIN lời khuyên — mở đường cho người kia dùng khung này." },
+                { "w": "I'd rather", "vi": "tôi thà", "ex": "I'd rather stay in.", "exvi": "Tôi thà ở nhà còn hơn.", "note": "KHÁC nghĩa: đây là nói SỞ THÍCH, không phải lời khuyên. Cũng đi với động từ trần." }
+              ]
+            },
+            {
+              "title": "Nội dung lời khuyên & cách nói khác",
+              "items": [
+                { "w": "I'd get some rest", "vi": "tôi sẽ đi nghỉ", "ex": "If I were you, I'd get some rest.", "exvi": "Nếu tôi là bạn, tôi sẽ đi nghỉ." },
+                { "w": "I'd talk to him directly", "vi": "tôi sẽ nói thẳng với anh ấy", "ex": "I'd talk to him directly.", "exvi": "Tôi sẽ nói thẳng với anh ấy." },
+                { "w": "I'd sleep on it", "vi": "tôi sẽ để qua đêm rồi tính", "ex": "I'd sleep on it.", "exvi": "Tôi sẽ để qua đêm rồi tính.", "note": "Thành ngữ — khuyên đừng quyết vội, để một đêm suy nghĩ." },
+                { "w": "I'd give it a go", "vi": "tôi sẽ thử xem", "ex": "I'd give it a go.", "exvi": "Tôi sẽ thử xem sao.", "note": "<b>give it a go</b> = thử một lần. Rất khẩu ngữ và tích cực." },
+                { "w": "I'd leave it", "vi": "tôi sẽ bỏ qua", "ex": "I'd leave it, honestly.", "exvi": "Thật lòng thì tôi sẽ bỏ qua." },
+                { "w": "I'd ask first", "vi": "tôi sẽ hỏi trước", "ex": "I'd ask first, just in case.", "exvi": "Tôi sẽ hỏi trước cho chắc." },
+                { "w": "You should", "vi": "bạn nên", "ex": "You should rest.", "exvi": "Bạn nên nghỉ.", "note": "Thẳng thắn hơn — hợp với người thân quen. Xem thang mức độ bên dưới." },
+                { "w": "You might want to", "vi": "có lẽ bạn nên", "ex": "You might want to check.", "exvi": "Có lẽ bạn nên kiểm tra.", "note": "Nhẹ nhàng nhất — gần như không có sức ép nào." },
+                { "w": "Have you thought about…?", "vi": "bạn đã nghĩ tới… chưa?", "ex": "Have you thought about calling them?", "exvi": "Bạn đã nghĩ tới việc gọi cho họ chưa?", "note": "Gợi ý dưới dạng câu hỏi — người nghe không thấy bị dạy đời." },
+                { "w": "Why don't you…?", "vi": "sao bạn không…?", "ex": "Why don't you ask her?", "exvi": "Sao bạn không hỏi cô ấy?", "note": "Sau <i>Why don't you</i> là ĐỘNG TỪ TRẦN, không phải <i>to V</i>." },
+                { "w": "It's up to you", "vi": "tùy bạn thôi", "ex": "It's up to you, of course.", "exvi": "Tất nhiên là tùy bạn thôi.", "note": "Câu kết lời khuyên rất hay — trả quyền quyết định lại cho người nghe." },
+                { "w": "but that's just me", "vi": "nhưng đó là ý tôi thôi", "ex": "…but that's just me.", "exvi": "…nhưng đó là ý tôi thôi.", "note": "Thêm vào cuối để lời khuyên nghe khiêm tốn hẳn." }
+              ]
+            },
+            {
+              "title": "Phản ứng với lời khuyên",
+              "items": [
+                { "w": "That's a good point", "vi": "ý hay đấy", "ex": "That's a good point.", "exvi": "Ý hay đấy. Xem [Khung 52]." },
+                { "w": "You're probably right", "vi": "chắc bạn nói đúng", "ex": "You're probably right.", "exvi": "Chắc bạn nói đúng." },
+                { "w": "I hadn't thought of that", "vi": "tôi chưa nghĩ tới điều đó", "ex": "I hadn't thought of that.", "exvi": "Tôi chưa nghĩ tới điều đó." },
+                { "w": "I'll give it some thought", "vi": "tôi sẽ suy nghĩ", "ex": "I'll give it some thought.", "exvi": "Tôi sẽ suy nghĩ về chuyện đó." },
+                { "w": "Maybe you're right", "vi": "có khi bạn đúng", "ex": "Maybe you're right.", "exvi": "Có khi bạn đúng." },
+                { "w": "I see what you mean", "vi": "tôi hiểu ý bạn", "ex": "I see what you mean.", "exvi": "Tôi hiểu ý bạn. Xem [Khung 53]." },
+                { "w": "I'm not so sure", "vi": "tôi không chắc lắm", "ex": "I'm not so sure about that.", "exvi": "Tôi không chắc lắm về chuyện đó." },
+                { "w": "It's easier said than done", "vi": "nói thì dễ", "ex": "It's easier said than done.", "exvi": "Nói thì dễ, làm mới khó.", "note": "Thành ngữ — đáp lại một lời khuyên nghe hợp lý nhưng khó thực hiện." },
+                { "w": "Thanks, I needed that", "vi": "cảm ơn, tôi cần nghe vậy", "ex": "Thanks, I needed to hear that.", "exvi": "Cảm ơn, tôi cần nghe điều đó." },
+                { "w": "I'll think about it", "vi": "tôi sẽ nghĩ về nó", "ex": "I'll think about it.", "exvi": "Tôi sẽ nghĩ về chuyện đó." },
+                { "w": "What do you reckon?", "vi": "bạn thấy sao?", "ex": "What do you reckon?", "exvi": "Bạn thấy sao?", "note": "Rất khẩu ngữ kiểu Anh — thân mật hơn <i>What do you think?</i>" },
+                { "w": "Fair point", "vi": "ý đó đúng", "ex": "Fair point.", "exvi": "Ý đó đúng. Xem [Khung 60]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "If I were you, I'd talk to him directly.",
+                  "vi": "Nếu tôi là anh/chị, tôi sẽ nói thẳng với anh ấy.",
+                  "note": "BẪY SỐ MỘT: <b>were</b> ✓, không phải <i>was</i>. Sau <i>I'd</i> là ĐỘNG TỪ TRẦN: <i>talk</i> ✓.",
+                  "open": { "en": "I don't know how to handle this.", "vi": "Tôi không biết xử lý chuyện này thế nào." },
+                  "reply": [
+                    { "them": "That's a good point. I hadn't thought of that.", "themvi": "Ý hay đấy. Tôi chưa nghĩ tới.", "you": "It's easier than letting it fester.", "youvi": "Vẫn hơn để nó âm ỉ mãi." },
+                    { "them": "It's easier said than done.", "themvi": "Nói thì dễ, làm mới khó.", "you": "True. But it's up to you.", "youvi": "Đúng. Nhưng tùy anh/chị thôi." }
+                  ],
+                  "close": { "en": "Let me know how it goes.", "vi": "Có gì báo tôi nhé." }
+                },
+                {
+                  "en": "I wouldn't worry about it, honestly.",
+                  "vi": "Thật lòng thì tôi sẽ không lo chuyện đó.",
+                  "note": "<b>I wouldn't</b> là cách can ngăn nhẹ nhàng hơn hẳn <i>Don't worry</i>.",
+                  "reply": [
+                    { "them": "You don't think it'll come up again?", "themvi": "Anh/chị không nghĩ chuyện đó sẽ lặp lại à?", "you": "I doubt it.", "youvi": "Tôi nghi ngờ điều đó." }
+                  ],
+                  "vars": [
+                    { "en": "If I were you, I'd let it go.", "vi": "Nếu tôi là anh/chị, tôi sẽ cho qua." }
+                  ]
+                },
+                {
+                  "en": "If I had more time, I'd rewrite the whole thing.",
+                  "vi": "Nếu có thêm thời gian, tôi sẽ viết lại toàn bộ.",
+                  "note": "Điều kiện loại 2: vế <i>if</i> dùng QUÁ KHỨ ĐƠN (<i>had</i>) dù đang nói về hiện tại.",
+                  "reply": [
+                    { "them": "We could push the deadline.", "themvi": "Mình dời hạn chót được đấy.", "you": "Could we? That would help.", "youvi": "Được à? Vậy thì đỡ nhiều." }
+                  ]
+                },
+                {
+                  "en": "If I had known, I'd have called you.",
+                  "vi": "Nếu biết trước thì tôi đã gọi anh/chị.",
+                  "note": "Tiếc nuối QUÁ KHỨ: <i>had + V3</i> ở vế if, <i>would have + V3</i> ở vế chính.",
+                  "reply": [
+                    { "them": "It's fine, nobody told me either.", "themvi": "Không sao, tôi cũng chẳng ai báo.", "you": "Next time I'll check first.", "youvi": "Lần sau tôi sẽ kiểm tra trước." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "If I were you, I'd get some rest.",
+                  "vi": "Nếu mình là bạn, mình sẽ đi nghỉ.",
+                  "note": "Lời khuyên lịch sự nhất — nghe như chia sẻ chứ không phải ra lệnh.",
+                  "reply": [
+                    { "them": "You're probably right.", "themvi": "Chắc bạn nói đúng.", "you": "Everything looks worse when you're tired.", "youvi": "Mệt thì nhìn gì cũng tệ hơn." }
+                  ],
+                  "close": { "en": "Talk tomorrow.", "vi": "Mai nói tiếp nhé." }
+                },
+                {
+                  "en": "I'd sleep on it, if I were you.",
+                  "vi": "Nếu mình là bạn, mình sẽ để qua đêm rồi tính.",
+                  "note": "Vế <i>if</i> đảo ra sau thì KHÔNG cần dấu phẩy trước nó cũng được. <b>sleep on it</b> = đừng quyết vội.",
+                  "reply": [
+                    { "them": "Maybe you're right.", "themvi": "Có khi bạn đúng.", "you": "It'll look different in the morning.", "youvi": "Sáng mai nhìn sẽ khác." }
+                  ],
+                  "vars": [
+                    { "en": "If I were you, I'd sleep on it.", "vi": "Nếu mình là bạn, mình sẽ để qua đêm." }
+                  ]
+                },
+                {
+                  "en": "If I had money, I'd travel for a year.",
+                  "vi": "Nếu có tiền, mình sẽ đi du lịch một năm.",
+                  "note": "Điều không có thật ở hiện tại — vế <i>if</i> dùng <b>had</b>, vế chính dùng <b>would</b>.",
+                  "reply": [
+                    { "them": "Where would you go first?", "themvi": "Bạn sẽ đi đâu đầu tiên?", "you": "Japan, without a doubt.", "youvi": "Nhật Bản, không nghi ngờ gì." }
+                  ]
+                },
+                {
+                  "en": "What would you do in my place?",
+                  "vi": "Ở vị trí mình thì bạn sẽ làm gì?",
+                  "note": "Câu HỎI XIN lời khuyên — mở đường cho người kia dùng chính khung này.",
+                  "reply": [
+                    { "them": "If I were you, I'd just tell her.", "themvi": "Nếu mình là bạn, mình sẽ nói thẳng với cô ấy.", "you": "That's what I was thinking.", "youvi": "Mình cũng nghĩ vậy." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "If I were you, I'd go for the blue one.",
+                  "vi": "Nếu tôi là anh/chị, tôi sẽ chọn cái màu xanh.",
+                  "note": "<b>go for</b> = chọn lấy. Sau <i>I'd</i> là động từ TRẦN: <i>go</i> ✓.",
+                  "reply": [
+                    { "them": "Really? I was leaning towards the grey.", "themvi": "Thật à? Tôi đang nghiêng về màu xám.", "you": "Both work — but that's just me.", "youvi": "Cả hai đều đẹp — nhưng đó là ý tôi thôi." }
+                  ],
+                  "close": { "en": "It's up to you, of course.", "vi": "Tất nhiên là tùy anh/chị." }
+                },
+                {
+                  "en": "I wouldn't buy it today, if I were you.",
+                  "vi": "Nếu tôi là anh/chị, hôm nay tôi sẽ không mua.",
+                  "reply": [
+                    { "them": "Why's that?", "themvi": "Sao vậy?", "you": "The sale starts on Friday.", "youvi": "Thứ Sáu bắt đầu giảm giá." }
+                  ],
+                  "vars": [
+                    { "en": "If I were you, I'd wait until Friday.", "vi": "Nếu tôi là anh/chị, tôi sẽ đợi đến thứ Sáu." }
+                  ]
+                },
+                {
+                  "en": "If I had known about the discount, I'd have waited.",
+                  "vi": "Nếu biết có giảm giá thì tôi đã đợi.",
+                  "reply": [
+                    { "them": "We can refund the difference.", "themvi": "Bên em hoàn phần chênh lệch được ạ.", "you": "Really? That's very fair.", "youvi": "Thật à? Vậy là công bằng." }
+                  ]
+                },
+                {
+                  "en": "I'd ask first, just in case.",
+                  "vi": "Tôi sẽ hỏi trước cho chắc.",
+                  "note": "Có thể bỏ hẳn vế <i>if I were you</i> — chỉ cần <i>I'd</i> là người nghe đã hiểu đây là lời khuyên.",
+                  "reply": [
+                    { "them": "Good idea.", "themvi": "Ý hay đấy.", "you": "It costs nothing to check.", "youvi": "Hỏi một câu có mất gì đâu." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "If I were you, I'd take the train.",
+                  "vi": "Nếu mình là bạn, mình sẽ đi tàu.",
+                  "reply": [
+                    { "them": "Isn't it slower?", "themvi": "Chậm hơn mà?", "you": "Slower, but far less stressful.", "youvi": "Chậm hơn, nhưng đỡ căng thẳng hơn nhiều." }
+                  ],
+                  "close": { "en": "Either way, book early.", "vi": "Kiểu gì cũng nên đặt sớm." }
+                },
+                {
+                  "en": "I wouldn't leave it any later.",
+                  "vi": "Mình sẽ không để muộn hơn nữa đâu.",
+                  "note": "Cách giục người ta hành động mà không nghe như ra lệnh.",
+                  "reply": [
+                    { "them": "You think prices will go up?", "themvi": "Bạn nghĩ giá sẽ tăng à?", "you": "They always do.", "youvi": "Lúc nào chẳng thế." }
+                  ]
+                },
+                {
+                  "en": "If he were here, he'd know the way.",
+                  "vi": "Nếu anh ấy ở đây thì đã biết đường rồi.",
+                  "note": "<b>were</b> dùng cho MỌI chủ ngữ trong câu giả định, kể cả <i>he</i>. <i>If he was here</i> nghe bình dân hơn.",
+                  "reply": [
+                    { "them": "Shall I call him?", "themvi": "Mình gọi anh ấy nhé?", "you": "Let's just use the map.", "youvi": "Thôi dùng bản đồ đi." }
+                  ]
+                },
+                {
+                  "en": "If I had more time, I'd stay another week.",
+                  "vi": "Nếu có thêm thời gian, mình sẽ ở thêm một tuần.",
+                  "reply": [
+                    { "them": "Can't you change the flight?", "themvi": "Bạn không đổi chuyến được à?", "you": "It'd cost a fortune.", "youvi": "Tốn cả đống tiền." }
+                  ],
+                  "vars": [
+                    { "en": "If I could, I'd stay another week.", "vi": "Nếu được, mình sẽ ở thêm một tuần." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "If I were you, I'd try the fish.",
+                  "vi": "Nếu mình là bạn, mình sẽ thử món cá.",
+                  "reply": [
+                    { "them": "Is it that good?", "themvi": "Ngon vậy cơ à?", "you": "It's what they're known for.", "youvi": "Đó là món nổi tiếng của quán." }
+                  ],
+                  "close": { "en": "But it's up to you.", "vi": "Nhưng tùy bạn thôi." }
+                },
+                {
+                  "en": "I wouldn't order the spicy one.",
+                  "vi": "Mình sẽ không gọi món cay đâu.",
+                  "reply": [
+                    { "them": "That bad?", "themvi": "Tệ thế à?", "you": "Not bad — just very spicy.", "youvi": "Không tệ — chỉ là cay lắm." }
+                  ]
+                },
+                {
+                  "en": "If I were you, I'd book a table.",
+                  "vi": "Nếu mình là bạn, mình sẽ đặt bàn trước.",
+                  "note": "Lời khuyên dựa trên kinh nghiệm — nghe thân thiện hơn <i>You should book</i> nhiều.",
+                  "reply": [
+                    { "them": "Is it usually busy?", "themvi": "Thường đông à?", "you": "Every Friday without fail.", "youvi": "Thứ Sáu nào cũng đông." }
+                  ],
+                  "vars": [
+                    { "en": "You might want to book a table.", "vi": "Có lẽ bạn nên đặt bàn." }
+                  ]
+                },
+                {
+                  "en": "If I had known you were coming, I'd have cooked.",
+                  "vi": "Nếu biết bạn đến thì mình đã nấu rồi.",
+                  "note": "Tiếc nuối quá khứ — mẫu câu rất tự nhiên khi ai đó ghé bất ngờ.",
+                  "reply": [
+                    { "them": "Don't worry, I've eaten.", "themvi": "Đừng lo, mình ăn rồi.", "you": "Next time give me warning!", "youvi": "Lần sau báo trước nhé!" }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Khuyên đồng nghiệp về một mâu thuẫn",
+          "lines": [
+            { "speaker": "Colleague", "en": "I don't know how to handle this.", "vi": "Tôi không biết xử lý chuyện này thế nào." },
+            { "speaker": "You", "me": true, "en": "If I were you, I'd talk to him directly.", "vi": "Nếu tôi là anh/chị, tôi sẽ nói thẳng với anh ấy." },
+            { "speaker": "Colleague", "en": "It's easier said than done.", "vi": "Nói thì dễ, làm mới khó." },
+            { "speaker": "You", "me": true, "en": "True. But I wouldn't let it drag on.", "vi": "Đúng. Nhưng tôi sẽ không để nó kéo dài." },
+            { "speaker": "Colleague", "en": "You're probably right.", "vi": "Chắc anh/chị nói đúng." },
+            { "speaker": "You", "me": true, "en": "It's up to you, of course. But that's what I'd do.", "vi": "Tất nhiên là tùy anh/chị. Nhưng tôi thì sẽ làm vậy." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Giúp bạn chọn đồ trong cửa hàng",
+          "lines": [
+            { "speaker": "Friend", "en": "Blue or grey? What do you reckon?", "vi": "Xanh hay xám? Bạn thấy sao?" },
+            { "speaker": "You", "me": true, "en": "If I were you, I'd go for the blue one.", "vi": "Nếu mình là bạn, mình sẽ chọn màu xanh." },
+            { "speaker": "Friend", "en": "Really? I was leaning towards the grey.", "vi": "Thật à? Mình đang nghiêng về màu xám." },
+            { "speaker": "You", "me": true, "en": "Both work — but that's just me.", "vi": "Cả hai đều đẹp — nhưng đó là ý mình thôi." },
+            { "speaker": "Friend", "en": "Should I buy it today?", "vi": "Mình mua hôm nay nhé?" },
+            { "speaker": "You", "me": true, "en": "I wouldn't. The sale starts on Friday.", "vi": "Mình thì không. Thứ Sáu bắt đầu giảm giá." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "If I <b>was</b> you, I'd rest.", "right": "If I <b>were</b> you, I'd rest.", "why": "BẪY SỐ MỘT: đây là dạng giả định cho điều KHÔNG CÓ THẬT. <i>were</i> dùng cho mọi chủ ngữ, kể cả <i>I, he, she</i>." },
+            { "wrong": "If I were you, I'd <b>to rest</b>.", "right": "If I were you, I'd <b>rest</b>.", "why": "BẪY SỐ HAI: <i>I'd</i> = <i>I would</i>, và sau <i>would</i> luôn là ĐỘNG TỪ TRẦN." },
+            { "wrong": "If I <b>would be</b> you, I'd rest.", "right": "If I <b>were</b> you, I'd rest.", "why": "Vế <i>if</i> KHÔNG BAO GIỜ chứa <i>would</i>, giống như nó không chứa <i>will</i> ở [Khung 97]." },
+            { "wrong": "If I <b>have</b> money, I'd travel.", "right": "If I <b>had</b> money, I'd travel.", "why": "Điều kiện loại 2 dùng QUÁ KHỨ ĐƠN ở vế <i>if</i>, dù đang nói về hiện tại." },
+            { "wrong": "If I had known, I'd <b>call</b> you.", "right": "If I had known, I'd <b>have called</b> you.", "why": "Tiếc nuối QUÁ KHỨ cần <b>would have + V3</b> ở vế chính, không chỉ <i>would + V</i>." },
+            { "wrong": "If I were you, I'd <b>resting</b>.", "right": "If I were you, I'd <b>rest</b>.", "why": "Sau <i>would</i> không bao giờ là V-ing. Chỉ động từ trần." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Sắc thái", "Ví dụ"],
+          "rows": [
+            ["<code>If I were you, I'd + V</code>", "Lời khuyên LỊCH SỰ nhất", "If I were you, I'd rest."],
+            ["<code>I wouldn't + V</code>", "Can ngăn nhẹ nhàng", "I wouldn't worry about it."],
+            ["<code>You should + V</code>", "Thẳng thắn — hợp người thân quen", "You should rest."],
+            ["<code>You might want to + V</code>", "Nhẹ nhất, gần như không có sức ép", "You might want to check."],
+            ["<code>Why don't you + V?</code>", "Gợi ý dưới dạng câu hỏi", "Why don't you ask her?"],
+            ["<code>If + hiện tại, I'll + V</code>", "Khả năng CÓ THẬT. Xem [Khung 97]", "If it rains, I'll take a taxi."],
+            ["<code>If I had + V3, I'd have + V3</code>", "Tiếc nuối chuyện đã qua", "If I had known, I'd have called."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ áp đặt của lời khuyên" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "You might want to rest.", "vi": "Nhẹ nhất — chỉ gợi ý" },
+            { "en": "Have you thought about resting?", "vi": "Gợi ý dưới dạng câu hỏi" },
+            { "en": "If I were you, I'd rest.", "vi": "Lịch sự, đặt mình vào vị trí người kia" },
+            { "en": "You should rest.", "vi": "Thẳng thắn" },
+            { "en": "You really must rest.", "vi": "Mạnh nhất — gần như ra lệnh" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>If I were you</b> nói nhanh thành <b>“i-fai-wə-YUU”</b> — cả cụm gộp lại, chỉ <i>you</i> được nhấn.",
+            "<b>I'd</b> đọc /aɪd/ một âm tiết. Tách thành “ai-wud” nghe rất cứng và không tự nhiên.",
+            "<b>were</b> khi không nhấn đọc là /wə/, gần như biến mất giữa câu.",
+            "<b>I'd have</b> nói nhanh thành <b>“ai-dəv”</b>, nghe gần như <i>I'd of</i> — nhưng KHÔNG BAO GIỜ viết là <i>I'd of</i> ✗.",
+            "<b>Trọng âm rơi vào ĐỘNG TỪ sau <i>I'd</i></b>: “i-fai-wə-yuu | aid-<b>REST</b>”.",
+            "<b>Ngắt nhẹ sau <i>you</i></b> rồi mới nói vế khuyên — đúng chỗ đặt dấu phẩy, và làm lời khuyên nghe cân nhắc hơn."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "If I were you, I'd get some rest.", "vi": "Luyện shadowing: “i-fai-wə-YUU” ngắt nhẹ, rồi “aid-get-səm-REST”." },
+            { "en": "If I had known, I'd have called you.", "vi": "Tập đọc “ai-dəv-KOLD” liền một hơi — nhưng nhớ viết là I'd have." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Nếu tôi là bạn, tôi sẽ nghỉ.", "blank": "If I __________ you, I'd rest.", "a": "were (không phải “was”)" },
+            { "vi": "Nếu tôi là bạn, tôi sẽ nghỉ.", "blank": "If I were you, I'd __________.", "a": "rest (động từ trần)" },
+            { "vi": "Tôi sẽ không lo chuyện đó.", "blank": "I __________ worry about it.", "a": "wouldn't" },
+            { "vi": "Nếu có tiền, tôi sẽ đi du lịch.", "blank": "If I __________ money, I'd travel.", "a": "had (quá khứ đơn)" },
+            { "vi": "Nếu anh ấy ở đây thì đã giúp rồi.", "blank": "If he __________ here, he'd help.", "a": "were" },
+            { "vi": "Nếu biết trước thì tôi đã gọi.", "blank": "If I had known, I'd __________ called.", "a": "have" },
+            { "vi": "Ở vị trí tôi thì bạn sẽ làm gì?", "blank": "What __________ you do in my place?", "a": "would" },
+            { "vi": "Sao bạn không hỏi cô ấy?", "blank": "Why don't you __________ her?", "a": "ask (động từ trần)" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Nếu mình là bạn, mình sẽ đi nghỉ.", "a": "If I were you, I'd get some rest." },
+            { "vi": "2. Nếu tôi là anh/chị, tôi sẽ nói thẳng với anh ấy.", "a": "If I were you, I'd talk to him directly." },
+            { "vi": "3. Thật lòng thì tôi sẽ không lo chuyện đó.", "a": "I wouldn't worry about it, honestly." },
+            { "vi": "4. Nếu có thêm thời gian, mình sẽ ở thêm một tuần.", "a": "If I had more time, I'd stay another week." },
+            { "vi": "5. Nếu biết trước thì tôi đã gọi anh/chị.", "a": "If I had known, I'd have called you." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luôn là <i>were</i>, không bao giờ <i>was</i></b> — kể cả với <i>I, he, she</i>. Đây là dạng giả định cho điều không có thật.",
+            "<b>Sau <i>I'd</i> luôn là động từ trần.</b> Không có <i>to</i>, không có <i>-ing</i>.",
+            "<b>Vế <i>if</i> không chứa <i>will</i> hay <i>would</i></b> — loại một dùng hiện tại, loại hai dùng quá khứ. Xem [Khung 97].",
+            "<b>Muốn can ngăn thì dùng <i>I wouldn't…</i></b> — nhẹ nhàng hơn hẳn <i>Don't…</i>.",
+            "<b>Thêm <i>but that's just me</i> hoặc <i>it's up to you</i></b> ở cuối để lời khuyên nghe khiêm tốn và không áp đặt.",
+            "<b>Bài tập 3 phút:</b> nghĩ ba vấn đề của bạn bè, viết mỗi vấn đề một lời khuyên bằng <i>If I were you, I'd…</i> và một câu <i>I wouldn't…</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

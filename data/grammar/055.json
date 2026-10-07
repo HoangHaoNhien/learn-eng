@@ -1,0 +1,277 @@
+{
+  "id": 55,
+  "group": "Nhóm 8 · Dạng theo sau động từ",
+  "title": "Phrasal verb — tách được hay không",
+  "subtitle": "turn on it ✗ là lỗi kinh điển. Với phrasal verb tách được, đại từ (it, him, them) KHÔNG được đứng cuối — nó bắt buộc chen vào giữa: turn it on.",
+  "meaning": "Động từ đi với một tiểu từ, nghĩa đổi hẳn",
+  "rule": [
+    "Đại từ luôn chen vào giữa: <em>turn it on</em>",
+    "Danh từ thì đặt đâu cũng được: <em>turn on the light</em>",
+    "Có giới từ thì <em>không tách</em>: <em>look after him</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1", "hot": true },
+    { "text": "turn on it ✗" },
+    { "text": "Nghĩa không suy ra được" },
+    { "text": "Tần suất: rất cao (văn nói)" }
+  ],
+  "frames": [4, 19, 29, 76, 86],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "<b>Phrasal verb</b> là một động từ cộng thêm một tiểu từ nhỏ (<i>on, off, up, down, out…</i>), và cả cụm mang <b>nghĩa mới</b> không suy ra được từ từng từ. <i>look</i> là “nhìn”, nhưng <i>look after</i> là “chăm sóc”." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — đại từ phải chen vào GIỮA:</b><br><i>Turn <b>on it</b></i> ✗ → <i>Turn <b>it on</b>.</i> ✓<br><i>Pick <b>up them</b></i> ✗ → <i>Pick <b>them up</b>.</i> ✓<br>Với phrasal verb <b>tách được</b>, danh từ thì đặt đâu cũng được — <i>turn on the light</i> ✓ và <i>turn the light on</i> ✓ — nhưng <b>đại từ</b> (<i>it, him, her, them, me, us</i>) thì <b>bắt buộc</b> đứng giữa." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — loại có giới từ thì KHÔNG tách:</b><br><i>Look <b>him after</b></i> ✗ → <i>Look <b>after him</b>.</i> ✓<br><i>Look <b>it for</b></i> ✗ → <i>Look <b>for it</b>.</i> ✓<br>Những cụm như <i>look after, look for, deal with, depend on, listen to</i> dính liền — tân ngữ <b>luôn đứng sau cả cụm</b>, kể cả khi là đại từ. Xem [Ngữ pháp 42]." },
+        { "t": "h3", "text": "Bốn loại phrasal verb" },
+        {
+          "t": "table",
+          "head": ["Loại", "Luật đặt tân ngữ", "Ví dụ"],
+          "rows": [
+            ["Tách được", "Danh từ: hai chỗ · đại từ: BẮT BUỘC ở giữa", "turn the light on · turn it on"],
+            ["Không tách được", "Tân ngữ luôn sau cả cụm", "look after him"],
+            ["Không có tân ngữ", "Không thêm gì phía sau", "Sit down. · Come in."],
+            ["Ba từ", "Không bao giờ tách", "look forward to it"]
+          ]
+        },
+        { "t": "p", "html": "Từ điển thường ghi <b>sth / sb</b> ở giữa để báo cụm đó tách được: <i>turn <b>sth</b> on</i> là tách được, còn <i>look after <b>sb</b></i> thì không." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Phrasal verb", "Loại", "Nghĩa & ví dụ"],
+          "rows": [
+            ["<code>turn on / off</code>", "Tách được", "bật / tắt — Turn it on."],
+            ["<code>pick up</code>", "Tách được", "nhặt, đón — I'll pick you up at six."],
+            ["<code>put off</code>", "Tách được", "hoãn — They put it off."],
+            ["<code>give up</code>", "Tách được", "bỏ cuộc, cai — Don't give it up."],
+            ["<code>fill in / out</code>", "Tách được", "điền — Fill it in, please."],
+            ["<code>look after</code>", "Không tách", "chăm sóc — Look after him."],
+            ["<code>look for</code>", "Không tách", "tìm — I'm looking for it."],
+            ["<code>deal with</code>", "Không tách", "xử lý — I'll deal with it."],
+            ["<code>run into</code>", "Không tách", "tình cờ gặp — I ran into her."],
+            ["<code>sit down</code>", "Không tân ngữ", "ngồi xuống — Please sit down."],
+            ["<code>get up</code>", "Không tân ngữ", "ngủ dậy — I get up at six."],
+            ["<code>look forward to</code>", "Ba từ, không tách", "mong chờ — I look forward to it."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dòng cuối có bẫy riêng:</b> chữ <i>to</i> trong <b>look forward to</b> là <b>GIỚI TỪ</b>, nên theo sau phải là danh từ hoặc V-ing: <i>look forward to <b>meeting</b> you</i> ✓, <i>look forward to <b>meet</b></i> ✗. Xem [Ngữ pháp 25]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Turn the light on, please.", "vi": "Bật đèn lên giúp mình.", "note": "Danh từ thì đứng giữa cũng được." },
+            { "en": "Turn on the light, please.", "vi": "Bật đèn lên giúp mình.", "note": "Danh từ đứng sau cũng được — hai cách đều đúng." },
+            { "en": "Turn it on, please.", "vi": "Bật nó lên giúp mình.", "note": "BẪY SỐ MỘT: đại từ BẮT BUỘC ở giữa. <i>Turn on it</i> ✗." },
+            { "en": "I'll pick you up at six.", "vi": "Sáu giờ tôi đón bạn.", "note": "<i>pick up you</i> ✗ — <i>you</i> là đại từ nên phải chen vào giữa." },
+            { "en": "They put the meeting off.", "vi": "Họ hoãn cuộc họp.", "note": "<b>put off</b> = hoãn, không suy ra được từ <i>put</i> và <i>off</i>." },
+            { "en": "Don't give up!", "vi": "Đừng bỏ cuộc!", "note": "Ở đây <b>give up</b> không có tân ngữ." },
+            { "en": "Could you look after my dog?", "vi": "Bạn trông hộ con chó của mình nhé?", "note": "BẪY SỐ HAI: <b>look after</b> không tách. <i>look my dog after</i> ✗." },
+            { "en": "I'm looking for my keys.", "vi": "Tôi đang tìm chìa khóa.", "note": "<b>look for</b> cũng không tách. Xem [Khung 4]." },
+            { "en": "I'll deal with it tomorrow.", "vi": "Mai tôi xử lý việc đó.", "note": "Đại từ <i>it</i> vẫn đứng SAU vì cụm không tách được." },
+            { "en": "I ran into her at the station.", "vi": "Tôi tình cờ gặp cô ấy ở ga.", "note": "<b>run into</b> = tình cờ gặp, không phải “chạy vào”." },
+            { "en": "Go ahead and start without me.", "vi": "Cứ bắt đầu trước đi, đừng chờ tôi.", "note": "<b>go ahead</b> không có tân ngữ. Xem [Khung 29]." },
+            { "en": "I'm looking forward to meeting you.", "vi": "Tôi mong được gặp bạn.", "note": "Cụm ba từ, sau <i>to</i> là V-ing. Xem [Khung 86]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💬", "title": "Nói chuyện đời thường", "text": "Người bản ngữ dùng <i>put off</i> nhiều hơn <i>postpone</i>." },
+            { "icon": "📱", "title": "Bật tắt thiết bị", "text": "<i>Turn it on / off.</i> Đại từ luôn ở giữa." },
+            { "icon": "🚗", "title": "Hẹn đón ai", "text": "<i>I'll pick you up at six.</i>" },
+            { "icon": "🔎", "title": "Tìm, trông nom", "text": "<i>look for</i>, <i>look after</i> — không tách." },
+            { "icon": "📧", "title": "Email trang trọng", "text": "Nên đổi sang từ đơn: <i>postpone</i>, <i>submit</i>, <i>resolve</i>." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Đừng đoán nghĩa từ hai từ ghép lại — phải tra cả cụm." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một cụm ở cột trái để xem nghĩa, câu ví dụ và ghi chú cụm đó có tách được hay không." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Tách được — đại từ phải chen vào giữa",
+              "items": [
+                { "w": "turn on / off", "vi": "bật / tắt", "ex": "Turn it on, please.", "exvi": "Bật nó lên giúp mình.", "note": "BẪY SỐ MỘT: <i>turn on it</i> ✗." },
+                { "w": "turn up / down", "vi": "vặn to / nhỏ", "ex": "Could you turn it down?", "exvi": "Vặn nhỏ lại được không?", "note": "<b>turn down</b> còn nghĩa “từ chối”: <i>They turned my offer down.</i>" },
+                { "w": "pick up", "vi": "nhặt, đón", "ex": "I'll pick you up at six.", "exvi": "Sáu giờ tôi đón bạn.", "note": "<i>pick up you</i> ✗." },
+                { "w": "put off", "vi": "hoãn", "ex": "They put the meeting off.", "exvi": "Họ hoãn cuộc họp.", "note": "Trang trọng hơn thì dùng <i>postpone</i>." },
+                { "w": "put on", "vi": "mặc vào, đeo vào", "ex": "Put your coat on.", "exvi": "Mặc áo khoác vào đi." },
+                { "w": "take off", "vi": "cởi ra; cất cánh", "ex": "Take your shoes off.", "exvi": "Cởi giày ra.", "note": "Nghĩa “cất cánh” thì không có tân ngữ: <i>The plane took off.</i>" },
+                { "w": "give up", "vi": "bỏ cuộc, cai", "ex": "He gave it up last year.", "exvi": "Năm ngoái anh ấy bỏ rồi." },
+                { "w": "fill in / out", "vi": "điền vào", "ex": "Fill it in, please.", "exvi": "Điền vào giúp tôi nhé." },
+                { "w": "work out", "vi": "tính ra; tập thể dục", "ex": "I can't work it out.", "exvi": "Tôi không tính ra được." },
+                { "w": "find out", "vi": "tìm ra, phát hiện", "ex": "I'll find it out.", "exvi": "Để tôi tìm hiểu xem." },
+                { "w": "throw away", "vi": "vứt đi", "ex": "Don't throw it away.", "exvi": "Đừng vứt nó đi." },
+                { "w": "call back", "vi": "gọi lại", "ex": "I'll call you back.", "exvi": "Tôi sẽ gọi lại cho bạn." }
+              ]
+            },
+            {
+              "title": "Không tách được & không có tân ngữ",
+              "items": [
+                { "w": "look after", "vi": "chăm sóc, trông", "ex": "Could you look after my dog?", "exvi": "Trông hộ con chó của mình nhé?", "note": "BẪY SỐ HAI: <i>look my dog after</i> ✗ — không tách." },
+                { "w": "look for", "vi": "tìm", "ex": "I'm looking for my keys.", "exvi": "Tôi đang tìm chìa khóa. Xem [Khung 4]." },
+                { "w": "look into", "vi": "xem xét, điều tra", "ex": "I'll look into it.", "exvi": "Để tôi xem lại việc đó." },
+                { "w": "deal with", "vi": "xử lý", "ex": "I'll deal with it tomorrow.", "exvi": "Mai tôi xử lý.", "note": "Đại từ vẫn đứng SAU vì cụm không tách." },
+                { "w": "run into", "vi": "tình cờ gặp", "ex": "I ran into her at the station.", "exvi": "Tôi tình cờ gặp cô ấy ở ga.", "note": "Không phải nghĩa đen “chạy vào”." },
+                { "w": "get on with", "vi": "hợp với ai", "ex": "I get on well with my boss.", "exvi": "Tôi hợp với sếp." },
+                { "w": "look forward to", "vi": "mong chờ", "ex": "I look forward to meeting you.", "exvi": "Tôi mong được gặp bạn.", "note": "Cụm ba từ. <i>to</i> là GIỚI TỪ nên sau nó là V-ing. Xem [Khung 86]." },
+                { "w": "come up with", "vi": "nghĩ ra", "ex": "She came up with a great idea.", "exvi": "Cô ấy nghĩ ra một ý rất hay." },
+                { "w": "sit down", "vi": "ngồi xuống", "ex": "Please sit down.", "exvi": "Mời ngồi.", "note": "Không có tân ngữ nên không có chuyện tách." },
+                { "w": "get up", "vi": "ngủ dậy", "ex": "I get up at six every day.", "exvi": "Ngày nào tôi cũng dậy lúc sáu giờ." },
+                { "w": "go ahead", "vi": "cứ làm đi", "ex": "Go ahead and start.", "exvi": "Cứ bắt đầu đi. Xem [Khung 29]." },
+                { "w": "go on", "vi": "tiếp tục; xảy ra", "ex": "What's going on?", "exvi": "Có chuyện gì vậy? Xem [Khung 76]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Turn <b>on it</b>, please.", "right": "Turn <b>it on</b>, please.", "why": "BẪY SỐ MỘT: đại từ bắt buộc chen vào giữa với phrasal verb tách được." },
+            { "wrong": "I'll pick <b>up you</b> at six.", "right": "I'll pick <b>you up</b> at six.", "why": "Cùng lỗi — <i>you</i> là đại từ nên phải ở giữa." },
+            { "wrong": "Don't throw <b>away it</b>.", "right": "Don't throw <b>it away</b>.", "why": "Mọi đại từ đều theo luật này: <i>it, him, her, them, me, us</i>." },
+            { "wrong": "Could you look <b>my dog after</b>?", "right": "Could you look <b>after my dog</b>?", "why": "BẪY SỐ HAI: <b>look after</b> có giới từ nên không tách được." },
+            { "wrong": "I'm looking <b>it for</b>.", "right": "I'm looking <b>for it</b>.", "why": "<b>look for</b> cũng không tách — đại từ vẫn đứng sau cả cụm." },
+            { "wrong": "I'll deal <b>it with</b> tomorrow.", "right": "I'll deal <b>with it</b> tomorrow.", "why": "Nhìn thấy giới từ (<i>with, for, after, into</i>) là biết không tách." },
+            { "wrong": "I'm looking forward to <b>meet</b> you.", "right": "I'm looking forward to <b>meeting</b> you.", "why": "<i>to</i> ở đây là GIỚI TỪ nên theo sau là V-ing. Xem [Ngữ pháp 25]." },
+            { "wrong": "I <b>look after</b> my keys. <i>(ý: tìm)</i>", "right": "I'm <b>looking for</b> my keys.", "why": "<i>look after</i> = chăm sóc · <i>look for</i> = tìm. Đổi tiểu từ là đổi nghĩa hẳn." },
+            { "wrong": "Please <b>sit down yourself</b>.", "right": "Please <b>sit down</b>.", "why": "<b>sit down</b> không có tân ngữ, không thêm gì phía sau." },
+            { "wrong": "They <b>turned down it</b>.", "right": "They <b>turned it down</b>.", "why": "<b>turn down</b> (từ chối) tách được, nên đại từ vào giữa." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>turn it on</code> / <code>turn on it</code>", "Đúng / sai", "Đại từ luôn ở giữa"],
+            ["<code>turn the light on</code> / <code>turn on the light</code>", "Cả hai đều đúng", "Danh từ đặt đâu cũng được"],
+            ["<code>look for</code> / <code>look after</code>", "Tìm / chăm sóc", "look for keys ≠ look after a dog"],
+            ["<code>look into</code> / <code>run into</code>", "Xem xét / tình cờ gặp", "look into it ≠ run into her"],
+            ["Tách được / không tách", "Nhìn có giới từ hay không", "put off ≠ deal with"],
+            ["<code>take off</code> hai nghĩa", "Cởi ra (có tân ngữ) / cất cánh (không)", "Take it off ≠ The plane took off"],
+            ["Phrasal verb / từ đơn", "Văn nói / văn viết trang trọng", "put off ≠ postpone"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: đặt tân ngữ vào đâu?" },
+        {
+          "t": "tree",
+          "q": "Bạn có một phrasal verb và một tân ngữ — đặt tân ngữ ở đâu?",
+          "nodes": [
+            { "if": "Sau động từ là một GIỚI TỪ (for, after, with, into)", "then": "Không tách — tân ngữ đứng sau cả cụm", "ex": "look after him · deal with it" },
+            { "if": "Cụm tách được và tân ngữ là ĐẠI TỪ", "then": "Bắt buộc chen vào giữa", "ex": "turn it on · pick you up" },
+            { "if": "Cụm tách được và tân ngữ là DANH TỪ", "then": "Đặt đâu cũng được", "ex": "turn the light on · turn on the light" },
+            { "if": "Danh từ dài nhiều chữ", "then": "Nên đặt ở cuối cho dễ đọc", "ex": "Turn off all the lights in the kitchen." },
+            { "if": "Cụm không có tân ngữ", "then": "Không thêm gì phía sau", "ex": "Sit down. · Go ahead." },
+            { "if": "Cụm ba từ", "then": "Không bao giờ tách", "ex": "I look forward to it." }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ trang trọng — cùng một ý" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Let's put it off.", "vi": "Thân mật nhất — nói chuyện bạn bè" },
+            { "en": "Can we put the meeting off?", "vi": "Thân mật, lịch sự" },
+            { "en": "Can we move the meeting?", "vi": "Trung tính" },
+            { "en": "Could we reschedule the meeting?", "vi": "Trang trọng" },
+            { "en": "We would like to postpone the meeting.", "vi": "Trang trọng nhất — email công việc" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Phrasal verb xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 4, "why": "I'm looking for + N — look for, một phrasal verb không tách được, dùng hằng ngày." },
+            { "id": 86, "why": "I'm looking forward to + V-ing — cụm ba từ, to là giới từ nên theo sau là V-ing." },
+            { "id": 29, "why": "Go ahead and + V — phrasal verb không có tân ngữ." },
+            { "id": 76, "why": "How's it going? — go on / going, cách chào hỏi thông dụng nhất." },
+            { "id": 19, "why": "Can I get + N? — văn nói hay thay bằng pick up: Can I pick it up later?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Đặt tân ngữ vào đúng chỗ" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Bật nó lên giúp mình.", "blank": "Turn __________ , please.  (it / on)", "a": "it on" },
+            { "vi": "Bật đèn lên giúp mình.", "blank": "Turn __________ , please.  (the light / on)", "a": "the light on — hoặc on the light" },
+            { "vi": "Sáu giờ tôi đón bạn.", "blank": "I'll pick __________ at six.  (you / up)", "a": "you up" },
+            { "vi": "Trông hộ con chó của mình nhé?", "blank": "Could you look __________ ?  (my dog / after)", "a": "after my dog" },
+            { "vi": "Mai tôi xử lý việc đó.", "blank": "I'll deal __________ tomorrow.  (it / with)", "a": "with it" },
+            { "vi": "Đừng vứt nó đi.", "blank": "Don't throw __________ .  (it / away)", "a": "it away" },
+            { "vi": "Tôi sẽ gọi lại cho bạn.", "blank": "I'll call __________ .  (you / back)", "a": "you back" },
+            { "vi": "Tôi mong được gặp bạn.", "blank": "I'm looking forward to __________ you.  (meet)", "a": "meeting" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn câu đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Bật nó lên giúp mình.", "blank": "(a) Turn on it, please.  (b) Turn it on, please.", "a": "(b)" },
+            { "vi": "Trông hộ con chó của mình nhé?", "blank": "(a) Could you look my dog after?  (b) Could you look after my dog?", "a": "(b)" },
+            { "vi": "Mai tôi xử lý việc đó.", "blank": "(a) I'll deal it with tomorrow.  (b) I'll deal with it tomorrow.", "a": "(b)" },
+            { "vi": "Tôi mong được gặp bạn.", "blank": "(a) I look forward to meet you.  (b) I look forward to meeting you.", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Bật nó lên giúp mình.", "a": "Turn it on, please." },
+            { "vi": "2. Sáu giờ tôi đón bạn.", "a": "I'll pick you up at six." },
+            { "vi": "3. Tôi đang tìm chìa khóa.", "a": "I'm looking for my keys." },
+            { "vi": "4. Họ hoãn cuộc họp rồi.", "a": "They put the meeting off." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật đại từ:</b> <i>it, him, her, them, me, us</i> <b>không bao giờ đứng cuối</b> một phrasal verb tách được. <i>Turn on it</i> ✗.",
+            "<b>Mẹo nhận diện loại không tách:</b> thấy một <b>giới từ</b> (<i>for, after, with, into, to</i>) là biết tân ngữ phải đứng sau cả cụm.",
+            "<b>Danh từ thì thoải mái</b> — <i>turn the light on</i> và <i>turn on the light</i> đều đúng. Danh từ dài thì nên đặt ở cuối.",
+            "<b>Đừng đoán nghĩa</b> từ hai từ ghép lại. <i>run into</i> không phải “chạy vào”, <i>put off</i> không phải “đặt ra”.",
+            "<b>Email trang trọng thì đổi sang từ đơn:</b> <i>put off → postpone</i>, <i>find out → discover</i>, <i>deal with → resolve</i>.",
+            "<b>Bài tập 3 phút:</b> lấy sáu cụm <i>turn on, pick up, put off, look after, look for, deal with</i> rồi viết mỗi cụm một câu có <b>đại từ</b> làm tân ngữ."
+          ]
+        }
+      ]
+    }
+  ]
+}

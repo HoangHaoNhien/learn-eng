@@ -1,0 +1,219 @@
+{
+  "id": 64,
+  "group": "Nhóm 6 · Tính từ & Trạng từ",
+  "title": "the more … the more",
+  "subtitle": "Tiếng Việt có sẵn \"càng … càng …\" nên nghĩa thì hiểu ngay. Cái khó nằm ở <b>trật tự từ</b>: tiếng Anh bắt từ so sánh phải nhảy lên ĐẦU mỗi vế, trong khi tiếng Việt để nó ở chỗ cũ. Đây là lý do câu <i>You practise the more, you get the better</i> nghe sai hẳn.",
+  "meaning": "Càng … càng … — hai thứ tăng giảm cùng nhau",
+  "rule": [
+    "<em>The</em> + so sánh hơn + mệnh đề, <em>the</em> + so sánh hơn + mệnh đề",
+    "Từ so sánh luôn nhảy lên <em>ĐẦU</em> mỗi vế",
+    "Giữa hai vế có <em>dấu phẩy</em> — không dùng <em>than</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1–B2", "hot": true },
+    { "text": "Càng … càng …" },
+    { "text": "The sooner, the better" },
+    { "text": "Không bao giờ dùng than" }
+  ],
+  "frames": [38, 41, 46, 57, 97],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Khi <b>hai thứ tăng giảm cùng nhau</b> — luyện nhiều thì giỏi lên, đặt sớm thì rẻ hơn — tiếng Anh dùng một bộ khung cố định: <b>The</b> + so sánh hơn + mệnh đề<b>,</b> <b>the</b> + so sánh hơn + mệnh đề." },
+        { "t": "callout", "html": "<b>So sánh hai câu để thấy chỗ khác:</b><br>Tiếng Việt: <i>Bạn luyện <b>càng nhiều</b>, bạn giỏi <b>càng nhanh</b>.</i> — từ so sánh ở <b>cuối</b> mỗi vế.<br>Tiếng Anh: <i><b>The more</b> you practise, <b>the better</b> you get.</i> — từ so sánh ở <b>đầu</b> mỗi vế.<br>Dịch theo trật tự tiếng Việt là ra <i>You practise the more…</i> ✗" },
+        { "t": "h3", "text": "Ba mảnh của mỗi vế" },
+        { "t": "table", "head": ["Mảnh", "Quy tắc", "Ví dụ"], "rows": [
+          ["<code>the</code>", "bắt buộc, không bỏ được", "<i><b>The</b> more …, <b>the</b> better …</i>"],
+          ["so sánh hơn", "nhảy lên trước chủ ngữ", "<i>more · better · bigger · sooner</i>"],
+          ["mệnh đề", "chủ ngữ + động từ, trật tự bình thường", "<i>… you practise · … it is</i>"]
+        ] },
+        { "t": "callout", "html": "<b>KHÔNG dùng <i>than</i>.</b> Đây không phải so sánh hai vật với nhau mà là hai thứ <b>biến đổi song song</b>. <i>The more you eat <b>than</b> you gain</i> ✗ — thừa hẳn một chữ." },
+        { "t": "p", "html": "<b>Vế hai là kết quả.</b> Đổi chỗ hai vế thì nghĩa đổi theo: <i>The more you pay, the better it is</i> (trả nhiều → chất lượng tốt) khác <i>The better it is, the more you pay</i> (tốt → phải trả nhiều)." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        { "t": "table", "head": ["Loại từ", "Cách dựng", "Ví dụ"], "rows": [
+          ["Tính từ ngắn", "<code>the</code> + adj-<b>er</b>", "<i><b>The older</b> you get, <b>the wiser</b> you become.</i>"],
+          ["Tính từ dài", "<code>the more</code> + adj", "<i><b>The more expensive</b> it is, <b>the better</b> it looks.</i>"],
+          ["Trạng từ", "<code>the</code> + adv-<b>er</b> / <code>the more</code> + adv", "<i><b>The harder</b> you try, <b>the faster</b> you learn.</i>"],
+          ["Danh từ đếm được", "<code>the more</code> + N số nhiều", "<i><b>The more friends</b> you have, the better.</i>"],
+          ["Danh từ không đếm", "<code>the more</code> + N", "<i><b>The more money</b> you earn, <b>the more tax</b> you pay.</i>"],
+          ["Giảm xuống", "<code>the less</code> / <code>the fewer</code>", "<i><b>The less</b> you worry, <b>the better</b> you sleep.</i>"],
+          ["Bất quy tắc", "<code>the better · the worse</code>", "<i><b>The worse</b> the weather, <b>the slower</b> the traffic.</i>"],
+          ["Rút gọn (không động từ)", "<code>The</code> + adj-er, <code>the</code> + adj-er", "<i><b>The sooner, the better.</b></i>"]
+        ] },
+        { "t": "callout", "html": "<b>Mẹo nhìn bảng:</b> cột giữa chỉ có hai kiểu — hoặc thêm <b>-er</b>, hoặc thêm <b>more</b>. Luật y hệt bài so sánh hơn (bài 37), chỉ khác là phải kẹp chữ <b>the</b> ở trước." },
+        { "t": "h3", "text": "Mười hai câu mẫu để nhập tâm" },
+        { "t": "ex", "items": [
+          { "en": "The more you practise, the better you get.", "vi": "Bạn càng luyện tập, bạn càng giỏi.", "note": "Câu kinh điển nhất. <i>more</i> ở đầu vế một, <i>better</i> ở đầu vế hai." },
+          { "en": "The older I get, the less I worry.", "vi": "Tôi càng lớn tuổi, tôi càng ít lo.", "note": "<i>older</i> tính từ ngắn thêm -er, <i>less</i> là giảm xuống." },
+          { "en": "The earlier you book, the cheaper the ticket is.", "vi": "Bạn đặt càng sớm, vé càng rẻ.", "note": "Dùng mỗi khi nói về vé máy bay, khách sạn." },
+          { "en": "The more expensive the phone, the longer it lasts.", "vi": "Điện thoại càng đắt thì càng bền.", "note": "Tính từ dài dùng <i>the more</i>. Vế một lược bỏ <i>is</i> — vẫn tự nhiên." },
+          { "en": "The harder the task, the greater the reward.", "vi": "Việc càng khó, phần thưởng càng lớn.", "note": "Cả hai vế đều lược động từ — kiểu nói châm ngôn." },
+          { "en": "The more time you spend, the more you learn.", "vi": "Bạn bỏ càng nhiều thời gian, bạn học được càng nhiều.", "note": "<i>the more + danh từ</i> — danh từ đi liền sau <i>more</i>." },
+          { "en": "The sooner, the better.", "vi": "Càng sớm càng tốt.", "note": "Dạng rút gọn, không có chủ ngữ lẫn động từ. Dùng rất nhiều khi trả lời." },
+          { "en": "The less sugar you eat, the healthier you feel.", "vi": "Bạn ăn càng ít đường, bạn càng thấy khoẻ.", "note": "<i>the less + danh từ không đếm được</i>." },
+          { "en": "The longer you wait, the harder it becomes.", "vi": "Bạn càng chờ lâu, việc càng khó hơn.", "note": "Câu hay dùng để thúc ai đó bắt tay làm." },
+          { "en": "The more I think about it, the less I like it.", "vi": "Càng nghĩ về chuyện đó, tôi càng thấy không thích.", "note": "<i>more</i> ở vế một, <i>less</i> ở vế hai — tăng và giảm ngược chiều nhau." },
+          { "en": "The fewer meetings we have, the more work we finish.", "vi": "Chúng ta càng ít họp, càng xong được nhiều việc.", "note": "<i>fewer</i> cho danh từ đếm được, <i>less</i> cho không đếm được." },
+          { "en": "Things are getting more and more expensive.", "vi": "Mọi thứ ngày càng đắt đỏ.", "note": "KHÁC BỘ KHUNG: <i>more and more</i> là \"ngày càng\", chỉ có MỘT vế." }
+        ] }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        { "t": "cards", "items": [
+          { "icon": "📈", "title": "Hai thứ tăng giảm cùng nhau", "text": "<i>The more you pay, the faster it arrives.</i> Đây là nghĩa gốc của bộ khung." },
+          { "icon": "💡", "title": "Khuyên nhủ, đúc kết", "text": "<i>The earlier you start, the easier it is.</i> Nghe chín chắn hơn hẳn câu thường." },
+          { "icon": "⚡", "title": "Trả lời nhanh bằng dạng rút gọn", "text": "<i>— When do you need it? — The sooner, the better.</i>" },
+          { "icon": "📰", "title": "Viết luận, viết báo cáo", "text": "Bộ khung này nâng điểm viết rõ rệt vì gói hai ý vào một câu gọn." },
+          { "icon": "🚫", "title": "KHÔNG dùng khi chỉ so hai vật", "text": "So A với B thì dùng bài 37: <i>This one is cheaper than that one.</i> Không có <i>the … the</i>." },
+          { "icon": "🚫", "title": "KHÔNG dùng cho \"ngày càng\"", "text": "Một thứ tự nó tăng dần thì dùng <i>more and more</i> / <i>-er and -er</i>, không phải bộ khung hai vế." }
+        ] }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Hai mươi tư mục dưới đây gồm bộ khung cơ bản, các cụm rút gọn nói hằng ngày, nhóm \"ngày càng\" dễ nhầm, và sáu câu nguyên con đáng học thuộc." },
+        { "t": "words", "groups": [
+          { "title": "Bộ khung cơ bản", "items": [
+            { "w": "the more … the more", "vi": "càng nhiều … càng nhiều", "ex": "The more you give, the more you receive.", "exvi": "Bạn cho đi càng nhiều, bạn nhận lại càng nhiều." },
+            { "w": "the more … the less", "vi": "càng nhiều … càng ít", "ex": "The more I explain, the less he understands.", "exvi": "Tôi càng giải thích, anh ấy càng ít hiểu.", "note": "Hai vế ngược chiều nhau vẫn hợp lệ." },
+            { "w": "the bigger … the better", "vi": "càng to … càng tốt", "ex": "The bigger the screen, the better for your eyes.", "exvi": "Màn hình càng to càng tốt cho mắt." },
+            { "w": "the harder … the faster", "vi": "càng cố … càng nhanh", "ex": "The harder you work, the faster you improve.", "exvi": "Bạn càng chăm, bạn càng tiến bộ nhanh." },
+            { "w": "the longer … the harder", "vi": "càng lâu … càng khó", "ex": "The longer you leave it, the harder it gets.", "exvi": "Bạn càng để lâu, việc càng khó." },
+            { "w": "the sooner … the cheaper", "vi": "càng sớm … càng rẻ", "ex": "The sooner you book, the cheaper it is.", "exvi": "Bạn đặt càng sớm thì càng rẻ." }
+          ] },
+          { "title": "Dạng rút gọn — không chủ ngữ, không động từ", "items": [
+            { "w": "The sooner, the better.", "vi": "Càng sớm càng tốt.", "ex": "— When do you need it? — The sooner, the better.", "exvi": "— Khi nào bạn cần? — Càng sớm càng tốt.", "note": "Cụm rút gọn thông dụng nhất." },
+            { "w": "The more, the merrier.", "vi": "Càng đông càng vui.", "ex": "Bring your friends — the more, the merrier.", "exvi": "Dẫn bạn bè đến luôn — càng đông càng vui.", "note": "Thành ngữ cố định, không đổi chữ được." },
+            { "w": "The bigger, the better.", "vi": "Càng to càng tốt.", "ex": "For a family car, the bigger, the better.", "exvi": "Xe gia đình thì càng to càng tốt." },
+            { "w": "The simpler, the better.", "vi": "Càng đơn giản càng tốt.", "ex": "For a first design, the simpler, the better.", "exvi": "Bản thiết kế đầu thì càng đơn giản càng tốt." },
+            { "w": "The cheaper, the better.", "vi": "Càng rẻ càng tốt.", "ex": "I'm on a budget — the cheaper, the better.", "exvi": "Tôi eo hẹp tiền — càng rẻ càng tốt." },
+            { "w": "The less, the better.", "vi": "Càng ít càng tốt.", "ex": "With salt, the less, the better.", "exvi": "Muối thì càng ít càng tốt." }
+          ] },
+          { "title": "NGÀY CÀNG — khác bộ khung, chỉ một vế", "items": [
+            { "w": "more and more", "vi": "ngày càng nhiều / ngày càng", "ex": "More and more people work from home.", "exvi": "Ngày càng nhiều người làm việc tại nhà.", "note": "Không có chữ <i>the</i>, không có vế hai." },
+            { "w": "less and less", "vi": "ngày càng ít", "ex": "I have less and less free time.", "exvi": "Tôi ngày càng ít thời gian rảnh." },
+            { "w": "better and better", "vi": "ngày càng tốt hơn", "ex": "Her English is getting better and better.", "exvi": "Tiếng Anh của cô ấy ngày càng khá lên." },
+            { "w": "worse and worse", "vi": "ngày càng tệ đi", "ex": "The traffic is getting worse and worse.", "exvi": "Giao thông ngày càng tệ." },
+            { "w": "bigger and bigger", "vi": "ngày càng to ra", "ex": "The crowd grew bigger and bigger.", "exvi": "Đám đông mỗi lúc một đông thêm." },
+            { "w": "harder and harder", "vi": "ngày càng khó", "ex": "It is getting harder and harder to find a flat.", "exvi": "Tìm căn hộ ngày càng khó." }
+          ] },
+          { "title": "Sáu câu nên học thuộc nguyên con", "items": [
+            { "w": "The more you practise, the better you get.", "vi": "Càng luyện càng giỏi.", "ex": "Don't give up — the more you practise, the better you get.", "exvi": "Đừng bỏ cuộc — càng luyện càng giỏi." },
+            { "w": "The more you read, the wider your vocabulary.", "vi": "Càng đọc, vốn từ càng rộng.", "ex": "The more you read, the wider your vocabulary becomes.", "exvi": "Bạn càng đọc, vốn từ của bạn càng rộng ra." },
+            { "w": "The more detail you give, the faster we can help.", "vi": "Bạn nói càng chi tiết, chúng tôi giúp càng nhanh.", "ex": "Please describe the problem — the more detail you give, the faster we can help.", "exvi": "Xin mô tả vấn đề — càng chi tiết thì chúng tôi giúp càng nhanh.", "note": "Câu mẫu khi viết email hỗ trợ khách hàng." },
+            { "w": "The earlier you start, the easier it is.", "vi": "Bắt đầu càng sớm càng dễ.", "ex": "With a language, the earlier you start, the easier it is.", "exvi": "Với ngoại ngữ, bắt đầu càng sớm càng dễ." },
+            { "w": "The more I think about it, the less I like it.", "vi": "Càng nghĩ tôi càng không thích.", "ex": "It sounded fine at first, but the more I think about it, the less I like it.", "exvi": "Lúc đầu nghe ổn, nhưng càng nghĩ tôi càng không thích." },
+            { "w": "The less you worry, the better you sleep.", "vi": "Càng ít lo càng ngủ ngon.", "ex": "Try to relax — the less you worry, the better you sleep.", "exvi": "Thư giãn đi — càng ít lo càng ngủ ngon." }
+          ] }
+        ] }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        { "t": "pairs", "items": [
+          { "wrong": "You practise <b>the more</b>, you get <b>the better</b>.", "right": "<b>The more</b> you practise, <b>the better</b> you get.", "why": "BẪY SỐ MỘT. Dịch thẳng trật tự tiếng Việt \"bạn luyện càng nhiều\". Tiếng Anh bắt từ so sánh nhảy lên ĐẦU mỗi vế." },
+          { "wrong": "<b>More</b> you practise, <b>better</b> you get.", "right": "<b>The more</b> you practise, <b>the better</b> you get.", "why": "Mất chữ <b>the</b>. Cả hai vế đều bắt buộc có <i>the</i> — đây chính là thứ đánh dấu bộ khung này." },
+          { "wrong": "The more you eat, <b>than</b> the more you gain.", "right": "The more you eat, the more you gain.", "why": "Thừa <b>than</b>. Đây không phải so sánh A với B mà là hai thứ biến đổi song song." },
+          { "wrong": "The <b>more expensiver</b> it is, the better.", "right": "The <b>more expensive</b> it is, the better.", "why": "Tính từ dài chỉ dùng <b>more</b>, không thêm <b>-er</b>. Hai lần so sánh là sai chồng." },
+          { "wrong": "The <b>most</b> you practise, the <b>best</b> you get.", "right": "The <b>more</b> you practise, the <b>better</b> you get.", "why": "Dùng so sánh NHẤT thay vì so sánh HƠN. Bộ khung này luôn dùng dạng hơn." },
+          { "wrong": "The more money you <b>earning</b>, the more tax you pay.", "right": "The more money you <b>earn</b>, the more tax you pay.", "why": "Sau chủ ngữ phải là động từ chia bình thường. Phần còn lại của mệnh đề không đổi gì cả." },
+          { "wrong": "The <b>less</b> meetings we have, the better.", "right": "The <b>fewer</b> meetings we have, the better.", "why": "<i>meetings</i> đếm được nên dùng <b>fewer</b>. <i>less</i> dành cho danh từ không đếm được: <i>the less sugar…</i>" },
+          { "wrong": "The more you study <b>the better</b> you get.", "right": "The more you study<b>,</b> the better you get.", "why": "Thiếu dấu phẩy giữa hai vế. Trong văn viết đây là lỗi bị trừ điểm." },
+          { "wrong": "Prices are getting <b>the more and more</b> expensive.", "right": "Prices are getting <b>more and more</b> expensive.", "why": "Nhầm sang cụm \"ngày càng\". <i>more and more</i> KHÔNG có <i>the</i> và chỉ đứng một mình, không cần vế hai." },
+          { "wrong": "The sooner <b>is</b> the better.", "right": "The sooner, the better.", "why": "Dạng rút gọn không có động từ. Thêm <i>is</i> vào là hỏng cụm cố định." }
+        ] }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        { "t": "table", "head": ["Cấu trúc", "Nghĩa", "Ví dụ"], "rows": [
+          ["<code>The more …, the more …</code>", "càng … càng … (hai vế)", "<i>The more you pay, the faster it comes.</i>"],
+          ["<code>more and more</code>", "ngày càng (một vế)", "<i>It is getting more and more popular.</i>"],
+          ["<code>-er than</code>", "so A với B", "<i>This one is cheaper than that one.</i>"],
+          ["<code>as … as</code>", "bằng nhau", "<i>It is as cheap as the other one.</i>"],
+          ["<code>the most / the -est</code>", "nhất trong nhóm", "<i>This is the cheapest option.</i>"]
+        ] },
+        { "t": "h3", "text": "Hỏi một câu là ra ngay" },
+        { "t": "tree", "q": "Bạn đang nói chuyện gì?", "nodes": [
+          { "if": "Hai thứ tăng giảm CÙNG NHAU", "then": "The + so sánh hơn, the + so sánh hơn", "ex": "The more you sleep, the better you feel." },
+          { "if": "Một thứ tự nó tăng dần theo thời gian", "then": "more and more / adj-er and adj-er", "ex": "It is getting harder and harder." },
+          { "if": "So vật A với vật B", "then": "so sánh hơn + than", "ex": "This is cheaper than that." },
+          { "if": "Chọn ra cái đứng đầu trong nhóm", "then": "the most / the -est", "ex": "This is the cheapest one." }
+        ] },
+        { "t": "h3", "text": "Thang rút gọn: bớt dần cho tới khi chỉ còn hai chữ" },
+        { "t": "scale", "items": [
+          { "en": "The sooner you send it, the better it will be for us.", "vi": "Đầy đủ nhất — dùng trong văn viết trang trọng" },
+          { "en": "The sooner you send it, the better.", "vi": "Lược vế hai — rất thông dụng" },
+          { "en": "The sooner it is sent, the better.", "vi": "Bị động, nghe khách quan hơn" },
+          { "en": "The sooner, the better.", "vi": "Rút gọn hết — câu trả lời nhanh" }
+        ] }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Bộ khung này gần như luôn xuất hiện lúc bạn <b>đúc kết</b> hoặc <b>khuyên nhủ</b> — nên nó bám chặt vào nhóm khung câu nêu ý kiến và đưa lời khuyên." },
+        { "t": "link", "items": [
+          { "id": 38, "why": "You should + V — lời khuyên mạnh thêm một bậc khi kèm lý do kiểu càng–càng: <i>You should book now; the earlier you book, the cheaper it is.</i>" },
+          { "id": 41, "why": "I think (that) + mệnh đề — mệnh đề đằng sau rất hay là một câu càng–càng: <i>I think the more you practise, the better you get.</i>" },
+          { "id": 46, "why": "I'd say + mệnh đề — dùng để nêu một đúc kết cá nhân: <i>I'd say the simpler, the better.</i>" },
+          { "id": 57, "why": "It depends on + N — trả lời \"còn tùy\" rồi nối ngay một câu càng–càng để nói rõ tùy vào cái gì." },
+          { "id": 97, "why": "If + hiện tại, I'll + V — cùng họ \"nhân quả\" với bộ khung này; nắm cả hai thì diễn đạt điều kiện linh hoạt hơn hẳn." }
+        ] }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A · Điền dạng so sánh đúng" },
+        { "t": "quiz", "items": [
+          { "vi": "Bạn càng luyện tập, bạn càng giỏi.", "blank": "The __________ (much) you practise, the __________ (good) you get.", "a": "more … better" },
+          { "vi": "Bạn đặt càng sớm, vé càng rẻ.", "blank": "The __________ (early) you book, the __________ (cheap) the ticket is.", "a": "earlier … cheaper" },
+          { "vi": "Điện thoại càng đắt thì càng bền.", "blank": "The __________ (expensive) the phone, the __________ (long) it lasts.", "a": "more expensive … longer — tính từ dài dùng more" },
+          { "vi": "Bạn càng ít lo, bạn càng ngủ ngon.", "blank": "The __________ (little) you worry, the __________ (well) you sleep.", "a": "less … better" },
+          { "vi": "Chúng ta càng ít họp, càng xong nhiều việc.", "blank": "The __________ (few) meetings we have, the __________ (much) work we finish.", "a": "fewer … more — meetings đếm được nên dùng fewer" },
+          { "vi": "Bạn càng chờ lâu, việc càng khó.", "blank": "The __________ (long) you wait, the __________ (hard) it becomes.", "a": "longer … harder" }
+        ] },
+        { "t": "h3", "text": "B · Chọn đúng cấu trúc" },
+        { "t": "quiz", "items": [
+          { "vi": "Mọi thứ ngày càng đắt đỏ.", "blank": "Things are getting __________ expensive.  (more and more / the more the more)", "a": "more and more — một vế, không có the" },
+          { "vi": "Càng đông càng vui.", "blank": "Bring your friends — __________.  (the more the merrier / more and more merrier)", "a": "the more, the merrier" },
+          { "vi": "Cái này rẻ hơn cái kia.", "blank": "This one is __________ that one.  (cheaper than / the cheaper)", "a": "cheaper than — so hai vật thì dùng than" },
+          { "vi": "Càng sớm càng tốt.", "blank": "__________.  (The sooner the better / The sooner is the better)", "a": "The sooner, the better — dạng rút gọn không có động từ" },
+          { "vi": "Tiếng Anh của cô ấy ngày càng khá lên.", "blank": "Her English is getting __________.  (better and better / the better the better)", "a": "better and better" }
+        ] },
+        { "t": "h3", "text": "C · Dịch cả câu" },
+        { "t": "quiz", "items": [
+          { "vi": "1. Bạn nói càng chi tiết, chúng tôi giúp càng nhanh.", "a": "The more detail you give, the faster we can help." },
+          { "vi": "2. Càng nghĩ về chuyện đó, tôi càng thấy không thích.", "a": "The more I think about it, the less I like it." },
+          { "vi": "3. Việc càng khó, phần thưởng càng lớn.", "a": "The harder the task, the greater the reward." },
+          { "vi": "4. Tìm căn hộ ngày càng khó.", "a": "It is getting harder and harder to find a flat." },
+          { "vi": "5. Với bản thiết kế đầu thì càng đơn giản càng tốt.", "a": "For a first design, the simpler, the better." }
+        ] }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>Câu thần chú: \"càng nhảy lên đầu\".</b> Tiếng Việt để <i>càng</i> ở giữa vế, tiếng Anh ném <i>the + so sánh</i> lên đầu vế. Nhớ đúng một điều này là tránh được bẫy nặng nhất.",
+          "<b>Hai chữ <i>the</i>, một dấu phẩy.</b> Đếm nhanh trước khi nộp bài: câu đúng luôn có đủ hai chữ <i>the</i> và một dấu phẩy ở giữa.",
+          "<b>Thấy <i>than</i> là gạch bỏ.</b> Bộ khung này không bao giờ đi với <i>than</i> — hai vế không so với nhau, chúng chạy song song.",
+          "<b>Phân biệt bằng số vế:</b> HAI vế thì <i>the more … the more</i>; MỘT vế thì <i>more and more</i>. Thấy chỉ có một mệnh đề mà vẫn viết <i>the</i> là sai.",
+          "<b>Thuộc bốn cụm rút gọn là xài được ngay:</b> <i>The sooner, the better · The more, the merrier · The simpler, the better · The cheaper, the better</i>.",
+          "<b>Luật -er hay more giống hệt bài 37.</b> Không phải học lại: tính từ ngắn thêm <b>-er</b>, tính từ dài thêm <b>more</b>, chỉ việc kẹp chữ <i>the</i> vào trước."
+        ] }
+      ]
+    }
+  ]
+}

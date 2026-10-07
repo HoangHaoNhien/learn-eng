@@ -1,0 +1,277 @@
+{
+  "id": 35,
+  "group": "Nhóm 6 · Tính từ & Trạng từ",
+  "title": "Tính từ sau linking verb",
+  "subtitle": "Một nhóm động từ đặc biệt kéo theo TÍNH TỪ chứ không phải trạng từ — ngược hẳn với bản năng của người học. That sounds great ✓ chứ không phải greatly, và I feel bad ✓ chứ không phải badly.",
+  "meaning": "Động từ nối — mô tả trạng thái của chủ ngữ",
+  "rule": [
+    "<em>be · seem · look · sound · feel · taste · smell</em> + <em>TÍNH TỪ</em>",
+    "<em>sound</em> + tính từ · <em>sound like</em> + danh từ",
+    "Động từ hành động mới đi với trạng từ"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1", "hot": true },
+    { "text": "sounds great ✓ · greatly ✗" },
+    { "text": "I feel bad ✓ · badly ✗" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [44, 81, 82, 85, 88],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Thông thường, động từ đi với <b>trạng từ</b>: <i>He runs <b>quickly</b></i>. Nhưng có một nhóm động từ gọi là <b>linking verb</b> (động từ nối) lại đi với <b>TÍNH TỪ</b>, vì chúng không mô tả hành động mà mô tả <b>trạng thái của chủ ngữ</b>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — nghe ngược đời nhưng đúng:</b><br>• <i>That sounds <b>great</b></i> ✓ — <i>That sounds greatly</i> ✗<br>• <i>I feel <b>bad</b></i> ✓ — <i>I feel badly</i> ✗<br>• <i>You look <b>tired</b></i> ✓ — <i>You look tiredly</i> ✗<br>Nhóm này gồm: <b>be, seem, look, sound, feel, taste, smell, become, get, stay</b>." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>sound</i> và <i>sound like</i>:</b><br>• <i>That sounds <b>great</b></i> ✓ — theo sau là TÍNH TỪ<br>• <i>That sounds <b>like a plan</b></i> ✓ — theo sau là DANH TỪ thì phải có <b>like</b><br>Thiếu chữ <i>like</i> trước danh từ là câu hỏng ngay. Xem [Khung 85]." },
+        { "t": "h3", "text": "Hai vai của cùng một động từ" },
+        {
+          "t": "table",
+          "head": ["Động từ", "Là linking verb (+ tính từ)", "Là động từ hành động (+ trạng từ)"],
+          "rows": [
+            ["look", "He looks <b>tired</b>. (trông có vẻ)", "He looked at me <b>carefully</b>. (nhìn)"],
+            ["feel", "I feel <b>bad</b>. (cảm thấy)", "He felt the cloth <b>carefully</b>. (sờ)"],
+            ["smell", "It smells <b>nice</b>. (có mùi)", "She smelled the flower <b>slowly</b>. (ngửi)"],
+            ["taste", "It tastes <b>sweet</b>. (có vị)", "He tasted the soup <b>cautiously</b>. (nếm)"]
+          ]
+        },
+        { "t": "p", "html": "Mẹo phân biệt: thử thay động từ bằng <b>be</b>. Nếu câu vẫn xuôi (<i>He <b>is</b> tired</i>) thì đó là linking verb, và theo sau phải là <b>tính từ</b>." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Động từ", "Cấu trúc", "Ví dụ"],
+          "rows": [
+            ["<code>be</code>", "<code>be + tính từ</code>", "I am tired."],
+            ["<code>seem</code>", "<code>seem + tính từ</code>", "It seems fine."],
+            ["<code>look</code>", "<code>look + tính từ</code>", "You look tired."],
+            ["<code>sound</code>", "<code>sound + tính từ</code>", "That sounds great."],
+            ["<code>sound like</code>", "<code>sound like + danh từ</code>", "That sounds like a plan."],
+            ["<code>feel</code>", "<code>feel + tính từ</code>", "I feel bad about it."],
+            ["<code>taste</code>", "<code>taste + tính từ</code>", "It tastes delicious."],
+            ["<code>smell</code>", "<code>smell + tính từ</code>", "It smells nice."],
+            ["<code>become / get</code>", "<code>+ tính từ</code>", "It's getting colder."],
+            ["<code>stay / remain</code>", "<code>+ tính từ</code>", "Please stay calm."],
+            ["<code>look like</code>", "<code>+ danh từ</code>", "He looks like his father."],
+            ["Động từ hành động", "<code>+ trạng từ</code>", "He runs quickly."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cặp <i>good</i> và <i>well</i> là ngoại lệ đáng nhớ:</b> <i>You look <b>good</b></i> = trông đẹp, trông ổn. <i>You look <b>well</b></i> = trông khỏe mạnh. Ở đây <b>well</b> là TÍNH TỪ chỉ sức khỏe, không phải trạng từ." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "That sounds great!", "vi": "Nghe hay quá!", "note": "BẪY SỐ MỘT: sau <i>sound</i> là TÍNH TỪ. <i>sounds greatly</i> ✗. Xem [Khung 85]." },
+            { "en": "That sounds like a plan.", "vi": "Nghe có vẻ ổn đấy.", "note": "BẪY SỐ HAI: theo sau là DANH TỪ thì phải có <b>like</b>." },
+            { "en": "I feel bad about forgetting.", "vi": "Tôi áy náy vì đã quên.", "note": "<i>I feel badly</i> ✗ — sau <i>feel</i> là tính từ. Xem [Khung 88]." },
+            { "en": "You look tired. Are you OK?", "vi": "Trông bạn mệt. Bạn ổn chứ?", "note": "<i>look</i> ở đây nghĩa “trông có vẻ” nên đi với tính từ." },
+            { "en": "He looked at me carefully.", "vi": "Anh ấy nhìn tôi chăm chú.", "note": "Ở đây <i>look</i> là HÀNH ĐỘNG nhìn nên đi với TRẠNG TỪ." },
+            { "en": "It seems fine to me.", "vi": "Với tôi thì có vẻ ổn.", "note": "<i>seem</i> luôn là linking verb. Xem [Khung 44]." },
+            { "en": "This soup tastes delicious.", "vi": "Món súp này ngon quá.", "note": "<i>tastes deliciously</i> ✗." },
+            { "en": "It smells nice in here.", "vi": "Trong này thơm quá." },
+            { "en": "It's getting colder.", "vi": "Trời đang lạnh dần.", "note": "<b>get + tính từ</b> = dần trở nên." },
+            { "en": "Please stay calm.", "vi": "Xin hãy bình tĩnh.", "note": "<i>stay calmly</i> ✗ — <i>stay</i> cũng là linking verb." },
+            { "en": "You look well — have you been on holiday?", "vi": "Trông bạn khỏe ra — bạn vừa đi nghỉ à?", "note": "<b>well</b> ở đây là TÍNH TỪ chỉ sức khỏe." },
+            { "en": "He runs quickly.", "vi": "Anh ấy chạy nhanh.", "note": "<i>run</i> là động từ HÀNH ĐỘNG nên đi với TRẠNG TỪ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "👂", "title": "Phản ứng với điều vừa nghe", "text": "<i>That sounds great!</i> Xem [Khung 85]." },
+            { "icon": "😔", "title": "Nói cảm giác của mình", "text": "<i>I feel bad about it.</i> Xem [Khung 88]." },
+            { "icon": "👀", "title": "Nhận xét vẻ ngoài của ai", "text": "<i>You look tired.</i>" },
+            { "icon": "🍲", "title": "Nhận xét món ăn", "text": "<i>This soup tastes delicious.</i>" },
+            { "icon": "🌡️", "title": "Nói xu hướng đang đổi", "text": "<i>It's getting colder.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Động từ chỉ hành động thật. <i>He runs quickly</i> — trạng từ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Linking verb — đi với tính từ",
+              "items": [
+                { "w": "sound + tính từ", "vi": "nghe có vẻ", "ex": "That sounds great!", "exvi": "Nghe hay quá!", "note": "BẪY SỐ MỘT: <i>sounds greatly</i> ✗. Xem [Khung 85]." },
+                { "w": "sound like + danh từ", "vi": "nghe như là", "ex": "That sounds like a plan.", "exvi": "Nghe có vẻ ổn đấy.", "note": "Có DANH TỪ thì bắt buộc thêm <b>like</b>." },
+                { "w": "look + tính từ", "vi": "trông có vẻ", "ex": "You look tired.", "exvi": "Trông bạn mệt." },
+                { "w": "look like + danh từ", "vi": "trông giống", "ex": "He looks like his father.", "exvi": "Anh ấy giống bố." },
+                { "w": "feel + tính từ", "vi": "cảm thấy", "ex": "I feel bad about it.", "exvi": "Tôi áy náy về chuyện đó.", "note": "<i>I feel badly</i> ✗. Xem [Khung 88]." },
+                { "w": "seem + tính từ", "vi": "có vẻ", "ex": "It seems fine.", "exvi": "Có vẻ ổn. Xem [Khung 44]." },
+                { "w": "taste + tính từ", "vi": "có vị", "ex": "This soup tastes delicious.", "exvi": "Món súp này ngon quá." },
+                { "w": "smell + tính từ", "vi": "có mùi", "ex": "It smells nice in here.", "exvi": "Trong này thơm quá." },
+                { "w": "get + tính từ", "vi": "dần trở nên", "ex": "It's getting colder.", "exvi": "Trời đang lạnh dần." },
+                { "w": "become + tính từ", "vi": "trở nên", "ex": "He became famous overnight.", "exvi": "Anh ấy nổi tiếng sau một đêm." },
+                { "w": "stay / remain + tính từ", "vi": "giữ nguyên", "ex": "Please stay calm.", "exvi": "Xin hãy bình tĩnh.", "note": "<i>stay calmly</i> ✗." },
+                { "w": "turn + tính từ", "vi": "chuyển sang", "ex": "The leaves turned brown.", "exvi": "Lá chuyển sang màu nâu." }
+              ]
+            },
+            {
+              "title": "Tính từ hay dùng & cặp dễ nhầm",
+              "items": [
+                { "w": "great / lovely", "vi": "tuyệt / dễ thương", "ex": "That sounds lovely.", "exvi": "Nghe dễ thương quá." },
+                { "w": "bad / terrible", "vi": "tệ / kinh khủng", "ex": "I feel terrible about it.", "exvi": "Tôi áy náy kinh khủng." },
+                { "w": "tired / exhausted", "vi": "mệt / kiệt sức", "ex": "You look exhausted.", "exvi": "Trông bạn kiệt sức." },
+                { "w": "delicious / tasty", "vi": "ngon", "ex": "It tastes delicious.", "exvi": "Món này ngon quá." },
+                { "w": "good ≠ well", "vi": "đẹp, ổn ≠ khỏe mạnh", "ex": "You look good. · You look well.", "exvi": "Trông bạn đẹp. · Trông bạn khỏe.", "note": "<b>well</b> ở đây là TÍNH TỪ chỉ sức khỏe, không phải trạng từ." },
+                { "w": "bored / boring", "vi": "chán / gây chán", "ex": "I feel bored.", "exvi": "Tôi thấy chán.", "note": "Cặp -ed/-ing vẫn áp dụng sau linking verb. Xem [Ngữ pháp 34]." },
+                { "w": "worried / worrying", "vi": "lo / đáng lo", "ex": "You look worried.", "exvi": "Trông bạn lo lắng. Xem [Khung 87]." },
+                { "w": "happy about / with", "vi": "hài lòng về / với", "ex": "I'm happy with the result.", "exvi": "Tôi hài lòng với kết quả. Xem [Khung 82]." },
+                { "w": "He runs quickly", "vi": "anh ấy chạy nhanh", "ex": "He runs quickly.", "exvi": "Anh ấy chạy nhanh.", "note": "Động từ HÀNH ĐỘNG nên đi với TRẠNG TỪ." },
+                { "w": "He looked at me carefully", "vi": "anh ấy nhìn tôi chăm chú", "ex": "He looked at me carefully.", "exvi": "Anh ấy nhìn tôi chăm chú.", "note": "Ở đây <i>look</i> là hành động nhìn — đi với trạng từ." },
+                { "w": "speak clearly", "vi": "nói rõ ràng", "ex": "Please speak clearly.", "exvi": "Xin nói rõ hơn.", "note": "<i>speak</i> là hành động. Xem [Ngữ pháp 38]." },
+                { "w": "work hard ≠ hardly", "vi": "làm việc chăm ≠ hầu như không", "ex": "He works hard. · He hardly works.", "exvi": "Anh ấy làm chăm. · Anh ấy hầu như không làm.", "note": "<b>hardly</b> nghĩa NGƯỢC HẲN — là bẫy riêng. Xem [Ngữ pháp 38]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "That sounds <b>greatly</b>.", "right": "That sounds <b>great</b>.", "why": "BẪY SỐ MỘT: sau linking verb là TÍNH TỪ, không phải trạng từ. Xem [Khung 85]." },
+            { "wrong": "I feel <b>badly</b> about it.", "right": "I feel <b>bad</b> about it.", "why": "Cùng lỗi. <i>feel badly</i> nghĩa gốc là “tay tôi sờ kém”. Xem [Khung 88]." },
+            { "wrong": "You look <b>tiredly</b>.", "right": "You look <b>tired</b>.", "why": "<i>look</i> nghĩa “trông có vẻ” là linking verb." },
+            { "wrong": "That sounds <b>a plan</b>.", "right": "That sounds <b>like a plan</b>.", "why": "BẪY SỐ HAI: theo sau là DANH TỪ thì bắt buộc có <b>like</b>." },
+            { "wrong": "He looks <b>his father</b>.", "right": "He looks <b>like his father</b>.", "why": "Cùng luật: danh từ thì cần <i>like</i>." },
+            { "wrong": "This soup tastes <b>deliciously</b>.", "right": "This soup tastes <b>delicious</b>.", "why": "<i>taste</i> ở nghĩa “có vị” là linking verb." },
+            { "wrong": "Please stay <b>calmly</b>.", "right": "Please stay <b>calm</b>.", "why": "<i>stay</i> và <i>remain</i> cũng thuộc nhóm linking verb." },
+            { "wrong": "He runs <b>quick</b>.", "right": "He runs <b>quickly</b>.", "why": "Ngược lại: <i>run</i> là hành động thật nên đi với TRẠNG TỪ. Xem [Ngữ pháp 38]." },
+            { "wrong": "I'm <b>stressful</b> about work.", "right": "I'm <b>stressed</b> about work.", "why": "Người thì <i>stressed</i>, công việc mới <i>stressful</i>. Xem [Ngữ pháp 34]." },
+            { "wrong": "He <b>hardly</b> works — he's always first in. <i>(ý: làm chăm)</i>", "right": "He works <b>hard</b>.", "why": "<b>hardly</b> nghĩa là “hầu như không” — ngược hẳn với <i>hard</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Theo sau là", "Ví dụ"],
+          "rows": [
+            ["<code>sound / look / feel + …</code>", "TÍNH TỪ", "That sounds great."],
+            ["<code>sound like / look like + …</code>", "DANH TỪ", "That sounds like a plan."],
+            ["<code>be / seem / become + …</code>", "TÍNH TỪ", "It seems fine."],
+            ["<code>get / turn + …</code>", "TÍNH TỪ — chỉ sự thay đổi", "It's getting colder."],
+            ["<code>stay / remain + …</code>", "TÍNH TỪ", "Please stay calm."],
+            ["Động từ hành động", "TRẠNG TỪ. Xem [Ngữ pháp 38]", "He runs quickly."],
+            ["<code>look good</code> / <code>look well</code>", "Trông đẹp / trông khỏe", "You look good. · You look well."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: tính từ hay trạng từ?" },
+        {
+          "t": "tree",
+          "q": "Thử thay động từ bằng be — câu có còn xuôi không?",
+          "nodes": [
+            { "if": "Thay bằng be vẫn xuôi (He is tired)", "then": "Linking verb → TÍNH TỪ", "ex": "He looks tired." },
+            { "if": "Thay bằng be nghe lạ (He is quickly ✗)", "then": "Động từ hành động → TRẠNG TỪ", "ex": "He runs quickly." },
+            { "if": "Theo sau là một DANH TỪ", "then": "Thêm like: sound like, look like", "ex": "That sounds like a plan." },
+            { "if": "Muốn nói xu hướng đang thay đổi", "then": "get / become / turn + tính từ", "ex": "It's getting colder." },
+            { "if": "Muốn nói trông khỏe mạnh", "then": "look well — well là tính từ ở đây", "ex": "You look well." },
+            { "if": "Là tính từ chỉ cảm xúc", "then": "Vẫn theo luật -ed/-ing. Xem [Ngữ pháp 34]", "ex": "I feel bored." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ khi phản ứng tích cực" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "That sounds OK.", "vi": "Nhạt nhất — tạm được" },
+            { "en": "That sounds nice.", "vi": "Dễ chịu" },
+            { "en": "That sounds good.", "vi": "Tốt đấy" },
+            { "en": "That sounds great.", "vi": "Rất hay" },
+            { "en": "That sounds amazing!", "vi": "Mạnh nhất — tuyệt vời" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Luật linking verb xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 85, "why": "That sounds… — khung chính, có cả cặp sound + tính từ và sound like + danh từ." },
+            { "id": 88, "why": "I feel bad about… — bẫy I feel badly, cùng một luật linking verb." },
+            { "id": 81, "why": "I'm so… — tính từ sau be, nền tảng của cả nhóm linking verb." },
+            { "id": 44, "why": "It seems… — seem luôn là linking verb, không bao giờ đi với trạng từ." },
+            { "id": 82, "why": "I'm happy about/with… — tính từ cảm xúc và giới từ cố định đi kèm." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chọn tính từ hay trạng từ" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Nghe hay quá!", "blank": "That sounds __________ (great / greatly)!", "a": "great" },
+            { "vi": "Tôi áy náy về chuyện đó.", "blank": "I feel __________ (bad / badly) about it.", "a": "bad" },
+            { "vi": "Trông bạn mệt.", "blank": "You look __________ (tired / tiredly).", "a": "tired" },
+            { "vi": "Anh ấy chạy nhanh.", "blank": "He runs __________ (quick / quickly).", "a": "quickly" },
+            { "vi": "Món súp này ngon quá.", "blank": "This soup tastes __________ (delicious / deliciously).", "a": "delicious" },
+            { "vi": "Xin hãy bình tĩnh.", "blank": "Please stay __________ (calm / calmly).", "a": "calm" },
+            { "vi": "Anh ấy nhìn tôi chăm chú.", "blank": "He looked at me __________ (careful / carefully).", "a": "carefully" },
+            { "vi": "Trời đang lạnh dần.", "blank": "It's getting __________ (cold / coldly).", "a": "colder" }
+          ]
+        },
+        { "t": "h3", "text": "B. Thêm like hay không" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Nghe có vẻ ổn đấy.", "blank": "That sounds __________ a plan.", "a": "like — theo sau là danh từ" },
+            { "vi": "Nghe hay quá!", "blank": "That sounds __________ great!", "a": "không điền gì — theo sau là tính từ" },
+            { "vi": "Anh ấy giống bố.", "blank": "He looks __________ his father.", "a": "like" },
+            { "vi": "Trông bạn khỏe ra.", "blank": "You look __________.  (good / well)", "a": "well — khỏe mạnh" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Nghe hay quá!", "a": "That sounds great!" },
+            { "vi": "2. Nghe có vẻ ổn đấy.", "a": "That sounds like a plan." },
+            { "vi": "3. Tôi áy náy vì đã quên.", "a": "I feel bad about forgetting." },
+            { "vi": "4. Trông bạn mệt. Bạn ổn chứ?", "a": "You look tired. Are you OK?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Mẹo kiểm tra vàng:</b> thử thay động từ bằng <b>be</b>. Vẫn xuôi thì đó là linking verb → dùng TÍNH TỪ.",
+            "<b>Học thuộc danh sách:</b> be, seem, look, sound, feel, taste, smell, become, get, stay, remain, turn.",
+            "<b>Có danh từ thì thêm <i>like</i>:</b> <i>sounds <b>like</b> a plan</i>, <i>looks <b>like</b> his father</i>.",
+            "<b>Hai câu nhớ đời:</b> <i>That sounds <b>great</b></i> và <i>I feel <b>bad</b></i> — không bao giờ có đuôi <i>-ly</i>.",
+            "<b>Cặp <i>good</i> / <i>well</i>:</b> <i>look good</i> = trông đẹp, <i>look well</i> = trông khỏe mạnh.",
+            "<b>Bài tập 3 phút:</b> nhìn quanh và viết năm câu với <i>It looks…, It smells…, It sounds…</i> — tất cả đều theo sau bằng tính từ."
+          ]
+        }
+      ]
+    }
+  ]
+}

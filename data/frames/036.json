@@ -1,0 +1,481 @@
+{
+  "id": 36,
+  "group": "Nhóm 4 · Đề nghị & Rủ rê",
+  "title": "We could… — Nêu khả năng mà không thúc ép ai",
+  "subtitle": "Khung để đặt một phương án lên bàn mà không đòi hỏi ai phải chọn nó. Đây là công cụ mạnh nhất khi bàn bạc nhóm: bạn góp ý mà không phủ định ai, và nếu ý bạn bị bỏ qua thì cũng chẳng ai mất mặt.",
+  "pattern": [
+    "We could <em>+ V (không “to”)</em>",
+    "We could always <em>+ V</em>",
+    "Or we could <em>+ V</em>"
+  ],
+  "meaning": "Chúng ta có thể… (một khả năng, không phải đề nghị)",
+  "grammar": [29, 30],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Công cụ bàn bạc nhóm" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">We could…</span> nêu ra một <b>khả năng</b>, không phải một đề nghị. Bạn đặt phương án lên bàn rồi để nó nằm đó — ai muốn nhặt lên thì nhặt. Đó là lý do nó là khung an toàn nhất khi góp ý ở nơi bạn không phải người quyết định." },
+        { "t": "p", "html": "So với các khung cùng nhóm: <i>Let's do X</i> nghe như đã quyết, <i>Why don't we do X?</i> là đề xuất, còn <i>We could do X</i> chỉ là <b>một trong nhiều cách</b>. Nếu ý bạn bị bỏ qua, chẳng ai phải từ chối bạn cả — vì bạn có đề nghị gì đâu." },
+        { "t": "p", "html": "Chính vì thế nó là công cụ <b>động não theo nhóm</b> tuyệt vời. Nối nhiều câu lại: <i>We could do A… or we could do B… we could always do C if neither works.</i> Cả nhóm có một danh sách lựa chọn mà không ai bị gắn với ý nào." },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp:</b> sau <i>could</i> là <b>động từ nguyên thể KHÔNG “to”</b>. <span class=\"k\">We could try it.</span> ✓ — <i>We could to try it.</i> ✗" },
+        { "t": "h3", "text": "Could / can / should — ba mức khác hẳn nhau" },
+        {
+          "t": "table",
+          "head": ["Câu", "Nghĩa", "Sức ép lên người nghe"],
+          "rows": [
+            ["<code>We could start on Monday.</code>", "Một khả năng", "Không có"],
+            ["<code>We can start on Monday.</code>", "Chắc chắn làm được", "Nhẹ"],
+            ["<code>We should start on Monday.</code>", "Nên làm vậy", "Vừa"],
+            ["<code>We need to start on Monday.</code>", "Bắt buộc", "Mạnh"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💡", "title": "Động não, liệt kê phương án", "text": "Bối cảnh số 1. <i>We could try A, or we could…</i> Đặt nhiều lựa chọn lên bàn." },
+            { "icon": "🤐", "title": "Góp ý khi bạn không phải người quyết", "text": "<i>We could always ask the client first.</i> An toàn tuyệt đối." },
+            { "icon": "🧊", "title": "Gỡ bế tắc trong tranh luận", "text": "<i>We could do both, actually.</i> Mở lối thứ ba." },
+            { "icon": "🎁", "title": "Nêu phương án dự phòng", "text": "<i>We could always cancel if it rains.</i>" },
+            { "icon": "🙋", "title": "Ngỏ ý làm (dạng I)", "text": "<i>I could take that one if it helps.</i>" },
+            { "icon": "⚠️", "title": "Cẩn thận khi…", "text": "Cần chốt dứt khoát — khung này quá mềm, người nghe sẽ tưởng vẫn đang bàn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cơ bản", "<code>We could + V</code>", "We could start on Monday."],
+            ["Phương án dự phòng", "<code>We could always + V</code>", "We could always ask them."],
+            ["Thêm lựa chọn", "<code>Or we could + V</code>", "Or we could wait a week."],
+            ["Nói về mình", "<code>I could + V</code>", "I could take that one."],
+            ["Nêu điều kiện", "<code>We could…, if…</code>", "We could start Monday, if the data's ready."],
+            ["Gợi ý nhẹ hơn nữa", "<code>We could maybe + V</code>", "We could maybe split it."],
+            ["Quá khứ — tiếc nuối", "<code>We could have + V3</code>", "We could have booked earlier."],
+            ["Phủ định", "<code>We couldn't + V</code>", "We couldn't do it by Friday."],
+            ["Hỏi ý sau khi nêu", "<code>…, couldn't we?</code>", "We could split it, couldn't we?"],
+            ["Trả lời đồng ý", "<code>We could, yes.</code>", "We could, yes — let's try that."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cụm mạnh nhất của khung này:</b> <span class=\"k\">We could always…</span> — dùng để nêu phương án dự phòng khi mọi cách khác đều bế tắc. <i>We could always postpone it.</i> Chữ <i>always</i> ngụ ý “dù sao vẫn còn cách này”." },
+        { "t": "callout", "html": "<b>Đừng nhầm với quá khứ:</b> <span class=\"k\">We could do it</span> = giờ mình có thể làm. <span class=\"k\">We could have done it</span> = lẽ ra mình đã có thể làm (nhưng đã không làm). Dạng thứ hai mang tiếc nuối." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “We could…”",
+              "items": [
+                { "w": "try", "vi": "thử", "ex": "We could try it for a month and review.", "exvi": "Mình có thể thử một tháng rồi xem lại." },
+                { "w": "start", "vi": "bắt đầu", "ex": "We could start on Monday if that suits.", "exvi": "Nếu tiện thì mình có thể bắt đầu thứ Hai." },
+                { "w": "wait", "vi": "chờ", "ex": "We could wait until the numbers are in.", "exvi": "Mình có thể chờ đến khi có số liệu." },
+                { "w": "split it", "vi": "chia nhỏ", "ex": "We could split it into two phases.", "exvi": "Mình có thể chia thành hai giai đoạn." },
+                { "w": "ask", "vi": "hỏi", "ex": "We could ask the client what they prefer.", "exvi": "Mình có thể hỏi khách hàng xem họ thích cách nào." },
+                { "w": "postpone", "vi": "hoãn lại", "ex": "We could postpone it to next month.", "exvi": "Mình có thể hoãn sang tháng sau." },
+                { "w": "do both", "vi": "làm cả hai", "ex": "We could do both, actually.", "exvi": "Thật ra mình có thể làm cả hai.", "note": "Câu gỡ bế tắc khi hai bên giằng co giữa hai phương án." },
+                { "w": "meet halfway", "vi": "gặp nhau ở giữa", "ex": "We could meet halfway on the price.", "exvi": "Mình có thể dung hòa về giá.", "note": "<i>meet halfway</i> = mỗi bên nhượng một nửa." },
+                { "w": "outsource it", "vi": "thuê ngoài", "ex": "We could outsource it if we're short on time.", "exvi": "Thiếu thời gian thì mình có thể thuê ngoài." },
+                { "w": "bring someone in", "vi": "đưa thêm người vào", "ex": "We could bring someone in for two weeks.", "exvi": "Mình có thể đưa thêm người vào hai tuần." },
+                { "w": "scale it back", "vi": "thu nhỏ quy mô", "ex": "We could scale it back to fit the budget.", "exvi": "Mình có thể thu nhỏ lại cho vừa ngân sách." },
+                { "w": "run a pilot", "vi": "chạy thử nghiệm", "ex": "We could run a small pilot first.", "exvi": "Mình có thể chạy thử nghiệm nhỏ trước." },
+                { "w": "reuse", "vi": "dùng lại", "ex": "We could reuse the old design.", "exvi": "Mình có thể dùng lại thiết kế cũ." },
+                { "w": "push it back", "vi": "lùi lại", "ex": "We could push it back a week.", "exvi": "Mình có thể lùi lại một tuần." },
+                { "w": "keep it as is", "vi": "giữ nguyên", "ex": "Or we could just keep it as is.", "exvi": "Hoặc mình cứ giữ nguyên cũng được." },
+                { "w": "look into it", "vi": "tìm hiểu thêm", "ex": "We could look into it this week.", "exvi": "Tuần này mình có thể tìm hiểu thêm." },
+                { "w": "share the cost", "vi": "chia chi phí", "ex": "We could share the cost between the teams.", "exvi": "Mình có thể chia chi phí giữa các nhóm." },
+                { "w": "take turns", "vi": "thay phiên nhau", "ex": "We could take turns covering the phones.", "exvi": "Mình có thể thay phiên trực điện thoại." },
+                { "w": "go somewhere else", "vi": "đi chỗ khác", "ex": "We could go somewhere else if it's full.", "exvi": "Nếu kín chỗ thì mình có thể đi chỗ khác." },
+                { "w": "leave it for now", "vi": "tạm gác lại", "ex": "We could leave it for now and revisit it.", "exvi": "Mình có thể tạm gác lại rồi xem lại sau." }
+              ]
+            },
+            {
+              "title": "Cụm cố định & dạng “I could…”",
+              "items": [
+                { "w": "We could always…", "vi": "dù sao mình vẫn có thể…", "ex": "We could always cancel if it rains.", "exvi": "Dù sao trời mưa thì mình vẫn hủy được.", "note": "Nêu phương án dự phòng — cụm mạnh nhất của khung này." },
+                { "w": "Or we could…", "vi": "hoặc mình có thể…", "ex": "Or we could wait until next quarter.", "exvi": "Hoặc mình có thể chờ đến quý sau.", "note": "Nối thêm lựa chọn — dùng để liệt kê khi động não." },
+                { "w": "We could maybe…", "vi": "có lẽ mình có thể…", "ex": "We could maybe split the difference.", "exvi": "Có lẽ mình chia đôi phần chênh lệch.", "note": "Mềm thêm một nấc nữa — khi bạn rất không chắc." },
+                { "w": "I could take that one", "vi": "để mình nhận việc đó", "ex": "I could take that one if it helps.", "exvi": "Nếu tiện thì để mình nhận việc đó.", "note": "Ngỏ ý nhận việc mà không tranh — rất khéo." },
+                { "w": "I could give you a hand", "vi": "mình có thể phụ bạn", "ex": "I could give you a hand this afternoon.", "exvi": "Chiều nay mình phụ bạn được." },
+                { "w": "We could have…", "vi": "lẽ ra mình đã có thể…", "ex": "We could have booked earlier.", "exvi": "Lẽ ra mình đã đặt sớm hơn được.", "note": "Tiếc nuối về quá khứ — khác hẳn <i>we could</i>." },
+                { "w": "…, couldn't we?", "vi": "…phải không nhỉ?", "ex": "We could split it, couldn't we?", "exvi": "Mình chia ra được mà, phải không?", "note": "Đuôi hỏi mời người kia xác nhận." },
+                { "w": "That could work", "vi": "cách đó có thể được", "ex": "That could work, actually.", "exvi": "Thật ra cách đó có thể được đấy.", "note": "Cách đồng ý dè dặt — chưa cam kết hẳn." },
+                { "w": "I don't see why not", "vi": "mình thấy chẳng có gì cản", "ex": "I don't see why not.", "exvi": "Mình thấy chẳng có gì cản cả.", "note": "Đồng ý kiểu thận trọng nhưng tích cực." },
+                { "w": "It's worth a try", "vi": "đáng để thử", "ex": "It's worth a try, at least.", "exvi": "Ít nhất cũng đáng để thử." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "That could work", "vi": "cách đó có thể được", "ex": "That could work — let's think about it.", "exvi": "Cách đó có thể được — để mình cân nhắc." },
+                { "w": "Good shout", "vi": "ý hay đấy", "ex": "Good shout — I hadn't thought of that.", "exvi": "Ý hay đấy — mình chưa nghĩ tới.", "note": "Anh-Anh, rất thân mật và tích cực." },
+                { "w": "Let's go with that", "vi": "mình chọn cách đó đi", "ex": "Let's go with that.", "exvi": "Mình chọn cách đó đi.", "note": "Chốt một phương án vừa được nêu." },
+                { "w": "I'm not sure that would work", "vi": "mình không chắc cách đó được", "ex": "I'm not sure that would work, to be honest.", "exvi": "Thật lòng mình không chắc cách đó được.", "note": "Phản đối rất mềm — không bác bỏ thẳng." },
+                { "w": "What if we…?", "vi": "hay nếu mình…?", "ex": "What if we did both instead?", "exvi": "Hay nếu mình làm cả hai thì sao?", "note": "Nối tiếp ý tưởng — cùng họ với <i>we could</i>." },
+                { "w": "Let's park that", "vi": "mình gác ý đó lại", "ex": "Let's park that and come back to it.", "exvi": "Mình gác ý đó lại rồi quay lại sau.", "note": "<i>park an idea</i> = tạm gác lại, không bác bỏ." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "We could run a small pilot first.",
+                  "vi": "Mình có thể chạy thử nghiệm nhỏ trước.",
+                  "note": "Đặt phương án lên bàn mà không đòi ai chọn — an toàn tuyệt đối khi bạn không phải người quyết định.",
+                  "open": { "en": "Just throwing an option out there —", "vi": "Tôi nêu một lựa chọn thôi —" },
+                  "reply": [
+                    { "them": "That could work. How long?", "themvi": "Cách đó có thể được. Bao lâu?", "you": "Two weeks, one region.", "youvi": "Hai tuần, một khu vực." },
+                    { "them": "I'm not sure we have time.", "themvi": "Tôi không chắc mình có thời gian.", "you": "We could always run it in parallel.", "youvi": "Dù sao mình vẫn có thể chạy song song." }
+                  ],
+                  "close": { "en": "I'll write both options up.", "vi": "Tôi sẽ soạn cả hai phương án ra." }
+                },
+                {
+                  "en": "We could always push it back a week.",
+                  "vi": "Dù sao mình vẫn có thể lùi lại một tuần.",
+                  "note": "<span class=\"k\">We could always…</span> — nêu phương án dự phòng. Chữ <i>always</i> ngụ ý “vẫn còn cách này nếu bí”.",
+                  "reply": [
+                    { "them": "The client won't like that.", "themvi": "Khách hàng sẽ không thích đâu.", "you": "Then we could scale it back instead.", "youvi": "Vậy mình có thể thu nhỏ quy mô lại." }
+                  ],
+                  "vars": [
+                    { "en": "We could always bring someone in for two weeks.", "vi": "Dù sao mình vẫn có thể đưa thêm người vào hai tuần." }
+                  ]
+                },
+                {
+                  "en": "I could take that one if it helps.",
+                  "vi": "Nếu tiện thì để mình nhận việc đó.",
+                  "note": "Dạng <b>I could</b> — ngỏ ý nhận việc mà không tranh giành, và nếu người kia muốn tự làm thì cũng không khó xử.",
+                  "reply": [
+                    { "them": "Would you? That'd be a big help.", "themvi": "Bạn nhận à? Vậy thì đỡ lắm.", "you": "Send me the details.", "youvi": "Gửi mình chi tiết nhé." }
+                  ]
+                },
+                {
+                  "en": "We could do both, actually.",
+                  "vi": "Thật ra mình có thể làm cả hai.",
+                  "note": "Câu gỡ bế tắc khi hai bên đang giằng co giữa hai phương án tưởng như loại trừ nhau.",
+                  "reply": [
+                    { "them": "Can we afford both?", "themvi": "Mình đủ ngân sách cho cả hai không?", "you": "If we scale each one back, yes.", "youvi": "Nếu thu nhỏ mỗi cái lại thì đủ." }
+                  ],
+                  "close": { "en": "Let's park it and decide tomorrow.", "vi": "Mình gác lại, mai quyết nhé." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "We could always cancel if it rains.",
+                  "vi": "Dù sao trời mưa thì mình vẫn hủy được.",
+                  "note": "Nêu lối thoát trước khi lên kế hoạch — giúp cả hai yên tâm quyết định.",
+                  "reply": [
+                    { "them": "True. Let's book it then.", "themvi": "Đúng đấy. Vậy mình đặt đi.", "you": "I'll check the cancellation policy.", "youvi": "Mình xem chính sách hủy đã." }
+                  ]
+                },
+                {
+                  "en": "We could meet halfway — how about the café in the middle?",
+                  "vi": "Mình gặp nhau ở giữa — quán cà phê giữa đường nhé?",
+                  "note": "<span class=\"k\">meet halfway</span> có hai nghĩa: gặp ở giữa đường, và nhượng bộ mỗi bên một nửa.",
+                  "reply": [
+                    { "them": "That's fair. What time?", "themvi": "Công bằng đấy. Mấy giờ?", "you": "Say seven?", "youvi": "Bảy giờ nhé?" }
+                  ]
+                },
+                {
+                  "en": "We could take turns driving.",
+                  "vi": "Mình có thể thay phiên lái xe.",
+                  "reply": [
+                    { "them": "Good shout. I'll do the first half.", "themvi": "Ý hay đấy. Mình lái nửa đầu.", "you": "Deal.", "youvi": "Chốt." }
+                  ]
+                },
+                {
+                  "en": "We could have booked earlier, to be fair.",
+                  "vi": "Nói cho công bằng thì lẽ ra mình đã đặt sớm hơn được.",
+                  "note": "Dạng <b>could have + V3</b> — tiếc nuối về quá khứ. Khác hẳn <i>we could</i> nói về hiện tại.",
+                  "reply": [
+                    { "them": "Too late now. What are our options?", "themvi": "Giờ muộn rồi. Mình còn lựa chọn nào?", "you": "We could always go next weekend.", "youvi": "Dù sao mình vẫn đi cuối tuần sau được." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "We could share a few dishes instead.",
+                  "vi": "Hay mình gọi vài món ăn chung.",
+                  "reply": [
+                    { "them": "That could work — I can't decide anyway.", "themvi": "Cách đó được đấy — mình cũng chẳng chọn nổi.", "you": "I'll pick three and you pick two.", "youvi": "Mình chọn ba món, bạn chọn hai." }
+                  ]
+                },
+                {
+                  "en": "We could go somewhere else if it's full.",
+                  "vi": "Nếu kín chỗ thì mình có thể đi chỗ khác.",
+                  "reply": [
+                    { "them": "Where else is nearby?", "themvi": "Gần đây còn chỗ nào?", "you": "There's a place two streets down.", "youvi": "Có một quán cách hai con phố." }
+                  ]
+                },
+                {
+                  "en": "Or we could just order in.",
+                  "vi": "Hoặc mình cứ gọi đồ về ăn.",
+                  "note": "<span class=\"k\">Or we could…</span> — nối thêm lựa chọn sau khi đã nêu một phương án.",
+                  "reply": [
+                    { "them": "Honestly, that sounds better.", "themvi": "Thật ra nghe hay hơn đấy.", "you": "Done. What do you fancy?", "youvi": "Chốt. Bạn thích ăn gì?" }
+                  ]
+                },
+                {
+                  "en": "We could split the bill and settle up later.",
+                  "vi": "Mình chia hóa đơn rồi tính sau cũng được.",
+                  "note": "<span class=\"k\">settle up</span> = thanh toán lại với nhau sau. Cụm rất tự nhiên khi đi nhóm.",
+                  "reply": [
+                    { "them": "Easier that way.", "themvi": "Vậy dễ hơn.", "you": "I'll take a photo of the bill.", "youvi": "Mình chụp ảnh hóa đơn." }
+                  ],
+                  "close": { "en": "I'll send you the total tonight.", "vi": "Tối mình gửi bạn tổng tiền." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "We could take the earlier train to be safe.",
+                  "vi": "Mình có thể đi chuyến tàu sớm hơn cho chắc.",
+                  "reply": [
+                    { "them": "How much earlier?", "themvi": "Sớm bao nhiêu?", "you": "An hour. It costs the same.", "youvi": "Một tiếng. Giá như nhau." }
+                  ]
+                },
+                {
+                  "en": "We could always get a taxi if we're running late.",
+                  "vi": "Nếu muộn thì dù sao mình vẫn bắt taxi được.",
+                  "reply": [
+                    { "them": "Good backup plan.", "themvi": "Phương án dự phòng tốt đấy.", "you": "Let's aim for the bus anyway.", "youvi": "Nhưng mình vẫn nhắm đi xe buýt nhé." }
+                  ]
+                },
+                {
+                  "en": "We could stay one extra night if you'd rather.",
+                  "vi": "Nếu bạn thích thì mình có thể ở thêm một đêm.",
+                  "note": "<i>if you'd rather</i> ở cuối trao quyền quyết định cho người kia — xem [Khung 08].",
+                  "reply": [
+                    { "them": "Could we afford it?", "themvi": "Mình đủ tiền không?", "you": "If we skip the fancy dinner, yes.", "youvi": "Nếu bỏ bữa tối sang chảnh thì đủ." }
+                  ]
+                },
+                {
+                  "en": "We could split the driving between us.",
+                  "vi": "Mình có thể chia nhau lái xe.",
+                  "reply": [
+                    { "them": "I don't have my licence with me.", "themvi": "Mình không mang bằng theo.", "you": "Then I'll drive and you navigate.", "youvi": "Vậy mình lái, bạn chỉ đường." }
+                  ],
+                  "close": { "en": "We'll stop every two hours.", "vi": "Cứ hai tiếng mình dừng nghỉ một lần." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "We could come back when it's on sale.",
+                  "vi": "Mình có thể quay lại khi có khuyến mãi.",
+                  "reply": [
+                    { "them": "It might sell out.", "themvi": "Có khi hết mất.", "you": "We could always ask them to hold it.", "youvi": "Dù sao mình vẫn nhờ họ giữ hàng được." }
+                  ]
+                },
+                {
+                  "en": "We could meet halfway on the price.",
+                  "vi": "Mình có thể dung hòa về giá.",
+                  "note": "<span class=\"k\">meet halfway</span> ở đây nghĩa là mỗi bên nhượng một nửa — cụm mặc cả rất lịch sự.",
+                  "reply": [
+                    { "them": "What did you have in mind?", "themvi": "Anh/chị nghĩ mức nào ạ?", "you": "Two and a half million?", "youvi": "Hai triệu rưỡi nhé?" }
+                  ]
+                },
+                {
+                  "en": "Or we could just get the cheaper one.",
+                  "vi": "Hoặc mình cứ lấy cái rẻ hơn.",
+                  "reply": [
+                    { "them": "Will it last though?", "themvi": "Nhưng liệu có bền không?", "you": "For what we need, probably.", "youvi": "Với nhu cầu của mình thì chắc là đủ." }
+                  ]
+                },
+                {
+                  "en": "We could share the cost if you want it too.",
+                  "vi": "Nếu bạn cũng cần thì mình chia tiền ra.",
+                  "reply": [
+                    { "them": "That would make it affordable.", "themvi": "Vậy thì vừa túi tiền hơn.", "you": "Half each, then?", "youvi": "Vậy mỗi người một nửa nhé?" }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Động não phương án trong cuộc họp",
+          "lines": [
+            { "speaker": "Manager", "en": "We're short on time and short on budget.", "vi": "Mình vừa thiếu thời gian vừa thiếu ngân sách." },
+            { "speaker": "You", "me": true, "en": "We could scale it back to fit the budget.", "vi": "Mình có thể thu nhỏ quy mô cho vừa ngân sách." },
+            { "speaker": "Manager", "en": "The client expects the full version.", "vi": "Khách hàng mong bản đầy đủ." },
+            { "speaker": "You", "me": true, "en": "Or we could run a pilot and deliver the rest next quarter.", "vi": "Hoặc mình chạy thử nghiệm rồi giao phần còn lại quý sau." },
+            { "speaker": "Manager", "en": "Hmm. That could work.", "vi": "Hừm. Cách đó có thể được." },
+            { "speaker": "You", "me": true, "en": "And we could always bring someone in if we fall behind.", "vi": "Với lại nếu chậm thì dù sao mình vẫn đưa thêm người vào được." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Bàn kế hoạch đi chơi cuối tuần",
+          "lines": [
+            { "speaker": "Friend", "en": "The forecast says rain on Saturday.", "vi": "Dự báo nói thứ Bảy mưa." },
+            { "speaker": "You", "me": true, "en": "We could go on Sunday instead.", "vi": "Mình có thể đi Chủ nhật thay vào đó." },
+            { "speaker": "Friend", "en": "I'm working Sunday morning.", "vi": "Chủ nhật sáng mình làm việc." },
+            { "speaker": "You", "me": true, "en": "Or we could leave after lunch. And we could always cancel if it's still bad.", "vi": "Hoặc mình đi sau bữa trưa. Với lại trời vẫn xấu thì dù sao mình vẫn hủy được." },
+            { "speaker": "Friend", "en": "Good shout. Let's book something flexible.", "vi": "Ý hay đấy. Mình đặt cái gì linh hoạt đi." },
+            { "speaker": "You", "me": true, "en": "I could look into it tonight if you want.", "vi": "Nếu bạn muốn thì tối nay mình tìm hiểu." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "We could to try it.", "right": "We could try it.", "why": "Sau <b>could</b> là động từ nguyên thể <b>không “to”</b>." },
+            { "wrong": "We could trying it.", "right": "We could try it.", "why": "Không dùng V-ing sau <i>could</i>." },
+            { "wrong": "We could booked earlier.", "right": "We could have booked earlier.", "why": "Nói về quá khứ phải là <b>could have + V3</b>, không phải <i>could + V2</i>." },
+            { "wrong": "We could do it. <i>(khi cần chốt dứt khoát)</i>", "right": "We'll do it. / Let's do it.", "why": "<i>could</i> quá mềm để chốt — người nghe sẽ tưởng vẫn đang bàn. Xem [Khung 31]." },
+            { "wrong": "We can always cancel. <i>(ý: phương án dự phòng)</i>", "right": "We could always cancel.", "why": "Cụm cố định là <b>could always</b>. <i>can always</i> nghe khẳng định quá, mất sắc thái dự phòng." },
+            { "wrong": "We could to do both.", "right": "We could do both.", "why": "Cùng một lỗi <i>to</i> — lặp lại để bạn nhớ kỹ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>We could + V</code>", "Một khả năng — không thúc ép", "<i>We could try it.</i>"],
+            ["<code>We can + V</code>", "Chắc chắn làm được", "<i>We can try it.</i>"],
+            ["<code>We should + V</code>", "Nên làm — có nghĩa vụ nhẹ", "<i>We should try it.</i>"],
+            ["<code>Let's + V</code>", "Rủ — nghe như đã quyết", "<i>Let's try it.</i> — Xem [Khung 31]."],
+            ["<code>Why don't we + V?</code>", "Đề xuất dưới dạng câu hỏi", "<i>Why don't we try it?</i> — Xem [Khung 32]."],
+            ["<code>How about + V-ing?</code>", "Gợi ý nhẹ", "<i>How about trying it?</i> — Xem [Khung 33]."],
+            ["<code>What if we + V2?</code>", "Đặt giả thiết — cùng họ", "<i>What if we tried it?</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Thang sức ép — nêu một phương án" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "We could maybe try it.", "vi": "Nhẹ nhất — rất dè dặt" },
+            { "en": "We could try it.", "vi": "Nêu khả năng — không ép" },
+            { "en": "We can try it.", "vi": "Khẳng định làm được" },
+            { "en": "We should try it.", "vi": "Nên — có nghĩa vụ nhẹ" },
+            { "en": "We need to try it.", "vi": "Mạnh nhất — bắt buộc" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>could</b> = /kʊd/ — âm <b>l</b> hoàn toàn CÂM. Đọc là “kud”, không phải “cao-lđ”.",
+            "<b>We could</b> → “wi-kəd” — <i>could</i> giảm nhẹ khi không nhấn.",
+            "<b>could always</b> → “kə-DOL-wəz” — âm /d/ trượt sang <i>always</i>, cả cụm dính liền.",
+            "<b>could have</b> khi nói nhanh thành <b>“could've”</b> /ˈkʊdəv/ — nghe gần như <i>could of</i>, nhưng <b>viết “could of” là sai</b>.",
+            "<b>couldn't</b> = /ˈkʊdənt/ — âm /t/ cuối gần như không bật ra.",
+            "Trọng âm rơi vào <b>động từ chính</b>: <i>We could</i> <b>TRY</b> <i>it.</i> Nhấn vào <i>could</i> sẽ thành nhấn mạnh khả năng, nghĩa hơi khác."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "We could always push it back a week.", "vi": "Luyện shadowing: “could always” dính thành “kə-DOL-wəz”." },
+            { "en": "We could have booked earlier.", "vi": "Chú ý “could've” — nghe như “could of” nhưng tuyệt đối không viết như vậy." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Mình có thể chạy thử nghiệm nhỏ trước.", "blank": "__________ a small pilot first.", "a": "We could run (không có “to”)" },
+            { "vi": "Dù sao trời mưa thì mình vẫn hủy được.", "blank": "__________ cancel if it rains.", "a": "We could always" },
+            { "vi": "Hoặc mình cứ gọi đồ về ăn.", "blank": "__________ just order in.", "a": "Or we could" },
+            { "vi": "Lẽ ra mình đã đặt sớm hơn được.", "blank": "__________ earlier.", "a": "We could have booked" },
+            { "vi": "Nếu tiện thì để mình nhận việc đó.", "blank": "__________ that one if it helps.", "a": "I could take" },
+            { "vi": "Mình có thể dung hòa về giá.", "blank": "We could __________ on the price.", "a": "meet halfway" },
+            { "vi": "Thật ra cách đó có thể được đấy.", "blank": "__________, actually.", "a": "That could work" },
+            { "vi": "Mình chia ra được mà, phải không?", "blank": "We could split it, __________?", "a": "couldn't we" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Thật ra mình có thể làm cả hai.", "a": "We could do both, actually." },
+            { "vi": "2. Dù sao mình vẫn có thể lùi lại một tuần.", "a": "We could always push it back a week." },
+            { "vi": "3. Mình có thể thu nhỏ lại cho vừa ngân sách.", "a": "We could scale it back to fit the budget." },
+            { "vi": "4. Mình có thể thay phiên lái xe.", "a": "We could take turns driving." },
+            { "vi": "5. Nếu bạn cũng cần thì mình chia tiền ra.", "a": "We could share the cost if you want it too." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Dùng khi bạn không phải người quyết:</b> nêu khả năng thì không ai phải từ chối bạn — ý bị bỏ qua cũng chẳng sao.",
+            "<b>Nối nhiều câu để động não:</b> <i>We could A… or we could B… we could always C.</i> Cả nhóm có danh sách lựa chọn mà không ai bị gắn với ý nào.",
+            "<b>Thuộc “We could always…”:</b> đây là cách nêu phương án dự phòng — rất trấn an khi cả nhóm đang bí.",
+            "<b>Đừng dùng để chốt:</b> khi cần quyết dứt khoát phải chuyển sang <i>Let's</i> hoặc <i>We'll</i>, kẻo người nghe tưởng vẫn đang bàn.",
+            "<b>Nhớ could have cho quá khứ:</b> <i>We could have booked earlier</i> — và tuyệt đối không viết <i>could of</i>.",
+            "<b>Bài tập 3 phút:</b> lấy một vấn đề bạn đang gặp ở công ty, viết liền 4 phương án bằng <i>We could… / Or we could… / We could maybe… / We could always…</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

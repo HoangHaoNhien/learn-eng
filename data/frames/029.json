@@ -1,0 +1,482 @@
+{
+  "id": 29,
+  "group": "Nhóm 3 · Xin phép & Cho phép",
+  "title": "Go ahead — Hai chữ trả lời được cả trăm lời xin phép",
+  "subtitle": "Câu đồng ý ngắn nhất và tự nhiên nhất trong tiếng Anh. Ai đó vừa xin phép làm gì, bạn chỉ cần nói “Go ahead” là xong — không kẻ cả như “Yes, you can”, không dài dòng như “Of course you may”. Nó còn dùng để giục người khác làm luôn và để nhường lượt nói.",
+  "pattern": [
+    "Go ahead.",
+    "Go ahead and <em>+ V</em>",
+    "Go ahead with <em>+ danh từ</em>"
+  ],
+  "meaning": "Cứ tự nhiên / Cứ làm đi / Mời bạn nói",
+  "grammar": [55, 43, 27],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Câu đồng ý tự nhiên nhất" },
+    { "text": "Trình độ: A2–B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">Go ahead</span> nghĩa gốc là “đi lên phía trước”, nhưng trong giao tiếp nó có ba công dụng rất khác nhau: <b>cho phép</b> (cứ tự nhiên), <b>giục làm luôn</b> (cứ tiến hành đi), và <b>nhường lượt nói</b> (mời bạn nói)." },
+        { "t": "p", "html": "Công dụng phổ biến nhất là cho phép. Khi ai đó hỏi <i>Can I sit here?</i> hay <i>Do you mind if I open the window?</i>, người bản xứ hầu như luôn đáp <span class=\"k\">Go ahead.</span> chứ không nói <i>Yes, you can</i> — câu sau nghe hơi kẻ cả, như người trên ban phép." },
+        { "t": "p", "html": "Dạng <span class=\"k\">Go ahead and + V</span> thì khác: nó <b>giục người kia làm luôn</b>, không cần chờ thêm. <i>Go ahead and book it</i> = cứ đặt luôn đi, khỏi hỏi lại. Đây là cách trao quyền quyết định rất gọn ở chỗ làm." },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp:</b> sau <i>go ahead</i> là <b>and + V</b>, không phải <i>to V</i>. <span class=\"k\">Go ahead and book it.</span> ✓ — <i>Go ahead to book it.</i> ✗" },
+        { "t": "h3", "text": "Ba công dụng, ba ngữ cảnh" },
+        {
+          "t": "table",
+          "head": ["Câu", "Nghĩa", "Dùng khi"],
+          "rows": [
+            ["<code>“Can I sit here?” — “Go ahead.”</code>", "Cứ tự nhiên", "Ai đó vừa xin phép"],
+            ["<code>Go ahead and book it.</code>", "Cứ đặt luôn đi", "Trao quyền quyết định"],
+            ["<code>“Sorry, you were saying?” — “Go ahead.”</code>", "Mời bạn nói", "Nhường lượt trong hội thoại"],
+            ["<code>You go ahead, I'll catch up.</code>", "Bạn đi trước đi", "Bảo người khác đi trước"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "✅", "title": "Trả lời lời xin phép", "text": "Bối cảnh số 1. <i>“Mind if I sit here?” — “Go ahead.”</i> Ngắn, tự nhiên, không kẻ cả." },
+            { "icon": "🚀", "title": "Trao quyền quyết định", "text": "<i>Go ahead and book it.</i> Người kia khỏi phải hỏi lại lần nữa." },
+            { "icon": "🗣", "title": "Nhường lượt nói", "text": "<i>Sorry, go ahead.</i> Khi hai người cùng nói chồng lên nhau." },
+            { "icon": "📞", "title": "Trên điện thoại", "text": "<i>Go ahead, I'm listening.</i> Mời người kia trình bày." },
+            { "icon": "🚶", "title": "Nhường đường, bảo đi trước", "text": "<i>You go ahead, I'll catch up.</i>" },
+            { "icon": "🚫", "title": "Cẩn thận khi…", "text": "Nói bằng giọng lạnh, <i>Go ahead</i> có thể thành thách thức: “cứ thử xem”." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Đồng ý ngắn", "<code>Go ahead.</code>", "“Can I ask something?” — “Go ahead.”"],
+            ["Giục làm luôn", "<code>Go ahead and + V</code>", "Go ahead and send it."],
+            ["Tiến hành việc gì", "<code>Go ahead with + N</code>", "Let's go ahead with the plan."],
+            ["Bảo người khác đi trước", "<code>You go ahead</code>", "You go ahead, I'll catch up."],
+            ["Nhường lượt nói", "<code>Sorry, go ahead.</code>", "No, sorry — go ahead."],
+            ["Mời nói trên điện thoại", "<code>Go ahead, I'm listening.</code>", "Go ahead, I'm listening."],
+            ["Nói về mình", "<code>I'll go ahead and + V</code>", "I'll go ahead and book it then."],
+            ["Hỏi xin phép tiến hành", "<code>Shall I go ahead?</code>", "Shall I go ahead and order?"],
+            ["Xác nhận đã tiến hành", "<code>We went ahead with…</code>", "We went ahead with the original plan."],
+            ["Hủy việc tiến hành", "<code>We're not going ahead with…</code>", "We're not going ahead with it."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đây là câu trả lời tự nhiên nhất cho mọi lời xin phép</b> ở [Khung 13], [Khung 14], [Khung 21] và [Khung 22]. Nếu chỉ nhớ một cách đồng ý, hãy nhớ <span class=\"k\">Go ahead.</span>" },
+        { "t": "callout", "html": "<b>Dạng “I'll go ahead and…” rất hữu dụng:</b> nó báo rằng bạn sắp tự quyết mà vẫn cho người kia một giây để ngăn lại. <i>I'll go ahead and send it unless you'd rather I didn't.</i>" }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “Go ahead and…”",
+              "items": [
+                { "w": "book it", "vi": "đặt chỗ luôn", "ex": "Go ahead and book it for seven.", "exvi": "Cứ đặt luôn lúc bảy giờ đi." },
+                { "w": "send it", "vi": "gửi luôn", "ex": "Go ahead and send it to the client.", "exvi": "Cứ gửi luôn cho khách hàng đi." },
+                { "w": "order", "vi": "gọi món, đặt hàng", "ex": "Go ahead and order without me.", "exvi": "Cứ gọi món trước đi, không cần chờ mình." },
+                { "w": "start", "vi": "bắt đầu", "ex": "Go ahead and start — I'll join in a minute.", "exvi": "Cứ bắt đầu đi — lát nữa mình vào." },
+                { "w": "take", "vi": "lấy", "ex": "Go ahead and take one.", "exvi": "Cứ lấy một cái đi." },
+                { "w": "ask", "vi": "hỏi", "ex": "Go ahead and ask her directly.", "exvi": "Cứ hỏi thẳng cô ấy đi." },
+                { "w": "call", "vi": "gọi điện", "ex": "Go ahead and call them now.", "exvi": "Cứ gọi cho họ luôn đi." },
+                { "w": "sign", "vi": "ký", "ex": "Go ahead and sign at the bottom.", "exvi": "Anh/chị cứ ký ở dưới ạ." },
+                { "w": "use", "vi": "dùng", "ex": "Go ahead and use my laptop.", "exvi": "Cứ dùng laptop của mình đi." },
+                { "w": "pay", "vi": "thanh toán", "ex": "Go ahead and pay at the counter.", "exvi": "Anh/chị cứ thanh toán ở quầy ạ." },
+                { "w": "cancel", "vi": "hủy", "ex": "Go ahead and cancel it — we won't need it.", "exvi": "Cứ hủy đi — mình không cần nữa." },
+                { "w": "make the change", "vi": "thực hiện thay đổi", "ex": "Go ahead and make the change.", "exvi": "Cứ sửa đi." },
+                { "w": "try it", "vi": "thử", "ex": "Go ahead and try it — nothing will break.", "exvi": "Cứ thử đi — không hỏng gì đâu." },
+                { "w": "eat", "vi": "ăn", "ex": "Go ahead and eat — don't wait for me.", "exvi": "Cứ ăn đi — đừng chờ mình." },
+                { "w": "help yourself", "vi": "tự nhiên lấy", "ex": "Go ahead and help yourself.", "exvi": "Bạn cứ tự nhiên nhé." },
+                { "w": "leave", "vi": "về, rời đi", "ex": "Go ahead and leave if you need to.", "exvi": "Cần thì bạn cứ về trước đi." },
+                { "w": "share it", "vi": "chia sẻ", "ex": "Go ahead and share it with the team.", "exvi": "Cứ chia sẻ với cả nhóm đi." },
+                { "w": "reschedule", "vi": "dời lịch", "ex": "Go ahead and reschedule to Friday.", "exvi": "Cứ dời sang thứ Sáu đi." },
+                { "w": "refund it", "vi": "hoàn tiền", "ex": "Go ahead and refund it for the customer.", "exvi": "Cứ hoàn tiền cho khách đi." },
+                { "w": "delete it", "vi": "xóa đi", "ex": "Go ahead and delete the old version.", "exvi": "Cứ xóa bản cũ đi." }
+              ]
+            },
+            {
+              "title": "Câu hoàn chỉnh nên thuộc lòng",
+              "items": [
+                { "w": "Go ahead.", "vi": "cứ tự nhiên", "ex": "“Mind if I sit here?” — “Go ahead.”", "exvi": "“Mình ngồi đây nhé?” — “Bạn cứ ngồi.”", "note": "Câu trả lời tự nhiên nhất cho mọi lời xin phép." },
+                { "w": "No, go ahead.", "vi": "không phiền, cứ tự nhiên", "ex": "“Do you mind if I open the window?” — “No, go ahead.”", "exvi": "“Tôi mở cửa sổ có phiền không?” — “Không, bạn cứ mở.”", "note": "Chữ <i>No</i> ở đây nghĩa là “không phiền”. Xem [Khung 13]." },
+                { "w": "Sorry, go ahead.", "vi": "xin lỗi, mời bạn nói", "ex": "Oh sorry — go ahead, you were first.", "exvi": "Ồ xin lỗi — mời bạn nói, bạn nói trước mà.", "note": "Câu cứu nguy khi hai người nói chồng lên nhau trong cuộc họp." },
+                { "w": "You go ahead, I'll catch up.", "vi": "bạn đi trước, mình theo sau", "ex": "You go ahead — I'll catch up in five minutes.", "exvi": "Bạn đi trước đi — năm phút nữa mình theo." },
+                { "w": "Go ahead and start without me.", "vi": "cứ bắt đầu, đừng chờ mình", "ex": "I'm running late — go ahead and start without me.", "exvi": "Mình đến muộn — cứ bắt đầu, đừng chờ mình." },
+                { "w": "Shall I go ahead and book it?", "vi": "tôi đặt luôn nhé?", "ex": "Shall I go ahead and book it for seven?", "exvi": "Tôi đặt luôn lúc bảy giờ nhé?", "note": "Xin phép tiến hành — rất gọn khi chốt việc." },
+                { "w": "I'll go ahead and send it.", "vi": "tôi gửi luôn nhé", "ex": "I'll go ahead and send it unless you'd rather I didn't.", "exvi": "Tôi gửi luôn nhé, trừ khi anh/chị muốn khoan đã.", "note": "Báo trước mà vẫn cho người kia cơ hội ngăn lại." },
+                { "w": "Let's go ahead with it.", "vi": "mình tiến hành đi", "ex": "Let's go ahead with the original plan.", "exvi": "Mình cứ tiến hành theo kế hoạch ban đầu đi." },
+                { "w": "Go ahead, I'm listening.", "vi": "bạn nói đi, tôi đang nghe", "ex": "Go ahead, I'm listening.", "exvi": "Anh/chị nói đi, tôi đang nghe ạ.", "note": "Câu dùng nhiều khi nói điện thoại." },
+                { "w": "We're not going ahead with it.", "vi": "chúng tôi không tiến hành nữa", "ex": "We've decided we're not going ahead with it.", "exvi": "Chúng tôi quyết định không tiến hành việc đó nữa.", "note": "Cách thông báo hủy một kế hoạch, nghe chuyên nghiệp." }
+              ]
+            },
+            {
+              "title": "Cụm gần nghĩa & cách đáp",
+              "items": [
+                { "w": "Be my guest", "vi": "bạn cứ tự nhiên", "ex": "“Can I take the last slice?” — “Be my guest.”", "exvi": "“Mình lấy miếng cuối nhé?” — “Bạn cứ tự nhiên.”", "note": "Thân mật, hơi hài hước." },
+                { "w": "Help yourself", "vi": "cứ tự nhiên dùng", "ex": "“Can I have a coffee?” — “Help yourself.”", "exvi": "“Mình lấy cà phê nhé?” — “Bạn cứ tự nhiên.”" },
+                { "w": "Of course", "vi": "tất nhiên rồi", "ex": "“Can I ask you something?” — “Of course.”", "exvi": "“Tôi hỏi bạn một chuyện nhé?” — “Tất nhiên rồi.”" },
+                { "w": "Please do", "vi": "mời bạn", "ex": "“May I join you?” — “Please do.”", "exvi": "“Tôi ngồi cùng nhé?” — “Mời bạn.”", "note": "Trang trọng hơn <i>Go ahead</i> — an toàn với cấp trên. Xem [Khung 24]." },
+                { "w": "Feel free", "vi": "cứ thoải mái", "ex": "“Can I look around?” — “Feel free.”", "exvi": "“Tôi xem quanh được không?” — “Anh/chị cứ tự nhiên.”", "note": "Xem [Khung 25]." },
+                { "w": "After you", "vi": "mời bạn trước", "ex": "After you — I insist.", "exvi": "Mời bạn trước — mình nhường mà.", "note": "Nhường đường ở cửa, thang máy. Ngược với <i>You go ahead</i> về sắc thái." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Go ahead and book it — you don't need to check with me.",
+                  "vi": "Cứ đặt luôn đi — không cần hỏi lại mình đâu.",
+                  "note": "Trao quyền quyết định rõ ràng. Vế sau quan trọng: nó gỡ hẳn nhu cầu xin phép lần nữa.",
+                  "reply": [
+                    { "them": "Even if it's over budget?", "themvi": "Kể cả vượt ngân sách à?", "you": "Up to five million, yes.", "youvi": "Dưới năm triệu thì được." },
+                    { "them": "Great, I'll do it now.", "themvi": "Tuyệt, em làm luôn đây.", "you": "Send me the confirmation when it's done.", "youvi": "Xong thì gửi mình xác nhận nhé." }
+                  ]
+                },
+                {
+                  "en": "Sorry — go ahead, you were first.",
+                  "vi": "Xin lỗi — mời bạn nói, bạn nói trước mà.",
+                  "note": "Câu cứu nguy khi hai người cùng nói chồng lên nhau trong cuộc họp trực tuyến.",
+                  "reply": [
+                    { "them": "No, you go — mine can wait.", "themvi": "Không, anh nói đi — ý em để sau cũng được.", "you": "Let's do yours first, it's quicker.", "youvi": "Ý em trước đi, nhanh hơn." }
+                  ],
+                  "vars": [
+                    { "en": "No, sorry — after you.", "vi": "Không, xin lỗi — mời bạn trước." }
+                  ]
+                },
+                {
+                  "en": "Shall I go ahead and send it to the client?",
+                  "vi": "Tôi gửi luôn cho khách hàng nhé?",
+                  "note": "Xin phép tiến hành — gọn hơn nhiều so với mô tả dài dòng rồi mới hỏi.",
+                  "reply": [
+                    { "them": "Yes, go ahead.", "themvi": "Ừ, gửi đi.", "you": "Sending now.", "youvi": "Em gửi ngay đây ạ." },
+                    { "them": "Hold on — let me read it once more.", "themvi": "Khoan — để tôi đọc lại lần nữa.", "you": "Of course, no rush.", "youvi": "Vâng ạ, không vội." }
+                  ]
+                },
+                {
+                  "en": "We've decided we're not going ahead with it.",
+                  "vi": "Chúng tôi quyết định không tiến hành việc đó nữa.",
+                  "note": "Cách thông báo hủy kế hoạch nghe chuyên nghiệp — không đổ lỗi, chỉ nêu quyết định.",
+                  "open": { "en": "I wanted to tell you directly —", "vi": "Tôi muốn nói trực tiếp với anh/chị —" },
+                  "reply": [
+                    { "them": "Can I ask what changed?", "themvi": "Cho tôi hỏi điều gì đã thay đổi ạ?", "you": "The budget was cut in half.", "youvi": "Ngân sách bị cắt một nửa." }
+                  ],
+                  "close": { "en": "We'd like to revisit it next quarter.", "vi": "Quý sau chúng tôi muốn xem xét lại việc này." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "“Mind if I sit here?” — “Go ahead.”",
+                  "vi": "“Mình ngồi đây nhé?” — “Bạn cứ ngồi.”",
+                  "note": "Cách đồng ý tự nhiên nhất. So với <i>Yes, you can</i> thì câu này không hề có vị thế trên dưới.",
+                  "reply": [
+                    { "them": "Thanks.", "themvi": "Cảm ơn bạn.", "you": "No problem.", "youvi": "Không có gì." }
+                  ],
+                  "vars": [
+                    { "en": "“Can I take this chair?” — “Go ahead.”", "vi": "“Tôi lấy cái ghế này nhé?” — “Bạn cứ lấy.”" }
+                  ]
+                },
+                {
+                  "en": "Go ahead and order — don't wait for me.",
+                  "vi": "Cứ gọi món đi — đừng chờ mình.",
+                  "reply": [
+                    { "them": "Are you sure? You're only ten minutes away.", "themvi": "Bạn chắc chứ? Bạn chỉ còn mười phút nữa là tới mà.", "you": "Order for me too — anything with chicken.", "youvi": "Gọi giúp mình luôn — món gì có gà cũng được." }
+                  ]
+                },
+                {
+                  "en": "Go ahead and help yourself — there's plenty.",
+                  "vi": "Bạn cứ tự nhiên nhé — còn nhiều lắm.",
+                  "reply": [
+                    { "them": "It looks amazing. Did you make it?", "themvi": "Nhìn ngon quá. Bạn tự làm à?", "you": "I did — recipe from my mum.", "youvi": "Ừ — công thức của mẹ mình." }
+                  ]
+                },
+                {
+                  "en": "Go ahead and pay at the counter when you're ready.",
+                  "vi": "Khi nào xong anh/chị cứ thanh toán ở quầy ạ.",
+                  "reply": [
+                    { "them": "Do you take cards?", "themvi": "Bên mình nhận thẻ chứ ạ?", "you": "Yes, all cards.", "youvi": "Có ạ, tất cả các loại thẻ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "You go ahead — I'll catch up in five minutes.",
+                  "vi": "Bạn đi trước đi — năm phút nữa mình theo.",
+                  "note": "<span class=\"k\">catch up</span> = đuổi theo kịp. Cụm rất tự nhiên khi bạn cần nán lại chút.",
+                  "reply": [
+                    { "them": "Are you sure? We can wait.", "themvi": "Bạn chắc chứ? Bọn mình chờ được mà.", "you": "Honestly, go — I'll meet you there.", "youvi": "Thật đấy, đi đi — mình gặp mọi người ở đó." }
+                  ]
+                },
+                {
+                  "en": "“Do you mind if I ask you something personal?” — “Go ahead.”",
+                  "vi": "“Mình hỏi bạn một chuyện riêng tư được không?” — “Bạn cứ hỏi.”",
+                  "reply": [
+                    { "them": "How much do you pay in rent?", "themvi": "Bạn trả tiền nhà bao nhiêu?", "you": "About eight million a month.", "youvi": "Khoảng tám triệu một tháng." }
+                  ]
+                },
+                {
+                  "en": "Go ahead and try it — nothing will break.",
+                  "vi": "Cứ thử đi — không hỏng gì đâu.",
+                  "note": "Câu khích lệ rất hay khi ai đó ngần ngại chạm vào thứ mới.",
+                  "reply": [
+                    { "them": "What if I press the wrong button?", "themvi": "Lỡ mình bấm nhầm nút thì sao?", "you": "You can always undo it.", "youvi": "Lúc nào cũng hoàn tác lại được mà." }
+                  ]
+                },
+                {
+                  "en": "Go ahead, I'm listening.",
+                  "vi": "Bạn nói đi, mình đang nghe.",
+                  "note": "Câu dùng rất nhiều trên điện thoại, khi bạn muốn người kia trình bày.",
+                  "reply": [
+                    { "them": "It's a long story.", "themvi": "Chuyện dài lắm.", "you": "I've got time.", "youvi": "Mình có thời gian mà." }
+                  ],
+                  "close": { "en": "Thanks for telling me.", "vi": "Cảm ơn bạn đã kể cho mình." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Go ahead and try it on — the fitting room's free.",
+                  "vi": "Anh/chị cứ thử ạ — phòng thử đang trống.",
+                  "reply": [
+                    { "them": "Where is it?", "themvi": "Ở đâu vậy ạ?", "you": "Just behind you, on the right.", "youvi": "Ngay sau lưng anh/chị, bên phải ạ." }
+                  ]
+                },
+                {
+                  "en": "Go ahead and take a photo if it helps.",
+                  "vi": "Nếu tiện thì anh/chị cứ chụp ảnh ạ.",
+                  "reply": [
+                    { "them": "Thanks — I want to compare online.", "themvi": "Cảm ơn — tôi muốn so giá trên mạng.", "you": "Of course, no problem.", "youvi": "Vâng ạ, không sao." }
+                  ]
+                },
+                {
+                  "en": "Go ahead and refund it — the customer's right.",
+                  "vi": "Cứ hoàn tiền đi — khách hàng nói đúng.",
+                  "note": "Quản lý nói với nhân viên. Câu trao quyền quyết định ngay tại chỗ.",
+                  "reply": [
+                    { "them": "Even without a receipt?", "themvi": "Kể cả không có biên lai à chị?", "you": "Yes, just note it in the system.", "youvi": "Ừ, chỉ cần ghi chú vào hệ thống." }
+                  ]
+                },
+                {
+                  "en": "Shall I go ahead and order it in for you?",
+                  "vi": "Em đặt hàng về cho anh/chị luôn nhé?",
+                  "reply": [
+                    { "them": "How long would it take?", "themvi": "Mất bao lâu vậy bạn?", "you": "About a week.", "youvi": "Khoảng một tuần ạ." }
+                  ],
+                  "close": { "en": "I'll call you when it arrives.", "vi": "Hàng về em gọi anh/chị ạ." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Go ahead — the gate's open.",
+                  "vi": "Anh/chị cứ vào ạ — cửa đã mở.",
+                  "reply": [
+                    { "them": "Do I need to show my passport again?", "themvi": "Tôi có phải xuất trình hộ chiếu lần nữa không ạ?", "you": "Just your boarding pass.", "youvi": "Chỉ cần thẻ lên máy bay thôi ạ." }
+                  ]
+                },
+                {
+                  "en": "You go ahead through security — I'll wait for my bag.",
+                  "vi": "Bạn qua cửa an ninh trước đi — mình chờ lấy túi.",
+                  "reply": [
+                    { "them": "I'll wait for you on the other side.", "themvi": "Mình chờ bạn ở bên kia.", "you": "Perfect, see you in a minute.", "youvi": "Tuyệt, lát gặp." }
+                  ]
+                },
+                {
+                  "en": "Go ahead and check in online — it'll save time.",
+                  "vi": "Anh/chị cứ làm thủ tục trực tuyến đi — đỡ mất thời gian.",
+                  "reply": [
+                    { "them": "Can I still choose a seat?", "themvi": "Tôi vẫn chọn chỗ ngồi được chứ ạ?", "you": "Yes, and it's free at this stage.", "youvi": "Được ạ, và ở giai đoạn này là miễn phí." }
+                  ]
+                },
+                {
+                  "en": "Go ahead and use the lounge while you wait.",
+                  "vi": "Trong lúc chờ anh/chị cứ dùng phòng chờ ạ.",
+                  "reply": [
+                    { "them": "Is it included in my ticket?", "themvi": "Vé của tôi có bao gồm không ạ?", "you": "It is, with business class.", "youvi": "Có ạ, với hạng thương gia." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Trao quyền quyết định cho đồng nghiệp",
+          "lines": [
+            { "speaker": "Colleague", "en": "The venue's asking for a deposit today. Should I pay it?", "vi": "Bên địa điểm hỏi đặt cọc hôm nay. Em trả luôn nhé?" },
+            { "speaker": "You", "me": true, "en": "Go ahead and pay it — you don't need to check with me.", "vi": "Cứ trả đi — không cần hỏi lại anh đâu." },
+            { "speaker": "Colleague", "en": "Even if it's over budget?", "vi": "Kể cả vượt ngân sách ạ?" },
+            { "speaker": "You", "me": true, "en": "Up to five million, go ahead. Above that, call me.", "vi": "Dưới năm triệu thì cứ làm. Trên đó thì gọi anh." },
+            { "speaker": "Colleague", "en": "Understood. I'll send the receipt.", "vi": "Em rõ rồi. Em sẽ gửi biên lai." },
+            { "speaker": "You", "me": true, "en": "Perfect. And go ahead and confirm the date while you're at it.", "vi": "Tốt. Nhân tiện thì chốt luôn ngày đi." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Nói chồng lên nhau trong cuộc họp trực tuyến",
+          "lines": [
+            { "speaker": "Lan", "en": "I think we should— sorry, go ahead.", "vi": "Em nghĩ mình nên— xin lỗi, mời anh nói." },
+            { "speaker": "You", "me": true, "en": "No, sorry — go ahead, you were first.", "vi": "Không, xin lỗi — em nói đi, em nói trước mà." },
+            { "speaker": "Lan", "en": "OK. I think we should delay the launch.", "vi": "Vâng. Em nghĩ mình nên hoãn ra mắt." },
+            { "speaker": "You", "me": true, "en": "That's exactly what I was going to say. Go ahead and draft the email.", "vi": "Đúng cái anh định nói. Em cứ soạn email đi." },
+            { "speaker": "Lan", "en": "Should I send it to everyone?", "vi": "Em gửi cho tất cả mọi người chứ ạ?" },
+            { "speaker": "You", "me": true, "en": "Send it to me first, then go ahead and share it.", "vi": "Gửi anh trước, rồi em cứ gửi cho mọi người." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Go ahead to book it.", "right": "Go ahead and book it.", "why": "Cấu trúc là <b>go ahead AND + V</b>, không phải <i>to V</i>." },
+            { "wrong": "Go ahead booking it.", "right": "Go ahead and book it.", "why": "Không dùng V-ing. Luôn là <b>and</b> + động từ trần." },
+            { "wrong": "Go ahead with book it.", "right": "Go ahead and book it. / Go ahead with the booking.", "why": "<b>with</b> đi với DANH TỪ, <b>and</b> đi với ĐỘNG TỪ. Không trộn hai cái." },
+            { "wrong": "“Can I sit here?” — “Yes, you can go ahead.”", "right": "“Can I sit here?” — “Go ahead.”", "why": "Thừa và nghe kỳ. Hai chữ <b>Go ahead</b> là đủ." },
+            { "wrong": "Go ahead. <i>(nói với giọng lạnh, mỉa)</i>", "right": "Go ahead! <i>(giọng ấm, đi lên)</i>", "why": "Cùng hai chữ nhưng giọng lạnh biến nó thành lời thách thức: “cứ thử xem”." },
+            { "wrong": "I go ahead and send it.", "right": "I'll go ahead and send it.", "why": "Nói về việc sắp làm thì cần <b>'ll</b> (will)." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>Go ahead.</code>", "Đồng ý ngắn — tự nhiên nhất", "<i>“Mind if I sit?” — “Go ahead.”</i>"],
+            ["<code>Go ahead and + V</code>", "Giục làm luôn — trao quyền", "<i>Go ahead and book it.</i>"],
+            ["<code>Please do.</code>", "Trang trọng hơn — an toàn với cấp trên", "<i>“May I?” — “Please do.”</i> — Xem [Khung 24]."],
+            ["<code>Feel free to + V</code>", "Gỡ ngần ngại — không có trên dưới", "<i>Feel free to ask.</i> — Xem [Khung 25]."],
+            ["<code>Be my guest.</code>", "Thân mật, hơi hài hước", "<i>“Can I take it?” — “Be my guest.”</i>"],
+            ["<code>Help yourself.</code>", "Mời dùng đồ ăn, đồ uống", "<i>Help yourself to coffee.</i>"],
+            ["<code>After you.</code>", "Nhường bạn đi trước — lịch thiệp", "<i>After you.</i> — Ngược sắc thái với <i>You go ahead.</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — đồng ý khi ai đó xin phép" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Yes, you can.", "vi": "Hơi kẻ cả — tránh" },
+            { "en": "Sure.", "vi": "Ngắn gọn — thân mật" },
+            { "en": "Go ahead.", "vi": "Tự nhiên nhất — dùng mọi nơi" },
+            { "en": "Of course, please do.", "vi": "Lịch sự — an toàn với cấp trên" },
+            { "en": "Please, be my guest.", "vi": "Nồng nhiệt nhất" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>ahead</b> = /əˈhed/ — trọng âm ở âm tiết <b>thứ hai</b>: ə-<b>HED</b>. Âm /h/ phải bật ra rõ.",
+            "<b>Go ahead</b> nối liền thành “gow-ə-HED” — ba âm tiết, nhấn ở cuối.",
+            "<b>Go ahead and</b> → “gow-ə-HE-dən” — chữ <i>and</i> giảm thành /ən/, gần như biến mất.",
+            "Cả cụm <b>Go ahead and book it</b> nghe thành “gow-ə-HE-dən-BU-kit” — nói liền một hơi.",
+            "<b>Giọng đi lên và ấm</b> khi cho phép. Giọng phẳng hoặc đi xuống mạnh sẽ thành thách thức.",
+            "Khi nhường lượt nói, thường nói nhanh và nhẹ: “sorry, gow-ə-hed”."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Go ahead and book it for seven.", "vi": "Luyện shadowing: chú ý “and” giảm thành /ən/, gần như dính vào “ahead”." },
+            { "en": "“Mind if I sit here?” — “Go ahead.”", "vi": "Tập nói với giọng ấm, đi lên — đó là điều phân biệt lời mời với lời thách." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "“Mình ngồi đây nhé?” — “Bạn cứ ngồi.”", "blank": "“Mind if I sit here?” — “__________.”", "a": "Go ahead" },
+            { "vi": "Cứ đặt luôn đi.", "blank": "__________ book it.", "a": "Go ahead and (không phải “to”)" },
+            { "vi": "Mình cứ tiến hành theo kế hoạch ban đầu đi.", "blank": "Let's __________ the original plan.", "a": "go ahead with" },
+            { "vi": "Bạn đi trước đi — năm phút nữa mình theo.", "blank": "__________ — I'll catch up in five minutes.", "a": "You go ahead" },
+            { "vi": "Xin lỗi — mời bạn nói, bạn nói trước mà.", "blank": "Sorry — __________, you were first.", "a": "go ahead" },
+            { "vi": "Tôi gửi luôn cho khách hàng nhé?", "blank": "__________ send it to the client?", "a": "Shall I go ahead and" },
+            { "vi": "Chúng tôi quyết định không tiến hành việc đó nữa.", "blank": "We're __________ it.", "a": "not going ahead with" },
+            { "vi": "Anh/chị nói đi, tôi đang nghe ạ.", "blank": "__________, I'm listening.", "a": "Go ahead" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Cứ gọi món đi — đừng chờ mình.", "a": "Go ahead and order — don't wait for me." },
+            { "vi": "2. Cứ thử đi — không hỏng gì đâu.", "a": "Go ahead and try it — nothing will break." },
+            { "vi": "3. Cứ đặt luôn đi — không cần hỏi lại mình đâu.", "a": "Go ahead and book it — you don't need to check with me." },
+            { "vi": "4. Tôi gửi luôn nhé, trừ khi anh/chị muốn khoan đã.", "a": "I'll go ahead and send it unless you'd rather I didn't." },
+            { "vi": "5. Anh/chị cứ thử ạ — phòng thử đang trống.", "a": "Go ahead and try it on — the fitting room's free." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Dùng thay “Yes, you can”:</b> mỗi lần ai đó xin phép, hãy đáp <i>Go ahead.</i> Nó tự nhiên hơn và không có chút kẻ cả nào.",
+            "<b>Nhớ “and”, không phải “to”:</b> <i>Go ahead <b>and</b> book it</i>. Đây là lỗi bám dai nhất của khung này.",
+            "<b>Phân biệt and / with:</b> <i>and</i> đi với động từ, <i>with</i> đi với danh từ.",
+            "<b>Dùng để trao quyền ở chỗ làm:</b> <i>Go ahead and…, you don't need to check with me.</i> Vế sau mới là phần gỡ được nút thắt.",
+            "<b>Giữ giọng ấm:</b> cùng hai chữ mà giọng lạnh biến nó thành lời thách thức. Ngữ điệu quan trọng hơn từ ngữ ở khung này.",
+            "<b>Bài tập 3 phút:</b> nghĩ 5 lời xin phép người khác hay hỏi bạn, tập đáp bằng <i>Go ahead</i>, rồi thêm 3 việc bạn muốn trao quyền cho ai đó bằng <i>Go ahead and…</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "title": "Nhập Môn — Bắt Đầu Từ Số 0",
+  "tagline": "26 bài móng · học xong mới sang Ngữ pháp · không cần biết gì trước",
+  "intro": "Phần này dành cho người <b>chưa học tiếng Anh bao giờ</b>, hoặc học rồi mà quên sạch.<br><br>Khác với các tab kia, ở đây <b>không có bẫy nào được nhắc trước khi bạn biết cái đúng</b>. Mỗi bài dạy một quy tắc, cho ít nhất 20 ví dụ ngắn, rồi mới kiểm tra. Mọi thuật ngữ (danh từ, động từ, chủ ngữ…) đều được giải thích ngay lần đầu xuất hiện.<br><br><b>Học theo đúng thứ tự từ bài 01.</b> Mỗi bài có mục <i>Cần biết trước</i> nói rõ bạn phải nắm gì rồi mới vào được. Xong 26 bài này thì sang tab <b>Ngữ pháp</b>, bắt đầu từ Nhóm 1.",
+  "groups": [
+    {
+      "name": "Nhóm 1 · Trước khi học ngữ pháp",
+      "items": [
+        { "id": 1, "pat": "A a · B b · C c", "vi": "Bảng chữ cái & đánh vần tên mình", "detail": true },
+        { "id": 2, "pat": "/iː/ /ɪ/ /e/ /æ/ /ə/", "vi": "Đọc ký hiệu phiên âm — nguyên âm", "detail": true },
+        { "id": 3, "pat": "/θ/ /ʃ/ /dʒ/ · ˈ", "vi": "Đọc ký hiệu phiên âm — phụ âm & trọng âm", "detail": true },
+        { "id": 4, "pat": "danh từ · động từ · tính từ", "vi": "Thuật ngữ — gọi tên các loại từ", "detail": true }
+      ]
+    },
+    {
+      "name": "Nhóm 2 · Câu đầu tiên",
+      "items": [
+        { "id": 5, "pat": "ai + làm gì", "vi": "Chủ ngữ & vị ngữ — câu gồm những gì", "detail": true },
+        { "id": 6, "pat": "I · you · he · she · it · we · they", "vi": "Đại từ — thay cho tên người", "detail": true },
+        { "id": 7, "pat": "I am · you are · he is", "vi": "Động từ to be — câu đầu tiên bạn nói được", "detail": true },
+        { "id": 8, "pat": "I am not · he isn't", "vi": "Nói KHÔNG với to be", "detail": true },
+        { "id": 9, "pat": "Are you…? — Yes, I am.", "vi": "Hỏi và đáp với to be", "detail": true }
+      ]
+    },
+    {
+      "name": "Nhóm 3 · Danh từ & mạo từ",
+      "items": [
+        { "id": 10, "pat": "one book → two books", "vi": "Một và nhiều — thêm -s", "detail": true },
+        { "id": 11, "pat": "a book · an apple", "vi": "a và an — nhắc tới lần đầu", "detail": true },
+        { "id": 12, "pat": "the book", "vi": "the — cái mà cả hai đều biết", "detail": true },
+        { "id": 13, "pat": "this · that · these · those", "vi": "Cái này, cái kia", "detail": true }
+      ]
+    },
+    {
+      "name": "Nhóm 4 · Động từ thường",
+      "items": [
+        { "id": 14, "pat": "I work · he works", "vi": "Động từ thường — và chữ -s của he/she/it", "detail": true },
+        { "id": 15, "pat": "I don't · he doesn't", "vi": "Nói KHÔNG với động từ thường", "detail": true },
+        { "id": 16, "pat": "Do you…? · Does he…?", "vi": "Hỏi với động từ thường", "detail": true },
+        { "id": 17, "pat": "what · where · when · who · why · how", "vi": "Sáu từ để hỏi", "detail": true },
+        { "id": 18, "pat": "I can swim · I can't swim", "vi": "can — làm được hay không làm được", "detail": true }
+      ]
+    },
+    {
+      "name": "Nhóm 5 · Dùng hằng ngày",
+      "items": [
+        { "id": 19, "pat": "0 1 2 … 100", "vi": "Số đếm và cách đọc", "detail": true },
+        { "id": 20, "pat": "Monday · January · 5th", "vi": "Thứ, tháng và ngày tháng", "detail": true },
+        { "id": 21, "pat": "It's half past seven.", "vi": "Xem giờ và nói giờ", "detail": true },
+        { "id": 22, "pat": "in · on · at · under · next to", "vi": "Nói đồ vật nằm ở đâu", "detail": true },
+        { "id": 23, "pat": "my book · Nam's book", "vi": "Của ai — my, your và dấu 's", "detail": true }
+      ]
+    },
+    {
+      "name": "Nhóm 6 · Nối sang phần sau",
+      "items": [
+        { "id": 24, "pat": "I was · they were", "vi": "to be ở quá khứ", "detail": true },
+        { "id": 25, "pat": "There is a book.", "vi": "Nói “có” — there is / there are", "detail": true },
+        { "id": 26, "pat": "Đọc một đoạn ngắn", "vi": "Ghép tất cả lại & học tiếp gì", "detail": true }
+      ]
+    }
+  ]
+}

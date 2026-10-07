@@ -1,0 +1,495 @@
+{
+  "id": 46,
+  "group": "Nhóm 5 · Ý kiến & Quan điểm",
+  "title": "I'd say… — Tôi thì cho rằng (nhẹ và rất đời thường)",
+  "subtitle": "Đây là cách người bản xứ nêu ý kiến nhiều nhất trong đời thường mà sách giáo khoa hiếm khi dạy. Nó vừa là ý kiến, vừa là ước lượng, vừa là lời khuyên nhẹ — và dạng phủ định I wouldn't say that là một trong những cách phản đối khéo nhất trong tiếng Anh.",
+  "pattern": [
+    "I'd say <em>+ mệnh đề</em>",
+    "I'd say <em>+ con số / tính từ</em>",
+    "I wouldn't say <em>+ mệnh đề</em>"
+  ],
+  "meaning": "Tôi thì cho rằng… / Tôi đoán khoảng… / Theo tôi thì…",
+  "grammar": [29, 62],
+  "tags": [
+    { "text": "Tần suất: rất cao khi nói", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Đời thường — hiếm dùng khi viết" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I'd say</span> là rút gọn của <i>I would say</i>. Chữ <i>would</i> ở đây không phải điều kiện gì cả — nó chỉ làm câu <b>nhẹ đi</b>, như thể bạn nói “nếu phải chọn một câu trả lời thì tôi nói là…”." },
+        { "t": "p", "html": "Nó có <b>ba công dụng</b> rất khác nhau. Một: nêu ý kiến nhẹ (<i>I'd say it's fine.</i>). Hai: <b>ước lượng con số</b> (<i>I'd say about fifty people.</i>). Ba: khuyên nhẹ (<i>I'd say go for it.</i>)." },
+        { "t": "p", "html": "So với [Khung 41], nó <b>đời thường hơn</b> và nghe như bạn vừa cân nhắc xong trong đầu. So với [Khung 42], nó <b>nhẹ hơn nhiều</b> — không ai dùng <i>I'd say</i> trong báo cáo chính thức cả." },
+        { "t": "callout", "html": "<b>Dạng phủ định là viên ngọc:</b> <span class=\"k\">I wouldn't say that.</span> = “Tôi không cho là vậy.” Đây là cách phản đối khéo nhất trong tiếng Anh — nó nghi ngờ cách <b>diễn đạt</b> chứ không nghi ngờ con người." },
+        { "t": "h3", "text": "Ba công dụng" },
+        {
+          "t": "table",
+          "head": ["Câu", "Công dụng", "Sắc thái"],
+          "rows": [
+            ["<code>I'd say it's fine.</code>", "Nêu ý kiến", "Nhẹ, như vừa cân nhắc xong"],
+            ["<code>I'd say about fifty.</code>", "Ước lượng con số", "Đoán có cơ sở — rất phổ biến"],
+            ["<code>I'd say go for it.</code>", "Khuyên nhẹ", "Không áp đặt"],
+            ["<code>I wouldn't say that.</code>", "Phản đối khéo", "Nghi ngờ cách nói, không phải con người"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng nhầm với “I say”.</b> <i>I'd say</i> (có <b>'d</b>) là nêu ý kiến. Còn <i>I say!</i> là cách gọi chú ý kiểu Anh rất cũ, nghe như phim thập niên 1950 — hầu như không ai dùng nữa." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🔢", "title": "Ước lượng số lượng", "text": "Bối cảnh số 1. <i>I'd say about twenty minutes.</i> Đoán có cơ sở, không cam kết." },
+            { "icon": "💭", "title": "Trả lời khi được hỏi ý", "text": "<i>I'd say the blue one.</i> Nhẹ nhàng, không nặng nề." },
+            { "icon": "🛡", "title": "Phản đối khéo", "text": "<i>I wouldn't say that.</i> Nghi ngờ cách diễn đạt, không phải người nói." },
+            { "icon": "👍", "title": "Khuyên nhẹ", "text": "<i>I'd say go for it.</i> Ủng hộ mà không chịu trách nhiệm thay." },
+            { "icon": "⚖️", "title": "Đánh giá mức độ", "text": "<i>I'd say it's more of a suggestion.</i> Chỉnh lại cách gọi tên sự việc." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Viết báo cáo, email chính thức. Ở đó dùng [Khung 42] hoặc [Khung 43]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Nêu ý kiến", "<code>I'd say (that) + mệnh đề</code>", "I'd say it's worth it."],
+            ["Ước lượng", "<code>I'd say + con số / about + số</code>", "I'd say about fifty people."],
+            ["Đánh giá", "<code>I'd say + tính từ</code>", "I'd say fair, not great."],
+            ["Khuyên nhẹ", "<code>I'd say + câu mệnh lệnh</code>", "I'd say go for it."],
+            ["Phản đối khéo", "<code>I wouldn't say + mệnh đề</code>", "I wouldn't say it's a problem."],
+            ["Đồng ý ngắn", "<code>I'd say so.</code>", "“Is it worth it?” — “I'd say so.”"],
+            ["Không đồng ý ngắn", "<code>I wouldn't say so.</code>", "“Was it good?” — “I wouldn't say so.”"],
+            ["Đoán dè dặt", "<code>At a guess, I'd say…</code>", "At a guess, I'd say thirty."],
+            ["Nhấn cá nhân", "<code>If it were me, I'd say…</code>", "If it were me, I'd say wait."],
+            ["Hỏi lại", "<code>What would you say?</code>", "What would you say to that?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Khi nói luôn rút gọn thành “I'd”.</b> Nói đầy đủ <i>I would say</i> nghe cứng và trang trọng bất thường. Chỉ giữ dạng đầy đủ khi muốn <b>nhấn mạnh</b>: <i>I WOULD say that, actually.</i>" },
+        { "t": "callout", "html": "<b>Đừng chồng hai lớp “would”:</b> <span class=\"k\">I'd say it would be fine</span> nghe lòng vòng. Chọn một: <i>I'd say it's fine</i> hoặc <i>It would be fine</i>." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Nêu ý kiến & đánh giá",
+              "items": [
+                { "w": "it's worth it", "vi": "đáng giá", "ex": "I'd say it's worth it.", "exvi": "Tôi thì cho rằng đáng giá." },
+                { "w": "it's fine", "vi": "ổn thôi", "ex": "I'd say it's fine as it is.", "exvi": "Tôi thì thấy cứ để vậy là ổn." },
+                { "w": "it's a bit much", "vi": "hơi quá", "ex": "I'd say it's a bit much.", "exvi": "Tôi thì thấy hơi quá." },
+                { "w": "that's fair", "vi": "vậy là công bằng", "ex": "I'd say that's fair.", "exvi": "Tôi thì thấy vậy là công bằng." },
+                { "w": "it depends", "vi": "còn tùy", "ex": "I'd say it depends on the weather.", "exvi": "Tôi thì thấy còn tùy thời tiết." },
+                { "w": "the blue one", "vi": "cái màu xanh", "ex": "I'd say the blue one.", "exvi": "Tôi thì chọn cái màu xanh." },
+                { "w": "it's more of a suggestion", "vi": "nó giống gợi ý hơn", "ex": "I'd say it's more of a suggestion than a rule.", "exvi": "Tôi thì thấy nó giống gợi ý hơn là quy định.", "note": "<i>more of a X than a Y</i> = thiên về X hơn là Y. Cụm rất hay để chỉnh lại cách gọi tên sự việc." },
+                { "w": "we're about halfway", "vi": "mình đi được nửa đường", "ex": "I'd say we're about halfway there.", "exvi": "Tôi thì thấy mình đi được khoảng nửa đường." },
+                { "w": "that's the main issue", "vi": "đó là vấn đề chính", "ex": "I'd say that's the main issue.", "exvi": "Tôi thì cho rằng đó mới là vấn đề chính." },
+                { "w": "it's too early to tell", "vi": "còn quá sớm để nói", "ex": "I'd say it's too early to tell.", "exvi": "Tôi thì cho rằng còn quá sớm để kết luận." },
+                { "w": "it went well", "vi": "mọi chuyện ổn", "ex": "I'd say it went pretty well.", "exvi": "Tôi thì thấy mọi chuyện khá ổn." },
+                { "w": "she's the best fit", "vi": "cô ấy phù hợp nhất", "ex": "I'd say she's the best fit for the role.", "exvi": "Tôi thì cho rằng cô ấy phù hợp nhất với vị trí này." },
+                { "w": "it's not urgent", "vi": "không gấp", "ex": "I'd say it's not urgent.", "exvi": "Tôi thì thấy không gấp." },
+                { "w": "go for it", "vi": "cứ làm đi", "ex": "I'd say go for it.", "exvi": "Tôi thì bảo cứ làm đi.", "note": "Sau <i>I'd say</i> có thể là câu mệnh lệnh — đây là cách khuyên nhẹ rất tự nhiên." },
+                { "w": "wait a week", "vi": "đợi một tuần", "ex": "I'd say wait a week and see.", "exvi": "Tôi thì bảo đợi một tuần xem sao." },
+                { "w": "ask her first", "vi": "hỏi cô ấy trước", "ex": "I'd say ask her first.", "exvi": "Tôi thì bảo hỏi cô ấy trước đã." },
+                { "w": "keep it simple", "vi": "giữ đơn giản", "ex": "I'd say keep it simple.", "exvi": "Tôi thì bảo cứ giữ cho đơn giản." },
+                { "w": "don't rush it", "vi": "đừng vội", "ex": "I'd say don't rush it.", "exvi": "Tôi thì bảo đừng vội." },
+                { "w": "it's a fair price", "vi": "giá hợp lý", "ex": "I'd say it's a fair price.", "exvi": "Tôi thì thấy giá hợp lý." },
+                { "w": "both work", "vi": "cái nào cũng được", "ex": "I'd say both work, honestly.", "exvi": "Thật lòng tôi thấy cái nào cũng được." }
+              ]
+            },
+            {
+              "title": "Ước lượng & các dạng biến thể",
+              "items": [
+                { "w": "about fifty", "vi": "khoảng năm mươi", "ex": "I'd say about fifty people came.", "exvi": "Tôi đoán khoảng năm mươi người đến.", "note": "Công dụng phổ biến nhất khi nói — ước lượng con số mà không cam kết." },
+                { "w": "twenty minutes", "vi": "hai mươi phút", "ex": "I'd say twenty minutes, tops.", "exvi": "Tôi đoán hai mươi phút là cùng.", "note": "<i>tops</i> ở cuối = tối đa. Rất thân mật." },
+                { "w": "in her thirties", "vi": "khoảng ba mươi mấy", "ex": "I'd say she's in her thirties.", "exvi": "Tôi đoán cô ấy khoảng ba mươi mấy.", "note": "Cách đoán tuổi lịch sự — không nói con số cụ thể." },
+                { "w": "at a guess", "vi": "đoán thì", "ex": "At a guess, I'd say thirty.", "exvi": "Đoán thì tôi nói là ba mươi.", "note": "Nói rõ ngay từ đầu rằng bạn đang đoán." },
+                { "w": "roughly", "vi": "khoảng chừng", "ex": "I'd say roughly two hours.", "exvi": "Tôi đoán khoảng chừng hai tiếng." },
+                { "w": "I'd say so", "vi": "tôi cho là vậy", "ex": "“Is it worth it?” — “I'd say so.”", "exvi": "“Có đáng không?” — “Tôi cho là vậy.”", "note": "Không nói <i>I'd say yes</i>. Phải là <i>I'd say so</i>, giống <i>I think so</i> ở [Khung 41]." },
+                { "w": "I wouldn't say that", "vi": "tôi không cho là vậy", "ex": "I wouldn't say that, exactly.", "exvi": "Tôi thì không hẳn cho là vậy.", "note": "Phản đối khéo nhất — nghi ngờ cách diễn đạt chứ không phải con người." },
+                { "w": "I wouldn't go that far", "vi": "tôi không đến mức đó", "ex": "I wouldn't go that far.", "exvi": "Tôi thì không nói đến mức đó.", "note": "Đồng ý một phần nhưng thấy người kia nói quá." },
+                { "w": "If it were me, I'd say", "vi": "nếu là tôi thì tôi nói", "ex": "If it were me, I'd say wait.", "exvi": "Nếu là tôi thì tôi bảo đợi." },
+                { "w": "I'd have to say", "vi": "tôi buộc phải nói là", "ex": "I'd have to say the first one.", "exvi": "Tôi buộc phải chọn cái đầu tiên.", "note": "Dùng khi bị ép chọn giữa các phương án đều khó." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "That's about right", "vi": "cũng gần đúng", "ex": "That's about right, yeah.", "exvi": "Ừ, cũng gần đúng." },
+                { "w": "Same here", "vi": "tôi cũng vậy", "ex": "Same here.", "exvi": "Tôi cũng vậy.", "note": "Câu đồng tình ngắn gọn, rất tự nhiên." },
+                { "w": "You reckon?", "vi": "bạn nghĩ vậy à?", "ex": "You reckon? I'm not so sure.", "exvi": "Bạn nghĩ vậy à? Mình không chắc lắm.", "note": "Rất thân mật, mang màu Anh-Anh và Úc." },
+                { "w": "Fair point", "vi": "ý hay đấy", "ex": "Fair point.", "exvi": "Ý hay đấy." },
+                { "w": "What makes you say that?", "vi": "sao bạn nói vậy?", "ex": "What makes you say that?", "exvi": "Sao bạn lại nói vậy?" },
+                { "w": "I'd say the opposite", "vi": "tôi thì nghĩ ngược lại", "ex": "I'd say the opposite, actually.", "exvi": "Thật ra tôi nghĩ ngược lại.", "note": "Phản đối mà vẫn giữ nguyên khung câu — nghe rất cân bằng." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I'd say about two weeks, at a guess.",
+                  "vi": "Tôi đoán khoảng hai tuần.",
+                  "note": "Ước lượng thời gian mà không cam kết — cực kỳ hữu dụng khi sếp hỏi bao lâu xong.",
+                  "open": { "en": "Hard to say exactly, but —", "vi": "Khó nói chính xác, nhưng —" },
+                  "reply": [
+                    { "them": "Can you commit to that?", "themvi": "Anh/chị cam kết được không?", "you": "Give me a day to check with the team.", "youvi": "Cho tôi một ngày hỏi lại nhóm." },
+                    { "them": "That's about right, yeah.", "themvi": "Ừ, cũng gần đúng.", "you": "I'll put two weeks in the plan then.", "youvi": "Vậy tôi ghi hai tuần vào kế hoạch." }
+                  ],
+                  "close": { "en": "I'll confirm by Friday.", "vi": "Thứ Sáu tôi xác nhận lại." }
+                },
+                {
+                  "en": "I wouldn't say it's a problem, exactly.",
+                  "vi": "Tôi thì không hẳn gọi đó là vấn đề.",
+                  "note": "Phản đối khéo nhất trong tiếng Anh — nghi ngờ <b>cách gọi tên</b> sự việc chứ không phủ nhận người nói.",
+                  "reply": [
+                    { "them": "What would you call it then?", "themvi": "Vậy anh/chị gọi nó là gì?", "you": "I'd say it's more of a delay.", "youvi": "Tôi thì gọi là chậm tiến độ thôi." }
+                  ],
+                  "vars": [
+                    { "en": "I wouldn't go that far.", "vi": "Tôi thì không nói đến mức đó." }
+                  ]
+                },
+                {
+                  "en": "I'd say she's the best fit for the role.",
+                  "vi": "Tôi thì cho rằng cô ấy phù hợp nhất với vị trí này.",
+                  "reply": [
+                    { "them": "What makes you say that?", "themvi": "Sao anh/chị nói vậy?", "you": "She's done this exact job before.", "youvi": "Cô ấy từng làm đúng công việc này." }
+                  ]
+                },
+                {
+                  "en": "I'd say it's more of a suggestion than a rule.",
+                  "vi": "Tôi thì thấy nó giống gợi ý hơn là quy định.",
+                  "note": "<span class=\"k\">more of a X than a Y</span> — cụm rất mạnh để chỉnh lại mức độ nghiêm trọng của một việc.",
+                  "reply": [
+                    { "them": "So we don't have to follow it?", "themvi": "Vậy mình không bắt buộc theo à?", "you": "I'd say follow it unless there's a reason not to.", "youvi": "Tôi thì bảo cứ theo, trừ khi có lý do không theo." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I'd say the blue one, honestly.",
+                  "vi": "Thật lòng thì tôi chọn cái màu xanh.",
+                  "note": "Cho lời khuyên nhẹ khi ai đó hỏi ý bạn — không áp đặt chút nào.",
+                  "reply": [
+                    { "them": "You reckon? I liked the grey.", "themvi": "Bạn nghĩ vậy à? Mình thích cái xám.", "you": "Both work — go with your gut.", "youvi": "Cái nào cũng được — cứ theo cảm giác." }
+                  ]
+                },
+                {
+                  "en": "I'd say it's a fair price for what you get.",
+                  "vi": "Tôi thì thấy giá đó hợp lý so với thứ bạn nhận được.",
+                  "reply": [
+                    { "them": "Even with the delivery fee?", "themvi": "Kể cả phí giao hàng à?", "you": "I'd say so, yes.", "youvi": "Tôi cho là vậy." }
+                  ],
+                  "vars": [
+                    { "en": "I'd say it's worth it.", "vi": "Tôi thì thấy đáng giá." }
+                  ]
+                },
+                {
+                  "en": "I'd say about two hundred, at a guess.",
+                  "vi": "Tôi đoán khoảng hai trăm.",
+                  "note": "Đoán giá cho bạn bè trước khi hỏi nhân viên — <i>at a guess</i> nói rõ bạn đang đoán.",
+                  "reply": [
+                    { "them": "That's more than I thought.", "themvi": "Đắt hơn mình tưởng.", "you": "Let's ask — I could be way off.", "youvi": "Hỏi thử đi — có thể mình đoán lệch xa." }
+                  ]
+                },
+                {
+                  "en": "I wouldn't say it's cheap, but it's good value.",
+                  "vi": "Tôi thì không gọi là rẻ, nhưng đáng đồng tiền.",
+                  "note": "Cấu trúc cân bằng: phủ nhận một cách gọi rồi đưa ra cách gọi đúng hơn.",
+                  "reply": [
+                    { "them": "Fair point.", "themvi": "Ý hay đấy.", "you": "It'll last five years, easily.", "youvi": "Dùng năm năm là chuyện thường." }
+                  ],
+                  "close": { "en": "I'd say go for it.", "vi": "Tôi thì bảo cứ mua đi." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I'd say go for it.",
+                  "vi": "Tôi thì bảo cứ làm đi.",
+                  "note": "Sau <i>I'd say</i> là câu mệnh lệnh — cách khuyên nhẹ, ủng hộ mà không chịu trách nhiệm thay người khác.",
+                  "reply": [
+                    { "them": "Even though it's risky?", "themvi": "Dù hơi rủi ro à?", "you": "You'll regret not trying more.", "youvi": "Không thử thì bạn sẽ tiếc hơn." }
+                  ],
+                  "vars": [
+                    { "en": "If it were me, I'd say wait a bit.", "vi": "Nếu là mình thì mình bảo đợi chút." }
+                  ]
+                },
+                {
+                  "en": "I'd say she's in her thirties.",
+                  "vi": "Tôi đoán cô ấy khoảng ba mươi mấy.",
+                  "note": "Cách đoán tuổi lịch sự — nói khoảng chục tuổi thay vì con số cụ thể.",
+                  "reply": [
+                    { "them": "Really? She looks younger.", "themvi": "Thật à? Trông trẻ hơn mà.", "you": "Maybe late twenties then.", "youvi": "Vậy chắc cuối hai mươi." }
+                  ]
+                },
+                {
+                  "en": "I wouldn't say that, exactly.",
+                  "vi": "Tôi thì không hẳn cho là vậy.",
+                  "note": "Thêm <i>exactly</i> ở cuối làm câu mềm hẳn — bạn không phủ nhận hoàn toàn, chỉ thấy chưa chuẩn.",
+                  "reply": [
+                    { "them": "How would you put it?", "themvi": "Vậy bạn diễn đạt thế nào?", "you": "I'd say he was just tired.", "youvi": "Mình thì nói là anh ấy chỉ mệt thôi." }
+                  ]
+                },
+                {
+                  "en": "I'd say it went pretty well, all things considered.",
+                  "vi": "Xét mọi mặt thì tôi thấy mọi chuyện khá ổn.",
+                  "note": "<span class=\"k\">all things considered</span> = xét mọi mặt. Cụm rất hay để tổng kết.",
+                  "reply": [
+                    { "them": "Same here.", "themvi": "Mình cũng vậy.", "you": "Next time we'll start earlier.", "youvi": "Lần sau mình bắt đầu sớm hơn." }
+                  ],
+                  "close": { "en": "Let's call it a win.", "vi": "Coi như thành công đi." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I'd say twenty minutes, tops.",
+                  "vi": "Tôi đoán hai mươi phút là cùng.",
+                  "note": "<i>tops</i> ở cuối = tối đa. Rất thân mật, dùng khi ước lượng thời gian chờ.",
+                  "reply": [
+                    { "them": "Shall we wait then?", "themvi": "Vậy mình đợi nhé?", "you": "I'd say yes — the food's worth it.", "youvi": "Mình thì bảo đợi — đồ ăn đáng mà." }
+                  ]
+                },
+                {
+                  "en": "I'd say the fish, if you like seafood.",
+                  "vi": "Tôi thì chọn món cá, nếu bạn thích hải sản.",
+                  "reply": [
+                    { "them": "Is it spicy?", "themvi": "Có cay không?", "you": "I'd say mild, not spicy.", "youvi": "Mình thấy nhẹ thôi, không cay." }
+                  ]
+                },
+                {
+                  "en": "I wouldn't say it's the best in town, but it's solid.",
+                  "vi": "Tôi thì không gọi là ngon nhất thành phố, nhưng chắc chắn ổn.",
+                  "note": "<i>solid</i> ở đây nghĩa là ổn định, đáng tin — rất hay khi nhận xét quán ăn.",
+                  "reply": [
+                    { "them": "Good enough for a Tuesday.", "themvi": "Thứ Ba thì vậy là đủ.", "you": "Exactly what I was thinking.", "youvi": "Đúng ý mình luôn." }
+                  ]
+                },
+                {
+                  "en": "I'd say about fifty people came.",
+                  "vi": "Tôi đoán khoảng năm mươi người đến.",
+                  "reply": [
+                    { "them": "That many? It felt smaller.", "themvi": "Nhiều vậy à? Cảm giác ít hơn.", "you": "At a guess. Could be forty.", "youvi": "Đoán thôi. Có khi bốn mươi." }
+                  ],
+                  "close": { "en": "Either way, it went well.", "vi": "Kiểu gì thì cũng suôn sẻ." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I'd say two hours by train, roughly.",
+                  "vi": "Tôi đoán khoảng hai tiếng đi tàu.",
+                  "reply": [
+                    { "them": "And by car?", "themvi": "Còn đi ô tô?", "you": "I'd say longer, with traffic.", "youvi": "Mình đoán lâu hơn, vì kẹt xe." }
+                  ]
+                },
+                {
+                  "en": "I'd say three days is enough.",
+                  "vi": "Tôi thì thấy ba ngày là đủ.",
+                  "note": "So sánh với [Khung 42]: <i>In my opinion, three days isn't enough</i> nghe nặng hơn nhiều.",
+                  "reply": [
+                    { "them": "I'd say the opposite, actually.", "themvi": "Thật ra mình nghĩ ngược lại.", "you": "Fair — you've been before.", "youvi": "Cũng đúng — bạn đến rồi mà." }
+                  ],
+                  "vars": [
+                    { "en": "I'd have to say three, minimum.", "vi": "Mình buộc phải nói ít nhất ba ngày." }
+                  ]
+                },
+                {
+                  "en": "I'd say take the earlier flight.",
+                  "vi": "Tôi thì bảo bay chuyến sớm hơn.",
+                  "reply": [
+                    { "them": "It's a five a.m. start though.", "themvi": "Nhưng phải dậy từ năm giờ sáng.", "you": "I'd say worth it — you get a whole day.", "youvi": "Mình thấy đáng — được thêm nguyên một ngày." }
+                  ]
+                },
+                {
+                  "en": "I wouldn't say it's dangerous, just busy.",
+                  "vi": "Tôi thì không gọi là nguy hiểm, chỉ là đông thôi.",
+                  "note": "Cấu trúc trấn an rất hay: phủ nhận từ nặng rồi thay bằng từ nhẹ hơn cho đúng.",
+                  "reply": [
+                    { "them": "So we'll be fine?", "themvi": "Vậy mình ổn chứ?", "you": "I'd say so — just watch your bag.", "youvi": "Mình cho là vậy — chỉ cần để ý túi." }
+                  ],
+                  "close": { "en": "You'll love it.", "vi": "Bạn sẽ thích cho xem." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Ước lượng tiến độ với quản lý",
+          "lines": [
+            { "speaker": "Manager", "en": "How long until it's done?", "vi": "Bao lâu nữa thì xong?" },
+            { "speaker": "You", "me": true, "en": "Hard to say exactly, but I'd say about two weeks, at a guess.", "vi": "Khó nói chính xác, nhưng tôi đoán khoảng hai tuần." },
+            { "speaker": "Manager", "en": "That's later than I hoped. Is it a problem?", "vi": "Muộn hơn tôi mong. Có phải là vấn đề không?" },
+            { "speaker": "You", "me": true, "en": "I wouldn't say it's a problem, exactly. I'd say it's more of a delay.", "vi": "Tôi thì không hẳn gọi là vấn đề. Tôi thấy nó giống chậm tiến độ hơn." },
+            { "speaker": "Manager", "en": "Can we speed it up?", "vi": "Có đẩy nhanh được không?" },
+            { "speaker": "You", "me": true, "en": "I'd say don't rush it — we'd only redo the testing.", "vi": "Tôi thì bảo đừng vội — vội thì lại phải kiểm thử lại từ đầu." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Chọn đồ cùng bạn",
+          "lines": [
+            { "speaker": "Hà", "en": "Which one should I get?", "vi": "Mình nên lấy cái nào?" },
+            { "speaker": "You", "me": true, "en": "I'd say the blue one, honestly.", "vi": "Thật lòng thì mình chọn cái xanh." },
+            { "speaker": "Hà", "en": "You reckon? It's more expensive.", "vi": "Bạn nghĩ vậy à? Nó đắt hơn mà." },
+            { "speaker": "You", "me": true, "en": "I wouldn't say it's expensive — I'd say it's good value.", "vi": "Mình thì không gọi là đắt — mình gọi là đáng đồng tiền." },
+            { "speaker": "Hà", "en": "How much do you think, at a guess?", "vi": "Bạn đoán khoảng bao nhiêu?" },
+            { "speaker": "You", "me": true, "en": "I'd say about two hundred. And I'd say go for it.", "vi": "Mình đoán khoảng hai trăm. Và mình bảo cứ mua đi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'd say yes.", "right": "I'd say so.", "why": "Trả lời ngắn phải là <b>I'd say so</b> / <b>I wouldn't say so</b>, giống <i>I think so</i> ở [Khung 41]." },
+            { "wrong": "I'd say it would be fine.", "right": "I'd say it's fine.", "why": "Chồng hai lớp <i>would</i> nghe lòng vòng. Đã có <i>I'd</i> thì mệnh đề sau dùng thì hiện tại." },
+            { "wrong": "I say it's worth it. <i>(ý: nêu ý kiến)</i>", "right": "I'd say it's worth it.", "why": "Thiếu <b>'d</b> thì câu thành khẳng định trần trụi, mất hẳn sắc thái nhẹ nhàng." },
+            { "wrong": "I'd say that he is not right.", "right": "I wouldn't say he's right.", "why": "Giống [Khung 41], tiếng Anh <b>chuyển phủ định lên mệnh đề đầu</b>." },
+            { "wrong": "In my report, I'd say the results are positive.", "right": "In my report, the results appear positive.", "why": "<i>I'd say</i> quá đời thường cho văn bản chính thức. Dùng [Khung 42] hoặc [Khung 44]." },
+            { "wrong": "I would say about fifty. <i>(nói nhanh trong hội thoại)</i>", "right": "I'd say about fifty.", "why": "Khi nói luôn rút gọn. Dạng đầy đủ nghe cứng và trang trọng bất thường." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái / bối cảnh", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I'd say…</code>", "Nhẹ, đời thường, hay dùng để ước lượng", "<i>I'd say about fifty.</i> Nói chuyện hằng ngày."],
+            ["<code>I think…</code>", "Lớp đệm — dùng được mọi nơi", "<i>I think it's fine.</i> Xem [Khung 41]."],
+            ["<code>In my opinion,…</code>", "Trang trọng, có cân nhắc", "<i>In my opinion, it's risky.</i> Xem [Khung 42]."],
+            ["<code>I believe…</code>", "Khá chắc, lịch sự", "<i>I believe it's free.</i> Xem [Khung 43]."],
+            ["<code>I reckon…</code>", "Rất thân mật — Anh-Anh, Úc", "<i>I reckon it'll rain.</i> Không dùng trong công việc."],
+            ["<code>I guess…</code>", "Miễn cưỡng, thiếu chắc chắn", "<i>I guess so.</i> Nghe như đồng ý cho xong."],
+            ["<code>I'd have to say…</code>", "Bị ép chọn giữa các phương án", "<i>I'd have to say the first one.</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — phản đối một nhận xét" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I wouldn't say that, exactly.", "vi": "Nhẹ nhất — chỉ thấy cách nói chưa chuẩn" },
+            { "en": "I wouldn't go that far.", "vi": "Đồng ý một phần, thấy người kia nói quá" },
+            { "en": "I'm not so sure about that.", "vi": "Nghi ngờ nhẹ" },
+            { "en": "I don't think that's right.", "vi": "Phản đối rõ. Xem [Khung 41]" },
+            { "en": "That's simply not true.", "vi": "Bác bỏ thẳng — dễ gây căng" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>I'd</b> đọc là <b>/aɪd/</b> — một âm tiết duy nhất, đuôi /d/ rất nhẹ.",
+            "<b>I'd say</b> nói nhanh dính thành <b>“aid-SAY”</b>, trọng âm rơi vào <i>say</i>.",
+            "Âm /d/ ở <i>I'd</i> gần như <b>biến mất</b> khi nói nhanh — nghe như “ai-SAY”, nhưng vẫn khác hẳn <i>I say</i> vì nhịp ngắn hơn.",
+            "<b>I wouldn't say</b> → <b>“ai-WUD-nt-say”</b>, âm /t/ cuối <i>wouldn't</i> gần như nuốt mất.",
+            "Chữ <b>l</b> trong <i>would / wouldn't</i> là <b>âm câm</b> — không bao giờ đọc.",
+            "<b>I'd say so</b> → “aid-SAY-so”, hạ giọng ở <i>so</i> để nghe dứt khoát."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'd say about two weeks, at a guess.", "vi": "Luyện shadowing: “aid-SAY-ə-baut-tu-WEEKS”, nói lướt phần đầu." },
+            { "en": "I wouldn't say that, exactly.", "vi": "Tập nuốt /t/ ở wouldn't và hạ giọng ở exactly." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi đoán khoảng năm mươi người đến.", "blank": "__________ about fifty people came.", "a": "I'd say" },
+            { "vi": "“Có đáng không?” — “Tôi cho là vậy.”", "blank": "“Is it worth it?” — “__________.”", "a": "I'd say so (KHÔNG phải “I'd say yes”)" },
+            { "vi": "Tôi thì không hẳn cho là vậy.", "blank": "__________ that, exactly.", "a": "I wouldn't say" },
+            { "vi": "Đoán thì tôi nói là ba mươi.", "blank": "__________, I'd say thirty.", "a": "At a guess" },
+            { "vi": "Tôi thì bảo cứ làm đi.", "blank": "I'd say __________.", "a": "go for it" },
+            { "vi": "Tôi thì thấy nó giống gợi ý hơn là quy định.", "blank": "I'd say it's __________ a suggestion than a rule.", "a": "more of" },
+            { "vi": "Tôi thì không nói đến mức đó.", "blank": "I __________ that far.", "a": "wouldn't go" },
+            { "vi": "Nếu là tôi thì tôi bảo đợi.", "blank": "__________, I'd say wait.", "a": "If it were me" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi đoán khoảng hai tuần.", "a": "I'd say about two weeks, at a guess." },
+            { "vi": "2. Tôi thì không hẳn gọi đó là vấn đề.", "a": "I wouldn't say it's a problem, exactly." },
+            { "vi": "3. Thật lòng thì tôi chọn cái màu xanh.", "a": "I'd say the blue one, honestly." },
+            { "vi": "4. Tôi thì không gọi là đắt, nhưng đáng đồng tiền.", "a": "I wouldn't say it's expensive, but it's good value." },
+            { "vi": "5. Tôi đoán hai mươi phút là cùng.", "a": "I'd say twenty minutes, tops." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Dùng ngay khi phải đoán con số.</b> <i>I'd say about…</i> là cách tự nhiên nhất để ước lượng mà không cam kết.",
+            "<b>Học thuộc “I wouldn't say that.”</b> — vũ khí phản đối khéo nhất: nó chê cách diễn đạt chứ không chê người nói.",
+            "<b>Luôn rút gọn khi nói.</b> <i>I would say</i> đầy đủ nghe cứng; <i>I'd say</i> mới là tiếng Anh thật.",
+            "<b>Công thức chỉnh lại cách gọi tên:</b> <i>I wouldn't say X — I'd say it's more of a Y.</i> Cực hữu dụng khi hạ nhiệt một cuộc tranh luận.",
+            "<b>Đừng đem vào văn viết trang trọng.</b> Trong email và báo cáo, đổi sang [Khung 42] hoặc [Khung 44].",
+            "<b>Bài tập 3 phút:</b> lấy 5 câu hỏi kiểu “bao lâu / bao nhiêu / cái nào” và trả lời mỗi câu bằng <i>I'd say…</i>, thêm <i>at a guess</i> hoặc <i>roughly</i> vào ít nhất hai câu."
+          ]
+        }
+      ]
+    }
+  ]
+}

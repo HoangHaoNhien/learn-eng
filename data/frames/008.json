@@ -1,0 +1,488 @@
+{
+  "id": 8,
+  "group": "Nhóm 1 · Mong muốn & Nhu cầu",
+  "title": "I'd rather… — Nói ra lựa chọn mình nghiêng về",
+  "subtitle": "Khung để chọn giữa hai phương án, và đặc biệt là để từ chối. Câu “I'd rather not” là lời từ chối mềm nhất trong tiếng Anh: bạn nói không mà không ai bị mất mặt. Nhưng khung này có một bẫy ngữ pháp mà gần như người học nào cũng vấp.",
+  "pattern": [
+    "I'd rather <em>+ V (không “to”)</em>",
+    "I'd rather <em>A</em> than <em>B</em>",
+    "I'd rather you <em>+ V quá khứ</em>"
+  ],
+  "meaning": "Tôi thà… / Tôi thích… hơn (trong tình huống cụ thể này)",
+  "grammar": [57, 32, 29],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Từ chối mềm nhất" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I'd rather</span> (= I would rather) diễn tả lựa chọn bạn nghiêng về <b>trong tình huống cụ thể lúc này</b>. Nó luôn hàm ý có ít nhất hai phương án — dù bạn chỉ nói ra một." },
+        { "t": "p", "html": "Điểm mạnh lớn nhất của khung này là <b>dạng phủ định</b>. <span class=\"k\">I'd rather not</span> nói “tôi không muốn” mà không chạm vào ai: bạn không chê đề nghị của người kia, không viện lý do, cũng không phải giải thích. Người bản xứ dùng câu này để né mọi thứ, từ lời mời đi chơi đến câu hỏi riêng tư." },
+        { "t": "p", "html": "So với <i>I prefer</i>: <span class=\"k\">I prefer tea</span> nói về sở thích lâu dài (tôi vốn thích trà hơn), còn <span class=\"k\">I'd rather have tea</span> nói về lúc này (giờ cho tôi trà thì hơn). Nhầm hai cái này không sai nặng, nhưng nghe sẽ hơi lệch." },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp số một:</b> sau <i>I'd rather</i> là <b>động từ nguyên thể KHÔNG “to”</b>. <span class=\"k\">I'd rather stay home.</span> ✓ — <i>I'd rather to stay home.</i> ✗ Đây là lỗi phổ biến nhất vì ta quen với <i>I'd like to…</i> ở [Khung 01]." },
+        { "t": "h3", "text": "Bốn cách nói cùng một lựa chọn" },
+        {
+          "t": "table",
+          "head": ["Câu", "Sắc thái", "Dùng khi"],
+          "rows": [
+            ["<code>I prefer tea.</code>", "Sở thích lâu dài, nói chung", "Giới thiệu bản thân, nói về thói quen"],
+            ["<code>I'd prefer tea.</code>", "Lịch sự, lần này thôi", "Trả lời khi được mời chọn"],
+            ["<code>I'd rather have tea.</code>", "Nghiêng về trà hơn, lần này", "Khi đang cân nhắc giữa hai thứ"],
+            ["<code>I'd rather not.</code>", "Từ chối mềm, không nêu lý do", "Khi muốn nói không mà không làm mất lòng"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🙅", "title": "Từ chối mềm", "text": "Ứng dụng số một. <i>I'd rather not, if that's OK.</i> Không lý do, không ai mất mặt." },
+            { "icon": "⚖️", "title": "Chọn giữa hai phương án", "text": "<i>I'd rather walk than take a taxi.</i> Nêu rõ cả hai để người kia hiểu logic của bạn." },
+            { "icon": "🤐", "title": "Né câu hỏi riêng tư", "text": "<i>I'd rather not say.</i> Lịch sự, dứt khoát, và không ai hỏi thêm." },
+            { "icon": "🛑", "title": "Nhờ người khác đừng làm gì", "text": "<i>I'd rather you didn't smoke in here.</i> Nhẹ hơn hẳn <i>Don't smoke.</i>" },
+            { "icon": "💼", "title": "Nêu ý kiến trong họp", "text": "<i>I'd rather we waited until next week.</i> Phản đối mà không đối đầu." },
+            { "icon": "❓", "title": "Hỏi ý người khác", "text": "<i>Would you rather meet Monday or Tuesday?</i> Đưa hai lựa chọn rõ ràng." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cơ bản", "<code>I'd rather + V (không “to”)</code>", "I'd rather stay home tonight."],
+            ["So sánh hai phương án", "<code>I'd rather A than B</code>", "I'd rather walk than drive."],
+            ["Phủ định", "<code>I'd rather not (+ V)</code>", "I'd rather not talk about it."],
+            ["Trả lời ngắn", "<code>I'd rather not.</code>", "“Want to join?” — “I'd rather not.”"],
+            ["Muốn người khác làm gì", "<code>I'd rather you + V quá khứ</code>", "I'd rather you called me tomorrow."],
+            ["Muốn người khác đừng làm", "<code>I'd rather you didn't + V</code>", "I'd rather you didn't tell her."],
+            ["Câu hỏi", "<code>Would you rather + V?</code>", "Would you rather eat in or out?"],
+            ["Câu hỏi hai lựa chọn", "<code>Would you rather A or B?</code>", "Would you rather meet Monday or Tuesday?"],
+            ["Nói về quá khứ", "<code>I'd rather have + V3</code>", "I'd rather have stayed at home."],
+            ["Đính chính lời mình", "<code>…, or rather, …</code>", "It's cheap — or rather, cheaper than I expected."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cấu trúc cao cấp mà cực hữu dụng:</b> <span class=\"k\">I'd rather you + động từ quá khứ</span> dùng để nhờ người khác làm (hoặc đừng làm) điều gì. Động từ ở <b>quá khứ</b> nhưng nghĩa là <b>hiện tại/tương lai</b>. <i>I'd rather you didn't smoke here</i> = mong bạn đừng hút thuốc ở đây." },
+        { "t": "callout", "html": "<b>Đừng nuốt mất chữ 'd:</b> <i>I rather stay home</i> là sai. Phải có <b>'d</b> (= would). Khi nói nhanh nó rất nhẹ nhưng vẫn phải có." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “I'd rather…” (không “to”)",
+              "items": [
+                { "w": "stay", "vi": "ở lại / ở nhà", "ex": "I'd rather stay home tonight.", "exvi": "Tối nay tôi thà ở nhà." },
+                { "w": "go", "vi": "đi", "ex": "I'd rather go early and beat the traffic.", "exvi": "Tôi thà đi sớm để tránh kẹt xe." },
+                { "w": "walk", "vi": "đi bộ", "ex": "I'd rather walk — it's only ten minutes.", "exvi": "Tôi thà đi bộ — có mười phút thôi." },
+                { "w": "wait", "vi": "chờ", "ex": "I'd rather wait until we have all the data.", "exvi": "Tôi thà chờ đến khi có đủ dữ liệu." },
+                { "w": "talk", "vi": "nói chuyện", "ex": "I'd rather talk about it in person.", "exvi": "Tôi thà nói chuyện trực tiếp." },
+                { "w": "eat", "vi": "ăn", "ex": "I'd rather eat somewhere quiet.", "exvi": "Tôi thà ăn ở chỗ nào yên tĩnh." },
+                { "w": "work", "vi": "làm việc", "ex": "I'd rather work from home on Fridays.", "exvi": "Tôi thích làm ở nhà vào thứ Sáu hơn." },
+                { "w": "start", "vi": "bắt đầu", "ex": "I'd rather start now than rush later.", "exvi": "Tôi thà bắt đầu ngay còn hơn vội sau này." },
+                { "w": "finish", "vi": "làm nốt", "ex": "I'd rather finish this first.", "exvi": "Tôi thà làm xong cái này trước." },
+                { "w": "keep", "vi": "giữ", "ex": "I'd rather keep it simple.", "exvi": "Tôi thà giữ cho đơn giản.", "note": "<i>keep it simple</i> — cụm rất hay dùng trong công việc." },
+                { "w": "meet", "vi": "gặp", "ex": "I'd rather meet in the morning.", "exvi": "Tôi thích gặp vào buổi sáng hơn." },
+                { "w": "call", "vi": "gọi điện", "ex": "I'd rather call than email.", "exvi": "Tôi thà gọi điện còn hơn gửi email." },
+                { "w": "take", "vi": "đi (phương tiện)", "ex": "I'd rather take the train.", "exvi": "Tôi thích đi tàu hơn." },
+                { "w": "pay", "vi": "trả tiền", "ex": "I'd rather pay by card.", "exvi": "Tôi thích trả bằng thẻ hơn." },
+                { "w": "book", "vi": "đặt trước", "ex": "I'd rather book in advance.", "exvi": "Tôi thà đặt trước cho chắc." },
+                { "w": "leave", "vi": "rời đi", "ex": "I'd rather leave before it gets dark.", "exvi": "Tôi thà về trước khi trời tối." },
+                { "w": "sit", "vi": "ngồi", "ex": "I'd rather sit by the window.", "exvi": "Tôi thích ngồi cạnh cửa sổ hơn." },
+                { "w": "do it myself", "vi": "tự làm", "ex": "I'd rather do it myself, honestly.", "exvi": "Thật lòng thì tôi thà tự làm." },
+                { "w": "ask", "vi": "hỏi", "ex": "I'd rather ask than guess.", "exvi": "Tôi thà hỏi còn hơn đoán." },
+                { "w": "know", "vi": "biết", "ex": "I'd rather know the truth.", "exvi": "Tôi thà biết sự thật." }
+              ]
+            },
+            {
+              "title": "Cặp so sánh “A than B” hay dùng",
+              "items": [
+                { "w": "stay in than go out", "vi": "ở nhà hơn là ra ngoài", "ex": "I'd rather stay in than go out tonight.", "exvi": "Tối nay tôi thà ở nhà còn hơn ra ngoài." },
+                { "w": "walk than drive", "vi": "đi bộ hơn lái xe", "ex": "I'd rather walk than drive in this traffic.", "exvi": "Kẹt xe thế này tôi thà đi bộ còn hơn lái." },
+                { "w": "wait than rush", "vi": "chờ hơn là vội", "ex": "I'd rather wait than rush it.", "exvi": "Tôi thà chờ còn hơn làm vội." },
+                { "w": "pay more than wait", "vi": "trả thêm hơn là chờ", "ex": "I'd rather pay more than wait two weeks.", "exvi": "Tôi thà trả thêm còn hơn chờ hai tuần." },
+                { "w": "ask than guess", "vi": "hỏi hơn là đoán", "ex": "I'd rather ask than guess and get it wrong.", "exvi": "Tôi thà hỏi còn hơn đoán rồi làm sai." },
+                { "w": "take the train than fly", "vi": "đi tàu hơn đi máy bay", "ex": "I'd rather take the train than fly.", "exvi": "Tôi thích đi tàu hơn đi máy bay." },
+                { "w": "eat at home than eat out", "vi": "ăn nhà hơn ăn ngoài", "ex": "I'd rather eat at home than eat out tonight.", "exvi": "Tối nay tôi thà ăn ở nhà hơn ra ngoài." },
+                { "w": "start early than finish late", "vi": "bắt đầu sớm hơn kết thúc muộn", "ex": "I'd rather start early than finish late.", "exvi": "Tôi thà bắt đầu sớm còn hơn tan muộn." },
+                { "w": "be honest than polite", "vi": "thật thà hơn là lịch sự suông", "ex": "I'd rather be honest than polite here.", "exvi": "Ở chuyện này tôi thà nói thật còn hơn lịch sự suông." },
+                { "w": "do less than do it badly", "vi": "làm ít hơn là làm ẩu", "ex": "I'd rather do less than do it badly.", "exvi": "Tôi thà làm ít còn hơn làm ẩu." }
+              ]
+            },
+            {
+              "title": "Biến thể & cụm hay gặp",
+              "items": [
+                { "w": "I'd rather not", "vi": "tôi không muốn lắm", "ex": "“Do you want to join?” — “I'd rather not, thanks.”", "exvi": "“Bạn tham gia không?” — “Thôi, cảm ơn nhé.”", "note": "Lời từ chối mềm nhất trong tiếng Anh. Không cần nêu lý do." },
+                { "w": "I'd rather not say", "vi": "tôi không tiện nói", "ex": "“How much did it cost?” — “I'd rather not say.”", "exvi": "“Cái đó hết bao nhiêu?” — “Tôi không tiện nói.”", "note": "Cách né câu hỏi riêng tư mà vẫn lịch sự và dứt khoát." },
+                { "w": "I'd rather you didn't", "vi": "mong bạn đừng", "ex": "I'd rather you didn't mention it to her.", "exvi": "Mong bạn đừng nhắc chuyện đó với cô ấy.", "note": "Động từ quá khứ nhưng nghĩa hiện tại. Nhẹ hơn hẳn <i>Don't…</i>" },
+                { "w": "Would you rather…?", "vi": "bạn thích… hơn không?", "ex": "Would you rather meet Monday or Tuesday?", "exvi": "Bạn muốn gặp thứ Hai hay thứ Ba?" },
+                { "w": "if you'd rather", "vi": "nếu bạn thích vậy hơn", "ex": "We can go tomorrow, if you'd rather.", "exvi": "Mai đi cũng được, nếu bạn thích vậy hơn.", "note": "Đặt cuối câu để nhường quyền chọn cho người kia." },
+                { "w": "or rather", "vi": "hay đúng hơn là", "ex": "It's cheap — or rather, cheaper than I expected.", "exvi": "Nó rẻ — hay đúng hơn là rẻ hơn tôi tưởng.", "note": "Dùng để tự đính chính giữa câu. Không liên quan nghĩa “thà”." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I'd rather not, if that's OK.",
+                  "vi": "Thôi ạ, nếu bạn không phiền.",
+                  "note": "Lời từ chối mềm nhất. <i>if that's OK</i> ở cuối biến nó thành lời xin phép chứ không phải lời chối.",
+                  "reply": [
+                    { "them": "Of course, no problem.", "themvi": "Tất nhiên rồi, không sao cả.", "you": "Thanks for understanding.", "youvi": "Cảm ơn bạn đã thông cảm." },
+                    { "them": "Any particular reason?", "themvi": "Có lý do gì đặc biệt không?", "you": "Nothing serious — I'm just tired.", "youvi": "Không có gì nghiêm trọng — mình chỉ mệt thôi." }
+                  ],
+                  "vars": [
+                    { "en": "I'd rather not tonight, sorry.", "vi": "Tối nay thì thôi ạ, xin lỗi nhé." }
+                  ]
+                },
+                {
+                  "en": "I'd rather stay in than go out tonight.",
+                  "vi": "Tối nay tôi thà ở nhà còn hơn ra ngoài.",
+                  "note": "Nêu cả hai vế giúp người kia hiểu bạn đã cân nhắc chứ không phải từ chối cho xong.",
+                  "reply": [
+                    { "them": "Fair enough. Film at yours then?", "themvi": "Cũng phải. Vậy xem phim ở nhà bạn nhé?", "you": "That sounds perfect.", "youvi": "Nghe hợp ý quá." }
+                  ],
+                  "close": { "en": "Let's go out next weekend instead.", "vi": "Để cuối tuần sau mình đi chơi bù nhé." }
+                },
+                {
+                  "en": "I'd rather not say, if you don't mind.",
+                  "vi": "Tôi không tiện nói, nếu bạn không phiền.",
+                  "note": "Câu né câu hỏi riêng tư — về lương, tuổi, chuyện gia đình. Dứt khoát mà không cộc.",
+                  "reply": [
+                    { "them": "Sorry, I shouldn't have asked.", "themvi": "Xin lỗi, đáng ra mình không nên hỏi.", "you": "It's fine, honestly.", "youvi": "Không sao đâu, thật đấy." }
+                  ]
+                },
+                {
+                  "en": "I'd rather you didn't mention it to her.",
+                  "vi": "Mong bạn đừng nhắc chuyện đó với cô ấy.",
+                  "note": "Cấu trúc <span class=\"k\">I'd rather you + quá khứ</span>. Nhẹ hơn hẳn <i>Don't tell her</i>, nhưng vẫn rõ ý.",
+                  "open": { "en": "Can I ask you something?", "vi": "Mình hỏi bạn một chuyện được không?" },
+                  "reply": [
+                    { "them": "Of course, my lips are sealed.", "themvi": "Tất nhiên rồi, mình kín miệng mà.", "you": "Thank you. I appreciate it.", "youvi": "Cảm ơn bạn. Mình rất cảm kích." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I'd rather we waited until we have all the data.",
+                  "vi": "Tôi thà chúng ta chờ đến khi có đủ dữ liệu.",
+                  "note": "Phản đối mà không đối đầu. Dùng <i>we</i> để đứng cùng phe với mọi người thay vì chỉ trích quyết định.",
+                  "open": { "en": "Can I offer a different view?", "vi": "Tôi nêu một góc nhìn khác được không ạ?" },
+                  "reply": [
+                    { "them": "How long would that take?", "themvi": "Việc đó mất bao lâu?", "you": "About a week.", "youvi": "Khoảng một tuần ạ." },
+                    { "them": "The client wants it now, though.", "themvi": "Nhưng khách hàng muốn ngay bây giờ.", "you": "Then I'd rather send a partial report than a wrong one.", "youvi": "Vậy tôi thà gửi báo cáo chưa đầy đủ còn hơn gửi báo cáo sai." }
+                  ],
+                  "close": { "en": "Either way, I'll support the decision.", "vi": "Dù thế nào tôi cũng ủng hộ quyết định chung." }
+                },
+                {
+                  "en": "I'd rather call than email — it'll be quicker.",
+                  "vi": "Tôi thà gọi điện còn hơn gửi email — sẽ nhanh hơn.",
+                  "reply": [
+                    { "them": "Good idea. Do you have their number?", "themvi": "Ý hay đấy. Bạn có số của họ không?", "you": "Yes, I'll call now.", "youvi": "Có, tôi gọi luôn đây." }
+                  ],
+                  "vars": [
+                    { "en": "I'd rather talk about it in person.", "vi": "Tôi thà nói chuyện trực tiếp." }
+                  ]
+                },
+                {
+                  "en": "I'd rather work from home on Fridays, if that's possible.",
+                  "vi": "Nếu được thì tôi muốn làm ở nhà vào thứ Sáu.",
+                  "note": "<i>if that's possible</i> ở cuối giữ cho câu là một đề nghị chứ không phải một đòi hỏi.",
+                  "reply": [
+                    { "them": "Let's try it for a month and see.", "themvi": "Thử một tháng xem sao nhé.", "you": "That works for me. Thank you.", "youvi": "Vậy hợp lý ạ. Cảm ơn anh/chị." }
+                  ]
+                },
+                {
+                  "en": "I'd rather do less than do it badly.",
+                  "vi": "Tôi thà làm ít còn hơn làm ẩu.",
+                  "note": "Câu để đàm phán phạm vi công việc khi bị giao quá nhiều — nghe có nguyên tắc chứ không phải lười.",
+                  "reply": [
+                    { "them": "Fair. What would you drop?", "themvi": "Hợp lý. Bạn sẽ bỏ phần nào?", "you": "The third section — it's the least urgent.", "youvi": "Phần thứ ba ạ — nó ít gấp nhất." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I'd rather eat somewhere quiet.",
+                  "vi": "Tôi thà ăn ở chỗ nào yên tĩnh.",
+                  "reply": [
+                    { "them": "There's a small place down the street.", "themvi": "Có quán nhỏ cuối phố kia.", "you": "That sounds better, let's go there.", "youvi": "Nghe ổn hơn đấy, mình đến đó đi." }
+                  ]
+                },
+                {
+                  "en": "I'd rather have tea, thanks.",
+                  "vi": "Cho tôi trà thì hơn, cảm ơn bạn.",
+                  "note": "So sánh với <i>I prefer tea</i> = tôi vốn thích trà. Câu này chỉ nói về lần này.",
+                  "reply": [
+                    { "them": "Of course. Green or black?", "themvi": "Vâng ạ. Trà xanh hay trà đen?", "you": "Green, please.", "youvi": "Trà xanh ạ." }
+                  ]
+                },
+                {
+                  "en": "I'd rather not have anything too spicy.",
+                  "vi": "Tôi không muốn món gì cay quá.",
+                  "reply": [
+                    { "them": "No problem, I'll ask for mild.", "themvi": "Không sao, em dặn bếp làm nhẹ ạ.", "you": "Thank you, that's kind.", "youvi": "Cảm ơn bạn, bạn chu đáo quá." }
+                  ]
+                },
+                {
+                  "en": "I'd rather split the bill, if you don't mind.",
+                  "vi": "Nếu bạn không phiền thì mình chia đôi hóa đơn nhé.",
+                  "note": "<span class=\"k\">split the bill</span> = chia đôi tiền. Câu này giúp tránh cảnh giằng co trả tiền.",
+                  "reply": [
+                    { "them": "Sure, that's easier.", "themvi": "Được chứ, vậy dễ hơn.", "you": "Great. I'll get the next one.", "youvi": "Tuyệt. Lần sau mình mời." }
+                  ],
+                  "close": { "en": "Thanks — that was lovely.", "vi": "Cảm ơn nhé — bữa nay ngon lắm." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I'd rather walk than take a taxi — it's only ten minutes.",
+                  "vi": "Tôi thà đi bộ còn hơn bắt taxi — có mười phút thôi.",
+                  "reply": [
+                    { "them": "Are you sure? It's quite hot.", "themvi": "Bạn chắc chứ? Trời nóng đấy.", "you": "I'd rather get some air, honestly.", "youvi": "Thật ra mình muốn hít thở chút." }
+                  ],
+                  "vars": [
+                    { "en": "I'd rather take the train than fly.", "vi": "Tôi thích đi tàu hơn đi máy bay." }
+                  ]
+                },
+                {
+                  "en": "I'd rather sit by the window, if there's one free.",
+                  "vi": "Nếu còn chỗ trống thì cho tôi ngồi cạnh cửa sổ ạ.",
+                  "reply": [
+                    { "them": "There's one in row twelve.", "themvi": "Còn một chỗ ở dãy mười hai ạ.", "you": "Perfect, I'll take it.", "youvi": "Tuyệt, tôi lấy chỗ đó." }
+                  ]
+                },
+                {
+                  "en": "I'd rather leave before it gets dark.",
+                  "vi": "Tôi thà về trước khi trời tối.",
+                  "reply": [
+                    { "them": "Then we should go in ten minutes.", "themvi": "Vậy mười phút nữa mình đi thôi.", "you": "Sounds good to me.", "youvi": "Mình thấy ổn." }
+                  ]
+                },
+                {
+                  "en": "I'd rather book in advance than risk it.",
+                  "vi": "Tôi thà đặt trước còn hơn liều.",
+                  "note": "<span class=\"k\">risk it</span> = liều, cứ thử xem sao. Cụm rất tự nhiên.",
+                  "reply": [
+                    { "them": "You're probably right. I'll book now.", "themvi": "Chắc bạn nói đúng. Để mình đặt luôn.", "you": "Send me the confirmation.", "youvi": "Gửi mình xác nhận nhé." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I'd rather pay by card, if that's OK.",
+                  "vi": "Nếu được thì tôi trả bằng thẻ ạ.",
+                  "reply": [
+                    { "them": "No problem, the machine's right here.", "themvi": "Không sao ạ, máy ngay đây.", "you": "Thank you.", "youvi": "Cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "I'd rather think about it before I decide.",
+                  "vi": "Tôi thà suy nghĩ thêm trước khi quyết.",
+                  "note": "Cách rời cửa hàng mà không hứa hẹn gì — không ai níu thêm được.",
+                  "reply": [
+                    { "them": "Of course. We'll hold it until tomorrow.", "themvi": "Vâng ạ. Bên em giữ hàng đến mai cho anh/chị.", "you": "That's very helpful, thank you.", "youvi": "Vậy tiện quá, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "I'd rather pay more than wait two weeks.",
+                  "vi": "Tôi thà trả thêm còn hơn chờ hai tuần.",
+                  "reply": [
+                    { "them": "Express delivery is fifty thousand extra.", "themvi": "Giao nhanh thêm năm mươi nghìn ạ.", "you": "That's fine. Let's do that.", "youvi": "Được ạ. Cho tôi giao nhanh." }
+                  ]
+                },
+                {
+                  "en": "I'd rather have the plain one than the patterned one.",
+                  "vi": "Tôi thích cái trơn hơn cái có họa tiết.",
+                  "reply": [
+                    { "them": "Good choice — it goes with everything.", "themvi": "Chọn khéo đấy ạ — phối với gì cũng hợp.", "you": "That's what I thought too.", "youvi": "Tôi cũng nghĩ vậy." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Từ chối một lời rủ mà không mất lòng",
+          "lines": [
+            { "speaker": "Hung", "en": "We're doing karaoke after work — you in?", "vi": "Tan làm bọn mình đi karaoke — bạn tham gia không?" },
+            { "speaker": "You", "me": true, "en": "Thanks for asking, but I'd rather not tonight.", "vi": "Cảm ơn bạn đã rủ, nhưng tối nay thì thôi." },
+            { "speaker": "Hung", "en": "Oh come on, just for an hour!", "vi": "Thôi mà, một tiếng thôi!" },
+            { "speaker": "You", "me": true, "en": "I'd rather get an early night, honestly. Long week.", "vi": "Thật ra mình muốn ngủ sớm. Tuần này dài quá." },
+            { "speaker": "Hung", "en": "Fair enough. Next time then.", "vi": "Cũng phải. Vậy lần sau nhé." },
+            { "speaker": "You", "me": true, "en": "Definitely — I'd rather go when I can actually enjoy it.", "vi": "Chắc chắn rồi — mình thà đi lúc còn thấy vui được." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Nêu ý kiến khác trong cuộc họp",
+          "lines": [
+            { "speaker": "Manager", "en": "So we'll send the report to the client tomorrow.", "vi": "Vậy mai mình gửi báo cáo cho khách hàng nhé." },
+            { "speaker": "You", "me": true, "en": "Can I offer a different view? I'd rather we waited until Friday.", "vi": "Em nêu một góc nhìn khác được không ạ? Em thà mình chờ đến thứ Sáu." },
+            { "speaker": "Manager", "en": "Why's that?", "vi": "Vì sao vậy?" },
+            { "speaker": "You", "me": true, "en": "The finance numbers aren't final. I'd rather send it late than send it wrong.", "vi": "Số liệu tài chính chưa chốt ạ. Em thà gửi muộn còn hơn gửi sai." },
+            { "speaker": "Manager", "en": "That's a fair point. Friday it is.", "vi": "Ý đó hợp lý. Vậy thứ Sáu." },
+            { "speaker": "You", "me": true, "en": "Thank you. I'd rather you heard it from me now than from the client later.", "vi": "Cảm ơn anh. Em thà anh nghe từ em bây giờ còn hơn nghe từ khách hàng sau này." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'd rather to stay home.", "right": "I'd rather stay home.", "why": "Sau <b>I'd rather</b> là động từ nguyên thể <b>KHÔNG có “to”</b>. Lỗi số một của khung này." },
+            { "wrong": "I rather stay home.", "right": "I'd rather stay home.", "why": "Thiếu <b>'d</b> (= would). Khi nói nó rất nhẹ nhưng vẫn bắt buộc phải có." },
+            { "wrong": "I'd rather staying home.", "right": "I'd rather stay home.", "why": "Không dùng V-ing. Luôn là động từ nguyên thể trần." },
+            { "wrong": "I'd rather stay home that go out.", "right": "I'd rather stay home than go out.", "why": "So sánh dùng <b>than</b>, không phải <i>that</i>. Hai từ nghe gần giống nên rất dễ nhầm khi viết." },
+            { "wrong": "I'd rather you don't tell her.", "right": "I'd rather you didn't tell her.", "why": "Cấu trúc <b>I'd rather you + động từ QUÁ KHỨ</b>, dù nói về hiện tại hay tương lai." },
+            { "wrong": "I'd rather than walk.", "right": "I'd rather walk.", "why": "Chỉ dùng <b>than</b> khi thật sự nêu vế thứ hai để so sánh." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I'd rather + V</code>", "Nghiêng về lựa chọn này, lần này", "<i>I'd rather walk.</i>"],
+            ["<code>I prefer + N/V-ing</code>", "Sở thích lâu dài, nói chung", "<i>I prefer walking.</i> — Nói về con người bạn."],
+            ["<code>I'd prefer + to V</code>", "Lịch sự, lần này thôi", "<i>I'd prefer to walk.</i> — Gần nghĩa <i>I'd rather</i>."],
+            ["<code>I'd rather not</code>", "Từ chối mềm, không nêu lý do", "<i>I'd rather not.</i> — Mềm nhất."],
+            ["<code>I don't want to</code>", "Từ chối thẳng", "<i>I don't want to.</i> — Xem [Khung 02]."],
+            ["<code>I'd like to</code>", "Muốn, lịch sự — không so sánh gì", "<i>I'd like to walk.</i> — Xem [Khung 01]."],
+            ["<code>I'd sooner + V</code>", "Y hệt <i>I'd rather</i>, hơi cổ", "<i>I'd sooner walk.</i> — Ít gặp hơn."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — cùng một lời từ chối" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "No.", "vi": "Cụt — dễ làm phật lòng" },
+            { "en": "I don't want to.", "vi": "Thẳng — chỉ với người rất thân" },
+            { "en": "I don't feel like it.", "vi": "Mềm — đổ cho cảm giác" },
+            { "en": "I'd rather not.", "vi": "Mềm nhất — không cần lý do" },
+            { "en": "I'd rather not, if that's OK.", "vi": "Nhã nhất — thành lời xin phép" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>I'd</b> = /aɪd/ — một âm tiết, âm /d/ rất nhẹ. Nuốt mất là câu sai ngữ pháp.",
+            "<b>rather</b> = /ˈrɑːðə/ (Anh-Anh) hoặc /ˈræðər/ (Anh-Mỹ). Âm <b>th</b> ở giữa là /ð/ — đặt lưỡi giữa hai hàm răng, đừng đọc thành “ra-đơ”.",
+            "<b>I'd rather</b> — âm /d/ dính vào /r/, cả cụm nghe thành “ai-DRA-ðə”, hai âm tiết rưỡi nói liền.",
+            "<b>I'd rather not</b> → “ai-DRA-ðə-NOT”, nhấn vào cả <i>rather</i> và <i>not</i>.",
+            "<b>than</b> là từ chức năng nên giảm thành /ðən/ — rất nhẹ, gần như “ðơn”. Đừng nhấn vào nó.",
+            "Trọng âm rơi vào <b>RA</b>-ther và vào động từ chính: <i>I'd</i> <b>RA</b>-<i>ther</i> <b>WALK</b> <i>than</i> <b>DRIVE</b>."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'd rather not, if that's OK.", "vi": "Luyện shadowing: nghe — nhại lại — lặp 5 lần cho trôi cụm “I'd rather”." },
+            { "en": "I'd rather walk than take a taxi.", "vi": "Chú ý “than” đọc rất nhẹ, đừng nhấn ngang với hai động từ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tối nay tôi thà ở nhà.", "blank": "__________ home tonight.", "a": "I'd rather stay (không có “to”)" },
+            { "vi": "Tôi thà đi bộ còn hơn lái xe.", "blank": "I'd rather walk __________ drive.", "a": "than" },
+            { "vi": "Thôi ạ, nếu bạn không phiền.", "blank": "__________, if that's OK.", "a": "I'd rather not" },
+            { "vi": "Mong bạn đừng nhắc chuyện đó với cô ấy.", "blank": "__________ mention it to her.", "a": "I'd rather you didn't" },
+            { "vi": "Bạn muốn gặp thứ Hai hay thứ Ba?", "blank": "__________ meet Monday or Tuesday?", "a": "Would you rather" },
+            { "vi": "Tôi không tiện nói.", "blank": "__________.", "a": "I'd rather not say" },
+            { "vi": "Tôi thà chúng ta chờ đến tuần sau.", "blank": "__________ until next week.", "a": "I'd rather we waited" },
+            { "vi": "Mai đi cũng được, nếu bạn thích vậy hơn.", "blank": "We can go tomorrow, __________.", "a": "if you'd rather" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi thà hỏi còn hơn đoán rồi làm sai.", "a": "I'd rather ask than guess and get it wrong." },
+            { "vi": "2. Nếu được thì tôi trả bằng thẻ ạ.", "a": "I'd rather pay by card, if that's OK." },
+            { "vi": "3. Tôi thà gửi muộn còn hơn gửi sai.", "a": "I'd rather send it late than send it wrong." },
+            { "vi": "4. Tôi thà làm ít còn hơn làm ẩu.", "a": "I'd rather do less than do it badly." },
+            { "vi": "5. Nếu bạn không phiền thì mình chia đôi hóa đơn nhé.", "a": "I'd rather split the bill, if you don't mind." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Khắc vào đầu: không có “to”.</b> Đọc thầm mười lần: <i>I'd rather stay, I'd rather go, I'd rather wait</i>. Đây là lỗi bám dai nhất của khung này.",
+            "<b>Thuộc câu từ chối vạn năng:</b> <i>I'd rather not, if that's OK.</i> Nó dùng được cho mọi lời mời, mọi đề nghị, mọi câu hỏi khó.",
+            "<b>Né câu hỏi riêng tư:</b> <i>I'd rather not say.</i> — về lương, tuổi, chuyện gia đình. Lịch sự, dứt khoát, không ai hỏi thêm.",
+            "<b>Học cấu trúc “I'd rather you didn't”:</b> đây là cách hay nhất để nhờ ai đó dừng làm điều gì mà không ra lệnh.",
+            "<b>Nêu cả hai vế khi phản đối:</b> <i>I'd rather A than B</i> cho thấy bạn đã cân nhắc, nghe có lý hơn hẳn chỉ nói không.",
+            "<b>Bài tập 3 phút:</b> nghĩ 5 cặp lựa chọn trong đời bạn và nói to bằng <i>I'd rather A than B</i>, rồi nói lại 5 câu đó bằng <i>I prefer…</i> để thấy khác biệt."
+          ]
+        }
+      ]
+    }
+  ]
+}

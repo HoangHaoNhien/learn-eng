@@ -1,0 +1,494 @@
+{
+  "id": 10,
+  "group": "Nhóm 1 · Mong muốn & Nhu cầu",
+  "title": "All I want is… — Thu gọn mọi thứ về một điều duy nhất",
+  "subtitle": "Khung nhấn mạnh: bạn gạt hết mọi thứ khác sang bên và chỉ ra một điều duy nhất mình cần. Nó vừa để giãi bày khi mệt mỏi, vừa là công cụ đàm phán sắc bén — vì thu nhỏ yêu cầu lại thì người ta rất khó từ chối.",
+  "pattern": [
+    "All I want is <em>+ danh từ</em>",
+    "All I want is <em>+ to V</em>",
+    "All I want to do is <em>+ V (không “to”)</em>"
+  ],
+  "meaning": "Tất cả những gì tôi muốn là… (chỉ một điều thôi)",
+  "grammar": [62, 45, 24],
+  "tags": [
+    { "text": "Tần suất: trung bình", "hot": false },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Mang nhiều cảm xúc" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">All I want is…</span> không chỉ nói ra mong muốn — nó <b>loại trừ mọi thứ khác</b>. Nghĩa đầy đủ là: “tôi không đòi hỏi gì nhiều, chỉ một điều này thôi”. Chính sự thu hẹp đó tạo nên sức mạnh của khung câu." },
+        { "t": "p", "html": "Trong đời sống, nó thường mang màu mệt mỏi hoặc bực dọc: <i>All I want is a quiet weekend</i> hàm ý tuần vừa rồi quá ồn ào. Người nghe cảm nhận được cảm xúc phía sau, nên khung này thân mật và hơi riêng tư — không hợp với người lạ." },
+        { "t": "p", "html": "Nhưng trong đàm phán thì nó lại là công cụ rất sắc. <span class=\"k\">All I'm asking for is one more week</span> khiến yêu cầu của bạn nghe nhỏ lại và hợp lý hẳn. Từ chối một yêu cầu “khiêm tốn” bao giờ cũng khó hơn từ chối một yêu cầu chung chung." },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp duy nhất nhưng rất dễ vấp:</b> sau <span class=\"k\">All I want to do is</span> thì động từ <b>không có “to”</b>. <i>All I want to do is sleep.</i> ✓ — <i>All I want to do is to sleep.</i> ✗ Nhưng <i>All I want is <b>to</b> sleep.</i> lại đúng." },
+        { "t": "h3", "text": "Ba dạng, cùng một ý" },
+        {
+          "t": "table",
+          "head": ["Câu", "Sau “is” là gì", "Ghi chú"],
+          "rows": [
+            ["<code>All I want is a coffee.</code>", "Danh từ", "Dạng đơn giản nhất"],
+            ["<code>All I want is to sleep.</code>", "to + V", "Có “to” — đúng"],
+            ["<code>All I want to do is sleep.</code>", "V trần, KHÔNG “to”", "Vì đã có “do” ở trước"],
+            ["<code>All I did was ask.</code>", "V trần, KHÔNG “to”", "Quá khứ — dùng để tự bào chữa"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "😮‍💨", "title": "Giãi bày khi mệt mỏi", "text": "Bối cảnh phổ biến nhất. <i>All I want is a good night's sleep.</i>" },
+            { "icon": "🤝", "title": "Đàm phán, xin nhượng bộ", "text": "<i>All I'm asking for is one more week.</i> Thu nhỏ yêu cầu để dễ được chấp nhận." },
+            { "icon": "🧊", "title": "Hạ nhiệt tranh cãi", "text": "<i>All I want is to understand what happened.</i> Tuyên bố ý định tốt để đối phương bớt phòng thủ." },
+            { "icon": "🎯", "title": "Chốt lại yêu cầu rối rắm", "text": "<i>All I need is one clear deadline.</i> Cắt bỏ mọi thứ phụ, chỉ giữ điều cốt lõi." },
+            { "icon": "🛡", "title": "Tự bào chữa", "text": "<i>All I did was ask a question.</i> Làm nhỏ lại hành động của mình khi bị trách." },
+            { "icon": "🚫", "title": "Tránh dùng khi…", "text": "Với khách hàng hoặc người lạ — câu nghe hơi cảm tính và thân mật quá mức." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Với danh từ", "<code>All I want is + N</code>", "All I want is a quiet weekend."],
+            ["Với động từ", "<code>All I want is to + V</code>", "All I want is to go home."],
+            ["Có “do” ở trước", "<code>All I want to do is + V trần</code>", "All I want to do is sleep."],
+            ["Nhu cầu thay vì mong muốn", "<code>All I need is + N</code>", "All I need is ten minutes."],
+            ["Trong đàm phán", "<code>All I'm asking for is + N</code>", "All I'm asking for is a fair chance."],
+            ["Hướng dẫn người khác", "<code>All you have to do is + V trần</code>", "All you have to do is click here."],
+            ["Trang trọng hơn", "<code>The only thing I want is + N</code>", "The only thing I want is clarity."],
+            ["Tự bào chữa (quá khứ)", "<code>All I did was + V trần</code>", "All I did was ask."],
+            ["Chốt lại lời mình", "<code>That's all I'm saying.</code>", "It's risky — that's all I'm saying."],
+            ["Phủ định nhấn mạnh", "<code>All I don't want is + N</code>", "All I don't want is another delay."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Mẹo nhận biết “to” hay không:</b> nhìn xem trước chữ <i>is</i> đã có động từ <b>do</b> chưa. Có <i>do</i> rồi thì bỏ <i>to</i>. Chưa có thì giữ <i>to</i>. Quy tắc này áp dụng cho cả <i>All I did was…</i> và <i>All you have to do is…</i>" }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Danh từ thường theo sau “All I want is…”",
+              "items": [
+                { "w": "a quiet weekend", "vi": "một cuối tuần yên tĩnh", "ex": "All I want is a quiet weekend.", "exvi": "Tất cả tôi muốn là một cuối tuần yên tĩnh." },
+                { "w": "a good night's sleep", "vi": "một giấc ngủ ngon", "ex": "All I want is a good night's sleep.", "exvi": "Tất cả tôi muốn là một giấc ngủ cho ngon.", "note": "Chú ý dấu sở hữu: <i>a good night's sleep</i>, không phải <i>a good night sleep</i>." },
+                { "w": "some peace and quiet", "vi": "chút yên tĩnh", "ex": "All I want is some peace and quiet.", "exvi": "Tất cả tôi muốn là chút yên tĩnh.", "note": "<i>peace and quiet</i> luôn đi thành cặp cố định." },
+                { "w": "a straight answer", "vi": "một câu trả lời thẳng", "ex": "All I want is a straight answer.", "exvi": "Tất cả tôi muốn là một câu trả lời thẳng thắn." },
+                { "w": "the truth", "vi": "sự thật", "ex": "All I want is the truth.", "exvi": "Tất cả tôi muốn là sự thật." },
+                { "w": "a bit of time", "vi": "một chút thời gian", "ex": "All I want is a bit of time to think.", "exvi": "Tất cả tôi muốn là chút thời gian để suy nghĩ." },
+                { "w": "a fair chance", "vi": "một cơ hội công bằng", "ex": "All I want is a fair chance.", "exvi": "Tất cả tôi muốn là một cơ hội công bằng." },
+                { "w": "some clarity", "vi": "sự rõ ràng", "ex": "All I want is some clarity on the budget.", "exvi": "Tất cả tôi muốn là sự rõ ràng về ngân sách.", "note": "Từ rất hay dùng ở công sở khi mọi thứ mập mờ." },
+                { "w": "a simple explanation", "vi": "một lời giải thích đơn giản", "ex": "All I want is a simple explanation.", "exvi": "Tất cả tôi muốn là một lời giải thích đơn giản." },
+                { "w": "five minutes", "vi": "năm phút", "ex": "All I want is five minutes of your time.", "exvi": "Tất cả tôi muốn là năm phút của bạn.", "note": "Thu nhỏ yêu cầu thành con số cụ thể — rất khó từ chối." },
+                { "w": "an apology", "vi": "một lời xin lỗi", "ex": "All I want is an apology, nothing more.", "exvi": "Tất cả tôi muốn là một lời xin lỗi, không gì hơn." },
+                { "w": "some space", "vi": "khoảng không riêng", "ex": "All I want is a bit of space right now.", "exvi": "Giờ tất cả tôi muốn là chút không gian riêng." },
+                { "w": "one clear deadline", "vi": "một hạn chót rõ ràng", "ex": "All I need is one clear deadline.", "exvi": "Tất cả tôi cần là một hạn chót rõ ràng." },
+                { "w": "my money back", "vi": "lấy lại tiền", "ex": "All I want is my money back.", "exvi": "Tất cả tôi muốn là được hoàn tiền." },
+                { "w": "a working laptop", "vi": "một cái laptop chạy được", "ex": "All I want is a laptop that actually works.", "exvi": "Tất cả tôi muốn là một cái laptop chạy được thật sự." },
+                { "w": "the same as everyone else", "vi": "giống như mọi người", "ex": "All I want is the same as everyone else.", "exvi": "Tất cả tôi muốn là được như mọi người khác." },
+                { "w": "a plan that works", "vi": "một kế hoạch khả thi", "ex": "All I want is a plan that actually works.", "exvi": "Tất cả tôi muốn là một kế hoạch chạy được thật." },
+                { "w": "one decision", "vi": "một quyết định", "ex": "All I need is one decision today.", "exvi": "Hôm nay tất cả tôi cần là một quyết định." },
+                { "w": "a quiet table", "vi": "một bàn yên tĩnh", "ex": "All I want is a quiet table in the corner.", "exvi": "Tất cả tôi muốn là một bàn yên tĩnh ở góc." },
+                { "w": "a bit of help", "vi": "chút giúp đỡ", "ex": "All I want is a bit of help with this.", "exvi": "Tất cả tôi muốn là được giúp một chút việc này." }
+              ]
+            },
+            {
+              "title": "Sau “All I want to do is” — động từ trần, không “to”",
+              "items": [
+                { "w": "sleep", "vi": "ngủ", "ex": "All I want to do is sleep.", "exvi": "Tất cả tôi muốn làm là ngủ.", "note": "KHÔNG có <i>to</i> vì trước đó đã có <i>do</i>." },
+                { "w": "go home", "vi": "về nhà", "ex": "All I want to do is go home.", "exvi": "Tất cả tôi muốn làm là về nhà." },
+                { "w": "get this done", "vi": "làm cho xong việc này", "ex": "All I want to do is get this done today.", "exvi": "Tất cả tôi muốn làm là xong việc này hôm nay." },
+                { "w": "help", "vi": "giúp", "ex": "All I want to do is help.", "exvi": "Tất cả tôi muốn làm là giúp thôi.", "note": "Câu hay dùng khi bị hiểu nhầm là can thiệp vào việc người khác." },
+                { "w": "understand", "vi": "hiểu", "ex": "All I want to do is understand what happened.", "exvi": "Tất cả tôi muốn là hiểu được chuyện gì đã xảy ra.", "note": "Câu hạ nhiệt tranh cãi rất hiệu quả." },
+                { "w": "make it work", "vi": "làm cho nó chạy được", "ex": "All I want to do is make it work.", "exvi": "Tất cả tôi muốn là làm cho nó chạy được." },
+                { "w": "move on", "vi": "cho qua, đi tiếp", "ex": "All I want to do is move on.", "exvi": "Tất cả tôi muốn là cho qua chuyện đó." },
+                { "w": "do my job", "vi": "làm việc của mình", "ex": "All I want to do is do my job properly.", "exvi": "Tất cả tôi muốn là làm tốt việc của mình." },
+                { "w": "keep it simple", "vi": "giữ cho đơn giản", "ex": "All I want to do is keep it simple.", "exvi": "Tất cả tôi muốn là giữ mọi thứ đơn giản." },
+                { "w": "be useful", "vi": "có ích", "ex": "All I want to do is be useful.", "exvi": "Tất cả tôi muốn là có ích được chút gì." }
+              ]
+            },
+            {
+              "title": "Biến thể & cụm hay gặp",
+              "items": [
+                { "w": "All I need is…", "vi": "tất cả tôi cần là…", "ex": "All I need is ten minutes of your time.", "exvi": "Tất cả tôi cần là mười phút của bạn.", "note": "Mạnh hơn <i>want</i> vì nói về sự cần thiết. Xem [Khung 03]." },
+                { "w": "All I'm asking for is…", "vi": "tất cả tôi xin là…", "ex": "All I'm asking for is one more week.", "exvi": "Tất cả tôi xin là thêm một tuần.", "note": "Công cụ đàm phán mạnh nhất trong nhóm này." },
+                { "w": "All you have to do is…", "vi": "bạn chỉ cần…", "ex": "All you have to do is click the link.", "exvi": "Bạn chỉ cần bấm vào đường dẫn thôi.", "note": "Động từ sau cũng KHÔNG có <i>to</i>. Dùng để hướng dẫn cho đỡ đáng sợ." },
+                { "w": "The only thing I want is…", "vi": "điều duy nhất tôi muốn là…", "ex": "The only thing I want is clarity.", "exvi": "Điều duy nhất tôi muốn là sự rõ ràng.", "note": "Trang trọng hơn, hợp với email và văn bản." },
+                { "w": "All I did was…", "vi": "tôi chỉ… thôi mà", "ex": "All I did was ask a question.", "exvi": "Tôi chỉ hỏi một câu thôi mà.", "note": "Tự bào chữa. Động từ trần, không <i>to</i>." },
+                { "w": "That's all I'm saying", "vi": "ý tôi chỉ có vậy", "ex": "It's risky — that's all I'm saying.", "exvi": "Nó rủi ro — ý tôi chỉ có vậy thôi.", "note": "Dùng để rút lui khỏi tranh luận mà vẫn giữ được quan điểm." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "All I want is a quiet weekend.",
+                  "vi": "Tất cả tôi muốn là một cuối tuần yên tĩnh.",
+                  "note": "Câu giãi bày sau một tuần mệt. Người nghe hiểu ngay là bạn đang cạn năng lượng.",
+                  "reply": [
+                    { "them": "Sounds like you've had a week.", "themvi": "Nghe như bạn vừa trải qua một tuần kinh khủng.", "you": "You have no idea.", "youvi": "Bạn không tưởng tượng nổi đâu." },
+                    { "them": "Then let's do nothing on Saturday.", "themvi": "Vậy thứ Bảy mình chẳng làm gì cả nhé.", "you": "That sounds perfect.", "youvi": "Nghe hoàn hảo quá." }
+                  ],
+                  "vars": [
+                    { "en": "All I want is a good night's sleep.", "vi": "Tất cả tôi muốn là một giấc ngủ cho ngon." },
+                    { "en": "All I want is some peace and quiet.", "vi": "Tất cả tôi muốn là chút yên tĩnh." }
+                  ]
+                },
+                {
+                  "en": "All I want to do is go home and sleep.",
+                  "vi": "Tất cả tôi muốn làm là về nhà và ngủ.",
+                  "note": "Chú ý: <b>go</b> và <b>sleep</b> đều không có <i>to</i> vì đã có <i>do</i> ở trước.",
+                  "reply": [
+                    { "them": "Long day?", "themvi": "Ngày dài nhỉ?", "you": "The longest.", "youvi": "Dài nhất luôn." }
+                  ]
+                },
+                {
+                  "en": "All I want is a bit of space right now.",
+                  "vi": "Giờ tất cả tôi muốn là chút không gian riêng.",
+                  "note": "Cách đặt ranh giới rõ ràng mà không trách móc ai. Rất hữu ích khi bạn đang căng thẳng.",
+                  "reply": [
+                    { "them": "Understood. I'm here when you're ready.", "themvi": "Mình hiểu. Khi nào bạn sẵn sàng thì mình ở đây.", "you": "Thank you. That means a lot.", "youvi": "Cảm ơn bạn. Điều đó ý nghĩa lắm." }
+                  ],
+                  "close": { "en": "I'll call you tomorrow.", "vi": "Mai mình gọi lại cho bạn." }
+                },
+                {
+                  "en": "All I did was ask a question.",
+                  "vi": "Tôi chỉ hỏi một câu thôi mà.",
+                  "note": "Tự bào chữa — làm nhỏ lại hành động của mình khi bị phản ứng quá đà.",
+                  "reply": [
+                    { "them": "Sorry, I overreacted.", "themvi": "Xin lỗi, mình phản ứng thái quá.", "you": "It's fine. Let's move on.", "youvi": "Không sao. Mình cho qua đi." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "All I'm asking for is one more week.",
+                  "vi": "Tất cả tôi xin là thêm một tuần.",
+                  "note": "Công cụ đàm phán mạnh nhất của khung này: thu yêu cầu về một con số nhỏ, cụ thể, dễ nói “có”.",
+                  "open": { "en": "I know the timeline is tight, but —", "vi": "Tôi biết lịch đang gấp, nhưng —" },
+                  "reply": [
+                    { "them": "What would you do with that week?", "themvi": "Có thêm tuần đó bạn sẽ làm gì?", "you": "Finish testing properly.", "youvi": "Kiểm thử cho tử tế ạ." },
+                    { "them": "I can give you three days.", "themvi": "Tôi cho bạn được ba ngày.", "you": "I'll take it. Thank you.", "youvi": "Vậy cũng được ạ. Cảm ơn anh/chị." }
+                  ],
+                  "close": { "en": "I'll send you a revised plan today.", "vi": "Hôm nay tôi sẽ gửi kế hoạch điều chỉnh." }
+                },
+                {
+                  "en": "All I need is one clear deadline.",
+                  "vi": "Tất cả tôi cần là một hạn chót rõ ràng.",
+                  "note": "Cắt bỏ mọi thứ phụ để chốt đúng điều bạn đang thiếu — rất hiệu quả khi cuộc họp lan man.",
+                  "reply": [
+                    { "them": "Fair. Let's say the fifteenth.", "themvi": "Hợp lý. Vậy chốt ngày mười lăm.", "you": "Perfect. I'll work back from that.", "youvi": "Tuyệt. Tôi sẽ tính ngược từ mốc đó." }
+                  ],
+                  "vars": [
+                    { "en": "All I need is some clarity on the budget.", "vi": "Tất cả tôi cần là sự rõ ràng về ngân sách." }
+                  ]
+                },
+                {
+                  "en": "All I want to do is understand what happened.",
+                  "vi": "Tất cả tôi muốn là hiểu được chuyện gì đã xảy ra.",
+                  "note": "Câu hạ nhiệt mạnh nhất khi ai đó đang phòng thủ. Bạn tuyên bố ý định trước khi hỏi.",
+                  "reply": [
+                    { "them": "OK. It started when the spec changed.", "themvi": "Vâng. Chuyện bắt đầu khi bản đặc tả bị đổi.", "you": "Thanks for explaining. That helps.", "youvi": "Cảm ơn bạn đã giải thích. Vậy là rõ rồi." }
+                  ],
+                  "vars": [
+                    { "en": "All I want to do is help.", "vi": "Tất cả tôi muốn là giúp thôi." }
+                  ]
+                },
+                {
+                  "en": "All you have to do is click the link and log in.",
+                  "vi": "Bạn chỉ cần bấm vào đường dẫn rồi đăng nhập thôi.",
+                  "note": "Hướng dẫn theo cách khiến việc đó nghe dễ. Động từ sau <i>is</i> không có <i>to</i>.",
+                  "reply": [
+                    { "them": "That's it?", "themvi": "Chỉ vậy thôi ạ?", "you": "That's it. Two minutes.", "youvi": "Chỉ vậy thôi. Hai phút là xong." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "All I want is my money back.",
+                  "vi": "Tất cả tôi muốn là được hoàn tiền.",
+                  "note": "Câu khiếu nại rõ ràng. Nói thẳng kết quả bạn muốn để khỏi phải giải thích vòng vo.",
+                  "open": { "en": "I've been passed around three times now.", "vi": "Tôi bị chuyển qua lại ba lần rồi." },
+                  "reply": [
+                    { "them": "I'll process that for you now.", "themvi": "Em xử lý cho anh/chị ngay ạ.", "you": "Thank you. I appreciate it.", "youvi": "Cảm ơn bạn. Tôi rất cảm kích." },
+                    { "them": "We can only offer store credit.", "themvi": "Bên em chỉ đổi phiếu mua hàng được ạ.", "you": "Then could I speak to the manager?", "youvi": "Vậy cho tôi gặp quản lý được không?" }
+                  ]
+                },
+                {
+                  "en": "All I want is a straight answer.",
+                  "vi": "Tất cả tôi muốn là một câu trả lời thẳng.",
+                  "note": "Dùng khi bị vòng vo. Mạnh nhưng chưa đến mức thô — vẫn giữ được lịch sự.",
+                  "reply": [
+                    { "them": "Fair enough. It'll take two weeks.", "themvi": "Vâng ạ. Sẽ mất hai tuần.", "you": "Thank you. That's all I needed.", "youvi": "Cảm ơn bạn. Tôi chỉ cần biết vậy thôi." }
+                  ]
+                },
+                {
+                  "en": "All I want is a simple explanation of the charges.",
+                  "vi": "Tất cả tôi muốn là một lời giải thích đơn giản về các khoản phí.",
+                  "reply": [
+                    { "them": "Let me go through it line by line.", "themvi": "Để em giải thích từng dòng cho anh/chị.", "you": "That would be great, thanks.", "youvi": "Vậy thì tốt quá, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "All I want is a laptop that actually works.",
+                  "vi": "Tất cả tôi muốn là một cái laptop chạy được thật sự.",
+                  "note": "<i>actually</i> ở đây mang chút mỉa mai — dùng khi bạn đã phải mang máy đi sửa nhiều lần.",
+                  "reply": [
+                    { "them": "I understand your frustration.", "themvi": "Em hiểu sự bực bội của anh/chị ạ.", "you": "So what are my options?", "youvi": "Vậy tôi có những lựa chọn nào?" }
+                  ],
+                  "close": { "en": "Thanks for sorting it out.", "vi": "Cảm ơn bạn đã giải quyết giúp." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "All I want is a quiet table in the corner.",
+                  "vi": "Tất cả tôi muốn là một bàn yên tĩnh ở góc.",
+                  "reply": [
+                    { "them": "We have one free by the back.", "themvi": "Bên em còn một bàn ở phía trong ạ.", "you": "That's perfect, thank you.", "youvi": "Vậy hợp quá, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "Honestly, all I want is a coffee and five minutes.",
+                  "vi": "Thật lòng, tất cả tôi muốn là một ly cà phê và năm phút.",
+                  "reply": [
+                    { "them": "Take as long as you need.", "themvi": "Bạn cứ ngồi bao lâu cũng được.", "you": "Thanks. I'll be human again soon.", "youvi": "Cảm ơn. Lát nữa mình sẽ tỉnh lại thôi." }
+                  ]
+                },
+                {
+                  "en": "All I want to do is sit down and eat something warm.",
+                  "vi": "Tất cả tôi muốn làm là ngồi xuống và ăn gì đó nóng.",
+                  "reply": [
+                    { "them": "Soup then? There's a place round the corner.", "themvi": "Vậy ăn súp nhé? Có quán ngay góc kia.", "you": "Lead the way.", "youvi": "Bạn dẫn đường đi." }
+                  ]
+                },
+                {
+                  "en": "All I need is a glass of water, thanks.",
+                  "vi": "Tôi chỉ cần một ly nước thôi, cảm ơn bạn.",
+                  "note": "Cách từ chối gọi thêm món mà không làm nhân viên khó xử.",
+                  "reply": [
+                    { "them": "Still or sparkling?", "themvi": "Nước thường hay nước có ga ạ?", "you": "Still, please.", "youvi": "Nước thường ạ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "All I want is to get there before dark.",
+                  "vi": "Tất cả tôi muốn là đến nơi trước khi trời tối.",
+                  "note": "Có <b>to</b> vì trước <i>is</i> không có <i>do</i>.",
+                  "reply": [
+                    { "them": "Then we should leave within the hour.", "themvi": "Vậy trong vòng một tiếng mình phải đi.", "you": "Agreed. I'll pack now.", "youvi": "Đồng ý. Mình đi xếp đồ ngay." }
+                  ]
+                },
+                {
+                  "en": "All I'm asking for is a seat near the front.",
+                  "vi": "Tất cả tôi xin là một chỗ ngồi gần phía trước.",
+                  "reply": [
+                    { "them": "Let me see what I can do.", "themvi": "Để em xem giúp anh/chị được gì ạ.", "you": "Thank you, that's kind.", "youvi": "Cảm ơn bạn, bạn tử tế quá." }
+                  ]
+                },
+                {
+                  "en": "All I need is ten minutes to check in.",
+                  "vi": "Tất cả tôi cần là mười phút để làm thủ tục.",
+                  "reply": [
+                    { "them": "You've got time — the desk closes at six.", "themvi": "Anh/chị còn kịp — quầy đóng lúc sáu giờ ạ.", "you": "Perfect, thank you.", "youvi": "Tuyệt, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "All I want is a room where I can actually sleep.",
+                  "vi": "Tất cả tôi muốn là một phòng mà tôi ngủ được thật sự.",
+                  "note": "Cách phàn nàn về phòng ồn mà không cần kể lể — nhân viên hiểu ngay vấn đề.",
+                  "open": { "en": "I didn't sleep at all last night.", "vi": "Đêm qua tôi không ngủ được chút nào." },
+                  "reply": [
+                    { "them": "I'm sorry. Let me move you to a quieter floor.", "themvi": "Em xin lỗi ạ. Để em chuyển anh/chị lên tầng yên tĩnh hơn.", "you": "That would help a lot. Thank you.", "youvi": "Vậy thì đỡ nhiều lắm. Cảm ơn bạn." }
+                  ],
+                  "close": { "en": "Thanks for sorting that out so quickly.", "vi": "Cảm ơn bạn đã xử lý nhanh vậy." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Xin gia hạn trong cuộc họp dự án",
+          "lines": [
+            { "speaker": "Manager", "en": "We're launching on the tenth. No changes.", "vi": "Mình ra mắt ngày mười. Không thay đổi gì cả." },
+            { "speaker": "You", "me": true, "en": "I understand. All I'm asking for is one more week.", "vi": "Em hiểu ạ. Tất cả em xin là thêm một tuần." },
+            { "speaker": "Manager", "en": "Why? What changes in a week?", "vi": "Vì sao? Một tuần thì thay đổi được gì?" },
+            { "speaker": "You", "me": true, "en": "All I want to do is finish testing properly. Right now we'd be guessing.", "vi": "Tất cả em muốn là kiểm thử cho tử tế. Giờ mà ra mắt thì chỉ là đoán mò ạ." },
+            { "speaker": "Manager", "en": "I can give you three days.", "vi": "Tôi cho em được ba ngày." },
+            { "speaker": "You", "me": true, "en": "I'll take it. All I need now is one clear deadline — the thirteenth?", "vi": "Vậy cũng được ạ. Giờ em chỉ cần một hạn chót rõ ràng — ngày mười ba ạ?" }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Hạ nhiệt một cuộc tranh cãi",
+          "lines": [
+            { "speaker": "Colleague", "en": "Why are you going through my report line by line?", "vi": "Sao anh lại soi báo cáo của em từng dòng vậy?" },
+            { "speaker": "You", "me": true, "en": "All I want to do is understand how you got this number.", "vi": "Tất cả anh muốn là hiểu em ra được con số này bằng cách nào." },
+            { "speaker": "Colleague", "en": "It feels like you don't trust me.", "vi": "Nghe cứ như anh không tin em." },
+            { "speaker": "You", "me": true, "en": "That's not it at all. All I did was ask a question.", "vi": "Hoàn toàn không phải vậy. Anh chỉ hỏi một câu thôi mà." },
+            { "speaker": "Colleague", "en": "Sorry. It's been a stressful week.", "vi": "Em xin lỗi. Tuần này căng thẳng quá." },
+            { "speaker": "You", "me": true, "en": "No problem. All I need is the source file — then I'll leave you alone.", "vi": "Không sao. Anh chỉ cần file gốc thôi — rồi anh để em yên." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "All I want to do is to sleep.", "right": "All I want to do is sleep.", "why": "Đã có <b>do</b> ở trước thì động từ sau <i>is</i> <b>không có “to”</b>. Lỗi số một của khung này." },
+            { "wrong": "All I want is sleep late every day. <i>(ý: được ngủ nướng)</i>", "right": "All I want is to sleep late every day.", "why": "Không có <i>do</i> ở trước thì <b>phải có “to”</b>. Ngược hẳn với trường hợp trên." },
+            { "wrong": "All I did was asked a question.", "right": "All I did was ask a question.", "why": "Sau <b>was</b> là động từ <b>trần</b>, không chia quá khứ — dù cả câu nói về quá khứ." },
+            { "wrong": "All what I want is a coffee.", "right": "All I want is a coffee.", "why": "Không dùng <b>what</b> ở đây. <i>All</i> đã đóng vai trò đó rồi." },
+            { "wrong": "All I want are a few answers.", "right": "All I want is a few answers.", "why": "<b>All</b> ở cấu trúc này luôn đi với <b>is</b>, kể cả khi thứ theo sau ở số nhiều." },
+            { "wrong": "All you have to do is to click here.", "right": "All you have to do is click here.", "why": "Cùng quy tắc: đã có <b>do</b> thì bỏ <i>to</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>All I want is…</code>", "Nhấn mạnh: chỉ một điều thôi, có cảm xúc", "<i>All I want is a quiet weekend.</i>"],
+            ["<code>I just want…</code>", "Nhẹ hơn, ít kịch tính hơn", "<i>I just want a quiet weekend.</i> — Xem [Khung 02]."],
+            ["<code>All I need is…</code>", "Cần thiết chứ không phải mong muốn", "<i>All I need is ten minutes.</i> — Xem [Khung 03]."],
+            ["<code>All I'm asking for is…</code>", "Đàm phán — thu nhỏ yêu cầu", "<i>All I'm asking for is one more week.</i>"],
+            ["<code>The only thing I want is…</code>", "Trang trọng hơn, hợp văn viết", "<i>The only thing I want is clarity.</i>"],
+            ["<code>I'd settle for…</code>", "Chấp nhận mức thấp hơn kỳ vọng", "<i>I'd settle for a partial refund.</i>"],
+            ["<code>All you have to do is…</code>", "Hướng dẫn — làm việc đó nghe dễ đi", "<i>All you have to do is click here.</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — cùng một yêu cầu gia hạn" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I want more time.", "vi": "Thẳng — nghe như đòi hỏi" },
+            { "en": "I'd like a bit more time.", "vi": "Lịch sự — nhưng mơ hồ" },
+            { "en": "I need one more week.", "vi": "Rõ ràng — nêu sự cần thiết" },
+            { "en": "All I'm asking for is one more week.", "vi": "Khiêm tốn — khó từ chối nhất" },
+            { "en": "I was hoping for one more week.", "vi": "Nhã nhất — để ngỏ cửa từ chối" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>All</b> = /ɔːl/ — nguyên âm dài, môi tròn. Đừng đọc cụt thành “ol”.",
+            "<b>All I</b> nối liền thành “ɔː-lai” — âm /l/ trượt sang nguyên âm của <i>I</i>.",
+            "<b>All I want is</b> nói nhanh thành “ɔː-lai-WON-tiz” — <i>want is</i> dính thành một khối.",
+            "<b>All I want to do is</b> → “ɔː-lai-WON-nə-du-wiz”, trong đó <i>want to</i> thành <i>wanna</i>.",
+            "<b>is</b> ở đây thường được nhấn nhẹ vì nó đứng trước điều quan trọng nhất của câu.",
+            "Trọng âm rơi vào <b>ALL</b> ở đầu và vào <b>danh từ/động từ chính</b> ở cuối: <b>ALL</b> <i>I want is a</i> <b>QUI</b>-<i>et weekend.</i>"
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "All I'm asking for is one more week.", "vi": "Luyện shadowing: nghe — nhại lại — lặp 5 lần cho trôi cụm “All I'm asking for is”." },
+            { "en": "All I want to do is go home and sleep.", "vi": "Chú ý không có “to” trước “go” và “sleep”." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tất cả tôi muốn là một cuối tuần yên tĩnh.", "blank": "__________ a quiet weekend.", "a": "All I want is" },
+            { "vi": "Tất cả tôi muốn làm là ngủ.", "blank": "All I want to do __________.", "a": "is sleep (không có “to”)" },
+            { "vi": "Tất cả tôi muốn là được về nhà.", "blank": "All I want __________ home.", "a": "is to go (có “to”)" },
+            { "vi": "Tất cả tôi xin là thêm một tuần.", "blank": "__________ one more week.", "a": "All I'm asking for is" },
+            { "vi": "Bạn chỉ cần bấm vào đường dẫn thôi.", "blank": "__________ click the link.", "a": "All you have to do is" },
+            { "vi": "Tôi chỉ hỏi một câu thôi mà.", "blank": "__________ a question.", "a": "All I did was ask" },
+            { "vi": "Tất cả tôi cần là một hạn chót rõ ràng.", "blank": "__________ one clear deadline.", "a": "All I need is" },
+            { "vi": "Nó rủi ro — ý tôi chỉ có vậy thôi.", "blank": "It's risky — __________.", "a": "that's all I'm saying" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tất cả tôi muốn là một câu trả lời thẳng.", "a": "All I want is a straight answer." },
+            { "vi": "2. Tất cả tôi muốn là hiểu được chuyện gì đã xảy ra.", "a": "All I want to do is understand what happened." },
+            { "vi": "3. Tất cả tôi cần là năm phút của bạn.", "a": "All I need is five minutes of your time." },
+            { "vi": "4. Tất cả tôi muốn là được hoàn tiền.", "a": "All I want is my money back." },
+            { "vi": "5. Giờ tất cả tôi muốn là chút không gian riêng.", "a": "All I want is a bit of space right now." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Quy tắc “to” trong một giây:</b> nhìn xem trước <i>is</i> đã có chữ <b>do</b> chưa. Có <i>do</i> → bỏ <i>to</i>. Không có <i>do</i> → giữ <i>to</i>.",
+            "<b>Dùng khi đàm phán:</b> <i>All I'm asking for is…</i> + một con số cụ thể. Yêu cầu càng nhỏ và càng rõ thì càng khó bị từ chối.",
+            "<b>Dùng để hạ nhiệt:</b> <i>All I want to do is understand…</i> tuyên bố ý định tốt trước khi hỏi, giúp đối phương bỏ thế phòng thủ.",
+            "<b>Đừng lạm dụng:</b> câu này mang cảm xúc khá mạnh. Nói suốt ngày thì nghe như bạn lúc nào cũng khổ sở.",
+            "<b>Nhớ “is” dù số nhiều:</b> <i>All I want is a few answers</i> — luôn là <i>is</i>, không bao giờ <i>are</i>.",
+            "<b>Bài tập 3 phút:</b> nghĩ ra 3 thứ bạn thật sự cần trong tuần này, viết mỗi thứ hai lần — một lần bằng <i>All I want is + danh từ</i>, một lần bằng <i>All I want to do is + động từ trần</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

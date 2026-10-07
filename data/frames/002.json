@@ -1,0 +1,506 @@
+{
+  "id": 2,
+  "group": "Nhóm 1 · Mong muốn & Nhu cầu",
+  "title": "I want to… — Nói thẳng điều mình muốn",
+  "subtitle": "Khung mạnh và trực tiếp nhất để nói ra mong muốn. Dùng đúng chỗ thì rõ ràng và dứt khoát; dùng sai chỗ thì thành cộc lốc. Điều quan trọng nhất ở khung này là biết khi nào KHÔNG nên dùng.",
+  "pattern": [
+    "I want <em>+ to V</em>",
+    "I want <em>+ danh từ</em>",
+    "I want <em>+ ai đó + to V</em>"
+  ],
+  "meaning": "Tôi muốn… (thẳng, thân mật, không rào đón)",
+  "grammar": [24, 1],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 2/5" },
+    { "text": "Chủ yếu dùng khi nói, thân mật" },
+    { "text": "Trình độ: A1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I want</span> nói thẳng nhu cầu, không có lớp đệm lịch sự nào. Giữa người thân quen thì đây là cách nói tự nhiên và gọn nhất. Nhưng với người lạ, nhân viên phục vụ hay trong email công việc, nó nghe như <i>“Tôi muốn cái này, đưa đây”</i> — giống trẻ con đòi hỏi." },
+        { "t": "p", "html": "Điều này làm nhiều người Việt bị hiểu nhầm là thô lỗ dù hoàn toàn không có ý đó. Lý do: tiếng Việt đã có sẵn “ạ”, “nhé”, “giúp tôi”, “cho tôi xin” để làm mềm câu, nên ta quen nghĩ rằng chỉ cần dịch đúng nghĩa là xong. Tiếng Anh thì không có mấy tiểu từ đó — muốn lịch sự phải <b>đổi hẳn cấu trúc câu</b>." },
+        { "t": "p", "html": "Mặt khác, đừng sợ <i>I want</i> đến mức không bao giờ dùng. Khi bạn cần dứt khoát — đặt ranh giới, từ chối, nói rõ mục tiêu — thì chính sự thẳng thắn của nó là thứ bạn cần. <i>I don't want to discuss this now.</i> mạnh và rõ hơn hẳn mọi cách nói vòng vo." },
+        { "t": "callout", "html": "<b>Quy tắc vàng:</b> với người bạn chưa thân, hãy đổi <i>I want</i> thành <span class=\"k\">I'd like</span> (xem [Khung 01]). Giữ <i>I want</i> cho bạn bè, người nhà, và những lúc cần dứt khoát." },
+        { "t": "h3", "text": "Cùng một ý, ba mức độ" },
+        {
+          "t": "table",
+          "head": ["Câu", "Nghe như", "Hợp với ai"],
+          "rows": [
+            ["<code>I want to talk to you.</code>", "Tôi muốn nói chuyện với bạn. (nghiêm trọng, có thể hơi đe dọa)", "Người thân, bạn thân — hoặc khi cố ý làm nặng vấn đề"],
+            ["<code>I'd like to talk to you.</code>", "Tôi muốn nói chuyện với bạn một chút.", "Đồng nghiệp, cấp trên, người lạ"],
+            ["<code>Could I have a word?</code>", "Cho tôi trao đổi một chút được không?", "Lịch sự nhất, dùng ở nơi làm việc"],
+            ["<code>Do you have a minute?</code>", "Bạn rảnh một phút không?", "Tự nhiên nhất khi mở lời ở văn phòng"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "👨‍👩‍👧", "title": "Người thân & bạn bè", "text": "Bối cảnh chính. <i>I want to go home early today.</i> Không ai thấy bạn thô cả." },
+            { "icon": "🎯", "title": "Nói về mục tiêu bản thân", "text": "Kể nguyện vọng, định hướng: <i>I want to become a team leader.</i> Nghe quyết tâm hơn <i>I'd like to</i>." },
+            { "icon": "⚠️", "title": "Khi cần dứt khoát", "text": "Từ chối, đặt ranh giới, tình huống gấp: <i>I don't want to discuss this now.</i>" },
+            { "icon": "🗣", "title": "Rủ rê, hỏi ý bạn bè", "text": "<i>Do you want to grab lunch?</i> — cách rủ tự nhiên nhất giữa bạn bè." },
+            { "icon": "💭", "title": "Kể lại ý định (quá khứ)", "text": "<i>I wanted to call you, but it got late.</i> Dạng quá khứ nghe rất mềm, dùng được cả với người lạ." },
+            { "icon": "🚫", "title": "Tránh dùng khi…", "text": "Gọi món, nhờ vả, email khách hàng, nói với người lớn tuổi hoặc cấp trên." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Khẳng định + danh từ", "<code>I want + N</code>", "I want a new phone."],
+            ["Khẳng định + động từ", "<code>I want to + V</code>", "I want to learn Japanese."],
+            ["Muốn người khác làm", "<code>I want + O + to V</code>", "I want you to be honest with me."],
+            ["Phủ định", "<code>I don't want to + V</code>", "I don't want to go out tonight."],
+            ["Phủ định + người khác", "<code>I don't want + O + to V</code>", "I don't want you to worry."],
+            ["Câu hỏi", "<code>Do you want to + V?</code>", "Do you want to join us?"],
+            ["Đề nghị giúp", "<code>Do you want me to + V?</code>", "Do you want me to call him?"],
+            ["Hỏi mở", "<code>What do you want to + V?</code>", "What do you want to do today?"],
+            ["Làm mềm bằng quá khứ", "<code>I just wanted to + V</code>", "I just wanted to say thank you."],
+            ["Quá khứ", "<code>I wanted to + V</code>", "I wanted to call you, but I forgot."],
+            ["Nhấn mạnh", "<code>All I want is + N / to V</code>", "All I want is a quiet weekend."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Mẹo cứu nguy:</b> lỡ buột miệng <i>I want…</i> với người lạ thì thêm ngay <i>…, please</i> hoặc <i>…, if that's OK</i>. Câu sẽ dịu đi rất nhiều. Cách nữa là lùi về quá khứ: <i>I wanted to ask you something.</i>" }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “I want to…”",
+              "items": [
+                { "w": "go", "vi": "đi", "ex": "I want to go home early today.", "exvi": "Hôm nay tôi muốn về sớm." },
+                { "w": "stay", "vi": "ở lại", "ex": "I want to stay a bit longer.", "exvi": "Tôi muốn ở lại thêm chút nữa." },
+                { "w": "talk", "vi": "nói chuyện", "ex": "I want to talk to you about something.", "exvi": "Tôi muốn nói chuyện với bạn một chuyện.", "note": "Với cấp trên, dùng <i>Could I have a word?</i> sẽ an toàn hơn nhiều." },
+                { "w": "help", "vi": "giúp", "ex": "I want to help, but I don't know how.", "exvi": "Tôi muốn giúp, nhưng không biết giúp thế nào." },
+                { "w": "learn", "vi": "học", "ex": "I want to learn how to drive.", "exvi": "Tôi muốn học lái xe.", "note": "<i>learn how to + V</i> = học cách làm một việc." },
+                { "w": "try", "vi": "thử", "ex": "I want to try something new this year.", "exvi": "Năm nay tôi muốn thử cái gì đó mới." },
+                { "w": "buy", "vi": "mua", "ex": "I want to buy a second-hand bike.", "exvi": "Tôi muốn mua một chiếc xe đạp cũ." },
+                { "w": "quit", "vi": "nghỉ / bỏ", "ex": "I want to quit smoking this year.", "exvi": "Năm nay tôi muốn bỏ thuốc lá.", "note": "<i>quit + V-ing</i>, không phải <i>quit to V</i>." },
+                { "w": "move", "vi": "chuyển đi", "ex": "I want to move closer to the office.", "exvi": "Tôi muốn chuyển đến gần văn phòng hơn." },
+                { "w": "become", "vi": "trở thành", "ex": "I want to become a team leader.", "exvi": "Tôi muốn trở thành trưởng nhóm." },
+                { "w": "start", "vi": "bắt đầu", "ex": "I want to start running in the mornings.", "exvi": "Tôi muốn bắt đầu chạy bộ buổi sáng.", "note": "Sau <i>start</i> dùng được cả <i>to V</i> lẫn <i>V-ing</i>, nghĩa như nhau." },
+                { "w": "stop", "vi": "dừng / thôi", "ex": "I want to stop worrying about it.", "exvi": "Tôi muốn thôi lo lắng về chuyện đó.", "note": "<i>stop + V-ing</i> = thôi làm việc đó. <i>stop to V</i> = dừng lại ĐỂ làm việc khác — khác hẳn nhau." },
+                { "w": "change", "vi": "thay đổi", "ex": "I want to change my schedule next month.", "exvi": "Tháng sau tôi muốn đổi lịch làm việc." },
+                { "w": "take", "vi": "lấy / nghỉ", "ex": "I want to take a few days off.", "exvi": "Tôi muốn nghỉ vài ngày.", "note": "<i>take a day off</i> = nghỉ một ngày." },
+                { "w": "make sure", "vi": "chắc chắn rằng", "ex": "I want to make sure everyone agrees.", "exvi": "Tôi muốn chắc chắn là mọi người đều đồng ý." },
+                { "w": "find out", "vi": "tìm hiểu ra", "ex": "I want to find out why it failed.", "exvi": "Tôi muốn tìm hiểu xem vì sao nó thất bại." },
+                { "w": "see", "vi": "xem / gặp", "ex": "I want to see that film before it ends.", "exvi": "Tôi muốn xem phim đó trước khi hết chiếu." },
+                { "w": "ask", "vi": "hỏi", "ex": "I want to ask you something personal.", "exvi": "Tôi muốn hỏi bạn một chuyện riêng tư." },
+                { "w": "tell", "vi": "nói cho ai", "ex": "I want to tell you the truth.", "exvi": "Tôi muốn nói cho bạn sự thật.", "note": "<i>tell + ai + cái gì</i>, còn <i>say</i> thì không đi trực tiếp với người." },
+                { "w": "get better at", "vi": "giỏi hơn về", "ex": "I want to get better at speaking English.", "exvi": "Tôi muốn nói tiếng Anh giỏi hơn." }
+              ]
+            },
+            {
+              "title": "Danh từ thường theo sau “I want…”",
+              "items": [
+                { "w": "a break", "vi": "một lúc nghỉ", "ex": "I want a break. I've been at this for hours.", "exvi": "Tôi muốn nghỉ một lát. Tôi làm cái này mấy tiếng rồi." },
+                { "w": "a new job", "vi": "công việc mới", "ex": "I want a new job, but I'm not sure where to start.", "exvi": "Tôi muốn một công việc mới, nhưng không biết bắt đầu từ đâu." },
+                { "w": "some time alone", "vi": "chút thời gian một mình", "ex": "I just want some time alone tonight.", "exvi": "Tối nay tôi chỉ muốn ở một mình chút thôi." },
+                { "w": "the truth", "vi": "sự thật", "ex": "I want the truth, even if it's bad.", "exvi": "Tôi muốn sự thật, dù nó có tệ đi nữa." },
+                { "w": "an answer", "vi": "một câu trả lời", "ex": "I want an answer by Friday.", "exvi": "Tôi muốn có câu trả lời trước thứ Sáu.", "note": "Câu này khá mạnh — với đối tác nên đổi thành <i>I'd like an answer by Friday.</i>" },
+                { "w": "my money back", "vi": "tiền lại", "ex": "I want my money back, please.", "exvi": "Tôi muốn lấy lại tiền ạ.", "note": "Dùng khi khiếu nại. Nhẹ hơn thì nói <i>I'd like a refund.</i>" },
+                { "w": "more information", "vi": "thêm thông tin", "ex": "I want more information before I decide.", "exvi": "Tôi muốn thêm thông tin trước khi quyết định." },
+                { "w": "nothing", "vi": "không gì cả", "ex": "I want nothing from him.", "exvi": "Tôi chẳng muốn gì từ anh ta cả.", "note": "Câu rất nặng về cảm xúc — cân nhắc trước khi dùng." },
+                { "w": "a change", "vi": "một sự thay đổi", "ex": "I want a change. I've done this for five years.", "exvi": "Tôi muốn thay đổi. Tôi làm việc này năm năm rồi." },
+                { "w": "the same thing", "vi": "cùng một điều", "ex": "We both want the same thing.", "exvi": "Cả hai chúng ta đều muốn cùng một điều." }
+              ]
+            },
+            {
+              "title": "Từ đi kèm để chỉnh sắc thái",
+              "items": [
+                { "w": "just", "vi": "chỉ… thôi", "ex": "I just want to get some sleep.", "exvi": "Tôi chỉ muốn ngủ một chút thôi.", "note": "Làm câu bớt gay gắt hẳn — từ quan trọng nhất trong nhóm này." },
+                { "w": "really", "vi": "thật sự", "ex": "I really want to go, but I can't.", "exvi": "Tôi thật sự muốn đi, nhưng không được." },
+                { "w": "don't", "vi": "không (phủ định)", "ex": "I don't want to talk about it right now.", "exvi": "Giờ tôi không muốn nói về chuyện đó." },
+                { "w": "if you want", "vi": "nếu bạn muốn", "ex": "We can meet tomorrow, if you want.", "exvi": "Mai gặp cũng được, nếu bạn muốn.", "note": "Đặt cuối câu để nhường quyền quyết định cho người kia." },
+                { "w": "whenever you want", "vi": "lúc nào bạn muốn cũng được", "ex": "Call me whenever you want.", "exvi": "Lúc nào bạn muốn thì gọi tôi nhé." },
+                { "w": "I wanted to", "vi": "tôi đã định… (quá khứ)", "ex": "I wanted to call you, but it got late.", "exvi": "Tôi đã định gọi bạn, nhưng muộn mất rồi.", "note": "Lùi về quá khứ là mẹo làm mềm câu rất hiệu quả." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết. Học trọn một lượt nói chứ không chỉ một câu lẻ." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I want to go home early today.",
+                  "vi": "Hôm nay tôi muốn về sớm.",
+                  "reply": [
+                    { "them": "Everything OK?", "themvi": "Mọi chuyện ổn chứ?", "you": "Yeah, I'm just tired.", "youvi": "Ừ, mình chỉ hơi mệt thôi." },
+                    { "them": "Want me to drive you?", "themvi": "Mình chở bạn về nhé?", "you": "That would be great, thanks.", "youvi": "Vậy thì tốt quá, cảm ơn bạn." }
+                  ],
+                  "vars": [
+                    { "en": "I want to take the day off tomorrow.", "vi": "Mai tôi muốn nghỉ một ngày." },
+                    { "en": "I want to get an early night tonight.", "vi": "Tối nay tôi muốn đi ngủ sớm." }
+                  ]
+                },
+                {
+                  "en": "I want to learn how to drive this year.",
+                  "vi": "Năm nay tôi muốn học lái xe.",
+                  "note": "<span class=\"k\">learn how to + V</span> — học cách làm một việc.",
+                  "reply": [
+                    { "them": "That's a good idea. Have you found a school?", "themvi": "Ý hay đấy. Bạn tìm được chỗ học chưa?", "you": "Not yet, I'm still looking.", "youvi": "Chưa, mình vẫn đang tìm." }
+                  ],
+                  "vars": [
+                    { "en": "I want to learn how to cook properly.", "vi": "Tôi muốn học nấu ăn cho tử tế." }
+                  ],
+                  "close": { "en": "Let me know if you hear of a good one.", "vi": "Bạn biết chỗ nào tốt thì báo mình nhé." }
+                },
+                {
+                  "en": "I don't want to go out tonight. I'm exhausted.",
+                  "vi": "Tối nay tôi không muốn ra ngoài. Tôi mệt lử rồi.",
+                  "note": "Từ chối thẳng nhưng kèm lý do thì không mất lòng ai. Đây là công thức từ chối an toàn nhất.",
+                  "reply": [
+                    { "them": "No worries — another time then.", "themvi": "Không sao — vậy để hôm khác.", "you": "Thanks for understanding.", "youvi": "Cảm ơn bạn đã thông cảm." },
+                    { "them": "Come on, just for an hour!", "themvi": "Thôi mà, một tiếng thôi!", "you": "Honestly, not tonight. Sorry.", "youvi": "Thật đấy, tối nay thì không. Xin lỗi nhé." }
+                  ],
+                  "close": { "en": "Let's do it next weekend instead.", "vi": "Để cuối tuần sau đi nhé." }
+                },
+                {
+                  "en": "I just want some time alone tonight.",
+                  "vi": "Tối nay tôi chỉ muốn ở một mình chút thôi.",
+                  "note": "<b>just</b> làm câu nghe như một nhu cầu nhỏ chứ không phải đẩy người kia ra xa.",
+                  "reply": [
+                    { "them": "Of course. Text me if you need anything.", "themvi": "Tất nhiên rồi. Cần gì thì nhắn mình nhé.", "you": "Thanks. I will.", "youvi": "Cảm ơn bạn. Mình sẽ nhắn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I want to become a team leader in two years.",
+                  "vi": "Trong hai năm tới tôi muốn trở thành trưởng nhóm.",
+                  "note": "Trong phỏng vấn hoặc họp đánh giá, <i>I want</i> nghe quyết tâm hơn <i>I'd like</i>. Đây là một trong số ít chỗ ở công sở nên dùng <i>want</i>.",
+                  "open": { "en": "Can I share my plan for the next two years?", "vi": "Em chia sẻ kế hoạch hai năm tới được không ạ?" },
+                  "reply": [
+                    { "them": "What are you doing to get there?", "themvi": "Bạn đang làm gì để đạt được điều đó?", "you": "I'm taking on more project work.", "youvi": "Em đang nhận thêm việc ở các dự án." },
+                    { "them": "What support do you need from me?", "themvi": "Bạn cần tôi hỗ trợ gì?", "you": "Some time with a mentor would help.", "youvi": "Nếu có người hướng dẫn thì tốt ạ." }
+                  ],
+                  "close": { "en": "Thanks for hearing me out.", "vi": "Cảm ơn anh/chị đã lắng nghe." }
+                },
+                {
+                  "en": "I want you to be honest with me.",
+                  "vi": "Tôi muốn bạn thành thật với tôi.",
+                  "note": "Dạng <span class=\"k\">I want + ai + to V</span>. Rất mạnh — chỉ dùng khi quan hệ đã thân hoặc bạn là người dẫn dắt cuộc nói chuyện.",
+                  "reply": [
+                    { "them": "OK. Honestly, the deadline isn't realistic.", "themvi": "Vâng. Thành thật thì hạn này không khả thi.", "you": "Thanks for telling me. Let's fix it.", "youvi": "Cảm ơn vì đã nói thẳng. Cùng sửa lại nhé." }
+                  ],
+                  "vars": [
+                    { "en": "I want you to take the lead on this.", "vi": "Tôi muốn bạn dẫn dắt việc này." },
+                    { "en": "I don't want you to worry about it.", "vi": "Tôi không muốn bạn phải lo về chuyện đó." }
+                  ]
+                },
+                {
+                  "en": "I just wanted to say thank you for yesterday.",
+                  "vi": "Tôi chỉ muốn cảm ơn bạn về hôm qua.",
+                  "note": "<b>just wanted</b> — thì quá khứ cộng <i>just</i> làm câu rất nhẹ nhàng. Dùng được cả với sếp và khách hàng.",
+                  "reply": [
+                    { "them": "Oh, no problem at all.", "themvi": "Ồ, có gì đâu.", "you": "It really helped.", "youvi": "Nó giúp tôi nhiều lắm." }
+                  ],
+                  "vars": [
+                    { "en": "I just wanted to check one small thing.", "vi": "Tôi chỉ muốn hỏi lại một chuyện nhỏ." }
+                  ]
+                },
+                {
+                  "en": "I want to make sure everyone agrees before we start.",
+                  "vi": "Tôi muốn chắc chắn mọi người đều đồng ý trước khi bắt đầu.",
+                  "note": "<span class=\"k\">make sure (that) + mệnh đề</span> — câu rất hợp khi chốt lại cuộc họp.",
+                  "open": { "en": "Before we wrap up —", "vi": "Trước khi mình kết thúc —" },
+                  "reply": [
+                    { "them": "I'm happy with it.", "themvi": "Tôi thấy ổn.", "you": "Great. Anyone else?", "youvi": "Tốt. Còn ai ý kiến gì không ạ?" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I want to try that new noodle place.",
+                  "vi": "Tôi muốn thử quán mì mới đó.",
+                  "reply": [
+                    { "them": "Sure, when are you free?", "themvi": "Được chứ, khi nào bạn rảnh?", "you": "How about Friday?", "youvi": "Thứ Sáu được không?" }
+                  ],
+                  "vars": [
+                    { "en": "I want to try somewhere different for once.", "vi": "Lần này tôi muốn thử chỗ nào khác một chút." }
+                  ]
+                },
+                {
+                  "en": "I don't want anything spicy, thanks.",
+                  "vi": "Tôi không muốn món gì cay, cảm ơn.",
+                  "note": "Nói rõ từ đầu để khỏi phải trả món — thêm <i>thanks</i> là đủ lịch sự dù dùng <i>want</i>.",
+                  "reply": [
+                    { "them": "Got it. How about the chicken then?", "themvi": "Hiểu rồi ạ. Vậy món gà thì sao?", "you": "That sounds good.", "youvi": "Nghe được đấy." }
+                  ]
+                },
+                {
+                  "en": "What do you want to eat tonight?",
+                  "vi": "Tối nay bạn muốn ăn gì?",
+                  "note": "Câu hỏi thân mật nhất để rủ ăn uống. Với người lạ thì đổi thành <i>What would you like?</i>",
+                  "reply": [
+                    { "them": "I don't mind. You pick.", "themvi": "Mình sao cũng được. Bạn chọn đi.", "you": "Let's get hotpot then.", "youvi": "Vậy đi ăn lẩu nhé." }
+                  ]
+                },
+                {
+                  "en": "Do you want to grab lunch after this?",
+                  "vi": "Xong cái này bạn muốn đi ăn trưa không?",
+                  "note": "<span class=\"k\">grab + bữa ăn</span> = ăn nhanh, không cầu kỳ. Rất tự nhiên ở công sở.",
+                  "reply": [
+                    { "them": "Yeah, I'm starving.", "themvi": "Ừ, mình đói lắm rồi.", "you": "Great, let's go.", "youvi": "Tuyệt, đi thôi." },
+                    { "them": "Can't today — I've got a call.", "themvi": "Hôm nay không được — mình có cuộc gọi.", "you": "No problem, tomorrow then?", "youvi": "Không sao, vậy mai nhé?" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I want my money back, please.",
+                  "vi": "Tôi muốn lấy lại tiền ạ.",
+                  "note": "Câu khiếu nại mạnh. Chỉ dùng khi đã thử cách nhẹ hơn (<i>I'd like a refund</i>) mà không được giải quyết.",
+                  "open": { "en": "I've already spoken to someone about this.", "vi": "Tôi đã trao đổi với một bạn về việc này rồi." },
+                  "reply": [
+                    { "them": "Let me get the manager for you.", "themvi": "Để em gọi quản lý cho anh/chị.", "you": "Thank you, I'd appreciate that.", "youvi": "Cảm ơn bạn, tôi rất cảm kích." }
+                  ]
+                },
+                {
+                  "en": "I want more information before I decide.",
+                  "vi": "Tôi muốn thêm thông tin trước khi quyết định.",
+                  "reply": [
+                    { "them": "Of course. What would you like to know?", "themvi": "Tất nhiên rồi. Anh/chị muốn biết gì ạ?", "you": "How long is the warranty?", "youvi": "Bảo hành bao lâu ạ?" }
+                  ]
+                },
+                {
+                  "en": "I want to buy a second-hand bike.",
+                  "vi": "Tôi muốn mua một chiếc xe đạp cũ.",
+                  "note": "<span class=\"k\">second-hand</span> = đã qua sử dụng. Anh-Mỹ hay nói <i>used</i>.",
+                  "reply": [
+                    { "them": "What's your budget?", "themvi": "Ngân sách của anh/chị khoảng bao nhiêu?", "you": "Around three million dong.", "youvi": "Khoảng ba triệu đồng." }
+                  ]
+                },
+                {
+                  "en": "I don't want to spend more than two million.",
+                  "vi": "Tôi không muốn tiêu quá hai triệu.",
+                  "note": "<span class=\"k\">spend more than…</span> — cách nói giới hạn ngân sách mà không mất mặt.",
+                  "reply": [
+                    { "them": "Then this one might suit you.", "themvi": "Vậy cái này có thể hợp với anh/chị.", "you": "Can I take a look?", "youvi": "Tôi xem thử được không?" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I want to change my seat, if that's possible.",
+                  "vi": "Tôi muốn đổi chỗ ngồi, nếu được ạ.",
+                  "note": "<i>if that's possible</i> ở cuối là lớp đệm cứu cả câu — biến <i>want</i> thành một đề nghị chứ không phải đòi hỏi.",
+                  "reply": [
+                    { "them": "Let me see what's available.", "themvi": "Để em xem còn chỗ nào ạ.", "you": "Thank you.", "youvi": "Cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "I want to be at the airport by six.",
+                  "vi": "Tôi muốn có mặt ở sân bay trước 6 giờ.",
+                  "note": "<span class=\"k\">be at + nơi chốn + by + giờ</span> — mẫu nói về thời hạn rất hay dùng khi đi lại.",
+                  "reply": [
+                    { "them": "Then we should leave at four thirty.", "themvi": "Vậy mình nên đi lúc 4 rưỡi.", "you": "Sounds good.", "youvi": "Được đấy." }
+                  ]
+                },
+                {
+                  "en": "I don't want to book anything yet.",
+                  "vi": "Tôi chưa muốn đặt gì cả.",
+                  "reply": [
+                    { "them": "No problem. The price may change though.", "themvi": "Không sao ạ. Nhưng giá có thể thay đổi.", "you": "I understand. I'll take the risk.", "youvi": "Tôi hiểu. Tôi chấp nhận rủi ro." }
+                  ]
+                },
+                {
+                  "en": "I wanted to ask about the luggage limit.",
+                  "vi": "Tôi muốn hỏi về giới hạn hành lý.",
+                  "note": "Dùng <b>quá khứ</b> <i>wanted</i> với người lạ là mẹo làm mềm rất hiệu quả — nghe lịch sự gần bằng <i>I'd like</i>.",
+                  "open": { "en": "Excuse me, sorry to bother you —", "vi": "Xin lỗi làm phiền bạn một chút —" },
+                  "reply": [
+                    { "them": "Twenty-three kilos for checked bags.", "themvi": "Hành lý ký gửi là 23 ký ạ.", "you": "And for hand luggage?", "youvi": "Còn hành lý xách tay thì sao ạ?" }
+                  ],
+                  "close": { "en": "Great, thanks for clarifying.", "vi": "Tuyệt, cảm ơn bạn đã giải thích." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Hai người bạn bàn chuyện tối nay",
+          "lines": [
+            { "speaker": "Mai", "en": "So, what do you want to do tonight?", "vi": "Vậy tối nay bạn muốn làm gì?" },
+            { "speaker": "You", "me": true, "en": "Honestly, I don't want to go far. I'm exhausted.", "vi": "Thật lòng thì mình không muốn đi xa. Mình mệt lử rồi." },
+            { "speaker": "Mai", "en": "Fair enough. Do you want to just order in?", "vi": "Cũng phải. Hay mình gọi đồ về ăn nhé?" },
+            { "speaker": "You", "me": true, "en": "Yes please. I just want to sit down and eat something warm.", "vi": "Ừ đi. Mình chỉ muốn ngồi xuống ăn gì đó nóng thôi." },
+            { "speaker": "Mai", "en": "Same. Anything you don't want?", "vi": "Mình cũng vậy. Có gì bạn không muốn ăn không?" },
+            { "speaker": "You", "me": true, "en": "Nothing spicy. Other than that, you pick.", "vi": "Đừng cay là được. Còn lại bạn chọn đi." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Nói về mục tiêu trong buổi đánh giá công việc",
+          "lines": [
+            { "speaker": "Manager", "en": "Where do you see yourself in a couple of years?", "vi": "Vài năm tới bạn hình dung mình ở đâu?" },
+            { "speaker": "You", "me": true, "en": "I want to become a team leader.", "vi": "Em muốn trở thành trưởng nhóm ạ." },
+            { "speaker": "Manager", "en": "Good. What are you doing to get there?", "vi": "Tốt. Bạn đang làm gì để đạt được điều đó?" },
+            { "speaker": "You", "me": true, "en": "I want to take on more project work, and I want to get better at presenting.", "vi": "Em muốn nhận thêm việc ở các dự án, và muốn thuyết trình tốt hơn ạ." },
+            { "speaker": "Manager", "en": "That's realistic. Let's find you a mentor.", "vi": "Nghe khả thi đấy. Để tôi tìm cho bạn một người hướng dẫn." },
+            { "speaker": "You", "me": true, "en": "I'd really appreciate that. Thank you.", "vi": "Em rất cảm kích ạ. Em cảm ơn anh/chị." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I want go home.", "right": "I want to go home.", "why": "Sau <b>want</b> luôn phải có <b>to</b> khi đi với động từ. Đây là lỗi số một của người Việt ở khung này." },
+            { "wrong": "I want that you help me.", "right": "I want you to help me.", "why": "Tiếng Anh không dùng mệnh đề “that” ở đây. Công thức là <b>want + ai + to V</b>." },
+            { "wrong": "I want a coffee. <i>(nói với nhân viên phục vụ)</i>", "right": "I'd like a coffee, please.", "why": "Đúng ngữ pháp nhưng sai bối cảnh — nghe như ra lệnh. Xem [Khung 01]." },
+            { "wrong": "Do you want that I call him?", "right": "Do you want me to call him?", "why": "Vẫn là công thức <b>want + ai + to V</b>, áp dụng cho cả câu hỏi." },
+            { "wrong": "I am wanting a new job.", "right": "I want a new job.", "why": "<b>want</b> là động từ chỉ trạng thái — không dùng ở thì tiếp diễn." },
+            { "wrong": "I want to stop to smoke. <i>(ý: bỏ thuốc)</i>", "right": "I want to stop smoking.", "why": "<b>stop + V-ing</b> = thôi làm việc đó. <b>stop to V</b> = dừng lại ĐỂ làm việc đó — nghĩa ngược hẳn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I want to…</code>", "Thẳng, mạnh, thân mật", "<i>I want to go home.</i> — Bạn bè, người nhà, hoặc khi cần dứt khoát."],
+            ["<code>I'd like to…</code>", "Lịch sự trung tính — mặc định an toàn", "<i>I'd like to go home now.</i> — Xem [Khung 01]."],
+            ["<code>I need to…</code>", "Cần thiết, không phải mong muốn", "<i>I need to go home — my kid is sick.</i> — Xem [Khung 03]."],
+            ["<code>I feel like…</code>", "Thèm, hứng nhất thời", "<i>I feel like going home.</i> — Xem [Khung 05]."],
+            ["<code>I'm dying to…</code>", "Cực kỳ muốn, rất thân mật", "<i>I'm dying to see that film.</i> — Chỉ dùng với bạn bè."],
+            ["<code>I'd love to…</code>", "Nhiệt tình, hào hứng", "<i>I'd love to join you.</i> — Cách nhận lời mời hay nhất."],
+            ["<code>I wouldn't mind…</code>", "Rất nhẹ: “có cũng được”", "<i>I wouldn't mind a coffee.</i> — Khi không muốn tỏ ra đòi hỏi."]
+          ]
+        },
+        { "t": "h3", "text": "Thang độ lịch sự — cùng một yêu cầu" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I want to leave early.", "vi": "Thẳng — bạn bè" },
+            { "en": "I'd like to leave early.", "vi": "Chuẩn mực — đồng nghiệp" },
+            { "en": "Could I leave early today?", "vi": "Lịch sự — cấp trên" },
+            { "en": "I was hoping to leave a bit early.", "vi": "Rất nhã — khi ngại" },
+            { "en": "Would it be OK if I left early?", "vi": "Nhã nhất — khi biết là làm phiền" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>want</b> = /wɒnt/ (Anh-Anh) hoặc /wɑːnt/ (Anh-Mỹ). Âm <b>w</b> phải chúm môi tròn, đừng đọc thành “oanh”.",
+            "<b>want to</b> khi nói nhanh dính thành <b>wanna</b> /ˈwɒnə/: <i>I wanna go home.</i> Nghe thì phải hiểu, nhưng <b>đừng viết</b> vào email hay bài thi.",
+            "<b>want a</b> cũng dính nghe gần giống: <i>I want a coffee</i> → “ai-WON-nơ-coffee”. Phân biệt với <i>wanna</i> bằng từ đứng sau — danh từ hay động từ.",
+            "<b>don't want to</b> → “dohn-WON-nə”, âm /t/ ở <i>don't</i> gần như biến mất hoàn toàn.",
+            "<b>wanted</b> = /ˈwɒntɪd/ — hai âm tiết, đuôi <i>-ed</i> đọc rõ thành “id” vì đứng sau /t/.",
+            "Trọng âm rơi vào <b>want</b> và vào động từ chính, không rơi vào <i>to</i>: <i>I</i> <b>WANT</b> <i>to</i> <b>GO</b> <i>home.</i>"
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I don't want to talk about it right now.", "vi": "Luyện shadowing: nghe — nhại lại — lặp 5 lần cho trôi cụm “don't want to”." },
+            { "en": "Do you want me to call him?", "vi": "Câu này nói nhanh thành “d'you WANNA me…” là sai — giữ rõ “want me to”." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi muốn học lái xe.", "blank": "__________ how to drive.", "a": "I want to learn" },
+            { "vi": "Tôi muốn bạn thành thật với tôi.", "blank": "__________ honest with me.", "a": "I want you to be" },
+            { "vi": "Tối nay tôi không muốn ra ngoài.", "blank": "__________ out tonight.", "a": "I don't want to go" },
+            { "vi": "Bạn muốn ăn gì?", "blank": "__________ eat?", "a": "What do you want to" },
+            { "vi": "Tôi chỉ muốn nói lời cảm ơn.", "blank": "__________ say thank you.", "a": "I just wanted to" },
+            { "vi": "Bạn có muốn tôi gọi cho anh ấy không?", "blank": "__________ call him?", "a": "Do you want me to" },
+            { "vi": "Tôi muốn chắc chắn mọi người đều đồng ý.", "blank": "__________ everyone agrees.", "a": "I want to make sure" },
+            { "vi": "Tôi không muốn bạn phải lo.", "blank": "__________ worry.", "a": "I don't want you to" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Năm nay tôi muốn bỏ thuốc lá.", "a": "I want to quit smoking this year." },
+            { "vi": "2. Tôi muốn chuyển đến gần văn phòng hơn.", "a": "I want to move closer to the office." },
+            { "vi": "3. Giờ tôi không muốn nói về chuyện đó.", "a": "I don't want to talk about it right now." },
+            { "vi": "4. Mai gặp cũng được, nếu bạn muốn.", "a": "We can meet tomorrow, if you want." },
+            { "vi": "5. Tôi đã định gọi bạn, nhưng muộn mất rồi.", "a": "I wanted to call you, but it got late." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Phép thử một giây:</b> trước khi nói <i>I want</i>, tự hỏi “người này mình đã thân chưa?”. Chưa thân thì đổi sang <i>I'd like</i>.",
+            "<b>Thêm “just” khi ngại:</b> <i>I just want to…</i> nhẹ hơn hẳn <i>I want to…</i> mà không mất đi sự rõ ràng.",
+            "<b>Lùi về quá khứ:</b> <i>I wanted to ask you something.</i> — mẹo làm mềm câu mà hầu như người học nào cũng bỏ qua.",
+            "<b>Nhớ chữ “to”:</b> đây là lỗi phổ biến nhất của khung này. Đọc thầm cả cụm <i>want-to</i> như một từ duy nhất để khỏi rơi mất.",
+            "<b>Luyện nghe “wanna”:</b> phim ảnh nói <i>wanna</i> liên tục. Nghe quen rồi thì tốc độ nghe hiểu của bạn tăng rõ rệt.",
+            "<b>Bài tập 3 phút:</b> kể 5 điều bạn muốn làm trong năm nay bằng <i>I want to…</i>, rồi nói lại 5 câu đó bằng <i>I'd like to…</i> để cảm nhận sự khác biệt."
+          ]
+        }
+      ]
+    }
+  ]
+}

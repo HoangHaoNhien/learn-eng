@@ -1,0 +1,866 @@
+{
+ "id": 9,
+ "group": "Nhóm 2 · Nghe — vì sao nghe không ra",
+ "title": "Dạng yếu — to · of · for · and · can · was",
+ "subtitle": "Từ chức năng khi không được nhấn thì nén lại thành /ə/. Nguy hiểm nhất là cặp can và can't: can nén thành /kən/ gần như biến mất, còn can't thì dài và rõ — nghe nhầm là hiểu ngược hẳn nghĩa câu.",
+ "meaning": "Nhận ra từ chức năng khi chúng bị nén",
+ "rule": [
+  "Từ chức năng không nhấn → nguyên âm nén thành <em>/ə/</em>",
+  "<em>can</em> /kən/ nhẹ ≠ <em>can't</em> /kɑːnt/ dài và rõ",
+  "Ở <em>cuối câu</em> hoặc khi <em>được nhấn</em> thì về dạng mạnh"
+ ],
+ "tags": [
+  {
+   "text": "Mức độ: then chốt cho nghe",
+   "hot": true
+  },
+  {
+   "text": "can ≠ can't — hiểu ngược nghĩa"
+  },
+  {
+   "text": "Nghe nhịp, đừng nghe từng từ"
+  },
+  {
+   "text": "Ảnh hưởng: rất lớn"
+  }
+ ],
+ "frames": [
+  12,
+  21,
+  26,
+  63,
+  91
+ ],
+ "sections": [
+  {
+   "title": "Quy tắc cốt lõi",
+   "blocks": [
+    {
+     "t": "p",
+     "html": "[Kỹ năng 05] đã nói: trong câu, chỉ <b>từ mang nghĩa</b> được nhấn. Bài này nói chuyện xảy ra với phần còn lại — <b>từ chức năng</b> (giới từ, mạo từ, trợ động từ, liên từ, đại từ) bị <b>nén lại</b> đến mức gần như biến mất."
+    },
+    {
+     "t": "callout",
+     "html": "<b>BẪY SỐ MỘT — <i>can</i> và <i>can't</i>:</b><br>• <b>can</b> không được nhấn → <b>/kən/</b>, rất nhẹ, gần như chỉ còn /kn/<br>• <b>can't</b> <b>luôn</b> được nhấn → <b>/kɑːnt/</b>, dài và rõ<br><i>I can go</i> → “ai kn go” · <i>I can't go</i> → “ai <b>KAHNT</b> go”<br>Nghe nhầm hai từ này là <b>hiểu ngược hẳn</b> nghĩa câu. Mẹo: đừng cố nghe chữ <i>t</i> ở cuối (nó rất nhẹ) — hãy nghe xem từ đó <b>dài hay ngắn</b>. Dài và nổi là <i>can't</i>."
+    },
+    {
+     "t": "callout",
+     "html": "<b>BẪY SỐ HAI — dạng yếu chỉ dùng khi KHÔNG nhấn:</b><br>Cùng một từ có <b>hai bộ mặt</b>:<br>• <i>I'm looking <b>for</b> a job</i> → /fə/ — nén<br>• <i>What are you looking <b>FOR</b>?</i> → /fɔː/ — ở <b>cuối câu</b> nên về dạng mạnh<br>• <i>I said <b>TO</b> him, not <b>FROM</b> him</i> → nhấn để phân biệt, dạng mạnh<br>Người Việt học dạng mạnh trong từ điển rồi tưởng đó là cách duy nhất — nên nghe dạng yếu thì không nhận ra."
+    },
+    {
+     "t": "h3",
+     "text": "Bốn nhóm có dạng yếu"
+    },
+    {
+     "t": "table",
+     "head": [
+      "Nhóm",
+      "Ví dụ",
+      "Dạng yếu"
+     ],
+     "rows": [
+      [
+       "Giới từ",
+       "to · of · for · at · from",
+       "/tə/ /əv/ /fə/ /ət/ /frəm/"
+      ],
+      [
+       "Mạo từ & liên từ",
+       "a · the · and · but · or",
+       "/ə/ /ðə/ /ən/ /bət/ /ə/"
+      ],
+      [
+       "Trợ động từ",
+       "can · was · were · have · do",
+       "/kən/ /wəz/ /wə/ /həv/ /də/"
+      ],
+      [
+       "Đại từ",
+       "him · her · them · your",
+       "/ɪm/ /ə/ /ðəm/ /jə/"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "html": "Nhóm cuối đã gặp ở [Kỹ năng 08] — <i>him</i> và <i>her</i> vừa <b>rụng /h/</b> vừa <b>nén nguyên âm</b>, nên <i>tell her</i> nghe chỉ còn “tellə”."
+    }
+   ]
+  },
+  {
+   "title": "Bảng chia đầy đủ",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "Từ",
+      "Dạng mạnh",
+      "Dạng yếu — nghe trong câu"
+     ],
+     "rows": [
+      [
+       "<code>to</code>",
+       "/tuː/",
+       "/tə/ — <i>go to work</i> → “go tə work”"
+      ],
+      [
+       "<code>of</code>",
+       "/ɒv/",
+       "/əv/ — <i>a lot of</i> → “a lo-təv”"
+      ],
+      [
+       "<code>for</code>",
+       "/fɔː/",
+       "/fə/ — <i>for me</i> → “fə me”"
+      ],
+      [
+       "<code>at</code>",
+       "/æt/",
+       "/ət/ — <i>at six</i> → “ət six”"
+      ],
+      [
+       "<code>from</code>",
+       "/frɒm/",
+       "/frəm/ — <i>from here</i> → “frəm here”"
+      ],
+      [
+       "<code>and</code>",
+       "/ænd/",
+       "/ən/ — <i>fish and chips</i> → “fish ən chips”"
+      ],
+      [
+       "<code>a</code> / <code>the</code>",
+       "/eɪ/ /ðiː/",
+       "/ə/ /ðə/ — <i>a book</i> → “ə book”"
+      ],
+      [
+       "<code>can</code>",
+       "/kæn/",
+       "/kən/ — <i>I can go</i> → “ai kn go”"
+      ],
+      [
+       "<code>can't</code>",
+       "/kɑːnt/",
+       "<b>không có</b> dạng yếu — luôn nhấn"
+      ],
+      [
+       "<code>was</code> / <code>were</code>",
+       "/wɒz/ /wɜː/",
+       "/wəz/ /wə/ — <i>I was there</i> → “ai wəz there”"
+      ],
+      [
+       "<code>have</code> / <code>has</code>",
+       "/hæv/ /hæz/",
+       "/həv/ /həz/ — <i>should have</i> → “shouldə”"
+      ],
+      [
+       "<code>him</code> / <code>her</code> / <code>them</code>",
+       "/hɪm/ /hɜː/ /ðem/",
+       "/ɪm/ /ə/ /ðəm/ — <i>tell her</i> → “tellə”"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "html": "<b>Ba chỗ KHÔNG dùng dạng yếu:</b><br>• <b>Cuối câu</b>: <i>Where are you from?</i> → /frɒm/ đầy đủ<br>• <b>Khi nhấn để phân biệt</b>: <i>It's for me, not <b>FROM</b> me</i><br>• <b>Dạng phủ định</b>: <i>can't, isn't, don't</i> — luôn mạnh, vì chúng mang thông tin quyết định<br>Đó cũng là lý do <i>can't</i> dễ nghe hơn <i>can</i> rất nhiều."
+    },
+    {
+     "t": "h3",
+     "text": "Mười hai ví dụ song ngữ"
+    },
+    {
+     "t": "ex",
+     "items": [
+      {
+       "en": "I can help you.",
+       "vi": "Tôi giúp bạn được.",
+       "note": "BẪY SỐ MỘT: “ai kn help yu” — <b>can</b> nén gần như biến mất. Xem [Khung 12]."
+      },
+      {
+       "en": "I can't help you.",
+       "vi": "Tôi không giúp được.",
+       "note": "“ai KAHNT help yu” — dài và nổi hẳn lên. Nghe độ DÀI, đừng tìm chữ /t/."
+      },
+      {
+       "en": "I go to work by bus.",
+       "vi": "Tôi đi làm bằng xe buýt.",
+       "note": "“go tə work” — <i>to</i> nén thành /tə/."
+      },
+      {
+       "en": "There were a lot of people.",
+       "vi": "Đông người lắm.",
+       "note": "“a lo-təv people” — <i>of</i> nén rồi nối. Xem [Kỹ năng 07]."
+      },
+      {
+       "en": "It's too hard for me.",
+       "vi": "Với tôi khó quá.",
+       "note": "“fə me” — nén. Xem [Ngữ pháp 52]."
+      },
+      {
+       "en": "What are you looking for?",
+       "vi": "Bạn đang tìm gì vậy?",
+       "note": "BẪY SỐ HAI: <i>for</i> ở CUỐI câu nên về dạng mạnh /fɔː/."
+      },
+      {
+       "en": "How do I get to the station?",
+       "vi": "Làm sao tới nhà ga ạ?",
+       "note": "“how də ai ge-tə thə station” — ba dạng yếu liền. Xem [Khung 63]."
+      },
+      {
+       "en": "I'm going to call her.",
+       "vi": "Tôi định gọi cô ấy.",
+       "note": "“ai-m gonna call-ə” — <i>her</i> mất cả /h/ lẫn nguyên âm. Xem [Khung 91]."
+      },
+      {
+       "en": "You don't have to come.",
+       "vi": "Bạn không cần phải đến.",
+       "note": "“don't hæf tə come” — <i>don't</i> mạnh, <i>to</i> yếu. Xem [Khung 26]."
+      },
+      {
+       "en": "Can I ask you something?",
+       "vi": "Tôi hỏi bạn chút được không?",
+       "note": "“kn ai ask yu” — <i>Can</i> đầu câu vẫn nén. Xem [Khung 21]."
+      },
+      {
+       "en": "I was there last night.",
+       "vi": "Tối qua tôi có ở đó.",
+       "note": "“ai wəz there” — <i>was</i> nén thành /wəz/."
+      },
+      {
+       "en": "Fish and chips, please.",
+       "vi": "Cho tôi cá và khoai chiên.",
+       "note": "“fish ən chips” — <i>and</i> nén chỉ còn /ən/."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Khi nào cần để ý nhất",
+   "blocks": [
+    {
+     "t": "cards",
+     "items": [
+      {
+       "icon": "⚠️",
+       "title": "Nghe can hay can't",
+       "text": "Nhầm là hiểu ngược nghĩa. Nghe độ DÀI."
+      },
+      {
+       "icon": "🧭",
+       "title": "Nghe chỉ đường",
+       "text": "<i>get to, turn at</i> — đầy giới từ yếu. Xem [Khung 63]."
+      },
+      {
+       "icon": "📅",
+       "title": "Nghe lịch hẹn",
+       "text": "<i>at six, on Monday</i> — mốc thì rõ, giới từ thì nhẹ."
+      },
+      {
+       "icon": "🎧",
+       "title": "Nghe tin tức, podcast",
+       "text": "Nói nhanh thì dạng yếu càng nén."
+      },
+      {
+       "icon": "🗣",
+       "title": "Muốn nói tự nhiên hơn",
+       "text": "Nén từ chức năng là cách nhanh nhất có nhịp."
+      },
+      {
+       "icon": "🚫",
+       "title": "Đừng làm…",
+       "text": "Đừng đọc rõ mọi từ — câu sẽ mất nhịp hoàn toàn."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Dấu hiệu nhận biết & từ hay gặp",
+   "blocks": [
+    {
+     "t": "p",
+     "html": "Chọn một từ ở cột trái để nghe dạng yếu của nó trong câu thật."
+    },
+    {
+     "t": "words",
+     "groups": [
+      {
+       "title": "Giới từ, mạo từ, liên từ",
+       "items": [
+        {
+         "w": "to → /tə/",
+         "vi": "đến, để",
+         "ex": "I go to work by bus.",
+         "exvi": "Tôi đi làm bằng buýt.",
+         "note": "Nén thành /tə/, nối luôn với từ trước."
+        },
+        {
+         "w": "of → /əv/",
+         "vi": "của",
+         "ex": "There were a lot of people.",
+         "exvi": "Đông người lắm.",
+         "note": "“a lo-təv” — vừa nén vừa nối. Xem [Kỹ năng 07]."
+        },
+        {
+         "w": "for → /fə/",
+         "vi": "cho, vì",
+         "ex": "It's too hard for me.",
+         "exvi": "Với tôi khó quá."
+        },
+        {
+         "w": "at → /ət/",
+         "vi": "ở, lúc",
+         "ex": "I'll see you at six.",
+         "exvi": "Sáu giờ gặp nhé."
+        },
+        {
+         "w": "from → /frəm/",
+         "vi": "từ",
+         "ex": "It's ten minutes from here.",
+         "exvi": "Từ đây đi mười phút."
+        },
+        {
+         "w": "and → /ən/",
+         "vi": "và",
+         "ex": "Fish and chips, please.",
+         "exvi": "Cho tôi cá và khoai chiên.",
+         "note": "Nén mạnh nhất bảng — gần như chỉ còn /n/."
+        },
+        {
+         "w": "but → /bət/",
+         "vi": "nhưng",
+         "ex": "It's good but expensive.",
+         "exvi": "Ngon nhưng đắt."
+        },
+        {
+         "w": "a → /ə/",
+         "vi": "một",
+         "ex": "Can I get a coffee?",
+         "exvi": "Cho tôi ly cà phê? Xem [Khung 19]."
+        },
+        {
+         "w": "the → /ðə/",
+         "vi": "(mạo từ xác định)",
+         "ex": "Where's the station?",
+         "exvi": "Nhà ga ở đâu?",
+         "note": "Trước nguyên âm thì thành /ði/: <i>the end</i>."
+        },
+        {
+         "w": "some → /səm/",
+         "vi": "một ít",
+         "ex": "I need some help.",
+         "exvi": "Tôi cần chút giúp đỡ."
+        },
+        {
+         "w": "than → /ðən/",
+         "vi": "hơn",
+         "ex": "It's cheaper than that.",
+         "exvi": "Rẻ hơn cái kia. Xem [Ngữ pháp 37]."
+        },
+        {
+         "w": "as → /əz/",
+         "vi": "như, với tư cách",
+         "ex": "He works as a teacher.",
+         "exvi": "Anh ấy làm giáo viên. Xem [Khung 75]."
+        }
+       ]
+      },
+      {
+       "title": "Trợ động từ & đại từ",
+       "items": [
+        {
+         "w": "can → /kən/",
+         "vi": "có thể",
+         "ex": "I can help you.",
+         "exvi": "Tôi giúp bạn được.",
+         "note": "BẪY SỐ MỘT: nén gần như biến mất — “ai kn help”. Xem [Khung 12]."
+        },
+        {
+         "w": "can't → /kɑːnt/",
+         "vi": "không thể",
+         "ex": "I can't help you.",
+         "exvi": "Tôi không giúp được.",
+         "note": "KHÔNG có dạng yếu — dài và nổi. Nghe độ DÀI, đừng tìm /t/."
+        },
+        {
+         "w": "was → /wəz/",
+         "vi": "đã là, đã ở",
+         "ex": "I was there last night.",
+         "exvi": "Tối qua tôi có ở đó."
+        },
+        {
+         "w": "were → /wə/",
+         "vi": "đã là (số nhiều)",
+         "ex": "There were a lot of people.",
+         "exvi": "Đông người lắm."
+        },
+        {
+         "w": "have → /həv/ → /əv/",
+         "vi": "đã (trợ động từ)",
+         "ex": "I should have called.",
+         "exvi": "Lẽ ra tôi phải gọi.",
+         "note": "Nén tới mức thành “shouldə” — gốc của lỗi viết <i>should of</i> ✗."
+        },
+        {
+         "w": "do → /də/",
+         "vi": "(trợ động từ)",
+         "ex": "How do I get there?",
+         "exvi": "Làm sao tới đó? Xem [Khung 63]."
+        },
+        {
+         "w": "does → /dəz/",
+         "vi": "(trợ động từ ngôi 3)",
+         "ex": "What time does it start?",
+         "exvi": "Mấy giờ bắt đầu?"
+        },
+        {
+         "w": "are → /ə/",
+         "vi": "thì, là",
+         "ex": "What are you doing?",
+         "exvi": "Bạn đang làm gì?",
+         "note": "Nén tới mức gần như mất hẳn: “wha-tə yu duing”."
+        },
+        {
+         "w": "him → /ɪm/",
+         "vi": "anh ấy (tân ngữ)",
+         "ex": "Tell him I called.",
+         "exvi": "Bảo anh ấy là tôi đã gọi.",
+         "note": "Mất /h/ rồi nén. Xem [Kỹ năng 08]."
+        },
+        {
+         "w": "her → /ə/",
+         "vi": "cô ấy (tân ngữ)",
+         "ex": "I'm going to call her.",
+         "exvi": "Tôi định gọi cô ấy.",
+         "note": "Nén mạnh nhất trong nhóm đại từ — chỉ còn /ə/. Xem [Khung 91]."
+        },
+        {
+         "w": "them → /ðəm/ → /əm/",
+         "vi": "họ (tân ngữ)",
+         "ex": "I told them already.",
+         "exvi": "Tôi báo họ rồi."
+        },
+        {
+         "w": "your → /jə/",
+         "vi": "của bạn",
+         "ex": "What's your name?",
+         "exvi": "Bạn tên gì? Xem [Khung 71]."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "BẪY người Việt hay mắc",
+   "blocks": [
+    {
+     "t": "pairs",
+     "items": [
+      {
+       "wrong": "Nghe <b>“ai kn go”</b> rồi hiểu là <i>I can't go</i>",
+       "right": "Đó là <b>I can go</b> — <i>can</i> nén nên rất nhẹ",
+       "why": "BẪY SỐ MỘT: nhẹ và ngắn là <b>can</b>; dài và nổi mới là <b>can't</b>."
+      },
+      {
+       "wrong": "Cố nghe chữ <b>/t/</b> cuối để nhận ra <i>can't</i>",
+       "right": "Nghe <b>độ dài</b> và <b>độ nổi</b> của từ",
+       "why": "/t/ cuối rất nhẹ, nhiều khi rụng hẳn. Nhưng <i>can't</i> thì luôn dài và được nhấn."
+      },
+      {
+       "wrong": "Nói <b>“ai KAN help yu”</b> nhấn <i>can</i>",
+       "right": "<b>“ai kn HELP yu”</b>",
+       "why": "Nhấn <i>can</i> làm người nghe tưởng bạn đang nhấn mạnh hoặc nói <i>can't</i>."
+      },
+      {
+       "wrong": "Nghe <b>“a lo-təv”</b> rồi bó tay",
+       "right": "<b>a lot of</b>",
+       "why": "Ba từ rất quen, chỉ là <i>of</i> nén thành /əv/ rồi nối."
+      },
+      {
+       "wrong": "Đọc rõ <b>“go TU work”</b>",
+       "right": "<b>“go tə work”</b>",
+       "why": "<i>to</i> ở giữa câu luôn nén. Đọc rõ làm câu mất nhịp."
+      },
+      {
+       "wrong": "Nghe <b>“shouldə”</b> rồi viết <i>should of</i> ✗",
+       "right": "<b>should have</b>",
+       "why": "BẪY SỐ HAI đi cùng: nghe dạng yếu rồi viết theo âm. Xem [Ngữ pháp 33]."
+      },
+      {
+       "wrong": "Đọc <b>“Where are you FROM”</b> với /frəm/ nén",
+       "right": "Cuối câu thì dùng <b>/frɒm/</b> đầy đủ",
+       "why": "Lỗi ngược: ở cuối câu phải về dạng mạnh."
+      },
+      {
+       "wrong": "Nghe <b>“tellə”</b> rồi tưởng thiếu từ",
+       "right": "<b>tell her</b> — mất /h/ rồi nén nguyên âm",
+       "why": "<i>her</i> bị nén mạnh nhất trong nhóm đại từ, chỉ còn /ə/."
+      },
+      {
+       "wrong": "Nói <b>“fish AND chips”</b> rõ cả ba từ",
+       "right": "<b>“fish ən chips”</b>",
+       "why": "<i>and</i> là từ nén mạnh nhất — gần như chỉ còn /n/."
+      },
+      {
+       "wrong": "Đọc đều cả câu cho <b>“dễ nghe”</b>",
+       "right": "Nhấn từ mang nghĩa, <b>nén</b> phần còn lại",
+       "why": "Đều đều mới khó nghe — người bản ngữ bắt nhịp trước, bắt từ sau. Xem [Kỹ năng 05]."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Phân biệt với lỗi gần giống",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "Cặp dễ nhầm",
+      "Khác nhau",
+      "Ví dụ"
+     ],
+     "rows": [
+      [
+       "<code>can</code> / <code>can't</code>",
+       "Nhẹ, ngắn / dài, nổi",
+       "“ai kn go” ≠ “ai KAHNT go”"
+      ],
+      [
+       "Dạng yếu / dạng mạnh",
+       "Giữa câu / cuối câu",
+       "“fə me” ≠ “looking FOR?”"
+      ],
+      [
+       "Dạng yếu / nuốt âm",
+       "Nguyên âm nén / âm mất hẳn",
+       "/fə/ ≠ “nex week”"
+      ],
+      [
+       "Dạng yếu / biến âm",
+       "Nén lại / thành âm mới",
+       "/tə/ ≠ “didja”"
+      ],
+      [
+       "Phủ định / khẳng định",
+       "Luôn mạnh / có dạng yếu",
+       "don't, isn't luôn nhấn"
+      ],
+      [
+       "<code>have</code> trợ động từ / động từ chính",
+       "Nén / không nén",
+       "should have ≠ I HAVE a car"
+      ],
+      [
+       "<code>the</code> trước phụ âm / nguyên âm",
+       "/ðə/ / /ði/",
+       "the book ≠ the end"
+      ]
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "Sơ đồ chọn: từ này nén hay không?"
+    },
+    {
+     "t": "tree",
+     "q": "Bạn gặp một từ chức năng trong câu — đọc mạnh hay nén?",
+     "nodes": [
+      {
+       "if": "Nó ở CUỐI câu",
+       "then": "Dạng mạnh",
+       "ex": "What are you looking for? → /fɔː/"
+      },
+      {
+       "if": "Bạn muốn nhấn để phân biệt",
+       "then": "Dạng mạnh",
+       "ex": "It's FOR me, not FROM me"
+      },
+      {
+       "if": "Nó là dạng phủ định",
+       "then": "Luôn mạnh",
+       "ex": "can't · don't · isn't"
+      },
+      {
+       "if": "Nó là động từ CHÍNH, không phải trợ động từ",
+       "then": "Dạng mạnh",
+       "ex": "I HAVE a car ≠ should have"
+      },
+      {
+       "if": "Còn lại — nằm giữa câu, không nhấn",
+       "then": "Nén thành /ə/",
+       "ex": "go tə work · fish ən chips"
+      },
+      {
+       "if": "Đang NGHE và không ra từ",
+       "then": "Thử giãn /ə/ ra thành to/of/for/and",
+       "ex": "“a lo-təv” → a lot of"
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "Thang độ nén của cùng một câu"
+    },
+    {
+     "t": "scale",
+     "items": [
+      {
+       "en": "“I · CAN · HELP · YOU” — đều, rõ hết",
+       "vi": "Cứng nhất, lại khó nghe"
+      },
+      {
+       "en": "“I can HELP you”",
+       "vi": "Có nhấn nhưng can vẫn rõ"
+      },
+      {
+       "en": "“ai kən HELP yu”",
+       "vi": "Bắt đầu nén"
+      },
+      {
+       "en": "“ai kn HELP yu”",
+       "vi": "Tự nhiên"
+      },
+      {
+       "en": "“ai kn HELP ya”",
+       "vi": "Nhanh nhất — nén cả you"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Kỹ năng này dùng ở đâu",
+   "blocks": [
+    {
+     "t": "p",
+     "html": "Dạng yếu có trong mọi câu dài. Nguy hiểm nhất là ở những khung câu có <i>can</i>."
+    },
+    {
+     "t": "link",
+     "items": [
+      {
+       "id": 12,
+       "why": "Can you + V…? — nghe nhầm can / can't ở đây là hiểu ngược câu trả lời."
+      },
+      {
+       "id": 21,
+       "why": "Can I + V? — “kn ai”, can đầu câu vẫn bị nén."
+      },
+      {
+       "id": 26,
+       "why": "You don't have to + V — don't mạnh, have to và to đều yếu."
+      },
+      {
+       "id": 63,
+       "why": "How do I get to + nơi chốn? — “how də ai ge-tə”, ba dạng yếu liền nhau."
+      },
+      {
+       "id": 91,
+       "why": "I'm going to + V — “gonna”, going to nén tới mức thành một từ."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Luyện tập",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Nghe người thật nói"
+    },
+    {
+     "t": "listen",
+     "intro": "Dạng yếu là chỗ <b>nhịp câu tiếng Anh khác hẳn tiếng Việt</b>. TTS đọc đều mọi từ; người thật làm nhẹ hẳn các từ chức năng và dồn hơi vào từ quan trọng. Nghe kỹ xem những từ dưới đây <b>nhỏ đến mức nào</b> trong câu nói thật.",
+     "items": [
+      {
+       "en": "want to go",
+       "vi": "muốn đi",
+       "focus": "<i>to</i> thành /tə/ — nghe như “wanna”",
+       "yg": "want to go",
+       "src": "youglish"
+      },
+      {
+       "en": "a cup of tea",
+       "vi": "một tách trà",
+       "focus": "<i>of</i> chỉ còn /əv/ — “cuppa”",
+       "yg": "a cup of tea",
+       "src": "youglish"
+      },
+      {
+       "en": "can you help",
+       "vi": "giúp được không",
+       "focus": "<i>can</i> thành /kən/, không phải /kæn/",
+       "yg": "can you help",
+       "src": "youglish"
+      },
+      {
+       "en": "he was late",
+       "vi": "anh ấy đến muộn",
+       "focus": "<i>was</i> thành /wəz/, gần như biến mất",
+       "yg": "he was late",
+       "src": "youglish"
+      },
+      {
+       "en": "some of them",
+       "vi": "một số trong số họ",
+       "focus": "ba từ nhẹ liền nhau, chỉ còn một mảng âm",
+       "yg": "some of them",
+       "src": "youglish"
+      },
+      {
+       "en": "for a moment",
+       "vi": "một lát",
+       "focus": "<i>for</i> và <i>a</i> đều thành /ə/",
+       "yg": "for a moment",
+       "src": "youglish"
+      },
+      {
+       "en": "at the station",
+       "vi": "ở nhà ga",
+       "focus": "<i>at</i> và <i>the</i> bị nén hết cỡ",
+       "yg": "at the station",
+       "src": "youglish"
+      },
+      {
+       "en": "I have been there",
+       "vi": "tôi từng đến đó",
+       "focus": "<i>have been</i> thành /əv bɪn/ — “I've bin there”",
+       "yg": "I have been there",
+       "src": "youglish"
+      }
+     ],
+     "more": [
+      {
+       "label": "BBC Learning English — mục phát âm",
+       "url": "https://www.bbc.co.uk/learningenglish"
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "A. Từ này nén thành gì?"
+    },
+    {
+     "t": "quiz",
+     "items": [
+      {
+       "vi": "đến, để",
+       "blank": "to  →  dạng yếu là __________",
+       "a": "/tə/"
+      },
+      {
+       "vi": "của",
+       "blank": "of  →  dạng yếu là __________",
+       "a": "/əv/"
+      },
+      {
+       "vi": "và",
+       "blank": "and  →  dạng yếu là __________",
+       "a": "/ən/ — nén mạnh nhất"
+      },
+      {
+       "vi": "có thể",
+       "blank": "can  →  dạng yếu là __________",
+       "a": "/kən/ hoặc /kn/"
+      },
+      {
+       "vi": "không thể",
+       "blank": "can't  →  dạng yếu là __________",
+       "a": "KHÔNG có — luôn mạnh /kɑːnt/"
+      },
+      {
+       "vi": "đã là",
+       "blank": "was  →  dạng yếu là __________",
+       "a": "/wəz/"
+      },
+      {
+       "vi": "cô ấy (tân ngữ)",
+       "blank": "her  →  dạng yếu là __________",
+       "a": "/ə/ — mất cả /h/"
+      },
+      {
+       "vi": "đã (trợ động từ)",
+       "blank": "have  →  dạng yếu là __________",
+       "a": "/həv/ hoặc /əv/"
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "B. Mạnh hay yếu?"
+    },
+    {
+     "t": "quiz",
+     "items": [
+      {
+       "vi": "Với tôi khó quá.",
+       "blank": "It's too hard for me.  →  for là (a) mạnh  (b) yếu",
+       "a": "(b) — giữa câu"
+      },
+      {
+       "vi": "Bạn đang tìm gì vậy?",
+       "blank": "What are you looking for?  →  for là (a) mạnh  (b) yếu",
+       "a": "(a) — cuối câu"
+      },
+      {
+       "vi": "Tôi giúp bạn được.",
+       "blank": "I can help you.  →  can là (a) mạnh  (b) yếu",
+       "a": "(b)"
+      },
+      {
+       "vi": "Tôi không giúp được.",
+       "blank": "I can't help you.  →  can't là (a) mạnh  (b) yếu",
+       "a": "(a) — phủ định luôn mạnh"
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "C. Đọc to, nén đúng chỗ"
+    },
+    {
+     "t": "quiz",
+     "items": [
+      {
+       "vi": "1. Tôi giúp bạn được.",
+       "a": "I can help you.  →  “ai kn HELP yu”"
+      },
+      {
+       "vi": "2. Tôi không giúp được.",
+       "a": "I can't help you.  →  “ai KAHNT help yu”"
+      },
+      {
+       "vi": "3. Làm sao tới nhà ga ạ?",
+       "a": "How do I get to the station?  →  “how də ai ge-tə thə STA-tion?”"
+      },
+      {
+       "vi": "4. Đông người lắm.",
+       "a": "There were a lot of people.  →  “there wə a lo-təv PEO-ple”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Mẹo nhớ",
+   "blocks": [
+    {
+     "t": "list",
+     "items": [
+      "<b>Luật sống còn:</b> <i>can</i> nhẹ và ngắn, <i>can't</i> <b>dài và nổi</b>. Nghe <b>độ dài</b>, đừng cố tìm chữ /t/ ở cuối.",
+      "<b>Phủ định luôn mạnh.</b> <i>can't, don't, isn't, won't</i> — vì chúng mang thông tin quyết định nghĩa câu.",
+      "<b>Từ chức năng có hai bộ mặt.</b> Từ điển chỉ cho bạn dạng mạnh — dạng yếu mới là cái bạn nghe thấy 90% thời gian.",
+      "<b>Ba chỗ về dạng mạnh:</b> cuối câu, khi nhấn để phân biệt, và khi là động từ chính chứ không phải trợ động từ.",
+      "<b>Mẹo gỡ khi nghe:</b> gặp một âm /ə/ mơ hồ, thử giãn nó ra thành <i>to, of, for, and, a, was</i> xem cái nào hợp nghĩa.",
+      "<b>Bài tập 2 phút:</b> đọc năm câu có <i>can</i> và năm câu có <i>can't</i>, ghi âm rồi nghe lại xem bạn có phân biệt được không."
+     ]
+    }
+   ]
+  }
+ ]
+}

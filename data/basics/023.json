@@ -1,0 +1,454 @@
+{
+  "id": 23,
+  "title": "Của ai — my, your và dấu 's",
+  "teaches": [
+    "my",
+    "your",
+    "his",
+    "her",
+    "its",
+    "our",
+    "their",
+    "is",
+    "are",
+    "books",
+    "friends",
+    "parents",
+    "Nam",
+    "Lan",
+    "teachers",
+    "children",
+    "brother's",
+    "sister's",
+    "parents'",
+    "whose",
+    "mine"
+  ],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Xong bài này bạn nói được cái gì <b>của ai</b>: <i>my book</i> (sách của tôi) · <i>Nam's book</i> (sách của Nam)."
+        },
+        {
+          "t": "callout",
+          "html": "<b>Khác biệt lớn với tiếng Việt: thứ tự ngược hẳn.</b><br><br>Tiếng Việt: <i>sách <b>của tôi</b></i> — người sở hữu đứng <b>SAU</b>.<br>Tiếng Anh: <i><b>my</b> book</i> — người sở hữu đứng <b>TRƯỚC</b>.<br><br>Đây là chỗ người Việt dịch thẳng rồi sai: <i>book my</i> ✗."
+        }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Bài 06 — bảy đại từ. Mỗi đại từ có thêm một dạng <b>sở hữu</b>, bài này học dạng đó."
+        },
+        {
+          "t": "p",
+          "html": "Bài 10 — số ít/số nhiều, vì dấu <b>'s</b> đặt khác nhau tuỳ danh từ số ít hay số nhiều."
+        },
+        {
+          "t": "link",
+          "items": [
+            {
+              "id": 6,
+              "label": "Bài 06 — bảy đại từ"
+            },
+            {
+              "id": 10,
+              "label": "Bài 10 — số ít và số nhiều"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        {
+          "t": "table",
+          "head": [
+            "Luật",
+            "Nghĩa là gì",
+            "Ví dụ"
+          ],
+          "rows": [
+            [
+              "<b>1.</b> Người sở hữu đứng <b>TRƯỚC</b> đồ vật",
+              "Ngược hẳn tiếng Việt",
+              "<i><b>my</b> book</i>"
+            ],
+            [
+              "<b>2.</b> Tên người thì thêm <b>'s</b>",
+              "Dấu nháy rồi chữ s",
+              "<i>Nam<b>'s</b> book</i>"
+            ],
+            [
+              "<b>3.</b> Danh từ đã có <b>-s</b> thì chỉ thêm dấu <b>'</b>",
+              "Không viết hai chữ s liền",
+              "<i>my parents<b>'</b> house</i>"
+            ]
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Bảy dạng sở hữu"
+        },
+        {
+          "t": "table",
+          "head": [
+            "Đại từ",
+            "Dạng sở hữu",
+            "Ví dụ"
+          ],
+          "rows": [
+            [
+              "<b>I</b>",
+              "<b>my</b>",
+              "<i>my book</i> — sách của tôi"
+            ],
+            [
+              "<b>you</b>",
+              "<b>your</b>",
+              "<i>your name</i> — tên của bạn"
+            ],
+            [
+              "<b>he</b>",
+              "<b>his</b>",
+              "<i>his car</i> — xe của anh ấy"
+            ],
+            [
+              "<b>she</b>",
+              "<b>her</b>",
+              "<i>her bag</i> — túi của cô ấy"
+            ],
+            [
+              "<b>it</b>",
+              "<b>its</b>",
+              "<i>its name</i> — tên của nó"
+            ],
+            [
+              "<b>we</b>",
+              "<b>our</b>",
+              "<i>our house</i> — nhà của chúng tôi"
+            ],
+            [
+              "<b>they</b>",
+              "<b>their</b>",
+              "<i>their children</i> — con của họ"
+            ]
+          ]
+        },
+        {
+          "t": "callout",
+          "html": "<b>Điều dễ chịu: dạng sở hữu KHÔNG đổi theo số lượng đồ vật.</b><br><br><i><b>my</b> book</i> (một quyển) · <i><b>my</b> books</i> (nhiều quyển) — chữ <b>my</b> y nguyên.<br><br>Chỉ danh từ thêm <b>-s</b>, còn <i>my · your · his · her</i> thì không bao giờ đổi."
+        }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        {
+          "t": "h3",
+          "text": "my · your — của tôi, của bạn"
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "This is my book.",
+              "vi": "Đây là sách của tôi.",
+              "note": "<b>my</b> đứng trước <i>book</i>."
+            },
+            {
+              "en": "My name is Nam.",
+              "vi": "Tôi tên Nam.",
+              "note": "Câu giới thiệu quen thuộc."
+            },
+            {
+              "en": "What is your name?",
+              "vi": "Bạn tên gì?",
+              "note": "<b>your</b> cho cả một người lẫn nhiều người."
+            },
+            {
+              "en": "My parents live in Hue.",
+              "vi": "Bố mẹ tôi sống ở Huế.",
+              "note": "Danh từ số nhiều nhưng <b>my</b> không đổi."
+            },
+            {
+              "en": "My books are new.",
+              "vi": "Sách của tôi mới.",
+              "note": "Chỉ <i>books</i> thêm <b>-s</b>, <b>my</b> giữ nguyên."
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "his · her — của anh ấy, của cô ấy"
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "His car is big.",
+              "vi": "Xe của anh ấy to.",
+              "note": "<b>his</b> cho nam."
+            },
+            {
+              "en": "Her bag is black.",
+              "vi": "Túi của cô ấy màu đen.",
+              "note": "<b>her</b> cho nữ."
+            },
+            {
+              "en": "He is her brother.",
+              "vi": "Anh ấy là anh của cô ấy.",
+              "note": "Hai dạng khác nhau trong cùng câu."
+            },
+            {
+              "en": "She loves her family.",
+              "vi": "Cô ấy yêu gia đình mình.",
+              "note": "<b>her</b> ở đây là sở hữu, không phải tân ngữ."
+            },
+            {
+              "en": "His parents are teachers.",
+              "vi": "Bố mẹ anh ấy là giáo viên.",
+              "note": "<b>his</b> không đổi dù danh từ số nhiều."
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "our · their — của chúng tôi, của họ"
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "Our house is small.",
+              "vi": "Nhà chúng tôi nhỏ.",
+              "note": "<b>our</b> từ <i>we</i>."
+            },
+            {
+              "en": "This is our school.",
+              "vi": "Đây là trường của chúng tôi.",
+              "note": "Cùng luật."
+            },
+            {
+              "en": "Their children are at school.",
+              "vi": "Con họ đang ở trường.",
+              "note": "<b>their</b> từ <i>they</i>."
+            },
+            {
+              "en": "I know their names.",
+              "vi": "Tôi biết tên họ.",
+              "note": "<b>their</b> + danh từ số nhiều."
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Thêm 's vào tên người"
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "This is Nam's book.",
+              "vi": "Đây là sách của Nam.",
+              "note": "Tên người + <b>'s</b> + đồ vật."
+            },
+            {
+              "en": "Lan's bag is new.",
+              "vi": "Túi của Lan mới.",
+              "note": "Cùng luật, đứng đầu câu."
+            },
+            {
+              "en": "My brother's car is black.",
+              "vi": "Xe của anh tôi màu đen.",
+              "note": "Ghép được nhiều tầng: <i>my brother</i> + <b>'s</b>."
+            },
+            {
+              "en": "My sister's name is Lan.",
+              "vi": "Chị tôi tên Lan.",
+              "note": "Cùng kiểu."
+            },
+            {
+              "en": "The teacher's book is on the table.",
+              "vi": "Sách của thầy ở trên bàn.",
+              "note": "Danh từ chung cũng thêm <b>'s</b> được."
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Danh từ số nhiều — chỉ thêm dấu nháy"
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "My parents' house is big.",
+              "vi": "Nhà bố mẹ tôi to.",
+              "note": "<i>parents</i> đã có <b>-s</b> nên chỉ thêm dấu <b>'</b>."
+            },
+            {
+              "en": "The students' books are here.",
+              "vi": "Sách của học sinh ở đây.",
+              "note": "Cùng luật."
+            },
+            {
+              "en": "The children's room is clean.",
+              "vi": "Phòng bọn trẻ sạch.",
+              "note": "<i>children</i> KHÔNG kết thúc bằng <b>-s</b> nên vẫn thêm <b>'s</b> đủ."
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Hỏi của ai"
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "Whose bag is this?",
+              "vi": "Túi này của ai?",
+              "note": "<b>Whose</b> hỏi về chủ sở hữu."
+            },
+            {
+              "en": "Whose book is that? — It's mine.",
+              "vi": "Quyển sách kia của ai? — Của tôi.",
+              "note": "<i>mine</i> dùng khi không có danh từ theo sau."
+            },
+            {
+              "en": "Is this your bag? — No, it's Nam's.",
+              "vi": "Túi này của bạn à? — Không, của Nam.",
+              "note": "<i>Nam's</i> đứng một mình cũng được."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        {
+          "t": "h3",
+          "text": "Phần 1 — chọn dạng sở hữu"
+        },
+        {
+          "t": "quiz",
+          "items": [
+            {
+              "vi": "sách của tôi",
+              "blank": "___ book",
+              "a": "my"
+            },
+            {
+              "vi": "tên của bạn",
+              "blank": "___ name",
+              "a": "your"
+            },
+            {
+              "vi": "xe của anh ấy",
+              "blank": "___ car",
+              "a": "his"
+            },
+            {
+              "vi": "túi của cô ấy",
+              "blank": "___ bag",
+              "a": "her"
+            },
+            {
+              "vi": "nhà của chúng tôi",
+              "blank": "___ house",
+              "a": "our"
+            },
+            {
+              "vi": "con của họ",
+              "blank": "___ children",
+              "a": "their"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Phần 2 — đặt dấu 's"
+        },
+        {
+          "t": "quiz",
+          "items": [
+            {
+              "vi": "sách của Nam",
+              "a": "Nam's book"
+            },
+            {
+              "vi": "xe của anh tôi",
+              "a": "my brother's car"
+            },
+            {
+              "vi": "nhà bố mẹ tôi",
+              "a": "my parents' house — chỉ thêm dấu nháy"
+            },
+            {
+              "vi": "phòng bọn trẻ",
+              "a": "the children's room — <i>children</i> không có -s nên thêm 's đủ"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Phần 3 — hiểu quy tắc"
+        },
+        {
+          "t": "quiz",
+          "items": [
+            {
+              "vi": "Vì sao <i>book my</i> sai?",
+              "a": "Người sở hữu đứng TRƯỚC đồ vật — <i>my book</i>"
+            },
+            {
+              "vi": "Nói ba thứ của bạn bằng tiếng Anh.",
+              "a": "Ví dụ: <i>my phone · my bag · my book</i>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Người sở hữu đứng TRƯỚC.</b> <i>my book</i>, không bao giờ <i>book my</i>. Ngược hẳn tiếng Việt.",
+            "<b>Tên người thì thêm <code>'s</code>.</b> <i>Nam's book</i> · <i>my brother's car</i>.",
+            "<b>Danh từ đã có <code>-s</code> thì chỉ thêm dấu nháy.</b> <i>my parents' house</i> — không viết hai chữ s liền."
+          ]
+        },
+        {
+          "t": "pairs",
+          "items": [
+            {
+              "wrong": "<i>the book my</i>",
+              "right": "<i>my book</i>",
+              "why": "Tiếng Việt nói <i>sách của tôi</i> với người sở hữu ở sau, nên dịch thẳng từng chữ sẽ ra thứ tự ngược. Tiếng Anh luôn đặt người sở hữu lên trước."
+            },
+            {
+              "wrong": "<i>my parents's house</i>",
+              "right": "<i>my parents' house</i>",
+              "why": "<i>parents</i> đã kết thúc bằng <b>-s</b> rồi nên chỉ thêm dấu nháy. Viết hai chữ <b>s</b> liền nhau là lỗi chính tả."
+            },
+            {
+              "wrong": "<i>She is he sister.</i>",
+              "right": "<i>She is his sister.</i>",
+              "why": "Dạng sở hữu khác dạng chủ ngữ. <i>he</i> làm chủ ngữ, <i>his</i> mới là của anh ấy — giống như <i>I</i> và <i>my</i>."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

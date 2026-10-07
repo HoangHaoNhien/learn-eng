@@ -1,0 +1,277 @@
+{
+  "id": 1,
+  "group": "Nhóm 1 · Phát âm — gỡ chặn cả nghe lẫn nói",
+  "title": "Phụ âm cuối — lỗi số một của người Việt",
+  "subtitle": "Tiếng Việt chỉ có sáu phụ âm cuối và đều không bật hơi, nên người Việt tự động nuốt phụ âm cuối tiếng Anh. Hậu quả kép: người nghe không hiểu bạn, và chính bạn cũng không nghe ra họ.",
+  "meaning": "Phát âm trọn vẹn phụ âm ở cuối từ",
+  "rule": [
+    "Mọi phụ âm cuối đều <em>phải phát ra</em>, dù rất nhẹ",
+    "Phụ âm cuối <em>không có nguyên âm theo sau</em> — đừng thêm “ơ”",
+    "Nối sang từ sau nếu từ sau bắt đầu bằng nguyên âm"
+  ],
+  "tags": [
+    { "text": "Mức độ: nền móng", "hot": true },
+    { "text": "like / lie · cat / cap" },
+    { "text": "Chặn cả nghe lẫn nói" },
+    { "text": "Ảnh hưởng: rất lớn" }
+  ],
+  "frames": [71, 72, 74, 75, 80],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Tiếng Việt chỉ cho phép <b>sáu phụ âm cuối</b> — <i>m, n, ng, p, t, c</i> — và ba cái sau đều <b>câm</b>, tức là ngậm miệng lại mà không bật hơi ra. Tiếng Anh thì <b>mọi phụ âm</b> đều đứng cuối được, và đều <b>phải nghe thấy</b>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — nuốt mất phụ âm cuối:</b><br>Bỏ phụ âm cuối là <b>đổi sang một từ khác</b>, không phải chỉ “hơi khó nghe”:<br>• <i>like</i> → <i>lie</i> (thích → nói dối)<br>• <i>cat</i> → <i>ca</i> · <i>cap</i> → <i>ca</i> — hai từ thành một<br>• <i>I worked</i> → <i>I work</i> — mất luôn thì quá khứ<br>• <i>three books</i> → <i>three book</i> — mất luôn số nhiều<br>Đây là lý do nhiều người Việt ngữ pháp tốt mà nói ra người bản ngữ vẫn phải hỏi lại." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — thêm nguyên âm vào sau phụ âm cuối:</b><br><i>book</i> đọc thành “bu-<b>cơ</b>” ✗ · <i>and</i> đọc thành “en-<b>đờ</b>” ✗ · <i>nice</i> đọc thành “nai-<b>xờ</b>” ✗<br>Người Việt sửa lỗi nuốt âm bằng cách <b>thêm một âm “ơ”</b> — thành ra sai kiểu khác, và nghe còn lạ hơn.<br><b>Cách đúng:</b> đặt lưỡi/môi vào đúng vị trí rồi <b>dừng</b>, hoặc bật hơi rất nhẹ. Không có nguyên âm nào theo sau." },
+        { "t": "h3", "text": "Bốn nhóm phụ âm cuối hay rơi nhất" },
+        {
+          "t": "table",
+          "head": ["Nhóm", "Vì sao khó", "Ví dụ"],
+          "rows": [
+            ["<code>k · g</code>", "Tiếng Việt có <i>c</i> cuối nhưng câm hoàn toàn", "book · bag · like"],
+            ["<code>t · d</code>", "Phải bật nhẹ, không ngậm luôn", "what · bad · worked"],
+            ["<code>s · z</code>", "Tiếng Việt không có âm xuýt ở cuối", "books · is · says"],
+            ["<code>l · f · v · ʃ · tʃ</code>", "Tiếng Việt hoàn toàn không có", "feel · life · love · fish · watch"]
+          ]
+        },
+        { "t": "p", "html": "Nhóm cuối là nhóm <b>khó nhất</b> vì tiếng Việt không có âm nào tương tự ở vị trí cuối từ — phải tập riêng từng âm." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Phụ âm cuối", "Cách làm", "Nghe rõ ở từ"],
+          "rows": [
+            ["<code>k</code>", "Chặn cuống lưỡi rồi <b>bật nhẹ</b> hơi ra", "book, like, work, take"],
+            ["<code>g</code>", "Như <code>k</code> nhưng có rung cổ họng", "bag, big, egg"],
+            ["<code>t</code>", "Lưỡi chạm lợi trên rồi bật nhẹ", "what, that, night, cat"],
+            ["<code>d</code>", "Như <code>t</code> nhưng rung cổ họng", "bad, need, word"],
+            ["<code>p</code>", "Mím môi rồi bật nhẹ", "stop, help, cap"],
+            ["<code>b</code>", "Như <code>p</code> nhưng rung cổ họng", "job, club"],
+            ["<code>s</code>", "Hơi xì ra giữa lưỡi và lợi", "books, nice, this"],
+            ["<code>z</code>", "Như <code>s</code> nhưng rung cổ họng", "is, was, says, jobs"],
+            ["<code>l</code>", "Đầu lưỡi chạm lợi, hơi thoát <b>hai bên</b>", "feel, well, school, small"],
+            ["<code>f</code> / <code>v</code>", "Răng trên chạm môi dưới", "life, half / love, five"],
+            ["<code>ʃ</code> / <code>tʃ</code>", "Môi chụm, hơi xì rộng", "fish, wash / watch, much"],
+            ["<code>θ</code> / <code>ð</code>", "Lưỡi thò nhẹ ra giữa hai hàm răng", "month, both / with, smooth"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Mẹo nghe lại chính mình:</b> ghi âm một câu rồi <b>nghe ngược từ cuối lên</b>. Nếu nghe thấy “bu-cơ” hoặc “bu” thay vì “book”, bạn đang mắc đúng một trong hai bẫy trên. Điện thoại nào cũng ghi âm được — làm 2 phút mỗi ngày là đủ." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I like it.", "vi": "Tôi thích cái đó.", "note": "BẪY SỐ MỘT: nuốt <b>k</b> thì thành <i>I lie it</i> — câu khác hẳn. Và <i>like it</i> nối thành “lai-kit”." },
+            { "en": "That's a nice cat.", "vi": "Con mèo đẹp đấy.", "note": "<b>cat</b> mất <i>t</i> thì không khác gì <i>cap</i> (cái mũ)." },
+            { "en": "I worked there last year.", "vi": "Năm ngoái tôi làm ở đó.", "note": "Mất <b>-ed</b> là mất luôn thì quá khứ. Xem [Kỹ năng 03]." },
+            { "en": "I bought three books.", "vi": "Tôi mua ba quyển sách.", "note": "Mất <b>s</b> cuối là mất số nhiều. Xem [Kỹ năng 02]." },
+            { "en": "Could you help me, please?", "vi": "Bạn giúp tôi được không?", "note": "<b>help</b> có hai phụ âm cuối liền nhau — <i>l</i> rồi <i>p</i>. Xem [Kỹ năng 04]." },
+            { "en": "I feel fine, thanks.", "vi": "Tôi ổn, cảm ơn.", "note": "<b>feel</b> — đầu lưỡi chạm lợi, hơi thoát hai bên. Không phải “phiu”." },
+            { "en": "I love this job.", "vi": "Tôi thích công việc này.", "note": "<b>love</b> kết thúc bằng <i>v</i> — răng trên chạm môi dưới, có rung." },
+            { "en": "Nice to meet you.", "vi": "Rất vui được gặp bạn.", "note": "<b>nice</b> kết thúc bằng /s/, không phải “nai-xờ”. Xem [Khung 72]." },
+            { "en": "I live in Hanoi.", "vi": "Tôi sống ở Hà Nội.", "note": "<i>live</i> (/v/) khác hẳn <i>life</i> (/f/). Xem [Khung 74]." },
+            { "en": "Have a good night.", "vi": "Chúc ngủ ngon.", "note": "<b>good night</b> — hai chữ <i>d</i> và <i>n</i> liền nhau, giữ cả hai. Xem [Khung 80]." },
+            { "en": "I work for a small company.", "vi": "Tôi làm cho một công ty nhỏ.", "note": "<b>small</b> kết thúc bằng <i>l</i>. Xem [Khung 75]." },
+            { "en": "Let me check.", "vi": "Để tôi kiểm tra.", "note": "<b>check</b> kết thúc bằng /tʃ/ — môi chụm, hơi xì ra." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào cần để ý nhất",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🔢", "title": "Khi nói số nhiều", "text": "Mất <b>s</b> là người nghe hiểu thành một cái." },
+            { "icon": "⏮", "title": "Khi kể chuyện quá khứ", "text": "Mất <b>-ed</b> là mất luôn thì. Xem [Kỹ năng 03]." },
+            { "icon": "📞", "title": "Khi nói điện thoại", "text": "Không có khẩu hình để đoán — phụ âm cuối là tất cả." },
+            { "icon": "👋", "title": "Khi giới thiệu bản thân", "text": "<i>I work · I live · I like</i> — ba câu đầu ai cũng nói." },
+            { "icon": "🎧", "title": "Khi luyện nghe", "text": "Tai bạn chỉ bắt được âm mà miệng bạn phát ra được." },
+            { "icon": "🚫", "title": "Đừng sửa kiểu…", "text": "Đừng thêm “ơ” vào sau — sai kiểu khác, nghe còn lạ hơn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cặp từ chỉ khác nhau ở phụ âm cuối",
+      "blocks": [
+        { "t": "p", "html": "Chọn một cặp ở cột trái để nghe hai từ khác nhau thế nào. Đây là <b>minimal pair</b> — chỉ khác đúng một âm cuối, nhưng nghĩa khác hẳn." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Mất phụ âm cuối là thành từ khác",
+              "items": [
+                { "w": "like / lie", "vi": "thích / nói dối", "ex": "I like it. ≠ I lie.", "exvi": "Tôi thích nó. ≠ Tôi nói dối.", "note": "Nuốt <b>k</b> là đổi hẳn nghĩa câu." },
+                { "w": "cat / ca", "vi": "con mèo / (vô nghĩa)", "ex": "That's a nice cat.", "exvi": "Con mèo đẹp đấy.", "note": "Bỏ <b>t</b> thì từ không còn tồn tại." },
+                { "w": "work / war", "vi": "làm việc / chiến tranh", "ex": "I work here.", "exvi": "Tôi làm ở đây." },
+                { "w": "take / tay", "vi": "lấy / (vô nghĩa)", "ex": "Take your time.", "exvi": "Cứ từ từ." },
+                { "w": "need / knee", "vi": "cần / đầu gối", "ex": "I need help.", "exvi": "Tôi cần giúp đỡ." },
+                { "w": "made / may", "vi": "đã làm / có thể", "ex": "I made it.", "exvi": "Tôi làm được rồi." },
+                { "w": "find / fine", "vi": "tìm thấy / ổn", "ex": "I'm fine. ≠ I find it.", "exvi": "Tôi ổn. ≠ Tôi thấy nó.", "note": "<i>d</i> cuối là toàn bộ khác biệt." },
+                { "w": "hard / ha", "vi": "khó / (vô nghĩa)", "ex": "It's hard.", "exvi": "Khó đấy." },
+                { "w": "help / hell", "vi": "giúp / địa ngục", "ex": "Can you help me?", "exvi": "Bạn giúp tôi được không?", "note": "Phải nghe được cả <i>l</i> lẫn <i>p</i>." },
+                { "w": "stop / sto", "vi": "dừng / (vô nghĩa)", "ex": "Please stop.", "exvi": "Dừng lại đi." },
+                { "w": "nice / nie", "vi": "đẹp, tốt / (vô nghĩa)", "ex": "Nice to meet you.", "exvi": "Rất vui được gặp bạn. Xem [Khung 72]." },
+                { "w": "months / month", "vi": "nhiều tháng / một tháng", "ex": "I've been here for six months.", "exvi": "Tôi ở đây sáu tháng rồi.", "note": "Ba phụ âm liền /nθs/ — khó nhất bảng. Xem [Kỹ năng 04]." }
+              ]
+            },
+            {
+              "title": "Hai phụ âm cuối dễ lẫn với nhau",
+              "items": [
+                { "w": "cat / cap", "vi": "con mèo / cái mũ", "ex": "Where's my cap?", "exvi": "Mũ của tôi đâu?", "note": "<i>t</i> dùng lưỡi, <i>p</i> dùng môi." },
+                { "w": "back / bat", "vi": "lưng, quay lại / con dơi", "ex": "I'll be back.", "exvi": "Tôi sẽ quay lại." },
+                { "w": "life / live", "vi": "cuộc sống / sống", "ex": "I live in Hanoi.", "exvi": "Tôi sống ở Hà Nội.", "note": "<i>f</i> không rung, <i>v</i> rung cổ họng. Xem [Khung 74]." },
+                { "w": "half / have", "vi": "một nửa / có", "ex": "I have half an hour.", "exvi": "Tôi có nửa tiếng." },
+                { "w": "ice / eyes", "vi": "đá / đôi mắt", "ex": "Close your eyes.", "exvi": "Nhắm mắt lại." },
+                { "w": "price / prize", "vi": "giá / giải thưởng", "ex": "What's the price?", "exvi": "Giá bao nhiêu?", "note": "/s/ không rung, /z/ rung. Xem [Kỹ năng 02]." },
+                { "w": "wish / which", "vi": "ước / cái nào", "ex": "Which one do you want?", "exvi": "Bạn muốn cái nào?", "note": "/ʃ/ kéo dài, /tʃ/ bật ra một phát." },
+                { "w": "cash / catch", "vi": "tiền mặt / bắt", "ex": "I'll pay cash.", "exvi": "Tôi trả tiền mặt." },
+                { "w": "bad / bat", "vi": "tệ / con dơi", "ex": "It's not bad.", "exvi": "Cũng không tệ.", "note": "<i>d</i> rung, <i>t</i> không." },
+                { "w": "send / sent", "vi": "gửi / đã gửi", "ex": "I sent it yesterday.", "exvi": "Hôm qua tôi gửi rồi." },
+                { "w": "feel / fill", "vi": "cảm thấy / đổ đầy", "ex": "How do you feel?", "exvi": "Bạn thấy thế nào?", "note": "Khác ở nguyên âm, nhưng <i>l</i> cuối phải nghe được ở cả hai." },
+                { "w": "small / smaw", "vi": "nhỏ / (vô nghĩa)", "ex": "I work for a small company.", "exvi": "Tôi làm cho công ty nhỏ. Xem [Khung 75]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<i>I like it</i> đọc là <b>“ai lai it”</b>", "right": "<b>“ai lai-kit”</b>", "why": "BẪY SỐ MỘT: nuốt <b>k</b> thì <i>like</i> thành <i>lie</i>. Và <i>k</i> nối luôn sang <i>it</i>. Xem [Kỹ năng 07]." },
+            { "wrong": "<i>book</i> đọc là <b>“bu-cơ”</b>", "right": "<b>“buk”</b> — dừng lại ngay sau <i>k</i>", "why": "BẪY SỐ HAI: thêm “ơ” là tạo thêm một âm tiết không có thật." },
+            { "wrong": "<i>and</i> đọc là <b>“en-đờ”</b>", "right": "<b>“ænd”</b>", "why": "Cùng lỗi. Trong câu nói nhanh <i>and</i> còn rút thành /ən/. Xem [Kỹ năng 09]." },
+            { "wrong": "<i>I worked</i> đọc là <b>“ai work”</b>", "right": "<b>“ai work-t”</b>", "why": "Mất <b>-ed</b> là người nghe hiểu thành hiện tại. Xem [Kỹ năng 03]." },
+            { "wrong": "<i>three books</i> đọc là <b>“thri buk”</b>", "right": "<b>“thri buk-s”</b>", "why": "Mất <b>s</b> là mất số nhiều. Xem [Kỹ năng 02]." },
+            { "wrong": "<i>help</i> đọc là <b>“heo”</b>", "right": "<b>“help”</b> — nghe được cả <i>l</i> và <i>p</i>", "why": "Người Việt đổi <i>l</i> cuối thành nguyên âm “o”, rồi bỏ luôn <i>p</i>." },
+            { "wrong": "<i>small</i> đọc là <b>“xmon”</b>", "right": "<b>“smɔːl”</b>", "why": "<i>l</i> cuối phải để đầu lưỡi chạm lợi, không biến thành <i>n</i>." },
+            { "wrong": "<i>nice</i> đọc là <b>“nai”</b> hoặc <b>“nai-xờ”</b>", "right": "<b>“nais”</b>", "why": "Hai lỗi ngược nhau, cùng một gốc: không quen kết thúc bằng âm xuýt." },
+            { "wrong": "<i>love</i> đọc là <b>“lớp”</b>", "right": "<b>“lʌv”</b> — răng trên chạm môi dưới, có rung", "why": "Đổi <i>v</i> thành <i>p</i> là đổi sang một âm hoàn toàn khác." },
+            { "wrong": "<i>month</i> đọc là <b>“mon”</b>", "right": "<b>“mʌnθ”</b> — lưỡi thò nhẹ ra", "why": "Âm /θ/ tiếng Việt không có nên hay bị bỏ hẳn. Xem [Kỹ năng 06]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với lỗi gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Hai cách sai", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["Nuốt hẳn / thêm “ơ”", "Thiếu âm / thừa âm tiết", "“bu” ≠ “bu-cơ” — đúng là “buk”"],
+            ["<code>t</code> cuối / <code>p</code> cuối", "Lưỡi / môi", "cat ≠ cap"],
+            ["<code>f</code> / <code>v</code>", "Không rung / có rung", "life ≠ live"],
+            ["<code>s</code> / <code>z</code>", "Không rung / có rung", "price ≠ prize"],
+            ["<code>l</code> cuối / nguyên âm “o”", "Đầu lưỡi chạm lợi / không chạm", "help ≠ “heo”"],
+            ["Bật mạnh / bật nhẹ", "Cuối câu bật rõ, giữa câu rất nhẹ", "<i>Stop!</i> ≠ <i>stop it</i>"],
+            ["Phụ âm cuối / nối âm", "Dừng lại / nối sang từ sau", "<i>like</i> ≠ <i>like it</i> = “lai-kit”"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: phát âm cuối từ thế nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn vừa nói xong một từ kết thúc bằng phụ âm — làm gì tiếp?",
+          "nodes": [
+            { "if": "Từ sau bắt đầu bằng NGUYÊN ÂM", "then": "Nối phụ âm sang từ sau", "ex": "like it → “lai-kit”" },
+            { "if": "Từ sau bắt đầu bằng PHỤ ÂM KHÁC", "then": "Giữ hình miệng, bật rất nhẹ", "ex": "good night" },
+            { "if": "Từ sau bắt đầu bằng CÙNG phụ âm", "then": "Chỉ phát một lần, kéo dài hơn", "ex": "big girl · last time" },
+            { "if": "Đang ở CUỐI CÂU", "then": "Bật rõ nhất", "ex": "Please stop." },
+            { "if": "Có HAI phụ âm liền nhau", "then": "Giữ cả hai, đừng bỏ cái giữa", "ex": "help · asked" },
+            { "if": "Lỡ thêm âm “ơ”", "then": "Dừng ngay sau phụ âm, không mở miệng", "ex": "book — không phải “bu-cơ”" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ rõ của phụ âm cuối" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "“ai lai i” — nuốt hết", "vi": "Tệ nhất — người nghe phải đoán" },
+            { "en": "“ai lai-cơ it” — thêm âm thừa", "vi": "Nghe lạ, vẫn hiểu được" },
+            { "en": "“ai laik it” — tách rời", "vi": "Đúng nhưng còn cứng" },
+            { "en": "“ai lai-kit” — nối âm", "vi": "Tự nhiên" },
+            { "en": "“ai lai-kit” nhanh, nhẹ", "vi": "Tốt nhất — như người bản ngữ" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kỹ năng này dùng ở đâu",
+      "blocks": [
+        { "t": "p", "html": "Phụ âm cuối quyết định việc người ta có hiểu bạn không ngay từ những câu đầu tiên. Bấm vào để luyện trên câu thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 71, "why": "I'm + tên — câu đầu tiên bạn nói với người lạ, tên riêng mất phụ âm cuối là nghe không ra." },
+            { "id": 72, "why": "Nice to meet you — nice kết thúc bằng /s/, meet bằng /t/, cả câu đầy phụ âm cuối." },
+            { "id": 74, "why": "I'm from… / I live in… — live (/v/) khác hẳn life (/f/)." },
+            { "id": 75, "why": "I work as / I work for… — work mất /k/ là thành một từ khác." },
+            { "id": 80, "why": "Have a good + N! / See you… — good night, good luck: hai phụ âm gặp nhau." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Từ nào bị nuốt mất phụ âm cuối?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi thích cái đó.", "blank": "“ai lai it” — sai ở từ nào?", "a": "like — mất /k/, thành lie" },
+            { "vi": "Năm ngoái tôi làm ở đó.", "blank": "“ai work the la dia” — sai ở mấy chỗ?", "a": "worked (mất -ed) · there · last · year" },
+            { "vi": "Tôi mua ba quyển sách.", "blank": "“ai bo thri buk” — thiếu gì?", "a": "bought (/t/) và books (/s/)" },
+            { "vi": "Bạn giúp tôi được không?", "blank": "“can iu heo mi” — sai ở từ nào?", "a": "help — phải nghe cả /l/ và /p/" },
+            { "vi": "Tôi sống ở Hà Nội.", "blank": "“ai lai in ha noi” — thiếu gì?", "a": "live — mất /v/" },
+            { "vi": "Chúc ngủ ngon.", "blank": "“hav a gu nai” — thiếu mấy phụ âm?", "a": "good (/d/) và night (/t/)" },
+            { "vi": "Tôi ở đây sáu tháng rồi.", "blank": "“six mon” — thiếu gì?", "a": "months — cả /θ/ lẫn /s/" },
+            { "vi": "Để tôi kiểm tra.", "blank": "“let mi che” — thiếu gì?", "a": "check — mất /tʃ/" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn cách đọc đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "quyển sách", "blank": "(a) “bu-cơ”  (b) “buk”", "a": "(b) — không thêm nguyên âm sau /k/" },
+            { "vi": "Tôi thích cái đó.", "blank": "(a) “ai laik it” tách rời  (b) “ai lai-kit” nối âm", "a": "(b) — tự nhiên hơn" },
+            { "vi": "nhỏ", "blank": "(a) “xmon”  (b) “smɔːl”", "a": "(b) — /l/ cuối, không đổi thành /n/" },
+            { "vi": "yêu, thích", "blank": "(a) “lớp”  (b) “lʌv”", "a": "(b) — /v/ có rung, không phải /p/" }
+          ]
+        },
+        { "t": "h3", "text": "C. Đọc to rồi ghi âm, nghe lại từng phụ âm cuối" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi thích công việc này.", "a": "I like this job.  →  /k/ · /s/ · /b/" },
+            { "vi": "2. Năm ngoái tôi làm ở đó.", "a": "I worked there last year.  →  /kt/ · /st/" },
+            { "vi": "3. Bạn giúp tôi được không?", "a": "Could you help me, please?  →  /d/ · /lp/ · /z/" },
+            { "vi": "4. Tôi ở đây sáu tháng rồi.", "a": "I've been here for six months.  →  /v/ · /n/ · /ks/ · /nθs/" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật một dòng:</b> mọi phụ âm cuối <b>phải phát ra</b> — nhưng <b>không có nguyên âm theo sau</b>. Nuốt hẳn và thêm “ơ” đều sai.",
+            "<b>Bỏ phụ âm cuối là đổi từ,</b> không phải chỉ khó nghe: <i>like → lie</i>, <i>cat → cap</i>, <i>worked → work</i>.",
+            "<b>Mẹo nối âm:</b> từ sau bắt đầu bằng nguyên âm thì phụ âm cuối <b>nhảy sang</b> — <i>like it</i> = “lai-kit”. Xem [Kỹ năng 07].",
+            "<b>Tai và miệng đi cùng nhau:</b> âm nào bạn không phát ra được thì bạn cũng <b>không nghe ra</b> khi người khác nói.",
+            "<b>Bốn âm tiếng Việt không có ở cuối từ:</b> /l/ /f/ /v/ /θ/ — tập riêng bốn âm này trước, chúng chiếm phần lớn lỗi.",
+            "<b>Bài tập 2 phút mỗi ngày:</b> ghi âm năm câu bạn hay dùng, nghe lại và chỉ chấm <b>phụ âm cuối</b>. Không sửa gì khác."
+          ]
+        }
+      ]
+    }
+  ]
+}

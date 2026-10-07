@@ -1,0 +1,487 @@
+{
+  "id": 23,
+  "group": "Nhóm 3 · Xin phép & Cho phép",
+  "title": "Am I allowed to…? — Hỏi về quy định, không hỏi xin ai",
+  "subtitle": "Khác biệt cốt lõi của khung này: bạn không xin phép một người, mà hỏi xem quy định có cho phép hay không. Nhờ vậy người trả lời chỉ đang truyền đạt luật lệ chứ không phải ban ơn — và bạn cũng không mang ơn ai cả.",
+  "pattern": [
+    "Am I allowed to <em>+ V</em>?",
+    "Are we allowed to <em>+ V</em>?",
+    "Is <em>+ V-ing</em> allowed?"
+  ],
+  "meaning": "Tôi có được phép… không? (theo quy định)",
+  "grammar": [46],
+  "tags": [
+    { "text": "Tần suất: trung bình", "hot": false },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Hỏi luật lệ, không xin ân huệ" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "So sánh hai câu: <span class=\"k\">Can I park here?</span> hỏi <b>bạn</b> — người đứng trước mặt tôi — có cho tôi đỗ không. <span class=\"k\">Am I allowed to park here?</span> hỏi <b>quy định</b> có cho phép không. Người trả lời chỉ đang nói lại luật, không phải quyết định." },
+        { "t": "p", "html": "Sự khác biệt này rất hữu ích trong hai trường hợp. Một là khi bạn nói với <b>nhân viên không có quyền quyết định</b> — họ trả lời dễ dàng hơn nhiều. Hai là khi bạn muốn <b>không mang ơn ai</b>: nếu được phép, đó là quyền của bạn chứ không phải ân huệ." },
+        { "t": "p", "html": "Cấu trúc là dạng <b>bị động</b>: <i>allow</i> (cho phép) → <i>be allowed to</i> (được cho phép). Vì thế luôn phải có đuôi <b>-ed</b> và luôn phải có <b>to</b> đứng trước động từ chính." },
+        { "t": "callout", "html": "<b>Hai bẫy ngữ pháp cùng lúc:</b> <span class=\"k\">Am I allowed to park?</span> ✓ — <i>Am I allow to park?</i> ✗ (thiếu <b>-ed</b>) — <i>Am I allowed park?</i> ✗ (thiếu <b>to</b>). Cả hai lỗi này đều rất phổ biến." },
+        { "t": "h3", "text": "Hỏi người hay hỏi luật?" },
+        {
+          "t": "table",
+          "head": ["Câu", "Bạn đang hỏi", "Người nghe"],
+          "rows": [
+            ["<code>Can I park here?</code>", "Bạn có cho tôi đỗ không", "Phải tự quyết định"],
+            ["<code>Is it OK if I park here?</code>", "Bạn có thấy ổn không", "Cân nhắc cảm giác của mình"],
+            ["<code>Am I allowed to park here?</code>", "Quy định có cho phép không", "Chỉ nói lại luật"],
+            ["<code>Is parking allowed here?</code>", "Ở đây có được đỗ xe không", "Trả lời về nơi chốn, không về bạn"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🅿️", "title": "Nơi công cộng, biển báo", "text": "Bối cảnh số 1. <i>Am I allowed to park here?</i> Khi bạn không chắc luật địa phương." },
+            { "icon": "📸", "title": "Bảo tàng, di tích", "text": "<i>Are we allowed to take photos?</i> Câu nên hỏi trước khi giơ máy lên." },
+            { "icon": "🏢", "title": "Chính sách công ty", "text": "<i>Am I allowed to work from home?</i> Hỏi về chính sách, không xin ân huệ từ sếp." },
+            { "icon": "🛂", "title": "Thủ tục, giấy tờ", "text": "<i>Am I allowed to bring this through security?</i>" },
+            { "icon": "🐕", "title": "Nơi có nội quy riêng", "text": "<i>Are dogs allowed in here?</i> Nhà hàng, khách sạn, công viên." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Xin phép cá nhân với bạn bè — nghe như bạn coi họ là cơ quan quản lý." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Hỏi cho mình", "<code>Am I allowed to + V?</code>", "Am I allowed to park here?"],
+            ["Hỏi cho nhóm", "<code>Are we allowed to + V?</code>", "Are we allowed to take photos?"],
+            ["Hỏi chung về hành động", "<code>Is + V-ing + allowed?</code>", "Is smoking allowed here?"],
+            ["Hỏi về vật, con vật", "<code>Are + N + allowed?</code>", "Are dogs allowed in here?"],
+            ["Khẳng định", "<code>You're allowed to + V</code>", "You're allowed to take one bag."],
+            ["Phủ định", "<code>You're not allowed to + V</code>", "You're not allowed to eat in here."],
+            ["Quá khứ", "<code>Were we allowed to…?</code>", "Were we allowed to do that?"],
+            ["Trang trọng", "<code>Are we permitted to + V?</code>", "Are we permitted to record this?"],
+            ["Hỏi gián tiếp", "<code>Do you know if I'm allowed to…?</code>", "Do you know if I'm allowed to bring food?"],
+            ["Hỏi thẳng về nội quy", "<code>Is it against the rules to + V?</code>", "Is it against the rules to swap seats?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Ba cách hỏi cùng một luật:</b> <span class=\"k\">Am I allowed to smoke here?</span> (hỏi về tôi) — <span class=\"k\">Is smoking allowed here?</span> (hỏi về hành động) — <span class=\"k\">Can I smoke here?</span> (hỏi người đứng đó). Dạng giữa là trung tính nhất." },
+        { "t": "callout", "html": "<b>Cách người ta trả lời:</b> nghe được <span class=\"k\">I'm afraid not</span>, <span class=\"k\">It's not allowed, sorry</span> hay <span class=\"k\">Only in the designated area</span> là bạn biết ngay câu trả lời — kể cả khi không kịp nghe hết câu." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “allowed to…”",
+              "items": [
+                { "w": "park", "vi": "đỗ xe", "ex": "Am I allowed to park here?", "exvi": "Tôi có được đỗ xe ở đây không ạ?" },
+                { "w": "take photos", "vi": "chụp ảnh", "ex": "Are we allowed to take photos inside?", "exvi": "Bên trong có được chụp ảnh không ạ?", "note": "Nên hỏi trước khi giơ máy lên, nhất là ở bảo tàng và nhà thờ." },
+                { "w": "smoke", "vi": "hút thuốc", "ex": "Am I allowed to smoke on the balcony?", "exvi": "Tôi có được hút thuốc ngoài ban công không ạ?" },
+                { "w": "bring", "vi": "mang vào", "ex": "Am I allowed to bring my own food?", "exvi": "Tôi có được mang đồ ăn riêng vào không ạ?" },
+                { "w": "use", "vi": "dùng", "ex": "Are we allowed to use our phones here?", "exvi": "Ở đây có được dùng điện thoại không ạ?" },
+                { "w": "eat", "vi": "ăn", "ex": "Are we allowed to eat at our desks?", "exvi": "Chúng tôi có được ăn tại bàn làm việc không ạ?" },
+                { "w": "drink", "vi": "uống", "ex": "Am I allowed to drink water in the lab?", "exvi": "Trong phòng thí nghiệm tôi có được uống nước không ạ?" },
+                { "w": "enter", "vi": "vào", "ex": "Am I allowed to enter without a ticket?", "exvi": "Không có vé tôi có được vào không ạ?" },
+                { "w": "record", "vi": "ghi âm, quay phim", "ex": "Are we allowed to record the session?", "exvi": "Chúng tôi có được ghi hình buổi này không ạ?" },
+                { "w": "work from home", "vi": "làm việc tại nhà", "ex": "Am I allowed to work from home on Fridays?", "exvi": "Thứ Sáu tôi có được làm ở nhà không ạ?", "note": "Hỏi về chính sách — khác hẳn xin ân huệ riêng từ sếp." },
+                { "w": "stay", "vi": "ở lại", "ex": "Am I allowed to stay past six?", "exvi": "Tôi có được ở lại sau sáu giờ không ạ?" },
+                { "w": "wear", "vi": "mặc", "ex": "Are we allowed to wear jeans on Fridays?", "exvi": "Thứ Sáu chúng tôi có được mặc quần jean không ạ?" },
+                { "w": "swim", "vi": "bơi", "ex": "Are we allowed to swim here?", "exvi": "Ở đây có được bơi không ạ?" },
+                { "w": "camp", "vi": "cắm trại", "ex": "Are we allowed to camp on the beach?", "exvi": "Có được cắm trại trên bãi biển không ạ?" },
+                { "w": "drive", "vi": "lái xe", "ex": "Am I allowed to drive with this licence?", "exvi": "Với bằng này tôi có được lái xe không ạ?", "note": "Anh-Mỹ viết <i>license</i>." },
+                { "w": "carry", "vi": "mang theo", "ex": "Am I allowed to carry this in my hand luggage?", "exvi": "Tôi có được mang cái này trong hành lý xách tay không ạ?" },
+                { "w": "leave early", "vi": "về sớm", "ex": "Are we allowed to leave early on public holidays?", "exvi": "Ngày lễ chúng tôi có được về sớm không ạ?" },
+                { "w": "cancel", "vi": "hủy", "ex": "Am I allowed to cancel free of charge?", "exvi": "Tôi hủy miễn phí có được không ạ?" },
+                { "w": "share", "vi": "chia sẻ", "ex": "Am I allowed to share this document?", "exvi": "Tôi có được chia sẻ tài liệu này không ạ?" },
+                { "w": "pay in cash", "vi": "trả tiền mặt", "ex": "Are we allowed to pay in cash?", "exvi": "Chúng tôi trả tiền mặt có được không ạ?" }
+              ]
+            },
+            {
+              "title": "Câu hoàn chỉnh nên thuộc lòng",
+              "items": [
+                { "w": "Am I allowed to park here?", "vi": "tôi có được đỗ xe ở đây không?", "ex": "Excuse me, am I allowed to park here?", "exvi": "Xin lỗi, tôi có được đỗ xe ở đây không ạ?" },
+                { "w": "Are we allowed to take photos?", "vi": "chúng tôi có được chụp ảnh không?", "ex": "Are we allowed to take photos in here?", "exvi": "Trong này có được chụp ảnh không ạ?" },
+                { "w": "Is smoking allowed here?", "vi": "ở đây có được hút thuốc không?", "ex": "Is smoking allowed anywhere in the building?", "exvi": "Trong tòa nhà có chỗ nào được hút thuốc không ạ?", "note": "Dạng <i>Is + V-ing + allowed</i> trung tính nhất — không nhắc tới ai cả." },
+                { "w": "Are dogs allowed in here?", "vi": "ở đây có cho mang chó vào không?", "ex": "Are dogs allowed in the restaurant?", "exvi": "Nhà hàng có cho mang chó vào không ạ?" },
+                { "w": "You're not allowed to…", "vi": "bạn không được phép…", "ex": "You're not allowed to eat in the library.", "exvi": "Trong thư viện không được ăn uống.", "note": "Dạng khẳng định phủ định — nghe khách quan hơn <i>You can't</i>." },
+                { "w": "Do you know if I'm allowed to…?", "vi": "bạn có biết tôi có được… không?", "ex": "Do you know if I'm allowed to bring food in?", "exvi": "Bạn có biết tôi có được mang đồ ăn vào không ạ?", "note": "Hỏi gián tiếp — nhã hơn và không đặt người kia vào thế phải quyết." },
+                { "w": "Is it against the rules to…?", "vi": "làm thế có trái nội quy không?", "ex": "Is it against the rules to swap seats?", "exvi": "Đổi chỗ có trái nội quy không ạ?" },
+                { "w": "Are we permitted to…?", "vi": "chúng tôi có được phép… không?", "ex": "Are we permitted to record this meeting?", "exvi": "Chúng tôi có được phép ghi hình cuộc họp này không ạ?", "note": "<i>permitted</i> trang trọng hơn <i>allowed</i> — hợp văn bản và nơi công quyền." },
+                { "w": "How much am I allowed to…?", "vi": "tôi được phép… bao nhiêu?", "ex": "How much luggage am I allowed to take?", "exvi": "Tôi được mang bao nhiêu hành lý ạ?", "note": "Thêm <i>how much / how many</i> để hỏi về giới hạn." },
+                { "w": "Only in the designated area", "vi": "chỉ ở khu vực quy định", "ex": "Smoking is only allowed in the designated area.", "exvi": "Chỉ được hút thuốc ở khu vực quy định ạ.", "note": "Câu bạn sẽ nghe nhiều — <i>designated area</i> = khu vực được chỉ định." }
+              ]
+            },
+            {
+              "title": "Cách người ta trả lời",
+              "items": [
+                { "w": "Yes, that's fine", "vi": "vâng, được ạ", "ex": "Yes, that's fine — go ahead.", "exvi": "Vâng, được ạ — anh/chị cứ tự nhiên." },
+                { "w": "I'm afraid not", "vi": "e là không được", "ex": "I'm afraid not — it's staff only.", "exvi": "E là không được ạ — chỗ này chỉ dành cho nhân viên." },
+                { "w": "It's not allowed, sorry", "vi": "không được phép đâu ạ", "ex": "It's not allowed, sorry — museum policy.", "exvi": "Không được phép đâu ạ, xin lỗi — quy định của bảo tàng." },
+                { "w": "Only if…", "vi": "chỉ khi…", "ex": "Only if you have a permit.", "exvi": "Chỉ khi anh/chị có giấy phép ạ.", "note": "Chưa phải từ chối — hãy hỏi tiếp điều kiện đó là gì." },
+                { "w": "Let me check the policy", "vi": "để tôi kiểm tra quy định", "ex": "Let me check the policy for you.", "exvi": "Để em kiểm tra quy định giúp anh/chị ạ.", "note": "Nhân viên nói câu này nghĩa là họ chưa chắc — hãy kiên nhẫn chờ." },
+                { "w": "There's no rule against it", "vi": "không có quy định nào cấm cả", "ex": "There's no rule against it, as far as I know.", "exvi": "Theo tôi biết thì không có quy định nào cấm cả.", "note": "Câu trả lời khá thoải mái — nghĩa là làm được nhưng không ai đảm bảo." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Excuse me, am I allowed to park here?",
+                  "vi": "Xin lỗi, tôi có được đỗ xe ở đây không ạ?",
+                  "note": "Bối cảnh số 1. Hỏi về luật nên người kia trả lời rất dễ, không phải cân nhắc gì.",
+                  "open": { "en": "Sorry to bother you —", "vi": "Xin lỗi làm phiền bạn —" },
+                  "reply": [
+                    { "them": "Only for thirty minutes, and you need a ticket.", "themvi": "Chỉ ba mươi phút thôi, và phải lấy vé ạ.", "you": "Where do I get the ticket?", "youvi": "Lấy vé ở đâu ạ?" },
+                    { "them": "I'm afraid not — it's residents only.", "themvi": "E là không được ạ — chỉ dành cho cư dân.", "you": "Thanks — where's the nearest car park?", "youvi": "Cảm ơn bạn — bãi xe gần nhất ở đâu ạ?" }
+                  ],
+                  "close": { "en": "Thanks for letting me know.", "vi": "Cảm ơn bạn đã cho biết." }
+                },
+                {
+                  "en": "Are we allowed to take photos inside?",
+                  "vi": "Bên trong có được chụp ảnh không ạ?",
+                  "note": "Hỏi trước khi giơ máy lên — ở nhiều bảo tàng, đền chùa, việc này là bắt buộc.",
+                  "reply": [
+                    { "them": "Yes, but no flash please.", "themvi": "Được ạ, nhưng xin đừng dùng đèn flash.", "you": "Understood, thank you.", "youvi": "Tôi hiểu rồi, cảm ơn bạn." },
+                    { "them": "It's not allowed, sorry — museum policy.", "themvi": "Không được phép đâu ạ — quy định của bảo tàng.", "you": "No problem at all.", "youvi": "Không sao đâu ạ." }
+                  ],
+                  "vars": [
+                    { "en": "Are we allowed to film in here?", "vi": "Trong này có được quay phim không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Am I allowed to carry this in my hand luggage?",
+                  "vi": "Tôi có được mang cái này trong hành lý xách tay không ạ?",
+                  "note": "Câu nên thuộc khi qua an ninh sân bay — hỏi trước thì đỡ phải bỏ lại đồ.",
+                  "reply": [
+                    { "them": "Liquids must be under 100ml.", "themvi": "Chất lỏng phải dưới 100ml ạ.", "you": "This one's 80. Is that OK?", "youvi": "Cái này 80ml. Vậy được chứ ạ?" }
+                  ]
+                },
+                {
+                  "en": "How much luggage am I allowed to take?",
+                  "vi": "Tôi được mang bao nhiêu hành lý ạ?",
+                  "note": "Thêm <b>how much / how many</b> ở đầu để hỏi về giới hạn thay vì có/không.",
+                  "reply": [
+                    { "them": "One checked bag up to 23 kilos.", "themvi": "Một kiện ký gửi tối đa 23 ký ạ.", "you": "And hand luggage?", "youvi": "Còn hành lý xách tay ạ?" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Am I allowed to work from home on Fridays?",
+                  "vi": "Thứ Sáu tôi có được làm ở nhà không ạ?",
+                  "note": "Hỏi về <b>chính sách</b> chứ không xin ân huệ riêng — sếp trả lời dễ hơn và bạn cũng không mang ơn.",
+                  "reply": [
+                    { "them": "Yes, the policy allows two days a week.", "themvi": "Được ạ, chính sách cho phép hai ngày một tuần.", "you": "Great — do I need to log it anywhere?", "youvi": "Tuyệt — em có cần đăng ký ở đâu không ạ?" },
+                    { "them": "Let me check the policy for you.", "themvi": "Để tôi kiểm tra quy định giúp em.", "you": "Thank you, no rush.", "youvi": "Cảm ơn anh/chị, không vội đâu ạ." }
+                  ]
+                },
+                {
+                  "en": "Are we allowed to record the session?",
+                  "vi": "Chúng tôi có được ghi hình buổi này không ạ?",
+                  "note": "Ghi âm, ghi hình luôn phải hỏi trước — ở nhiều nước đây là quy định pháp luật.",
+                  "open": { "en": "Before we start —", "vi": "Trước khi mình bắt đầu —" },
+                  "reply": [
+                    { "them": "Only if everyone consents.", "themvi": "Chỉ khi tất cả mọi người đồng ý ạ.", "you": "I'll ask the group now.", "youvi": "Tôi sẽ hỏi cả nhóm ngay ạ." }
+                  ],
+                  "close": { "en": "Thanks — I'll delete it after the summary.", "vi": "Cảm ơn — tóm tắt xong tôi sẽ xóa." }
+                },
+                {
+                  "en": "Am I allowed to share this document outside the team?",
+                  "vi": "Tôi có được chia sẻ tài liệu này ra ngoài nhóm không ạ?",
+                  "note": "Hỏi trước khi chia sẻ tài liệu nội bộ — câu này tránh được rất nhiều rắc rối.",
+                  "reply": [
+                    { "them": "Internal only, I'm afraid.", "themvi": "E là chỉ dùng nội bộ thôi ạ.", "you": "Understood — I'll summarise it instead.", "youvi": "Em hiểu rồi — em sẽ tóm tắt lại thay vì gửi file." }
+                  ]
+                },
+                {
+                  "en": "Are we allowed to eat at our desks?",
+                  "vi": "Chúng tôi có được ăn tại bàn làm việc không ạ?",
+                  "reply": [
+                    { "them": "Yes, but not hot food.", "themvi": "Được ạ, nhưng không mang đồ nóng.", "you": "Fair enough — I'll use the kitchen.", "youvi": "Hợp lý ạ — em ra bếp ăn vậy." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Are dogs allowed in the restaurant?",
+                  "vi": "Nhà hàng có cho mang chó vào không ạ?",
+                  "note": "Dạng <b>Are + N + allowed</b> — hỏi về vật hoặc con vật, không nhắc tới bạn.",
+                  "reply": [
+                    { "them": "On the terrace, yes.", "themvi": "Ở khu sân ngoài thì được ạ.", "you": "That works for us, thank you.", "youvi": "Vậy hợp với chúng tôi, cảm ơn bạn." },
+                    { "them": "Only assistance dogs, sorry.", "themvi": "Chỉ chó hỗ trợ thôi ạ, xin lỗi.", "you": "No problem — is there outdoor seating?", "youvi": "Không sao — có chỗ ngồi ngoài trời không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Am I allowed to bring my own cake?",
+                  "vi": "Tôi có được mang bánh riêng vào không ạ?",
+                  "note": "Nhiều nhà hàng thu phí cắt bánh — hỏi trước để không bị bất ngờ.",
+                  "reply": [
+                    { "them": "Yes, but there's a small plating fee.", "themvi": "Được ạ, nhưng có phí bày bánh nhỏ.", "you": "How much is that?", "youvi": "Phí đó bao nhiêu ạ?" }
+                  ]
+                },
+                {
+                  "en": "Is smoking allowed anywhere here?",
+                  "vi": "Ở đây có chỗ nào được hút thuốc không ạ?",
+                  "reply": [
+                    { "them": "Only in the designated area outside.", "themvi": "Chỉ ở khu vực quy định bên ngoài thôi ạ.", "you": "Thanks — where is that exactly?", "youvi": "Cảm ơn — chỗ đó cụ thể ở đâu ạ?" }
+                  ]
+                },
+                {
+                  "en": "Are we allowed to pay in cash?",
+                  "vi": "Chúng tôi trả tiền mặt có được không ạ?",
+                  "reply": [
+                    { "them": "Card only, I'm afraid.", "themvi": "E là chỉ nhận thẻ thôi ạ.", "you": "Good to know — thanks.", "youvi": "May mà biết — cảm ơn bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Are we allowed to swim here?",
+                  "vi": "Ở đây có được bơi không ạ?",
+                  "note": "Hỏi về an toàn và quy định cùng lúc — rất nên hỏi ở bãi biển lạ.",
+                  "reply": [
+                    { "them": "Only between the flags.", "themvi": "Chỉ trong khu vực cắm cờ thôi ạ.", "you": "Understood, thanks.", "youvi": "Tôi hiểu rồi, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "Do you know if I'm allowed to bring food in?",
+                  "vi": "Bạn có biết tôi có được mang đồ ăn vào không ạ?",
+                  "note": "Hỏi gián tiếp — nhã hơn và không đặt người kia vào thế phải quyết định.",
+                  "reply": [
+                    { "them": "I think so, but check at the desk.", "themvi": "Mình nghĩ là được, nhưng hỏi ở quầy cho chắc.", "you": "Good idea, thanks.", "youvi": "Ý hay, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "You're not allowed to park in front of the gate.",
+                  "vi": "Không được đỗ xe trước cổng đâu bạn ạ.",
+                  "note": "Dạng khẳng định phủ định. Nghe khách quan hơn <i>You can't park there</i> — vì bạn đang nói lại luật chứ không cấm ai.",
+                  "reply": [
+                    { "them": "Oh, sorry — I didn't see the sign.", "themvi": "Ồ, xin lỗi — tôi không thấy biển.", "you": "No problem, there's space round the corner.", "youvi": "Không sao, có chỗ trống ngay góc kia." }
+                  ]
+                },
+                {
+                  "en": "Is it against the rules to swap seats?",
+                  "vi": "Đổi chỗ có trái nội quy không ạ?",
+                  "reply": [
+                    { "them": "There's no rule against it, as far as I know.", "themvi": "Theo tôi biết thì không có quy định nào cấm cả.", "you": "Great — I'll ask the person next to me.", "youvi": "Tuyệt — tôi sẽ hỏi người ngồi cạnh." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Am I allowed to return this without a receipt?",
+                  "vi": "Không có biên lai tôi có được trả hàng không ạ?",
+                  "note": "Hỏi về chính sách — nhân viên trả lời dễ hơn nhiều so với việc bạn năn nỉ.",
+                  "reply": [
+                    { "them": "Only for store credit, I'm afraid.", "themvi": "E là chỉ đổi phiếu mua hàng thôi ạ.", "you": "That's fine. How long is the credit valid?", "youvi": "Vậy cũng được. Phiếu có hạn bao lâu ạ?" }
+                  ]
+                },
+                {
+                  "en": "Are we allowed to try these on?",
+                  "vi": "Chúng tôi có được thử những cái này không ạ?",
+                  "reply": [
+                    { "them": "Yes, up to four items at a time.", "themvi": "Được ạ, mỗi lượt tối đa bốn món.", "you": "Perfect, I'll take these four.", "youvi": "Tuyệt, tôi lấy bốn món này." }
+                  ]
+                },
+                {
+                  "en": "Am I allowed to use this voucher with the sale price?",
+                  "vi": "Tôi dùng voucher này với giá khuyến mãi được không ạ?",
+                  "note": "Câu tránh được cảnh tranh cãi ở quầy thu ngân — hỏi trước khi xếp hàng.",
+                  "reply": [
+                    { "them": "I'm afraid not — it's one or the other.", "themvi": "E là không ạ — chỉ được chọn một trong hai.", "you": "Then I'll use the sale price.", "youvi": "Vậy tôi lấy giá khuyến mãi." }
+                  ]
+                },
+                {
+                  "en": "Am I allowed to take a photo of the price tag?",
+                  "vi": "Tôi chụp ảnh cái bảng giá có được không ạ?",
+                  "reply": [
+                    { "them": "Of course, no problem.", "themvi": "Tất nhiên ạ, không sao.", "you": "Thanks — I want to compare online.", "youvi": "Cảm ơn — tôi muốn so giá trên mạng." }
+                  ],
+                  "close": { "en": "Thanks for checking for me.", "vi": "Cảm ơn bạn đã kiểm tra giúp." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Hỏi quy định ở bảo tàng",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Excuse me, are we allowed to take photos inside?", "vi": "Xin lỗi, bên trong có được chụp ảnh không ạ?" },
+            { "speaker": "Guard", "en": "Yes, but no flash and no tripods.", "vi": "Được ạ, nhưng không dùng flash và không mang chân máy." },
+            { "speaker": "You", "me": true, "en": "Understood. Am I allowed to bring my backpack in?", "vi": "Tôi hiểu rồi. Tôi có được mang ba lô vào không ạ?" },
+            { "speaker": "Guard", "en": "Small bags only. There's a cloakroom for the rest.", "vi": "Chỉ túi nhỏ thôi. Còn lại gửi ở phòng giữ đồ ạ." },
+            { "speaker": "You", "me": true, "en": "Is it free?", "vi": "Có mất phí không ạ?" },
+            { "speaker": "Guard", "en": "Yes, free for ticket holders.", "vi": "Không ạ, miễn phí cho khách có vé." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Hỏi chính sách công ty",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Quick question — am I allowed to work from home on Fridays?", "vi": "Em hỏi nhanh — thứ Sáu em có được làm ở nhà không ạ?" },
+            { "speaker": "HR", "en": "The policy allows two days a week.", "vi": "Chính sách cho phép hai ngày một tuần." },
+            { "speaker": "You", "me": true, "en": "Good to know. Am I allowed to choose which days?", "vi": "May mà biết. Em có được chọn ngày không ạ?" },
+            { "speaker": "HR", "en": "As long as your manager agrees.", "vi": "Miễn là quản lý của em đồng ý." },
+            { "speaker": "You", "me": true, "en": "And are we allowed to change it month to month?", "vi": "Và chúng em có được đổi theo từng tháng không ạ?" },
+            { "speaker": "HR", "en": "Yes — just log it in the system.", "vi": "Được — chỉ cần ghi nhận trên hệ thống." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Am I allow to park here?", "right": "Am I allowed to park here?", "why": "Thiếu đuôi <b>-ed</b>. Cấu trúc là dạng bị động <b>be allowed to</b>." },
+            { "wrong": "Am I allowed park here?", "right": "Am I allowed to park here?", "why": "Thiếu <b>to</b>. Sau <i>allowed</i> luôn phải có <i>to</i> trước động từ." },
+            { "wrong": "Is allowed to smoke here?", "right": "Is smoking allowed here? / Am I allowed to smoke here?", "why": "Thiếu chủ ngữ. Phải nêu rõ ai hoặc chuyển sang dạng <i>V-ing + allowed</i>." },
+            { "wrong": "Am I allowed to parking here?", "right": "Am I allowed to park here?", "why": "Sau <b>to</b> là động từ nguyên thể, không phải V-ing." },
+            { "wrong": "Am I allowed to come to your party? <i>(hỏi bạn thân)</i>", "right": "Is it OK if I come to your party?", "why": "Hỏi luật với bạn bè nghe rất lạ, như coi họ là cơ quan quản lý. Dùng [Khung 22]." },
+            { "wrong": "You don't allow to eat here.", "right": "You're not allowed to eat here.", "why": "Phải dùng dạng bị động <b>be not allowed to</b>, không phải <i>don't allow</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>Am I allowed to…?</code>", "Hỏi về QUY ĐỊNH, không hỏi người", "<i>Am I allowed to park here?</i>"],
+            ["<code>Is + V-ing + allowed?</code>", "Trung tính nhất — không nhắc tới ai", "<i>Is smoking allowed here?</i>"],
+            ["<code>Can I…?</code>", "Hỏi người trước mặt cho phép", "<i>Can I park here?</i> — Xem [Khung 21]."],
+            ["<code>Is it OK if I…?</code>", "Hỏi người kia có thấy ổn không", "<i>Is it OK if I park here?</i> — Xem [Khung 22]."],
+            ["<code>Are we permitted to…?</code>", "Trang trọng hơn — văn bản, nơi công quyền", "<i>Are we permitted to record this?</i>"],
+            ["<code>Is it against the rules to…?</code>", "Hỏi thẳng về nội quy", "<i>Is it against the rules to swap seats?</i>"],
+            ["<code>You're not supposed to…</code>", "Nhắc nhở nhẹ về điều không nên", "<i>You're not supposed to park there.</i> — Xem [Khung 27]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — hỏi về việc đỗ xe" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Can I park here?", "vi": "Hỏi người — họ phải quyết" },
+            { "en": "Is it OK if I park here?", "vi": "Hỏi cảm giác của người kia" },
+            { "en": "Am I allowed to park here?", "vi": "Hỏi luật — trung tính" },
+            { "en": "Is parking allowed here?", "vi": "Hỏi về nơi chốn — khách quan nhất" },
+            { "en": "Are we permitted to park here?", "vi": "Trang trọng — nơi công quyền" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>allowed</b> = /əˈlaʊd/ — hai âm tiết, trọng âm ở <b>sau</b>: ơ-<b>LAUD</b>. Đuôi <i>-ed</i> đọc là /d/, không phải “ết”.",
+            "<b>allowed</b> và <b>aloud</b> (đọc to) phát âm <b>y hệt nhau</b> — chỉ phân biệt được bằng ngữ cảnh.",
+            "<b>Am I</b> nối thành “ə-MAI” khi nói nhanh — <i>am</i> giảm rất nhẹ.",
+            "<b>allowed to</b> → “ə-LAU-də” — âm /d/ và /t/ hòa làm một, <i>to</i> giảm thành /tə/.",
+            "<b>Am I allowed to</b> → “ə-mai-ə-LAU-də” — năm âm tiết nói liền một hơi.",
+            "Trọng âm rơi vào <b>LOWED</b> và vào động từ chính: <i>Am I al-</i><b>LOWED</b><i> to </i><b>PARK</b><i> here?</i>"
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Am I allowed to park here?", "vi": "Luyện shadowing: chú ý đuôi /d/ của “allowed” — thiếu nó là sai ngữ pháp." },
+            { "en": "Is smoking allowed anywhere here?", "vi": "Dạng trung tính — không nhắc tới ai, chỉ hỏi về hành động." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi có được đỗ xe ở đây không ạ?", "blank": "__________ park here?", "a": "Am I allowed to" },
+            { "vi": "Ở đây có được hút thuốc không ạ?", "blank": "__________ allowed here?", "a": "Is smoking" },
+            { "vi": "Nhà hàng có cho mang chó vào không ạ?", "blank": "__________ allowed in the restaurant?", "a": "Are dogs" },
+            { "vi": "Trong thư viện không được ăn uống.", "blank": "__________ eat in the library.", "a": "You're not allowed to" },
+            { "vi": "Bạn có biết tôi có được mang đồ ăn vào không ạ?", "blank": "Do you know __________ bring food in?", "a": "if I'm allowed to" },
+            { "vi": "Tôi được mang bao nhiêu hành lý ạ?", "blank": "__________ luggage am I allowed to take?", "a": "How much" },
+            { "vi": "Đổi chỗ có trái nội quy không ạ?", "blank": "__________ swap seats?", "a": "Is it against the rules to" },
+            { "vi": "Chỉ được hút thuốc ở khu vực quy định ạ.", "blank": "Smoking is only allowed in the __________.", "a": "designated area" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Bên trong có được chụp ảnh không ạ?", "a": "Are we allowed to take photos inside?" },
+            { "vi": "2. Thứ Sáu tôi có được làm ở nhà không ạ?", "a": "Am I allowed to work from home on Fridays?" },
+            { "vi": "3. Tôi có được mang cái này trong hành lý xách tay không ạ?", "a": "Am I allowed to carry this in my hand luggage?" },
+            { "vi": "4. Không có biên lai tôi có được trả hàng không ạ?", "a": "Am I allowed to return this without a receipt?" },
+            { "vi": "5. Chúng tôi có được ghi hình cuộc họp này không ạ?", "a": "Are we allowed to record this meeting?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Dùng khi nói với nhân viên:</b> hỏi về luật thì họ trả lời được ngay, còn hỏi xin phép thì họ phải đi hỏi cấp trên.",
+            "<b>Nhớ hai chữ bắt buộc:</b> <b>-ed</b> và <b>to</b>. Đọc thầm mười lần — <i>allowed to park, allowed to bring, allowed to take</i>.",
+            "<b>Dạng trung tính nhất:</b> <i>Is + V-ing + allowed?</i> — không nhắc tới bạn, không nhắc tới ai, chỉ hỏi về hành động.",
+            "<b>Đừng dùng với bạn bè:</b> hỏi luật với người thân nghe như coi họ là cơ quan quản lý. Với bạn bè hãy dùng [Khung 22].",
+            "<b>Nghe quen câu “Only if…”:</b> nghe thấy nó nghĩa là bạn vẫn còn cơ hội — hãy hỏi tiếp điều kiện đó là gì.",
+            "<b>Bài tập 3 phút:</b> nghĩ 5 nơi bạn từng không chắc luật lệ — bãi xe, bảo tàng, sân bay — và đặt câu hỏi cho từng nơi bằng cả hai dạng <i>Am I allowed to…?</i> và <i>Is … allowed?</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

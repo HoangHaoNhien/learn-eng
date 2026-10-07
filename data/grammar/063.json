@@ -1,0 +1,218 @@
+{
+  "id": 63,
+  "group": "Nhóm 8 · Dạng theo sau động từ",
+  "title": "have · get something done",
+  "subtitle": "Tiếng Việt nói \"tôi cắt tóc\" cho cả hai việc: tự cầm kéo cắt, và ra tiệm cho người ta cắt. Tiếng Anh tách hẳn: <i>I cut my hair</i> là TỰ cắt, <i>I had my hair cut</i> là ĐI cắt. Nhầm chỗ này là người nghe hiểu sai hẳn chuyện.",
+  "meaning": "Nhờ người khác làm việc gì cho mình — và cả chuyện xấu xảy đến với mình",
+  "rule": [
+    "<em>have</em> + đồ vật + <em>V3</em> — nhờ người khác làm",
+    "<em>get</em> + đồ vật + <em>V3</em> — như have, thân mật hơn",
+    "<em>have</em> + đồ vật + <em>V3</em> — nghĩa thứ hai: bị chuyện xấu"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1–B2", "hot": true },
+    { "text": "V3 đứng SAU đồ vật" },
+    { "text": "I had my hair cut — không phải I cut my hair" },
+    { "text": "Dùng mỗi ngày: tóc, xe, răng, giấy tờ" }
+  ],
+  "frames": [3, 11, 13, 16, 18],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Khi <b>bạn không tự làm</b> mà <b>trả tiền hoặc nhờ người khác làm cho mình</b>, tiếng Anh có một cấu trúc riêng: <b>have</b> hoặc <b>get</b> + <b>đồ vật</b> + <b>V3</b>." },
+        { "t": "callout", "html": "<b>Thứ tự là chuyện sống còn:</b><br>• <i>I <b>had my hair cut</b></i> ✓ — tôi đi cắt tóc (thợ cắt)<br>• <i>I <b>cut my hair</b></i> ✓ nhưng nghĩa khác — tôi <b>tự</b> cầm kéo cắt<br>• <i>I <b>had cut</b> my hair</i> ✗ ở đây — đó là quá khứ hoàn thành, nghĩa khác hẳn<br><b>V3 phải đứng SAU đồ vật</b>, không được nhảy lên trước." },
+        { "t": "callout", "html": "<b>Vì sao người Việt hay sai:</b> tiếng Việt dùng đúng một câu <i>\"tôi cắt tóc\"</i> cho cả hai tình huống, người nghe tự đoán theo ngữ cảnh. Tiếng Anh <b>bắt buộc phải chọn</b>. Nói <i>I cut my hair yesterday</i> với người bản ngữ là họ hình dung bạn tự cầm kéo." },
+        { "t": "h3", "text": "Ba mảnh của cấu trúc" },
+        { "t": "table", "head": ["Mảnh", "Là gì", "Ví dụ"], "rows": [
+          ["<code>have / get</code>", "chia thì ở đây", "<i>I <b>had</b>… · She <b>gets</b>… · We'll <b>have</b>…</i>"],
+          ["đồ vật", "thứ được tác động", "<i>my hair · the car · these photos</i>"],
+          ["<code>V3</code>", "LUÔN ở dạng phân từ hai", "<i>cut · repaired · taken · printed</i>"]
+        ] },
+        { "t": "p", "html": "Người làm việc đó <b>không cần nói ra</b> — ai cũng hiểu là thợ, là nhân viên. Muốn nói rõ thì thêm <i>by</i>: <i>I had my car repaired <b>by a friend</b></i>." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        { "t": "table", "head": ["Thì", "Khẳng định", "Phủ định & nghi vấn"], "rows": [
+          ["Hiện tại đơn", "<i>I <b>have</b> my car washed every week.</i>", "<i><b>Do</b> you have your car washed?</i>"],
+          ["Quá khứ đơn", "<i>I <b>had</b> my hair cut yesterday.</i>", "<i>I <b>didn't have</b> my hair cut.</i>"],
+          ["Hiện tại tiếp diễn", "<i>I'<b>m having</b> the kitchen painted.</i>", "<i>Are you <b>having</b> it painted?</i>"],
+          ["Hiện tại hoàn thành", "<i>I'<b>ve had</b> my eyes tested.</i>", "<i>Have you <b>had</b> them tested?</i>"],
+          ["Tương lai", "<i>I'<b>ll have</b> it delivered.</i>", "<i>Will you <b>have</b> it delivered?</i>"],
+          ["Với <code>get</code>", "<i>I <b>got</b> my phone fixed.</i>", "<i><b>Did</b> you <b>get</b> it fixed?</i>"]
+        ] },
+        { "t": "callout", "html": "<b>Chỉ <i>have</i> và <i>get</i> đổi thì.</b> Phần <i>đồ vật + V3</i> giữ nguyên bất kể thì nào. Nhìn bảng trên: cột nào cũng kết thúc bằng <i>cut · washed · painted · tested · fixed</i>." },
+        { "t": "h3", "text": "Mười hai câu mẫu để nhập tâm" },
+        { "t": "ex", "items": [
+          { "en": "I had my hair cut last Saturday.", "vi": "Thứ Bảy trước tôi đi cắt tóc.", "note": "Thợ cắt, không phải tôi tự cắt. <b>cut</b> ở đây là V3." },
+          { "en": "She gets her car serviced twice a year.", "vi": "Cô ấy đi bảo dưỡng xe hai lần một năm.", "note": "<b>get</b> thân mật hơn <i>have</i>, nghĩa y hệt." },
+          { "en": "We are having the bathroom painted next week.", "vi": "Tuần sau chúng tôi cho sơn lại phòng tắm.", "note": "Tiếp diễn chỉ kế hoạch đã sắp xếp." },
+          { "en": "Have you had your eyes tested recently?", "vi": "Gần đây bạn có đi kiểm tra mắt không?", "note": "Nghi vấn: <i>Have you had…</i> — hai chữ have liền nhau, nghe lạ nhưng đúng." },
+          { "en": "I need to get this document signed today.", "vi": "Hôm nay tôi cần xin chữ ký vào giấy này.", "note": "Sau <i>need to</i> thì <i>get</i> ở dạng trần." },
+          { "en": "He had a tooth taken out on Monday.", "vi": "Thứ Hai anh ấy đi nhổ một cái răng.", "note": "<b>taken</b> là V3 của <i>take</i>." },
+          { "en": "Where can I get these photos printed?", "vi": "Tôi in mấy tấm ảnh này ở đâu được?", "note": "Mẫu câu hỏi dịch vụ dùng hằng ngày." },
+          { "en": "They had the old tree cut down.", "vi": "Họ cho đốn cái cây cũ đi.", "note": "<i>cut down</i> — phrasal verb vẫn đứng sau đồ vật." },
+          { "en": "I had my wallet stolen on the bus.", "vi": "Tôi bị móc ví trên xe buýt.", "note": "NGHĨA THỨ HAI: chuyện xấu xảy đến, không ai nhờ cả." },
+          { "en": "She had her flight cancelled twice.", "vi": "Cô ấy bị huỷ chuyến bay hai lần.", "note": "Cũng là nghĩa bị động, không phải nhờ vả." },
+          { "en": "I'm getting my laptop repaired at the moment.", "vi": "Laptop của tôi đang được sửa.", "note": "<i>get</i> ở tiếp diễn, việc đang diễn ra." },
+          { "en": "You should have that cough checked.", "vi": "Bạn nên đi khám cái ho đó.", "note": "Sau modal thì <i>have</i> ở dạng trần." }
+        ] }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        { "t": "cards", "items": [
+          { "icon": "💇", "title": "Kể việc vừa đi làm dịch vụ", "text": "<i>I had my hair cut yesterday.</i> Tóc, móng, răng, mắt — nhóm dùng nhiều nhất." },
+          { "icon": "🔧", "title": "Nói về sửa chữa", "text": "<i>I got my phone repaired.</i> Xe, máy, nhà cửa đều vào mẫu này." },
+          { "icon": "📄", "title": "Giấy tờ, thủ tục", "text": "<i>I need to get this form signed.</i> Ký, đóng dấu, công chứng, dịch thuật." },
+          { "icon": "📅", "title": "Kế hoạch đã sắp xếp", "text": "<i>We're having the kitchen fitted on Friday.</i> Đã hẹn thợ rồi." },
+          { "icon": "😣", "title": "Kể chuyện xấu xảy đến", "text": "<i>I had my bike stolen.</i> Không nhờ ai cả — mình là nạn nhân." },
+          { "icon": "🚫", "title": "KHÔNG dùng khi tự làm", "text": "Tự nấu, tự sửa, tự cắt thì nói thẳng: <i>I cooked dinner.</i> Không có have." }
+        ] }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Hai mươi tư cụm dưới đây phủ gần hết tình huống bạn cần cấu trúc này trong đời thường. Thuộc cụm nhanh hơn thuộc quy tắc." },
+        { "t": "words", "groups": [
+          { "title": "Dịch vụ hay nhờ nhất — dùng have", "items": [
+            { "w": "have your hair cut", "vi": "đi cắt tóc", "ex": "I had my hair cut on Friday.", "exvi": "Thứ Sáu tôi đi cắt tóc.", "note": "Cụm số một. <i>I cut my hair</i> là TỰ cắt." },
+            { "w": "have your car repaired", "vi": "đem xe đi sửa", "ex": "She had her car repaired last month.", "exvi": "Tháng trước cô ấy đem xe đi sửa." },
+            { "w": "have your eyes tested", "vi": "đi kiểm tra mắt", "ex": "You should have your eyes tested.", "exvi": "Bạn nên đi kiểm tra mắt.", "note": "Anh-Anh dùng <i>tested</i>, Anh-Mỹ hay nói <i>checked</i>." },
+            { "w": "have a tooth taken out", "vi": "đi nhổ răng", "ex": "He had a tooth taken out.", "exvi": "Anh ấy đi nhổ một cái răng." },
+            { "w": "have your photo taken", "vi": "được chụp ảnh", "ex": "I had my photo taken for the visa.", "exvi": "Tôi chụp ảnh để làm thị thực." },
+            { "w": "have your house painted", "vi": "thuê sơn nhà", "ex": "They had the house painted white.", "exvi": "Họ cho sơn nhà màu trắng." },
+            { "w": "have a suit made", "vi": "đặt may một bộ vest", "ex": "He had a suit made for the wedding.", "exvi": "Anh ấy đặt may vest cho đám cưới." },
+            { "w": "have your laptop fixed", "vi": "đem laptop đi sửa", "ex": "I had my laptop fixed yesterday.", "exvi": "Hôm qua tôi đem laptop đi sửa." }
+          ] },
+          { "title": "Dùng get — thân mật hơn, nghĩa y hệt", "items": [
+            { "w": "get your hair done", "vi": "đi làm tóc", "ex": "She got her hair done for the party.", "exvi": "Cô ấy đi làm tóc để dự tiệc.", "note": "<i>done</i> gồm cả cắt, nhuộm, uốn." },
+            { "w": "get your car serviced", "vi": "đem xe đi bảo dưỡng", "ex": "Get your car serviced before the trip.", "exvi": "Đi bảo dưỡng xe trước chuyến đi." },
+            { "w": "get a key cut", "vi": "đi đánh chìa khoá", "ex": "I need to get a spare key cut.", "exvi": "Tôi cần đi đánh một chìa dự phòng." },
+            { "w": "get your phone repaired", "vi": "đem điện thoại đi sửa", "ex": "Where can I get my phone repaired?", "exvi": "Tôi sửa điện thoại ở đâu được?" },
+            { "w": "get something delivered", "vi": "cho giao hàng tận nơi", "ex": "We got the sofa delivered on Monday.", "exvi": "Thứ Hai chúng tôi cho giao ghế sofa." },
+            { "w": "get a document signed", "vi": "xin chữ ký vào giấy tờ", "ex": "I must get this form signed today.", "exvi": "Hôm nay tôi phải xin chữ ký vào tờ này." },
+            { "w": "get your nails done", "vi": "đi làm móng", "ex": "She gets her nails done every month.", "exvi": "Tháng nào cô ấy cũng đi làm móng." },
+            { "w": "get it sorted", "vi": "nhờ lo cho xong", "ex": "I'll get it sorted this week.", "exvi": "Tuần này tôi sẽ lo cho xong.", "note": "Anh-Anh, rất thông tục." }
+          ] },
+          { "title": "Nghĩa thứ hai — chuyện xấu xảy đến với mình", "items": [
+            { "w": "have your wallet stolen", "vi": "bị móc ví", "ex": "I had my wallet stolen last night.", "exvi": "Tối qua tôi bị móc ví.", "note": "Không ai nhờ ai cả — mình là nạn nhân." },
+            { "w": "have your bike taken", "vi": "bị lấy mất xe đạp", "ex": "He had his bike taken from outside.", "exvi": "Anh ấy bị lấy mất xe đạp để ngoài cửa." },
+            { "w": "have your flight cancelled", "vi": "bị huỷ chuyến bay", "ex": "We had our flight cancelled twice.", "exvi": "Chúng tôi bị huỷ chuyến hai lần." },
+            { "w": "have your phone hacked", "vi": "bị xâm nhập điện thoại", "ex": "She had her phone hacked last year.", "exvi": "Năm ngoái điện thoại cô ấy bị xâm nhập." }
+          ] },
+          { "title": "Câu hỏi dịch vụ dùng mỗi ngày", "items": [
+            { "w": "Where can I get … done?", "vi": "Tôi làm … ở đâu được?", "ex": "Where can I get this printed?", "exvi": "Tôi in cái này ở đâu được?" },
+            { "w": "How much is it to have … done?", "vi": "Làm … hết bao nhiêu tiền?", "ex": "How much is it to have a key cut?", "exvi": "Đánh một chìa khoá hết bao nhiêu?" },
+            { "w": "I need to get … done", "vi": "Tôi cần đi làm …", "ex": "I need to get my watch fixed.", "exvi": "Tôi cần đem đồng hồ đi sửa." },
+            { "w": "I'm having … done tomorrow", "vi": "Mai tôi cho làm …", "ex": "I'm having the carpet cleaned tomorrow.", "exvi": "Mai tôi cho giặt tấm thảm." }
+          ] }
+        ] }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        { "t": "pairs", "items": [
+          { "wrong": "I <b>cut my hair</b> yesterday. <i>(ý: đi tiệm)</i>", "right": "I <b>had my hair cut</b> yesterday.", "why": "BẪY SỐ MỘT. <i>I cut my hair</i> nghĩa là bạn TỰ cầm kéo cắt. Tiếng Việt một câu dùng cho cả hai, tiếng Anh bắt buộc tách." },
+          { "wrong": "I had <b>cut my hair</b>.", "right": "I had <b>my hair cut</b>.", "why": "Sai THỨ TỰ. <i>had cut</i> là quá khứ hoàn thành, nghĩa khác hẳn. V3 phải đứng SAU đồ vật." },
+          { "wrong": "I had my car <b>repair</b>.", "right": "I had my car <b>repaired</b>.", "why": "Phải là <b>V3</b>, không phải động từ trần. Xe <i>được</i> sửa chứ không tự sửa." },
+          { "wrong": "I had my hair <b>to cut</b>.", "right": "I had my hair <b>cut</b>.", "why": "Không có <i>to</i>. Chỗ này là phân từ hai, không phải động từ nguyên thể." },
+          { "wrong": "I <b>have</b> my hair cut yesterday.", "right": "I <b>had</b> my hair cut yesterday.", "why": "<i>yesterday</i> là quá khứ nên <b>have</b> phải chia thành <b>had</b>. Phần V3 phía sau giữ nguyên." },
+          { "wrong": "<b>Did you had</b> your eyes tested?", "right": "<b>Did you have</b> your eyes tested?", "why": "Đã có <i>did</i> thì <b>have</b> về dạng trần. Lỗi chia hai lần quá khứ." },
+          { "wrong": "I want to <b>having</b> my phone fixed.", "right": "I want to <b>have</b> my phone fixed.", "why": "Sau <i>to</i> là động từ trần. <i>having</i> chỉ dùng sau giới từ hoặc ở thì tiếp diễn." },
+          { "wrong": "I was <b>stolen my wallet</b>.", "right": "I <b>had my wallet stolen</b>.", "why": "Người Việt hay dịch thẳng \"tôi bị mất ví\" thành bị động sai. Mẫu đúng là <i>have + đồ vật + V3</i>." },
+          { "wrong": "She <b>made her hair cut</b>.", "right": "She <b>had her hair cut</b>.", "why": "<i>make</i> là bắt ép người khác, không dùng cho dịch vụ. Dịch vụ dùng <b>have</b> hoặc <b>get</b>." },
+          { "wrong": "I had my hair cut <b>by the hairdresser's</b>.", "right": "I had my hair cut <b>at the hairdresser's</b>.", "why": "<i>by</i> đi với NGƯỜI làm, <i>at</i> đi với NƠI. Nói rõ người thì <i>by a friend</i>, nói nơi thì <i>at the salon</i>." }
+        ] }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        { "t": "table", "head": ["Cấu trúc", "Ai làm việc đó", "Ví dụ"], "rows": [
+          ["<code>I cut my hair</code>", "chính tôi", "<i>I cut my hair myself to save money.</i>"],
+          ["<code>I had my hair cut</code>", "thợ — tôi trả tiền", "<i>I had my hair cut at the salon.</i>"],
+          ["<code>I had my wallet stolen</code>", "kẻ trộm — tôi là nạn nhân", "<i>I had my wallet stolen on the bus.</i>"],
+          ["<code>I got him to cut my hair</code>", "anh ấy — tôi thuyết phục", "<i>I got my brother to cut my hair.</i>"],
+          ["<code>I made him cut my hair</code>", "anh ấy — tôi ép buộc", "<i>She made him cut it shorter.</i>"]
+        ] },
+        { "t": "h3", "text": "Hỏi một câu là ra ngay" },
+        { "t": "tree", "q": "Ai thật sự làm việc đó?", "nodes": [
+          { "if": "Chính tôi làm", "then": "Nói thẳng, không cần have", "ex": "I cut my hair." },
+          { "if": "Người khác làm, tôi nhờ hoặc trả tiền", "then": "have / get + đồ vật + V3", "ex": "I had my hair cut." },
+          { "if": "Người khác làm, tôi không hề muốn", "then": "have + đồ vật + V3 (nghĩa xấu)", "ex": "I had my bike stolen." },
+          { "if": "Tôi muốn nhấn vào NGƯỜI bị sai khiến", "then": "get somebody TO V / make somebody V", "ex": "I got my brother to help." }
+        ] },
+        { "t": "h3", "text": "Thang mức độ: ai chủ động đến đâu" },
+        { "t": "scale", "items": [
+          { "en": "I had my bike stolen.", "vi": "Tôi hoàn toàn bị động — nạn nhân" },
+          { "en": "I had my car repaired.", "vi": "Tôi chủ động nhờ, trung tính" },
+          { "en": "I got my car repaired.", "vi": "Tôi chủ động, có chút công sắp xếp" },
+          { "en": "I got my brother to repair it.", "vi": "Tôi phải thuyết phục người cụ thể" },
+          { "en": "I made him repair it.", "vi": "Tôi ép — mạnh nhất" }
+        ] }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Cấu trúc này gần như luôn xuất hiện khi bạn <b>nhờ vả</b> hoặc <b>hỏi về dịch vụ</b>. Năm khung dưới đây là nơi nó sống nhiều nhất." },
+        { "t": "link", "items": [
+          { "id": 3, "why": "I need to + V — <i>I need to get this document signed</i> là một trong những câu dùng nhiều nhất ở cơ quan, ngân hàng." },
+          { "id": 11, "why": "Could you + V…, please? — <i>Could you have it delivered by Friday?</i> khi nhờ cửa hàng giao hàng." },
+          { "id": 13, "why": "Would you mind + V-ing? — <i>Would you mind having it checked again?</i> khi nhờ kiểm tra lại cho lịch sự." },
+          { "id": 16, "why": "I was wondering if you could + V — mẫu lịch sự nhất khi nhờ một dịch vụ khó: <i>…if you could have it done by tomorrow</i>." },
+          { "id": 18, "why": "Would it be possible to + V? — <i>Would it be possible to have this translated today?</i> hỏi dịch vụ gấp." }
+        ] }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A · Chia đúng dạng V3" },
+        { "t": "quiz", "items": [
+          { "vi": "Thứ Sáu tôi đi cắt tóc.", "blank": "I had my hair __________ (cut) on Friday.", "a": "cut — V3 của cut viết giống nguyên thể" },
+          { "vi": "Cô ấy đem xe đi sửa tuần trước.", "blank": "She had her car __________ (repair) last week.", "a": "repaired" },
+          { "vi": "Bạn nên đi kiểm tra mắt.", "blank": "You should have your eyes __________ (test).", "a": "tested" },
+          { "vi": "Anh ấy đi nhổ một cái răng.", "blank": "He had a tooth __________ (take) out.", "a": "taken" },
+          { "vi": "Chúng tôi cho sơn lại bếp.", "blank": "We had the kitchen __________ (paint).", "a": "painted" },
+          { "vi": "Tôi bị móc ví trên xe buýt.", "blank": "I had my wallet __________ (steal) on the bus.", "a": "stolen — nghĩa xấu, mình là nạn nhân" }
+        ] },
+        { "t": "h3", "text": "B · Tự làm hay nhờ người khác?" },
+        { "t": "quiz", "items": [
+          { "vi": "Tôi tự cắt tóc để tiết kiệm.", "blank": "I __________ to save money.  (cut my hair / had my hair cut)", "a": "cut my hair — tự cầm kéo" },
+          { "vi": "Hôm qua tôi ra tiệm cắt tóc.", "blank": "I __________ yesterday.  (cut my hair / had my hair cut)", "a": "had my hair cut — thợ cắt" },
+          { "vi": "Gần đây bạn có đi kiểm tra mắt không?", "blank": "__________ your eyes tested recently?  (Have you had / Did you had)", "a": "Have you had — không chia quá khứ hai lần" },
+          { "vi": "Bạn đã đem điện thoại đi sửa chưa?", "blank": "__________ your phone fixed yet?  (Did you have / Did you had)", "a": "Did you have — sau did là dạng trần" },
+          { "vi": "Tôi cần xin chữ ký vào giấy này.", "blank": "I need to __________ this form signed.  (get / getting)", "a": "get — sau to là động từ trần" }
+        ] },
+        { "t": "h3", "text": "C · Dịch cả câu" },
+        { "t": "quiz", "items": [
+          { "vi": "1. Tháng nào cô ấy cũng đi làm móng.", "a": "She gets her nails done every month." },
+          { "vi": "2. Mai tôi cho giặt tấm thảm.", "a": "I'm having the carpet cleaned tomorrow." },
+          { "vi": "3. Tôi in mấy tấm ảnh này ở đâu được?", "a": "Where can I get these photos printed?" },
+          { "vi": "4. Họ bị huỷ chuyến bay hai lần.", "a": "They had their flight cancelled twice." },
+          { "vi": "5. Đánh một chìa khoá hết bao nhiêu tiền?", "a": "How much is it to have a key cut?" }
+        ] }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>Câu thần chú: \"đồ vật trước, V3 sau\".</b> <i>had <b>my hair</b> cut</i> — nhớ đúng thứ tự này là tránh được hai lỗi nặng nhất của bài.",
+          "<b>Thử bằng câu hỏi \"ai cầm kéo?\".</b> Mình cầm thì nói thẳng <i>I cut my hair</i>. Người khác cầm thì <i>I had my hair cut</i>.",
+          "<b><i>have</i> và <i>get</i> thay nhau được</b> ở nghĩa dịch vụ. <i>get</i> thân mật hơn, hay dùng khi nói chuyện; <i>have</i> an toàn trong văn viết.",
+          "<b>Chỉ <i>have/get</i> đổi thì</b>, phần sau đứng yên. Nhìn <i>had it done · will have it done · having it done</i> — chữ <i>done</i> không bao giờ đổi.",
+          "<b>Nghĩa xấu không cần nhớ riêng.</b> Cùng công thức, chỉ khác ở chỗ bạn không hề muốn chuyện đó: <i>I had my bike stolen</i>.",
+          "<b>Thuộc bốn cụm là đủ dùng 80% tình huống:</b> <i>have your hair cut · get your car repaired · get this signed · have your photo taken</i>."
+        ] }
+      ]
+    }
+  ]
+}

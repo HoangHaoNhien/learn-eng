@@ -1,0 +1,500 @@
+{
+  "id": 60,
+  "group": "Nhóm 6 · Đồng ý & Phản đối",
+  "title": "Fair enough — Thôi được, tôi chấp nhận",
+  "subtitle": "Câu khép lại một cuộc trao đổi phổ biến bậc nhất trong tiếng Anh, đặc biệt là tiếng Anh-Anh. Nó không phải là đồng ý — nó là chấp nhận: tôi nghe lý do của bạn rồi, và tôi thôi không bàn nữa. Ngữ điệu quyết định hoàn toàn: nói ấm là hài lòng, nói cụt là còn ấm ức.",
+  "pattern": [
+    "Fair enough.",
+    "That's fair. / Fair point.",
+    "Can't argue with that."
+  ],
+  "meaning": "Cũng có lý / Thôi được / Tôi chấp nhận",
+  "grammar": [17, 31, 32],
+  "tags": [
+    { "text": "Tần suất: rất cao (Anh-Anh)", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Khép lại trao đổi" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">Fair enough.</span> không có nghĩa là “đủ công bằng” — đó là cách dịch nghĩa đen sai lầm. Nó nghĩa là: <b>“tôi đã nghe lý do của bạn, tôi chấp nhận, và tôi thôi không bàn nữa.”</b>" },
+        { "t": "p", "html": "Điểm mấu chốt: đây <b>không phải là đồng ý</b>. Bạn có thể vẫn nghĩ khác, nhưng bạn công nhận rằng lý do của người kia đủ hợp lý để bạn ngừng tranh luận. Nó là một <b>câu khép lại</b>, không phải câu tán thành." },
+        { "t": "p", "html": "Đây là một trong những câu phổ biến nhất trong tiếng Anh-Anh — người Anh dùng nó hàng chục lần mỗi ngày. Nó xuất hiện khi chấp nhận lời từ chối, khi kết thúc một nhánh bàn bạc, khi ai đó giải thích lý do." },
+        { "t": "callout", "html": "<b>NGỮ ĐIỆU QUYẾT ĐỊNH TẤT CẢ.</b> Nói <i>Fair enough!</i> với giọng ấm, hơi lên = thật sự hài lòng. Nói <span class=\"k\">Fair enough.</span> cụt lủn, giọng phẳng và hạ xuống = <b>tôi còn ấm ức nhưng thôi</b>. Người bản xứ nghe ra ngay." },
+        { "t": "h3", "text": "Phân biệt các câu “fair”" },
+        {
+          "t": "table",
+          "head": ["Câu", "Nghĩa", "Bối cảnh"],
+          "rows": [
+            ["<code>Fair enough.</code>", "Thôi được, tôi chấp nhận", "Khép lại trao đổi"],
+            ["<code>Fair point.</code>", "Ý đó hợp lý", "Công nhận luận điểm — xem [Khung 52]"],
+            ["<code>That's fair.</code>", "Vậy là công bằng", "Nói về sự công bằng thật"],
+            ["<code>Fair play.</code>", "Giỏi đấy, phục thật", "Khen nỗ lực — Anh-Anh, nghĩa khác hẳn"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng đem vào email trang trọng.</b> <i>Fair enough</i> rất thân mật và mang màu hội thoại. Trong văn bản chính thức hãy dùng <i>I understand</i>, <i>That's understandable</i> hoặc <i>I accept that</i>." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🤝", "title": "Chấp nhận một lời từ chối", "text": "Bối cảnh số 1. <i>I can't make it.</i> — <i>Fair enough.</i>" },
+            { "icon": "🏁", "title": "Khép lại một nhánh bàn bạc", "text": "<i>Fair enough — let's move on.</i>" },
+            { "icon": "👂", "title": "Sau khi nghe lý do", "text": "<i>Fair enough, that makes sense.</i>" },
+            { "icon": "🔄", "title": "Nhượng bộ trong đàm phán", "text": "<i>Fair enough. Let's split the difference.</i>" },
+            { "icon": "😐", "title": "Chấp nhận miễn cưỡng", "text": "<i>Fair enough.</i> nói cụt và phẳng — người nghe hiểu bạn chưa vui." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn hoàn toàn đồng ý và hào hứng. Ở đó dùng [Khung 56]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Đứng một mình", "<code>Fair enough.</code>", "Fair enough."],
+            ["Kèm lý do", "<code>Fair enough — + mệnh đề</code>", "Fair enough — I'd do the same."],
+            ["Chuyển sang việc khác", "<code>Fair enough, let's + V</code>", "Fair enough, let's move on."],
+            ["Công nhận sự công bằng", "<code>That's fair.</code>", "That's fair enough, actually."],
+            ["Công nhận luận điểm", "<code>Fair point.</code>", "Fair point. Xem [Khung 52]."],
+            ["Không cãi được", "<code>Can't argue with that.</code>", "Can't argue with that."],
+            ["Hợp với tôi", "<code>Works for me.</code>", "Works for me."],
+            ["Tôi ổn với điều đó", "<code>Suits me.</code>", "Suits me fine."],
+            ["Chấp nhận trang trọng", "<code>That's understandable.</code>", "That's understandable."],
+            ["Công bằng mà nói", "<code>Fair's fair.</code>", "Fair's fair — you paid last time."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Thêm một câu sau để nghe chân thành hơn.</b> <i>Fair enough</i> đứng trơ một mình dễ bị hiểu là miễn cưỡng. Nối thêm <i>— I'd do the same</i> hoặc <i>— that makes sense</i> thì rõ ràng là bạn thật sự chấp nhận." },
+        { "t": "callout", "html": "<b>“Fair play” là một câu khác hẳn.</b> Trong tiếng Anh-Anh, <i>Fair play to her!</i> nghĩa là <b>“giỏi thật, phục cô ấy”</b> — một lời khen nỗ lực, không liên quan gì đến việc chấp nhận." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Nhóm “fair” và cách chấp nhận",
+              "items": [
+                { "w": "Fair enough", "vi": "thôi được, tôi chấp nhận", "ex": "Fair enough — I'd do the same.", "exvi": "Thôi được — mình cũng sẽ làm vậy.", "note": "KHÔNG phải “đủ công bằng”. Đây là lời CHẤP NHẬN khép lại trao đổi." },
+                { "w": "Fair point", "vi": "ý đó hợp lý", "ex": "Fair point, I hadn't thought of that.", "exvi": "Ý hợp lý, mình chưa nghĩ đến.", "note": "Công nhận LUẬN ĐIỂM — khác với <i>Fair enough</i> là chấp nhận. Xem [Khung 52]." },
+                { "w": "That's fair", "vi": "vậy là công bằng", "ex": "That's fair, actually.", "exvi": "Thật ra vậy là công bằng." },
+                { "w": "Fair play", "vi": "giỏi thật, phục", "ex": "Fair play to her — she did it alone.", "exvi": "Phục cô ấy thật — làm một mình luôn.", "note": "BẪY: đây là lời KHEN NỖ LỰC, không phải chấp nhận. Rất Anh-Anh." },
+                { "w": "Fair's fair", "vi": "công bằng mà nói", "ex": "Fair's fair — you paid last time.", "exvi": "Công bằng mà nói — lần trước bạn trả rồi.", "note": "Dùng khi nhắc đến sự công bằng giữa hai bên." },
+                { "w": "Can't argue with that", "vi": "không cãi được", "ex": "Can't argue with that.", "exvi": "Chỗ đó không cãi được.", "note": "Chấp nhận kiểu đầu hàng vui vẻ — thân mật." },
+                { "w": "Works for me", "vi": "với tôi thì được", "ex": "Works for me.", "exvi": "Với mình thì được." },
+                { "w": "Suits me", "vi": "tôi ổn với điều đó", "ex": "Suits me fine.", "exvi": "Mình thấy ổn." },
+                { "w": "I'll take that", "vi": "tôi nhận điều đó", "ex": "I'll take that.", "exvi": "Vậy tôi nhận." },
+                { "w": "No arguments here", "vi": "tôi không phản đối gì", "ex": "No arguments here.", "exvi": "Mình không phản đối gì." },
+                { "w": "That's understandable", "vi": "điều đó dễ hiểu thôi", "ex": "That's understandable.", "exvi": "Điều đó cũng dễ hiểu thôi.", "note": "Bản trang trọng của <i>Fair enough</i> — dùng được trong email." },
+                { "w": "I accept that", "vi": "tôi chấp nhận điều đó", "ex": "I accept that, thank you.", "exvi": "Tôi chấp nhận điều đó, cảm ơn.", "note": "Trang trọng nhất trong nhóm — hợp văn bản chính thức." }
+              ]
+            },
+            {
+              "title": "Nối tiếp sau khi chấp nhận",
+              "items": [
+                { "w": "I'd do the same", "vi": "tôi cũng sẽ làm vậy", "ex": "Fair enough — I'd do the same.", "exvi": "Thôi được — mình cũng sẽ làm vậy.", "note": "Câu nối làm lời chấp nhận nghe chân thành hẳn lên." },
+                { "w": "that makes sense", "vi": "vậy thì hợp lý", "ex": "Fair enough, that makes sense.", "exvi": "Thôi được, vậy thì hợp lý." },
+                { "w": "let's move on", "vi": "mình đi tiếp nhé", "ex": "Fair enough, let's move on.", "exvi": "Thôi được, mình đi tiếp nhé." },
+                { "w": "another time then", "vi": "vậy để lần khác", "ex": "Fair enough — another time then.", "exvi": "Thôi được — vậy để lần khác." },
+                { "w": "no hard feelings", "vi": "không có gì để bụng", "ex": "Fair enough, no hard feelings.", "exvi": "Thôi được, không có gì để bụng." },
+                { "w": "let's split the difference", "vi": "mình dung hòa đi", "ex": "Fair enough. Let's split the difference.", "exvi": "Thôi được. Mình dung hòa đi.", "note": "Câu nhượng bộ kinh điển trong mặc cả." },
+                { "w": "I see where you're coming from", "vi": "tôi hiểu vì sao bạn nghĩ vậy", "ex": "Fair enough — I see where you're coming from.", "exvi": "Thôi được — mình hiểu vì sao bạn nghĩ vậy.", "note": "Xem [Khung 53]." },
+                { "w": "your call", "vi": "bạn quyết", "ex": "Fair enough. Your call.", "exvi": "Thôi được. Bạn quyết." },
+                { "w": "I'll leave it with you", "vi": "tôi để bạn lo", "ex": "Fair enough, I'll leave it with you.", "exvi": "Thôi được, tôi để anh/chị lo.", "note": "Cách giao lại trách nhiệm rất lịch sự trong công việc." },
+                { "w": "next time then", "vi": "vậy lần sau", "ex": "Next time then.", "exvi": "Vậy lần sau nhé." },
+                { "w": "worth a try anyway", "vi": "dù sao cũng đáng thử", "ex": "Worth a try anyway.", "exvi": "Dù sao cũng đáng thử." },
+                { "w": "thanks for explaining", "vi": "cảm ơn đã giải thích", "ex": "Fair enough — thanks for explaining.", "exvi": "Thôi được — cảm ơn đã giải thích." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "Glad you understand", "vi": "may là bạn hiểu", "ex": "Glad you understand.", "exvi": "May là anh/chị hiểu." },
+                { "w": "Thanks for being decent about it", "vi": "cảm ơn vì đã thông cảm", "ex": "Thanks for being decent about it.", "exvi": "Cảm ơn bạn đã thông cảm." },
+                { "w": "You're not annoyed?", "vi": "bạn không bực chứ?", "ex": "You're not annoyed, are you?", "exvi": "Bạn không bực chứ?", "note": "Hỏi lại khi nghe <i>Fair enough</i> nói cụt lủn — dấu hiệu người kia còn ấm ức." },
+                { "w": "Not at all", "vi": "không hề", "ex": "Not at all, honestly.", "exvi": "Thật lòng là không hề." },
+                { "w": "I appreciate that", "vi": "tôi trân trọng điều đó", "ex": "I appreciate that.", "exvi": "Tôi trân trọng điều đó." },
+                { "w": "Let's leave it there", "vi": "mình dừng ở đó nhé", "ex": "Let's leave it there then.", "exvi": "Vậy mình dừng ở đó nhé." },
+                { "w": "Sorry again", "vi": "xin lỗi lần nữa", "ex": "Sorry again about that.", "exvi": "Xin lỗi lần nữa về chuyện đó." },
+                { "w": "Deal", "vi": "chốt", "ex": "Deal.", "exvi": "Chốt." },
+                { "w": "See you next week", "vi": "tuần sau gặp", "ex": "See you next week then.", "exvi": "Vậy tuần sau gặp." },
+                { "w": "No problem at all", "vi": "không vấn đề gì", "ex": "No problem at all.", "exvi": "Không vấn đề gì đâu." },
+                { "w": "That's settled then", "vi": "vậy là chốt", "ex": "That's settled then.", "exvi": "Vậy là chốt nhé." },
+                { "w": "Cheers", "vi": "cảm ơn nhé", "ex": "Cheers.", "exvi": "Cảm ơn nhé.", "note": "Rất Anh-Anh — vừa là “cảm ơn” vừa là “tạm biệt” trong hội thoại thân mật." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Fair enough — I'd do the same.",
+                  "vi": "Thôi được — mình cũng sẽ làm vậy.",
+                  "note": "Nối thêm một câu sau <i>Fair enough</i> khiến lời chấp nhận nghe chân thành hẳn lên.",
+                  "open": { "en": "Sorry, I can't make it on Saturday.", "vi": "Xin lỗi, thứ Bảy mình không đi được." },
+                  "reply": [
+                    { "them": "Thanks for being decent about it.", "themvi": "Cảm ơn bạn đã thông cảm.", "you": "Another time then.", "youvi": "Vậy để lần khác." },
+                    { "them": "You're not annoyed, are you?", "themvi": "Bạn không bực chứ?", "you": "Not at all, honestly.", "youvi": "Thật lòng là không hề." }
+                  ],
+                  "close": { "en": "See you next week.", "vi": "Tuần sau gặp nhé." }
+                },
+                {
+                  "en": "Fair enough.",
+                  "vi": "Thôi được.",
+                  "note": "Nói <b>cụt lủn, giọng phẳng</b> thì người nghe hiểu ngay là bạn còn ấm ức. Ngữ điệu quyết định tất cả.",
+                  "reply": [
+                    { "them": "You don't sound convinced.", "themvi": "Nghe bạn không thuyết phục lắm.", "you": "I'm fine. Really.", "youvi": "Mình ổn mà. Thật đấy." }
+                  ],
+                  "vars": [
+                    { "en": "Fair enough, no hard feelings.", "vi": "Thôi được, không có gì để bụng." }
+                  ]
+                },
+                {
+                  "en": "Fair's fair — you paid last time.",
+                  "vi": "Công bằng mà nói — lần trước bạn trả rồi.",
+                  "note": "<i>Fair's fair</i> dùng khi nhắc đến sự công bằng giữa hai bên, khác hẳn <i>Fair enough</i>.",
+                  "reply": [
+                    { "them": "Are you sure?", "themvi": "Bạn chắc không?", "you": "Absolutely. My turn.", "youvi": "Chắc chắn. Lượt mình." }
+                  ]
+                },
+                {
+                  "en": "Fair play to her — she did it alone.",
+                  "vi": "Phục cô ấy thật — làm một mình luôn.",
+                  "note": "BẪY: <i>Fair play</i> là lời KHEN NỖ LỰC, không phải chấp nhận. Rất Anh-Anh.",
+                  "reply": [
+                    { "them": "I couldn't have done that.", "themvi": "Mình thì chịu.", "you": "Me neither.", "youvi": "Mình cũng vậy." }
+                  ],
+                  "close": { "en": "We should say something to her.", "vi": "Mình nên nói với cô ấy một câu." }
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Fair enough, let's move on.",
+                  "vi": "Thôi được, mình đi tiếp nhé.",
+                  "note": "Cách khép lại một nhánh bàn bạc đã kéo dài — rất hữu dụng khi chủ trì họp.",
+                  "reply": [
+                    { "them": "Thanks, we were going in circles.", "themvi": "Cảm ơn, mình cứ bàn loanh quanh mãi.", "you": "Next item is the budget.", "youvi": "Mục tiếp theo là ngân sách." }
+                  ],
+                  "close": { "en": "We'll come back to it next week.", "vi": "Tuần sau mình quay lại chuyện đó." }
+                },
+                {
+                  "en": "Fair enough — thanks for explaining.",
+                  "vi": "Thôi được — cảm ơn anh/chị đã giải thích.",
+                  "note": "Chấp nhận sau khi nghe lý do. Thêm lời cảm ơn thì rất chuyên nghiệp.",
+                  "reply": [
+                    { "them": "Glad you understand.", "themvi": "May là anh/chị hiểu.", "you": "I'll adjust the plan accordingly.", "youvi": "Tôi sẽ điều chỉnh kế hoạch theo đó." }
+                  ],
+                  "vars": [
+                    { "en": "That's understandable.", "vi": "Điều đó cũng dễ hiểu thôi." }
+                  ]
+                },
+                {
+                  "en": "Fair enough. Your call.",
+                  "vi": "Thôi được. Anh/chị quyết.",
+                  "note": "Chấp nhận nhưng nhắc rõ rằng trách nhiệm thuộc về người kia — dùng cẩn thận vì có thể nghe hơi lạnh.",
+                  "reply": [
+                    { "them": "You're not happy about it.", "themvi": "Anh/chị không hài lòng về chuyện này.", "you": "I'd have chosen differently, but I'll support it.", "youvi": "Tôi thì sẽ chọn khác, nhưng tôi ủng hộ." }
+                  ]
+                },
+                {
+                  "en": "Can't argue with that.",
+                  "vi": "Chỗ đó tôi không cãi được.",
+                  "note": "Chấp nhận kiểu đầu hàng vui vẻ — nhẹ nhàng và thân thiện.",
+                  "reply": [
+                    { "them": "So we're agreed?", "themvi": "Vậy là mình thống nhất?", "you": "Works for me.", "youvi": "Với tôi thì được." }
+                  ],
+                  "close": { "en": "That's settled then.", "vi": "Vậy là chốt nhé." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Fair enough. Let's split the difference.",
+                  "vi": "Thôi được. Mình dung hòa đi.",
+                  "note": "Câu nhượng bộ kinh điển trong mặc cả — vừa chấp nhận vừa đề xuất giải pháp.",
+                  "open": { "en": "That's my best price, I'm afraid.", "vi": "E là đó là giá tốt nhất của em ạ." },
+                  "reply": [
+                    { "them": "Two point one, then.", "themvi": "Vậy hai triệu một ạ.", "you": "Deal.", "youvi": "Chốt." }
+                  ],
+                  "close": { "en": "Pleasure doing business.", "vi": "Rất vui được mua hàng." }
+                },
+                {
+                  "en": "Fair enough — I'll take the smaller one.",
+                  "vi": "Thôi được — tôi lấy cái nhỏ hơn.",
+                  "reply": [
+                    { "them": "Good choice for the space.", "themvi": "Lựa chọn hợp với không gian đó ạ.", "you": "Can you box it up?", "youvi": "Em đóng hộp giúp được không?" }
+                  ]
+                },
+                {
+                  "en": "That's fair enough, actually.",
+                  "vi": "Thật ra vậy cũng hợp lý.",
+                  "reply": [
+                    { "them": "It's the same policy everywhere.", "themvi": "Chính sách ở đâu cũng vậy ạ.", "you": "I'll keep the receipt then.", "youvi": "Vậy tôi giữ hóa đơn." }
+                  ],
+                  "vars": [
+                    { "en": "No arguments here.", "vi": "Tôi không phản đối gì." }
+                  ]
+                },
+                {
+                  "en": "Fair enough, another time then.",
+                  "vi": "Thôi được, vậy để lần khác.",
+                  "note": "Chấp nhận khi hàng hết hoặc dịch vụ không đáp ứng được — giữ quan hệ tốt cho lần sau.",
+                  "reply": [
+                    { "them": "We'll have stock on Thursday.", "themvi": "Thứ Năm bên em có hàng ạ.", "you": "I'll pop back then.", "youvi": "Vậy tôi ghé lại." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Fair enough — rules are rules.",
+                  "vi": "Thôi được — quy định là quy định.",
+                  "note": "Chấp nhận một quy định mà bạn không thích, nhưng không gây khó cho nhân viên.",
+                  "reply": [
+                    { "them": "Thank you for understanding.", "themvi": "Cảm ơn anh/chị đã thông cảm.", "you": "Not your fault.", "youvi": "Không phải lỗi của em." }
+                  ],
+                  "close": { "en": "I'll repack the bag.", "vi": "Tôi sắp lại hành lý." }
+                },
+                {
+                  "en": "Fair enough, that makes sense.",
+                  "vi": "Thôi được, vậy thì hợp lý.",
+                  "reply": [
+                    { "them": "The earlier train is always busier.", "themvi": "Chuyến sớm lúc nào cũng đông hơn.", "you": "Then let's take the later one.", "youvi": "Vậy mình đi chuyến muộn." }
+                  ]
+                },
+                {
+                  "en": "Works for me — what time?",
+                  "vi": "Với mình thì được — mấy giờ?",
+                  "reply": [
+                    { "them": "Half past eight at the station.", "themvi": "Tám rưỡi ở ga.", "you": "Suits me fine.", "youvi": "Mình thấy ổn." }
+                  ],
+                  "vars": [
+                    { "en": "Suits me — see you there.", "vi": "Mình ổn — gặp ở đó." }
+                  ]
+                },
+                {
+                  "en": "Fair enough, I'll leave it with you.",
+                  "vi": "Thôi được, tôi để anh/chị lo.",
+                  "note": "Cách giao lại trách nhiệm rất lịch sự — bạn rút lui mà không bỏ mặc.",
+                  "reply": [
+                    { "them": "I'll send the booking tonight.", "themvi": "Tối nay mình gửi đặt chỗ.", "you": "Cheers.", "youvi": "Cảm ơn nhé." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Fair enough — we'll wait then.",
+                  "vi": "Thôi được — vậy bọn tôi đợi.",
+                  "reply": [
+                    { "them": "About twenty minutes, sorry.", "themvi": "Khoảng hai mươi phút ạ, xin lỗi.", "you": "No problem at all.", "youvi": "Không vấn đề gì đâu." }
+                  ]
+                },
+                {
+                  "en": "Fair's fair — you chose last time.",
+                  "vi": "Công bằng mà nói — lần trước bạn chọn rồi.",
+                  "reply": [
+                    { "them": "Go on then, you pick.", "themvi": "Thôi được, bạn chọn đi.", "you": "Noodles it is.", "youvi": "Vậy là mì." }
+                  ],
+                  "vars": [
+                    { "en": "Fair enough — my turn to choose.", "vi": "Thôi được — đến lượt mình chọn." }
+                  ]
+                },
+                {
+                  "en": "Can't argue with that — it was delicious.",
+                  "vi": "Không cãi được — ngon thật.",
+                  "reply": [
+                    { "them": "Told you it was worth the trip.", "themvi": "Đã bảo là đáng đi mà.", "you": "You were right.", "youvi": "Bạn nói đúng." }
+                  ]
+                },
+                {
+                  "en": "Fair enough, let's leave it there.",
+                  "vi": "Thôi được, mình dừng chuyện đó ở đây.",
+                  "note": "Khép lại một tranh cãi nhỏ giữa bữa ăn — giữ không khí dễ chịu.",
+                  "reply": [
+                    { "them": "Agreed. Dessert?", "themvi": "Đồng ý. Tráng miệng nhé?", "you": "Now you're talking.", "youvi": "Giờ mới đúng chuyện." }
+                  ],
+                  "close": { "en": "My treat.", "vi": "Mình mời." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Chấp nhận khi bạn từ chối lời mời",
+          "lines": [
+            { "speaker": "Linh", "en": "Sorry, I can't make it on Saturday after all.", "vi": "Xin lỗi, hóa ra thứ Bảy mình không đi được." },
+            { "speaker": "You", "me": true, "en": "Fair enough — what came up?", "vi": "Thôi được — có chuyện gì vậy?" },
+            { "speaker": "Linh", "en": "My sister's visiting from Da Nang.", "vi": "Chị mình từ Đà Nẵng ra chơi." },
+            { "speaker": "You", "me": true, "en": "Fair enough, I'd do the same. Another time then.", "vi": "Thôi được, mình cũng sẽ làm vậy. Để lần khác nhé." },
+            { "speaker": "Linh", "en": "Thanks for being decent about it. You're not annoyed?", "vi": "Cảm ơn bạn đã thông cảm. Bạn không bực chứ?" },
+            { "speaker": "You", "me": true, "en": "Not at all, honestly. Bring her along next time.", "vi": "Thật lòng là không hề. Lần sau dẫn chị ấy đi luôn." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Mặc cả rồi chốt giá",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Could you do two million?", "vi": "Hai triệu được không em?" },
+            { "speaker": "Seller", "en": "Two point two is my best price, I'm afraid.", "vi": "E là hai triệu hai là giá tốt nhất của em ạ." },
+            { "speaker": "You", "me": true, "en": "Fair enough. Let's split the difference — two point one.", "vi": "Thôi được. Mình dung hòa — hai triệu một." },
+            { "speaker": "Seller", "en": "Go on then. Two point one.", "vi": "Thôi được ạ. Hai triệu một." },
+            { "speaker": "You", "me": true, "en": "Can't argue with that. Deal.", "vi": "Không cãi được. Chốt." },
+            { "speaker": "Seller", "en": "Pleasure doing business with you.", "vi": "Rất vui được phục vụ anh/chị ạ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "“Fair enough” <i>(hiểu là: đủ công bằng)</i>", "right": "<i>= Thôi được, tôi chấp nhận.</i>", "why": "BẪY DỊCH NGHĨA ĐEN. Nó là lời CHẤP NHẬN khép lại trao đổi, không nói gì về sự công bằng." },
+            { "wrong": "Fair enough! <i>(khi bạn rất hào hứng đồng ý)</i>", "right": "Absolutely! / Exactly!", "why": "<i>Fair enough</i> mang sắc thái chấp nhận, đôi khi hơi miễn cưỡng. Khi hào hứng hãy dùng [Khung 56]." },
+            { "wrong": "Fair enough for your explanation.", "right": "Fair enough — thanks for explaining.", "why": "<i>Fair enough</i> đứng độc lập, không đi với <i>for</i>. Nối bằng dấu gạch ngang và một câu mới." },
+            { "wrong": "Fair play. <i>(ý: tôi chấp nhận)</i>", "right": "Fair enough.", "why": "<b>Fair play</b> là lời KHEN NỖ LỰC (“giỏi thật”), hoàn toàn khác với chấp nhận." },
+            { "wrong": "Fair enough. <i>(trong email gửi khách hàng)</i>", "right": "That's understandable. / I accept that.", "why": "Quá thân mật cho văn bản chính thức. Dùng bản trang trọng hơn." },
+            { "wrong": "Fair point. <i>(khi chấp nhận một lời từ chối)</i>", "right": "Fair enough.", "why": "<b>Fair point</b> công nhận một LUẬN ĐIỂM [Khung 52]. Lời từ chối không phải luận điểm — dùng <i>Fair enough</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu", "Ý nghĩa", "Lúc nào dùng"],
+          "rows": [
+            ["<code>Fair enough.</code>", "Chấp nhận, khép lại", "Sau khi nghe lý do; chấp nhận từ chối."],
+            ["<code>Fair point.</code>", "Công nhận luận điểm", "Xem [Khung 52]."],
+            ["<code>That's fair.</code>", "Vậy là công bằng", "Nói về sự công bằng thật."],
+            ["<code>Fair play.</code>", "Giỏi thật, phục", "Khen nỗ lực — Anh-Anh."],
+            ["<code>I agree.</code>", "Đồng ý thật sự", "Xem [Khung 51]."],
+            ["<code>Exactly!</code>", "Đúng y ý tôi", "Xem [Khung 56]."],
+            ["<code>That's understandable.</code>", "Bản trang trọng", "Email, văn bản chính thức."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — phản ứng khi ai đó từ chối bạn" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "No problem at all!", "vi": "Ấm nhất — hoàn toàn thoải mái" },
+            { "en": "Fair enough — I'd do the same.", "vi": "Chấp nhận chân thành" },
+            { "en": "Fair enough.", "vi": "Chấp nhận trung tính" },
+            { "en": "Fair enough, I suppose.", "vi": "Có chút miễn cưỡng" },
+            { "en": "Fair enough. <i>(giọng phẳng, cụt)</i>", "vi": "Còn ấm ức — người nghe hiểu ngay" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Fair enough</b> nối âm thành <b>“fai-rə-NUF”</b> — âm /r/ nối sang nguyên âm của <i>enough</i>.",
+            "<b>enough</b> nhấn ở <b>âm tiết thứ hai</b>: ə-<b>NUF</b>. Đuôi <i>-gh</i> đọc là <b>/f/</b>, không phải /g/.",
+            "Trọng âm của cả cụm rơi vào <b>NUF</b>: <i>fai-rə-</i><b>NUF</b>.",
+            "<b>Giọng ấm, hơi lên ở cuối</b> = chấp nhận thật lòng, không có gì phải bận tâm.",
+            "<b>Giọng phẳng, hạ xuống, nói cụt</b> = tôi chấp nhận nhưng còn ấm ức. Người bản xứ nghe ra ngay.",
+            "Người Anh thường nói rất nhanh, gần như một từ: <b>“frə-NUF”</b>."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Fair enough — I'd do the same.", "vi": "Luyện shadowing: “fai-rə-NUF” giọng ấm, rồi nối câu sau liền mạch." },
+            { "en": "Fair enough.", "vi": "Tập hai kiểu: một lần giọng ấm lên, một lần giọng phẳng cụt — nghe khác biệt." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Thôi được — mình cũng sẽ làm vậy.", "blank": "__________ — I'd do the same.", "a": "Fair enough" },
+            { "vi": "Ý hợp lý, mình chưa nghĩ đến.", "blank": "__________, I hadn't thought of that.", "a": "Fair point (công nhận luận điểm)" },
+            { "vi": "Phục cô ấy thật — làm một mình luôn.", "blank": "__________ to her — she did it alone.", "a": "Fair play (khen nỗ lực)" },
+            { "vi": "Công bằng mà nói — lần trước bạn trả rồi.", "blank": "__________ — you paid last time.", "a": "Fair's fair" },
+            { "vi": "Chỗ đó tôi không cãi được.", "blank": "__________ that.", "a": "Can't argue with" },
+            { "vi": "Thôi được. Mình dung hòa đi.", "blank": "Fair enough. Let's __________.", "a": "split the difference" },
+            { "vi": "Điều đó cũng dễ hiểu thôi. (trang trọng)", "blank": "That's __________.", "a": "understandable" },
+            { "vi": "Với mình thì được.", "blank": "__________.", "a": "Works for me / Suits me" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Thôi được — mình cũng sẽ làm vậy.", "a": "Fair enough — I'd do the same." },
+            { "vi": "2. Thôi được, mình đi tiếp nhé.", "a": "Fair enough, let's move on." },
+            { "vi": "3. Thôi được. Mình dung hòa đi.", "a": "Fair enough. Let's split the difference." },
+            { "vi": "4. Công bằng mà nói — lần trước bạn trả rồi.", "a": "Fair's fair — you paid last time." },
+            { "vi": "5. Thôi được — quy định là quy định.", "a": "Fair enough — rules are rules." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Đừng dịch nghĩa đen.</b> <i>Fair enough</i> = “thôi được, tôi chấp nhận”, không liên quan đến sự công bằng.",
+            "<b>Nối thêm một câu để nghe chân thành:</b> <i>Fair enough — I'd do the same.</i> Đứng trơ một mình dễ bị hiểu là miễn cưỡng.",
+            "<b>Ngữ điệu là tất cả.</b> Giọng ấm hơi lên = ổn thật; giọng phẳng cụt lủn = còn ấm ức. Hãy chọn có ý thức.",
+            "<b>Phân biệt ba câu “fair”:</b> <i>Fair enough</i> (chấp nhận), <i>Fair point</i> (công nhận luận điểm), <i>Fair play</i> (khen nỗ lực).",
+            "<b>Trong email trang trọng hãy đổi sang “That's understandable”</b> hoặc <i>I accept that</i>.",
+            "<b>Bài tập 3 phút:</b> nhớ lại 5 lần gần nhất bạn bị từ chối, tập đáp lại mỗi lần bằng <i>Fair enough</i> kèm một câu nối — rồi đọc to bằng cả hai kiểu ngữ điệu."
+          ]
+        }
+      ]
+    }
+  ]
+}

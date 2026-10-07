@@ -1,0 +1,487 @@
+{
+  "id": 30,
+  "group": "Nhóm 3 · Xin phép & Cho phép",
+  "title": "Would you like me to…? — Đề nghị giúp mà không áp đặt",
+  "subtitle": "Cách đề nghị giúp đỡ lịch sự nhất trong tiếng Anh. Khác với “Let me help” vốn là bạn tự nhận việc, câu này trao quyền quyết định cho người kia — nên không ai cảm thấy bị can thiệp, kể cả khi họ muốn tự làm.",
+  "pattern": [
+    "Would you like me to <em>+ V</em>?",
+    "Shall I <em>+ V</em>?",
+    "Do you want me to <em>+ V</em>?"
+  ],
+  "meaning": "Bạn có muốn tôi… không? (đề nghị giúp)",
+  "grammar": [24, 29],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 5/5" },
+    { "text": "Rất mạnh trong dịch vụ & email" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">Would you like me to…?</span> hỏi xem người kia <b>có muốn</b> bạn làm việc đó không. Quyền quyết định nằm hoàn toàn ở họ — bạn chỉ đang đưa ra một lựa chọn." },
+        { "t": "p", "html": "So với [Khung 20]: <i>Let me check that for you</i> là bạn <b>tự nhận việc</b>, người kia chỉ còn cách chấp nhận. <i>Would you like me to check that?</i> thì để ngỏ — họ có thể nói không mà không phải từ chối thiện chí của bạn. Đây là khác biệt rất quan trọng khi làm việc với người bạn chưa thân." },
+        { "t": "p", "html": "Người Anh hay rút gọn thành <span class=\"k\">Shall I…?</span> — ngắn hơn và cũng rất lịch sự. Người Mỹ ít dùng <i>shall</i>, thay bằng <i>Should I…?</i> hoặc <i>Do you want me to…?</i> (thân mật hơn)." },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp:</b> phải có <b>to</b> trước động từ. <span class=\"k\">Would you like me to help?</span> ✓ — <i>Would you like me help?</i> ✗ — <i>Would you like that I help?</i> ✗ (không dùng mệnh đề)." },
+        { "t": "h3", "text": "Bốn cách đề nghị giúp cùng một việc" },
+        {
+          "t": "table",
+          "head": ["Câu", "Ai quyết định", "Dùng với ai"],
+          "rows": [
+            ["<code>Let me check that.</code>", "Bạn — đã nhận việc rồi", "Người thân quen, hoặc khi cần nhanh"],
+            ["<code>Do you want me to check?</code>", "Họ — nhưng hỏi thân mật", "Bạn bè, đồng nghiệp"],
+            ["<code>Shall I check that for you?</code>", "Họ — ngắn gọn, lịch sự", "Anh-Anh, dịch vụ"],
+            ["<code>Would you like me to check that?</code>", "Họ — lịch sự nhất", "Khách hàng, cấp trên, người lạ"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🤝", "title": "Đề nghị giúp khách hàng", "text": "Bối cảnh số 1. <i>Would you like me to book that for you?</i>" },
+            { "icon": "📧", "title": "Email công việc", "text": "<i>Would you like me to send the full report?</i> Đưa lựa chọn thay vì tự quyết." },
+            { "icon": "👔", "title": "Nói với cấp trên", "text": "<i>Would you like me to follow up with them?</i> Chủ động mà không vượt quyền." },
+            { "icon": "🧳", "title": "Giúp người lạ", "text": "<i>Would you like me to carry that for you?</i> Không ai thấy bị coi thường." },
+            { "icon": "🗣", "title": "Giữa cuộc trình bày", "text": "<i>Would you like me to go through it again?</i>" },
+            { "icon": "🚫", "title": "Cẩn thận khi…", "text": "Việc rất nhỏ và gấp — lúc đó <i>Let me…</i> nhanh và tự nhiên hơn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cơ bản", "<code>Would you like me to + V?</code>", "Would you like me to call them?"],
+            ["Thêm “for you”", "<code>…to + V + for you?</code>", "Would you like me to check that for you?"],
+            ["Ngắn gọn, Anh-Anh", "<code>Shall I + V?</code>", "Shall I call them?"],
+            ["Anh-Mỹ", "<code>Should I + V?</code>", "Should I call them?"],
+            ["Thân mật", "<code>Do you want me to + V?</code>", "Do you want me to call them?"],
+            ["Đưa hai lựa chọn", "<code>Would you like me to A or B?</code>", "Would you like me to email or call?"],
+            ["Hỏi về vật, dịch vụ", "<code>Would you like + N?</code>", "Would you like a receipt?"],
+            ["Tự nhận việc", "<code>Let me + V</code>", "Let me call them."],
+            ["Trả lời đồng ý", "<code>Yes, please. / That would be great.</code>", "That would be great, thank you."],
+            ["Trả lời từ chối", "<code>No, I'm fine, thanks.</code>", "No, I'm fine — thanks though."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cách trả lời rất hay nhầm:</b> khi người ta hỏi <i>Would you like me to…?</i>, đừng đáp trống một chữ <span class=\"k\">Yes</span> — nghe cộc. Hãy nói <span class=\"k\">Yes, please.</span> hoặc <span class=\"k\">That would be great, thank you.</span>" },
+        { "t": "callout", "html": "<b>Mẹo đưa hai lựa chọn:</b> <i>Would you like me to email it or bring it over?</i> Hỏi kiểu này thì người kia gần như luôn chọn một trong hai thay vì từ chối cả — rất hiệu quả trong dịch vụ." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “Would you like me to…”",
+              "items": [
+                { "w": "help", "vi": "giúp", "ex": "Would you like me to help with that?", "exvi": "Anh/chị có muốn tôi giúp việc đó không ạ?" },
+                { "w": "call", "vi": "gọi điện", "ex": "Would you like me to call them for you?", "exvi": "Anh/chị có muốn tôi gọi cho họ giúp không ạ?" },
+                { "w": "check", "vi": "kiểm tra", "ex": "Would you like me to check the availability?", "exvi": "Anh/chị có muốn tôi kiểm tra còn chỗ không ạ?" },
+                { "w": "send", "vi": "gửi", "ex": "Would you like me to send the full report?", "exvi": "Anh/chị có muốn tôi gửi báo cáo đầy đủ không ạ?" },
+                { "w": "book", "vi": "đặt chỗ", "ex": "Would you like me to book a table?", "exvi": "Anh/chị có muốn tôi đặt bàn không ạ?" },
+                { "w": "explain", "vi": "giải thích", "ex": "Would you like me to explain it again?", "exvi": "Anh/chị có muốn tôi giải thích lại không ạ?" },
+                { "w": "show you", "vi": "chỉ cho xem", "ex": "Would you like me to show you how it works?", "exvi": "Anh/chị có muốn tôi chỉ cách dùng không ạ?" },
+                { "w": "wait", "vi": "chờ", "ex": "Would you like me to wait outside?", "exvi": "Anh/chị có muốn tôi chờ bên ngoài không ạ?" },
+                { "w": "come with you", "vi": "đi cùng", "ex": "Would you like me to come with you?", "exvi": "Bạn có muốn mình đi cùng không?" },
+                { "w": "pick you up", "vi": "đón bạn", "ex": "Would you like me to pick you up at seven?", "exvi": "Bạn có muốn mình đón lúc bảy giờ không?" },
+                { "w": "arrange", "vi": "sắp xếp", "ex": "Would you like me to arrange a taxi?", "exvi": "Anh/chị có muốn tôi gọi taxi giúp không ạ?" },
+                { "w": "forward it", "vi": "chuyển tiếp", "ex": "Would you like me to forward it to the team?", "exvi": "Anh/chị có muốn tôi chuyển tiếp cho cả nhóm không ạ?" },
+                { "w": "remind you", "vi": "nhắc bạn", "ex": "Would you like me to remind you tomorrow?", "exvi": "Mai bạn có muốn mình nhắc không?" },
+                { "w": "walk you through", "vi": "hướng dẫn từng bước", "ex": "Would you like me to walk you through it?", "exvi": "Anh/chị có muốn tôi hướng dẫn từng bước không ạ?", "note": "Cụm rất chuyên nghiệp khi chỉ việc cho người khác." },
+                { "w": "take a look", "vi": "xem qua", "ex": "Would you like me to take a look at it?", "exvi": "Anh/chị có muốn tôi xem qua không ạ?" },
+                { "w": "order for you", "vi": "gọi món giúp", "ex": "Would you like me to order for you?", "exvi": "Bạn có muốn mình gọi món giúp không?" },
+                { "w": "translate", "vi": "dịch", "ex": "Would you like me to translate that?", "exvi": "Anh/chị có muốn tôi dịch câu đó không ạ?" },
+                { "w": "introduce you", "vi": "giới thiệu bạn với ai", "ex": "Would you like me to introduce you to her?", "exvi": "Bạn có muốn mình giới thiệu bạn với chị ấy không?" },
+                { "w": "follow up", "vi": "theo dõi tiếp", "ex": "Would you like me to follow up with them?", "exvi": "Anh/chị có muốn tôi theo dõi tiếp với họ không ạ?", "note": "<i>follow up with someone</i> = liên hệ lại để đốc thúc. Cụm rất hay dùng ở công sở." },
+                { "w": "hold it for you", "vi": "giữ giúp", "ex": "Would you like me to hold it for you until Friday?", "exvi": "Anh/chị có muốn em giữ hàng đến thứ Sáu không ạ?" }
+              ]
+            },
+            {
+              "title": "Câu hoàn chỉnh nên thuộc lòng",
+              "items": [
+                { "w": "Would you like me to help?", "vi": "anh/chị có muốn tôi giúp không?", "ex": "That looks heavy — would you like me to help?", "exvi": "Nhìn nặng quá — anh/chị có muốn tôi giúp không ạ?" },
+                { "w": "Would you like me to check that for you?", "vi": "tôi kiểm tra giúp anh/chị nhé?", "ex": "Would you like me to check that for you?", "exvi": "Anh/chị có muốn tôi kiểm tra giúp không ạ?", "note": "<i>for you</i> ở cuối làm câu ấm hơn hẳn." },
+                { "w": "Shall I call them?", "vi": "tôi gọi cho họ nhé?", "ex": "Shall I call them and find out?", "exvi": "Tôi gọi hỏi họ nhé?", "note": "Anh-Anh dùng nhiều. Ngắn mà vẫn rất lịch sự." },
+                { "w": "Would you like me to email it or bring it over?", "vi": "tôi gửi email hay mang qua?", "ex": "Would you like me to email it or bring it over?", "exvi": "Anh/chị muốn tôi gửi email hay mang qua ạ?", "note": "Đưa hai lựa chọn — người kia gần như luôn chọn một thay vì từ chối cả." },
+                { "w": "Would you like me to follow up?", "vi": "tôi theo dõi tiếp nhé?", "ex": "Would you like me to follow up with them next week?", "exvi": "Tuần sau tôi liên hệ lại với họ nhé?" },
+                { "w": "Would you like a receipt?", "vi": "anh/chị có cần biên lai không?", "ex": "Would you like a receipt with that?", "exvi": "Anh/chị có cần biên lai không ạ?", "note": "Dạng <i>Would you like + N</i> — câu nhân viên hỏi khách mỗi ngày." },
+                { "w": "Yes, please.", "vi": "vâng, làm ơn", "ex": "“Would you like me to call them?” — “Yes, please.”", "exvi": "“Tôi gọi cho họ nhé?” — “Vâng, phiền anh/chị.”", "note": "ĐỪNG đáp trống một chữ <i>Yes</i> — nghe cộc." },
+                { "w": "That would be great, thank you.", "vi": "vậy thì tốt quá, cảm ơn", "ex": "That would be great, thank you.", "exvi": "Vậy thì tốt quá, cảm ơn anh/chị.", "note": "Cách nhận lời ấm áp và chuyên nghiệp nhất." },
+                { "w": "No, I'm fine, thanks.", "vi": "thôi, tôi ổn, cảm ơn", "ex": "No, I'm fine — thanks though.", "exvi": "Thôi, tôi ổn — nhưng vẫn cảm ơn nhé.", "note": "<i>thanks though</i> ở cuối ghi nhận thiện chí dù bạn từ chối." },
+                { "w": "If you don't mind, that would help.", "vi": "nếu bạn không phiền thì tốt quá", "ex": "If you don't mind, that would really help.", "exvi": "Nếu anh/chị không phiền thì giúp tôi nhiều lắm." }
+              ]
+            },
+            {
+              "title": "Biến thể & cách đáp",
+              "items": [
+                { "w": "Shall I…?", "vi": "tôi… nhé?", "ex": "Shall I wait here?", "exvi": "Tôi chờ ở đây nhé?", "note": "Anh-Anh. Ngắn hơn mà vẫn lịch sự bằng." },
+                { "w": "Should I…?", "vi": "tôi có nên… không?", "ex": "Should I send it now?", "exvi": "Tôi gửi luôn bây giờ nhé?", "note": "Anh-Mỹ hay dùng thay cho <i>shall</i>." },
+                { "w": "Do you want me to…?", "vi": "bạn muốn mình… không?", "ex": "Do you want me to drive?", "exvi": "Bạn muốn mình lái xe không?", "note": "Thân mật — dùng với bạn bè, đồng nghiệp thân. Xem [Khung 02]." },
+                { "w": "Let me…", "vi": "để tôi…", "ex": "Let me check that for you.", "exvi": "Để tôi kiểm tra giúp anh/chị.", "note": "Tự nhận việc — nhanh hơn nhưng không để ngỏ. Xem [Khung 20]." },
+                { "w": "Would it help if I…?", "vi": "tôi… có giúp được gì không?", "ex": "Would it help if I came along?", "exvi": "Tôi đi cùng có giúp được gì không?", "note": "Rất nhã — hỏi về ích lợi chứ không về mong muốn." },
+                { "w": "I'm happy to…", "vi": "tôi sẵn lòng…", "ex": "I'm happy to do it if that's easier.", "exvi": "Nếu vậy tiện hơn thì tôi sẵn lòng làm.", "note": "Ngỏ ý mà không hỏi — nhẹ nhàng và chuyên nghiệp." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Would you like me to follow up with them next week?",
+                  "vi": "Tuần sau tôi liên hệ lại với họ nhé?",
+                  "note": "Chủ động nhận việc mà vẫn để cấp trên quyết — không vượt quyền, không thụ động.",
+                  "reply": [
+                    { "them": "Yes, please — Tuesday would be good.", "themvi": "Ừ, em làm giúp — thứ Ba thì tốt.", "you": "I'll put it in my calendar.", "youvi": "Em ghi vào lịch luôn ạ." },
+                    { "them": "No, I'll handle that one myself.", "themvi": "Không, vụ đó để tôi tự lo.", "you": "Understood — let me know if that changes.", "youvi": "Em rõ rồi — có gì thay đổi anh/chị báo em nhé." }
+                  ]
+                },
+                {
+                  "en": "Would you like me to email it or bring it over?",
+                  "vi": "Anh/chị muốn tôi gửi email hay mang qua ạ?",
+                  "note": "Đưa hai lựa chọn thay vì một câu hỏi có/không — người kia gần như luôn chọn một trong hai.",
+                  "reply": [
+                    { "them": "Email is fine, thanks.", "themvi": "Gửi email là được, cảm ơn.", "you": "Sending now.", "youvi": "Em gửi ngay đây ạ." }
+                  ],
+                  "vars": [
+                    { "en": "Would you like me to call or just send a message?", "vi": "Anh/chị muốn tôi gọi hay chỉ nhắn tin ạ?" }
+                  ]
+                },
+                {
+                  "en": "Would you like me to walk you through it?",
+                  "vi": "Anh/chị có muốn tôi hướng dẫn từng bước không ạ?",
+                  "note": "<span class=\"k\">walk someone through something</span> — nghe chuyên nghiệp hơn hẳn <i>I'll explain</i>.",
+                  "open": { "en": "It looks complicated at first —", "vi": "Nhìn thì phức tạp lúc đầu thôi —" },
+                  "reply": [
+                    { "them": "That would be great, thank you.", "themvi": "Vậy thì tốt quá, cảm ơn anh/chị.", "you": "Stop me any time if something's unclear.", "youvi": "Chỗ nào chưa rõ thì cứ ngắt lời tôi nhé." }
+                  ],
+                  "close": { "en": "Let me know if you get stuck later.", "vi": "Lát vướng chỗ nào thì báo tôi nhé." }
+                },
+                {
+                  "en": "Shall I take the minutes today?",
+                  "vi": "Hôm nay tôi ghi biên bản nhé?",
+                  "note": "<span class=\"k\">take the minutes</span> = ghi biên bản cuộc họp. Dạng <i>Shall I</i> ngắn gọn, rất hợp trong họp.",
+                  "reply": [
+                    { "them": "Yes please, that would help.", "themvi": "Ừ em ghi giúp, vậy đỡ lắm.", "you": "I'll share them straight after.", "youvi": "Họp xong em gửi ngay ạ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Would you like me to check if we have it in stock?",
+                  "vi": "Anh/chị có muốn em kiểm tra xem còn hàng không ạ?",
+                  "reply": [
+                    { "them": "Yes, please. Size medium.", "themvi": "Vâng, phiền bạn. Cỡ M ạ.", "you": "One moment, I'll look in the back.", "youvi": "Một lát ạ, em vào kho xem." }
+                  ]
+                },
+                {
+                  "en": "Would you like me to hold it for you until Friday?",
+                  "vi": "Anh/chị có muốn em giữ hàng đến thứ Sáu không ạ?",
+                  "note": "Đề nghị chủ động kiểu này khiến khách quay lại thật — hiệu quả hơn nhiều so với để họ tự cân nhắc.",
+                  "reply": [
+                    { "them": "That would be great, thank you.", "themvi": "Vậy thì tốt quá, cảm ơn bạn.", "you": "Can I take your name and number?", "youvi": "Cho em xin tên và số điện thoại ạ?" }
+                  ]
+                },
+                {
+                  "en": "Would you like a receipt with that?",
+                  "vi": "Anh/chị có cần biên lai không ạ?",
+                  "note": "Dạng <b>Would you like + danh từ</b> — câu nhân viên hỏi khách mỗi ngày. Nghe quen để trả lời ngay.",
+                  "reply": [
+                    { "them": "Yes, please — it's for work.", "themvi": "Có ạ — tôi cần để thanh toán công ty.", "you": "Here you go.", "youvi": "Đây ạ." }
+                  ]
+                },
+                {
+                  "en": "Would you like me to gift-wrap it?",
+                  "vi": "Anh/chị có muốn em gói quà không ạ?",
+                  "reply": [
+                    { "them": "Oh, yes please. Is there a charge?", "themvi": "Ồ, có ạ. Có mất phí không ạ?", "you": "It's free for purchases over one million.", "youvi": "Miễn phí với đơn trên một triệu ạ." }
+                  ],
+                  "close": { "en": "I hope they like it.", "vi": "Chúc người nhận sẽ thích ạ." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Would you like me to arrange a taxi for you?",
+                  "vi": "Anh/chị có muốn em gọi taxi giúp không ạ?",
+                  "reply": [
+                    { "them": "Yes please — for seven tomorrow morning.", "themvi": "Vâng phiền bạn — bảy giờ sáng mai ạ.", "you": "I'll book it and call your room to confirm.", "youvi": "Em đặt rồi gọi lên phòng xác nhận cho anh/chị ạ." }
+                  ],
+                  "vars": [
+                    { "en": "Would you like me to book you a table nearby?", "vi": "Anh/chị có muốn em đặt bàn ăn gần đây không ạ?" }
+                  ]
+                },
+                {
+                  "en": "That looks heavy — would you like me to carry it for you?",
+                  "vi": "Nhìn nặng quá — bạn có muốn mình xách giúp không?",
+                  "note": "Hỏi thay vì tự cầm lấy — người kia không cảm thấy bị coi là yếu.",
+                  "reply": [
+                    { "them": "That's very kind, thank you.", "themvi": "Bạn tử tế quá, cảm ơn nhé.", "you": "No problem at all.", "youvi": "Không có gì đâu ạ." },
+                    { "them": "I'm fine, thanks though.", "themvi": "Mình ổn mà, nhưng vẫn cảm ơn nhé.", "you": "No worries — just say if you change your mind.", "youvi": "Không sao — đổi ý thì cứ bảo mình." }
+                  ]
+                },
+                {
+                  "en": "Would you like me to show you on the map?",
+                  "vi": "Bạn có muốn mình chỉ trên bản đồ không?",
+                  "reply": [
+                    { "them": "That would help a lot, thanks.", "themvi": "Vậy thì đỡ nhiều lắm, cảm ơn bạn.", "you": "We're here, and you want to go there.", "youvi": "Mình đang ở đây, còn bạn muốn tới chỗ này." }
+                  ]
+                },
+                {
+                  "en": "Shall I wait here with the bags?",
+                  "vi": "Mình đứng đây trông hành lý nhé?",
+                  "reply": [
+                    { "them": "Yes, good idea. I won't be long.", "themvi": "Ừ, ý hay. Mình đi nhanh thôi.", "you": "Take your time.", "youvi": "Bạn cứ thong thả." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Would you like me to order for you?",
+                  "vi": "Bạn có muốn mình gọi món giúp không?",
+                  "note": "Rất hữu ích khi bạn đi cùng người không đọc được thực đơn tiếng địa phương.",
+                  "reply": [
+                    { "them": "Yes please — nothing too spicy.", "themvi": "Ừ phiền bạn — đừng cay quá nhé.", "you": "Got it. Any allergies?", "youvi": "Hiểu rồi. Bạn có dị ứng gì không?" }
+                  ]
+                },
+                {
+                  "en": "Would you like me to translate the menu?",
+                  "vi": "Bạn có muốn mình dịch thực đơn không?",
+                  "reply": [
+                    { "them": "That would be amazing, thank you.", "themvi": "Vậy thì tuyệt quá, cảm ơn bạn.", "you": "Let's start from the top.", "youvi": "Mình bắt đầu từ trên xuống nhé." }
+                  ]
+                },
+                {
+                  "en": "Would you like me to ask if it contains nuts?",
+                  "vi": "Bạn có muốn mình hỏi xem món đó có hạt không?",
+                  "note": "Đề nghị giúp trong chuyện dị ứng — nên hỏi thay vì tự ý hỏi hộ.",
+                  "reply": [
+                    { "them": "Yes please, I'd really appreciate it.", "themvi": "Ừ phiền bạn, mình cảm kích lắm.", "you": "I'll check with the waiter now.", "youvi": "Mình hỏi phục vụ luôn đây." }
+                  ],
+                  "close": { "en": "Better safe than sorry.", "vi": "Cẩn thận vẫn hơn." }
+                },
+                {
+                  "en": "Shall I get the bill?",
+                  "vi": "Mình gọi tính tiền nhé?",
+                  "reply": [
+                    { "them": "Yes, and let's split it.", "themvi": "Ừ, mà mình chia đôi nhé.", "you": "Sounds fair.", "youvi": "Hợp lý đấy." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Would you like me to come with you?",
+                  "vi": "Bạn có muốn mình đi cùng không?",
+                  "note": "Câu rất ấm khi ai đó sắp làm việc gì khó khăn — đi khám, phỏng vấn, gặp mặt căng thẳng.",
+                  "open": { "en": "I know it's a big day tomorrow —", "vi": "Mình biết mai là ngày quan trọng —" },
+                  "reply": [
+                    { "them": "Would you? That would really help.", "themvi": "Bạn đi cùng được à? Vậy thì đỡ lắm.", "you": "Of course. What time shall I be there?", "youvi": "Tất nhiên rồi. Mấy giờ mình tới?" },
+                    { "them": "I think I need to do this one alone.", "themvi": "Mình nghĩ việc này mình nên tự làm.", "you": "I understand. I'll be on the phone.", "youvi": "Mình hiểu. Mình luôn sẵn sàng nghe máy." }
+                  ]
+                },
+                {
+                  "en": "Would you like me to pick you up at seven?",
+                  "vi": "Bạn có muốn mình đón lúc bảy giờ không?",
+                  "reply": [
+                    { "them": "That would be great — I'll be outside.", "themvi": "Vậy thì tuyệt — mình đứng ngoài chờ.", "you": "See you then.", "youvi": "Lát gặp nhé." }
+                  ]
+                },
+                {
+                  "en": "Would you like me to remind you tomorrow?",
+                  "vi": "Mai bạn có muốn mình nhắc không?",
+                  "reply": [
+                    { "them": "Please do — I'll definitely forget.", "themvi": "Nhắc mình nhé — kiểu gì mình cũng quên.", "you": "I'll text you in the morning.", "youvi": "Sáng mai mình nhắn cho bạn." }
+                  ]
+                },
+                {
+                  "en": "Would you like me to introduce you to her?",
+                  "vi": "Bạn có muốn mình giới thiệu bạn với chị ấy không?",
+                  "note": "Đề nghị giúp trong giao tiếp xã hội — rất giá trị khi bạn ở một sự kiện toàn người lạ.",
+                  "reply": [
+                    { "them": "Yes please, I've been wanting to meet her.", "themvi": "Ừ phiền bạn, mình muốn gặp chị ấy lâu rồi.", "you": "Come on, I'll take you over.", "youvi": "Đi nào, mình dẫn bạn sang." }
+                  ],
+                  "close": { "en": "She's lovely, you'll get on well.", "vi": "Chị ấy dễ mến lắm, hai người sẽ hợp nhau." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Lễ tân khách sạn đề nghị giúp khách",
+          "lines": [
+            { "speaker": "Guest", "en": "I've got an early flight tomorrow.", "vi": "Mai tôi có chuyến bay sớm." },
+            { "speaker": "You", "me": true, "en": "Would you like me to arrange a taxi for you?", "vi": "Anh/chị có muốn em gọi taxi giúp không ạ?" },
+            { "speaker": "Guest", "en": "That would be great. Six thirty?", "vi": "Vậy thì tốt quá. Sáu rưỡi nhé?" },
+            { "speaker": "You", "me": true, "en": "Six thirty it is. Would you like me to order a breakfast box too?", "vi": "Sáu rưỡi ạ. Anh/chị có muốn em chuẩn bị hộp ăn sáng không ạ?" },
+            { "speaker": "Guest", "en": "Oh, yes please. I didn't know you did that.", "vi": "Ồ, có ạ. Tôi không biết bên mình có dịch vụ đó." },
+            { "speaker": "You", "me": true, "en": "We do. Would you like me to call your room at six to wake you?", "vi": "Có ạ. Anh/chị có muốn em gọi lên phòng lúc sáu giờ để đánh thức không ạ?" }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Đề nghị giúp cấp trên mà không vượt quyền",
+          "lines": [
+            { "speaker": "Manager", "en": "The supplier still hasn't replied.", "vi": "Nhà cung cấp vẫn chưa trả lời." },
+            { "speaker": "You", "me": true, "en": "Would you like me to follow up with them?", "vi": "Anh/chị có muốn em liên hệ lại với họ không ạ?" },
+            { "speaker": "Manager", "en": "Would you? I've chased twice already.", "vi": "Em làm giúp được à? Tôi giục hai lần rồi." },
+            { "speaker": "You", "me": true, "en": "Of course. Would you like me to call or just email?", "vi": "Vâng ạ. Anh/chị muốn em gọi hay chỉ gửi email?" },
+            { "speaker": "Manager", "en": "Call. Email clearly isn't working.", "vi": "Gọi đi. Email rõ ràng không ăn thua." },
+            { "speaker": "You", "me": true, "en": "I'll call this afternoon and report back.", "vi": "Chiều nay em gọi rồi báo lại anh/chị ạ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Would you like me help you?", "right": "Would you like me to help you?", "why": "Thiếu <b>to</b>. Cấu trúc luôn là <i>would like + ai + <b>to</b> + V</i>." },
+            { "wrong": "Would you like that I help you?", "right": "Would you like me to help you?", "why": "Không dùng mệnh đề <i>that</i>. Phải là <b>ai + to V</b>. Xem [Khung 01]." },
+            { "wrong": "Would you like me to helping?", "right": "Would you like me to help?", "why": "Sau <b>to</b> là động từ nguyên thể, không phải V-ing." },
+            { "wrong": "“Would you like me to call them?” — “Yes.”", "right": "“…?” — “Yes, please.”", "why": "Đáp trống một chữ <i>Yes</i> nghe cộc. Luôn thêm <b>please</b> khi nhận lời đề nghị giúp." },
+            { "wrong": "Do you like me to help?", "right": "Would you like me to help?", "why": "<i>Do you like</i> hỏi về sở thích lâu dài. Đề nghị ngay lúc này phải dùng <b>Would</b>." },
+            { "wrong": "Shall I to call them?", "right": "Shall I call them?", "why": "Sau <b>shall</b> là động từ nguyên thể không <i>to</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>Would you like me to + V?</code>", "Lịch sự nhất — trao quyền quyết định", "<i>Would you like me to check?</i>"],
+            ["<code>Shall I + V?</code>", "Ngắn gọn, Anh-Anh — vẫn lịch sự", "<i>Shall I check?</i>"],
+            ["<code>Should I + V?</code>", "Anh-Mỹ, hỏi ý kiến nhiều hơn", "<i>Should I check?</i>"],
+            ["<code>Do you want me to + V?</code>", "Thân mật — bạn bè, đồng nghiệp", "<i>Do you want me to check?</i> — Xem [Khung 02]."],
+            ["<code>Let me + V</code>", "Tự nhận việc — không để ngỏ", "<i>Let me check.</i> — Xem [Khung 20]."],
+            ["<code>Would it help if I + V2?</code>", "Rất nhã — hỏi về ích lợi", "<i>Would it help if I came along?</i>"],
+            ["<code>I'm happy to + V</code>", "Ngỏ ý mà không hỏi", "<i>I'm happy to do it.</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — đề nghị kiểm tra giúp ai đó" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'll check.", "vi": "Tự quyết — không hỏi ai" },
+            { "en": "Let me check.", "vi": "Nhận việc — thân thiện" },
+            { "en": "Do you want me to check?", "vi": "Hỏi ý — thân mật" },
+            { "en": "Shall I check that for you?", "vi": "Lịch sự — ngắn gọn" },
+            { "en": "Would you like me to check that for you?", "vi": "Lịch sự nhất — khách hàng, cấp trên" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Would you</b> dính thành <b>“WU-jə”</b> /ˈwʊdʒə/ — giống <i>Could you</i> ở [Khung 11].",
+            "<b>like me to</b> → “laik-mi-tə” — <i>to</i> giảm thành /tə/ rất nhẹ nhưng bắt buộc phải có.",
+            "<b>Would you like me to</b> → “wu-jə-laik-mi-tə” — năm âm tiết nói liền một hơi, rất nhanh.",
+            "Cả cụm mở đầu nói <b>nhanh và nhẹ</b>, rồi mới nhấn vào động từ chính: …me to <b>CHECK</b> that.",
+            "<b>Shall I</b> → “shæ-lai”, hai âm tiết dính liền.",
+            "Câu phải <b>lên giọng ở cuối</b> — đây là câu hỏi thật, người kia hoàn toàn có thể nói không."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Would you like me to check that for you?", "vi": "Luyện shadowing: nói nhanh cả cụm đầu, nhấn vào “check”." },
+            { "en": "That would be great, thank you.", "vi": "Câu nhận lời chuẩn — lặp cho thành phản xạ thay vì chỉ nói “Yes”." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Anh/chị có muốn tôi giúp không ạ?", "blank": "__________ help?", "a": "Would you like me to" },
+            { "vi": "Tôi kiểm tra giúp anh/chị nhé?", "blank": "Would you like me to check that __________?", "a": "for you" },
+            { "vi": "Tôi gọi cho họ nhé? (Anh-Anh, ngắn gọn)", "blank": "__________ call them?", "a": "Shall I" },
+            { "vi": "Anh/chị muốn tôi gửi email hay mang qua ạ?", "blank": "Would you like me to email it __________?", "a": "or bring it over" },
+            { "vi": "“Tôi gọi cho họ nhé?” — “Vâng, phiền anh/chị.”", "blank": "“Would you like me to call them?” — “__________.”", "a": "Yes, please (không chỉ “Yes”)" },
+            { "vi": "Vậy thì tốt quá, cảm ơn anh/chị.", "blank": "__________, thank you.", "a": "That would be great" },
+            { "vi": "Thôi, tôi ổn — nhưng vẫn cảm ơn nhé.", "blank": "No, I'm fine — __________.", "a": "thanks though" },
+            { "vi": "Tôi đi cùng có giúp được gì không?", "blank": "__________ I came along?", "a": "Would it help if" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tuần sau tôi liên hệ lại với họ nhé?", "a": "Would you like me to follow up with them next week?" },
+            { "vi": "2. Anh/chị có muốn tôi hướng dẫn từng bước không ạ?", "a": "Would you like me to walk you through it?" },
+            { "vi": "3. Anh/chị có muốn em gọi taxi giúp không ạ?", "a": "Would you like me to arrange a taxi for you?" },
+            { "vi": "4. Bạn có muốn mình đi cùng không?", "a": "Would you like me to come with you?" },
+            { "vi": "5. Nhìn nặng quá — bạn có muốn mình xách giúp không?", "a": "That looks heavy — would you like me to carry it for you?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Dùng thay “Let me” với người chưa thân:</b> câu này để ngỏ cho họ từ chối mà không phải chối bỏ thiện chí của bạn.",
+            "<b>Nhớ chữ “to”:</b> <i>would like me <b>to</b> help</i>. Đây là lỗi hay gặp nhất của khung này.",
+            "<b>Đưa hai lựa chọn thay vì hỏi có/không:</b> <i>Would you like me to email it or bring it over?</i> — người kia gần như luôn chọn một trong hai.",
+            "<b>Thuộc câu trả lời:</b> <i>Yes, please.</i> và <i>That would be great, thank you.</i> Đừng bao giờ đáp trống một chữ <i>Yes</i>.",
+            "<b>Học thêm “Shall I…?”:</b> ngắn hơn nhiều mà vẫn lịch sự bằng — rất tiện khi nói nhanh.",
+            "<b>Bài tập 3 phút:</b> nghĩ 5 việc bạn hay giúp đồng nghiệp, viết mỗi việc hai lần — một bằng <i>Let me…</i>, một bằng <i>Would you like me to…?</i> và cảm nhận sự khác biệt."
+          ]
+        }
+      ]
+    }
+  ]
+}

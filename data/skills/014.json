@@ -1,0 +1,277 @@
+{
+  "id": 14,
+  "group": "Nhóm 3 · Nói — từ câu lẻ lên đoạn dài",
+  "title": "So sánh hai lựa chọn",
+  "subtitle": "A is better than B — nhưng tốt hơn ở ĐIỂM NÀO? So sánh mà không nêu tiêu chí thì người nghe không có gì để đồng ý hay phản đối. Thêm nữa, mấy cấu trúc so sánh hay bị dịch thẳng: same with ✗, different with ✗.",
+  "meaning": "Đặt hai thứ cạnh nhau và nói rõ hơn kém ở đâu",
+  "rule": [
+    "Luôn nêu <em>TIÊU CHÍ</em>: hơn <em>ở điểm nào</em>",
+    "<em>the same as</em> · <em>different from</em> — không phải <em>with</em>",
+    "Cân cả hai bên rồi mới chọn"
+  ],
+  "tags": [
+    { "text": "Mức độ: B2 bắt buộc", "hot": true },
+    { "text": "Hơn — nhưng hơn ở đâu?" },
+    { "text": "same with ✗ · different with ✗" },
+    { "text": "Ảnh hưởng: lớn" }
+  ],
+  "frames": [8, 39, 52, 57, 66],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "So sánh là dạng câu hỏi hay gặp nhất ở phần thi nói B2 — <i>Which is better, A or B?</i> Người Việt thường trả lời ngay bằng một câu <i>A is better</i>, rồi không biết nói gì tiếp." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — so sánh không có tiêu chí:</b><br><i>“Living in the city is better than living in the countryside.”</i> — rồi hết.<br>Hơn <b>ở điểm nào</b>? Tiện hơn? Rẻ hơn? Vui hơn? Người nghe không có gì để bám vào.<br><b>Khung ba bước:</b><br>① <b>Nêu tiêu chí</b> — <i>In terms of convenience,…</i><br>② <b>So sánh theo tiêu chí đó</b> — <i>…the city is much better.</i><br>③ <b>Nhưng tiêu chí khác thì ngược</b> — <i>On the other hand, when it comes to cost, the countryside wins.</i><br>Hai tiêu chí trái chiều là đủ cho một câu trả lời B2." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — dịch thẳng mấy cấu trúc so sánh:</b><br>Tiếng Việt nói “giống <b>với</b>”, “khác <b>với</b>” nên người Việt viết:<br>• <i>the same <b>with</b></i> ✗ → <b>the same as</b> ✓<br>• <i>different <b>with</b></i> ✗ → <b>different from</b> ✓<br>• <i>compare <b>with</b> …</i> khi ý là “so với” → nên là <b>compared to</b><br>• <i><b>more</b> better</i> ✗ → <b>better</b> ✓ — đã có <i>-er</i> thì không thêm <i>more</i>. Xem [Ngữ pháp 37]." },
+        { "t": "h3", "text": "Bốn cách đặt hai thứ cạnh nhau" },
+        {
+          "t": "table",
+          "head": ["Cách", "Cấu trúc", "Ví dụ"],
+          "rows": [
+            ["Hơn kém", "A is <b>-er / more</b> … <b>than</b> B", "The city is cheaper than…"],
+            ["Ngang nhau", "A is <b>as</b> … <b>as</b> B", "It's as good as the other one."],
+            ["Nêu tiêu chí", "<b>In terms of</b> … / <b>When it comes to</b> …", "In terms of cost,…"],
+            ["Lật sang mặt kia", "<b>On the other hand</b>, …", "On the other hand, …"]
+          ]
+        },
+        { "t": "p", "html": "Hai hàng cuối mới là thứ nâng câu trả lời lên B2. Hai hàng đầu là ngữ pháp thuần — đã học ở [Ngữ pháp 37]." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Chức năng", "Cụm", "Ghi chú"],
+          "rows": [
+            ["Nêu tiêu chí", "In terms of… · When it comes to…", "Bước người Việt hay bỏ"],
+            ["Hơn rõ rệt", "far more… · much better than…", "<i>much</i>, không phải <i>very</i>"],
+            ["Hơn một chút", "slightly better · a bit cheaper", "Làm mềm"],
+            ["Ngang nhau", "just as good as · pretty much the same", "<i>the same <b>as</b></i>"],
+            ["Khác nhau", "different from · nothing like", "<i>different <b>from</b></i>"],
+            ["Đặt cạnh nhau", "Compared to… · Whereas…", "Xem [Ngữ pháp 48]"],
+            ["Lật mặt kia", "On the other hand,… · Then again,…", "Bắt buộc ở B2"],
+            ["Nêu đánh đổi", "The trade-off is… · You gain… but you lose…", "Cách nói chín"],
+            ["Ưu điểm", "The main advantage is…", "Dùng khi liệt kê"],
+            ["Nhược điểm", "The downside is… · The drawback is…", "Cặp với trên"],
+            ["Chọn một bên", "I'd rather… · I'd go for…", "Xem [Khung 8]"],
+            ["Không chọn", "It depends on… · Both have their merits.", "Xem [Khung 57]"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cách nói đánh đổi — dấu hiệu người nghĩ kỹ:</b><br><i><b>You gain</b> convenience <b>but you lose</b> space.</i><br><i><b>The trade-off is</b> that you pay more for a shorter commute.</i><br>Câu này cho thấy bạn hiểu <b>không có lựa chọn nào tốt mọi mặt</b> — đúng cách nghĩ mà B2 chờ đợi." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "In terms of convenience, the city is much better.", "vi": "Về mặt tiện lợi thì thành phố hơn hẳn.", "note": "BẪY SỐ MỘT: nêu tiêu chí TRƯỚC khi so sánh." },
+            { "en": "When it comes to cost, the countryside wins.", "vi": "Nói về chi phí thì nông thôn thắng.", "note": "Tiêu chí thứ hai, ngược chiều — đây là chỗ lên B2." },
+            { "en": "On the other hand, there's much less to do there.", "vi": "Mặt khác thì ở đó chẳng có gì chơi.", "note": "Lật sang mặt kia. Xem [Ngữ pháp 48]." },
+            { "en": "It's just as good as the other one.", "vi": "Cái này tốt ngang cái kia.", "note": "<b>as … as</b> cho hai thứ ngang nhau." },
+            { "en": "This one is pretty much the same as that one.", "vi": "Cái này gần như giống cái kia.", "note": "BẪY SỐ HAI: <b>the same as</b>, không phải <i>same with</i>." },
+            { "en": "My job is completely different from hers.", "vi": "Công việc tôi khác hẳn của cô ấy.", "note": "<b>different from</b>, không phải <i>different with</i>." },
+            { "en": "Compared to Hanoi, it's much quieter.", "vi": "So với Hà Nội thì yên hơn nhiều.", "note": "<b>much</b> quieter, không phải <i>very</i>. Xem [Ngữ pháp 37]." },
+            { "en": "The main advantage is that you save time.", "vi": "Ưu điểm chính là tiết kiệm thời gian." },
+            { "en": "The downside is that it costs more.", "vi": "Nhược điểm là tốn tiền hơn.", "note": "Luôn đi cặp với câu trên." },
+            { "en": "You gain convenience but you lose space.", "vi": "Được cái tiện nhưng mất cái rộng.", "note": "Cách nói đánh đổi — nghe rất chín." },
+            { "en": "I'd rather live outside the city, personally.", "vi": "Riêng tôi thì thà sống ngoài thành phố.", "note": "Chốt bằng lựa chọn cá nhân. Xem [Khung 8]." },
+            { "en": "It really depends on what stage of life you're at.", "vi": "Cái đó còn tùy bạn đang ở giai đoạn nào.", "note": "Câu an toàn khi không muốn chọn phe. Xem [Khung 57]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào cần để ý nhất",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🎤", "title": "Thi nói phần so sánh", "text": "<i>Which is better, A or B?</i> — câu hỏi kinh điển." },
+            { "icon": "🛒", "title": "Chọn mua đồ", "text": "<i>What's the difference between…?</i> Xem [Khung 66]." },
+            { "icon": "💼", "title": "Cân nhắc hai đề xuất", "text": "Nêu ưu, nhược rồi mới chọn." },
+            { "icon": "🏠", "title": "Nói về lựa chọn sống", "text": "Thành phố hay quê, thuê hay mua." },
+            { "icon": "✍️", "title": "Viết luận hai chiều", "text": "Cùng khung tiêu chí. Xem [Kỹ năng 19]." },
+            { "icon": "🚫", "title": "Đừng làm…", "text": "Đừng nói <i>A is better</i> rồi dừng — thiếu tiêu chí." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cụm để so sánh",
+      "blocks": [
+        { "t": "p", "html": "Chọn một cụm ở cột trái để xem nó dùng ở bước nào và câu mẫu hoàn chỉnh." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Nêu tiêu chí & so hơn kém",
+              "items": [
+                { "w": "In terms of…", "vi": "Về mặt…", "ex": "In terms of convenience, the city is better.", "exvi": "Về tiện lợi thì thành phố hơn.", "note": "BẪY SỐ MỘT: bước người Việt hay bỏ nhất." },
+                { "w": "When it comes to…", "vi": "Nói về…", "ex": "When it comes to cost, the countryside wins.", "exvi": "Nói về chi phí thì nông thôn thắng." },
+                { "w": "As far as … is concerned", "vi": "Về phần…", "ex": "As far as safety is concerned, both are fine.", "exvi": "Về an toàn thì cả hai đều ổn." },
+                { "w": "much better than", "vi": "tốt hơn nhiều", "ex": "It's much better than the old one.", "exvi": "Tốt hơn cái cũ nhiều.", "note": "<b>much</b>, không phải <i>very</i>. Xem [Ngữ pháp 37]." },
+                { "w": "far more…", "vi": "hơn hẳn", "ex": "It's far more convenient.", "exvi": "Tiện hơn hẳn." },
+                { "w": "slightly better", "vi": "hơn một chút", "ex": "This one is slightly cheaper.", "exvi": "Cái này rẻ hơn chút." },
+                { "w": "nowhere near as…", "vi": "kém xa", "ex": "It's nowhere near as good.", "exvi": "Kém xa." },
+                { "w": "just as good as", "vi": "tốt ngang", "ex": "It's just as good as the other one.", "exvi": "Tốt ngang cái kia." },
+                { "w": "the same as", "vi": "giống như", "ex": "It's pretty much the same as that one.", "exvi": "Gần như giống cái kia.", "note": "BẪY SỐ HAI: <i>the same <b>with</b></i> ✗." },
+                { "w": "different from", "vi": "khác với", "ex": "My job is different from hers.", "exvi": "Việc tôi khác việc cô ấy.", "note": "<i>different <b>with</b></i> ✗. Xem [Ngữ pháp 42]." },
+                { "w": "nothing like", "vi": "chẳng giống chút nào", "ex": "It's nothing like the picture.", "exvi": "Chẳng giống ảnh chút nào." },
+                { "w": "Compared to…", "vi": "So với…", "ex": "Compared to Hanoi, it's quieter.", "exvi": "So với Hà Nội thì yên hơn." }
+              ]
+            },
+            {
+              "title": "Lật mặt kia, đánh đổi & chốt",
+              "items": [
+                { "w": "On the other hand,…", "vi": "Mặt khác,…", "ex": "On the other hand, there's less to do.", "exvi": "Mặt khác thì ít chỗ chơi.", "note": "Bắt buộc ở B2 — không có là câu trả lời một chiều." },
+                { "w": "Then again,…", "vi": "Nhưng mà lại,…", "ex": "Then again, you save a lot.", "exvi": "Nhưng mà lại tiết kiệm được nhiều." },
+                { "w": "Whereas…", "vi": "Trong khi đó…", "ex": "The city is busy, whereas the countryside is calm.", "exvi": "Thành phố đông, còn quê thì yên. Xem [Ngữ pháp 48]." },
+                { "w": "The main advantage is…", "vi": "Ưu điểm chính là…", "ex": "The main advantage is that you save time.", "exvi": "Ưu điểm chính là tiết kiệm thời gian." },
+                { "w": "The downside is…", "vi": "Nhược điểm là…", "ex": "The downside is that it costs more.", "exvi": "Nhược điểm là tốn tiền hơn.", "note": "Luôn đi cặp với <i>the main advantage</i>." },
+                { "w": "The trade-off is…", "vi": "Đánh đổi là…", "ex": "The trade-off is a longer commute.", "exvi": "Đánh đổi là đi lại xa hơn." },
+                { "w": "You gain… but you lose…", "vi": "Được… nhưng mất…", "ex": "You gain convenience but you lose space.", "exvi": "Được tiện nhưng mất rộng.", "note": "Cách nói chín nhất — cho thấy bạn hiểu không có lựa chọn hoàn hảo." },
+                { "w": "It's a question of…", "vi": "Vấn đề là ở chỗ…", "ex": "It's a question of priorities.", "exvi": "Vấn đề là ưu tiên cái gì." },
+                { "w": "I'd go for…", "vi": "Tôi sẽ chọn…", "ex": "I'd go for the second option.", "exvi": "Tôi sẽ chọn phương án hai." },
+                { "w": "I'd rather… than…", "vi": "Tôi thà… hơn là…", "ex": "I'd rather live outside the city.", "exvi": "Tôi thà sống ngoài thành phố. Xem [Khung 8]." },
+                { "w": "It depends on…", "vi": "Còn tùy vào…", "ex": "It depends on what stage of life you're at.", "exvi": "Tùy bạn ở giai đoạn nào. Xem [Khung 57]." },
+                { "w": "Both have their merits.", "vi": "Cả hai đều có cái hay.", "ex": "Both have their merits, honestly.", "exvi": "Thật ra cả hai đều có cái hay.", "note": "Câu an toàn khi không muốn chọn phe." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<b>“The city is better.”</b> rồi dừng", "right": "<b>“In terms of convenience, the city is much better.”</b>", "why": "BẪY SỐ MỘT: không có tiêu chí thì người nghe không biết bám vào đâu." },
+            { "wrong": "It's the same <b>with</b> the other one.", "right": "It's the same <b>as</b> the other one.", "why": "BẪY SỐ HAI: dịch thẳng “giống với”. Cụm đúng là <b>the same as</b>." },
+            { "wrong": "My job is different <b>with</b> hers.", "right": "My job is different <b>from</b> hers.", "why": "Cùng lỗi dịch thẳng. Cụm cố định là <b>different from</b>. Xem [Ngữ pháp 42]." },
+            { "wrong": "It's <b>more better</b> than the old one.", "right": "It's <b>much better</b> than the old one.", "why": "Đã có <i>-er</i> thì không thêm <i>more</i>. Xem [Ngữ pháp 37]." },
+            { "wrong": "It's <b>very better</b>.", "right": "It's <b>much better</b>.", "why": "Trước dạng so sánh hơn dùng <b>much</b>, <b>far</b>, <b>a lot</b> — không dùng <i>very</i>." },
+            { "wrong": "Chỉ nói một bên hơn, <b>không lật mặt kia</b>", "right": "Thêm <b>“On the other hand, …”</b>", "why": "Câu trả lời một chiều ở B2 bị coi là chưa đủ sâu." },
+            { "wrong": "Nêu ưu điểm mà <b>quên nhược điểm</b>", "right": "<b>The main advantage is… The downside is…</b>", "why": "Hai câu này luôn đi cặp — thiếu một là mất cân." },
+            { "wrong": "<b>“I like A more than B.”</b> cho mọi câu hỏi", "right": "<b>“In terms of X, A wins; in terms of Y, B does.”</b>", "why": "Sở thích không phải lý lẽ. B2 chấm khả năng phân tích." },
+            { "wrong": "<b>“Both are good.”</b> rồi hết", "right": "<b>“Both have their merits — it depends on…”</b>", "why": "Không chọn phe thì được, nhưng phải nói rõ TÙY VÀO GÌ. Xem [Khung 57]." },
+            { "wrong": "<b>Compare with</b> Hanoi, it's quieter.", "right": "<b>Compared to</b> Hanoi, it's quieter.", "why": "Mở đầu câu là dạng V3 <b>compared to</b>, không phải động từ nguyên thể." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với lỗi gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["Có tiêu chí / không", "B2 / B1", "In terms of… ≠ A is better"],
+            ["<code>the same as</code> / <code>same with</code>", "Đúng / sai", "the same as ✓"],
+            ["<code>different from</code> / <code>different with</code>", "Đúng / sai", "different from ✓"],
+            ["<code>much better</code> / <code>very better</code>", "Đúng / sai", "much, far, a lot"],
+            ["<code>better</code> / <code>more better</code>", "Đúng / thừa", "Xem [Ngữ pháp 37]"],
+            ["Sở thích / lý lẽ", "I like A / In terms of X, A wins", "B2 chấm phân tích"],
+            ["Một chiều / có lật", "Chưa đủ / đủ", "On the other hand, …"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: so sánh thế nào cho đạt B2?" },
+        {
+          "t": "tree",
+          "q": "Bạn được hỏi “Which is better, A or B?” — đi theo nhánh.",
+          "nodes": [
+            { "if": "Bước đầu tiên", "then": "Nêu TIÊU CHÍ, đừng nêu kết luận", "ex": "In terms of convenience,…" },
+            { "if": "Đã có tiêu chí thứ nhất", "then": "So sánh theo đúng tiêu chí đó", "ex": "…the city is much better." },
+            { "if": "Muốn lên B2", "then": "Nêu tiêu chí thứ hai NGƯỢC chiều", "ex": "When it comes to cost, …" },
+            { "if": "Muốn nghe chín hơn nữa", "then": "Nói đánh đổi", "ex": "You gain convenience but you lose space." },
+            { "if": "Muốn chọn một bên", "then": "I'd go for… · I'd rather…", "ex": "Xem [Khung 8]" },
+            { "if": "Không muốn chọn phe", "then": "It depends on… — nhưng phải nói TÙY GÌ", "ex": "…what stage of life you're at." }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ sâu của một câu so sánh" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "The city is better.", "vi": "A2 — không có tiêu chí" },
+            { "en": "The city is better because it's convenient.", "vi": "B1 — có lý do" },
+            { "en": "In terms of convenience, the city is much better.", "vi": "B1+ — có tiêu chí" },
+            { "en": "…When it comes to cost, the countryside wins.", "vi": "B2 — hai tiêu chí trái chiều" },
+            { "en": "…You gain convenience but you lose space. It depends on…", "vi": "B2+ — nói được đánh đổi" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kỹ năng này dùng ở đâu",
+      "blocks": [
+        { "t": "p", "html": "So sánh là dạng câu hỏi hay gặp nhất ở B2. Bấm vào để luyện trên khung câu thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 66, "why": "What's the difference between A and B? — khung chính, nơi tiêu chí là bắt buộc." },
+            { "id": 8, "why": "I'd rather + V (than…) — cách chốt lựa chọn sau khi đã cân hai bên." },
+            { "id": 57, "why": "It depends on… — câu an toàn khi không muốn chọn phe, nhưng phải nói rõ tùy gì." },
+            { "id": 52, "why": "That's a good point, but… — khi người kia so sánh khác bạn." },
+            { "id": 39, "why": "It might be a good idea to… — gợi ý một phương án sau khi so sánh xong." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Sửa lại cho đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Cái này giống cái kia.", "blank": "It's the same __________ that one.", "a": "as — không phải with" },
+            { "vi": "Việc tôi khác việc cô ấy.", "blank": "My job is different __________ hers.", "a": "from — không phải with" },
+            { "vi": "Tốt hơn cái cũ nhiều.", "blank": "It's __________ better than the old one.", "a": "much (hoặc far, a lot) — không phải very" },
+            { "vi": "So với Hà Nội thì yên hơn.", "blank": "__________ Hanoi, it's much quieter.", "a": "Compared to" },
+            { "vi": "Về mặt tiện lợi thì thành phố hơn.", "blank": "__________ convenience, the city is better.", "a": "In terms of" },
+            { "vi": "Nói về chi phí thì nông thôn thắng.", "blank": "__________ cost, the countryside wins.", "a": "When it comes to" },
+            { "vi": "Mặt khác thì ít chỗ chơi.", "blank": "__________, there's less to do.", "a": "On the other hand" },
+            { "vi": "Được tiện nhưng mất rộng.", "blank": "You __________ convenience but you __________ space.", "a": "gain / lose" }
+          ]
+        },
+        { "t": "h3", "text": "B. Câu nào đạt B2?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "So sánh hai nơi sống", "blank": "(a) The city is better.  (b) In terms of convenience, the city is much better.", "a": "(b)" },
+            { "vi": "Trả lời đủ sâu", "blank": "(a) I like A more than B.  (b) In terms of X, A wins; when it comes to Y, B does.", "a": "(b)" },
+            { "vi": "Không muốn chọn phe", "blank": "(a) Both are good.  (b) Both have their merits — it depends on your priorities.", "a": "(b)" },
+            { "vi": "Nêu mức độ hơn kém", "blank": "(a) It's very better.  (b) It's much better.", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Nói 45 giây, dùng đủ hai tiêu chí trái chiều" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Sống ở thành phố hay nông thôn?", "a": "In terms of convenience… / When it comes to cost… / You gain… but you lose…" },
+            { "vi": "2. Học online hay học ở lớp?", "a": "In terms of flexibility… / On the other hand, when it comes to motivation…" },
+            { "vi": "3. Đi làm công ty lớn hay nhỏ?", "a": "The main advantage is… / The downside is… / I'd go for…" },
+            { "vi": "4. Mua xe hay đi xe công cộng?", "a": "Compared to… / The trade-off is… / It depends on… Xem [Khung 57]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luôn nêu tiêu chí TRƯỚC khi kết luận:</b> <i>In terms of…</i> rồi mới <i>A is better</i>. Không có tiêu chí thì chưa phải so sánh.",
+            "<b>Hai tiêu chí trái chiều là đủ cho B2.</b> Một bên thắng ở tiêu chí này, bên kia thắng ở tiêu chí khác.",
+            "<b>Ba cụm đừng dịch thẳng:</b> <i>the same <b>as</b></i> · <i>different <b>from</b></i> · <i>compared <b>to</b></i>. Tiếng Việt “với” không đưa sang được.",
+            "<b>Trước dạng so sánh hơn dùng <i>much</i>, <i>far</i>, <i>a lot</i></b> — không dùng <i>very</i>. Và đã có <i>-er</i> thì bỏ <i>more</i>.",
+            "<b>Nói được đánh đổi là chín nhất:</b> <i>You gain… but you lose…</i> — cho thấy bạn hiểu không có lựa chọn nào tốt mọi mặt.",
+            "<b>Bài tập 2 phút:</b> lấy hai thứ bạn đang phân vân, nói hai câu — một tiêu chí bên này thắng, một tiêu chí bên kia thắng."
+          ]
+        }
+      ]
+    }
+  ]
+}

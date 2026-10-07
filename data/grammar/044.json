@@ -1,0 +1,277 @@
+{
+  "id": 44,
+  "group": "Nhóm 11 · Mệnh đề & Dạng câu",
+  "title": "Câu hỏi: trợ động từ & câu hỏi đuôi",
+  "subtitle": "Khi đã mượn do/does/did thì động từ chính phải TRẦN. Did you saw him? ✗ là lỗi kinh điển. Bẫy thứ hai: câu hỏi gián tiếp KHÔNG đảo — Do you know where he is? chứ không phải where is he.",
+  "meaning": "Cách đặt câu hỏi và câu hỏi đuôi",
+  "rule": [
+    "<em>Do/Does/Did + S + V trần?</em> — trợ động từ giữ thì",
+    "<em>be</em> và modal tự đảo, không mượn <em>do</em>",
+    "Câu hỏi gián tiếp <em>không đảo</em>: <em>… where he is</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2–B1", "hot": true },
+    { "text": "Did you saw ✗" },
+    { "text": "Gián tiếp thì không đảo" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [17, 61, 63, 65, 67],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Câu hỏi tiếng Anh dựa vào <b>đảo trợ động từ lên trước chủ ngữ</b>. Nếu câu gốc không có sẵn trợ động từ thì <b>mượn <i>do / does / did</i></b>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — mượn <i>do</i> rồi thì động từ chính phải TRẦN:</b><br><i><b>Did</b> you <b>saw</b> him?</i> ✗ → <i><b>Did</b> you <b>see</b> him?</i> ✓<br><i><b>Does</b> he <b>works</b> here?</i> ✗ → <i><b>Does</b> he <b>work</b> here?</i> ✓<br>Trợ động từ đã gánh thì và ngôi rồi, động từ chính <b>không gánh lần hai</b>. Xem [Ngữ pháp 03]." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — câu hỏi gián tiếp KHÔNG đảo:</b><br><i>Do you know <b>where is he</b>?</i> ✗<br><i>Do you know <b>where he is</b>?</i> ✓<br>Khi câu hỏi nằm <b>bên trong</b> một câu khác, nó trở lại trật tự câu kể: <b>S + V</b>. Xem [Khung 67]." },
+        { "t": "h3", "text": "Bốn kiểu đặt câu hỏi" },
+        {
+          "t": "table",
+          "head": ["Kiểu", "Cách làm", "Ví dụ"],
+          "rows": [
+            ["Có <code>be</code>", "Đảo <code>be</code> lên trước", "Are you busy?"],
+            ["Có modal", "Đảo modal lên trước", "Can you help me?"],
+            ["Có trợ động từ", "Đảo <code>have/will</code> lên trước", "Have you eaten?"],
+            ["Chỉ có động từ thường", "Mượn <code>do/does/did</code> + V trần", "Did you see him?"]
+          ]
+        },
+        { "t": "p", "html": "Chỉ kiểu thứ tư mới phải mượn <i>do</i>. Ba kiểu đầu đã có sẵn một từ để đảo nên <b>không bao giờ</b> thêm <i>do</i>: <i>Do you are busy?</i> ✗." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Loại câu hỏi", "Cấu trúc", "Ví dụ"],
+          "rows": [
+            ["Yes/No — động từ thường", "Do/Does/Did + S + V trần?", "Did you see him?"],
+            ["Yes/No — <code>be</code>", "Am/Is/Are/Was/Were + S?", "Are you busy?"],
+            ["Yes/No — modal", "Can/Will/Should + S + V?", "Can you help me?"],
+            ["Yes/No — hoàn thành", "Have/Has + S + V3?", "Have you eaten?"],
+            ["Wh- hỏi tân ngữ", "Wh- + trợ + S + V trần?", "What did you say?"],
+            ["Wh- hỏi CHỦ NGỮ", "Wh- + V (KHÔNG mượn do)", "Who called you?"],
+            ["Wh- + giới từ", "Giới từ bị đẩy xuống cuối", "Who are you waiting for?"],
+            ["Câu hỏi gián tiếp", "… + Wh- + S + V (không đảo)", "Do you know where he is?"],
+            ["Gián tiếp Yes/No", "… + if/whether + S + V", "I wonder if he's coming."],
+            ["Đuôi — câu khẳng định", "…, + phủ định + đại từ?", "You're Vietnamese, aren't you?"],
+            ["Đuôi — câu phủ định", "…, + khẳng định + đại từ?", "You don't smoke, do you?"],
+            ["Đuôi — mệnh lệnh / rủ", "…, will you? · …, shall we?", "Close the door, will you?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dòng 6 rất hay bị bỏ sót:</b> khi từ hỏi CHÍNH LÀ chủ ngữ thì <b>không mượn <i>do</i></b> và không đảo gì cả.<br><i><b>Who called</b> you?</i> ✓ — <i>Who did call you?</i> ✗<br>So sánh: <i>Who <b>did</b> you call?</i> ✓ — ở đây <i>who</i> là tân ngữ nên vẫn mượn <i>did</i>." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Did you see him yesterday?", "vi": "Hôm qua bạn có gặp anh ấy không?", "note": "BẪY SỐ MỘT: <i>Did you saw</i> ✗. Sau <i>did</i> là động từ TRẦN." },
+            { "en": "Does he work here?", "vi": "Anh ấy làm ở đây à?", "note": "<i>Does he works</i> ✗ — chỉ một chữ <i>s</i> trong câu. Xem [Ngữ pháp 01]." },
+            { "en": "Are you busy right now?", "vi": "Giờ bạn có bận không?", "note": "Có <b>be</b> thì tự đảo, không mượn <i>do</i>." },
+            { "en": "Can you help me with this?", "vi": "Bạn giúp tôi việc này được không?", "note": "Modal tự đảo. Xem [Khung 12]." },
+            { "en": "Have you eaten yet?", "vi": "Bạn ăn chưa?", "note": "<b>have</b> ở đây là trợ động từ nên tự đảo." },
+            { "en": "What did you say?", "vi": "Bạn nói gì cơ?", "note": "Wh- hỏi tân ngữ thì vẫn mượn <i>did</i> + V trần." },
+            { "en": "Who called you?", "vi": "Ai gọi bạn thế?", "note": "<b>who</b> là CHỦ NGỮ nên KHÔNG mượn <i>did</i>." },
+            { "en": "Who are you waiting for?", "vi": "Bạn đang đợi ai vậy?", "note": "Giới từ <b>for</b> bị đẩy xuống cuối câu. Xem [Ngữ pháp 42]." },
+            { "en": "Do you know where he is?", "vi": "Bạn có biết anh ấy ở đâu không?", "note": "BẪY SỐ HAI: gián tiếp thì KHÔNG đảo. Xem [Khung 67]." },
+            { "en": "I wonder if he's coming.", "vi": "Không biết anh ấy có đến không.", "note": "Gián tiếp dạng Yes/No thì dùng <b>if</b> hoặc <b>whether</b>." },
+            { "en": "You're Vietnamese, aren't you?", "vi": "Bạn là người Việt, đúng không?", "note": "Câu hỏi đuôi: khẳng định ở trước thì đuôi phủ định." },
+            { "en": "You don't smoke, do you?", "vi": "Bạn không hút thuốc nhỉ?", "note": "Phủ định ở trước thì đuôi khẳng định." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "❓", "title": "Hỏi có/không", "text": "<i>Did you see him?</i> Mượn <b>do/does/did</b> + V trần." },
+            { "icon": "🔎", "title": "Hỏi chi tiết", "text": "<i>What did you say?</i> Từ hỏi đứng đầu rồi mới đảo." },
+            { "icon": "🙋", "title": "Hỏi AI làm việc đó", "text": "<i>Who called you?</i> Không mượn <i>do</i>." },
+            { "icon": "🤝", "title": "Hỏi lịch sự, vòng vo", "text": "<i>Do you know where he is?</i> Không đảo. Xem [Khung 67]." },
+            { "icon": "✅", "title": "Xác nhận lại", "text": "<i>You're Vietnamese, aren't you?</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Đã có <i>be</i>/modal thì tuyệt đối không thêm <i>do</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một mục ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi mục đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Từ hỏi & trợ động từ",
+              "items": [
+                { "w": "do / does", "vi": "trợ động từ hiện tại", "ex": "Does he work here?", "exvi": "Anh ấy làm ở đây à?", "note": "BẪY SỐ MỘT: sau <i>does</i> là động từ TRẦN, <i>works</i> ✗." },
+                { "w": "did", "vi": "trợ động từ quá khứ", "ex": "Did you see him?", "exvi": "Bạn có gặp anh ấy không?", "note": "<i>Did you saw</i> ✗ — lỗi kinh điển." },
+                { "w": "what", "vi": "cái gì", "ex": "What did you say?", "exvi": "Bạn nói gì cơ?" },
+                { "w": "where", "vi": "ở đâu", "ex": "Where did you go?", "exvi": "Bạn đi đâu thế?" },
+                { "w": "when", "vi": "khi nào", "ex": "When does it start?", "exvi": "Mấy giờ bắt đầu?" },
+                { "w": "who", "vi": "ai", "ex": "Who called you?", "exvi": "Ai gọi bạn thế?", "note": "Nếu <i>who</i> là CHỦ NGỮ thì KHÔNG mượn <i>did</i>." },
+                { "w": "why", "vi": "tại sao", "ex": "Why are you late?", "exvi": "Sao bạn muộn thế?" },
+                { "w": "how", "vi": "thế nào", "ex": "How did you get here?", "exvi": "Bạn tới đây bằng cách nào?" },
+                { "w": "how long", "vi": "bao lâu", "ex": "How long have you lived here?", "exvi": "Bạn sống ở đây bao lâu rồi? Xem [Khung 94]." },
+                { "w": "how often", "vi": "bao lâu một lần", "ex": "How often do you go there?", "exvi": "Bạn hay tới đó không?" },
+                { "w": "how much", "vi": "bao nhiêu (không đếm được)", "ex": "How much does it cost?", "exvi": "Cái này bao nhiêu tiền? Xem [Ngữ pháp 22]." },
+                { "w": "which", "vi": "cái nào", "ex": "Which one do you prefer?", "exvi": "Bạn thích cái nào hơn?", "note": "<b>which</b> khi có lựa chọn giới hạn, <b>what</b> khi mở." }
+              ]
+            },
+            {
+              "title": "Câu hỏi gián tiếp & câu hỏi đuôi",
+              "items": [
+                { "w": "Do you know…", "vi": "Bạn có biết…", "ex": "Do you know where he is?", "exvi": "Bạn có biết anh ấy ở đâu không?", "note": "BẪY SỐ HAI: sau đó là <b>S + V</b>, không đảo. Xem [Khung 67]." },
+                { "w": "Could you tell me…", "vi": "Bạn cho tôi hỏi…", "ex": "Could you tell me where the station is?", "exvi": "Cho tôi hỏi nhà ga ở đâu ạ?", "note": "Cách hỏi đường lịch sự nhất. Xem [Khung 17]." },
+                { "w": "I wonder if…", "vi": "Không biết liệu…", "ex": "I wonder if he's coming.", "exvi": "Không biết anh ấy có đến không." },
+                { "w": "whether", "vi": "liệu có", "ex": "I'm not sure whether it's open.", "exvi": "Tôi không chắc nó có mở cửa không.", "note": "Trang trọng hơn <i>if</i>, dùng được trước <i>or not</i>." },
+                { "w": "Any idea…", "vi": "Bạn biết không…", "ex": "Any idea what time it starts?", "exvi": "Bạn biết mấy giờ bắt đầu không?" },
+                { "w": "isn't it?", "vi": "đúng không?", "ex": "It's hot today, isn't it?", "exvi": "Hôm nay nóng nhỉ?", "note": "Khẳng định ở trước thì đuôi PHỦ ĐỊNH." },
+                { "w": "aren't you?", "vi": "phải không?", "ex": "You're Vietnamese, aren't you?", "exvi": "Bạn là người Việt, đúng không?" },
+                { "w": "do you?", "vi": "nhỉ?", "ex": "You don't smoke, do you?", "exvi": "Bạn không hút thuốc nhỉ?", "note": "Phủ định ở trước thì đuôi KHẲNG ĐỊNH." },
+                { "w": "didn't you?", "vi": "đúng không?", "ex": "You called me, didn't you?", "exvi": "Bạn có gọi tôi, đúng không?" },
+                { "w": "will you?", "vi": "được không?", "ex": "Close the door, will you?", "exvi": "Đóng cửa giúp nhé?", "note": "Đuôi dành cho câu mệnh lệnh." },
+                { "w": "shall we?", "vi": "nhé?", "ex": "Let's go, shall we?", "exvi": "Mình đi nhé?", "note": "Đuôi dành riêng cho <i>Let's…</i>." },
+                { "w": "right?", "vi": "đúng không?", "ex": "You're coming, right?", "exvi": "Bạn đến chứ?", "note": "Dạng rút gọn rất thông dụng trong văn nói — tiện khi quên luật đuôi." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<b>Did</b> you <b>saw</b> him?", "right": "<b>Did</b> you <b>see</b> him?", "why": "BẪY SỐ MỘT: trợ động từ đã gánh thì rồi, động từ chính phải TRẦN. Xem [Ngữ pháp 03]." },
+            { "wrong": "<b>Does</b> he <b>works</b> here?", "right": "<b>Does</b> he <b>work</b> here?", "why": "Cùng một lỗi ở thì hiện tại — chỉ MỘT chữ <i>s</i> trong câu." },
+            { "wrong": "<b>Do</b> you <b>are</b> busy?", "right": "<b>Are</b> you busy?", "why": "Đã có <b>be</b> thì tự đảo, không bao giờ mượn thêm <i>do</i>." },
+            { "wrong": "<b>Do</b> you <b>can</b> help me?", "right": "<b>Can</b> you help me?", "why": "Modal cũng tự đảo. Xem [Ngữ pháp 29]." },
+            { "wrong": "Do you know <b>where is he</b>?", "right": "Do you know <b>where he is</b>?", "why": "BẪY SỐ HAI: câu hỏi gián tiếp trở về trật tự S + V. Xem [Khung 67]." },
+            { "wrong": "Could you tell me <b>what time does it start</b>?", "right": "Could you tell me <b>what time it starts</b>?", "why": "Cùng lỗi — bỏ hẳn <i>does</i>, chia thẳng động từ." },
+            { "wrong": "<b>Who did call</b> you?", "right": "<b>Who called</b> you?", "why": "<i>who</i> ở đây là CHỦ NGỮ nên không mượn trợ động từ." },
+            { "wrong": "<b>For who</b> are you waiting?", "right": "<b>Who</b> are you waiting <b>for</b>?", "why": "Trong văn nói, giới từ bị đẩy xuống cuối câu." },
+            { "wrong": "You're Vietnamese, <b>are you</b>?", "right": "You're Vietnamese, <b>aren't you</b>?", "why": "Câu hỏi đuôi luôn <b>ngược dấu</b> với vế trước." },
+            { "wrong": "<b>Why you are</b> late?", "right": "<b>Why are you</b> late?", "why": "Câu hỏi trực tiếp thì PHẢI đảo — ngược hẳn với câu gián tiếp." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["Trực tiếp / gián tiếp", "Đảo / không đảo", "Where is he? ≠ … where he is"],
+            ["<code>Who called you?</code>", "<code>who</code> là chủ ngữ — không mượn do", "Who called you?"],
+            ["<code>Who did you call?</code>", "<code>who</code> là tân ngữ — vẫn mượn did", "Who did you call?"],
+            ["<code>be</code> / động từ thường", "Tự đảo / mượn <code>do</code>", "Are you busy? ≠ Do you work?"],
+            ["<code>if</code> / <code>whether</code>", "Thân mật / trang trọng, dùng với <code>or not</code>", "if he's coming ≠ whether or not"],
+            ["Đuôi sau khẳng định", "Đuôi PHỦ ĐỊNH", "You're busy, aren't you?"],
+            ["Đuôi sau phủ định", "Đuôi KHẲNG ĐỊNH", "You don't smoke, do you?"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: đặt câu hỏi thế nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn muốn hỏi một câu — nhìn vào câu kể gốc trước đã.",
+          "nodes": [
+            { "if": "Câu gốc có be", "then": "Đảo be lên trước, không mượn do", "ex": "You are busy. → Are you busy?" },
+            { "if": "Câu gốc có modal hoặc have + V3", "then": "Đảo từ đó lên trước", "ex": "You can help. → Can you help?" },
+            { "if": "Câu gốc chỉ có động từ thường", "then": "Mượn do/does/did + V trần", "ex": "You saw him. → Did you see him?" },
+            { "if": "Muốn hỏi AI/CÁI GÌ làm việc đó", "then": "Từ hỏi làm chủ ngữ, không mượn do", "ex": "Who called you?" },
+            { "if": "Muốn hỏi lịch sự, vòng qua một câu khác", "then": "Không đảo: S + V", "ex": "Do you know where he is?" },
+            { "if": "Chỉ muốn xác nhận lại", "then": "Thêm đuôi ngược dấu", "ex": "You're Vietnamese, aren't you?" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ lịch sự khi hỏi đường" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Where's the station?", "vi": "Cộc nhất — hỏi trống không" },
+            { "en": "Do you know where the station is?", "vi": "Lịch sự vừa" },
+            { "en": "Could you tell me where the station is?", "vi": "Lịch sự" },
+            { "en": "Excuse me, could you tell me where the station is?", "vi": "Rất lịch sự" },
+            { "en": "Sorry to bother you — I wonder if you could tell me where the station is.", "vi": "Lịch sự nhất" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Cách đặt câu hỏi xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 67, "why": "Do you know + wh-…? — khung chính của BẪY SỐ HAI, câu hỏi gián tiếp không đảo." },
+            { "id": 17, "why": "Could you tell me + wh-…? — cách hỏi lịch sự nhất, cũng không đảo." },
+            { "id": 61, "why": "What time…? / When…? — câu hỏi trực tiếp có đảo trợ động từ." },
+            { "id": 63, "why": "How do I get to…? — mượn do trong câu hỏi Wh-." },
+            { "id": 65, "why": "How much / How many…? — chọn từ hỏi theo danh từ đếm được hay không." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Đặt câu hỏi đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Hôm qua bạn có gặp anh ấy không?", "blank": "__________ you __________ him yesterday?  (see)", "a": "Did / see" },
+            { "vi": "Anh ấy làm ở đây à?", "blank": "__________ he __________ here?  (work)", "a": "Does / work" },
+            { "vi": "Giờ bạn có bận không?", "blank": "__________ you busy right now?", "a": "Are" },
+            { "vi": "Bạn ăn chưa?", "blank": "__________ you __________ yet?  (eat)", "a": "Have / eaten" },
+            { "vi": "Ai gọi bạn thế?", "blank": "Who __________ you?  (call)", "a": "called — who là chủ ngữ, không mượn did" },
+            { "vi": "Bạn có biết anh ấy ở đâu không?", "blank": "Do you know where __________?", "a": "he is" },
+            { "vi": "Bạn là người Việt, đúng không?", "blank": "You're Vietnamese, __________?", "a": "aren't you" },
+            { "vi": "Bạn không hút thuốc nhỉ?", "blank": "You don't smoke, __________?", "a": "do you" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn câu đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Bạn có gặp anh ấy không?", "blank": "(a) Did you saw him?  (b) Did you see him?", "a": "(b)" },
+            { "vi": "Giờ bạn có bận không?", "blank": "(a) Do you are busy?  (b) Are you busy?", "a": "(b)" },
+            { "vi": "Bạn có biết anh ấy ở đâu không?", "blank": "(a) Do you know where is he?  (b) Do you know where he is?", "a": "(b)" },
+            { "vi": "Ai gọi bạn thế?", "blank": "(a) Who did call you?  (b) Who called you?", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Hôm qua bạn có gặp anh ấy không?", "a": "Did you see him yesterday?" },
+            { "vi": "2. Cho tôi hỏi nhà ga ở đâu ạ?", "a": "Could you tell me where the station is?" },
+            { "vi": "3. Bạn đang đợi ai vậy?", "a": "Who are you waiting for?" },
+            { "vi": "4. Hôm nay nóng nhỉ?", "a": "It's hot today, isn't it?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật một thì:</b> đã mượn <i>do/does/did</i> thì động từ chính <b>trần</b>. Thì nằm ở trợ động từ, không nằm hai chỗ.",
+            "<b>Trước khi mượn <i>do</i>, nhìn xem câu đã có <i>be</i> hay modal chưa.</b> Có rồi thì chỉ cần đảo nó lên.",
+            "<b>Hỏi trực tiếp thì ĐẢO, hỏi gián tiếp thì KHÔNG.</b> Càng lịch sự càng không đảo. Xem [Khung 67].",
+            "<b>Từ hỏi là chủ ngữ thì đứng yên:</b> <i>Who called you?</i> — không mượn <i>did</i>, không đảo gì cả.",
+            "<b>Câu hỏi đuôi luôn ngược dấu:</b> trước khẳng định thì đuôi phủ định, và ngược lại. Quên luật thì dùng <i>right?</i>.",
+            "<b>Bài tập 3 phút:</b> lấy năm câu kể bất kỳ, đổi mỗi câu thành ba dạng — Yes/No, Wh- và câu hỏi đuôi."
+          ]
+        }
+      ]
+    }
+  ]
+}

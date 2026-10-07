@@ -1,0 +1,499 @@
+{
+  "id": 49,
+  "group": "Nhóm 5 · Ý kiến & Quan điểm",
+  "title": "If you ask me… — Nói thẳng, kiểu thân mật",
+  "subtitle": "Khung câu mang một sắc thái mà các khung khác trong nhóm không có: sự thẳng thắn hơi bốp chát. Nó ngầm nói “chẳng ai hỏi nhưng tôi vẫn nói” — và trong chín trên mười trường hợp, thứ theo sau nó là một lời chê. Dùng đúng chỗ thì rất tự nhiên; dùng sai chỗ thì mất lòng ngay.",
+  "pattern": [
+    "If you ask me, <em>+ mệnh đề</em>",
+    "…, <em>if you ask me</em>.",
+    "If you want my honest opinion, <em>+ mệnh đề</em>"
+  ],
+  "meaning": "Nếu hỏi tôi thì… / Theo tôi thì (nói thẳng)…",
+  "grammar": [14, 50],
+  "tags": [
+    { "text": "Tần suất: trung bình", "hot": false },
+    { "text": "Độ lịch sự: 2/5" },
+    { "text": "Thân mật — thường dẫn vào lời chê" },
+    { "text": "Trình độ: B2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">If you ask me</span> dịch sát là “nếu bạn hỏi tôi”. Nhưng cái hay nằm ở chỗ: thường thì <b>người kia chưa hỏi gì cả</b>. Chính sự mâu thuẫn đó tạo nên sắc thái — nó ngầm nói “tôi biết chẳng ai hỏi, nhưng tôi vẫn nói”." },
+        { "t": "p", "html": "Vì thế nó mang màu <b>thẳng thắn, hơi bốp chát</b>. Trong thực tế, khoảng chín trên mười lần thứ theo sau nó là một <b>lời chê</b>: <i>If you ask me, it's a waste of money.</i> Hiếm khi người ta dùng nó để khen." },
+        { "t": "p", "html": "So với cả nhóm, đây là khung <b>ít lịch sự nhất</b>. [Khung 42] trang trọng, [Khung 47] khách quan, [Khung 46] nhẹ nhàng — còn khung này thì thẳng. Nó hợp với bạn bè, gia đình, đồng nghiệp thân; <b>không bao giờ</b> dùng với khách hàng hay cấp trên xa cách." },
+        { "t": "callout", "html": "<b>BẪY nghiêm trọng về ngữ cảnh:</b> nói <span class=\"k\">If you ask me, your plan won't work</span> với sếp hoặc khách hàng là một sai lầm. Cùng ý đó, hãy dùng <i>From my point of view…</i> ở [Khung 47] hoặc <i>I'm not sure that'll work</i> ở [Khung 50]." },
+        { "t": "h3", "text": "Đặt đầu hay đặt cuối?" },
+        {
+          "t": "table",
+          "head": ["Câu", "Vị trí", "Hiệu quả"],
+          "rows": [
+            ["<code>If you ask me, it's a waste.</code>", "Đầu câu", "Báo trước sẽ có ý kiến thẳng"],
+            ["<code>It's a waste, if you ask me.</code>", "Cuối câu", "Nhẹ hơn — như lời lẩm bẩm thêm vào"],
+            ["<code>Nobody asked me, but…</code>", "Đầu câu", "Tự giễu — biết mình đang nói xen"],
+            ["<code>If you want my honest opinion,…</code>", "Đầu câu", "Thẳng nhưng nghiêm túc hơn"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng nhầm với “Don't ask me”.</b> <i>Don't ask me.</i> = “Tôi chịu, đừng hỏi tôi.” Nó nói rằng bạn <b>không biết</b>, hoàn toàn ngược với <i>If you ask me</i> vốn là bạn <b>có ý kiến rõ ràng</b>." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💸", "title": "Chê một quyết định tiêu tiền", "text": "Bối cảnh số 1. <i>If you ask me, it's a waste of money.</i>" },
+            { "icon": "🙄", "title": "Nói người ta phản ứng thái quá", "text": "<i>If you ask me, they're overreacting.</i> Rất tự nhiên giữa bạn bè." },
+            { "icon": "🗣", "title": "Xen vào khi chưa được hỏi", "text": "<i>Nobody asked me, but I'd wait.</i> Tự giễu để đỡ xẵng." },
+            { "icon": "🤝", "title": "Được hỏi ý thật lòng", "text": "<i>If you want my honest opinion, it needs work.</i>" },
+            { "icon": "🍽", "title": "Chê quán, chê phim", "text": "<i>It's overrated, if you ask me.</i> Đặt cuối cho nhẹ." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Nói với sếp, khách hàng, người lạ. Nghe rất xấc — dùng [Khung 47] thay thế." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Chuẩn", "<code>If you ask me, + mệnh đề</code>", "If you ask me, it's a waste."],
+            ["Đặt cuối — nhẹ hơn", "<code>…, if you ask me.</code>", "It's overrated, if you ask me."],
+            ["Tự giễu", "<code>Nobody asked me, but…</code>", "Nobody asked me, but I'd wait."],
+            ["Nghiêm túc hơn", "<code>If you want my honest opinion,…</code>", "If you want my honest opinion, it needs work."],
+            ["Rào trước", "<code>Don't take this the wrong way, but…</code>", "Don't take this the wrong way, but it's too long."],
+            ["Nhấn thẳng thắn", "<code>To be blunt, + mệnh đề</code>", "To be blunt, it won't sell."],
+            ["Nhẹ nhất trong nhóm", "<code>To be honest, + mệnh đề</code>", "To be honest, I didn't like it."],
+            ["Đáp khi được hỏi thật", "<code>Since you asked, + mệnh đề</code>", "Since you asked, I'd change the intro."],
+            ["Nói trước khi bị phản bác", "<code>…, but that's just me.</code>", "It's overpriced, but that's just me."],
+            ["Chốt lại", "<code>…, and that's putting it politely.</code>", "It's slow, and that's putting it politely."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Thêm “but that's just me” để hạ nhiệt.</b> <i>If you ask me, it's overpriced — but that's just me.</i> Câu thêm này trả lại quyền cho người nghe và làm dịu hẳn sự bốp chát." },
+        { "t": "callout", "html": "<b>Cẩn thận với thì:</b> <span class=\"k\">If you asked me</span> (quá khứ) là câu điều kiện loại 2 — nghĩa là “giả sử bạn có hỏi tôi”, thường kèm ý trách: <i>If you asked me, I'd have told you.</i> = Giá mà bạn hỏi tôi." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Mệnh đề hay theo sau (phần lớn mang ý chê)",
+              "items": [
+                { "w": "it's a waste of money", "vi": "đó là phí tiền", "ex": "If you ask me, it's a waste of money.", "exvi": "Nếu hỏi tôi thì đó là phí tiền.", "note": "Mệnh đề phổ biến nhất sau cụm này — khung câu vốn thiên về chê." },
+                { "w": "it's overrated", "vi": "được khen quá lời", "ex": "It's overrated, if you ask me.", "exvi": "Được khen quá lời, nếu hỏi tôi." },
+                { "w": "they're overreacting", "vi": "họ phản ứng thái quá", "ex": "If you ask me, they're overreacting.", "exvi": "Nếu hỏi tôi thì họ đang phản ứng thái quá." },
+                { "w": "it's not worth it", "vi": "không đáng", "ex": "If you ask me, it's not worth it.", "exvi": "Nếu hỏi tôi thì không đáng." },
+                { "w": "that's nonsense", "vi": "vớ vẩn", "ex": "If you ask me, that's complete nonsense.", "exvi": "Nếu hỏi tôi thì đó hoàn toàn vớ vẩn.", "note": "Rất mạnh — chỉ dùng với người thân thiết." },
+                { "w": "it's overpriced", "vi": "giá bị đội lên", "ex": "It's overpriced, if you ask me.", "exvi": "Giá bị đội lên, nếu hỏi tôi." },
+                { "w": "they should have asked first", "vi": "lẽ ra họ phải hỏi trước", "ex": "If you ask me, they should have asked first.", "exvi": "Nếu hỏi tôi thì lẽ ra họ phải hỏi trước." },
+                { "w": "it's a bad idea", "vi": "đó là ý tồi", "ex": "If you ask me, it's a bad idea.", "exvi": "Nếu hỏi tôi thì đó là ý tồi." },
+                { "w": "we're wasting time", "vi": "mình đang phí thời gian", "ex": "If you ask me, we're wasting time here.", "exvi": "Nếu hỏi tôi thì mình đang phí thời gian ở đây." },
+                { "w": "it needs work", "vi": "cần chỉnh thêm", "ex": "If you want my honest opinion, it needs work.", "exvi": "Nếu muốn nghe thật lòng thì nó cần chỉnh thêm.", "note": "Cách chê một bản nháp lịch sự nhất trong nhóm này." },
+                { "w": "it's too long", "vi": "quá dài", "ex": "It's too long, if you ask me.", "exvi": "Quá dài, nếu hỏi tôi." },
+                { "w": "nobody reads it anyway", "vi": "dù sao cũng chẳng ai đọc", "ex": "If you ask me, nobody reads it anyway.", "exvi": "Nếu hỏi tôi thì dù sao cũng chẳng ai đọc." },
+                { "w": "they got lucky", "vi": "họ gặp may thôi", "ex": "If you ask me, they just got lucky.", "exvi": "Nếu hỏi tôi thì họ chỉ gặp may thôi." },
+                { "w": "it's not our problem", "vi": "không phải việc của mình", "ex": "If you ask me, it's not our problem.", "exvi": "Nếu hỏi tôi thì không phải việc của mình." },
+                { "w": "we've done enough", "vi": "mình làm đủ rồi", "ex": "If you ask me, we've done enough.", "exvi": "Nếu hỏi tôi thì mình làm đủ rồi." },
+                { "w": "she deserved better", "vi": "cô ấy xứng đáng hơn thế", "ex": "If you ask me, she deserved better.", "exvi": "Nếu hỏi tôi thì cô ấy xứng đáng hơn thế.", "note": "Một trong số ít trường hợp cụm này dẫn vào ý bênh vực chứ không phải chê." },
+                { "w": "it's the wrong call", "vi": "đó là quyết định sai", "ex": "If you ask me, it's the wrong call.", "exvi": "Nếu hỏi tôi thì đó là quyết định sai." },
+                { "w": "they're both wrong", "vi": "cả hai đều sai", "ex": "If you ask me, they're both wrong.", "exvi": "Nếu hỏi tôi thì cả hai đều sai." },
+                { "w": "it'll never happen", "vi": "chuyện đó sẽ không xảy ra đâu", "ex": "If you ask me, it'll never happen.", "exvi": "Nếu hỏi tôi thì chuyện đó sẽ không xảy ra đâu." },
+                { "w": "he's got a point", "vi": "anh ấy nói có lý", "ex": "If you ask me, he's got a point.", "exvi": "Nếu hỏi tôi thì anh ấy nói cũng có lý." }
+              ]
+            },
+            {
+              "title": "Các cách nói thẳng khác",
+              "items": [
+                { "w": "To be honest,", "vi": "thật lòng mà nói", "ex": "To be honest, I didn't enjoy it.", "exvi": "Thật lòng mà nói, mình không thích.", "note": "Nhẹ nhất trong nhóm nói thẳng — dùng được cả trong công việc." },
+                { "w": "To be blunt,", "vi": "nói thẳng ra thì", "ex": "To be blunt, it won't sell.", "exvi": "Nói thẳng ra thì nó sẽ không bán được.", "note": "<i>blunt</i> = thẳng đến mức hơi phũ. Báo trước cho người nghe chuẩn bị tinh thần." },
+                { "w": "Frankly,", "vi": "nói thẳng thắn", "ex": "Frankly, I'd start over.", "exvi": "Nói thẳng thắn thì tôi sẽ làm lại từ đầu." },
+                { "w": "Nobody asked me, but", "vi": "chẳng ai hỏi nhưng mà", "ex": "Nobody asked me, but I'd wait.", "exvi": "Chẳng ai hỏi nhưng mình thì bảo đợi.", "note": "Tự giễu — thừa nhận mình đang nói xen, nên nghe đỡ xấc hơn." },
+                { "w": "Since you asked,", "vi": "đã hỏi thì tôi nói", "ex": "Since you asked, I'd change the intro.", "exvi": "Đã hỏi thì tôi nói: tôi sẽ đổi phần mở đầu.", "note": "Dùng khi người ta THẬT SỰ có hỏi — khác hẳn <i>If you ask me</i>." },
+                { "w": "If you want my honest opinion,", "vi": "nếu muốn nghe thật lòng", "ex": "If you want my honest opinion, it needs work.", "exvi": "Nếu muốn nghe thật lòng thì nó cần chỉnh thêm." },
+                { "w": "Don't take this the wrong way, but", "vi": "đừng hiểu lầm nhé, nhưng", "ex": "Don't take this the wrong way, but it's too long.", "exvi": "Đừng hiểu lầm nhé, nhưng nó hơi dài.", "note": "Rào trước khi chê — rất hữu dụng khi góp ý cho bạn bè." },
+                { "w": "but that's just me", "vi": "nhưng đó là ý riêng tôi", "ex": "It's overpriced, but that's just me.", "exvi": "Giá đội lên, nhưng đó là ý riêng tôi thôi.", "note": "Câu thêm để hạ nhiệt — trả lại quyền quyết định cho người nghe." },
+                { "w": "and that's putting it politely", "vi": "mà nói vậy là còn lịch sự", "ex": "It's slow, and that's putting it politely.", "exvi": "Nó chậm, mà nói vậy là còn lịch sự đấy." },
+                { "w": "Don't ask me", "vi": "tôi chịu, đừng hỏi tôi", "ex": "Don't ask me — I wasn't there.", "exvi": "Tôi chịu — tôi có ở đó đâu.", "note": "BẪY: nghĩa NGƯỢC HẲN với <i>If you ask me</i>. Đây là “tôi không biết”." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "You might be right", "vi": "có thể bạn đúng", "ex": "You might be right about that.", "exvi": "Chỗ đó có thể bạn đúng." },
+                { "w": "Harsh, but fair", "vi": "hơi nặng nhưng đúng", "ex": "Harsh, but fair.", "exvi": "Hơi nặng lời nhưng cũng đúng.", "note": "Câu đáp rất tự nhiên khi ai đó vừa chê thẳng." },
+                { "w": "Well, nobody asked you", "vi": "ơ, có ai hỏi bạn đâu", "ex": "Well, nobody asked you!", "exvi": "Ơ, có ai hỏi bạn đâu!", "note": "Đáp trả kiểu đùa — chỉ dùng với người rất thân." },
+                { "w": "That's a bit harsh", "vi": "hơi nặng lời đấy", "ex": "That's a bit harsh, isn't it?", "exvi": "Hơi nặng lời đấy, đúng không?" },
+                { "w": "I see it differently", "vi": "tôi nhìn khác", "ex": "I see it differently, actually.", "exvi": "Thật ra tôi nhìn nhận khác.", "note": "Cách phản đối lịch sự. Xem [Khung 47]." },
+                { "w": "Fair enough", "vi": "cũng có lý", "ex": "Fair enough — I'll think about it.", "exvi": "Cũng có lý — để mình nghĩ lại." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "If you ask me, it's a waste of money.",
+                  "vi": "Nếu hỏi mình thì đó là phí tiền.",
+                  "note": "Câu điển hình nhất của khung này. Chỉ nói với bạn bè, người thân — không bao giờ với khách hàng.",
+                  "open": { "en": "Look, I'll be straight with you —", "vi": "Này, mình nói thẳng nhé —" },
+                  "reply": [
+                    { "them": "That's a bit harsh.", "themvi": "Hơi nặng lời đấy.", "you": "Maybe. But that's just me.", "youvi": "Có thể. Nhưng đó là ý riêng mình thôi." },
+                    { "them": "You might be right.", "themvi": "Có thể bạn đúng.", "you": "Save it for something you'll use.", "youvi": "Để dành cho thứ bạn thật sự dùng." }
+                  ],
+                  "close": { "en": "Your call, though.", "vi": "Nhưng bạn quyết." }
+                },
+                {
+                  "en": "If you ask me, they're overreacting.",
+                  "vi": "Nếu hỏi mình thì họ đang phản ứng thái quá.",
+                  "reply": [
+                    { "them": "You weren't there though.", "themvi": "Nhưng bạn có ở đó đâu.", "you": "Fair point. I'm going off what I heard.", "youvi": "Cũng đúng. Mình chỉ nghe kể lại." }
+                  ],
+                  "vars": [
+                    { "en": "They're overreacting, if you ask me.", "vi": "Họ phản ứng thái quá, nếu hỏi mình." }
+                  ]
+                },
+                {
+                  "en": "Nobody asked me, but I'd wait a few days.",
+                  "vi": "Chẳng ai hỏi mình, nhưng mình thì bảo đợi vài hôm.",
+                  "note": "Tự giễu — thừa nhận mình đang nói xen nên nghe đỡ xấc hơn hẳn.",
+                  "reply": [
+                    { "them": "Go on, why?", "themvi": "Nói tiếp đi, sao vậy?", "you": "Everyone's still angry. Nothing good comes of that.", "youvi": "Mọi người còn đang giận. Lúc đó chẳng ra gì đâu." }
+                  ]
+                },
+                {
+                  "en": "If you ask me, she deserved better.",
+                  "vi": "Nếu hỏi mình thì cô ấy xứng đáng hơn thế.",
+                  "note": "Một trong số ít trường hợp cụm này dẫn vào ý <b>bênh vực</b> chứ không phải chê.",
+                  "reply": [
+                    { "them": "I thought the same thing.", "themvi": "Mình cũng nghĩ vậy.", "you": "Hopefully she lands somewhere better.", "youvi": "Mong cô ấy tìm được chỗ tốt hơn." }
+                  ],
+                  "close": { "en": "Her loss is their loss.", "vi": "Mất cô ấy là họ thiệt." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "It's overpriced, if you ask me.",
+                  "vi": "Giá bị đội lên, nếu hỏi mình.",
+                  "note": "Đặt cụm ở <b>cuối</b> nghe nhẹ hơn hẳn — như một lời lẩm bẩm thêm vào.",
+                  "reply": [
+                    { "them": "It's a good brand though.", "themvi": "Nhưng hãng tốt mà.", "you": "You're paying for the name.", "youvi": "Bạn đang trả tiền cho cái tên." }
+                  ]
+                },
+                {
+                  "en": "If you ask me, the cheaper one does the same job.",
+                  "vi": "Nếu hỏi mình thì cái rẻ hơn cũng làm được y vậy.",
+                  "reply": [
+                    { "them": "Will it last though?", "themvi": "Nhưng có bền không?", "you": "Long enough, and that's putting it fairly.", "youvi": "Đủ lâu, mà nói vậy là công bằng rồi." }
+                  ],
+                  "vars": [
+                    { "en": "To be blunt, you're paying for the logo.", "vi": "Nói thẳng ra thì bạn trả tiền cho cái logo." }
+                  ]
+                },
+                {
+                  "en": "If you ask me, the warranty is the only thing worth paying for.",
+                  "vi": "Nếu hỏi mình thì bảo hành mới là thứ đáng trả tiền.",
+                  "reply": [
+                    { "them": "Fair enough.", "themvi": "Cũng có lý.", "you": "Everything else you can get anywhere.", "youvi": "Mấy thứ còn lại chỗ nào chả có." }
+                  ]
+                },
+                {
+                  "en": "Don't take this the wrong way, but it doesn't suit you.",
+                  "vi": "Đừng hiểu lầm nhé, nhưng cái này không hợp với bạn.",
+                  "note": "Rào trước khi chê — cực kỳ hữu dụng khi góp ý về đồ đạc, ngoại hình của bạn bè.",
+                  "reply": [
+                    { "them": "Harsh, but fair.", "themvi": "Hơi nặng nhưng đúng.", "you": "Try the darker one.", "youvi": "Thử cái màu tối hơn đi." }
+                  ],
+                  "close": { "en": "That one's much better.", "vi": "Cái đó hợp hơn nhiều." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "It's overrated, if you ask me.",
+                  "vi": "Được khen quá lời, nếu hỏi mình.",
+                  "note": "<span class=\"k\">overrated</span> = được đánh giá cao hơn thực chất. Rất hay dùng khi bình luận quán xá, phim ảnh.",
+                  "reply": [
+                    { "them": "Everyone raves about this place.", "themvi": "Ai cũng khen chỗ này mà.", "you": "They're paying for the view, not the food.", "youvi": "Họ trả tiền cho cái view, không phải đồ ăn." }
+                  ]
+                },
+                {
+                  "en": "If you ask me, forty minutes is too long to wait.",
+                  "vi": "Nếu hỏi mình thì đợi bốn mươi phút là quá lâu.",
+                  "reply": [
+                    { "them": "Shall we go somewhere else?", "themvi": "Hay mình đi chỗ khác?", "you": "I'd say yes.", "youvi": "Mình thì bảo đi." }
+                  ],
+                  "vars": [
+                    { "en": "Frankly, I'd rather go somewhere else.", "vi": "Nói thẳng thắn thì mình thà đi chỗ khác." }
+                  ]
+                },
+                {
+                  "en": "To be honest, I didn't enjoy it much.",
+                  "vi": "Thật lòng mà nói, mình không thích lắm.",
+                  "note": "<i>To be honest</i> là bản nhẹ nhất của nhóm nói thẳng — dùng được cả trong công việc.",
+                  "reply": [
+                    { "them": "Really? I loved it.", "themvi": "Thật à? Mình thích lắm.", "you": "Just not my thing, I suppose.", "youvi": "Chắc chỉ là không hợp gu mình." }
+                  ]
+                },
+                {
+                  "en": "If you ask me, we've ordered too much.",
+                  "vi": "Nếu hỏi mình thì mình gọi hơi nhiều rồi.",
+                  "reply": [
+                    { "them": "We can take the rest home.", "themvi": "Còn thừa thì mang về.", "you": "Good — I'll ask for boxes.", "youvi": "Được — mình xin hộp." }
+                  ],
+                  "close": { "en": "Better too much than too little.", "vi": "Thừa còn hơn thiếu." }
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "If you want my honest opinion, it needs work.",
+                  "vi": "Nếu muốn nghe thật lòng thì nó cần chỉnh thêm.",
+                  "note": "Cách chê một bản nháp lịch sự nhất trong nhóm này — vì người kia đã mời bạn nói thật.",
+                  "open": { "en": "Are you sure you want the honest version?", "vi": "Bạn chắc muốn nghe bản thật lòng chứ?" },
+                  "reply": [
+                    { "them": "Go on, I can take it.", "themvi": "Nói đi, mình chịu được.", "you": "The middle section loses the reader.", "youvi": "Phần giữa làm người đọc lạc mất." },
+                    { "them": "That's a bit harsh.", "themvi": "Hơi nặng lời đấy.", "you": "You asked for honest, not gentle.", "youvi": "Bạn hỏi thật lòng, không phải nhẹ nhàng." }
+                  ],
+                  "close": { "en": "The idea itself is strong, though.", "vi": "Nhưng ý tưởng thì rất tốt." }
+                },
+                {
+                  "en": "Since you asked, I'd change the intro.",
+                  "vi": "Đã hỏi thì tôi nói: tôi sẽ đổi phần mở đầu.",
+                  "note": "<i>Since you asked</i> dùng khi người ta <b>thật sự có hỏi</b> — khác hẳn <i>If you ask me</i>.",
+                  "reply": [
+                    { "them": "What's wrong with it?", "themvi": "Nó sao vậy?", "you": "It takes three slides to get to the point.", "youvi": "Mất ba slide mới vào được ý chính." }
+                  ]
+                },
+                {
+                  "en": "Nobody asked me, but we're solving the wrong problem.",
+                  "vi": "Chẳng ai hỏi tôi, nhưng mình đang giải sai vấn đề.",
+                  "note": "Tự giễu trước khi nói một câu nặng — giúp người nghe đỡ phòng thủ.",
+                  "reply": [
+                    { "them": "Go on.", "themvi": "Nói tiếp đi.", "you": "Users aren't complaining about speed.", "youvi": "Người dùng có kêu chậm đâu." }
+                  ],
+                  "vars": [
+                    { "en": "The way I see it, we're solving the wrong thing.", "vi": "Theo cách tôi nhìn nhận, mình đang giải sai vấn đề." }
+                  ]
+                },
+                {
+                  "en": "To be blunt, the deadline isn't realistic.",
+                  "vi": "Nói thẳng ra thì hạn chót này không thực tế.",
+                  "note": "<i>blunt</i> = thẳng đến mức hơi phũ. Báo trước để người nghe chuẩn bị tinh thần.",
+                  "reply": [
+                    { "them": "What would be realistic?", "themvi": "Vậy thế nào mới thực tế?", "you": "Three weeks, with the current team.", "youvi": "Ba tuần, với đội hình hiện tại." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "If you ask me, three days isn't enough here.",
+                  "vi": "Nếu hỏi mình thì ba ngày ở đây không đủ.",
+                  "reply": [
+                    { "them": "We can't take more time off.", "themvi": "Tụi mình không nghỉ thêm được.", "you": "Then cut the day trip.", "youvi": "Vậy bỏ chuyến đi trong ngày đi." }
+                  ]
+                },
+                {
+                  "en": "If you ask me, the tour isn't worth the price.",
+                  "vi": "Nếu hỏi mình thì tour đó không đáng tiền.",
+                  "reply": [
+                    { "them": "But the guide is supposed to be great.", "themvi": "Nhưng nghe nói hướng dẫn viên hay lắm.", "you": "You can walk it yourself in an hour.", "youvi": "Bạn tự đi bộ một tiếng là hết." }
+                  ],
+                  "vars": [
+                    { "en": "It's not worth it, if you ask me.", "vi": "Không đáng đâu, nếu hỏi mình." }
+                  ]
+                },
+                {
+                  "en": "If you ask me, we should have booked earlier.",
+                  "vi": "Nếu hỏi mình thì lẽ ra mình phải đặt sớm hơn.",
+                  "note": "Nói chuyện đã rồi — dễ nghe như trách móc, nên thêm một câu xây dựng ngay sau.",
+                  "reply": [
+                    { "them": "Well, nobody asked you.", "themvi": "Ơ, có ai hỏi bạn đâu.", "you": "Fair. Let's just find something now.", "youvi": "Cũng đúng. Thôi giờ tìm chỗ khác đi." }
+                  ],
+                  "close": { "en": "Next time we book in advance.", "vi": "Lần sau mình đặt trước." }
+                },
+                {
+                  "en": "Don't take this the wrong way, but we're always late because of you.",
+                  "vi": "Đừng hiểu lầm nhé, nhưng lúc nào mình cũng trễ vì bạn.",
+                  "reply": [
+                    { "them": "Harsh, but fair.", "themvi": "Hơi nặng nhưng đúng.", "you": "Set your alarm earlier tomorrow?", "youvi": "Mai để chuông sớm hơn nhé?" }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Khuyên bạn đừng mua món đồ đắt tiền",
+          "lines": [
+            { "speaker": "Tú", "en": "I'm thinking of getting the top model.", "vi": "Mình đang tính lấy bản cao nhất." },
+            { "speaker": "You", "me": true, "en": "Look, I'll be straight with you. If you ask me, it's a waste of money.", "vi": "Này, mình nói thẳng nhé. Nếu hỏi mình thì đó là phí tiền." },
+            { "speaker": "Tú", "en": "That's a bit harsh.", "vi": "Hơi nặng lời đấy." },
+            { "speaker": "You", "me": true, "en": "Maybe. But the cheaper one does the same job, if you ask me.", "vi": "Có thể. Nhưng cái rẻ hơn cũng làm được y vậy, nếu hỏi mình." },
+            { "speaker": "Tú", "en": "You might be right.", "vi": "Có thể bạn đúng." },
+            { "speaker": "You", "me": true, "en": "But that's just me. Your call.", "vi": "Nhưng đó là ý riêng mình thôi. Bạn quyết." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Góp ý thật lòng cho bài thuyết trình của đồng nghiệp",
+          "lines": [
+            { "speaker": "Colleague", "en": "Be honest — what do you think of the deck?", "vi": "Thật lòng đi — bạn thấy bộ slide thế nào?" },
+            { "speaker": "You", "me": true, "en": "Are you sure you want the honest version?", "vi": "Bạn chắc muốn nghe bản thật lòng chứ?" },
+            { "speaker": "Colleague", "en": "Go on, I can take it.", "vi": "Nói đi, mình chịu được." },
+            { "speaker": "You", "me": true, "en": "Since you asked — if you want my honest opinion, it needs work.", "vi": "Đã hỏi thì mình nói — nếu muốn nghe thật lòng thì nó cần chỉnh thêm." },
+            { "speaker": "Colleague", "en": "Where exactly?", "vi": "Chỗ nào cụ thể?" },
+            { "speaker": "You", "me": true, "en": "To be blunt, it takes three slides to get to the point. The idea itself is strong, though.", "vi": "Nói thẳng ra thì mất ba slide mới vào được ý chính. Nhưng ý tưởng thì rất tốt." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "If you ask me, your proposal won't work. <i>(nói với khách hàng)</i>", "right": "From my point of view, there may be an issue with the proposal.", "why": "BẪY NGỮ CẢNH NẶNG NHẤT. Cụm này quá thẳng cho khách hàng và cấp trên. Dùng [Khung 47] thay thế." },
+            { "wrong": "If you ask me about it, it's a waste.", "right": "If you ask me, it's a waste.", "why": "Thừa <i>about it</i>. Cụm đã trọn nghĩa — không thêm gì sau <i>me</i>." },
+            { "wrong": "If you asked me, it's a waste.", "right": "If you ask me, it's a waste.", "why": "Dạng quá khứ <i>asked</i> biến câu thành điều kiện loại 2 — nghĩa “giá mà bạn hỏi tôi”, hoàn toàn khác." },
+            { "wrong": "Don't ask me, it's a waste of money.", "right": "If you ask me, it's a waste of money.", "why": "<i>Don't ask me</i> nghĩa NGƯỢC HẲN — đó là “tôi chịu, tôi không biết”." },
+            { "wrong": "If you ask me it's a waste.", "right": "If you ask me, it's a waste.", "why": "Khi viết phải có <b>dấu phẩy</b> sau cụm mở đầu." },
+            { "wrong": "If you ask me, I think it's a waste.", "right": "If you ask me, it's a waste.", "why": "Chồng hai lớp rào. Đã có cụm mở đầu thì bỏ <i>I think</i> — giống lỗi ở [Khung 42]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Độ thẳng / lịch sự", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>If you ask me,…</code>", "Thẳng, thân mật — thường để chê", "<i>If you ask me, it's a waste.</i> Bạn bè, người thân."],
+            ["<code>To be honest,…</code>", "Thẳng nhưng nhẹ nhất", "<i>To be honest, I didn't like it.</i> Dùng được ở công sở."],
+            ["<code>To be blunt,…</code>", "Thẳng đến mức hơi phũ", "<i>To be blunt, it won't sell.</i> Báo trước cho người nghe."],
+            ["<code>Nobody asked me, but…</code>", "Tự giễu — đỡ xấc hơn", "<i>Nobody asked me, but I'd wait.</i>"],
+            ["<code>Since you asked,…</code>", "Khi người ta thật sự có hỏi", "<i>Since you asked, I'd change it.</i>"],
+            ["<code>From my point of view,…</code>", "Khách quan, chuyên nghiệp", "<i>From my point of view, it's risky.</i> Xem [Khung 47]."],
+            ["<code>In my opinion,…</code>", "Trang trọng, có cân nhắc", "<i>In my opinion, it's too risky.</i> Xem [Khung 42]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — chê một kế hoạch tiêu tiền" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'm not sure it's worth it.", "vi": "Nhẹ nhất — chỉ nghi ngờ. Xem [Khung 50]" },
+            { "en": "To be honest, I'd think twice.", "vi": "Thẳng nhưng vẫn mềm" },
+            { "en": "From my point of view, the cost is high.", "vi": "Khách quan, chuyên nghiệp" },
+            { "en": "If you ask me, it's a waste of money.", "vi": "Thẳng — chỉ với người thân thiết" },
+            { "en": "To be blunt, it's a complete waste.", "vi": "Phũ nhất — chuẩn bị tinh thần cho người nghe" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "Cả cụm nói rất nhanh và dính liền: <b>“if-yə-ASK-mi”</b> — chỉ nhấn duy nhất vào <i>ASK</i>.",
+            "<b>you</b> đọc lướt thành <b>/jə/</b>, không bao giờ nhấn.",
+            "<b>ask me</b> → âm /k/ nối sang /m/, nghe như <b>“ask-mi”</b> liền một hơi.",
+            "Giọng Anh-Anh đọc <i>ask</i> là <b>/ɑːsk/</b> (dài), giọng Anh-Mỹ là <b>/æsk/</b> (ngắn) — cả hai đều đúng.",
+            "<b>Ngắt một nhịp rõ sau “me”</b> — chỗ ngắt đó chính là lời báo trước rằng ý kiến thẳng sắp đến.",
+            "Khi đặt ở <b>cuối câu</b>, cả cụm nói nhỏ và nhanh hơn, giọng hạ xuống — nghe như lẩm bẩm thêm vào."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "If you ask me, it's a waste of money.", "vi": "Luyện shadowing: “if-yə-ASK-mi” rồi ngắt một nhịp rõ." },
+            { "en": "It's overrated, if you ask me.", "vi": "Tập nói nhỏ và hạ giọng ở bốn chữ cuối." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Nếu hỏi mình thì đó là phí tiền.", "blank": "__________, it's a waste of money.", "a": "If you ask me" },
+            { "vi": "Được khen quá lời, nếu hỏi mình.", "blank": "It's overrated, __________.", "a": "if you ask me" },
+            { "vi": "Chẳng ai hỏi mình, nhưng mình thì bảo đợi.", "blank": "__________, but I'd wait.", "a": "Nobody asked me" },
+            { "vi": "Đã hỏi thì tôi nói: tôi sẽ đổi phần mở đầu.", "blank": "__________, I'd change the intro.", "a": "Since you asked" },
+            { "vi": "Nói thẳng ra thì nó sẽ không bán được.", "blank": "__________, it won't sell.", "a": "To be blunt" },
+            { "vi": "Đừng hiểu lầm nhé, nhưng nó hơi dài.", "blank": "__________, but it's too long.", "a": "Don't take this the wrong way" },
+            { "vi": "Giá đội lên, nhưng đó là ý riêng mình thôi.", "blank": "It's overpriced, __________.", "a": "but that's just me" },
+            { "vi": "Tôi chịu — tôi có ở đó đâu.", "blank": "__________ — I wasn't there.", "a": "Don't ask me (nghĩa ngược với “If you ask me”)" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Nếu hỏi mình thì họ đang phản ứng thái quá.", "a": "If you ask me, they're overreacting." },
+            { "vi": "2. Nếu muốn nghe thật lòng thì nó cần chỉnh thêm.", "a": "If you want my honest opinion, it needs work." },
+            { "vi": "3. Chẳng ai hỏi tôi, nhưng mình đang giải sai vấn đề.", "a": "Nobody asked me, but we're solving the wrong problem." },
+            { "vi": "4. Đừng hiểu lầm nhé, nhưng cái này không hợp với bạn.", "a": "Don't take this the wrong way, but it doesn't suit you." },
+            { "vi": "5. Nói thẳng ra thì hạn chót này không thực tế.", "a": "To be blunt, the deadline isn't realistic." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật ngữ cảnh quan trọng hơn ngữ pháp ở đây:</b> chỉ dùng với bạn bè, người thân, đồng nghiệp thân. Với khách hàng và cấp trên, đổi sang [Khung 47].",
+            "<b>Đặt ở cuối câu khi muốn nhẹ hơn:</b> <i>It's overrated, if you ask me.</i> nghe mềm hơn hẳn so với đặt ở đầu.",
+            "<b>Thêm “but that's just me” để hạ nhiệt</b> — nó trả lại quyền quyết định cho người nghe.",
+            "<b>Nhớ “Don't ask me” là nghĩa ngược:</b> đó là “tôi chịu”, không phải “theo tôi thì”.",
+            "<b>Dùng “Nobody asked me, but…” khi nói xen:</b> tự giễu trước thì câu tiếp theo nghe đỡ xấc đi nhiều.",
+            "<b>Bài tập 3 phút:</b> lấy 5 điều bạn từng muốn chê thẳng nhưng nhịn, viết mỗi câu hai lần — một lần với <i>If you ask me</i>, một lần với <i>From my point of view</i>. So sánh cảm giác."
+          ]
+        }
+      ]
+    }
+  ]
+}

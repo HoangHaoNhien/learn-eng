@@ -1,0 +1,277 @@
+{
+  "id": 58,
+  "group": "Nhóm 2 · Danh từ, mạo từ & lượng từ",
+  "title": "Danh từ ghép & tính từ ghép",
+  "subtitle": "a five-years-old boy ✗ là lỗi rất hay gặp. Khi một cụm số + danh từ nhảy lên làm TÍNH TỪ đứng trước danh từ, danh từ đó phải về SỐ ÍT và nối bằng gạch ngang: a five-year-old boy.",
+  "meaning": "Ghép hai từ thành một danh từ hoặc một tính từ",
+  "rule": [
+    "Làm tính từ đứng trước danh từ → <em>về số ít + gạch nối</em>",
+    "Danh từ ghép: <em>từ CUỐI</em> mới là từ chính",
+    "Từ đứng trước bổ nghĩa nên <em>không chia số nhiều</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1", "hot": true },
+    { "text": "a five-years-old boy ✗" },
+    { "text": "Từ cuối là từ chính" },
+    { "text": "Tần suất: cao" }
+  ],
+  "frames": [64, 65, 70, 92, 99],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Tiếng Anh ghép từ rất nhiều: <i>a bus stop</i>, <i>a two-hour meeting</i>, <i>a five-year-old boy</i>. Có hai luật chi phối toàn bộ chuyện này, và người Việt hay vướng cả hai." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — cụm số + danh từ làm tính từ thì VỀ SỐ ÍT:</b><br><i>a five-<b>years</b>-old boy</i> ✗ → <i>a five-<b>year</b>-old boy</i> ✓<br><i>a two-<b>hours</b> meeting</i> ✗ → <i>a two-<b>hour</b> meeting</i> ✓<br>So sánh để thấy rõ: <i>The boy is five <b>years</b> old.</i> ✓ (đứng sau, giữ số nhiều) nhưng <i>a five-<b>year</b>-old boy</i> ✓ (nhảy lên trước danh từ thì bỏ <b>-s</b> và thêm <b>gạch nối</b>)." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — từ CUỐI mới là từ chính:</b><br><i>a <b>shoe shop</b></i> = cửa hàng bán giày (nó là <b>shop</b>)<br><i>a <b>shop</b> assistant</i> = nhân viên bán hàng (nó là <b>assistant</b>)<br>Tiếng Việt đặt từ chính TRƯỚC (“cửa hàng giày”), tiếng Anh đặt từ chính <b>SAU</b>. Đảo chỗ là đổi nghĩa hẳn — và từ đứng trước luôn ở <b>số ít</b>: <i>a shoe shop</i>, không phải <i>a shoes shop</i>." },
+        { "t": "h3", "text": "Bốn khuôn phải thuộc" },
+        {
+          "t": "table",
+          "head": ["Khuôn", "Luật", "Ví dụ"],
+          "rows": [
+            ["Danh từ + danh từ", "Từ trước ở số ít, từ cuối là từ chính", "a bus stop · a shoe shop"],
+            ["Số + danh từ + gạch nối", "Danh từ về SỐ ÍT", "a two-hour meeting"],
+            ["Số + danh từ + <code>-old</code>", "Cả cụm nối bằng gạch ngang", "a five-year-old boy"],
+            ["Đứng SAU danh từ", "Giữ số nhiều, không gạch nối", "The boy is five years old."]
+          ]
+        },
+        { "t": "p", "html": "Nói gọn: <b>đứng trước danh từ thì nén lại</b> (số ít + gạch nối), <b>đứng sau thì để tự nhiên</b> (số nhiều, không gạch nối)." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Loại", "Ví dụ đúng", "Ghi chú"],
+          "rows": [
+            ["Danh từ + danh từ", "a bus stop", "Từ trước luôn số ít"],
+            ["Danh từ + danh từ", "a shoe shop", "<i>a shoes shop</i> ✗"],
+            ["Danh từ + danh từ", "a phone number", "Từ chính là <i>number</i>"],
+            ["Số + đơn vị (làm tính từ)", "a two-hour meeting", "<i>two-hours</i> ✗"],
+            ["Số + đơn vị (làm tính từ)", "a ten-minute walk", "<i>ten-minutes</i> ✗"],
+            ["Số + tuổi (làm tính từ)", "a five-year-old boy", "<i>five-years-old</i> ✗"],
+            ["Số + tiền (làm tính từ)", "a ten-dollar note", "<i>ten-dollars</i> ✗"],
+            ["Đứng sau danh từ", "The boy is five years old.", "Giữ số nhiều, bỏ gạch nối"],
+            ["Đứng sau danh từ", "The meeting lasted two hours.", "Giữ số nhiều"],
+            ["Tính từ + V3", "a well-known writer", "Gạch nối khi đứng trước danh từ"],
+            ["Tính từ + V-ing", "an English-speaking country", "Cùng luật gạch nối"],
+            ["Sở hữu cách thay cho ghép", "a children's book", "Khi nhấn vào “của ai”"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Khi nào dùng ghép, khi nào dùng <i>of</i> hoặc <i>'s</i>?</b><br>• Vật vô tri, quan hệ cố định → <b>ghép</b>: <i>a bus stop</i>, <i>a car key</i><br>• Người sở hữu → <b>'s</b>: <i>Nam's book</i>, <i>a children's book</i><br>• Quan hệ trừu tượng, bộ phận → <b>of</b>: <i>the end of the film</i>. Xem [Ngữ pháp 23]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "He's a five-year-old boy.", "vi": "Nó là một thằng bé năm tuổi.", "note": "BẪY SỐ MỘT: <i>five-years-old</i> ✗ — đứng trước danh từ thì về số ít." },
+            { "en": "The boy is five years old.", "vi": "Thằng bé năm tuổi.", "note": "Đứng SAU thì giữ số nhiều và bỏ gạch nối." },
+            { "en": "We had a two-hour meeting.", "vi": "Bọn tôi họp hai tiếng.", "note": "<i>a two-hours meeting</i> ✗." },
+            { "en": "The meeting lasted two hours.", "vi": "Cuộc họp kéo dài hai tiếng.", "note": "Cùng một ý, nhưng đứng sau nên giữ <b>hours</b>. Xem [Khung 64]." },
+            { "en": "It's a ten-minute walk from here.", "vi": "Từ đây đi bộ mười phút.", "note": "Xem [Khung 99]." },
+            { "en": "I'll wait at the bus stop.", "vi": "Tôi đợi ở điểm xe buýt.", "note": "BẪY SỐ HAI: <i>bus</i> số ít, từ chính là <b>stop</b>." },
+            { "en": "There's a shoe shop on the corner.", "vi": "Góc kia có một cửa hàng giày.", "note": "<i>a shoes shop</i> ✗ — từ đứng trước luôn số ít." },
+            { "en": "She's a shop assistant.", "vi": "Cô ấy là nhân viên bán hàng.", "note": "Đảo lại thành <i>assistant shop</i> là vô nghĩa." },
+            { "en": "Can I have your phone number?", "vi": "Cho mình xin số điện thoại nhé?", "note": "Từ chính là <b>number</b>, <i>phone</i> chỉ bổ nghĩa." },
+            { "en": "He's a well-known writer.", "vi": "Ông ấy là một nhà văn nổi tiếng.", "note": "Tính từ ghép đứng trước danh từ thì có gạch nối." },
+            { "en": "I want to work in an English-speaking country.", "vi": "Tôi muốn làm việc ở nước nói tiếng Anh.", "note": "Cùng luật gạch nối." },
+            { "en": "It's a children's book.", "vi": "Đó là sách thiếu nhi.", "note": "Nhấn “của ai” thì dùng sở hữu cách. Xem [Ngữ pháp 23]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "👶", "title": "Nói tuổi trước danh từ", "text": "<i>a five-year-old boy</i> — số ít + gạch nối." },
+            { "icon": "⏱", "title": "Nói thời lượng", "text": "<i>a two-hour meeting</i>. Xem [Khung 64]." },
+            { "icon": "🚏", "title": "Gọi tên một thứ", "text": "<i>a bus stop</i>, <i>a shoe shop</i>." },
+            { "icon": "📞", "title": "Hỏi thông tin", "text": "<i>your phone number</i>, <i>an email address</i>." },
+            { "icon": "⭐", "title": "Mô tả bằng tính từ ghép", "text": "<i>a well-known writer</i>." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Người sở hữu thì dùng <i>'s</i>, không ghép." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một mục ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi mục đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Tính từ ghép có số — luôn về số ít",
+              "items": [
+                { "w": "a five-year-old boy", "vi": "thằng bé năm tuổi", "ex": "He's a five-year-old boy.", "exvi": "Nó là thằng bé năm tuổi.", "note": "BẪY SỐ MỘT: <i>five-years-old</i> ✗." },
+                { "w": "five years old", "vi": "năm tuổi (đứng sau)", "ex": "The boy is five years old.", "exvi": "Thằng bé năm tuổi.", "note": "Đứng SAU thì giữ số nhiều, không gạch nối." },
+                { "w": "a two-hour meeting", "vi": "cuộc họp hai tiếng", "ex": "We had a two-hour meeting.", "exvi": "Bọn tôi họp hai tiếng.", "note": "<i>two-hours</i> ✗." },
+                { "w": "a ten-minute walk", "vi": "mười phút đi bộ", "ex": "It's a ten-minute walk.", "exvi": "Đi bộ mười phút. Xem [Khung 99]." },
+                { "w": "a three-day trip", "vi": "chuyến đi ba ngày", "ex": "We went on a three-day trip.", "exvi": "Bọn tôi đi chơi ba ngày." },
+                { "w": "a ten-dollar note", "vi": "tờ mười đô", "ex": "He gave me a ten-dollar note.", "exvi": "Anh ấy đưa tôi tờ mười đô." },
+                { "w": "a two-week holiday", "vi": "kỳ nghỉ hai tuần", "ex": "I'm taking a two-week holiday.", "exvi": "Tôi nghỉ phép hai tuần." },
+                { "w": "a four-star hotel", "vi": "khách sạn bốn sao", "ex": "We stayed at a four-star hotel.", "exvi": "Bọn tôi ở khách sạn bốn sao." },
+                { "w": "a well-known writer", "vi": "nhà văn nổi tiếng", "ex": "He's a well-known writer.", "exvi": "Ông ấy là nhà văn nổi tiếng.", "note": "Tính từ + V3, có gạch nối khi đứng trước danh từ." },
+                { "w": "an English-speaking country", "vi": "nước nói tiếng Anh", "ex": "I want to work in an English-speaking country.", "exvi": "Tôi muốn làm ở nước nói tiếng Anh." },
+                { "w": "a part-time job", "vi": "việc bán thời gian", "ex": "She has a part-time job.", "exvi": "Cô ấy làm bán thời gian." },
+                { "w": "a last-minute change", "vi": "thay đổi phút chót", "ex": "It was a last-minute change.", "exvi": "Đó là thay đổi vào phút chót." }
+              ]
+            },
+            {
+              "title": "Danh từ ghép — từ cuối là từ chính",
+              "items": [
+                { "w": "a bus stop", "vi": "điểm dừng xe buýt", "ex": "I'll wait at the bus stop.", "exvi": "Tôi đợi ở điểm xe buýt.", "note": "BẪY SỐ HAI: nó là một <b>stop</b>, không phải một <i>bus</i>." },
+                { "w": "a shoe shop", "vi": "cửa hàng giày", "ex": "There's a shoe shop on the corner.", "exvi": "Góc kia có cửa hàng giày.", "note": "<i>a shoes shop</i> ✗ — từ trước luôn số ít." },
+                { "w": "a shop assistant", "vi": "nhân viên bán hàng", "ex": "She's a shop assistant.", "exvi": "Cô ấy là nhân viên bán hàng.", "note": "Đảo chỗ với <i>shoe shop</i> là đổi nghĩa hẳn." },
+                { "w": "a phone number", "vi": "số điện thoại", "ex": "Can I have your phone number?", "exvi": "Cho mình xin số điện thoại nhé?" },
+                { "w": "an email address", "vi": "địa chỉ email", "ex": "What's your email address?", "exvi": "Email của bạn là gì?" },
+                { "w": "a credit card", "vi": "thẻ tín dụng", "ex": "Can I pay by credit card?", "exvi": "Tôi trả bằng thẻ được không?" },
+                { "w": "a car key", "vi": "chìa khóa xe", "ex": "I lost my car keys.", "exvi": "Tôi mất chìa khóa xe.", "note": "Số nhiều nằm ở từ CUỐI: <i>car keys</i>, không phải <i>cars key</i>." },
+                { "w": "a train station", "vi": "nhà ga", "ex": "The train station is near here.", "exvi": "Nhà ga ở gần đây." },
+                { "w": "a coffee shop", "vi": "quán cà phê", "ex": "Let's meet at the coffee shop.", "exvi": "Gặp nhau ở quán cà phê nhé." },
+                { "w": "a job interview", "vi": "buổi phỏng vấn xin việc", "ex": "I have a job interview tomorrow.", "exvi": "Mai tôi có buổi phỏng vấn. Xem [Khung 92]." },
+                { "w": "a children's book", "vi": "sách thiếu nhi", "ex": "It's a children's book.", "exvi": "Đó là sách thiếu nhi.", "note": "Nhấn “dành cho ai” thì dùng sở hữu cách. Xem [Ngữ pháp 23]." },
+                { "w": "the end of the film", "vi": "đoạn cuối phim", "ex": "I missed the end of the film.", "exvi": "Tôi lỡ mất đoạn cuối phim.", "note": "Quan hệ trừu tượng, bộ phận thì dùng <b>of</b>." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "He's a <b>five-years-old</b> boy.", "right": "He's a <b>five-year-old</b> boy.", "why": "BẪY SỐ MỘT: nhảy lên trước danh từ thì bỏ <b>-s</b> và thêm gạch nối." },
+            { "wrong": "The boy is <b>five-year-old</b>.", "right": "The boy is <b>five years old</b>.", "why": "Lỗi ngược lại — đứng SAU thì giữ số nhiều và bỏ gạch nối." },
+            { "wrong": "We had a <b>two-hours</b> meeting.", "right": "We had a <b>two-hour</b> meeting.", "why": "Cụm làm tính từ nên <i>hour</i> về số ít." },
+            { "wrong": "It's a <b>ten-minutes</b> walk.", "right": "It's a <b>ten-minute</b> walk.", "why": "Cùng luật. So sánh: <i>It takes ten minutes.</i> ✓ (đứng sau thì giữ <i>minutes</i>)." },
+            { "wrong": "There's a <b>shoes shop</b> on the corner.", "right": "There's a <b>shoe shop</b> on the corner.", "why": "BẪY SỐ HAI: từ đứng trước bổ nghĩa nên luôn số ít." },
+            { "wrong": "I lost my <b>cars key</b>.", "right": "I lost my <b>car keys</b>.", "why": "Số nhiều nằm ở từ CUỐI — từ chính — chứ không phải từ bổ nghĩa." },
+            { "wrong": "She's an <b>assistant shop</b>.", "right": "She's a <b>shop assistant</b>.", "why": "Tiếng Việt đặt từ chính trước, tiếng Anh đặt từ chính SAU." },
+            { "wrong": "Can I have <b>your number phone</b>?", "right": "Can I have <b>your phone number</b>?", "why": "Cùng lỗi trật tự — <i>number</i> mới là từ chính." },
+            { "wrong": "He's a <b>well known</b> writer.", "right": "He's a <b>well-known</b> writer.", "why": "Tính từ ghép đứng TRƯỚC danh từ thì cần gạch nối. Xem [Ngữ pháp 50]." },
+            { "wrong": "It's a <b>book of children</b>.", "right": "It's a <b>children's book</b>.", "why": "Người thụ hưởng thì dùng sở hữu cách, không dùng <i>of</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["Trước danh từ / sau danh từ", "Số ít + gạch nối / số nhiều", "a two-hour meeting ≠ lasted two hours"],
+            ["<code>a shoe shop</code> / <code>a shop assistant</code>", "Từ cuối quyết định nghĩa", "cửa hàng ≠ nhân viên"],
+            ["<code>car keys</code> / <code>cars key</code>", "Số nhiều ở từ chính", "car keys ✓"],
+            ["Ghép / <code>'s</code>", "Vật vô tri / người sở hữu", "a bus stop ≠ Nam's book"],
+            ["Ghép / <code>of</code>", "Quan hệ cố định / trừu tượng", "a car key ≠ the end of the film"],
+            ["<code>well-known</code> / <code>well known</code>", "Trước danh từ có gạch nối", "a well-known writer ✓"],
+            ["<code>five-year-old</code> / <code>five years old</code>", "Tính từ / cụm đứng sau", "Hai cách viết cho một ý"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: viết thế nào cho đúng?" },
+        {
+          "t": "tree",
+          "q": "Bạn muốn ghép một cụm — nó đứng ở đâu trong câu?",
+          "nodes": [
+            { "if": "Cụm số + đơn vị đứng TRƯỚC danh từ", "then": "Về số ít + gạch nối", "ex": "a two-hour meeting" },
+            { "if": "Cụm số + đơn vị đứng SAU danh từ", "then": "Giữ số nhiều, không gạch nối", "ex": "The meeting lasted two hours." },
+            { "if": "Hai danh từ ghép với nhau", "then": "Từ trước số ít, từ cuối là từ chính", "ex": "a bus stop · a shoe shop" },
+            { "if": "Cần số nhiều cho cả cụm", "then": "Thêm -s vào từ CUỐI", "ex": "car keys · bus stops" },
+            { "if": "Người sở hữu hoặc người thụ hưởng", "then": "Dùng 's", "ex": "a children's book" },
+            { "if": "Quan hệ trừu tượng hoặc bộ phận", "then": "Dùng of", "ex": "the end of the film" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ dài của một cuộc họp" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "a ten-minute call", "vi": "Ngắn nhất — một cuộc gọi" },
+            { "en": "a one-hour meeting", "vi": "Một tiếng" },
+            { "en": "a two-hour meeting", "vi": "Hai tiếng" },
+            { "en": "a half-day workshop", "vi": "Nửa ngày" },
+            { "en": "a three-day conference", "vi": "Dài nhất — hội nghị ba ngày" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Danh từ ghép và tính từ ghép xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 64, "why": "How long does it take to…? — câu trả lời hay là a ten-minute walk hoặc two hours." },
+            { "id": 99, "why": "It takes + thời gian + to V — so sánh trực tiếp hai cách viết thời lượng." },
+            { "id": 70, "why": "What's + N + like? — mô tả bằng tính từ ghép: a well-known, a four-star…" },
+            { "id": 65, "why": "How much / How many…? — a ten-dollar note, a two-week holiday." },
+            { "id": 92, "why": "I'm + V-ing + (thời gian) — a job interview, a two-hour meeting trong lịch hẹn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Viết đúng dạng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Nó là một thằng bé năm tuổi.", "blank": "He's a __________ boy.  (five / year / old)", "a": "five-year-old" },
+            { "vi": "Thằng bé năm tuổi.", "blank": "The boy is __________ .  (five / year / old)", "a": "five years old" },
+            { "vi": "Bọn tôi họp hai tiếng.", "blank": "We had a __________ meeting.  (two / hour)", "a": "two-hour" },
+            { "vi": "Cuộc họp kéo dài hai tiếng.", "blank": "The meeting lasted __________ .  (two / hour)", "a": "two hours" },
+            { "vi": "Từ đây đi bộ mười phút.", "blank": "It's a __________ walk from here.  (ten / minute)", "a": "ten-minute" },
+            { "vi": "Góc kia có một cửa hàng giày.", "blank": "There's a __________ on the corner.  (shoe / shop)", "a": "shoe shop" },
+            { "vi": "Tôi mất chìa khóa xe.", "blank": "I lost my __________ .  (car / key)", "a": "car keys" },
+            { "vi": "Ông ấy là một nhà văn nổi tiếng.", "blank": "He's a __________ writer.  (well / known)", "a": "well-known" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn câu đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Nó là thằng bé năm tuổi.", "blank": "(a) a five-years-old boy  (b) a five-year-old boy", "a": "(b)" },
+            { "vi": "Bọn tôi họp hai tiếng.", "blank": "(a) a two-hours meeting  (b) a two-hour meeting", "a": "(b)" },
+            { "vi": "Cửa hàng giày.", "blank": "(a) a shoes shop  (b) a shoe shop", "a": "(b)" },
+            { "vi": "Cho mình xin số điện thoại nhé?", "blank": "(a) your number phone  (b) your phone number", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Nó là một thằng bé năm tuổi.", "a": "He's a five-year-old boy." },
+            { "vi": "2. Bọn tôi vừa họp hai tiếng.", "a": "We had a two-hour meeting." },
+            { "vi": "3. Từ đây đi bộ mười phút.", "a": "It's a ten-minute walk from here." },
+            { "vi": "4. Tôi đợi ở điểm xe buýt.", "a": "I'll wait at the bus stop." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật nén:</b> nhảy lên <b>trước</b> danh từ thì <b>nén lại</b> — bỏ <b>-s</b>, thêm gạch nối. Đứng <b>sau</b> thì để tự nhiên.",
+            "<b>Hai câu cạnh nhau để nhớ:</b> <i>The meeting lasted two <b>hours</b></i> ↔ <i>a two-<b>hour</b> meeting</i>.",
+            "<b>Từ CUỐI là từ chính.</b> <i>a shoe shop</i> là một cái <b>shop</b>. Tiếng Việt ngược lại nên rất dễ đảo nhầm.",
+            "<b>Số nhiều luôn nằm ở từ cuối:</b> <i>car keys</i>, <i>bus stops</i> — không bao giờ <i>cars key</i>.",
+            "<b>Chọn giữa ba cách:</b> vật vô tri → <b>ghép</b> · người sở hữu → <b>'s</b> · quan hệ trừu tượng → <b>of</b>.",
+            "<b>Bài tập 3 phút:</b> viết bốn cụm về hôm nay — một cuộc họp, một quãng đường, một món đồ, một người — mỗi cụm theo cả hai cách (trước và sau danh từ)."
+          ]
+        }
+      ]
+    }
+  ]
+}

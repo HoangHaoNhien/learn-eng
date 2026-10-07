@@ -1,0 +1,484 @@
+{
+  "id": 38,
+  "group": "Nhóm 4 · Đề nghị & Rủ rê",
+  "title": "You should… / You'd better… — Khuyên nhủ và cảnh báo",
+  "subtitle": "Hai khung nhìn có vẻ giống nhau nhưng khác nhau rất xa. “You should” là lời khuyên bình thường. “You'd better” là lời cảnh báo — nó ngụ ý rằng nếu không làm thì sẽ có chuyện. Nhiều người học dùng “you'd better” tưởng là lịch sự hơn, và vô tình nghe như đang dọa.",
+  "pattern": [
+    "You should <em>+ V (không “to”)</em>",
+    "You'd better <em>+ V</em>",
+    "You'd better not <em>+ V</em>"
+  ],
+  "meaning": "Bạn nên… / Bạn liệu mà… (cảnh báo)",
+  "grammar": [32, 29],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Bẫy: “had better” nghe như dọa" },
+    { "text": "Trình độ: A2–B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">You should…</span> là lời khuyên bình thường: theo tôi thì làm vậy tốt hơn. Nó không ép, không dọa, và dùng được với hầu hết mọi người — nhất là khi thêm <i>I think</i> ở đầu." },
+        { "t": "p", "html": "<span class=\"k\">You'd better…</span> (= you <b>had</b> better) thì khác hẳn. Nó mang nghĩa <b>“nếu không làm thì sẽ có hậu quả”</b>. <i>You'd better leave now</i> không phải lời khuyên nhẹ nhàng — nó là cảnh báo rằng bạn sắp muộn thật." },
+        { "t": "p", "html": "Đây là chỗ người học hay vấp: thấy <i>had better</i> dài hơn nên tưởng lịch sự hơn <i>should</i>. Thực tế ngược lại — nói <i>You'd better finish this today</i> với đồng nghiệp nghe gần như một lời đe dọa. Với người trên, tuyệt đối đừng dùng." },
+        { "t": "callout", "html": "<b>Quy tắc chọn trong một giây:</b> có hậu quả xấu nếu không làm → <span class=\"k\">You'd better</span>. Chỉ là ý kiến của bạn → <span class=\"k\">You should</span>. Nếu phân vân, luôn chọn <i>should</i>." },
+        { "t": "h3", "text": "Bốn mức khuyên nhủ" },
+        {
+          "t": "table",
+          "head": ["Câu", "Nghĩa", "Sức nặng"],
+          "rows": [
+            ["<code>You could leave now.</code>", "Bạn có thể về (một khả năng)", "Không có"],
+            ["<code>I think you should leave now.</code>", "Theo tôi bạn nên về", "Nhẹ"],
+            ["<code>You should leave now.</code>", "Bạn nên về", "Vừa"],
+            ["<code>You'd better leave now.</code>", "Bạn liệu mà về đi — không thì muộn", "Mạnh, có cảnh báo"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💬", "title": "Khuyên bạn bè", "text": "Bối cảnh số 1 của <i>should</i>. <i>You should try that place.</i>" },
+            { "icon": "⏰", "title": "Cảnh báo về thời gian", "text": "<i>We'd better go — the traffic's building.</i> Đây mới là lúc dùng <i>had better</i>." },
+            { "icon": "⚠️", "title": "Nhắc hậu quả thật", "text": "<i>You'd better back it up.</i> Có rủi ro rõ ràng nếu không làm." },
+            { "icon": "🤝", "title": "Tự nhận về mình", "text": "<i>I'd better get going.</i> Cách xin phép rời đi rất tự nhiên." },
+            { "icon": "📧", "title": "Góp ý trong email", "text": "<i>I think you should double-check the figures.</i> Thêm <i>I think</i> để mềm." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Nói <i>You'd better</i> với sếp hoặc khách hàng — nghe như đe dọa." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Khuyên cơ bản", "<code>You should + V</code>", "You should try the fish."],
+            ["Mềm hơn", "<code>I think you should + V</code>", "I think you should call her."],
+            ["Khuyên không nên", "<code>You shouldn't + V</code>", "You shouldn't leave it too late."],
+            ["Cảnh báo", "<code>You'd better + V</code>", "You'd better leave now."],
+            ["Cảnh báo phủ định", "<code>You'd better not + V</code>", "You'd better not be late."],
+            ["Tự nhận về mình", "<code>I'd better + V</code>", "I'd better get going."],
+            ["Cho cả nhóm", "<code>We'd better + V</code>", "We'd better hurry."],
+            ["Hỏi ý kiến", "<code>Do you think I should + V?</code>", "Do you think I should apply?"],
+            ["Tiếc nuối quá khứ", "<code>You should have + V3</code>", "You should have told me."],
+            ["Dạng nhã nhất", "<code>You might want to + V</code>", "You might want to check that."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp:</b> sau <i>should</i> và <i>had better</i> đều là <b>động từ nguyên thể KHÔNG “to”</b>. <span class=\"k\">You'd better go.</span> ✓ — <i>You'd better to go.</i> ✗ Và phủ định là <b>better not</b>, không phải <i>better don't</i>." },
+        { "t": "callout", "html": "<b>Dạng “I'd better…” rất hữu dụng:</b> khi tự nói về mình, nó mất hẳn sắc thái đe dọa và trở thành cách xin phép rời đi tự nhiên nhất: <i>I'd better get going — it's late.</i>" }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “You should…”",
+              "items": [
+                { "w": "try", "vi": "thử", "ex": "You should try that new place.", "exvi": "Bạn nên thử quán mới đó." },
+                { "w": "call", "vi": "gọi điện", "ex": "I think you should call her back.", "exvi": "Mình nghĩ bạn nên gọi lại cho cô ấy." },
+                { "w": "check", "vi": "kiểm tra", "ex": "You should check the details once more.", "exvi": "Bạn nên kiểm tra lại chi tiết một lần nữa." },
+                { "w": "ask", "vi": "hỏi", "ex": "You should ask before you assume.", "exvi": "Bạn nên hỏi trước khi suy đoán." },
+                { "w": "rest", "vi": "nghỉ ngơi", "ex": "You should rest — you've been working all week.", "exvi": "Bạn nên nghỉ — cả tuần bạn làm việc rồi." },
+                { "w": "see a doctor", "vi": "đi khám", "ex": "You should see a doctor about that.", "exvi": "Chuyện đó bạn nên đi khám bác sĩ." },
+                { "w": "apply", "vi": "nộp đơn", "ex": "You should apply — you'd be great at it.", "exvi": "Bạn nên nộp đơn — bạn sẽ làm tốt lắm." },
+                { "w": "take a break", "vi": "nghỉ giải lao", "ex": "You should take a break.", "exvi": "Bạn nên nghỉ một lát." },
+                { "w": "write it down", "vi": "ghi lại", "ex": "You should write it down before you forget.", "exvi": "Bạn nên ghi lại kẻo quên." },
+                { "w": "speak to them", "vi": "nói chuyện với họ", "ex": "You should speak to them directly.", "exvi": "Bạn nên nói chuyện thẳng với họ." },
+                { "w": "book early", "vi": "đặt sớm", "ex": "You should book early — it fills up fast.", "exvi": "Bạn nên đặt sớm — hết chỗ nhanh lắm." },
+                { "w": "double-check", "vi": "kiểm tra lại cho chắc", "ex": "You should double-check the figures.", "exvi": "Bạn nên kiểm tra lại các con số cho chắc." },
+                { "w": "get it in writing", "vi": "lấy bằng văn bản", "ex": "You should get it in writing.", "exvi": "Bạn nên lấy xác nhận bằng văn bản.", "note": "Lời khuyên rất thực dụng trong công việc và giao dịch." },
+                { "w": "sleep on it", "vi": "để qua đêm nghĩ", "ex": "You should sleep on it before deciding.", "exvi": "Bạn nên để qua đêm rồi hãy quyết." },
+                { "w": "take it easy", "vi": "thong thả thôi", "ex": "You should take it easy this weekend.", "exvi": "Cuối tuần này bạn nên thong thả thôi." },
+                { "w": "let them know", "vi": "báo cho họ biết", "ex": "You should let them know as soon as possible.", "exvi": "Bạn nên báo họ càng sớm càng tốt." },
+                { "w": "keep a copy", "vi": "giữ một bản", "ex": "You should keep a copy for yourself.", "exvi": "Bạn nên giữ lại một bản cho mình." },
+                { "w": "be careful", "vi": "cẩn thận", "ex": "You should be careful with that.", "exvi": "Bạn nên cẩn thận với cái đó." },
+                { "w": "shouldn't worry", "vi": "không nên lo", "ex": "You shouldn't worry about it so much.", "exvi": "Bạn không nên lo về chuyện đó nhiều vậy." },
+                { "w": "shouldn't leave it", "vi": "không nên để lâu", "ex": "You shouldn't leave it too late.", "exvi": "Bạn không nên để quá muộn." }
+              ]
+            },
+            {
+              "title": "Dạng “had better” — cảnh báo",
+              "items": [
+                { "w": "You'd better leave now", "vi": "bạn liệu mà đi ngay", "ex": "You'd better leave now — the traffic's building.", "exvi": "Bạn liệu mà đi ngay — đang bắt đầu kẹt xe rồi.", "note": "Có hậu quả rõ ràng nếu không làm. KHÔNG phải lời khuyên nhẹ." },
+                { "w": "You'd better hurry", "vi": "bạn nhanh lên", "ex": "You'd better hurry — it closes at six.", "exvi": "Bạn nhanh lên — sáu giờ đóng cửa đấy." },
+                { "w": "You'd better back it up", "vi": "bạn nên sao lưu đi", "ex": "You'd better back it up before you update.", "exvi": "Cập nhật thì bạn nên sao lưu trước đã.", "note": "Rủi ro thật — đúng lúc dùng <i>had better</i>." },
+                { "w": "You'd better not be late", "vi": "liệu mà đừng đến muộn", "ex": "You'd better not be late tomorrow.", "exvi": "Mai bạn liệu mà đừng đến muộn đấy.", "note": "Khá nặng — chỉ dùng với người rất thân, hoặc khi bạn thật sự nghiêm túc." },
+                { "w": "You'd better tell them", "vi": "bạn nên báo họ đi", "ex": "You'd better tell them before they find out.", "exvi": "Bạn nên báo họ trước khi họ tự biết." },
+                { "w": "I'd better get going", "vi": "mình phải đi đây", "ex": "I'd better get going — it's late.", "exvi": "Mình phải đi đây — muộn rồi.", "note": "Tự nói về mình thì mất hẳn sắc thái dọa — cách xin phép rời đi tự nhiên nhất." },
+                { "w": "I'd better check", "vi": "mình nên kiểm tra đã", "ex": "I'd better check before I promise anything.", "exvi": "Mình nên kiểm tra trước khi hứa gì đó." },
+                { "w": "We'd better hurry", "vi": "mình phải nhanh lên", "ex": "We'd better hurry or we'll miss it.", "exvi": "Mình phải nhanh lên không là lỡ mất." },
+                { "w": "We'd better not risk it", "vi": "mình đừng liều", "ex": "We'd better not risk it.", "exvi": "Mình đừng liều thì hơn." },
+                { "w": "I'd better be off", "vi": "mình đi đây", "ex": "Right, I'd better be off.", "exvi": "Thôi, mình đi đây.", "note": "Anh-Anh, rất tự nhiên khi chia tay." }
+              ]
+            },
+            {
+              "title": "Dạng mềm hơn & cách đáp",
+              "items": [
+                { "w": "I think you should…", "vi": "mình nghĩ bạn nên…", "ex": "I think you should talk to her.", "exvi": "Mình nghĩ bạn nên nói chuyện với cô ấy.", "note": "Thêm <i>I think</i> biến lời khuyên thành ý kiến cá nhân — mềm hơn hẳn." },
+                { "w": "You might want to…", "vi": "có lẽ bạn nên…", "ex": "You might want to check that again.", "exvi": "Có lẽ bạn nên kiểm tra lại cái đó.", "note": "Nhã nhất trong nhóm — hợp khi góp ý cho người trên. Xem [Khung 39]." },
+                { "w": "Have you thought about…?", "vi": "bạn đã nghĩ đến… chưa?", "ex": "Have you thought about asking for help?", "exvi": "Bạn đã nghĩ đến việc nhờ giúp chưa?", "note": "Gợi ý dưới dạng câu hỏi — không hề áp đặt." },
+                { "w": "You should have…", "vi": "lẽ ra bạn nên…", "ex": "You should have told me earlier.", "exvi": "Lẽ ra bạn nên nói với mình sớm hơn.", "note": "Trách móc về quá khứ — dùng cẩn thận, nghe khá nặng." },
+                { "w": "You're right, I should", "vi": "bạn nói đúng, mình nên vậy", "ex": "You're right, I should call her.", "exvi": "Bạn nói đúng, mình nên gọi cho cô ấy.", "note": "Cách tiếp nhận lời khuyên cởi mở." },
+                { "w": "I'll think about it", "vi": "để mình suy nghĩ", "ex": "I'll think about it, thanks.", "exvi": "Để mình suy nghĩ, cảm ơn bạn.", "note": "Không nhận cũng không bác — cách đáp trung tính." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I think you should talk to her directly.",
+                  "vi": "Mình nghĩ bạn nên nói chuyện thẳng với cô ấy.",
+                  "note": "Thêm <b>I think</b> biến lời khuyên thành ý kiến cá nhân — người nghe dễ tiếp nhận hơn nhiều.",
+                  "reply": [
+                    { "them": "I don't know how to start.", "themvi": "Mình không biết bắt đầu thế nào.", "you": "You could just say you've been worried.", "youvi": "Bạn cứ nói là bạn lo cho cô ấy thôi." },
+                    { "them": "You're right, I should.", "themvi": "Bạn nói đúng, mình nên vậy.", "you": "Let me know how it goes.", "youvi": "Xong thì kể mình nghe nhé." }
+                  ],
+                  "close": { "en": "I'm here either way.", "vi": "Dù thế nào mình cũng ở đây." }
+                },
+                {
+                  "en": "I'd better get going — it's late.",
+                  "vi": "Mình phải đi đây — muộn rồi.",
+                  "note": "Tự nói về mình thì <i>had better</i> mất hẳn sắc thái dọa. Đây là cách xin phép rời đi tự nhiên nhất.",
+                  "reply": [
+                    { "them": "Already? Stay a bit longer.", "themvi": "Đã đi rồi à? Ở thêm chút nữa đi.", "you": "I'd love to, but I've got an early start.", "youvi": "Mình rất muốn, nhưng mai mình dậy sớm." }
+                  ],
+                  "vars": [
+                    { "en": "Right, I'd better be off.", "vi": "Thôi, mình đi đây." }
+                  ]
+                },
+                {
+                  "en": "You should see a doctor about that.",
+                  "vi": "Chuyện đó bạn nên đi khám bác sĩ.",
+                  "reply": [
+                    { "them": "It's probably nothing.", "themvi": "Chắc không có gì đâu.", "you": "Probably. But you'd better get it checked.", "youvi": "Chắc vậy. Nhưng bạn liệu mà đi kiểm tra đi." }
+                  ]
+                },
+                {
+                  "en": "You should have told me earlier.",
+                  "vi": "Lẽ ra bạn nên nói với mình sớm hơn.",
+                  "note": "<b>should have + V3</b> — trách móc về quá khứ. Nghe khá nặng, dùng cẩn thận.",
+                  "reply": [
+                    { "them": "I didn't want to worry you.", "themvi": "Mình không muốn làm bạn lo.", "you": "I'd rather worry than not know.", "youvi": "Mình thà lo còn hơn không biết gì." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "You should double-check the figures before sending.",
+                  "vi": "Bạn nên kiểm tra lại các con số trước khi gửi.",
+                  "note": "Góp ý thẳng nhưng không nặng. Nếu người kia là cấp trên, hãy đổi sang <i>You might want to…</i>",
+                  "reply": [
+                    { "them": "I already did, twice.", "themvi": "Mình kiểm tra rồi, hai lần.", "you": "Then you're fine — send it.", "youvi": "Vậy là ổn rồi — gửi đi." },
+                    { "them": "Good point — I'll run them again.", "themvi": "Đúng đấy — để mình tính lại.", "you": "Want me to look too?", "youvi": "Mình xem giúp luôn nhé?" }
+                  ]
+                },
+                {
+                  "en": "You'd better back it up before you update.",
+                  "vi": "Cập nhật thì bạn nên sao lưu trước đã.",
+                  "note": "Đây đúng là lúc dùng <b>had better</b>: có rủi ro thật và hậu quả rõ ràng nếu bỏ qua.",
+                  "reply": [
+                    { "them": "Is it that risky?", "themvi": "Rủi ro vậy à?", "you": "Two people lost their files last month.", "youvi": "Tháng trước hai người mất sạch dữ liệu rồi." }
+                  ],
+                  "close": { "en": "Better safe than sorry.", "vi": "Cẩn thận vẫn hơn." }
+                },
+                {
+                  "en": "You should get it in writing.",
+                  "vi": "Bạn nên lấy xác nhận bằng văn bản.",
+                  "note": "Lời khuyên thực dụng bậc nhất trong công việc — tránh được rất nhiều tranh cãi sau này.",
+                  "reply": [
+                    { "them": "They said it's fine verbally.", "themvi": "Họ bảo nói miệng là được rồi.", "you": "Send a short email confirming. That's enough.", "youvi": "Gửi một email ngắn xác nhận lại. Vậy là đủ." }
+                  ]
+                },
+                {
+                  "en": "I'd better check before I promise anything.",
+                  "vi": "Mình nên kiểm tra trước khi hứa gì đó.",
+                  "note": "Dạng <b>I'd better</b> — tự cảnh báo mình. Cách hoãn cam kết rất chuyên nghiệp.",
+                  "reply": [
+                    { "them": "How long do you need?", "themvi": "Anh/chị cần bao lâu?", "you": "Give me until four.", "youvi": "Cho tôi đến bốn giờ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "We'd better go — the traffic's building.",
+                  "vi": "Mình phải đi thôi — đang bắt đầu kẹt xe rồi.",
+                  "note": "Cảnh báo có lý do cụ thể ngay sau đó — nên không ai thấy bị giục vô cớ.",
+                  "reply": [
+                    { "them": "Give me two minutes.", "themvi": "Cho mình hai phút.", "you": "Two, then we really have to go.", "youvi": "Hai phút thôi, rồi mình phải đi thật đấy." }
+                  ],
+                  "vars": [
+                    { "en": "We'd better hurry or we'll miss it.", "vi": "Mình phải nhanh lên không là lỡ mất." }
+                  ]
+                },
+                {
+                  "en": "You should book early — it fills up fast.",
+                  "vi": "Bạn nên đặt sớm — hết chỗ nhanh lắm.",
+                  "reply": [
+                    { "them": "How early?", "themvi": "Sớm bao nhiêu?", "you": "At least two weeks for weekends.", "youvi": "Cuối tuần thì ít nhất hai tuần." }
+                  ]
+                },
+                {
+                  "en": "You should keep a copy of your passport separately.",
+                  "vi": "Bạn nên giữ một bản sao hộ chiếu để riêng.",
+                  "reply": [
+                    { "them": "Good idea. Photo on my phone?", "themvi": "Ý hay. Chụp ảnh vào điện thoại nhé?", "you": "And email it to yourself.", "youvi": "Và gửi email cho chính mình nữa." }
+                  ]
+                },
+                {
+                  "en": "You'd better not leave your bag there.",
+                  "vi": "Bạn đừng để túi ở đó thì hơn.",
+                  "note": "Cảnh báo phủ định. Có nguy cơ thật (mất đồ) nên <i>had better</i> hoàn toàn đúng chỗ.",
+                  "reply": [
+                    { "them": "It's only for a minute.", "themvi": "Chỉ một phút thôi mà.", "you": "That's all it takes here.", "youvi": "Ở đây một phút là đủ để mất rồi." }
+                  ],
+                  "close": { "en": "Keep it where you can see it.", "vi": "Giữ ở chỗ nhìn thấy được nhé." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "You should try the fish — it's the best thing here.",
+                  "vi": "Bạn nên thử món cá — ngon nhất quán đấy.",
+                  "reply": [
+                    { "them": "I'm not big on fish.", "themvi": "Mình không mê cá lắm.", "you": "Then you should try the noodles.", "youvi": "Vậy bạn nên thử món mì." }
+                  ]
+                },
+                {
+                  "en": "You'd better order now — the kitchen closes soon.",
+                  "vi": "Bạn gọi món luôn đi — bếp sắp đóng rồi.",
+                  "reply": [
+                    { "them": "How long have we got?", "themvi": "Mình còn bao lâu?", "you": "About ten minutes.", "youvi": "Khoảng mười phút." }
+                  ]
+                },
+                {
+                  "en": "You shouldn't leave it too late to book.", "vi": "Bạn không nên để quá muộn mới đặt bàn.",
+                  "reply": [
+                    { "them": "It's a Tuesday though.", "themvi": "Nhưng là thứ Ba mà.", "you": "Even so, this place gets busy.", "youvi": "Dù vậy, quán này vẫn đông lắm." }
+                  ]
+                },
+                {
+                  "en": "I'd better not have another coffee.",
+                  "vi": "Mình không nên uống thêm cà phê nữa.",
+                  "note": "Tự cảnh báo mình — cách từ chối thêm đồ uống rất tự nhiên.",
+                  "reply": [
+                    { "them": "One more won't hurt.", "themvi": "Thêm một ly có sao đâu.", "you": "It's five o'clock — I'd never sleep.", "youvi": "Năm giờ rồi — mình sẽ không ngủ được mất." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "You should keep the receipt for the warranty.",
+                  "vi": "Anh/chị nên giữ biên lai để bảo hành ạ.",
+                  "reply": [
+                    { "them": "How long is the warranty?", "themvi": "Bảo hành bao lâu ạ?", "you": "Two years from today.", "youvi": "Hai năm kể từ hôm nay ạ." }
+                  ]
+                },
+                {
+                  "en": "You should try it on before you buy.",
+                  "vi": "Bạn nên thử trước khi mua.",
+                  "reply": [
+                    { "them": "It looks about right.", "themvi": "Nhìn có vẻ vừa rồi.", "you": "Sizes vary a lot in this brand.", "youvi": "Hãng này cỡ chênh nhau nhiều lắm." }
+                  ]
+                },
+                {
+                  "en": "You'd better check the return policy first.",
+                  "vi": "Bạn nên kiểm tra chính sách đổi trả trước đã.",
+                  "note": "Có hậu quả thật nếu bỏ qua (không trả lại được) — nên <i>had better</i> dùng đúng chỗ.",
+                  "reply": [
+                    { "them": "Good thinking.", "themvi": "Nghĩ hay đấy.", "you": "Some sale items are final.", "youvi": "Hàng giảm giá có khi không đổi trả được đâu." }
+                  ]
+                },
+                {
+                  "en": "You might want to compare prices online first.",
+                  "vi": "Có lẽ bạn nên so giá trên mạng trước.",
+                  "note": "Dạng nhã nhất — góp ý mà không nghe như dạy bảo. Xem [Khung 39].",
+                  "reply": [
+                    { "them": "I already did — this is cheaper.", "themvi": "Mình xem rồi — ở đây rẻ hơn.", "you": "Then buy it.", "youvi": "Vậy thì mua đi." }
+                  ],
+                  "close": { "en": "Just checking.", "vi": "Mình hỏi cho chắc thôi." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Khuyên bạn về chuyện sức khỏe",
+          "lines": [
+            { "speaker": "Friend", "en": "My back's been hurting for three weeks.", "vi": "Lưng mình đau ba tuần rồi." },
+            { "speaker": "You", "me": true, "en": "Three weeks? I think you should see a doctor.", "vi": "Ba tuần à? Mình nghĩ bạn nên đi khám." },
+            { "speaker": "Friend", "en": "It's probably nothing serious.", "vi": "Chắc không có gì nghiêm trọng đâu." },
+            { "speaker": "You", "me": true, "en": "Probably. But you'd better get it checked before it gets worse.", "vi": "Chắc vậy. Nhưng bạn liệu mà đi kiểm tra trước khi nặng thêm." },
+            { "speaker": "Friend", "en": "You're right, I should.", "vi": "Bạn nói đúng, mình nên đi." },
+            { "speaker": "You", "me": true, "en": "You should book today — they get full quickly.", "vi": "Bạn nên đặt lịch hôm nay — họ kín lịch nhanh lắm." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Nhắc đồng nghiệp trước khi gửi báo cáo",
+          "lines": [
+            { "speaker": "Colleague", "en": "I'm about to send the report to the client.", "vi": "Em chuẩn bị gửi báo cáo cho khách hàng." },
+            { "speaker": "You", "me": true, "en": "You might want to double-check the figures first.", "vi": "Có lẽ em nên kiểm tra lại các con số trước." },
+            { "speaker": "Colleague", "en": "I checked them twice already.", "vi": "Em kiểm tra hai lần rồi ạ." },
+            { "speaker": "You", "me": true, "en": "Then you're fine. But you'd better save a copy before you send.", "vi": "Vậy là ổn. Nhưng em nên lưu một bản trước khi gửi." },
+            { "speaker": "Colleague", "en": "Why's that?", "vi": "Vì sao ạ?" },
+            { "speaker": "You", "me": true, "en": "The system overwrote someone's file last week. Better safe than sorry.", "vi": "Tuần trước hệ thống ghi đè mất file của một người. Cẩn thận vẫn hơn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "You'd better to go now.", "right": "You'd better go now.", "why": "Sau <b>had better</b> là động từ nguyên thể <b>không “to”</b>." },
+            { "wrong": "You'd better don't be late.", "right": "You'd better not be late.", "why": "Phủ định là <b>better not</b>, không dùng <i>don't</i>." },
+            { "wrong": "You'd better finish this today. <i>(nói với sếp)</i>", "right": "You might want to finish this today.", "why": "<b>had better</b> ngụ ý hậu quả xấu — nói với cấp trên nghe như đe dọa. Xem [Khung 39]." },
+            { "wrong": "You should to call her.", "right": "You should call her.", "why": "Sau <b>should</b> cũng không có <i>to</i>." },
+            { "wrong": "You had better than go.", "right": "You'd better go.", "why": "Cụm là <b>had better</b>, không liên quan gì tới <i>than</i>." },
+            { "wrong": "You should told me. <i>(ý: lẽ ra bạn nên nói)</i>", "right": "You should have told me.", "why": "Nói về quá khứ phải là <b>should have + V3</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>You should + V</code>", "Khuyên bình thường — ý kiến của bạn", "<i>You should call her.</i>"],
+            ["<code>I think you should + V</code>", "Mềm hơn — nhấn là ý kiến cá nhân", "<i>I think you should call her.</i>"],
+            ["<code>You'd better + V</code>", "Cảnh báo — có hậu quả nếu không làm", "<i>You'd better call her.</i>"],
+            ["<code>You might want to + V</code>", "Nhã nhất — hợp với người trên", "<i>You might want to call her.</i> — Xem [Khung 39]."],
+            ["<code>You could + V</code>", "Chỉ là một khả năng", "<i>You could call her.</i> — Xem [Khung 36]."],
+            ["<code>You have to + V</code>", "Bắt buộc từ bên ngoài", "<i>You have to call her.</i> — Xem [Khung 26]."],
+            ["<code>Why don't you + V?</code>", "Khuyên dưới dạng câu hỏi", "<i>Why don't you call her?</i> — Xem [Khung 32]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang sức nặng — khuyên ai đó đi ngay" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "You could leave now.", "vi": "Chỉ nêu khả năng" },
+            { "en": "You might want to leave now.", "vi": "Nhã nhất — không áp đặt" },
+            { "en": "I think you should leave now.", "vi": "Ý kiến cá nhân" },
+            { "en": "You should leave now.", "vi": "Khuyên thẳng" },
+            { "en": "You'd better leave now.", "vi": "Cảnh báo — có hậu quả" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>should</b> = /ʃʊd/ — âm <b>l</b> hoàn toàn CÂM. Đọc là “shud”, không phải “sao-lđ”.",
+            "<b>You should</b> → “yə-shəd” khi nói nhanh — <i>should</i> giảm nhẹ nếu không nhấn.",
+            "<b>You'd better</b> → “yəd-BE-tə” — âm /d/ rất nhẹ nhưng có. Nuốt mất là câu sai ngữ pháp.",
+            "Khi nói cực nhanh, <b>You'd better</b> có thể rút thành <b>“you better”</b> — nghe được nhưng <b>đừng viết</b> như vậy.",
+            "<b>shouldn't</b> = /ˈʃʊdənt/ — âm /t/ cuối gần như không bật ra.",
+            "<b>should have</b> → “should've” /ˈʃʊdəv/ — nghe như <i>should of</i>, nhưng <b>viết “should of” là sai</b>."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I think you should talk to her directly.", "vi": "Luyện shadowing: “should” đọc là “shud”, âm l câm hoàn toàn." },
+            { "en": "You'd better back it up before you update.", "vi": "Chú ý âm /d/ trong “you'd” — nhẹ nhưng bắt buộc phải có." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Mình nghĩ bạn nên gọi lại cho cô ấy.", "blank": "__________ call her back.", "a": "I think you should" },
+            { "vi": "Bạn liệu mà đi ngay — đang kẹt xe rồi.", "blank": "__________ now — the traffic's building.", "a": "You'd better leave" },
+            { "vi": "Mai bạn liệu mà đừng đến muộn đấy.", "blank": "__________ late tomorrow.", "a": "You'd better not be" },
+            { "vi": "Mình phải đi đây — muộn rồi.", "blank": "__________ — it's late.", "a": "I'd better get going" },
+            { "vi": "Lẽ ra bạn nên nói với mình sớm hơn.", "blank": "__________ me earlier.", "a": "You should have told" },
+            { "vi": "Có lẽ bạn nên kiểm tra lại cái đó.", "blank": "__________ check that again.", "a": "You might want to" },
+            { "vi": "Bạn nên lấy xác nhận bằng văn bản.", "blank": "You should __________.", "a": "get it in writing" },
+            { "vi": "Bạn không nên để quá muộn.", "blank": "__________ it too late.", "a": "You shouldn't leave" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Chuyện đó bạn nên đi khám bác sĩ.", "a": "You should see a doctor about that." },
+            { "vi": "2. Cập nhật thì bạn nên sao lưu trước đã.", "a": "You'd better back it up before you update." },
+            { "vi": "3. Mình nên kiểm tra trước khi hứa gì đó.", "a": "I'd better check before I promise anything." },
+            { "vi": "4. Bạn nên đặt sớm — hết chỗ nhanh lắm.", "a": "You should book early — it fills up fast." },
+            { "vi": "5. Mình phải nhanh lên không là lỡ mất.", "a": "We'd better hurry or we'll miss it." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Phép thử một giây:</b> có hậu quả xấu nếu không làm → <i>You'd better</i>. Chỉ là ý kiến → <i>You should</i>. Phân vân thì chọn <i>should</i>.",
+            "<b>Tuyệt đối đừng dùng “You'd better” với sếp:</b> nó nghe như đe dọa. Với người trên hãy dùng <i>You might want to…</i>",
+            "<b>Thêm “I think” để mềm:</b> <i>I think you should…</i> biến lời khuyên thành ý kiến cá nhân, người nghe dễ tiếp nhận hơn nhiều.",
+            "<b>Dùng “I'd better” để xin phép rời đi:</b> <i>I'd better get going</i> — tự nói về mình thì mất hẳn sắc thái dọa.",
+            "<b>Nhớ không có “to”:</b> cả <i>should</i> lẫn <i>had better</i> đều đi với động từ trần.",
+            "<b>Bài tập 3 phút:</b> nghĩ 5 lời khuyên bạn hay nói, viết mỗi lời hai lần — bằng <i>You should…</i> và <i>You'd better…</i> — rồi tự hỏi câu nào có hậu quả thật."
+          ]
+        }
+      ]
+    }
+  ]
+}

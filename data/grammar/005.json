@@ -1,0 +1,277 @@
+{
+  "id": 5,
+  "group": "Nhóm 3 · Thì hiện tại & quá khứ",
+  "title": "Quá khứ hoàn thành — việc xảy ra trước nữa",
+  "subtitle": "Thì này chỉ sống khi trong câu có HAI mốc quá khứ: việc nào xảy ra trước thì dùng had + V3. Bẫy của người Việt không phải là chia sai, mà là dùng thừa — kể một chuỗi việc nối tiếp nhau thì không cần had chút nào.",
+  "meaning": "Việc đã xong TRƯỚC một thời điểm hoặc một việc khác trong quá khứ",
+  "rule": [
+    "S + <em>had</em> + V3",
+    "S + <em>hadn't</em> + V3",
+    "<em>Had</em> + S + V3?"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1", "hot": true },
+    { "text": "Cần HAI mốc quá khứ" },
+    { "text": "Sau had luôn là V3" },
+    { "text": "Tần suất: trung bình" }
+  ],
+  "frames": [93, 94, 95, 96, 98],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Quá khứ hoàn thành là <b>quá khứ của quá khứ</b>. Nó chỉ có nghĩa khi trong câu đã có một mốc quá khứ rồi, và bạn cần lùi thêm một bậc nữa: <i>By the time he called, I <b>had</b> already <b>left</b>.</i>" },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — dùng THỪA:</b> nếu chỉ kể một chuỗi việc nối tiếp nhau thì <b>không cần</b> <i>had</i>. <i>I finished, then I left</i> ✓ — <i>I had finished, then I had left</i> ✗. Chỉ dùng <i>had + V3</i> khi muốn nhấn rằng việc này xong TRƯỚC việc kia." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI:</b> sau <b>had</b> luôn là <b>V3</b> (quá khứ phân từ), không phải V2.<br>• <i>I had <b>gone</b></i> ✓ — <i>I had went</i> ✗<br>• <i>I had <b>seen</b></i> ✓ — <i>I had saw</i> ✗<br>Và <i>had</i> dùng chung cho MỌI chủ ngữ — không có <i>hads</i>." },
+        { "t": "h3", "text": "Ai trước, ai sau" },
+        {
+          "t": "table",
+          "head": ["Thứ tự thực tế", "Thì dùng", "Ví dụ"],
+          "rows": [
+            ["Việc xảy ra TRƯỚC", "<code>had + V3</code>", "I had already left…"],
+            ["Việc xảy ra SAU", "<code>V2</code>", "…by the time he called."],
+            ["Hai việc nối tiếp, không cần nhấn", "cả hai <code>V2</code>", "I finished, then I left."],
+            ["Việc kéo dài đến mốc đó", "<code>had been + V-ing</code>", "I had been waiting for an hour."]
+          ]
+        },
+        { "t": "p", "html": "Dạng rút gọn rất hay dùng khi nói: <b>I'd</b>, <b>he'd</b>, <b>they'd</b>. Chú ý <i>I'd</i> có thể là <i>I had</i> hoặc <i>I would</i> — nhìn vào động từ phía sau để phân biệt: <i>I'd <b>left</b></i> (V3 → <i>had</i>) còn <i>I'd <b>leave</b></i> (trần → <i>would</i>). Xem [Khung 98]." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Khẳng định — mọi chủ ngữ", "<code>S + had + V3</code>", "I had left. · She had left."],
+            ["Rút gọn", "<code>I'd / he'd / they'd</code>", "I'd already left."],
+            ["Phủ định", "<code>S + hadn't + V3</code>", "I hadn't finished."],
+            ["Câu hỏi", "<code>Had + S + V3?</code>", "Had you met him before?"],
+            ["Trả lời ngắn", "<code>Yes/No, S + had/hadn't.</code>", "Yes, I had. · No, I hadn't."],
+            ["Với <code>by the time</code>", "<code>By the time + V2, had + V3</code>", "By the time he called, I had left."],
+            ["Với <code>before</code>", "<code>had + V3 + before + V2</code>", "I had left before he called."],
+            ["Với <code>after</code>", "<code>After + had V3, + V2</code>", "After I had eaten, I left."],
+            ["Với <code>already / never</code>", "giữa <code>had</code> và V3", "I had already left. · I'd never seen it."],
+            ["Kéo dài đến mốc đó", "<code>had been + V-ing</code>", "I had been waiting for an hour."],
+            ["Điều kiện loại 3", "<code>If + had V3, would have + V3</code>", "If I had known, I'd have called."],
+            ["Câu tường thuật (lùi thì)", "<code>V2 → had + V3</code>", "He said he had finished."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Với <i>before</i> và <i>after</i> thì <i>had</i> thường bỏ được</b>, vì bản thân hai từ này đã nói rõ thứ tự: <i>I left before he called</i> ✓ cũng đủ hiểu. Nhưng với <b>by the time</b> thì nên giữ <i>had</i> — nó làm câu rõ ràng hơn hẳn." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "By the time he called, I had already left.", "vi": "Lúc anh ấy gọi thì tôi đã đi rồi.", "note": "Hai mốc quá khứ — việc đi xảy ra TRƯỚC. Xem [Khung 96]." },
+            { "en": "I had never seen anything like it.", "vi": "Tôi chưa từng thấy thứ gì như thế.", "note": "<i>never</i> đứng giữa <b>had</b> và V3." },
+            { "en": "She had finished before I arrived.", "vi": "Cô ấy xong trước khi tôi đến.", "note": "Có <i>before</i> thì <i>had</i> bỏ được: <i>She finished before I arrived</i> ✓ cũng ổn." },
+            { "en": "When I got there, the train had gone.", "vi": "Lúc tôi tới nơi thì tàu đã chạy mất.", "note": "V3 của <i>go</i> là <b>gone</b>, không phải <i>went</i>." },
+            { "en": "I hadn't finished when they came in.", "vi": "Tôi chưa xong thì họ vào.", "note": "Phủ định rút gọn <b>hadn't</b>." },
+            { "en": "Had you met him before that day?", "vi": "Trước hôm đó bạn đã gặp anh ấy chưa?", "note": "Câu hỏi đảo <i>had</i> lên trước chủ ngữ." },
+            { "en": "He said he had finished.", "vi": "Anh ấy bảo là đã xong rồi.", "note": "Câu tường thuật LÙI THÌ: <i>I've finished</i> → <i>he had finished</i>." },
+            { "en": "I had been waiting for an hour when she arrived.", "vi": "Tôi đã chờ một tiếng thì cô ấy đến.", "note": "<b>had been + V-ing</b> nhấn vào QUÁ TRÌNH kéo dài đến mốc đó." },
+            { "en": "If I had known, I'd have called you.", "vi": "Nếu biết trước thì tôi đã gọi bạn.", "note": "Điều kiện loại 3 — tiếc nuối quá khứ. Xem [Khung 98]." },
+            { "en": "I'd never been there before.", "vi": "Trước đó tôi chưa từng đến đó.", "note": "<i>I'd</i> ở đây là <i>I had</i> vì theo sau là V3 <b>been</b>." },
+            { "en": "I finished, then I left.", "vi": "Tôi làm xong rồi tôi đi.", "note": "BẪY SỐ MỘT: chuỗi việc nối tiếp thì KHÔNG cần <i>had</i>." },
+            { "en": "She had lived in Hue before she moved to Hanoi.", "vi": "Cô ấy từng sống ở Huế trước khi chuyển ra Hà Nội.", "note": "Hai giai đoạn quá khứ, cái nào trước thì <b>had</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "⏮️", "title": "Lùi thêm một bậc quá khứ", "text": "<i>By the time he called, I had left.</i>" },
+            { "icon": "🚆", "title": "Đến nơi thì đã muộn", "text": "<i>When I got there, the train had gone.</i>" },
+            { "icon": "🆕", "title": "Lần đầu trong đời tính đến lúc đó", "text": "<i>I had never seen anything like it.</i>" },
+            { "icon": "🗣️", "title": "Câu tường thuật lùi thì", "text": "<i>He said he had finished.</i> Xem [Ngữ pháp 47]." },
+            { "icon": "😔", "title": "Điều kiện loại 3", "text": "<i>If I had known, I'd have called.</i> Xem [Khung 98]." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Chỉ kể chuỗi việc nối tiếp. <i>I finished, then I left</i> — không cần <i>had</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Từ báo hiệu thứ tự trước sau",
+              "items": [
+                { "w": "by the time", "vi": "đến lúc mà", "ex": "By the time he called, I had already left.", "exvi": "Lúc anh ấy gọi thì tôi đã đi rồi.", "note": "Dấu hiệu rõ nhất của thì này — nên GIỮ <i>had</i> trong câu có <i>by the time</i>." },
+                { "w": "before", "vi": "trước khi", "ex": "I had left before he called.", "exvi": "Tôi đi trước khi anh ấy gọi.", "note": "Bản thân <i>before</i> đã nói rõ thứ tự nên <i>had</i> bỏ được." },
+                { "w": "after", "vi": "sau khi", "ex": "After I had eaten, I left.", "exvi": "Sau khi ăn xong tôi đi.", "note": "Cũng bỏ <i>had</i> được: <i>After I ate, I left</i> ✓." },
+                { "w": "when", "vi": "khi, lúc", "ex": "When I got there, the train had gone.", "exvi": "Lúc tôi tới nơi thì tàu đã chạy." },
+                { "w": "already", "vi": "đã… rồi", "ex": "I had already left.", "exvi": "Tôi đã đi rồi.", "note": "Đứng GIỮA <i>had</i> và V3." },
+                { "w": "never … before", "vi": "chưa từng… trước đó", "ex": "I had never seen it before.", "exvi": "Trước đó tôi chưa từng thấy nó." },
+                { "w": "just", "vi": "vừa mới", "ex": "She had just arrived.", "exvi": "Cô ấy vừa mới đến." },
+                { "w": "until then", "vi": "cho đến lúc đó", "ex": "Until then, I had never flown.", "exvi": "Cho đến lúc đó tôi chưa từng đi máy bay." },
+                { "w": "it was the first time", "vi": "đó là lần đầu tiên", "ex": "It was the first time I had been there.", "exvi": "Đó là lần đầu tôi đến đó.", "note": "Sau <i>It was the first time</i> luôn là <b>had + V3</b>." },
+                { "w": "as soon as", "vi": "ngay khi", "ex": "As soon as I had finished, I left.", "exvi": "Ngay khi xong là tôi đi." },
+                { "w": "had been + V-ing", "vi": "đã… được bao lâu rồi", "ex": "I had been waiting for an hour.", "exvi": "Tôi đã chờ một tiếng rồi.", "note": "Nhấn vào QUÁ TRÌNH kéo dài đến mốc đó. Xem [Khung 94]." },
+                { "w": "He said he had…", "vi": "anh ấy bảo là đã…", "ex": "He said he had finished.", "exvi": "Anh ấy bảo là đã xong.", "note": "Câu tường thuật LÙI THÌ từ <i>have/has</i> xuống <i>had</i>." }
+              ]
+            },
+            {
+              "title": "Dạng V3 hay dùng sau had",
+              "items": [
+                { "w": "go → gone", "vi": "đã đi", "ex": "The train had gone.", "exvi": "Tàu đã chạy mất.", "note": "V3 là <b>gone</b>, V2 là <i>went</i>. <i>had went</i> ✗." },
+                { "w": "see → seen", "vi": "đã thấy", "ex": "I had never seen it.", "exvi": "Tôi chưa từng thấy nó.", "note": "V3 là <b>seen</b>. <i>had saw</i> ✗." },
+                { "w": "eat → eaten", "vi": "đã ăn", "ex": "After I had eaten, I left.", "exvi": "Sau khi ăn xong tôi đi.", "note": "V3 là <b>eaten</b>. <i>had ate</i> ✗." },
+                { "w": "be → been", "vi": "đã ở, đã từng", "ex": "I'd never been there before.", "exvi": "Trước đó tôi chưa từng đến đó." },
+                { "w": "do → done", "vi": "đã làm", "ex": "I had done it already.", "exvi": "Tôi đã làm rồi.", "note": "V3 là <b>done</b>. <i>had did</i> ✗." },
+                { "w": "take → taken", "vi": "đã lấy", "ex": "Someone had taken my seat.", "exvi": "Ai đó đã ngồi vào chỗ của tôi." },
+                { "w": "write → written", "vi": "đã viết", "ex": "She had written to them.", "exvi": "Cô ấy đã viết cho họ." },
+                { "w": "speak → spoken", "vi": "đã nói chuyện", "ex": "I had spoken to her before.", "exvi": "Trước đó tôi đã nói chuyện với cô ấy." },
+                { "w": "leave → left", "vi": "đã rời đi", "ex": "I had already left.", "exvi": "Tôi đã đi rồi.", "note": "V2 và V3 trùng nhau — dễ nhớ." },
+                { "w": "forget → forgotten", "vi": "đã quên", "ex": "I had forgotten his name.", "exvi": "Tôi đã quên tên anh ấy." },
+                { "w": "know → known", "vi": "đã biết", "ex": "If I had known, I'd have called.", "exvi": "Nếu biết trước thì tôi đã gọi. Xem [Khung 98]." },
+                { "w": "have → had", "vi": "đã có", "ex": "She had had a long day.", "exvi": "Cô ấy đã trải qua một ngày dài.", "note": "<b>had had</b> nhìn lạ nhưng đúng: <i>had</i> trợ động từ + <i>had</i> V3." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I <b>had finished</b>, then I <b>had left</b>.", "right": "I <b>finished</b>, then I <b>left</b>.", "why": "BẪY SỐ MỘT: chuỗi việc nối tiếp nhau thì cả hai đều ở quá khứ đơn. <i>had</i> chỉ dùng khi cần nhấn việc nào xong TRƯỚC." },
+            { "wrong": "I had <b>went</b> before he called.", "right": "I had <b>gone</b> before he called.", "why": "BẪY SỐ HAI: sau <b>had</b> luôn là V3, không phải V2. <i>go – went – gone</i>." },
+            { "wrong": "I had <b>saw</b> it before.", "right": "I had <b>seen</b> it before.", "why": "Cùng lỗi. <i>see – saw – seen</i>." },
+            { "wrong": "She <b>hads</b> left.", "right": "She <b>had</b> left.", "why": "<b>had</b> dùng chung cho MỌI chủ ngữ — không có dạng <i>hads</i>." },
+            { "wrong": "By the time he called, I <b>left</b>.", "right": "By the time he called, I <b>had left</b>.", "why": "Có <i>by the time</i> và hai mốc quá khứ thì nên giữ <b>had</b> — nó làm rõ ai trước ai sau." },
+            { "wrong": "It was the first time I <b>went</b> there.", "right": "It was the first time I <b>had been</b> there.", "why": "Sau <i>It was the first time</i> luôn là <b>had + V3</b>." },
+            { "wrong": "I <b>didn't had</b> finished.", "right": "I <b>hadn't</b> finished.", "why": "Thì hoàn thành không mượn <i>did</i> — <i>had</i> tự phủ định thành <b>hadn't</b>." },
+            { "wrong": "<b>Did</b> you <b>had</b> met him before?", "right": "<b>Had</b> you met him before?", "why": "Câu hỏi cũng vậy: đảo <b>had</b> lên trước chủ ngữ, không mượn <i>did</i>." },
+            { "wrong": "If I <b>would have known</b>, I'd have called.", "right": "If I <b>had known</b>, I'd have called.", "why": "Vế <i>if</i> KHÔNG BAO GIỜ chứa <i>would</i>. Xem [Khung 98]." },
+            { "wrong": "I <b>had</b> lived here <b>for three years</b>. <i>(ý: đến tận bây giờ)</i>", "right": "I <b>have</b> lived here for three years.", "why": "Kéo dài đến HIỆN TẠI thì dùng <i>have</i>, kéo dài đến một mốc QUÁ KHỨ mới dùng <i>had</i>. Xem [Khung 94]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Mốc quy chiếu", "Ví dụ"],
+          "rows": [
+            ["<code>had + V3</code>", "Trước một việc QUÁ KHỨ khác", "I had left by the time he called."],
+            ["<code>have/has + V3</code>", "Kéo dài đến HIỆN TẠI. Xem [Ngữ pháp 06]", "I have lived here for years."],
+            ["<code>V2</code>", "Một việc quá khứ, không so với gì. Xem [Ngữ pháp 03]", "I left at six."],
+            ["<code>was/were + V-ing</code>", "Nền đang diễn ra. Xem [Ngữ pháp 04]", "I was leaving when he called."],
+            ["<code>had been + V-ing</code>", "Quá trình kéo dài đến mốc quá khứ", "I had been waiting for an hour."],
+            ["<code>used to + V</code>", "Thói quen cũ đã chấm dứt. Xem [Khung 93]", "I used to live here."],
+            ["<code>would have + V3</code>", "Kết quả giả định đã không xảy ra. Xem [Khung 98]", "I'd have called you."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: có cần had không?" },
+        {
+          "t": "tree",
+          "q": "Trong câu của bạn có mấy mốc quá khứ, và bạn muốn nhấn điều gì?",
+          "nodes": [
+            { "if": "Chỉ một việc quá khứ, không so với gì", "then": "Quá khứ đơn", "ex": "I left at six." },
+            { "if": "Hai việc, kể lần lượt theo đúng thứ tự", "then": "Cả hai quá khứ đơn", "ex": "I finished, then I left." },
+            { "if": "Hai việc, muốn nhấn việc nào xong TRƯỚC", "then": "had + V3 cho việc trước", "ex": "By the time he called, I had left." },
+            { "if": "Việc kéo dài đến một mốc quá khứ", "then": "had been + V-ing", "ex": "I had been waiting for an hour." },
+            { "if": "Việc kéo dài đến tận BÂY GIỜ", "then": "have/has + V3", "ex": "I have lived here for years." },
+            { "if": "Tiếc nuối một chuyện đã không xảy ra", "then": "If + had V3, would have + V3", "ex": "If I had known, I'd have called." }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ lùi của mốc thời gian" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I have left.", "vi": "Gần nhất — tính đến bây giờ" },
+            { "en": "I left at six.", "vi": "Một mốc quá khứ" },
+            { "en": "I had left by six.", "vi": "Trước mốc quá khứ đó" },
+            { "en": "I had already left when he called.", "vi": "Trước một việc quá khứ khác" },
+            { "en": "I had been waiting for an hour before that.", "vi": "Xa nhất — kéo dài trước cả mốc trước" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Quá khứ hoàn thành xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 96, "why": "When I was…, I + V2 — khung kể chuyện, có mẫu By the time he called, I had already left." },
+            { "id": 98, "why": "If I were you… — điều kiện loại 3 dùng had + V3 ở vế if." },
+            { "id": 95, "why": "I've just + V3 — cùng dùng V3 nhưng mốc quy chiếu là hiện tại, không phải quá khứ." },
+            { "id": 94, "why": "I've been… for/since — so sánh had been V-ing với have been V-ing." },
+            { "id": 93, "why": "I used to… — cách khác để nói chuyện quá khứ, nhấn vào thói quen đã chấm dứt." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ trong ngoặc" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Lúc anh ấy gọi thì tôi đã đi rồi.", "blank": "By the time he called, I had already __________ (leave).", "a": "left" },
+            { "vi": "Lúc tôi tới nơi thì tàu đã chạy mất.", "blank": "When I got there, the train had __________ (go).", "a": "gone (V3, không phải went)" },
+            { "vi": "Tôi chưa từng thấy nó.", "blank": "I had never __________ (see) it.", "a": "seen" },
+            { "vi": "Sau khi ăn xong tôi đi.", "blank": "After I had __________ (eat), I left.", "a": "eaten" },
+            { "vi": "Trước đó tôi chưa từng đến đó.", "blank": "I'd never __________ (be) there before.", "a": "been" },
+            { "vi": "Tôi chưa xong thì họ vào.", "blank": "I __________ (not finish) when they came in.", "a": "hadn't finished" },
+            { "vi": "Tôi đã chờ một tiếng thì cô ấy đến.", "blank": "I had been __________ (wait) for an hour.", "a": "waiting" },
+            { "vi": "Anh ấy bảo là đã xong rồi.", "blank": "He said he __________ (finish).", "a": "had finished" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi làm xong rồi tôi đi.", "blank": "I __________, then I left.  (finished / had finished)", "a": "finished — chuỗi việc nối tiếp, không cần had" },
+            { "vi": "Trước hôm đó bạn đã gặp anh ấy chưa?", "blank": "__________ you met him before that day?  (Did / Had)", "a": "Had — thì hoàn thành không mượn did" },
+            { "vi": "Đó là lần đầu tôi đến đó.", "blank": "It was the first time I __________ there.  (went / had been)", "a": "had been" },
+            { "vi": "Tôi sống ở đây được ba năm rồi.", "blank": "I __________ lived here for three years.  (had / have)", "a": "have — kéo dài đến hiện tại" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Lúc anh ấy gọi thì tôi đã đi rồi.", "a": "By the time he called, I had already left." },
+            { "vi": "2. Lúc tôi tới nơi thì tàu đã chạy mất.", "a": "When I got there, the train had gone." },
+            { "vi": "3. Trước đó tôi chưa từng thấy thứ gì như thế.", "a": "I had never seen anything like it before." },
+            { "vi": "4. Tôi đã chờ một tiếng thì cô ấy đến.", "a": "I had been waiting for an hour when she arrived." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Đếm mốc quá khứ trước khi chia:</b> chỉ một mốc thì dùng quá khứ đơn. Hai mốc và cần nhấn thứ tự thì mới dùng <i>had</i>.",
+            "<b>Dùng thừa còn tệ hơn dùng thiếu.</b> <i>I finished, then I left</i> ✓ — thêm <i>had</i> vào là nghe nặng nề và sai.",
+            "<b>Sau <i>had</i> luôn là V3.</b> Học bộ ba hay sai: <i>go–went–<b>gone</b></i>, <i>see–saw–<b>seen</b></i>, <i>eat–ate–<b>eaten</b></i>, <i>do–did–<b>done</b></i>.",
+            "<b><i>had</i> dùng chung cho mọi chủ ngữ</b> — không chia theo ngôi, và không bao giờ mượn <i>did</i>.",
+            "<b>Phân biệt <i>I'd</i>:</b> theo sau là V3 thì đó là <i>I had</i>; theo sau là động từ trần thì là <i>I would</i>. Xem [Khung 98].",
+            "<b>Bài tập 3 phút:</b> viết ba câu kiểu <i>By the time …, I had already …</i> về chuyện thật của bạn, rồi viết một câu chuỗi nối tiếp không có <i>had</i> để thấy khác biệt."
+          ]
+        }
+      ]
+    }
+  ]
+}

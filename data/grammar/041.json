@@ -1,0 +1,277 @@
+{
+  "id": 41,
+  "group": "Nhóm 7 · Giới từ",
+  "title": "for · since · during · while · by · until",
+  "subtitle": "Sáu từ chỉ khoảng thời gian, tách thành ba cặp đối nhau. Bẫy ngữ pháp rõ nhất là during đi với DANH TỪ còn while đi với cả MỆNH ĐỀ — người Việt hay dùng during rồi viết tiếp cả câu đằng sau.",
+  "meaning": "Nói về khoảng thời gian, mốc bắt đầu và hạn chót",
+  "rule": [
+    "<em>for</em> + khoảng · <em>since</em> + mốc",
+    "<em>during</em> + DANH TỪ · <em>while</em> + MỆNH ĐỀ",
+    "<em>by</em> = trước hoặc đúng lúc · <em>until</em> = suốt cho đến"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1", "hot": true },
+    { "text": "during + danh từ · while + mệnh đề" },
+    { "text": "by ≠ until" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [77, 92, 94, 95, 99],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Sáu từ này đều nói về thời gian nhưng chia thành <b>ba cặp đối nhau</b>: <i>for/since</i> cho độ dài, <i>during/while</i> cho việc xảy ra trong lúc, <i>by/until</i> cho hạn chót." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — <i>during</i> và <i>while</i>:</b><br>• <b>during</b> + <b>DANH TỪ</b> — <i>during the meeting, during the summer</i><br>• <b>while</b> + <b>MỆNH ĐỀ</b> — <i>while I was cooking, while he was out</i><br><i>during I was cooking</i> ✗ là lỗi rất phổ biến — người Việt dùng <i>during</i> rồi viết tiếp cả câu." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>by</i> và <i>until</i>:</b><br>• <b>by</b> = <b>trước hoặc đúng lúc đó</b> — <i>Finish it <b>by</b> six</i> = xong trước sáu giờ.<br>• <b>until</b> = <b>suốt cho đến lúc đó</b> — <i>Wait <b>until</b> six</i> = chờ liên tục đến sáu giờ.<br>Hạn chót thì luôn dùng <b>by</b>. Xem [Ngữ pháp 13]." },
+        { "t": "h3", "text": "Ba cặp đối nhau" },
+        {
+          "t": "table",
+          "head": ["Cặp", "Khác nhau ở", "Ví dụ"],
+          "rows": [
+            ["<code>for</code> / <code>since</code>", "Khoảng / mốc bắt đầu", "for three years · since 2020"],
+            ["<code>during</code> / <code>while</code>", "Danh từ / mệnh đề", "during the meeting · while I was cooking"],
+            ["<code>by</code> / <code>until</code>", "Hạn chót / suốt đến lúc đó", "by six · until six"],
+            ["<code>in</code> / <code>for</code>", "Sau bấy nhiêu nữa / suốt bấy nhiêu", "in ten minutes · for ten minutes"]
+          ]
+        },
+        { "t": "p", "html": "Cặp cuối cũng hay nhầm: <i>I'll be there <b>in</b> ten minutes</i> = mười phút nữa tôi tới. <i>I waited <b>for</b> ten minutes</i> = tôi chờ suốt mười phút. Xem [Ngữ pháp 39]." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Từ", "Theo sau là", "Ví dụ"],
+          "rows": [
+            ["<code>for</code>", "KHOẢNG thời gian", "for three years · for an hour"],
+            ["<code>since</code>", "MỐC thời gian", "since 2020 · since Monday"],
+            ["<code>since</code>", "Mệnh đề ở quá khứ đơn", "since I moved here"],
+            ["<code>during</code>", "DANH TỪ", "during the meeting · during the summer"],
+            ["<code>while</code>", "MỆNH ĐỀ (S + V)", "while I was cooking"],
+            ["<code>by</code>", "Mốc — trước hoặc đúng lúc", "Finish it by six."],
+            ["<code>until / till</code>", "Mốc — suốt cho đến lúc đó", "Wait until six."],
+            ["<code>not until</code>", "Mãi đến… mới", "He didn't arrive until nine."],
+            ["<code>in</code>", "Sau bấy nhiêu nữa", "I'll be there in ten minutes."],
+            ["<code>from … to</code>", "Từ… đến…", "from nine to five"],
+            ["<code>between … and</code>", "Giữa hai mốc", "between two and four"],
+            ["<code>within</code>", "Trong vòng", "within three days"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Mẹo cho <i>during</i>:</b> nếu bạn muốn viết cả một mệnh đề thì đổi sang <b>while</b>. Còn nếu muốn giữ <i>during</i> thì rút gọn thành danh từ — <i>while I was <b>in the meeting</b></i> → <i><b>during the meeting</b></i>." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I've worked here for three years.", "vi": "Tôi làm ở đây được ba năm rồi.", "note": "<b>for</b> + KHOẢNG thời gian. Xem [Khung 94]." },
+            { "en": "I've lived here since 2020.", "vi": "Tôi sống ở đây từ năm 2020.", "note": "<b>since</b> + MỐC thời gian." },
+            { "en": "He called during the meeting.", "vi": "Anh ấy gọi trong lúc họp.", "note": "BẪY SỐ MỘT: <b>during</b> + DANH TỪ." },
+            { "en": "He called while I was cooking.", "vi": "Anh ấy gọi trong lúc tôi đang nấu.", "note": "<b>while</b> + MỆNH ĐỀ. <i>during I was cooking</i> ✗." },
+            { "en": "Please finish it by six.", "vi": "Làm xong trước sáu giờ nhé.", "note": "BẪY SỐ HAI: <b>by</b> = hạn chót. Xem [Ngữ pháp 13]." },
+            { "en": "Please wait until six.", "vi": "Xin chờ đến sáu giờ.", "note": "<b>until</b> = suốt cho đến lúc đó. Nghĩa khác hẳn <i>by</i>." },
+            { "en": "He didn't arrive until nine.", "vi": "Mãi chín giờ anh ấy mới đến.", "note": "<b>not … until</b> = mãi đến… mới." },
+            { "en": "I'll be there in ten minutes.", "vi": "Mười phút nữa tôi tới.", "note": "<b>in</b> + khoảng = SAU bấy nhiêu nữa. Xem [Khung 99]." },
+            { "en": "I waited for ten minutes.", "vi": "Tôi chờ suốt mười phút.", "note": "<b>for</b> + khoảng = SUỐT bấy nhiêu lâu." },
+            { "en": "I work from nine to five.", "vi": "Tôi làm từ chín giờ đến năm giờ.", "note": "<b>from … to</b> — cặp cố định." },
+            { "en": "I haven't seen him for ages.", "vi": "Lâu lắm rồi tôi không gặp anh ấy.", "note": "<i>ages</i> = rất lâu. Xem [Khung 77]." },
+            { "en": "We'll let you know within three days.", "vi": "Trong vòng ba ngày bọn tôi sẽ báo.", "note": "<b>within</b> = trong vòng, trước khi hết khoảng đó." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "⏳", "title": "Nói thâm niên", "text": "<i>for three years</i> hoặc <i>since 2020</i>. Xem [Khung 94]." },
+            { "icon": "📞", "title": "Kể việc xen vào", "text": "<i>while I was cooking, he called</i>" },
+            { "icon": "📅", "title": "Nói trong một sự kiện", "text": "<i>during the meeting</i> — theo sau là danh từ." },
+            { "icon": "⏰", "title": "Đặt hạn chót", "text": "<i>Finish it by six.</i>" },
+            { "icon": "⌛", "title": "Bảo ai chờ", "text": "<i>Wait until six.</i> Suốt cho đến lúc đó." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "<i>during</i> rồi viết cả mệnh đề. Đổi sang <i>while</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "for · since · during · while",
+              "items": [
+                { "w": "for three years", "vi": "được ba năm", "ex": "I've worked here for three years.", "exvi": "Tôi làm ở đây ba năm rồi.", "note": "<b>for</b> + KHOẢNG thời gian — trả lời “bao lâu?”. Xem [Khung 94]." },
+                { "w": "for an hour", "vi": "suốt một tiếng", "ex": "I waited for an hour.", "exvi": "Tôi chờ suốt một tiếng." },
+                { "w": "for ages", "vi": "lâu lắm rồi", "ex": "I haven't seen him for ages.", "exvi": "Lâu lắm rồi tôi không gặp anh ấy. Xem [Khung 77]." },
+                { "w": "since 2020", "vi": "từ năm 2020", "ex": "I've lived here since 2020.", "exvi": "Tôi sống ở đây từ 2020.", "note": "<b>since</b> + MỐC — trả lời “từ khi nào?”." },
+                { "w": "since Monday", "vi": "từ thứ Hai", "ex": "I've been ill since Monday.", "exvi": "Tôi ốm từ thứ Hai." },
+                { "w": "since I moved here", "vi": "từ khi tôi chuyển đến", "ex": "I've been happier since I moved here.", "exvi": "Từ khi chuyển đến tôi vui hơn.", "note": "Sau <b>since</b> có thể là mệnh đề chia ở QUÁ KHỨ ĐƠN." },
+                { "w": "during the meeting", "vi": "trong lúc họp", "ex": "He called during the meeting.", "exvi": "Anh ấy gọi trong lúc họp.", "note": "BẪY SỐ MỘT: <b>during</b> + DANH TỪ, không phải mệnh đề." },
+                { "w": "during the summer", "vi": "trong mùa hè", "ex": "It's busy during the summer.", "exvi": "Mùa hè đông lắm." },
+                { "w": "while I was cooking", "vi": "trong lúc tôi đang nấu", "ex": "He called while I was cooking.", "exvi": "Anh ấy gọi lúc tôi đang nấu.", "note": "<b>while</b> + MỆNH ĐỀ, thường là tiếp diễn. Xem [Ngữ pháp 04]." },
+                { "w": "while you're out", "vi": "trong lúc bạn đi vắng", "ex": "I'll tidy up while you're out.", "exvi": "Lúc bạn đi vắng mình dọn nhà." },
+                { "w": "as", "vi": "khi, trong khi", "ex": "As I was leaving, the phone rang.", "exvi": "Lúc tôi ra về thì điện thoại reo.", "note": "Trang trọng hơn <i>while</i>, cùng cách dùng." },
+                { "w": "in the meantime", "vi": "trong lúc chờ", "ex": "In the meantime, have a seat.", "exvi": "Trong lúc chờ, mời anh/chị ngồi." }
+              ]
+            },
+            {
+              "title": "by · until · in · các mốc khác",
+              "items": [
+                { "w": "by six", "vi": "trước sáu giờ", "ex": "Please finish it by six.", "exvi": "Làm xong trước sáu giờ nhé.", "note": "BẪY SỐ HAI: <b>by</b> = hạn chót, trước HOẶC đúng lúc đó." },
+                { "w": "by the time", "vi": "đến lúc mà", "ex": "By the time he called, I had left.", "exvi": "Lúc anh ấy gọi thì tôi đã đi. Xem [Ngữ pháp 05]." },
+                { "w": "by then", "vi": "đến lúc đó", "ex": "I'll have finished by then.", "exvi": "Đến lúc đó tôi xong rồi." },
+                { "w": "until / till six", "vi": "cho đến sáu giờ", "ex": "Please wait until six.", "exvi": "Xin chờ đến sáu giờ.", "note": "SUỐT cho đến lúc đó — khác hẳn <i>by</i>." },
+                { "w": "not … until", "vi": "mãi đến… mới", "ex": "He didn't arrive until nine.", "exvi": "Mãi chín giờ anh ấy mới đến." },
+                { "w": "in ten minutes", "vi": "mười phút nữa", "ex": "I'll be there in ten minutes.", "exvi": "Mười phút nữa tôi tới.", "note": "SAU bấy nhiêu nữa — khác <i>for ten minutes</i>. Xem [Ngữ pháp 39]." },
+                { "w": "within three days", "vi": "trong vòng ba ngày", "ex": "We'll let you know within three days.", "exvi": "Trong vòng ba ngày bọn tôi sẽ báo." },
+                { "w": "from nine to five", "vi": "từ chín đến năm giờ", "ex": "I work from nine to five.", "exvi": "Tôi làm từ chín giờ đến năm giờ.", "note": "Cặp cố định <b>from … to</b>." },
+                { "w": "between two and four", "vi": "giữa hai và bốn giờ", "ex": "Call me between two and four.", "exvi": "Gọi tôi trong khoảng hai đến bốn giờ.", "note": "Cặp cố định <b>between … and</b>, không dùng <i>to</i>." },
+                { "w": "throughout", "vi": "suốt cả", "ex": "It rained throughout the day.", "exvi": "Mưa suốt cả ngày." },
+                { "w": "up to now", "vi": "cho đến giờ", "ex": "Up to now, everything's fine.", "exvi": "Cho đến giờ mọi thứ vẫn ổn." },
+                { "w": "ago", "vi": "cách đây", "ex": "He left two hours ago.", "exvi": "Anh ấy đi cách đây hai tiếng.", "note": "Đứng SAU khoảng thời gian, và đi với quá khứ đơn. Xem [Khung 95]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "He called <b>during I was cooking</b>.", "right": "He called <b>while I was cooking</b>.", "why": "BẪY SỐ MỘT: <b>during</b> chỉ đi với DANH TỪ. Cả một mệnh đề thì phải dùng <b>while</b>." },
+            { "wrong": "He called <b>while the meeting</b>.", "right": "He called <b>during the meeting</b>.", "why": "Ngược lại: danh từ thì dùng <b>during</b>." },
+            { "wrong": "Finish it <b>until</b> six.", "right": "Finish it <b>by</b> six.", "why": "BẪY SỐ HAI: hạn chót thì luôn dùng <b>by</b>. <i>until</i> = chờ suốt đến lúc đó." },
+            { "wrong": "Wait <b>by</b> six.", "right": "Wait <b>until</b> six.", "why": "Bảo ai chờ liên tục thì dùng <b>until</b>." },
+            { "wrong": "I've lived here <b>since</b> three years.", "right": "I've lived here <b>for</b> three years.", "why": "<b>for</b> + KHOẢNG thời gian, <b>since</b> + MỐC. Xem [Khung 94]." },
+            { "wrong": "I've lived here <b>for</b> 2020.", "right": "I've lived here <b>since</b> 2020.", "why": "Một năm cụ thể là MỐC nên dùng <b>since</b>." },
+            { "wrong": "I waited <b>in</b> ten minutes.", "right": "I waited <b>for</b> ten minutes.", "why": "<b>for</b> = suốt bấy nhiêu lâu. <b>in</b> = sau bấy nhiêu nữa. Xem [Ngữ pháp 39]." },
+            { "wrong": "I work from nine <b>until</b> five. <i>(lịch làm việc)</i>", "right": "I work from nine <b>to</b> five.", "why": "Cặp cố định là <b>from … to</b>. <i>until</i> cũng hiểu được nhưng <i>to</i> mới tự nhiên." },
+            { "wrong": "Call me between two <b>to</b> four.", "right": "Call me between two <b>and</b> four.", "why": "Cặp cố định là <b>between … and</b>, không dùng <i>to</i>." },
+            { "wrong": "He left <b>before</b> two hours. <i>(ý: cách đây)</i>", "right": "He left two hours <b>ago</b>.", "why": "<b>ago</b> đứng SAU khoảng thời gian — đây là lỗi dịch thẳng từ tiếng Việt." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>for</code> / <code>since</code>", "Khoảng / mốc bắt đầu", "for three years ≠ since 2020"],
+            ["<code>during</code> / <code>while</code>", "Danh từ / mệnh đề", "during the meeting ≠ while I was cooking"],
+            ["<code>by</code> / <code>until</code>", "Hạn chót / suốt đến lúc đó", "finish by six ≠ wait until six"],
+            ["<code>in</code> / <code>for</code>", "Sau bấy nhiêu / suốt bấy nhiêu", "in ten minutes ≠ for ten minutes"],
+            ["<code>from … to</code>", "Từ… đến… — cặp cố định", "from nine to five"],
+            ["<code>between … and</code>", "Giữa hai mốc — cặp cố định", "between two and four"],
+            ["<code>ago</code>", "Đứng SAU khoảng, đi với quá khứ đơn", "two hours ago"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng từ nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn muốn nói gì về thời gian, và theo sau là danh từ hay mệnh đề?",
+          "nodes": [
+            { "if": "Nó kéo dài BAO LÂU", "then": "for + khoảng thời gian", "ex": "for three years" },
+            { "if": "Nó bắt đầu TỪ KHI NÀO", "then": "since + mốc thời gian", "ex": "since 2020" },
+            { "if": "Trong lúc một SỰ KIỆN (danh từ)", "then": "during", "ex": "during the meeting" },
+            { "if": "Trong lúc ai đó ĐANG làm gì (mệnh đề)", "then": "while", "ex": "while I was cooking" },
+            { "if": "Đặt hạn chót — xong trước lúc đó", "then": "by", "ex": "Finish it by six." },
+            { "if": "Bảo ai chờ liên tục đến lúc đó", "then": "until", "ex": "Wait until six." }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ gấp của một hạn chót" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Whenever you can.", "vi": "Lỏng nhất — lúc nào cũng được" },
+            { "en": "Within a week.", "vi": "Trong vòng một tuần" },
+            { "en": "By Friday.", "vi": "Trước thứ Sáu" },
+            { "en": "By six today.", "vi": "Trước sáu giờ hôm nay" },
+            { "en": "In ten minutes.", "vi": "Gấp nhất — mười phút nữa" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Nhóm giới từ thời gian này xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 94, "why": "I've been… for/since — khung chính của cặp for và since, kèm lỗi since three years." },
+            { "id": 99, "why": "It takes… — phân biệt in ten minutes và for ten minutes." },
+            { "id": 95, "why": "I've just + V3 — luật ago không đi với thì hoàn thành." },
+            { "id": 92, "why": "I'm meeting him at six — mốc thời gian trong lịch hẹn." },
+            { "id": 77, "why": "Long time no see! — I haven't seen you for ages, cách nói khoảng thời gian dài." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền for / since / during / while / by / until" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi làm ở đây ba năm rồi.", "blank": "I've worked here __________ three years.", "a": "for" },
+            { "vi": "Tôi sống ở đây từ năm 2020.", "blank": "I've lived here __________ 2020.", "a": "since" },
+            { "vi": "Anh ấy gọi trong lúc họp.", "blank": "He called __________ the meeting.", "a": "during" },
+            { "vi": "Anh ấy gọi lúc tôi đang nấu.", "blank": "He called __________ I was cooking.", "a": "while" },
+            { "vi": "Làm xong trước sáu giờ nhé.", "blank": "Please finish it __________ six.", "a": "by" },
+            { "vi": "Xin chờ đến sáu giờ.", "blank": "Please wait __________ six.", "a": "until" },
+            { "vi": "Mười phút nữa tôi tới.", "blank": "I'll be there __________ ten minutes.", "a": "in" },
+            { "vi": "Tôi làm từ chín giờ đến năm giờ.", "blank": "I work from nine __________ five.", "a": "to" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Anh ấy gọi lúc tôi đang nấu.", "blank": "He called __________ I was cooking.  (during / while)", "a": "while — theo sau là mệnh đề" },
+            { "vi": "Làm xong trước sáu giờ.", "blank": "Finish it __________ six.  (by / until)", "a": "by — hạn chót" },
+            { "vi": "Tôi chờ suốt mười phút.", "blank": "I waited __________ ten minutes.  (in / for)", "a": "for" },
+            { "vi": "Gọi tôi trong khoảng hai đến bốn giờ.", "blank": "Call me between two __________ four.  (to / and)", "a": "and" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Anh ấy gọi trong lúc tôi đang nấu.", "a": "He called while I was cooking." },
+            { "vi": "2. Làm xong trước sáu giờ nhé.", "a": "Please finish it by six." },
+            { "vi": "3. Mãi chín giờ anh ấy mới đến.", "a": "He didn't arrive until nine." },
+            { "vi": "4. Trong vòng ba ngày bọn tôi sẽ báo.", "a": "We'll let you know within three days." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Mẹo <i>during</i> / <i>while</i>:</b> muốn viết cả một mệnh đề thì dùng <b>while</b>; rút gọn được thành danh từ thì dùng <b>during</b>.",
+            "<b>Mẹo <i>by</i> / <i>until</i>:</b> hạn chót (xong trước lúc đó) thì <b>by</b>; chờ liên tục đến lúc đó thì <b>until</b>.",
+            "<b>Mẹo <i>for</i> / <i>since</i>:</b> <i>for</i> trả lời “bao <b>lâu</b>?”, <i>since</i> trả lời “từ <b>khi nào</b>?”.",
+            "<b>Cặp <i>in</i> / <i>for</i>:</b> <i>in ten minutes</i> = mười phút nữa · <i>for ten minutes</i> = suốt mười phút.",
+            "<b>Hai cặp cố định:</b> <i>from … <b>to</b></i> và <i>between … <b>and</b></i> — không đổi chỗ cho nhau được.",
+            "<b>Bài tập 3 phút:</b> viết sáu câu về một ngày của bạn, mỗi câu một từ: <i>for, since, during, while, by, until</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

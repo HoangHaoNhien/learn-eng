@@ -1,0 +1,277 @@
+{
+  "id": 42,
+  "group": "Nhóm 7 · Giới từ",
+  "title": "Giới từ cố định sau tính từ & động từ",
+  "subtitle": "worried about, good at, depend on — giới từ ở đây KHÔNG dịch được từ tiếng Việt. Bẫy lớn nhất là dịch thẳng: người Việt nói “giỏi VỀ toán” nên viết good about math, nhưng tiếng Anh là good AT math.",
+  "meaning": "Cụm tính từ + giới từ và động từ + giới từ cố định",
+  "rule": [
+    "Giới từ cố định phải <em>học thuộc cả cụm</em>, không suy ra được",
+    "<em>good at · worried about · depend on · listen to</em>",
+    "Sau giới từ luôn là danh từ hoặc <em>V-ing</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1", "hot": true },
+    { "text": "Không dịch được — phải thuộc" },
+    { "text": "good AT, not good about" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [51, 82, 86, 87, 88],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Nhiều tính từ và động từ tiếng Anh <b>bắt buộc</b> đi với một giới từ cố định. Giới từ đó <b>không mang nghĩa riêng</b> và <b>không dịch được</b> từ tiếng Việt — nó dính liền với từ đứng trước như một khối." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — dịch thẳng giới từ:</b><br>Tiếng Việt nói “giỏi <b>về</b> toán”, “lo <b>về</b> công việc” nên người Việt viết <i>good about math</i> ✗, <i>worried of my job</i> ✗.<br>Đúng là <i>good <b>at</b> math</i>, <i>worried <b>about</b> my job</i>. Cách duy nhất: <b>học thuộc cả cụm</b>, đừng học rời từng từ." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — sau giới từ phải là danh từ hoặc V-ing:</b><br><i>I'm good at <b>cook</b></i> ✗ → <i>I'm good at <b>cooking</b></i> ✓<br><i>I'm worried about <b>be late</b></i> ✗ → <i>I'm worried about <b>being late</b></i> ✓<br>Luật này áp cho MỌI giới từ. Xem [Ngữ pháp 25]." },
+        { "t": "h3", "text": "Bốn cụm phải thuộc trước tiên" },
+        {
+          "t": "table",
+          "head": ["Cụm", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>good at</code>", "Giỏi về", "I'm good at cooking."],
+            ["<code>worried about</code>", "Lo về", "I'm worried about my job."],
+            ["<code>depend on</code>", "Tùy vào, phụ thuộc", "It depends on the weather."],
+            ["<code>listen to</code>", "Nghe", "I listen to music every day."]
+          ]
+        },
+        { "t": "p", "html": "<i>listen</i> và <i>depend</i> là hai động từ người Việt hay bỏ quên giới từ: <i>listen music</i> ✗, <i>it depends the weather</i> ✗." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Loại", "Cụm cố định", "Ví dụ"],
+          "rows": [
+            ["Tính từ + <code>at</code>", "good at · bad at · terrible at", "She's good at English."],
+            ["Tính từ + <code>about</code>", "worried about · sorry about · excited about", "I'm worried about the exam."],
+            ["Tính từ + <code>of</code>", "afraid of · proud of · tired of · full of", "I'm afraid of dogs."],
+            ["Tính từ + <code>in</code>", "interested in", "I'm interested in history."],
+            ["Tính từ + <code>to</code>", "kind to · similar to · married to", "She's very kind to me."],
+            ["Tính từ + <code>with</code>", "pleased with · angry with · busy with", "He's angry with me."],
+            ["Tính từ + <code>for</code>", "famous for · responsible for · sorry for", "He's responsible for sales."],
+            ["Động từ + <code>on</code>", "depend on · rely on · concentrate on", "It depends on you."],
+            ["Động từ + <code>to</code>", "listen to · belong to · apologise to", "Listen to me."],
+            ["Động từ + <code>for</code>", "wait for · look for · apply for · pay for", "I'm waiting for the bus."],
+            ["Động từ + <code>about</code>", "think about · worry about · complain about", "Don't worry about it."],
+            ["Động từ + <code>with</code>", "agree with · deal with · argue with", "I agree with you."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Chú ý <i>sorry</i> ba kiểu:</b> <i>sorry <b>about</b> the noise</i> (việc đã xảy ra) · <i>sorry <b>for</b> being late</i> (lỗi của mình) · <i>feel sorry <b>for</b> him</i> (thương anh ấy). Xem [Khung 88]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm good at cooking.", "vi": "Tôi nấu ăn giỏi.", "note": "BẪY SỐ MỘT: <b>good at</b>, không phải <i>good about</i>." },
+            { "en": "I'm worried about my job.", "vi": "Tôi lo về công việc.", "note": "<b>worried about</b>. Xem [Khung 87]." },
+            { "en": "It depends on the weather.", "vi": "Cái đó còn tùy thời tiết.", "note": "<b>depend on</b> — không bao giờ bỏ <i>on</i>." },
+            { "en": "I listen to music every day.", "vi": "Ngày nào tôi cũng nghe nhạc.", "note": "<b>listen to</b> — <i>listen music</i> ✗." },
+            { "en": "I'm interested in history.", "vi": "Tôi thích lịch sử.", "note": "<b>interested in</b>, không phải <i>interested about</i>. Xem [Ngữ pháp 34]." },
+            { "en": "She's very kind to me.", "vi": "Cô ấy rất tốt với tôi.", "note": "<b>kind to</b>, không phải <i>kind with</i>." },
+            { "en": "I'm sorry about the noise.", "vi": "Xin lỗi vì tiếng ồn.", "note": "<b>sorry about</b> + sự việc. Xem [Khung 88]." },
+            { "en": "I'm sorry for being late.", "vi": "Xin lỗi vì tôi đến muộn.", "note": "<b>sorry for</b> + lỗi của mình, theo sau là V-ing." },
+            { "en": "I'm waiting for the bus.", "vi": "Tôi đang đợi xe buýt.", "note": "<b>wait for</b> — <i>wait the bus</i> ✗." },
+            { "en": "I agree with you.", "vi": "Tôi đồng ý với bạn.", "note": "<b>agree with</b> người · <i>agree to</i> một đề xuất. Xem [Khung 51]." },
+            { "en": "I'm excited about the trip.", "vi": "Tôi háo hức về chuyến đi.", "note": "<b>excited about</b>. Xem [Khung 81]." },
+            { "en": "Thank you for helping me.", "vi": "Cảm ơn vì đã giúp tôi.", "note": "<b>thank somebody for</b> + V-ing — luật giới từ + V-ing." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🎯", "title": "Nói về sở trường", "text": "<i>I'm good at cooking.</i> Luôn là <b>at</b>." },
+            { "icon": "😟", "title": "Nói mình lo lắng", "text": "<i>I'm worried about…</i> Xem [Khung 87]." },
+            { "icon": "🤷", "title": "Nói “còn tùy”", "text": "<i>It depends on…</i> Không bao giờ bỏ <b>on</b>." },
+            { "icon": "🙏", "title": "Xin lỗi", "text": "<i>sorry about</i> việc · <i>sorry for</i> + V-ing." },
+            { "icon": "👍", "title": "Đồng ý với ai", "text": "<i>I agree with you.</i> Xem [Khung 51]." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Đừng dịch giới từ từ tiếng Việt — học thuộc cả cụm." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một cụm ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi cụm đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Tính từ + giới từ",
+              "items": [
+                { "w": "good at", "vi": "giỏi về", "ex": "I'm good at cooking.", "exvi": "Tôi nấu ăn giỏi.", "note": "BẪY SỐ MỘT: luôn là <b>at</b>, dù tiếng Việt nói “giỏi VỀ”." },
+                { "w": "bad at", "vi": "dở về", "ex": "I'm bad at remembering names.", "exvi": "Tôi rất dở khoản nhớ tên." },
+                { "w": "worried about", "vi": "lo về", "ex": "I'm worried about my job.", "exvi": "Tôi lo về công việc. Xem [Khung 87]." },
+                { "w": "excited about", "vi": "háo hức về", "ex": "I'm excited about the trip.", "exvi": "Tôi háo hức về chuyến đi.", "note": "<i>excited for</i> cũng nghe được trong văn nói, nhưng <b>about</b> là chuẩn." },
+                { "w": "afraid of", "vi": "sợ", "ex": "I'm afraid of dogs.", "exvi": "Tôi sợ chó.", "note": "<b>of</b>, không phải <i>with</i>." },
+                { "w": "proud of", "vi": "tự hào về", "ex": "I'm proud of you.", "exvi": "Tôi tự hào về bạn." },
+                { "w": "tired of", "vi": "chán, ngán", "ex": "I'm tired of waiting.", "exvi": "Tôi ngán chờ lắm rồi.", "note": "<i>tired <b>of</b></i> = chán · <i>tired <b>from</b></i> = mệt vì." },
+                { "w": "interested in", "vi": "thích, quan tâm", "ex": "I'm interested in history.", "exvi": "Tôi thích lịch sử.", "note": "<b>in</b>, không phải <i>about</i>. Và là <i>interested</i> chứ không phải <i>interesting</i>. Xem [Ngữ pháp 34]." },
+                { "w": "kind to", "vi": "tốt với", "ex": "She's very kind to me.", "exvi": "Cô ấy rất tốt với tôi.", "note": "<b>to</b>, không phải <i>with</i>." },
+                { "w": "angry with", "vi": "giận ai", "ex": "He's angry with me.", "exvi": "Anh ấy giận tôi.", "note": "Giận NGƯỜI dùng <b>with</b>, giận VIỆC dùng <b>about</b>." },
+                { "w": "famous for", "vi": "nổi tiếng vì", "ex": "The city is famous for its food.", "exvi": "Thành phố nổi tiếng vì đồ ăn." },
+                { "w": "responsible for", "vi": "chịu trách nhiệm về", "ex": "He's responsible for sales.", "exvi": "Anh ấy phụ trách mảng bán hàng." }
+              ]
+            },
+            {
+              "title": "Động từ + giới từ",
+              "items": [
+                { "w": "depend on", "vi": "tùy vào", "ex": "It depends on the weather.", "exvi": "Cái đó còn tùy thời tiết.", "note": "Không bao giờ bỏ <b>on</b>. <i>It depends the weather</i> ✗." },
+                { "w": "rely on", "vi": "trông cậy vào", "ex": "You can rely on me.", "exvi": "Bạn có thể trông cậy vào tôi." },
+                { "w": "listen to", "vi": "nghe", "ex": "I listen to music every day.", "exvi": "Ngày nào tôi cũng nghe nhạc.", "note": "<i>listen music</i> ✗ — đây là lỗi rất hay gặp." },
+                { "w": "wait for", "vi": "đợi", "ex": "I'm waiting for the bus.", "exvi": "Tôi đang đợi xe buýt.", "note": "<i>wait the bus</i> ✗." },
+                { "w": "look for", "vi": "tìm", "ex": "I'm looking for my keys.", "exvi": "Tôi đang tìm chìa khóa.", "note": "<i>look for</i> = tìm · <i>look after</i> = chăm sóc · <i>look at</i> = nhìn." },
+                { "w": "look forward to", "vi": "mong chờ", "ex": "I'm looking forward to meeting you.", "exvi": "Tôi mong được gặp bạn.", "note": "<b>to</b> ở đây là GIỚI TỪ nên theo sau là V-ing. Xem [Khung 86]." },
+                { "w": "agree with", "vi": "đồng ý với ai", "ex": "I agree with you.", "exvi": "Tôi đồng ý với bạn.", "note": "<i>agree <b>with</b></i> người · <i>agree <b>to</b></i> một đề xuất. Xem [Khung 51]." },
+                { "w": "apologise for", "vi": "xin lỗi vì", "ex": "I apologise for the delay.", "exvi": "Tôi xin lỗi vì sự chậm trễ.", "note": "Xin lỗi AI thì dùng <i>apologise <b>to</b> somebody</i>." },
+                { "w": "think about", "vi": "nghĩ về, cân nhắc", "ex": "I'll think about it.", "exvi": "Để tôi cân nhắc.", "note": "<i>think <b>about</b></i> = cân nhắc · <i>think <b>of</b></i> = nghĩ ra." },
+                { "w": "complain about", "vi": "phàn nàn về", "ex": "He complained about the noise.", "exvi": "Anh ấy phàn nàn về tiếng ồn." },
+                { "w": "belong to", "vi": "thuộc về", "ex": "This book belongs to me.", "exvi": "Quyển sách này của tôi." },
+                { "w": "pay for", "vi": "trả tiền cho", "ex": "I'll pay for dinner.", "exvi": "Để tôi trả tiền bữa tối.", "note": "<i>pay <b>for</b></i> món hàng · <i>pay</i> số tiền, không có giới từ: <i>pay ten dollars</i>." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'm <b>good about</b> cooking.", "right": "I'm <b>good at</b> cooking.", "why": "BẪY SỐ MỘT: tiếng Việt “giỏi VỀ” nhưng tiếng Anh luôn là <b>good at</b>." },
+            { "wrong": "I'm good at <b>cook</b>.", "right": "I'm good at <b>cooking</b>.", "why": "BẪY SỐ HAI: sau giới từ phải là danh từ hoặc V-ing. Xem [Ngữ pháp 25]." },
+            { "wrong": "I'm <b>worried of</b> my job.", "right": "I'm <b>worried about</b> my job.", "why": "<b>worried about</b> là cụm cố định. Xem [Khung 87]." },
+            { "wrong": "It <b>depends the weather</b>.", "right": "It <b>depends on</b> the weather.", "why": "<b>depend</b> không bao giờ đứng một mình trước tân ngữ." },
+            { "wrong": "I <b>listen music</b> every day.", "right": "I <b>listen to</b> music every day.", "why": "<b>listen to</b> — lỗi bỏ quên giới từ rất phổ biến." },
+            { "wrong": "I'm <b>waiting the bus</b>.", "right": "I'm <b>waiting for</b> the bus.", "why": "<b>wait for</b> — tương tự, không bỏ được <i>for</i>." },
+            { "wrong": "I'm <b>interested about</b> history.", "right": "I'm <b>interested in</b> history.", "why": "Cụm cố định là <b>interested in</b>." },
+            { "wrong": "She's very <b>kind with</b> me.", "right": "She's very <b>kind to</b> me.", "why": "<b>kind to somebody</b>. Tiếng Việt “tốt VỚI” nên dễ viết nhầm <i>with</i>." },
+            { "wrong": "I'm <b>afraid with</b> dogs.", "right": "I'm <b>afraid of</b> dogs.", "why": "<b>afraid of</b> — cụm cố định, phải thuộc." },
+            { "wrong": "I'm looking forward to <b>meet</b> you.", "right": "I'm looking forward to <b>meeting</b> you.", "why": "<i>to</i> ở đây là GIỚI TỪ nên theo sau là V-ing. Xem [Khung 86]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>agree with</code> / <code>agree to</code>", "Với người / với đề xuất", "agree with you ≠ agree to the plan"],
+            ["<code>think about</code> / <code>think of</code>", "Cân nhắc / nghĩ ra", "think about it ≠ think of an idea"],
+            ["<code>tired of</code> / <code>tired from</code>", "Chán / mệt vì", "tired of waiting ≠ tired from running"],
+            ["<code>sorry about</code> / <code>sorry for</code>", "Việc đã xảy ra / lỗi của mình", "sorry about the noise ≠ sorry for being late"],
+            ["<code>angry with</code> / <code>angry about</code>", "Giận người / giận việc", "angry with me ≠ angry about the delay"],
+            ["<code>look for</code> / <code>look after</code>", "Tìm / chăm sóc", "look for keys ≠ look after a child"],
+            ["<code>good at</code> / <code>good for</code>", "Giỏi về / tốt cho", "good at math ≠ good for your health"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: không nhớ giới từ thì làm sao?" },
+        {
+          "t": "tree",
+          "q": "Bạn đang kẹt ở một cụm và không nhớ giới từ nào đi kèm?",
+          "nodes": [
+            { "if": "Nói về sở trường, kỹ năng", "then": "at", "ex": "good at · bad at · terrible at" },
+            { "if": "Nói về cảm xúc hướng vào một chủ đề", "then": "about", "ex": "worried about · excited about · think about" },
+            { "if": "Nói về nỗi sợ, niềm tự hào, sự chán", "then": "of", "ex": "afraid of · proud of · tired of" },
+            { "if": "Hướng tới một người", "then": "to", "ex": "kind to · listen to · apologise to" },
+            { "if": "Nói mục đích, lý do, đợi chờ", "then": "for", "ex": "wait for · famous for · responsible for" },
+            { "if": "Vẫn không chắc", "then": "Tra từ điển và học THUỘC CẢ CỤM", "ex": "Ghi vào sổ nguyên cụm: not “good” but “good at”." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ lo lắng" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'm not worried about it at all.", "vi": "Nhẹ nhất — chẳng lo gì" },
+            { "en": "I'm a bit concerned about it.", "vi": "Hơi bận tâm" },
+            { "en": "I'm worried about it.", "vi": "Lo thật" },
+            { "en": "I'm really worried about it.", "vi": "Lo lắm" },
+            { "en": "I'm terrified of it.", "vi": "Nặng nhất — sợ hãi" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Các cụm giới từ cố định này xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 87, "why": "I'm worried about… — khung chính của cụm worried about." },
+            { "id": 88, "why": "I feel bad about… — phân biệt sorry about và sorry for." },
+            { "id": 82, "why": "I'm + tính từ + about/with — khung chính của tính từ đi với giới từ cố định." },
+            { "id": 51, "why": "I agree with you — agree with người, agree to một đề xuất." },
+            { "id": 86, "why": "I'm looking forward to… — luật to là giới từ nên theo sau là V-ing." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền giới từ đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi nấu ăn giỏi.", "blank": "I'm good __________ cooking.", "a": "at" },
+            { "vi": "Tôi lo về công việc.", "blank": "I'm worried __________ my job.", "a": "about" },
+            { "vi": "Cái đó còn tùy thời tiết.", "blank": "It depends __________ the weather.", "a": "on" },
+            { "vi": "Ngày nào tôi cũng nghe nhạc.", "blank": "I listen __________ music every day.", "a": "to" },
+            { "vi": "Tôi thích lịch sử.", "blank": "I'm interested __________ history.", "a": "in" },
+            { "vi": "Tôi sợ chó.", "blank": "I'm afraid __________ dogs.", "a": "of" },
+            { "vi": "Tôi đang đợi xe buýt.", "blank": "I'm waiting __________ the bus.", "a": "for" },
+            { "vi": "Cô ấy rất tốt với tôi.", "blank": "She's very kind __________ me.", "a": "to" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi nấu ăn giỏi.", "blank": "I'm good at __________.  (cook / cooking)", "a": "cooking — sau giới từ là V-ing" },
+            { "vi": "Tôi đồng ý với bạn.", "blank": "I agree __________ you.  (with / to)", "a": "with — đồng ý với NGƯỜI" },
+            { "vi": "Tôi ngán chờ lắm rồi.", "blank": "I'm tired __________ waiting.  (of / from)", "a": "of — chán" },
+            { "vi": "Tôi mong được gặp bạn.", "blank": "I'm looking forward to __________ you.  (meet / meeting)", "a": "meeting" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi lo về công việc.", "a": "I'm worried about my job." },
+            { "vi": "2. Cái đó còn tùy thời tiết.", "a": "It depends on the weather." },
+            { "vi": "3. Xin lỗi vì tôi đến muộn.", "a": "I'm sorry for being late." },
+            { "vi": "4. Cảm ơn vì đã giúp tôi.", "a": "Thank you for helping me." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật vàng:</b> đừng học <i>good</i>, hãy học <b><i>good at</i></b>. Ghi vào sổ nguyên cụm, không bao giờ tách rời.",
+            "<b>Đừng dịch giới từ.</b> Tiếng Việt “giỏi VỀ”, “tốt VỚI” không đưa thẳng sang được — đó chính là nguồn của phần lớn lỗi.",
+            "<b>Sau giới từ luôn là danh từ hoặc V-ing:</b> <i>good at cooking</i>, <i>sorry for being late</i>. Xem [Ngữ pháp 25].",
+            "<b>Ba động từ hay bị bỏ quên giới từ:</b> <i>listen <b>to</b></i>, <i>wait <b>for</b></i>, <i>depend <b>on</b></i>.",
+            "<b>Nhóm theo cảm xúc:</b> sợ/tự hào/chán → <b>of</b> · lo/háo hức/nghĩ → <b>about</b> · giỏi/dở → <b>at</b>.",
+            "<b>Bài tập 3 phút:</b> viết sáu câu về bản thân dùng <i>good at, worried about, afraid of, interested in, waiting for, depends on</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

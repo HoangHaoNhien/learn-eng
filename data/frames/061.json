@@ -1,0 +1,499 @@
+{
+  "id": 61,
+  "group": "Nhóm 7 · Hỏi thông tin",
+  "title": "What time…? / When…? — Hỏi giờ giấc",
+  "subtitle": "Khung câu mở đầu nhóm hỏi thông tin, và cũng là nơi có một lỗi ngữ pháp mà người Việt mắc gần như mỗi ngày: quên trợ động từ trong câu hỏi. Ngoài ra, What time và When không thay thế được cho nhau — chọn sai là câu hỏi lệch hẳn ý.",
+  "pattern": [
+    "What time <em>+ do/does + S + V</em>?",
+    "When <em>+ do/does + S + V</em>?",
+    "What time works for you?"
+  ],
+  "meaning": "Mấy giờ…? / Khi nào…?",
+  "grammar": [12, 39, 44, 52],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Câu hỏi thiết yếu" },
+    { "text": "Trình độ: A1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">What time…?</span> hỏi về <b>giờ cụ thể trong ngày</b>. <span class=\"k\">When…?</span> hỏi về <b>thời điểm nói chung</b> — có thể là giờ, ngày, tháng, mùa, hay một dịp nào đó. Đây là khác biệt cốt lõi." },
+        { "t": "p", "html": "Ví dụ: <i>What time is the meeting?</i> chờ câu trả lời “ba giờ”. Còn <i>When is the meeting?</i> có thể nhận được “thứ Ba”, “tuần sau”, hoặc “sau khi khách duyệt xong”. Chọn sai là câu trả lời lệch hẳn thứ bạn cần." },
+        { "t": "p", "html": "Trong công việc, <span class=\"k\">What time works for you?</span> là câu hỏi lịch hẹn lịch sự và hiệu quả nhất — nó trao quyền chọn cho người kia thay vì áp đặt một giờ." },
+        { "t": "callout", "html": "<b>LỖI KINH ĐIỂN của người Việt:</b> quên trợ động từ. <span class=\"k\">What time does it start?</span> ✓ — <i>What time it starts?</i> ✗. Tiếng Việt không có trợ động từ nên ta hay bỏ quên <i>do / does / did</i>." },
+        { "t": "h3", "text": "What time hay When?" },
+        {
+          "t": "table",
+          "head": ["Câu hỏi", "Chờ câu trả lời", "Dùng khi"],
+          "rows": [
+            ["<code>What time does it start?</code>", "Ba giờ chiều", "Cần giờ cụ thể"],
+            ["<code>When does it start?</code>", "Thứ Ba / tuần sau / lúc ba giờ", "Cần thời điểm nói chung"],
+            ["<code>What time is it?</code>", "Bây giờ là mấy giờ", "Hỏi giờ hiện tại"],
+            ["<code>When are you free?</code>", "Chiều mai", "Hỏi lịch trống"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Hỏi giờ hiện tại có hai cách:</b> <i>What time is it?</i> (phổ biến toàn cầu) và <i>What's the time?</i> (Anh-Anh). Cả hai đều đúng. Nhưng <i>How many time?</i> ✗ và <i>What hour?</i> ✗ thì sai hoàn toàn." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🕒", "title": "Hỏi giờ mở cửa, giờ chạy", "text": "Bối cảnh số 1. <i>What time do you open?</i>" },
+            { "icon": "📅", "title": "Hẹn lịch làm việc", "text": "<i>What time works for you?</i> Trao quyền chọn cho người kia." },
+            { "icon": "🚆", "title": "Hỏi giờ tàu xe", "text": "<i>What time does the last train leave?</i>" },
+            { "icon": "⏳", "title": "Hỏi hạn chót", "text": "<i>By what time do you need it?</i> Chậm nhất là mấy giờ." },
+            { "icon": "🗓", "title": "Hỏi thời điểm nói chung", "text": "<i>When are you back from leave?</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Cần lịch sự cao với người lạ. Ở đó dùng câu gián tiếp — xem [Khung 17]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Với động từ thường", "<code>What time + do/does + S + V?</code>", "What time does it start?"],
+            ["Với động từ to be", "<code>What time + is/are + S?</code>", "What time is the meeting?"],
+            ["Quá khứ", "<code>What time did + S + V?</code>", "What time did they leave?"],
+            ["Hỏi giờ hiện tại", "<code>What time is it?</code>", "What time is it?"],
+            ["Kiểu Anh-Anh", "<code>What's the time?</code>", "What's the time?"],
+            ["Hỏi lịch hẹn", "<code>What time works for you?</code>", "What time works for you?"],
+            ["Hạn chót", "<code>By what time…?</code>", "By what time do you need it?"],
+            ["Đến khi nào", "<code>Until what time…?</code>", "Until what time are you open?"],
+            ["Thời điểm chung", "<code>When + do/does + S + V?</code>", "When does the course begin?"],
+            ["Gián tiếp — lịch sự", "<code>Could you tell me what time…?</code>", "Could you tell me what time it starts?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Câu hỏi gián tiếp KHÔNG đảo ngữ.</b> Trực tiếp: <i>What time <b>does it</b> start?</i> Gián tiếp: <i>Could you tell me what time <b>it starts</b>?</i> — bỏ <i>does</i> và trả động từ về vị trí thường. Xem [Khung 17]." },
+        { "t": "callout", "html": "<b>Giới từ thời gian:</b> <b>at</b> + giờ (<i>at three</i>), <b>on</b> + ngày/thứ (<i>on Monday</i>), <b>in</b> + tháng/năm/buổi (<i>in July</i>, <i>in the morning</i>). Ngoại lệ: <i>at night</i>, <i>at the weekend</i> (Anh-Anh)." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các dạng câu hỏi giờ",
+              "items": [
+                { "w": "What time does it start?", "vi": "mấy giờ bắt đầu?", "ex": "What time does the film start?", "exvi": "Phim mấy giờ chiếu?", "note": "BẮT BUỘC có <i>does</i>. <i>What time it starts?</i> ✗ là lỗi kinh điển." },
+                { "w": "What time do you open?", "vi": "mấy giờ quý vị mở cửa?", "ex": "What time do you open on Sundays?", "exvi": "Chủ nhật quán mở cửa lúc mấy giờ ạ?" },
+                { "w": "What time do you close?", "vi": "mấy giờ đóng cửa?", "ex": "What time do you close tonight?", "exvi": "Tối nay mấy giờ đóng cửa ạ?" },
+                { "w": "What time is it?", "vi": "bây giờ mấy giờ?", "ex": "Sorry, what time is it?", "exvi": "Xin lỗi, bây giờ mấy giờ rồi ạ?", "note": "KHÔNG nói <i>How many time?</i> ✗ hay <i>What hour?</i> ✗." },
+                { "w": "What's the time?", "vi": "mấy giờ rồi?", "ex": "What's the time, roughly?", "exvi": "Khoảng mấy giờ rồi nhỉ?", "note": "Bản Anh-Anh, hoàn toàn tương đương." },
+                { "w": "What time did they leave?", "vi": "họ rời đi lúc mấy giờ?", "ex": "What time did they leave?", "exvi": "Họ rời đi lúc mấy giờ?", "note": "Quá khứ dùng <i>did</i>, và động từ sau đó về dạng nguyên thể." },
+                { "w": "What time works for you?", "vi": "mấy giờ tiện cho bạn?", "ex": "What time works for you tomorrow?", "exvi": "Mai mấy giờ tiện cho anh/chị?", "note": "Câu hẹn lịch lịch sự nhất — trao quyền chọn cho người kia." },
+                { "w": "What time suits you?", "vi": "mấy giờ hợp với bạn?", "ex": "What time suits you best?", "exvi": "Mấy giờ hợp với anh/chị nhất?" },
+                { "w": "By what time?", "vi": "chậm nhất là mấy giờ?", "ex": "By what time do you need it?", "exvi": "Anh/chị cần nó chậm nhất lúc mấy giờ?", "note": "<i>by</i> = không muộn hơn. Khác hẳn <i>at</i> là đúng giờ đó." },
+                { "w": "Until what time?", "vi": "đến mấy giờ?", "ex": "Until what time are you open?", "exvi": "Quý vị mở đến mấy giờ ạ?" },
+                { "w": "What time shall we meet?", "vi": "mình gặp lúc mấy giờ?", "ex": "What time shall we meet?", "exvi": "Mình gặp lúc mấy giờ nhỉ?", "note": "Xem [Khung 34]." },
+                { "w": "Have you got the time?", "vi": "bạn có biết mấy giờ không?", "ex": "Excuse me, have you got the time?", "exvi": "Xin lỗi, anh/chị có biết mấy giờ rồi không?", "note": "Rất Anh-Anh. Chú ý có <i>the</i> — bỏ <i>the</i> thành “bạn có rảnh không”, nghĩa khác hẳn." }
+              ]
+            },
+            {
+              "title": "Hỏi bằng “When” và trả lời",
+              "items": [
+                { "w": "When does it start?", "vi": "khi nào bắt đầu?", "ex": "When does the course start?", "exvi": "Khóa học khi nào bắt đầu?", "note": "Câu trả lời có thể là ngày, tháng, hoặc giờ — rộng hơn <i>What time</i>." },
+                { "w": "When are you free?", "vi": "khi nào bạn rảnh?", "ex": "When are you free this week?", "exvi": "Tuần này khi nào anh/chị rảnh?" },
+                { "w": "When is a good time?", "vi": "khi nào thì tiện?", "ex": "When is a good time to call?", "exvi": "Khi nào thì tiện gọi ạ?", "note": "Rất lịch sự — hỏi thời điểm phù hợp thay vì áp đặt." },
+                { "w": "When's the deadline?", "vi": "hạn chót khi nào?", "ex": "When's the deadline exactly?", "exvi": "Hạn chót chính xác là khi nào?" },
+                { "w": "When are you back?", "vi": "khi nào bạn về?", "ex": "When are you back from leave?", "exvi": "Khi nào anh/chị đi nghỉ về?" },
+                { "w": "at three", "vi": "lúc ba giờ", "ex": "It starts at three.", "exvi": "Ba giờ bắt đầu.", "note": "<b>at</b> đi với GIỜ cụ thể." },
+                { "w": "on Monday", "vi": "vào thứ Hai", "ex": "It's on Monday.", "exvi": "Vào thứ Hai.", "note": "<b>on</b> đi với NGÀY và THỨ." },
+                { "w": "in July", "vi": "vào tháng Bảy", "ex": "It's in July.", "exvi": "Vào tháng Bảy.", "note": "<b>in</b> đi với THÁNG, NĂM, BUỔI trong ngày." },
+                { "w": "half past two", "vi": "hai giờ rưỡi", "ex": "Half past two.", "exvi": "Hai rưỡi.", "note": "Cách đọc giờ kiểu Anh: <i>half past</i> = rưỡi." },
+                { "w": "quarter to five", "vi": "bốn giờ bốn lăm", "ex": "A quarter to five.", "exvi": "Năm giờ kém mười lăm.", "note": "<i>to</i> = kém, <i>past</i> = hơn. Rất Anh-Anh." },
+                { "w": "on the dot", "vi": "đúng boong", "ex": "Nine o'clock on the dot.", "exvi": "Chín giờ đúng boong.", "note": "Thành ngữ nhấn mạnh sự chính xác tuyệt đối." },
+                { "w": "any time after six", "vi": "sau sáu giờ lúc nào cũng được", "ex": "Any time after six works.", "exvi": "Sau sáu giờ lúc nào cũng được." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "It's just gone three", "vi": "vừa qua ba giờ", "ex": "It's just gone three.", "exvi": "Vừa qua ba giờ.", "note": "Rất Anh-Anh — nghĩa là mới hơn ba giờ một chút." },
+                { "w": "Nearly four", "vi": "gần bốn giờ", "ex": "Nearly four.", "exvi": "Gần bốn giờ rồi." },
+                { "w": "Sorry, I haven't got a watch", "vi": "xin lỗi, tôi không đeo đồng hồ", "ex": "Sorry, I haven't got a watch.", "exvi": "Xin lỗi, tôi không đeo đồng hồ." },
+                { "w": "Let me check", "vi": "để tôi xem", "ex": "Let me check my calendar.", "exvi": "Để tôi xem lịch." },
+                { "w": "Does two work?", "vi": "hai giờ được không?", "ex": "Does two o'clock work for you?", "exvi": "Hai giờ có tiện cho anh/chị không?" },
+                { "w": "Any time is fine", "vi": "lúc nào cũng được", "ex": "Any time is fine with me.", "exvi": "Với tôi lúc nào cũng được." },
+                { "w": "I'm tied up until four", "vi": "tôi bận đến bốn giờ", "ex": "I'm tied up until four.", "exvi": "Tôi bận đến bốn giờ.", "note": "<i>tied up</i> = bận rộn, không rảnh. Thành ngữ công sở rất phổ biến." },
+                { "w": "First thing tomorrow", "vi": "sáng sớm mai", "ex": "First thing tomorrow morning.", "exvi": "Sáng sớm mai.", "note": "<i>first thing</i> = việc đầu tiên trong ngày, tức là rất sớm." },
+                { "w": "End of play today", "vi": "cuối ngày làm việc hôm nay", "ex": "End of play today, please.", "exvi": "Cuối giờ làm hôm nay nhé.", "note": "Thành ngữ công sở Anh-Anh, viết tắt là EOP hoặc COP." },
+                { "w": "Whenever suits you", "vi": "lúc nào tiện cho bạn cũng được", "ex": "Whenever suits you.", "exvi": "Lúc nào tiện cho anh/chị cũng được." },
+                { "w": "It's running late", "vi": "nó đang trễ giờ", "ex": "The train's running late.", "exvi": "Tàu đang chạy trễ." },
+                { "w": "Sharp", "vi": "đúng giờ", "ex": "Nine o'clock sharp.", "exvi": "Đúng chín giờ.", "note": "Đặt sau giờ để nhấn mạnh là không được trễ." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "What time works for you tomorrow?",
+                  "vi": "Mai mấy giờ tiện cho anh/chị?",
+                  "note": "Câu hẹn lịch lịch sự và hiệu quả nhất — trao quyền chọn thay vì áp đặt một giờ cố định.",
+                  "open": { "en": "I'd like to go through the numbers with you.", "vi": "Tôi muốn xem lại số liệu cùng anh/chị." },
+                  "reply": [
+                    { "them": "I'm tied up until four.", "themvi": "Tôi bận đến bốn giờ.", "you": "Half past four then?", "youvi": "Vậy bốn rưỡi nhé?" },
+                    { "them": "Whenever suits you.", "themvi": "Lúc nào tiện cho anh/chị cũng được.", "you": "Let's say ten, then.", "youvi": "Vậy chốt mười giờ." }
+                  ],
+                  "close": { "en": "I'll send a calendar invite.", "vi": "Tôi sẽ gửi lời mời lịch." }
+                },
+                {
+                  "en": "By what time do you need it?",
+                  "vi": "Anh/chị cần nó chậm nhất lúc mấy giờ?",
+                  "note": "<b>by</b> = không muộn hơn. Khác hẳn <i>at</i> vốn là đúng giờ đó.",
+                  "reply": [
+                    { "them": "End of play today, please.", "themvi": "Cuối giờ làm hôm nay nhé.", "you": "You'll have it by five.", "youvi": "Trước năm giờ anh/chị sẽ có." }
+                  ],
+                  "vars": [
+                    { "en": "When's the deadline exactly?", "vi": "Hạn chót chính xác là khi nào?" }
+                  ]
+                },
+                {
+                  "en": "What time does the call start?",
+                  "vi": "Cuộc gọi mấy giờ bắt đầu?",
+                  "note": "BẮT BUỘC có <b>does</b>. <i>What time the call starts?</i> ✗ là lỗi người Việt mắc nhiều nhất.",
+                  "reply": [
+                    { "them": "Nine o'clock sharp.", "themvi": "Đúng chín giờ.", "you": "I'll dial in five minutes early.", "youvi": "Tôi sẽ vào sớm năm phút." }
+                  ]
+                },
+                {
+                  "en": "When are you back from leave?",
+                  "vi": "Khi nào anh/chị đi nghỉ về?",
+                  "note": "Dùng <b>When</b> vì câu trả lời là một ngày, không phải một giờ.",
+                  "reply": [
+                    { "them": "The fifteenth, I think.", "themvi": "Ngày mười lăm thì phải.", "you": "I'll hold the report until then.", "youvi": "Tôi giữ báo cáo đến lúc đó." }
+                  ],
+                  "close": { "en": "Enjoy the break.", "vi": "Nghỉ vui nhé." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "What time do you open on Sundays?",
+                  "vi": "Chủ nhật quý vị mở cửa lúc mấy giờ ạ?",
+                  "reply": [
+                    { "them": "Ten until four on Sundays.", "themvi": "Chủ nhật từ mười giờ đến bốn giờ ạ.", "you": "Good to know, thanks.", "youvi": "Biết vậy tốt quá, cảm ơn." }
+                  ]
+                },
+                {
+                  "en": "Until what time are you open today?",
+                  "vi": "Hôm nay quý vị mở đến mấy giờ ạ?",
+                  "reply": [
+                    { "them": "Nine, but the kitchen closes at eight.", "themvi": "Chín giờ, nhưng bếp đóng lúc tám giờ ạ.", "you": "I'll be back before eight then.", "youvi": "Vậy tôi quay lại trước tám giờ." }
+                  ],
+                  "vars": [
+                    { "en": "What time do you close?", "vi": "Mấy giờ quý vị đóng cửa ạ?" }
+                  ]
+                },
+                {
+                  "en": "When will it be back in stock?",
+                  "vi": "Khi nào có hàng lại ạ?",
+                  "note": "Dùng <b>When</b> vì câu trả lời là một ngày trong tương lai, không phải giờ.",
+                  "reply": [
+                    { "them": "Thursday, most likely.", "themvi": "Nhiều khả năng là thứ Năm ạ.", "you": "Could you call me when it arrives?", "youvi": "Có hàng em gọi tôi được không?" }
+                  ],
+                  "close": { "en": "Here's my number.", "vi": "Số của tôi đây." }
+                },
+                {
+                  "en": "What time does the delivery arrive?",
+                  "vi": "Mấy giờ hàng được giao ạ?",
+                  "reply": [
+                    { "them": "Between two and six.", "themvi": "Từ hai đến sáu giờ ạ.", "you": "That's a wide window.", "youvi": "Khoảng thời gian rộng quá." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "What time does the last train leave?",
+                  "vi": "Chuyến tàu cuối chạy lúc mấy giờ ạ?",
+                  "note": "Câu hỏi thiết yếu khi đi lại — nhớ trợ động từ <i>does</i> và động từ nguyên thể <i>leave</i>.",
+                  "open": { "en": "Sorry to bother you —", "vi": "Xin lỗi làm phiền —" },
+                  "reply": [
+                    { "them": "Ten forty-five from platform two.", "themvi": "Mười giờ bốn lăm, sân ga số hai ạ.", "you": "Is it running on time?", "youvi": "Có chạy đúng giờ không ạ?" },
+                    { "them": "It's running late, I'm afraid.", "themvi": "E là đang trễ giờ ạ.", "you": "How late, roughly?", "youvi": "Trễ khoảng bao lâu ạ?" }
+                  ],
+                  "close": { "en": "Thanks for your help.", "vi": "Cảm ơn đã giúp đỡ." }
+                },
+                {
+                  "en": "What time is check-out?",
+                  "vi": "Mấy giờ trả phòng ạ?",
+                  "note": "Với động từ <i>to be</i> thì KHÔNG cần <i>does</i>: <i>What time <b>is</b> check-out?</i>",
+                  "reply": [
+                    { "them": "Midday, but we can extend.", "themvi": "Mười hai giờ trưa, nhưng có thể gia hạn ạ.", "you": "Until what time?", "youvi": "Đến mấy giờ ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "What time do we need to check out?", "vi": "Mình cần trả phòng lúc mấy giờ?" }
+                  ]
+                },
+                {
+                  "en": "Sorry, have you got the time?",
+                  "vi": "Xin lỗi, anh/chị có biết mấy giờ rồi không ạ?",
+                  "note": "Rất Anh-Anh. Chú ý có <b>the</b> — bỏ <i>the</i> thành <i>have you got time</i>, nghĩa là “bạn có rảnh không”.",
+                  "reply": [
+                    { "them": "It's just gone three.", "themvi": "Vừa qua ba giờ.", "you": "Thanks very much.", "youvi": "Cảm ơn nhiều ạ." }
+                  ]
+                },
+                {
+                  "en": "When does the museum close?",
+                  "vi": "Bảo tàng khi nào đóng cửa?",
+                  "reply": [
+                    { "them": "Six, but last entry is at five.", "themvi": "Sáu giờ, nhưng vào cửa cuối lúc năm giờ ạ.", "you": "We'd better hurry then.", "youvi": "Vậy mình phải nhanh lên." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "What time do you stop serving food?",
+                  "vi": "Mấy giờ quán ngừng phục vụ đồ ăn ạ?",
+                  "reply": [
+                    { "them": "The kitchen closes at ten.", "themvi": "Bếp đóng lúc mười giờ ạ.", "you": "We'll order before then.", "youvi": "Chúng tôi sẽ gọi trước đó." }
+                  ]
+                },
+                {
+                  "en": "What time is the table booked for?",
+                  "vi": "Bàn đặt lúc mấy giờ ạ?",
+                  "reply": [
+                    { "them": "Seven thirty, under Nguyen.", "themvi": "Bảy rưỡi, tên Nguyễn ạ.", "you": "That's us.", "youvi": "Đúng chúng tôi rồi." }
+                  ],
+                  "vars": [
+                    { "en": "What time did we book for?", "vi": "Mình đặt lúc mấy giờ nhỉ?" }
+                  ]
+                },
+                {
+                  "en": "What time shall we meet for dinner?",
+                  "vi": "Mình gặp ăn tối lúc mấy giờ nhỉ?",
+                  "note": "Xem [Khung 34] — <i>shall we</i> là cách rủ lịch thiệp kiểu Anh.",
+                  "reply": [
+                    { "them": "Any time after six works.", "themvi": "Sau sáu giờ lúc nào cũng được.", "you": "Half past seven, then.", "youvi": "Vậy bảy rưỡi." }
+                  ],
+                  "close": { "en": "I'll book it now.", "vi": "Mình đặt luôn." }
+                },
+                {
+                  "en": "When's brunch served?",
+                  "vi": "Khi nào có phục vụ brunch ạ?",
+                  "reply": [
+                    { "them": "Weekends only, from ten.", "themvi": "Chỉ cuối tuần, từ mười giờ ạ.", "you": "We'll come Saturday then.", "youvi": "Vậy thứ Bảy chúng tôi đến." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "When are you free this week?",
+                  "vi": "Tuần này khi nào bạn rảnh?",
+                  "note": "Dùng <b>When</b> vì bạn đang hỏi về ngày, không phải giờ cụ thể.",
+                  "reply": [
+                    { "them": "Thursday evening, probably.", "themvi": "Chắc tối thứ Năm.", "you": "What time suits you?", "youvi": "Mấy giờ hợp với bạn?" }
+                  ],
+                  "close": { "en": "See you Thursday.", "vi": "Thứ Năm gặp nhé." }
+                },
+                {
+                  "en": "What time did you get home last night?",
+                  "vi": "Tối qua bạn về nhà lúc mấy giờ?",
+                  "note": "Quá khứ dùng <b>did</b>, và động từ theo sau trở về nguyên thể: <i>did you <b>get</b></i>.",
+                  "reply": [
+                    { "them": "Later than I should have.", "themvi": "Muộn hơn mức đáng lẽ.", "you": "That explains the face.", "youvi": "Thảo nào trông mặt vậy." }
+                  ]
+                },
+                {
+                  "en": "When is a good time to call?",
+                  "vi": "Khi nào thì tiện để gọi?",
+                  "note": "Rất lịch sự — hỏi thời điểm phù hợp thay vì gọi bừa.",
+                  "reply": [
+                    { "them": "After eight is best.", "themvi": "Sau tám giờ là tốt nhất.", "you": "I'll ring you then.", "youvi": "Vậy lúc đó mình gọi." }
+                  ],
+                  "vars": [
+                    { "en": "What time can I call you?", "vi": "Mấy giờ mình gọi bạn được?" }
+                  ]
+                },
+                {
+                  "en": "What time is it, roughly?",
+                  "vi": "Khoảng mấy giờ rồi nhỉ?",
+                  "reply": [
+                    { "them": "Nearly four.", "themvi": "Gần bốn giờ.", "you": "We should head off.", "youvi": "Mình nên về thôi." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Hẹn lịch họp với đồng nghiệp",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "I'd like to go through the numbers. What time works for you tomorrow?", "vi": "Tôi muốn xem lại số liệu. Mai mấy giờ tiện cho anh/chị?" },
+            { "speaker": "Colleague", "en": "I'm tied up until four, I'm afraid.", "vi": "E là tôi bận đến bốn giờ." },
+            { "speaker": "You", "me": true, "en": "Half past four then? And by what time do you need my part?", "vi": "Vậy bốn rưỡi nhé? Mà anh/chị cần phần của tôi chậm nhất lúc mấy giờ?" },
+            { "speaker": "Colleague", "en": "End of play today would be ideal.", "vi": "Cuối giờ làm hôm nay thì lý tưởng." },
+            { "speaker": "You", "me": true, "en": "You'll have it by five. What time does the client call start on Friday?", "vi": "Trước năm giờ anh/chị sẽ có. Mà thứ Sáu cuộc gọi với khách mấy giờ bắt đầu?" },
+            { "speaker": "Colleague", "en": "Nine o'clock sharp.", "vi": "Đúng chín giờ." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Hỏi giờ tàu ở nhà ga",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Sorry to bother you — what time does the last train leave?", "vi": "Xin lỗi làm phiền — chuyến tàu cuối chạy lúc mấy giờ ạ?" },
+            { "speaker": "Staff", "en": "Ten forty-five, platform two.", "vi": "Mười giờ bốn lăm, sân ga số hai ạ." },
+            { "speaker": "You", "me": true, "en": "Is it running on time?", "vi": "Có chạy đúng giờ không ạ?" },
+            { "speaker": "Staff", "en": "It's running about ten minutes late.", "vi": "Đang trễ khoảng mười phút ạ." },
+            { "speaker": "You", "me": true, "en": "And until what time is the ticket office open?", "vi": "Phòng vé mở đến mấy giờ ạ?" },
+            { "speaker": "Staff", "en": "Eleven, but the machines run all night.", "vi": "Mười một giờ, nhưng máy bán vé chạy suốt đêm ạ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "What time it starts?", "right": "What time does it start?", "why": "LỖI KINH ĐIỂN. Câu hỏi trực tiếp với động từ thường BẮT BUỘC có <b>do / does / did</b>." },
+            { "wrong": "What time does it starts?", "right": "What time does it start?", "why": "Đã có <b>does</b> thì động từ chính trở về <b>nguyên thể</b> — không thêm <i>-s</i> hai lần." },
+            { "wrong": "How many time is it?", "right": "What time is it?", "why": "<i>How many times</i> nghĩa là “bao nhiêu lần”. Hỏi giờ luôn là <b>What time</b>." },
+            { "wrong": "Could you tell me what time does it start?", "right": "Could you tell me what time it starts?", "why": "Câu hỏi GIÁN TIẾP không đảo ngữ — bỏ <i>does</i> và trả động từ về dạng thường. Xem [Khung 17]." },
+            { "wrong": "When time does it start?", "right": "What time does it start?", "why": "Không có cấu trúc <i>When time</i>. Chọn một: <b>What time</b> (giờ) hoặc <b>When</b> (thời điểm chung)." },
+            { "wrong": "Have you got time? <i>(ý: hỏi mấy giờ)</i>", "right": "Have you got the time?", "why": "Thiếu <b>the</b> thì câu thành “bạn có rảnh không” — nghĩa hoàn toàn khác." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu hỏi", "Hỏi về", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>What time…?</code>", "Giờ cụ thể trong ngày", "<i>What time does it start?</i> Khi cần giờ."],
+            ["<code>When…?</code>", "Thời điểm nói chung", "<i>When does it start?</i> Ngày, tháng, dịp."],
+            ["<code>By what time…?</code>", "Hạn chót — không muộn hơn", "<i>By what time do you need it?</i>"],
+            ["<code>Until what time…?</code>", "Đến khi nào", "<i>Until what time are you open?</i>"],
+            ["<code>How long…?</code>", "Khoảng thời gian kéo dài", "<i>How long does it take?</i> Xem [Khung 64]."],
+            ["<code>How often…?</code>", "Tần suất", "<i>How often does it run?</i>"],
+            ["<code>Could you tell me what time…?</code>", "Hỏi gián tiếp — lịch sự", "Xem [Khung 17]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — hỏi giờ mở cửa của một nơi" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "What time do you open?", "vi": "Trực tiếp — bình thường, dùng được" },
+            { "en": "What time are you open until?", "vi": "Hỏi khung giờ đầy đủ" },
+            { "en": "Do you know what time they open?", "vi": "Gián tiếp — lịch sự hơn" },
+            { "en": "Could you tell me what time you open?", "vi": "Rất lịch sự. Xem [Khung 17]" },
+            { "en": "I was wondering what time you open.", "vi": "Lịch sự nhất. Xem [Khung 16]" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>What time</b> nối âm thành <b>“wə-TAIM”</b> — âm /t/ cuối <i>what</i> nhập vào <i>time</i>, chỉ đọc một lần.",
+            "<b>does it</b> nối thành <b>“də-zit”</b> — âm /z/ nối sang nguyên âm.",
+            "Cả cụm: <b>“wə-taim-də-zit-START”</b>, trọng âm rơi vào <i>TIME</i> và <i>START</i>.",
+            "<b>What time is it?</b> → “wə-tai-mi-zit”, bốn từ dính thành một khối.",
+            "<b>Giọng đi xuống ở cuối</b> — câu hỏi có từ để hỏi (wh-question) luôn hạ giọng, khác với câu hỏi có-không.",
+            "<b>Have you got the time?</b> → “hæv-yu-got-thə-TAIM”, nhấn TAIM và đừng quên <i>the</i>."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "What time does the last train leave?", "vi": "Luyện shadowing: “wə-taim-dəz-thə-last-TRAIN-leev”, hạ giọng ở cuối." },
+            { "en": "What time works for you tomorrow?", "vi": "Tập nối “wə-taim-WERKS-fə-yu” liền một hơi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Phim mấy giờ chiếu?", "blank": "What time __________ the film start?", "a": "does (bắt buộc có trợ động từ)" },
+            { "vi": "Bây giờ mấy giờ rồi ạ?", "blank": "__________ is it?", "a": "What time" },
+            { "vi": "Mai mấy giờ tiện cho anh/chị?", "blank": "__________ tomorrow?", "a": "What time works for you" },
+            { "vi": "Anh/chị cần nó chậm nhất lúc mấy giờ?", "blank": "__________ do you need it?", "a": "By what time" },
+            { "vi": "Quý vị mở đến mấy giờ ạ?", "blank": "__________ are you open?", "a": "Until what time" },
+            { "vi": "Anh/chị cho tôi biết mấy giờ bắt đầu được không?", "blank": "Could you tell me what time __________?", "a": "it starts (gián tiếp — không đảo ngữ)" },
+            { "vi": "Xin lỗi, anh/chị có biết mấy giờ rồi không?", "blank": "Excuse me, have you got __________?", "a": "the time (đừng quên “the”)" },
+            { "vi": "Tôi bận đến bốn giờ.", "blank": "I'm __________ until four.", "a": "tied up" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Chuyến tàu cuối chạy lúc mấy giờ ạ?", "a": "What time does the last train leave?" },
+            { "vi": "2. Mai mấy giờ tiện cho anh/chị?", "a": "What time works for you tomorrow?" },
+            { "vi": "3. Chủ nhật quý vị mở cửa lúc mấy giờ ạ?", "a": "What time do you open on Sundays?" },
+            { "vi": "4. Khi nào anh/chị đi nghỉ về?", "a": "When are you back from leave?" },
+            { "vi": "5. Tối qua bạn về nhà lúc mấy giờ?", "a": "What time did you get home last night?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Đừng bao giờ quên trợ động từ.</b> <i>What time <b>does</b> it start?</i> Đây là lỗi người Việt mắc nhiều nhất trong mọi câu hỏi tiếng Anh.",
+            "<b>Chọn đúng từ hỏi:</b> cần giờ thì <i>What time</i>; cần ngày hoặc thời điểm chung thì <i>When</i>.",
+            "<b>Học thuộc “What time works for you?”</b> — câu hẹn lịch lịch sự và hiệu quả nhất trong công việc.",
+            "<b>Nhớ ba giới từ:</b> <i>at</i> + giờ, <i>on</i> + ngày/thứ, <i>in</i> + tháng/năm/buổi.",
+            "<b>Câu gián tiếp thì không đảo ngữ:</b> <i>Could you tell me what time <b>it starts</b>?</i> — bỏ <i>does</i>.",
+            "<b>Bài tập 3 phút:</b> viết 5 câu hỏi giờ cho 5 việc bạn làm tuần này, mỗi câu kiểm tra lại xem đã có <i>do/does/did</i> chưa."
+          ]
+        }
+      ]
+    }
+  ]
+}

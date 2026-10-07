@@ -1,0 +1,488 @@
+{
+  "id": 22,
+  "group": "Nhóm 3 · Xin phép & Cho phép",
+  "title": "Is it OK if I…? — Xin phép kiểu đời thường",
+  "subtitle": "Câu xin phép tự nhiên nhất trong đời sống hằng ngày và trong tin nhắn. Nó nằm đúng giữa Can I (hơi cộc) và Do you mind if I (hơi trịnh trọng) — nên dùng được với gần như tất cả mọi người mà không bao giờ lệch tông.",
+  "pattern": [
+    "Is it OK if I <em>+ V (hiện tại)</em>?",
+    "Would it be OK if I <em>+ V (quá khứ)</em>?",
+    "…, is that OK?"
+  ],
+  "meaning": "Tôi… có được không? / Như vậy có ổn không?",
+  "grammar": [14, 29],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Cực hợp với tin nhắn" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">Is it OK if I…?</span> hỏi xem việc bạn định làm có <b>ổn</b> với người kia không. Khác với <i>Can I…?</i> vốn hỏi về sự cho phép, câu này hỏi về <b>sự thoải mái</b> — nên nghe quan tâm hơn mà vẫn không trịnh trọng." },
+        { "t": "p", "html": "Nó chiếm đúng khoảng giữa của thang lịch sự. <i>Can I sit here?</i> hơi trống, <i>Do you mind if I sit here?</i> hơi trịnh trọng với bạn bè. <i>Is it OK if I sit here?</i> thì vừa vặn ở mọi nơi — quán xá, văn phòng, nhà người quen." },
+        { "t": "p", "html": "Đây cũng là dạng <b>hợp với tin nhắn nhất</b>. Trong chat công việc, <i>Is it OK if I send it tomorrow?</i> nghe tự nhiên hơn hẳn các dạng trang trọng, mà vẫn đủ tôn trọng." },
+        { "t": "callout", "html": "<b>Mẹo cực tiện:</b> nêu việc bạn định làm bằng câu kể trước, rồi chốt bằng <span class=\"k\">…, is that OK?</span> ở cuối. <i>I'll send it tomorrow, is that OK?</i> Cách này gọn và rất tự nhiên trong tin nhắn." },
+        { "t": "h3", "text": "Vị trí của nó trên thang lịch sự" },
+        {
+          "t": "table",
+          "head": ["Câu", "Sắc thái", "Dùng với ai"],
+          "rows": [
+            ["<code>Can I sit here?</code>", "Thân mật, hơi trống", "Bạn bè, người quen"],
+            ["<code>Is it OK if I sit here?</code>", "Đời thường, quan tâm", "Gần như tất cả mọi người"],
+            ["<code>Would it be OK if I sat here?</code>", "Lịch sự hơn một bậc", "Người lạ, cấp trên"],
+            ["<code>Do you mind if I sit here?</code>", "Nhã — hỏi có phiền không", "Người lạ, tình huống tế nhị — xem [Khung 14]"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💬", "title": "Tin nhắn, chat công việc", "text": "Bối cảnh số 1. <i>Is it OK if I send it tomorrow?</i> Tự nhiên mà vẫn tôn trọng." },
+            { "icon": "🏠", "title": "Ở nhà người khác", "text": "<i>Is it OK if I use the bathroom?</i> Hỏi trước là phép lịch sự cơ bản." },
+            { "icon": "📅", "title": "Đổi lịch, đổi kế hoạch", "text": "<i>Is it OK if we move it to Thursday?</i>" },
+            { "icon": "👔", "title": "Xin phép nhỏ ở công ty", "text": "<i>Is it OK if I take an early lunch?</i>" },
+            { "icon": "🤝", "title": "Chốt lại sau khi đã nêu ý", "text": "<i>I'll do it this way — is that OK?</i> Đặt câu hỏi ở cuối." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Nghi thức trang trọng hoặc viết thư chính thức — hãy dùng [Khung 18] hoặc [Khung 21]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cơ bản", "<code>Is it OK if I + V?</code>", "Is it OK if I leave at four?"],
+            ["Lịch sự hơn", "<code>Would it be OK if I + V2?</code>", "Would it be OK if I left at four?"],
+            ["Xin cho cả nhóm", "<code>Is it OK if we + V?</code>", "Is it OK if we start later?"],
+            ["Chốt ở cuối câu", "<code>…, is that OK?</code>", "I'll send it Monday, is that OK?"],
+            ["Anh-Anh thân mật", "<code>Is it all right if I + V?</code>", "Is it all right if I bring a friend?"],
+            ["Hỏi về vật, việc", "<code>Is it OK to + V?</code>", "Is it OK to park here?"],
+            ["Hỏi lại cho chắc", "<code>Is that OK with you?</code>", "Thursday at three — is that OK with you?"],
+            ["Trả lời — đồng ý", "<code>Yeah, that's fine.</code>", "Yeah, that's totally fine."],
+            ["Trả lời — có điều kiện", "<code>That's fine as long as…</code>", "That's fine as long as you tell me."],
+            ["Trả lời — từ chối nhẹ", "<code>Actually, I'd prefer…</code>", "Actually, I'd prefer Friday."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Bẫy thì động từ:</b> <span class=\"k\">Is it OK if I <b>leave</b></span> — hiện tại. <span class=\"k\">Would it be OK if I <b>left</b></span> — quá khứ. Đổi <i>Is</i> thành <i>Would</i> thì phải lùi thì động từ. Cùng quy luật với [Khung 14]." },
+        { "t": "callout", "html": "<b>Về chính tả:</b> <b>OK</b>, <b>okay</b> và <b>O.K.</b> đều đúng. Trong email công việc thì <i>OK</i> hoặc <i>okay</i> đều ổn; tránh viết <i>ok</i> chữ thường ở văn bản trang trọng." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “Is it OK if I…”",
+              "items": [
+                { "w": "leave", "vi": "về, rời đi", "ex": "Is it OK if I leave at four today?", "exvi": "Hôm nay tôi về lúc bốn giờ có được không ạ?" },
+                { "w": "sit", "vi": "ngồi", "ex": "Is it OK if I sit here?", "exvi": "Tôi ngồi đây có được không?" },
+                { "w": "bring", "vi": "mang theo, dẫn theo", "ex": "Is it OK if I bring a friend?", "exvi": "Mình dẫn theo một người bạn có được không?" },
+                { "w": "send", "vi": "gửi", "ex": "Is it OK if I send it tomorrow?", "exvi": "Mai tôi gửi có được không ạ?", "note": "Câu xin lùi hạn trong chat công việc — rất hay dùng." },
+                { "w": "use", "vi": "dùng", "ex": "Is it OK if I use your laptop?", "exvi": "Mình dùng laptop của bạn có được không?" },
+                { "w": "call", "vi": "gọi điện", "ex": "Is it OK if I call you tonight?", "exvi": "Tối nay mình gọi bạn có được không?" },
+                { "w": "come", "vi": "đến", "ex": "Is it OK if I come a bit later?", "exvi": "Mình đến muộn chút có được không?" },
+                { "w": "start", "vi": "bắt đầu", "ex": "Is it OK if I start without you?", "exvi": "Tôi bắt đầu trước có được không?" },
+                { "w": "change", "vi": "đổi", "ex": "Is it OK if I change the date?", "exvi": "Tôi đổi ngày có được không ạ?" },
+                { "w": "pay", "vi": "thanh toán", "ex": "Is it OK if I pay next week?", "exvi": "Tuần sau tôi trả có được không ạ?" },
+                { "w": "take", "vi": "lấy, nghỉ", "ex": "Is it OK if I take an early lunch?", "exvi": "Tôi ăn trưa sớm có được không ạ?" },
+                { "w": "join", "vi": "tham gia cùng", "ex": "Is it OK if I join halfway through?", "exvi": "Tôi vào giữa chừng có được không ạ?" },
+                { "w": "open", "vi": "mở", "ex": "Is it OK if I open the window?", "exvi": "Tôi mở cửa sổ có được không?" },
+                { "w": "record", "vi": "ghi âm", "ex": "Is it OK if I record this?", "exvi": "Tôi ghi âm cái này có được không ạ?" },
+                { "w": "ask", "vi": "hỏi", "ex": "Is it OK if I ask a personal question?", "exvi": "Tôi hỏi một câu riêng tư có được không?" },
+                { "w": "work from home", "vi": "làm việc ở nhà", "ex": "Is it OK if I work from home tomorrow?", "exvi": "Mai tôi làm ở nhà có được không ạ?" },
+                { "w": "reschedule", "vi": "dời lịch", "ex": "Is it OK if I reschedule to Friday?", "exvi": "Tôi dời sang thứ Sáu có được không ạ?" },
+                { "w": "bring it back", "vi": "mang trả lại", "ex": "Is it OK if I bring it back on Monday?", "exvi": "Thứ Hai tôi mang trả lại có được không ạ?" },
+                { "w": "skip", "vi": "bỏ qua", "ex": "Is it OK if I skip today's meeting?", "exvi": "Hôm nay tôi vắng họp có được không ạ?" },
+                { "w": "double-check", "vi": "kiểm tra lại", "ex": "Is it OK if I double-check with finance?", "exvi": "Tôi hỏi lại bên tài chính cho chắc có được không ạ?" }
+              ]
+            },
+            {
+              "title": "Câu hoàn chỉnh nên thuộc lòng",
+              "items": [
+                { "w": "Is it OK if I leave a bit early?", "vi": "tôi về sớm chút được không?", "ex": "Is it OK if I leave a bit early today?", "exvi": "Hôm nay tôi về sớm chút có được không ạ?" },
+                { "w": "Is it OK if I send it tomorrow?", "vi": "mai tôi gửi được không?", "ex": "I'm behind on this — is it OK if I send it tomorrow?", "exvi": "Tôi hơi chậm việc này — mai tôi gửi có được không ạ?", "note": "Xin lùi hạn kèm lý do ngắn thì gần như luôn được chấp nhận." },
+                { "w": "Is that OK?", "vi": "như vậy có ổn không?", "ex": "I'll book it for seven — is that OK?", "exvi": "Tôi đặt lúc bảy giờ — như vậy có ổn không?", "note": "Đặt ở CUỐI sau khi đã nêu việc. Cực gọn và tự nhiên." },
+                { "w": "Is that OK with you?", "vi": "bạn thấy vậy có được không?", "ex": "Thursday at three — is that OK with you?", "exvi": "Ba giờ thứ Năm — bạn thấy vậy có được không?" },
+                { "w": "Is it OK to park here?", "vi": "đỗ xe ở đây được không?", "ex": "Excuse me, is it OK to park here?", "exvi": "Xin lỗi, đỗ xe ở đây có được không ạ?", "note": "Dạng <i>Is it OK to + V</i> hỏi chung, không nêu ai làm." },
+                { "w": "Would it be OK if I…?", "vi": "liệu tôi… có được không?", "ex": "Would it be OK if I started on Monday?", "exvi": "Liệu tôi bắt đầu từ thứ Hai có được không ạ?", "note": "Động từ phải lùi về QUÁ KHỨ: <i>started</i>." },
+                { "w": "Is it all right if I…?", "vi": "tôi… có ổn không?", "ex": "Is it all right if I bring my laptop?", "exvi": "Tôi mang laptop theo có được không?", "note": "Anh-Anh hay dùng. Viết <i>all right</i> hai chữ ở văn bản trang trọng." },
+                { "w": "Only if it's OK with you", "vi": "chỉ khi bạn thấy ổn thôi", "ex": "I'll come along — only if it's OK with you.", "exvi": "Mình đi cùng — chỉ khi bạn thấy ổn thôi nhé.", "note": "Thêm vế này để người kia dễ từ chối." },
+                { "w": "If that's not OK, just say", "vi": "không ổn thì cứ nói nhé", "ex": "If that's not OK, just say — I don't mind.", "exvi": "Không ổn thì bạn cứ nói nhé — mình không sao đâu.", "note": "Câu rất tử tế, mở đường cho người kia nói thật." },
+                { "w": "Is it OK if we…?", "vi": "chúng tôi… có được không?", "ex": "Is it OK if we start ten minutes late?", "exvi": "Chúng tôi bắt đầu muộn mười phút có được không ạ?" }
+              ]
+            },
+            {
+              "title": "Cách người ta trả lời",
+              "items": [
+                { "w": "Yeah, that's fine", "vi": "ừ, không sao", "ex": "Yeah, that's totally fine.", "exvi": "Ừ, hoàn toàn không sao.", "note": "Câu đồng ý tự nhiên nhất trong đời thường." },
+                { "w": "Of course", "vi": "tất nhiên rồi", "ex": "Of course — go ahead.", "exvi": "Tất nhiên rồi — bạn cứ làm đi." },
+                { "w": "No problem at all", "vi": "không vấn đề gì", "ex": "No problem at all.", "exvi": "Không vấn đề gì đâu." },
+                { "w": "That's fine as long as…", "vi": "ổn thôi, miễn là…", "ex": "That's fine as long as you let me know.", "exvi": "Ổn thôi, miễn là bạn báo mình biết.", "note": "Đồng ý có điều kiện — rất hay gặp ở chỗ làm." },
+                { "w": "Actually, I'd prefer…", "vi": "thật ra tôi muốn… hơn", "ex": "Actually, I'd prefer Friday if possible.", "exvi": "Thật ra nếu được thì tôi muốn thứ Sáu hơn.", "note": "Từ chối nhẹ kèm phương án thay thế." },
+                { "w": "I'm afraid that won't work", "vi": "e là không được", "ex": "I'm afraid that won't work for us.", "exvi": "E là bên tôi không sắp xếp được.", "note": "Từ chối lịch sự — thêm lý do ngắn là không ai phật lòng." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Is it OK if I send it tomorrow morning?",
+                  "vi": "Sáng mai tôi gửi có được không ạ?",
+                  "note": "Xin lùi hạn. Nêu mốc cụ thể (<i>tomorrow morning</i>) thay vì mơ hồ thì dễ được đồng ý hơn hẳn.",
+                  "open": { "en": "Quick heads-up on the report —", "vi": "Báo trước một chút về báo cáo —" },
+                  "reply": [
+                    { "them": "That's fine as long as it's before ten.", "themvi": "Ổn thôi, miễn là trước mười giờ.", "you": "It will be. Thanks for understanding.", "youvi": "Chắc chắn ạ. Cảm ơn anh/chị đã thông cảm." },
+                    { "them": "I'm afraid the client needs it today.", "themvi": "E là khách hàng cần trong hôm nay.", "you": "Understood — I'll send a partial version.", "youvi": "Em hiểu rồi — em sẽ gửi bản chưa đầy đủ trước ạ." }
+                  ],
+                  "close": { "en": "I'll have it with you first thing.", "vi": "Sáng sớm là anh/chị có ngay ạ." }
+                },
+                {
+                  "en": "Is it OK if I work from home tomorrow?",
+                  "vi": "Mai tôi làm ở nhà có được không ạ?",
+                  "reply": [
+                    { "them": "Sure. Any meetings?", "themvi": "Được chứ. Có cuộc họp nào không?", "you": "Just the stand-up — I'll join online.", "youvi": "Chỉ có họp nhanh thôi — em vào online ạ." }
+                  ],
+                  "vars": [
+                    { "en": "Is it OK if I take an early lunch?", "vi": "Tôi ăn trưa sớm có được không ạ?" },
+                    { "en": "Is it OK if I skip today's meeting?", "vi": "Hôm nay tôi vắng họp có được không ạ?" }
+                  ]
+                },
+                {
+                  "en": "I'll book it for Thursday at three — is that OK with you?",
+                  "vi": "Tôi đặt lịch ba giờ thứ Năm — anh/chị thấy vậy có được không?",
+                  "note": "Nêu phương án trước rồi hỏi ở cuối — cách chốt lịch nhanh và chuyên nghiệp nhất.",
+                  "reply": [
+                    { "them": "Thursday works. Book it.", "themvi": "Thứ Năm được đấy. Đặt đi.", "you": "Great, I'll send the invite.", "youvi": "Tuyệt, tôi gửi lời mời nhé." },
+                    { "them": "Actually, I'd prefer Friday.", "themvi": "Thật ra tôi muốn thứ Sáu hơn.", "you": "Friday it is. Same time?", "youvi": "Vậy thứ Sáu. Cùng giờ chứ ạ?" }
+                  ]
+                },
+                {
+                  "en": "Is it OK if I double-check this with finance?",
+                  "vi": "Tôi hỏi lại bên tài chính cho chắc có được không ạ?",
+                  "note": "Xin phép kiểm tra chéo mà không tỏ ra nghi ngờ người đưa thông tin.",
+                  "reply": [
+                    { "them": "Good idea — better safe than sorry.", "themvi": "Ý hay — cẩn thận vẫn hơn.", "you": "I'll let you know what they say.", "youvi": "Họ nói gì tôi sẽ báo lại anh/chị." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Is it OK if I bring a friend?",
+                  "vi": "Mình dẫn theo một người bạn có được không?",
+                  "note": "Luôn nên hỏi trước khi dẫn thêm người — kể cả với bạn thân.",
+                  "reply": [
+                    { "them": "Of course, the more the merrier.", "themvi": "Tất nhiên rồi, càng đông càng vui.", "you": "Great, I'll let her know.", "youvi": "Tuyệt, mình báo bạn ấy." },
+                    { "them": "It's quite a small table, sorry.", "themvi": "Bàn hơi nhỏ, xin lỗi nhé.", "you": "No problem, I'll come alone.", "youvi": "Không sao, mình đi một mình vậy." }
+                  ]
+                },
+                {
+                  "en": "Is it OK if I call you tonight?",
+                  "vi": "Tối nay mình gọi bạn có được không?",
+                  "reply": [
+                    { "them": "Sure — after eight is best.", "themvi": "Được — sau tám giờ thì tốt nhất.", "you": "Perfect, I'll call around half past.", "youvi": "Tuyệt, khoảng tám rưỡi mình gọi." }
+                  ]
+                },
+                {
+                  "en": "Is it OK if I use the bathroom?",
+                  "vi": "Mình dùng nhà vệ sinh có được không?",
+                  "note": "Ở nhà người khác thì hỏi trước là phép lịch sự cơ bản, dù ai cũng sẽ đồng ý.",
+                  "reply": [
+                    { "them": "Of course — first door on the left.", "themvi": "Tất nhiên rồi — cửa đầu tiên bên trái.", "you": "Thanks.", "youvi": "Cảm ơn nhé." }
+                  ]
+                },
+                {
+                  "en": "I'll come along — only if it's OK with you.",
+                  "vi": "Mình đi cùng — chỉ khi bạn thấy ổn thôi nhé.",
+                  "note": "Vế <i>only if it's OK with you</i> mở đường cho người kia từ chối mà không khó xử.",
+                  "reply": [
+                    { "them": "Please come! I'd love that.", "themvi": "Đi đi! Mình mừng lắm.", "you": "Then it's settled.", "youvi": "Vậy chốt nhé." }
+                  ],
+                  "close": { "en": "If that's not OK, just say.", "vi": "Không ổn thì bạn cứ nói nhé." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Is it OK if I sit here?",
+                  "vi": "Tôi ngồi đây có được không?",
+                  "reply": [
+                    { "them": "Yeah, that's fine.", "themvi": "Ừ, không sao.", "you": "Thanks.", "youvi": "Cảm ơn bạn." },
+                    { "them": "Sorry, I'm waiting for someone.", "themvi": "Xin lỗi, tôi đang đợi người.", "you": "No worries at all.", "youvi": "Không sao đâu ạ." }
+                  ]
+                },
+                {
+                  "en": "Is it OK if we move to that table?",
+                  "vi": "Chúng tôi chuyển sang bàn kia có được không ạ?",
+                  "reply": [
+                    { "them": "Of course, let me clear it.", "themvi": "Tất nhiên ạ, để em dọn bàn.", "you": "Thank you, no rush.", "youvi": "Cảm ơn bạn, không vội đâu." }
+                  ]
+                },
+                {
+                  "en": "Is it OK if I pay separately?",
+                  "vi": "Tôi trả riêng có được không ạ?",
+                  "note": "Hỏi trước khi tính tiền để nhân viên chuẩn bị — tránh lúng túng ở quầy.",
+                  "reply": [
+                    { "them": "Sure. How many cards?", "themvi": "Được ạ. Mấy thẻ ạ?", "you": "Two, please.", "youvi": "Hai thẻ ạ." }
+                  ]
+                },
+                {
+                  "en": "Is it OK if I order for everyone?",
+                  "vi": "Mình gọi món cho cả nhóm có được không?",
+                  "reply": [
+                    { "them": "Please do — you know the place better.", "themvi": "Bạn gọi đi — bạn rành quán này hơn.", "you": "Any allergies I should know about?", "youvi": "Có ai dị ứng gì mình cần biết không?" }
+                  ],
+                  "close": { "en": "If there's anything you don't eat, just say.", "vi": "Có gì bạn không ăn được thì cứ nói nhé." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Excuse me, is it OK to park here?",
+                  "vi": "Xin lỗi, đỗ xe ở đây có được không ạ?",
+                  "note": "Dạng <b>Is it OK to + V</b> hỏi chung về quy định, không nêu cụ thể ai làm.",
+                  "reply": [
+                    { "them": "Only for thirty minutes.", "themvi": "Chỉ được ba mươi phút thôi ạ.", "you": "That's plenty, thank you.", "youvi": "Vậy là thừa rồi ạ, cảm ơn bạn." },
+                    { "them": "Sorry, it's residents only.", "themvi": "Xin lỗi, chỗ này chỉ dành cho cư dân ạ.", "you": "Where's the nearest car park?", "youvi": "Bãi xe gần nhất ở đâu ạ?" }
+                  ]
+                },
+                {
+                  "en": "Is it OK if I leave my bags here for an hour?",
+                  "vi": "Tôi gửi hành lý ở đây một tiếng có được không ạ?",
+                  "reply": [
+                    { "them": "Yes, we have a storage room.", "themvi": "Được ạ, bên em có phòng gửi đồ.", "you": "That's a big help, thank you.", "youvi": "Vậy tiện quá, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "Would it be OK if I checked in an hour early?",
+                  "vi": "Liệu tôi nhận phòng sớm một tiếng có được không ạ?",
+                  "note": "Dùng <b>Would</b> nên động từ lùi về quá khứ: <i>checked</i>.",
+                  "reply": [
+                    { "them": "Let me see if the room's ready.", "themvi": "Để em xem phòng dọn xong chưa ạ.", "you": "Thank you — no problem if not.", "youvi": "Cảm ơn bạn — chưa xong cũng không sao ạ." }
+                  ]
+                },
+                {
+                  "en": "Is it OK if I swap seats with you?",
+                  "vi": "Tôi đổi chỗ với bạn có được không ạ?",
+                  "note": "Nên nêu lý do ngắn ngay sau đó — người ta dễ đồng ý hơn nhiều.",
+                  "open": { "en": "Sorry to ask — I'm travelling with my daughter.", "vi": "Xin lỗi phải nhờ — tôi đi cùng con gái." },
+                  "reply": [
+                    { "them": "Of course, no problem.", "themvi": "Tất nhiên rồi, không sao.", "you": "That's really kind, thank you.", "youvi": "Bạn tử tế quá, cảm ơn nhiều." }
+                  ],
+                  "close": { "en": "Thanks again — enjoy the flight.", "vi": "Cảm ơn bạn lần nữa — chúc bạn chuyến bay vui." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Is it OK if I take a photo of this?",
+                  "vi": "Tôi chụp ảnh cái này có được không ạ?",
+                  "note": "Nhiều cửa hàng cấm chụp ảnh — hỏi trước là an toàn nhất.",
+                  "reply": [
+                    { "them": "Go ahead, that's fine.", "themvi": "Anh/chị cứ chụp ạ, không sao.", "you": "Thanks — I just want to compare.", "youvi": "Cảm ơn — tôi chỉ muốn so sánh thôi." }
+                  ]
+                },
+                {
+                  "en": "Is it OK if I bring it back on Monday?",
+                  "vi": "Thứ Hai tôi mang trả lại có được không ạ?",
+                  "reply": [
+                    { "them": "Yes, within fourteen days is fine.", "themvi": "Được ạ, trong mười bốn ngày là được." , "you": "Perfect, thank you.", "youvi": "Tuyệt, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "Is it OK if I pay part cash, part card?",
+                  "vi": "Tôi trả một phần tiền mặt một phần thẻ có được không ạ?",
+                  "reply": [
+                    { "them": "Sure. How much on the card?", "themvi": "Được ạ. Thẻ bao nhiêu ạ?", "you": "Two hundred, and the rest in cash.", "youvi": "Hai trăm, còn lại tiền mặt ạ." }
+                  ]
+                },
+                {
+                  "en": "Is it OK if I think about it and come back?",
+                  "vi": "Tôi suy nghĩ thêm rồi quay lại có được không ạ?",
+                  "note": "Rời cửa hàng mà không hứa hẹn gì — không ai níu thêm được.",
+                  "reply": [
+                    { "them": "Of course, take your time.", "themvi": "Tất nhiên ạ, anh/chị cứ thong thả.", "you": "Thanks for all your help.", "youvi": "Cảm ơn bạn đã tư vấn nhiệt tình." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Nhắn tin xin lùi hạn với quản lý",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Quick heads-up — is it OK if I send the report tomorrow morning?", "vi": "Báo trước một chút — sáng mai em gửi báo cáo có được không ạ?" },
+            { "speaker": "Manager", "en": "What's the hold-up?", "vi": "Vướng ở đâu vậy?" },
+            { "speaker": "You", "me": true, "en": "I'm still waiting on the finance numbers.", "vi": "Em vẫn đang chờ số liệu bên tài chính ạ." },
+            { "speaker": "Manager", "en": "That's fine as long as it's before ten.", "vi": "Ổn thôi, miễn là trước mười giờ." },
+            { "speaker": "You", "me": true, "en": "It will be. And is it OK if I send a draft tonight so you can start?", "vi": "Chắc chắn ạ. Với lại tối nay em gửi bản nháp để anh/chị xem trước có được không ạ?" },
+            { "speaker": "Manager", "en": "Even better. Thanks.", "vi": "Càng tốt. Cảm ơn em." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Đổi chỗ ngồi trên máy bay",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Sorry to ask — is it OK if I swap seats with you?", "vi": "Xin lỗi phải nhờ — tôi đổi chỗ với bạn có được không ạ?" },
+            { "speaker": "Passenger", "en": "Where's your seat?", "vi": "Chỗ của bạn ở đâu?" },
+            { "speaker": "You", "me": true, "en": "Two rows back, also by the window. I'm travelling with my daughter.", "vi": "Lùi sau hai hàng, cũng cạnh cửa sổ. Tôi đi cùng con gái." },
+            { "speaker": "Passenger", "en": "Oh, of course. No problem.", "vi": "Ồ, tất nhiên rồi. Không sao." },
+            { "speaker": "You", "me": true, "en": "That's really kind. Is it OK if I move your bag too?", "vi": "Bạn tử tế quá. Tôi dịch cả cái túi của bạn có được không?" },
+            { "speaker": "Passenger", "en": "Let me get it. There you go.", "vi": "Để tôi lấy. Đây rồi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Is it OK if I to leave early?", "right": "Is it OK if I leave early?", "why": "Sau <b>if I</b> là động từ chia bình thường, không có <i>to</i>." },
+            { "wrong": "Would it be OK if I leave early?", "right": "Would it be OK if I left early?", "why": "Dùng <b>Would</b> thì động từ phải lùi về <b>quá khứ</b>. Cùng quy luật với [Khung 14]." },
+            { "wrong": "Is OK if I sit here?", "right": "Is it OK if I sit here?", "why": "Thiếu chủ ngữ giả <b>it</b> — tiếng Anh bắt buộc phải có." },
+            { "wrong": "Is it OK if I leave? <i>(nói trong lễ trao giải)</i>", "right": "May I be excused?", "why": "Đúng ngữ pháp nhưng quá đời thường cho nghi thức trang trọng. Xem [Khung 21]." },
+            { "wrong": "Is it OK that I sit here?", "right": "Is it OK if I sit here?", "why": "Dùng <b>if</b> khi xin phép trước. <i>that</i> chỉ dùng khi việc đã xảy ra rồi." },
+            { "wrong": "Is that OK for you?", "right": "Is that OK with you?", "why": "Cụm cố định là <b>OK with someone</b>, không phải <i>for</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>Is it OK if I…?</code>", "Đời thường, quan tâm — dùng được mọi nơi", "<i>Is it OK if I leave early?</i>"],
+            ["<code>Can I…?</code>", "Thân mật, hơi trống", "<i>Can I leave early?</i> — Xem [Khung 21]."],
+            ["<code>Could I…?</code>", "Lịch sự hơn", "<i>Could I leave early?</i> — Xem [Khung 21]."],
+            ["<code>Do you mind if I…?</code>", "Nhã — hỏi có phiền không", "<i>Do you mind if I leave early?</i> — Xem [Khung 14]."],
+            ["<code>Am I allowed to…?</code>", "Hỏi về QUY ĐỊNH, không hỏi người", "<i>Am I allowed to leave early?</i> — Xem [Khung 23]."],
+            ["<code>Would it be possible to…?</code>", "Trang trọng — hỏi về khả năng của việc", "<i>Would it be possible to leave early?</i> — Xem [Khung 18]."],
+            ["<code>…, is that OK?</code>", "Chốt ở cuối sau khi đã nêu việc", "<i>I'll leave at four, is that OK?</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Thang độ lịch sự — xin về sớm" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'm leaving early today.", "vi": "Thông báo — không xin phép" },
+            { "en": "Can I leave early today?", "vi": "Thân mật — hơi trống" },
+            { "en": "Is it OK if I leave early today?", "vi": "Đời thường — an toàn" },
+            { "en": "Would it be OK if I left early?", "vi": "Lịch sự — cấp trên" },
+            { "en": "I was hoping to leave a bit early.", "vi": "Nhã nhất — xem [Khung 07]" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Is it</b> nối liền thành <b>“I-zit”</b> — âm /z/ trượt sang <i>it</i>, không ngắt giữa hai từ.",
+            "<b>OK</b> = /əʊˈkeɪ/ — trọng âm rơi vào âm tiết <b>thứ hai</b>: ơ-<b>KAY</b>. Nhấn sai vào đầu là nghe rất lạ.",
+            "<b>Is it OK if I</b> → “i-zi-tow-KAY-i-fai” — cả cụm nói liền một hơi, rất nhanh.",
+            "<b>if I</b> nối thành “i-fai”.",
+            "<b>Is that OK?</b> → “i-zə-tow-KAY”, nhấn mạnh vào <i>OK</i> và lên giọng.",
+            "Câu phải <b>lên giọng ở cuối</b> — đây là câu hỏi thật, người kia có quyền nói không."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Is it OK if I leave a bit early today?", "vi": "Luyện shadowing: nói nhanh cả cụm đầu, nhấn vào “OK” và “early”." },
+            { "en": "I'll send it tomorrow, is that OK?", "vi": "Kiểu chốt ở cuối câu — tập cho quen vì rất hay dùng trong chat." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Hôm nay tôi về sớm chút có được không ạ?", "blank": "__________ leave a bit early today?", "a": "Is it OK if I" },
+            { "vi": "Liệu tôi bắt đầu từ thứ Hai có được không ạ?", "blank": "Would it be OK if I __________ on Monday?", "a": "started (quá khứ sau “Would”)" },
+            { "vi": "Tôi đặt lúc bảy giờ — như vậy có ổn không?", "blank": "I'll book it for seven — __________?", "a": "is that OK" },
+            { "vi": "Ba giờ thứ Năm — bạn thấy vậy có được không?", "blank": "Thursday at three — is that OK __________?", "a": "with you (không phải “for you”)" },
+            { "vi": "Xin lỗi, đỗ xe ở đây có được không ạ?", "blank": "Excuse me, __________ park here?", "a": "is it OK to" },
+            { "vi": "Ổn thôi, miễn là bạn báo mình biết.", "blank": "That's fine __________ you let me know.", "a": "as long as" },
+            { "vi": "Mình đi cùng — chỉ khi bạn thấy ổn thôi nhé.", "blank": "I'll come along — __________ with you.", "a": "only if it's OK" },
+            { "vi": "Thật ra nếu được thì tôi muốn thứ Sáu hơn.", "blank": "__________ Friday if possible.", "a": "Actually, I'd prefer" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Sáng mai tôi gửi có được không ạ?", "a": "Is it OK if I send it tomorrow morning?" },
+            { "vi": "2. Mình dẫn theo một người bạn có được không?", "a": "Is it OK if I bring a friend?" },
+            { "vi": "3. Mai tôi làm ở nhà có được không ạ?", "a": "Is it OK if I work from home tomorrow?" },
+            { "vi": "4. Tôi đổi chỗ với bạn có được không ạ?", "a": "Is it OK if I swap seats with you?" },
+            { "vi": "5. Tôi trả riêng có được không ạ?", "a": "Is it OK if I pay separately?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Lấy đây làm mặc định trong tin nhắn:</b> <i>Is it OK if I…?</i> hợp với chat công việc hơn mọi dạng khác — đủ tôn trọng mà không cứng nhắc.",
+            "<b>Học kiểu chốt ở cuối:</b> nêu việc bằng câu kể rồi thêm <i>…, is that OK?</i> Gọn hơn và nghe chủ động hơn.",
+            "<b>Nhớ quy tắc lùi thì:</b> <i>Is it OK if I leave</i> nhưng <i>Would it be OK if I left</i>.",
+            "<b>Luôn kèm lý do khi xin việc lớn:</b> một vế ngắn như <i>I'm travelling with my daughter</i> tăng tỉ lệ đồng ý rõ rệt.",
+            "<b>Thuộc câu đồng ý có điều kiện:</b> <i>That's fine as long as…</i> — bạn sẽ nghe câu này rất nhiều ở chỗ làm.",
+            "<b>Bài tập 3 phút:</b> viết 5 việc bạn hay xin phép trong tuần, mỗi việc hai cách — một bằng <i>Is it OK if I…?</i>, một bằng <i>…, is that OK?</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

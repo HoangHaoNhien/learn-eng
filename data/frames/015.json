@@ -1,0 +1,491 @@
+{
+  "id": 15,
+  "group": "Nhóm 2 · Yêu cầu & Nhờ vả",
+  "title": "Please + V — Từ bị hiểu lầm nhiều nhất trong tiếng Anh",
+  "subtitle": "Hầu hết người học tin rằng thêm “please” là câu trở nên lịch sự. Sai. “Please send it now” vẫn là một mệnh lệnh. Bài này chỉ ra chính xác khi nào “please” làm câu nhã đi, khi nào nó không cứu được gì, và những chỗ bắt buộc phải có nó.",
+  "pattern": [
+    "Please <em>+ V (mệnh lệnh)</em>",
+    "<em>V</em>…, please",
+    "Please don't <em>+ V</em>"
+  ],
+  "meaning": "Làm ơn… / Xin mời… / Xin đừng…",
+  "grammar": [29, 43],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: tùy cách đặt" },
+    { "text": "Rất mạnh trong email & biển báo" },
+    { "text": "Trình độ: A1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "Điều quan trọng nhất cần hiểu: <span class=\"k\">please</span> <b>không biến một mệnh lệnh thành lời đề nghị</b>. Nó chỉ làm mệnh lệnh đó bớt cộc đi một chút. <i>Send me the file, please</i> vẫn là bạn bảo người ta làm — chỉ khác là bạn có phép lịch sự." },
+        { "t": "p", "html": "Thứ thật sự tạo nên sự lịch sự là <b>hình thức câu hỏi</b>: <i>Could you send me the file?</i> để ngỏ cho người kia nói không. Câu mệnh lệnh thì không. Vì thế khi nhờ người trên hoặc người lạ, hãy dùng [Khung 11] chứ đừng trông cậy vào <i>please</i>." },
+        { "t": "p", "html": "Nhưng có ba nơi <i>please</i> là <b>bắt buộc</b> và cực kỳ tự nhiên: (1) khi <b>nhận lời mời</b> — <i>Yes, please</i>; (2) khi <b>mời ai đó</b> — <i>Please take a seat</i>; (3) trong <b>email và biển báo</b> — <i>Please note that…</i>. Ở ba chỗ này, thiếu <i>please</i> mới là bất thường." },
+        { "t": "callout", "html": "<b>Vị trí quyết định sắc thái:</b> <span class=\"k\">Please wait.</span> (đầu câu) nghe dứt khoát, mang tính chỉ dẫn. <span class=\"k\">Wait a moment, please.</span> (cuối câu) nghe mềm hơn. Trong đời sống, đặt cuối câu gần như luôn an toàn hơn." },
+        { "t": "h3", "text": "Please cứu được gì và không cứu được gì" },
+        {
+          "t": "table",
+          "head": ["Câu", "Thực chất là", "Dùng với ai"],
+          "rows": [
+            ["<code>Send me the file.</code>", "Mệnh lệnh trần", "Chỉ người rất thân, hoặc tin nhắn gấp"],
+            ["<code>Please send me the file.</code>", "Mệnh lệnh có phép lịch sự", "Cấp dưới, hoặc hướng dẫn quy trình"],
+            ["<code>Send me the file, please.</code>", "Mệnh lệnh mềm hơn", "Đồng nghiệp thân"],
+            ["<code>Could you send me the file, please?</code>", "Lời đề nghị thật sự", "Ai cũng được — xem [Khung 11]"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🙋", "title": "Nhận hoặc từ chối lời mời", "text": "Bắt buộc. <i>Yes, please.</i> / <i>No, thank you.</i> Đáp trống một chữ <i>Yes</i> nghe cộc." },
+            { "icon": "🚪", "title": "Mời ai đó — chủ nhà, nhân viên", "text": "<i>Please come in. Please take a seat.</i> Đây là lúc <i>please</i> đứng đầu câu rất tự nhiên." },
+            { "icon": "📧", "title": "Email công việc", "text": "<i>Please find attached… Please note that…</i> Cụm cố định, không thay được." },
+            { "icon": "🪧", "title": "Biển báo, hướng dẫn", "text": "<i>Please do not touch.</i> Trang trọng và không nhắm vào ai cụ thể." },
+            { "icon": "🛑", "title": "Ngăn ai đó làm gì", "text": "<i>Please don't worry about it.</i> Dùng để trấn an cũng rất hay." },
+            { "icon": "🚫", "title": "Đừng trông cậy khi…", "text": "Nhờ sếp việc lớn — thêm <i>please</i> vào mệnh lệnh không làm nó lịch sự lên." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Đầu câu — dứt khoát", "<code>Please + V</code>", "Please take a seat."],
+            ["Cuối câu — mềm hơn", "<code>V…, please</code>", "Two coffees, please."],
+            ["Phủ định", "<code>Please don't + V</code>", "Please don't worry about it."],
+            ["Trong câu hỏi", "<code>Could you please + V?</code>", "Could you please confirm?"],
+            ["Nhận lời mời", "<code>Yes, please.</code>", "“Tea?” — “Yes, please.”"],
+            ["Từ chối lời mời", "<code>No, thank you.</code>", "“More rice?” — “No, thank you.”"],
+            ["Email — gửi kèm", "<code>Please find attached + N</code>", "Please find attached the invoice."],
+            ["Email — lưu ý", "<code>Please note that + mệnh đề</code>", "Please note that the office closes at five."],
+            ["Email — mời liên hệ", "<code>Please don't hesitate to + V</code>", "Please don't hesitate to contact me."],
+            ["Van nài", "<code>Please, + mệnh đề</code>", "Please, just listen for a second."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp:</b> sau <i>please</i> là <b>động từ nguyên thể</b>, không có chủ ngữ. <span class=\"k\">Please help me.</span> ✓ — <i>Please you help me.</i> ✗ Đây là lỗi dịch thẳng từ “bạn làm ơn giúp tôi”." },
+        { "t": "callout", "html": "<b>Đừng rắc “please” khắp nơi:</b> mỗi câu một chữ <i>please</i> nghe rất lạ, thậm chí như đang nài nỉ. Trong một đoạn hội thoại, dùng một hoặc hai lần là đủ." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “Please…”",
+              "items": [
+                { "w": "wait", "vi": "chờ", "ex": "Please wait here for a moment.", "exvi": "Xin mời chờ ở đây một lát." },
+                { "w": "come in", "vi": "mời vào", "ex": "Please come in and take a seat.", "exvi": "Mời vào và ngồi ạ." },
+                { "w": "take a seat", "vi": "mời ngồi", "ex": "Please take a seat — she'll be with you shortly.", "exvi": "Mời anh/chị ngồi — chị ấy sẽ ra ngay ạ.", "note": "Lịch sự hơn <i>Please sit down</i>, vốn nghe hơi giống ra lệnh." },
+                { "w": "help yourself", "vi": "cứ tự nhiên dùng", "ex": "Please help yourself to the food.", "exvi": "Mọi người cứ tự nhiên dùng đồ ăn nhé.", "note": "<i>help yourself to + N</i> — câu chủ nhà nào cũng nói." },
+                { "w": "let me know", "vi": "báo cho tôi biết", "ex": "Please let me know if anything changes.", "exvi": "Có gì thay đổi xin báo tôi biết ạ." },
+                { "w": "be careful", "vi": "cẩn thận", "ex": "Please be careful — the floor is wet.", "exvi": "Cẩn thận nhé — sàn ướt đấy." },
+                { "w": "hold on", "vi": "chờ máy", "ex": "Please hold on, I'll put you through.", "exvi": "Xin giữ máy, tôi sẽ nối máy ạ." },
+                { "w": "follow me", "vi": "đi theo tôi", "ex": "Please follow me, your table's ready.", "exvi": "Mời anh/chị đi theo em, bàn đã sẵn sàng ạ." },
+                { "w": "feel free", "vi": "cứ tự nhiên", "ex": "Please feel free to ask questions.", "exvi": "Mọi người cứ tự nhiên đặt câu hỏi nhé.", "note": "Xem đầy đủ ở [Khung 25]." },
+                { "w": "note", "vi": "lưu ý", "ex": "Please note that prices may change.", "exvi": "Xin lưu ý rằng giá có thể thay đổi.", "note": "Cụm cố định trong email và thông báo." },
+                { "w": "confirm", "vi": "xác nhận", "ex": "Please confirm by Friday.", "exvi": "Xin xác nhận trước thứ Sáu ạ." },
+                { "w": "check", "vi": "kiểm tra", "ex": "Please check your details before submitting.", "exvi": "Xin kiểm tra thông tin trước khi gửi." },
+                { "w": "sign", "vi": "ký", "ex": "Please sign at the bottom.", "exvi": "Xin ký vào phía dưới ạ." },
+                { "w": "remain seated", "vi": "vui lòng ngồi yên", "ex": "Please remain seated until the plane stops.", "exvi": "Xin quý khách ngồi yên cho đến khi máy bay dừng hẳn.", "note": "Câu thông báo trên máy bay — nghe quen sẽ đỡ bỡ ngỡ." },
+                { "w": "bear with me", "vi": "thông cảm chờ tôi chút", "ex": "Please bear with me, this will take a minute.", "exvi": "Mong anh/chị thông cảm chờ chút, việc này mất một phút ạ.", "note": "Cụm rất hữu dụng khi bạn cần thời gian xử lý." },
+                { "w": "make sure", "vi": "nhớ chắc chắn", "ex": "Please make sure the door is locked.", "exvi": "Nhớ khóa cửa cẩn thận nhé." },
+                { "w": "arrive", "vi": "có mặt", "ex": "Please arrive ten minutes early.", "exvi": "Xin có mặt sớm mười phút ạ." },
+                { "w": "accept", "vi": "xin nhận", "ex": "Please accept our apologies for the delay.", "exvi": "Xin nhận lời xin lỗi của chúng tôi vì sự chậm trễ.", "note": "Câu xin lỗi trang trọng chuẩn mực trong thư từ công ty." },
+                { "w": "keep", "vi": "giữ", "ex": "Please keep this receipt.", "exvi": "Xin giữ lại biên lai này ạ." },
+                { "w": "go ahead", "vi": "mời cứ tiếp tục", "ex": "Please go ahead — I'm listening.", "exvi": "Mời anh/chị cứ nói tiếp — tôi đang nghe." }
+              ]
+            },
+            {
+              "title": "Câu xã giao bắt buộc phải thuộc",
+              "items": [
+                { "w": "Yes, please", "vi": "vâng, cho tôi xin", "ex": "“Would you like some tea?” — “Yes, please.”", "exvi": "“Bạn dùng trà nhé?” — “Vâng, cho tôi xin.”", "note": "Đáp trống một chữ <i>Yes</i> khi được mời nghe rất cộc. Đây là chỗ <i>please</i> BẮT BUỘC." },
+                { "w": "No, thank you", "vi": "không, cảm ơn bạn", "ex": "“More rice?” — “No, thank you.”", "exvi": "“Thêm cơm nhé?” — “Thôi, cảm ơn bạn.”", "note": "Từ chối thì dùng <i>thank you</i>, KHÔNG dùng <i>no please</i>." },
+                { "w": "Please come in", "vi": "mời vào", "ex": "Please come in, make yourself at home.", "exvi": "Mời vào, cứ tự nhiên như ở nhà nhé." },
+                { "w": "Please take a seat", "vi": "mời ngồi", "ex": "Please take a seat, I'll be right with you.", "exvi": "Mời anh/chị ngồi, tôi ra ngay ạ." },
+                { "w": "Please help yourself", "vi": "cứ tự nhiên", "ex": "Please help yourself to drinks.", "exvi": "Mọi người cứ tự nhiên lấy đồ uống nhé." },
+                { "w": "Please don't worry", "vi": "đừng lo", "ex": "Please don't worry about it — it happens.", "exvi": "Đừng lo về chuyện đó — ai chẳng có lúc vậy.", "note": "Câu trấn an rất ấm khi ai đó áy náy." },
+                { "w": "Please be careful", "vi": "cẩn thận nhé", "ex": "Please be careful on the stairs.", "exvi": "Cẩn thận cầu thang nhé." },
+                { "w": "Please hold", "vi": "xin giữ máy", "ex": "Please hold, I'll transfer you now.", "exvi": "Xin giữ máy, tôi chuyển máy ngay ạ.", "note": "Câu tổng đài hay nói — nghe quen để không hoảng." },
+                { "w": "After you, please", "vi": "mời bạn đi trước", "ex": "After you, please.", "exvi": "Mời bạn đi trước ạ.", "note": "Câu nhường đường ở cửa, thang máy — rất được lòng người." },
+                { "w": "Please go ahead", "vi": "mời anh/chị cứ nói", "ex": "Please go ahead, I didn't mean to interrupt.", "exvi": "Mời anh/chị cứ nói tiếp, tôi không có ý cắt ngang." }
+              ]
+            },
+            {
+              "title": "Trong email & biển báo",
+              "items": [
+                { "w": "Please find attached", "vi": "xin xem tệp đính kèm", "ex": "Please find attached the invoice for March.", "exvi": "Xin xem tệp đính kèm là hóa đơn tháng Ba.", "note": "Cụm cố định, hơi trang trọng. Thân mật hơn thì viết <i>I've attached…</i>" },
+                { "w": "Please note that…", "vi": "xin lưu ý rằng…", "ex": "Please note that the office is closed on Monday.", "exvi": "Xin lưu ý rằng văn phòng đóng cửa thứ Hai." },
+                { "w": "Please don't hesitate to…", "vi": "xin đừng ngần ngại…", "ex": "Please don't hesitate to contact me if you have questions.", "exvi": "Nếu có thắc mắc xin đừng ngần ngại liên hệ với tôi.", "note": "Câu kết email trang trọng kinh điển." },
+                { "w": "Please confirm…", "vi": "xin xác nhận…", "ex": "Please confirm receipt of this email.", "exvi": "Xin xác nhận đã nhận được email này." },
+                { "w": "Please do not…", "vi": "xin đừng… (biển báo)", "ex": "Please do not touch the exhibits.", "exvi": "Xin đừng chạm vào hiện vật.", "note": "Biển báo dùng dạng đầy đủ <i>do not</i>, không viết tắt <i>don't</i>." },
+                { "w": "Please be advised that…", "vi": "xin được thông báo rằng…", "ex": "Please be advised that the system will be down tonight.", "exvi": "Xin được thông báo hệ thống sẽ bảo trì tối nay.", "note": "Rất trang trọng — chỉ dùng trong thông báo chính thức." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Two coffees, please.",
+                  "vi": "Cho tôi hai ly cà phê ạ.",
+                  "note": "Dạng ngắn nhất để gọi món: <b>món + please</b>. Không cần câu đầy đủ, và hoàn toàn lịch sự.",
+                  "reply": [
+                    { "them": "Anything else?", "themvi": "Anh/chị dùng thêm gì không ạ?", "you": "No, thank you.", "youvi": "Thôi, cảm ơn bạn." },
+                    { "them": "For here or to go?", "themvi": "Dùng tại chỗ hay mang đi ạ?", "you": "To go, please.", "youvi": "Mang đi ạ." }
+                  ],
+                  "vars": [
+                    { "en": "The chicken, please.", "vi": "Cho tôi món gà ạ." },
+                    { "en": "Just water, please.", "vi": "Cho tôi nước lọc thôi ạ." }
+                  ]
+                },
+                {
+                  "en": "“Would you like some more?” — “Yes, please.”",
+                  "vi": "“Bạn dùng thêm chút nữa nhé?” — “Vâng, cho tôi xin.”",
+                  "note": "Đây là chỗ <i>please</i> BẮT BUỘC. Đáp trống một chữ <i>Yes</i> nghe rất cộc trong văn hóa Anh–Mỹ.",
+                  "reply": [
+                    { "them": "How much would you like?", "themvi": "Bạn dùng bao nhiêu?", "you": "Just a little, thanks.", "youvi": "Một chút thôi, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "Please help yourself to the food.",
+                  "vi": "Mọi người cứ tự nhiên dùng đồ ăn nhé.",
+                  "note": "<span class=\"k\">help yourself to + N</span> — câu chủ nhà nào cũng nói. Rất ấm áp.",
+                  "reply": [
+                    { "them": "Thank you, this looks amazing.", "themvi": "Cảm ơn bạn, nhìn ngon quá.", "you": "There's plenty more in the kitchen.", "youvi": "Trong bếp còn nhiều lắm." }
+                  ],
+                  "close": { "en": "Please don't be shy!", "vi": "Đừng ngại nhé!" }
+                },
+                {
+                  "en": "Could we have the bill, please?",
+                  "vi": "Cho chúng tôi hóa đơn ạ.",
+                  "note": "Chú ý: <i>please</i> ở đây đi kèm một câu hỏi thật sự, nên câu mới thật sự lịch sự. Xem [Khung 11].",
+                  "reply": [
+                    { "them": "Of course, one moment.", "themvi": "Vâng ạ, một lát ạ.", "you": "Thank you.", "youvi": "Cảm ơn bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Please note that the office closes at five today.",
+                  "vi": "Xin lưu ý hôm nay văn phòng đóng cửa lúc năm giờ.",
+                  "note": "<span class=\"k\">Please note that…</span> là cụm cố định trong thông báo nội bộ — trang trọng mà không nhắm vào ai.",
+                  "reply": [
+                    { "them": "Good to know, thanks.", "themvi": "May mà biết, cảm ơn nhé.", "you": "No problem.", "youvi": "Không có gì." }
+                  ],
+                  "vars": [
+                    { "en": "Please note that prices may change without notice.", "vi": "Xin lưu ý giá có thể thay đổi mà không báo trước." }
+                  ]
+                },
+                {
+                  "en": "Please find attached the invoice for March.",
+                  "vi": "Xin xem tệp đính kèm là hóa đơn tháng Ba.",
+                  "note": "Cụm email hơi trang trọng. Với đồng nghiệp thân thì viết <i>I've attached the invoice</i> nghe tự nhiên hơn.",
+                  "reply": [
+                    { "them": "Got it, thanks. I'll process it today.", "themvi": "Nhận được rồi, cảm ơn. Hôm nay tôi xử lý.", "you": "Perfect. Please let me know if anything's missing.", "youvi": "Tuyệt. Thiếu gì xin anh/chị báo tôi nhé." }
+                  ],
+                  "close": { "en": "Please don't hesitate to contact me if you have questions.", "vi": "Nếu có thắc mắc xin đừng ngần ngại liên hệ với tôi." }
+                },
+                {
+                  "en": "Please bear with me — this will take a minute.",
+                  "vi": "Mong anh/chị thông cảm chờ chút — việc này mất một phút ạ.",
+                  "note": "<span class=\"k\">bear with me</span> = thông cảm chờ tôi. Cực hữu dụng khi bạn cần thời gian tra cứu.",
+                  "reply": [
+                    { "them": "No rush at all.", "themvi": "Không vội đâu ạ.", "you": "Thank you. Right — here it is.", "youvi": "Cảm ơn anh/chị. Rồi — đây rồi ạ." }
+                  ]
+                },
+                {
+                  "en": "Please go ahead — I didn't mean to interrupt.",
+                  "vi": "Mời anh/chị cứ nói tiếp — tôi không có ý cắt ngang.",
+                  "note": "Câu cứu nguy khi bạn lỡ nói chồng lên người khác trong cuộc họp.",
+                  "reply": [
+                    { "them": "No, you first — what were you going to say?", "themvi": "Không, anh/chị nói trước đi — anh/chị định nói gì?", "you": "It can wait, please finish.", "youvi": "Để sau cũng được, mời anh/chị nói hết ạ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Please hold, I'll transfer you now.",
+                  "vi": "Xin giữ máy, tôi chuyển máy ngay ạ.",
+                  "note": "Câu tổng đài hay nói. Nghe quen để không hoảng khi gọi dịch vụ bằng tiếng Anh.",
+                  "reply": [
+                    { "them": "Sure, thank you.", "themvi": "Vâng, cảm ơn bạn.", "you": "You're through now.", "youvi": "Đã nối máy cho anh/chị rồi ạ." }
+                  ]
+                },
+                {
+                  "en": "Please remain seated until the plane comes to a complete stop.",
+                  "vi": "Xin quý khách ngồi yên cho đến khi máy bay dừng hẳn.",
+                  "note": "Thông báo trên máy bay. Nghe quen là bạn đi lại tự tin hơn nhiều.",
+                  "reply": [
+                    { "them": "Is it OK to use my phone now?", "themvi": "Giờ tôi dùng điện thoại được chưa ạ?", "you": "Once we've landed, yes.", "youvi": "Khi hạ cánh xong thì được ạ." }
+                  ]
+                },
+                {
+                  "en": "After you, please.",
+                  "vi": "Mời bạn đi trước ạ.",
+                  "note": "Câu nhường đường ở cửa, thang máy. Ngắn mà được lòng người lạ ngay lập tức.",
+                  "reply": [
+                    { "them": "Oh, thank you!", "themvi": "Ồ, cảm ơn bạn!", "you": "Not at all.", "youvi": "Không có gì đâu ạ." }
+                  ]
+                },
+                {
+                  "en": "Please be careful — the floor is wet.",
+                  "vi": "Cẩn thận nhé — sàn ướt đấy.",
+                  "reply": [
+                    { "them": "Thanks for the warning.", "themvi": "Cảm ơn bạn đã nhắc.", "you": "No problem.", "youvi": "Không có gì." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Please come in, make yourself at home.",
+                  "vi": "Mời vào, cứ tự nhiên như ở nhà nhé.",
+                  "note": "Đây là chỗ <i>please</i> đứng đầu câu hoàn toàn tự nhiên — vì bạn đang MỜI chứ không phải sai bảo.",
+                  "reply": [
+                    { "them": "Thank you. Should I take my shoes off?", "themvi": "Cảm ơn bạn. Mình có cần cởi giày không?", "you": "Yes, please — if you don't mind.", "youvi": "Có, phiền bạn nhé — nếu bạn không ngại." }
+                  ],
+                  "close": { "en": "Please help yourself to anything in the fridge.", "vi": "Có gì trong tủ lạnh bạn cứ tự nhiên nhé." }
+                },
+                {
+                  "en": "Please don't worry about it — it happens.",
+                  "vi": "Đừng lo về chuyện đó — ai chẳng có lúc vậy.",
+                  "note": "Câu trấn an rất ấm khi ai đó đang áy náy vì một lỗi nhỏ.",
+                  "reply": [
+                    { "them": "I still feel bad, though.", "themvi": "Nhưng mình vẫn thấy ngại quá.", "you": "Honestly, it's fine. Let's move on.", "youvi": "Thật đấy, không sao mà. Mình cho qua đi." }
+                  ]
+                },
+                {
+                  "en": "Please, just listen for a second.",
+                  "vi": "Xin bạn, nghe mình một chút thôi.",
+                  "note": "<i>Please</i> tách riêng bằng dấu phẩy mang sắc thái <b>van nài</b> — chỉ dùng khi tình huống thật sự căng.",
+                  "reply": [
+                    { "them": "Fine. Go on.", "themvi": "Được rồi. Nói đi.", "you": "Thank you. Here's what happened.", "youvi": "Cảm ơn bạn. Chuyện là thế này." }
+                  ]
+                },
+                {
+                  "en": "Please let me know if anything changes.",
+                  "vi": "Có gì thay đổi xin báo tôi biết nhé.",
+                  "reply": [
+                    { "them": "Will do.", "themvi": "Mình sẽ báo.", "you": "Thanks.", "youvi": "Cảm ơn bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Please take a seat — someone will be with you shortly.",
+                  "vi": "Mời anh/chị ngồi — sẽ có người ra tiếp ngay ạ.",
+                  "note": "Lịch sự hơn <i>Please sit down</i>, câu này nghe hơi giống ra lệnh với trẻ con.",
+                  "reply": [
+                    { "them": "Thank you. Roughly how long?", "themvi": "Cảm ơn bạn. Khoảng bao lâu ạ?", "you": "About five minutes.", "youvi": "Khoảng năm phút ạ." }
+                  ]
+                },
+                {
+                  "en": "Please keep this receipt for the warranty.",
+                  "vi": "Xin giữ lại biên lai này để bảo hành ạ.",
+                  "reply": [
+                    { "them": "How long is the warranty?", "themvi": "Bảo hành bao lâu ạ?", "you": "Two years from today.", "youvi": "Hai năm kể từ hôm nay ạ." }
+                  ]
+                },
+                {
+                  "en": "Please do not touch the display items.",
+                  "vi": "Xin đừng chạm vào hàng trưng bày.",
+                  "note": "Biển báo dùng dạng đầy đủ <b>do not</b>, không viết tắt <i>don't</i> — đó là quy ước của văn bản trang trọng.",
+                  "reply": [
+                    { "them": "Sorry, I didn't see the sign.", "themvi": "Xin lỗi, tôi không thấy biển.", "you": "No problem at all.", "youvi": "Không sao đâu ạ." }
+                  ]
+                },
+                {
+                  "en": "Please accept our apologies for the delay.",
+                  "vi": "Xin nhận lời xin lỗi của chúng tôi vì sự chậm trễ.",
+                  "note": "Câu xin lỗi trang trọng chuẩn mực của doanh nghiệp. Trong đời thường thì chỉ cần <i>I'm so sorry</i>.",
+                  "open": { "en": "Thank you for your patience.", "vi": "Cảm ơn anh/chị đã kiên nhẫn chờ." },
+                  "reply": [
+                    { "them": "It's fine, these things happen.", "themvi": "Không sao, chuyện đó khó tránh.", "you": "We'll make it up to you.", "youvi": "Chúng tôi sẽ bù đắp cho anh/chị ạ." }
+                  ],
+                  "close": { "en": "Please don't hesitate to contact us.", "vi": "Xin đừng ngần ngại liên hệ với chúng tôi." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Được mời đến nhà ăn tối",
+          "lines": [
+            { "speaker": "Host", "en": "Please come in! Let me take your coat.", "vi": "Mời vào! Để mình cầm áo khoác cho." },
+            { "speaker": "You", "me": true, "en": "Thank you. Should I take my shoes off?", "vi": "Cảm ơn bạn. Mình có cần cởi giày không?" },
+            { "speaker": "Host", "en": "Yes, please — if you don't mind. Please take a seat.", "vi": "Có, phiền bạn nhé. Mời bạn ngồi." },
+            { "speaker": "You", "me": true, "en": "Of course. This place is lovely.", "vi": "Tất nhiên rồi. Nhà bạn đẹp quá." },
+            { "speaker": "Host", "en": "Thanks! Please help yourself to drinks — everything's on the table.", "vi": "Cảm ơn! Bạn cứ tự nhiên lấy đồ uống nhé — đều ở trên bàn cả." },
+            { "speaker": "You", "me": true, "en": "A water would be great, please.", "vi": "Cho mình một cốc nước ạ." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Cùng một yêu cầu, hai cách nói khác hẳn nhau",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Please send me the report today.", "vi": "Gửi tôi báo cáo hôm nay nhé." },
+            { "speaker": "Colleague", "en": "…OK.", "vi": "…Vâng." },
+            { "speaker": "You", "me": true, "en": "Sorry, that came out wrong. Could you send me the report today, please?", "vi": "Xin lỗi, tôi nói hơi cộc. Hôm nay bạn gửi tôi báo cáo được không?" },
+            { "speaker": "Colleague", "en": "Of course. Do you need the full version?", "vi": "Tất nhiên rồi. Anh cần bản đầy đủ chứ?" },
+            { "speaker": "You", "me": true, "en": "Just the summary, please. And please let me know if that's tight.", "vi": "Chỉ cần bản tóm tắt thôi. Nếu gấp quá thì bạn cứ báo tôi nhé." },
+            { "speaker": "Colleague", "en": "It's fine. You'll have it by four.", "vi": "Không sao đâu. Bốn giờ anh sẽ có." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Please you help me.", "right": "Please help me. / Could you help me, please?", "why": "Sau <b>please</b> là động từ nguyên thể, <b>không có chủ ngữ</b>. Đây là lỗi dịch thẳng từ “bạn làm ơn giúp tôi”." },
+            { "wrong": "“Would you like some tea?” — “Yes.”", "right": "“Would you like some tea?” — “Yes, please.”", "why": "Khi nhận lời mời, thiếu <b>please</b> nghe rất cộc. Đây là chỗ bắt buộc phải có." },
+            { "wrong": "“More rice?” — “No, please.”", "right": "“More rice?” — “No, thank you.”", "why": "Từ chối thì dùng <b>thank you</b>. <i>No, please</i> không phải cách nói của người bản xứ." },
+            { "wrong": "Please send it now. <i>(gửi sếp)</i>", "right": "Could you send it now, please?", "why": "Thêm <i>please</i> vào mệnh lệnh không biến nó thành lời đề nghị. Phải đổi sang dạng câu hỏi — xem [Khung 11]." },
+            { "wrong": "Please, please help me, please. <i>(trong email bình thường)</i>", "right": "Could you help me with this, please?", "why": "Lặp <i>please</i> nhiều lần nghe như nài nỉ. Một lần là đủ." },
+            { "wrong": "Please don't to worry.", "right": "Please don't worry.", "why": "Sau <b>don't</b> là động từ trần, không có <i>to</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>Please + V</code>", "Chỉ dẫn, mời mọc — không phải đề nghị", "<i>Please take a seat.</i>"],
+            ["<code>V…, please</code>", "Mềm hơn, dùng để gọi món", "<i>Two coffees, please.</i>"],
+            ["<code>Could you…, please?</code>", "Đề nghị thật sự — lịch sự nhất", "<i>Could you wait, please?</i> — Xem [Khung 11]."],
+            ["<code>Can you…?</code>", "Thân mật, thẳng", "<i>Can you wait?</i> — Xem [Khung 12]."],
+            ["<code>Would you mind + V-ing?</code>", "Nhã nhất — hỏi có phiền không", "<i>Would you mind waiting?</i> — Xem [Khung 13]."],
+            ["<code>Kindly + V</code>", "Rất trang trọng, hơi cứng", "<i>Kindly confirm receipt.</i> — Dễ nghe như ra lệnh."],
+            ["<code>Feel free to + V</code>", "Mời mọc, cho phép thoải mái", "<i>Feel free to ask.</i> — Xem [Khung 25]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang độ lịch sự — nhờ gửi một tệp tin" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Send me the file.", "vi": "Mệnh lệnh trần — dễ mất lòng" },
+            { "en": "Please send me the file.", "vi": "Có phép lịch sự — vẫn là lệnh" },
+            { "en": "Send me the file, please.", "vi": "Mềm hơn — đồng nghiệp thân" },
+            { "en": "Could you send me the file, please?", "vi": "Đề nghị thật — an toàn mọi nơi" },
+            { "en": "Would you mind sending me the file?", "vi": "Nhã nhất — người lạ, cấp trên" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>please</b> = /pliːz/ — nguyên âm <b>dài</b>, âm cuối là /z/ có rung. Đọc thành “plis” nghe rất cứng và lộ giọng nước ngoài.",
+            "Cụm <b>pl</b> phải đọc liền, đừng chen nguyên âm vào giữa thành “pơ-li”.",
+            "<b>Yes, please</b> → “yes-PLIIZ”, nhấn vào <i>please</i> và kéo dài ra một chút cho ấm.",
+            "<b>please</b> ở cuối câu thường được đọc với <b>giọng đi xuống nhẹ</b> nếu là câu chào mời, và <b>đi lên</b> nếu là câu hỏi.",
+            "<b>Please don't</b> → “pliiz-DOHNT”, âm /t/ cuối gần như không bật ra.",
+            "Khi <i>please</i> tách riêng bằng dấu phẩy (<i>Please, listen</i>) thì phải <b>ngừng một nhịp</b> sau nó — đó là điều tạo nên sắc thái van nài."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Two coffees, please.", "vi": "Luyện shadowing: chú ý âm /z/ cuối của “please”, đừng đọc thành /s/." },
+            { "en": "Please don't hesitate to contact me.", "vi": "Câu kết email trang trọng — lặp 5 lần cho trôi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Cho tôi hai ly cà phê ạ.", "blank": "__________, please.", "a": "Two coffees" },
+            { "vi": "“Bạn dùng trà nhé?” — “Vâng, cho tôi xin.”", "blank": "“Would you like some tea?” — “__________.”", "a": "Yes, please" },
+            { "vi": "“Thêm cơm nhé?” — “Thôi, cảm ơn bạn.”", "blank": "“More rice?” — “__________.”", "a": "No, thank you (KHÔNG phải “No, please”)" },
+            { "vi": "Mọi người cứ tự nhiên dùng đồ ăn nhé.", "blank": "__________ to the food.", "a": "Please help yourself" },
+            { "vi": "Xin lưu ý rằng văn phòng đóng cửa thứ Hai.", "blank": "__________ the office is closed on Monday.", "a": "Please note that" },
+            { "vi": "Nếu có thắc mắc xin đừng ngần ngại liên hệ với tôi.", "blank": "__________ contact me if you have questions.", "a": "Please don't hesitate to" },
+            { "vi": "Mời anh/chị ngồi.", "blank": "__________.", "a": "Please take a seat" },
+            { "vi": "Mời bạn đi trước ạ.", "blank": "__________, please.", "a": "After you" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Mời vào, cứ tự nhiên như ở nhà nhé.", "a": "Please come in, make yourself at home." },
+            { "vi": "2. Đừng lo về chuyện đó — ai chẳng có lúc vậy.", "a": "Please don't worry about it — it happens." },
+            { "vi": "3. Mong anh/chị thông cảm chờ chút.", "a": "Please bear with me." },
+            { "vi": "4. Xin xem tệp đính kèm là hóa đơn tháng Ba.", "a": "Please find attached the invoice for March." },
+            { "vi": "5. Có gì thay đổi xin báo tôi biết nhé.", "a": "Please let me know if anything changes." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Bỏ ngay niềm tin “thêm please là lịch sự”:</b> muốn lịch sự thật thì đổi sang dạng câu hỏi ở [Khung 11], chứ không phải dán <i>please</i> lên một mệnh lệnh.",
+            "<b>Thuộc cặp đôi bắt buộc:</b> <i>Yes, please.</i> và <i>No, thank you.</i> Hai câu này bạn sẽ dùng mỗi ngày và thiếu chúng là lộ ngay.",
+            "<b>Đặt “please” ở cuối câu khi nói:</b> gần như luôn an toàn hơn đặt ở đầu.",
+            "<b>Đầu câu chỉ khi bạn đang MỜI:</b> <i>Please come in. Please help yourself.</i> — lúc đó nó hoàn toàn tự nhiên.",
+            "<b>Học nguyên khối ba cụm email:</b> <i>Please find attached… / Please note that… / Please don't hesitate to…</i> Chúng là cụm cố định, đừng chế biến.",
+            "<b>Bài tập 3 phút:</b> lấy 5 câu mệnh lệnh bạn hay viết trong chat công việc, thêm <i>please</i> vào, rồi viết lại lần nữa thành câu hỏi với <i>Could you…?</i> và so sánh cảm giác."
+          ]
+        }
+      ]
+    }
+  ]
+}

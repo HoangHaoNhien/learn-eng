@@ -1,0 +1,485 @@
+{
+  "id": 5,
+  "group": "Nhóm 1 · Mong muốn & Nhu cầu",
+  "title": "I feel like… — Nói ra cơn thèm nhất thời",
+  "subtitle": "Khung để diễn tả cái hứng của khoảnh khắc: thèm ăn gì, muốn làm gì ngay lúc này. Đây là cách nói cực kỳ tự nhiên giữa bạn bè — nhưng nó có một cái bẫy nghĩa rất lớn mà hầu hết người học đều vấp.",
+  "pattern": [
+    "I feel like <em>+ V-ing</em>",
+    "I feel like <em>+ danh từ</em>",
+    "I don't feel like <em>+ V-ing</em>"
+  ],
+  "meaning": "Tôi đang thèm… / Tôi thấy muốn… (hứng nhất thời, không phải kế hoạch)",
+  "grammar": [54, 25, 24],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Thân mật — chủ yếu khi nói" },
+    { "text": "Trình độ: A2–B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I feel like…</span> diễn tả một cơn hứng <b>ngay lúc này</b>, không phải một mong muốn lâu dài. <i>I feel like pizza</i> = giờ tôi đang thèm pizza — chứ không có nghĩa tôi mê pizza." },
+        { "t": "p", "html": "Đây là điểm khác biệt với <i>I want</i> và <i>I'd like</i>: hai khung kia nói về ý muốn, còn khung này nói về <b>cảm giác</b>. Vì thế nó nghe rất nhẹ và không có chút áp lực nào — người nghe hiểu rằng bạn chỉ đang thả một ý tưởng ra, đổi ý cũng chẳng sao." },
+        { "t": "p", "html": "Dạng phủ định <span class=\"k\">I don't feel like…</span> còn hữu dụng hơn: đây là cách từ chối mềm nhất trong tiếng Anh. <i>I don't feel like going out tonight</i> không phải là “tôi không đi”, mà là “tối nay tôi không có hứng” — người kia không bị từ chối thẳng vào mặt." },
+        { "t": "callout", "html": "<b>Bẫy nghĩa lớn nhất:</b> <span class=\"k\">feel like + V-ing / N</span> = thèm. Nhưng <span class=\"k\">feel like + mệnh đề</span> = <b>cảm thấy như thể</b>. <i>I feel like a coffee</i> = thèm cà phê. <i>I feel like I'm getting sick</i> = tôi thấy như mình sắp ốm. Hai nghĩa hoàn toàn khác nhau." },
+        { "t": "h3", "text": "Cùng chữ “feel like”, ba nghĩa khác nhau" },
+        {
+          "t": "table",
+          "head": ["Câu", "Nghĩa", "Dấu hiệu nhận biết"],
+          "rows": [
+            ["<code>I feel like a coffee.</code>", "Tôi thèm cà phê.", "Sau <i>like</i> là thứ ăn/uống/làm được"],
+            ["<code>I feel like eating out.</code>", "Tôi thấy muốn ra ngoài ăn.", "Sau <i>like</i> là V-ing"],
+            ["<code>I feel like a fool.</code>", "Tôi thấy mình như một thằng ngốc.", "Sau <i>like</i> là thứ không ăn/làm được"],
+            ["<code>I feel like I'm getting sick.</code>", "Tôi thấy như mình sắp ốm.", "Sau <i>like</i> là cả một mệnh đề"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🍜", "title": "Bàn chuyện ăn uống", "text": "Bối cảnh số 1. <i>I feel like noodles tonight.</i> Câu mở đầu mọi cuộc bàn bạc ăn gì." },
+            { "icon": "🛋", "title": "Nói về hứng làm gì", "text": "<i>I feel like staying in tonight.</i> Nhẹ nhàng, không cam kết gì." },
+            { "icon": "🙅", "title": "Từ chối mềm", "text": "<i>I don't feel like going out.</i> Cách từ chối ít làm tổn thương nhất." },
+            { "icon": "❓", "title": "Hỏi ý bạn bè", "text": "<i>What do you feel like doing?</i> Thân mật hơn hẳn <i>What do you want to do?</i>" },
+            { "icon": "🤒", "title": "Mô tả cảm giác cơ thể", "text": "<i>I feel like I'm coming down with something.</i> — nghĩa “cảm thấy như thể”." },
+            { "icon": "🚫", "title": "Tránh dùng khi…", "text": "Email công việc, nói với khách hàng, gọi món với nhân viên phục vụ — quá thân mật." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Thèm làm gì", "<code>I feel like + V-ing</code>", "I feel like going for a walk."],
+            ["Thèm thứ gì", "<code>I feel like + N</code>", "I feel like a cold beer."],
+            ["Phủ định", "<code>I don't feel like + V-ing</code>", "I don't feel like cooking tonight."],
+            ["Câu hỏi có/không", "<code>Do you feel like + V-ing?</code>", "Do you feel like going out?"],
+            ["Hỏi mở", "<code>What do you feel like + V-ing?</code>", "What do you feel like eating?"],
+            ["Cảm thấy như thể", "<code>I feel like + mệnh đề</code>", "I feel like I've met you before."],
+            ["Cảm thấy thế nào", "<code>I feel + tính từ</code>", "I feel tired today."],
+            ["Nếu bạn có hứng", "<code>…, if you feel like it</code>", "Come along, if you feel like it."],
+            ["Quá khứ", "<code>I felt like + V-ing</code>", "I felt like leaving early."],
+            ["Là chính mình", "<code>I don't feel like myself</code>", "I don't feel like myself today."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Nhớ kỹ:</b> sau <i>feel like</i> <b>luôn</b> là <b>V-ing</b>, không bao giờ là <i>to V</i>. Đây là lỗi số một ở khung này vì tiếng Việt “thấy muốn ăn” khiến ta quen nghĩ tới nguyên thể." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ V-ing thường theo sau “I feel like…”",
+              "items": [
+                { "w": "eating out", "vi": "ra ngoài ăn", "ex": "I feel like eating out tonight.", "exvi": "Tối nay tôi thấy muốn ra ngoài ăn." },
+                { "w": "staying in", "vi": "ở nhà", "ex": "I feel like staying in and watching a film.", "exvi": "Tôi thấy muốn ở nhà xem phim." },
+                { "w": "going for a walk", "vi": "đi dạo", "ex": "I feel like going for a walk after dinner.", "exvi": "Ăn tối xong tôi thấy muốn đi dạo." },
+                { "w": "cooking", "vi": "nấu ăn", "ex": "I don't feel like cooking tonight.", "exvi": "Tối nay tôi chẳng có hứng nấu ăn." },
+                { "w": "sleeping", "vi": "ngủ", "ex": "I feel like sleeping for twelve hours.", "exvi": "Tôi thấy muốn ngủ mười hai tiếng liền." },
+                { "w": "watching", "vi": "xem", "ex": "I feel like watching something funny.", "exvi": "Tôi thấy muốn xem cái gì đó hài hài." },
+                { "w": "doing nothing", "vi": "không làm gì cả", "ex": "I feel like doing nothing at all today.", "exvi": "Hôm nay tôi chỉ muốn không làm gì cả." },
+                { "w": "ordering in", "vi": "gọi đồ về nhà", "ex": "I feel like ordering in instead.", "exvi": "Tôi thấy muốn gọi đồ về ăn thay vì đi ra ngoài.", "note": "<i>order in</i> = gọi đồ ăn giao tận nhà. <i>eat out</i> = ra ngoài ăn." },
+                { "w": "getting some air", "vi": "ra ngoài hít thở", "ex": "I feel like getting some air.", "exvi": "Tôi thấy muốn ra ngoài hít thở chút." },
+                { "w": "taking a break", "vi": "nghỉ một lát", "ex": "I feel like taking a short break.", "exvi": "Tôi thấy muốn nghỉ một lát." },
+                { "w": "talking", "vi": "nói chuyện", "ex": "I don't feel like talking right now.", "exvi": "Giờ tôi không có hứng nói chuyện." },
+                { "w": "reading", "vi": "đọc sách", "ex": "I feel like reading something light.", "exvi": "Tôi thấy muốn đọc cái gì đó nhẹ nhàng." },
+                { "w": "trying", "vi": "thử", "ex": "I feel like trying that new place.", "exvi": "Tôi thấy muốn thử quán mới đó." },
+                { "w": "celebrating", "vi": "ăn mừng", "ex": "We finished the project — I feel like celebrating!", "exvi": "Xong dự án rồi — tôi thấy muốn ăn mừng!" },
+                { "w": "working out", "vi": "tập thể dục", "ex": "I don't feel like working out today.", "exvi": "Hôm nay tôi chẳng có hứng tập." },
+                { "w": "going home", "vi": "về nhà", "ex": "I feel like going home early.", "exvi": "Tôi thấy muốn về nhà sớm." },
+                { "w": "calling someone", "vi": "gọi cho ai đó", "ex": "I feel like calling my parents.", "exvi": "Tôi thấy muốn gọi cho bố mẹ." },
+                { "w": "moving", "vi": "vận động / chuyển đi", "ex": "I don't feel like moving from this sofa.", "exvi": "Tôi chẳng muốn nhúc nhích khỏi cái ghế này." },
+                { "w": "shopping", "vi": "đi mua sắm", "ex": "I feel like doing some shopping this weekend.", "exvi": "Cuối tuần này tôi thấy muốn đi mua sắm." },
+                { "w": "starting over", "vi": "làm lại từ đầu", "ex": "Honestly, I feel like starting over.", "exvi": "Thật lòng thì tôi thấy muốn làm lại từ đầu." }
+              ]
+            },
+            {
+              "title": "Danh từ thường theo sau “I feel like…”",
+              "items": [
+                { "w": "a coffee", "vi": "một ly cà phê", "ex": "I feel like a coffee. Shall we stop?", "exvi": "Tôi thèm cà phê. Mình ghé vào nhé?" },
+                { "w": "a cold beer", "vi": "một cốc bia lạnh", "ex": "After that meeting, I feel like a cold beer.", "exvi": "Sau cuộc họp đó, tôi thèm một cốc bia lạnh." },
+                { "w": "some noodles", "vi": "một tô mì", "ex": "I feel like some noodles tonight.", "exvi": "Tối nay tôi thèm mì." },
+                { "w": "a nap", "vi": "một giấc ngủ ngắn", "ex": "I feel like a nap.", "exvi": "Tôi thèm chợp mắt một lát." },
+                { "w": "something sweet", "vi": "cái gì đó ngọt", "ex": "I feel like something sweet.", "exvi": "Tôi thèm cái gì đó ngọt ngọt.", "note": "Tính từ đứng SAU <i>something</i>." },
+                { "w": "a break", "vi": "một lúc nghỉ", "ex": "I feel like a break — I've been staring at this screen for hours.", "exvi": "Tôi muốn nghỉ chút — tôi nhìn màn hình mấy tiếng rồi." },
+                { "w": "some fresh air", "vi": "chút không khí trong lành", "ex": "I feel like some fresh air.", "exvi": "Tôi thấy muốn ra ngoài hít thở." },
+                { "w": "an early night", "vi": "một tối đi ngủ sớm", "ex": "I feel like an early night.", "exvi": "Tôi thấy muốn đi ngủ sớm.", "note": "<i>an early night</i> = một tối đi ngủ sớm, không phải “buổi tối sớm”." },
+                { "w": "a change", "vi": "một sự thay đổi", "ex": "I feel like a change of scenery.", "exvi": "Tôi thấy muốn đổi không khí.", "note": "<i>a change of scenery</i> = đổi khung cảnh, đổi không khí." },
+                { "w": "a quiet night in", "vi": "một tối yên tĩnh ở nhà", "ex": "I feel like a quiet night in.", "exvi": "Tôi thấy muốn một tối yên tĩnh ở nhà." }
+              ]
+            },
+            {
+              "title": "Biến thể & cụm hay gặp",
+              "items": [
+                { "w": "I don't feel like…", "vi": "tôi không có hứng…", "ex": "I don't feel like going out tonight.", "exvi": "Tối nay tôi không có hứng ra ngoài.", "note": "Cách từ chối mềm nhất trong tiếng Anh." },
+                { "w": "Do you feel like…?", "vi": "bạn có muốn… không?", "ex": "Do you feel like grabbing lunch?", "exvi": "Bạn có muốn đi ăn trưa không?", "note": "Rủ rê thân mật — nhẹ hơn <i>Do you want to…?</i>" },
+                { "w": "What do you feel like…?", "vi": "bạn thấy muốn… gì?", "ex": "What do you feel like eating?", "exvi": "Bạn thấy muốn ăn gì?" },
+                { "w": "if you feel like it", "vi": "nếu bạn có hứng", "ex": "Come along, if you feel like it.", "exvi": "Đi cùng nhé, nếu bạn có hứng.", "note": "Câu mời không gây áp lực — người kia từ chối cũng dễ." },
+                { "w": "I feel like + mệnh đề", "vi": "tôi cảm thấy như thể…", "ex": "I feel like I'm getting sick.", "exvi": "Tôi thấy như mình sắp ốm.", "note": "NGHĨA KHÁC HẲN. Đây không phải “thèm” mà là “cảm thấy như thể”." },
+                { "w": "I don't feel like myself", "vi": "tôi thấy không được là mình", "ex": "I don't feel like myself today.", "exvi": "Hôm nay tôi thấy người không được bình thường." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I feel like noodles tonight.",
+                  "vi": "Tối nay tôi thèm mì.",
+                  "note": "Câu mở đầu kinh điển của mọi cuộc bàn bạc “tối nay ăn gì”.",
+                  "reply": [
+                    { "them": "Same. Pho or ramen?", "themvi": "Mình cũng vậy. Phở hay ramen?", "you": "Let's do pho.", "youvi": "Ăn phở đi." },
+                    { "them": "Again? We had noodles yesterday.", "themvi": "Lại nữa à? Hôm qua mình ăn mì rồi mà.", "you": "Fair point. What do you feel like?", "youvi": "Cũng đúng. Vậy bạn thấy muốn ăn gì?" }
+                  ],
+                  "vars": [
+                    { "en": "I feel like something spicy.", "vi": "Tôi thèm cái gì đó cay cay." },
+                    { "en": "I feel like something light tonight.", "vi": "Tối nay tôi thấy muốn ăn gì nhẹ nhẹ." }
+                  ]
+                },
+                {
+                  "en": "I feel like a coffee. Shall we stop somewhere?",
+                  "vi": "Tôi thèm cà phê. Mình ghé đâu đó nhé?",
+                  "note": "<i>feel like + đồ uống</i> rất tự nhiên với người Anh. Người Mỹ hay nói <i>I could go for a coffee.</i>",
+                  "reply": [
+                    { "them": "Good idea. There's a place around the corner.", "themvi": "Ý hay đấy. Có một quán ngay góc kia.", "you": "Perfect, let's go.", "youvi": "Tuyệt, đi thôi." }
+                  ]
+                },
+                {
+                  "en": "I don't feel like cooking tonight.",
+                  "vi": "Tối nay tôi chẳng có hứng nấu ăn.",
+                  "reply": [
+                    { "them": "Shall we order in then?", "themvi": "Vậy mình gọi đồ về nhé?", "you": "Yes please.", "youvi": "Ừ đi." }
+                  ],
+                  "close": { "en": "You pick — I don't mind.", "vi": "Bạn chọn đi — mình sao cũng được." }
+                },
+                {
+                  "en": "What do you feel like eating?",
+                  "vi": "Bạn thấy muốn ăn gì?",
+                  "note": "Thân mật hơn hẳn <i>What would you like to eat?</i> — dùng với bạn bè, người nhà.",
+                  "reply": [
+                    { "them": "Honestly, anything. I'm starving.", "themvi": "Thật ra gì cũng được. Mình đói lắm rồi.", "you": "Noodles it is, then.", "youvi": "Vậy ăn mì nhé." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I don't feel like going out tonight.",
+                  "vi": "Tối nay tôi không có hứng ra ngoài.",
+                  "note": "Từ chối bằng <b>cảm giác</b> thay vì bằng <b>ý muốn</b> — người kia không thấy bị chối.",
+                  "reply": [
+                    { "them": "No worries. Rain check?", "themvi": "Không sao. Để hôm khác nhé?", "you": "Definitely. Next weekend?", "youvi": "Chắc chắn rồi. Cuối tuần sau nhé?" },
+                    { "them": "Come on, just for an hour.", "themvi": "Thôi mà, một tiếng thôi.", "you": "Honestly, I'd be terrible company tonight.", "youvi": "Thật đấy, tối nay mình đi thì cũng chán lắm." }
+                  ],
+                  "close": { "en": "Have fun without me!", "vi": "Mọi người đi vui vẻ nhé!" }
+                },
+                {
+                  "en": "I feel like going for a walk. Want to come?",
+                  "vi": "Tôi thấy muốn đi dạo. Bạn đi cùng không?",
+                  "reply": [
+                    { "them": "Sure, give me five minutes.", "themvi": "Được, cho mình năm phút.", "you": "No rush.", "youvi": "Không vội đâu." }
+                  ],
+                  "vars": [
+                    { "en": "I feel like getting some fresh air.", "vi": "Tôi thấy muốn ra ngoài hít thở." }
+                  ]
+                },
+                {
+                  "en": "I feel like an early night. It's been a long week.",
+                  "vi": "Tôi thấy muốn đi ngủ sớm. Tuần này dài quá.",
+                  "note": "<span class=\"k\">an early night</span> = một tối đi ngủ sớm — cụm rất hay dùng, không dịch sát được sang tiếng Việt.",
+                  "reply": [
+                    { "them": "You've earned it.", "themvi": "Bạn xứng đáng mà.", "you": "Thanks. See you tomorrow.", "youvi": "Cảm ơn. Mai gặp nhé." }
+                  ]
+                },
+                {
+                  "en": "I don't feel like myself today.",
+                  "vi": "Hôm nay tôi thấy người không được bình thường.",
+                  "note": "Cách nói mình không ổn mà không cần kể chi tiết — rất hữu ích khi bạn chưa muốn giải thích.",
+                  "reply": [
+                    { "them": "Anything I can do?", "themvi": "Mình giúp được gì không?", "you": "Just needed to say it out loud, thanks.", "youvi": "Chỉ cần nói ra thôi, cảm ơn bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I feel like taking a short break.",
+                  "vi": "Tôi thấy muốn nghỉ một lát.",
+                  "reply": [
+                    { "them": "Go ahead, you've been at it all morning.", "themvi": "Cứ đi đi, bạn làm cả buổi sáng rồi.", "you": "Back in ten.", "youvi": "Mười phút nữa tôi quay lại." }
+                  ]
+                },
+                {
+                  "en": "We finished the project — I feel like celebrating!",
+                  "vi": "Xong dự án rồi — tôi thấy muốn ăn mừng!",
+                  "open": { "en": "That's the last one signed off.", "vi": "Cái cuối cùng đã được duyệt rồi." },
+                  "reply": [
+                    { "them": "Drinks on Friday?", "themvi": "Thứ Sáu đi làm vài ly nhé?", "you": "I'm in.", "youvi": "Tôi tham gia." }
+                  ],
+                  "close": { "en": "Great work, everyone.", "vi": "Mọi người làm tốt lắm." }
+                },
+                {
+                  "en": "I don't feel like talking about it right now.",
+                  "vi": "Giờ tôi không có hứng nói về chuyện đó.",
+                  "note": "Đặt ranh giới mà vẫn mở đường cho lần sau — mềm hơn <i>I don't want to talk about it.</i>",
+                  "reply": [
+                    { "them": "That's fine. Whenever you're ready.", "themvi": "Không sao. Khi nào bạn sẵn sàng thì nói.", "you": "Thanks. Maybe tomorrow.", "youvi": "Cảm ơn. Chắc là mai." }
+                  ]
+                },
+                {
+                  "en": "I feel like we're going round in circles here.",
+                  "vi": "Tôi thấy như chúng ta đang đi lòng vòng.",
+                  "note": "Đây là dạng <b>feel like + mệnh đề</b> = cảm thấy như thể. Câu rất hữu ích để chặn một cuộc họp lê thê.",
+                  "reply": [
+                    { "them": "You're right. Let's take a decision.", "themvi": "Anh nói đúng. Mình chốt đi.", "you": "Shall we vote on it?", "youvi": "Hay mình biểu quyết nhé?" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I feel like a change of scenery this weekend.",
+                  "vi": "Cuối tuần này tôi thấy muốn đổi không khí.",
+                  "note": "<span class=\"k\">a change of scenery</span> = đổi khung cảnh, đổi không khí — cụm rất tự nhiên.",
+                  "reply": [
+                    { "them": "Where were you thinking?", "themvi": "Bạn định đi đâu?", "you": "Somewhere near the sea.", "youvi": "Chỗ nào gần biển ấy." }
+                  ]
+                },
+                {
+                  "en": "I don't feel like walking any further.",
+                  "vi": "Tôi chẳng muốn đi bộ thêm nữa.",
+                  "reply": [
+                    { "them": "Shall we get a taxi?", "themvi": "Mình bắt taxi nhé?", "you": "Yes, my feet are killing me.", "youvi": "Ừ, chân mình đau chết đi được." }
+                  ]
+                },
+                {
+                  "en": "I feel like I'm getting sick.",
+                  "vi": "Tôi thấy như mình sắp ốm.",
+                  "note": "Dạng <b>feel like + mệnh đề</b>. So sánh: <i>I feel like a coffee</i> (thèm) khác hẳn câu này.",
+                  "reply": [
+                    { "them": "Get some rest. Do you need anything?", "themvi": "Nghỉ ngơi đi. Bạn cần gì không?", "you": "Maybe some water. Thanks.", "youvi": "Chắc là chút nước. Cảm ơn bạn." }
+                  ],
+                  "close": { "en": "I'll take it easy today.", "vi": "Hôm nay tôi sẽ nghỉ ngơi thôi." }
+                },
+                {
+                  "en": "Do you feel like exploring the old town?",
+                  "vi": "Bạn có muốn đi khám phá phố cổ không?",
+                  "reply": [
+                    { "them": "Definitely. Let's go before it gets hot.", "themvi": "Chắc chắn rồi. Đi trước khi trời nóng đi.", "you": "Good thinking.", "youvi": "Nghĩ hay đấy." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I feel like doing some shopping this weekend.",
+                  "vi": "Cuối tuần này tôi thấy muốn đi mua sắm.",
+                  "reply": [
+                    { "them": "Want company?", "themvi": "Muốn có người đi cùng không?", "you": "Yes! Saturday morning?", "youvi": "Có chứ! Sáng thứ Bảy nhé?" }
+                  ]
+                },
+                {
+                  "en": "I don't feel like trying anything on today.",
+                  "vi": "Hôm nay tôi chẳng có hứng thử đồ.",
+                  "reply": [
+                    { "them": "We can just look, then.", "themvi": "Vậy mình chỉ ngắm thôi.", "you": "That works for me.", "youvi": "Vậy hợp ý mình." }
+                  ]
+                },
+                {
+                  "en": "I feel like something new — I've had this jacket for years.",
+                  "vi": "Tôi thấy muốn cái gì đó mới — cái áo khoác này tôi mặc mấy năm rồi.",
+                  "reply": [
+                    { "them": "What colour are you thinking?", "themvi": "Bạn đang nghĩ tới màu nào?", "you": "Something darker, maybe.", "youvi": "Chắc là màu nào tối hơn." }
+                  ]
+                },
+                {
+                  "en": "I feel like this is too expensive for what it is.",
+                  "vi": "Tôi thấy như cái này đắt so với giá trị thật của nó.",
+                  "note": "Lại là dạng <b>feel like + mệnh đề</b> — cách chê giá mà không gay gắt.",
+                  "reply": [
+                    { "them": "There's a cheaper version over here.", "themvi": "Có bản rẻ hơn ở đằng này ạ.", "you": "Let me have a look.", "youvi": "Để tôi xem thử." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Hai người bạn quyết định ăn gì",
+          "lines": [
+            { "speaker": "Linh", "en": "What do you feel like eating?", "vi": "Bạn thấy muốn ăn gì?" },
+            { "speaker": "You", "me": true, "en": "I feel like noodles, honestly.", "vi": "Thật ra mình thèm mì." },
+            { "speaker": "Linh", "en": "Again? We had noodles yesterday.", "vi": "Lại nữa à? Hôm qua mình ăn mì rồi mà." },
+            { "speaker": "You", "me": true, "en": "Fair point. I don't feel like anything heavy, though.", "vi": "Cũng đúng. Nhưng mình chẳng muốn ăn gì nặng bụng." },
+            { "speaker": "Linh", "en": "Salad and a sandwich?", "vi": "Salad với bánh mì kẹp nhé?" },
+            { "speaker": "You", "me": true, "en": "Perfect. And I feel like a coffee after.", "vi": "Hợp quá. Ăn xong mình còn thèm cà phê nữa." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Từ chối một lời rủ",
+          "lines": [
+            { "speaker": "Tuan", "en": "We're going out tonight — you coming?", "vi": "Tối nay bọn mình đi chơi — bạn đi không?" },
+            { "speaker": "You", "me": true, "en": "Thanks, but I don't really feel like going out.", "vi": "Cảm ơn nhé, nhưng mình không có hứng đi lắm." },
+            { "speaker": "Tuan", "en": "Everything OK?", "vi": "Mọi chuyện ổn chứ?" },
+            { "speaker": "You", "me": true, "en": "Yeah, just tired. I feel like an early night.", "vi": "Ừ, chỉ mệt thôi. Mình thấy muốn ngủ sớm." },
+            { "speaker": "Tuan", "en": "Fair enough. Next time then.", "vi": "Cũng phải. Vậy lần sau nhé." },
+            { "speaker": "You", "me": true, "en": "Definitely. Have fun!", "vi": "Chắc chắn rồi. Đi vui vẻ nhé!" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I feel like to eat something.", "right": "I feel like eating something.", "why": "Sau <b>feel like</b> luôn là <b>V-ing</b>, không bao giờ là <i>to V</i>. Lỗi số một của khung này." },
+            { "wrong": "I feel like that I'm getting sick.", "right": "I feel like I'm getting sick.", "why": "Không cần <b>that</b> sau <i>feel like</i> khi theo sau là mệnh đề." },
+            { "wrong": "I feel like tired.", "right": "I feel tired.", "why": "Đi với <b>tính từ</b> thì bỏ <i>like</i>: <b>feel + adj</b>." },
+            { "wrong": "Do you feel like to go out?", "right": "Do you feel like going out?", "why": "Câu hỏi cũng theo đúng quy tắc <b>V-ing</b>." },
+            { "wrong": "I feel like a coffee. <i>(nói với nhân viên phục vụ để gọi món)</i>", "right": "I'd like a coffee, please.", "why": "Đúng ngữ pháp nhưng quá thân mật để gọi món. Xem [Khung 01]." },
+            { "wrong": "I don't feel like to talk.", "right": "I don't feel like talking.", "why": "Phủ định cũng vậy — <b>V-ing</b> không đổi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I feel like + V-ing</code>", "Hứng nhất thời, nhẹ, không cam kết", "<i>I feel like eating out.</i> — Bạn bè, người nhà."],
+            ["<code>I want to…</code>", "Ý muốn rõ ràng, mạnh hơn", "<i>I want to eat out.</i> — Xem [Khung 02]."],
+            ["<code>I'd like to…</code>", "Lịch sự, dùng được mọi nơi", "<i>I'd like to eat out.</i> — Xem [Khung 01]."],
+            ["<code>I could go for…</code>", "Anh-Mỹ, rất thân mật: “làm một cái thì hay”", "<i>I could go for a coffee.</i>"],
+            ["<code>I fancy…</code>", "Anh-Anh, y hệt <i>feel like</i>", "<i>I fancy a coffee.</i> — Người Mỹ không dùng."],
+            ["<code>I'm in the mood for…</code>", "Đang có tâm trạng muốn…", "<i>I'm in the mood for something sweet.</i>"],
+            ["<code>I feel like + mệnh đề</code>", "Cảm thấy như thể — NGHĨA KHÁC", "<i>I feel like I've met you before.</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — cùng một lời từ chối" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "No.", "vi": "Cụt — dễ làm phật lòng" },
+            { "en": "I don't want to.", "vi": "Thẳng — chỉ dùng với người rất thân" },
+            { "en": "I don't feel like it tonight.", "vi": "Mềm — đổ cho cảm giác, không phải ý muốn" },
+            { "en": "I'm not really up for it tonight.", "vi": "Rất tự nhiên — thân mật" },
+            { "en": "I'd love to, but I'm exhausted.", "vi": "Nhã nhất — nhận thiện chí rồi mới từ chối" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>feel</b> = /fiːl/ — nguyên âm <b>dài</b>. Đọc ngắn thành /fɪl/ sẽ thành <i>fill</i> (đổ đầy) — nghĩa khác hẳn.",
+            "<b>feel like</b> — âm /l/ cuối <i>feel</i> dính luôn vào /l/ đầu <i>like</i>, chỉ đọc một lần: “fee-LAIK”.",
+            "<b>like a</b> nối thành “lai-kə”: <i>I feel like a coffee</i> → “ai-fee-LAI-kə-coffee”.",
+            "<b>don't feel like</b> → “dohn-fee-LAIK”, âm /t/ ở <i>don't</i> biến mất hoàn toàn.",
+            "V-ing theo sau thường mất âm /g/: <i>eating</i> → “ee-tin”, <i>going</i> → “go-in”.",
+            "Trọng âm rơi vào <b>FEEL</b> và vào từ chính sau <i>like</i>: <i>I</i> <b>FEEL</b> <i>like</i> <b>NOO</b>-<i>dles.</i>"
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I don't feel like going out tonight.", "vi": "Luyện shadowing: nghe — nhại lại — lặp 5 lần cho trôi cụm “don't feel like”." },
+            { "en": "What do you feel like eating?", "vi": "Chú ý “feel like” đọc dính thành một khối, không tách rời." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tối nay tôi thấy muốn ra ngoài ăn.", "blank": "__________ out tonight.", "a": "I feel like eating" },
+            { "vi": "Tối nay tôi chẳng có hứng nấu ăn.", "blank": "__________ tonight.", "a": "I don't feel like cooking" },
+            { "vi": "Bạn thấy muốn ăn gì?", "blank": "__________ eating?", "a": "What do you feel like" },
+            { "vi": "Tôi thèm cái gì đó ngọt ngọt.", "blank": "I feel like __________.", "a": "something sweet" },
+            { "vi": "Tôi thấy như mình sắp ốm.", "blank": "__________ getting sick.", "a": "I feel like I'm" },
+            { "vi": "Hôm nay tôi thấy mệt.", "blank": "__________ today.", "a": "I feel tired (không có “like”)" },
+            { "vi": "Đi cùng nhé, nếu bạn có hứng.", "blank": "Come along, __________.", "a": "if you feel like it" },
+            { "vi": "Bạn có muốn đi ăn trưa không?", "blank": "__________ grabbing lunch?", "a": "Do you feel like" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi thèm cà phê. Mình ghé đâu đó nhé?", "a": "I feel like a coffee. Shall we stop somewhere?" },
+            { "vi": "2. Tôi thấy muốn đi dạo sau bữa tối.", "a": "I feel like going for a walk after dinner." },
+            { "vi": "3. Giờ tôi không có hứng nói về chuyện đó.", "a": "I don't feel like talking about it right now." },
+            { "vi": "4. Tôi thấy muốn đi ngủ sớm.", "a": "I feel like an early night." },
+            { "vi": "5. Hôm nay tôi thấy người không được bình thường.", "a": "I don't feel like myself today." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Khắc vào đầu quy tắc V-ing:</b> <i>feel like</i> + <b>-ing</b>, không bao giờ <i>to</i>. Đọc thầm mười lần: <i>feel like eating, feel like going, feel like sleeping</i>.",
+            "<b>Dùng dạng phủ định để từ chối:</b> <i>I don't feel like…</i> là công cụ từ chối ít gây tổn thương nhất — đổ cho cảm giác chứ không phải cho người kia.",
+            "<b>Nhận diện hai nghĩa bằng thứ đứng sau:</b> danh từ/V-ing = thèm; cả một mệnh đề = cảm thấy như thể.",
+            "<b>Đừng dùng khi gọi món:</b> với nhân viên phục vụ hãy quay về <i>I'd like…</i>. Khung này chỉ dành cho người thân quen.",
+            "<b>Học kèm cặp đôi Anh–Mỹ:</b> <i>I fancy a coffee</i> (Anh) và <i>I could go for a coffee</i> (Mỹ) — nghe hiểu được cả hai là bạn thoải mái ở đâu cũng được.",
+            "<b>Bài tập 3 phút:</b> mỗi tối trước khi ngủ, nói to ba câu: một câu <i>I feel like…</i>, một câu <i>I don't feel like…</i>, một câu <i>I feel like I'm…</i> để phân biệt ba nghĩa."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "id": 85,
+  "group": "Nhóm 9 · Cảm xúc & Phản ứng",
+  "title": "That sounds… — Phản ứng với điều vừa nghe",
+  "subtitle": "Câu phản ứng ngắn dùng nhiều nhất trong hội thoại tiếng Anh. Nó giữ cho cuộc trò chuyện sống động mà chỉ tốn hai ba từ. Bên trong là một quy tắc ngữ pháp quan trọng: sound đi với tính từ, nhưng muốn dùng danh từ thì phải chen thêm like.",
+  "pattern": [
+    "That sounds <em>+ tính từ</em>.",
+    "That sounds like <em>+ danh từ</em>.",
+    "You sound <em>+ tính từ</em>."
+  ],
+  "meaning": "Nghe… quá (hay / chán / tuyệt)",
+  "grammar": [34, 35, 36, 37],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Bẫy “sound” và “sound like”" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">That sounds…</span> là cách phản ứng với điều ai đó vừa nói. Nó ngắn, nhanh, và giữ cho hội thoại trôi chảy — im lặng sau khi nghe người ta kể chuyện nghe rất lạnh trong tiếng Anh." },
+        { "t": "p", "html": "Quy tắc ngữ pháp rất gọn: <b>sound + tính từ</b> (<i>That sounds great</i>), nhưng <b>sound like + danh từ</b> (<i>That sounds like a plan</i>). Thiếu chữ <i>like</i> trước danh từ là câu hỏng ngay." },
+        { "t": "p", "html": "Đây cùng một luật với <i>seem</i> ở [Khung 44], và áp dụng cho cả nhóm <b>động từ liên kết</b>: <i>look, sound, feel, taste, smell</i>. Tất cả đều đi với tính từ, và cần <i>like</i> khi theo sau là danh từ." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT:</b> sau <i>sound</i> là <b>TÍNH TỪ</b>, không phải trạng từ. <span class=\"k\">That sounds great</span> ✓ — <i>That sounds greatly</i> ✗. Lý do: <i>sound</i> không mô tả hành động mà mô tả trạng thái." },
+        { "t": "h3", "text": "Khi nào cần “like”?" },
+        {
+          "t": "table",
+          "head": ["Câu", "Sau nó là", "Ghi chú"],
+          "rows": [
+            ["<code>That sounds great.</code>", "Tính từ", "KHÔNG có <i>like</i>"],
+            ["<code>That sounds like a plan.</code>", "Danh từ", "PHẢI có <i>like</i>"],
+            ["<code>That sounds like fun.</code>", "Danh từ", "<i>fun</i> ở đây là danh từ"],
+            ["<code>It sounds like he's busy.</code>", "Mệnh đề", "Thân mật, rất phổ biến"]
+          ]
+        },
+        { "t": "callout", "html": "<b>“Sounds good” bỏ luôn chủ ngữ</b> là cách nói cực kỳ phổ biến trong công việc. Nó ngắn gọn, tích cực, và dùng được để đồng ý với gần như mọi đề xuất." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "👍", "title": "Đồng ý với một đề xuất", "text": "Bối cảnh số 1. <i>Sounds good to me.</i>" },
+            { "icon": "🎉", "title": "Phản ứng với tin vui", "text": "<i>That sounds amazing!</i>" },
+            { "icon": "😟", "title": "Phản ứng với tin xấu", "text": "<i>That sounds awful. I'm sorry.</i>" },
+            { "icon": "📅", "title": "Chốt một kế hoạch", "text": "<i>That sounds like a plan.</i> Có <i>like</i> vì là danh từ." },
+            { "icon": "📞", "title": "Nhận xét giọng người khác", "text": "<i>You sound tired.</i> Rất tự nhiên qua điện thoại." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Thêm <i>like</i> trước tính từ. <i>sounds like good</i> ✗." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Với tính từ", "<code>That sounds + adj.</code>", "That sounds great."],
+            ["Với danh từ", "<code>That sounds like + N.</code>", "That sounds like a plan."],
+            ["Với mệnh đề", "<code>It sounds like + mệnh đề.</code>", "It sounds like he's busy."],
+            ["Bỏ chủ ngữ", "<code>Sounds + adj.</code>", "Sounds good."],
+            ["Nêu rõ người", "<code>Sounds + adj + to me.</code>", "Sounds good to me."],
+            ["Nhận xét người khác", "<code>You sound + adj.</code>", "You sound tired."],
+            ["Quá khứ", "<code>That sounded + adj.</code>", "That sounded painful."],
+            ["Nhóm động từ liên kết", "<code>look / feel / taste / smell + adj</code>", "It looks lovely."],
+            ["Nghi ngờ nhẹ", "<code>That sounds a bit…</code>", "That sounds a bit odd."],
+            ["Trang trọng", "<code>That does sound + adj.</code>", "That does sound promising."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Thêm “to me” để nhấn đó là ý kiến riêng:</b> <i>Sounds good to me</i> ngầm nói “tôi thì thấy ổn, còn người khác thì tùy”. Rất hữu ích khi bạn đồng ý nhưng không muốn quyết thay cả nhóm." },
+        { "t": "callout", "html": "<b>“That sounds a bit…” là cách nghi ngờ rất khéo.</b> <i>That sounds a bit risky</i> nhẹ hơn nhiều so với <i>That's risky</i> — bạn phản ứng với điều vừa nghe chứ không phán quyết." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Tính từ sau “sounds” — không có “like”",
+              "items": [
+                { "w": "sounds good", "vi": "nghe ổn đấy", "ex": "Sounds good to me.", "exvi": "Với tôi thì nghe ổn đấy.", "note": "Câu đồng ý phổ biến nhất trong công việc — bỏ luôn chủ ngữ." },
+                { "w": "sounds great", "vi": "nghe tuyệt đấy", "ex": "That sounds great!", "exvi": "Nghe tuyệt đấy!", "note": "TÍNH TỪ — không bao giờ <i>sounds greatly</i> ✗." },
+                { "w": "sounds lovely", "vi": "nghe dễ chịu quá", "ex": "That sounds lovely.", "exvi": "Nghe dễ chịu quá.", "note": "Ấm áp và rất Anh — hợp khi ai đó kể kế hoạch vui." },
+                { "w": "sounds amazing", "vi": "nghe tuyệt vời", "ex": "That sounds amazing!", "exvi": "Nghe tuyệt vời quá!" },
+                { "w": "sounds awful", "vi": "nghe tệ quá", "ex": "That sounds awful. I'm sorry.", "exvi": "Nghe tệ quá. Mình rất tiếc.", "note": "Phản ứng với tin xấu — luôn kèm một câu cảm thông. Xem [Khung 79]." },
+                { "w": "sounds difficult", "vi": "nghe khó đấy", "ex": "That sounds difficult.", "exvi": "Nghe khó đấy." },
+                { "w": "sounds promising", "vi": "nghe có triển vọng", "ex": "That does sound promising.", "exvi": "Nghe có triển vọng đấy.", "note": "Thêm <b>does</b> để nhấn mạnh — trang trọng và tích cực." },
+                { "w": "sounds odd", "vi": "nghe lạ đấy", "ex": "That sounds a bit odd.", "exvi": "Nghe hơi lạ đấy.", "note": "Thêm <i>a bit</i> để nghi ngờ một cách khéo léo." },
+                { "w": "sounds risky", "vi": "nghe rủi ro", "ex": "That sounds risky to me.", "exvi": "Với tôi thì nghe có vẻ rủi ro." },
+                { "w": "sounds expensive", "vi": "nghe đắt đấy", "ex": "That sounds expensive.", "exvi": "Nghe đắt đấy." },
+                { "w": "sounds exhausting", "vi": "nghe mệt quá", "ex": "That sounds exhausting.", "exvi": "Nghe mệt quá.", "note": "Tính từ <b>-ing</b> vì nó mô tả SỰ VIỆC, không phải cảm giác. Xem [Khung 81]." },
+                { "w": "sounds interesting", "vi": "nghe thú vị đấy", "ex": "That sounds interesting.", "exvi": "Nghe thú vị đấy.", "note": "CẨN THẬN: nói giọng phẳng thì nghe như lịch sự cho có, không phải thật lòng." }
+              ]
+            },
+            {
+              "title": "Danh từ & mệnh đề — phải có “like”",
+              "items": [
+                { "w": "sounds like a plan", "vi": "nghe được đấy, chốt vậy", "ex": "That sounds like a plan.", "exvi": "Nghe được đấy, chốt vậy nhé.", "note": "PHẢI có <b>like</b> vì <i>a plan</i> là danh từ. Câu chốt kế hoạch rất tự nhiên." },
+                { "w": "sounds like fun", "vi": "nghe vui đấy", "ex": "That sounds like fun!", "exvi": "Nghe vui đấy!", "note": "<i>fun</i> ở đây là DANH TỪ nên cần <i>like</i>. Nhưng <i>funny</i> là tính từ thì không cần." },
+                { "w": "sounds like a good idea", "vi": "nghe là ý hay", "ex": "That sounds like a good idea.", "exvi": "Nghe là ý hay đấy." },
+                { "w": "sounds like a lot of work", "vi": "nghe nhiều việc quá", "ex": "That sounds like a lot of work.", "exvi": "Nghe nhiều việc quá." },
+                { "w": "sounds like a nightmare", "vi": "nghe như ác mộng", "ex": "That sounds like a nightmare.", "exvi": "Nghe như ác mộng vậy.", "note": "Phản ứng cảm thông rất mạnh với một câu chuyện tệ." },
+                { "w": "sounds like he's busy", "vi": "nghe như anh ấy bận", "ex": "It sounds like he's busy.", "exvi": "Nghe như anh ấy đang bận.", "note": "Với MỆNH ĐỀ cũng dùng <b>like</b> — rất phổ biến trong hội thoại." },
+                { "w": "sounds like the best option", "vi": "nghe là phương án tốt nhất", "ex": "That sounds like the best option.", "exvi": "Nghe là phương án tốt nhất." },
+                { "w": "sounds like a misunderstanding", "vi": "nghe như hiểu nhầm", "ex": "It sounds like a misunderstanding.", "exvi": "Nghe như có sự hiểu nhầm.", "note": "Cách hạ nhiệt rất khéo. Xem [Khung 44]." },
+                { "w": "you sound tired", "vi": "nghe giọng bạn mệt", "ex": "You sound tired.", "exvi": "Nghe giọng bạn mệt đấy.", "note": "Nhận xét qua giọng nói — rất tự nhiên khi gọi điện." },
+                { "w": "you sound happy", "vi": "nghe giọng bạn vui", "ex": "You sound happy today!", "exvi": "Hôm nay nghe giọng bạn vui đấy!" },
+                { "w": "it looks lovely", "vi": "trông đẹp quá", "ex": "It looks lovely.", "exvi": "Trông đẹp quá.", "note": "<b>look</b> cùng nhóm động từ liên kết — cũng đi với tính từ." },
+                { "w": "it tastes amazing", "vi": "vị tuyệt vời", "ex": "It tastes amazing.", "exvi": "Vị tuyệt vời.", "note": "<b>taste, smell, feel</b> đều cùng luật — tính từ, không phải trạng từ." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại & nối tiếp",
+              "items": [
+                { "w": "Glad you think so", "vi": "may là bạn thấy vậy", "ex": "Glad you think so.", "exvi": "May là bạn thấy vậy." },
+                { "w": "It was, actually", "vi": "thật ra đúng vậy", "ex": "It was, actually — worse than that.", "exvi": "Thật ra đúng vậy — còn tệ hơn." },
+                { "w": "Tell me more", "vi": "kể thêm đi", "ex": "Tell me more.", "exvi": "Kể thêm đi." },
+                { "w": "What happened next?", "vi": "rồi sao nữa?", "ex": "What happened next?", "exvi": "Rồi sao nữa?", "note": "Câu hỏi tiếp giữ cho câu chuyện chạy — rất được lòng người kể." },
+                { "w": "I'm sorry to hear that", "vi": "tôi rất tiếc khi nghe vậy", "ex": "I'm sorry to hear that.", "exvi": "Mình rất tiếc khi nghe vậy. Xem [Khung 79]." },
+                { "w": "Let's do it", "vi": "làm thôi", "ex": "Sounds good — let's do it.", "exvi": "Nghe ổn — làm thôi." },
+                { "w": "Shall we say Friday?", "vi": "chốt thứ Sáu nhé?", "ex": "Sounds like a plan. Shall we say Friday?", "exvi": "Nghe được đấy. Chốt thứ Sáu nhé?" },
+                { "w": "Count me in", "vi": "tính cả tôi", "ex": "Sounds like fun — count me in.", "exvi": "Nghe vui đấy — tính cả mình. Xem [Khung 58]." },
+                { "w": "I'm not so sure", "vi": "tôi không chắc lắm", "ex": "Hmm, I'm not so sure.", "exvi": "Hừm, mình không chắc lắm. Xem [Khung 50]." },
+                { "w": "What makes you say that?", "vi": "sao bạn nói vậy?", "ex": "What makes you say that?", "exvi": "Sao bạn nói vậy?" },
+                { "w": "It's not as bad as it sounds", "vi": "không tệ như nghe đâu", "ex": "It's not as bad as it sounds.", "exvi": "Không tệ như nghe đâu.", "note": "Câu trấn an rất hay khi người ta phản ứng thái quá với chuyện bạn kể." },
+                { "w": "You'd be surprised", "vi": "bạn sẽ ngạc nhiên đấy", "ex": "You'd be surprised.", "exvi": "Bạn sẽ ngạc nhiên đấy." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Sounds good to me.",
+                  "vi": "Với tôi thì nghe ổn đấy.",
+                  "note": "Câu đồng ý phổ biến nhất trong công việc. Thêm <b>to me</b> để ngầm nói “còn người khác thì tùy”.",
+                  "open": { "en": "So we go with option B?", "vi": "Vậy mình chọn phương án B nhé?" },
+                  "reply": [
+                    { "them": "Great — I'll write it up.", "themvi": "Tuyệt — tôi soạn lại thành văn bản.", "you": "Send it round when it's ready.", "youvi": "Xong thì gửi mọi người nhé." },
+                    { "them": "Anyone object?", "themvi": "Có ai phản đối không?", "you": "Not from me.", "youvi": "Tôi thì không." }
+                  ],
+                  "close": { "en": "Let's do it.", "vi": "Làm thôi." }
+                },
+                {
+                  "en": "That sounds like a lot of work.",
+                  "vi": "Nghe nhiều việc quá.",
+                  "note": "PHẢI có <b>like</b> vì <i>a lot of work</i> là danh từ. Đây là cách nêu lo ngại rất nhẹ.",
+                  "reply": [
+                    { "them": "It's not as bad as it sounds.", "themvi": "Không tệ như nghe đâu.", "you": "How long would it take?", "youvi": "Sẽ mất bao lâu?" }
+                  ],
+                  "vars": [
+                    { "en": "That sounds exhausting.", "vi": "Nghe mệt quá." }
+                  ]
+                },
+                {
+                  "en": "That does sound promising.",
+                  "vi": "Nghe có triển vọng đấy.",
+                  "note": "Thêm <b>does</b> để nhấn mạnh — trang trọng và tích cực, rất hợp trong họp.",
+                  "reply": [
+                    { "them": "Glad you think so.", "themvi": "May là anh/chị thấy vậy.", "you": "What's the next step?", "youvi": "Bước tiếp theo là gì?" }
+                  ]
+                },
+                {
+                  "en": "That sounds a bit risky to me.",
+                  "vi": "Với tôi thì nghe hơi rủi ro.",
+                  "note": "<i>a bit</i> + <i>to me</i> làm câu nghi ngờ trở nên cực kỳ nhã — bạn phản ứng chứ không phán quyết.",
+                  "reply": [
+                    { "them": "What makes you say that?", "themvi": "Sao anh/chị nói vậy?", "you": "We've no fallback if it fails.", "youvi": "Mình không có phương án dự phòng nếu hỏng." }
+                  ],
+                  "close": { "en": "Worth thinking about.", "vi": "Đáng để suy nghĩ." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "That sounds like fun!",
+                  "vi": "Nghe vui đấy!",
+                  "note": "<i>fun</i> là DANH TỪ nên cần <b>like</b>. Nhưng <i>funny</i> là tính từ thì không cần.",
+                  "reply": [
+                    { "them": "You should come!", "themvi": "Bạn nên đi cùng!", "you": "Count me in.", "youvi": "Tính cả mình." }
+                  ],
+                  "close": { "en": "What time shall we meet?", "vi": "Mình gặp lúc mấy giờ?" }
+                },
+                {
+                  "en": "That sounds awful. I'm sorry.",
+                  "vi": "Nghe tệ quá. Mình rất tiếc.",
+                  "note": "Phản ứng với tin xấu — luôn kèm một câu cảm thông, đừng chỉ nhận xét rồi im.",
+                  "reply": [
+                    { "them": "Thanks. It's been a hard week.", "themvi": "Cảm ơn. Tuần này khó khăn lắm.", "you": "Anything I can do?", "youvi": "Mình giúp được gì không?" }
+                  ],
+                  "vars": [
+                    { "en": "That sounds like a nightmare.", "vi": "Nghe như ác mộng vậy." }
+                  ]
+                },
+                {
+                  "en": "You sound tired. Long day?",
+                  "vi": "Nghe giọng bạn mệt. Ngày dài à?",
+                  "note": "Nhận xét qua GIỌNG NÓI — rất tự nhiên khi gọi điện, và cho thấy bạn thật sự lắng nghe.",
+                  "reply": [
+                    { "them": "You have no idea.", "themvi": "Bạn không tưởng tượng nổi đâu.", "you": "Get some rest tonight.", "youvi": "Tối nay nghỉ ngơi đi." }
+                  ]
+                },
+                {
+                  "en": "That sounds lovely.",
+                  "vi": "Nghe dễ chịu quá.",
+                  "note": "Ấm áp và rất Anh — dùng khi ai đó kể một kế hoạch hoặc kỷ niệm vui.",
+                  "reply": [
+                    { "them": "It was, actually.", "themvi": "Thật ra đúng vậy.", "you": "Tell me more.", "youvi": "Kể thêm đi." }
+                  ],
+                  "close": { "en": "I'd love to go one day.", "vi": "Có ngày mình cũng muốn đi." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "That sounds like a plan.",
+                  "vi": "Nghe được đấy, chốt vậy nhé.",
+                  "note": "PHẢI có <b>like</b> — <i>a plan</i> là danh từ. Đây là câu chốt kế hoạch rất tự nhiên.",
+                  "reply": [
+                    { "them": "Seven at the noodle place?", "themvi": "Bảy giờ ở quán mì nhé?", "you": "See you there.", "youvi": "Gặp ở đó." }
+                  ],
+                  "close": { "en": "I'll book a table.", "vi": "Mình đặt bàn." }
+                },
+                {
+                  "en": "That sounds delicious.",
+                  "vi": "Nghe ngon quá.",
+                  "note": "TÍNH TỪ nên không có <i>like</i>. Phản ứng chuẩn khi ai đó tả một món ăn.",
+                  "reply": [
+                    { "them": "Shall we order it to share?", "themvi": "Hay mình gọi ăn chung?", "you": "Good idea.", "youvi": "Ý hay." }
+                  ],
+                  "vars": [
+                    { "en": "That sounds amazing.", "vi": "Nghe tuyệt vời quá." }
+                  ]
+                },
+                {
+                  "en": "It tastes even better than it sounds.",
+                  "vi": "Vị còn ngon hơn cả nghe tả.",
+                  "note": "<b>taste</b> cùng nhóm động từ liên kết với <i>sound</i> — cũng đi với tính từ.",
+                  "reply": [
+                    { "them": "Told you!", "themvi": "Đã bảo mà!", "you": "I'm ordering it every time now.", "youvi": "Từ giờ lần nào mình cũng gọi món này." }
+                  ]
+                },
+                {
+                  "en": "That sounds expensive, to be honest.",
+                  "vi": "Thật lòng thì nghe đắt đấy.",
+                  "reply": [
+                    { "them": "It's a set menu, though.", "themvi": "Nhưng là thực đơn cố định mà.", "you": "Then it's not bad.", "youvi": "Vậy thì cũng không tệ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "That sounds amazing — how long were you there?",
+                  "vi": "Nghe tuyệt vời quá — bạn ở đó bao lâu?",
+                  "note": "Ghép phản ứng với câu hỏi tiếp — đó là cách giữ cho câu chuyện chạy tiếp.",
+                  "reply": [
+                    { "them": "Two weeks. Not nearly enough.", "themvi": "Hai tuần. Chẳng đủ chút nào.", "you": "I'd love to go one day.", "youvi": "Có ngày mình cũng muốn đi." }
+                  ],
+                  "close": { "en": "Send me your photos!", "vi": "Gửi mình ảnh nhé!" }
+                },
+                {
+                  "en": "That sounds like a nightmare.",
+                  "vi": "Nghe như ác mộng vậy.",
+                  "note": "Phản ứng cảm thông rất mạnh — cần <b>like</b> vì <i>a nightmare</i> là danh từ.",
+                  "reply": [
+                    { "them": "Eleven hours in the airport.", "themvi": "Mười một tiếng ở sân bay.", "you": "I'm sorry to hear that.", "youvi": "Mình rất tiếc khi nghe vậy." }
+                  ],
+                  "vars": [
+                    { "en": "That sounds exhausting.", "vi": "Nghe mệt quá." }
+                  ]
+                },
+                {
+                  "en": "It sounds like the flight's delayed.",
+                  "vi": "Nghe như chuyến bay bị hoãn.",
+                  "note": "Với MỆNH ĐỀ cũng dùng <b>like</b> — dạng này cực kỳ phổ biến trong hội thoại thân mật.",
+                  "reply": [
+                    { "them": "Did they announce it?", "themvi": "Họ có thông báo không?", "you": "Just now — two hours.", "youvi": "Vừa nãy — hai tiếng." }
+                  ]
+                },
+                {
+                  "en": "That sounds like the best option.",
+                  "vi": "Nghe là phương án tốt nhất.",
+                  "reply": [
+                    { "them": "Shall I book it?", "themvi": "Mình đặt nhé?", "you": "Go ahead.", "youvi": "Cứ đặt đi." }
+                  ],
+                  "close": { "en": "Send me the confirmation.", "vi": "Gửi mình xác nhận nhé." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "That sounds good — I'll take it.",
+                  "vi": "Nghe ổn đấy — tôi lấy.",
+                  "reply": [
+                    { "them": "Great choice. Card or cash?", "themvi": "Lựa chọn tốt ạ. Thẻ hay tiền mặt?", "you": "Card, please.", "youvi": "Cho tôi quẹt thẻ." }
+                  ]
+                },
+                {
+                  "en": "That sounds a bit complicated.",
+                  "vi": "Nghe hơi phức tạp.",
+                  "note": "<i>a bit</i> làm câu nghi ngờ trở nên nhã — bạn không chê, chỉ phản ứng với điều vừa nghe.",
+                  "reply": [
+                    { "them": "Let me explain it more simply.", "themvi": "Để em giải thích đơn giản hơn ạ. Xem [Khung 69].", "you": "Thank you.", "youvi": "Cảm ơn em." }
+                  ],
+                  "vars": [
+                    { "en": "That sounds a bit odd.", "vi": "Nghe hơi lạ đấy." }
+                  ]
+                },
+                {
+                  "en": "It sounds like it's out of stock.",
+                  "vi": "Nghe như hết hàng rồi.",
+                  "reply": [
+                    { "them": "I'm afraid so.", "themvi": "E là vậy ạ. Xem [Khung 55].", "you": "When will you restock?", "youvi": "Khi nào có hàng lại ạ?" }
+                  ]
+                },
+                {
+                  "en": "That sounds like a fair price.",
+                  "vi": "Nghe là giá hợp lý.",
+                  "note": "<i>a fair price</i> là danh từ nên cần <b>like</b>. Cách chấp nhận giá rất tự nhiên.",
+                  "reply": [
+                    { "them": "It includes delivery too.", "themvi": "Đã gồm cả giao hàng ạ.", "you": "Then I'll take two.", "youvi": "Vậy tôi lấy hai cái." }
+                  ],
+                  "close": { "en": "Sounds like a plan.", "vi": "Chốt vậy nhé." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Chốt phương án trong cuộc họp",
+          "lines": [
+            { "speaker": "Colleague", "en": "So we go with option B and review in a month?", "vi": "Vậy mình chọn phương án B rồi một tháng xem lại?" },
+            { "speaker": "You", "me": true, "en": "Sounds good to me.", "vi": "Với tôi thì nghe ổn đấy." },
+            { "speaker": "Colleague", "en": "It's a fair bit of work up front, though.", "vi": "Nhưng giai đoạn đầu khá nhiều việc." },
+            { "speaker": "You", "me": true, "en": "That does sound like a lot. How long, roughly?", "vi": "Nghe đúng là nhiều thật. Khoảng bao lâu?" },
+            { "speaker": "Colleague", "en": "Three weeks, maybe four.", "vi": "Ba tuần, chắc bốn." },
+            { "speaker": "You", "me": true, "en": "That sounds like a plan. Let's do it.", "vi": "Nghe được đấy. Làm thôi." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Nghe bạn kể về chuyến đi tệ",
+          "lines": [
+            { "speaker": "Friend", "en": "We were stuck in the airport for eleven hours.", "vi": "Bọn mình mắc kẹt ở sân bay mười một tiếng." },
+            { "speaker": "You", "me": true, "en": "That sounds like a nightmare.", "vi": "Nghe như ác mộng vậy." },
+            { "speaker": "Friend", "en": "And then they lost my bag.", "vi": "Rồi họ còn làm mất vali của mình." },
+            { "speaker": "You", "me": true, "en": "That sounds awful. I'm sorry to hear that.", "vi": "Nghe tệ quá. Mình rất tiếc khi nghe vậy." },
+            { "speaker": "Friend", "en": "It turned up two days later, thankfully.", "vi": "May là hai hôm sau tìm được." },
+            { "speaker": "You", "me": true, "en": "You sound exhausted. Get some rest.", "vi": "Nghe giọng bạn kiệt sức. Nghỉ ngơi đi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "That sounds greatly.", "right": "That sounds great.", "why": "BẪY SỐ MỘT. Sau <b>sound</b> là TÍNH TỪ, không phải trạng từ — vì nó mô tả trạng thái, không mô tả hành động." },
+            { "wrong": "That sounds like good.", "right": "That sounds good.", "why": "Trước TÍNH TỪ thì KHÔNG có <i>like</i>. Chỉ danh từ và mệnh đề mới cần <i>like</i>." },
+            { "wrong": "That sounds a plan.", "right": "That sounds like a plan.", "why": "Trước DANH TỪ thì PHẢI có <b>like</b>. Thiếu nó là câu hỏng ngay." },
+            { "wrong": "That sounds fun.", "right": "That sounds like fun. / That sounds funny.", "why": "<i>fun</i> là DANH TỪ nên cần <i>like</i>. Còn <i>funny</i> là tính từ thì dùng thẳng." },
+            { "wrong": "You sound like tired.", "right": "You sound tired.", "why": "<i>tired</i> là tính từ — bỏ <i>like</i> đi. Cùng lỗi với <i>sounds like good</i>." },
+            { "wrong": "That sounds interested.", "right": "That sounds interesting.", "why": "Mô tả SỰ VIỆC thì dùng <b>-ing</b>. <i>interested</i> là cảm giác của người. Xem [Khung 81]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Sau nó là", "Ví dụ"],
+          "rows": [
+            ["<code>sounds + adj</code>", "Tính từ", "<i>That sounds great.</i>"],
+            ["<code>sounds like + N</code>", "Danh từ", "<i>That sounds like a plan.</i>"],
+            ["<code>sounds like + mệnh đề</code>", "Mệnh đề", "<i>It sounds like he's busy.</i>"],
+            ["<code>looks / tastes / feels + adj</code>", "Cùng nhóm liên kết", "<i>It looks lovely.</i>"],
+            ["<code>It seems + adj</code>", "Suy ra từ dấu hiệu", "Xem [Khung 44]."],
+            ["<code>I think…</code>", "Ý kiến của bạn", "Xem [Khung 41]."],
+            ["<code>That's + adj</code>", "Phán quyết trực tiếp", "<i>That's risky.</i> Mạnh hơn."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — phản ứng với một đề xuất" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "That sounds a bit risky.", "vi": "Nghi ngờ nhẹ — rất nhã" },
+            { "en": "Hmm, I'm not so sure.", "vi": "Nghi ngờ rõ hơn. Xem [Khung 50]" },
+            { "en": "Sounds good to me.", "vi": "Đồng ý — ngầm là ý kiến riêng" },
+            { "en": "That sounds like a plan.", "vi": "Đồng ý và chốt luôn" },
+            { "en": "That sounds amazing!", "vi": "Hào hứng nhất" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>That sounds</b> nối âm thành <b>“thæt-SAUNDZ”</b> — âm /t/ cuối <i>that</i> gần như biến mất.",
+            "Đuôi <b>-ds</b> trong <i>sounds</i> đọc là <b>/dz/</b> có rung — đừng nuốt mất.",
+            "<b>sounds like</b> → “saundz-laik”, hai từ dính liền.",
+            "<b>Trọng âm rơi vào TÍNH TỪ hoặc DANH TỪ ở cuối:</b> <i>That sounds</i> <b>GREAT</b>.",
+            "<b>Sounds good</b> khi bỏ chủ ngữ → “saundz-GUD”, nói nhanh trong một hơi.",
+            "<b>Giọng lên cho tin vui, hạ xuống cho tin xấu</b> — cùng cấu trúc, hai cảm xúc khác nhau."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "That sounds like a plan.", "vi": "Luyện shadowing: “thæt-saundz-laik-ə-PLAN”, nhấn PLAN." },
+            { "en": "That sounds awful. I'm sorry.", "vi": "Tập hạ giọng và nói chậm — đây là câu cảm thông." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Nghe tuyệt đấy!", "blank": "That sounds __________!", "a": "great (tính từ, KHÔNG phải “greatly”)" },
+            { "vi": "Nghe được đấy, chốt vậy nhé.", "blank": "That sounds __________ a plan.", "a": "like (trước danh từ)" },
+            { "vi": "Với tôi thì nghe ổn đấy.", "blank": "Sounds good __________.", "a": "to me" },
+            { "vi": "Nghe vui đấy!", "blank": "That sounds __________ fun!", "a": "like (“fun” là danh từ)" },
+            { "vi": "Nghe giọng bạn mệt đấy.", "blank": "You __________.", "a": "sound tired (KHÔNG có “like”)" },
+            { "vi": "Nghe như anh ấy đang bận.", "blank": "It sounds __________ he's busy.", "a": "like" },
+            { "vi": "Nghe có triển vọng đấy.", "blank": "That __________ promising.", "a": "does sound" },
+            { "vi": "Không tệ như nghe đâu.", "blank": "It's not __________.", "a": "as bad as it sounds" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Với tôi thì nghe ổn đấy.", "a": "Sounds good to me." },
+            { "vi": "2. Nghe được đấy, chốt vậy nhé.", "a": "That sounds like a plan." },
+            { "vi": "3. Nghe tệ quá. Mình rất tiếc.", "a": "That sounds awful. I'm sorry." },
+            { "vi": "4. Với tôi thì nghe hơi rủi ro.", "a": "That sounds a bit risky to me." },
+            { "vi": "5. Nghe giọng bạn mệt. Ngày dài à?", "a": "You sound tired. Long day?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật gọn:</b> <i>sound + <b>tính từ</b></i>, nhưng <i>sound <b>like</b> + danh từ</i>. Sai chữ <i>like</i> là lộ ra ngay.",
+            "<b>Áp dụng cho cả nhóm:</b> <i>look, feel, taste, smell</i> đều theo cùng luật này.",
+            "<b>Học thuộc “Sounds good to me”</b> — câu đồng ý ngắn gọn và tích cực nhất trong công việc.",
+            "<b>Thêm “a bit” khi muốn nghi ngờ khéo:</b> <i>That sounds a bit risky</i> nhẹ hơn hẳn <i>That's risky</i>.",
+            "<b>Phản ứng với tin xấu thì luôn kèm cảm thông</b> — đừng chỉ nói <i>That sounds awful</i> rồi im lặng.",
+            "<b>Bài tập 3 phút:</b> viết sáu câu phản ứng — ba câu dùng tính từ trực tiếp, ba câu dùng <i>like</i> + danh từ — rồi kiểm tra lại từng chữ <i>like</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

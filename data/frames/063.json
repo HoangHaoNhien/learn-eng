@@ -1,0 +1,498 @@
+{
+  "id": 63,
+  "group": "Nhóm 7 · Hỏi thông tin",
+  "title": "How do I get to…? — Hỏi đường",
+  "subtitle": "Câu hỏi đường chuẩn mực của tiếng Anh. Người Việt thường dịch thẳng thành How can I go to…? — không sai ngữ pháp nhưng nghe rất không tự nhiên. Và động từ get ở đây có một luật giới từ mà rất nhiều người học mắc: có to với địa danh, nhưng không có to với there, here, home.",
+  "pattern": [
+    "How do I get to <em>+ nơi chốn</em>?",
+    "How do I get <em>there / home</em>?",
+    "What's the best way to get to <em>+ nơi chốn</em>?"
+  ],
+  "meaning": "Làm sao để đến…? / Đi đường nào đến…?",
+  "grammar": [21, 29, 40, 44],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Thiết yếu khi đi lại" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">How do I get to…?</span> là câu hỏi đường chuẩn mực. Động từ <b>get</b> ở đây nghĩa là “đến được” — nó bao gồm cả quãng đường lẫn phương tiện, nên câu trả lời có thể là chỉ đường đi bộ hoặc là “bắt xe buýt số 5”." },
+        { "t": "p", "html": "Người Việt hay dịch thẳng thành <i>How can I go to…?</i>. Câu này <b>không sai ngữ pháp</b> nhưng nghe rất không tự nhiên — nó giống như hỏi “tôi có khả năng đi đến đó bằng cách nào”. Người bản xứ gần như luôn dùng <b>get</b>." },
+        { "t": "p", "html": "Khi bạn muốn hỏi phương án <b>tốt nhất</b> chứ không chỉ một cách bất kỳ, dùng <span class=\"k\">What's the best way to get to…?</span> Câu này đặc biệt hữu ích ở thành phố lớn, nơi có nhiều lựa chọn tàu, buýt, taxi." },
+        { "t": "callout", "html": "<b>BẪY GIỚI TỪ:</b> <i>get <b>to</b></i> + địa danh (<span class=\"k\">get to the station</span> ✓), nhưng <b>KHÔNG</b> có <i>to</i> trước <i>there, here, home</i>: <span class=\"k\">How do I get there?</span> ✓ — <i>get to there</i> ✗, <i>get to home</i> ✗." },
+        { "t": "h3", "text": "Bốn cách hỏi đường" },
+        {
+          "t": "table",
+          "head": ["Câu", "Hỏi về", "Sắc thái"],
+          "rows": [
+            ["<code>How do I get to the station?</code>", "Cách đến nơi đó", "Chuẩn mực nhất"],
+            ["<code>What's the best way to get there?</code>", "Phương án tối ưu", "Khi có nhiều lựa chọn"],
+            ["<code>Which way is the museum?</code>", "Hướng đi", "Ngắn gọn, khi đã gần"],
+            ["<code>Is this the right way to…?</code>", "Xác nhận hướng", "Khi bạn đang đi và muốn kiểm tra"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng nói “arrive to”.</b> ✗ Động từ <i>arrive</i> đi với <b>at</b> (nơi nhỏ: ga, sân bay) hoặc <b>in</b> (nơi lớn: thành phố, nước). <i>We arrived at the station.</i> / <i>We arrived in Hanoi.</i>" }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🗺", "title": "Hỏi đường người lạ", "text": "Bối cảnh số 1. <i>Excuse me, how do I get to the station?</i>" },
+            { "icon": "🚇", "title": "Hỏi phương án tốt nhất", "text": "<i>What's the best way to get to the airport?</i>" },
+            { "icon": "✅", "title": "Xác nhận đang đi đúng hướng", "text": "<i>Is this the right way to the museum?</i>" },
+            { "icon": "📍", "title": "Hỏi trước khi xuất phát", "text": "<i>How do I get there from the hotel?</i>" },
+            { "icon": "🏠", "title": "Hỏi cách về", "text": "<i>How do I get home from here?</i> Chú ý không có <i>to</i>." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn chỉ cần biết nó nằm ở đâu. Ở đó dùng <i>Where is…?</i> — xem [Khung 62]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Chuẩn", "<code>How do I get to + nơi?</code>", "How do I get to the station?"],
+            ["Không có “to”", "<code>How do I get there/home?</code>", "How do I get there?"],
+            ["Hỏi phương án tốt nhất", "<code>What's the best way to get to…?</code>", "What's the best way to get to the airport?"],
+            ["Nêu điểm xuất phát", "<code>How do I get to … from …?</code>", "How do I get to the centre from here?"],
+            ["Hỏi hướng", "<code>Which way is + N?</code>", "Which way is the museum?"],
+            ["Xác nhận hướng", "<code>Is this the right way to…?</code>", "Is this the right way to the beach?"],
+            ["Hỏi phương tiện", "<code>How do I get there by + phương tiện?</code>", "How do I get there by bus?"],
+            ["Lịch sự — gián tiếp", "<code>Could you tell me how to get to…?</code>", "Could you tell me how to get to the port?"],
+            ["Nhờ chỉ hướng", "<code>Can you point me in the direction of…?</code>", "Can you point me towards the exit?"],
+            ["Hỏi khoảng cách", "<code>Is it far?</code>", "Is it far from here?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dạng gián tiếp bỏ luôn chủ ngữ:</b> <i>Could you tell me <b>how to get to</b> the port?</i> — dùng <i>how to + V</i> chứ không phải <i>how I get to</i>. Đây là dạng lịch sự và rất tự nhiên. Xem [Khung 17]." },
+        { "t": "callout", "html": "<b>Nêu điểm xuất phát nếu có thể.</b> <i>How do I get to the centre <b>from here</b>?</i> Người được hỏi sẽ chỉ đường chính xác hơn nhiều so với khi bạn hỏi chung chung." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các dạng câu hỏi đường",
+              "items": [
+                { "w": "get to the station", "vi": "đến nhà ga", "ex": "How do I get to the station?", "exvi": "Làm sao để đến nhà ga ạ?", "note": "Có <b>to</b> trước địa danh." },
+                { "w": "get there", "vi": "đến đó", "ex": "How do I get there?", "exvi": "Làm sao để đến đó ạ?", "note": "BẪY: KHÔNG có <i>to</i> trước <i>there</i>. <i>get to there</i> ✗." },
+                { "w": "get home", "vi": "về nhà", "ex": "How do I get home from here?", "exvi": "Từ đây làm sao về nhà?", "note": "Cũng KHÔNG có <i>to</i>: <i>get to home</i> ✗." },
+                { "w": "the best way", "vi": "cách tốt nhất", "ex": "What's the best way to get to the airport?", "exvi": "Đi sân bay cách nào tốt nhất ạ?" },
+                { "w": "from here", "vi": "từ đây", "ex": "How do I get to the centre from here?", "exvi": "Từ đây làm sao vào trung tâm ạ?", "note": "Nêu điểm xuất phát thì người ta chỉ đường chính xác hơn nhiều." },
+                { "w": "Which way is…?", "vi": "… đi hướng nào?", "ex": "Which way is the museum?", "exvi": "Bảo tàng đi hướng nào ạ?" },
+                { "w": "Is this the right way to…?", "vi": "đây có phải đường đến… không?", "ex": "Is this the right way to the beach?", "exvi": "Đây có đúng đường ra biển không ạ?", "note": "Dùng khi bạn đang đi và muốn kiểm tra lại." },
+                { "w": "by bus", "vi": "bằng xe buýt", "ex": "How do I get there by bus?", "exvi": "Đi xe buýt đến đó thế nào ạ?", "note": "Phương tiện dùng <b>by</b>: <i>by bus, by train, by taxi</i>. Ngoại lệ: <i>on foot</i> = đi bộ." },
+                { "w": "on foot", "vi": "đi bộ", "ex": "Can I get there on foot?", "exvi": "Đi bộ đến đó được không ạ?", "note": "NGOẠI LỆ: không nói <i>by foot</i> ✗, phải là <b>on foot</b>." },
+                { "w": "Is it far?", "vi": "có xa không?", "ex": "Is it far from here?", "exvi": "Từ đây có xa không ạ?" },
+                { "w": "Could you tell me how to get to…?", "vi": "cho tôi hỏi đường đến… ạ?", "ex": "Could you tell me how to get to the port?", "exvi": "Cho tôi hỏi đường ra cảng ạ?", "note": "Dạng gián tiếp dùng <i>how to + V</i>, bỏ chủ ngữ. Xem [Khung 17]." },
+                { "w": "point me towards", "vi": "chỉ giúp tôi hướng", "ex": "Can you point me towards the exit?", "exvi": "Anh/chị chỉ giúp tôi hướng ra lối ra được không?" }
+              ]
+            },
+            {
+              "title": "Từ vựng chỉ đường",
+              "items": [
+                { "w": "go straight on", "vi": "đi thẳng", "ex": "Go straight on for about 200 metres.", "exvi": "Đi thẳng khoảng 200 mét.", "note": "Anh-Anh nói <i>straight on</i>, Anh-Mỹ nói <i>straight ahead</i>." },
+                { "w": "turn left", "vi": "rẽ trái", "ex": "Turn left at the lights.", "exvi": "Đến đèn giao thông thì rẽ trái." },
+                { "w": "take the second right", "vi": "rẽ phải ở ngã thứ hai", "ex": "Take the second right.", "exvi": "Rẽ phải ở ngã thứ hai.", "note": "Cấu trúc <i>take the + số thứ tự + hướng</i> rất hay gặp khi được chỉ đường." },
+                { "w": "at the lights", "vi": "ở chỗ đèn giao thông", "ex": "Turn right at the lights.", "exvi": "Đến đèn giao thông rẽ phải." },
+                { "w": "cross the road", "vi": "băng qua đường", "ex": "Cross the road and keep going.", "exvi": "Băng qua đường rồi đi tiếp." },
+                { "w": "keep going", "vi": "cứ đi tiếp", "ex": "Keep going until you see the church.", "exvi": "Cứ đi tiếp đến khi thấy nhà thờ." },
+                { "w": "it's on your left", "vi": "nó ở bên trái bạn", "ex": "It's on your left, next to the bank.", "exvi": "Nó ở bên trái anh/chị, cạnh ngân hàng." },
+                { "w": "opposite", "vi": "đối diện", "ex": "It's opposite the station.", "exvi": "Nó đối diện nhà ga.", "note": "Anh-Mỹ hay nói <i>across from</i>." },
+                { "w": "round the corner", "vi": "ở góc phố kia", "ex": "Just round the corner.", "exvi": "Ngay góc phố kia thôi." },
+                { "w": "you can't miss it", "vi": "không lạc được đâu", "ex": "Go straight — you can't miss it.", "exvi": "Đi thẳng — không lạc được đâu.", "note": "Thành ngữ trấn an rất phổ biến khi chỉ đường." },
+                { "w": "get off at", "vi": "xuống xe ở", "ex": "Get off at the third stop.", "exvi": "Xuống ở trạm thứ ba.", "note": "<i>get off</i> dùng cho xe buýt, tàu; <i>get out of</i> dùng cho ô tô, taxi." },
+                { "w": "change at", "vi": "đổi tuyến ở", "ex": "Change at Central Station.", "exvi": "Đổi tuyến ở ga Trung tâm." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại & hỏi tiếp",
+              "items": [
+                { "w": "Sorry, I'm not from around here", "vi": "xin lỗi, tôi không phải người ở đây", "ex": "Sorry, I'm not from around here.", "exvi": "Xin lỗi, tôi không phải người ở đây.", "note": "Cách từ chối lịch sự khi bạn cũng không biết đường." },
+                { "w": "About ten minutes' walk", "vi": "đi bộ khoảng mười phút", "ex": "About ten minutes' walk.", "exvi": "Đi bộ khoảng mười phút ạ.", "note": "Chú ý dấu sở hữu: <i>ten minutes' walk</i>." },
+                { "w": "You're better off getting a taxi", "vi": "bạn nên bắt taxi thì hơn", "ex": "You're better off getting a taxi.", "exvi": "Anh/chị bắt taxi thì hơn ạ.", "note": "<i>be better off + V-ing</i> = nên làm gì thì tốt hơn." },
+                { "w": "Could you say that again?", "vi": "anh/chị nói lại được không?", "ex": "Sorry, could you say that again?", "exvi": "Xin lỗi, anh/chị nói lại được không ạ?" },
+                { "w": "Could you show me on the map?", "vi": "chỉ giúp tôi trên bản đồ được không?", "ex": "Could you show me on the map?", "exvi": "Anh/chị chỉ giúp tôi trên bản đồ được không ạ?", "note": "Câu cứu mạng khi bạn không theo kịp lời chỉ đường." },
+                { "w": "Left or right at the lights?", "vi": "đến đèn thì trái hay phải ạ?", "ex": "Left or right at the lights?", "exvi": "Đến đèn giao thông thì rẽ trái hay phải ạ?" },
+                { "w": "Is there a bus that goes there?", "vi": "có xe buýt nào đi đó không?", "ex": "Is there a bus that goes there?", "exvi": "Có xe buýt nào đi đến đó không ạ?" },
+                { "w": "How long does it take?", "vi": "mất bao lâu?", "ex": "How long does it take on foot?", "exvi": "Đi bộ mất bao lâu ạ?", "note": "Xem [Khung 64]." },
+                { "w": "Thanks, that's very helpful", "vi": "cảm ơn, rất hữu ích", "ex": "Thanks, that's very helpful.", "exvi": "Cảm ơn, rất hữu ích ạ." },
+                { "w": "I'll find it, thanks", "vi": "tôi sẽ tìm được, cảm ơn", "ex": "I'll find it, thanks.", "exvi": "Tôi sẽ tìm được, cảm ơn ạ." },
+                { "w": "Let me walk you there", "vi": "để tôi dẫn bạn đến", "ex": "Let me walk you there.", "exvi": "Để tôi dẫn anh/chị đến đó.", "note": "Rất tử tế — thay vì chỉ đường thì đưa đi luôn." },
+                { "w": "You've gone too far", "vi": "bạn đi quá rồi", "ex": "If you reach the bridge, you've gone too far.", "exvi": "Nếu tới cây cầu là anh/chị đi quá rồi.", "note": "Cách chỉ mốc giới hạn rất hữu ích." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Excuse me, how do I get to the station?",
+                  "vi": "Xin lỗi, làm sao để đến nhà ga ạ?",
+                  "note": "Câu hỏi đường chuẩn mực. Có <b>to</b> trước địa danh, và dùng <i>get</i> chứ không phải <i>go</i>.",
+                  "open": { "en": "Sorry to bother you —", "vi": "Xin lỗi làm phiền —" },
+                  "reply": [
+                    { "them": "Go straight on, then take the second right.", "themvi": "Đi thẳng, rồi rẽ phải ở ngã thứ hai ạ.", "you": "Left or right at the lights?", "youvi": "Đến đèn giao thông thì trái hay phải ạ?" },
+                    { "them": "Sorry, I'm not from around here.", "themvi": "Xin lỗi, tôi không phải người ở đây.", "you": "No worries, thanks anyway.", "youvi": "Không sao, dù sao cũng cảm ơn." }
+                  ],
+                  "close": { "en": "Thanks, that's very helpful.", "vi": "Cảm ơn, rất hữu ích ạ." }
+                },
+                {
+                  "en": "What's the best way to get to the airport?",
+                  "vi": "Đi sân bay cách nào tốt nhất ạ?",
+                  "note": "Hỏi phương án <b>tối ưu</b> chứ không chỉ một cách bất kỳ — rất hữu ích ở thành phố lớn.",
+                  "reply": [
+                    { "them": "The express train, definitely.", "themvi": "Chắc chắn là tàu tốc hành ạ.", "you": "How long does it take?", "youvi": "Mất bao lâu ạ?" },
+                    { "them": "You're better off getting a taxi at this hour.", "themvi": "Giờ này anh/chị bắt taxi thì hơn ạ.", "you": "Roughly how much?", "youvi": "Khoảng bao nhiêu ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "How do I get there by train?", "vi": "Đi tàu đến đó thế nào ạ?" }
+                  ]
+                },
+                {
+                  "en": "Is this the right way to the old town?",
+                  "vi": "Đây có đúng đường vào phố cổ không ạ?",
+                  "note": "Dùng khi bạn đang đi và muốn kiểm tra lại — nhẹ hơn hỏi lại từ đầu.",
+                  "reply": [
+                    { "them": "Yes, keep going and cross the bridge.", "themvi": "Đúng rồi, cứ đi tiếp rồi qua cầu ạ.", "you": "Is it far from here?", "youvi": "Từ đây có xa không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Could you show me on the map?",
+                  "vi": "Anh/chị chỉ giúp tôi trên bản đồ được không ạ?",
+                  "note": "Câu cứu mạng khi bạn không theo kịp lời chỉ đường bằng tiếng Anh.",
+                  "reply": [
+                    { "them": "Of course. We're here, and it's here.", "themvi": "Tất nhiên rồi. Mình đang ở đây, còn nó ở đây ạ.", "you": "That's much clearer, thank you.", "youvi": "Rõ hơn nhiều rồi, cảm ơn ạ." }
+                  ],
+                  "close": { "en": "I'll find it now.", "vi": "Giờ tôi tìm được rồi." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "How do I get there from your place?",
+                  "vi": "Từ nhà bạn đến đó thế nào?",
+                  "note": "Chú ý: <b>get there</b> không có <i>to</i>, nhưng <i>from your place</i> thì có <i>from</i>.",
+                  "reply": [
+                    { "them": "Bus 12, then a ten-minute walk.", "themvi": "Xe buýt số 12, rồi đi bộ mười phút.", "you": "Where do I get off?", "youvi": "Mình xuống ở đâu?" }
+                  ]
+                },
+                {
+                  "en": "How do I get home from here?",
+                  "vi": "Từ đây làm sao mình về nhà?",
+                  "note": "BẪY: <i>get home</i> KHÔNG có <i>to</i>. Đây là lỗi rất phổ biến.",
+                  "reply": [
+                    { "them": "Night bus, or I can drive you.", "themvi": "Xe buýt đêm, hoặc mình chở bạn về.", "you": "That'd be great, if you don't mind.", "youvi": "Vậy thì tốt quá, nếu bạn không phiền." }
+                  ],
+                  "vars": [
+                    { "en": "What's the best way home at this hour?", "vi": "Giờ này về nhà cách nào tốt nhất?" }
+                  ]
+                },
+                {
+                  "en": "Can I get there on foot?",
+                  "vi": "Mình đi bộ đến đó được không?",
+                  "note": "NGOẠI LỆ: <b>on foot</b>, không bao giờ là <i>by foot</i> ✗.",
+                  "reply": [
+                    { "them": "You can, but it's a bit of a walk.", "themvi": "Được, nhưng hơi xa đấy.", "you": "How long, roughly?", "youvi": "Khoảng bao lâu?" }
+                  ]
+                },
+                {
+                  "en": "Which way is the park?",
+                  "vi": "Công viên đi hướng nào?",
+                  "reply": [
+                    { "them": "That way, past the school.", "themvi": "Hướng đó, qua khỏi trường học.", "you": "Thanks — I'll find it.", "youvi": "Cảm ơn — mình sẽ tìm được." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "How do I get to your office from the station?",
+                  "vi": "Từ nhà ga đến văn phòng anh/chị thế nào ạ?",
+                  "note": "Nêu rõ điểm xuất phát thì người ta chỉ đường chính xác hơn nhiều.",
+                  "open": { "en": "Looking forward to Thursday —", "vi": "Mong đến thứ Năm —" },
+                  "reply": [
+                    { "them": "Exit north, then five minutes on foot.", "themvi": "Ra cửa bắc, rồi đi bộ năm phút.", "you": "Is there a sign I should look for?", "youvi": "Có biển hiệu nào tôi nên để ý không?" }
+                  ],
+                  "close": { "en": "See you on Thursday.", "vi": "Thứ Năm gặp nhé." }
+                },
+                {
+                  "en": "What's the best way to get there during rush hour?",
+                  "vi": "Giờ cao điểm đến đó cách nào tốt nhất ạ?",
+                  "reply": [
+                    { "them": "Metro, without a doubt.", "themvi": "Chắc chắn là tàu điện ngầm.", "you": "Which line?", "youvi": "Tuyến nào ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "How do I get there by metro?", "vi": "Đi tàu điện ngầm đến đó thế nào ạ?" }
+                  ]
+                },
+                {
+                  "en": "Could you tell me how to get to the conference centre?",
+                  "vi": "Cho tôi hỏi đường đến trung tâm hội nghị ạ?",
+                  "note": "Dạng gián tiếp dùng <b>how to get to</b> — bỏ chủ ngữ, rất lịch sự. Xem [Khung 17].",
+                  "reply": [
+                    { "them": "There's a shuttle from the hotel.", "themvi": "Có xe đưa đón từ khách sạn ạ.", "you": "What time does the first one leave?", "youvi": "Chuyến đầu chạy lúc mấy giờ ạ?" }
+                  ]
+                },
+                {
+                  "en": "Is it far from the hotel?",
+                  "vi": "Từ khách sạn có xa không ạ?",
+                  "reply": [
+                    { "them": "About ten minutes' walk.", "themvi": "Đi bộ khoảng mười phút ạ.", "you": "Perfect, I'll walk then.", "youvi": "Tuyệt, vậy tôi đi bộ." }
+                  ],
+                  "close": { "en": "Thanks for the directions.", "vi": "Cảm ơn đã chỉ đường." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "How do I get to the shopping centre from here?",
+                  "vi": "Từ đây đến trung tâm thương mại thế nào ạ?",
+                  "reply": [
+                    { "them": "Cross the road and keep going.", "themvi": "Băng qua đường rồi cứ đi tiếp ạ.", "you": "Is it signposted?", "youvi": "Có biển chỉ dẫn không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Which way is the market?",
+                  "vi": "Chợ đi hướng nào ạ?",
+                  "reply": [
+                    { "them": "Round the corner, you can't miss it.", "themvi": "Ngay góc phố kia, không lạc được đâu ạ.", "you": "Great, thanks.", "youvi": "Tuyệt, cảm ơn ạ." }
+                  ],
+                  "vars": [
+                    { "en": "Can you point me towards the market?", "vi": "Anh/chị chỉ giúp tôi hướng ra chợ được không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Is there a bus that goes there?",
+                  "vi": "Có xe buýt nào đi đến đó không ạ?",
+                  "reply": [
+                    { "them": "Number 14, from across the road.", "themvi": "Số 14, ở bên kia đường ạ.", "you": "Where do I get off?", "youvi": "Tôi xuống ở đâu ạ?" }
+                  ]
+                },
+                {
+                  "en": "If I reach the bridge, have I gone too far?",
+                  "vi": "Nếu tới cây cầu là tôi đi quá rồi phải không ạ?",
+                  "note": "Hỏi mốc giới hạn — cách rất khôn ngoan để khỏi đi lạc.",
+                  "reply": [
+                    { "them": "Yes, turn back if you see the bridge.", "themvi": "Đúng ạ, thấy cầu thì quay lại.", "you": "Got it, thank you.", "youvi": "Hiểu rồi, cảm ơn ạ." }
+                  ],
+                  "close": { "en": "You've been very helpful.", "vi": "Anh/chị giúp tôi nhiều lắm." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "How do I get to the restaurant from the hotel?",
+                  "vi": "Từ khách sạn đến nhà hàng thế nào ạ?",
+                  "reply": [
+                    { "them": "Left out of the lobby, then straight on.", "themvi": "Ra khỏi sảnh rẽ trái, rồi đi thẳng ạ.", "you": "Is it walkable in the rain?", "youvi": "Trời mưa đi bộ được không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Is this the right way to the night market?",
+                  "vi": "Đây có đúng đường ra chợ đêm không ạ?",
+                  "reply": [
+                    { "them": "Almost — take the next left.", "themvi": "Gần đúng rồi — rẽ trái ở ngã tiếp theo ạ.", "you": "Thanks, we'd have walked past it.", "youvi": "Cảm ơn, không thì bọn tôi đi quá mất." }
+                  ],
+                  "vars": [
+                    { "en": "Are we going the right way?", "vi": "Mình đi đúng đường chứ?" }
+                  ]
+                },
+                {
+                  "en": "Can I get there on foot from the station?",
+                  "vi": "Từ nhà ga đi bộ đến đó được không ạ?",
+                  "reply": [
+                    { "them": "Easily — about eight minutes.", "themvi": "Dễ mà — khoảng tám phút ạ.", "you": "Perfect, we'll walk.", "youvi": "Tuyệt, bọn tôi đi bộ." }
+                  ]
+                },
+                {
+                  "en": "What's the best way to get back after ten?",
+                  "vi": "Sau mười giờ thì về bằng cách nào tốt nhất ạ?",
+                  "note": "<i>get back</i> = quay về — cũng không có <i>to</i> khi không nêu địa danh.",
+                  "reply": [
+                    { "them": "A taxi — the buses stop at ten.", "themvi": "Taxi ạ — xe buýt dừng chạy lúc mười giờ.", "you": "Could you call one for us later?", "youvi": "Lát nữa gọi giúp bọn tôi một chiếc được không ạ?" }
+                  ],
+                  "close": { "en": "Thanks, that's good to know.", "vi": "Cảm ơn, biết vậy tốt quá." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Hỏi đường người lạ trên phố",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Sorry to bother you — how do I get to the station?", "vi": "Xin lỗi làm phiền — làm sao để đến nhà ga ạ?" },
+            { "speaker": "Local", "en": "Go straight on, then take the second right.", "vi": "Đi thẳng, rồi rẽ phải ở ngã thứ hai ạ." },
+            { "speaker": "You", "me": true, "en": "Left or right at the lights?", "vi": "Đến đèn giao thông thì trái hay phải ạ?" },
+            { "speaker": "Local", "en": "Straight on at the lights. It's opposite the bank.", "vi": "Đến đèn thì đi thẳng. Nó đối diện ngân hàng ạ." },
+            { "speaker": "You", "me": true, "en": "Is it far? Can I get there on foot?", "vi": "Có xa không ạ? Tôi đi bộ được không?" },
+            { "speaker": "Local", "en": "About ten minutes' walk. You can't miss it.", "vi": "Đi bộ khoảng mười phút. Không lạc được đâu ạ." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Hỏi cách đi sân bay ở quầy lễ tân",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "What's the best way to get to the airport tomorrow?", "vi": "Mai đi sân bay cách nào tốt nhất ạ?" },
+            { "speaker": "Receptionist", "en": "The express train, if you're travelling before nine.", "vi": "Tàu tốc hành, nếu anh/chị đi trước chín giờ ạ." },
+            { "speaker": "You", "me": true, "en": "And how do I get to the train station from here?", "vi": "Từ đây đến ga tàu thế nào ạ?" },
+            { "speaker": "Receptionist", "en": "Left out of the lobby, five minutes on foot.", "vi": "Ra sảnh rẽ trái, đi bộ năm phút ạ." },
+            { "speaker": "You", "me": true, "en": "If my flight's at seven, should I get a taxi instead?", "vi": "Nếu chuyến bay lúc bảy giờ thì tôi nên bắt taxi không ạ?" },
+            { "speaker": "Receptionist", "en": "At that hour you're better off getting a taxi, yes.", "vi": "Giờ đó thì anh/chị bắt taxi thì hơn ạ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "How can I go to the station?", "right": "How do I get to the station?", "why": "Không sai ngữ pháp nhưng nghe rất không tự nhiên. Người bản xứ gần như luôn dùng <b>get to</b>." },
+            { "wrong": "How do I get to there?", "right": "How do I get there?", "why": "BẪY GIỚI TỪ. Trước <b>there, here, home</b> thì KHÔNG có <i>to</i>." },
+            { "wrong": "How to go to the station?", "right": "How do I get to the station?", "why": "Thiếu chủ ngữ và trợ động từ. Dạng <i>how to</i> chỉ dùng trong câu gián tiếp: <i>Could you tell me how to get to…?</i>" },
+            { "wrong": "How do I arrive to the station?", "right": "How do I get to the station?", "why": "<b>arrive</b> đi với <i>at</i> (nơi nhỏ) hoặc <i>in</i> (nơi lớn), không bao giờ với <i>to</i>. Và hỏi đường thì dùng <i>get</i>." },
+            { "wrong": "Can I get there by foot?", "right": "Can I get there on foot?", "why": "NGOẠI LỆ của luật phương tiện: đi bộ là <b>on foot</b>, không phải <i>by foot</i>." },
+            { "wrong": "How I get to the station?", "right": "How do I get to the station?", "why": "Câu hỏi trực tiếp với động từ thường BẮT BUỘC có <b>do</b>. Xem thêm [Khung 61]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu hỏi", "Hỏi về", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>How do I get to…?</code>", "Cách đến nơi đó", "<i>How do I get to the station?</i> Chuẩn mực."],
+            ["<code>What's the best way to…?</code>", "Phương án tối ưu", "<i>What's the best way to get there?</i>"],
+            ["<code>Which way is…?</code>", "Hướng đi", "<i>Which way is the park?</i> Ngắn gọn."],
+            ["<code>Is this the right way to…?</code>", "Xác nhận hướng", "Khi đang đi và muốn kiểm tra."],
+            ["<code>Where is…?</code>", "Vị trí", "<i>Where is the station?</i> Xem [Khung 62]."],
+            ["<code>How long does it take?</code>", "Thời gian di chuyển", "Xem [Khung 64]."],
+            ["<code>Could you tell me how to get to…?</code>", "Gián tiếp — lịch sự", "Xem [Khung 17]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — hỏi đường đến nhà ga" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Which way is the station?", "vi": "Ngắn nhất — khi đã gần" },
+            { "en": "How do I get to the station?", "vi": "Chuẩn mực, dùng được mọi nơi" },
+            { "en": "What's the best way to get to the station?", "vi": "Khi có nhiều lựa chọn" },
+            { "en": "Could you tell me how to get to the station?", "vi": "Lịch sự. Xem [Khung 17]" },
+            { "en": "Sorry to bother you, could you possibly point me towards the station?", "vi": "Lịch sự nhất — với người lạ đang bận" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>How do I</b> nói nhanh dính thành <b>“hau-də-wai”</b> — chữ <i>do</i> đọc lướt thành /də/.",
+            "<b>get to</b> nối âm thành <b>“ge-tə”</b> — âm /t/ cuối <i>get</i> nhập vào <i>to</i>, chỉ đọc một lần.",
+            "Cả cụm: <b>“hau-də-wai-ge-tə”</b>, trọng âm rơi vào <b>GET</b> và tên địa điểm.",
+            "<b>straight on</b> → “strei-TON”, hai từ dính liền.",
+            "<b>on foot</b> → “on-FUT” — nguyên âm ngắn, không phải <i>foo-t</i> dài.",
+            "<b>Giọng đi xuống ở cuối</b> — câu hỏi có từ để hỏi luôn hạ giọng, giống [Khung 61]."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "How do I get to the station?", "vi": "Luyện shadowing: “hau-də-wai-ge-tə-thə-STAY-shən”, nối gọn get to." },
+            { "en": "Go straight on, then take the second right.", "vi": "Tập nghe chỉ đường: nhấn STRAIGHT, SECOND và RIGHT." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Làm sao để đến nhà ga ạ?", "blank": "__________ the station?", "a": "How do I get to" },
+            { "vi": "Làm sao để đến đó ạ?", "blank": "How do I __________?", "a": "get there (KHÔNG có “to”)" },
+            { "vi": "Từ đây làm sao mình về nhà?", "blank": "How do I __________ from here?", "a": "get home (KHÔNG có “to”)" },
+            { "vi": "Đi sân bay cách nào tốt nhất ạ?", "blank": "__________ to get to the airport?", "a": "What's the best way" },
+            { "vi": "Mình đi bộ đến đó được không?", "blank": "Can I get there __________?", "a": "on foot (KHÔNG phải “by foot”)" },
+            { "vi": "Đây có đúng đường ra biển không ạ?", "blank": "__________ to the beach?", "a": "Is this the right way" },
+            { "vi": "Cho tôi hỏi đường ra cảng ạ?", "blank": "Could you tell me __________ the port?", "a": "how to get to" },
+            { "vi": "Anh/chị chỉ giúp tôi trên bản đồ được không ạ?", "blank": "Could you __________?", "a": "show me on the map" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Xin lỗi, làm sao để đến nhà ga ạ?", "a": "Excuse me, how do I get to the station?" },
+            { "vi": "2. Đi sân bay cách nào tốt nhất ạ?", "a": "What's the best way to get to the airport?" },
+            { "vi": "3. Từ đây làm sao mình về nhà?", "a": "How do I get home from here?" },
+            { "vi": "4. Đây có đúng đường vào phố cổ không ạ?", "a": "Is this the right way to the old town?" },
+            { "vi": "5. Từ nhà ga đi bộ đến đó được không ạ?", "a": "Can I get there on foot from the station?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Dùng “get to”, đừng dùng “go to”.</b> <i>How can I go to…?</i> nghe rất không tự nhiên với người bản xứ.",
+            "<b>Nhớ luật giới từ:</b> có <i>to</i> trước địa danh, nhưng KHÔNG có <i>to</i> trước <b>there, here, home</b>.",
+            "<b>Đi bộ là “on foot”</b> — đây là ngoại lệ duy nhất của luật <i>by + phương tiện</i>.",
+            "<b>Luôn nêu điểm xuất phát:</b> <i>…from here</i> giúp người ta chỉ đường chính xác hơn nhiều.",
+            "<b>Học thuộc “Could you show me on the map?”</b> — câu cứu mạng khi bạn không theo kịp lời chỉ đường.",
+            "<b>Bài tập 3 phút:</b> mở bản đồ thành phố bạn đang ở, chọn 5 địa điểm và viết câu hỏi đường đến từng nơi, kèm một câu hỏi tiếp về thời gian hoặc phương tiện."
+          ]
+        }
+      ]
+    }
+  ]
+}

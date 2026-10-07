@@ -1,0 +1,504 @@
+{
+  "id": 82,
+  "group": "Nhóm 9 · Cảm xúc & Phản ứng",
+  "title": "I'm happy about / with… — Giới từ đi với cảm xúc",
+  "subtitle": "Mỗi tính từ cảm xúc trong tiếng Anh dính chặt với một giới từ riêng, và không có logic nào để suy ra. Tệ hơn: cùng một tính từ đổi giới từ là đổi nghĩa — happy about, happy with và happy for nói ba điều khác nhau hoàn toàn.",
+  "pattern": [
+    "I'm <em>+ adj</em> about <em>+ sự việc</em>",
+    "I'm <em>+ adj</em> with <em>+ kết quả / người</em>",
+    "I'm <em>+ adj</em> for <em>+ người</em>"
+  ],
+  "meaning": "Tôi thấy… về… / Tôi thấy… với…",
+  "grammar": [25, 34, 35, 42],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Bẫy giới từ cố định" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "Tính từ cảm xúc trong tiếng Anh <b>không đứng một mình</b> khi bạn muốn nêu nguyên nhân. Chúng cần một giới từ, và giới từ đó là <b>cố định</b> — không suy luận được, phải học thuộc từng cặp." },
+        { "t": "p", "html": "Tệ hơn nữa, cùng một tính từ mà đổi giới từ là đổi nghĩa. Bộ ba kinh điển: <span class=\"k\">happy about</span> (về một sự việc), <span class=\"k\">happy with</span> (hài lòng với một kết quả), <span class=\"k\">happy for</span> (mừng cho một người)." },
+        { "t": "p", "html": "Có một quy luật lỏng lẻo giúp nhớ: <b>about</b> thường đi với <b>sự việc, tình huống</b>; <b>with</b> đi với <b>kết quả hoặc con người cụ thể</b>; <b>for</b> đi với <b>người mà bạn cảm nhận thay họ</b>." },
+        { "t": "callout", "html": "<b>BẪY PHỔ BIẾN NHẤT của người Việt:</b> <span class=\"k\">worried about</span> ✓ chứ không phải <i>worried for</i> ✗. Và <span class=\"k\">interested in</span> ✓ chứ không phải <i>interested about</i> ✗." },
+        { "t": "h3", "text": "Bộ ba “happy” — ba nghĩa khác nhau" },
+        {
+          "t": "table",
+          "head": ["Câu", "Nghĩa", "Đi với"],
+          "rows": [
+            ["<code>I'm happy about the news.</code>", "Tôi vui vì tin đó", "sự việc"],
+            ["<code>I'm happy with the result.</code>", "Tôi hài lòng với kết quả", "kết quả"],
+            ["<code>I'm happy for you.</code>", "Tôi mừng cho bạn", "người"],
+            ["<code>I'm happy to help.</code>", "Tôi sẵn lòng giúp", "hành động"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cặp dễ nhầm thứ hai:</b> <i>angry <b>with</b> someone</i> (giận một người) nhưng <i>angry <b>about</b> something</i> (bực vì một chuyện). Nói <i>angry with the situation</i> nghe như bạn đang giận chính tình huống đó." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🎉", "title": "Nói bạn háo hức về việc gì", "text": "Bối cảnh số 1. <i>I'm excited about the trip.</i>" },
+            { "icon": "✅", "title": "Nói bạn hài lòng với kết quả", "text": "<i>I'm happy with the result.</i> Dùng <i>with</i>." },
+            { "icon": "💙", "title": "Chia vui với ai đó", "text": "<i>I'm so happy for you.</i> Dùng <i>for</i> + người." },
+            { "icon": "😟", "title": "Nói bạn lo về việc gì", "text": "<i>I'm worried about the deadline.</i> Không phải <i>for</i>." },
+            { "icon": "💼", "title": "Bày tỏ quan tâm nghề nghiệp", "text": "<i>I'm interested in the role.</i> Dùng <i>in</i>." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Đoán giới từ theo tiếng Việt. Mỗi cặp phải học thuộc." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Giới từ", "Tính từ hay đi cùng", "Ví dụ"],
+          "rows": [
+            ["<code>about</code>", "excited, worried, nervous, annoyed", "I'm worried about it."],
+            ["<code>with</code>", "happy, pleased, disappointed, satisfied", "I'm pleased with the result."],
+            ["<code>for</code>", "happy, sorry, grateful, excited", "I'm happy for you."],
+            ["<code>in</code>", "interested, disappointed (in người)", "I'm interested in the role."],
+            ["<code>of</code>", "afraid, proud, tired, aware", "I'm proud of you."],
+            ["<code>at</code>", "surprised, good, bad, shocked", "I'm surprised at the news."],
+            ["<code>by</code>", "surprised, impressed, shocked", "I was impressed by the work."],
+            ["<code>to</code>", "kind, rude, married, similar", "She was very kind to me."],
+            ["<code>from</code>", "different, tired (from việc)", "I'm tired from the journey."],
+            ["<code>at/with</code>", "angry at/with someone", "I'm angry with him."]
+          ]
+        },
+        { "t": "callout", "html": "<b>“surprised at” hay “surprised by”?</b> Cả hai đều đúng. <i>by</i> phổ biến hơn khi nêu nguyên nhân cụ thể (<i>surprised by the result</i>), còn <i>at</i> hay dùng với phản ứng (<i>surprised at how fast it was</i>)." },
+        { "t": "callout", "html": "<b>“disappointed with” và “disappointed in” khác nhau:</b> <i>disappointed <b>with</b> the result</i> (thất vọng về kết quả) nhưng <i>disappointed <b>in</b> you</i> (thất vọng về con người bạn) — câu sau nặng hơn nhiều." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Nhóm “about” và “with”",
+              "items": [
+                { "w": "excited about", "vi": "háo hức về", "ex": "I'm excited about the trip.", "exvi": "Tôi háo hức về chuyến đi.", "note": "Luôn là <b>about</b> — không bao giờ <i>excited for</i> trong tiếng Anh chuẩn." },
+                { "w": "worried about", "vi": "lo về", "ex": "I'm worried about the deadline.", "exvi": "Tôi lo về hạn chót.", "note": "BẪY PHỔ BIẾN: <i>worried for</i> ✗. Luôn là <b>about</b>." },
+                { "w": "nervous about", "vi": "hồi hộp về", "ex": "I'm nervous about the presentation.", "exvi": "Tôi hồi hộp về buổi thuyết trình." },
+                { "w": "annoyed about", "vi": "bực về", "ex": "I'm annoyed about the delay.", "exvi": "Tôi bực về sự chậm trễ.", "note": "Bực về SỰ VIỆC dùng <i>about</i>; bực với NGƯỜI dùng <i>with</i>." },
+                { "w": "happy about", "vi": "vui vì", "ex": "I'm happy about the news.", "exvi": "Tôi vui vì tin đó." },
+                { "w": "happy with", "vi": "hài lòng với", "ex": "I'm happy with the result.", "exvi": "Tôi hài lòng với kết quả.", "note": "<b>with</b> đi với KẾT QUẢ — khác hẳn <i>happy about</i> (sự việc)." },
+                { "w": "pleased with", "vi": "hài lòng với", "ex": "I'm pleased with how it went.", "exvi": "Tôi hài lòng với cách mọi việc diễn ra." },
+                { "w": "disappointed with", "vi": "thất vọng về (kết quả)", "ex": "I'm disappointed with the results.", "exvi": "Tôi thất vọng về kết quả." },
+                { "w": "disappointed in", "vi": "thất vọng về (con người)", "ex": "I'm disappointed in you.", "exvi": "Tôi thất vọng về bạn.", "note": "NẶNG HƠN nhiều — <i>in</i> nói về con người, <i>with</i> nói về kết quả." },
+                { "w": "satisfied with", "vi": "hài lòng với", "ex": "Are you satisfied with the service?", "exvi": "Anh/chị hài lòng với dịch vụ chứ?" },
+                { "w": "fed up with", "vi": "chán ngấy", "ex": "I'm fed up with waiting.", "exvi": "Tôi chán ngấy cảnh chờ đợi.", "note": "Thành ngữ — sau <i>with</i> là danh từ hoặc V-ing." },
+                { "w": "angry with", "vi": "giận (người)", "ex": "I'm angry with him.", "exvi": "Tôi giận anh ấy.", "note": "Giận NGƯỜI dùng <b>with</b>; bực về CHUYỆN dùng <b>about</b>." }
+              ]
+            },
+            {
+              "title": "Nhóm “for”, “in”, “of”, “at”",
+              "items": [
+                { "w": "happy for", "vi": "mừng cho (người)", "ex": "I'm so happy for you!", "exvi": "Tôi mừng cho bạn quá!", "note": "<b>for</b> + NGƯỜI = mừng thay cho họ. Xem [Khung 81]." },
+                { "w": "grateful for", "vi": "biết ơn vì", "ex": "I'm grateful for your help.", "exvi": "Tôi biết ơn sự giúp đỡ của anh/chị.", "note": "Xem [Khung 78]." },
+                { "w": "sorry for", "vi": "xin lỗi vì", "ex": "I'm sorry for the delay.", "exvi": "Tôi xin lỗi vì sự chậm trễ.", "note": "Xem [Khung 79]. CẨN THẬN: <i>sorry for you</i> = thương hại." },
+                { "w": "interested in", "vi": "quan tâm đến", "ex": "I'm interested in the role.", "exvi": "Tôi quan tâm đến vị trí đó.", "note": "BẪY: <i>interested about</i> ✗. Luôn là <b>in</b>." },
+                { "w": "proud of", "vi": "tự hào về", "ex": "I'm so proud of you.", "exvi": "Tôi rất tự hào về bạn.", "note": "Luôn là <b>of</b> — không bao giờ <i>proud for</i> ✗." },
+                { "w": "afraid of", "vi": "sợ", "ex": "I'm afraid of heights.", "exvi": "Tôi sợ độ cao.", "note": "Sợ MỘT THỨ dùng <i>of</i>. <i>afraid to + V</i> lại là sợ không dám làm gì." },
+                { "w": "tired of", "vi": "chán, ngán", "ex": "I'm tired of this.", "exvi": "Tôi chán chuyện này rồi.", "note": "BẪY: <i>tired <b>of</b></i> = chán ngán; <i>tired <b>from</b></i> = mệt vì. Hai nghĩa khác hẳn." },
+                { "w": "tired from", "vi": "mệt vì", "ex": "I'm tired from the journey.", "exvi": "Tôi mệt vì chuyến đi." },
+                { "w": "aware of", "vi": "biết, ý thức được", "ex": "I'm aware of the issue.", "exvi": "Tôi biết về vấn đề đó.", "note": "Trang trọng — rất hay dùng trong công việc." },
+                { "w": "surprised at", "vi": "ngạc nhiên vì", "ex": "I'm surprised at how fast it was.", "exvi": "Tôi ngạc nhiên vì nó nhanh đến vậy." },
+                { "w": "impressed by", "vi": "ấn tượng bởi", "ex": "I was impressed by the work.", "exvi": "Tôi ấn tượng với công việc đó.", "note": "<b>by</b> hoặc <b>with</b> đều được — <i>by</i> phổ biến hơn." },
+                { "w": "kind to", "vi": "tử tế với", "ex": "She was very kind to me.", "exvi": "Cô ấy rất tử tế với tôi.", "note": "Cách cư xử với NGƯỜI dùng <b>to</b>: <i>kind to, rude to, nice to</i>." }
+              ]
+            },
+            {
+              "title": "Cách hỏi & đáp lại",
+              "items": [
+                { "w": "How do you feel about…?", "vi": "bạn cảm thấy thế nào về…?", "ex": "How do you feel about the change?", "exvi": "Bạn thấy thế nào về sự thay đổi đó?", "note": "Câu hỏi cảm xúc chuẩn mực — luôn đi với <b>about</b>." },
+                { "w": "Are you happy with…?", "vi": "bạn có hài lòng với… không?", "ex": "Are you happy with the result?", "exvi": "Anh/chị hài lòng với kết quả chứ?" },
+                { "w": "What are you worried about?", "vi": "bạn lo điều gì?", "ex": "What are you worried about exactly?", "exvi": "Cụ thể bạn lo điều gì?" },
+                { "w": "I'm with you on that", "vi": "chuyện đó tôi ủng hộ bạn", "ex": "I'm with you on that.", "exvi": "Chuyện đó tôi ủng hộ bạn. Xem [Khung 58]." },
+                { "w": "I feel the same", "vi": "tôi cũng thấy vậy", "ex": "I feel the same about it.", "exvi": "Tôi cũng thấy vậy về chuyện đó." },
+                { "w": "Nothing to worry about", "vi": "không có gì phải lo", "ex": "Nothing to worry about.", "exvi": "Không có gì phải lo đâu." },
+                { "w": "You should be proud", "vi": "bạn nên tự hào", "ex": "You should be proud of yourself.", "exvi": "Bạn nên tự hào về bản thân." },
+                { "w": "I can see why", "vi": "tôi hiểu vì sao", "ex": "I can see why you're annoyed.", "exvi": "Tôi hiểu vì sao bạn bực. Xem [Khung 53]." },
+                { "w": "What's bothering you?", "vi": "điều gì làm bạn phiền lòng?", "ex": "What's bothering you?", "exvi": "Điều gì làm bạn phiền lòng vậy?" },
+                { "w": "Fair enough", "vi": "cũng có lý", "ex": "Fair enough.", "exvi": "Cũng có lý. Xem [Khung 60]." },
+                { "w": "Don't be too hard on yourself", "vi": "đừng khắt khe với bản thân quá", "ex": "Don't be too hard on yourself.", "exvi": "Đừng khắt khe với bản thân quá.", "note": "Câu an ủi rất ấm khi ai đó tự trách mình." },
+                { "w": "It'll be fine", "vi": "rồi sẽ ổn thôi", "ex": "It'll be fine, honestly.", "exvi": "Thật lòng là rồi sẽ ổn thôi." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I'm a bit worried about the deadline.",
+                  "vi": "Tôi hơi lo về hạn chót.",
+                  "note": "BẪY PHỔ BIẾN: luôn là <b>worried about</b>, không bao giờ <i>worried for</i> ✗.",
+                  "open": { "en": "Can I raise something?", "vi": "Cho tôi nêu một việc được không?" },
+                  "reply": [
+                    { "them": "What are you worried about exactly?", "themvi": "Cụ thể anh/chị lo điều gì?", "you": "We're two days behind already.", "youvi": "Mình đã chậm hai ngày rồi." },
+                    { "them": "Nothing to worry about — we've got buffer.", "themvi": "Không có gì phải lo — mình còn dư thời gian.", "you": "That's a relief.", "youvi": "Vậy thì nhẹ cả người." }
+                  ],
+                  "close": { "en": "I'll keep an eye on it.", "vi": "Tôi sẽ theo dõi sát." }
+                },
+                {
+                  "en": "I'm really pleased with how it went.",
+                  "vi": "Tôi thật sự hài lòng với cách mọi việc diễn ra.",
+                  "note": "<b>pleased with</b> — đi với KẾT QUẢ. Đây là câu khen chuẩn mực trong công việc.",
+                  "reply": [
+                    { "them": "The team worked hard.", "themvi": "Cả đội đã làm việc rất chăm.", "you": "I'm proud of all of you.", "youvi": "Tôi tự hào về tất cả các bạn." }
+                  ],
+                  "vars": [
+                    { "en": "I'm happy with the result.", "vi": "Tôi hài lòng với kết quả." }
+                  ]
+                },
+                {
+                  "en": "I'm very interested in that role.",
+                  "vi": "Tôi rất quan tâm đến vị trí đó.",
+                  "note": "BẪY: <b>interested in</b>, không bao giờ <i>interested about</i> ✗.",
+                  "reply": [
+                    { "them": "Then you should speak to HR.", "themvi": "Vậy anh/chị nên nói chuyện với nhân sự.", "you": "I'll email them today.", "youvi": "Hôm nay tôi sẽ gửi email." }
+                  ]
+                },
+                {
+                  "en": "I'm disappointed with the results, to be honest.",
+                  "vi": "Thật lòng thì tôi thất vọng về kết quả.",
+                  "note": "<b>disappointed with</b> nói về KẾT QUẢ. Nếu nói <i>disappointed in you</i> thì nặng hơn nhiều — đó là chê con người.",
+                  "reply": [
+                    { "them": "I can see why.", "themvi": "Tôi hiểu vì sao.", "you": "Let's look at what went wrong.", "youvi": "Mình xem sai ở đâu đi." }
+                  ],
+                  "close": { "en": "Not a blame thing — just a lesson.", "vi": "Không phải đổ lỗi — chỉ là bài học." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I'm so happy for you!",
+                  "vi": "Mình mừng cho bạn quá!",
+                  "note": "<b>happy for</b> + NGƯỜI = mừng thay cho họ. Khác hẳn <i>happy about</i> (sự việc).",
+                  "reply": [
+                    { "them": "Thank you! I'm still in shock.", "themvi": "Cảm ơn bạn! Mình vẫn còn sốc.", "you": "You should be proud of yourself.", "youvi": "Bạn nên tự hào về bản thân." }
+                  ],
+                  "close": { "en": "We have to celebrate.", "vi": "Phải ăn mừng thôi." }
+                },
+                {
+                  "en": "I'm really excited about the trip.",
+                  "vi": "Mình rất háo hức về chuyến đi.",
+                  "note": "Luôn là <b>excited about</b> — đây là giới từ cố định.",
+                  "reply": [
+                    { "them": "Me too. Have you packed?", "themvi": "Mình cũng vậy. Bạn xếp đồ chưa?", "you": "Not even close.", "youvi": "Còn lâu mới xong." }
+                  ],
+                  "vars": [
+                    { "en": "I can't wait for the trip.", "vi": "Mình nóng lòng chờ chuyến đi." }
+                  ]
+                },
+                {
+                  "en": "I'm so proud of you.",
+                  "vi": "Mình rất tự hào về bạn.",
+                  "note": "Luôn là <b>proud of</b> — không bao giờ <i>proud for</i> ✗.",
+                  "reply": [
+                    { "them": "That means a lot.", "themvi": "Điều đó có ý nghĩa lắm.", "you": "You worked so hard for this.", "youvi": "Bạn đã cố gắng rất nhiều vì chuyện này." }
+                  ]
+                },
+                {
+                  "en": "I'm fed up with waiting for him.",
+                  "vi": "Mình chán ngấy cảnh chờ anh ấy rồi.",
+                  "note": "<span class=\"k\">fed up with</span> — sau <i>with</i> là danh từ hoặc V-ing. Thành ngữ rất thông dụng.",
+                  "reply": [
+                    { "them": "He's always late.", "themvi": "Lúc nào anh ấy cũng muộn.", "you": "I'm angry with him, honestly.", "youvi": "Thật lòng mình giận anh ấy." }
+                  ],
+                  "close": { "en": "Let's just go without him.", "vi": "Thôi mình đi không có anh ấy." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I'm not happy with the quality, I'm afraid.",
+                  "vi": "E là tôi không hài lòng với chất lượng.",
+                  "note": "<b>happy with</b> đi với kết quả, sản phẩm. Thêm <i>I'm afraid</i> để phàn nàn nhã hơn. Xem [Khung 54].",
+                  "reply": [
+                    { "them": "I'm sorry to hear that. What's the issue?", "themvi": "Em rất tiếc ạ. Có vấn đề gì ạ?", "you": "It's already coming apart.", "youvi": "Nó đã bung ra rồi." }
+                  ],
+                  "close": { "en": "Could I exchange it?", "vi": "Tôi đổi được không ạ?" }
+                },
+                {
+                  "en": "I'm interested in the larger size.",
+                  "vi": "Tôi quan tâm đến cỡ lớn hơn.",
+                  "reply": [
+                    { "them": "Let me check the stock.", "themvi": "Để em kiểm tra hàng ạ.", "you": "Thank you.", "youvi": "Cảm ơn em." }
+                  ],
+                  "vars": [
+                    { "en": "I'm keen on the larger one.", "vi": "Tôi thích cái lớn hơn." }
+                  ]
+                },
+                {
+                  "en": "I'm very satisfied with the service, thank you.",
+                  "vi": "Tôi rất hài lòng với dịch vụ, cảm ơn em.",
+                  "note": "<b>satisfied with</b> — trang trọng hơn <i>happy with</i>, hay dùng khi đánh giá chính thức.",
+                  "reply": [
+                    { "them": "That's lovely to hear.", "themvi": "Nghe vậy em mừng quá ạ.", "you": "I'll leave a review.", "youvi": "Tôi sẽ để lại đánh giá." }
+                  ]
+                },
+                {
+                  "en": "I'm a bit annoyed about the extra charge.",
+                  "vi": "Tôi hơi bực về khoản phụ phí.",
+                  "note": "Bực về SỰ VIỆC dùng <b>about</b>. Bực với NGƯỜI mới dùng <i>with</i>.",
+                  "reply": [
+                    { "them": "Let me look into it for you.", "themvi": "Để em kiểm tra giúp anh/chị ạ.", "you": "It wasn't mentioned anywhere.", "youvi": "Chẳng thấy ghi ở đâu cả." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I'm nervous about the flight, honestly.",
+                  "vi": "Thật lòng thì tôi hồi hộp về chuyến bay.",
+                  "reply": [
+                    { "them": "It's a short one, don't worry.", "themvi": "Chuyến ngắn thôi, đừng lo.", "you": "That does help.", "youvi": "Nghe vậy cũng đỡ." }
+                  ]
+                },
+                {
+                  "en": "I'm tired from the journey.",
+                  "vi": "Tôi mệt vì chuyến đi.",
+                  "note": "BẪY: <b>tired from</b> = mệt VÌ; <b>tired of</b> = chán ngán. Hai nghĩa khác hẳn nhau.",
+                  "reply": [
+                    { "them": "Get some rest.", "themvi": "Nghỉ ngơi chút đi.", "you": "I plan to sleep till noon.", "youvi": "Tôi định ngủ đến trưa." }
+                  ],
+                  "vars": [
+                    { "en": "I'm tired of travelling, to be honest.", "vi": "Thật lòng thì tôi chán đi lại rồi." }
+                  ]
+                },
+                {
+                  "en": "I'm afraid of heights, so no cable car for me.",
+                  "vi": "Tôi sợ độ cao nên không đi cáp treo đâu.",
+                  "note": "Sợ MỘT THỨ dùng <b>of</b>. Còn <i>afraid to + V</i> là sợ không dám làm gì.",
+                  "reply": [
+                    { "them": "We'll walk up then.", "themvi": "Vậy mình đi bộ lên.", "you": "That's very kind of you.", "youvi": "Bạn tốt quá." }
+                  ]
+                },
+                {
+                  "en": "I was really impressed by the view.",
+                  "vi": "Tôi thật sự ấn tượng với khung cảnh.",
+                  "note": "<b>impressed by</b> hoặc <b>with</b> đều được — <i>by</i> phổ biến hơn một chút.",
+                  "reply": [
+                    { "them": "Worth the climb?", "themvi": "Đáng công leo chứ?", "you": "Every step.", "youvi": "Từng bước một đều đáng." }
+                  ],
+                  "close": { "en": "I'd do it again tomorrow.", "vi": "Mai tôi sẵn sàng leo lại." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I'm excited about trying this place.",
+                  "vi": "Mình háo hức được thử quán này.",
+                  "note": "Sau <b>about</b> có thể là V-ing — đây là giới từ nên theo quy tắc chung.",
+                  "reply": [
+                    { "them": "It's had great reviews.", "themvi": "Đánh giá tốt lắm.", "you": "Let's not expect too much.", "youvi": "Đừng kỳ vọng nhiều quá." }
+                  ]
+                },
+                {
+                  "en": "I'm happy with anything, honestly.",
+                  "vi": "Thật lòng thì mình ăn gì cũng được.",
+                  "note": "<b>happy with</b> ở đây nghĩa là “chấp nhận được, không kén chọn” — rất tiện khi bàn chỗ ăn.",
+                  "reply": [
+                    { "them": "You always say that!", "themvi": "Lúc nào bạn cũng nói vậy!", "you": "Because it's true.", "youvi": "Vì đúng mà." }
+                  ],
+                  "vars": [
+                    { "en": "I don't mind either way.", "vi": "Mình sao cũng được." }
+                  ]
+                },
+                {
+                  "en": "I'm grateful for the invitation.",
+                  "vi": "Tôi biết ơn vì lời mời.",
+                  "note": "<b>grateful for</b> — luôn đi với <i>for</i>. Xem [Khung 78].",
+                  "reply": [
+                    { "them": "We're glad you could come.", "themvi": "Bọn mình mừng vì bạn đến được.", "you": "I wouldn't have missed it.", "youvi": "Mình không thể bỏ lỡ." }
+                  ]
+                },
+                {
+                  "en": "I'm a bit disappointed with this dish.",
+                  "vi": "Mình hơi thất vọng về món này.",
+                  "note": "<b>disappointed with</b> về một THỨ. Nếu nói <i>disappointed in</i> thì là về con người.",
+                  "reply": [
+                    { "them": "Shall we send it back?", "themvi": "Hay mình trả lại?", "you": "No, it's fine. Just not great.", "youvi": "Thôi, không sao. Chỉ là không ngon lắm." }
+                  ],
+                  "close": { "en": "The starter was lovely, though.", "vi": "Nhưng món khai vị thì ngon." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Nêu mối lo trong cuộc họp",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Can I raise something? I'm a bit worried about the deadline.", "vi": "Cho tôi nêu một việc được không? Tôi hơi lo về hạn chót." },
+            { "speaker": "Manager", "en": "What are you worried about exactly?", "vi": "Cụ thể anh/chị lo điều gì?" },
+            { "speaker": "You", "me": true, "en": "We're two days behind, and I'm not happy with the testing coverage.", "vi": "Mình chậm hai ngày, và tôi không hài lòng với độ phủ kiểm thử." },
+            { "speaker": "Manager", "en": "I can see why you're concerned.", "vi": "Tôi hiểu vì sao anh/chị lo." },
+            { "speaker": "You", "me": true, "en": "I'm interested in bringing in extra help, if that's possible.", "vi": "Tôi muốn bổ sung người hỗ trợ, nếu được." },
+            { "speaker": "Manager", "en": "Let me look into it. Nothing to worry about yet.", "vi": "Để tôi xem. Chưa có gì phải lo đâu." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Chia vui với bạn về tin vui",
+          "lines": [
+            { "speaker": "Friend", "en": "We're moving to Da Nang next month!", "vi": "Tháng sau bọn mình chuyển vào Đà Nẵng!" },
+            { "speaker": "You", "me": true, "en": "I'm so happy for you! Are you excited about it?", "vi": "Mình mừng cho bạn quá! Bạn có háo hức không?" },
+            { "speaker": "Friend", "en": "Excited and nervous about the move itself.", "vi": "Vừa háo hức vừa hồi hộp về chuyện chuyển nhà." },
+            { "speaker": "You", "me": true, "en": "That's normal. I'm proud of you for taking the leap.", "vi": "Bình thường mà. Mình tự hào vì bạn dám liều." },
+            { "speaker": "Friend", "en": "Thanks. I'm grateful for all your help this year.", "vi": "Cảm ơn bạn. Mình biết ơn vì bạn đã giúp cả năm nay." },
+            { "speaker": "You", "me": true, "en": "Any time. I'm happy with how it's all worked out.", "vi": "Lúc nào cũng vậy. Mình hài lòng với cách mọi chuyện diễn ra." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'm worried for the deadline.", "right": "I'm worried about the deadline.", "why": "BẪY PHỔ BIẾN NHẤT. <b>worried</b> luôn đi với <b>about</b>. <i>worried for</i> chỉ dùng khi lo cho an nguy của một người." },
+            { "wrong": "I'm interested about the role.", "right": "I'm interested in the role.", "why": "<b>interested</b> luôn đi với <b>in</b> — không bao giờ <i>about</i>." },
+            { "wrong": "I'm proud for you.", "right": "I'm proud of you.", "why": "<b>proud</b> luôn đi với <b>of</b>. Đây là giới từ cố định, không suy luận được." },
+            { "wrong": "I'm happy about you. <i>(ý: mừng cho bạn)</i>", "right": "I'm happy for you.", "why": "<b>for</b> + NGƯỜI = mừng thay cho họ. <i>happy about</i> dùng cho sự việc." },
+            { "wrong": "I'm tired of the journey. <i>(ý: mệt vì chuyến đi)</i>", "right": "I'm tired from the journey.", "why": "<b>tired from</b> = mệt VÌ. <b>tired of</b> = chán ngán. Hai nghĩa khác hẳn nhau." },
+            { "wrong": "I'm angry about him.", "right": "I'm angry with him.", "why": "Giận NGƯỜI dùng <b>with</b>. Bực về CHUYỆN mới dùng <b>about</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Nói về", "Ví dụ"],
+          "rows": [
+            ["<code>adj + about</code>", "Sự việc, tình huống", "<i>worried about the deadline</i>"],
+            ["<code>adj + with</code>", "Kết quả, sản phẩm, người", "<i>happy with the result</i>"],
+            ["<code>adj + for</code>", "Người mà bạn cảm nhận thay", "<i>happy for you</i>"],
+            ["<code>adj + in</code>", "Lĩnh vực quan tâm", "<i>interested in the role</i>"],
+            ["<code>adj + of</code>", "Đối tượng của cảm xúc", "<i>proud of you</i>"],
+            ["<code>adj + to</code>", "Cách cư xử với người", "<i>kind to me</i>"],
+            ["<code>I'm + adj</code>", "Không nêu nguyên nhân", "<i>I'm tired.</i> Xem [Khung 81]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — nói bạn không hài lòng" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'm not entirely happy with it.", "vi": "Nhẹ nhất — còn để ngỏ" },
+            { "en": "I'm a bit disappointed with the result.", "vi": "Thất vọng nhẹ về kết quả" },
+            { "en": "I'm not happy with the quality.", "vi": "Rõ ràng, chuẩn mực" },
+            { "en": "I'm annoyed about the whole thing.", "vi": "Bực rõ rệt" },
+            { "en": "I'm fed up with it.", "vi": "Chán ngấy — mạnh nhất" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "Giới từ luôn đọc <b>rất nhẹ và không nhấn</b> — <i>about</i> thành /əˈbaʊt/, <i>with</i> thành /wɪð/ lướt qua.",
+            "<b>worried about</b> nối âm thành <b>“WOR-id-ə-baut”</b> — âm /d/ nối sang nguyên âm.",
+            "<b>happy with</b> → “HAP-i-wið”, hai từ dính liền.",
+            "<b>interested in</b> → “IN-trəs-tid-in” — khi nói nhanh, <i>interested</i> chỉ còn ba âm tiết.",
+            "<b>proud of</b> → “praud-əv”, chữ <i>of</i> lướt thành /əv/.",
+            "<b>Trọng âm rơi vào TÍNH TỪ và DANH TỪ</b>, giới từ ở giữa nói lướt qua rất nhanh."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm a bit worried about the deadline.", "vi": "Luyện shadowing: “WOR-id-ə-baut”, nuốt nhẹ giới từ." },
+            { "en": "I'm really pleased with how it went.", "vi": "Tập nối “PLEEZD-wið” và nhấn vào WENT ở cuối." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi lo về hạn chót.", "blank": "I'm worried __________ the deadline.", "a": "about (KHÔNG phải “for”)" },
+            { "vi": "Tôi hài lòng với kết quả.", "blank": "I'm happy __________ the result.", "a": "with" },
+            { "vi": "Mình mừng cho bạn quá!", "blank": "I'm so happy __________ you!", "a": "for" },
+            { "vi": "Tôi quan tâm đến vị trí đó.", "blank": "I'm interested __________ the role.", "a": "in (KHÔNG phải “about”)" },
+            { "vi": "Mình rất tự hào về bạn.", "blank": "I'm so proud __________ you.", "a": "of" },
+            { "vi": "Tôi mệt vì chuyến đi.", "blank": "I'm tired __________ the journey.", "a": "from (“of” = chán ngán)" },
+            { "vi": "Tôi giận anh ấy.", "blank": "I'm angry __________ him.", "a": "with (người)" },
+            { "vi": "Mình chán ngấy cảnh chờ đợi.", "blank": "I'm __________ waiting.", "a": "fed up with" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi hơi lo về hạn chót.", "a": "I'm a bit worried about the deadline." },
+            { "vi": "2. Tôi thật sự hài lòng với cách mọi việc diễn ra.", "a": "I'm really pleased with how it went." },
+            { "vi": "3. Mình mừng cho bạn quá!", "a": "I'm so happy for you!" },
+            { "vi": "4. Thật lòng thì tôi thất vọng về kết quả.", "a": "I'm disappointed with the results, to be honest." },
+            { "vi": "5. Tôi sợ độ cao nên không đi cáp treo đâu.", "a": "I'm afraid of heights, so no cable car for me." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Học tính từ kèm luôn giới từ</b> như một khối: <i>worried about</i>, <i>interested in</i>, <i>proud of</i>. Đừng học rời rồi đoán.",
+            "<b>Nhớ bộ ba “happy”:</b> <i>about</i> + sự việc, <i>with</i> + kết quả, <i>for</i> + người.",
+            "<b>Hai lỗi phổ biến nhất của người Việt:</b> <i>worried for</i> ✗ và <i>interested about</i> ✗. Sửa hai cái này trước.",
+            "<b>Phân biệt “tired of” và “tired from”</b> — chán ngán khác hẳn mệt mỏi.",
+            "<b>Giận người thì “with”, bực chuyện thì “about”</b> — áp dụng cho cả <i>angry</i> và <i>annoyed</i>.",
+            "<b>Bài tập 3 phút:</b> viết tám câu cảm xúc về tuần này, mỗi câu dùng một giới từ khác nhau, rồi kiểm tra lại từng cặp."
+          ]
+        }
+      ]
+    }
+  ]
+}

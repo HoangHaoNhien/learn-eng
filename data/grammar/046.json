@@ -1,0 +1,277 @@
+{
+  "id": 46,
+  "group": "Nhóm 11 · Mệnh đề & Dạng câu",
+  "title": "Câu bị động — be + V3",
+  "subtitle": "Công thức chỉ có một: be + V3. Bẫy lớn nhất của người Việt là dùng V2 thay V3 hoặc quên hẳn chữ be — The letter wrote by him ✗. Bẫy thứ hai là gán bị động cho động từ không có tân ngữ: The accident was happened ✗.",
+  "meaning": "Đưa đối tượng chịu tác động lên làm chủ ngữ",
+  "rule": [
+    "<em>be + V3</em> — chữ <em>be</em> gánh thì, V3 không đổi",
+    "Chỉ động từ có TÂN NGỮ mới có bị động",
+    "<em>by + người</em> chỉ thêm khi thật sự cần"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1", "hot": true },
+    { "text": "was happened ✗" },
+    { "text": "V3 chứ không phải V2" },
+    { "text": "Tần suất: cao (văn viết)" }
+  ],
+  "frames": [23, 27, 28, 75, 100],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Câu bị động đưa <b>đối tượng chịu tác động</b> lên làm chủ ngữ. Công thức chỉ có một: <b>be + V3</b>. Chữ <i>be</i> gánh thì và ngôi; <b>V3 không bao giờ đổi</b>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — phải là V3, và không được thiếu <i>be</i>:</b><br><i>The letter <b>wrote</b> by him</i> ✗ (thiếu <i>be</i>)<br><i>The letter was <b>wrote</b> by him</i> ✗ (<i>wrote</i> là V2)<br><i>The letter <b>was written</b> by him</i> ✓<br>Chủ động <i>He wrote the letter</i> → bị động <i>The letter <b>was written</b></i>. Cột V3 trong bảng động từ bất quy tắc là cột dùng cho bị động. Xem [Ngữ pháp 06]." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — không phải động từ nào cũng có bị động:</b><br><i>The accident <b>was happened</b></i> ✗ → <i>The accident <b>happened</b></i> ✓<br>Chỉ động từ <b>có tân ngữ</b> mới chuyển sang bị động được. Những từ như <i>happen, occur, appear, arrive, come, go, die, rise</i> không có tân ngữ nên <b>không có dạng bị động</b>." },
+        { "t": "h3", "text": "Đổi chủ động sang bị động trong ba bước" },
+        {
+          "t": "table",
+          "head": ["Bước", "Làm gì", "Ví dụ"],
+          "rows": [
+            ["1", "Tân ngữ nhảy lên làm chủ ngữ", "the letter …"],
+            ["2", "Động từ đổi thành <code>be + V3</code>, giữ nguyên thì", "… was written"],
+            ["3", "Chủ ngữ cũ xuống sau <code>by</code>, hoặc bỏ hẳn", "… (by him)"],
+            ["Kết quả", "Câu bị động hoàn chỉnh", "The letter was written by him."]
+          ]
+        },
+        { "t": "p", "html": "Phần <b>by + người</b> thường được <b>bỏ hẳn</b> khi không quan trọng hoặc không biết ai làm: <i>My car <b>was stolen</b>.</i>" }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Thì / dạng", "Bị động", "Ví dụ"],
+          "rows": [
+            ["Hiện tại đơn", "am/is/are + V3", "English is spoken here."],
+            ["Hiện tại tiếp diễn", "am/is/are being + V3", "The road is being repaired."],
+            ["Quá khứ đơn", "was/were + V3", "The letter was written by him."],
+            ["Quá khứ tiếp diễn", "was/were being + V3", "The house was being painted."],
+            ["Hiện tại hoàn thành", "have/has been + V3", "The work has been done."],
+            ["Quá khứ hoàn thành", "had been + V3", "It had been finished before I came."],
+            ["Tương lai", "will be + V3", "It will be sent tomorrow."],
+            ["Tương lai hoàn thành", "will have been + V3", "It will have been done by then."],
+            ["Với modal", "modal + be + V3", "It must be done today."],
+            ["Modal hoàn thành", "modal + have been + V3", "It should have been sent."],
+            ["Nguyên thể", "to be + V3", "I want to be told the truth."],
+            ["Danh động từ", "being + V3", "I hate being rushed."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Nhìn cả bảng sẽ thấy một điều:</b> cột bên phải <b>chỉ có một chữ thay đổi</b> — chính là dạng của <i>be</i>. Còn V3 thì <b>đứng yên ở mọi dòng</b>. Nhớ luật này là chia được toàn bộ bảng." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "The letter was written by him.", "vi": "Bức thư do anh ấy viết.", "note": "BẪY SỐ MỘT: <i>was wrote</i> ✗ — phải là V3 <b>written</b>." },
+            { "en": "English is spoken here.", "vi": "Ở đây người ta nói tiếng Anh.", "note": "Không cần <i>by</i> vì không rõ ai." },
+            { "en": "My car was stolen last night.", "vi": "Xe tôi bị mất tối qua.", "note": "Tiếng Việt dùng “bị”, tiếng Anh dùng <b>was + V3</b>." },
+            { "en": "The road is being repaired.", "vi": "Đường đang được sửa.", "note": "Tiếp diễn bị động: <b>is being</b> + V3." },
+            { "en": "The work has been done.", "vi": "Việc đã xong rồi.", "note": "Hoàn thành bị động: <b>has been</b> + V3." },
+            { "en": "It will be sent tomorrow.", "vi": "Mai nó sẽ được gửi đi.", "note": "<b>will be</b> + V3 — sau <i>will</i> luôn là <i>be</i> trần." },
+            { "en": "It must be done today.", "vi": "Hôm nay phải làm xong.", "note": "Modal + <b>be</b> + V3. Xem [Ngữ pháp 31]." },
+            { "en": "It should have been sent yesterday.", "vi": "Lẽ ra hôm qua phải gửi rồi.", "note": "Modal hoàn thành bị động. Xem [Ngữ pháp 33]." },
+            { "en": "I hate being interrupted.", "vi": "Tôi ghét bị ngắt lời.", "note": "Sau động từ cần V-ing thì bị động là <b>being</b> + V3. Xem [Ngữ pháp 28]." },
+            { "en": "I was told to wait here.", "vi": "Tôi được bảo là đợi ở đây.", "note": "<b>be told</b> rất hay gặp, nghĩa “được bảo, được cho biết”." },
+            { "en": "The accident happened at six.", "vi": "Tai nạn xảy ra lúc sáu giờ.", "note": "BẪY SỐ HAI: <i>was happened</i> ✗ — <i>happen</i> không có bị động." },
+            { "en": "Am I allowed to park here?", "vi": "Tôi đỗ xe đây có được không?", "note": "<b>be allowed to</b> — một cụm bị động cực kỳ thông dụng. Xem [Khung 23]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🤷", "title": "Không biết ai làm", "text": "<i>My car was stolen.</i> Không cần nói ai." },
+            { "icon": "🎯", "title": "Ai làm không quan trọng", "text": "<i>English is spoken here.</i>" },
+            { "icon": "📋", "title": "Văn bản, thông báo", "text": "<i>Payment must be made by Friday.</i>" },
+            { "icon": "🫣", "title": "Tránh chỉ mặt người gây lỗi", "text": "<i>A mistake was made.</i> Nhẹ hơn <i>You made a mistake</i>." },
+            { "icon": "🔦", "title": "Muốn nhấn vào đối tượng", "text": "<i>This house was built in 1920.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Động từ không có tân ngữ: <i>was happened</i> ✗." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một mục ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi mục đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Cụm bị động hay dùng",
+              "items": [
+                { "w": "be allowed to", "vi": "được phép", "ex": "Am I allowed to park here?", "exvi": "Tôi đỗ xe đây có được không? Xem [Khung 23]." },
+                { "w": "be supposed to", "vi": "lẽ ra phải", "ex": "You're not supposed to smoke here.", "exvi": "Ở đây không được hút thuốc. Xem [Khung 27]." },
+                { "w": "be told", "vi": "được bảo, được cho biết", "ex": "I was told to wait here.", "exvi": "Tôi được bảo là đợi ở đây." },
+                { "w": "be given", "vi": "được cho", "ex": "I was given a second chance.", "exvi": "Tôi được cho một cơ hội nữa.", "note": "Động từ hai tân ngữ thì người thường lên làm chủ ngữ. Xem [Ngữ pháp 43]." },
+                { "w": "be made", "vi": "được làm, bị bắt", "ex": "It's made in Vietnam.", "exvi": "Nó được sản xuất ở Việt Nam.", "note": "Bị động của <i>make sb do</i> phải thêm <i>to</i>: <i>was made <b>to</b> wait</i>. Xem [Ngữ pháp 27]." },
+                { "w": "be built", "vi": "được xây", "ex": "This house was built in 1920.", "exvi": "Ngôi nhà này xây năm 1920." },
+                { "w": "be stolen", "vi": "bị mất cắp", "ex": "My car was stolen last night.", "exvi": "Xe tôi bị mất tối qua." },
+                { "w": "be sent", "vi": "được gửi", "ex": "It will be sent tomorrow.", "exvi": "Mai nó sẽ được gửi đi." },
+                { "w": "be done", "vi": "được làm xong", "ex": "The work has been done.", "exvi": "Việc đã xong rồi." },
+                { "w": "be repaired", "vi": "được sửa", "ex": "The road is being repaired.", "exvi": "Đường đang được sửa." },
+                { "w": "be interrupted", "vi": "bị ngắt lời", "ex": "I hate being interrupted.", "exvi": "Tôi ghét bị ngắt lời.", "note": "Sau động từ cần V-ing thì dùng <b>being</b> + V3." },
+                { "w": "be based on", "vi": "dựa trên", "ex": "The film is based on a true story.", "exvi": "Phim dựa trên chuyện có thật.", "note": "Cụm cố định, luôn ở dạng bị động." }
+              ]
+            },
+            {
+              "title": "Động từ KHÔNG có bị động & từ nối",
+              "items": [
+                { "w": "happen", "vi": "xảy ra", "ex": "The accident happened at six.", "exvi": "Tai nạn xảy ra lúc sáu giờ.", "note": "BẪY SỐ HAI: <i>was happened</i> ✗ — không có tân ngữ nên không có bị động." },
+                { "w": "occur", "vi": "xảy ra (trang trọng)", "ex": "The problem occurred last week.", "exvi": "Vấn đề xảy ra tuần trước.", "note": "<i>was occurred</i> ✗." },
+                { "w": "appear", "vi": "xuất hiện", "ex": "He appeared at the door.", "exvi": "Anh ấy xuất hiện ở cửa." },
+                { "w": "arrive", "vi": "đến nơi", "ex": "We arrived at ten.", "exvi": "Bọn tôi đến lúc mười giờ.", "note": "<i>was arrived</i> ✗. Và <i>arrive to</i> cũng ✗. Xem [Ngữ pháp 40]." },
+                { "w": "die", "vi": "chết, mất", "ex": "He died in 1990.", "exvi": "Ông ấy mất năm 1990.", "note": "<i>was died</i> ✗." },
+                { "w": "rise", "vi": "tăng lên", "ex": "Prices rose last year.", "exvi": "Năm ngoái giá tăng.", "note": "<i>rise</i> không có tân ngữ · <i>raise</i> thì có và có bị động." },
+                { "w": "belong to", "vi": "thuộc về", "ex": "This book belongs to me.", "exvi": "Quyển sách này của tôi.", "note": "Động từ trạng thái, không dùng bị động." },
+                { "w": "by", "vi": "bởi", "ex": "The letter was written by him.", "exvi": "Bức thư do anh ấy viết.", "note": "Chỉ thêm khi người làm thật sự quan trọng." },
+                { "w": "with", "vi": "bằng (công cụ)", "ex": "It was cut with a knife.", "exvi": "Nó bị cắt bằng dao.", "note": "Người thì dùng <b>by</b>, công cụ thì dùng <b>with</b>." },
+                { "w": "get + V3", "vi": "bị, được (văn nói)", "ex": "He got fired last week.", "exvi": "Tuần trước anh ấy bị đuổi việc.", "note": "<b>get</b> thay <b>be</b> trong văn nói, nghe đời hơn." },
+                { "w": "It is said that…", "vi": "người ta nói rằng", "ex": "It is said that he's rich.", "exvi": "Người ta nói ông ấy giàu.", "note": "Cấu trúc bị động vô nhân xưng, rất hay gặp trong báo chí." },
+                { "w": "He is said to…", "vi": "ông ấy được cho là", "ex": "He is said to be very rich.", "exvi": "Ông ấy được cho là rất giàu." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "The letter <b>wrote</b> by him.", "right": "The letter <b>was written</b> by him.", "why": "BẪY SỐ MỘT: thiếu hẳn chữ <b>be</b>. Không có <i>be</i> thì không phải bị động." },
+            { "wrong": "The letter was <b>wrote</b> by him.", "right": "The letter was <b>written</b> by him.", "why": "<i>wrote</i> là V2. Bị động luôn dùng <b>V3</b>. Xem [Ngữ pháp 06]." },
+            { "wrong": "The accident <b>was happened</b>.", "right": "The accident <b>happened</b>.", "why": "BẪY SỐ HAI: <i>happen</i> không có tân ngữ nên không có bị động." },
+            { "wrong": "He <b>was died</b> in 1990.", "right": "He <b>died</b> in 1990.", "why": "Cùng lỗi — <i>die</i> không có bị động dù tiếng Việt hay nói “bị mất”." },
+            { "wrong": "It <b>must be done</b> — viết thành <i>must is done</i>.", "right": "It <b>must be done</b> today.", "why": "Sau modal luôn là <b>be</b> trần, không chia. Xem [Ngữ pháp 29]." },
+            { "wrong": "It <b>will be sent</b> — viết thành <i>will is sent</i>.", "right": "It <b>will be sent</b> tomorrow.", "why": "Sau <i>will</i> cũng là <b>be</b> trần." },
+            { "wrong": "The work <b>has done</b>.", "right": "The work <b>has been done</b>.", "why": "Thiếu <b>been</b>. Hoàn thành bị động là <i>have/has <b>been</b> + V3</i>." },
+            { "wrong": "I hate <b>be interrupted</b>.", "right": "I hate <b>being interrupted</b>.", "why": "Sau <i>hate</i> cần V-ing nên bị động là <b>being</b> + V3. Xem [Ngữ pháp 28]." },
+            { "wrong": "He was made <b>wait</b> for an hour.", "right": "He was made <b>to wait</b> for an hour.", "why": "Chủ động <i>make sb do</i> không có <i>to</i>, nhưng bị động thì PHẢI có. Xem [Ngữ pháp 27]." },
+            { "wrong": "The road <b>is repairing</b>.", "right": "The road <b>is being repaired</b>.", "why": "<i>is repairing</i> nghĩa là con đường đang tự sửa ai đó. Tiếp diễn bị động là <b>is being</b> + V3." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>was written</code> / <code>wrote</code>", "Bị động / chủ động", "The letter was written ≠ He wrote it"],
+            ["<code>is repairing</code> / <code>is being repaired</code>", "Chủ động / bị động tiếp diễn", "is being repaired ✓"],
+            ["<code>has done</code> / <code>has been done</code>", "Chủ động / bị động hoàn thành", "has been done ✓"],
+            ["<code>be + V3</code> / <code>get + V3</code>", "Trung tính / văn nói, nhấn vào biến cố", "was fired ≠ got fired"],
+            ["<code>by</code> / <code>with</code>", "Người làm / công cụ", "by him ≠ with a knife"],
+            ["<code>happen</code>", "Không có tân ngữ — không có bị động", "The accident happened ✓"],
+            ["<code>It is said that…</code>", "Bị động vô nhân xưng", "It is said that he's rich."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: có nên dùng bị động không?" },
+        {
+          "t": "tree",
+          "q": "Bạn đang định viết một câu — dùng chủ động hay bị động?",
+          "nodes": [
+            { "if": "Động từ KHÔNG có tân ngữ", "then": "Bắt buộc chủ động, không có bị động", "ex": "The accident happened." },
+            { "if": "Không biết ai làm", "then": "Bị động, bỏ by", "ex": "My car was stolen." },
+            { "if": "Ai làm không quan trọng", "then": "Bị động, bỏ by", "ex": "English is spoken here." },
+            { "if": "Muốn nhấn vào người làm", "then": "Chủ động, hoặc bị động + by", "ex": "The letter was written by him." },
+            { "if": "Đang viết nội quy, thông báo", "then": "Bị động với modal", "ex": "Payment must be made by Friday." },
+            { "if": "Nói chuyện đời thường, chuyện xui", "then": "get + V3", "ex": "He got fired." }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ nhẹ nhàng khi nói về lỗi" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "You made a mistake.", "vi": "Nặng nhất — chỉ thẳng mặt" },
+            { "en": "There was a mistake in your report.", "vi": "Nhẹ hơn" },
+            { "en": "A mistake was made.", "vi": "Bị động — không nhắc ai" },
+            { "en": "Something seems to have been missed.", "vi": "Rất nhẹ" },
+            { "en": "It looks like something may have been overlooked.", "vi": "Nhẹ nhất — gần như xin lỗi hộ" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Câu bị động xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 23, "why": "Am I allowed to + V? — be allowed to, cụm bị động thông dụng nhất khi xin phép." },
+            { "id": 27, "why": "You're not supposed to + V — be supposed to, bị động dùng để nhắc nội quy." },
+            { "id": 28, "why": "I'm afraid you can't + V — cách từ chối, hay đi kèm It's not allowed." },
+            { "id": 100, "why": "There is / There are + N — There's a meeting scheduled for Monday." },
+            { "id": 75, "why": "I work for + công ty — I was hired last year, bị động khi kể chuyện công việc." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Đổi sang bị động" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Anh ấy viết bức thư.", "blank": "He wrote the letter.  →  The letter __________ by him.", "a": "was written" },
+            { "vi": "Ở đây người ta nói tiếng Anh.", "blank": "People speak English here.  →  English __________ here.", "a": "is spoken" },
+            { "vi": "Họ đang sửa đường.", "blank": "They are repairing the road.  →  The road __________.", "a": "is being repaired" },
+            { "vi": "Họ đã làm xong việc.", "blank": "They have done the work.  →  The work __________.", "a": "has been done" },
+            { "vi": "Mai họ sẽ gửi nó đi.", "blank": "They will send it tomorrow.  →  It __________ tomorrow.", "a": "will be sent" },
+            { "vi": "Hôm nay phải làm xong.", "blank": "We must do it today.  →  It __________ today.", "a": "must be done" },
+            { "vi": "Ai đó lấy mất xe tôi.", "blank": "Someone stole my car.  →  My car __________.", "a": "was stolen" },
+            { "vi": "Tai nạn xảy ra lúc sáu giờ.", "blank": "The accident __________ at six.", "a": "happened — không có bị động" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn câu đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Bức thư do anh ấy viết.", "blank": "(a) The letter was wrote by him.  (b) The letter was written by him.", "a": "(b)" },
+            { "vi": "Tai nạn xảy ra lúc sáu giờ.", "blank": "(a) The accident was happened at six.  (b) The accident happened at six.", "a": "(b)" },
+            { "vi": "Việc đã xong rồi.", "blank": "(a) The work has done.  (b) The work has been done.", "a": "(b)" },
+            { "vi": "Tôi ghét bị ngắt lời.", "blank": "(a) I hate be interrupted.  (b) I hate being interrupted.", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Xe tôi bị mất tối qua.", "a": "My car was stolen last night." },
+            { "vi": "2. Hôm nay phải làm xong việc này.", "a": "It must be done today." },
+            { "vi": "3. Tôi được bảo là đợi ở đây.", "a": "I was told to wait here." },
+            { "vi": "4. Ngôi nhà này xây năm 1920.", "a": "This house was built in 1920." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Một công thức duy nhất:</b> <i>be + V3</i>. Chữ <b>be</b> gánh thì, <b>V3 đứng yên</b> ở mọi dòng của bảng.",
+            "<b>Trước khi viết bị động, hỏi: động từ này có tân ngữ không?</b> Không có thì không có bị động — <i>happen, arrive, die, appear</i>.",
+            "<b>Sau modal và <i>will</i> luôn là <i>be</i> trần:</b> <i>must be done</i>, <i>will be sent</i>. Không bao giờ <i>must is</i>.",
+            "<b>Hoàn thành bị động cần đủ ba từ:</b> <i>has <b>been</b> done</i>. Thiếu <i>been</i> là lỗi hay gặp nhất ở trình B1.",
+            "<b><i>by</i> cho người, <i>with</i> cho công cụ</b> — và phần lớn câu bị động thật ra <b>không cần <i>by</i></b>.",
+            "<b>Bài tập 3 phút:</b> lấy năm câu chủ động trong email của bạn, đổi sang bị động, rồi xóa <i>by</i> xem câu có còn rõ nghĩa không."
+          ]
+        }
+      ]
+    }
+  ]
+}

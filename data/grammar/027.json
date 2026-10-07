@@ -1,0 +1,277 @@
+{
+  "id": 27,
+  "group": "Nhóm 8 · Dạng theo sau động từ",
+  "title": "make · let · have somebody do",
+  "subtitle": "Nhóm động từ sai khiến và tri giác có một đặc điểm hiếm: sau chúng là động từ TRẦN, không có to. He made me wait ✓. Nhưng ngay cạnh đó là get somebody TO do và be made TO do — có to hẳn hoi, nên rất dễ lẫn.",
+  "meaning": "Bắt ai làm gì · cho phép ai làm gì · thấy ai làm gì",
+  "rule": [
+    "<em>make / let / have</em> + người + <em>V trần</em>",
+    "<em>get</em> + người + <em>to V</em>",
+    "<em>see / hear</em> + người + <em>V trần</em> hoặc <em>V-ing</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1–B2", "hot": true },
+    { "text": "make me wait — không có to" },
+    { "text": "get me TO wait — có to" },
+    { "text": "Tần suất: cao" }
+  ],
+  "frames": [57, 79, 88, 92, 96],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Tiếng Anh có một nhóm nhỏ động từ mà sau chúng là <b>động từ trần</b>, không có <i>to</i>. Đó là nhóm <b>sai khiến</b> (<i>make, let, have</i>) và nhóm <b>tri giác</b> (<i>see, hear, watch, feel</i>)." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — ba từ không có <i>to</i>:</b><br>• <i>He <b>made me wait</b></i> ✓ — bắt tôi chờ<br>• <i>She <b>let me go</b></i> ✓ — để tôi đi<br>• <i>I'll <b>have him call</b> you</i> ✓ — tôi sẽ bảo anh ấy gọi bạn<br>Thêm <i>to</i> vào là sai: <i>made me to wait</i> ✗." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>get</i> thì lại CÓ <i>to</i>:</b> cùng nghĩa sai khiến nhưng cấu trúc khác hẳn.<br>• <i>I'll <b>get him to call</b> you</i> ✓ — <i>get him call</i> ✗<br>Và dạng bị động của <i>make</i> cũng có <i>to</i>: <i>I <b>was made to wait</b></i> ✓." },
+        { "t": "h3", "text": "Bốn động từ sai khiến" },
+        {
+          "t": "table",
+          "head": ["Động từ", "Cấu trúc", "Sắc thái"],
+          "rows": [
+            ["<code>make</code>", "<code>make + người + V trần</code>", "BẮT ai làm — không cho chọn"],
+            ["<code>let</code>", "<code>let + người + V trần</code>", "CHO PHÉP ai làm"],
+            ["<code>have</code>", "<code>have + người + V trần</code>", "NHỜ, bảo ai làm (quyền hạn)"],
+            ["<code>get</code>", "<code>get + người + to V</code>", "THUYẾT PHỤC ai làm"]
+          ]
+        },
+        { "t": "p", "html": "Nhóm tri giác (<i>see, hear, watch, feel, notice</i>) đi được <b>cả hai dạng</b> nhưng nghĩa khác nhau: <b>V trần</b> = thấy TOÀN BỘ hành động, <b>V-ing</b> = thấy nó ĐANG diễn ra. <i>I saw him <b>cross</b> the road</i> (thấy anh ấy băng qua hẳn) vs <i>I saw him <b>crossing</b></i> (thấy lúc đang băng)." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>make + người + V trần</code>", "Bắt ai làm", "He made me wait."],
+            ["<code>let + người + V trần</code>", "Cho phép ai làm", "She let me go early."],
+            ["<code>have + người + V trần</code>", "Bảo, nhờ ai làm", "I'll have him call you."],
+            ["<code>get + người + to V</code>", "Thuyết phục ai làm", "I'll get him to call you."],
+            ["<code>have + vật + V3</code>", "Nhờ làm hộ việc gì", "I had my car repaired."],
+            ["<code>get + vật + V3</code>", "Nhờ làm hộ việc gì", "I got my hair cut."],
+            ["<code>help + người + (to) V</code>", "Giúp ai làm — cả hai đều được", "He helped me (to) carry it."],
+            ["<code>see + người + V trần</code>", "Thấy toàn bộ hành động", "I saw him cross the road."],
+            ["<code>see + người + V-ing</code>", "Thấy lúc đang diễn ra", "I saw him crossing the road."],
+            ["<code>hear / watch / feel</code>", "Cùng luật với <code>see</code>", "I heard her sing. · I heard her singing."],
+            ["Bị động của <code>make</code>", "<code>be made + to V</code>", "I was made to wait."],
+            ["Bị động của <code>let</code>", "dùng <code>be allowed to</code>", "I was allowed to go."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Hai dòng cuối là bẫy ngược đời:</b> dạng chủ động <i>make me wait</i> không có <i>to</i>, nhưng dạng bị động <i>I was made <b>to</b> wait</i> ✓ lại có. Còn <i>let</i> thì không có dạng bị động — phải đổi sang <b>be allowed to</b>." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "He made me wait for an hour.", "vi": "Anh ấy bắt tôi chờ một tiếng.", "note": "BẪY SỐ MỘT: <b>wait</b> dạng trần, không có <i>to</i>." },
+            { "en": "She let me leave early.", "vi": "Cô ấy cho tôi về sớm.", "note": "<b>let</b> cũng đi với động từ trần." },
+            { "en": "I'll have him call you back.", "vi": "Tôi sẽ bảo anh ấy gọi lại cho bạn.", "note": "<b>have + người + V trần</b> — mang ý có quyền hạn." },
+            { "en": "I'll get him to call you back.", "vi": "Tôi sẽ nhờ anh ấy gọi lại cho bạn.", "note": "BẪY SỐ HAI: <b>get</b> thì CÓ <i>to</i> — nhẹ hơn, mang ý thuyết phục." },
+            { "en": "I had my car repaired yesterday.", "vi": "Hôm qua tôi đem xe đi sửa.", "note": "<b>have + vật + V3</b> = nhờ người khác làm hộ." },
+            { "en": "I got my hair cut.", "vi": "Tôi đi cắt tóc.", "note": "Không phải tự cắt — nhờ người khác cắt." },
+            { "en": "He helped me carry the bags.", "vi": "Anh ấy giúp tôi xách túi.", "note": "<b>help</b> đi được cả hai: <i>help me carry</i> ✓ và <i>help me to carry</i> ✓." },
+            { "en": "I saw him cross the road.", "vi": "Tôi thấy anh ấy băng qua đường.", "note": "Động từ TRẦN = thấy TOÀN BỘ hành động từ đầu đến cuối." },
+            { "en": "I saw him crossing the road.", "vi": "Tôi thấy anh ấy đang băng qua đường.", "note": "<b>V-ing</b> = thấy lúc hành động ĐANG diễn ra." },
+            { "en": "I heard her singing in the kitchen.", "vi": "Tôi nghe thấy cô ấy đang hát trong bếp.", "note": "<b>hear</b> cùng luật với <i>see</i>." },
+            { "en": "I was made to wait for an hour.", "vi": "Tôi bị bắt chờ một tiếng.", "note": "Dạng BỊ ĐỘNG của <i>make</i> lại CÓ <i>to</i> — bẫy ngược đời." },
+            { "en": "I wasn't allowed to go.", "vi": "Tôi không được phép đi.", "note": "<i>let</i> không có dạng bị động — đổi sang <b>be allowed to</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "😤", "title": "Kể chuyện bị bắt làm gì", "text": "<i>He made me wait for an hour.</i>" },
+            { "icon": "✅", "title": "Nói được cho phép", "text": "<i>She let me leave early.</i>" },
+            { "icon": "📞", "title": "Hứa sẽ bảo người khác làm", "text": "<i>I'll have him call you back.</i>" },
+            { "icon": "🔧", "title": "Nhờ dịch vụ làm hộ", "text": "<i>I had my car repaired.</i> · <i>I got my hair cut.</i>" },
+            { "icon": "👀", "title": "Kể điều mình chứng kiến", "text": "<i>I saw him crossing the road.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Thêm <i>to</i> sau <i>make, let, have</i>. <i>made me to wait</i> ✗." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Nhóm sai khiến",
+              "items": [
+                { "w": "make somebody + V trần", "vi": "bắt ai làm gì", "ex": "He made me wait.", "exvi": "Anh ấy bắt tôi chờ.", "note": "BẪY SỐ MỘT: KHÔNG có <i>to</i>. <i>made me to wait</i> ✗." },
+                { "w": "make somebody feel", "vi": "làm ai cảm thấy", "ex": "It makes me feel better.", "exvi": "Nó làm tôi thấy khá hơn.", "note": "Cụm rất thông dụng khi nói cảm xúc." },
+                { "w": "let somebody + V trần", "vi": "cho phép ai làm", "ex": "She let me leave early.", "exvi": "Cô ấy cho tôi về sớm." },
+                { "w": "Let me know", "vi": "cho tôi biết nhé", "ex": "Let me know how it goes.", "exvi": "Cho tôi biết kết quả nhé.", "note": "Cụm cố định — sau <i>let me</i> là động từ trần." },
+                { "w": "let somebody down", "vi": "làm ai thất vọng", "ex": "I don't want to let you down.", "exvi": "Tôi không muốn làm bạn thất vọng.", "note": "Cụm động từ — nghĩa khác hẳn <i>let</i> thường." },
+                { "w": "have somebody + V trần", "vi": "bảo, nhờ ai làm", "ex": "I'll have him call you.", "exvi": "Tôi sẽ bảo anh ấy gọi bạn.", "note": "Mang ý có QUYỀN HẠN — sếp bảo nhân viên." },
+                { "w": "get somebody to V", "vi": "thuyết phục ai làm", "ex": "I'll get him to call you.", "exvi": "Tôi sẽ nhờ anh ấy gọi bạn.", "note": "BẪY SỐ HAI: <b>get</b> CÓ <i>to</i>. Nhẹ hơn <i>have</i>." },
+                { "w": "have something + V3", "vi": "nhờ làm hộ việc gì", "ex": "I had my car repaired.", "exvi": "Tôi đem xe đi sửa.", "note": "Không phải tự làm — nhờ người khác." },
+                { "w": "get something + V3", "vi": "nhờ làm hộ việc gì", "ex": "I got my hair cut.", "exvi": "Tôi đi cắt tóc.", "note": "Thân mật hơn <i>have something done</i>, nghĩa như nhau." },
+                { "w": "help somebody (to) V", "vi": "giúp ai làm gì", "ex": "He helped me carry the bags.", "exvi": "Anh ấy giúp tôi xách túi.", "note": "Cả hai dạng đều ĐÚNG — <i>help me carry</i> và <i>help me to carry</i>." },
+                { "w": "be made to V", "vi": "bị bắt phải", "ex": "I was made to wait.", "exvi": "Tôi bị bắt chờ.", "note": "Bị động của <i>make</i> lại CÓ <i>to</i> — bẫy ngược đời." },
+                { "w": "be allowed to V", "vi": "được phép", "ex": "I wasn't allowed to go.", "exvi": "Tôi không được phép đi.", "note": "<i>let</i> không có dạng bị động — phải đổi sang cụm này." }
+              ]
+            },
+            {
+              "title": "Nhóm tri giác & cặp V trần / V-ing",
+              "items": [
+                { "w": "see somebody + V trần", "vi": "thấy ai làm (toàn bộ)", "ex": "I saw him cross the road.", "exvi": "Tôi thấy anh ấy băng qua đường.", "note": "Thấy TOÀN BỘ hành động từ đầu đến cuối." },
+                { "w": "see somebody + V-ing", "vi": "thấy ai đang làm", "ex": "I saw him crossing the road.", "exvi": "Tôi thấy anh ấy đang băng qua đường.", "note": "Thấy lúc hành động ĐANG diễn ra, chưa xong." },
+                { "w": "hear somebody + V trần", "vi": "nghe thấy ai làm", "ex": "I heard her sing the whole song.", "exvi": "Tôi nghe cô ấy hát hết cả bài." },
+                { "w": "hear somebody + V-ing", "vi": "nghe thấy ai đang làm", "ex": "I heard her singing in the kitchen.", "exvi": "Tôi nghe cô ấy đang hát trong bếp." },
+                { "w": "watch somebody + V", "vi": "xem ai làm", "ex": "I watched them play.", "exvi": "Tôi xem họ chơi." },
+                { "w": "feel somebody + V", "vi": "cảm thấy ai làm", "ex": "I felt someone touch my arm.", "exvi": "Tôi thấy ai đó chạm vào tay mình." },
+                { "w": "notice somebody + V-ing", "vi": "để ý thấy ai đang làm", "ex": "I noticed him looking at us.", "exvi": "Tôi để ý thấy anh ấy đang nhìn bọn mình." },
+                { "w": "want somebody to V", "vi": "muốn ai làm gì", "ex": "I want you to go.", "exvi": "Tôi muốn bạn đi.", "note": "Nhóm KHÁC: <i>want, ask, tell, advise</i> đều CÓ <i>to</i>. Xem [Ngữ pháp 24]." },
+                { "w": "tell somebody to V", "vi": "bảo ai làm gì", "ex": "He told me to wait.", "exvi": "Anh ấy bảo tôi chờ.", "note": "So với <i>had me wait</i> — cùng nghĩa nhưng <i>tell</i> có <i>to</i>." },
+                { "w": "ask somebody to V", "vi": "nhờ ai làm gì", "ex": "She asked me to help.", "exvi": "Cô ấy nhờ tôi giúp." },
+                { "w": "allow somebody to V", "vi": "cho phép ai làm", "ex": "They allowed me to leave.", "exvi": "Họ cho tôi về.", "note": "Cùng nghĩa <i>let</i> nhưng CÓ <i>to</i> và trang trọng hơn." },
+                { "w": "It makes me think", "vi": "nó làm tôi nghĩ", "ex": "It makes me think of home.", "exvi": "Nó làm tôi nhớ đến nhà.", "note": "Cấu trúc hay dùng khi nói cảm xúc. Xem [Khung 83]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "He made me <b>to wait</b>.", "right": "He made me <b>wait</b>.", "why": "BẪY SỐ MỘT: sau <i>make, let, have</i> là ĐỘNG TỪ TRẦN, không có <i>to</i>." },
+            { "wrong": "She let me <b>to leave</b> early.", "right": "She let me <b>leave</b> early.", "why": "Cùng lỗi với <i>let</i>." },
+            { "wrong": "I'll get him <b>call</b> you.", "right": "I'll get him <b>to call</b> you.", "why": "BẪY SỐ HAI: <b>get</b> thì lại CÓ <i>to</i>, khác hẳn <i>make/let/have</i>." },
+            { "wrong": "I was made <b>wait</b> for an hour.", "right": "I was made <b>to wait</b> for an hour.", "why": "Dạng BỊ ĐỘNG của <i>make</i> lại có <i>to</i> — ngược với dạng chủ động." },
+            { "wrong": "I <b>was let</b> to go early.", "right": "I <b>was allowed to</b> go early.", "why": "<i>let</i> KHÔNG có dạng bị động — phải đổi sang <b>be allowed to</b>." },
+            { "wrong": "I had my car <b>repair</b>.", "right": "I had my car <b>repaired</b>.", "why": "<b>have + vật + V3</b> khi nhờ người khác làm hộ. Dạng trần là dành cho người." },
+            { "wrong": "He told me <b>wait</b>.", "right": "He told me <b>to wait</b>.", "why": "<i>tell, ask, want, advise</i> đều CÓ <i>to</i> — khác nhóm <i>make/let/have</i>." },
+            { "wrong": "I saw him <b>to cross</b> the road.", "right": "I saw him <b>cross</b> the road.", "why": "Nhóm tri giác cũng không có <i>to</i> — chỉ động từ trần hoặc V-ing." },
+            { "wrong": "It makes me <b>to feel</b> better.", "right": "It makes me <b>feel</b> better.", "why": "<i>make</i> luôn đi với động từ trần, kể cả trong cụm cảm xúc. Xem [Khung 83]." },
+            { "wrong": "<b>Let me to know</b> how it goes.", "right": "<b>Let me know</b> how it goes.", "why": "Cụm cố định <i>let me know</i> — động từ trần, không có <i>to</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Có to không", "Ví dụ"],
+          "rows": [
+            ["<code>make / let / have + người</code>", "KHÔNG có to", "He made me wait."],
+            ["<code>get + người</code>", "CÓ to", "I got him to wait."],
+            ["<code>tell / ask / want / advise</code>", "CÓ to. Xem [Ngữ pháp 24]", "He told me to wait."],
+            ["<code>help + người</code>", "Cả hai đều được", "He helped me (to) carry it."],
+            ["<code>see / hear / watch</code>", "V trần hoặc V-ing", "I saw him cross / crossing."],
+            ["<code>be made + to V</code>", "Bị động — CÓ to", "I was made to wait."],
+            ["<code>have / get + vật + V3</code>", "Nhờ làm hộ", "I had my car repaired."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: có to hay không?" },
+        {
+          "t": "tree",
+          "q": "Động từ đứng trước là từ nào?",
+          "nodes": [
+            { "if": "make, let, have (sai khiến)", "then": "Động từ TRẦN — không có to", "ex": "He made me wait." },
+            { "if": "get (thuyết phục)", "then": "to V — có to", "ex": "I got him to wait." },
+            { "if": "tell, ask, want, advise, allow", "then": "to V — có to", "ex": "He told me to wait." },
+            { "if": "help", "then": "Cả hai đều đúng", "ex": "He helped me (to) carry it." },
+            { "if": "see, hear, watch, feel — thấy toàn bộ", "then": "Động từ TRẦN", "ex": "I saw him cross the road." },
+            { "if": "see, hear, watch, feel — thấy lúc đang diễn ra", "then": "V-ing", "ex": "I saw him crossing the road." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ áp đặt khi sai khiến" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I asked him to call you.", "vi": "Nhẹ nhất — nhờ vả" },
+            { "en": "I got him to call you.", "vi": "Thuyết phục được" },
+            { "en": "I told him to call you.", "vi": "Bảo thẳng" },
+            { "en": "I had him call you.", "vi": "Có quyền hạn, sai bảo" },
+            { "en": "I made him call you.", "vi": "Mạnh nhất — bắt buộc, không cho chọn" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Nhóm động từ sai khiến xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 88, "why": "I feel bad about… — mẫu Let me make it up to you, động từ trần sau let và make." },
+            { "id": 96, "why": "When I was…, I + V2 — kể chuyện hay dùng He made me wait và I saw him crossing." },
+            { "id": 79, "why": "I'm sorry for… — xin lỗi vì đã bắt ai chờ, mẫu I made you wait." },
+            { "id": 92, "why": "I'm meeting him at six — mẫu I'll have him call you khi hẹn qua người khác." },
+            { "id": 57, "why": "It depends on… — mẫu Let me know, cụm cố định với động từ trần." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ trong ngoặc" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Anh ấy bắt tôi chờ.", "blank": "He made me __________ (wait).", "a": "wait — không có to" },
+            { "vi": "Cô ấy cho tôi về sớm.", "blank": "She let me __________ (leave) early.", "a": "leave" },
+            { "vi": "Tôi sẽ nhờ anh ấy gọi bạn.", "blank": "I'll get him __________ (call) you.", "a": "to call — get có to" },
+            { "vi": "Tôi sẽ bảo anh ấy gọi bạn.", "blank": "I'll have him __________ (call) you.", "a": "call" },
+            { "vi": "Hôm qua tôi đem xe đi sửa.", "blank": "I had my car __________ (repair) yesterday.", "a": "repaired — V3" },
+            { "vi": "Tôi bị bắt chờ một tiếng.", "blank": "I was made __________ (wait) for an hour.", "a": "to wait — bị động có to" },
+            { "vi": "Tôi thấy anh ấy đang băng qua đường.", "blank": "I saw him __________ (cross) the road.", "a": "crossing — đang diễn ra" },
+            { "vi": "Nó làm tôi thấy khá hơn.", "blank": "It makes me __________ (feel) better.", "a": "feel" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Anh ấy bảo tôi chờ.", "blank": "He told me __________.  (wait / to wait)", "a": "to wait — tell có to" },
+            { "vi": "Tôi không được phép đi.", "blank": "I __________ go.  (wasn't let to / wasn't allowed to)", "a": "wasn't allowed to" },
+            { "vi": "Anh ấy giúp tôi xách túi.", "blank": "He helped me __________ the bags.  (carry / to carry)", "a": "cả hai đều đúng" },
+            { "vi": "Cho tôi biết kết quả nhé.", "blank": "Let me __________ how it goes.  (know / to know)", "a": "know" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Anh ấy bắt tôi chờ một tiếng.", "a": "He made me wait for an hour." },
+            { "vi": "2. Tôi sẽ bảo anh ấy gọi lại cho bạn.", "a": "I'll have him call you back." },
+            { "vi": "3. Hôm qua tôi đem xe đi sửa.", "a": "I had my car repaired yesterday." },
+            { "vi": "4. Tôi thấy anh ấy đang băng qua đường.", "a": "I saw him crossing the road." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Ba từ không có <i>to</i>:</b> <i>make, let, have</i>. Học thuộc ba từ này là tránh được lỗi phổ biến nhất của bài.",
+            "<b>Nhưng <i>get</i> thì có <i>to</i>:</b> <i>get him <b>to</b> call</i>. Cùng nghĩa sai khiến mà cấu trúc ngược hẳn.",
+            "<b>Bị động của <i>make</i> lại có <i>to</i>:</b> <i>I was made <b>to</b> wait</i>. Và <i>let</i> thì đổi sang <i>be allowed to</i>.",
+            "<b>Nhờ làm hộ thì dùng V3:</b> <i>have my car <b>repaired</b></i>, <i>get my hair <b>cut</b></i> — không phải tự làm.",
+            "<b>Nhóm tri giác chọn theo góc nhìn:</b> động từ trần = thấy toàn bộ; V-ing = thấy lúc đang diễn ra.",
+            "<b>Bài tập 3 phút:</b> viết ba câu <i>Someone made me…</i>, ba câu <i>Someone let me…</i>, rồi đổi hết sang dạng <i>got me to…</i> để thấy chữ <i>to</i> xuất hiện."
+          ]
+        }
+      ]
+    }
+  ]
+}

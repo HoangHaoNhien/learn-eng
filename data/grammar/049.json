@@ -1,0 +1,277 @@
+{
+  "id": 49,
+  "group": "Nhóm 12 · Nhấn mạnh, nối ý & dấu câu",
+  "title": "Đảo ngữ — Never have I seen…",
+  "subtitle": "Đưa một trạng từ phủ định lên đầu câu thì PHẢI đảo trợ động từ: Never have I seen… Bẫy lớn nhất là nhớ đưa lên đầu nhưng quên đảo — Never I have seen ✗ — thành ra câu nửa vời.",
+  "meaning": "Đảo trật tự để nhấn mạnh",
+  "rule": [
+    "Trạng từ phủ định lên đầu → <em>bắt buộc đảo</em> trợ động từ",
+    "Không có trợ động từ thì <em>mượn do/does/did</em> + V trần",
+    "Chỉ đảo MỘT lần, ở mệnh đề chính"
+  ],
+  "tags": [
+    { "text": "Trình độ: B2–C1", "hot": true },
+    { "text": "Never I have seen ✗" },
+    { "text": "Văn viết & nhấn mạnh" },
+    { "text": "Tần suất: trung bình" }
+  ],
+  "frames": [77, 84, 89, 97, 98],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Đảo ngữ là cách <b>nhấn mạnh</b> bằng việc đưa một trạng từ lên đầu câu rồi <b>đảo trợ động từ ra trước chủ ngữ</b> — đúng như trật tự của câu hỏi, nhưng câu vẫn là câu kể." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — đưa lên đầu nhưng quên đảo:</b><br><i><b>Never I have</b> seen such a view</i> ✗<br><i><b>Never have I</b> seen such a view</i> ✓<br>Đã đẩy <i>never, rarely, seldom, hardly, little, no sooner</i> lên đầu thì <b>bắt buộc</b> đảo. Không muốn đảo thì để nó về chỗ cũ: <i>I have <b>never</b> seen such a view</i> ✓." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — chỉ đảo MỘT lần, và đảo ở mệnh đề CHÍNH:</b><br><i><b>Only when did he call</b> did I understand</i> ✗<br><i>Only when <b>he called</b> <b>did I</b> understand</i> ✓<br>Với <i>Only when / Not until / Only after</i>, mệnh đề thời gian ở giữa giữ nguyên trật tự bình thường; <b>mệnh đề chính phía sau mới đảo</b>." },
+        { "t": "h3", "text": "Bốn nhóm mở đầu câu đảo ngữ" },
+        {
+          "t": "table",
+          "head": ["Nhóm", "Từ mở đầu", "Ví dụ"],
+          "rows": [
+            ["Phủ định", "never · rarely · seldom · hardly", "Never have I seen such a view."],
+            ["Không… cho đến khi", "not until · no sooner", "No sooner had I left than it rained."],
+            ["Chỉ khi", "only when · only after · only then", "Only then did I understand."],
+            ["Điều kiện rút gọn", "should · were · had", "Should you need help, call me."]
+          ]
+        },
+        { "t": "p", "html": "Nhóm thứ tư là cách viết trang trọng của câu điều kiện: bỏ <i>if</i> rồi đảo. <i>If you need help</i> → <i><b>Should</b> you need help</i>. Xem [Ngữ pháp 14]." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Mở đầu bằng", "Cấu trúc", "Ví dụ"],
+          "rows": [
+            ["<code>Never</code>", "Never + trợ + S + V", "Never have I seen such a view."],
+            ["<code>Rarely / Seldom</code>", "Rarely + trợ + S + V", "Rarely do we meet nowadays."],
+            ["<code>Hardly … when</code>", "Hardly had S V3 when…", "Hardly had I arrived when it started."],
+            ["<code>No sooner … than</code>", "No sooner had S V3 than…", "No sooner had I left than it rained."],
+            ["<code>Not until</code>", "Not until … + trợ + S + V", "Not until then did I understand."],
+            ["<code>Only when</code>", "Only when + S + V, + trợ + S + V", "Only when he called did I understand."],
+            ["<code>Only then</code>", "Only then + trợ + S + V", "Only then did I understand."],
+            ["<code>Little</code>", "Little + trợ + S + V", "Little did he know the truth."],
+            ["<code>Under no circumstances</code>", "+ trợ + S + V", "Under no circumstances should you open it."],
+            ["<code>Should</code> (điều kiện 1)", "Should + S + V", "Should you need help, call me."],
+            ["<code>Were</code> (điều kiện 2)", "Were + S + …", "Were I you, I'd accept."],
+            ["<code>Had</code> (điều kiện 3)", "Had + S + V3", "Had I known, I would have called."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Khi câu không sẵn trợ động từ thì mượn <i>do / does / did</i> y hệt lúc đặt câu hỏi, và động từ chính trở về dạng TRẦN:</b><br><i>Only then <b>did I understand</b></i> ✓ — không phải <i>did I understood</i> ✗. Xem [Ngữ pháp 44]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Never have I seen such a view.", "vi": "Chưa bao giờ tôi thấy cảnh đẹp thế.", "note": "BẪY SỐ MỘT: <i>Never I have seen</i> ✗." },
+            { "en": "I have never seen such a view.", "vi": "Tôi chưa bao giờ thấy cảnh đẹp thế.", "note": "Cách viết bình thường — không đảo, cũng không sai." },
+            { "en": "Rarely do we meet nowadays.", "vi": "Dạo này bọn tôi hiếm khi gặp nhau.", "note": "Không có trợ động từ nên phải mượn <b>do</b> + V trần." },
+            { "en": "Only then did I understand.", "vi": "Đến lúc đó tôi mới hiểu.", "note": "<i>did I understood</i> ✗ — sau <i>did</i> là động từ TRẦN." },
+            { "en": "Only when he called did I understand.", "vi": "Mãi khi anh ấy gọi tôi mới hiểu.", "note": "BẪY SỐ HAI: vế <i>when he called</i> KHÔNG đảo, vế chính mới đảo." },
+            { "en": "Not until then did I understand.", "vi": "Mãi đến lúc đó tôi mới hiểu.", "note": "<b>Not until</b> cùng khuôn với <i>only when</i>. Xem [Ngữ pháp 41]." },
+            { "en": "No sooner had I left than it rained.", "vi": "Tôi vừa đi khỏi thì trời mưa.", "note": "Cặp cố định <b>No sooner … than</b>, không dùng <i>when</i>." },
+            { "en": "Hardly had I arrived when it started.", "vi": "Tôi vừa đến thì nó bắt đầu.", "note": "Cặp cố định <b>Hardly … when</b> — ngược lại với <i>no sooner</i>." },
+            { "en": "Little did he know the truth.", "vi": "Anh ta đâu biết sự thật.", "note": "<b>Little</b> ở đây nghĩa “chẳng hề”, rất hay gặp trong truyện." },
+            { "en": "Under no circumstances should you open it.", "vi": "Tuyệt đối không được mở nó ra.", "note": "Cách viết nội quy, cảnh báo." },
+            { "en": "Should you need help, call me.", "vi": "Nếu cần giúp thì gọi tôi nhé.", "note": "Điều kiện loại 1 rút gọn. Xem [Khung 97]." },
+            { "en": "Were I you, I'd accept the offer.", "vi": "Nếu tôi là bạn, tôi sẽ nhận.", "note": "Điều kiện loại 2 rút gọn. Xem [Khung 98]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "✨", "title": "Nhấn mạnh cảm xúc", "text": "<i>Never have I seen such a view!</i>" },
+            { "icon": "📝", "title": "Viết trang trọng", "text": "Bài luận, báo cáo, thư chính thức." },
+            { "icon": "📕", "title": "Kể chuyện", "text": "<i>Little did he know…</i> — tạo kịch tính." },
+            { "icon": "⚠️", "title": "Viết nội quy", "text": "<i>Under no circumstances should you…</i>" },
+            { "icon": "🤝", "title": "Lịch sự trong email", "text": "<i>Should you need any help, please let me know.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Nói chuyện đời thường — nghe kiểu cách. Dùng câu thường." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một mục ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi mục đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Từ mở đầu câu đảo ngữ",
+              "items": [
+                { "w": "Never", "vi": "chưa bao giờ", "ex": "Never have I seen such a view.", "exvi": "Chưa bao giờ tôi thấy cảnh đẹp thế.", "note": "BẪY SỐ MỘT: lên đầu câu thì PHẢI đảo trợ động từ." },
+                { "w": "Rarely", "vi": "hiếm khi", "ex": "Rarely do we meet nowadays.", "exvi": "Dạo này bọn tôi hiếm khi gặp nhau.", "note": "Không có trợ động từ thì mượn <b>do/does/did</b>." },
+                { "w": "Seldom", "vi": "ít khi (trang trọng)", "ex": "Seldom does he complain.", "exvi": "Anh ấy ít khi phàn nàn." },
+                { "w": "Hardly … when", "vi": "vừa mới… thì", "ex": "Hardly had I arrived when it started.", "exvi": "Tôi vừa đến thì nó bắt đầu.", "note": "Cặp cố định với <b>when</b>, không dùng <i>than</i>." },
+                { "w": "No sooner … than", "vi": "vừa mới… thì", "ex": "No sooner had I left than it rained.", "exvi": "Tôi vừa đi thì trời mưa.", "note": "Cặp cố định với <b>than</b> — ngược với <i>hardly</i>." },
+                { "w": "Not until", "vi": "mãi đến… mới", "ex": "Not until then did I understand.", "exvi": "Mãi đến lúc đó tôi mới hiểu." },
+                { "w": "Only when", "vi": "chỉ khi", "ex": "Only when he called did I understand.", "exvi": "Mãi khi anh ấy gọi tôi mới hiểu.", "note": "BẪY SỐ HAI: vế <i>when…</i> KHÔNG đảo, vế chính mới đảo." },
+                { "w": "Only then", "vi": "chỉ đến lúc đó", "ex": "Only then did I understand.", "exvi": "Đến lúc đó tôi mới hiểu." },
+                { "w": "Only after", "vi": "chỉ sau khi", "ex": "Only after she left did he call.", "exvi": "Mãi sau khi cô ấy đi anh ta mới gọi." },
+                { "w": "Little", "vi": "chẳng hề", "ex": "Little did he know the truth.", "exvi": "Anh ta đâu biết sự thật.", "note": "Không mang nghĩa “ít” mà là “hoàn toàn không”." },
+                { "w": "Under no circumstances", "vi": "tuyệt đối không", "ex": "Under no circumstances should you open it.", "exvi": "Tuyệt đối không được mở ra." },
+                { "w": "At no time", "vi": "không lúc nào", "ex": "At no time was I informed.", "exvi": "Không lúc nào tôi được báo cả." }
+              ]
+            },
+            {
+              "title": "Điều kiện rút gọn & cách nhấn mạnh khác",
+              "items": [
+                { "w": "Should you…", "vi": "nếu bạn… (loại 1)", "ex": "Should you need help, call me.", "exvi": "Nếu cần giúp thì gọi tôi. Xem [Khung 97]." },
+                { "w": "Were I…", "vi": "nếu tôi là… (loại 2)", "ex": "Were I you, I'd accept.", "exvi": "Nếu tôi là bạn, tôi sẽ nhận.", "note": "<b>were</b> cho mọi chủ ngữ. Xem [Ngữ pháp 15]." },
+                { "w": "Had I known…", "vi": "giá mà tôi biết (loại 3)", "ex": "Had I known, I would have called.", "exvi": "Biết thế tôi đã gọi rồi. Xem [Ngữ pháp 16]." },
+                { "w": "Were it not for…", "vi": "nếu không nhờ", "ex": "Were it not for you, I'd be lost.", "exvi": "Không có bạn thì tôi lạc rồi." },
+                { "w": "Had it not been for…", "vi": "nếu không nhờ (quá khứ)", "ex": "Had it not been for her, we'd have failed.", "exvi": "Không nhờ cô ấy thì bọn tôi đã hỏng việc." },
+                { "w": "So + adj + that", "vi": "đến nỗi mà", "ex": "So tired was he that he fell asleep.", "exvi": "Anh ấy mệt đến nỗi ngủ gục." },
+                { "w": "Such was…", "vi": "đến mức mà", "ex": "Such was his anger that he left.", "exvi": "Anh ta giận đến mức bỏ đi." },
+                { "w": "Here comes…", "vi": "kia rồi", "ex": "Here comes the bus.", "exvi": "Xe buýt đến kia rồi.", "note": "Đảo ngữ đời thường, không cần trợ động từ." },
+                { "w": "There goes…", "vi": "đi mất rồi", "ex": "There goes my last chance.", "exvi": "Thế là mất cơ hội cuối." },
+                { "w": "So do I", "vi": "tôi cũng vậy", "ex": "\"I love it.\" \"So do I.\"", "exvi": "“Tôi thích lắm.” “Tôi cũng vậy.”", "note": "Đảo ngữ rất thông dụng trong hội thoại." },
+                { "w": "Neither do I", "vi": "tôi cũng không", "ex": "\"I don't smoke.\" \"Neither do I.\"", "exvi": "“Tôi không hút thuốc.” “Tôi cũng không.”" },
+                { "w": "Not only … but also", "vi": "không chỉ… mà còn", "ex": "Not only did he call, but he also came.", "exvi": "Anh ấy không chỉ gọi mà còn đến tận nơi.", "note": "Vế <b>not only</b> đảo, vế <i>but also</i> thì không." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<b>Never I have</b> seen such a view.", "right": "<b>Never have I</b> seen such a view.", "why": "BẪY SỐ MỘT: đưa <i>never</i> lên đầu thì bắt buộc đảo trợ động từ." },
+            { "wrong": "<b>Rarely we meet</b> nowadays.", "right": "<b>Rarely do we meet</b> nowadays.", "why": "Không có sẵn trợ động từ thì mượn <b>do</b>. Xem [Ngữ pháp 44]." },
+            { "wrong": "Only then <b>did I understood</b>.", "right": "Only then <b>did I understand</b>.", "why": "Sau <i>did</i> là động từ TRẦN — y hệt luật câu hỏi." },
+            { "wrong": "<b>Only when did he call did I</b> understand.", "right": "Only when <b>he called did I</b> understand.", "why": "BẪY SỐ HAI: chỉ đảo MỘT lần, ở mệnh đề chính." },
+            { "wrong": "No sooner had I left <b>when</b> it rained.", "right": "No sooner had I left <b>than</b> it rained.", "why": "<b>No sooner</b> đi với <b>than</b>, <b>hardly</b> mới đi với <i>when</i>." },
+            { "wrong": "Hardly had I arrived <b>than</b> it started.", "right": "Hardly had I arrived <b>when</b> it started.", "why": "Hai cặp này hay bị tráo cho nhau." },
+            { "wrong": "<b>If</b> should you need help, call me.", "right": "<b>Should</b> you need help, call me.", "why": "Đã đảo thì bỏ hẳn <i>if</i> — không dùng cả hai. Xem [Ngữ pháp 48]." },
+            { "wrong": "<b>Was I</b> you, I'd accept.", "right": "<b>Were I</b> you, I'd accept.", "why": "Điều kiện loại 2 luôn dùng <b>were</b> cho mọi chủ ngữ. Xem [Ngữ pháp 15]." },
+            { "wrong": "Not only <b>he called</b>, but he also came.", "right": "Not only <b>did he call</b>, but he also came.", "why": "Vế <b>not only</b> phải đảo, vế sau thì giữ nguyên." },
+            { "wrong": "\"I don't smoke.\" \"<b>Neither I do.</b>\"", "right": "\"I don't smoke.\" \"<b>Neither do I.</b>\"", "why": "Đây cũng là đảo ngữ — trợ động từ đứng trước chủ ngữ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["Đảo ngữ / câu thường", "Nhấn mạnh / trung tính", "Never have I seen ≠ I have never seen"],
+            ["<code>No sooner … than</code>", "Đi với <code>than</code>", "No sooner had I left than it rained."],
+            ["<code>Hardly … when</code>", "Đi với <code>when</code>", "Hardly had I arrived when it started."],
+            ["<code>Only when</code> + mệnh đề", "Vế giữa không đảo, vế chính đảo", "Only when he called did I understand."],
+            ["<code>Should / Were / Had</code>", "Điều kiện rút gọn — bỏ <code>if</code>", "Should you need help ≠ If should you"],
+            ["<code>So do I</code> / <code>Neither do I</code>", "Đồng tình khẳng định / phủ định", "So do I ≠ Neither do I"],
+            ["Đảo ngữ / câu hỏi", "Cùng trật tự, khác dấu câu", "Never have I seen. ≠ Have I seen?"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: có đảo không, và đảo thế nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn đưa một từ lên đầu câu để nhấn mạnh — tiếp theo làm gì?",
+          "nodes": [
+            { "if": "Từ phủ định (never, rarely, little…)", "then": "Bắt buộc đảo trợ động từ", "ex": "Never have I seen such a view." },
+            { "if": "Câu đã có trợ động từ hoặc be", "then": "Đảo chính từ đó", "ex": "Never have I seen…" },
+            { "if": "Câu chỉ có động từ thường", "then": "Mượn do/does/did + V trần", "ex": "Rarely do we meet." },
+            { "if": "Mở bằng Only when / Not until", "then": "Vế thời gian giữ nguyên, vế chính mới đảo", "ex": "Only when he called did I understand." },
+            { "if": "Là câu điều kiện muốn viết trang trọng", "then": "Bỏ if, đảo Should / Were / Had", "ex": "Should you need help, call me." },
+            { "if": "Đang nói chuyện đời thường", "then": "Đừng đảo — dùng câu thường", "ex": "I've never seen such a view." }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ nhấn mạnh của cùng một ý" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I haven't seen a view like that.", "vi": "Nhẹ nhất — kể bình thường" },
+            { "en": "I've never seen such a view.", "vi": "Có nhấn" },
+            { "en": "I've never seen anything like it.", "vi": "Nhấn hơn" },
+            { "en": "Never have I seen such a view.", "vi": "Đảo ngữ — rất mạnh" },
+            { "en": "Never in my life have I seen such a view.", "vi": "Mạnh nhất" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Đảo ngữ xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 97, "why": "If + hiện tại, I'll + V — bản trang trọng là Should you need help, call me." },
+            { "id": 98, "why": "If I were you, I'd + V — bản đảo ngữ là Were I you, I'd…" },
+            { "id": 84, "why": "I can't believe + mệnh đề — cùng mục đích nhấn mạnh sự ngạc nhiên." },
+            { "id": 89, "why": "What a + tính từ + danh từ! — câu cảm thán, họ hàng gần của đảo ngữ." },
+            { "id": 77, "why": "Long time no see! — Never have I waited so long, cách nói nhấn mạnh thời gian." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Viết lại bằng đảo ngữ" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi chưa bao giờ thấy cảnh đẹp thế.", "blank": "I have never seen such a view.  →  Never __________ such a view.", "a": "have I seen" },
+            { "vi": "Dạo này bọn tôi hiếm khi gặp nhau.", "blank": "We rarely meet nowadays.  →  Rarely __________ nowadays.", "a": "do we meet" },
+            { "vi": "Đến lúc đó tôi mới hiểu.", "blank": "I understood only then.  →  Only then __________.", "a": "did I understand" },
+            { "vi": "Tôi vừa đi thì trời mưa.", "blank": "No sooner __________ than it rained.", "a": "had I left" },
+            { "vi": "Anh ta đâu biết sự thật.", "blank": "Little __________ the truth.", "a": "did he know" },
+            { "vi": "Nếu cần giúp thì gọi tôi nhé.", "blank": "If you need help, call me.  →  __________ you need help, call me.", "a": "Should" },
+            { "vi": "Nếu tôi là bạn, tôi sẽ nhận.", "blank": "If I were you, I'd accept.  →  __________ you, I'd accept.", "a": "Were I" },
+            { "vi": "Biết thế tôi đã gọi rồi.", "blank": "If I had known, I would have called.  →  __________, I would have called.", "a": "Had I known" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn câu đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Chưa bao giờ tôi thấy cảnh đẹp thế.", "blank": "(a) Never I have seen such a view.  (b) Never have I seen such a view.", "a": "(b)" },
+            { "vi": "Đến lúc đó tôi mới hiểu.", "blank": "(a) Only then did I understood.  (b) Only then did I understand.", "a": "(b)" },
+            { "vi": "Tôi vừa đi thì trời mưa.", "blank": "(a) No sooner had I left when it rained.  (b) No sooner had I left than it rained.", "a": "(b)" },
+            { "vi": "Tôi cũng không hút thuốc.", "blank": "(a) Neither I do.  (b) Neither do I.", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Chưa bao giờ tôi thấy cảnh đẹp thế.", "a": "Never have I seen such a view." },
+            { "vi": "2. Mãi khi anh ấy gọi tôi mới hiểu.", "a": "Only when he called did I understand." },
+            { "vi": "3. Nếu cần giúp thì cứ gọi tôi nhé.", "a": "Should you need help, please call me." },
+            { "vi": "4. Tuyệt đối không được mở nó ra.", "a": "Under no circumstances should you open it." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật đi kèm:</b> đã đẩy từ phủ định lên đầu thì <b>phải đảo</b>. Không muốn đảo thì để từ đó về chỗ cũ — cả hai cách đều đúng.",
+            "<b>Đảo ngữ mượn đúng bộ máy của câu hỏi:</b> có trợ động từ thì đảo nó, không có thì mượn <i>do/does/did</i> + V trần.",
+            "<b>Hai cặp đừng tráo nhau:</b> <i>No sooner … <b>than</b></i> và <i>Hardly … <b>when</b></i>.",
+            "<b>Chỉ đảo MỘT lần:</b> với <i>Only when / Not until</i>, vế thời gian giữ nguyên, vế chính mới đảo.",
+            "<b>Điều kiện rút gọn bỏ hẳn <i>if</i>:</b> <i>Should you…</i>, <i>Were I…</i>, <i>Had I known…</i>.",
+            "<b>Bài tập 3 phút:</b> lấy ba câu có <i>never</i>, <i>rarely</i>, <i>only then</i> rồi viết lại mỗi câu theo cả hai cách, có đảo và không đảo."
+          ]
+        }
+      ]
+    }
+  ]
+}

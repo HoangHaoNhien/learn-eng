@@ -1,0 +1,504 @@
+{
+  "id": 83,
+  "group": "Nhóm 9 · Cảm xúc & Phản ứng",
+  "title": "It makes me… — Nói điều gì gây ra cảm xúc",
+  "subtitle": "Khung câu để chỉ ra nguyên nhân của cảm xúc: không phải tôi buồn, mà là điều đó làm tôi buồn. Nó chứa một quy tắc ngữ pháp rất gọn nhưng người Việt hay vấp: sau make + tân ngữ, động từ đứng trần, tuyệt đối không có to.",
+  "pattern": [
+    "It makes me <em>+ tính từ</em>.",
+    "It makes me <em>+ động từ trần</em>.",
+    "It makes me feel <em>+ tính từ</em>."
+  ],
+  "meaning": "Điều đó làm tôi thấy… / Điều đó khiến tôi…",
+  "grammar": [52, 53, 56, 27],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Bẫy “to” sau make" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">It makes me happy.</span> khác <i>I'm happy</i> ở chỗ nó <b>chỉ ra nguyên nhân</b>. Bạn không chỉ nói mình đang cảm thấy gì, mà còn nói rõ điều gì gây ra cảm giác đó." },
+        { "t": "p", "html": "Đây là công cụ rất mạnh trong giao tiếp, nhất là khi góp ý. Nói <i>You're annoying</i> là chê người; nói <span class=\"k\">It makes me a bit frustrated when…</span> là mô tả tác động lên bạn — cùng nội dung nhưng không ai phải phòng thủ." },
+        { "t": "p", "html": "Cấu trúc có hai dạng: <b>make + tân ngữ + tính từ</b> (<i>It makes me happy</i>) và <b>make + tân ngữ + động từ trần</b> (<i>It makes me laugh</i>). Cả hai đều rất phổ biến." },
+        { "t": "callout", "html": "<b>BẪY NGỮ PHÁP chính:</b> sau <i>make + tân ngữ</i>, động từ đứng <b>TRẦN</b>, không có <i>to</i>. <span class=\"k\">It makes me feel sad</span> ✓ — <i>It makes me to feel sad</i> ✗. Đây là nhóm động từ đặc biệt cùng với <i>let</i> và <i>have</i>." },
+        { "t": "h3", "text": "Hai dạng cấu trúc" },
+        {
+          "t": "table",
+          "head": ["Câu", "Sau tân ngữ là", "Ghi chú"],
+          "rows": [
+            ["<code>It makes me happy.</code>", "Tính từ", "Trực tiếp, không cần <i>feel</i>"],
+            ["<code>It makes me feel happy.</code>", "Động từ trần + tính từ", "Nhấn vào cảm nhận"],
+            ["<code>It makes me laugh.</code>", "Động từ trần", "Không bao giờ có <i>to</i>"],
+            ["<code>I was made to wait.</code>", "Bị động — CÓ <i>to</i>", "Ngoại lệ duy nhất"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Ngoại lệ đáng nhớ:</b> khi chuyển sang <b>bị động</b>, chữ <i>to</i> quay lại. <i>They made me wait.</i> → <i>I was made <b>to</b> wait.</i> Đây là điểm mà ngay cả người học trình độ cao cũng hay quên." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🎯", "title": "Chỉ ra nguyên nhân cảm xúc", "text": "Bối cảnh số 1. <i>It makes me happy when you call.</i>" },
+            { "icon": "🕊", "title": "Góp ý không chê người", "text": "<i>It makes me frustrated when…</i> Mô tả tác động, không quy lỗi." },
+            { "icon": "😂", "title": "Khen thứ gì đó buồn cười", "text": "<i>It always makes me laugh.</i>" },
+            { "icon": "💭", "title": "Giải thích một phản ứng", "text": "<i>It makes me think of home.</i>" },
+            { "icon": "😤", "title": "Nói điều gì làm bạn bực", "text": "<i>It drives me mad.</i> Rất Anh và rất mạnh." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Thêm <i>to</i> sau <i>make me</i>. Động từ luôn đứng trần." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Với tính từ", "<code>It makes me + adj.</code>", "It makes me happy."],
+            ["Với động từ", "<code>It makes me + V trần.</code>", "It makes me laugh."],
+            ["Nhấn cảm nhận", "<code>It makes me feel + adj.</code>", "It makes me feel welcome."],
+            ["Nêu tình huống", "<code>It makes me + adj + when…</code>", "It makes me nervous when he shouts."],
+            ["Chủ ngữ là việc", "<code>V-ing + makes me + adj.</code>", "Waiting makes me anxious."],
+            ["Quá khứ", "<code>It made me + adj/V.</code>", "It made me smile."],
+            ["Bị động — có “to”", "<code>I was made to + V.</code>", "I was made to wait."],
+            ["Làm buồn", "<code>It gets me down.</code>", "This weather gets me down."],
+            ["Làm vui", "<code>It cheers me up.</code>", "Your message cheered me up."],
+            ["Làm phát điên", "<code>It drives me mad.</code>", "That noise drives me mad."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Ba cụm động từ đáng học thuộc:</b> <i>get someone down</i> (làm ai chán nản), <i>cheer someone up</i> (làm ai vui lên), <i>drive someone mad</i> (làm ai phát điên). Chúng tự nhiên hơn nhiều so với ghép <i>make</i> với tính từ tương ứng." },
+        { "t": "callout", "html": "<b>Dùng “It makes me…” để góp ý là một kỹ năng.</b> Thay vì <i>You always interrupt me</i> (chê người), nói <i>It makes it hard for me to finish when I'm interrupted</i> — cùng thông điệp nhưng không ai bị chỉ mặt." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Tính từ sau “makes me”",
+              "items": [
+                { "w": "makes me happy", "vi": "làm tôi vui", "ex": "It makes me happy when you call.", "exvi": "Tôi vui khi bạn gọi điện.", "note": "Với TÍNH TỪ thì không cần <i>feel</i> — nói thẳng là được." },
+                { "w": "makes me sad", "vi": "làm tôi buồn", "ex": "That song makes me sad.", "exvi": "Bài hát đó làm tôi buồn." },
+                { "w": "makes me nervous", "vi": "làm tôi hồi hộp", "ex": "Public speaking makes me nervous.", "exvi": "Nói trước đám đông làm tôi hồi hộp." },
+                { "w": "makes me angry", "vi": "làm tôi giận", "ex": "It makes me angry, honestly.", "exvi": "Thật lòng là nó làm tôi giận." },
+                { "w": "makes me frustrated", "vi": "làm tôi bực bội", "ex": "It makes me frustrated when nobody replies.", "exvi": "Tôi bực khi không ai trả lời.", "note": "Cách góp ý rất khéo — mô tả tác động thay vì chê người." },
+                { "w": "makes me anxious", "vi": "làm tôi lo lắng", "ex": "Waiting makes me anxious.", "exvi": "Chờ đợi làm tôi lo lắng.", "note": "Chủ ngữ có thể là V-ing — <i>Waiting makes me…</i>" },
+                { "w": "makes me uncomfortable", "vi": "làm tôi khó chịu", "ex": "That comment made me uncomfortable.", "exvi": "Lời nhận xét đó làm tôi khó chịu.", "note": "Rất hữu dụng khi cần nói ra ranh giới của mình một cách ôn hòa." },
+                { "w": "makes me proud", "vi": "làm tôi tự hào", "ex": "It makes me proud to work here.", "exvi": "Tôi tự hào khi được làm việc ở đây." },
+                { "w": "makes me curious", "vi": "làm tôi tò mò", "ex": "That makes me curious.", "exvi": "Điều đó làm tôi tò mò." },
+                { "w": "makes me feel welcome", "vi": "làm tôi thấy được chào đón", "ex": "It makes me feel welcome.", "exvi": "Điều đó làm tôi thấy được chào đón.", "note": "Với <b>feel</b> thì động từ vẫn TRẦN — <i>makes me feel</i>, không phải <i>to feel</i>." },
+                { "w": "makes me feel at home", "vi": "làm tôi thấy như ở nhà", "ex": "This place makes me feel at home.", "exvi": "Chỗ này làm tôi thấy như ở nhà." },
+                { "w": "makes me feel better", "vi": "làm tôi thấy khá hơn", "ex": "That makes me feel better, thanks.", "exvi": "Nghe vậy tôi thấy khá hơn, cảm ơn." }
+              ]
+            },
+            {
+              "title": "Động từ trần sau “makes me”",
+              "items": [
+                { "w": "makes me laugh", "vi": "làm tôi cười", "ex": "It always makes me laugh.", "exvi": "Lúc nào nó cũng làm tôi cười.", "note": "Động từ TRẦN — không bao giờ <i>to laugh</i> ✗." },
+                { "w": "makes me smile", "vi": "làm tôi mỉm cười", "ex": "Your message made me smile.", "exvi": "Tin nhắn của bạn làm mình mỉm cười." },
+                { "w": "makes me think", "vi": "làm tôi suy nghĩ", "ex": "That makes me think.", "exvi": "Điều đó làm tôi phải suy nghĩ." },
+                { "w": "makes me think of", "vi": "làm tôi nhớ đến", "ex": "It makes me think of home.", "exvi": "Nó làm tôi nhớ đến nhà.", "note": "<i>think of</i> = gợi nhớ. Khác <i>think about</i> = suy nghĩ về." },
+                { "w": "makes me wonder", "vi": "làm tôi tự hỏi", "ex": "It makes me wonder why.", "exvi": "Nó làm tôi tự hỏi vì sao." },
+                { "w": "makes me want to", "vi": "làm tôi muốn", "ex": "It makes me want to try it.", "exvi": "Nó làm tôi muốn thử.", "note": "Ở đây <i>to</i> thuộc về <b>want to</b>, không phải về <i>make</i>." },
+                { "w": "makes me realise", "vi": "làm tôi nhận ra", "ex": "It makes me realise how lucky I am.", "exvi": "Nó làm tôi nhận ra mình may mắn thế nào.", "note": "Anh-Anh viết <i>realise</i>, Anh-Mỹ viết <i>realize</i>." },
+                { "w": "makes me appreciate", "vi": "làm tôi trân trọng", "ex": "It makes me appreciate what I have.", "exvi": "Nó làm tôi trân trọng những gì mình có." },
+                { "w": "makes me nervous to", "vi": "làm tôi hồi hộp khi", "ex": "It makes me nervous to speak up.", "exvi": "Tôi hồi hộp khi phải lên tiếng.", "note": "<i>to</i> ở đây thuộc về mệnh đề sau tính từ, không phải sau <i>make</i>." },
+                { "w": "made me wait", "vi": "bắt tôi phải chờ", "ex": "They made me wait an hour.", "exvi": "Họ bắt tôi chờ một tiếng.", "note": "Chủ động thì KHÔNG có <i>to</i>." },
+                { "w": "was made to wait", "vi": "bị bắt phải chờ", "ex": "I was made to wait an hour.", "exvi": "Tôi bị bắt chờ một tiếng.", "note": "NGOẠI LỆ: bị động thì <b>CÓ</b> <i>to</i>. Điểm mà nhiều người học quên." },
+                { "w": "made my day", "vi": "làm ngày của tôi tươi sáng", "ex": "That message made my day.", "exvi": "Tin nhắn đó làm ngày của mình tươi sáng.", "note": "Thành ngữ ấm áp — lời khen rất được lòng." }
+              ]
+            },
+            {
+              "title": "Cụm động từ & cách đáp lại",
+              "items": [
+                { "w": "gets me down", "vi": "làm tôi chán nản", "ex": "This weather gets me down.", "exvi": "Thời tiết này làm tôi chán nản.", "note": "Tự nhiên hơn nhiều so với <i>makes me sad</i> khi nói về sự chán nản kéo dài." },
+                { "w": "cheers me up", "vi": "làm tôi vui lên", "ex": "Your message cheered me up.", "exvi": "Tin nhắn của bạn làm mình vui lên." },
+                { "w": "drives me mad", "vi": "làm tôi phát điên", "ex": "That noise drives me mad.", "exvi": "Tiếng ồn đó làm tôi phát điên.", "note": "Rất Anh. Bản Anh-Mỹ là <i>drives me crazy</i>." },
+                { "w": "winds me up", "vi": "làm tôi bực mình", "ex": "It really winds me up.", "exvi": "Nó làm tôi bực mình thật sự.", "note": "Rất Anh và rất thân mật — không dùng trong công việc trang trọng." },
+                { "w": "puts me off", "vi": "làm tôi mất hứng", "ex": "The smell puts me off.", "exvi": "Mùi đó làm tôi mất hứng.", "note": "<i>put someone off</i> = làm mất hứng thú, khiến không muốn nữa." },
+                { "w": "takes my mind off it", "vi": "giúp tôi quên đi", "ex": "Running takes my mind off it.", "exvi": "Chạy bộ giúp mình quên chuyện đó đi." },
+                { "w": "I know what you mean", "vi": "tôi hiểu ý bạn", "ex": "I know what you mean.", "exvi": "Mình hiểu ý bạn. Xem [Khung 53]." },
+                { "w": "I feel the same", "vi": "tôi cũng thấy vậy", "ex": "I feel exactly the same.", "exvi": "Mình cũng thấy y như vậy." },
+                { "w": "Why does it bother you?", "vi": "sao chuyện đó làm bạn phiền?", "ex": "Why does it bother you?", "exvi": "Sao chuyện đó làm bạn phiền vậy?" },
+                { "w": "That's fair", "vi": "cũng hợp lý", "ex": "That's fair.", "exvi": "Cũng hợp lý. Xem [Khung 60]." },
+                { "w": "I hadn't realised", "vi": "tôi chưa nhận ra", "ex": "I hadn't realised it affected you.", "exvi": "Tôi chưa nhận ra nó ảnh hưởng đến bạn.", "note": "Câu đáp rất chân thành khi ai đó vừa chia sẻ cảm xúc." },
+                { "w": "I'll stop doing that", "vi": "tôi sẽ không làm vậy nữa", "ex": "I'll stop doing that.", "exvi": "Mình sẽ không làm vậy nữa." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "It makes me frustrated when nobody replies.",
+                  "vi": "Tôi bực khi không ai trả lời.",
+                  "note": "Cách góp ý rất khéo — mô tả TÁC ĐỘNG lên bạn thay vì chê người, nên không ai phải phòng thủ.",
+                  "open": { "en": "Can I be honest about something?", "vi": "Cho tôi nói thật một chuyện được không?" },
+                  "reply": [
+                    { "them": "I hadn't realised it affected you.", "themvi": "Tôi chưa nhận ra nó ảnh hưởng đến anh/chị.", "you": "It's not a big thing, just a pattern.", "youvi": "Không phải chuyện lớn, chỉ là nó lặp lại." },
+                    { "them": "That's fair. We'll be quicker.", "themvi": "Cũng hợp lý. Bọn tôi sẽ nhanh hơn.", "you": "Thank you — that helps.", "youvi": "Cảm ơn — vậy giúp ích nhiều." }
+                  ],
+                  "close": { "en": "Nothing personal at all.", "vi": "Hoàn toàn không phải chuyện cá nhân." }
+                },
+                {
+                  "en": "It makes me proud to work here.",
+                  "vi": "Tôi tự hào khi được làm việc ở đây.",
+                  "note": "Với tính từ thì không cần <i>feel</i> — nói thẳng <i>makes me proud</i> là đủ.",
+                  "reply": [
+                    { "them": "That's lovely to hear.", "themvi": "Nghe vậy vui quá.", "you": "The team makes the difference.", "youvi": "Chính đội ngũ tạo nên khác biệt." }
+                  ],
+                  "vars": [
+                    { "en": "It makes me feel proud to be part of this.", "vi": "Tôi tự hào khi là một phần của việc này." }
+                  ]
+                },
+                {
+                  "en": "Waiting for approvals drives me mad.",
+                  "vi": "Chờ duyệt làm tôi phát điên.",
+                  "note": "<span class=\"k\">drive someone mad</span> tự nhiên hơn nhiều so với ghép <i>make</i> với tính từ. Rất Anh.",
+                  "reply": [
+                    { "them": "You're not the only one.", "themvi": "Anh/chị không phải người duy nhất.", "you": "Can we simplify the process?", "youvi": "Mình đơn giản hóa quy trình được không?" }
+                  ]
+                },
+                {
+                  "en": "I was made to wait an hour, which wasn't great.",
+                  "vi": "Tôi bị bắt chờ một tiếng, chuyện đó không hay lắm.",
+                  "note": "NGOẠI LỆ: dạng BỊ ĐỘNG thì <b>CÓ</b> <i>to</i>. Chủ động thì không: <i>They made me wait</i>.",
+                  "reply": [
+                    { "them": "I'm sorry about that.", "themvi": "Tôi xin lỗi về chuyện đó. Xem [Khung 79].", "you": "It's fine — just worth knowing.", "youvi": "Không sao — chỉ là nên biết." }
+                  ],
+                  "close": { "en": "Let's not let it happen again.", "vi": "Mình đừng để chuyện đó lặp lại." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "It makes me happy when you call.",
+                  "vi": "Mình vui khi bạn gọi điện.",
+                  "note": "Nêu rõ NGUYÊN NHÂN của cảm xúc — ấm áp hơn nhiều so với chỉ nói <i>I'm happy</i>.",
+                  "reply": [
+                    { "them": "Then I'll call more often.", "themvi": "Vậy mình sẽ gọi thường xuyên hơn.", "you": "I'd like that.", "youvi": "Mình rất muốn vậy." }
+                  ],
+                  "close": { "en": "It really does make my day.", "vi": "Thật sự làm ngày của mình tươi sáng." }
+                },
+                {
+                  "en": "That song always makes me think of home.",
+                  "vi": "Bài hát đó lúc nào cũng làm mình nhớ đến nhà.",
+                  "note": "<b>think of</b> = gợi nhớ. Khác <i>think about</i> = suy nghĩ về một chuyện.",
+                  "reply": [
+                    { "them": "Good memories?", "themvi": "Kỷ niệm đẹp à?", "you": "Mostly. It makes me a bit sad too.", "youvi": "Phần lớn là vậy. Cũng hơi buồn nữa." }
+                  ]
+                },
+                {
+                  "en": "Your message really cheered me up.",
+                  "vi": "Tin nhắn của bạn làm mình vui lên thật sự.",
+                  "note": "<span class=\"k\">cheer someone up</span> = làm ai vui lên. Tân ngữ đứng GIỮA cụm động từ.",
+                  "reply": [
+                    { "them": "I'm glad. You sounded down.", "themvi": "Mình mừng. Nghe bạn có vẻ buồn.", "you": "It made my day, honestly.", "youvi": "Thật lòng là nó làm ngày của mình tươi sáng." }
+                  ],
+                  "vars": [
+                    { "en": "That made me smile.", "vi": "Điều đó làm mình mỉm cười." }
+                  ]
+                },
+                {
+                  "en": "That comment made me uncomfortable.",
+                  "vi": "Lời nhận xét đó làm mình khó chịu.",
+                  "note": "Rất hữu dụng khi cần nói ra ranh giới của mình một cách ôn hòa mà vẫn rõ ràng.",
+                  "reply": [
+                    { "them": "I'm sorry — I didn't mean it that way.", "themvi": "Xin lỗi — mình không có ý đó.", "you": "I know. Just thought I'd say.", "youvi": "Mình biết. Chỉ nghĩ nên nói ra." }
+                  ],
+                  "close": { "en": "We're fine.", "vi": "Mình không sao đâu." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "This place makes me feel at home.",
+                  "vi": "Chỗ này làm mình thấy như ở nhà.",
+                  "note": "Với <b>feel</b> thì động từ vẫn TRẦN: <i>makes me feel</i>, không bao giờ <i>to feel</i> ✗.",
+                  "reply": [
+                    { "them": "That's why we keep coming back.", "themvi": "Vì vậy mình cứ quay lại.", "you": "The owner remembers our order.", "youvi": "Chủ quán nhớ cả món mình gọi." }
+                  ]
+                },
+                {
+                  "en": "The smell puts me off, honestly.",
+                  "vi": "Thật lòng thì cái mùi đó làm mình mất hứng.",
+                  "note": "<span class=\"k\">put someone off</span> = làm mất hứng thú, khiến không muốn ăn hoặc làm nữa.",
+                  "reply": [
+                    { "them": "Shall we sit outside?", "themvi": "Hay mình ngồi ngoài?", "you": "Much better idea.", "youvi": "Ý hay hơn nhiều." }
+                  ],
+                  "vars": [
+                    { "en": "It makes me a bit queasy.", "vi": "Nó làm mình hơi buồn nôn." }
+                  ]
+                },
+                {
+                  "en": "That dish makes me want to come back.",
+                  "vi": "Món đó làm mình muốn quay lại.",
+                  "note": "Chữ <i>to</i> ở đây thuộc về <b>want to</b>, không phải về <i>make</i> — nên nó hoàn toàn đúng.",
+                  "reply": [
+                    { "them": "Next week?", "themvi": "Tuần sau nhé?", "you": "Same table, same order.", "youvi": "Cùng bàn, cùng món." }
+                  ]
+                },
+                {
+                  "en": "It always makes me laugh when he does that.",
+                  "vi": "Lúc nào mình cũng cười khi anh ấy làm vậy.",
+                  "note": "Động từ TRẦN sau <i>makes me</i> — <b>laugh</b>, không bao giờ <i>to laugh</i>.",
+                  "reply": [
+                    { "them": "He does it every time!", "themvi": "Lần nào anh ấy cũng làm!", "you": "That's why it's funny.", "youvi": "Vì vậy mới buồn cười." }
+                  ],
+                  "close": { "en": "Don't tell him I said that.", "vi": "Đừng nói với anh ấy mình bảo vậy." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Flying makes me nervous, honestly.",
+                  "vi": "Thật lòng thì đi máy bay làm mình hồi hộp.",
+                  "note": "Chủ ngữ có thể là <b>V-ing</b>: <i>Flying makes me…</i>, <i>Waiting makes me…</i>",
+                  "reply": [
+                    { "them": "Is it the take-off?", "themvi": "Lúc cất cánh à?", "you": "Mostly the landing, actually.", "youvi": "Thật ra chủ yếu là lúc hạ cánh." }
+                  ],
+                  "close": { "en": "I'll be fine once we're up.", "vi": "Lên trên rồi thì mình ổn." }
+                },
+                {
+                  "en": "This view makes me realise how lucky I am.",
+                  "vi": "Khung cảnh này làm mình nhận ra mình may mắn thế nào.",
+                  "note": "<i>realise</i> là Anh-Anh, <i>realize</i> là Anh-Mỹ — cả hai đều đúng.",
+                  "reply": [
+                    { "them": "Worth every step of the climb.", "themvi": "Đáng từng bước leo.", "you": "I could stay here all day.", "youvi": "Mình có thể ở đây cả ngày." }
+                  ]
+                },
+                {
+                  "en": "Waiting around makes me anxious.",
+                  "vi": "Ngồi chờ làm mình lo lắng.",
+                  "reply": [
+                    { "them": "Let's find a coffee.", "themvi": "Mình đi kiếm cà phê đi.", "you": "Anything to take my mind off it.", "youvi": "Cái gì giúp mình quên đi cũng được." }
+                  ],
+                  "vars": [
+                    { "en": "Delays get me down.", "vi": "Chậm trễ làm mình chán nản." }
+                  ]
+                },
+                {
+                  "en": "They made me check the bag in.",
+                  "vi": "Họ bắt tôi ký gửi hành lý.",
+                  "note": "Chủ động thì KHÔNG có <i>to</i>. Bị động mới có: <i>I was made <b>to</b> check it in</i>.",
+                  "reply": [
+                    { "them": "Was it too big?", "themvi": "Nó to quá à?", "you": "Two centimetres over.", "youvi": "Quá hai xăng-ti-mét." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "The queue makes me want to leave, honestly.",
+                  "vi": "Thật lòng thì hàng chờ đó làm tôi muốn bỏ về.",
+                  "reply": [
+                    { "them": "Shall we come back later?", "themvi": "Hay mình quay lại sau?", "you": "Good idea.", "youvi": "Ý hay." }
+                  ]
+                },
+                {
+                  "en": "Your service makes me want to come back.",
+                  "vi": "Dịch vụ của em làm tôi muốn quay lại.",
+                  "note": "Lời khen rất cụ thể và có trọng lượng — nó nói rõ tác động chứ không khen chung chung.",
+                  "reply": [
+                    { "them": "That's very kind, thank you.", "themvi": "Anh/chị tốt quá, cảm ơn ạ.", "you": "I'll recommend you to friends.", "youvi": "Tôi sẽ giới thiệu bạn bè." }
+                  ],
+                  "close": { "en": "See you next month.", "vi": "Hẹn gặp tháng sau." }
+                },
+                {
+                  "en": "Being made to wait this long isn't great.",
+                  "vi": "Bị bắt chờ lâu thế này thì không hay lắm.",
+                  "note": "Dạng bị động có <b>to</b>: <i>being made <b>to</b> wait</i>. Ngoại lệ mà nhiều người quên.",
+                  "reply": [
+                    { "them": "I'm so sorry — we're short-staffed.", "themvi": "Em rất xin lỗi — bên em thiếu người ạ.", "you": "I understand. Not your fault.", "youvi": "Tôi hiểu. Không phải lỗi của em." }
+                  ]
+                },
+                {
+                  "en": "That price makes me think twice.",
+                  "vi": "Giá đó làm tôi phải cân nhắc lại.",
+                  "note": "<i>think twice</i> = cân nhắc kỹ lại. Cách chê giá rất khéo, không nói thẳng là đắt.",
+                  "reply": [
+                    { "them": "We do have a cheaper model.", "themvi": "Bên em có mẫu rẻ hơn ạ.", "you": "Let's see that one.", "youvi": "Cho tôi xem cái đó." }
+                  ],
+                  "vars": [
+                    { "en": "That makes me hesitate a bit.", "vi": "Điều đó làm tôi hơi do dự." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Góp ý với đồng nghiệp mà không chê người",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Can I be honest about something? It makes me frustrated when nobody replies.", "vi": "Cho tôi nói thật một chuyện được không? Tôi bực khi không ai trả lời." },
+            { "speaker": "Colleague", "en": "I hadn't realised it affected you.", "vi": "Tôi chưa nhận ra nó ảnh hưởng đến anh/chị." },
+            { "speaker": "You", "me": true, "en": "It's not a big thing — it just makes planning hard.", "vi": "Không phải chuyện lớn — chỉ là nó làm việc lên kế hoạch khó khăn." },
+            { "speaker": "Colleague", "en": "That's fair. We'll be quicker from now on.", "vi": "Cũng hợp lý. Từ giờ bọn tôi sẽ nhanh hơn." },
+            { "speaker": "You", "me": true, "en": "Thank you — that really helps. Nothing personal at all.", "vi": "Cảm ơn — vậy giúp ích thật. Hoàn toàn không phải chuyện cá nhân." },
+            { "speaker": "Colleague", "en": "Of course not. Good that you said.", "vi": "Tất nhiên rồi. Tốt là anh/chị đã nói." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Nói với bạn về một bài hát cũ",
+          "lines": [
+            { "speaker": "Friend", "en": "Do you remember this song?", "vi": "Bạn có nhớ bài này không?" },
+            { "speaker": "You", "me": true, "en": "Of course. It always makes me think of home.", "vi": "Tất nhiên. Lúc nào nó cũng làm mình nhớ đến nhà." },
+            { "speaker": "Friend", "en": "Good memories?", "vi": "Kỷ niệm đẹp à?" },
+            { "speaker": "You", "me": true, "en": "Mostly. It makes me a bit sad too, honestly.", "vi": "Phần lớn là vậy. Thật lòng thì cũng hơi buồn nữa." },
+            { "speaker": "Friend", "en": "I know what you mean.", "vi": "Mình hiểu ý bạn." },
+            { "speaker": "You", "me": true, "en": "But it makes me realise how lucky I've been.", "vi": "Nhưng nó cũng làm mình nhận ra mình đã may mắn thế nào." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "It makes me to feel sad.", "right": "It makes me feel sad.", "why": "BẪY CHÍNH. Sau <b>make + tân ngữ</b>, động từ đứng TRẦN — không bao giờ có <i>to</i>." },
+            { "wrong": "It makes me to laugh.", "right": "It makes me laugh.", "why": "Cùng lỗi. <i>make</i> thuộc nhóm đặc biệt cùng với <i>let</i> và <i>have</i> — động từ theo sau luôn trần." },
+            { "wrong": "It makes me to be happy.", "right": "It makes me happy.", "why": "Với TÍNH TỪ thì không cần động từ nào cả — nói thẳng <i>makes me happy</i>." },
+            { "wrong": "I was made wait an hour.", "right": "I was made to wait an hour.", "why": "NGOẠI LỆ: dạng BỊ ĐỘNG thì <b>CÓ</b> <i>to</i>. Đây là điểm ngay cả người học giỏi cũng hay quên." },
+            { "wrong": "It makes me feeling sad.", "right": "It makes me feel sad.", "why": "Động từ sau <i>make + tân ngữ</i> ở dạng NGUYÊN THỂ TRẦN, không phải V-ing." },
+            { "wrong": "You make me boring.", "right": "You make me bored.", "why": "<i>make me boring</i> = bạn làm tôi thành người nhàm chán. Cảm giác phải là <b>-ed</b>. Xem [Khung 81]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Nhấn vào", "Ví dụ"],
+          "rows": [
+            ["<code>I'm + adj</code>", "Cảm giác của tôi", "<i>I'm sad.</i> Xem [Khung 81]."],
+            ["<code>It makes me + adj</code>", "Nguyên nhân gây cảm giác", "<i>It makes me sad.</i>"],
+            ["<code>It makes me feel + adj</code>", "Cảm nhận, nhấn mạnh hơn", "<i>It makes me feel welcome.</i>"],
+            ["<code>It makes me + V</code>", "Hành động nó gây ra", "<i>It makes me laugh.</i>"],
+            ["<code>I find it + adj</code>", "Đánh giá cá nhân", "<i>I find it confusing.</i>"],
+            ["<code>It gets me down.</code>", "Chán nản kéo dài", "Tự nhiên hơn <i>makes me sad</i>."],
+            ["<code>It drives me mad.</code>", "Bực đến phát điên", "Rất Anh, rất mạnh."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — nói điều gì đó làm bạn khó chịu" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "It makes me a bit uncomfortable.", "vi": "Nhẹ nhất — nêu ranh giới ôn hòa" },
+            { "en": "It makes me frustrated when…", "vi": "Bực bội — vẫn mang tính góp ý" },
+            { "en": "It winds me up.", "vi": "Bực mình — thân mật, rất Anh" },
+            { "en": "It gets me down.", "vi": "Chán nản kéo dài" },
+            { "en": "It drives me mad.", "vi": "Phát điên — mạnh nhất" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>makes me</b> nối âm thành <b>“meik-smi”</b> — âm /s/ nối thẳng sang /m/.",
+            "<b>It makes me</b> → “it-meik-smi”, ba từ dính thành một khối, âm /t/ ở <i>It</i> gần như mất.",
+            "<b>Trọng âm rơi vào TÍNH TỪ hoặc ĐỘNG TỪ ở cuối:</b> <i>It makes me</i> <b>HAP</b>-py.",
+            "<b>made my day</b> → “meid-mai-DEI”, nhấn vào <i>DAY</i> để tạo cảm xúc.",
+            "<b>drives me mad</b> → “draivz-mi-MAD”, kéo dài <i>MAD</i> để nhấn mạnh.",
+            "<b>Khi góp ý, nói chậm và giọng đều</b> — nói nhanh và cao giọng sẽ biến lời góp ý thành lời trách."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "It makes me frustrated when nobody replies.", "vi": "Luyện shadowing: “it-meik-smi”, nói chậm và giọng đều." },
+            { "en": "That message made my day.", "vi": "Tập nhấn và kéo dài DAY để nghe ấm áp." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Điều đó làm tôi thấy buồn.", "blank": "It makes me __________ sad.", "a": "feel (KHÔNG có “to”)" },
+            { "vi": "Lúc nào nó cũng làm tôi cười.", "blank": "It always makes me __________.", "a": "laugh (động từ trần)" },
+            { "vi": "Tôi vui khi bạn gọi điện.", "blank": "It makes me __________ when you call.", "a": "happy" },
+            { "vi": "Tôi bị bắt chờ một tiếng.", "blank": "I was made __________ an hour.", "a": "to wait (bị động CÓ “to”)" },
+            { "vi": "Nó làm tôi nhớ đến nhà.", "blank": "It makes me __________ home.", "a": "think of" },
+            { "vi": "Tiếng ồn đó làm tôi phát điên.", "blank": "That noise __________.", "a": "drives me mad" },
+            { "vi": "Tin nhắn của bạn làm mình vui lên.", "blank": "Your message __________.", "a": "cheered me up" },
+            { "vi": "Tin nhắn đó làm ngày của mình tươi sáng.", "blank": "That message __________.", "a": "made my day" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi bực khi không ai trả lời.", "a": "It makes me frustrated when nobody replies." },
+            { "vi": "2. Bài hát đó lúc nào cũng làm mình nhớ đến nhà.", "a": "That song always makes me think of home." },
+            { "vi": "3. Chỗ này làm mình thấy như ở nhà.", "a": "This place makes me feel at home." },
+            { "vi": "4. Tôi bị bắt chờ một tiếng.", "a": "I was made to wait an hour." },
+            { "vi": "5. Khung cảnh này làm mình nhận ra mình may mắn thế nào.", "a": "This view makes me realise how lucky I am." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Sau “make + tân ngữ” là động từ TRẦN</b> — không bao giờ có <i>to</i>. Đọc to <i>It makes me feel</i> mười lần.",
+            "<b>Nhớ ngoại lệ bị động:</b> <i>I was made <b>to</b> wait</i> — chỉ dạng bị động mới có <i>to</i>.",
+            "<b>Dùng khung này để góp ý mà không chê người:</b> <i>It makes me frustrated when…</i> thay cho <i>You always…</i>",
+            "<b>Học ba cụm động từ:</b> <i>gets me down</i>, <i>cheers me up</i>, <i>drives me mad</i> — tự nhiên hơn hẳn ghép với <i>make</i>.",
+            "<b>“It made my day” là lời khen rất được lòng</b> — ngắn, ấm và cụ thể.",
+            "<b>Bài tập 3 phút:</b> viết năm câu <i>It makes me…</i> về những thứ trong tuần — ba tích cực, hai tiêu cực, và kiểm tra không câu nào có <i>to</i> sai chỗ."
+          ]
+        }
+      ]
+    }
+  ]
+}

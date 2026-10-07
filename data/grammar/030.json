@@ -1,0 +1,277 @@
+{
+  "id": 30,
+  "group": "Nhóm 9 · Động từ khuyết thiếu",
+  "title": "may · might · could — mức độ có thể",
+  "subtitle": "Ba modal nói về khả năng xảy ra, chênh nhau rất ít về mức độ. Bẫy lớn nhất không nằm ở nghĩa mà ở chính tả: maybe viết liền là trạng từ, may be viết rời là động từ — và hai cái không thay nhau được.",
+  "meaning": "Có thể, có khi, biết đâu — điều chưa chắc chắn",
+  "rule": [
+    "<em>may / might / could</em> + V trần",
+    "<em>maybe</em> (một từ) = trạng từ · <em>may be</em> (hai từ) = động từ",
+    "<em>may not</em> = không được phép · <em>might not</em> = có khi không"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1", "hot": true },
+    { "text": "maybe ≠ may be" },
+    { "text": "may not = cấm" },
+    { "text": "Tần suất: cao" }
+  ],
+  "frames": [44, 45, 50, 55, 59],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "<b>may</b>, <b>might</b> và <b>could</b> đều nói về <b>điều có thể xảy ra nhưng chưa chắc</b>. Khác biệt giữa chúng rất nhỏ — nhỏ đến mức trong hội thoại hằng ngày bạn gần như dùng cái nào cũng được." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — <i>maybe</i> hay <i>may be</i>:</b><br>• <b>maybe</b> (MỘT từ) = trạng từ, nghĩa “có lẽ” — <i><b>Maybe</b> he's busy.</i><br>• <b>may be</b> (HAI từ) = modal + động từ <i>be</i> — <i>He <b>may be</b> busy.</i><br>Hai câu cùng nghĩa nhưng cấu trúc khác hẳn. <i>Maybe he busy</i> ✗ và <i>He maybe busy</i> ✗ đều sai." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>may not</i> có thể nghĩa là CẤM:</b><br>• <i>You <b>may not</b> park here</i> = bạn KHÔNG ĐƯỢC PHÉP đỗ xe ở đây.<br>• <i>He <b>might not</b> come</i> = có khi anh ấy không đến.<br>Muốn nói “có khi không” thì dùng <b>might not</b> cho an toàn." },
+        { "t": "h3", "text": "Ba modal, ba sắc thái nhỏ" },
+        {
+          "t": "table",
+          "head": ["Modal", "Mức độ", "Sắc thái"],
+          "rows": [
+            ["<code>may</code>", "khoảng 50%", "Trang trọng hơn, hay dùng văn viết"],
+            ["<code>might</code>", "khoảng 40%", "Thông dụng nhất khi nói chuyện"],
+            ["<code>could</code>", "khoảng 40%", "Nhấn vào một trong nhiều khả năng"],
+            ["<code>must</code>", "khoảng 95%", "Suy đoán gần như chắc chắn"]
+          ]
+        },
+        { "t": "p", "html": "Lưu ý: <b>could</b> ở đây là nói khả năng xảy ra, khác hẳn <b>can</b> nói khả năng làm được. <i>It <b>could</b> rain</i> = có khi trời mưa; <i>It <b>can</b> rain</i> = trời có thể mưa (nói chung, như một tính chất). Xem [Ngữ pháp 29]." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Khả năng — hiện tại", "<code>may/might/could + V trần</code>", "He might be busy."],
+            ["Phủ định — có khi không", "<code>might not + V trần</code>", "He might not come."],
+            ["Phủ định — không được phép", "<code>may not + V trần</code>", "You may not park here."],
+            ["Trạng từ", "<code>maybe</code> (một từ)", "Maybe he's busy."],
+            ["Modal + be", "<code>may be</code> (hai từ)", "He may be busy."],
+            ["Đang xảy ra", "<code>might be + V-ing</code>", "He might be sleeping."],
+            ["Suy đoán quá khứ", "<code>might have + V3</code>", "He might have forgotten."],
+            ["Xin phép trang trọng", "<code>May I…?</code>", "May I come in?"],
+            ["Thôi thì cứ", "<code>might as well + V</code>", "We might as well go."],
+            ["Gợi ý nhẹ", "<code>You might want to + V</code>", "You might want to check."],
+            ["Suy đoán chắc chắn", "<code>must + V trần</code>", "He must be busy."],
+            ["Chắc chắn không", "<code>can't + V trần</code>", "He can't be serious."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Hai dòng cuối là cặp đối lập quan trọng:</b> suy đoán <b>chắc chắn có</b> thì dùng <b>must</b>; suy đoán <b>chắc chắn không</b> thì dùng <b>can't</b>, KHÔNG dùng <i>mustn't</i>. <i>He <b>can't</b> be serious</i> ✓ — <i>He mustn't be serious</i> ✗ (nghĩa khác hẳn)." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "He might be busy right now.", "vi": "Có khi giờ anh ấy đang bận.", "note": "<b>might</b> là modal thông dụng nhất khi đoán." },
+            { "en": "Maybe he's busy.", "vi": "Có lẽ anh ấy bận.", "note": "BẪY SỐ MỘT: <b>maybe</b> MỘT từ là trạng từ, đứng đầu câu." },
+            { "en": "He may be busy.", "vi": "Anh ấy có thể đang bận.", "note": "<b>may be</b> HAI từ — modal + động từ <i>be</i>." },
+            { "en": "It could rain later.", "vi": "Lát nữa có khi mưa.", "note": "<b>could</b> nói khả năng xảy ra, khác <i>can</i> nói khả năng làm được." },
+            { "en": "He might not come.", "vi": "Có khi anh ấy không đến.", "note": "BẪY SỐ HAI: dùng <b>might not</b> cho nghĩa “có khi không”." },
+            { "en": "You may not park here.", "vi": "Ở đây không được đỗ xe.", "note": "<b>may not</b> trong biển báo nghĩa là CẤM, không phải “có khi không”." },
+            { "en": "He might be sleeping.", "vi": "Có khi anh ấy đang ngủ.", "note": "<b>might be + V-ing</b> = có khi đang làm gì đó lúc này." },
+            { "en": "He might have forgotten.", "vi": "Có khi anh ấy quên mất rồi.", "note": "<b>might have + V3</b> = suy đoán về QUÁ KHỨ. Xem [Ngữ pháp 33]." },
+            { "en": "May I come in?", "vi": "Tôi vào được không ạ?", "note": "<b>May I…?</b> rất trang trọng, hơi cổ. <i>Could I</i> tự nhiên hơn." },
+            { "en": "We might as well go now.", "vi": "Thôi thì mình đi luôn đi.", "note": "<b>might as well</b> = chẳng có lý do gì để không làm." },
+            { "en": "You might want to check first.", "vi": "Có lẽ bạn nên kiểm tra trước.", "note": "Cách gợi ý NHẸ NHÀNG nhất — gần như không có sức ép." },
+            { "en": "He must be busy — his light is on.", "vi": "Chắc anh ấy bận — đèn vẫn sáng.", "note": "<b>must</b> = suy đoán gần như chắc chắn, có bằng chứng." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🤔", "title": "Đoán điều chưa chắc", "text": "<i>He might be busy.</i> Xem [Khung 50]." },
+            { "icon": "🌧️", "title": "Dự đoán thời tiết", "text": "<i>It could rain later.</i>" },
+            { "icon": "💭", "title": "Đoán về quá khứ", "text": "<i>He might have forgotten.</i>" },
+            { "icon": "💡", "title": "Gợi ý rất nhẹ", "text": "<i>You might want to check first.</i>" },
+            { "icon": "🤷", "title": "Thôi thì cứ làm", "text": "<i>We might as well go.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Muốn nói “có khi không”. Dùng <i>might not</i>, không dùng <i>may not</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "may · might · could",
+              "items": [
+                { "w": "might + V trần", "vi": "có khi, biết đâu", "ex": "He might be busy.", "exvi": "Có khi anh ấy bận.", "note": "Modal thông dụng nhất khi đoán trong hội thoại." },
+                { "w": "may + V trần", "vi": "có thể", "ex": "He may be busy.", "exvi": "Anh ấy có thể đang bận.", "note": "Trang trọng hơn <i>might</i> — hay gặp trong văn viết." },
+                { "w": "could + V trần", "vi": "có khi", "ex": "It could rain later.", "exvi": "Lát nữa có khi mưa.", "note": "Nhấn vào MỘT trong nhiều khả năng." },
+                { "w": "might not", "vi": "có khi không", "ex": "He might not come.", "exvi": "Có khi anh ấy không đến.", "note": "BẪY SỐ HAI: dùng cái này, đừng dùng <i>may not</i> cho nghĩa này." },
+                { "w": "may not", "vi": "không được phép", "ex": "You may not park here.", "exvi": "Ở đây không được đỗ xe.", "note": "Trong biển báo và quy định, <b>may not</b> nghĩa là CẤM." },
+                { "w": "maybe", "vi": "có lẽ", "ex": "Maybe he's busy.", "exvi": "Có lẽ anh ấy bận.", "note": "BẪY SỐ MỘT: MỘT từ, là TRẠNG TỪ, thường đứng đầu câu." },
+                { "w": "may be", "vi": "có thể đang là", "ex": "He may be busy.", "exvi": "Anh ấy có thể đang bận.", "note": "HAI từ: modal + động từ <i>be</i>. Khác hẳn <i>maybe</i>." },
+                { "w": "might be + V-ing", "vi": "có khi đang", "ex": "He might be sleeping.", "exvi": "Có khi anh ấy đang ngủ." },
+                { "w": "might have + V3", "vi": "có khi đã", "ex": "He might have forgotten.", "exvi": "Có khi anh ấy quên rồi.", "note": "Suy đoán về QUÁ KHỨ. Xem [Ngữ pháp 33]." },
+                { "w": "might as well", "vi": "thôi thì cứ", "ex": "We might as well go now.", "exvi": "Thôi thì mình đi luôn đi.", "note": "Chẳng có lý do gì để không làm — rất khẩu ngữ." },
+                { "w": "You might want to", "vi": "có lẽ bạn nên", "ex": "You might want to check first.", "exvi": "Có lẽ bạn nên kiểm tra trước.", "note": "Cách gợi ý NHẸ nhất, gần như không có sức ép. Xem [Khung 98]." },
+                { "w": "May I…?", "vi": "tôi… được không ạ?", "ex": "May I come in?", "exvi": "Tôi vào được không ạ?", "note": "Rất trang trọng, hơi cổ. <i>Could I</i> tự nhiên hơn. Xem [Ngữ pháp 29]." }
+              ]
+            },
+            {
+              "title": "Các mức chắc chắn khác & từ đi kèm",
+              "items": [
+                { "w": "must + V trần", "vi": "chắc hẳn là", "ex": "He must be busy.", "exvi": "Chắc anh ấy bận.", "note": "Suy đoán gần như CHẮC CHẮN, có bằng chứng." },
+                { "w": "can't + V trần", "vi": "không thể nào", "ex": "He can't be serious.", "exvi": "Anh ấy không thể nghiêm túc được.", "note": "Suy đoán chắc chắn KHÔNG. <i>mustn't</i> ✗ ở nghĩa này." },
+                { "w": "should + V trần", "vi": "đáng lẽ, chắc là", "ex": "It should be ready by now.", "exvi": "Giờ này chắc xong rồi.", "note": "Suy đoán dựa trên lẽ thường — khoảng 80%." },
+                { "w": "probably", "vi": "chắc là", "ex": "He's probably busy.", "exvi": "Chắc anh ấy bận.", "note": "Trạng từ, không phải modal — đặt sau <i>be</i> hoặc trước động từ thường." },
+                { "w": "possibly", "vi": "có thể", "ex": "He could possibly be right.", "exvi": "Có thể anh ấy đúng." },
+                { "w": "perhaps", "vi": "có lẽ", "ex": "Perhaps he forgot.", "exvi": "Có lẽ anh ấy quên.", "note": "Trang trọng hơn <i>maybe</i> một chút." },
+                { "w": "It seems", "vi": "có vẻ như", "ex": "It seems he's not coming.", "exvi": "Có vẻ anh ấy không đến. Xem [Khung 44]." },
+                { "w": "I'm not sure, but", "vi": "tôi không chắc, nhưng", "ex": "I'm not sure, but I think so.", "exvi": "Tôi không chắc, nhưng tôi nghĩ vậy. Xem [Khung 50]." },
+                { "w": "As far as I know", "vi": "theo tôi biết", "ex": "As far as I know, he's away.", "exvi": "Theo tôi biết thì anh ấy đi vắng. Xem [Khung 45]." },
+                { "w": "Not necessarily", "vi": "chưa chắc", "ex": "Not necessarily.", "exvi": "Chưa chắc đâu. Xem [Khung 59]." },
+                { "w": "I doubt it", "vi": "tôi nghi ngờ điều đó", "ex": "I doubt it.", "exvi": "Tôi nghi lắm." },
+                { "w": "It's unlikely", "vi": "khó mà", "ex": "It's unlikely he'll come.", "exvi": "Khó mà anh ấy đến. Xem [Khung 55]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "He <b>maybe</b> busy.", "right": "He <b>may be</b> busy.", "why": "BẪY SỐ MỘT: <i>maybe</i> là TRẠNG TỪ, không thay được động từ. Ở đây cần modal + <i>be</i>." },
+            { "wrong": "<b>May be</b> he's busy.", "right": "<b>Maybe</b> he's busy.", "why": "Ngược lại: đứng đầu câu với nghĩa “có lẽ” thì viết LIỀN một từ." },
+            { "wrong": "He might <b>to be</b> busy.", "right": "He might <b>be</b> busy.", "why": "Sau mọi modal là ĐỘNG TỪ TRẦN, không có <i>to</i>. Xem [Ngữ pháp 29]." },
+            { "wrong": "He <b>mights</b> come.", "right": "He <b>might</b> come.", "why": "Modal không chia theo ngôi — không có <i>mights</i>, <i>mays</i>." },
+            { "wrong": "He <b>may not</b> come — I'm not sure. <i>(ý: có khi không)</i>", "right": "He <b>might not</b> come.", "why": "BẪY SỐ HAI: <i>may not</i> dễ bị hiểu là CẤM. Dùng <b>might not</b> cho an toàn." },
+            { "wrong": "He <b>mustn't</b> be serious. <i>(ý: không thể nào)</i>", "right": "He <b>can't</b> be serious.", "why": "Suy đoán chắc chắn KHÔNG thì dùng <b>can't</b>. <i>mustn't</i> nghĩa là “không được phép”." },
+            { "wrong": "He might <b>forgot</b>.", "right": "He might <b>have forgotten</b>.", "why": "Suy đoán về QUÁ KHỨ cần <b>might have + V3</b>. Xem [Ngữ pháp 33]." },
+            { "wrong": "He <b>will might</b> come.", "right": "He <b>might</b> come.", "why": "Hai modal không đứng cạnh nhau. <i>might</i> đã mang sẵn nghĩa tương lai." },
+            { "wrong": "We <b>might as well to go</b>.", "right": "We <b>might as well go</b>.", "why": "<b>might as well</b> vẫn đi với động từ trần." },
+            { "wrong": "It <b>can</b> rain later. <i>(ý: lát nữa có khi mưa)</i>", "right": "It <b>could</b> rain later.", "why": "<i>can</i> nói tính chất chung, <b>could</b> mới nói khả năng xảy ra lần này. Xem [Ngữ pháp 29]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Mức chắc chắn", "Ví dụ"],
+          "rows": [
+            ["<code>must + V trần</code>", "~95% — gần như chắc", "He must be busy."],
+            ["<code>should + V trần</code>", "~80% — theo lẽ thường", "It should be ready by now."],
+            ["<code>may + V trần</code>", "~50%", "He may be busy."],
+            ["<code>might / could + V trần</code>", "~40%", "He might be busy."],
+            ["<code>can't + V trần</code>", "~5% — chắc chắn không", "He can't be serious."],
+            ["<code>maybe</code> (trạng từ)", "Tương đương <i>may</i>", "Maybe he's busy."],
+            ["<code>might have + V3</code>", "Suy đoán QUÁ KHỨ. Xem [Ngữ pháp 33]", "He might have forgotten."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng modal nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn chắc chắn đến mức nào, và nói về lúc nào?",
+          "nodes": [
+            { "if": "Gần như chắc chắn CÓ, có bằng chứng", "then": "must + V trần", "ex": "He must be busy." },
+            { "if": "Gần như chắc chắn KHÔNG", "then": "can't + V trần — không dùng mustn't", "ex": "He can't be serious." },
+            { "if": "Khoảng một nửa, chưa chắc", "then": "may / might / could + V trần", "ex": "He might be busy." },
+            { "if": "Muốn nói “có khi không”", "then": "might not — tránh may not", "ex": "He might not come." },
+            { "if": "Suy đoán về chuyện đã xảy ra", "then": "might have + V3", "ex": "He might have forgotten." },
+            { "if": "Muốn mở đầu câu bằng một trạng từ", "then": "Maybe / Perhaps — viết liền một từ", "ex": "Maybe he's busy." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ chắc chắn" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "He can't be busy.", "vi": "Chắc chắn không" },
+            { "en": "He might be busy.", "vi": "Có khi — khoảng 40%" },
+            { "en": "He may be busy.", "vi": "Có thể — khoảng 50%" },
+            { "en": "He should be busy by now.", "vi": "Theo lẽ thường — khoảng 80%" },
+            { "en": "He must be busy.", "vi": "Gần như chắc chắn" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Nhóm modal chỉ khả năng xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 50, "why": "I'm not sure, but… — khung chính để nói điều chưa chắc, hay đi kèm might." },
+            { "id": 44, "why": "It seems… — cách nói phỏng đoán khác, cùng mức độ chắc chắn với may." },
+            { "id": 45, "why": "As far as I know… — rào đón trước khi đưa thông tin chưa chắc." },
+            { "id": 59, "why": "Not necessarily — phản biện một suy đoán quá chắc chắn." },
+            { "id": 55, "why": "I don't think so — cách nói nhẹ của can't be, phủ định một khả năng." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền modal hoặc chia động từ" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Có khi anh ấy bận.", "blank": "He might __________ (be) busy.", "a": "be — động từ trần" },
+            { "vi": "Có lẽ anh ấy bận. (đầu câu)", "blank": "__________ he's busy.", "a": "Maybe — một từ" },
+            { "vi": "Anh ấy có thể đang bận.", "blank": "He __________ busy.", "a": "may be — hai từ" },
+            { "vi": "Có khi anh ấy không đến.", "blank": "He __________ come.", "a": "might not" },
+            { "vi": "Có khi anh ấy quên rồi.", "blank": "He might __________ (forget).", "a": "have forgotten" },
+            { "vi": "Chắc anh ấy bận — đèn vẫn sáng.", "blank": "He __________ be busy — his light is on.", "a": "must" },
+            { "vi": "Anh ấy không thể nghiêm túc được.", "blank": "He __________ be serious.", "a": "can't" },
+            { "vi": "Thôi thì mình đi luôn đi.", "blank": "We might as well __________ (go) now.", "a": "go" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Anh ấy có thể đang bận.", "blank": "He __________ busy.  (maybe / may be)", "a": "may be — hai từ" },
+            { "vi": "Có khi anh ấy không đến.", "blank": "He __________ come.  (may not / might not)", "a": "might not — tránh nghĩa cấm" },
+            { "vi": "Lát nữa có khi mưa.", "blank": "It __________ rain later.  (can / could)", "a": "could" },
+            { "vi": "Anh ấy không thể nghiêm túc được.", "blank": "He __________ be serious.  (mustn't / can't)", "a": "can't" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Có khi giờ anh ấy đang bận.", "a": "He might be busy right now." },
+            { "vi": "2. Có khi anh ấy quên mất rồi.", "a": "He might have forgotten." },
+            { "vi": "3. Có lẽ bạn nên kiểm tra trước.", "a": "You might want to check first." },
+            { "vi": "4. Thôi thì mình đi luôn đi.", "a": "We might as well go now." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Đếm số từ trước khi viết:</b> <i>maybe</i> MỘT từ là trạng từ; <i>may be</i> HAI từ là modal + động từ.",
+            "<b>Muốn nói “có khi không” thì dùng <i>might not</i></b> — <i>may not</i> dễ bị hiểu thành CẤM.",
+            "<b>Suy đoán chắc chắn không thì dùng <i>can't</i></b>, không bao giờ <i>mustn't</i>. Hai từ này nghĩa khác hẳn.",
+            "<b>Đoán về quá khứ thì thêm <i>have + V3</i>:</b> <i>He might <b>have forgotten</b></i>. Xem [Ngữ pháp 33].",
+            "<b>Trong hội thoại, <i>might</i> là lựa chọn an toàn nhất</b> — tự nhiên hơn <i>may</i> và ít rủi ro hơn.",
+            "<b>Bài tập 3 phút:</b> nhìn ra cửa sổ, viết năm câu đoán về người qua đường — dùng <i>might, may, could, must, can't</i> mỗi từ một lần."
+          ]
+        }
+      ]
+    }
+  ]
+}

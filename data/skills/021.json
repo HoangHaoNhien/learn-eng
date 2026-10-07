@@ -1,0 +1,277 @@
+{
+  "id": 21,
+  "group": "Nhóm 4 · Viết — cấu trúc trước, chữ sau",
+  "title": "Email thân mật & tin nhắn",
+  "subtitle": "Viết cho bạn bè mà dùng giọng trang trọng thì nghe như thư ngân hàng: Dear Nam, I am writing to inform you… Người nhận thấy xa cách ngay. Email thân mật có khuôn riêng — ngắn, có rút gọn, và có hỏi thăm thật.",
+  "meaning": "Viết email và tin nhắn cho người quen",
+  "rule": [
+    "<em>Hi Nam,</em> → <em>Cheers / Best</em> — không dùng <em>Dear … faithfully</em>",
+    "<em>Rút gọn</em> là bắt buộc, không rút nghe xa cách",
+    "Hỏi thăm <em>một câu</em> rồi vào việc"
+  ],
+  "tags": [
+    { "text": "Mức độ: dùng hằng ngày", "hot": true },
+    { "text": "Dùng giọng trang trọng với bạn" },
+    { "text": "Rút gọn là bắt buộc" },
+    { "text": "Ảnh hưởng: lớn" }
+  ],
+  "frames": [33, 76, 77, 78, 80],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "[Kỹ năng 20] dạy khuôn trang trọng. Bài này là mặt kia: viết cho <b>đồng nghiệp quen, bạn bè, người đã gặp</b>. Dùng nhầm khuôn là lỗi về <b>giọng điệu</b> — không sai ngữ pháp nhưng người nhận thấy ngay." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — dùng giọng trang trọng với người quen:</b><br><i>“Dear Nam, I am writing to inform you that I will not be able to attend…”</i><br>Viết cho bạn mà nghe như thư ngân hàng. Người nhận hiểu là bạn đang <b>giữ khoảng cách</b>.<br><b>Khuôn thân mật:</b><br><i>“Hi Nam,<br>Sorry — I can't make it tomorrow. Something's come up at work.<br>Can we do Friday instead?<br>Cheers,<br>Minh”</i><br>Ngắn, có rút gọn, có lý do thật. Đó mới là email giữa người quen." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — không rút gọn, hoặc hỏi thăm dài như tiếng Việt:</b><br>• <i>I <b>am</b> sorry but I <b>cannot</b> come</i> → trong email thân mật nên là <i>I'm sorry but I <b>can't</b> come</i><br>• <i>“How are you? I hope you and your family are all well and healthy. The weather here…”</i> — ba câu hỏi thăm trước khi vào việc là lối viết tiếng Việt<br><b>Một câu là đủ:</b> <i>“Hope you're well.”</i> hoặc <i>“How's it going?”</i> rồi vào việc ngay. Xem [Khung 76]." },
+        { "t": "h3", "text": "Hai khuôn đặt cạnh nhau" },
+        {
+          "t": "table",
+          "head": ["Phần", "Trang trọng", "Thân mật"],
+          "rows": [
+            ["Chào", "Dear Sir or Madam,", "Hi Nam, / Hey Nam,"],
+            ["Mở đầu", "I am writing to inform you…", "Just a quick note — …"],
+            ["Nhờ việc", "I would be grateful if you could…", "Could you… ? / Any chance you could… ?"],
+            ["Ký", "Yours faithfully,", "Cheers, / Best, / Thanks,"]
+          ]
+        },
+        { "t": "p", "html": "Giữa hai cột có một mức <b>trung tính</b> rất hay dùng với đồng nghiệp chưa thân: <i>Hi Nam,</i> … <i>Best regards,</i> — vừa thân thiện vừa chuyên nghiệp." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Chức năng", "Cụm", "Mức"],
+          "rows": [
+            ["Chào bạn thân", "Hi Nam, / Hey Nam,", "Thân mật"],
+            ["Chào đồng nghiệp", "Hi Nam, / Hello Nam,", "Trung tính"],
+            ["Hỏi thăm — một câu", "Hope you're well. / How's it going?", "Xem [Khung 76]"],
+            ["Lâu không gặp", "Long time no see! / It's been ages.", "Xem [Khung 77]"],
+            ["Vào việc nhanh", "Just a quick note — …", "Thân mật"],
+            ["Nhờ việc", "Any chance you could…? / Could you…?", "Thân mật"],
+            ["Báo tin", "Just so you know, … / FYI,", "FYI chỉ dùng nội bộ"],
+            ["Xin lỗi", "Sorry about that. / My bad.", "<i>My bad</i> rất thân"],
+            ["Rủ rê", "How about Friday? / Fancy a coffee?", "Xem [Khung 33]"],
+            ["Cảm ơn", "Thanks a lot! / Thanks for sorting that.", "Xem [Khung 78]"],
+            ["Kết", "Cheers, / Best, / Thanks,", "Không dùng <i>Yours faithfully</i>"],
+            ["Chúc", "Have a good weekend! / See you Friday!", "Xem [Khung 80]"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Tin nhắn còn ngắn hơn nữa:</b> bỏ luôn cả chào và ký, bỏ cả chủ ngữ.<br><i>“Running 10 mins late, sorry!”</i> · <i>“Sounds good — see you then.”</i> · <i>“Can't make it today, sorry.”</i><br>Bỏ chủ ngữ (<i>I'm</i>, <i>I</i>) là bình thường trong tin nhắn, nhưng <b>không bao giờ</b> làm vậy trong email." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Hi Nam, hope you're well.", "vi": "Chào Nam, mong là bạn vẫn khoẻ.", "note": "BẪY SỐ HAI: hỏi thăm MỘT câu rồi vào việc ngay." },
+            { "en": "Just a quick note about Friday's meeting.", "vi": "Nhắn nhanh một chút về buổi họp thứ Sáu.", "note": "Cách vào việc tự nhiên nhất trong email thân mật." },
+            { "en": "Sorry — I can't make it tomorrow.", "vi": "Xin lỗi, mai mình không đến được.", "note": "BẪY SỐ MỘT: có rút gọn <i>can't</i> — đây là email thân mật." },
+            { "en": "Something's come up at work.", "vi": "Ở chỗ làm có việc đột xuất.", "note": "Lý do ngắn gọn, không giải thích dài dòng." },
+            { "en": "Any chance you could send me the file?", "vi": "Bạn gửi mình cái file được không?", "note": "Cách nhờ thân mật — nhẹ hơn <i>Could you</i> một bậc." },
+            { "en": "How about Friday instead?", "vi": "Hay thứ Sáu nhé?", "note": "Rủ, đề nghị. Xem [Khung 33]." },
+            { "en": "Thanks a lot for sorting that out.", "vi": "Cảm ơn bạn nhiều vì đã lo giúp.", "note": "Xem [Khung 78]." },
+            { "en": "Long time no see — how's it going?", "vi": "Lâu quá không gặp — dạo này sao rồi?", "note": "Xem [Khung 77] và [Khung 76]." },
+            { "en": "Just so you know, the deadline moved to Monday.", "vi": "Báo bạn biết là hạn chuyển sang thứ Hai.", "note": "Báo tin nhẹ nhàng, không trang trọng." },
+            { "en": "Have a good weekend! Cheers, Minh", "vi": "Chúc cuối tuần vui! Thân, Minh.", "note": "Câu chúc + ký thân mật. Xem [Khung 80]." },
+            { "en": "Running 10 minutes late, sorry!", "vi": "Mình trễ mười phút, xin lỗi!", "note": "Tin nhắn — bỏ luôn chủ ngữ <i>I'm</i>." },
+            { "en": "Sounds good — see you then.", "vi": "Nghe ổn đấy — hẹn gặp.", "note": "Tin nhắn xác nhận. Xem [Khung 85]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào cần để ý nhất",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "👥", "title": "Email cho đồng nghiệp", "text": "<i>Hi Nam,</i> … <i>Best regards,</i> — mức trung tính." },
+            { "icon": "📱", "title": "Nhắn tin", "text": "Bỏ chào, bỏ ký, bỏ cả chủ ngữ." },
+            { "icon": "🙏", "title": "Báo bận, xin lỗi", "text": "<i>Sorry — I can't make it.</i> Ngắn gọn." },
+            { "icon": "☕", "title": "Rủ đi đâu đó", "text": "<i>Fancy a coffee?</i> Xem [Khung 33]." },
+            { "icon": "👋", "title": "Nối lại liên lạc", "text": "<i>Long time no see!</i> Xem [Khung 77]." },
+            { "icon": "🚫", "title": "Đừng làm…", "text": "Đừng viết <i>Dear… I am writing to inform you</i> cho bạn bè." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cụm cho email thân mật",
+      "blocks": [
+        { "t": "p", "html": "Chọn một cụm ở cột trái để xem mức thân mật và ví dụ hoàn chỉnh." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Chào, hỏi thăm & vào việc",
+              "items": [
+                { "w": "Hi Nam,", "vi": "Chào Nam,", "ex": "Hi Nam, hope you're well.", "exvi": "Chào Nam, mong bạn vẫn khoẻ.", "note": "BẪY SỐ MỘT: dùng cái này, không dùng <i>Dear</i> với người quen." },
+                { "w": "Hey Nam,", "vi": "Ê Nam,", "ex": "Hey Nam, quick question.", "exvi": "Ê Nam, hỏi nhanh tí.", "note": "Thân hơn <i>Hi</i> — chỉ dùng với bạn bè." },
+                { "w": "Hope you're well.", "vi": "Mong bạn vẫn khoẻ.", "ex": "Hi Lan, hope you're well.", "exvi": "Chào Lan, mong bạn vẫn khoẻ.", "note": "BẪY SỐ HAI: MỘT câu hỏi thăm là đủ." },
+                { "w": "How's it going?", "vi": "Dạo này sao rồi?", "ex": "Hey, how's it going?", "exvi": "Ê, dạo này sao rồi? Xem [Khung 76]." },
+                { "w": "Long time no see!", "vi": "Lâu quá không gặp!", "ex": "Long time no see — how are things?", "exvi": "Lâu quá không gặp — mọi thứ sao rồi? Xem [Khung 77]." },
+                { "w": "Just a quick note —", "vi": "Nhắn nhanh một chút —", "ex": "Just a quick note about Friday.", "exvi": "Nhắn nhanh về thứ Sáu.", "note": "Cách vào việc tự nhiên nhất." },
+                { "w": "Just so you know,…", "vi": "Báo bạn biết là…", "ex": "Just so you know, the deadline moved.", "exvi": "Báo bạn biết là hạn đổi rồi." },
+                { "w": "FYI,", "vi": "Cho bạn biết,", "ex": "FYI, the room has changed.", "exvi": "Cho biết là đổi phòng rồi.", "note": "Chỉ dùng nội bộ — không dùng với khách hàng." },
+                { "w": "Quick question —", "vi": "Hỏi nhanh tí —", "ex": "Quick question — is Friday still ok?", "exvi": "Hỏi nhanh — thứ Sáu vẫn ổn chứ?" },
+                { "w": "Sorry for the slow reply.", "vi": "Xin lỗi trả lời chậm.", "ex": "Sorry for the slow reply — busy week!", "exvi": "Xin lỗi rep chậm, tuần này bận quá!" },
+                { "w": "Thanks for getting back to me.", "vi": "Cảm ơn bạn đã hồi âm.", "ex": "Thanks for getting back to me so quickly.", "exvi": "Cảm ơn bạn hồi âm nhanh. Xem [Khung 78]." },
+                { "w": "Hope that makes sense.", "vi": "Mong là bạn hiểu ý mình.", "ex": "Hope that makes sense!", "exvi": "Mong là bạn hiểu ý mình nhé!" }
+              ]
+            },
+            {
+              "title": "Nhờ việc, rủ rê & kết thư",
+              "items": [
+                { "w": "Any chance you could…?", "vi": "Bạn… được không?", "ex": "Any chance you could send me the file?", "exvi": "Bạn gửi mình cái file được không?", "note": "Nhẹ hơn <i>Could you</i> một bậc — rất thân thiện." },
+                { "w": "Could you…?", "vi": "Bạn… được không?", "ex": "Could you check this for me?", "exvi": "Bạn xem giúp mình cái này nhé? Xem [Khung 11]." },
+                { "w": "Would you mind…?", "vi": "Phiền bạn… nhé?", "ex": "Would you mind sending it again?", "exvi": "Phiền bạn gửi lại nhé? Xem [Khung 13]." },
+                { "w": "Let me know if…", "vi": "Báo mình nếu…", "ex": "Let me know if that works for you.", "exvi": "Báo mình nếu bạn thấy ổn." },
+                { "w": "How about Friday?", "vi": "Hay thứ Sáu nhé?", "ex": "How about Friday instead?", "exvi": "Hay thứ Sáu nhé? Xem [Khung 33]." },
+                { "w": "Fancy a coffee?", "vi": "Làm ly cà phê không?", "ex": "Fancy a coffee this week?", "exvi": "Tuần này làm ly cà phê không?", "note": "Rất Anh — Mỹ hay dùng <i>Want to grab a coffee?</i>" },
+                { "w": "Sorry about that.", "vi": "Xin lỗi chuyện đó nhé.", "ex": "Sorry about that — my mistake.", "exvi": "Xin lỗi nhé, lỗi của mình. Xem [Khung 79]." },
+                { "w": "No worries.", "vi": "Không sao đâu.", "ex": "No worries at all.", "exvi": "Không sao đâu mà." },
+                { "w": "Cheers,", "vi": "Thân,", "ex": "Cheers, Minh", "exvi": "Thân, Minh.", "note": "Rất thông dụng ở Anh — KHÔNG dùng trong email trang trọng." },
+                { "w": "Best, / Thanks,", "vi": "Thân mến, / Cảm ơn,", "ex": "Thanks, Minh", "exvi": "Cảm ơn, Minh.", "note": "Trung tính — an toàn với đồng nghiệp chưa thân." },
+                { "w": "Best regards,", "vi": "Trân trọng,", "ex": "Best regards, Minh", "exvi": "Trân trọng, Minh.", "note": "Mức trung tính giữa hai khuôn — dùng được gần như mọi lúc." },
+                { "w": "See you Friday!", "vi": "Hẹn gặp thứ Sáu!", "ex": "Have a good weekend — see you Friday!", "exvi": "Cuối tuần vui nhé — hẹn thứ Sáu! Xem [Khung 80]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<b>“Dear Nam, I am writing to inform you that…”</b> gửi cho bạn", "right": "<b>“Hi Nam, just a quick note — …”</b>", "why": "BẪY SỐ MỘT: giọng trang trọng với người quen tạo cảm giác giữ khoảng cách." },
+            { "wrong": "<b>“I am sorry but I cannot come.”</b>", "right": "<b>“Sorry — I can't make it.”</b>", "why": "BẪY SỐ HAI: email thân mật PHẢI rút gọn. Không rút nghe lạnh lùng." },
+            { "wrong": "<b>“How are you? I hope you and your family are well and healthy…”</b>", "right": "<b>“Hope you're well.”</b> rồi vào việc", "why": "Hỏi thăm ba câu là lối viết tiếng Việt. Một câu là đủ." },
+            { "wrong": "Kết bằng <b>Yours faithfully</b> cho email bạn bè", "right": "<b>Cheers,</b> · <b>Best,</b> · <b>Thanks,</b>", "why": "<i>Yours faithfully</i> chỉ dùng khi không biết tên người nhận." },
+            { "wrong": "<b>“I would be grateful if you could send me the file.”</b> gửi cho bạn cùng nhóm", "right": "<b>“Any chance you could send me the file?”</b>", "why": "Quá trang trọng với đồng nghiệp thân nghe như đang giận nhau." },
+            { "wrong": "Viết email thân mật <b>dài năm đoạn</b>", "right": "<b>Hai ba câu</b> là đủ", "why": "Email thân mật càng ngắn càng tự nhiên." },
+            { "wrong": "Dùng <b>FYI</b> khi gửi khách hàng", "right": "<b>Just so you know,…</b> hoặc viết đủ", "why": "Viết tắt kiểu nội bộ dùng với người ngoài nghe cẩu thả." },
+            { "wrong": "Trong <b>email</b> viết <b>“Can't make it today, sorry.”</b> bỏ chủ ngữ", "right": "<b>“I can't make it today, sorry.”</b>", "why": "Bỏ chủ ngữ chỉ chấp nhận trong TIN NHẮN, không trong email." },
+            { "wrong": "<b>“My bad”</b> gửi cho sếp", "right": "<b>“Sorry about that.”</b>", "why": "<i>My bad</i> rất thân — sai ngữ cảnh nghe thiếu nghiêm túc." },
+            { "wrong": "Dùng <b>emoji</b> trong email công việc với người chưa quen", "right": "Để dành cho tin nhắn hoặc người đã thân", "why": "Emoji với người lạ dễ bị hiểu là thiếu chuyên nghiệp." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với lỗi gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>Hi Nam</code> / <code>Dear Sir</code>", "Người quen / người lạ", "Xem [Kỹ năng 20]"],
+            ["<code>Cheers</code> / <code>Yours faithfully</code>", "Thân mật / trang trọng", "Ghép sai lộ ngay"],
+            ["Rút gọn / viết đủ", "Thân mật / trang trọng", "can't ≠ cannot"],
+            ["Email / tin nhắn", "Giữ chủ ngữ / bỏ được", "I can't make it ≠ Can't make it"],
+            ["<code>Best regards</code> / <code>Cheers</code>", "Trung tính / thân", "Best regards an toàn nhất"],
+            ["<code>FYI</code> / <code>Just so you know</code>", "Nội bộ / dùng được rộng", "Không FYI với khách"],
+            ["<code>My bad</code> / <code>Sorry about that</code>", "Rất thân / an toàn", "Không dùng với sếp"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng giọng nào?" },
+        {
+          "t": "tree",
+          "q": "Nghĩ xem bạn đang viết cho ai rồi chọn khuôn.",
+          "nodes": [
+            { "if": "Người lạ, chưa biết tên", "then": "Khuôn trang trọng hoàn toàn", "ex": "Dear Sir or Madam → Yours faithfully. Xem [Kỹ năng 20]" },
+            { "if": "Người lạ nhưng biết tên", "then": "Dear Mr/Ms + HỌ → Yours sincerely", "ex": "Vẫn trang trọng" },
+            { "if": "Đồng nghiệp chưa thân", "then": "Hi Nam → Best regards", "ex": "Mức trung tính, an toàn nhất" },
+            { "if": "Đồng nghiệp đã quen", "then": "Hi Nam → Cheers / Thanks", "ex": "Có rút gọn, ngắn gọn" },
+            { "if": "Bạn bè", "then": "Hey Nam → Cheers", "ex": "Fancy a coffee?" },
+            { "if": "Nhắn tin", "then": "Bỏ chào, bỏ ký, bỏ chủ ngữ", "ex": "Running 10 mins late, sorry!" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ thân mật của cùng một lời báo bận" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I regret to inform you that I will be unable to attend.", "vi": "Trang trọng nhất — thư chính thức" },
+            { "en": "I'm afraid I won't be able to make it.", "vi": "Lịch sự, dùng với khách" },
+            { "en": "Sorry, I can't make it tomorrow.", "vi": "Trung tính — đồng nghiệp" },
+            { "en": "Sorry — can't make it, something's come up.", "vi": "Thân mật" },
+            { "en": "Can't make it today, sorry!", "vi": "Tin nhắn — bỏ cả chủ ngữ" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kỹ năng này dùng ở đâu",
+      "blocks": [
+        { "t": "p", "html": "Email thân mật dùng lại đúng những khung xã giao bạn đã học ở phần khung câu." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 76, "why": "How's it going? — câu hỏi thăm một dòng, đúng độ dài cho email thân mật." },
+            { "id": 77, "why": "Long time no see! — mở đầu khi nối lại liên lạc sau lâu ngày." },
+            { "id": 78, "why": "Thank you for + V-ing — Thanks for sorting that out, bản thân mật." },
+            { "id": 80, "why": "Have a good + N! / See you… — câu chúc kết thư." },
+            { "id": 33, "why": "How about + V-ing / N? — rủ rê, đổi lịch hẹn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Viết lại cho đúng giọng thân mật" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Chào bạn.", "blank": "Dear Nam,  →  __________", "a": "Hi Nam," },
+            { "vi": "Ký tên.", "blank": "Yours faithfully,  →  __________", "a": "Cheers, / Best, / Thanks," },
+            { "vi": "Mai mình không đến được.", "blank": "I am sorry but I cannot come.  →  __________", "a": "Sorry — I can't make it." },
+            { "vi": "Nhắn nhanh về thứ Sáu.", "blank": "I am writing to inform you about Friday.  →  __________", "a": "Just a quick note about Friday." },
+            { "vi": "Bạn gửi mình file được không?", "blank": "I would be grateful if you could send the file.  →  __________", "a": "Any chance you could send me the file?" },
+            { "vi": "Mong bạn vẫn khoẻ.", "blank": "I hope this email finds you well.  →  __________", "a": "Hope you're well." },
+            { "vi": "Báo bạn biết hạn đổi rồi.", "blank": "I would like to inform you the deadline has changed.  →  __________", "a": "Just so you know, the deadline moved." },
+            { "vi": "Hay thứ Sáu nhé?", "blank": "Would it be possible to meet on Friday?  →  __________", "a": "How about Friday instead?" }
+          ]
+        },
+        { "t": "h3", "text": "B. Giọng nào phù hợp hơn?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Email cho bạn cùng nhóm", "blank": "(a) Dear Nam, I am writing to inform you…  (b) Hi Nam, just a quick note —", "a": "(b)" },
+            { "vi": "Email cho đồng nghiệp chưa thân", "blank": "(a) Hey Nam… Cheers  (b) Hi Nam… Best regards", "a": "(b) — trung tính, an toàn" },
+            { "vi": "Trong một email (không phải tin nhắn)", "blank": "(a) Can't make it today, sorry.  (b) I can't make it today, sorry.", "a": "(b) — email giữ chủ ngữ" },
+            { "vi": "Xin lỗi sếp", "blank": "(a) My bad.  (b) Sorry about that.", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Viết thử — ngắn thôi" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Báo bạn là mai bạn không đi họp được, xin đổi sang thứ Sáu.", "a": "Hi Nam → Sorry, I can't make it → Something's come up → How about Friday? → Cheers" },
+            { "vi": "2. Nhờ đồng nghiệp gửi lại một file.", "a": "Hi Lan, hope you're well. Any chance you could send me the file again? Thanks!" },
+            { "vi": "3. Nhắn tin báo trễ 10 phút.", "a": "Running 10 mins late, sorry! — bỏ chủ ngữ, bỏ chào ký." },
+            { "vi": "4. Soát lại: có rút gọn chưa? Hỏi thăm có quá một câu không?", "a": "can't / I'm / something's · hỏi thăm đúng MỘT câu rồi vào việc." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Hai khuôn, đừng trộn:</b> <i>Dear… Yours faithfully</i> cho người lạ · <i>Hi… Cheers</i> cho người quen.",
+            "<b>Email thân mật PHẢI rút gọn.</b> <i>I cannot come</i> gửi cho bạn nghe như đang giận nhau.",
+            "<b>Hỏi thăm đúng MỘT câu</b> rồi vào việc. Ba câu hỏi thăm là lối viết tiếng Việt.",
+            "<b>Không chắc thì chọn mức trung tính:</b> <i>Hi Nam,</i> … <i>Best regards,</i> — an toàn gần như mọi lúc.",
+            "<b>Tin nhắn bỏ được chủ ngữ, email thì không.</b> <i>Can't make it</i> ✓ trong tin nhắn, ✗ trong email.",
+            "<b>Soát 10 giây:</b> câu chào và câu ký có cùng một mức không? Có rút gọn chưa?"
+          ]
+        }
+      ]
+    }
+  ]
+}

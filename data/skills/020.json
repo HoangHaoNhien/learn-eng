@@ -1,0 +1,277 @@
+{
+  "id": 20,
+  "group": "Nhóm 4 · Viết — cấu trúc trước, chữ sau",
+  "title": "Email trang trọng",
+  "subtitle": "Dear Sir/Madam phải đi với Yours faithfully, còn Dear Mr Nam đi với Yours sincerely — đây là cặp cố định, ghép sai là người đọc thấy ngay bạn chưa quen viết. Và tiếng Anh vào việc rất nhanh: một câu mở đề rồi nói thẳng.",
+  "meaning": "Viết email trang trọng đúng khuôn và đúng giọng",
+  "rule": [
+    "<em>Dear Sir/Madam → Yours faithfully</em> · <em>Dear Mr X → Yours sincerely</em>",
+    "Câu đầu nói <em>viết để làm gì</em>, không hỏi thăm dài",
+    "Yêu cầu gói trong <em>câu hỏi gián tiếp</em>, không ra lệnh"
+  ],
+  "tags": [
+    { "text": "Mức độ: B2 bắt buộc", "hot": true },
+    { "text": "Cặp chào–kết phải khớp" },
+    { "text": "Send me ✗ — nghe như ra lệnh" },
+    { "text": "Ảnh hưởng: rất lớn" }
+  ],
+  "frames": [11, 16, 18, 78, 79],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Email trang trọng tiếng Anh có <b>khuôn rất chặt</b>. May là chặt thì dễ học: thuộc khuôn một lần là viết được mọi email xin việc, khiếu nại, hỏi thông tin." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — ghép sai cặp chào và kết:</b><br>• <b>Không biết tên</b> người nhận → <i>Dear Sir / Dear Madam / Dear Sir or Madam</i> → kết bằng <b>Yours faithfully</b><br>• <b>Biết tên</b> → <i>Dear Mr Nam / Dear Ms Lan</i> → kết bằng <b>Yours sincerely</b><br>Mẹo nhớ: <b>không tên thì “faithfully”, có tên thì “sincerely”</b> — cả hai đều có chữ <b>“s”</b> đi với <b>“Sir”</b> hay không.<br>Và chú ý: <i>Dear Mr <b>Nam</b></i> dùng <b>họ</b>, không dùng tên riêng. <i>Dear Mr. John</i> ✗ nếu John là tên." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — hỏi thăm dài rồi mới vào việc, và ra lệnh thay vì nhờ:</b><br>Người Việt quen mở đầu vòng vo: <i>“How are you? I hope you and your family are well. Recently the weather…”</i> — trong email công việc tiếng Anh, <b>câu đầu phải nói bạn viết để làm gì</b>.<br>Và yêu cầu thì phải gói lại:<br><i><b>Send me</b> the report</i> ✗ — nghe như ra lệnh<br><i><b>I would be grateful if you could</b> send me the report.</i> ✓<br><i><b>Could you possibly</b> send me the report?</i> ✓ Xem [Khung 11]." },
+        { "t": "h3", "text": "Bốn phần của email trang trọng" },
+        {
+          "t": "table",
+          "head": ["Phần", "Việc của nó", "Mẫu"],
+          "rows": [
+            ["Chào", "Đúng cặp với câu kết", "Dear Sir or Madam, / Dear Mr Nam,"],
+            ["Mở đề", "Nói ngay viết để làm gì", "I am writing to enquire about…"],
+            ["Thân", "Chi tiết + yêu cầu", "I would be grateful if you could…"],
+            ["Kết", "Câu chờ hồi âm + ký", "I look forward to… / Yours faithfully,"]
+          ]
+        },
+        { "t": "p", "html": "Cả email chỉ cần <b>ba đoạn ngắn</b>. Dài hơn là người đọc bỏ qua — email công việc được đọc lướt, không đọc kỹ." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Vị trí", "Trang trọng", "Ghi chú"],
+          "rows": [
+            ["Chào — không biết tên", "Dear Sir or Madam,", "Kết: Yours faithfully"],
+            ["Chào — biết tên", "Dear Mr Nam, / Dear Ms Lan,", "Kết: Yours sincerely"],
+            ["Chào — trung tính", "Dear Hiring Manager,", "Khi biết chức danh"],
+            ["Mở đề — hỏi thông tin", "I am writing to enquire about…", "Câu đầu tiên luôn"],
+            ["Mở đề — xin việc", "I am writing to apply for the position of…", "Nêu rõ vị trí"],
+            ["Mở đề — khiếu nại", "I am writing to complain about…", "Nói thẳng, không vòng"],
+            ["Mở đề — hồi âm", "I am writing in response to your email of 3 May.", "Nhắc ngày cho rõ"],
+            ["Yêu cầu — lịch sự", "I would be grateful if you could…", "Chuẩn nhất"],
+            ["Yêu cầu — hỏi khả năng", "Would it be possible to…?", "Xem [Khung 18]"],
+            ["Đính kèm", "Please find attached…", "Cụm cố định"],
+            ["Kết — chờ hồi âm", "I look forward to hearing from you.", "Gần như luôn có"],
+            ["Ký", "Yours faithfully, / Yours sincerely,", "Phải khớp với câu chào"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dòng tiêu đề (subject) cũng được chấm.</b> Viết cụ thể, không viết chung chung:<br><i>Subject: Question</i> ✗ → <i>Subject: <b>Enquiry about the Marketing Assistant position</b></i> ✓<br>Người đọc quyết định mở hay không dựa vào dòng này." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Dear Sir or Madam,", "vi": "Kính gửi quý ông/quý bà,", "note": "BẪY SỐ MỘT: không biết tên → kết bằng <b>Yours faithfully</b>." },
+            { "en": "Dear Mr Nam,", "vi": "Kính gửi ông Nam,", "note": "Biết tên → kết bằng <b>Yours sincerely</b>. Dùng HỌ, không dùng tên riêng." },
+            { "en": "I am writing to enquire about the course starting in June.", "vi": "Tôi viết thư để hỏi về khoá học khai giảng tháng Sáu.", "note": "BẪY SỐ HAI: câu đầu nói ngay mục đích, không hỏi thăm." },
+            { "en": "I am writing to apply for the position of Marketing Assistant.", "vi": "Tôi viết đơn ứng tuyển vị trí Trợ lý Marketing.", "note": "Email xin việc — nêu rõ vị trí ngay câu đầu." },
+            { "en": "I am writing to complain about a delivery I received on 3 May.", "vi": "Tôi viết thư khiếu nại về đơn hàng nhận ngày 3 tháng 5.", "note": "Khiếu nại cũng nói thẳng, không vòng vo." },
+            { "en": "I would be grateful if you could send me more details.", "vi": "Tôi rất mong quý vị gửi thêm thông tin chi tiết.", "note": "Cách nhờ chuẩn nhất trong email trang trọng." },
+            { "en": "Would it be possible to arrange a meeting next week?", "vi": "Liệu có thể sắp xếp một cuộc họp vào tuần sau không ạ?", "note": "Xem [Khung 18]." },
+            { "en": "I was wondering if you could confirm the date.", "vi": "Không biết quý vị có thể xác nhận ngày giúp tôi không.", "note": "Rất lịch sự. Xem [Khung 16]." },
+            { "en": "Please find attached my CV and cover letter.", "vi": "Đính kèm là CV và thư xin việc của tôi.", "note": "Cụm cố định — không viết <i>I attach here</i>." },
+            { "en": "Thank you for your time and assistance.", "vi": "Cảm ơn quý vị đã dành thời gian hỗ trợ.", "note": "Xem [Khung 78]." },
+            { "en": "I apologise for any inconvenience caused.", "vi": "Tôi xin lỗi vì bất kỳ phiền toái nào gây ra.", "note": "Xem [Khung 79]." },
+            { "en": "I look forward to hearing from you. Yours faithfully, Nam Tran", "vi": "Tôi mong sớm nhận được hồi âm. Trân trọng, Trần Nam.", "note": "Câu kết + chữ ký khớp với <i>Dear Sir or Madam</i>. Xem [Khung 86]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào cần để ý nhất",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💼", "title": "Email xin việc", "text": "<i>I am writing to apply for…</i> ngay câu đầu." },
+            { "icon": "❓", "title": "Hỏi thông tin", "text": "<i>I am writing to enquire about…</i>" },
+            { "icon": "⚠️", "title": "Khiếu nại", "text": "Nói thẳng, nêu ngày và số đơn." },
+            { "icon": "📎", "title": "Gửi file đính kèm", "text": "<i>Please find attached…</i> — cụm cố định." },
+            { "icon": "✍️", "title": "Ký tên", "text": "Phải khớp với câu chào đầu thư." },
+            { "icon": "🚫", "title": "Đừng làm…", "text": "Đừng viết <i>Hi</i>, <i>Send me</i>, hay rút gọn <i>don't</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cụm cho email trang trọng",
+      "blocks": [
+        { "t": "p", "html": "Chọn một cụm ở cột trái để xem nó dùng ở phần nào của email." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Chào & mở đề",
+              "items": [
+                { "w": "Dear Sir or Madam,", "vi": "Kính gửi quý ông/quý bà,", "ex": "Dear Sir or Madam,", "exvi": "Kính gửi quý ông/quý bà,", "note": "BẪY SỐ MỘT: không biết tên → kết bằng <b>Yours faithfully</b>." },
+                { "w": "Dear Mr Nam,", "vi": "Kính gửi ông Nam,", "ex": "Dear Mr Nam,", "exvi": "Kính gửi ông Nam,", "note": "Biết tên → <b>Yours sincerely</b>. Dùng HỌ, không dùng tên riêng." },
+                { "w": "Dear Hiring Manager,", "vi": "Kính gửi bộ phận tuyển dụng,", "ex": "Dear Hiring Manager,", "exvi": "Kính gửi bộ phận tuyển dụng.", "note": "Khi biết chức danh mà không biết tên." },
+                { "w": "I am writing to enquire about…", "vi": "Tôi viết thư để hỏi về…", "ex": "I am writing to enquire about the June course.", "exvi": "Tôi viết để hỏi về khoá tháng Sáu.", "note": "BẪY SỐ HAI: câu ĐẦU TIÊN, không hỏi thăm trước." },
+                { "w": "I am writing to apply for…", "vi": "Tôi viết đơn ứng tuyển…", "ex": "I am writing to apply for the position of Analyst.", "exvi": "Tôi ứng tuyển vị trí Chuyên viên phân tích." },
+                { "w": "I am writing to complain about…", "vi": "Tôi viết thư khiếu nại về…", "ex": "I am writing to complain about a delivery.", "exvi": "Tôi khiếu nại về một đơn hàng." },
+                { "w": "I am writing in response to…", "vi": "Tôi viết để hồi đáp…", "ex": "I am writing in response to your email of 3 May.", "exvi": "Tôi hồi đáp email ngày 3/5 của quý vị." },
+                { "w": "I am writing with regard to…", "vi": "Tôi viết về việc…", "ex": "I am writing with regard to invoice 2043.", "exvi": "Tôi viết về hoá đơn số 2043." },
+                { "w": "Further to our conversation,…", "vi": "Tiếp theo cuộc trao đổi,…", "ex": "Further to our conversation last week,…", "exvi": "Tiếp theo trao đổi tuần trước,…" },
+                { "w": "I recently purchased…", "vi": "Tôi vừa mua…", "ex": "I recently purchased a laptop from your store.", "exvi": "Tôi vừa mua một laptop ở cửa hàng quý vị." },
+                { "w": "Subject: cụ thể", "vi": "Tiêu đề cụ thể", "ex": "Subject: Enquiry about the Marketing Assistant position", "exvi": "Tiêu đề: Hỏi về vị trí Trợ lý Marketing", "note": "<i>Subject: Question</i> ✗ — quá chung chung." },
+                { "w": "As advertised on your website,…", "vi": "Theo thông báo trên trang web,…", "ex": "As advertised on your website, the role requires…", "exvi": "Theo thông báo trên web, vị trí này yêu cầu…" }
+              ]
+            },
+            {
+              "title": "Yêu cầu & kết thư",
+              "items": [
+                { "w": "I would be grateful if you could…", "vi": "Tôi rất mong quý vị có thể…", "ex": "I would be grateful if you could send me details.", "exvi": "Mong quý vị gửi thêm chi tiết.", "note": "Cách nhờ chuẩn nhất — thay cho <i>Send me</i> ✗." },
+                { "w": "Could you possibly…?", "vi": "Liệu quý vị có thể…?", "ex": "Could you possibly confirm the date?", "exvi": "Quý vị xác nhận ngày giúp được không? Xem [Khung 11]." },
+                { "w": "Would it be possible to…?", "vi": "Liệu có thể… không?", "ex": "Would it be possible to arrange a meeting?", "exvi": "Có thể sắp xếp một cuộc họp không? Xem [Khung 18]." },
+                { "w": "I was wondering if you could…", "vi": "Không biết quý vị có thể…", "ex": "I was wondering if you could clarify this.", "exvi": "Không biết quý vị làm rõ giúp được không. Xem [Khung 16]." },
+                { "w": "I would appreciate it if…", "vi": "Tôi sẽ rất biết ơn nếu…", "ex": "I would appreciate it if you could reply by Friday.", "exvi": "Tôi rất mong nhận hồi âm trước thứ Sáu." },
+                { "w": "Please find attached…", "vi": "Đính kèm là…", "ex": "Please find attached my CV.", "exvi": "Đính kèm là CV của tôi.", "note": "Cụm cố định. <i>I attach here</i> ✗." },
+                { "w": "Please do not hesitate to contact me", "vi": "Xin đừng ngần ngại liên hệ", "ex": "Please do not hesitate to contact me if you need more information.", "exvi": "Nếu cần thêm thông tin xin cứ liên hệ." },
+                { "w": "Thank you for your time", "vi": "Cảm ơn quý vị đã dành thời gian", "ex": "Thank you for your time and assistance.", "exvi": "Cảm ơn thời gian và sự hỗ trợ. Xem [Khung 78]." },
+                { "w": "I apologise for any inconvenience", "vi": "Tôi xin lỗi vì phiền toái", "ex": "I apologise for any inconvenience caused.", "exvi": "Xin lỗi vì phiền toái gây ra. Xem [Khung 79]." },
+                { "w": "I look forward to hearing from you.", "vi": "Tôi mong sớm nhận hồi âm.", "ex": "I look forward to hearing from you.", "exvi": "Mong sớm nhận được hồi âm.", "note": "Sau <i>to</i> là V-ing. Xem [Ngữ pháp 25]." },
+                { "w": "Yours faithfully,", "vi": "Trân trọng, (không biết tên)", "ex": "Yours faithfully, Nam Tran", "exvi": "Trân trọng, Trần Nam.", "note": "Khớp với <i>Dear Sir or Madam</i>." },
+                { "w": "Yours sincerely,", "vi": "Trân trọng, (biết tên)", "ex": "Yours sincerely, Nam Tran", "exvi": "Trân trọng, Trần Nam.", "note": "Khớp với <i>Dear Mr Nam</i>." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<b>Dear Sir or Madam</b> … <b>Yours sincerely</b>", "right": "<b>Dear Sir or Madam</b> … <b>Yours faithfully</b>", "why": "BẪY SỐ MỘT: không biết tên thì kết bằng <i>faithfully</i>. Đây là cặp cố định." },
+            { "wrong": "<b>Dear Mr Nam</b> … <b>Yours faithfully</b>", "right": "<b>Dear Mr Nam</b> … <b>Yours sincerely</b>", "why": "Biết tên thì dùng <i>sincerely</i>. Ghép sai là lộ ngay chưa quen viết." },
+            { "wrong": "<b>Dear Mr. John,</b> (John là tên riêng)", "right": "<b>Dear Mr Smith,</b> hoặc <b>Dear John,</b>", "why": "<i>Mr</i> đi với HỌ. Dùng với tên riêng là sai hẳn." },
+            { "wrong": "<b>“How are you? I hope you and your family are well…”</b>", "right": "<b>“I am writing to enquire about…”</b>", "why": "BẪY SỐ HAI: email công việc vào thẳng việc. Hỏi thăm là lối viết tiếng Việt." },
+            { "wrong": "<b>Send me the report.</b>", "right": "<b>I would be grateful if you could send me the report.</b>", "why": "Câu mệnh lệnh trong email trang trọng nghe như ra lệnh." },
+            { "wrong": "<b>I want you to confirm the date.</b>", "right": "<b>I was wondering if you could confirm the date.</b>", "why": "<i>I want</i> quá thẳng. Gói vào câu hỏi gián tiếp. Xem [Khung 16]." },
+            { "wrong": "<b>I don't think it's correct.</b>", "right": "<b>I do not believe this is correct.</b>", "why": "Email trang trọng không rút gọn. Xem [Kỹ năng 10]." },
+            { "wrong": "<b>Subject: Question</b>", "right": "<b>Subject: Enquiry about the Marketing Assistant position</b>", "why": "Tiêu đề chung chung làm email dễ bị bỏ qua." },
+            { "wrong": "<b>I attach here my CV.</b>", "right": "<b>Please find attached my CV.</b>", "why": "Cụm cố định — viết khác nghe lạ ngay." },
+            { "wrong": "<b>I look forward to hear from you.</b>", "right": "<b>I look forward to hearing from you.</b>", "why": "<i>to</i> ở đây là GIỚI TỪ nên theo sau là V-ing. Xem [Ngữ pháp 25]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với lỗi gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>faithfully</code> / <code>sincerely</code>", "Không biết tên / biết tên", "Cặp cố định với câu chào"],
+            ["<code>Mr + họ</code> / <code>Mr + tên</code>", "Đúng / sai", "Dear Mr Smith ✓"],
+            ["Vào thẳng / hỏi thăm trước", "Email Anh / lối viết Việt", "I am writing to…"],
+            ["Nhờ / ra lệnh", "I would be grateful… / Send me…", "Xem [Khung 11]"],
+            ["Viết đủ / rút gọn", "do not / don't", "Xem [Kỹ năng 10]"],
+            ["Tiêu đề cụ thể / chung chung", "Được mở / bị bỏ qua", "Enquiry about… ✓"],
+            ["<code>look forward to V-ing</code> / <code>to V</code>", "Đúng / sai", "hearing ✓"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: viết phần nào của email?" },
+        {
+          "t": "tree",
+          "q": "Xác định mình đang ở đâu trong email rồi chọn cụm.",
+          "nodes": [
+            { "if": "Không biết tên người nhận", "then": "Dear Sir or Madam → Yours faithfully", "ex": "Cặp cố định" },
+            { "if": "Biết tên người nhận", "then": "Dear Mr/Ms + HỌ → Yours sincerely", "ex": "Dear Ms Lan," },
+            { "if": "Câu đầu tiên", "then": "I am writing to + mục đích", "ex": "…enquire about / apply for / complain about" },
+            { "if": "Cần nhờ việc gì", "then": "I would be grateful if you could…", "ex": "Không dùng câu mệnh lệnh" },
+            { "if": "Có file gửi kèm", "then": "Please find attached…", "ex": "Cụm cố định" },
+            { "if": "Sắp kết thư", "then": "I look forward to hearing from you.", "ex": "Rồi ký khớp với câu chào" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ trang trọng của cùng một yêu cầu" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Send me the report.", "vi": "Thô nhất — nghe như ra lệnh" },
+            { "en": "Can you send me the report?", "vi": "Thân mật, hợp đồng nghiệp" },
+            { "en": "Could you send me the report, please?", "vi": "Lịch sự" },
+            { "en": "I would be grateful if you could send me the report.", "vi": "Trang trọng — chuẩn email công việc" },
+            { "en": "I was wondering if you might possibly be able to send me the report.", "vi": "Trang trọng nhất — dùng khi nhờ việc lớn" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kỹ năng này dùng ở đâu",
+      "blocks": [
+        { "t": "p", "html": "Email trang trọng dùng lại đúng các khung nhờ vả lịch sự bạn đã học ở phần khung câu." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 11, "why": "Could you + V…, please? — khung nhờ vả nền, nâng lên một bậc thành I would be grateful if…" },
+            { "id": 16, "why": "I was wondering if you could + V — cách nhờ lịch sự nhất, hợp email trang trọng." },
+            { "id": 18, "why": "Would it be possible to + V? — hỏi khả năng thay vì yêu cầu thẳng." },
+            { "id": 78, "why": "Thank you for + V-ing — câu cảm ơn trước khi kết thư." },
+            { "id": 79, "why": "I'm sorry for + V-ing — nâng lên thành I apologise for any inconvenience caused." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền cho đúng khuôn" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Không biết tên người nhận.", "blank": "Dear Sir or Madam, … __________,", "a": "Yours faithfully" },
+            { "vi": "Biết tên người nhận.", "blank": "Dear Mr Nam, … __________,", "a": "Yours sincerely" },
+            { "vi": "Hỏi về khoá học.", "blank": "I am writing to __________ about the course.", "a": "enquire" },
+            { "vi": "Ứng tuyển một vị trí.", "blank": "I am writing to __________ for the position of…", "a": "apply" },
+            { "vi": "Nhờ gửi thêm chi tiết.", "blank": "I __________ if you could send me details.", "a": "would be grateful" },
+            { "vi": "Gửi kèm CV.", "blank": "__________ my CV.", "a": "Please find attached" },
+            { "vi": "Mong nhận hồi âm.", "blank": "I look forward to __________ from you.", "a": "hearing — V-ing" },
+            { "vi": "Xin lỗi vì phiền toái.", "blank": "I __________ for any inconvenience caused.", "a": "apologise" }
+          ]
+        },
+        { "t": "h3", "text": "B. Câu nào đúng chuẩn email trang trọng?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Nhờ gửi báo cáo", "blank": "(a) Send me the report.  (b) I would be grateful if you could send me the report.", "a": "(b)" },
+            { "vi": "Mở đầu email công việc", "blank": "(a) How are you? I hope you are well…  (b) I am writing to enquire about…", "a": "(b)" },
+            { "vi": "Dạng từ", "blank": "(a) I don't think it's correct.  (b) I do not believe this is correct.", "a": "(b)" },
+            { "vi": "Câu kết", "blank": "(a) I look forward to hear from you.  (b) I look forward to hearing from you.", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Viết một email 3 đoạn" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Hỏi thông tin về một khoá học tiếng Anh.", "a": "Dear Sir or Madam → I am writing to enquire about… → I would be grateful if… → Yours faithfully" },
+            { "vi": "2. Ứng tuyển một vị trí bạn thấy trên web.", "a": "Dear Hiring Manager → I am writing to apply for… → Please find attached my CV → Yours faithfully" },
+            { "vi": "3. Khiếu nại một đơn hàng giao sai.", "a": "Nêu rõ NGÀY và SỐ ĐƠN ngay đoạn đầu, rồi nói bạn mong được giải quyết thế nào." },
+            { "vi": "4. Soát lại: cặp chào–kết có khớp không? Còn rút gọn nào không?", "a": "Sir/Madam ↔ faithfully · Mr/Ms ↔ sincerely · don't → do not" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Cặp cố định:</b> <i>Dear Sir or Madam</i> ↔ <b>Yours faithfully</b> · <i>Dear Mr/Ms + HỌ</i> ↔ <b>Yours sincerely</b>.",
+            "<b>Câu đầu tiên nói bạn viết để LÀM GÌ.</b> Hỏi thăm sức khoẻ là lối viết tiếng Việt, không dùng trong email công việc.",
+            "<b>Không ra lệnh.</b> <i>Send me…</i> ✗ → <i>I would be grateful if you could…</i> ✓. Gói yêu cầu vào câu hỏi gián tiếp.",
+            "<b>Không rút gọn:</b> <i>do not</i>, <i>I am</i>, <i>it is</i>. Đây là khác biệt dễ thấy nhất giữa email trang trọng và tin nhắn.",
+            "<b>Tiêu đề phải cụ thể.</b> Người đọc quyết định mở hay không dựa vào dòng đó.",
+            "<b>Soát 20 giây:</b> cặp chào–kết có khớp không, còn rút gọn nào không, câu đầu đã nói rõ mục đích chưa."
+          ]
+        }
+      ]
+    }
+  ]
+}

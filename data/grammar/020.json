@@ -1,0 +1,277 @@
+{
+  "id": 20,
+  "group": "Nhóm 2 · Danh từ, mạo từ & lượng từ",
+  "title": "a / an — và khi nào không dùng gì",
+  "subtitle": "Luật chọn a hay an không nằm ở chữ cái mà ở ÂM đầu tiên khi đọc lên: an hour ✓ vì chữ h câm, a university ✓ vì u đọc là /juː/. Và bẫy riêng của người Việt: tiếng Việt bỏ chữ một khi nói nghề nghiệp, tiếng Anh thì không.",
+  "meaning": "Mạo từ không xác định — một cái nào đó, chưa nói rõ cái nào",
+  "rule": [
+    "<em>a</em> + âm phụ âm · <em>an</em> + âm nguyên âm",
+    "Nghề nghiệp luôn có <em>a/an</em>: <em>She is a teacher</em>",
+    "Không đếm được & số nhiều nói chung: <em>không dùng gì</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: A1–A2", "hot": true },
+    { "text": "Theo ÂM, không theo chữ cái" },
+    { "text": "an hour · a university" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [72, 75, 89, 99, 100],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "<b>a</b> và <b>an</b> là cùng một mạo từ, chỉ khác cách đọc cho trôi. Chúng đứng trước <b>danh từ đếm được số ít</b> khi bạn nói về một cái <b>chưa xác định</b> — người nghe chưa biết là cái nào." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — chọn theo ÂM, không theo chữ cái:</b><br>• <i><b>an</b> hour</i> ✓ — chữ <i>h</i> CÂM nên âm đầu là nguyên âm /aʊ/<br>• <i><b>a</b> university</i> ✓ — chữ <i>u</i> đọc là /juː/, đó là âm phụ âm<br>• <i><b>an</b> MBA</i> ✓ — đọc là “em-bi-ei”, bắt đầu bằng âm /e/<br>• <i><b>a</b> one-way ticket</i> ✓ — <i>one</i> đọc là /wʌn/" },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — nghề nghiệp bắt buộc có mạo từ:</b> tiếng Việt nói “cô ấy là giáo viên” không có chữ “một”, nên người học bỏ luôn. Nhưng tiếng Anh thì <i>She is <b>a</b> teacher</i> ✓ — <i>She is teacher</i> ✗." },
+        { "t": "h3", "text": "Bốn trường hợp dễ chọn sai" },
+        {
+          "t": "table",
+          "head": ["Từ", "Dùng", "Vì sao"],
+          "rows": [
+            ["hour · honest · honour", "<code>an</code>", "chữ <i>h</i> CÂM, âm đầu là nguyên âm"],
+            ["university · European · useful", "<code>a</code>", "đọc /juː/ — âm phụ âm"],
+            ["MBA · MP · hour-long", "<code>an</code>", "đọc tên chữ cái, bắt đầu bằng nguyên âm"],
+            ["one-way · united", "<code>a</code>", "đọc /wʌn/ và /juː/ — âm phụ âm"]
+          ]
+        },
+        { "t": "p", "html": "Và nhớ: <b>danh từ không đếm được</b> cùng <b>danh từ số nhiều nói chung</b> thì <b>không dùng mạo từ nào cả</b> — <i>I like <b>coffee</b></i> ✓, <i>I like <b>books</b></i> ✓. Xem [Ngữ pháp 19]." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Tình huống", "Dùng", "Ví dụ"],
+          "rows": [
+            ["Trước âm phụ âm", "<code>a</code>", "a book · a university · a one-way ticket"],
+            ["Trước âm nguyên âm", "<code>an</code>", "an apple · an hour · an MBA"],
+            ["Nói nghề nghiệp", "<code>a/an</code> bắt buộc", "She is a teacher."],
+            ["Nhắc lần đầu", "<code>a/an</code>", "I saw a dog. The dog was big."],
+            ["Nghĩa “một”", "<code>a/an</code>", "I'll have a coffee."],
+            ["Nghĩa “mỗi”", "<code>a/an</code>", "twice a week · 60 km an hour"],
+            ["Danh từ KHÔNG đếm được", "không dùng gì", "I like coffee."],
+            ["Số nhiều nói chung", "không dùng gì", "I like books."],
+            ["Tên riêng", "không dùng gì", "I live in Hanoi."],
+            ["Bữa ăn", "không dùng gì", "I had lunch at twelve."],
+            ["Môn học, ngôn ngữ", "không dùng gì", "I study English."],
+            ["Đã xác định rõ", "<code>the</code>", "The book on the table."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Nghĩa “mỗi” rất hay dùng mà ít ai để ý:</b> <i>twice <b>a</b> week</i> = hai lần mỗi tuần, <i>sixty kilometres <b>an</b> hour</i> = sáu mươi cây số mỗi giờ, <i>50,000 đồng <b>a</b> kilo</i>. Ở đây <i>a/an</i> không có nghĩa “một”." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "It takes about an hour.", "vi": "Mất khoảng một tiếng.", "note": "BẪY SỐ MỘT: chữ <i>h</i> CÂM nên dùng <b>an</b>. Xem [Khung 99]." },
+            { "en": "She's studying at a university in Hanoi.", "vi": "Cô ấy học ở một trường đại học tại Hà Nội.", "note": "<i>university</i> đọc /juːnɪ…/ — âm phụ âm nên dùng <b>a</b>." },
+            { "en": "He has an MBA.", "vi": "Anh ấy có bằng thạc sĩ quản trị.", "note": "Đọc là “em-bi-ei” nên dùng <b>an</b>, dù chữ <i>M</i> là phụ âm." },
+            { "en": "I'd like a one-way ticket, please.", "vi": "Cho tôi một vé một chiều.", "note": "<i>one</i> đọc /wʌn/ — âm phụ âm nên dùng <b>a</b>." },
+            { "en": "She is a teacher.", "vi": "Cô ấy là giáo viên.", "note": "BẪY SỐ HAI: nghề nghiệp BẮT BUỘC có mạo từ. Xem [Khung 75]." },
+            { "en": "I work as an engineer.", "vi": "Tôi làm kỹ sư.", "note": "<i>engineer</i> bắt đầu bằng âm /e/ nên dùng <b>an</b>." },
+            { "en": "I go to the gym twice a week.", "vi": "Tôi đi tập hai lần một tuần.", "note": "Ở đây <b>a</b> mang nghĩa “mỗi”, không phải “một”." },
+            { "en": "I like coffee.", "vi": "Tôi thích cà phê.", "note": "Không đếm được, nói chung chung nên KHÔNG dùng mạo từ." },
+            { "en": "Two coffees, please.", "vi": "Cho tôi hai cà phê.", "note": "Ở quán thì <i>a coffee</i> = một TÁCH — lúc này đếm được bình thường." },
+            { "en": "I had lunch at twelve.", "vi": "Mười hai giờ tôi ăn trưa.", "note": "Tên bữa ăn KHÔNG dùng mạo từ: <i>a lunch</i> ✗." },
+            { "en": "I saw a dog. The dog was huge.", "vi": "Tôi thấy một con chó. Con chó đó to lắm.", "note": "Lần đầu dùng <b>a</b>, nhắc lại thì dùng <b>the</b>. Xem [Ngữ pháp 21]." },
+            { "en": "What lovely weather!", "vi": "Thời tiết đẹp quá!", "note": "<i>weather</i> không đếm được nên không có <b>a</b>. Xem [Khung 89]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "👤", "title": "Nói nghề nghiệp", "text": "<i>She is a teacher.</i> Bắt buộc có mạo từ. Xem [Khung 75]." },
+            { "icon": "🆕", "title": "Nhắc đến lần đầu", "text": "<i>I saw a dog.</i> Lần sau mới dùng <i>the</i>." },
+            { "icon": "☕", "title": "Gọi một phần đồ uống", "text": "<i>I'll have a coffee.</i>" },
+            { "icon": "📊", "title": "Nghĩa “mỗi”", "text": "<i>twice a week</i> · <i>60 km an hour</i>" },
+            { "icon": "🚫", "title": "Không đếm được → bỏ hẳn", "text": "<i>I like coffee.</i> Không <i>a</i>, không <i>the</i>." },
+            { "icon": "🍽️", "title": "Bữa ăn, môn học → bỏ hẳn", "text": "<i>I had lunch.</i> · <i>I study English.</i>" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Những từ hay chọn nhầm a / an",
+              "items": [
+                { "w": "an hour", "vi": "một tiếng", "ex": "It takes about an hour.", "exvi": "Mất khoảng một tiếng.", "note": "Chữ <i>h</i> CÂM nên âm đầu là nguyên âm. <i>a hour</i> ✗." },
+                { "w": "an honest answer", "vi": "một câu trả lời thật lòng", "ex": "Give me an honest answer.", "exvi": "Cho tôi một câu trả lời thật lòng.", "note": "<i>honest</i> cũng có <i>h</i> câm." },
+                { "w": "a university", "vi": "một trường đại học", "ex": "She's at a university in Hanoi.", "exvi": "Cô ấy học đại học ở Hà Nội.", "note": "Chữ <i>u</i> đọc /juː/ — âm PHỤ ÂM. <i>an university</i> ✗." },
+                { "w": "a European country", "vi": "một nước châu Âu", "ex": "It's a European country.", "exvi": "Đó là một nước châu Âu.", "note": "Cũng đọc /juː/ nên dùng <b>a</b>." },
+                { "w": "a useful tool", "vi": "một công cụ hữu ích", "ex": "That's a useful tool.", "exvi": "Đó là công cụ hữu ích." },
+                { "w": "an MBA", "vi": "bằng thạc sĩ quản trị", "ex": "He has an MBA.", "exvi": "Anh ấy có bằng MBA.", "note": "Đọc tên chữ cái “em-bi-ei” — bắt đầu bằng âm /e/." },
+                { "w": "an hour-long meeting", "vi": "cuộc họp dài một tiếng", "ex": "It was an hour-long meeting.", "exvi": "Đó là cuộc họp dài một tiếng." },
+                { "w": "a one-way ticket", "vi": "vé một chiều", "ex": "A one-way ticket, please.", "exvi": "Cho tôi vé một chiều.", "note": "<i>one</i> đọc /wʌn/ — âm phụ âm." },
+                { "w": "an umbrella", "vi": "một cái ô", "ex": "Take an umbrella.", "exvi": "Mang theo một cái ô.", "note": "<i>u</i> ở đây đọc /ʌ/ — âm nguyên âm thật." },
+                { "w": "an engineer", "vi": "một kỹ sư", "ex": "I work as an engineer.", "exvi": "Tôi làm kỹ sư." },
+                { "w": "an idea", "vi": "một ý tưởng", "ex": "I've got an idea.", "exvi": "Tôi có một ý." },
+                { "w": "an email", "vi": "một email", "ex": "I'll send you an email.", "exvi": "Tôi sẽ gửi bạn một email." }
+              ]
+            },
+            {
+              "title": "Khi nào bỏ hẳn mạo từ",
+              "items": [
+                { "w": "I like coffee", "vi": "tôi thích cà phê", "ex": "I like coffee.", "exvi": "Tôi thích cà phê.", "note": "Không đếm được, nói chung chung nên KHÔNG dùng mạo từ." },
+                { "w": "I like books", "vi": "tôi thích sách", "ex": "I like books.", "exvi": "Tôi thích sách.", "note": "Số nhiều nói CHUNG cũng bỏ mạo từ." },
+                { "w": "I had lunch", "vi": "tôi ăn trưa", "ex": "I had lunch at twelve.", "exvi": "Mười hai giờ tôi ăn trưa.", "note": "Tên bữa ăn không dùng mạo từ: <i>a lunch</i> ✗." },
+                { "w": "I study English", "vi": "tôi học tiếng Anh", "ex": "I study English.", "exvi": "Tôi học tiếng Anh.", "note": "Ngôn ngữ và môn học không dùng mạo từ." },
+                { "w": "I live in Hanoi", "vi": "tôi sống ở Hà Nội", "ex": "I live in Hanoi.", "exvi": "Tôi sống ở Hà Nội.", "note": "Tên riêng không dùng mạo từ. Xem [Khung 74]." },
+                { "w": "by bus / by car", "vi": "bằng xe buýt / ô tô", "ex": "I go to work by bus.", "exvi": "Tôi đi làm bằng xe buýt.", "note": "Cụm cố định — <i>by a bus</i> ✗." },
+                { "w": "at home / at work", "vi": "ở nhà / ở chỗ làm", "ex": "I'm at work.", "exvi": "Tôi đang ở chỗ làm.", "note": "Cụm cố định — không mạo từ." },
+                { "w": "go to bed / go to school", "vi": "đi ngủ / đi học", "ex": "I go to bed at eleven.", "exvi": "Mười một giờ tôi đi ngủ.", "note": "Nói về MỤC ĐÍCH thì bỏ mạo từ. Nhưng <i>go to the school</i> = đến tòa nhà trường." },
+                { "w": "a coffee (một tách)", "vi": "một tách cà phê", "ex": "I'll have a coffee.", "exvi": "Cho tôi một ly cà phê.", "note": "Ở quán thì đếm được — nghĩa quyết định loại, không phải từ." },
+                { "w": "twice a week", "vi": "hai lần mỗi tuần", "ex": "I go to the gym twice a week.", "exvi": "Tôi đi tập hai lần một tuần.", "note": "<b>a</b> ở đây nghĩa là “mỗi”, không phải “một”." },
+                { "w": "She is a teacher", "vi": "cô ấy là giáo viên", "ex": "She is a teacher.", "exvi": "Cô ấy là giáo viên.", "note": "BẪY SỐ HAI: nghề nghiệp BẮT BUỘC có mạo từ. Xem [Khung 75]." },
+                { "w": "the + đã xác định", "vi": "cái đã nói rõ", "ex": "The book on the table.", "exvi": "Quyển sách trên bàn.", "note": "Khi cả hai cùng biết là cái nào thì dùng <b>the</b>. Xem [Ngữ pháp 21]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "It takes about <b>a</b> hour.", "right": "It takes about <b>an</b> hour.", "why": "BẪY SỐ MỘT: chữ <i>h</i> trong <i>hour</i> CÂM, nên âm đầu là nguyên âm. Chọn theo ÂM, không theo chữ cái." },
+            { "wrong": "She's at <b>an</b> university.", "right": "She's at <b>a</b> university.", "why": "Chữ <i>u</i> ở đây đọc /juː/ — đó là âm PHỤ ÂM, dù nhìn là nguyên âm." },
+            { "wrong": "She is <b>teacher</b>.", "right": "She is <b>a teacher</b>.", "why": "BẪY SỐ HAI: tiếng Việt bỏ chữ “một” khi nói nghề nghiệp, tiếng Anh thì bắt buộc có mạo từ." },
+            { "wrong": "He has <b>a</b> MBA.", "right": "He has <b>an</b> MBA.", "why": "Đọc tên chữ cái là “em-bi-ei”, bắt đầu bằng âm /e/." },
+            { "wrong": "I like <b>a</b> coffee. <i>(ý: nói chung)</i>", "right": "I like coffee.", "why": "Không đếm được và nói chung chung thì BỎ hẳn mạo từ. Nhưng ở quán thì <i>I'll have a coffee</i> ✓." },
+            { "wrong": "I had <b>a</b> lunch at twelve.", "right": "I had lunch at twelve.", "why": "Tên bữa ăn không dùng mạo từ." },
+            { "wrong": "I go to work by <b>a</b> bus.", "right": "I go to work by bus.", "why": "<b>by + phương tiện</b> là cụm cố định, không có mạo từ." },
+            { "wrong": "I study <b>the</b> English.", "right": "I study English.", "why": "Ngôn ngữ và môn học không dùng mạo từ." },
+            { "wrong": "I'd like <b>an</b> one-way ticket.", "right": "I'd like <b>a</b> one-way ticket.", "why": "<i>one</i> đọc /wʌn/ — bắt đầu bằng âm /w/, là phụ âm." },
+            { "wrong": "What <b>a</b> lovely weather!", "right": "What lovely weather!", "why": "<i>weather</i> không đếm được nên không bao giờ có <b>a</b>. Xem [Khung 89]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dùng", "Khi nào", "Ví dụ"],
+          "rows": [
+            ["<code>a</code>", "Trước ÂM phụ âm", "a book · a university · a one-way ticket"],
+            ["<code>an</code>", "Trước ÂM nguyên âm", "an apple · an hour · an MBA"],
+            ["<code>the</code>", "Cả hai cùng biết là cái nào. Xem [Ngữ pháp 21]", "The book on the table."],
+            ["không mạo từ", "Danh từ không đếm được", "I like coffee."],
+            ["không mạo từ", "Số nhiều nói chung", "I like books."],
+            ["không mạo từ", "Tên riêng, bữa ăn, môn học", "I live in Hanoi. · I had lunch."],
+            ["<code>some</code>", "Một ít, chưa rõ bao nhiêu. Xem [Ngữ pháp 22]", "There's some water."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng gì trước danh từ này?" },
+        {
+          "t": "tree",
+          "q": "Danh từ của bạn thuộc loại nào, và người nghe đã biết là cái nào chưa?",
+          "nodes": [
+            { "if": "Không đếm được, nói chung chung", "then": "Không dùng mạo từ", "ex": "I like coffee." },
+            { "if": "Số nhiều, nói chung chung", "then": "Không dùng mạo từ", "ex": "I like books." },
+            { "if": "Đếm được số ít, người nghe CHƯA biết là cái nào", "then": "a hoặc an", "ex": "I saw a dog." },
+            { "if": "Cả hai cùng biết rõ là cái nào", "then": "the", "ex": "The dog was huge." },
+            { "if": "Âm đầu khi ĐỌC LÊN là nguyên âm", "then": "an", "ex": "an hour · an MBA" },
+            { "if": "Âm đầu khi ĐỌC LÊN là phụ âm", "then": "a", "ex": "a university · a one-way ticket" }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ xác định" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I like books.", "vi": "Chung chung nhất — không mạo từ" },
+            { "en": "I bought some books.", "vi": "Một ít, chưa rõ bao nhiêu" },
+            { "en": "I bought a book.", "vi": "Một cái, chưa rõ cái nào" },
+            { "en": "I bought the book you mentioned.", "vi": "Cái cụ thể cả hai cùng biết" },
+            { "en": "I bought this book.", "vi": "Xác định nhất — chỉ tận tay" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Luật mạo từ xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 89, "why": "What a…! — bẫy chữ a trong câu cảm thán, phụ thuộc vào danh từ đếm được hay không." },
+            { "id": 75, "why": "I work as… — nghề nghiệp bắt buộc có mạo từ, lỗi người Việt hay bỏ quên." },
+            { "id": 99, "why": "It takes about an hour — ví dụ kinh điển của luật chọn theo âm." },
+            { "id": 100, "why": "There is a book on the table — mạo từ không xác định trong câu nêu sự tồn tại." },
+            { "id": 72, "why": "Nice to meet you — giới thiệu nghề nghiệp khi làm quen." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền a / an / không điền gì" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Mất khoảng một tiếng.", "blank": "It takes about __________ hour.", "a": "an — h câm" },
+            { "vi": "Cô ấy học ở một trường đại học.", "blank": "She's at __________ university.", "a": "a — u đọc /juː/" },
+            { "vi": "Anh ấy có bằng MBA.", "blank": "He has __________ MBA.", "a": "an — đọc “em-bi-ei”" },
+            { "vi": "Cho tôi một vé một chiều.", "blank": "I'd like __________ one-way ticket.", "a": "a — one đọc /wʌn/" },
+            { "vi": "Cô ấy là giáo viên.", "blank": "She is __________ teacher.", "a": "a — nghề nghiệp bắt buộc có mạo từ" },
+            { "vi": "Tôi thích cà phê (nói chung).", "blank": "I like __________ coffee.", "a": "không điền gì" },
+            { "vi": "Mười hai giờ tôi ăn trưa.", "blank": "I had __________ lunch at twelve.", "a": "không điền gì" },
+            { "vi": "Tôi đi tập hai lần một tuần.", "blank": "I go to the gym twice __________ week.", "a": "a — nghĩa “mỗi”" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi làm kỹ sư.", "blank": "I work as __________ engineer.  (a / an)", "a": "an" },
+            { "vi": "Đó là một nước châu Âu.", "blank": "It's __________ European country.  (a / an)", "a": "a" },
+            { "vi": "Tôi đi làm bằng xe buýt.", "blank": "I go to work by __________ bus.  (a / không gì)", "a": "không gì — cụm cố định" },
+            { "vi": "Tôi học tiếng Anh.", "blank": "I study __________ English.  (the / không gì)", "a": "không gì" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Mất khoảng một tiếng.", "a": "It takes about an hour." },
+            { "vi": "2. Cô ấy là giáo viên.", "a": "She is a teacher." },
+            { "vi": "3. Tôi đi tập hai lần một tuần.", "a": "I go to the gym twice a week." },
+            { "vi": "4. Cho tôi một vé một chiều.", "a": "I'd like a one-way ticket, please." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Đọc từ đó lên thành tiếng</b> rồi mới chọn. Âm đầu là nguyên âm thì <i>an</i>, phụ âm thì <i>a</i> — bất kể chữ cái.",
+            "<b>Bốn từ phải thuộc lòng:</b> <i><b>an</b> hour</i>, <i><b>a</b> university</i>, <i><b>an</b> MBA</i>, <i><b>a</b> one-way ticket</i>.",
+            "<b>Nghề nghiệp luôn có mạo từ:</b> <i>She is <b>a</b> teacher</i>. Tiếng Việt bỏ chữ “một” nhưng tiếng Anh thì không.",
+            "<b>Không đếm được và số nhiều nói chung thì bỏ hẳn:</b> <i>I like coffee</i>, <i>I like books</i>. Xem [Ngữ pháp 19].",
+            "<b>Cụm cố định không có mạo từ:</b> <i>by bus, at home, at work, go to bed, have lunch</i>.",
+            "<b>Bài tập 3 phút:</b> viết mười danh từ quanh bạn rồi đặt <i>a</i> hoặc <i>an</i> trước từng từ — đọc to để kiểm tra bằng tai, không bằng mắt."
+          ]
+        }
+      ]
+    }
+  ]
+}

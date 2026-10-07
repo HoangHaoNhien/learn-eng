@@ -1,0 +1,497 @@
+{
+  "id": 58,
+  "group": "Nhóm 6 · Đồng ý & Phản đối",
+  "title": "I'm with you on that — Đứng về phía bạn",
+  "subtitle": "Khung câu đồng ý mang màu sắc khác hẳn I agree: nó không nói về lý lẽ mà nói về việc bạn đứng ở đâu. Nó là lời ủng hộ, gần như một cái vỗ vai. Và đây cũng là nơi lộ ra một điểm ngữ pháp mà nhiều người học nhầm sau khi học I agree.",
+  "pattern": [
+    "I'm with you (on <em>+ N</em>)",
+    "I'm right behind you.",
+    "Count me in."
+  ],
+  "meaning": "Tôi ủng hộ bạn / Tôi đứng về phía bạn",
+  "grammar": [42, 35],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Thân mật — mang tính ủng hộ" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I'm with you on that.</span> không nói rằng lập luận của bạn đúng — nó nói rằng <b>tôi đứng cùng phía với bạn</b>. Đó là sự khác biệt cốt lõi với <i>I agree</i> ở [Khung 51]: một bên là lý lẽ, một bên là chỗ đứng." },
+        { "t": "p", "html": "Vì thế nó mang sắc thái <b>ấm và mang tính ủng hộ</b>, gần như một cái vỗ vai. Khi ai đó vừa nêu quan điểm và đang bị phản đối, câu này có sức nặng lớn hơn <i>I agree</i> rất nhiều — vì nó là lời tuyên bố đứng về phe." },
+        { "t": "p", "html": "Nó cũng có <b>nghĩa thứ hai</b> quan trọng: “tôi đang theo kịp bạn”. <i>I'm with you so far.</i> nghĩa là “đến đây tôi vẫn hiểu”. Và ngược lại, <i>You've lost me.</i> nghĩa là “tôi không theo kịp nữa rồi”." },
+        { "t": "callout", "html": "<b>ĐIỂM NGỮ PHÁP dễ nhầm:</b> ở đây <b>CÓ</b> <i>I'm</i> — <span class=\"k\">I'm with you</span> ✓ — vì <i>with you</i> là <b>cụm giới từ</b>, không phải động từ. Khác hẳn <i>agree</i> vốn là động từ nên không có <i>am</i>. Học xong [Khung 51] rất dễ nhầm chỗ này." },
+        { "t": "h3", "text": "Hai nghĩa hoàn toàn khác nhau" },
+        {
+          "t": "table",
+          "head": ["Câu", "Nghĩa", "Bối cảnh"],
+          "rows": [
+            ["<code>I'm with you on that.</code>", "Tôi ủng hộ bạn", "Họp, tranh luận"],
+            ["<code>I'm with you so far.</code>", "Tôi vẫn theo kịp", "Khi nghe giải thích"],
+            ["<code>I'm not with you.</code>", "Tôi không hiểu", "KHÔNG phải “tôi không đồng ý”"],
+            ["<code>You've lost me.</code>", "Tôi không theo kịp nữa", "Xin giải thích lại"]
+          ]
+        },
+        { "t": "callout", "html": "<b>BẪY NGHIÊM TRỌNG:</b> <span class=\"k\">I'm not with you.</span> KHÔNG có nghĩa là “tôi không đồng ý” — nó nghĩa là <b>“tôi không hiểu”</b>. Muốn nói không đồng ý thì dùng [Khung 54]." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🤝", "title": "Ủng hộ ai đó đang bị phản đối", "text": "Bối cảnh số 1. <i>I'm with Mai on this one.</i> Tuyên bố đứng về phe." },
+            { "icon": "🎧", "title": "Báo rằng bạn đang theo kịp", "text": "<i>I'm with you so far.</i> Khích lệ người đang giải thích." },
+            { "icon": "🙋", "title": "Xin tham gia", "text": "<i>Count me in.</i> Ngắn gọn và nhiệt tình." },
+            { "icon": "🛡", "title": "Hứa hậu thuẫn", "text": "<i>I'll back you up in the meeting.</i>" },
+            { "icon": "😕", "title": "Nói rằng bạn chưa hiểu", "text": "<i>You've lost me.</i> Lịch sự hơn <i>I don't understand</i>." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Viết email trang trọng. Ở đó dùng <i>I support that</i> hoặc [Khung 51]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Chuẩn", "<code>I'm with you on + N</code>", "I'm with you on that."],
+            ["Ủng hộ một người", "<code>I'm with + tên người</code>", "I'm with Mai on this."],
+            ["Đang theo kịp", "<code>I'm with you so far.</code>", "I'm with you so far."],
+            ["Chưa hiểu", "<code>I'm not with you.</code>", "Sorry, I'm not with you."],
+            ["Mất mạch", "<code>You've lost me.</code>", "You've lost me at step three."],
+            ["Ủng hộ hết mình", "<code>I'm right behind you.</code>", "I'm right behind you."],
+            ["Đứng về phe", "<code>I'm on your side.</code>", "I'm on your side here."],
+            ["Xin tham gia", "<code>Count me in.</code>", "Count me in."],
+            ["Hứa hậu thuẫn", "<code>I'll back you up.</code>", "I'll back you up."],
+            ["Trang trọng", "<code>You have my support.</code>", "You have my full support."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Chú ý giới từ:</b> ủng hộ về một <b>chủ đề</b> thì dùng <i>on</i> — <span class=\"k\">I'm with you on that</span>. Không nói <i>I'm with you about that</i> ✗ trong nghĩa này." },
+        { "t": "callout", "html": "<b>Coi chừng nghĩa đen.</b> <i>I'm with him.</i> trong một ngữ cảnh khác chỉ đơn giản là “tôi đi cùng anh ấy” (ở nhà hàng, quầy lễ tân). Ngữ cảnh quyết định hoàn toàn." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các cách nói ủng hộ",
+              "items": [
+                { "w": "I'm with you on that", "vi": "chuyện đó tôi ủng hộ bạn", "ex": "I'm with you on that one.", "exvi": "Chuyện đó tôi ủng hộ bạn.", "note": "CÓ <i>I'm</i> vì <i>with you</i> là cụm giới từ — khác hẳn <i>I agree</i> ở [Khung 51]." },
+                { "w": "I'm with Mai on this", "vi": "chuyện này tôi theo Mai", "ex": "I'm with Mai on this one.", "exvi": "Chuyện này tôi đứng về phía Mai." },
+                { "w": "I'm on your side", "vi": "tôi đứng về phía bạn", "ex": "I'm on your side here.", "exvi": "Chuyện này tôi đứng về phía bạn." },
+                { "w": "I'm right behind you", "vi": "tôi ủng hộ bạn hết mình", "ex": "I'm right behind you on this.", "exvi": "Chuyện này tôi ủng hộ bạn hết mình.", "note": "Mạnh hơn — ngụ ý bạn sẽ hành động chứ không chỉ đồng tình." },
+                { "w": "Count me in", "vi": "tính cả tôi", "ex": "Count me in.", "exvi": "Tính cả tôi." },
+                { "w": "I'll back you up", "vi": "tôi sẽ hậu thuẫn bạn", "ex": "I'll back you up in the meeting.", "exvi": "Trong cuộc họp tôi sẽ hậu thuẫn bạn.", "note": "<i>back someone up</i> = đứng ra ủng hộ khi người đó bị chất vấn." },
+                { "w": "You have my support", "vi": "bạn có sự ủng hộ của tôi", "ex": "You have my full support.", "exvi": "Anh/chị có sự ủng hộ hoàn toàn của tôi.", "note": "Trang trọng — hợp email, phát biểu." },
+                { "w": "I'm in", "vi": "tôi tham gia", "ex": "I'm in — what's the plan?", "exvi": "Tôi tham gia — kế hoạch thế nào?" },
+                { "w": "Say the word", "vi": "chỉ cần bạn nói một tiếng", "ex": "Say the word and I'll help.", "exvi": "Bạn chỉ cần nói một tiếng là mình giúp.", "note": "Thành ngữ — thể hiện sự sẵn sàng tuyệt đối." },
+                { "w": "I've got your back", "vi": "có tôi lo cho bạn", "ex": "Don't worry — I've got your back.", "exvi": "Đừng lo — có mình lo cho bạn.", "note": "Rất thân mật, mang màu Anh-Mỹ và rất ấm áp." },
+                { "w": "We're in this together", "vi": "mình cùng hội cùng thuyền", "ex": "We're in this together.", "exvi": "Mình cùng hội cùng thuyền mà." },
+                { "w": "Whatever you decide", "vi": "bạn quyết sao cũng được", "ex": "Whatever you decide, I'm with you.", "exvi": "Bạn quyết sao thì tôi cũng theo." }
+              ]
+            },
+            {
+              "title": "Nghĩa “theo kịp” và các biến thể",
+              "items": [
+                { "w": "I'm with you so far", "vi": "đến đây tôi vẫn theo kịp", "ex": "I'm with you so far — carry on.", "exvi": "Đến đây mình vẫn theo kịp — nói tiếp đi.", "note": "Nghĩa THỨ HAI của khung này: đang hiểu, đang bám được mạch." },
+                { "w": "I'm not with you", "vi": "tôi không hiểu", "ex": "Sorry, I'm not with you.", "exvi": "Xin lỗi, tôi không hiểu ý anh/chị.", "note": "BẪY NGHIÊM TRỌNG: nghĩa là KHÔNG HIỂU, không phải không đồng ý." },
+                { "w": "You've lost me", "vi": "tôi mất mạch rồi", "ex": "You've lost me at step three.", "exvi": "Đến bước ba là mình mất mạch rồi.", "note": "Cách nói “tôi không theo kịp” rất tự nhiên và nhẹ nhàng." },
+                { "w": "Are you with me?", "vi": "bạn theo kịp chứ?", "ex": "Are you with me so far?", "exvi": "Đến đây anh/chị theo kịp chứ?", "note": "Người giảng dùng để kiểm tra người nghe — lịch sự hơn <i>Do you understand?</i>" },
+                { "w": "I follow", "vi": "tôi hiểu, tôi theo kịp", "ex": "I follow. Go on.", "exvi": "Mình hiểu. Nói tiếp đi." },
+                { "w": "I lost you at", "vi": "tôi mất mạch từ chỗ", "ex": "I lost you at the second part.", "exvi": "Mình mất mạch từ phần hai." },
+                { "w": "Run that by me again", "vi": "nói lại lần nữa xem", "ex": "Run that by me again.", "exvi": "Nói lại lần nữa cho mình nghe.", "note": "Thành ngữ — xin nhắc lại một cách thân mật." },
+                { "w": "I'm with you up to a point", "vi": "tôi theo được đến một mức", "ex": "I'm with you up to a point.", "exvi": "Mình theo bạn được đến một mức thôi.", "note": "Ủng hộ một phần — mở đường cho phần phản biện. Xem [Khung 51]." },
+                { "w": "I was with you until", "vi": "tôi còn theo được cho đến khi", "ex": "I was with you until you mentioned the cost.", "exvi": "Mình còn theo được cho đến lúc bạn nhắc đến chi phí." },
+                { "w": "Not entirely with you", "vi": "chưa hẳn theo kịp", "ex": "I'm not entirely with you there.", "exvi": "Chỗ đó mình chưa hẳn theo kịp." },
+                { "w": "Still with me?", "vi": "vẫn theo kịp chứ?", "ex": "Still with me?", "exvi": "Vẫn theo kịp chứ?" },
+                { "w": "Lost you there", "vi": "chỗ đó mình mất mạch", "ex": "Sorry, lost you there.", "exvi": "Xin lỗi, chỗ đó mình mất mạch." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "Thanks, I appreciate it", "vi": "cảm ơn, tôi trân trọng lắm", "ex": "Thanks, I appreciate it.", "exvi": "Cảm ơn, mình trân trọng lắm." },
+                { "w": "Glad someone is", "vi": "may là có người ủng hộ", "ex": "Glad someone is!", "exvi": "May mà có người ủng hộ!", "note": "Mang chút tự giễu — dùng khi bạn đang bị cả phòng phản đối." },
+                { "w": "That means a lot", "vi": "điều đó có ý nghĩa lắm", "ex": "That means a lot, thank you.", "exvi": "Điều đó có ý nghĩa lắm, cảm ơn bạn." },
+                { "w": "Good — I'll need it", "vi": "tốt — tôi sẽ cần đấy", "ex": "Good, I'll need it in there.", "exvi": "Tốt — vào trong đó mình sẽ cần đấy." },
+                { "w": "Let me explain again", "vi": "để tôi giải thích lại", "ex": "Let me explain that part again.", "exvi": "Để tôi giải thích lại phần đó.", "note": "Đáp lại khi ai đó nói <i>You've lost me</i>." },
+                { "w": "Where did I lose you?", "vi": "tôi làm bạn mất mạch từ đâu?", "ex": "Where did I lose you?", "exvi": "Mình làm bạn mất mạch từ chỗ nào?" },
+                { "w": "So we're agreed", "vi": "vậy là mình thống nhất", "ex": "So we're agreed then.", "exvi": "Vậy là mình thống nhất nhé.", "note": "Xem [Khung 51]." },
+                { "w": "Not everyone is", "vi": "không phải ai cũng vậy", "ex": "Not everyone is, unfortunately.", "exvi": "Tiếc là không phải ai cũng vậy." },
+                { "w": "Then let's do it", "vi": "vậy làm thôi", "ex": "Then let's do it.", "exvi": "Vậy làm thôi." },
+                { "w": "I knew I could count on you", "vi": "tôi biết là trông cậy được vào bạn", "ex": "I knew I could count on you.", "exvi": "Mình biết là trông cậy được vào bạn mà." },
+                { "w": "Same here", "vi": "tôi cũng vậy", "ex": "Same here.", "exvi": "Mình cũng vậy." },
+                { "w": "Tell me where you stand", "vi": "cho tôi biết bạn đứng ở đâu", "ex": "Tell me where you stand on this.", "exvi": "Cho tôi biết anh/chị đứng ở đâu trong chuyện này.", "note": "Hỏi lập trường trực tiếp. Xem [Khung 47]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I'm with Mai on this one.",
+                  "vi": "Chuyện này tôi đứng về phía Mai.",
+                  "note": "Tuyên bố đứng về phe — có sức nặng lớn hơn <i>I agree</i> khi người kia đang bị phản đối.",
+                  "open": { "en": "Before we move on —", "vi": "Trước khi đi tiếp —" },
+                  "reply": [
+                    { "them": "Glad someone is!", "themvi": "May mà có người ủng hộ!", "you": "The data backs you up.", "youvi": "Số liệu ủng hộ chị mà." },
+                    { "them": "Not everyone is, unfortunately.", "themvi": "Tiếc là không phải ai cũng vậy.", "you": "Then let's put it to a vote.", "youvi": "Vậy mình bỏ phiếu đi." }
+                  ],
+                  "close": { "en": "I'll back you up in writing too.", "vi": "Tôi cũng sẽ ủng hộ bằng văn bản." }
+                },
+                {
+                  "en": "I'm with you so far — carry on.",
+                  "vi": "Đến đây tôi vẫn theo kịp — anh/chị nói tiếp đi.",
+                  "note": "Nghĩa THỨ HAI: đang bám được mạch. Câu này khích lệ người đang giải thích.",
+                  "reply": [
+                    { "them": "Good. The next part is trickier.", "themvi": "Tốt. Phần sau khó hơn đấy.", "you": "I'll stop you if I get lost.", "youvi": "Mất mạch tôi sẽ dừng anh/chị lại." }
+                  ]
+                },
+                {
+                  "en": "Sorry, you've lost me at step three.",
+                  "vi": "Xin lỗi, đến bước ba là tôi mất mạch.",
+                  "note": "Cách nói “tôi không theo kịp” rất tự nhiên — nó đổ lỗi cho lời giải thích chứ không cho bạn.",
+                  "reply": [
+                    { "them": "Let me explain that part again.", "themvi": "Để tôi giải thích lại phần đó.", "you": "Thanks — slowly this time.", "youvi": "Cảm ơn — lần này chậm thôi nhé." }
+                  ],
+                  "vars": [
+                    { "en": "I'm not entirely with you there.", "vi": "Chỗ đó tôi chưa hẳn theo kịp." }
+                  ]
+                },
+                {
+                  "en": "I'll back you up in the meeting.",
+                  "vi": "Trong cuộc họp tôi sẽ hậu thuẫn anh/chị.",
+                  "note": "<span class=\"k\">back someone up</span> = đứng ra ủng hộ khi người đó bị chất vấn. Đây là lời hứa hành động.",
+                  "reply": [
+                    { "them": "I knew I could count on you.", "themvi": "Tôi biết là trông cậy được vào anh/chị.", "you": "Just send me the numbers beforehand.", "youvi": "Chỉ cần gửi tôi số liệu trước." }
+                  ],
+                  "close": { "en": "We'll go in together.", "vi": "Mình cùng vào." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I'm with you on that, honestly.",
+                  "vi": "Thật lòng thì chuyện đó mình ủng hộ bạn.",
+                  "reply": [
+                    { "them": "Thanks, that means a lot.", "themvi": "Cảm ơn, điều đó có ý nghĩa lắm.", "you": "Any time.", "youvi": "Lúc nào cũng vậy mà." }
+                  ]
+                },
+                {
+                  "en": "Don't worry — I've got your back.",
+                  "vi": "Đừng lo — có mình lo cho bạn.",
+                  "note": "Rất thân mật, mang màu Anh-Mỹ và rất ấm áp — dùng giữa bạn thân, người nhà.",
+                  "open": { "en": "Whatever happens tomorrow —", "vi": "Mai có chuyện gì đi nữa —" },
+                  "reply": [
+                    { "them": "I might need it.", "themvi": "Chắc mình sẽ cần đấy.", "you": "Say the word and I'll come.", "youvi": "Chỉ cần bạn nói một tiếng là mình đến." }
+                  ],
+                  "close": { "en": "We're in this together.", "vi": "Mình cùng hội cùng thuyền." }
+                },
+                {
+                  "en": "Sorry, I'm not with you.",
+                  "vi": "Xin lỗi, mình không hiểu ý bạn.",
+                  "note": "BẪY NGHIÊM TRỌNG: câu này nghĩa là KHÔNG HIỂU, không phải không đồng ý.",
+                  "reply": [
+                    { "them": "Which bit?", "themvi": "Chỗ nào?", "you": "Run that by me again.", "youvi": "Nói lại lần nữa cho mình nghe." }
+                  ],
+                  "vars": [
+                    { "en": "You've lost me.", "vi": "Mình mất mạch rồi." }
+                  ]
+                },
+                {
+                  "en": "Whatever you decide, I'm with you.",
+                  "vi": "Bạn quyết sao thì mình cũng theo.",
+                  "reply": [
+                    { "them": "Even if I take the job abroad?", "themvi": "Kể cả nếu mình nhận việc ở nước ngoài?", "you": "Even then. It's your life.", "youvi": "Kể cả vậy. Đời bạn mà." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I'm with you — let's skip dessert.",
+                  "vi": "Mình theo bạn — bỏ món tráng miệng đi.",
+                  "reply": [
+                    { "them": "Coffee instead?", "themvi": "Thay bằng cà phê nhé?", "you": "Now you're talking.", "youvi": "Giờ mới đúng chuyện." }
+                  ]
+                },
+                {
+                  "en": "Count me in for Saturday.",
+                  "vi": "Thứ Bảy tính cả mình nhé.",
+                  "reply": [
+                    { "them": "Great — seven at the noodle place.", "themvi": "Tuyệt — bảy giờ ở quán mì.", "you": "See you there.", "youvi": "Gặp ở đó nhé." }
+                  ],
+                  "vars": [
+                    { "en": "I'm in — what time?", "vi": "Mình tham gia — mấy giờ?" }
+                  ]
+                },
+                {
+                  "en": "I'm with you up to a point — the starter was good.",
+                  "vi": "Mình theo bạn được đến một mức — món khai vị thì ngon.",
+                  "note": "Ủng hộ một phần — mở đường cho phần phản biện ngay sau đó.",
+                  "reply": [
+                    { "them": "But the main was terrible.", "themvi": "Nhưng món chính thì tệ.", "you": "That I can't argue with.", "youvi": "Chỗ đó mình không cãi được." }
+                  ]
+                },
+                {
+                  "en": "I'm with him — same order, please.",
+                  "vi": "Tôi đi cùng anh ấy — cho tôi giống vậy ạ.",
+                  "note": "Ở đây <i>I'm with him</i> mang nghĩa ĐEN: đi cùng người đó. Ngữ cảnh quyết định hoàn toàn.",
+                  "reply": [
+                    { "them": "Two of the same, certainly.", "themvi": "Hai phần giống nhau, vâng ạ.", "you": "And two waters, thanks.", "youvi": "Thêm hai chai nước, cảm ơn." }
+                  ],
+                  "close": { "en": "That's everything, thanks.", "vi": "Vậy là hết ạ, cảm ơn." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I'm with you — let's leave earlier.",
+                  "vi": "Mình theo bạn — đi sớm hơn đi.",
+                  "reply": [
+                    { "them": "Finally, someone sensible.", "themvi": "Cuối cùng cũng có người biết điều.", "you": "I've missed one flight too many.", "youvi": "Mình lỡ chuyến nhiều lần quá rồi." }
+                  ]
+                },
+                {
+                  "en": "I'm with him — we're travelling together.",
+                  "vi": "Tôi đi cùng anh ấy — chúng tôi đi chung.",
+                  "note": "Nghĩa đen ở quầy làm thủ tục — rất hay dùng ở sân bay và khách sạn.",
+                  "reply": [
+                    { "them": "May I see both passports?", "themvi": "Cho em xem cả hai hộ chiếu ạ?", "you": "Here you are.", "youvi": "Đây ạ." }
+                  ]
+                },
+                {
+                  "en": "You've lost me — which platform?",
+                  "vi": "Mình mất mạch rồi — sân ga nào?",
+                  "reply": [
+                    { "them": "Platform nine, then change at the junction.", "themvi": "Sân ga chín, rồi đổi tàu ở ga trung chuyển.", "you": "Run that by me again, slowly.", "youvi": "Nói lại chậm thôi cho mình nghe." }
+                  ],
+                  "vars": [
+                    { "en": "Sorry, I'm not with you.", "vi": "Xin lỗi, mình không hiểu." }
+                  ]
+                },
+                {
+                  "en": "I'm right behind you on booking now.",
+                  "vi": "Chuyện đặt luôn bây giờ thì mình ủng hộ bạn hết mình.",
+                  "note": "Mạnh hơn <i>I'm with you</i> — ngụ ý bạn sẽ hành động chứ không chỉ đồng tình.",
+                  "reply": [
+                    { "them": "Then let's do it tonight.", "themvi": "Vậy tối nay đặt luôn.", "you": "I'll send you the link.", "youvi": "Mình gửi bạn đường dẫn." }
+                  ],
+                  "close": { "en": "Sorted.", "vi": "Xong." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I'm with you — the cheaper one is plenty.",
+                  "vi": "Mình theo bạn — cái rẻ hơn là quá đủ.",
+                  "reply": [
+                    { "them": "Glad you think so.", "themvi": "May là bạn cũng nghĩ vậy.", "you": "We'd never use the extras.", "youvi": "Mấy tính năng thêm mình có dùng đâu." }
+                  ]
+                },
+                {
+                  "en": "I'm with her on the colour.",
+                  "vi": "Về màu thì mình theo cô ấy.",
+                  "reply": [
+                    { "them": "Two against one, then.", "themvi": "Vậy là hai chọi một.", "you": "Sorry, you're outvoted.", "youvi": "Xin lỗi nhé, bạn thua phiếu rồi." }
+                  ],
+                  "vars": [
+                    { "en": "I'm on her side here.", "vi": "Chuyện này mình đứng về phía cô ấy." }
+                  ]
+                },
+                {
+                  "en": "Sorry, I'm not with you — is it included or not?",
+                  "vi": "Xin lỗi, tôi chưa hiểu — có bao gồm hay không ạ?",
+                  "note": "Dùng khi lời giải thích của nhân viên khiến bạn rối — rất lịch sự.",
+                  "reply": [
+                    { "them": "Let me put it more simply.", "themvi": "Để em nói đơn giản hơn ạ.", "you": "Thank you.", "youvi": "Cảm ơn em." }
+                  ]
+                },
+                {
+                  "en": "I'm with you up to a point, but the warranty matters.",
+                  "vi": "Mình theo bạn được đến một mức, nhưng bảo hành là quan trọng.",
+                  "reply": [
+                    { "them": "Fair enough.", "themvi": "Cũng có lý.", "you": "Let's check both options.", "youvi": "Mình xem cả hai phương án đi." }
+                  ],
+                  "close": { "en": "We'll decide after lunch.", "vi": "Ăn trưa xong mình quyết." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Đứng về phía đồng nghiệp trong cuộc họp",
+          "lines": [
+            { "speaker": "Mai", "en": "I still think we should delay the launch.", "vi": "Tôi vẫn nghĩ mình nên hoãn ra mắt." },
+            { "speaker": "Director", "en": "Anyone else feel that way?", "vi": "Còn ai thấy vậy không?" },
+            { "speaker": "You", "me": true, "en": "I'm with Mai on this one.", "vi": "Chuyện này tôi đứng về phía Mai." },
+            { "speaker": "Mai", "en": "Glad someone is!", "vi": "May mà có người ủng hộ!" },
+            { "speaker": "You", "me": true, "en": "The data backs you up. I'll back you up in writing too.", "vi": "Số liệu ủng hộ chị. Tôi cũng sẽ ủng hộ bằng văn bản." },
+            { "speaker": "Mai", "en": "I knew I could count on you.", "vi": "Tôi biết là trông cậy được vào anh/chị mà." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Nghe giải thích một quy trình phức tạp",
+          "lines": [
+            { "speaker": "Colleague", "en": "So first you export, then map the columns, then re-import.", "vi": "Đầu tiên xuất dữ liệu, rồi ánh xạ các cột, rồi nhập lại." },
+            { "speaker": "You", "me": true, "en": "I'm with you so far.", "vi": "Đến đây tôi vẫn theo kịp." },
+            { "speaker": "Colleague", "en": "Then you run the validation script before the merge.", "vi": "Rồi chạy script kiểm tra trước khi hợp nhất." },
+            { "speaker": "You", "me": true, "en": "Sorry, you've lost me at the merge part.", "vi": "Xin lỗi, đến đoạn hợp nhất là tôi mất mạch." },
+            { "speaker": "Colleague", "en": "Where did I lose you exactly?", "vi": "Tôi làm anh/chị mất mạch từ chỗ nào?" },
+            { "speaker": "You", "me": true, "en": "Run that by me again — before or after validation?", "vi": "Nói lại cho tôi nghe — trước hay sau bước kiểm tra?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I with you on that.", "right": "I'm with you on that.", "why": "Ở đây BẮT BUỘC có <b>I'm</b> vì <i>with you</i> là cụm giới từ, cần động từ <i>to be</i>. Đừng nhầm với <i>I agree</i> vốn không có <i>am</i>." },
+            { "wrong": "“I'm not with you.” <i>(ý: tôi không đồng ý)</i>", "right": "I'm afraid I disagree.", "why": "BẪY NGHIÊM TRỌNG. <i>I'm not with you</i> nghĩa là <b>tôi không hiểu</b>. Muốn nói không đồng ý thì dùng [Khung 54]." },
+            { "wrong": "I'm with you about that.", "right": "I'm with you on that.", "why": "Giới từ chỉ chủ đề ở đây là <b>on</b>, không phải <i>about</i>." },
+            { "wrong": "I'm agree with you on that.", "right": "I'm with you on that. / I agree with you on that.", "why": "Hai cấu trúc khác nhau bị trộn vào nhau. <i>agree</i> là động từ (không có <i>am</i>); <i>with you</i> là cụm giới từ (có <i>am</i>)." },
+            { "wrong": "I'm with you, so please explain again.", "right": "I'm not with you — could you explain again?", "why": "Nếu bạn cần giải thích lại thì bạn đang KHÔNG theo kịp — phải dùng dạng phủ định." },
+            { "wrong": "I'm with you on that. <i>(trong email gửi khách hàng)</i>", "right": "You have my full support on that.", "why": "Khung này khá thân mật. Trong văn bản trang trọng hãy dùng <i>You have my support</i> hoặc [Khung 51]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Nhấn vào điều gì", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I'm with you on that.</code>", "Chỗ đứng — tôi cùng phe", "<i>I'm with you on that.</i> Thân mật, ủng hộ."],
+            ["<code>I agree with you.</code>", "Lý lẽ — tôi cùng quan điểm", "<i>I agree with you.</i> Xem [Khung 51]."],
+            ["<code>I'm right behind you.</code>", "Ủng hộ kèm hành động", "<i>I'm right behind you.</i> Mạnh hơn."],
+            ["<code>I'll back you up.</code>", "Hứa hậu thuẫn cụ thể", "<i>I'll back you up in the meeting.</i>"],
+            ["<code>Count me in.</code>", "Xin tham gia", "<i>Count me in.</i> Ngắn, nhiệt tình."],
+            ["<code>I'm with you so far.</code>", "Đang theo kịp", "<i>I'm with you so far.</i> Nghĩa hoàn toàn khác."],
+            ["<code>You have my support.</code>", "Trang trọng", "<i>You have my full support.</i> Email, phát biểu."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — ủng hộ một người trong cuộc họp" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "That's a fair point.", "vi": "Nhẹ nhất — chỉ công nhận. Xem [Khung 52]" },
+            { "en": "I agree with you on that.", "vi": "Cùng quan điểm. Xem [Khung 51]" },
+            { "en": "I'm with you on that.", "vi": "Đứng cùng phe — ấm hơn" },
+            { "en": "I'll back you up.", "vi": "Hứa hành động cụ thể" },
+            { "en": "I'm right behind you.", "vi": "Ủng hộ hết mình" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>I'm with</b> nói nhanh dính thành <b>“aim-wið”</b> — âm /m/ nối thẳng sang /w/.",
+            "<b>with you</b> nối âm thành <b>“wi-thyu”</b> hoặc gọn hơn là <b>“wi-chu”</b> khi nói nhanh.",
+            "Cả cụm: <b>“aim-wi-chu-on-THAT”</b>, trọng âm rơi vào <i>THAT</i>.",
+            "Âm <b>/ð/</b> trong <i>with</i> có rung — khác với /θ/ không rung trong <i>think</i>.",
+            "<b>Nhấn mạnh vào “with”</b> khi muốn thể hiện sự ủng hộ mạnh: <i>I'm</i> <b>WITH</b> <i>you on that.</i>",
+            "<b>I've got your back</b> → “aiv-got-yor-BACK”, nói liền một hơi, nhấn BACK."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm with you on that one.", "vi": "Luyện shadowing: “aim-wi-chu-on-THAT-wʌn”, nhấn vào WITH và THAT." },
+            { "en": "Sorry, you've lost me at step three.", "vi": "Tập nói nhẹ và hơi ngập ngừng — đây là câu thú nhận chưa hiểu." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Chuyện đó tôi ủng hộ bạn.", "blank": "__________ that one.", "a": "I'm with you on (có “I'm”, giới từ “on”)" },
+            { "vi": "Đến đây tôi vẫn theo kịp.", "blank": "I'm with you __________.", "a": "so far" },
+            { "vi": "Xin lỗi, tôi không hiểu ý anh/chị.", "blank": "Sorry, __________.", "a": "I'm not with you (= không hiểu)" },
+            { "vi": "Đến bước ba là mình mất mạch rồi.", "blank": "__________ at step three.", "a": "You've lost me" },
+            { "vi": "Trong cuộc họp tôi sẽ hậu thuẫn anh/chị.", "blank": "I'll __________ in the meeting.", "a": "back you up" },
+            { "vi": "Đừng lo — có mình lo cho bạn.", "blank": "Don't worry — __________.", "a": "I've got your back" },
+            { "vi": "Bạn chỉ cần nói một tiếng là mình giúp.", "blank": "__________ and I'll help.", "a": "Say the word" },
+            { "vi": "Anh/chị có sự ủng hộ hoàn toàn của tôi.", "blank": "You have __________.", "a": "my full support" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Chuyện này tôi đứng về phía Mai.", "a": "I'm with Mai on this one." },
+            { "vi": "2. Đến đây tôi vẫn theo kịp — anh/chị nói tiếp đi.", "a": "I'm with you so far — carry on." },
+            { "vi": "3. Xin lỗi, đến bước ba là tôi mất mạch.", "a": "Sorry, you've lost me at step three." },
+            { "vi": "4. Trong cuộc họp tôi sẽ hậu thuẫn anh/chị.", "a": "I'll back you up in the meeting." },
+            { "vi": "5. Bạn quyết sao thì mình cũng theo.", "a": "Whatever you decide, I'm with you." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Nhớ điểm ngữ pháp:</b> <i>I <b>agree</b></i> không có <i>am</i>, nhưng <i>I<b>'m</b> with you</i> thì có — vì <i>with you</i> là cụm giới từ.",
+            "<b>Khắc vào đầu bẫy nghiêm trọng:</b> <i>I'm not with you</i> = <b>tôi không hiểu</b>, không phải không đồng ý.",
+            "<b>Dùng khi ai đó đang bị phản đối.</b> Lúc đó <i>I'm with you</i> có sức nặng lớn hơn <i>I agree</i> rất nhiều.",
+            "<b>“I'm with you so far” là công cụ nghe rất tốt</b> — nó cho người giải thích biết họ đang đi đúng hướng.",
+            "<b>Trong văn bản trang trọng hãy đổi sang “You have my support”</b> — khung này khá thân mật.",
+            "<b>Bài tập 3 phút:</b> viết 3 câu ủng hộ đồng nghiệp bằng <i>I'm with you on…</i> và 3 câu xin giải thích lại bằng <i>You've lost me at…</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

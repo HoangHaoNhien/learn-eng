@@ -1,0 +1,163 @@
+{
+  "title": "100 Khung Câu Giao Tiếp",
+  "tagline": "Học theo khung — nói được ngay",
+  "situations": [
+    { "id": "food",   "icon": "🍽", "name": "Quán ăn / quán cà phê" },
+    { "id": "shop",   "icon": "🛍", "name": "Mua sắm & dịch vụ" },
+    { "id": "travel", "icon": "🏨", "name": "Khách sạn, sân bay, đặt lịch" },
+    { "id": "work",   "icon": "💼", "name": "Công việc: họp, email, điện thoại" },
+    { "id": "life",   "icon": "💬", "name": "Đời sống & xã giao" }
+  ],
+  "groups": [
+    {
+      "name": "1 · Mong muốn & Nhu cầu",
+      "items": [
+        { "id": 1,  "pat": "I'd like to + V / I'd like + N", "vi": "Tôi muốn… (lịch sự, dùng mọi nơi)", "detail": true },
+        { "id": 2,  "pat": "I want to + V", "vi": "Tôi muốn… (thẳng, thân mật)", "detail": true },
+        { "id": 3,  "pat": "I need to + V / I need + N", "vi": "Tôi cần…", "detail": true },
+        { "id": 4,  "pat": "I'm looking for + N", "vi": "Tôi đang tìm…", "detail": true },
+        { "id": 5,  "pat": "I feel like + V-ing", "vi": "Tôi đang thèm / thấy muốn…", "detail": true },
+        { "id": 6,  "pat": "I'm trying to + V", "vi": "Tôi đang cố…", "detail": true },
+        { "id": 7,  "pat": "I hope to + V / I hope (that)…", "vi": "Tôi hi vọng…", "detail": true },
+        { "id": 8,  "pat": "I'd rather + V (than…)", "vi": "Tôi thà… / thích… hơn", "detail": true },
+        { "id": 9,  "pat": "I wish I could + V", "vi": "Ước gì tôi có thể…", "detail": true },
+        { "id": 10, "pat": "All I want is + N / to V", "vi": "Tất cả những gì tôi muốn là…", "detail": true }
+      ]
+    },
+    {
+      "name": "2 · Yêu cầu & Nhờ vả",
+      "items": [
+        { "id": 11, "pat": "Could you + V…, please?", "vi": "Bạn có thể… được không?", "detail": true },
+        { "id": 12, "pat": "Can you + V…?", "vi": "Bạn… được không? (thân mật)", "detail": true },
+        { "id": 13, "pat": "Would you mind + V-ing?", "vi": "Phiền bạn… nhé?", "detail": true },
+        { "id": 14, "pat": "Do you mind if I + V?", "vi": "Tôi… có phiền không?", "detail": true },
+        { "id": 15, "pat": "Please + V / Please don't + V", "vi": "Làm ơn… / Xin đừng…", "detail": true },
+        { "id": 16, "pat": "I was wondering if you could + V", "vi": "Không biết bạn có thể… không", "detail": true },
+        { "id": 17, "pat": "Could you tell me + wh-…?", "vi": "Bạn cho tôi biết… được không?", "detail": true },
+        { "id": 18, "pat": "Would it be possible to + V?", "vi": "Liệu có thể… không?", "detail": true },
+        { "id": 19, "pat": "Can I get + N?", "vi": "Cho tôi… (gọi món, mua hàng)", "detail": true },
+        { "id": 20, "pat": "Let me + V", "vi": "Để tôi…", "detail": true }
+      ]
+    },
+    {
+      "name": "3 · Xin phép & Cho phép",
+      "items": [
+        { "id": 21, "pat": "Can I + V? / May I + V?", "vi": "Tôi… được không?", "detail": true },
+        { "id": 22, "pat": "Is it OK if I + V?", "vi": "Tôi… có được không?", "detail": true },
+        { "id": 23, "pat": "Am I allowed to + V?", "vi": "Tôi có được phép… không?", "detail": true },
+        { "id": 24, "pat": "You can + V / You may + V", "vi": "Bạn có thể…", "detail": true },
+        { "id": 25, "pat": "Feel free to + V", "vi": "Cứ tự nhiên…", "detail": true },
+        { "id": 26, "pat": "You don't have to + V", "vi": "Bạn không cần phải…", "detail": true },
+        { "id": 27, "pat": "You're not supposed to + V", "vi": "Bạn không được phép…", "detail": true },
+        { "id": 28, "pat": "I'm afraid you can't + V", "vi": "E là bạn không thể…", "detail": true },
+        { "id": 29, "pat": "Go ahead and + V", "vi": "Cứ… đi", "detail": true },
+        { "id": 30, "pat": "Would you like me to + V?", "vi": "Bạn có muốn tôi… không?", "detail": true }
+      ]
+    },
+    {
+      "name": "4 · Đề nghị & Rủ rê",
+      "items": [
+        { "id": 31, "pat": "Let's + V", "vi": "Chúng ta hãy…", "detail": true },
+        { "id": 32, "pat": "Why don't we + V?", "vi": "Sao chúng ta không…?", "detail": true },
+        { "id": 33, "pat": "How about + V-ing / N?", "vi": "Hay là…?", "detail": true },
+        { "id": 34, "pat": "Shall we + V?", "vi": "Chúng ta… nhé?", "detail": true },
+        { "id": 35, "pat": "Do you want to + V?", "vi": "Bạn có muốn… không?", "detail": true },
+        { "id": 36, "pat": "We could + V", "vi": "Chúng ta có thể…", "detail": true },
+        { "id": 37, "pat": "I suggest (that) you + V", "vi": "Tôi đề nghị bạn…", "detail": true },
+        { "id": 38, "pat": "You should + V / You'd better + V", "vi": "Bạn nên… / Bạn nên… (cảnh báo)", "detail": true },
+        { "id": 39, "pat": "It might be a good idea to + V", "vi": "Có lẽ nên…", "detail": true },
+        { "id": 40, "pat": "What do you say we + V?", "vi": "Bạn thấy sao nếu chúng ta…?", "detail": true }
+      ]
+    },
+    {
+      "name": "5 · Ý kiến & Quan điểm",
+      "items": [
+        { "id": 41, "pat": "I think (that) + mệnh đề", "vi": "Tôi nghĩ rằng…", "detail": true },
+        { "id": 42, "pat": "In my opinion, + mệnh đề", "vi": "Theo ý kiến của tôi…", "detail": true },
+        { "id": 43, "pat": "I believe (that) + mệnh đề", "vi": "Tôi tin rằng…", "detail": true },
+        { "id": 44, "pat": "It seems (to me) that…", "vi": "Có vẻ như…", "detail": true },
+        { "id": 45, "pat": "As far as I know, …", "vi": "Theo như tôi biết…", "detail": true },
+        { "id": 46, "pat": "I'd say + mệnh đề", "vi": "Tôi thì cho rằng…", "detail": true },
+        { "id": 47, "pat": "From my point of view, …", "vi": "Từ góc nhìn của tôi…", "detail": true },
+        { "id": 48, "pat": "The way I see it, …", "vi": "Theo cách tôi nhìn nhận…", "detail": true },
+        { "id": 49, "pat": "If you ask me, …", "vi": "Nếu hỏi tôi thì…", "detail": true },
+        { "id": 50, "pat": "I'm not sure, but…", "vi": "Tôi không chắc, nhưng…", "detail": true }
+      ]
+    },
+    {
+      "name": "6 · Đồng ý & Phản đối",
+      "items": [
+        { "id": 51, "pat": "I agree with you (on/about…)", "vi": "Tôi đồng ý với bạn về…", "detail": true },
+        { "id": 52, "pat": "That's a good point, but…", "vi": "Ý đó hay đấy, nhưng…", "detail": true },
+        { "id": 53, "pat": "I see what you mean, but…", "vi": "Tôi hiểu ý bạn, nhưng…", "detail": true },
+        { "id": 54, "pat": "I'm afraid I disagree", "vi": "E là tôi không đồng ý", "detail": true },
+        { "id": 55, "pat": "I don't think so", "vi": "Tôi không nghĩ vậy", "detail": true },
+        { "id": 56, "pat": "Exactly! / That's right", "vi": "Chính xác! / Đúng vậy", "detail": true },
+        { "id": 57, "pat": "It depends on + N / wh-…", "vi": "Còn tùy vào…", "detail": true },
+        { "id": 58, "pat": "I'm with you on that", "vi": "Tôi ủng hộ bạn chuyện đó", "detail": true },
+        { "id": 59, "pat": "Not necessarily", "vi": "Không hẳn vậy", "detail": true },
+        { "id": 60, "pat": "Fair enough", "vi": "Cũng có lý / Được thôi", "detail": true }
+      ]
+    },
+    {
+      "name": "7 · Hỏi thông tin",
+      "items": [
+        { "id": 61, "pat": "What time…? / When…?", "vi": "Mấy giờ…? / Khi nào…?", "detail": true },
+        { "id": 62, "pat": "Where can I + V…?", "vi": "Tôi có thể… ở đâu?", "detail": true },
+        { "id": 63, "pat": "How do I get to + nơi chốn?", "vi": "Làm sao để đến…?", "detail": true },
+        { "id": 64, "pat": "How long does it take to + V?", "vi": "Mất bao lâu để…?", "detail": true },
+        { "id": 65, "pat": "How much / How many…?", "vi": "Bao nhiêu…?", "detail": true },
+        { "id": 66, "pat": "What's the difference between A and B?", "vi": "A và B khác nhau thế nào?", "detail": true },
+        { "id": 67, "pat": "Do you know + wh-…? (hỏi gián tiếp)", "vi": "Bạn có biết… không?", "detail": true },
+        { "id": 68, "pat": "What do you mean by + N?", "vi": "Ý bạn là gì khi nói…?", "detail": true },
+        { "id": 69, "pat": "Could you explain + N?", "vi": "Bạn giải thích… được không?", "detail": true },
+        { "id": 70, "pat": "What's + N + like?", "vi": "… thì thế nào?", "detail": true }
+      ]
+    },
+    {
+      "name": "8 · Giới thiệu & Xã giao",
+      "items": [
+        { "id": 71, "pat": "I'm + tên / My name is…", "vi": "Tôi là…", "detail": true },
+        { "id": 72, "pat": "Nice to meet you / Good to see you", "vi": "Rất vui được gặp bạn", "detail": true },
+        { "id": 73, "pat": "This is + người", "vi": "Đây là… (giới thiệu người khác)", "detail": true },
+        { "id": 74, "pat": "I'm from + nơi / I live in…", "vi": "Tôi đến từ… / Tôi sống ở…", "detail": true },
+        { "id": 75, "pat": "I work as + nghề / I work for + công ty", "vi": "Tôi làm nghề… / Tôi làm ở…", "detail": true },
+        { "id": 76, "pat": "How's it going? / How are you doing?", "vi": "Dạo này sao rồi?", "detail": true },
+        { "id": 77, "pat": "Long time no see! / It's been a while", "vi": "Lâu quá không gặp!", "detail": true },
+        { "id": 78, "pat": "Thank you for + V-ing", "vi": "Cảm ơn bạn vì đã…", "detail": true },
+        { "id": 79, "pat": "I'm sorry for + V-ing", "vi": "Tôi xin lỗi vì đã…", "detail": true },
+        { "id": 80, "pat": "Have a good + N! / See you + thời gian", "vi": "Chúc bạn… vui vẻ! / Hẹn gặp…", "detail": true }
+      ]
+    },
+    {
+      "name": "9 · Cảm xúc & Phản ứng",
+      "items": [
+        { "id": 81, "pat": "I'm (so) + tính từ", "vi": "Tôi (rất) … (vui/mệt/lo)", "detail": true },
+        { "id": 82, "pat": "I'm + tính từ + about / with + N", "vi": "Tôi thấy… về…", "detail": true },
+        { "id": 83, "pat": "It makes me + tính từ", "vi": "Điều đó làm tôi thấy…", "detail": true },
+        { "id": 84, "pat": "I can't believe + mệnh đề", "vi": "Tôi không thể tin là…", "detail": true },
+        { "id": 85, "pat": "That sounds + tính từ", "vi": "Nghe… quá (hay/chán/tuyệt)", "detail": true },
+        { "id": 86, "pat": "I'm looking forward to + V-ing", "vi": "Tôi đang mong chờ…", "detail": true },
+        { "id": 87, "pat": "I'm worried (that) + mệnh đề", "vi": "Tôi lo là…", "detail": true },
+        { "id": 88, "pat": "I feel bad about + V-ing", "vi": "Tôi thấy áy náy vì…", "detail": true },
+        { "id": 89, "pat": "What a + tính từ + danh từ!", "vi": "… thật là…!", "detail": true },
+        { "id": 90, "pat": "I'm glad (that) + mệnh đề", "vi": "Tôi mừng vì…", "detail": true }
+      ]
+    },
+    {
+      "name": "10 · Kể chuyện, Kế hoạch & Thời gian",
+      "items": [
+        { "id": 91,  "pat": "I'm going to + V", "vi": "Tôi định/sẽ… (kế hoạch)", "detail": true },
+        { "id": 92,  "pat": "I'm + V-ing + (thời gian)", "vi": "Tôi … (lịch đã chốt)", "detail": true },
+        { "id": 93,  "pat": "I used to + V", "vi": "Trước đây tôi hay…", "detail": true },
+        { "id": 94,  "pat": "I've been + V-ing for / since…", "vi": "Tôi đã… được… rồi", "detail": true },
+        { "id": 95,  "pat": "I've just + V3", "vi": "Tôi vừa mới…", "detail": true },
+        { "id": 96,  "pat": "When I was…, I + V2", "vi": "Hồi tôi…, tôi đã…", "detail": true },
+        { "id": 97,  "pat": "If + hiện tại, I'll + V", "vi": "Nếu…, tôi sẽ… (điều kiện loại 1)", "detail": true },
+        { "id": 98,  "pat": "If I were you, I'd + V", "vi": "Nếu tôi là bạn, tôi sẽ… (khuyên)", "detail": true },
+        { "id": 99,  "pat": "It takes + thời gian + to V", "vi": "Mất… để…", "detail": true },
+        { "id": 100, "pat": "There is / There are + N", "vi": "Có…", "detail": true }
+      ]
+    }
+  ]
+}

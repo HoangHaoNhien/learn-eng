@@ -1,0 +1,277 @@
+{
+  "id": 17,
+  "group": "Nhóm 10 · Điều kiện & Giả định",
+  "title": "unless · as long as · in case · provided",
+  "subtitle": "Bốn liên từ điều kiện ngoài if, mỗi cái một sắc thái riêng. Bẫy lớn nhất là unless: nó đã mang sẵn nghĩa phủ định nên thêm don't vào là lật ngược hẳn câu. Bẫy thứ hai tinh vi hơn: in case không phải là if.",
+  "meaning": "Trừ khi · miễn là · phòng khi · với điều kiện là",
+  "rule": [
+    "<em>Unless</em> + hiện tại = <em>if … not</em>",
+    "<em>As long as / Provided</em> + hiện tại = miễn là",
+    "<em>In case</em> + hiện tại = phòng khi"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1–B2", "hot": true },
+    { "text": "unless đã là phủ định" },
+    { "text": "in case ≠ if" },
+    { "text": "Tần suất: cao" }
+  ],
+  "frames": [57, 60, 87, 91, 97],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Ngoài <i>if</i>, tiếng Anh còn bốn liên từ điều kiện hay dùng. Chúng không thay thế nhau được — mỗi cái nói một kiểu điều kiện khác nhau, và chọn sai là người nghe hiểu sai ý bạn." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — <i>unless</i> đã là phủ định:</b> nó bằng đúng <b>if … not</b>, nên thêm <i>don't</i> vào là phủ định hai lần.<br>• <i>Unless it <b>rains</b>, I'll walk</i> ✓ = nếu trời KHÔNG mưa thì tôi đi bộ.<br>• <i>Unless it <b>doesn't</b> rain</i> ✗ — nghĩa lật ngược hẳn." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>in case</i> không phải <i>if</i>:</b><br>• <i>Take an umbrella <b>if</b> it rains</i> = chờ xem trời có mưa không rồi mới mang.<br>• <i>Take an umbrella <b>in case</b> it rains</i> = mang sẵn ĐI, phòng khi mưa.<br><b>in case</b> nói về việc chuẩn bị TRƯỚC, không phải phản ứng SAU." },
+        { "t": "h3", "text": "Bốn liên từ, bốn sắc thái" },
+        {
+          "t": "table",
+          "head": ["Liên từ", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>unless</code>", "trừ khi = <i>if … not</i>", "Unless it rains, I'll walk."],
+            ["<code>as long as</code>", "miễn là — nêu điều kiện tối thiểu", "I'll come as long as I'm free."],
+            ["<code>in case</code>", "phòng khi — chuẩn bị trước", "Take an umbrella in case it rains."],
+            ["<code>provided / providing</code>", "với điều kiện là — trang trọng", "Provided you book early, it's cheap."]
+          ]
+        },
+        { "t": "p", "html": "Cả bốn đều theo đúng luật của <i>if</i>: <b>dùng hiện tại đơn, không bao giờ có <i>will</i></b>, dù đang nói về tương lai. Xem [Ngữ pháp 14]." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Liên từ", "Công thức", "Ví dụ"],
+          "rows": [
+            ["unless — chuẩn", "<code>Unless + hiện tại, will + V.</code>", "Unless it rains, I'll walk."],
+            ["unless — đảo vế", "<code>will + V + unless + hiện tại.</code>", "I'll walk unless it rains."],
+            ["unless = if not", "<code>If + don't/doesn't + V…</code>", "If it doesn't rain, I'll walk."],
+            ["as long as", "<code>As long as + hiện tại, …</code>", "As long as I'm free, I'll come."],
+            ["so long as", "<code>So long as + hiện tại, …</code>", "So long as you're careful, it's fine."],
+            ["in case — phòng khi", "<code>…, in case + hiện tại.</code>", "Take an umbrella in case it rains."],
+            ["in case of + danh từ", "<code>In case of + N</code>", "In case of fire, use the stairs."],
+            ["provided (that)", "<code>Provided (that) + hiện tại, …</code>", "Provided you book early, it's cheap."],
+            ["providing (that)", "<code>Providing (that) + hiện tại, …</code>", "Providing nothing changes, we'll go."],
+            ["even if", "<code>Even if + hiện tại, …</code>", "Even if it rains, I'll walk."],
+            ["only if", "<code>Only if + hiện tại, …</code>", "Only if you ask."],
+            ["whether … or not", "<code>Whether + hiện tại + or not</code>", "I'll go whether it rains or not."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Chú ý <i>in case of</i>:</b> thêm chữ <b>of</b> thì theo sau là <b>DANH TỪ</b>, không phải mệnh đề — <i>In case <b>of</b> fire, use the stairs</i> ✓. Không có <i>of</i> thì theo sau là cả mệnh đề — <i>in case it rains</i> ✓." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Unless it rains, I'll walk.", "vi": "Trừ khi trời mưa, tôi sẽ đi bộ.", "note": "BẪY SỐ MỘT: <i>unless it doesn't rain</i> ✗ là phủ định hai lần. Xem [Khung 97]." },
+            { "en": "If it doesn't rain, I'll walk.", "vi": "Nếu trời không mưa, tôi sẽ đi bộ.", "note": "Cùng nghĩa với câu trên — <b>unless</b> = <i>if … not</i>." },
+            { "en": "I'll walk unless it rains.", "vi": "Tôi sẽ đi bộ trừ khi trời mưa.", "note": "Đảo vế thì KHÔNG cần dấu phẩy." },
+            { "en": "Unless something urgent comes up, I'll be there.", "vi": "Trừ khi có việc gấp, tôi sẽ có mặt.", "note": "Cách hứa hẹn có chừa đường lui rất lịch sự." },
+            { "en": "As long as I'm free, I'll come.", "vi": "Miễn là tôi rảnh thì tôi sẽ đến.", "note": "<b>as long as</b> nêu điều kiện TỐI THIỂU." },
+            { "en": "So long as you're careful, it's fine.", "vi": "Miễn là bạn cẩn thận thì không sao.", "note": "<i>so long as</i> và <i>as long as</i> hoàn toàn như nhau." },
+            { "en": "Take an umbrella in case it rains.", "vi": "Mang ô phòng khi trời mưa.", "note": "BẪY SỐ HAI: mang sẵn ĐI, không chờ xem có mưa không. Xem [Khung 87]." },
+            { "en": "I'll call, just in case.", "vi": "Tôi sẽ gọi cho chắc.", "note": "<b>just in case</b> đứng cuối câu, không cần mệnh đề theo sau." },
+            { "en": "In case of fire, use the stairs.", "vi": "Khi có hỏa hoạn, dùng cầu thang bộ.", "note": "Có chữ <b>of</b> thì theo sau là DANH TỪ." },
+            { "en": "Provided you book early, it's quite cheap.", "vi": "Với điều kiện đặt sớm thì khá rẻ.", "note": "<b>provided</b> trang trọng hơn <i>as long as</i> — hợp văn viết." },
+            { "en": "Even if it rains, I'll walk.", "vi": "Dù trời có mưa tôi vẫn đi bộ.", "note": "<b>even if</b> = dù có… vẫn. Khác hẳn <i>unless</i>." },
+            { "en": "I'll go whether it rains or not.", "vi": "Mưa hay không tôi cũng đi.", "note": "<b>whether … or not</b> = bất kể thế nào." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🚫", "title": "Nêu ngoại lệ duy nhất", "text": "<i>Unless it rains, I'll walk.</i> Chỉ mưa mới đổi kế hoạch." },
+            { "icon": "✅", "title": "Nêu điều kiện tối thiểu", "text": "<i>As long as I'm free, I'll come.</i>" },
+            { "icon": "☂️", "title": "Chuẩn bị phòng hờ", "text": "<i>Take an umbrella in case it rains.</i> Mang sẵn đi." },
+            { "icon": "📄", "title": "Điều kiện trang trọng", "text": "<i>Provided you book early…</i> Hợp hợp đồng, email." },
+            { "icon": "💪", "title": "Khẳng định bất chấp", "text": "<i>Even if it rains, I'll walk.</i>" },
+            { "icon": "⚠️", "title": "Đừng dùng khi…", "text": "Muốn nói <i>in case</i> theo nghĩa <i>if</i>. Hai từ này khác nhau." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "unless & as long as",
+              "items": [
+                { "w": "unless", "vi": "trừ khi", "ex": "Unless it rains, I'll walk.", "exvi": "Trừ khi trời mưa, tôi sẽ đi bộ.", "note": "BẪY SỐ MỘT: = <i>if … not</i>. Không thêm <i>don't</i> vào sau." },
+                { "w": "unless something comes up", "vi": "trừ khi có việc đột xuất", "ex": "Unless something comes up, I'll be there.", "exvi": "Trừ khi có việc đột xuất, tôi sẽ có mặt.", "note": "Cách hứa có chừa đường lui rất lịch sự." },
+                { "w": "unless you'd rather", "vi": "trừ khi bạn thích hơn", "ex": "We'll take the bus, unless you'd rather walk.", "exvi": "Mình đi xe buýt, trừ khi bạn muốn đi bộ hơn." },
+                { "w": "as long as", "vi": "miễn là", "ex": "I'll come as long as I'm free.", "exvi": "Miễn là tôi rảnh thì tôi sẽ đến.", "note": "Nêu điều kiện TỐI THIỂU — chỉ cần thế là đủ." },
+                { "w": "so long as", "vi": "miễn là", "ex": "So long as you're careful, it's fine.", "exvi": "Miễn là bạn cẩn thận thì không sao.", "note": "Hoàn toàn như <i>as long as</i> — chỉ khác cách nói." },
+                { "w": "as long as you don't mind", "vi": "miễn là bạn không phiền", "ex": "I'll bring a friend, as long as you don't mind.", "exvi": "Mình dẫn một người bạn, miễn là bạn không phiền." },
+                { "w": "provided (that)", "vi": "với điều kiện là", "ex": "Provided you book early, it's cheap.", "exvi": "Với điều kiện đặt sớm thì rẻ.", "note": "Trang trọng — hợp hợp đồng và email công việc." },
+                { "w": "providing (that)", "vi": "với điều kiện là", "ex": "Providing nothing changes, we'll go.", "exvi": "Nếu không có gì thay đổi thì bọn tôi đi." },
+                { "w": "on condition that", "vi": "với điều kiện rằng", "ex": "He agreed on condition that we pay first.", "exvi": "Anh ấy đồng ý với điều kiện bọn tôi trả trước.", "note": "Trang trọng nhất — gần như chỉ dùng trong văn bản." },
+                { "w": "only if", "vi": "chỉ khi nào", "ex": "Only if you ask.", "exvi": "Chỉ khi nào bạn hỏi.", "note": "Nhấn mạnh rằng đó là điều kiện DUY NHẤT." },
+                { "w": "It depends on", "vi": "còn tùy", "ex": "It depends on the weather.", "exvi": "Còn tùy thời tiết.", "note": "Cách nói điều kiện mềm, không cần cấu trúc đầy đủ. Xem [Khung 57]." },
+                { "w": "Fair enough", "vi": "hợp lý thôi", "ex": "Fair enough.", "exvi": "Hợp lý thôi. Xem [Khung 60]." }
+              ]
+            },
+            {
+              "title": "in case & nhóm bất chấp điều kiện",
+              "items": [
+                { "w": "in case", "vi": "phòng khi", "ex": "Take an umbrella in case it rains.", "exvi": "Mang ô phòng khi trời mưa.", "note": "BẪY SỐ HAI: chuẩn bị TRƯỚC, không phải phản ứng sau như <i>if</i>." },
+                { "w": "just in case", "vi": "cho chắc", "ex": "I'll call, just in case.", "exvi": "Tôi sẽ gọi cho chắc.", "note": "Đứng CUỐI câu, không cần mệnh đề theo sau." },
+                { "w": "in case of + danh từ", "vi": "khi có", "ex": "In case of fire, use the stairs.", "exvi": "Khi có hỏa hoạn, dùng cầu thang bộ.", "note": "Có chữ <b>of</b> thì theo sau là DANH TỪ, không phải mệnh đề." },
+                { "w": "in case you need it", "vi": "phòng khi bạn cần", "ex": "Here's my number, in case you need it.", "exvi": "Số của mình đây, phòng khi bạn cần." },
+                { "w": "even if", "vi": "dù có… vẫn", "ex": "Even if it rains, I'll walk.", "exvi": "Dù trời có mưa tôi vẫn đi bộ.", "note": "Khác hẳn <i>unless</i> — ở đây điều kiện KHÔNG làm đổi kết quả." },
+                { "w": "even though", "vi": "mặc dù (có thật)", "ex": "Even though it rained, I walked.", "exvi": "Mặc dù trời mưa, tôi vẫn đi bộ.", "note": "<b>even though</b> nói chuyện CÓ THẬT, <b>even if</b> nói chuyện giả định. Xem [Ngữ pháp 48]." },
+                { "w": "whether … or not", "vi": "bất kể thế nào", "ex": "I'll go whether it rains or not.", "exvi": "Mưa hay không tôi cũng đi." },
+                { "w": "regardless of", "vi": "bất chấp", "ex": "Regardless of the weather, we'll go.", "exvi": "Bất chấp thời tiết, bọn tôi vẫn đi.", "note": "Theo sau là DANH TỪ, không phải mệnh đề." },
+                { "w": "otherwise", "vi": "nếu không thì", "ex": "Leave now; otherwise you'll be late.", "exvi": "Đi ngay đi; không thì bạn sẽ muộn.", "note": "Thay cả một vế điều kiện — rất gọn." },
+                { "w": "What if…?", "vi": "lỡ như… thì sao?", "ex": "What if it rains?", "exvi": "Lỡ trời mưa thì sao?", "note": "Sau <i>What if</i> dùng hiện tại. Xem [Khung 87]." },
+                { "w": "to be on the safe side", "vi": "cho chắc ăn", "ex": "I'll take two, to be on the safe side.", "exvi": "Tôi lấy hai cái cho chắc ăn.", "note": "Thành ngữ, cùng ý với <i>just in case</i>." },
+                { "w": "I'm going to + V", "vi": "tôi định", "ex": "I'm going to bring an umbrella.", "exvi": "Tôi định mang ô.", "note": "Vế kết quả hay dùng dạng này. Xem [Khung 91]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<b>Unless</b> it <b>doesn't</b> rain, I'll walk.", "right": "<b>Unless</b> it rains, I'll walk.", "why": "BẪY SỐ MỘT: <i>unless</i> đã mang nghĩa <b>if … not</b>. Phủ định thêm lần nữa là lật ngược hẳn nghĩa." },
+            { "wrong": "Unless it <b>will rain</b>, I'll walk.", "right": "Unless it <b>rains</b>, I'll walk.", "why": "Cả bốn liên từ đều theo luật của <i>if</i>: dùng hiện tại đơn, không có <i>will</i>. Xem [Ngữ pháp 14]." },
+            { "wrong": "Take an umbrella <b>if</b> it rains. <i>(ý: mang sẵn đi)</i>", "right": "Take an umbrella <b>in case</b> it rains.", "why": "BẪY SỐ HAI: <b>in case</b> = chuẩn bị TRƯỚC. <i>if</i> = chờ xem rồi mới làm." },
+            { "wrong": "In case <b>of</b> it rains, take an umbrella.", "right": "In case it rains, take an umbrella.", "why": "Có chữ <b>of</b> thì theo sau phải là DANH TỪ: <i>in case of fire</i> ✓." },
+            { "wrong": "<b>As long as</b> it rains, I'll stay in. <i>(ý: trừ khi mưa)</i>", "right": "<b>Unless</b> it rains, I'll go out.", "why": "<b>as long as</b> = miễn là (điều kiện tối thiểu), <b>unless</b> = trừ khi (ngoại lệ). Hai sắc thái ngược nhau." },
+            { "wrong": "<b>Even if</b> it rained, I walked. <i>(chuyện có thật)</i>", "right": "<b>Even though</b> it rained, I walked.", "why": "<b>even though</b> nói chuyện CÓ THẬT, <b>even if</b> nói chuyện giả định. Xem [Ngữ pháp 48]." },
+            { "wrong": "I'll walk<b>,</b> unless it rains.", "right": "I'll walk unless it rains.", "why": "Vế điều kiện đứng SAU thì không cần dấu phẩy. Đứng trước mới cần." },
+            { "wrong": "<b>Providing</b> of you book early…", "right": "<b>Providing (that)</b> you book early…", "why": "<i>provided</i> và <i>providing</i> không đi với <i>of</i>. Có thể thêm <i>that</i>, hoặc bỏ luôn." },
+            { "wrong": "<b>Regardless</b> the weather, we'll go.", "right": "<b>Regardless of</b> the weather, we'll go.", "why": "<b>regardless</b> bắt buộc có <b>of</b>, và theo sau là danh từ." },
+            { "wrong": "I'll call just <b>in case of</b>.", "right": "I'll call, just <b>in case</b>.", "why": "<b>just in case</b> đứng cuối câu là đủ — không thêm <i>of</i> khi không có danh từ theo sau." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Liên từ", "Sắc thái", "Ví dụ"],
+          "rows": [
+            ["<code>if</code>", "Điều kiện trung tính. Xem [Ngữ pháp 14]", "If it rains, I'll take a taxi."],
+            ["<code>unless</code>", "Ngoại lệ duy nhất = if … not", "Unless it rains, I'll walk."],
+            ["<code>as long as</code>", "Điều kiện tối thiểu — chỉ cần thế", "As long as I'm free, I'll come."],
+            ["<code>in case</code>", "Chuẩn bị TRƯỚC, phòng hờ", "Take an umbrella in case it rains."],
+            ["<code>provided (that)</code>", "Trang trọng — hợp đồng, email", "Provided you book early…"],
+            ["<code>even if</code>", "Điều kiện KHÔNG làm đổi kết quả", "Even if it rains, I'll walk."],
+            ["<code>whether … or not</code>", "Bất kể thế nào", "I'll go whether it rains or not."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng liên từ nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn muốn nói kiểu điều kiện nào?",
+          "nodes": [
+            { "if": "Chỉ một thứ duy nhất làm đổi kế hoạch", "then": "unless (không phủ định thêm)", "ex": "Unless it rains, I'll walk." },
+            { "if": "Chỉ cần đáp ứng một điều kiện tối thiểu", "then": "as long as / so long as", "ex": "As long as I'm free, I'll come." },
+            { "if": "Chuẩn bị sẵn để phòng hờ", "then": "in case", "ex": "Take an umbrella in case it rains." },
+            { "if": "Điều kiện trang trọng trong văn bản", "then": "provided (that)", "ex": "Provided you book early…" },
+            { "if": "Điều kiện xảy ra cũng không đổi gì", "then": "even if", "ex": "Even if it rains, I'll walk." },
+            { "if": "Hoàn toàn bất kể thế nào", "then": "whether … or not", "ex": "I'll go whether it rains or not." }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ chắc chắn của một lời hứa" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'll come if I'm free.", "vi": "Lỏng nhất — còn tùy" },
+            { "en": "I'll come as long as I'm free.", "vi": "Gần như chắc, trừ một điều kiện" },
+            { "en": "I'll come unless something comes up.", "vi": "Chắc, chừa một đường lui" },
+            { "en": "I'll come even if it rains.", "vi": "Rất chắc" },
+            { "en": "I'll come whether it rains or not.", "vi": "Chắc nhất — không gì đổi được" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Nhóm liên từ này xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 97, "why": "If + hiện tại, I'll + V — khung chính, có hẳn mục unless và cặp lỗi unless it doesn't rain." },
+            { "id": 87, "why": "I'm worried… — mẫu in case và just in case khi nói về phương án phòng hờ." },
+            { "id": 57, "why": "It depends on… — cách nêu điều kiện mềm, không cần cấu trúc đầy đủ." },
+            { "id": 60, "why": "Fair enough — cách chấp nhận một điều kiện người khác đưa ra." },
+            { "id": 91, "why": "I'm going to + V — vế kết quả của các câu điều kiện này." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền liên từ đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Trừ khi trời mưa, tôi sẽ đi bộ.", "blank": "__________ it rains, I'll walk.", "a": "Unless" },
+            { "vi": "Miễn là tôi rảnh thì tôi sẽ đến.", "blank": "I'll come __________ I'm free.", "a": "as long as" },
+            { "vi": "Mang ô phòng khi trời mưa.", "blank": "Take an umbrella __________ it rains.", "a": "in case" },
+            { "vi": "Với điều kiện đặt sớm thì khá rẻ.", "blank": "__________ you book early, it's quite cheap.", "a": "Provided / Providing" },
+            { "vi": "Dù trời có mưa tôi vẫn đi bộ.", "blank": "__________ it rains, I'll walk.", "a": "Even if" },
+            { "vi": "Mưa hay không tôi cũng đi.", "blank": "I'll go __________ it rains or not.", "a": "whether" },
+            { "vi": "Khi có hỏa hoạn, dùng cầu thang bộ.", "blank": "__________ fire, use the stairs.", "a": "In case of" },
+            { "vi": "Bất chấp thời tiết, bọn tôi vẫn đi.", "blank": "__________ the weather, we'll go.", "a": "Regardless of" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Trừ khi trời mưa, tôi sẽ đi bộ.", "blank": "Unless it __________, I'll walk.  (rains / doesn't rain)", "a": "rains — unless đã là phủ định" },
+            { "vi": "Trừ khi trời mưa, tôi sẽ đi bộ.", "blank": "Unless it __________, I'll walk.  (rains / will rain)", "a": "rains — không có will" },
+            { "vi": "Mang ô phòng khi trời mưa (mang sẵn đi).", "blank": "Take an umbrella __________ it rains.  (if / in case)", "a": "in case" },
+            { "vi": "Mặc dù trời mưa, tôi vẫn đi bộ (chuyện có thật).", "blank": "__________ it rained, I walked.  (Even if / Even though)", "a": "Even though" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Trừ khi trời mưa, tôi sẽ đi bộ.", "a": "Unless it rains, I'll walk." },
+            { "vi": "2. Mang ô phòng khi trời mưa.", "a": "Take an umbrella in case it rains." },
+            { "vi": "3. Trừ khi có việc gấp, tôi sẽ có mặt.", "a": "Unless something urgent comes up, I'll be there." },
+            { "vi": "4. Miễn là bạn cẩn thận thì không sao.", "a": "As long as you're careful, it's fine." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Thay thử bằng <i>if … not</i>:</b> nếu câu vẫn đúng nghĩa thì <i>unless</i> dùng được, và nhớ đừng phủ định thêm lần nữa.",
+            "<b><i>in case</i> là chuẩn bị TRƯỚC</b>, <i>if</i> là phản ứng SAU. <i>Take an umbrella in case it rains</i> = mang sẵn đi.",
+            "<b>Có chữ <i>of</i> thì theo sau là danh từ:</b> <i>in case <b>of</b> fire</i>, <i>regardless <b>of</b> the weather</i>.",
+            "<b>Cả bốn liên từ đều theo luật của <i>if</i>:</b> dùng hiện tại đơn, không bao giờ có <i>will</i>.",
+            "<b><i>even if</i> là giả định, <i>even though</i> là chuyện có thật.</b> Một chữ khác nhau, hai tình huống khác hẳn.",
+            "<b>Bài tập 3 phút:</b> viết năm câu về kế hoạch cuối tuần — mỗi câu một liên từ: <i>unless, as long as, in case, even if, whether</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

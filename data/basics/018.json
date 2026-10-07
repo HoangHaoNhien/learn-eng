@@ -1,0 +1,134 @@
+{
+  "id": 18,
+  "title": "can — làm được hay không làm được",
+  "teaches": ["can", "can't", "cannot", "swim", "drive", "cook", "sing", "do", "does", "is", "are", "English", "Vietnamese", "a", "bit", "bill", "slowly", "something"],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn nói được <b>mình làm được gì</b> và <b>không làm được gì</b>: <i>I can swim</i> · <i>I can't drive</i> — và xin phép, nhờ vả bằng <i>Can I…?</i> · <i>Can you…?</i>" },
+        { "t": "callout", "html": "<b>Tin vui lớn: <code>can</code> KHÔNG BAO GIỜ đổi hình.</b><br><br>Không có <i>cans</i>, không có <i>doesn't can</i>, không có <i>Does he can</i>.<br><br><i>I can</i> · <i>You can</i> · <i>He can</i> · <i>She can</i> · <i>We can</i> · <i>They can</i><br><br>Sau ba bài vật lộn với chữ <b>-s</b>, đây là bài nghỉ ngơi." }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "Bài 14, 15, 16 — động từ thường. Bài này cho thấy <code>can</code> <b>không theo</b> mấy luật đó: nó tự phủ định và tự hỏi được, không cần mượn <i>do</i>." },
+        { "t": "p", "html": "Thực ra <code>can</code> hoạt động giống <code>to be</code> ở bài 08–09 hơn: thêm <b>not</b> để phủ định, đảo chỗ để hỏi." },
+        { "t": "link", "items": [
+          { "id": 16, "label": "Bài 16 — hỏi với động từ thường" },
+          { "id": 9, "label": "Bài 09 — hỏi với to be" }
+        ] }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "table", "head": ["Luật", "Nghĩa là gì", "Ví dụ"], "rows": [
+          ["<b>1.</b> <code>can</code> + động từ <b>nguyên dạng</b>", "Không bao giờ thêm -s, -ing hay gì cả", "<i>She can swim.</i>"],
+          ["<b>2.</b> Phủ định: thêm <b>not</b> → <b>can't</b>", "Giống <code>to be</code>, không mượn <i>do</i>", "<i>I can't drive.</i>"],
+          ["<b>3.</b> Câu hỏi: đảo <code>can</code> lên đầu", "Cũng giống <code>to be</code>", "<i>Can you swim?</i>"]
+        ] },
+        { "t": "h3", "text": "Bảng đầy đủ — ba dạng" },
+        { "t": "table", "head": ["Dạng", "Công thức", "Ví dụ"], "rows": [
+          ["Khẳng định", "S + <b>can</b> + động từ", "<i>I can cook.</i>"],
+          ["Phủ định", "S + <b>can't</b> + động từ", "<i>I can't cook.</i>"],
+          ["Câu hỏi", "<b>Can</b> + S + động từ?", "<i>Can you cook?</i>"],
+          ["Đáp CÓ", "Yes, S + <b>can</b>.", "<i>Yes, I can.</i>"],
+          ["Đáp KHÔNG", "No, S + <b>can't</b>.", "<i>No, I can't.</i>"]
+        ] },
+        { "t": "h3", "text": "can dùng cho ba việc" },
+        { "t": "table", "head": ["Dùng để", "Ví dụ", "Nghĩa"], "rows": [
+          ["Nói <b>khả năng</b>", "<i>I can swim.</i>", "Tôi biết bơi."],
+          ["<b>Xin phép</b>", "<i>Can I sit here?</i>", "Tôi ngồi đây được không?"],
+          ["<b>Nhờ vả</b>", "<i>Can you help me?</i>", "Bạn giúp tôi được không?"]
+        ] },
+        { "t": "callout", "html": "<b>Cách đọc — chỗ người Việt hay sai:</b><br>• <b>can</b> trong câu thường đọc rất <b>nhẹ</b>: <code>/kən/</code><br>• <b>can't</b> đọc <b>rõ và dài</b>: <code>/kɑːnt/</code><br><br>Nghĩa là trong câu nói nhanh, <b>cách phân biệt “làm được” và “không làm được” nằm ở chỗ âm nặng hay nhẹ</b>, chứ không phải ở chữ <b>t</b> cuối. Đọc <i>can</i> quá rõ thì người nghe tưởng bạn nói <i>can't</i>." }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "Nói khả năng" },
+        { "t": "ex", "items": [
+          { "en": "I can swim.", "vi": "Tôi biết bơi.", "note": "Động từ nguyên dạng sau <b>can</b>." },
+          { "en": "She can cook very well.", "vi": "Cô ấy nấu ăn rất giỏi.", "note": "<b>She</b> nhưng <b>can</b> không thêm <b>-s</b>." },
+          { "en": "He can drive.", "vi": "Anh ấy biết lái xe.", "note": "Cùng luật." },
+          { "en": "My sister can sing.", "vi": "Chị tôi biết hát.", "note": "Danh từ số ít cũng vậy." },
+          { "en": "They can speak English.", "vi": "Họ nói được tiếng Anh.", "note": "Số nhiều cũng <b>can</b>." },
+          { "en": "I can speak a bit of English.", "vi": "Tôi nói được chút tiếng Anh.", "note": "Câu khiêm tốn rất hay dùng." }
+        ] },
+        { "t": "h3", "text": "Nói không làm được" },
+        { "t": "ex", "items": [
+          { "en": "I can't drive.", "vi": "Tôi không biết lái xe.", "note": "<b>can't</b> + động từ nguyên dạng." },
+          { "en": "She can't come today.", "vi": "Hôm nay cô ấy không đến được.", "note": "Không mượn <i>doesn't</i>." },
+          { "en": "I can't hear you.", "vi": "Tôi không nghe thấy bạn.", "note": "Câu hay dùng khi gọi điện." },
+          { "en": "I can't understand.", "vi": "Tôi không hiểu được.", "note": "Mạnh hơn <i>I don't understand</i> một chút." },
+          { "en": "He can't swim.", "vi": "Anh ấy không biết bơi.", "note": "<b>can't</b> dùng cho mọi chủ ngữ." },
+          { "en": "We can't go on Sunday.", "vi": "Chủ nhật chúng tôi không đi được.", "note": "Nói về việc không thể." }
+        ] },
+        { "t": "h3", "text": "Xin phép — Can I…?" },
+        { "t": "ex", "items": [
+          { "en": "Can I sit here?", "vi": "Tôi ngồi đây được không?", "note": "Lịch sự, dùng mọi nơi." },
+          { "en": "Can I use your pen?", "vi": "Tôi mượn bút của bạn được không?", "note": "Mượn đồ." },
+          { "en": "Can I ask you something?", "vi": "Tôi hỏi bạn một chút được không?", "note": "Mở đầu trước khi hỏi." },
+          { "en": "Can I have the bill, please?", "vi": "Cho tôi xin hoá đơn ạ?", "note": "Trong nhà hàng. Thêm <i>please</i> cho lịch sự." }
+        ] },
+        { "t": "h3", "text": "Nhờ vả — Can you…?" },
+        { "t": "ex", "items": [
+          { "en": "Can you help me?", "vi": "Bạn giúp tôi được không?", "note": "Câu nhờ vả cơ bản nhất." },
+          { "en": "Can you speak slowly, please?", "vi": "Bạn nói chậm lại được không?", "note": "Câu cứu cánh khi nghe không kịp." },
+          { "en": "Can you repeat that?", "vi": "Bạn nhắc lại được không?", "note": "Nghe không rõ thì hỏi lại." },
+          { "en": "Can you open the window?", "vi": "Bạn mở cửa sổ giúp được không?", "note": "Nhờ việc nhỏ." }
+        ] },
+        { "t": "h3", "text": "Hỏi và đáp" },
+        { "t": "ex", "items": [
+          { "en": "Can you swim? — Yes, I can.", "vi": "Bạn biết bơi không? — Có.", "note": "Đáp bằng <b>can</b>, không nhắc lại động từ." },
+          { "en": "Can you drive? — No, I can't.", "vi": "Bạn biết lái xe không? — Không.", "note": "Đáp ngắn." },
+          { "en": "Can she cook? — Yes, she can.", "vi": "Cô ấy biết nấu ăn không? — Có.", "note": "<b>she can</b>, không phải <i>she cans</i>." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — điền can hay can't" },
+        { "t": "quiz", "items": [
+          { "vi": "Tôi biết bơi.", "blank": "I ___ swim.", "a": "can" },
+          { "vi": "Tôi không biết lái xe.", "blank": "I ___ drive.", "a": "can't" },
+          { "vi": "Cô ấy nấu ăn giỏi.", "blank": "She ___ cook well.", "a": "can" },
+          { "vi": "Hôm nay anh ấy không đến được.", "blank": "He ___ come today.", "a": "can't" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — đặt câu" },
+        { "t": "quiz", "items": [
+          { "vi": "Bạn giúp tôi được không?", "a": "Can you help me?" },
+          { "vi": "Tôi ngồi đây được không?", "a": "Can I sit here?" },
+          { "vi": "Bạn nói chậm lại được không?", "a": "Can you speak slowly, please?" },
+          { "vi": "Cô ấy biết hát không?", "a": "Can she sing?" }
+        ] },
+        { "t": "h3", "text": "Phần 3 — hiểu quy tắc" },
+        { "t": "quiz", "items": [
+          { "vi": "Vì sao <i>She cans swim</i> sai?", "a": "<b>can</b> không bao giờ đổi hình — không có <i>cans</i>" },
+          { "vi": "Vì sao <i>Does he can swim?</i> sai?", "a": "<b>can</b> tự hỏi được, không mượn <i>do/does</i> — <i>Can he swim?</i>" },
+          { "vi": "Trong câu nói nhanh, phân biệt <i>can</i> và <i>can't</i> bằng gì?", "a": "Độ nặng của âm: <i>can</i> nhẹ <code>/kən/</code> · <i>can't</i> rõ và dài <code>/kɑːnt/</code>" },
+          { "vi": "Nói ba việc bạn làm được và hai việc bạn không làm được.", "a": "Không có đáp án sẵn — dùng <i>I can…</i> và <i>I can't…</i>" }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b><code>can</code> không bao giờ đổi hình.</b> Không có <i>cans</i>, không có <i>doesn't can</i>. Một hình dùng cho mọi chủ ngữ.",
+          "<b>Sau <code>can</code> luôn là động từ nguyên dạng.</b> <i>She can swim</i>, không phải <i>She can swims</i>.",
+          "<b><code>can</code> giống <code>to be</code> chứ không giống động từ thường:</b> tự thêm <b>not</b> để phủ định, tự đảo chỗ để hỏi."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "<i>She cans swim.</i>", "right": "<i>She can swim.</i>", "why": "Người học vừa thuộc luật thêm <b>-s</b> cho <i>he/she/it</i> ở bài 14 nên áp luôn cho <b>can</b>. Nhưng <b>can</b> thuộc nhóm động từ đặc biệt — chúng không bao giờ đổi hình." },
+          { "wrong": "<i>I can to swim.</i>", "right": "<i>I can swim.</i>", "why": "Sau <b>can</b> là động từ trần, không có <i>to</i>. Đây là lỗi hay gặp vì nhiều cấu trúc khác lại cần <i>to</i>." },
+          { "wrong": "<i>Do you can swim?</i>", "right": "<i>Can you swim?</i>", "why": "<b>can</b> tự làm được việc của <i>do</i> — nó tự đảo lên đầu để thành câu hỏi. Mượn thêm <i>do</i> là thừa, giống như nói <i>“Do you are a student?”</i>." }
+        ] }
+      ]
+    }
+  ]
+}

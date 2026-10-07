@@ -1,0 +1,120 @@
+{
+  "id": 8,
+  "title": "Nói KHÔNG với to be",
+  "teaches": ["not", "isn't", "aren't", "I'm", "he's", "she's", "it's", "you're", "we're", "they're", "am", "is", "are", "Vietnamese", "ready", "cold"],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn nói được câu <b>phủ định</b> — tức là câu có chữ “không” — với <code>to be</code>: <i>I am not…</i> · <i>He is not…</i> · <i>They are not…</i>" },
+        { "t": "callout", "html": "<b>Tin vui: đây là bài dễ nhất phần này.</b><br><br>Chỉ có <b>một luật duy nhất</b>: thêm chữ <code>not</code> vào ngay sau <i>am / is / are</i>. Không đổi gì khác, không thêm từ nào khác.<br><br><i>I am a student.</i> → <i>I am <b>not</b> a student.</i>" }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "Bài 07 — <code>to be</code>. Phải thuộc bảng ba dòng trước đã: <code>I</code> → <b>am</b> · <code>he/she/it</code> → <b>is</b> · <code>you/we/they</code> → <b>are</b>." },
+        { "t": "p", "html": "Nếu còn phải nghĩ mới nhớ ra dùng <i>am</i> hay <i>is</i>, hãy quay lại bài 07 — bài này chỉ thêm một chữ vào thứ bạn đã biết." },
+        { "t": "link", "items": [{ "id": 7, "label": "Bài 07 — động từ to be" }] }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "table", "head": ["Luật", "Nghĩa là gì", "Ví dụ"], "rows": [
+          ["<b>1.</b> Thêm <code>not</code> ngay <b>sau</b> am/is/are", "Chỉ vậy thôi, không đổi gì khác", "<i>I am <b>not</b> ready.</i>"],
+          ["<b>2.</b> Có <b>hai</b> cách rút gọn", "Chọn cách nào cũng được, trừ <i>am</i>", "<i>he's not</i> = <i>he isn't</i>"],
+          ["<b>3.</b> <code>am not</code> <b>không</b> có dạng <i>amn't</i>", "Chỉ rút được thành <i>I'm not</i>", "<i>I'm not</i> ✓ · <i>I amn't</i> ✗"]
+        ] },
+        { "t": "h3", "text": "Bảng phủ định đầy đủ" },
+        { "t": "table", "head": ["Đầy đủ", "Rút gọn kiểu 1", "Rút gọn kiểu 2"], "rows": [
+          ["<b>I am not</b>", "I'm not", "— (không có <i>amn't</i>)"],
+          ["<b>You are not</b>", "you're not", "you aren't"],
+          ["<b>He is not</b>", "he's not", "he isn't"],
+          ["<b>She is not</b>", "she's not", "she isn't"],
+          ["<b>It is not</b>", "it's not", "it isn't"],
+          ["<b>We are not</b>", "we're not", "we aren't"],
+          ["<b>They are not</b>", "they're not", "they aren't"]
+        ] },
+        { "t": "callout", "html": "<b>Khi nào dùng dạng nào?</b><br>• <b>Đầy đủ</b> (<i>I am not</i>) — khi viết trang trọng, hoặc khi muốn <b>nhấn mạnh</b>.<br>• <b>Rút gọn</b> (<i>I'm not</i>) — khi nói chuyện bình thường. Người bản xứ dùng dạng này gần như mọi lúc.<br><br>Mới học thì cứ dùng dạng rút gọn kiểu 1 cho tất cả: <i>I'm not</i> · <i>you're not</i> · <i>he's not</i>… Một kiểu cho cả bảng, đỡ phải nhớ." }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "Từ câu khẳng định sang câu phủ định" },
+        { "t": "ex", "items": [
+          { "en": "I am a student. → I am not a student.", "vi": "Tôi là sinh viên. → Tôi không phải sinh viên.", "note": "Chỉ thêm <b>not</b> vào sau <i>am</i>." },
+          { "en": "He is a doctor. → He is not a doctor.", "vi": "Anh ấy là bác sĩ. → Anh ấy không phải bác sĩ.", "note": "Thêm <b>not</b> sau <i>is</i>." },
+          { "en": "They are here. → They are not here.", "vi": "Họ ở đây. → Họ không ở đây.", "note": "Thêm <b>not</b> sau <i>are</i>." },
+          { "en": "She is happy. → She is not happy.", "vi": "Cô ấy vui. → Cô ấy không vui.", "note": "Trước tính từ cũng vậy." },
+          { "en": "We are busy. → We are not busy.", "vi": "Chúng tôi bận. → Chúng tôi không bận.", "note": "Không có luật riêng nào cả." }
+        ] },
+        { "t": "h3", "text": "Dạng rút gọn — cách nói hằng ngày" },
+        { "t": "ex", "items": [
+          { "en": "I'm not hungry.", "vi": "Tôi không đói.", "note": "<b>I'm not</b> — nhớ không có <i>amn't</i>." },
+          { "en": "He's not at home.", "vi": "Anh ấy không ở nhà.", "note": "Rút gọn kiểu 1." },
+          { "en": "He isn't at home.", "vi": "Anh ấy không ở nhà.", "note": "Rút gọn kiểu 2 — nghĩa y hệt." },
+          { "en": "She's not a teacher.", "vi": "Cô ấy không phải giáo viên.", "note": "Dùng được trong mọi câu nói thường." },
+          { "en": "It's not cold today.", "vi": "Hôm nay trời không lạnh.", "note": "Nói về thời tiết, chủ ngữ là <b>It</b>." },
+          { "en": "We aren't ready.", "vi": "Chúng tôi chưa sẵn sàng.", "note": "Rút gọn kiểu 2 với <i>are</i>." },
+          { "en": "They're not my friends.", "vi": "Họ không phải bạn tôi.", "note": "Rút gọn kiểu 1 với <i>are</i>." }
+        ] },
+        { "t": "h3", "text": "Câu dùng hằng ngày" },
+        { "t": "ex", "items": [
+          { "en": "I'm not Vietnamese.", "vi": "Tôi không phải người Việt.", "note": "Nói về quốc tịch." },
+          { "en": "I'm not busy now.", "vi": "Bây giờ tôi không bận.", "note": "Câu hay dùng khi ai đó rủ đi đâu." },
+          { "en": "She's not here today.", "vi": "Hôm nay cô ấy không có ở đây.", "note": "Câu hay dùng ở chỗ làm." },
+          { "en": "It's not far.", "vi": "Không xa đâu.", "note": "Câu trả lời khi ai hỏi đường." },
+          { "en": "This is not my bag.", "vi": "Đây không phải túi của tôi.", "note": "Chủ ngữ là <b>This</b>, dùng <i>is</i>." },
+          { "en": "My parents are not at work.", "vi": "Bố mẹ tôi không ở chỗ làm.", "note": "Danh từ số nhiều nên dùng <i>are not</i>." },
+          { "en": "The shop is not open.", "vi": "Cửa hàng không mở cửa.", "note": "Danh từ số ít nên dùng <i>is not</i>." },
+          { "en": "I'm not a doctor, I'm a nurse.", "vi": "Tôi không phải bác sĩ, tôi là y tá.", "note": "Nói không rồi nói đúng — kiểu câu rất hay dùng." },
+          { "en": "He's not old. He's young.", "vi": "Anh ấy không già. Anh ấy còn trẻ.", "note": "Hai câu ngắn, dễ nói hơn một câu dài." },
+          { "en": "We're not tired.", "vi": "Chúng tôi không mệt.", "note": "Rút gọn cả chủ ngữ lẫn động từ." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — thêm not vào đúng chỗ" },
+        { "t": "quiz", "items": [
+          { "vi": "Tôi không phải sinh viên.", "blank": "I am ___ a student.", "a": "not" },
+          { "vi": "Anh ấy không ở nhà.", "blank": "He is ___ at home.", "a": "not" },
+          { "vi": "Họ không bận.", "blank": "They are ___ busy.", "a": "not" },
+          { "vi": "Hôm nay trời không lạnh.", "blank": "It is ___ cold today.", "a": "not" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — rút gọn" },
+        { "t": "quiz", "items": [
+          { "vi": "<i>I am not</i> rút gọn thành gì?", "a": "I'm not — KHÔNG có dạng <i>amn't</i>" },
+          { "vi": "<i>He is not</i> rút gọn được mấy kiểu?", "a": "Hai: <i>he's not</i> và <i>he isn't</i>" },
+          { "vi": "<i>They are not</i> rút gọn thành gì?", "a": "they're not · hoặc they aren't" },
+          { "vi": "Vì sao <i>I amn't</i> sai?", "a": "Tiếng Anh không có dạng đó — chỉ rút được thành <i>I'm not</i>" }
+        ] },
+        { "t": "h3", "text": "Phần 3 — dịch sang tiếng Anh" },
+        { "t": "quiz", "items": [
+          { "vi": "Tôi không đói.", "a": "I'm not hungry." },
+          { "vi": "Cô ấy không phải giáo viên.", "a": "She's not a teacher. (hoặc She isn't a teacher.)" },
+          { "vi": "Bố mẹ tôi không ở chỗ làm.", "a": "My parents are not at work." },
+          { "vi": "Không xa đâu.", "a": "It's not far." }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>Một luật duy nhất: thêm <code>not</code> ngay sau am/is/are.</b> Không đổi gì khác trong câu.",
+          "<b>Không có <i>amn't</i>.</b> <i>I am not</i> chỉ rút gọn được thành <i>I'm not</i>. Đây là ngoại lệ duy nhất của bài.",
+          "<b>Mới học thì dùng một kiểu rút gọn cho cả bảng:</b> <i>I'm not · you're not · he's not · we're not · they're not</i>. Đỡ phải nhớ hai cách."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "<i>I not hungry.</i>", "right": "<i>I'm not hungry.</i>", "why": "Tiếng Việt nói <i>“Tôi không đói”</i> chỉ cần chữ <i>không</i>, không cần động từ. Tiếng Anh vẫn phải giữ <b>am</b> — chữ <b>not</b> chỉ thêm vào chứ không thay thế nó." },
+          { "wrong": "<i>I amn't a student.</i>", "right": "<i>I'm not a student.</i>", "why": "Mọi dạng khác đều rút gọn được theo hai kiểu, riêng <i>am not</i> thì không. Đây là chỗ người học suy luận theo quy luật rồi sai — tiếng Anh đơn giản là không có từ đó." },
+          { "wrong": "<i>He not is at home.</i>", "right": "<i>He is not at home.</i>", "why": "<b>not</b> phải đứng <b>sau</b> am/is/are, không đứng trước. Thứ tự này cố định." }
+        ] }
+      ]
+    }
+  ]
+}

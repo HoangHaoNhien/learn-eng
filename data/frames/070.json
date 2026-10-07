@@ -1,0 +1,499 @@
+{
+  "id": 70,
+  "group": "Nhóm 7 · Hỏi thông tin",
+  "title": "What's … like? — Hỏi mô tả, không phải hỏi sở thích",
+  "subtitle": "Khung câu đóng Nhóm 7, và cũng là một trong những cái bẫy tinh vi nhất của tiếng Anh với người Việt. Ba câu hỏi gần như giống hệt nhau — What's he like? / What does he look like? / What does he like? — lại hỏi ba điều hoàn toàn khác nhau.",
+  "pattern": [
+    "What's <em>+ N</em> like?",
+    "What does <em>+ N</em> look like?",
+    "What was <em>+ N</em> like?"
+  ],
+  "meaning": "… thì thế nào? / … ra sao?",
+  "grammar": [45, 51, 58, 60],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Bẫy tinh vi nhất nhóm" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">What's … like?</span> xin một <b>lời mô tả chung</b>. Chữ <i>like</i> ở đây <b>không phải động từ “thích”</b> — nó là giới từ, nghĩa là “giống như”. Câu hỏi thực chất là: “nó giống cái gì?”" },
+        { "t": "p", "html": "Hiểu nhầm chữ <i>like</i> chính là nguồn gốc của mọi rắc rối. Người Việt nghe thấy <i>like</i> liền nghĩ đến “thích”, nên <i>What's he like?</i> bị hiểu thành “anh ấy thích gì” — trong khi nó hỏi về <b>tính cách</b>." },
+        { "t": "p", "html": "Đây là câu hỏi mở rất hữu dụng: khi bạn chưa biết gì về một nơi, một người, một công việc, nó mời người kia mô tả tự do thay vì trả lời có-không." },
+        { "t": "callout", "html": "<b>BA CÂU HỎI DỄ NHẦM NHẤT:</b> <span class=\"k\">What's he like?</span> = tính cách. <span class=\"k\">What does he look like?</span> = ngoại hình. <span class=\"k\">What does he like?</span> = sở thích. Chỉ khác vài chữ, ba nghĩa khác hẳn." },
+        { "t": "h3", "text": "Bảng phân biệt — học thuộc bảng này" },
+        {
+          "t": "table",
+          "head": ["Câu hỏi", "Hỏi về", "Ví dụ trả lời"],
+          "rows": [
+            ["<code>What's he like?</code>", "Tính cách, con người", "He's very friendly."],
+            ["<code>What does he look like?</code>", "Ngoại hình", "He's tall with glasses."],
+            ["<code>What does he like?</code>", "Sở thích", "He likes football."],
+            ["<code>How is he?</code>", "Sức khỏe, tình trạng lúc này", "He's much better, thanks."]
+          ]
+        },
+        { "t": "callout", "html": "<b>“What's it like?” và “How is it?” khác nhau:</b> <i>What's the hotel like?</i> xin mô tả chung (sạch không, đẹp không). Còn <i>How's the hotel?</i> hỏi tình trạng lúc này, thường khi bạn đang ở đó." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🏨", "title": "Hỏi về một nơi chưa biết", "text": "Bối cảnh số 1. <i>What's the hotel like?</i>" },
+            { "icon": "👤", "title": "Hỏi về tính cách một người", "text": "<i>What's your new boss like?</i> Không phải hỏi sở thích." },
+            { "icon": "☁️", "title": "Hỏi thời tiết", "text": "<i>What's the weather like?</i> Cụm cố định, rất phổ biến." },
+            { "icon": "💼", "title": "Hỏi về một công việc", "text": "<i>What's the job like?</i>" },
+            { "icon": "🕰", "title": "Hỏi về trải nghiệm đã qua", "text": "<i>What was it like?</i> Dùng thì quá khứ." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn hỏi sức khỏe ai đó. Ở đó dùng <i>How is he?</i>" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Hiện tại", "<code>What's + N + like?</code>", "What's the hotel like?"],
+            ["Quá khứ", "<code>What was + N + like?</code>", "What was the trip like?"],
+            ["Số nhiều", "<code>What are + N + like?</code>", "What are the neighbours like?"],
+            ["Ngoại hình", "<code>What does + N + look like?</code>", "What does he look like?"],
+            ["Sở thích", "<code>What does + N + like?</code>", "What does he like?"],
+            ["Tình trạng", "<code>How is + N?</code>", "How's your mum?"],
+            ["Hỏi ý kiến", "<code>How do you like + N?</code>", "How do you like the new office?"],
+            ["Thời tiết", "<code>What's the weather like?</code>", "What's the weather like there?"],
+            ["Gián tiếp", "<code>Could you tell me what … is like?</code>", "Could you tell me what it's like?"],
+            ["Hỏi cảm giác", "<code>What's it like to + V?</code>", "What's it like to live abroad?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>“What's it like to…?” hỏi cảm giác trải nghiệm.</b> <i>What's it like to live abroad?</i> = sống ở nước ngoài thì cảm giác thế nào. Đây là cách mở đầu một cuộc trò chuyện sâu rất hay." },
+        { "t": "callout", "html": "<b>Đừng bao giờ bỏ chữ “like” ở cuối.</b> <i>What's the hotel?</i> ✗ không có nghĩa. Chữ <i>like</i> là phần bắt buộc của cấu trúc này." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Những thứ hay được hỏi",
+              "items": [
+                { "w": "the hotel", "vi": "khách sạn", "ex": "What's the hotel like?", "exvi": "Khách sạn thế nào?", "note": "Xin mô tả chung, không phải tình trạng lúc này." },
+                { "w": "the weather", "vi": "thời tiết", "ex": "What's the weather like there?", "exvi": "Thời tiết bên đó thế nào?", "note": "Cụm cố định. <i>How is the weather like?</i> ✗ là lỗi trộn hai cấu trúc." },
+                { "w": "your new boss", "vi": "sếp mới của bạn", "ex": "What's your new boss like?", "exvi": "Sếp mới của bạn thế nào?", "note": "Hỏi TÍNH CÁCH, không phải sở thích." },
+                { "w": "the food", "vi": "đồ ăn", "ex": "What's the food like there?", "exvi": "Đồ ăn ở đó thế nào?" },
+                { "w": "the job", "vi": "công việc", "ex": "What's the job like?", "exvi": "Công việc đó thế nào?" },
+                { "w": "the flat", "vi": "căn hộ", "ex": "What's the flat like?", "exvi": "Căn hộ thế nào?", "note": "Anh-Anh là <i>flat</i>, Anh-Mỹ là <i>apartment</i>." },
+                { "w": "the neighbours", "vi": "hàng xóm", "ex": "What are the neighbours like?", "exvi": "Hàng xóm thế nào?", "note": "Số nhiều thì dùng <b>are</b>." },
+                { "w": "the course", "vi": "khóa học", "ex": "What's the course like?", "exvi": "Khóa học thế nào?" },
+                { "w": "the traffic", "vi": "giao thông", "ex": "What's the traffic like at this hour?", "exvi": "Giờ này giao thông thế nào?" },
+                { "w": "the service", "vi": "dịch vụ", "ex": "What's the service like?", "exvi": "Dịch vụ ở đó thế nào?" },
+                { "w": "the trip", "vi": "chuyến đi", "ex": "What was the trip like?", "exvi": "Chuyến đi thế nào?", "note": "Chuyện đã qua thì dùng <b>was</b>." },
+                { "w": "the interview", "vi": "buổi phỏng vấn", "ex": "What was the interview like?", "exvi": "Buổi phỏng vấn thế nào?" }
+              ]
+            },
+            {
+              "title": "Ba dạng dễ nhầm & biến thể",
+              "items": [
+                { "w": "What's he like?", "vi": "anh ấy là người thế nào?", "ex": "What's your manager like?", "exvi": "Quản lý của bạn là người thế nào?", "note": "TÍNH CÁCH. Trả lời: <i>He's friendly / strict / easy-going</i>." },
+                { "w": "What does he look like?", "vi": "anh ấy trông thế nào?", "ex": "What does he look like?", "exvi": "Anh ấy trông thế nào?", "note": "NGOẠI HÌNH. Trả lời: <i>He's tall with glasses</i>." },
+                { "w": "What does he like?", "vi": "anh ấy thích gì?", "ex": "What does he like?", "exvi": "Anh ấy thích gì?", "note": "SỞ THÍCH. Ở đây <i>like</i> là ĐỘNG TỪ, không phải giới từ." },
+                { "w": "How is he?", "vi": "anh ấy dạo này sao?", "ex": "How's your dad?", "exvi": "Bố bạn dạo này thế nào?", "note": "SỨC KHỎE, tình trạng lúc này — không phải mô tả chung." },
+                { "w": "How do you like…?", "vi": "bạn thấy… thế nào?", "ex": "How do you like the new office?", "exvi": "Bạn thấy văn phòng mới thế nào?", "note": "Hỏi Ý KIẾN của người nghe, khác với xin mô tả khách quan." },
+                { "w": "What's it like to…?", "vi": "… thì cảm giác thế nào?", "ex": "What's it like to live abroad?", "exvi": "Sống ở nước ngoài cảm giác thế nào?", "note": "Hỏi trải nghiệm — cách mở đầu trò chuyện sâu rất hay." },
+                { "w": "What are they like?", "vi": "họ là những người thế nào?", "ex": "What are your colleagues like?", "exvi": "Đồng nghiệp của bạn thế nào?" },
+                { "w": "What was it like?", "vi": "hồi đó thế nào?", "ex": "What was it like growing up there?", "exvi": "Lớn lên ở đó thì thế nào?" },
+                { "w": "Like what?", "vi": "như thế nào cơ?", "ex": "“It was odd.” — “Like what?”", "exvi": "“Lạ lắm.” — “Lạ thế nào cơ?”", "note": "Hỏi lại để người ta nói cụ thể hơn." },
+                { "w": "Nothing like", "vi": "chẳng giống gì", "ex": "It's nothing like I expected.", "exvi": "Chẳng giống gì so với mình tưởng." },
+                { "w": "a bit like", "vi": "hơi giống", "ex": "It's a bit like Hanoi, actually.", "exvi": "Thật ra hơi giống Hà Nội." },
+                { "w": "just like", "vi": "y như", "ex": "It's just like home.", "exvi": "Y như ở nhà." }
+              ]
+            },
+            {
+              "title": "Từ để mô tả khi trả lời",
+              "items": [
+                { "w": "friendly", "vi": "thân thiện", "ex": "She's really friendly.", "exvi": "Cô ấy rất thân thiện." },
+                { "w": "easy-going", "vi": "dễ tính", "ex": "He's very easy-going.", "exvi": "Anh ấy rất dễ tính.", "note": "Từ khen tính cách phổ biến nhất trong tiếng Anh." },
+                { "w": "strict", "vi": "nghiêm khắc", "ex": "She's a bit strict.", "exvi": "Cô ấy hơi nghiêm khắc." },
+                { "w": "down to earth", "vi": "giản dị, thực tế", "ex": "He's very down to earth.", "exvi": "Anh ấy rất giản dị.", "note": "Thành ngữ khen — không kiêu căng, dễ gần." },
+                { "w": "basic but clean", "vi": "đơn sơ nhưng sạch", "ex": "Basic but clean.", "exvi": "Đơn sơ nhưng sạch sẽ.", "note": "Cách mô tả khách sạn bình dân rất tự nhiên." },
+                { "w": "nothing special", "vi": "cũng bình thường", "ex": "Nothing special, to be honest.", "exvi": "Thật lòng thì cũng bình thường." },
+                { "w": "better than expected", "vi": "tốt hơn mong đợi", "ex": "Better than expected, actually.", "exvi": "Thật ra tốt hơn mong đợi." },
+                { "w": "hit and miss", "vi": "lúc được lúc không", "ex": "The service is hit and miss.", "exvi": "Dịch vụ lúc được lúc không.", "note": "Thành ngữ — không ổn định, khi tốt khi tệ." },
+                { "w": "pretty full-on", "vi": "khá căng, khá nhiều việc", "ex": "The job's pretty full-on.", "exvi": "Công việc khá căng.", "note": "Rất Anh-Anh — nhiều áp lực, dồn dập." },
+                { "w": "lovely", "vi": "dễ chịu, đáng yêu", "ex": "The people are lovely.", "exvi": "Người ở đó dễ thương lắm.", "note": "Từ khen chung chung nhưng ấm áp — rất Anh." },
+                { "w": "a bit grim", "vi": "hơi ảm đạm", "ex": "The weather's a bit grim.", "exvi": "Thời tiết hơi ảm đạm.", "note": "Rất Anh-Anh, hay dùng khi nói về thời tiết xấu." },
+                { "w": "mixed", "vi": "nửa nọ nửa kia", "ex": "Mixed, I'd say.", "exvi": "Mình thì nói là nửa nọ nửa kia." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "What's the hotel like?",
+                  "vi": "Khách sạn thế nào?",
+                  "note": "Xin mô tả chung. Khác với <i>How's the hotel?</i> vốn hỏi tình trạng lúc này.",
+                  "open": { "en": "You stayed there last year, didn't you?", "vi": "Năm ngoái bạn ở đó phải không?" },
+                  "reply": [
+                    { "them": "Basic but clean.", "themvi": "Đơn sơ nhưng sạch sẽ.", "you": "That's all I need, really.", "youvi": "Thật ra mình cần có vậy thôi." },
+                    { "them": "Better than expected, actually.", "themvi": "Thật ra tốt hơn mong đợi.", "you": "Would you stay again?", "youvi": "Bạn có ở lại lần nữa không?" }
+                  ],
+                  "close": { "en": "I'll book it then.", "vi": "Vậy mình đặt nhé." }
+                },
+                {
+                  "en": "What's the weather like there?",
+                  "vi": "Thời tiết bên đó thế nào?",
+                  "note": "Cụm cố định. KHÔNG nói <i>How is the weather like?</i> ✗ — đó là trộn hai cấu trúc.",
+                  "reply": [
+                    { "them": "A bit grim, to be honest.", "themvi": "Thật lòng thì hơi ảm đạm.", "you": "I'll pack a coat then.", "youvi": "Vậy mình mang áo khoác." }
+                  ],
+                  "vars": [
+                    { "en": "What was the weather like?", "vi": "Thời tiết hồi đó thế nào?" }
+                  ]
+                },
+                {
+                  "en": "What was the trip like?",
+                  "vi": "Chuyến đi thế nào?",
+                  "note": "Chuyện đã qua thì dùng <b>was</b>. Đây là câu mở đầu hay nhất khi ai đó vừa đi về.",
+                  "reply": [
+                    { "them": "Mixed, I'd say. The food was amazing.", "themvi": "Mình thì nói là nửa nọ nửa kia. Đồ ăn tuyệt vời.", "you": "And the rest?", "youvi": "Còn lại thì sao?" }
+                  ]
+                },
+                {
+                  "en": "What's it like to travel alone?",
+                  "vi": "Đi du lịch một mình cảm giác thế nào?",
+                  "note": "<b>What's it like to + V</b> hỏi CẢM GIÁC trải nghiệm — cách mở đầu trò chuyện sâu rất hay.",
+                  "reply": [
+                    { "them": "Lonely at first, then liberating.", "themvi": "Lúc đầu cô đơn, sau thấy tự do.", "you": "I might try it one day.", "youvi": "Có ngày mình cũng thử." }
+                  ],
+                  "close": { "en": "Thanks for the honest answer.", "vi": "Cảm ơn câu trả lời thật lòng." }
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "What's your new boss like?",
+                  "vi": "Sếp mới của bạn là người thế nào?",
+                  "note": "Hỏi TÍNH CÁCH. Nếu hỏi sở thích thì là <i>What does she like?</i> — câu hoàn toàn khác.",
+                  "reply": [
+                    { "them": "Very easy-going, actually.", "themvi": "Thật ra rất dễ tính.", "you": "That's a relief.", "youvi": "Vậy thì nhẹ cả người." },
+                    { "them": "A bit strict, but fair.", "themvi": "Hơi nghiêm, nhưng công bằng.", "you": "I can work with that.", "youvi": "Vậy thì mình làm được." }
+                  ],
+                  "close": { "en": "Good luck with the first week.", "vi": "Chúc tuần đầu suôn sẻ." }
+                },
+                {
+                  "en": "What's the job like?",
+                  "vi": "Công việc đó thế nào?",
+                  "reply": [
+                    { "them": "Pretty full-on, but I enjoy it.", "themvi": "Khá căng, nhưng mình thích.", "you": "What's the team like?", "youvi": "Còn đội nhóm thế nào?" }
+                  ],
+                  "vars": [
+                    { "en": "What are the hours like?", "vi": "Giờ giấc thế nào?" }
+                  ]
+                },
+                {
+                  "en": "What was the interview like?",
+                  "vi": "Buổi phỏng vấn thế nào?",
+                  "reply": [
+                    { "them": "Tougher than I expected.", "themvi": "Khó hơn mình tưởng.", "you": "Like what?", "youvi": "Khó thế nào cơ?" }
+                  ]
+                },
+                {
+                  "en": "What are your colleagues like?",
+                  "vi": "Đồng nghiệp của bạn thế nào?",
+                  "note": "Số nhiều thì dùng <b>are</b>: <i>What <b>are</b> they like?</i>",
+                  "reply": [
+                    { "them": "Lovely, mostly. One or two are hard work.", "themvi": "Phần lớn dễ thương. Một hai người thì hơi mệt.", "you": "There's always one.", "youvi": "Chỗ nào chẳng có." }
+                  ],
+                  "close": { "en": "Glad it's working out.", "vi": "Mừng là ổn thỏa." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "What's the food like there?",
+                  "vi": "Đồ ăn ở đó thế nào?",
+                  "reply": [
+                    { "them": "Hit and miss, honestly.", "themvi": "Thật lòng thì lúc được lúc không.", "you": "What should I avoid?", "youvi": "Mình nên tránh món gì?" }
+                  ]
+                },
+                {
+                  "en": "What's this dish like?",
+                  "vi": "Món này thế nào ạ?",
+                  "note": "Hỏi nhân viên mô tả món ăn — hiệu quả hơn nhiều so với đoán qua tên món.",
+                  "reply": [
+                    { "them": "Rich and quite filling.", "themvi": "Đậm đà và khá no ạ.", "you": "Is it spicy at all?", "youvi": "Có cay không ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "What does it taste like?", "vi": "Nó có vị thế nào ạ?" }
+                  ]
+                },
+                {
+                  "en": "What's the service like?",
+                  "vi": "Dịch vụ ở đó thế nào?",
+                  "reply": [
+                    { "them": "Slow but friendly.", "themvi": "Chậm nhưng thân thiện.", "you": "We're not in a rush.", "youvi": "Bọn mình không vội." }
+                  ]
+                },
+                {
+                  "en": "What was the new place like?",
+                  "vi": "Quán mới thế nào?",
+                  "reply": [
+                    { "them": "Nothing special, to be honest.", "themvi": "Thật lòng thì cũng bình thường.", "you": "Shame — it looked good online.", "youvi": "Tiếc — trên mạng trông ngon mà." }
+                  ],
+                  "close": { "en": "We'll try somewhere else next time.", "vi": "Lần sau thử chỗ khác." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "What's your new flat like?",
+                  "vi": "Căn hộ mới của bạn thế nào?",
+                  "note": "Anh-Anh là <i>flat</i>, Anh-Mỹ là <i>apartment</i> — cả hai đều đúng tùy nơi.",
+                  "reply": [
+                    { "them": "Small but bright.", "themvi": "Nhỏ nhưng sáng sủa.", "you": "What are the neighbours like?", "youvi": "Hàng xóm thế nào?" }
+                  ]
+                },
+                {
+                  "en": "What's he like as a person?",
+                  "vi": "Anh ấy là người thế nào?",
+                  "note": "Thêm <i>as a person</i> để nói rõ bạn hỏi về tính cách, tránh mọi hiểu nhầm.",
+                  "reply": [
+                    { "them": "Very down to earth.", "themvi": "Rất giản dị.", "you": "That's good to hear.", "youvi": "Nghe vậy tốt quá." }
+                  ],
+                  "vars": [
+                    { "en": "What's she like to work with?", "vi": "Làm việc với cô ấy thì thế nào?" }
+                  ]
+                },
+                {
+                  "en": "What does he look like?",
+                  "vi": "Anh ấy trông thế nào?",
+                  "note": "BẪY: câu này hỏi NGOẠI HÌNH. <i>What's he like?</i> mới là tính cách.",
+                  "reply": [
+                    { "them": "Tall, glasses, always in a blue jacket.", "themvi": "Cao, đeo kính, lúc nào cũng mặc áo khoác xanh.", "you": "I'll spot him then.", "youvi": "Vậy mình nhận ra được." }
+                  ]
+                },
+                {
+                  "en": "What's it like living there?",
+                  "vi": "Sống ở đó thì thế nào?",
+                  "note": "Có thể dùng <i>to live</i> hoặc <i>living</i> — cả hai đều tự nhiên.",
+                  "reply": [
+                    { "them": "Quiet. Maybe too quiet.", "themvi": "Yên tĩnh. Có khi hơi quá yên tĩnh.", "you": "I know what you mean.", "youvi": "Mình hiểu ý bạn." }
+                  ],
+                  "close": { "en": "You'll get used to it.", "vi": "Rồi bạn sẽ quen thôi." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "What's the material like?",
+                  "vi": "Chất liệu thế nào ạ?",
+                  "reply": [
+                    { "them": "Soft, but it creases easily.", "themvi": "Mềm, nhưng dễ nhăn ạ.", "you": "Is it machine washable?", "youvi": "Giặt máy được không ạ?" }
+                  ]
+                },
+                {
+                  "en": "What's the return policy like?",
+                  "vi": "Chính sách đổi trả thế nào ạ?",
+                  "note": "Dùng <i>What's … like?</i> để xin mô tả tổng quan thay vì hỏi từng điều khoản.",
+                  "reply": [
+                    { "them": "Thirty days with the receipt.", "themvi": "Ba mươi ngày kèm hóa đơn ạ.", "you": "And without the receipt?", "youvi": "Không có hóa đơn thì sao ạ?" }
+                  ],
+                  "close": { "en": "I'll keep it safe then.", "vi": "Vậy tôi giữ cẩn thận." }
+                },
+                {
+                  "en": "What's the quality like on this one?",
+                  "vi": "Cái này chất lượng thế nào ạ?",
+                  "reply": [
+                    { "them": "Better than the cheaper version.", "themvi": "Tốt hơn bản rẻ ạ.", "you": "In what way?", "youvi": "Tốt hơn ở chỗ nào ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "How does it compare to the other one?", "vi": "So với cái kia thì thế nào ạ?" }
+                  ]
+                },
+                {
+                  "en": "What are the reviews like?",
+                  "vi": "Đánh giá thế nào ạ?",
+                  "reply": [
+                    { "them": "Mostly positive, a few complaints about delivery.", "themvi": "Phần lớn tích cực, vài phàn nàn về giao hàng ạ.", "you": "That's good enough for me.", "youvi": "Vậy là đủ với tôi." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Hỏi bạn về nơi sắp đến du lịch",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "You stayed there last year — what's the hotel like?", "vi": "Năm ngoái bạn ở đó — khách sạn thế nào?" },
+            { "speaker": "Friend", "en": "Basic but clean. The staff are lovely.", "vi": "Đơn sơ nhưng sạch. Nhân viên dễ thương lắm." },
+            { "speaker": "You", "me": true, "en": "And what's the weather like in March?", "vi": "Còn thời tiết tháng Ba thế nào?" },
+            { "speaker": "Friend", "en": "A bit grim, to be honest. Bring a coat.", "vi": "Thật lòng thì hơi ảm đạm. Mang áo khoác đi." },
+            { "speaker": "You", "me": true, "en": "What's it like getting around without a car?", "vi": "Không có ô tô thì đi lại thế nào?" },
+            { "speaker": "Friend", "en": "Easy — the buses run all day.", "vi": "Dễ mà — xe buýt chạy cả ngày." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Hỏi đồng nghiệp về sếp mới",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "You've worked with her before — what's she like?", "vi": "Bạn từng làm với chị ấy — chị ấy là người thế nào?" },
+            { "speaker": "Colleague", "en": "Very easy-going, but she expects detail.", "vi": "Rất dễ tính, nhưng đòi hỏi chi tiết." },
+            { "speaker": "You", "me": true, "en": "What does she look like? I've never met her.", "vi": "Chị ấy trông thế nào? Mình chưa gặp bao giờ." },
+            { "speaker": "Colleague", "en": "Short hair, always in a grey blazer.", "vi": "Tóc ngắn, lúc nào cũng mặc blazer xám." },
+            { "speaker": "You", "me": true, "en": "And what's the team like under her?", "vi": "Đội nhóm dưới quyền chị ấy thế nào?" },
+            { "speaker": "Colleague", "en": "Much happier than before, honestly.", "vi": "Thật lòng thì vui vẻ hơn trước nhiều." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "What does he like? <i>(ý: anh ấy là người thế nào)</i>", "right": "What's he like?", "why": "BẪY SỐ MỘT. <i>What does he like?</i> hỏi SỞ THÍCH. Hỏi tính cách phải là <b>What's he like?</b>" },
+            { "wrong": "What's he like? <i>(ý: anh ấy trông thế nào)</i>", "right": "What does he look like?", "why": "Hỏi NGOẠI HÌNH cần chữ <b>look</b>. Thiếu nó thì câu hỏi về tính cách." },
+            { "wrong": "How is the weather like?", "right": "What's the weather like?", "why": "Trộn hai cấu trúc. Hoặc <i>How's the weather?</i> hoặc <i>What's the weather <b>like</b>?</i> — không bao giờ cả hai." },
+            { "wrong": "What's the hotel?", "right": "What's the hotel like?", "why": "Thiếu chữ <b>like</b> ở cuối — đây là phần bắt buộc của cấu trúc." },
+            { "wrong": "What are the neighbours like? — <i>What's the neighbours like?</i>", "right": "What are the neighbours like?", "why": "Danh từ số nhiều thì động từ phải là <b>are</b>." },
+            { "wrong": "What was it like? <i>(hỏi sức khỏe người ốm)</i>", "right": "How is he?", "why": "Hỏi sức khỏe và tình trạng lúc này thì dùng <b>How is…?</b>, không phải <i>What's … like?</i>" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu hỏi", "Hỏi về", "Ví dụ trả lời"],
+          "rows": [
+            ["<code>What's he like?</code>", "Tính cách", "<i>He's friendly.</i>"],
+            ["<code>What does he look like?</code>", "Ngoại hình", "<i>He's tall with glasses.</i>"],
+            ["<code>What does he like?</code>", "Sở thích", "<i>He likes football.</i>"],
+            ["<code>How is he?</code>", "Sức khỏe, tình trạng", "<i>He's much better.</i>"],
+            ["<code>How do you like it?</code>", "Ý kiến của người nghe", "<i>I love it.</i>"],
+            ["<code>What's it like to…?</code>", "Cảm giác trải nghiệm", "<i>It's liberating.</i>"],
+            ["<code>What's the difference…?</code>", "So sánh hai thứ", "Xem [Khung 66]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — hỏi về một nơi bạn sắp đến" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Is it nice?", "vi": "Đơn giản nhất — chỉ hỏi có-không" },
+            { "en": "How's the hotel?", "vi": "Hỏi tình trạng, hơi chung chung" },
+            { "en": "What's the hotel like?", "vi": "Xin mô tả — chuẩn mực" },
+            { "en": "What's it like staying there?", "vi": "Hỏi cả trải nghiệm" },
+            { "en": "Could you tell me what it's like?", "vi": "Lịch sự. Xem [Khung 17]" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>What's</b> → “wots”, âm /t/ và /s/ dính liền thành một khối.",
+            "<b>What's it like</b> nối âm thành <b>“wot-sit-LAIK”</b> — ba từ dính thành một.",
+            "Trọng âm rơi vào <b>danh từ</b> và <b>LIKE</b>: <i>What's the</i> <b>HO</b>-tel <b>LIKE</b>?",
+            "<b>like</b> ở cuối câu đọc rõ và hơi kéo dài — đừng nuốt mất, vì nó là phần mang nghĩa.",
+            "<b>What does he look like</b> → “wot-dəz-i-luk-LAIK”, chữ <i>he</i> hay bị nuốt âm /h/ thành “i”.",
+            "<b>Giọng đi xuống ở cuối</b> — câu hỏi có từ để hỏi luôn hạ giọng, giống [Khung 61]."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "What's the weather like there?", "vi": "Luyện shadowing: “wots-thə-WETH-ə-LAIK-thair”, nhấn hai chỗ." },
+            { "en": "What does he look like?", "vi": "Tập nuốt /h/ ở he và nhấn LOOK, LIKE." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Sếp mới của bạn là người thế nào? (tính cách)", "blank": "__________ your new boss __________?", "a": "What's … like" },
+            { "vi": "Anh ấy trông thế nào? (ngoại hình)", "blank": "What does he __________?", "a": "look like" },
+            { "vi": "Anh ấy thích gì? (sở thích)", "blank": "What __________?", "a": "does he like" },
+            { "vi": "Thời tiết bên đó thế nào?", "blank": "__________ the weather like there?", "a": "What's (KHÔNG phải “How is … like”)" },
+            { "vi": "Hàng xóm thế nào?", "blank": "What __________ the neighbours like?", "a": "are (số nhiều)" },
+            { "vi": "Chuyến đi thế nào?", "blank": "What __________ the trip like?", "a": "was (quá khứ)" },
+            { "vi": "Sống ở nước ngoài cảm giác thế nào?", "blank": "__________ to live abroad?", "a": "What's it like" },
+            { "vi": "Bạn thấy văn phòng mới thế nào?", "blank": "__________ the new office?", "a": "How do you like" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Khách sạn thế nào?", "a": "What's the hotel like?" },
+            { "vi": "2. Sếp mới của bạn là người thế nào?", "a": "What's your new boss like?" },
+            { "vi": "3. Anh ấy trông thế nào?", "a": "What does he look like?" },
+            { "vi": "4. Chuyến đi thế nào?", "a": "What was the trip like?" },
+            { "vi": "5. Đồng nghiệp của bạn thế nào?", "a": "What are your colleagues like?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Học thuộc bộ ba:</b> <i>What's he <b>like</b>?</i> (tính cách) — <i>What does he <b>look</b> like?</i> (ngoại hình) — <i>What does he like?</i> (sở thích).",
+            "<b>Nhớ rằng “like” ở đây không phải “thích”</b> — nó là giới từ, nghĩa là “giống như”. Hiểu đúng chỗ này là gỡ được cả khung.",
+            "<b>Đừng trộn hai cấu trúc:</b> hoặc <i>How's the weather?</i> hoặc <i>What's the weather like?</i> — không bao giờ <i>How is … like?</i>",
+            "<b>Dùng “What's it like to…?” để mở đầu trò chuyện sâu</b> — nó mời người ta kể trải nghiệm thay vì trả lời cụt lủn.",
+            "<b>Thêm “as a person” khi muốn thật rõ:</b> <i>What's he like as a person?</i> loại bỏ mọi hiểu nhầm.",
+            "<b>Bài tập 3 phút:</b> chọn một người bạn quen, viết ba câu hỏi về họ theo bộ ba trên, rồi tự trả lời cả ba."
+          ]
+        }
+      ]
+    }
+  ]
+}

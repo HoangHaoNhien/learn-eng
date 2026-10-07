@@ -1,0 +1,494 @@
+{
+  "id": 18,
+  "group": "Nhóm 2 · Yêu cầu & Nhờ vả",
+  "title": "Would it be possible to…? — Hỏi mà không đặt ai vào thế khó",
+  "subtitle": "Khung trang trọng nhất để xin một việc. Điểm khác biệt cốt lõi: bạn hỏi về khả năng của SỰ VIỆC, không hỏi về thiện chí của CON NGƯỜI. Nhờ vậy khi người ta từ chối, họ chỉ đang nói “việc đó không làm được” chứ không phải “tôi không giúp bạn”.",
+  "pattern": [
+    "Would it be possible to <em>+ V</em>?",
+    "Would it be possible for me to <em>+ V</em>?",
+    "Is it possible to <em>+ V</em>?"
+  ],
+  "meaning": "Liệu có thể… được không ạ?",
+  "grammar": [24, 29],
+  "tags": [
+    { "text": "Tần suất: trung bình", "hot": false },
+    { "text": "Độ lịch sự: 5/5", "hot": true },
+    { "text": "Rất mạnh trong email & dịch vụ" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "So sánh hai câu: <span class=\"k\">Could you change my booking?</span> hỏi <b>bạn</b> có làm được không. <span class=\"k\">Would it be possible to change my booking?</span> hỏi <b>việc đó</b> có làm được không. Sự khác biệt nhỏ về từ ngữ nhưng rất lớn về cảm giác." },
+        { "t": "p", "html": "Khi bạn hỏi về sự việc, người nghe không bị đặt vào thế phải quyết định thay mặt cá nhân mình. Nếu không được, họ đáp <i>I'm afraid that's not possible</i> — đổ cho quy định, cho hệ thống, cho hoàn cảnh. Không ai mất mặt, và quan hệ giữa hai bên không bị sứt mẻ." },
+        { "t": "p", "html": "Vì thế đây là khung số một khi bạn xin <b>một ngoại lệ</b>, xin <b>đổi lịch</b>, hoặc viết <b>email cho tổ chức</b> chứ không phải cho một cá nhân cụ thể. Nó cũng là khung an toàn khi bạn không biết người mình đang nói chuyện có quyền quyết định hay không." },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp:</b> tuyệt đối không được rơi chữ <b>be</b>. <span class=\"k\">Would it be possible…</span> ✓ — <i>Would it possible…</i> ✗ Và sau đó luôn là <b>to + V</b>, không phải mệnh đề." },
+        { "t": "h3", "text": "Hỏi con người hay hỏi sự việc" },
+        {
+          "t": "table",
+          "head": ["Câu", "Bạn đang hỏi", "Khi bị từ chối"],
+          "rows": [
+            ["<code>Can you change it?</code>", "Bạn có làm được không", "“Tôi không làm” — hơi cá nhân"],
+            ["<code>Could you change it, please?</code>", "Bạn có sẵn lòng không", "“Tôi không giúp được”"],
+            ["<code>Would it be possible to change it?</code>", "Việc đó có khả thi không", "“Việc đó không làm được” — không ai mất mặt"],
+            ["<code>Is there any way to change it?</code>", "Có cách nào không", "Mở đường cho họ đề xuất phương án khác"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "📅", "title": "Đổi lịch, dời hẹn", "text": "Bối cảnh số 1. <i>Would it be possible to reschedule?</i> Không ai bị trách vì lịch phải đổi." },
+            { "icon": "📧", "title": "Email cho tổ chức", "text": "<i>Would it be possible to get an extension?</i> Khi bạn không biết ai là người quyết." },
+            { "icon": "🎫", "title": "Dịch vụ: khách sạn, hàng không", "text": "<i>Would it be possible to upgrade my room?</i> Nhân viên dễ trả lời hơn hẳn." },
+            { "icon": "⚖️", "title": "Xin ngoại lệ ngoài quy định", "text": "<i>Would it be possible to make an exception?</i> Bạn không đòi hỏi, chỉ hỏi về khả năng." },
+            { "icon": "🤔", "title": "Khi chưa biết ai có quyền", "text": "<i>Would it be possible to speak to a manager?</i> An toàn khi bạn không rõ cơ cấu." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Nhờ bạn bè việc vặt — câu quá trang trọng, nghe xa cách." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cơ bản", "<code>Would it be possible to + V?</code>", "Would it be possible to change the date?"],
+            ["Nêu rõ ai làm", "<code>Would it be possible for me to + V?</code>", "Would it be possible for me to start on Monday?"],
+            ["Nhờ người khác", "<code>Would it be possible for you to + V?</code>", "Would it be possible for you to join us?"],
+            ["Thẳng hơn, trung tính", "<code>Is it possible to + V?</code>", "Is it possible to pay in instalments?"],
+            ["Dè dặt hơn", "<code>Do you think it would be possible to + V?</code>", "Do you think it would be possible to extend it?"],
+            ["Mở đường cho phương án khác", "<code>Is there any way to + V?</code>", "Is there any way to speed this up?"],
+            ["Nhã nhất", "<code>I was wondering if it would be possible to + V</code>", "…if it would be possible to reschedule."],
+            ["Phủ định", "<code>It wouldn't be possible to + V</code>", "It wouldn't be possible to refund it now."],
+            ["Trả lời — được", "<code>That should be possible.</code>", "Yes, that should be possible."],
+            ["Trả lời — không", "<code>I'm afraid that's not possible.</code>", "I'm afraid that's not possible."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Nếu bị từ chối, hỏi tiếp câu này:</b> <span class=\"k\">Is there anything else we could do?</span> hoặc <span class=\"k\">What are my options?</span> Bạn không ép người ta đổi ý mà mời họ cùng tìm hướng khác — hiệu quả hơn nhiều." },
+        { "t": "callout", "html": "<b>Kết hợp hai lớp đệm:</b> <i>I was wondering if it would be possible to…</i> là câu nhã nhất trong cả bộ 100 khung. Chỉ dùng cho việc thật sự lớn — xem [Khung 16]." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “Would it be possible to…”",
+              "items": [
+                { "w": "change", "vi": "đổi", "ex": "Would it be possible to change my booking?", "exvi": "Liệu tôi đổi lịch đặt được không ạ?" },
+                { "w": "reschedule", "vi": "dời lịch", "ex": "Would it be possible to reschedule to Thursday?", "exvi": "Liệu có thể dời sang thứ Năm được không ạ?", "note": "Trang trọng hơn <i>move</i> — rất hợp trong công việc." },
+                { "w": "move", "vi": "chuyển, dời", "ex": "Would it be possible to move the meeting an hour later?", "exvi": "Liệu có thể dời cuộc họp muộn hơn một tiếng không ạ?" },
+                { "w": "extend", "vi": "gia hạn", "ex": "Would it be possible to extend the deadline?", "exvi": "Liệu có thể gia hạn thêm được không ạ?" },
+                { "w": "postpone", "vi": "hoãn lại", "ex": "Would it be possible to postpone until next month?", "exvi": "Liệu có thể hoãn sang tháng sau không ạ?", "note": "<i>postpone</i> = hoãn sang lúc khác. <i>cancel</i> = hủy hẳn." },
+                { "w": "cancel", "vi": "hủy", "ex": "Would it be possible to cancel without a fee?", "exvi": "Liệu có thể hủy mà không mất phí không ạ?" },
+                { "w": "arrange", "vi": "sắp xếp", "ex": "Would it be possible to arrange a call this week?", "exvi": "Liệu tuần này có thể sắp xếp một cuộc gọi không ạ?" },
+                { "w": "upgrade", "vi": "nâng hạng", "ex": "Would it be possible to upgrade my room?", "exvi": "Liệu tôi nâng hạng phòng được không ạ?" },
+                { "w": "split", "vi": "chia nhỏ", "ex": "Would it be possible to split the payment?", "exvi": "Liệu có thể chia nhỏ khoản thanh toán không ạ?" },
+                { "w": "pay in instalments", "vi": "trả góp", "ex": "Would it be possible to pay in instalments?", "exvi": "Liệu có thể trả góp được không ạ?", "note": "Anh-Mỹ viết <i>installments</i>." },
+                { "w": "add", "vi": "thêm vào", "ex": "Would it be possible to add one more person?", "exvi": "Liệu có thể thêm một người nữa không ạ?" },
+                { "w": "remove", "vi": "bỏ ra", "ex": "Would it be possible to remove this charge?", "exvi": "Liệu có thể bỏ khoản phí này ra không ạ?" },
+                { "w": "get a refund", "vi": "được hoàn tiền", "ex": "Would it be possible to get a refund?", "exvi": "Liệu tôi được hoàn tiền không ạ?" },
+                { "w": "start", "vi": "bắt đầu", "ex": "Would it be possible for me to start on the fifteenth?", "exvi": "Liệu tôi bắt đầu từ ngày mười lăm được không ạ?" },
+                { "w": "speak to", "vi": "nói chuyện với", "ex": "Would it be possible to speak to a manager?", "exvi": "Liệu tôi gặp quản lý được không ạ?" },
+                { "w": "see", "vi": "xem, gặp", "ex": "Would it be possible to see the room first?", "exvi": "Liệu tôi xem phòng trước được không ạ?" },
+                { "w": "work from home", "vi": "làm việc tại nhà", "ex": "Would it be possible to work from home on Fridays?", "exvi": "Liệu thứ Sáu tôi làm ở nhà được không ạ?" },
+                { "w": "make an exception", "vi": "linh động ngoại lệ", "ex": "Would it be possible to make an exception this time?", "exvi": "Liệu lần này có thể linh động được không ạ?" },
+                { "w": "check in early", "vi": "nhận phòng sớm", "ex": "Would it be possible to check in early?", "exvi": "Liệu tôi nhận phòng sớm được không ạ?" },
+                { "w": "have it delivered", "vi": "được giao tận nơi", "ex": "Would it be possible to have it delivered?", "exvi": "Liệu có giao hàng tận nơi được không ạ?", "note": "<i>have something done</i> = nhờ ai đó làm việc gì cho mình." }
+              ]
+            },
+            {
+              "title": "Câu hoàn chỉnh nên thuộc lòng",
+              "items": [
+                { "w": "Would it be possible to reschedule?", "vi": "liệu có thể dời lịch không", "ex": "Something's come up — would it be possible to reschedule?", "exvi": "Có việc đột xuất — liệu mình dời lịch được không ạ?", "note": "<i>Something's come up</i> = có việc đột xuất. Lý do vạn năng, không cần kể chi tiết." },
+                { "w": "Would it be possible to get an extension?", "vi": "liệu có được gia hạn không", "ex": "Would it be possible to get a short extension?", "exvi": "Liệu có thể gia hạn ngắn được không ạ?" },
+                { "w": "Would it be possible for me to…?", "vi": "liệu tôi có thể…", "ex": "Would it be possible for me to start a week later?", "exvi": "Liệu tôi bắt đầu muộn một tuần được không ạ?" },
+                { "w": "Is it possible to…?", "vi": "có thể… không?", "ex": "Is it possible to pay by bank transfer?", "exvi": "Có thể chuyển khoản được không ạ?", "note": "Thẳng và trung tính hơn — hợp khi chỉ đơn giản muốn biết thông tin." },
+                { "w": "Is there any way to…?", "vi": "có cách nào để… không?", "ex": "Is there any way to speed this up?", "exvi": "Có cách nào làm nhanh hơn không ạ?", "note": "Mời người kia cùng tìm giải pháp — rất hiệu quả khi bị từ chối." },
+                { "w": "Do you think it would be possible…?", "vi": "anh/chị nghĩ liệu có thể…", "ex": "Do you think it would be possible to finish by Friday?", "exvi": "Anh/chị nghĩ liệu có kịp trước thứ Sáu không ạ?" },
+                { "w": "Would that be possible?", "vi": "như vậy có được không ạ?", "ex": "I'd need it by Tuesday. Would that be possible?", "exvi": "Tôi cần trước thứ Ba. Như vậy có được không ạ?", "note": "Đặt ở CUỐI sau khi đã nêu yêu cầu — rất gọn và lịch sự." },
+                { "w": "What are my options?", "vi": "tôi có những lựa chọn nào?", "ex": "I see. What are my options?", "exvi": "Tôi hiểu rồi. Vậy tôi có những lựa chọn nào ạ?", "note": "Câu hỏi tiếp theo hoàn hảo khi bị từ chối." },
+                { "w": "Is there anything else we could do?", "vi": "còn cách nào khác không?", "ex": "Is there anything else we could do?", "exvi": "Còn cách nào khác không ạ?", "note": "Dùng <i>we</i> để cùng phe với người kia thay vì đối đầu." },
+                { "w": "I was wondering if it would be possible to…", "vi": "không biết liệu có thể…", "ex": "I was wondering if it would be possible to visit next week.", "exvi": "Không biết liệu tuần sau tôi ghé thăm được không ạ.", "note": "Nhã nhất trong cả bộ 100 khung. Xem [Khung 16]." }
+              ]
+            },
+            {
+              "title": "Cách người ta trả lời — nghe để hiểu",
+              "items": [
+                { "w": "That should be possible", "vi": "chắc là được ạ", "ex": "Yes, that should be possible.", "exvi": "Vâng, chắc là được ạ.", "note": "<i>should</i> ở đây nghĩa là “nhiều khả năng được” chứ chưa chắc chắn hẳn." },
+                { "w": "Let me check if that's possible", "vi": "để tôi kiểm tra xem có được không", "ex": "Let me check if that's possible and get back to you.", "exvi": "Để em kiểm tra xem có được không rồi báo lại anh/chị." },
+                { "w": "I'm afraid that's not possible", "vi": "e là không được ạ", "ex": "I'm afraid that's not possible at this stage.", "exvi": "E là ở giai đoạn này không được ạ.", "note": "Câu từ chối chuẩn mực — nghe quen để không hụt hẫng." },
+                { "w": "It depends on…", "vi": "còn tùy vào…", "ex": "It depends on availability.", "exvi": "Còn tùy vào còn chỗ hay không ạ.", "note": "Chưa phải từ chối — hãy hỏi tiếp điều kiện. Xem [Khung 57]." },
+                { "w": "There would be a fee", "vi": "sẽ có một khoản phí", "ex": "That's possible, but there would be a fee.", "exvi": "Được ạ, nhưng sẽ có một khoản phí." },
+                { "w": "We can make an exception", "vi": "bên tôi linh động được", "ex": "We can make an exception just this once.", "exvi": "Bên em linh động được riêng lần này ạ." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Would it be possible to change my booking to Sunday?",
+                  "vi": "Liệu tôi đổi lịch đặt sang Chủ nhật được không ạ?",
+                  "note": "Bối cảnh số 1. Hỏi về sự việc nên nhân viên dễ trả lời, dù có hay không.",
+                  "open": { "en": "Hi, I hope you can help me with something.", "vi": "Chào bạn, mong bạn giúp tôi một việc." },
+                  "reply": [
+                    { "them": "Let me check availability.", "themvi": "Để em kiểm tra chỗ trống ạ.", "you": "Thank you, no rush.", "youvi": "Cảm ơn bạn, không vội đâu." },
+                    { "them": "That's possible, but there'd be a fee.", "themvi": "Được ạ, nhưng sẽ có phí.", "you": "That's fine. How much would it be?", "youvi": "Không sao ạ. Phí bao nhiêu vậy bạn?" }
+                  ],
+                  "close": { "en": "Could you send me the new confirmation?", "vi": "Bạn gửi tôi xác nhận mới nhé?" }
+                },
+                {
+                  "en": "Would it be possible to check in early?",
+                  "vi": "Liệu tôi nhận phòng sớm được không ạ?",
+                  "reply": [
+                    { "them": "Check-in is at two, but I'll see what I can do.", "themvi": "Giờ nhận phòng là hai giờ, nhưng để em xem giúp anh/chị.", "you": "That's very kind, thank you.", "youvi": "Bạn tử tế quá, cảm ơn bạn." },
+                    { "them": "I'm afraid the room isn't ready yet.", "themvi": "E là phòng chưa dọn xong ạ.", "you": "No problem — could I leave my bags here?", "youvi": "Không sao — tôi gửi hành lý ở đây được không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Would it be possible to upgrade my room?",
+                  "vi": "Liệu tôi nâng hạng phòng được không ạ?",
+                  "reply": [
+                    { "them": "We have one available for an extra fee.", "themvi": "Bên em còn một phòng, thêm phí ạ.", "you": "How much extra would that be?", "youvi": "Thêm bao nhiêu vậy bạn?" }
+                  ],
+                  "vars": [
+                    { "en": "Would it be possible to have a room on a higher floor?", "vi": "Liệu tôi được phòng ở tầng cao hơn không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Is there any way to get on an earlier flight?",
+                  "vi": "Có cách nào để đi chuyến sớm hơn không ạ?",
+                  "note": "<span class=\"k\">Is there any way to…</span> mời nhân viên cùng tìm giải pháp thay vì chỉ trả lời có/không.",
+                  "reply": [
+                    { "them": "There's standby, but no guarantee.", "themvi": "Có danh sách chờ, nhưng không đảm bảo ạ.", "you": "I'll take the chance. Could you add me?", "youvi": "Tôi chấp nhận rủi ro. Bạn thêm tên tôi vào nhé?" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Something's come up — would it be possible to reschedule?",
+                  "vi": "Có việc đột xuất — liệu mình dời lịch được không ạ?",
+                  "note": "<span class=\"k\">Something's come up</span> là lý do vạn năng, lịch sự, không cần kể chi tiết riêng tư.",
+                  "reply": [
+                    { "them": "Of course. When works for you?", "themvi": "Tất nhiên rồi. Khi nào anh/chị tiện?", "you": "Thursday afternoon, if that suits.", "youvi": "Chiều thứ Năm, nếu anh/chị tiện ạ." },
+                    { "them": "This week is tight, I'm afraid.", "themvi": "E là tuần này kín lịch rồi ạ.", "you": "Then next Monday? Would that be possible?", "youvi": "Vậy thứ Hai tuần sau ạ? Như vậy có được không?" }
+                  ],
+                  "close": { "en": "I'll send a new invite. Sorry for the change.", "vi": "Tôi sẽ gửi lời mời mới. Xin lỗi vì phải đổi." }
+                },
+                {
+                  "en": "Would it be possible to get a short extension?",
+                  "vi": "Liệu có thể gia hạn ngắn được không ạ?",
+                  "note": "Thêm <i>short</i> làm yêu cầu nhỏ lại và dễ được chấp nhận hơn hẳn.",
+                  "open": { "en": "I want to flag something early —", "vi": "Tôi muốn báo trước một việc —" },
+                  "reply": [
+                    { "them": "How long do you need?", "themvi": "Bạn cần thêm bao lâu?", "you": "Three days would be enough.", "youvi": "Ba ngày là đủ ạ." },
+                    { "them": "The client won't accept a delay.", "themvi": "Khách hàng sẽ không chấp nhận trễ.", "you": "I understand. What are my options?", "youvi": "Tôi hiểu. Vậy tôi có những lựa chọn nào ạ?" }
+                  ]
+                },
+                {
+                  "en": "Would it be possible to work from home on Fridays?",
+                  "vi": "Liệu thứ Sáu tôi làm ở nhà được không ạ?",
+                  "note": "Hỏi về chính sách chứ không xin ân huệ cá nhân — sếp dễ trả lời hơn nhiều.",
+                  "reply": [
+                    { "them": "Let's try it for a month and review.", "themvi": "Thử một tháng rồi mình xem lại nhé.", "you": "That sounds fair. Thank you.", "youvi": "Vậy hợp lý ạ. Cảm ơn anh/chị." }
+                  ]
+                },
+                {
+                  "en": "Would it be possible for me to start on the fifteenth?",
+                  "vi": "Liệu tôi bắt đầu từ ngày mười lăm được không ạ?",
+                  "note": "<b>for me to</b> nêu rõ ai làm — cần thiết khi câu có thể hiểu nhầm sang người khác.",
+                  "reply": [
+                    { "them": "We were hoping for the first.", "themvi": "Bên tôi mong là ngày mồng một.", "you": "Would the eighth be a compromise?", "youvi": "Hay mình gặp nhau ở ngày mùng tám ạ?" }
+                  ],
+                  "close": { "en": "Thank you for being flexible.", "vi": "Cảm ơn anh/chị đã linh động." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Would it be possible to get a refund?",
+                  "vi": "Liệu tôi được hoàn tiền không ạ?",
+                  "note": "So với <i>I want my money back</i> ở [Khung 10], câu này mở đầu cuộc trao đổi mà không tạo căng thẳng.",
+                  "reply": [
+                    { "them": "Do you have the receipt?", "themvi": "Anh/chị có biên lai không ạ?", "you": "Yes, here it is.", "youvi": "Có ạ, đây ạ." },
+                    { "them": "I'm afraid we only offer store credit.", "themvi": "E là bên em chỉ đổi phiếu mua hàng ạ.", "you": "Is there anything else we could do?", "youvi": "Còn cách nào khác không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Is it possible to pay in instalments?",
+                  "vi": "Có thể trả góp được không ạ?",
+                  "note": "<i>Is it possible</i> trung tính hơn — hợp khi bạn chỉ muốn biết thông tin chứ chưa xin ưu đãi.",
+                  "reply": [
+                    { "them": "Yes, over six or twelve months.", "themvi": "Được ạ, sáu hoặc mười hai tháng.", "you": "Could you tell me if there's interest?", "youvi": "Bạn cho tôi biết có lãi không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Would it be possible to have it delivered?",
+                  "vi": "Liệu có giao hàng tận nơi được không ạ?",
+                  "note": "<span class=\"k\">have something delivered</span> — nhờ người khác giao, không phải tự mình giao.",
+                  "reply": [
+                    { "them": "Yes, delivery is free over one million.", "themvi": "Được ạ, trên một triệu là miễn phí giao ạ.", "you": "Then I'll add one more item.", "youvi": "Vậy tôi lấy thêm một món nữa." }
+                  ]
+                },
+                {
+                  "en": "Would it be possible to remove this charge?",
+                  "vi": "Liệu có thể bỏ khoản phí này ra không ạ?",
+                  "note": "Hỏi về khoản phí chứ không tố ai tính sai — giữ được không khí hợp tác.",
+                  "open": { "en": "I noticed something on the bill —", "vi": "Tôi thấy một khoản trên hóa đơn —" },
+                  "reply": [
+                    { "them": "Let me have a look… yes, that shouldn't be there.", "themvi": "Để em xem… vâng, khoản đó không nên có ạ.", "you": "Thank you for sorting it out.", "youvi": "Cảm ơn bạn đã xử lý giúp." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Would it be possible to sit outside?",
+                  "vi": "Liệu chúng tôi ngồi ngoài trời được không ạ?",
+                  "reply": [
+                    { "them": "Of course, let me clear a table.", "themvi": "Tất nhiên ạ, để em dọn bàn.", "you": "Thank you, no rush.", "youvi": "Cảm ơn bạn, không vội đâu." }
+                  ]
+                },
+                {
+                  "en": "Would it be possible to make it without chilli?",
+                  "vi": "Liệu có thể làm không bỏ ớt được không ạ?",
+                  "note": "Hỏi về món ăn chứ không yêu cầu đầu bếp — nhân viên dễ đi hỏi bếp hơn.",
+                  "reply": [
+                    { "them": "I'll check with the kitchen.", "themvi": "Để em hỏi bếp ạ.", "you": "Thank you, I appreciate it.", "youvi": "Cảm ơn bạn nhiều." }
+                  ],
+                  "vars": [
+                    { "en": "Would it be possible to swap the rice for salad?", "vi": "Liệu có thể đổi cơm thành salad không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Would it be possible to add one more person to the booking?",
+                  "vi": "Liệu có thể thêm một người vào đặt bàn không ạ?",
+                  "reply": [
+                    { "them": "For six instead of five? That's fine.", "themvi": "Sáu người thay vì năm à? Không sao ạ.", "you": "Great, thank you.", "youvi": "Tuyệt, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "Would it be possible to split the bill three ways?",
+                  "vi": "Liệu có thể chia hóa đơn làm ba không ạ?",
+                  "note": "<span class=\"k\">split the bill three ways</span> = chia làm ba phần. Hỏi trước khi thanh toán cho đỡ lúng túng.",
+                  "reply": [
+                    { "them": "Yes, no problem. Three cards?", "themvi": "Được ạ, không sao. Ba thẻ ạ?", "you": "Two cards and one cash, please.", "youvi": "Hai thẻ một tiền mặt ạ." }
+                  ],
+                  "close": { "en": "Thanks for your patience.", "vi": "Cảm ơn bạn đã kiên nhẫn." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Would it be possible to visit next weekend instead?",
+                  "vi": "Liệu cuối tuần sau ghé thăm thay vào đó được không ạ?",
+                  "reply": [
+                    { "them": "Next weekend is even better for us.", "themvi": "Cuối tuần sau còn tiện hơn cho bọn mình.", "you": "Perfect — I'll confirm the time.", "youvi": "Tuyệt — mình sẽ chốt giờ lại." }
+                  ]
+                },
+                {
+                  "en": "Would it be possible to bring my dog?",
+                  "vi": "Liệu tôi mang chó theo được không ạ?",
+                  "note": "Hỏi về quy định chứ không xin đặc cách — chủ nhà hay nhân viên đều dễ trả lời.",
+                  "reply": [
+                    { "them": "Sorry, we're not pet-friendly.", "themvi": "Xin lỗi, bên em không nhận thú cưng ạ.", "you": "No problem — do you know anywhere that is?", "youvi": "Không sao — bạn có biết chỗ nào nhận không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Is there any way to speed this up?",
+                  "vi": "Có cách nào làm nhanh hơn không ạ?",
+                  "note": "Không ép ai, chỉ mời họ nghĩ hộ bạn. Câu này hay mở ra phương án mà bạn không biết có.",
+                  "reply": [
+                    { "them": "There's an express service for extra.", "themvi": "Có dịch vụ nhanh, phụ thu thêm ạ.", "you": "How much extra, and how fast?", "youvi": "Thêm bao nhiêu và nhanh cỡ nào ạ?" }
+                  ]
+                },
+                {
+                  "en": "I'd need it by Tuesday. Would that be possible?",
+                  "vi": "Tôi cần trước thứ Ba. Như vậy có được không ạ?",
+                  "note": "Đặt <b>Would that be possible?</b> ở CUỐI sau khi đã nêu yêu cầu — rất gọn và chuyên nghiệp.",
+                  "reply": [
+                    { "them": "Tuesday is tight, but doable.", "themvi": "Thứ Ba hơi gấp, nhưng làm được.", "you": "Thank you — I really appreciate it.", "youvi": "Cảm ơn bạn — tôi rất cảm kích." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Đổi vé máy bay qua điện thoại",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Hi. Would it be possible to change my flight to Sunday?", "vi": "Chào bạn. Liệu tôi đổi chuyến bay sang Chủ nhật được không ạ?" },
+            { "speaker": "Agent", "en": "Let me check. Can I have your booking reference?", "vi": "Để em kiểm tra. Cho em xin mã đặt chỗ ạ." },
+            { "speaker": "You", "me": true, "en": "It's KLM four two nine.", "vi": "Là KLM bốn hai chín ạ." },
+            { "speaker": "Agent", "en": "There's a seat, but there'd be a change fee of thirty dollars.", "vi": "Còn chỗ ạ, nhưng phí đổi là ba mươi đô." },
+            { "speaker": "You", "me": true, "en": "That's fine. And would it be possible to keep the same seat number?", "vi": "Không sao ạ. Với lại liệu tôi giữ nguyên số ghế được không ạ?" },
+            { "speaker": "Agent", "en": "I'll try. Give me one moment.", "vi": "Em sẽ thử. Cho em một lát ạ." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Xin gia hạn, bị từ chối, rồi tìm hướng khác",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "I want to flag something early — would it be possible to get a short extension?", "vi": "Em muốn báo trước một việc — liệu có thể gia hạn ngắn được không ạ?" },
+            { "speaker": "Manager", "en": "I'm afraid that's not possible. The client's date is fixed.", "vi": "E là không được. Ngày của khách hàng đã cố định." },
+            { "speaker": "You", "me": true, "en": "I understand. Is there anything else we could do?", "vi": "Em hiểu ạ. Vậy còn cách nào khác không ạ?" },
+            { "speaker": "Manager", "en": "What's slowing you down?", "vi": "Cái gì đang làm em chậm lại?" },
+            { "speaker": "You", "me": true, "en": "The testing. Would it be possible to bring in one more person for two days?", "vi": "Phần kiểm thử ạ. Liệu có thể thêm một người trong hai ngày được không ạ?" },
+            { "speaker": "Manager", "en": "That I can do. I'll ask Lan.", "vi": "Việc đó thì được. Tôi sẽ hỏi Lan." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Would it possible to change it?", "right": "Would it be possible to change it?", "why": "Rơi mất chữ <b>be</b> là lỗi số một. Công thức luôn là <i>Would it <b>be</b> possible</i>." },
+            { "wrong": "Would it be possible that you help me?", "right": "Would it be possible for you to help me?", "why": "Không dùng mệnh đề <i>that</i>. Phải là <b>to + V</b>, hoặc <b>for + ai + to V</b>." },
+            { "wrong": "Would it be possible changing the date?", "right": "Would it be possible to change the date?", "why": "Sau <i>possible</i> luôn là <b>to + V</b>, không phải V-ing." },
+            { "wrong": "Would it be possible to me to start Monday?", "right": "Would it be possible for me to start Monday?", "why": "Dùng giới từ <b>for</b> để nêu người thực hiện, không phải <i>to</i>." },
+            { "wrong": "Would it be possible to help me pass the salt?", "right": "Could you pass the salt, please?", "why": "Quá trang trọng cho việc vặt — nghe kỳ quặc. Việc nhỏ dùng [Khung 11]." },
+            { "wrong": "Is possible to pay by card?", "right": "Is it possible to pay by card?", "why": "Thiếu chủ ngữ giả <b>it</b>. Tiếng Anh bắt buộc phải có." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>Would it be possible to…?</code>", "Hỏi về khả năng của sự việc — không nhắm ai", "<i>Would it be possible to reschedule?</i>"],
+            ["<code>Is it possible to…?</code>", "Trung tính hơn — chỉ muốn biết thông tin", "<i>Is it possible to pay by card?</i>"],
+            ["<code>Could you…, please?</code>", "Hỏi thiện chí của người nghe", "<i>Could you reschedule it?</i> — Xem [Khung 11]."],
+            ["<code>Would you mind + V-ing?</code>", "Hỏi có phiền không — nhã", "<i>Would you mind rescheduling?</i> — Xem [Khung 13]."],
+            ["<code>I was wondering if you could…</code>", "Nhã nhất với một cá nhân", "<i>…if you could reschedule.</i> — Xem [Khung 16]."],
+            ["<code>Is there any way to…?</code>", "Mời cùng tìm giải pháp", "<i>Is there any way to speed this up?</i>"],
+            ["<code>Do you allow…?</code>", "Hỏi thẳng về quy định", "<i>Do you allow pets?</i> — Cụt hơn nhưng rõ."]
+          ]
+        },
+        { "t": "h3", "text": "Thang độ trang trọng — xin đổi lịch hẹn" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Can we move it?", "vi": "Thân mật — đồng nghiệp thân" },
+            { "en": "Could we reschedule, please?", "vi": "Chuẩn mực — dùng mọi nơi" },
+            { "en": "Would you mind if we rescheduled?", "vi": "Nhã — hỏi có phiền không" },
+            { "en": "Would it be possible to reschedule?", "vi": "Trang trọng — không nhắm vào ai" },
+            { "en": "I was wondering if it would be possible to reschedule.", "vi": "Nhã nhất — việc lớn, người trên" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>possible</b> = /ˈpɒsəbəl/ — trọng âm ở <b>đầu</b>: <b>POS</b>-si-ble. Nhấn sai vào giữa là nghe rất lạ.",
+            "<b>Would it</b> nối thành “WU-dit” — âm /d/ trượt sang <i>it</i>.",
+            "<b>Would it be</b> → “wu-dit-BI”, ba âm tiết nói liền, <i>be</i> giảm nhẹ.",
+            "<b>possible to</b> → “POS-sə-bəl-tə”, <i>to</i> giảm thành /tə/ rất nhẹ.",
+            "Cả cụm mở đầu <b>Would it be possible to</b> nói <b>nhanh và nhẹ</b>, rồi mới nhấn vào động từ chính: …to <b>CHANGE</b> my booking.",
+            "Câu phải <b>lên giọng ở cuối</b> — đây là câu hỏi thật sự."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Would it be possible to change my booking?", "vi": "Luyện shadowing: nói nhanh cả cụm đầu, nhấn vào “change”." },
+            { "en": "I'm afraid that's not possible.", "vi": "Câu từ chối bạn sẽ nghe rất nhiều — nghe quen để phản xạ hỏi tiếp." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Liệu tôi đổi lịch đặt được không ạ?", "blank": "__________ change my booking?", "a": "Would it be possible to" },
+            { "vi": "Liệu tôi bắt đầu từ thứ Hai được không ạ?", "blank": "Would it be possible __________ start on Monday?", "a": "for me to" },
+            { "vi": "Có thể trả góp được không ạ?", "blank": "__________ pay in instalments?", "a": "Is it possible to" },
+            { "vi": "Có cách nào làm nhanh hơn không ạ?", "blank": "__________ speed this up?", "a": "Is there any way to" },
+            { "vi": "Tôi cần trước thứ Ba. Như vậy có được không ạ?", "blank": "I'd need it by Tuesday. __________?", "a": "Would that be possible" },
+            { "vi": "Tôi hiểu rồi. Vậy tôi có những lựa chọn nào ạ?", "blank": "I see. __________?", "a": "What are my options" },
+            { "vi": "E là không được ạ.", "blank": "__________ that's not possible.", "a": "I'm afraid" },
+            { "vi": "Còn cách nào khác không ạ?", "blank": "__________ we could do?", "a": "Is there anything else" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Có việc đột xuất — liệu mình dời lịch được không ạ?", "a": "Something's come up — would it be possible to reschedule?" },
+            { "vi": "2. Liệu có thể gia hạn ngắn được không ạ?", "a": "Would it be possible to get a short extension?" },
+            { "vi": "3. Liệu tôi nhận phòng sớm được không ạ?", "a": "Would it be possible to check in early?" },
+            { "vi": "4. Liệu có thể chia hóa đơn làm ba không ạ?", "a": "Would it be possible to split the bill three ways?" },
+            { "vi": "5. Liệu thứ Sáu tôi làm ở nhà được không ạ?", "a": "Would it be possible to work from home on Fridays?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Dùng khi xin ngoại lệ:</b> hỏi về sự việc chứ không hỏi về con người — người ta từ chối cũng không ai mất mặt, và bạn vẫn giữ được quan hệ.",
+            "<b>Đừng rơi chữ “be”:</b> <i>Would it <b>be</b> possible…</i> Đọc thầm mười lần cho thành phản xạ.",
+            "<b>Học sẵn câu hỏi tiếp theo:</b> bị từ chối thì hỏi ngay <i>What are my options?</i> hoặc <i>Is there anything else we could do?</i> Rất nhiều lần bạn sẽ nhận được phương án tốt hơn.",
+            "<b>Đặt “Would that be possible?” ở cuối:</b> nêu yêu cầu trước bằng câu kể, rồi chốt bằng câu hỏi ngắn này — nghe rất chuyên nghiệp.",
+            "<b>Nghe quen câu từ chối:</b> <i>I'm afraid that's not possible</i> và <i>It depends on…</i> — hai câu bạn sẽ gặp thường xuyên, đừng hụt hẫng khi nghe thấy.",
+            "<b>Bài tập 3 phút:</b> nghĩ 5 việc bạn từng ngại hỏi — đổi lịch, xin giảm giá, xin nghỉ — và viết mỗi việc thành một câu <i>Would it be possible to…?</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

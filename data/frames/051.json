@@ -1,0 +1,494 @@
+{
+  "id": 51,
+  "group": "Nhóm 6 · Đồng ý & Phản đối",
+  "title": "I agree with you — Đồng ý và bẫy “I am agree”",
+  "subtitle": "Khung câu mở đầu nhóm Đồng ý & Phản đối, và cũng là nơi chứa lỗi ngữ pháp kinh điển nhất của người học Việt Nam: I am agree. Ngoài ra, bốn giới từ đi với agree mang bốn nghĩa khác nhau, và I couldn't agree more nghe như phủ định nhưng lại là lời đồng ý mạnh nhất.",
+  "pattern": [
+    "I agree with <em>+ người / ý kiến</em>",
+    "I agree that <em>+ mệnh đề</em>",
+    "I couldn't agree more."
+  ],
+  "meaning": "Tôi đồng ý với bạn / Tôi đồng ý rằng…",
+  "grammar": [42, 53, 57],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Dùng được mọi nơi" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">agree</span> là một <b>động từ</b>, không phải tính từ. Đây là điều đầu tiên và quan trọng nhất cần khắc vào đầu, vì tiếng Việt nói “tôi <i>đồng ý</i>” nghe như một trạng thái, khiến ta bật ra <i>I am agree</i>." },
+        { "t": "p", "html": "Khung này <b>mạnh hơn</b> những gì người học tưởng. Trong tiếng Anh công sở, nói <i>I agree</i> là bạn <b>đứng về phía người kia</b> một cách công khai. Nếu chỉ muốn ghi nhận, hãy dùng <i>That's a fair point</i> ở [Khung 52]." },
+        { "t": "p", "html": "Bốn giới từ tạo ra bốn nghĩa khác nhau: <b>agree with</b> (đồng ý với người hoặc ý kiến), <b>agree to</b> (chấp thuận một đề xuất), <b>agree on</b> (cùng thống nhất một điều), <b>agree that</b> (đồng ý rằng). Chọn sai giới từ là đổi nghĩa." },
+        { "t": "callout", "html": "<b>LỖI KINH ĐIỂN NHẤT:</b> <span class=\"k\">I am agree with you</span> ✗. Phải là <b>I agree with you</b> ✓. Cũng đừng nói <i>I'm agreeing</i> — <i>agree</i> là động từ trạng thái, không chia tiếp diễn." },
+        { "t": "h3", "text": "Bốn giới từ, bốn nghĩa" },
+        {
+          "t": "table",
+          "head": ["Câu", "Nghĩa", "Đi với"],
+          "rows": [
+            ["<code>I agree with you.</code>", "Cùng quan điểm với ai", "người, ý kiến"],
+            ["<code>I agreed to the plan.</code>", "Chấp thuận một đề xuất", "kế hoạch, đề nghị"],
+            ["<code>We agreed on a price.</code>", "Cùng thống nhất một điều", "điều hai bên chốt"],
+            ["<code>I agree that it's risky.</code>", "Đồng ý rằng…", "mệnh đề"]
+          ]
+        },
+        { "t": "callout", "html": "<b>“I couldn't agree more” là lời đồng ý MẠNH NHẤT,</b> dù nhìn có vẻ phủ định. Nghĩa đen: “tôi không thể đồng ý hơn được nữa” — tức là đã đồng ý hết mức. Đừng nhầm nó với sự phản đối." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🤝", "title": "Ủng hộ công khai trong họp", "text": "Bối cảnh số 1. <i>I agree with Mai on this.</i> Đứng về phía ai đó rõ ràng." },
+            { "icon": "✅", "title": "Chấp thuận một đề xuất", "text": "<i>We've agreed to the new terms.</i> Dùng <b>to</b>, không phải <i>with</i>." },
+            { "icon": "📝", "title": "Chốt một thỏa thuận", "text": "<i>We agreed on a price.</i> Dùng <b>on</b> cho điều hai bên thống nhất." },
+            { "icon": "🔥", "title": "Đồng ý rất mạnh", "text": "<i>I couldn't agree more.</i> Không có cách nào đồng ý mạnh hơn." },
+            { "icon": "⚖️", "title": "Đồng ý một phần", "text": "<i>I agree up to a point.</i> Ghi nhận nhưng vẫn giữ ý riêng." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn chỉ muốn ghi nhận chứ chưa ủng hộ. Dùng [Khung 52] thay thế." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Với người / ý kiến", "<code>I agree with + người/N</code>", "I agree with you."],
+            ["Với mệnh đề", "<code>I agree (that) + mệnh đề</code>", "I agree that it's risky."],
+            ["Chấp thuận đề xuất", "<code>agree to + N / to + V</code>", "They agreed to the plan."],
+            ["Cùng thống nhất", "<code>agree on + N</code>", "We agreed on a price."],
+            ["Nêu rõ chủ đề", "<code>I agree with you on/about + N</code>", "I agree with you on that point."],
+            ["Đồng ý mạnh nhất", "<code>I couldn't agree more.</code>", "I couldn't agree more."],
+            ["Nhấn mạnh", "<code>I totally / completely agree.</code>", "I completely agree."],
+            ["Kiểu Anh-Anh", "<code>I quite agree.</code>", "I quite agree."],
+            ["Đồng ý một phần", "<code>I agree up to a point.</code>", "I agree up to a point."],
+            ["Đồng ý về nguyên tắc", "<code>I agree in principle, but…</code>", "I agree in principle, but not the cost."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Không nói “I very agree”.</b> ✗ Trạng từ đúng là <b>totally, completely, absolutely, entirely, wholeheartedly</b>. <i>Very</i> không bao giờ bổ nghĩa cho động từ này." },
+        { "t": "callout", "html": "<b>Bẫy tinh tế của tiếng Anh-Anh:</b> <span class=\"k\">I quite agree</span> KHÔNG phải “tôi khá đồng ý”. Nó nghĩa là <b>hoàn toàn đồng ý</b>. Nhưng <i>quite good</i> lại là “cũng tạm” — <i>quite</i> đổi nghĩa tùy từ đi kèm." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Giới từ & cách kết hợp",
+              "items": [
+                { "w": "agree with you", "vi": "đồng ý với bạn", "ex": "I agree with you completely.", "exvi": "Tôi hoàn toàn đồng ý với bạn.", "note": "Dùng <b>with</b> cho NGƯỜI hoặc Ý KIẾN. Và nhớ: KHÔNG có <i>am</i>." },
+                { "w": "agree with that", "vi": "đồng ý với điều đó", "ex": "I agree with that entirely.", "exvi": "Tôi hoàn toàn đồng ý với điều đó." },
+                { "w": "agree that", "vi": "đồng ý rằng", "ex": "I agree that it's too risky.", "exvi": "Tôi đồng ý rằng việc này quá rủi ro.", "note": "Trước MỆNH ĐỀ thì không có giới từ — chỉ <i>that</i> (và <i>that</i> cũng bỏ được)." },
+                { "w": "agree to the plan", "vi": "chấp thuận kế hoạch", "ex": "They agreed to the plan.", "exvi": "Họ đã chấp thuận kế hoạch.", "note": "BẪY: <b>agree to</b> = chấp thuận một ĐỀ XUẤT. Khác hẳn <i>agree with</i>." },
+                { "w": "agree to the terms", "vi": "chấp thuận điều khoản", "ex": "Please read and agree to the terms.", "exvi": "Vui lòng đọc và chấp thuận điều khoản." },
+                { "w": "agree on a price", "vi": "thống nhất một mức giá", "ex": "We agreed on a price yesterday.", "exvi": "Hôm qua chúng tôi đã thống nhất mức giá.", "note": "<b>agree on</b> = hai bên cùng chốt một điều gì đó." },
+                { "w": "agree on a date", "vi": "thống nhất ngày", "ex": "Let's agree on a date first.", "exvi": "Mình thống nhất ngày trước đã." },
+                { "w": "agree with you on that", "vi": "đồng ý với bạn ở điểm đó", "ex": "I agree with you on that point.", "exvi": "Tôi đồng ý với bạn ở điểm đó.", "note": "Ghép <i>with</i> (người) + <i>on</i> (chủ đề) — dạng đầy đủ và chính xác nhất." },
+                { "w": "agree with you about", "vi": "đồng ý với bạn về", "ex": "I agree with you about the timing.", "exvi": "Tôi đồng ý với bạn về thời điểm." },
+                { "w": "agree to disagree", "vi": "chấp nhận bất đồng", "ex": "Let's agree to disagree.", "exvi": "Mình chấp nhận bất đồng nhé.", "note": "Thành ngữ khép lại tranh luận trong hòa khí. Bản Anh-Anh là <i>agree to differ</i>." },
+                { "w": "I don't agree", "vi": "tôi không đồng ý", "ex": "I don't agree with that at all.", "exvi": "Tôi hoàn toàn không đồng ý với điều đó.", "note": "Không nói <i>I'm not agree</i>. Phải là <i>I don't agree</i> hoặc <i>I disagree</i>." },
+                { "w": "I disagree", "vi": "tôi phản đối", "ex": "I disagree, but I see your point.", "exvi": "Tôi phản đối, nhưng tôi hiểu ý bạn.", "note": "Cũng KHÔNG nói <i>I'm disagree</i>. Đây vẫn là động từ." }
+              ]
+            },
+            {
+              "title": "Các mức độ đồng ý",
+              "items": [
+                { "w": "I couldn't agree more", "vi": "tôi cực kỳ đồng ý", "ex": "I couldn't agree more.", "exvi": "Tôi không thể đồng ý hơn được nữa.", "note": "BẪY: nhìn như phủ định nhưng là lời đồng ý MẠNH NHẤT." },
+                { "w": "I totally agree", "vi": "tôi hoàn toàn đồng ý", "ex": "I totally agree with that.", "exvi": "Tôi hoàn toàn đồng ý với điều đó.", "note": "KHÔNG nói <i>I very agree</i> ✗." },
+                { "w": "I completely agree", "vi": "tôi hoàn toàn đồng ý", "ex": "I completely agree.", "exvi": "Tôi hoàn toàn đồng ý." },
+                { "w": "I absolutely agree", "vi": "tôi tuyệt đối đồng ý", "ex": "I absolutely agree with you there.", "exvi": "Chỗ đó tôi tuyệt đối đồng ý với bạn." },
+                { "w": "I quite agree", "vi": "tôi hoàn toàn đồng ý", "ex": "I quite agree.", "exvi": "Tôi hoàn toàn đồng ý.", "note": "BẪY Anh-Anh: <i>quite agree</i> = HOÀN TOÀN đồng ý, không phải “khá đồng ý”." },
+                { "w": "Agreed.", "vi": "đồng ý", "ex": "Agreed. Let's move on.", "exvi": "Đồng ý. Mình đi tiếp.", "note": "Một từ duy nhất — gọn, dứt khoát, rất hay trong họp." },
+                { "w": "I agree up to a point", "vi": "tôi đồng ý đến một mức nào đó", "ex": "I agree up to a point, but not entirely.", "exvi": "Tôi đồng ý đến một mức nào đó, nhưng không hoàn toàn.", "note": "Cách đồng ý một phần — mở đường cho phản biện." },
+                { "w": "I agree in principle", "vi": "về nguyên tắc tôi đồng ý", "ex": "I agree in principle, but not with the cost.", "exvi": "Về nguyên tắc tôi đồng ý, nhưng không đồng ý về chi phí.", "note": "Đồng ý với ý tưởng nhưng không với chi tiết — rất hay trong đàm phán." },
+                { "w": "I'm with you on that", "vi": "tôi ủng hộ bạn chuyện đó", "ex": "I'm with you on that one.", "exvi": "Chuyện đó tôi ủng hộ bạn.", "note": "Thân mật hơn <i>I agree</i>. Chú ý: ở đây CÓ <i>I'm</i> vì <i>with you</i> là cụm giới từ. Xem [Khung 58]." },
+                { "w": "That makes sense", "vi": "hợp lý đấy", "ex": "That makes sense to me.", "exvi": "Với tôi thì hợp lý đấy.", "note": "Đồng ý nhẹ — ghi nhận logic mà chưa cam kết ủng hộ." },
+                { "w": "You're absolutely right", "vi": "bạn hoàn toàn đúng", "ex": "You're absolutely right about that.", "exvi": "Chỗ đó bạn hoàn toàn đúng." },
+                { "w": "wholeheartedly agree", "vi": "đồng ý hết lòng", "ex": "I wholeheartedly agree.", "exvi": "Tôi đồng ý hết lòng.", "note": "Trang trọng và nhiệt thành — hợp bài phát biểu, email quan trọng." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "Glad we're on the same page", "vi": "may là mình cùng quan điểm", "ex": "Glad we're on the same page.", "exvi": "May là mình cùng quan điểm.", "note": "<i>on the same page</i> = cùng cách hiểu. Thành ngữ công sở rất phổ biến." },
+                { "w": "Good, that's settled then", "vi": "tốt, vậy là chốt", "ex": "Good, that's settled then.", "exvi": "Tốt, vậy là chốt nhé." },
+                { "w": "Thanks for backing me up", "vi": "cảm ơn đã ủng hộ tôi", "ex": "Thanks for backing me up in there.", "exvi": "Cảm ơn đã ủng hộ tôi trong đó.", "note": "<i>back someone up</i> = đứng về phía ai đó." },
+                { "w": "So we're agreed?", "vi": "vậy là mình thống nhất nhé?", "ex": "So we're agreed on Friday?", "exvi": "Vậy là mình thống nhất thứ Sáu nhé?", "note": "<i>We're agreed</i> ở đây đúng ngữ pháp — đây là dạng tính từ hiếm hoi, nghĩa “đã thống nhất”." },
+                { "w": "Not everyone will", "vi": "không phải ai cũng sẽ đồng ý", "ex": "Not everyone will agree, though.", "exvi": "Nhưng không phải ai cũng sẽ đồng ý đâu." },
+                { "w": "Let's put it to the group", "vi": "đưa ra cả nhóm quyết", "ex": "Let's put it to the group.", "exvi": "Đưa ra cả nhóm quyết đi." },
+                { "w": "I'm glad you agree", "vi": "may là bạn đồng ý", "ex": "I'm glad you agree.", "exvi": "May là anh/chị đồng ý." },
+                { "w": "That's settled, then", "vi": "vậy là xong", "ex": "That's settled, then. Friday it is.", "exvi": "Vậy là xong. Chốt thứ Sáu." },
+                { "w": "Does everyone agree?", "vi": "mọi người đồng ý cả chứ?", "ex": "Does everyone agree with that?", "exvi": "Mọi người đồng ý với điều đó chứ?", "note": "Câu chốt của người chủ trì họp — thu ý kiến cả nhóm trong một câu." },
+                { "w": "I thought you might", "vi": "tôi đoán là bạn sẽ vậy", "ex": "I thought you might agree.", "exvi": "Tôi đoán là anh/chị sẽ đồng ý." },
+                { "w": "We're of the same mind", "vi": "chúng ta cùng chung suy nghĩ", "ex": "We're of the same mind on this.", "exvi": "Chuyện này chúng ta cùng chung suy nghĩ.", "note": "Trang trọng và ấm áp — hợp bài phát biểu hoặc email quan trọng." },
+                { "w": "Where do you stand?", "vi": "quan điểm của bạn thế nào?", "ex": "Where do you stand on this?", "exvi": "Quan điểm của anh/chị về việc này thế nào?", "note": "Hỏi lập trường của ai đó — gần với [Khung 47] về hình ảnh “đứng ở đâu”." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I agree with Mai on this one.",
+                  "vi": "Chuyện này tôi đồng ý với Mai.",
+                  "note": "Ghép <b>with</b> (người) + <b>on</b> (chủ đề). Trong họp, câu này là ủng hộ công khai.",
+                  "open": { "en": "Can I add something?", "vi": "Cho tôi bổ sung một ý?" },
+                  "reply": [
+                    { "them": "Thanks for backing me up.", "themvi": "Cảm ơn đã ủng hộ tôi.", "you": "The data supports it, that's all.", "youvi": "Số liệu ủng hộ thôi mà." },
+                    { "them": "Not everyone will agree, though.", "themvi": "Nhưng không phải ai cũng đồng ý đâu.", "you": "Let's put it to the group.", "youvi": "Đưa ra cả nhóm quyết đi." }
+                  ],
+                  "close": { "en": "Glad we're on the same page.", "vi": "May là mình cùng quan điểm." }
+                },
+                {
+                  "en": "I agree in principle, but not with the cost.",
+                  "vi": "Về nguyên tắc tôi đồng ý, nhưng không đồng ý về chi phí.",
+                  "note": "Đồng ý với ý tưởng nhưng giữ lại điểm bất đồng — cực kỳ hữu dụng trong đàm phán.",
+                  "reply": [
+                    { "them": "What number would work?", "themvi": "Con số nào thì được?", "you": "Twenty percent lower.", "youvi": "Thấp hơn hai mươi phần trăm." }
+                  ],
+                  "vars": [
+                    { "en": "I agree up to a point.", "vi": "Tôi đồng ý đến một mức nào đó." }
+                  ]
+                },
+                {
+                  "en": "I couldn't agree more.",
+                  "vi": "Tôi không thể đồng ý hơn được nữa.",
+                  "note": "Nhìn như phủ định nhưng là lời đồng ý <b>mạnh nhất</b> trong tiếng Anh.",
+                  "reply": [
+                    { "them": "Good, that's settled then.", "themvi": "Tốt, vậy là chốt nhé.", "you": "I'll write it up.", "youvi": "Tôi soạn lại thành văn bản." }
+                  ]
+                },
+                {
+                  "en": "We've agreed to the new terms.",
+                  "vi": "Chúng tôi đã chấp thuận điều khoản mới.",
+                  "note": "Dùng <b>agree to</b> cho một đề xuất, KHÔNG phải <i>agree with</i>.",
+                  "reply": [
+                    { "them": "When does it take effect?", "themvi": "Khi nào có hiệu lực?", "you": "From the first of next month.", "youvi": "Từ mùng một tháng sau." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "We agreed on a price yesterday.",
+                  "vi": "Hôm qua chúng ta đã thống nhất mức giá rồi.",
+                  "note": "<b>agree on</b> = hai bên cùng chốt một điều. Nhắc lại thỏa thuận một cách lịch sự nhưng dứt khoát.",
+                  "reply": [
+                    { "them": "Let me check the note.", "themvi": "Để em xem ghi chú ạ.", "you": "Two million, including delivery.", "youvi": "Hai triệu, gồm cả giao hàng." }
+                  ],
+                  "close": { "en": "Thanks for honouring it.", "vi": "Cảm ơn đã giữ đúng thỏa thuận." }
+                },
+                {
+                  "en": "I agree that it's a good deal.",
+                  "vi": "Tôi đồng ý rằng đó là món hời.",
+                  "note": "Trước mệnh đề thì <b>không có giới từ</b> — chỉ <i>that</i>, mà <i>that</i> cũng bỏ được.",
+                  "reply": [
+                    { "them": "So shall I wrap it up?", "themvi": "Vậy em gói lại nhé ạ?", "you": "Yes, please.", "youvi": "Vâng, cảm ơn." }
+                  ]
+                },
+                {
+                  "en": "I agree with you about the quality, but not the price.",
+                  "vi": "Tôi đồng ý với anh/chị về chất lượng, nhưng không đồng ý về giá.",
+                  "reply": [
+                    { "them": "We could do ten percent off.", "themvi": "Bên em giảm mười phần trăm được ạ.", "you": "Then I'd agree to that.", "youvi": "Vậy thì tôi chấp thuận." }
+                  ],
+                  "vars": [
+                    { "en": "I agree up to a point — the quality is good.", "vi": "Tôi đồng ý một phần — chất lượng thì tốt." }
+                  ]
+                },
+                {
+                  "en": "Agreed. I'll take it.",
+                  "vi": "Đồng ý. Tôi lấy.",
+                  "note": "Một từ duy nhất — gọn và dứt khoát, rất tự nhiên khi chốt mua bán.",
+                  "reply": [
+                    { "them": "Great choice. Card or cash?", "themvi": "Lựa chọn tốt ạ. Thẻ hay tiền mặt?", "you": "Card, please.", "youvi": "Cho tôi quẹt thẻ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I couldn't agree more with you on that.",
+                  "vi": "Chuyện đó mình hoàn toàn đồng ý với bạn.",
+                  "reply": [
+                    { "them": "Finally, someone gets it!", "themvi": "Cuối cùng cũng có người hiểu!", "you": "I've thought that for years.", "youvi": "Mình nghĩ vậy nhiều năm rồi." }
+                  ]
+                },
+                {
+                  "en": "Let's agree to disagree on this one.",
+                  "vi": "Chuyện này mình chấp nhận bất đồng nhé.",
+                  "note": "Thành ngữ khép lại tranh luận trong hòa khí. Bản Anh-Anh là <i>agree to differ</i>.",
+                  "open": { "en": "We're going round in circles —", "vi": "Mình cứ nói loanh quanh mãi —" },
+                  "reply": [
+                    { "them": "Probably wise.", "themvi": "Chắc là khôn ngoan đấy.", "you": "No hard feelings.", "youvi": "Không có gì để bụng." }
+                  ],
+                  "close": { "en": "Let's get some food.", "vi": "Đi ăn gì đi." }
+                },
+                {
+                  "en": "I don't agree with that at all, honestly.",
+                  "vi": "Thật lòng thì mình hoàn toàn không đồng ý.",
+                  "note": "Không nói <i>I'm not agree</i>. Phải là <b>I don't agree</b> hoặc <b>I disagree</b>.",
+                  "reply": [
+                    { "them": "Why not?", "themvi": "Sao lại không?", "you": "Because it punishes the wrong people.", "youvi": "Vì nó phạt nhầm người." }
+                  ],
+                  "vars": [
+                    { "en": "I disagree, but I see your point.", "vi": "Mình phản đối, nhưng mình hiểu ý bạn." }
+                  ]
+                },
+                {
+                  "en": "We agreed on Saturday, didn't we?",
+                  "vi": "Mình thống nhất thứ Bảy mà, đúng không?",
+                  "reply": [
+                    { "them": "I thought it was Sunday.", "themvi": "Mình tưởng Chủ nhật.", "you": "One of us wrote it down wrong.", "youvi": "Một trong hai mình ghi nhầm rồi." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I agree — this place is overrated.",
+                  "vi": "Mình đồng ý — chỗ này được khen quá lời.",
+                  "reply": [
+                    { "them": "I'm glad it's not just me.", "themvi": "May là không chỉ mình mình nghĩ vậy.", "you": "Let's find somewhere new next time.", "youvi": "Lần sau tìm chỗ mới đi." }
+                  ]
+                },
+                {
+                  "en": "Let's agree on one place before we leave.",
+                  "vi": "Mình thống nhất một chỗ trước khi đi nhé.",
+                  "note": "<b>agree on</b> cho điều cả nhóm cùng chốt — rất tự nhiên khi bàn chuyện ăn uống.",
+                  "reply": [
+                    { "them": "Good idea. Any preferences?", "themvi": "Ý hay. Ai có ý gì không?", "you": "Somewhere close, ideally.", "youvi": "Lý tưởng thì là chỗ gần." }
+                  ],
+                  "close": { "en": "Agreed — the noodle place it is.", "vi": "Chốt — quán mì nhé." }
+                },
+                {
+                  "en": "I agree that we've ordered too much.",
+                  "vi": "Mình đồng ý là mình gọi hơi nhiều rồi.",
+                  "reply": [
+                    { "them": "We'll take the rest home.", "themvi": "Còn thừa mình mang về.", "you": "I'll ask for boxes.", "youvi": "Mình xin hộp." }
+                  ]
+                },
+                {
+                  "en": "I agree with you about the service, though.",
+                  "vi": "Nhưng mình đồng ý với bạn về dịch vụ.",
+                  "note": "<i>though</i> ở cuối câu = “tuy nhiên”, rất tự nhiên khi vừa chê vừa khen.",
+                  "reply": [
+                    { "them": "They were lovely, weren't they?", "themvi": "Họ dễ thương nhỉ?", "you": "Genuinely warm. That counts.", "youvi": "Ấm áp thật lòng. Điều đó đáng kể." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Let's agree on a meeting point.",
+                  "vi": "Mình thống nhất một điểm hẹn nhé.",
+                  "reply": [
+                    { "them": "The big clock at the station?", "themvi": "Cái đồng hồ lớn ở ga nhé?", "you": "Perfect. Six o'clock.", "youvi": "Chuẩn. Sáu giờ." }
+                  ]
+                },
+                {
+                  "en": "I agree that two nights is enough.",
+                  "vi": "Mình đồng ý là hai đêm là đủ.",
+                  "reply": [
+                    { "them": "Glad we're on the same page.", "themvi": "May là mình cùng quan điểm.", "you": "I'll shorten the booking.", "youvi": "Mình rút ngắn đặt phòng." }
+                  ],
+                  "vars": [
+                    { "en": "Agreed — two nights, then on to the coast.", "vi": "Chốt — hai đêm, rồi ra biển." }
+                  ]
+                },
+                {
+                  "en": "I agreed to the extra insurance, unfortunately.",
+                  "vi": "Tiếc là mình đã chấp thuận gói bảo hiểm thêm.",
+                  "note": "Dùng <b>agree to</b> cho việc chấp thuận một đề nghị — không phải <i>agree with</i>.",
+                  "reply": [
+                    { "them": "How much was it?", "themvi": "Bao nhiêu vậy?", "you": "More than the car, nearly.", "youvi": "Gần bằng tiền thuê xe." }
+                  ]
+                },
+                {
+                  "en": "I agree with you on the route, but not the timing.",
+                  "vi": "Mình đồng ý với bạn về tuyến đường, nhưng không đồng ý về giờ giấc.",
+                  "reply": [
+                    { "them": "What time would you leave?", "themvi": "Bạn sẽ đi lúc mấy giờ?", "you": "An hour earlier, to be safe.", "youvi": "Sớm hơn một tiếng cho chắc." }
+                  ],
+                  "close": { "en": "Let's split the difference.", "vi": "Mình dung hòa đi." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Ủng hộ đồng nghiệp trong cuộc họp",
+          "lines": [
+            { "speaker": "Mai", "en": "I think we should delay the launch by a week.", "vi": "Tôi nghĩ mình nên hoãn ra mắt một tuần." },
+            { "speaker": "You", "me": true, "en": "I agree with Mai on this one.", "vi": "Chuyện này tôi đồng ý với Mai." },
+            { "speaker": "Director", "en": "On what grounds?", "vi": "Dựa trên cơ sở nào?" },
+            { "speaker": "You", "me": true, "en": "I agree that the testing isn't finished. I couldn't agree more, actually.", "vi": "Tôi đồng ý rằng khâu kiểm thử chưa xong. Thật ra tôi cực kỳ đồng ý." },
+            { "speaker": "Director", "en": "And the cost of delaying?", "vi": "Còn chi phí của việc hoãn?" },
+            { "speaker": "You", "me": true, "en": "I agree in principle that it's expensive — but a bad launch costs more.", "vi": "Về nguyên tắc tôi đồng ý là tốn kém — nhưng ra mắt hỏng còn tốn hơn." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Chốt lại một thỏa thuận mua bán",
+          "lines": [
+            { "speaker": "Seller", "en": "So, two million two hundred?", "vi": "Vậy là hai triệu hai ạ?" },
+            { "speaker": "You", "me": true, "en": "We agreed on two million yesterday.", "vi": "Hôm qua mình thống nhất hai triệu mà." },
+            { "speaker": "Seller", "en": "That was before the delivery fee.", "vi": "Đó là chưa tính phí giao hàng ạ." },
+            { "speaker": "You", "me": true, "en": "I agree with you about the fee, but it was included.", "vi": "Tôi đồng ý với em về khoản phí, nhưng nó đã được tính vào rồi." },
+            { "speaker": "Seller", "en": "Let me check the note. You're right.", "vi": "Để em xem ghi chú. Anh/chị nói đúng ạ." },
+            { "speaker": "You", "me": true, "en": "Agreed, then. I'll take it.", "vi": "Vậy chốt nhé. Tôi lấy." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I am agree with you.", "right": "I agree with you.", "why": "LỖI KINH ĐIỂN NHẤT. <b>agree</b> là ĐỘNG TỪ — không bao giờ đi với <i>am / is / are</i>." },
+            { "wrong": "I'm agreeing with you.", "right": "I agree with you.", "why": "<b>agree</b> là động từ trạng thái — không chia tiếp diễn, giống <i>believe</i> ở [Khung 43]." },
+            { "wrong": "I very agree with you.", "right": "I totally agree with you.", "why": "<i>very</i> không bổ nghĩa cho động từ. Dùng <b>totally, completely, absolutely, entirely</b>." },
+            { "wrong": "I agree with your plan. <i>(ý: chấp thuận kế hoạch)</i>", "right": "I agree to your plan.", "why": "<b>agree to</b> = chấp thuận một đề xuất. <i>agree with</i> chỉ là cùng quan điểm, chưa phải cam kết." },
+            { "wrong": "We agreed a price.", "right": "We agreed on a price.", "why": "Khi hai bên cùng chốt một điều thì cần giới từ <b>on</b>. (Dạng bỏ <i>on</i> chỉ đúng trong văn viết kinh doanh Anh-Anh rất trang trọng.)" },
+            { "wrong": "I'm not agree with that.", "right": "I don't agree with that.", "why": "Phủ định của động từ thường dùng <b>don't</b>, không dùng <i>am not</i>. Hoặc nói gọn <i>I disagree</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Mức độ cam kết", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I agree with you.</code>", "Ủng hộ rõ ràng, công khai", "<i>I agree with you on that.</i> Họp, tranh luận."],
+            ["<code>I couldn't agree more.</code>", "Mạnh nhất", "<i>I couldn't agree more.</i> Khi thật sự tâm đắc."],
+            ["<code>I agree up to a point.</code>", "Đồng ý một phần", "<i>I agree up to a point.</i> Mở đường phản biện."],
+            ["<code>That's a good point, but…</code>", "Ghi nhận, chưa ủng hộ", "<i>That's a good point, but…</i> Xem [Khung 52]."],
+            ["<code>I'm with you on that.</code>", "Thân mật — ủng hộ", "<i>I'm with you on that one.</i> Xem [Khung 58]."],
+            ["<code>That makes sense.</code>", "Ghi nhận logic", "<i>That makes sense.</i> Nhẹ nhất."],
+            ["<code>Exactly! / That's right.</code>", "Đồng tình nhiệt tình", "<i>Exactly!</i> Xem [Khung 56]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — đồng ý với một đề xuất" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "That makes sense.", "vi": "Nhẹ nhất — chỉ ghi nhận logic" },
+            { "en": "I agree up to a point.", "vi": "Đồng ý một phần" },
+            { "en": "I agree with you on that.", "vi": "Ủng hộ rõ ràng — chuẩn mực" },
+            { "en": "I totally agree.", "vi": "Nhấn mạnh" },
+            { "en": "I couldn't agree more.", "vi": "Mạnh nhất — không thể hơn" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>agree</b> nhấn ở <b>âm tiết thứ hai</b>: ə-<b>GREE</b>. Người Việt hay nhấn nhầm vào âm đầu.",
+            "Âm đầu /ə/ đọc rất nhẹ và ngắn — gần như <b>“ə-GREE”</b>, không phải “a-gree” rõ hai âm bằng nhau.",
+            "<b>agree with</b> → “ə-GREE-wið”, hai từ dính liền, âm /w/ nối ngay sau /iː/.",
+            "<b>I agree</b> → <b>“ai-yə-GREE”</b> — có âm /j/ chen vào giữa hai nguyên âm.",
+            "<b>I couldn't agree more</b> → “ai-KUD-nt-ə-gree-MOR”, nhấn KUD và MOR, chữ <i>l</i> trong <i>couldn't</i> là âm câm.",
+            "<b>Agreed</b> đứng một mình đọc là <b>/əˈɡriːd/</b> — hai âm tiết, hạ giọng dứt khoát ở cuối."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I agree with you on that point.", "vi": "Luyện shadowing: “ai-yə-GREE-wið-yu”, nhấn GREE." },
+            { "en": "I couldn't agree more.", "vi": "Tập nuốt /t/ ở couldn't và nhấn mạnh vào MORE." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi đồng ý với bạn.", "blank": "__________ you.", "a": "I agree with (KHÔNG phải “I am agree with”)" },
+            { "vi": "Tôi đồng ý rằng việc này quá rủi ro.", "blank": "I agree __________ it's too risky.", "a": "that (không có giới từ trước mệnh đề)" },
+            { "vi": "Họ đã chấp thuận kế hoạch.", "blank": "They agreed __________ the plan.", "a": "to" },
+            { "vi": "Hôm qua chúng tôi đã thống nhất mức giá.", "blank": "We agreed __________ a price yesterday.", "a": "on" },
+            { "vi": "Tôi không thể đồng ý hơn được nữa.", "blank": "I __________ more.", "a": "couldn't agree" },
+            { "vi": "Tôi hoàn toàn đồng ý.", "blank": "I __________ agree.", "a": "totally / completely (KHÔNG phải “very”)" },
+            { "vi": "Về nguyên tắc tôi đồng ý, nhưng không về chi phí.", "blank": "I agree __________, but not with the cost.", "a": "in principle" },
+            { "vi": "Mình chấp nhận bất đồng nhé.", "blank": "Let's __________.", "a": "agree to disagree" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Chuyện này tôi đồng ý với Mai.", "a": "I agree with Mai on this one." },
+            { "vi": "2. Về nguyên tắc tôi đồng ý, nhưng không đồng ý về chi phí.", "a": "I agree in principle, but not with the cost." },
+            { "vi": "3. Hôm qua chúng ta đã thống nhất mức giá rồi.", "a": "We agreed on a price yesterday." },
+            { "vi": "4. Thật lòng thì mình hoàn toàn không đồng ý.", "a": "I don't agree with that at all, honestly." },
+            { "vi": "5. Tôi đồng ý với anh/chị về chất lượng, nhưng không đồng ý về giá.", "a": "I agree with you about the quality, but not the price." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Xóa vĩnh viễn “I am agree” khỏi đầu.</b> <i>agree</i> là động từ. Đọc to <i>I agree</i> mười lần cho thành phản xạ.",
+            "<b>Nhớ bốn giới từ:</b> <i>with</i> người/ý kiến, <i>to</i> đề xuất, <i>on</i> điều thống nhất, <i>that</i> mệnh đề.",
+            "<b>“I couldn't agree more” là đồng ý mạnh nhất</b>, không phải phản đối. Dùng khi thật sự tâm đắc.",
+            "<b>Trạng từ đúng là totally / completely / absolutely</b>, không bao giờ là <i>very</i>.",
+            "<b>Dùng “I agree in principle, but…” khi đàm phán:</b> nó cho bạn đứng cùng phía mà vẫn giữ được điểm bất đồng.",
+            "<b>Bài tập 3 phút:</b> viết 4 câu với bốn giới từ khác nhau — <i>agree with / to / on / that</i> — về cùng một tình huống công việc của bạn."
+          ]
+        }
+      ]
+    }
+  ]
+}

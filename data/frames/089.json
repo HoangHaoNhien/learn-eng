@@ -1,0 +1,501 @@
+{
+  "id": 89,
+  "group": "Nhóm 9 · Cảm xúc & Phản ứng",
+  "title": "What a…! — Câu cảm thán tự nhiên",
+  "subtitle": "Khung câu thốt lên cảm xúc: khen, ngạc nhiên, tiếc nuối. Bẫy nằm ở chữ a: chỉ có a khi danh từ đếm được số ít. Với danh từ không đếm được hay số nhiều thì phải bỏ a đi — What lovely weather! chứ không phải What a lovely weather!",
+  "pattern": [
+    "What <em>a/an + (tính từ) + danh từ số ít</em>!",
+    "What <em>+ (tính từ) + danh từ không đếm được / số nhiều</em>!",
+    "How <em>+ tính từ</em>!"
+  ],
+  "meaning": "… thật là…! / … quá đi mất!",
+  "grammar": [19, 20, 21, 22],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Bẫy: có “a” hay không?" },
+    { "text": "What a + danh từ / How + tính từ" },
+    { "text": "Trình độ: A2–B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">What a…!</span> là cách thốt lên cảm xúc mạnh — khen ngợi, ngạc nhiên, hoặc tiếc nuối. Nó sống động hơn hẳn <i>It's very nice</i> và làm câu nói nghe có cảm xúc thật." },
+        { "t": "p", "html": "Điều phải nắm trước tiên: <b>What</b> đi với <b>DANH TỪ</b>, còn <b>How</b> đi với <b>TÍNH TỪ</b>. Nhầm chỗ này là câu hỏng ngay." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — chữ “a”:</b> chỉ có <b>a/an</b> khi danh từ <b>đếm được, số ít</b>.<br>• <i>What <b>a</b> lovely day!</i> ✓ (day đếm được)<br>• <i>What lovely weather!</i> ✓ (weather KHÔNG đếm được — bỏ <i>a</i>)<br>• <i>What lovely flowers!</i> ✓ (số nhiều — bỏ <i>a</i>)" },
+        { "t": "p", "html": "Danh từ không đếm được hay bị nhầm nhất: <b>weather, news, advice, information, luggage, furniture, work, traffic</b>. Người Việt hay nói <i>What a beautiful weather!</i> ✗ vì tiếng Việt không phân biệt đếm được hay không." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — What hay How:</b> <i>What a beautiful house!</i> ✓ (có danh từ) — <i>How beautiful!</i> ✓ (chỉ có tính từ). Nói <i>What beautiful!</i> ✗ hoặc <i>How a beautiful house!</i> ✗ đều sai." },
+        { "t": "h3", "text": "Ba nhánh phải nhớ" },
+        {
+          "t": "table",
+          "head": ["Danh từ phía sau", "Có “a”?", "Ví dụ"],
+          "rows": [
+            ["Đếm được, số ít", "CÓ a/an", "What a lovely day!"],
+            ["Không đếm được", "KHÔNG", "What lovely weather!"],
+            ["Số nhiều", "KHÔNG", "What lovely flowers!"],
+            ["Không có danh từ", "Dùng How", "How lovely!"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "☀️", "title": "Khen thời tiết", "text": "<i>What lovely weather!</i> Không có <b>a</b> — weather không đếm được." },
+            { "icon": "🏠", "title": "Khen nhà cửa, đồ vật", "text": "<i>What a beautiful house!</i> Có <b>a</b> — house đếm được." },
+            { "icon": "😮", "title": "Ngạc nhiên", "text": "<i>What a surprise!</i>" },
+            { "icon": "😞", "title": "Tiếc nuối, thông cảm", "text": "<i>What a shame!</i> — “Tiếc quá!”" },
+            { "icon": "🙄", "title": "Mỉa mai, bực bội", "text": "<i>What a mess!</i> / <i>What a day!</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Chỉ có tính từ, không có danh từ. Lúc đó dùng <i>How + tính từ</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Danh từ đếm được số ít", "<code>What a/an + (adj) + N!</code>", "What a lovely day!"],
+            ["Không đếm được", "<code>What + (adj) + N!</code>", "What lovely weather!"],
+            ["Số nhiều", "<code>What + (adj) + N số nhiều!</code>", "What lovely flowers!"],
+            ["Không cần tính từ", "<code>What a + N!</code>", "What a surprise!"],
+            ["Chỉ có tính từ", "<code>How + adj!</code>", "How lovely!"],
+            ["Đầy đủ mệnh đề", "<code>What a + N + S + V!</code>", "What a day it's been!"],
+            ["Với “such”", "<code>such a + adj + N</code>", "It was such a long day."],
+            ["Với “so”", "<code>so + adj</code>", "It was so long."],
+            ["Trước nguyên âm", "<code>What an + adj + N!</code>", "What an amazing view!"],
+            ["Tiêu cực", "<code>What a shame / pity!</code>", "What a shame!"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cặp “so” và “such” đi kèm:</b> <i>so + tính từ</i> (<i>It's <b>so</b> hot</i>) nhưng <i>such a + tính từ + danh từ</i> (<i>It's <b>such a</b> hot day</i>). Đúng luật với <i>How</i> và <i>What a</i>." },
+        { "t": "callout", "html": "<b>Trật tự từ khi có mệnh đề:</b> <i>What a nice day <b>it is</b>!</i> ✓ — giữ nguyên trật tự khẳng định, KHÔNG đảo thành <i>is it</i> ✗. Đây là câu cảm thán, không phải câu hỏi." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Có “a” — danh từ đếm được số ít",
+              "items": [
+                { "w": "What a lovely day!", "vi": "Ngày đẹp quá!", "ex": "What a lovely day!", "exvi": "Ngày đẹp quá!", "note": "<i>day</i> ĐẾM ĐƯỢC nên phải có <b>a</b>. So với <i>What lovely weather!</i> không có <i>a</i>." },
+                { "w": "What a beautiful house!", "vi": "Nhà đẹp quá!", "ex": "What a beautiful house!", "exvi": "Nhà đẹp quá!" },
+                { "w": "What a surprise!", "vi": "Bất ngờ quá!", "ex": "What a surprise to see you here!", "exvi": "Gặp bạn ở đây bất ngờ quá!", "note": "Không cần tính từ — <i>What a + danh từ</i> là đủ." },
+                { "w": "What a shame!", "vi": "Tiếc quá!", "ex": "What a shame you can't come.", "exvi": "Tiếc quá là bạn không đến được.", "note": "Không phải “xấu hổ”. Đây là cách nói TIẾC rất thông dụng." },
+                { "w": "What a pity!", "vi": "Tiếc thật!", "ex": "What a pity!", "exvi": "Tiếc thật!", "note": "Cùng nghĩa <i>What a shame</i>, hơi trang trọng hơn." },
+                { "w": "What a mess!", "vi": "Bừa quá!", "ex": "What a mess in here!", "exvi": "Trong này bừa quá!" },
+                { "w": "What a relief!", "vi": "Nhẹ cả người!", "ex": "What a relief!", "exvi": "Nhẹ cả người!" },
+                { "w": "What a coincidence!", "vi": "Trùng hợp quá!", "ex": "What a coincidence!", "exvi": "Trùng hợp quá!" },
+                { "w": "What an amazing view!", "vi": "Cảnh đẹp kinh ngạc!", "ex": "What an amazing view!", "exvi": "Cảnh đẹp kinh ngạc!", "note": "Trước nguyên âm là <b>an</b>, không phải <i>a</i>: <i>an amazing</i>." },
+                { "w": "What an idiot!", "vi": "Đúng là đồ ngốc!", "ex": "What an idiot I've been!", "exvi": "Mình đúng là đồ ngốc!", "note": "Thường tự trách chính mình — nghe tự nhiên hơn là mắng người khác." },
+                { "w": "What a day!", "vi": "Một ngày mệt mỏi!", "ex": "What a day!", "exvi": "Một ngày mệt mỏi thật!", "note": "Không có tính từ nên nghĩa lệ thuộc GIỌNG NÓI: thở dài = mệt, hào hứng = tuyệt." },
+                { "w": "What a nice thing to say!", "vi": "Nói vậy dễ thương quá!", "ex": "What a nice thing to say!", "exvi": "Bạn nói vậy dễ thương quá!" }
+              ]
+            },
+            {
+              "title": "Không có “a” — không đếm được & số nhiều",
+              "items": [
+                { "w": "What lovely weather!", "vi": "Thời tiết đẹp quá!", "ex": "What lovely weather!", "exvi": "Thời tiết đẹp quá!", "note": "BẪY KINH ĐIỂN: <i>weather</i> KHÔNG đếm được. <i>What a lovely weather</i> ✗." },
+                { "w": "What good news!", "vi": "Tin tốt quá!", "ex": "What good news!", "exvi": "Tin tốt quá!", "note": "<i>news</i> có chữ s nhưng KHÔNG đếm được và là SỐ ÍT: <i>The news <b>is</b> good</i>." },
+                { "w": "What terrible traffic!", "vi": "Kẹt xe kinh khủng!", "ex": "What terrible traffic!", "exvi": "Kẹt xe kinh khủng!", "note": "<i>traffic</i> không đếm được — bỏ <i>a</i>." },
+                { "w": "What good advice!", "vi": "Lời khuyên hay quá!", "ex": "What good advice!", "exvi": "Lời khuyên hay quá!", "note": "<i>advice</i> không đếm được. Muốn đếm phải nói <i>a piece of advice</i>." },
+                { "w": "What lovely flowers!", "vi": "Hoa đẹp quá!", "ex": "What lovely flowers!", "exvi": "Hoa đẹp quá!", "note": "SỐ NHIỀU nên bỏ <i>a</i>." },
+                { "w": "What beautiful eyes!", "vi": "Mắt đẹp quá!", "ex": "What beautiful eyes she has!", "exvi": "Cô ấy có đôi mắt đẹp quá!" },
+                { "w": "What delicious food!", "vi": "Đồ ăn ngon quá!", "ex": "What delicious food!", "exvi": "Đồ ăn ngon quá!", "note": "<i>food</i> ở nghĩa chung thì không đếm được." },
+                { "w": "What nonsense!", "vi": "Vớ vẩn!", "ex": "What nonsense!", "exvi": "Vớ vẩn thật!" },
+                { "w": "What fun!", "vi": "Vui quá!", "ex": "What fun!", "exvi": "Vui quá!", "note": "<i>fun</i> không đếm được — <i>What a fun</i> ✗." },
+                { "w": "What luck!", "vi": "May quá!", "ex": "What luck!", "exvi": "May quá!", "note": "Nhưng <i>What a stroke of luck!</i> lại CÓ <i>a</i> vì <i>stroke</i> đếm được." },
+                { "w": "What a piece of luggage ✗", "vi": "chú ý luggage", "ex": "What heavy luggage!", "exvi": "Hành lý nặng quá!", "note": "<i>luggage</i> không đếm được. Đếm thì nói <i>a piece of luggage</i>." },
+                { "w": "What lovely furniture!", "vi": "Nội thất đẹp quá!", "ex": "What lovely furniture!", "exvi": "Nội thất đẹp quá!", "note": "<i>furniture</i> không đếm được và không có dạng số nhiều <i>furnitures</i> ✗." }
+              ]
+            },
+            {
+              "title": "How + tính từ & cách đáp lại",
+              "items": [
+                { "w": "How lovely!", "vi": "Hay quá!", "ex": "How lovely!", "exvi": "Hay quá!", "note": "Chỉ có TÍNH TỪ thì dùng <b>How</b>. <i>What lovely!</i> ✗." },
+                { "w": "How kind of you!", "vi": "Bạn tốt quá!", "ex": "How kind of you!", "exvi": "Bạn tốt quá!", "note": "Cấu trúc <i>How + adj + of you</i> — rất lịch sự." },
+                { "w": "How strange!", "vi": "Lạ thật!", "ex": "How strange!", "exvi": "Lạ thật!" },
+                { "w": "How annoying!", "vi": "Bực thật!", "ex": "How annoying!", "exvi": "Bực thật!", "note": "Đuôi <b>-ing</b> vì nói về SỰ VIỆC. Xem [Khung 81]." },
+                { "w": "How embarrassing!", "vi": "Ngượng quá!", "ex": "How embarrassing!", "exvi": "Ngượng quá!" },
+                { "w": "such a + adj + N", "vi": "thật là một…", "ex": "It was such a long day.", "exvi": "Đó thật là một ngày dài.", "note": "<b>such a</b> đi với DANH TỪ, <b>so</b> đi với tính từ trần: <i>so long</i>." },
+                { "w": "so + adj", "vi": "quá, rất", "ex": "It was so long.", "exvi": "Nó dài quá.", "note": "BẪY: <i>so a long day</i> ✗. Có danh từ thì phải dùng <i>such a</i>." },
+                { "w": "Isn't it lovely?", "vi": "Đẹp nhỉ?", "ex": "Isn't it lovely?", "exvi": "Đẹp nhỉ?", "note": "Câu hỏi phủ định cũng là một cách cảm thán rất tự nhiên." },
+                { "w": "I know, right?", "vi": "Đúng không?", "ex": "I know, right?", "exvi": "Ừ đúng không?", "note": "Cách đồng tình rất thân mật khi ai đó vừa cảm thán." },
+                { "w": "It really is", "vi": "đúng là thế thật", "ex": "It really is.", "exvi": "Đúng là thế thật.", "note": "Đáp lại lời cảm thán bằng cách nhấn mạnh <i>really</i>." },
+                { "w": "Isn't it just", "vi": "còn phải nói", "ex": "Isn't it just!", "exvi": "Còn phải nói!", "note": "Đồng tình mạnh kiểu Anh — nghe rất bản xứ." },
+                { "w": "Tell me about it", "vi": "khỏi phải nói", "ex": "Tell me about it.", "exvi": "Khỏi phải nói.", "note": "Thành ngữ: KHÔNG phải bảo người ta kể, mà là “tôi hiểu quá đi chứ”." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "What lovely weather!",
+                  "vi": "Thời tiết đẹp quá!",
+                  "note": "BẪY KINH ĐIỂN: <i>weather</i> KHÔNG đếm được nên KHÔNG có <b>a</b>. <i>What a lovely weather</i> ✗.",
+                  "open": { "en": "Shall we sit outside?", "vi": "Mình ngồi ngoài nhé?" },
+                  "reply": [
+                    { "them": "Isn't it just! Finally some sun.", "themvi": "Còn phải nói! Cuối cùng cũng có nắng.", "you": "Let's make the most of it.", "youvi": "Tận hưởng cho đã đi." },
+                    { "them": "They say it'll last all week.", "themvi": "Nghe nói kéo dài cả tuần đấy.", "you": "What good news!", "youvi": "Tin tốt quá!" }
+                  ],
+                  "close": { "en": "I'll grab us a table outside.", "vi": "Mình kiếm bàn ngoài trời nhé." }
+                },
+                {
+                  "en": "What a lovely day!",
+                  "vi": "Ngày đẹp quá!",
+                  "note": "Ở đây CÓ <b>a</b> vì <i>day</i> đếm được. So thẳng với <i>What lovely weather!</i> để nhớ luật.",
+                  "reply": [
+                    { "them": "It really is.", "themvi": "Đúng là thế thật.", "you": "Perfect for a walk.", "youvi": "Hợp để đi dạo quá." }
+                  ],
+                  "vars": [
+                    { "en": "How lovely!", "vi": "Hay quá!" }
+                  ]
+                },
+                {
+                  "en": "What a shame you can't come.",
+                  "vi": "Tiếc quá là bạn không đến được.",
+                  "note": "<b>shame</b> ở đây KHÔNG phải “xấu hổ” — nó là cách nói TIẾC thông dụng nhất.",
+                  "reply": [
+                    { "them": "I know, I'm gutted.", "themvi": "Mình biết, mình tiếc lắm.", "you": "Next time for sure.", "youvi": "Lần sau chắc chắn nhé." }
+                  ]
+                },
+                {
+                  "en": "How kind of you!",
+                  "vi": "Bạn tốt quá!",
+                  "note": "Chỉ có TÍNH TỪ nên dùng <b>How</b>, không dùng <i>What</i>. Cấu trúc <i>How + adj + of you</i>.",
+                  "reply": [
+                    { "them": "It was nothing.", "themvi": "Có gì đâu.", "you": "It means a lot.", "youvi": "Với mình rất có ý nghĩa. Xem [Khung 78]." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "What a day!",
+                  "vi": "Một ngày mệt mỏi thật!",
+                  "note": "Không có tính từ nên nghĩa nằm ở GIỌNG NÓI: thở dài = mệt, hào hứng = tuyệt vời.",
+                  "reply": [
+                    { "them": "Tell me about it.", "themvi": "Khỏi phải nói.", "you": "Same time tomorrow, I suppose.", "youvi": "Mai chắc lại thế thôi." }
+                  ],
+                  "close": { "en": "Right, I'm off home.", "vi": "Thôi, tôi về đây." }
+                },
+                {
+                  "en": "What good news!",
+                  "vi": "Tin tốt quá!",
+                  "note": "<i>news</i> có chữ <b>s</b> nhưng KHÔNG đếm được và chia SỐ ÍT: <i>The news <b>is</b> good</i> ✓.",
+                  "reply": [
+                    { "them": "We found out this morning.", "themvi": "Sáng nay bên tôi mới biết.", "you": "That's made my week.", "youvi": "Cả tuần của tôi tươi hẳn." }
+                  ],
+                  "vars": [
+                    { "en": "What a relief!", "vi": "Nhẹ cả người!" }
+                  ]
+                },
+                {
+                  "en": "What good advice — thank you.",
+                  "vi": "Lời khuyên hay quá — cảm ơn anh/chị.",
+                  "note": "<i>advice</i> KHÔNG đếm được. Muốn đếm phải nói <i>a piece of advice</i>.",
+                  "reply": [
+                    { "them": "Happy to help.", "themvi": "Giúp được là tôi vui.", "you": "I'll try it this week.", "youvi": "Tuần này tôi sẽ thử." }
+                  ]
+                },
+                {
+                  "en": "It was such a long meeting.",
+                  "vi": "Cuộc họp dài kinh khủng.",
+                  "note": "<b>such a</b> + tính từ + DANH TỪ. Nếu bỏ danh từ thì phải là <i>It was <b>so</b> long</i>.",
+                  "reply": [
+                    { "them": "Three hours! What a waste.", "themvi": "Ba tiếng! Phí thật.", "you": "We could have done it by email.", "youvi": "Gửi email là xong rồi." }
+                  ],
+                  "close": { "en": "I'll suggest a shorter agenda.", "vi": "Tôi sẽ đề xuất chương trình gọn hơn." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "What an amazing view!",
+                  "vi": "Cảnh đẹp kinh ngạc!",
+                  "note": "Trước NGUYÊN ÂM dùng <b>an</b>, không phải <i>a</i>: <i>an amazing</i> ✓.",
+                  "reply": [
+                    { "them": "Worth the climb, isn't it?", "themvi": "Leo lên cũng đáng nhỉ?", "you": "Absolutely worth it.", "youvi": "Đáng quá đi chứ." }
+                  ],
+                  "close": { "en": "Let's get a photo.", "vi": "Chụp một tấm đi." }
+                },
+                {
+                  "en": "What terrible traffic!",
+                  "vi": "Kẹt xe kinh khủng!",
+                  "note": "<i>traffic</i> KHÔNG đếm được nên bỏ <b>a</b>. <i>What a terrible traffic</i> ✗.",
+                  "reply": [
+                    { "them": "There's been an accident.", "themvi": "Có vụ tai nạn đấy.", "you": "That explains it.", "youvi": "Thảo nào." }
+                  ],
+                  "vars": [
+                    { "en": "How annoying!", "vi": "Bực thật!" }
+                  ]
+                },
+                {
+                  "en": "What heavy luggage you've got!",
+                  "vi": "Hành lý của bạn nặng quá!",
+                  "note": "<i>luggage</i> không đếm được. Trật tự KHÔNG đảo: <i>you've got</i> ✓, không phải <i>have you got</i> ✗.",
+                  "reply": [
+                    { "them": "I always overpack.", "themvi": "Mình lúc nào cũng mang thừa.", "you": "Let me take one.", "youvi": "Để mình xách hộ một cái." }
+                  ]
+                },
+                {
+                  "en": "What a coincidence — I was on that flight too!",
+                  "vi": "Trùng hợp quá — mình cũng bay chuyến đó!",
+                  "reply": [
+                    { "them": "No way! Which seat?", "themvi": "Không thể tin được! Ghế nào?", "you": "Right at the back.", "youvi": "Tít đằng sau." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "What delicious food!",
+                  "vi": "Đồ ăn ngon quá!",
+                  "note": "<i>food</i> ở nghĩa chung thì KHÔNG đếm được — bỏ <b>a</b>.",
+                  "reply": [
+                    { "them": "I'm so glad you like it.", "themvi": "Mình mừng là bạn thích.", "you": "You have to give me the recipe.", "youvi": "Bạn phải cho mình công thức." }
+                  ],
+                  "close": { "en": "I'll definitely make this.", "vi": "Mình chắc chắn sẽ nấu món này." }
+                },
+                {
+                  "en": "What a lovely meal that was!",
+                  "vi": "Bữa ăn vừa rồi tuyệt quá!",
+                  "note": "<i>meal</i> đếm được nên CÓ <b>a</b>. Trật tự giữ nguyên: <i>that was</i> ✓, không phải <i>was that</i> ✗.",
+                  "reply": [
+                    { "them": "I know, right?", "themvi": "Ừ đúng không?", "you": "Best I've had in ages.", "youvi": "Ngon nhất mình ăn được lâu rồi." }
+                  ]
+                },
+                {
+                  "en": "What a shame they're fully booked.",
+                  "vi": "Tiếc quá là quán hết chỗ rồi.",
+                  "reply": [
+                    { "them": "There's another one round the corner.", "themvi": "Có quán khác ngay góc kia.", "you": "Let's try that.", "youvi": "Thử quán đó đi." }
+                  ],
+                  "vars": [
+                    { "en": "What a pity!", "vi": "Tiếc thật!" }
+                  ]
+                },
+                {
+                  "en": "How lovely — did you make this yourself?",
+                  "vi": "Ngon quá — bạn tự làm đấy à?",
+                  "note": "<b>How</b> + tính từ, không có danh từ theo sau. Đây là mẫu khen ngắn gọn nhất.",
+                  "reply": [
+                    { "them": "I did, actually.", "themvi": "Ừ, mình tự làm đấy.", "you": "I'm impressed.", "youvi": "Mình nể bạn thật." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "What a beautiful bag!",
+                  "vi": "Cái túi đẹp quá!",
+                  "note": "<i>bag</i> đếm được số ít nên CÓ <b>a</b>.",
+                  "reply": [
+                    { "them": "It's new in this week.", "themvi": "Hàng mới về tuần này ạ.", "you": "Do you have it in black?", "youvi": "Có màu đen không em?" }
+                  ]
+                },
+                {
+                  "en": "What lovely furniture you have here!",
+                  "vi": "Nội thất ở đây đẹp quá!",
+                  "note": "<i>furniture</i> không đếm được và KHÔNG có dạng <i>furnitures</i> ✗.",
+                  "reply": [
+                    { "them": "Thank you — most of it is local.", "themvi": "Cảm ơn anh/chị — phần lớn là hàng địa phương ạ.", "you": "That's good to know.", "youvi": "Biết vậy hay quá." }
+                  ],
+                  "close": { "en": "I'll come back with my partner.", "vi": "Tôi sẽ quay lại cùng nhà tôi." }
+                },
+                {
+                  "en": "What a shame it's out of stock.",
+                  "vi": "Tiếc quá là hết hàng rồi.",
+                  "reply": [
+                    { "them": "We can order it in for you.", "themvi": "Bên em đặt về cho anh/chị được ạ.", "you": "How long would that take?", "youvi": "Mất bao lâu vậy em?" }
+                  ],
+                  "vars": [
+                    { "en": "How annoying!", "vi": "Bực thật!" }
+                  ]
+                },
+                {
+                  "en": "What a relief — I thought I'd lost my card.",
+                  "vi": "Nhẹ cả người — tôi tưởng mất thẻ rồi.",
+                  "reply": [
+                    { "them": "Someone handed it in this morning.", "themvi": "Sáng nay có người nhặt được đem lên ạ.", "you": "What luck! Thank you.", "youvi": "May quá! Cảm ơn em." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Đến thăm nhà bạn lần đầu",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "What a beautiful house!", "vi": "Nhà đẹp quá!" },
+            { "speaker": "Friend", "en": "Thank you! Come through.", "vi": "Cảm ơn bạn! Vào trong đi." },
+            { "speaker": "You", "me": true, "en": "And what lovely furniture. Did you choose it all?", "vi": "Nội thất cũng đẹp nữa. Bạn tự chọn hết à?" },
+            { "speaker": "Friend", "en": "Mostly. It took months.", "vi": "Gần hết. Mất mấy tháng đấy." },
+            { "speaker": "You", "me": true, "en": "What a lovely view from here too!", "vi": "Nhìn từ đây cảnh cũng đẹp quá!" },
+            { "speaker": "Friend", "en": "That's why we bought it.", "vi": "Chính vì thế mà bọn mình mua nhà này." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Gặp lại người quen tình cờ ngoài phố",
+          "lines": [
+            { "speaker": "Friend", "en": "Hello! Fancy seeing you here.", "vi": "Ơ chào bạn! Gặp bạn ở đây cơ đấy." },
+            { "speaker": "You", "me": true, "en": "What a surprise! And what lovely weather for it.", "vi": "Bất ngờ quá! Mà thời tiết cũng đẹp nữa chứ." },
+            { "speaker": "Friend", "en": "Isn't it just. I've got good news, actually.", "vi": "Còn phải nói. Mà mình có tin tốt đấy." },
+            { "speaker": "You", "me": true, "en": "Go on — what good news!", "vi": "Kể đi — tin tốt gì thế!" },
+            { "speaker": "Friend", "en": "I got the job.", "vi": "Mình được nhận việc rồi." },
+            { "speaker": "You", "me": true, "en": "What a relief for you! How wonderful.", "vi": "Bạn nhẹ cả người rồi! Tuyệt quá." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "What <b>a</b> lovely weather!", "right": "What lovely weather!", "why": "BẪY SỐ MỘT: <i>weather</i> KHÔNG đếm được nên không có <b>a</b>. Cùng luật với <i>news, advice, traffic, furniture</i>." },
+            { "wrong": "What <b>a</b> lovely flowers!", "right": "What lovely flowers!", "why": "Danh từ SỐ NHIỀU cũng không bao giờ đi với <b>a</b>." },
+            { "wrong": "<b>What</b> beautiful!", "right": "<b>How</b> beautiful!", "why": "BẪY SỐ HAI: chỉ có tính từ thì dùng <b>How</b>. <i>What</i> bắt buộc phải có danh từ theo sau." },
+            { "wrong": "<b>How a</b> beautiful house!", "right": "<b>What a</b> beautiful house!", "why": "Ngược lại: có DANH TỪ thì phải dùng <b>What a</b>. <i>How</i> không bao giờ đi với mạo từ." },
+            { "wrong": "What a nice day <b>is it</b>!", "right": "What a nice day <b>it is</b>!", "why": "Đây là câu CẢM THÁN, không phải câu hỏi — giữ nguyên trật tự khẳng định, không đảo." },
+            { "wrong": "It was <b>so a</b> long day.", "right": "It was <b>such a</b> long day.", "why": "<b>so</b> đi với tính từ trần (<i>so long</i>), <b>such a</b> đi với tính từ + danh từ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Dùng khi", "Ví dụ"],
+          "rows": [
+            ["<code>What a/an + (adj) + N số ít</code>", "Danh từ đếm được, số ít", "What a lovely day!"],
+            ["<code>What + (adj) + N không đếm được</code>", "weather, news, advice, traffic", "What lovely weather!"],
+            ["<code>What + (adj) + N số nhiều</code>", "Danh từ số nhiều", "What lovely flowers!"],
+            ["<code>How + adj</code>", "Chỉ có tính từ, không có danh từ", "How lovely!"],
+            ["<code>such a + adj + N</code>", "Trong câu đầy đủ, có danh từ", "It was such a long day."],
+            ["<code>so + adj</code>", "Trong câu đầy đủ, không có danh từ", "It was so long."],
+            ["<code>That sounds + adj</code>", "Phản ứng với điều vừa NGHE. Xem [Khung 85]", "That sounds great!"]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ cảm thán" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "That's nice.", "vi": "Nhạt nhất — gần như cho có" },
+            { "en": "How lovely!", "vi": "Ngắn gọn, ấm áp" },
+            { "en": "What a lovely day!", "vi": "Cảm thán đầy đủ" },
+            { "en": "What an absolutely beautiful day!", "vi": "Thêm trạng từ nhấn mạnh" },
+            { "en": "What a day! I've never seen anything like it.", "vi": "Mạnh nhất — cảm thán kèm giải thích" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>What a</b> nối thành một khối <b>“WO-tə”</b> — âm /t/ biến thành /d/ nhẹ ở giọng Mỹ: “WA-də”.",
+            "<b>What an</b> → <b>“WO-tən”</b>, nghe liền một hơi trước từ bắt đầu bằng nguyên âm.",
+            "<b>Trọng âm rơi vào TÍNH TỪ</b>, không phải vào <i>what</i>: “what a <b>LOVE</b>-ly day”.",
+            "<b>Giọng phải LÊN rồi XUỐNG mạnh</b> ở tính từ — đây là điều làm câu nghe có cảm xúc thật.",
+            "<b>Nói giọng phẳng thì thành mỉa mai.</b> <i>What a day…</i> đều đều nghĩa là “ngày tệ thật”.",
+            "<b>What a shame</b> → “wo-tə-SHEIM”, kéo dài âm /ei/ để nghe đúng chất tiếc nuối."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "What a lovely day!", "vi": "Luyện shadowing: “WO-tə-LOVE-li-DEI”, lên giọng mạnh ở LOVE." },
+            { "en": "What lovely weather!", "vi": "Tập bỏ hẳn chữ a và nối “what-LOVE-li-WE-ðə” liền một hơi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Ngày đẹp quá!", "blank": "What __________ lovely day!", "a": "a (day đếm được)" },
+            { "vi": "Thời tiết đẹp quá!", "blank": "What __________ lovely weather!", "a": "(không điền gì — weather không đếm được)" },
+            { "vi": "Hoa đẹp quá!", "blank": "What __________ lovely flowers!", "a": "(không điền gì — số nhiều)" },
+            { "vi": "Đẹp quá! (không có danh từ)", "blank": "__________ beautiful!", "a": "How" },
+            { "vi": "Cảnh đẹp kinh ngạc!", "blank": "What __________ amazing view!", "a": "an (trước nguyên âm)" },
+            { "vi": "Tin tốt quá!", "blank": "What __________ good news!", "a": "(không điền gì — news không đếm được)" },
+            { "vi": "Đó thật là một ngày dài.", "blank": "It was __________ a long day.", "a": "such" },
+            { "vi": "Ngày đẹp nhỉ! (đầy đủ mệnh đề)", "blank": "What a nice day __________!", "a": "it is (không đảo thành “is it”)" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Thời tiết đẹp quá!", "a": "What lovely weather!" },
+            { "vi": "2. Nhà đẹp quá!", "a": "What a beautiful house!" },
+            { "vi": "3. Tiếc quá là bạn không đến được.", "a": "What a shame you can't come." },
+            { "vi": "4. Bạn tốt quá!", "a": "How kind of you!" },
+            { "vi": "5. Cuộc họp dài kinh khủng.", "a": "It was such a long meeting." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Hỏi một câu trước khi nói:</b> “Danh từ này đếm được và số ít không?” Có thì thêm <i>a/an</i>, không thì bỏ.",
+            "<b>Học thuộc danh sách không đếm được:</b> weather, news, advice, information, traffic, luggage, furniture, work, fun, luck.",
+            "<b>What đi với DANH TỪ, How đi với TÍNH TỪ.</b> Hai chữ này không bao giờ đổi chỗ cho nhau.",
+            "<b>Trong câu đầy đủ:</b> <i>so + tính từ</i> nhưng <i>such a + tính từ + danh từ</i>. Cùng một luật.",
+            "<b>Đừng đảo trật tự:</b> <i>What a nice day it is!</i> — đây là cảm thán, không phải câu hỏi.",
+            "<b>Bài tập 3 phút:</b> nhìn quanh phòng, thốt lên năm câu — hai câu có <i>a</i>, hai câu không có <i>a</i>, một câu dùng <i>How</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

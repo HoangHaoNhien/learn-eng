@@ -1,0 +1,500 @@
+{
+  "id": 94,
+  "group": "Nhóm 10 · Kể chuyện, Kế hoạch & Thời gian",
+  "title": "I've been… for/since — Việc kéo dài đến tận bây giờ",
+  "subtitle": "Khung câu nói một việc bắt đầu trong quá khứ và VẪN ĐANG tiếp tục. Đây là chỗ người Việt mắc lỗi nhiều nhất: I am working here for three years ✗ — tiếng Việt không có thì hoàn thành nên ta quen dùng hiện tại. Cộng thêm cặp for và since rất dễ lẫn.",
+  "pattern": [
+    "I've been <em>+ V-ing + for + khoảng thời gian</em>.",
+    "I've been <em>+ V-ing + since + mốc thời gian</em>.",
+    "How long have you been <em>+ V-ing</em>?"
+  ],
+  "meaning": "Tôi đã… được… rồi (và vẫn đang tiếp tục)",
+  "grammar": [2, 5, 6, 7],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "for + khoảng / since + mốc" },
+    { "text": "KHÔNG dùng “I am… for…”" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I've been working here for three years</span> nói hai điều cùng lúc: việc đó <b>bắt đầu ba năm trước</b> và <b>đến giờ vẫn đang tiếp tục</b>. Tiếng Việt gói cả hai vào một câu hiện tại đơn, nên người học hay dịch thẳng và sai." },
+        { "t": "callout", "html": "<b>LỖI SỐ MỘT CỦA NGƯỜI VIỆT:</b> <i>I am working here for three years</i> ✗ — <i>I <b>have been</b> working here for three years</i> ✓. Hiện tại tiếp diễn chỉ nói chuyện <b>đang xảy ra lúc này</b>, không kéo dài về quá khứ được. Xem [Khung 92]." },
+        { "t": "h3", "text": "for hay since — cặp phải phân biệt cho chắc" },
+        {
+          "t": "table",
+          "head": ["Từ", "Theo sau là", "Ví dụ"],
+          "rows": [
+            ["<code>for</code>", "KHOẢNG thời gian (bao lâu)", "for three years, for ten minutes"],
+            ["<code>since</code>", "MỐC thời gian (từ khi nào)", "since 2020, since Monday"],
+            ["<code>since</code>", "Cả một mệnh đề quá khứ", "since I moved here"],
+            ["<code>How long…?</code>", "Câu hỏi cho cả hai", "How long have you been here?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Mẹo nhớ:</b> <i>for</i> trả lời câu hỏi “bao <b>lâu</b>?”, còn <i>since</i> trả lời “từ <b>khi nào</b>?”. Người Việt hay nói <i>since three years</i> ✗ vì tiếng Việt dùng chung một chữ “từ”." },
+        { "t": "p", "html": "Còn một cặp nữa: <b>have been V-ing</b> nhấn vào <b>quá trình kéo dài</b> (<i>I've been waiting for an hour</i>), còn <b>have V3</b> nhấn vào <b>kết quả</b> (<i>I've finished</i>). Với động từ trạng thái thì bắt buộc dùng dạng V3: <i>I've <b>known</b> him for years</i> ✓." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💼", "title": "Nói thâm niên công việc", "text": "<i>I've been working here for three years.</i>" },
+            { "icon": "📚", "title": "Nói về việc học", "text": "<i>I've been learning English since 2019.</i>" },
+            { "icon": "⏳", "title": "Phàn nàn vì chờ lâu", "text": "<i>I've been waiting for an hour.</i>" },
+            { "icon": "❓", "title": "Hỏi thâm niên người khác", "text": "<i>How long have you been here?</i>" },
+            { "icon": "🏠", "title": "Nói nơi ở", "text": "<i>I've been living here since March.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Việc đã kết thúc hẳn. Lúc đó là <i>I worked there for three years</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Khoảng thời gian", "<code>I've been + V-ing + for…</code>", "I've been waiting for an hour."],
+            ["Mốc thời gian", "<code>I've been + V-ing + since…</code>", "I've been here since nine."],
+            ["Câu hỏi", "<code>How long have you been + V-ing?</code>", "How long have you been working here?"],
+            ["Phủ định", "<code>I haven't + V3 + for…</code>", "I haven't seen him for years."],
+            ["Ngôi thứ ba", "<code>He's been + V-ing…</code>", "He's been calling all day."],
+            ["Nhấn kết quả", "<code>I've + V3.</code>", "I've finished."],
+            ["Động từ trạng thái", "<code>I've known / had / been</code>", "I've known him for years."],
+            ["Việc đã kết thúc", "<code>I worked there for…</code>", "I worked there for three years."],
+            ["Since + mệnh đề", "<code>since + S + V2</code>", "since I moved here"],
+            ["Nhấn mạnh sự lâu", "<code>I've been + V-ing + ages.</code>", "I've been waiting ages."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cặp câu thay đổi cả nghĩa:</b> <i>I've worked here for three years</i> = tôi <b>vẫn đang</b> làm ở đây. <i>I worked here for three years</i> = tôi <b>đã nghỉ</b> rồi. Chỉ khác một chữ <i>have</i>, nhưng người nghe hiểu hai chuyện khác hẳn." },
+        { "t": "callout", "html": "<b>Động từ trạng thái không có dạng tiếp diễn:</b> <i>I've <b>known</b> him for years</i> ✓ — <i>I've been knowing him</i> ✗. Cùng danh sách với [Khung 92]: <i>know, understand, believe, want, need, like, own, be, have (sở hữu)</i>." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các dạng của khung",
+              "items": [
+                { "w": "I've been working", "vi": "tôi đã làm việc", "ex": "I've been working here for three years.", "exvi": "Tôi làm ở đây được ba năm rồi.", "note": "LỖI SỐ MỘT: <i>I am working here for three years</i> ✗. Bắt buộc phải có <b>have been</b>." },
+                { "w": "I've been living", "vi": "tôi đã sống", "ex": "I've been living here since March.", "exvi": "Tôi sống ở đây từ tháng Ba." },
+                { "w": "I've been learning", "vi": "tôi đã học", "ex": "I've been learning English since 2019.", "exvi": "Tôi học tiếng Anh từ năm 2019." },
+                { "w": "I've been waiting", "vi": "tôi đã chờ", "ex": "I've been waiting for an hour.", "exvi": "Tôi chờ cả tiếng rồi.", "note": "Nhấn vào QUÁ TRÌNH kéo dài — nghe rõ sự sốt ruột." },
+                { "w": "I've been trying", "vi": "tôi đã cố", "ex": "I've been trying to call you.", "exvi": "Tôi cố gọi cho bạn mãi." },
+                { "w": "I've been meaning to", "vi": "tôi vẫn định", "ex": "I've been meaning to call you.", "exvi": "Tôi vẫn định gọi cho bạn mãi.", "note": "Cụm rất hay khi xin lỗi vì chậm liên lạc — nghe chân thành hơn lời xin lỗi suông." },
+                { "w": "How long have you been…?", "vi": "bạn đã… được bao lâu?", "ex": "How long have you been working here?", "exvi": "Bạn làm ở đây được bao lâu rồi?", "note": "Câu hỏi chuẩn cho khung này. Trật tự: <i>How long + have + you + been + V-ing?</i>" },
+                { "w": "He's been calling", "vi": "anh ấy gọi liên tục", "ex": "He's been calling all day.", "exvi": "Anh ấy gọi cả ngày.", "note": "<i>He's</i> ở đây là <i>He has</i>, không phải <i>He is</i>." },
+                { "w": "I've been here since nine", "vi": "tôi ở đây từ chín giờ", "ex": "I've been here since nine.", "exvi": "Tôi ở đây từ chín giờ.", "note": "Với <i>be</i> thì bỏ luôn V-ing: <i>I've been here</i> ✓, không phải <i>I've been being here</i> ✗." },
+                { "w": "I've been thinking about", "vi": "tôi vẫn đang nghĩ về", "ex": "I've been thinking about it a lot.", "exvi": "Tôi nghĩ về chuyện đó nhiều lắm." },
+                { "w": "I've been busy", "vi": "tôi bận suốt", "ex": "I've been busy lately.", "exvi": "Dạo này tôi bận suốt." },
+                { "w": "We've been friends", "vi": "chúng tôi là bạn", "ex": "We've been friends since school.", "exvi": "Chúng tôi là bạn từ hồi đi học." }
+              ]
+            },
+            {
+              "title": "for, since & từ dễ nhầm",
+              "items": [
+                { "w": "for three years", "vi": "được ba năm", "ex": "for three years", "exvi": "được ba năm rồi", "note": "<b>for</b> + KHOẢNG thời gian — trả lời câu hỏi “bao lâu?”." },
+                { "w": "for an hour", "vi": "được một tiếng", "ex": "I've been waiting for an hour.", "exvi": "Tôi chờ một tiếng rồi." },
+                { "w": "for ages", "vi": "lâu lắm rồi", "ex": "I haven't seen him for ages.", "exvi": "Lâu lắm rồi tôi không gặp anh ấy.", "note": "<i>ages</i> = rất lâu. Cụm khẩu ngữ rất thông dụng." },
+                { "w": "since 2020", "vi": "từ năm 2020", "ex": "since 2020", "exvi": "từ năm 2020", "note": "<b>since</b> + MỐC thời gian — trả lời “từ khi nào?”. <i>since three years</i> ✗." },
+                { "w": "since Monday", "vi": "từ thứ Hai", "ex": "I've been ill since Monday.", "exvi": "Tôi ốm từ thứ Hai." },
+                { "w": "since I moved here", "vi": "từ khi tôi chuyển đến đây", "ex": "since I moved here", "exvi": "từ khi tôi chuyển đến đây", "note": "Sau <i>since</i> có thể là cả MỆNH ĐỀ chia ở QUÁ KHỨ ĐƠN." },
+                { "w": "since three years ✗", "vi": "cụm sai kinh điển", "ex": "for three years ✓", "exvi": "được ba năm", "note": "BẪY: tiếng Việt dùng chung chữ “từ” cho cả hai nên rất dễ nhầm." },
+                { "w": "I worked there for…", "vi": "tôi từng làm ở đó", "ex": "I worked there for three years.", "exvi": "Tôi từng làm ở đó ba năm.", "note": "Quá khứ đơn = việc ĐÃ KẾT THÚC. Khác hẳn <i>I've worked there</i> = vẫn đang làm." },
+                { "w": "I've known him", "vi": "tôi quen anh ấy", "ex": "I've known him for years.", "exvi": "Tôi quen anh ấy nhiều năm rồi.", "note": "Động từ TRẠNG THÁI dùng dạng V3, không có tiếp diễn: <i>I've been knowing</i> ✗." },
+                { "w": "I've had this car", "vi": "tôi có xe này", "ex": "I've had this car since 2018.", "exvi": "Tôi có chiếc xe này từ 2018.", "note": "<i>have</i> nghĩa SỞ HỮU cũng không tiếp diễn. Xem [Khung 92]." },
+                { "w": "ever since", "vi": "từ hồi đó đến giờ", "ex": "Ever since then, I've been careful.", "exvi": "Từ hồi đó đến giờ tôi cẩn thận hơn." },
+                { "w": "up until now", "vi": "cho đến giờ", "ex": "Up until now, it's been fine.", "exvi": "Cho đến giờ thì vẫn ổn." }
+              ]
+            },
+            {
+              "title": "Phản ứng & nối tiếp",
+              "items": [
+                { "w": "That long?", "vi": "lâu thế cơ à?", "ex": "That long? I had no idea.", "exvi": "Lâu thế cơ à? Mình không biết đấy." },
+                { "w": "Time flies", "vi": "thời gian trôi nhanh", "ex": "Time flies, doesn't it?", "exvi": "Thời gian trôi nhanh nhỉ?" },
+                { "w": "It doesn't feel that long", "vi": "thấy có lâu vậy đâu", "ex": "It doesn't feel that long.", "exvi": "Thấy đâu có lâu vậy đâu." },
+                { "w": "Sorry to keep you waiting", "vi": "xin lỗi đã để bạn chờ", "ex": "Sorry to keep you waiting.", "exvi": "Xin lỗi đã để anh/chị chờ.", "note": "Câu xin lỗi chuẩn khi người ta phải đợi. Xem [Khung 79]." },
+                { "w": "How's it going so far?", "vi": "đến giờ thế nào rồi?", "ex": "How's it going so far?", "exvi": "Đến giờ mọi việc thế nào rồi? Xem [Khung 76]." },
+                { "w": "Any luck?", "vi": "có kết quả gì không?", "ex": "Any luck yet?", "exvi": "Có kết quả gì chưa?" },
+                { "w": "Not yet", "vi": "chưa", "ex": "Not yet, I'm afraid.", "exvi": "Rất tiếc là chưa." },
+                { "w": "Still nothing", "vi": "vẫn chưa gì cả", "ex": "Still nothing.", "exvi": "Vẫn chưa có gì." },
+                { "w": "I'll chase it up", "vi": "tôi sẽ giục", "ex": "I'll chase it up for you.", "exvi": "Tôi sẽ giục giúp anh/chị.", "note": "<b>chase up</b> = thúc giục cho xong việc. Rất thông dụng ở công sở." },
+                { "w": "Bear with me", "vi": "chờ tôi chút", "ex": "Bear with me a moment.", "exvi": "Anh/chị chờ tôi một chút.", "note": "Lịch sự hơn <i>wait</i> nhiều khi cần người ta kiên nhẫn." },
+                { "w": "It won't be long now", "vi": "sắp xong rồi", "ex": "It won't be long now.", "exvi": "Sắp xong rồi ạ." },
+                { "w": "Thanks for your patience", "vi": "cảm ơn đã kiên nhẫn", "ex": "Thanks for your patience.", "exvi": "Cảm ơn anh/chị đã kiên nhẫn." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I've been working here for three years.",
+                  "vi": "Tôi làm ở đây được ba năm rồi.",
+                  "note": "LỖI SỐ MỘT: <i>I am working here for three years</i> ✗. Bắt buộc là <b>have been working</b>.",
+                  "open": { "en": "How long have you been with the company?", "vi": "Anh/chị gắn bó với công ty bao lâu rồi?" },
+                  "reply": [
+                    { "them": "That long? It doesn't feel it.", "themvi": "Lâu thế cơ à? Thấy đâu có lâu vậy.", "you": "Time flies, doesn't it?", "youvi": "Thời gian trôi nhanh nhỉ?" },
+                    { "them": "You must know the systems inside out.", "themvi": "Chắc anh/chị nắm hệ thống rất rõ.", "you": "Most of them, yes.", "youvi": "Phần lớn thì đúng vậy." }
+                  ],
+                  "close": { "en": "Let me know if you need a hand.", "vi": "Cần gì cứ nói tôi nhé." }
+                },
+                {
+                  "en": "I've been trying to reach you all morning.",
+                  "vi": "Tôi cố liên lạc với anh/chị cả sáng nay.",
+                  "note": "Nhấn vào QUÁ TRÌNH kéo dài — nghe rõ sự sốt ruột, mạnh hơn <i>I tried to call you</i>.",
+                  "reply": [
+                    { "them": "Sorry, I was in back-to-back meetings.", "themvi": "Xin lỗi, tôi họp liên tục.", "you": "No worries. Have you got five minutes now?", "youvi": "Không sao. Giờ anh/chị rảnh năm phút chứ?" }
+                  ],
+                  "vars": [
+                    { "en": "I've been calling you all morning.", "vi": "Tôi gọi cho anh/chị cả sáng." }
+                  ]
+                },
+                {
+                  "en": "I worked there for three years.",
+                  "vi": "Tôi từng làm ở đó ba năm.",
+                  "note": "Quá khứ đơn = việc ĐÃ KẾT THÚC. So thẳng với <i>I've worked there</i> = vẫn đang làm.",
+                  "reply": [
+                    { "them": "What made you leave?", "themvi": "Sao anh/chị nghỉ?", "you": "I wanted a change.", "youvi": "Tôi muốn thay đổi." }
+                  ]
+                },
+                {
+                  "en": "I've known him for years.",
+                  "vi": "Tôi quen anh ấy nhiều năm rồi.",
+                  "note": "Động từ TRẠNG THÁI dùng dạng V3, KHÔNG có tiếp diễn: <i>I've been knowing him</i> ✗. Xem [Khung 92].",
+                  "reply": [
+                    { "them": "Then you know he's reliable.", "themvi": "Vậy anh/chị biết anh ấy đáng tin.", "you": "Completely.", "youvi": "Hoàn toàn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I've been living here since March.",
+                  "vi": "Mình sống ở đây từ tháng Ba.",
+                  "note": "<b>since</b> + MỐC thời gian. Nếu nói khoảng thời gian thì phải là <i>for six months</i>.",
+                  "reply": [
+                    { "them": "How are you finding it?", "themvi": "Bạn thấy thế nào?", "you": "Quieter than I expected.", "youvi": "Yên tĩnh hơn mình tưởng." }
+                  ],
+                  "close": { "en": "You should come round.", "vi": "Bạn sang chơi nhé." }
+                },
+                {
+                  "en": "I've been learning English since 2019.",
+                  "vi": "Mình học tiếng Anh từ năm 2019.",
+                  "reply": [
+                    { "them": "It shows. Your accent's great.", "themvi": "Thấy rõ luôn. Giọng bạn hay lắm.", "you": "That's kind of you.", "youvi": "Bạn tốt quá." }
+                  ],
+                  "vars": [
+                    { "en": "I've been learning English for five years.", "vi": "Mình học tiếng Anh được năm năm." }
+                  ]
+                },
+                {
+                  "en": "We've been friends since school.",
+                  "vi": "Bọn mình là bạn từ hồi đi học.",
+                  "note": "Với <i>be</i> thì không dùng V-ing: <i>We've been friends</i> ✓, không phải <i>We've been being friends</i> ✗.",
+                  "reply": [
+                    { "them": "That's a long time.", "themvi": "Lâu thật đấy.", "you": "Nearly twenty years.", "youvi": "Gần hai mươi năm rồi." }
+                  ]
+                },
+                {
+                  "en": "I've been meaning to call you.",
+                  "vi": "Mình vẫn định gọi cho bạn mãi.",
+                  "note": "<b>I've been meaning to</b> — cách xin lỗi vì chậm liên lạc, nghe chân thành hơn lời xin lỗi suông.",
+                  "reply": [
+                    { "them": "Same here, honestly.", "themvi": "Thật ra mình cũng thế.", "you": "Shall we fix a date now?", "youvi": "Hay mình chốt ngày luôn?" }
+                  ],
+                  "close": { "en": "Saturday, then.", "vi": "Vậy thứ Bảy nhé." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I've been waiting for an hour.",
+                  "vi": "Tôi chờ một tiếng rồi.",
+                  "note": "<b>for</b> + KHOẢNG thời gian. Nói <i>since an hour</i> ✗ là lỗi rất phổ biến.",
+                  "reply": [
+                    { "them": "I'm so sorry — there's been a delay.", "themvi": "Tôi rất xin lỗi — có sự chậm trễ.", "you": "Do you know how much longer?", "youvi": "Anh/chị có biết còn bao lâu nữa không?" }
+                  ],
+                  "close": { "en": "Thanks for your patience.", "vi": "Cảm ơn anh/chị đã kiên nhẫn." }
+                },
+                {
+                  "en": "I've been here since nine.",
+                  "vi": "Tôi ở đây từ chín giờ.",
+                  "note": "<b>since</b> + giờ cụ thể. Đây là cách nói đã chờ rất lâu mà không cần than phiền thẳng.",
+                  "reply": [
+                    { "them": "Let me check what's happening.", "themvi": "Để tôi kiểm tra xem sao.", "you": "I'd appreciate that.", "youvi": "Tôi cảm ơn." }
+                  ]
+                },
+                {
+                  "en": "I've been travelling since I finished university.",
+                  "vi": "Mình đi đây đi đó từ khi học xong đại học.",
+                  "note": "Sau <b>since</b> có thể là cả MỆNH ĐỀ chia ở QUÁ KHỨ ĐƠN: <i>since I finished</i>.",
+                  "reply": [
+                    { "them": "How many countries?", "themvi": "Bao nhiêu nước rồi?", "you": "Fourteen, I think.", "youvi": "Chắc mười bốn." }
+                  ]
+                },
+                {
+                  "en": "I haven't been back for ages.",
+                  "vi": "Lâu lắm rồi mình không quay lại.",
+                  "note": "Phủ định dùng dạng V3, không dùng tiếp diễn: <i>I haven't <b>been</b></i> ✓. <i>ages</i> = rất lâu.",
+                  "reply": [
+                    { "them": "You should. It's changed a lot.", "themvi": "Bạn nên về. Thay đổi nhiều lắm.", "you": "Maybe next year.", "youvi": "Chắc năm sau." }
+                  ],
+                  "vars": [
+                    { "en": "I haven't been back since 2019.", "vi": "Mình không quay lại từ năm 2019." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "We've been waiting about twenty minutes.",
+                  "vi": "Bọn mình chờ khoảng hai mươi phút rồi.",
+                  "note": "Cách nhắc khéo nhà hàng — nêu sự thật chứ không trách móc.",
+                  "reply": [
+                    { "them": "I'm so sorry, I'll chase it up.", "themvi": "Em xin lỗi, em giục bếp ngay ạ.", "you": "Thank you.", "youvi": "Cảm ơn em." }
+                  ],
+                  "close": { "en": "No rush, just checking.", "vi": "Không vội đâu, hỏi cho biết thôi." }
+                },
+                {
+                  "en": "I've been coming here since it opened.",
+                  "vi": "Mình đến đây từ hồi quán mới mở.",
+                  "reply": [
+                    { "them": "Then you've seen it change.", "themvi": "Vậy bạn chứng kiến quán thay đổi rồi.", "you": "It's only got better.", "youvi": "Chỉ ngày càng tốt lên thôi." }
+                  ]
+                },
+                {
+                  "en": "I haven't eaten since breakfast.",
+                  "vi": "Mình chưa ăn gì từ bữa sáng.",
+                  "note": "Phủ định + <b>since</b> + mốc thời gian. Dạng V3 <i>eaten</i>, không phải <i>ate</i>.",
+                  "reply": [
+                    { "them": "No wonder you're hungry.", "themvi": "Thảo nào bạn đói.", "you": "Let's order quickly.", "youvi": "Gọi món nhanh đi." }
+                  ]
+                },
+                {
+                  "en": "I've been meaning to try this place for months.",
+                  "vi": "Mấy tháng nay mình vẫn định thử quán này.",
+                  "reply": [
+                    { "them": "And? Worth the wait?", "themvi": "Rồi sao? Đáng chờ không?", "you": "Definitely.", "youvi": "Chắc chắn rồi." }
+                  ],
+                  "vars": [
+                    { "en": "I've wanted to try this place for months.", "vi": "Mấy tháng nay mình muốn thử quán này." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I've been looking for this for weeks.",
+                  "vi": "Mấy tuần nay tôi tìm cái này mãi.",
+                  "reply": [
+                    { "them": "You're in luck — last one.", "themvi": "Anh/chị may quá — cái cuối cùng ạ.", "you": "I'll take it.", "youvi": "Tôi lấy luôn." }
+                  ],
+                  "close": { "en": "That's made my day.", "vi": "Hôm nay tôi vui rồi." }
+                },
+                {
+                  "en": "I've had this card since 2018.",
+                  "vi": "Tôi dùng thẻ này từ năm 2018.",
+                  "note": "<i>have</i> nghĩa SỞ HỮU dùng V3, không tiếp diễn: <i>I've been having</i> ✗. Xem [Khung 92].",
+                  "reply": [
+                    { "them": "It may have expired, let me check.", "themvi": "Có thể hết hạn rồi ạ, để em kiểm tra.", "you": "Go ahead.", "youvi": "Em cứ kiểm tra." }
+                  ]
+                },
+                {
+                  "en": "I've been waiting for a refund since Monday.",
+                  "vi": "Tôi chờ hoàn tiền từ thứ Hai.",
+                  "note": "<b>since</b> + thứ trong tuần. Nêu mốc cụ thể làm lời phàn nàn có sức nặng hơn hẳn.",
+                  "reply": [
+                    { "them": "Let me look into it right now.", "themvi": "Để em kiểm tra ngay ạ.", "you": "Thank you, I'd appreciate it.", "youvi": "Cảm ơn em nhiều." }
+                  ],
+                  "vars": [
+                    { "en": "I've been waiting for a refund for five days.", "vi": "Tôi chờ hoàn tiền năm ngày rồi." }
+                  ]
+                },
+                {
+                  "en": "How long have you been open?",
+                  "vi": "Cửa hàng mở được bao lâu rồi?",
+                  "note": "Câu hỏi chuẩn: <i>How long + have + you + been…?</i>",
+                  "reply": [
+                    { "them": "Since April, so about six months.", "themvi": "Từ tháng Tư, khoảng sáu tháng ạ.", "you": "You'd never guess — it looks established.", "youvi": "Chẳng đoán ra — nhìn như đã lâu năm." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Làm quen đồng nghiệp mới",
+          "lines": [
+            { "speaker": "Colleague", "en": "How long have you been with the company?", "vi": "Anh/chị gắn bó với công ty bao lâu rồi?" },
+            { "speaker": "You", "me": true, "en": "I've been working here for three years.", "vi": "Tôi làm ở đây được ba năm rồi." },
+            { "speaker": "Colleague", "en": "That long? It doesn't feel it.", "vi": "Lâu thế cơ à? Thấy đâu có lâu vậy." },
+            { "speaker": "You", "me": true, "en": "Time flies. And I've known the manager for years before that.", "vi": "Thời gian trôi nhanh. Mà tôi còn quen sếp từ trước đó nhiều năm." },
+            { "speaker": "Colleague", "en": "So you know how everything works.", "vi": "Vậy anh/chị nắm rõ mọi thứ rồi." },
+            { "speaker": "You", "me": true, "en": "Most of it. Let me know if you need a hand.", "vi": "Phần lớn thôi. Cần gì cứ nói tôi nhé." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Chờ quá lâu ở nhà hàng",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Excuse me — we've been waiting about twenty minutes.", "vi": "Xin lỗi em — bọn mình chờ khoảng hai mươi phút rồi." },
+            { "speaker": "Waiter", "en": "I'm so sorry. Let me chase it up.", "vi": "Em rất xin lỗi. Để em giục bếp ạ." },
+            { "speaker": "You", "me": true, "en": "Thank you. We haven't eaten since breakfast.", "vi": "Cảm ơn em. Bọn mình chưa ăn gì từ bữa sáng." },
+            { "speaker": "Waiter", "en": "It won't be long now, I promise.", "vi": "Sắp xong rồi ạ, em hứa." },
+            { "speaker": "You", "me": true, "en": "No rush — I've been coming here since it opened.", "vi": "Không vội đâu — mình đến đây từ hồi quán mới mở mà." },
+            { "speaker": "Waiter", "en": "Thanks for your patience.", "vi": "Cảm ơn anh/chị đã kiên nhẫn ạ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<b>I am working</b> here for three years.", "right": "<b>I've been working</b> here for three years.", "why": "LỖI SỐ MỘT CỦA NGƯỜI VIỆT. Hiện tại tiếp diễn chỉ nói chuyện đang xảy ra lúc này, không kéo dài về quá khứ được." },
+            { "wrong": "I've been working here <b>since</b> three years.", "right": "I've been working here <b>for</b> three years.", "why": "<b>for</b> + KHOẢNG thời gian, <b>since</b> + MỐC thời gian. Tiếng Việt dùng chung chữ “từ” nên rất dễ nhầm." },
+            { "wrong": "I've been working here <b>for</b> 2020.", "right": "I've been working here <b>since</b> 2020.", "why": "Ngược lại: một năm cụ thể là MỐC, nên phải dùng <b>since</b>." },
+            { "wrong": "I've been <b>knowing</b> him for years.", "right": "I've <b>known</b> him for years.", "why": "Động từ TRẠNG THÁI không có dạng tiếp diễn. Cùng danh sách với [Khung 92]." },
+            { "wrong": "I've been working here <b>yesterday</b>.", "right": "I <b>worked</b> here yesterday.", "why": "Thì hoàn thành KHÔNG đi với mốc quá khứ đã xong như <i>yesterday, last week, in 2020</i>." },
+            { "wrong": "How long <b>are you working</b> here?", "right": "How long <b>have you been working</b> here?", "why": "Hỏi về khoảng thời gian kéo dài đến hiện tại thì phải dùng thì hoàn thành." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>I've been V-ing for/since…</code>", "Kéo dài đến giờ, nhấn QUÁ TRÌNH", "I've been waiting for an hour."],
+            ["<code>I've + V3</code>", "Kéo dài đến giờ, nhấn KẾT QUẢ", "I've finished."],
+            ["<code>I've known/had + for…</code>", "Trạng thái kéo dài đến giờ", "I've known him for years."],
+            ["<code>I + V2 + for…</code>", "Việc ĐÃ kết thúc hẳn", "I worked there for three years."],
+            ["<code>I'm + V-ing</code>", "Đang xảy ra lúc này. Xem [Khung 92]", "I'm working right now."],
+            ["<code>I used to + V</code>", "Thói quen cũ đã chấm dứt. Xem [Khung 93]", "I used to work there."],
+            ["<code>I've just + V3</code>", "Vừa mới xong. Xem [Khung 95]", "I've just finished."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ thời gian" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I've been waiting a few minutes.", "vi": "Ngắn nhất — vài phút" },
+            { "en": "I've been waiting for half an hour.", "vi": "Đã khá lâu" },
+            { "en": "I've been waiting since nine.", "vi": "Nêu mốc, nghe có sức nặng" },
+            { "en": "I've been waiting for ages.", "vi": "Rất lâu, hơi bực" },
+            { "en": "I've been waiting all morning.", "vi": "Mạnh nhất — cả buổi" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>I've</b> đọc /aɪv/ một âm tiết. Tách thành “ai-hev” nghe rất cứng và lộ ngay là người học.",
+            "<b>I've been</b> nối thành <b>“aiv-bin”</b> — <i>been</i> đọc ngắn /bɪn/, không kéo dài thành “biin”.",
+            "<b>He's been</b> ở đây là <i>He <b>has</b> been</i>, không phải <i>He is</i> — nghe giống hệt nhau, phải dựa vào <i>been</i> để phân biệt.",
+            "<b>for</b> lướt thành /fə/ khi không nhấn: “fə-THRII-yiəz”. Nhấn vào <i>for</i> nghe rất lạ.",
+            "<b>since</b> luôn rõ âm /s/ ở đầu và cuối — đây là từ mang thông tin nên không lướt.",
+            "<b>Trọng âm rơi vào ĐỘNG TỪ và vào CON SỐ</b>: “aiv-bin-<b>WƏƏ</b>-king-hiə-fə-<b>THRII</b>-yiəz”."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I've been working here for three years.", "vi": "Luyện shadowing: “aiv-bin-WƏƏ-king-hiə-fə-THRII-yiəz”, lướt nhẹ chữ for." },
+            { "en": "I've been waiting for an hour.", "vi": "Tập nối “fə-rən-AU-ə” — chữ r nối sang an rồi sang hour." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi làm ở đây được ba năm rồi.", "blank": "I've been working here __________ three years.", "a": "for (khoảng thời gian)" },
+            { "vi": "Tôi sống ở đây từ tháng Ba.", "blank": "I've been living here __________ March.", "a": "since (mốc thời gian)" },
+            { "vi": "Tôi làm ở đây được ba năm rồi.", "blank": "I've __________ working here for three years.", "a": "been" },
+            { "vi": "Tôi quen anh ấy nhiều năm rồi.", "blank": "I've __________ him for years.", "a": "known (động từ trạng thái, không tiếp diễn)" },
+            { "vi": "Bạn làm ở đây được bao lâu rồi?", "blank": "How long __________ you been working here?", "a": "have" },
+            { "vi": "Lâu lắm rồi tôi không gặp anh ấy.", "blank": "I haven't seen him __________ ages.", "a": "for" },
+            { "vi": "Mình đi đây đi đó từ khi học xong đại học.", "blank": "I've been travelling __________ I finished university.", "a": "since" },
+            { "vi": "Tôi từng làm ở đó ba năm (giờ đã nghỉ).", "blank": "I __________ there for three years.", "a": "worked (quá khứ đơn)" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi làm ở đây được ba năm rồi.", "a": "I've been working here for three years." },
+            { "vi": "2. Mình học tiếng Anh từ năm 2019.", "a": "I've been learning English since 2019." },
+            { "vi": "3. Tôi chờ một tiếng rồi.", "a": "I've been waiting for an hour." },
+            { "vi": "4. Tôi quen anh ấy nhiều năm rồi.", "a": "I've known him for years." },
+            { "vi": "5. Bạn làm ở đây được bao lâu rồi?", "a": "How long have you been working here?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Khắc vào đầu:</b> nói thâm niên thì luôn là <i>I've been…</i>, không bao giờ là <i>I am… for…</i>. Đây là lỗi lộ rõ nhất của người Việt.",
+            "<b>Mẹo phân biệt:</b> <i>for</i> trả lời “bao <b>lâu</b>?”, <i>since</i> trả lời “từ <b>khi nào</b>?”.",
+            "<b>Động từ trạng thái dùng dạng V3:</b> <i>I've known</i>, <i>I've had</i> — không bao giờ <i>I've been knowing</i>.",
+            "<b>Cặp đổi cả nghĩa:</b> <i>I've worked here</i> (vẫn đang làm) vs <i>I worked here</i> (đã nghỉ).",
+            "<b>Học thuộc <i>I've been meaning to…</i></b> — cách xin lỗi vì chậm liên lạc, nghe chân thành hơn lời xin lỗi suông.",
+            "<b>Bài tập 3 phút:</b> viết năm câu thật về bạn — ba câu dùng <i>for</i>, hai câu dùng <i>since</i>, rồi đọc to từng câu."
+          ]
+        }
+      ]
+    }
+  ]
+}

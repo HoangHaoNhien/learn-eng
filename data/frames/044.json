@@ -1,0 +1,493 @@
+{
+  "id": 44,
+  "group": "Nhóm 5 · Ý kiến & Quan điểm",
+  "title": "It seems… — Nhận xét dựa trên dấu hiệu",
+  "subtitle": "Khung câu để nói về điều bạn suy ra từ những gì quan sát được, chứ không phải điều bạn biết chắc. Nó là công cụ ngoại giao mạnh nhất trong tiếng Anh công sở: chỉ ra vấn đề mà không quy trách nhiệm, không khẳng định, không làm ai mất mặt.",
+  "pattern": [
+    "It seems (that) <em>+ mệnh đề</em>",
+    "It seems to me that <em>+ mệnh đề</em>",
+    "S + seems to <em>+ V</em>"
+  ],
+  "meaning": "Có vẻ như… / Dường như…",
+  "grammar": [30, 35, 52],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Rất mạnh trong công việc" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">It seems…</span> nói rằng bạn đang <b>suy ra từ dấu hiệu</b>, không phải đang khẳng định. Cửa hàng tắt đèn, khóa cửa → <i>It seems they're closed.</i> Bạn không vào kiểm tra, nhưng dấu hiệu đủ rõ." },
+        { "t": "p", "html": "Đây là <b>công cụ ngoại giao</b> quan trọng bậc nhất trong tiếng Anh công sở. <i>You made a mistake.</i> là lời buộc tội. <i>It seems there's been a mistake.</i> chỉ ra đúng vấn đề đó mà <b>không ai bị chỉ mặt</b>." },
+        { "t": "p", "html": "Khác với [Khung 41] và [Khung 43] vốn nói về suy nghĩ của bạn, <i>It seems</i> <b>đẩy trọng tâm ra khỏi bạn</b> và đặt vào tình huống. Thêm <i>to me</i> thì kéo nó về lại phía bạn: <i>It seems to me that…</i> nghe như một ý kiến cá nhân hơn." },
+        { "t": "callout", "html": "<b>BẪY: bắt buộc phải có “It”.</b> Tiếng Việt nói “có vẻ như họ đóng cửa” không cần chủ ngữ, nên người Việt hay viết <span class=\"k\">Seems they're closed</span> ✗. Phải là <i>It seems they're closed.</i> (Chỉ khi nói chuyện rất thân mật mới lược <i>It</i>.)" },
+        { "t": "h3", "text": "Ba mức độ chắc chắn" },
+        {
+          "t": "table",
+          "head": ["Câu", "Căn cứ", "Sắc thái"],
+          "rows": [
+            ["<code>They're closed.</code>", "Biết chắc", "Khẳng định"],
+            ["<code>It seems they're closed.</code>", "Dấu hiệu rõ", "Suy ra — trung tính"],
+            ["<code>It seems to me they're closed.</code>", "Cách tôi nhìn nhận", "Ý kiến cá nhân hơn"],
+            ["<code>It appears they're closed.</code>", "Dấu hiệu rõ", "Trang trọng — văn viết, báo cáo"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đây cũng là cách phàn nàn lịch sự nhất:</b> <i>It seems there's been a mix-up.</i> Người nghe hiểu ngay có vấn đề, nhưng không bị đặt vào thế phòng thủ nên sẽ hợp tác hơn nhiều." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🕊", "title": "Chỉ ra vấn đề không đổ lỗi", "text": "Bối cảnh số 1. <i>It seems there's been a mistake.</i> Không ai bị chỉ mặt." },
+            { "icon": "👀", "title": "Suy ra từ quan sát", "text": "<i>It seems they're closed.</i> Đèn tắt, cửa khóa — đủ để kết luận." },
+            { "icon": "📧", "title": "Email công việc", "text": "<i>It seems the file didn't attach.</i> Nêu sự cố mà không trách ai." },
+            { "icon": "🩺", "title": "Nhận xét về người khác", "text": "<i>She seems tired today.</i> Nhẹ hơn <i>She is tired</i>." },
+            { "icon": "🤔", "title": "Nêu nghi vấn lịch sự", "text": "<i>It seems odd that nobody replied.</i> Đặt câu hỏi mà không chất vấn." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn biết chắc và cần dứt khoát. <i>It seems the server is down</i> khi bạn vừa kiểm tra xong nghe thiếu trách nhiệm." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cơ bản", "<code>It seems (that) + mệnh đề</code>", "It seems they're closed."],
+            ["Cá nhân hơn", "<code>It seems to me (that) + mệnh đề</code>", "It seems to me we're rushing."],
+            ["Thân mật", "<code>It seems like + mệnh đề / N</code>", "It seems like a good idea."],
+            ["Kiểu Anh-Anh", "<code>It seems as if / as though…</code>", "It seems as if nobody knew."],
+            ["Tính từ", "<code>It seems + tính từ</code>", "It seems odd."],
+            ["Chủ ngữ là người/vật", "<code>S + seem(s) to + V</code>", "She seems to know everyone."],
+            ["Chủ ngữ + tính từ", "<code>S + seem(s) + tính từ</code>", "She seems tired."],
+            ["Có cái gì đó", "<code>There seems to be + N</code>", "There seems to be a problem."],
+            ["Phủ định", "<code>It doesn't seem + …</code>", "It doesn't seem fair."],
+            ["Trang trọng", "<code>It appears (that) + mệnh đề</code>", "It appears the data is incomplete."]
+          ]
+        },
+        { "t": "callout", "html": "<b>seem vs seem like:</b> trước <b>tính từ</b> thì KHÔNG có <i>like</i> — <span class=\"k\">It seems odd</span> ✓, <i>It seems like odd</i> ✗. Trước <b>danh từ</b> thì PHẢI có <i>like</i> — <span class=\"k\">It seems like a good idea</span> ✓, <i>It seems a good idea</i> nghe cũ và trang trọng." },
+        { "t": "callout", "html": "<b>“There seems to be” là cụm vàng khi phàn nàn.</b> <i>There seems to be a problem with my order.</i> — không có chủ thể nào gây ra lỗi cả, nên không ai phải phòng thủ. Học thuộc nguyên cụm này." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Mệnh đề hay theo sau “It seems”",
+              "items": [
+                { "w": "they're closed", "vi": "họ đóng cửa rồi", "ex": "It seems they're closed.", "exvi": "Có vẻ như họ đóng cửa rồi." },
+                { "w": "there's been a mistake", "vi": "có nhầm lẫn", "ex": "It seems there's been a mistake.", "exvi": "Có vẻ như có nhầm lẫn.", "note": "Cụm vàng khi phàn nàn — không quy lỗi cho ai cả." },
+                { "w": "nobody told us", "vi": "không ai báo chúng tôi", "ex": "It seems nobody told us.", "exvi": "Có vẻ như không ai báo chúng tôi." },
+                { "w": "the file didn't attach", "vi": "file chưa được đính kèm", "ex": "It seems the file didn't attach.", "exvi": "Có vẻ như file chưa được đính kèm.", "note": "Cách báo lỗi email mà không trách người gửi." },
+                { "w": "we're running late", "vi": "mình đang trễ", "ex": "It seems we're running late.", "exvi": "Có vẻ như mình đang trễ." },
+                { "w": "it's sold out", "vi": "hết hàng rồi", "ex": "It seems it's sold out.", "exvi": "Có vẻ như hết hàng rồi." },
+                { "w": "something's wrong", "vi": "có gì đó không ổn", "ex": "It seems something's wrong with the printer.", "exvi": "Có vẻ như máy in có gì đó không ổn." },
+                { "w": "the flight is delayed", "vi": "chuyến bay bị hoãn", "ex": "It seems the flight is delayed.", "exvi": "Có vẻ như chuyến bay bị hoãn." },
+                { "w": "we're short-staffed", "vi": "mình thiếu người", "ex": "It seems we're short-staffed today.", "exvi": "Có vẻ hôm nay mình thiếu người." },
+                { "w": "the link is broken", "vi": "đường dẫn bị hỏng", "ex": "It seems the link is broken.", "exvi": "Có vẻ như đường dẫn bị hỏng." },
+                { "w": "nobody replied", "vi": "không ai trả lời", "ex": "It seems odd that nobody replied.", "exvi": "Kể cũng lạ là không ai trả lời." },
+                { "w": "we've been charged twice", "vi": "mình bị tính hai lần", "ex": "It seems we've been charged twice.", "exvi": "Có vẻ như mình bị tính hai lần." },
+                { "w": "the address is wrong", "vi": "địa chỉ sai", "ex": "It seems the address is wrong.", "exvi": "Có vẻ như địa chỉ bị sai." },
+                { "w": "we're going in circles", "vi": "mình đang loanh quanh", "ex": "It seems we're going in circles.", "exvi": "Có vẻ như mình đang bàn loanh quanh.", "note": "<i>go in circles</i> = bàn mãi không ra kết quả. Rất hay trong họp." },
+                { "w": "everyone agrees", "vi": "mọi người đều đồng ý", "ex": "It seems everyone agrees on this.", "exvi": "Có vẻ như mọi người đều đồng ý chỗ này." },
+                { "w": "the offer has expired", "vi": "ưu đãi đã hết hạn", "ex": "It seems the offer has expired.", "exvi": "Có vẻ như ưu đãi đã hết hạn." },
+                { "w": "it's going to rain", "vi": "trời sắp mưa", "ex": "It seems it's going to rain.", "exvi": "Có vẻ như trời sắp mưa." },
+                { "w": "we misunderstood each other", "vi": "mình hiểu nhầm nhau", "ex": "It seems we misunderstood each other.", "exvi": "Có vẻ như mình hiểu nhầm nhau.", "note": "Câu hòa giải rất hay — chia đều trách nhiệm cho cả hai phía." },
+                { "w": "they've already left", "vi": "họ đi rồi", "ex": "It seems they've already left.", "exvi": "Có vẻ như họ đi rồi." },
+                { "w": "the table isn't ready", "vi": "bàn chưa sẵn sàng", "ex": "It seems the table isn't ready yet.", "exvi": "Có vẻ như bàn chưa sẵn sàng." }
+              ]
+            },
+            {
+              "title": "Các dạng biến thể",
+              "items": [
+                { "w": "It seems to me", "vi": "theo tôi thấy thì", "ex": "It seems to me we're rushing this.", "exvi": "Theo tôi thấy thì mình đang làm vội.", "note": "Thêm <i>to me</i> biến nó thành ý kiến cá nhân, gần với [Khung 42]." },
+                { "w": "It seems like", "vi": "trông như, có vẻ là", "ex": "It seems like a good idea.", "exvi": "Nghe có vẻ là ý hay.", "note": "BẪY: dùng <i>like</i> trước DANH TỪ. Trước tính từ thì bỏ <i>like</i>." },
+                { "w": "It seems odd", "vi": "kể cũng lạ", "ex": "It seems odd that nobody mentioned it.", "exvi": "Kể cũng lạ là không ai nhắc đến.", "note": "Trước tính từ KHÔNG có <i>like</i>: <i>It seems like odd</i> ✗." },
+                { "w": "There seems to be", "vi": "hình như có", "ex": "There seems to be a problem with my order.", "exvi": "Hình như đơn hàng của tôi có vấn đề.", "note": "Cụm vàng khi phàn nàn — học thuộc nguyên cụm." },
+                { "w": "seems to", "vi": "có vẻ như (làm gì)", "ex": "She seems to know everyone here.", "exvi": "Cô ấy có vẻ quen hết mọi người ở đây.", "note": "Chủ ngữ là người/vật thì dùng <i>S + seem to + V</i>." },
+                { "w": "seems tired", "vi": "trông mệt", "ex": "She seems tired today.", "exvi": "Hôm nay cô ấy trông mệt.", "note": "Trước tính từ thì không cần <i>to be</i>: <i>seems tired</i> tự nhiên hơn <i>seems to be tired</i>." },
+                { "w": "It doesn't seem", "vi": "có vẻ không", "ex": "It doesn't seem fair.", "exvi": "Có vẻ không công bằng." },
+                { "w": "It seems as if", "vi": "cứ như thể", "ex": "It seems as if nobody knew.", "exvi": "Cứ như thể không ai biết gì.", "note": "Trang trọng hơn <i>seems like</i>, mang màu Anh-Anh." },
+                { "w": "It appears that", "vi": "dường như", "ex": "It appears that the data is incomplete.", "exvi": "Dường như dữ liệu chưa đầy đủ.", "note": "Trang trọng nhất — dùng trong báo cáo, email chính thức." },
+                { "w": "So it seems", "vi": "có vẻ là vậy", "ex": "“They've cancelled?” — “So it seems.”", "exvi": "“Họ hủy rồi à?” — “Có vẻ là vậy.”", "note": "Câu đáp ngắn rất tự nhiên, mang chút cam chịu." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "So it seems", "vi": "có vẻ là vậy", "ex": "So it seems, unfortunately.", "exvi": "Tiếc là có vẻ vậy." },
+                { "w": "Let me look into it", "vi": "để tôi kiểm tra", "ex": "Let me look into it for you.", "exvi": "Để em kiểm tra giúp anh/chị ạ.", "note": "Phản hồi chuẩn của nhân viên khi khách nói <i>It seems…</i>" },
+                { "w": "What gives you that impression?", "vi": "điều gì khiến bạn thấy vậy?", "ex": "What gives you that impression?", "exvi": "Điều gì khiến anh/chị thấy vậy?", "note": "Hỏi căn cứ một cách rất lịch sự." },
+                { "w": "You may be right", "vi": "có thể bạn đúng", "ex": "You may be right about that.", "exvi": "Chỗ đó có thể bạn đúng." },
+                { "w": "Actually, it's…", "vi": "thật ra thì…", "ex": "Actually, it's still open until nine.", "exvi": "Thật ra vẫn mở đến chín giờ ạ.", "note": "Đính chính nhẹ — <i>actually</i> làm mềm lời cải chính." },
+                { "w": "I had the same impression", "vi": "tôi cũng thấy vậy", "ex": "I had the same impression.", "exvi": "Tôi cũng có cảm giác như vậy." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "It seems there's been a misunderstanding.",
+                  "vi": "Có vẻ như đã có sự hiểu nhầm.",
+                  "note": "Câu hòa giải mạnh nhất trong tiếng Anh công sở — chỉ ra vấn đề mà không ai bị quy lỗi.",
+                  "open": { "en": "Before we go further —", "vi": "Trước khi đi tiếp —" },
+                  "reply": [
+                    { "them": "How so?", "themvi": "Sao lại vậy?", "you": "I was expecting the draft, not the final.", "youvi": "Tôi đang chờ bản nháp, không phải bản cuối." },
+                    { "them": "You may be right. Let me re-read the brief.", "themvi": "Có thể anh/chị đúng. Để tôi đọc lại yêu cầu.", "you": "Let's go through it together.", "youvi": "Mình xem lại cùng nhau nhé." }
+                  ],
+                  "close": { "en": "No harm done.", "vi": "Cũng chưa ảnh hưởng gì." }
+                },
+                {
+                  "en": "It seems the file didn't attach.",
+                  "vi": "Có vẻ như file chưa được đính kèm.",
+                  "note": "Cách báo lỗi email chuẩn mực — không nói “bạn quên đính kèm”.",
+                  "reply": [
+                    { "them": "Sorry about that — resending now.", "themvi": "Xin lỗi nhé — gửi lại ngay đây.", "you": "No problem at all.", "youvi": "Không sao cả." }
+                  ],
+                  "vars": [
+                    { "en": "It seems the link is broken.", "vi": "Có vẻ như đường dẫn bị hỏng." }
+                  ]
+                },
+                {
+                  "en": "It seems to me we're going in circles.",
+                  "vi": "Theo tôi thấy thì mình đang bàn loanh quanh.",
+                  "note": "<span class=\"k\">go in circles</span> = bàn mãi không ra kết quả. Thêm <i>to me</i> để nhận trách nhiệm về nhận xét đó.",
+                  "reply": [
+                    { "them": "I had the same impression.", "themvi": "Tôi cũng có cảm giác như vậy.", "you": "Shall we park it and decide tomorrow?", "youvi": "Hay mình gác lại, mai quyết?" }
+                  ]
+                },
+                {
+                  "en": "It seems odd that nobody replied.",
+                  "vi": "Kể cũng lạ là không ai trả lời.",
+                  "note": "Trước tính từ thì KHÔNG có <i>like</i>. Đây là cách nêu nghi vấn mà không chất vấn ai.",
+                  "reply": [
+                    { "them": "What gives you that impression?", "themvi": "Điều gì khiến anh/chị thấy vậy?", "you": "Three emails, no response in a week.", "youvi": "Ba email, cả tuần không hồi âm." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "There seems to be a problem with my order.",
+                  "vi": "Hình như đơn hàng của tôi có vấn đề.",
+                  "note": "Cụm vàng khi phàn nàn — không có ai là thủ phạm nên nhân viên sẽ hợp tác ngay.",
+                  "reply": [
+                    { "them": "Let me look into it for you.", "themvi": "Để em kiểm tra giúp anh/chị ạ.", "you": "It says delivered, but nothing arrived.", "youvi": "Hệ thống báo đã giao, nhưng tôi không nhận được gì." }
+                  ],
+                  "close": { "en": "Thanks for looking into it.", "vi": "Cảm ơn đã kiểm tra giúp." }
+                },
+                {
+                  "en": "It seems we've been charged twice.",
+                  "vi": "Có vẻ như chúng tôi bị tính hai lần.",
+                  "reply": [
+                    { "them": "Let me check the transaction.", "themvi": "Để em kiểm tra giao dịch ạ.", "you": "Both on the fourteenth.", "youvi": "Cả hai đều ngày mười bốn." }
+                  ]
+                },
+                {
+                  "en": "It seems the offer has expired.",
+                  "vi": "Có vẻ như ưu đãi đã hết hạn.",
+                  "reply": [
+                    { "them": "Actually, it runs until Sunday.", "themvi": "Thật ra còn đến Chủ nhật ạ.", "you": "Oh good — I misread the sign.", "youvi": "May quá — tôi đọc nhầm bảng." }
+                  ],
+                  "vars": [
+                    { "en": "It seems it's sold out.", "vi": "Có vẻ như hết hàng rồi." }
+                  ]
+                },
+                {
+                  "en": "It seems like a good deal, actually.",
+                  "vi": "Thật ra nghe có vẻ là món hời đấy.",
+                  "note": "Có <b>like</b> vì theo sau là <b>danh từ</b> (<i>a good deal</i>).",
+                  "reply": [
+                    { "them": "It's our best price this month.", "themvi": "Giá tốt nhất tháng này ạ.", "you": "I'll take it then.", "youvi": "Vậy tôi lấy." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "It seems the flight is delayed.",
+                  "vi": "Có vẻ như chuyến bay bị hoãn.",
+                  "reply": [
+                    { "them": "How long?", "themvi": "Bao lâu?", "you": "The board says two hours.", "youvi": "Bảng thông báo ghi hai tiếng." }
+                  ]
+                },
+                {
+                  "en": "It seems they're closed.",
+                  "vi": "Có vẻ như họ đóng cửa rồi.",
+                  "note": "Suy ra từ dấu hiệu: đèn tắt, cửa khóa. Bạn chưa vào kiểm tra nhưng đủ để kết luận.",
+                  "reply": [
+                    { "them": "On a Tuesday?", "themvi": "Thứ Ba mà đóng à?", "you": "There's a sign — renovations.", "youvi": "Có biển báo — đang sửa chữa." }
+                  ],
+                  "vars": [
+                    { "en": "It seems as if nobody's here.", "vi": "Cứ như thể chẳng có ai ở đây." }
+                  ]
+                },
+                {
+                  "en": "There seems to be a mix-up with my room.",
+                  "vi": "Hình như phòng của tôi có nhầm lẫn.",
+                  "note": "So sánh với [Khung 43]: <i>I believe there's been a mistake</i> nhấn vào bạn, còn câu này nhấn vào tình huống.",
+                  "open": { "en": "Sorry to bother you —", "vi": "Xin lỗi làm phiền —" },
+                  "reply": [
+                    { "them": "I'll sort that out right away.", "themvi": "Em xử lý ngay ạ.", "you": "I booked a room with a view.", "youvi": "Tôi đặt phòng có view mà." }
+                  ],
+                  "close": { "en": "Much appreciated.", "vi": "Cảm ơn nhiều ạ." }
+                },
+                {
+                  "en": "It seems we're going the wrong way.",
+                  "vi": "Có vẻ như mình đi nhầm đường.",
+                  "reply": [
+                    { "them": "So it seems.", "themvi": "Có vẻ là vậy.", "you": "Let's turn around at the next junction.", "youvi": "Đến ngã rẽ sau mình quay lại." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "It seems the table isn't ready yet.",
+                  "vi": "Có vẻ như bàn chưa sẵn sàng.",
+                  "reply": [
+                    { "them": "Just five more minutes, sorry.", "themvi": "Thêm năm phút nữa thôi ạ, xin lỗi.", "you": "No rush — we'll wait at the bar.", "youvi": "Không vội — chúng tôi đợi ở quầy bar." }
+                  ]
+                },
+                {
+                  "en": "It seems there's been a mix-up with our order.",
+                  "vi": "Có vẻ như đơn gọi món của chúng tôi bị nhầm.",
+                  "note": "Không nói “anh mang nhầm món” mà nói “có nhầm lẫn” — nhân viên sẽ sửa nhanh hơn nhiều.",
+                  "reply": [
+                    { "them": "Oh no, what did you order?", "themvi": "Ôi, anh/chị gọi món gì ạ?", "you": "The grilled fish, not the chicken.", "youvi": "Cá nướng, không phải gà." }
+                  ],
+                  "close": { "en": "No rush, thank you.", "vi": "Không vội đâu, cảm ơn." }
+                },
+                {
+                  "en": "It seems like they're very busy tonight.",
+                  "vi": "Có vẻ như tối nay họ rất đông khách.",
+                  "note": "<i>seems like</i> trước một mệnh đề là cách nói thân mật, rất phổ biến khi trò chuyện.",
+                  "reply": [
+                    { "them": "Should we go somewhere else?", "themvi": "Hay mình đi chỗ khác?", "you": "Let's give it ten minutes.", "youvi": "Đợi mười phút xem sao." }
+                  ]
+                },
+                {
+                  "en": "It seems odd that they're empty on a Friday.",
+                  "vi": "Kể cũng lạ là thứ Sáu mà quán vắng.",
+                  "reply": [
+                    { "them": "Maybe the food's not great.", "themvi": "Chắc đồ ăn không ngon.", "you": "Let's risk it.", "youvi": "Cứ liều thử xem." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "She seems tired today.",
+                  "vi": "Hôm nay cô ấy trông mệt.",
+                  "note": "Với chủ ngữ là người và theo sau là tính từ, KHÔNG cần <i>to be</i>: <i>seems tired</i> tự nhiên hơn.",
+                  "reply": [
+                    { "them": "She's been working late all week.", "themvi": "Cả tuần cô ấy làm khuya.", "you": "Maybe we should check in on her.", "youvi": "Hay mình hỏi thăm cô ấy chút." }
+                  ]
+                },
+                {
+                  "en": "He seems to know everyone here.",
+                  "vi": "Anh ấy có vẻ quen hết mọi người ở đây.",
+                  "note": "Chủ ngữ là người + <i>seem to</i> + động từ. Đây là dạng rất hay dùng khi nhận xét về ai đó.",
+                  "reply": [
+                    { "them": "He's been coming here for years.", "themvi": "Anh ấy đến đây nhiều năm rồi.", "you": "That explains it.", "youvi": "Thảo nào." }
+                  ]
+                },
+                {
+                  "en": "It seems we misunderstood each other.",
+                  "vi": "Có vẻ như mình hiểu nhầm nhau.",
+                  "note": "Câu làm dịu xung đột — chia đều trách nhiệm cho cả hai phía, không ai phải xin lỗi trước.",
+                  "reply": [
+                    { "them": "I think so too.", "themvi": "Mình cũng nghĩ vậy.", "you": "Let's start again from the beginning.", "youvi": "Mình bắt đầu lại từ đầu nhé." }
+                  ],
+                  "close": { "en": "Glad we cleared that up.", "vi": "May là mình đã làm rõ được." }
+                },
+                {
+                  "en": "It doesn't seem fair, to be honest.",
+                  "vi": "Thật lòng thì có vẻ không công bằng.",
+                  "note": "Phủ định đặt ở <i>doesn't seem</i>. Cách phản đối mềm khi bạn thấy bị thiệt.",
+                  "reply": [
+                    { "them": "I see your point.", "themvi": "Mình hiểu ý bạn.", "you": "Can we split it differently?", "youvi": "Hay mình chia lại khác đi?" }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Gỡ một hiểu nhầm trong công việc",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Before we go further — it seems there's been a misunderstanding.", "vi": "Trước khi đi tiếp — có vẻ như đã có sự hiểu nhầm." },
+            { "speaker": "Colleague", "en": "How so?", "vi": "Sao lại vậy?" },
+            { "speaker": "You", "me": true, "en": "It seems the brief asked for a draft, not a final version.", "vi": "Có vẻ như yêu cầu là bản nháp, không phải bản cuối." },
+            { "speaker": "Colleague", "en": "You may be right. Let me re-read it.", "vi": "Có thể anh/chị đúng. Để tôi đọc lại." },
+            { "speaker": "You", "me": true, "en": "It seems to me we both read it differently. No harm done.", "vi": "Theo tôi thấy thì cả hai mình hiểu khác nhau thôi. Cũng chưa ảnh hưởng gì." },
+            { "speaker": "Colleague", "en": "Agreed. Let's go through it together.", "vi": "Đồng ý. Mình xem lại cùng nhau." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Phàn nàn về đơn hàng chưa nhận được",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Hello — there seems to be a problem with my order.", "vi": "Xin chào — hình như đơn hàng của tôi có vấn đề." },
+            { "speaker": "Agent", "en": "I'm sorry to hear that. Let me look into it.", "vi": "Em rất tiếc ạ. Để em kiểm tra." },
+            { "speaker": "You", "me": true, "en": "It says delivered, but nothing arrived.", "vi": "Hệ thống báo đã giao, nhưng tôi không nhận được gì." },
+            { "speaker": "Agent", "en": "It appears it went to the old address on file.", "vi": "Dường như hàng được gửi đến địa chỉ cũ trong hệ thống ạ." },
+            { "speaker": "You", "me": true, "en": "Ah — it seems the address didn't update. What happens now?", "vi": "À — có vẻ địa chỉ chưa được cập nhật. Giờ thì sao ạ?" },
+            { "speaker": "Agent", "en": "We'll resend it today at no charge.", "vi": "Bên em gửi lại hôm nay miễn phí ạ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Seems they're closed.", "right": "It seems they're closed.", "why": "Bắt buộc có chủ ngữ giả <b>It</b>. Tiếng Việt không cần chủ ngữ nên người Việt hay bỏ quên." },
+            { "wrong": "It seems like odd.", "right": "It seems odd.", "why": "Trước <b>tính từ</b> thì KHÔNG có <i>like</i>. Chỉ dùng <i>like</i> khi theo sau là danh từ." },
+            { "wrong": "It seems a good idea.", "right": "It seems like a good idea.", "why": "Trước <b>danh từ</b> thì PHẢI có <i>like</i>. (Bỏ <i>like</i> vẫn đúng ngữ pháp nhưng nghe rất cũ và trang trọng.)" },
+            { "wrong": "It's seeming that we're late.", "right": "It seems that we're late.", "why": "<b>seem</b> là động từ trạng thái — không chia tiếp diễn, giống <i>believe</i> ở [Khung 43]." },
+            { "wrong": "It seems to be that nobody knew.", "right": "It seems that nobody knew.", "why": "Thừa <i>to be</i>. Trước một mệnh đề thì chỉ có <i>It seems (that)</i>." },
+            { "wrong": "It seems the server is down. <i>(khi bạn vừa tự kiểm tra xong)</i>", "right": "The server is down — I just checked.", "why": "Khi bạn <b>biết chắc</b>, dùng <i>It seems</i> nghe như né tránh trách nhiệm." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Căn cứ / sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>It seems (that)…</code>", "Suy ra từ dấu hiệu — trung tính", "<i>It seems they're closed.</i> Mọi hoàn cảnh."],
+            ["<code>It seems to me…</code>", "Ý kiến cá nhân hơn", "<i>It seems to me we're rushing.</i> Họp, góp ý."],
+            ["<code>It appears that…</code>", "Trang trọng nhất", "<i>It appears the data is incomplete.</i> Báo cáo, email."],
+            ["<code>It looks like…</code>", "Dấu hiệu nhìn thấy được", "<i>It looks like rain.</i> Đời thường, rất thân mật."],
+            ["<code>I think…</code>", "Suy nghĩ của bạn", "<i>I think they're closed.</i> Xem [Khung 41]."],
+            ["<code>I believe…</code>", "Khá chắc, lịch sự", "<i>I believe they're closed.</i> Xem [Khung 43]."],
+            ["<code>Apparently,…</code>", "Nghe người khác nói lại", "<i>Apparently they've moved.</i> Truyền tin đồn."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — báo rằng có lỗi trong hóa đơn" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "There seems to be a small issue with the bill.", "vi": "Nhẹ nhất — không ai có lỗi" },
+            { "en": "It seems there's been a mistake.", "vi": "Nêu vấn đề, vẫn trung tính" },
+            { "en": "I believe there's been a mistake.", "vi": "Khá chắc, lịch sự" },
+            { "en": "I think you've charged me twice.", "vi": "Bắt đầu chỉ đích danh" },
+            { "en": "You've charged me twice.", "vi": "Buộc tội — dễ gây căng" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>It seems</b> nói nhanh dính thành <b>“it-SEEMZ”</b> — âm /t/ cuối <i>It</i> nối sang <i>seems</i>.",
+            "Đuôi <b>-s</b> trong <i>seems</i> đọc là <b>/z/</b> có rung, không phải /s/ gió: <i>seemz</i>.",
+            "Nguyên âm <b>/iː/</b> dài: <i>seem</i> chứ không phải <i>sim</i> ngắn.",
+            "<b>It seems to me</b> → “it-SEEMZ-tə-mi”, chữ <i>to</i> đọc lướt thành /tə/.",
+            "<b>There seems to be</b> → “ðə-SEEMZ-tə-bi” — cả cụm nói liền một hơi, chỉ nhấn SEEMZ.",
+            "Trọng âm rơi vào <b>SEEMS</b> và vào từ khóa phía sau: <i>It</i> <b>SEEMZ</b> <i>there's been a</i> <b>MIS</b>-take."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "There seems to be a problem with my order.", "vi": "Luyện shadowing: “ðə-SEEMZ-tə-bi-ə-PROB-ləm”, nói liền một hơi." },
+            { "en": "It seems there's been a misunderstanding.", "vi": "Tập giọng đều và nhã — đây là câu hòa giải, không được nghe gay gắt." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Có vẻ như họ đóng cửa rồi.", "blank": "__________ they're closed.", "a": "It seems (bắt buộc có “It”)" },
+            { "vi": "Hình như đơn hàng của tôi có vấn đề.", "blank": "__________ a problem with my order.", "a": "There seems to be" },
+            { "vi": "Kể cũng lạ là không ai trả lời.", "blank": "It seems __________ that nobody replied.", "a": "odd (KHÔNG có “like” trước tính từ)" },
+            { "vi": "Nghe có vẻ là ý hay.", "blank": "It seems __________ a good idea.", "a": "like (có “like” trước danh từ)" },
+            { "vi": "Theo tôi thấy thì mình đang làm vội.", "blank": "__________ we're rushing this.", "a": "It seems to me" },
+            { "vi": "Cô ấy có vẻ quen hết mọi người.", "blank": "She __________ everyone.", "a": "seems to know" },
+            { "vi": "Có vẻ không công bằng.", "blank": "It __________ fair.", "a": "doesn't seem" },
+            { "vi": "Dường như dữ liệu chưa đầy đủ. (trang trọng)", "blank": "__________ the data is incomplete.", "a": "It appears that" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Có vẻ như đã có sự hiểu nhầm.", "a": "It seems there's been a misunderstanding." },
+            { "vi": "2. Hình như phòng của tôi có nhầm lẫn.", "a": "There seems to be a mix-up with my room." },
+            { "vi": "3. Có vẻ như file chưa được đính kèm.", "a": "It seems the file didn't attach." },
+            { "vi": "4. Theo tôi thấy thì mình đang bàn loanh quanh.", "a": "It seems to me we're going in circles." },
+            { "vi": "5. Hôm nay cô ấy trông mệt.", "a": "She seems tired today." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Học thuộc nguyên cụm “There seems to be…”</b> — đây là cách mở đầu một lời phàn nàn hiệu quả nhất trong tiếng Anh.",
+            "<b>Luật like:</b> trước <b>tính từ</b> bỏ <i>like</i> (<i>seems odd</i>); trước <b>danh từ</b> thêm <i>like</i> (<i>seems like a problem</i>).",
+            "<b>Đừng quên “It”.</b> Đây là lỗi người Việt mắc nhiều nhất vì tiếng Việt không cần chủ ngữ.",
+            "<b>Đổi lời buộc tội thành nhận xét:</b> thay <i>You forgot the attachment</i> bằng <i>It seems the file didn't attach</i> — cùng thông tin, khác hẳn phản ứng.",
+            "<b>Thêm “to me” khi muốn nhận trách nhiệm về nhận xét:</b> <i>It seems to me…</i> nghe khiêm tốn và mời trao đổi hơn.",
+            "<b>Bài tập 3 phút:</b> lấy 5 lời phàn nàn bạn từng muốn nói, viết lại mỗi câu bằng <i>It seems…</i> hoặc <i>There seems to be…</i> và so sánh cảm giác."
+          ]
+        }
+      ]
+    }
+  ]
+}

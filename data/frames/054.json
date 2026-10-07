@@ -1,0 +1,500 @@
+{
+  "id": 54,
+  "group": "Nhóm 6 · Đồng ý & Phản đối",
+  "title": "I'm afraid I disagree — Phản đối thẳng mà vẫn lịch sự",
+  "subtitle": "Khi công nhận và rào đón đã hết tác dụng, đây là khung câu để nói thẳng rằng bạn không đồng ý. Điểm mấu chốt nằm ở hai chữ I'm afraid — chúng không liên quan gì đến sự sợ hãi, mà là công thức lịch sự chuẩn mực của tiếng Anh để báo một điều người nghe không muốn nghe.",
+  "pattern": [
+    "I'm afraid I disagree (with <em>+ N</em>)",
+    "I'm afraid that's not quite right",
+    "With respect, <em>+ mệnh đề</em>"
+  ],
+  "meaning": "E là tôi không đồng ý / Rất tiếc nhưng tôi phản đối",
+  "grammar": [48],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Phản đối rõ ràng" },
+    { "text": "Trình độ: B2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I'm afraid</span> là một trong những công thức lịch sự quan trọng nhất của tiếng Anh, và nó <b>không liên quan gì đến sợ hãi</b>. Nó có nghĩa là “rất tiếc phải nói rằng…” — dùng để báo trước một điều người nghe không muốn nghe." },
+        { "t": "p", "html": "Ghép với <i>I disagree</i>, nó tạo ra một lời phản đối <b>rõ ràng nhưng vẫn nhã</b>. Bạn không né tránh, không vòng vo — bạn nói thẳng rằng mình không đồng ý, nhưng bọc nó trong một lớp đệm lịch sự." },
+        { "t": "p", "html": "Khác với [Khung 52] và [Khung 53] vốn công nhận trước rồi mới phản biện, khung này <b>không công nhận gì cả</b>. Nó dành cho lúc bạn thật sự thấy điều kia sai và cần nói rõ — nhưng vẫn giữ được quan hệ." },
+        { "t": "callout", "html": "<b>BẪY NGỮ PHÁP LỚN:</b> <span class=\"k\">I'm afraid I disagree</span> ✓ = e là tôi không đồng ý. Còn <span class=\"k\">I'm afraid to disagree</span> ✗ nghĩa là “tôi <b>sợ</b> không dám phản đối” — hoàn toàn khác. Sau <i>I'm afraid</i> phải là một <b>mệnh đề</b>, không phải <i>to + V</i>." },
+        { "t": "h3", "text": "Bốn mức phản đối" },
+        {
+          "t": "table",
+          "head": ["Câu", "Mức độ", "Bối cảnh"],
+          "rows": [
+            ["<code>I'm not convinced.</code>", "Nhẹ — chưa bị thuyết phục", "Họp nội bộ"],
+            ["<code>I'm afraid I disagree.</code>", "Rõ ràng nhưng nhã", "Chuẩn mực mọi nơi"],
+            ["<code>I'm afraid that's not quite right.</code>", "Đính chính một sự thật", "Khi người kia nói sai dữ kiện"],
+            ["<code>I beg to differ.</code>", "Rất trang trọng, đôi khi đùa", "Tranh luận, văn viết"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cẩn thận với “With all due respect”.</b> Nghĩa đen là “với tất cả sự tôn trọng”, nhưng người bản xứ hiểu ngầm rằng <b>sắp có một câu rất nặng</b>. Dùng <i>With respect</i> ngắn gọn thì trung tính hơn." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "⚔️", "title": "Phản đối rõ trong họp", "text": "Bối cảnh số 1. <i>I'm afraid I disagree with that.</i> Nói thẳng mà vẫn nhã." },
+            { "icon": "📏", "title": "Đính chính một sự thật", "text": "<i>I'm afraid that's not quite right.</i> Khi dữ kiện bị nói sai." },
+            { "icon": "🚫", "title": "Từ chối một yêu cầu", "text": "<i>I'm afraid we can't do that.</i> Xem thêm [Khung 28]." },
+            { "icon": "📧", "title": "Email phản hồi trang trọng", "text": "<i>I'm afraid I can't agree with the proposal.</i>" },
+            { "icon": "🤨", "title": "Nói mình chưa bị thuyết phục", "text": "<i>I'm not convinced, to be honest.</i> Nhẹ hơn một bậc." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn chỉ hơi nghi ngờ. Ở đó dùng [Khung 50] cho mềm hơn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Chuẩn", "<code>I'm afraid I disagree.</code>", "I'm afraid I disagree."],
+            ["Nêu rõ đối tượng", "<code>I disagree with + N</code>", "I disagree with that approach."],
+            ["Mềm hơn", "<code>I'm afraid I can't agree.</code>", "I'm afraid I can't agree with that."],
+            ["Đính chính sự thật", "<code>I'm afraid that's not quite right.</code>", "I'm afraid that's not quite right."],
+            ["Trang trọng", "<code>I beg to differ.</code>", "I beg to differ on that point."],
+            ["Kiểu Anh-Mỹ", "<code>I respectfully disagree.</code>", "I respectfully disagree."],
+            ["Nhẹ nhất", "<code>I'm not convinced.</code>", "I'm not convinced, to be honest."],
+            ["Báo trước câu nặng", "<code>With respect, + mệnh đề</code>", "With respect, that's not the issue."],
+            ["Buộc phải phản đối", "<code>I'd have to disagree there.</code>", "I'd have to disagree there."],
+            ["Nêu ranh giới bất đồng", "<code>That's where we differ.</code>", "That's where we differ."]
+          ]
+        },
+        { "t": "callout", "html": "<b>disagree là ĐỘNG TỪ.</b> <span class=\"k\">I'm disagree</span> ✗ — giống hệt lỗi <i>I am agree</i> ở [Khung 51]. Phải là <b>I disagree</b> ✓ hoặc <b>I don't agree</b> ✓." },
+        { "t": "callout", "html": "<b>Ba giới từ của disagree:</b> <i>disagree <b>with</b></i> + người hoặc ý kiến; <i>disagree <b>about/on</b></i> + chủ đề. Ví dụ: <i>We disagree with them about the price.</i>" }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các cách phản đối",
+              "items": [
+                { "w": "I'm afraid I disagree", "vi": "e là tôi không đồng ý", "ex": "I'm afraid I disagree with that.", "exvi": "E là tôi không đồng ý với điều đó.", "note": "Sau <i>I'm afraid</i> là MỆNH ĐỀ. <i>I'm afraid to disagree</i> ✗ nghĩa là “tôi sợ không dám phản đối”." },
+                { "w": "I'm afraid I can't agree", "vi": "e là tôi không thể đồng ý", "ex": "I'm afraid I can't agree with that.", "exvi": "E là tôi không thể đồng ý với điều đó.", "note": "Mềm hơn <i>I disagree</i> một chút vì nghe như bạn muốn mà không thể." },
+                { "w": "I'm afraid that's not quite right", "vi": "e là điều đó không hẳn đúng", "ex": "I'm afraid that's not quite right.", "exvi": "E là điều đó không hẳn đúng.", "note": "Dùng để ĐÍNH CHÍNH một sự thật, không phải phản đối một ý kiến. Chữ <i>quite</i> làm mềm hẳn." },
+                { "w": "I disagree with", "vi": "tôi không đồng ý với", "ex": "I disagree with that approach.", "exvi": "Tôi không đồng ý với cách làm đó.", "note": "<i>disagree</i> là ĐỘNG TỪ — không nói <i>I'm disagree</i>." },
+                { "w": "I disagree about", "vi": "tôi bất đồng về", "ex": "We disagree about the timing.", "exvi": "Chúng tôi bất đồng về thời điểm.", "note": "<b>about/on</b> đi với CHỦ ĐỀ, <b>with</b> đi với NGƯỜI hoặc Ý KIẾN." },
+                { "w": "I'm not convinced", "vi": "tôi chưa bị thuyết phục", "ex": "I'm not convinced, to be honest.", "exvi": "Thật lòng thì tôi chưa bị thuyết phục.", "note": "Nhẹ hơn một bậc — mở đường cho người kia thuyết phục thêm." },
+                { "w": "I beg to differ", "vi": "tôi xin phép không đồng ý", "ex": "I beg to differ on that point.", "exvi": "Ở điểm đó tôi xin phép không đồng ý.", "note": "Rất trang trọng, hơi cổ — đôi khi dùng đùa giữa bạn bè." },
+                { "w": "I respectfully disagree", "vi": "tôi kính cẩn phản đối", "ex": "I respectfully disagree with the conclusion.", "exvi": "Tôi xin phép phản đối kết luận đó.", "note": "Mang màu Anh-Mỹ, rất trang trọng — hợp văn bản và tranh luận chính thức." },
+                { "w": "I'd have to disagree there", "vi": "chỗ đó tôi buộc phải phản đối", "ex": "I'd have to disagree there.", "exvi": "Chỗ đó tôi buộc phải phản đối.", "note": "<i>have to</i> ngụ ý bạn không muốn nhưng buộc phải — nghe nhẹ hơn." },
+                { "w": "That's where we differ", "vi": "đó là chỗ chúng ta khác nhau", "ex": "That's where we differ, I think.", "exvi": "Tôi nghĩ đó là chỗ chúng ta khác nhau.", "note": "Nêu ranh giới bất đồng mà không nói ai đúng ai sai." },
+                { "w": "I see it very differently", "vi": "tôi nhìn khác hẳn", "ex": "I see it very differently.", "exvi": "Tôi nhìn nhận khác hẳn." },
+                { "w": "I can't go along with that", "vi": "tôi không thể theo cái đó", "ex": "I can't go along with that, sorry.", "exvi": "Xin lỗi, tôi không thể theo cái đó.", "note": "<i>go along with</i> = thuận theo. Thân mật hơn <i>disagree</i>." }
+              ]
+            },
+            {
+              "title": "Rào đón & nêu lý do",
+              "items": [
+                { "w": "With respect,", "vi": "xin phép nói thẳng", "ex": "With respect, that's not the issue.", "exvi": "Xin phép nói thẳng, đó không phải vấn đề.", "note": "Trung tính hơn <i>With all due respect</i>." },
+                { "w": "With all due respect,", "vi": "với tất cả sự tôn trọng", "ex": "With all due respect, that won't work.", "exvi": "Với tất cả sự tôn trọng, cái đó sẽ không chạy.", "note": "BẪY: người bản xứ hiểu ngầm rằng SẮP CÓ CÂU NẶNG. Dùng cẩn thận." },
+                { "w": "to be honest", "vi": "thật lòng mà nói", "ex": "I'm not convinced, to be honest.", "exvi": "Thật lòng thì tôi chưa bị thuyết phục." },
+                { "w": "the evidence suggests otherwise", "vi": "bằng chứng nói ngược lại", "ex": "The evidence suggests otherwise.", "exvi": "Bằng chứng lại nói ngược lại.", "note": "Trang trọng và khách quan — mạnh hơn nói “tôi nghĩ khác”." },
+                { "w": "in my experience", "vi": "theo kinh nghiệm của tôi", "ex": "In my experience, that rarely works.", "exvi": "Theo kinh nghiệm của tôi, cái đó hiếm khi được." },
+                { "w": "we tried that before", "vi": "mình từng thử rồi", "ex": "We tried that before and it failed.", "exvi": "Mình từng thử rồi và thất bại." },
+                { "w": "the data doesn't support that", "vi": "dữ liệu không ủng hộ điều đó", "ex": "The data doesn't support that conclusion.", "exvi": "Dữ liệu không ủng hộ kết luận đó." },
+                { "w": "I'd be cautious about", "vi": "tôi sẽ thận trọng với", "ex": "I'd be cautious about that assumption.", "exvi": "Tôi sẽ thận trọng với giả định đó.", "note": "Phản đối cực kỳ nhã — chỉ cảnh báo chứ không bác bỏ." },
+                { "w": "I'm afraid it's not that simple", "vi": "e là không đơn giản vậy", "ex": "I'm afraid it's not that simple.", "exvi": "E là không đơn giản như vậy đâu." },
+                { "w": "that's not my understanding", "vi": "tôi không hiểu như vậy", "ex": "That's not my understanding of it.", "exvi": "Tôi không hiểu chuyện đó như vậy.", "note": "Phản đối bằng cách nêu cách hiểu của mình — rất nhã." },
+                { "w": "I'd push back on that", "vi": "chỗ đó tôi muốn phản biện", "ex": "I'd push back on that assumption.", "exvi": "Giả định đó tôi muốn phản biện.", "note": "Tiếng Anh công sở. Xem [Khung 52]." },
+                { "w": "let's agree to disagree", "vi": "mình chấp nhận bất đồng", "ex": "Let's agree to disagree on this.", "exvi": "Chuyện này mình chấp nhận bất đồng nhé.", "note": "Khép lại tranh luận trong hòa khí. Xem [Khung 51]." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "Why do you say that?", "vi": "sao anh/chị nói vậy?", "ex": "Why do you say that?", "exvi": "Sao anh/chị lại nói vậy?" },
+                { "w": "What would you suggest?", "vi": "anh/chị đề xuất gì?", "ex": "What would you suggest instead?", "exvi": "Vậy anh/chị đề xuất gì thay thế?", "note": "Câu đáp tốt nhất — biến phản đối thành đóng góp." },
+                { "w": "That's fair", "vi": "cũng công bằng", "ex": "That's fair. Let me reconsider.", "exvi": "Cũng công bằng. Để tôi cân nhắc lại." },
+                { "w": "I stand corrected", "vi": "tôi xin nhận là mình sai", "ex": "I stand corrected, thank you.", "exvi": "Tôi xin nhận là mình sai, cảm ơn.", "note": "Câu nhận sai rất lịch thiệp và được kính trọng trong công việc." },
+                { "w": "Let's look at the data", "vi": "mình xem dữ liệu đi", "ex": "Let's look at the data together.", "exvi": "Mình cùng xem dữ liệu đi." },
+                { "w": "I hear you, but", "vi": "tôi hiểu, nhưng", "ex": "I hear you, but I still think it's worth trying.", "exvi": "Tôi hiểu, nhưng tôi vẫn nghĩ đáng thử.", "note": "Xem [Khung 53]." },
+                { "w": "Noted, thank you", "vi": "đã ghi nhận, cảm ơn", "ex": "Noted, thank you for raising it.", "exvi": "Đã ghi nhận, cảm ơn anh/chị đã nêu." },
+                { "w": "Can you say more?", "vi": "anh/chị nói rõ thêm được không?", "ex": "Can you say more about that?", "exvi": "Anh/chị nói rõ thêm chỗ đó được không?" },
+                { "w": "We'll have to differ", "vi": "mình đành khác nhau vậy", "ex": "We'll have to differ on this one.", "exvi": "Chuyện này mình đành khác nhau vậy." },
+                { "w": "Point taken", "vi": "tôi tiếp thu", "ex": "Point taken.", "exvi": "Tôi tiếp thu.", "note": "Xem [Khung 52]." },
+                { "w": "Let's take it offline", "vi": "để bàn riêng sau", "ex": "Let's take it offline after the meeting.", "exvi": "Để sau họp mình bàn riêng.", "note": "Thành ngữ công sở — gác một tranh luận ra khỏi cuộc họp chung." },
+                { "w": "Who else has a view?", "vi": "còn ai có ý kiến không?", "ex": "Who else has a view on this?", "exvi": "Còn ai có ý kiến về việc này không?", "note": "Người chủ trì dùng để mở rộng tranh luận khi hai bên bế tắc." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I'm afraid I disagree with that approach.",
+                  "vi": "E là tôi không đồng ý với cách làm đó.",
+                  "note": "Phản đối rõ ràng mà vẫn nhã. Sau <i>I'm afraid</i> là mệnh đề, KHÔNG phải <i>to + V</i>.",
+                  "open": { "en": "Can I offer a different view?", "vi": "Cho tôi nêu một góc nhìn khác được không?" },
+                  "reply": [
+                    { "them": "What would you suggest instead?", "themvi": "Vậy anh/chị đề xuất gì thay thế?", "you": "Phasing it over two quarters.", "youvi": "Chia làm hai quý." },
+                    { "them": "Why do you say that?", "themvi": "Sao anh/chị nói vậy?", "you": "We tried it before and it failed.", "youvi": "Mình từng thử rồi và thất bại." }
+                  ],
+                  "close": { "en": "Happy to be proved wrong, though.", "vi": "Nhưng tôi sẵn sàng nhận mình sai." }
+                },
+                {
+                  "en": "I'm afraid that's not quite right.",
+                  "vi": "E là điều đó không hẳn đúng.",
+                  "note": "Dùng để ĐÍNH CHÍNH một dữ kiện sai, không phải để phản đối một ý kiến. Chữ <i>quite</i> làm mềm hẳn.",
+                  "reply": [
+                    { "them": "Oh? What did I get wrong?", "themvi": "Ồ? Tôi nhầm chỗ nào?", "you": "The launch was March, not April.", "youvi": "Ra mắt là tháng Ba, không phải tháng Tư." },
+                    { "them": "I stand corrected, thank you.", "themvi": "Tôi xin nhận là mình sai, cảm ơn.", "you": "Easy mistake to make.", "youvi": "Nhầm là chuyện thường." }
+                  ]
+                },
+                {
+                  "en": "I'm not convinced, to be honest.",
+                  "vi": "Thật lòng thì tôi chưa bị thuyết phục.",
+                  "note": "Nhẹ hơn <i>I disagree</i> một bậc — nó mở đường cho người kia thuyết phục thêm.",
+                  "reply": [
+                    { "them": "What would convince you?", "themvi": "Điều gì sẽ thuyết phục được anh/chị?", "you": "A pilot with real users.", "youvi": "Một bản thử nghiệm với người dùng thật." }
+                  ],
+                  "vars": [
+                    { "en": "I'd be cautious about that assumption.", "vi": "Tôi sẽ thận trọng với giả định đó." }
+                  ]
+                },
+                {
+                  "en": "With respect, that's not the issue here.",
+                  "vi": "Xin phép nói thẳng, đó không phải vấn đề ở đây.",
+                  "note": "<i>With respect</i> trung tính hơn <i>With all due respect</i> — cụm đầy đủ ngầm báo hiệu một câu rất nặng.",
+                  "reply": [
+                    { "them": "Then what is?", "themvi": "Vậy vấn đề là gì?", "you": "Nobody owns the decision.", "youvi": "Không ai chịu trách nhiệm ra quyết định." }
+                  ],
+                  "close": { "en": "Let's take it offline.", "vi": "Để sau họp mình bàn riêng." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I'm afraid that's not what I was told.",
+                  "vi": "E là tôi không được báo như vậy.",
+                  "note": "Phản đối bằng cách nêu thông tin bạn nhận được — không ai bị quy là nói dối.",
+                  "reply": [
+                    { "them": "Who did you speak to?", "themvi": "Anh/chị nói chuyện với ai ạ?", "you": "Someone on the phone on Tuesday.", "youvi": "Một bạn qua điện thoại hôm thứ Ba." }
+                  ],
+                  "close": { "en": "Could you check the notes?", "vi": "Em kiểm tra ghi chú giúp được không?" }
+                },
+                {
+                  "en": "I'm afraid I can't agree to those terms.",
+                  "vi": "E là tôi không thể chấp thuận những điều khoản đó.",
+                  "note": "Ở đây là <b>agree to</b> vì nói về việc chấp thuận một đề xuất. Xem [Khung 51].",
+                  "reply": [
+                    { "them": "Which part is the problem?", "themvi": "Phần nào có vấn đề ạ?", "you": "The three-year lock-in.", "youvi": "Điều khoản ràng buộc ba năm." }
+                  ]
+                },
+                {
+                  "en": "That's not my understanding of the warranty.",
+                  "vi": "Tôi không hiểu về bảo hành như vậy.",
+                  "note": "Phản đối bằng cách nêu cách hiểu của mình — rất nhã và hiệu quả.",
+                  "reply": [
+                    { "them": "Let me bring the terms up.", "themvi": "Để em mở điều khoản ra ạ.", "you": "Thank you — page two, I think.", "youvi": "Cảm ơn — trang hai thì phải." }
+                  ],
+                  "vars": [
+                    { "en": "I'm afraid that's not quite right.", "vi": "E là điều đó không hẳn đúng." }
+                  ]
+                },
+                {
+                  "en": "I'm afraid I disagree — the website said otherwise.",
+                  "vi": "E là tôi không đồng ý — trang web ghi khác.",
+                  "reply": [
+                    { "them": "Could you show me?", "themvi": "Anh/chị cho em xem được không ạ?", "you": "Here — twenty-four months.", "youvi": "Đây — hai mươi bốn tháng." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I'd have to disagree there.",
+                  "vi": "Chỗ đó mình buộc phải phản đối.",
+                  "note": "<i>have to</i> ngụ ý bạn không muốn nhưng buộc phải — nghe nhẹ hơn <i>I disagree</i> trần.",
+                  "reply": [
+                    { "them": "Go on then.", "themvi": "Vậy nói đi.", "you": "She didn't have a choice.", "youvi": "Cô ấy có lựa chọn nào đâu." }
+                  ]
+                },
+                {
+                  "en": "That's where we differ, I think.",
+                  "vi": "Mình nghĩ đó là chỗ tụi mình khác nhau.",
+                  "note": "Nêu ranh giới bất đồng mà không nói ai đúng ai sai — rất giữ hòa khí.",
+                  "reply": [
+                    { "them": "We'll have to differ then.", "themvi": "Vậy mình đành khác nhau.", "you": "No harm in that.", "youvi": "Cũng chẳng sao cả." }
+                  ],
+                  "close": { "en": "Let's agree to disagree.", "vi": "Mình chấp nhận bất đồng nhé." }
+                },
+                {
+                  "en": "I beg to differ.",
+                  "vi": "Mình xin phép không đồng ý.",
+                  "note": "Rất trang trọng và hơi cổ — giữa bạn bè thường mang sắc thái đùa vui.",
+                  "reply": [
+                    { "them": "Oh, do you now?", "themvi": "Ồ, thế cơ à?", "you": "I do. And I'll prove it.", "youvi": "Đúng vậy. Và mình sẽ chứng minh." }
+                  ],
+                  "vars": [
+                    { "en": "I see it very differently.", "vi": "Mình nhìn nhận khác hẳn." }
+                  ]
+                },
+                {
+                  "en": "I'm afraid I can't go along with that.",
+                  "vi": "E là mình không thể theo cái đó được.",
+                  "note": "<span class=\"k\">go along with</span> = thuận theo. Thân mật hơn <i>disagree</i> nhưng vẫn rõ ràng.",
+                  "reply": [
+                    { "them": "Why not?", "themvi": "Sao lại không?", "you": "It's not fair on the others.", "youvi": "Không công bằng với mấy người kia." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I'm afraid that's not what the booking says.",
+                  "vi": "E là đặt phòng của tôi không ghi như vậy.",
+                  "reply": [
+                    { "them": "May I see your confirmation?", "themvi": "Cho em xem xác nhận được không ạ?", "you": "Of course — here it is.", "youvi": "Tất nhiên — đây ạ." }
+                  ],
+                  "close": { "en": "Thank you for checking.", "vi": "Cảm ơn đã kiểm tra." }
+                },
+                {
+                  "en": "I'm afraid I disagree — we've got plenty of time.",
+                  "vi": "Mình không đồng ý đâu — mình còn thừa thời gian.",
+                  "reply": [
+                    { "them": "You always say that.", "themvi": "Lúc nào bạn cũng nói vậy.", "you": "And we've never missed a flight.", "youvi": "Và mình chưa lỡ chuyến nào." }
+                  ]
+                },
+                {
+                  "en": "I'm not convinced that route is faster.",
+                  "vi": "Mình chưa tin tuyến đó nhanh hơn.",
+                  "note": "Phản đối nhẹ dựa trên sự nghi ngờ chứ không phải khẳng định — mở đường cho người kia chứng minh.",
+                  "reply": [
+                    { "them": "The map says twenty minutes less.", "themvi": "Bản đồ ghi ít hơn hai mươi phút.", "you": "At this hour? Let's see.", "youvi": "Giờ này á? Xem sao." }
+                  ],
+                  "vars": [
+                    { "en": "In my experience, that road is always jammed.", "vi": "Theo kinh nghiệm của mình, đường đó lúc nào cũng tắc." }
+                  ]
+                },
+                {
+                  "en": "With respect, we did agree on this yesterday.",
+                  "vi": "Xin phép nói thẳng, hôm qua mình đã thống nhất chuyện này rồi.",
+                  "reply": [
+                    { "them": "Did we?", "themvi": "Thật à?", "you": "We did — I wrote it down.", "youvi": "Có mà — mình ghi lại rồi." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I'm afraid that's not what we ordered.",
+                  "vi": "E là đây không phải món chúng tôi gọi.",
+                  "note": "Cách báo sai món cực nhã — <i>I'm afraid</i> làm mềm hẳn một lời phàn nàn.",
+                  "reply": [
+                    { "them": "I'm so sorry — what did you order?", "themvi": "Em xin lỗi ạ — anh/chị gọi món gì?", "you": "The grilled fish, not the chicken.", "youvi": "Cá nướng, không phải gà." }
+                  ],
+                  "close": { "en": "No rush at all.", "vi": "Không vội đâu ạ." }
+                },
+                {
+                  "en": "I'm afraid I disagree — I thought it was excellent.",
+                  "vi": "Mình không đồng ý đâu — mình thấy rất ngon.",
+                  "reply": [
+                    { "them": "Really? It was too salty for me.", "themvi": "Thật à? Với mình thì mặn quá.", "you": "That's where we differ, then.", "youvi": "Vậy đó là chỗ tụi mình khác nhau." }
+                  ]
+                },
+                {
+                  "en": "I'm afraid that's not quite right — we only had two drinks.",
+                  "vi": "E là không hẳn đúng — chúng tôi chỉ uống hai ly.",
+                  "note": "Đính chính hóa đơn bằng dữ kiện cụ thể, không quy lỗi cho ai.",
+                  "reply": [
+                    { "them": "Let me recount for you.", "themvi": "Để em tính lại ạ.", "you": "Thank you, no hurry.", "youvi": "Cảm ơn, không vội." }
+                  ],
+                  "vars": [
+                    { "en": "That's not my understanding of the bill.", "vi": "Tôi không hiểu hóa đơn như vậy." }
+                  ]
+                },
+                {
+                  "en": "I'm not convinced it's worth the wait.",
+                  "vi": "Mình chưa tin là đáng để đợi.",
+                  "reply": [
+                    { "them": "Forty minutes isn't that long.", "themvi": "Bốn mươi phút có lâu lắm đâu.", "you": "It is when you're this hungry.", "youvi": "Đói thế này thì lâu đấy." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Phản đối một đề xuất trong cuộc họp",
+          "lines": [
+            { "speaker": "Manager", "en": "We'll roll it out to all offices at once.", "vi": "Mình sẽ triển khai cho tất cả văn phòng cùng lúc." },
+            { "speaker": "You", "me": true, "en": "Can I offer a different view? I'm afraid I disagree with that approach.", "vi": "Cho tôi nêu góc nhìn khác được không? E là tôi không đồng ý với cách làm đó." },
+            { "speaker": "Manager", "en": "Why do you say that?", "vi": "Sao anh/chị nói vậy?" },
+            { "speaker": "You", "me": true, "en": "We tried it before and it failed. The data doesn't support it either.", "vi": "Mình từng thử rồi và thất bại. Dữ liệu cũng không ủng hộ." },
+            { "speaker": "Manager", "en": "What would you suggest instead?", "vi": "Vậy anh/chị đề xuất gì thay thế?" },
+            { "speaker": "You", "me": true, "en": "Two offices first. I'm not convinced we can support more than that.", "vi": "Hai văn phòng trước. Tôi chưa tin mình hỗ trợ nổi nhiều hơn thế." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Đính chính một hóa đơn ở nhà hàng",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Sorry — I'm afraid that's not quite right.", "vi": "Xin lỗi — e là hóa đơn không hẳn đúng." },
+            { "speaker": "Staff", "en": "Oh? Let me have a look.", "vi": "Dạ? Để em xem ạ." },
+            { "speaker": "You", "me": true, "en": "We only had two drinks, not four.", "vi": "Chúng tôi chỉ uống hai ly, không phải bốn." },
+            { "speaker": "Staff", "en": "The system shows four, I'm afraid.", "vi": "E là hệ thống hiển thị bốn ạ." },
+            { "speaker": "You", "me": true, "en": "That's not my understanding. Could you check the table number?", "vi": "Tôi không hiểu như vậy. Em kiểm tra số bàn giúp được không?" },
+            { "speaker": "Staff", "en": "You're right — that was table nine. I stand corrected.", "vi": "Anh/chị đúng ạ — đó là bàn chín. Em xin nhận là em nhầm." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'm afraid to disagree.", "right": "I'm afraid I disagree.", "why": "BẪY LỚN NHẤT. <i>afraid <b>to</b> + V</i> = SỢ không dám làm gì. Sau <i>I'm afraid</i> theo nghĩa lịch sự phải là một <b>mệnh đề</b>." },
+            { "wrong": "I'm disagree with you.", "right": "I disagree with you.", "why": "<b>disagree</b> là ĐỘNG TỪ — không đi với <i>am/is/are</i>, giống lỗi <i>I am agree</i> ở [Khung 51]." },
+            { "wrong": "I disagree about you.", "right": "I disagree with you.", "why": "<b>with</b> đi với NGƯỜI hoặc Ý KIẾN. <b>about/on</b> chỉ đi với CHỦ ĐỀ: <i>disagree about the price</i>." },
+            { "wrong": "You are wrong.", "right": "I'm afraid that's not quite right.", "why": "<i>You are wrong</i> chỉ thẳng vào người, nghe rất đối đầu. Câu đúng chỉ vào <b>nội dung</b>." },
+            { "wrong": "With all due respect, I disagree. <i>(với đồng nghiệp ngang cấp)</i>", "right": "With respect, I disagree.", "why": "Cụm đầy đủ ngầm báo hiệu một câu rất nặng và có thể nghe mỉa mai. Bản ngắn trung tính hơn." },
+            { "wrong": "I'm afraid I disagree. <i>(khi chỉ hơi nghi ngờ)</i>", "right": "I'm not sure about that.", "why": "Khung này là phản đối RÕ RÀNG. Nếu chỉ hơi nghi ngờ, dùng [Khung 50] cho mềm hơn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Mức phản đối", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I'm afraid I disagree.</code>", "Rõ ràng nhưng nhã", "<i>I'm afraid I disagree.</i> Họp, email."],
+            ["<code>I'm afraid that's not quite right.</code>", "Đính chính dữ kiện", "Khi người kia nói sai sự thật."],
+            ["<code>I'm not convinced.</code>", "Nhẹ — chưa bị thuyết phục", "<i>I'm not convinced.</i> Mở đường thuyết phục thêm."],
+            ["<code>I'm not sure about that.</code>", "Nhẹ nhất — nghi ngờ", "<i>I'm not sure about that.</i> Xem [Khung 50]."],
+            ["<code>That's a good point, but…</code>", "Công nhận rồi phản biện", "<i>That's a fair point, but…</i> Xem [Khung 52]."],
+            ["<code>I beg to differ.</code>", "Rất trang trọng / đôi khi đùa", "<i>I beg to differ.</i> Tranh luận."],
+            ["<code>That's simply not true.</code>", "Bác bỏ thẳng — gây căng", "Chỉ khi thật sự cần dứt khoát."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — nói rằng điều người kia vừa nói là sai" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'm not sure about that.", "vi": "Nhẹ nhất — nghi ngờ. Xem [Khung 50]" },
+            { "en": "I'm not convinced, to be honest.", "vi": "Chưa bị thuyết phục" },
+            { "en": "I'm afraid that's not quite right.", "vi": "Đính chính nhã nhặn" },
+            { "en": "I'm afraid I disagree.", "vi": "Phản đối rõ ràng — chuẩn mực" },
+            { "en": "That's simply not true.", "vi": "Bác bỏ thẳng — dễ gây căng" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>I'm afraid</b> nói nhanh dính thành <b>“aim-ə-FRAYD”</b> — trọng âm rơi vào <i>FRAYD</i>.",
+            "<b>afraid</b> nhấn ở <b>âm tiết thứ hai</b>: ə-<b>FRAID</b>. Âm đầu /ə/ đọc rất nhẹ.",
+            "<b>disagree</b> nhấn ở <b>âm tiết cuối</b>: dis-ə-<b>GREE</b> — khác với nhiều từ ba âm tiết khác.",
+            "<b>afraid I</b> nối âm thành <b>“ə-fray-dai”</b> — âm /d/ nối sang nguyên âm.",
+            "<b>not quite right</b> → “not-kwait-RAIT”, âm /t/ ở <i>not</i> và <i>quite</i> đều bị nuốt.",
+            "<b>Giọng hạ xuống và chậm lại</b> ở cả câu — nói nhanh và cao giọng sẽ biến lời phản đối nhã thành gay gắt."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm afraid I disagree with that approach.", "vi": "Luyện shadowing: “aim-ə-fray-dai-dis-ə-GREE”, hạ giọng ở cuối." },
+            { "en": "I'm afraid that's not quite right.", "vi": "Tập nuốt /t/ ở not và quite, nói chậm và nhẹ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "E là tôi không đồng ý với điều đó.", "blank": "__________ with that.", "a": "I'm afraid I disagree (KHÔNG phải “I'm afraid to disagree”)" },
+            { "vi": "E là điều đó không hẳn đúng.", "blank": "I'm afraid that's __________.", "a": "not quite right" },
+            { "vi": "Thật lòng thì tôi chưa bị thuyết phục.", "blank": "__________, to be honest.", "a": "I'm not convinced" },
+            { "vi": "Tôi không đồng ý với cách làm đó.", "blank": "I __________ that approach.", "a": "disagree with (KHÔNG phải “I'm disagree”)" },
+            { "vi": "Chúng tôi bất đồng về thời điểm.", "blank": "We disagree __________ the timing.", "a": "about / on" },
+            { "vi": "Xin phép nói thẳng, đó không phải vấn đề.", "blank": "__________, that's not the issue.", "a": "With respect" },
+            { "vi": "Chỗ đó tôi buộc phải phản đối.", "blank": "I'd __________ there.", "a": "have to disagree" },
+            { "vi": "Tôi xin nhận là mình sai, cảm ơn.", "blank": "__________, thank you.", "a": "I stand corrected" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. E là tôi không đồng ý với cách làm đó.", "a": "I'm afraid I disagree with that approach." },
+            { "vi": "2. E là đây không phải món chúng tôi gọi.", "a": "I'm afraid that's not what we ordered." },
+            { "vi": "3. Thật lòng thì tôi chưa bị thuyết phục.", "a": "I'm not convinced, to be honest." },
+            { "vi": "4. Mình nghĩ đó là chỗ tụi mình khác nhau.", "a": "That's where we differ, I think." },
+            { "vi": "5. Tôi không hiểu về bảo hành như vậy.", "a": "That's not my understanding of the warranty." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Khắc vào đầu:</b> <i>I'm afraid <b>I disagree</b></i> ✓ chứ không phải <i>I'm afraid <b>to</b> disagree</i> ✗ — cái sau nghĩa là bạn sợ không dám nói.",
+            "<b>“I'm afraid” không phải sợ hãi</b> — đó là công thức lịch sự để báo tin không vui. Dùng nó cả khi từ chối [Khung 28].",
+            "<b>Chỉ vào nội dung, đừng chỉ vào người:</b> <i>That's not quite right</i> thay cho <i>You are wrong</i>.",
+            "<b>Dùng “I'm not convinced” khi muốn nhẹ hơn</b> — nó mời người kia thuyết phục thêm thay vì đóng cửa.",
+            "<b>Cẩn thận với “With all due respect”</b> — người bản xứ hiểu ngầm rằng sắp có câu rất nặng.",
+            "<b>Bài tập 3 phút:</b> viết 5 điều bạn từng muốn phản đối nhưng nhịn, mỗi câu viết hai lần — một lần bằng <i>I'm not convinced</i>, một lần bằng <i>I'm afraid I disagree</i>. So sánh sức nặng."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,485 @@
+{
+  "id": 39,
+  "group": "Nhóm 4 · Đề nghị & Rủ rê",
+  "title": "It might be a good idea to… — Khuyên mà không nhắm vào ai",
+  "subtitle": "Cách góp ý nhã nhất trong tiếng Anh. Thay vì nói “bạn nên làm X”, bạn nói “làm X có lẽ là ý hay” — lời khuyên không còn nhắm vào con người mà nhắm vào việc. Nhờ vậy bạn góp ý được cho cả sếp mà không ai thấy bị dạy bảo.",
+  "pattern": [
+    "It might be a good idea to <em>+ V</em>",
+    "It might be worth <em>+ V-ing</em>",
+    "You might want to <em>+ V</em>"
+  ],
+  "meaning": "Có lẽ nên… / Làm… chắc là hay đấy",
+  "grammar": [30, 32],
+  "tags": [
+    { "text": "Tần suất: trung bình", "hot": false },
+    { "text": "Độ lịch sự: 5/5", "hot": true },
+    { "text": "Góp ý được cho cả cấp trên" },
+    { "text": "Trình độ: B1–B2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "Mấu chốt của khung này nằm ở chủ ngữ. <i>You should check it</i> bắt đầu bằng <b>You</b> — lời khuyên chĩa thẳng vào người nghe. <span class=\"k\">It might be a good idea to check it</span> bắt đầu bằng <b>It</b> — lời khuyên nhắm vào <b>việc</b>, không nhắm vào ai cả." },
+        { "t": "p", "html": "Thêm vào đó, <b>might</b> làm câu bớt chắc chắn: bạn không khẳng định đây là việc nên làm, bạn chỉ nói nó <i>có lẽ</i> là ý hay. Hai lớp này cộng lại khiến khung câu gần như không thể gây phật lòng." },
+        { "t": "p", "html": "Đó là lý do nó là lựa chọn số một khi bạn <b>góp ý cho người có quyền hơn mình</b>, hoặc khi đề cập tới chuyện nhạy cảm. Với sếp, <i>You should…</i> ở [Khung 38] dễ nghe như dạy bảo, còn câu này thì không." },
+        { "t": "callout", "html": "<b>Ba dạng cùng một sắc thái:</b> <span class=\"k\">It might be a good idea to + V</span> / <span class=\"k\">It might be worth + V-ing</span> / <span class=\"k\">You might want to + V</span>. Cả ba đều nhã như nhau — chỉ khác cấu trúc phía sau." },
+        { "t": "h3", "text": "Vì sao nó nhã hơn “You should”" },
+        {
+          "t": "table",
+          "head": ["Câu", "Chủ ngữ", "Người nghe cảm thấy"],
+          "rows": [
+            ["<code>Check it again.</code>", "(mệnh lệnh)", "Bị sai bảo"],
+            ["<code>You should check it again.</code>", "You", "Bị khuyên — có thể hơi bị dạy"],
+            ["<code>You might want to check it again.</code>", "You + might", "Được gợi ý nhẹ"],
+            ["<code>It might be a good idea to check it.</code>", "It", "Không bị nhắm vào — chỉ là một ý hay"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "👔", "title": "Góp ý cho cấp trên", "text": "Bối cảnh số 1. <i>It might be a good idea to ask them first.</i> Không ai thấy bị dạy bảo." },
+            { "icon": "📧", "title": "Email nhạy cảm", "text": "<i>It might be worth clarifying that point.</i> Nêu vấn đề mà không đổ lỗi." },
+            { "icon": "🧊", "title": "Chỉ ra sai sót tế nhị", "text": "<i>You might want to check the date on slide three.</i>" },
+            { "icon": "🤝", "title": "Tư vấn khách hàng", "text": "<i>It might be worth considering the larger model.</i>" },
+            { "icon": "🗣", "title": "Góp ý trong họp đông người", "text": "<i>It might be a good idea to document this.</i> Không ai bị chỉ mặt." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Tình huống khẩn cấp cần dứt khoát — lúc đó phải nói thẳng." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cơ bản", "<code>It might be a good idea to + V</code>", "It might be a good idea to wait."],
+            ["Ngắn hơn", "<code>It might be worth + V-ing</code>", "It might be worth waiting."],
+            ["Nhắm nhẹ vào người", "<code>You might want to + V</code>", "You might want to wait."],
+            ["Chắc chắn hơn một chút", "<code>It would be a good idea to + V</code>", "It would be a good idea to confirm."],
+            ["Dè dặt hơn nữa", "<code>Perhaps it might be worth + V-ing</code>", "Perhaps it might be worth asking."],
+            ["Dạng câu hỏi", "<code>Might it be worth + V-ing?</code>", "Might it be worth checking first?"],
+            ["Nêu lợi ích", "<code>It might help to + V</code>", "It might help to write it down."],
+            ["Gợi ý xem xét", "<code>It's worth considering + N</code>", "It's worth considering the alternative."],
+            ["Phủ định nhẹ", "<code>It might not be a good idea to + V</code>", "It might not be a good idea to rush."],
+            ["Trả lời đồng ý", "<code>That's a fair point.</code>", "That's a fair point — I'll do that."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp:</b> sau <i>a good idea</i> là <b>to + V</b>, nhưng sau <i>worth</i> là <b>V-ing</b>. <span class=\"k\">a good idea to wait</span> ✓ / <span class=\"k\">worth waiting</span> ✓ — <i>worth to wait</i> ✗" },
+        { "t": "callout", "html": "<b>Mẹo góp ý không làm ai mất mặt:</b> ghép khung này với một lý do khách quan. <i>It might be worth double-checking — the format changed last month.</i> Lý do nằm ở hoàn cảnh, không ở người." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ theo sau “It might be a good idea to…”",
+              "items": [
+                { "w": "wait", "vi": "chờ", "ex": "It might be a good idea to wait for the data.", "exvi": "Có lẽ nên chờ có dữ liệu đã." },
+                { "w": "check", "vi": "kiểm tra", "ex": "It might be a good idea to check with legal.", "exvi": "Có lẽ nên hỏi bên pháp chế." },
+                { "w": "confirm", "vi": "xác nhận", "ex": "It might be a good idea to confirm in writing.", "exvi": "Có lẽ nên xác nhận bằng văn bản." },
+                { "w": "ask", "vi": "hỏi", "ex": "It might be a good idea to ask them first.", "exvi": "Có lẽ nên hỏi họ trước." },
+                { "w": "document it", "vi": "ghi lại thành văn bản", "ex": "It might be a good idea to document this.", "exvi": "Có lẽ nên ghi lại việc này thành văn bản." },
+                { "w": "book early", "vi": "đặt sớm", "ex": "It might be a good idea to book early.", "exvi": "Có lẽ nên đặt sớm." },
+                { "w": "keep a copy", "vi": "giữ một bản", "ex": "It might be a good idea to keep a copy.", "exvi": "Có lẽ nên giữ lại một bản." },
+                { "w": "start small", "vi": "bắt đầu nhỏ", "ex": "It might be a good idea to start small.", "exvi": "Có lẽ nên bắt đầu từ quy mô nhỏ." },
+                { "w": "set a deadline", "vi": "đặt hạn chót", "ex": "It might be a good idea to set a clear deadline.", "exvi": "Có lẽ nên đặt một hạn chót rõ ràng." },
+                { "w": "bring someone in", "vi": "đưa thêm người vào", "ex": "It might be a good idea to bring someone in.", "exvi": "Có lẽ nên đưa thêm người vào." },
+                { "w": "take a break", "vi": "nghỉ giải lao", "ex": "It might be a good idea to take a break.", "exvi": "Có lẽ nên nghỉ giải lao chút." },
+                { "w": "get a second opinion", "vi": "hỏi ý kiến thứ hai", "ex": "It might be a good idea to get a second opinion.", "exvi": "Có lẽ nên hỏi thêm ý kiến khác." },
+                { "w": "sleep on it", "vi": "để qua đêm nghĩ", "ex": "It might be a good idea to sleep on it.", "exvi": "Có lẽ nên để qua đêm rồi hãy quyết." },
+                { "w": "clarify", "vi": "làm rõ", "ex": "It might be a good idea to clarify that point.", "exvi": "Có lẽ nên làm rõ điểm đó." },
+                { "w": "arrive early", "vi": "đến sớm", "ex": "It might be a good idea to arrive early.", "exvi": "Có lẽ nên đến sớm." },
+                { "w": "double-check", "vi": "kiểm tra lại cho chắc", "ex": "It might be a good idea to double-check the figures.", "exvi": "Có lẽ nên kiểm tra lại các con số cho chắc." },
+                { "w": "hold off", "vi": "khoan đã", "ex": "It might be a good idea to hold off until Monday.", "exvi": "Có lẽ nên khoan đến thứ Hai.", "note": "<i>hold off</i> = tạm hoãn, chưa làm vội." },
+                { "w": "loop them in", "vi": "cho họ vào luồng thông tin", "ex": "It might be a good idea to loop them in early.", "exvi": "Có lẽ nên cho họ nắm thông tin sớm.", "note": "<i>loop someone in</i> = đưa ai vào chuỗi email hoặc cuộc trao đổi." },
+                { "w": "test it first", "vi": "thử trước", "ex": "It might be a good idea to test it first.", "exvi": "Có lẽ nên thử trước." },
+                { "w": "put it in writing", "vi": "viết ra giấy tờ", "ex": "It might be a good idea to put it in writing.", "exvi": "Có lẽ nên ghi lại bằng văn bản." }
+              ]
+            },
+            {
+              "title": "Dạng “worth + V-ing” & “might want to”",
+              "items": [
+                { "w": "worth checking", "vi": "đáng kiểm tra", "ex": "It might be worth checking the date.", "exvi": "Có lẽ đáng kiểm tra lại ngày tháng.", "note": "Sau <b>worth</b> là V-ing, không phải <i>to V</i>." },
+                { "w": "worth asking", "vi": "đáng hỏi", "ex": "It might be worth asking before we commit.", "exvi": "Có lẽ đáng hỏi trước khi cam kết." },
+                { "w": "worth trying", "vi": "đáng thử", "ex": "It might be worth trying the other route.", "exvi": "Có lẽ đáng thử đường khác." },
+                { "w": "worth waiting", "vi": "đáng chờ", "ex": "It might be worth waiting a week.", "exvi": "Có lẽ đáng chờ một tuần." },
+                { "w": "worth considering", "vi": "đáng cân nhắc", "ex": "It's worth considering the alternative.", "exvi": "Phương án kia cũng đáng cân nhắc." },
+                { "w": "You might want to check", "vi": "có lẽ bạn nên kiểm tra", "ex": "You might want to check slide three.", "exvi": "Có lẽ anh/chị nên xem lại slide ba.", "note": "Chỉ ra sai sót mà không nói ai sai — cực kỳ hữu dụng." },
+                { "w": "You might want to consider", "vi": "có lẽ bạn nên cân nhắc", "ex": "You might want to consider the bigger size.", "exvi": "Có lẽ anh/chị nên cân nhắc cỡ lớn hơn." },
+                { "w": "You might want to ask", "vi": "có lẽ bạn nên hỏi", "ex": "You might want to ask HR about that.", "exvi": "Có lẽ anh/chị nên hỏi bộ phận nhân sự." },
+                { "w": "It might help to…", "vi": "làm… có thể sẽ đỡ hơn", "ex": "It might help to write it down.", "exvi": "Viết ra giấy có thể sẽ đỡ hơn.", "note": "Nhấn vào lợi ích thay vì vào nghĩa vụ — rất nhẹ nhàng." },
+                { "w": "Perhaps it might be worth…", "vi": "có lẽ đáng để…", "ex": "Perhaps it might be worth asking first.", "exvi": "Có lẽ đáng hỏi trước.", "note": "Chồng thêm một lớp dè dặt — nhã nhất có thể." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "That's a fair point", "vi": "ý đó hợp lý đấy", "ex": "That's a fair point — I'll do that.", "exvi": "Ý đó hợp lý đấy — tôi sẽ làm vậy.", "note": "Cách tiếp nhận góp ý chuyên nghiệp nhất." },
+                { "w": "Good idea, thanks", "vi": "ý hay, cảm ơn", "ex": "Good idea, thanks for flagging it.", "exvi": "Ý hay đấy, cảm ơn anh/chị đã nhắc." },
+                { "w": "I hadn't thought of that", "vi": "tôi chưa nghĩ tới", "ex": "I hadn't thought of that, actually.", "exvi": "Thật ra tôi chưa nghĩ tới điều đó." },
+                { "w": "We already did, actually", "vi": "thật ra bên tôi làm rồi", "ex": "We already did that, actually — but thanks.", "exvi": "Thật ra bên tôi làm rồi — nhưng vẫn cảm ơn anh/chị.", "note": "Từ chối góp ý mà vẫn ghi nhận thiện chí." },
+                { "w": "I'd rather not, for now", "vi": "tạm thời tôi chưa muốn", "ex": "I'd rather not, for now.", "exvi": "Tạm thời tôi chưa muốn vậy.", "note": "Xem [Khung 08]." },
+                { "w": "Let me look into it", "vi": "để tôi tìm hiểu thêm", "ex": "Let me look into it and get back to you.", "exvi": "Để tôi tìm hiểu rồi báo lại anh/chị.", "note": "Không nhận cũng không bác — câu trung tính an toàn. Xem [Khung 20]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "It might be a good idea to ask them first.",
+                  "vi": "Có lẽ nên hỏi họ trước đã.",
+                  "note": "Góp ý cho cấp trên mà không ai thấy bị dạy bảo — vì chủ ngữ là <b>It</b> chứ không phải <b>You</b>.",
+                  "open": { "en": "One thought before we send it —", "vi": "Một ý trước khi mình gửi —" },
+                  "reply": [
+                    { "them": "That's a fair point. Who should we ask?", "themvi": "Ý đó hợp lý đấy. Mình nên hỏi ai?", "you": "Legal, probably — it's a contract change.", "youvi": "Chắc là bên pháp chế — đây là thay đổi hợp đồng ạ." },
+                    { "them": "We already did, actually.", "themvi": "Thật ra bên tôi hỏi rồi.", "you": "Then we're fine — I just wanted to check.", "youvi": "Vậy thì ổn rồi — em chỉ muốn chắc thôi ạ." }
+                  ]
+                },
+                {
+                  "en": "You might want to check slide three.",
+                  "vi": "Có lẽ anh/chị nên xem lại slide ba.",
+                  "note": "Chỉ ra sai sót mà <b>không nói ai sai</b>. Cực kỳ hữu dụng khi phát hiện lỗi của người trên.",
+                  "reply": [
+                    { "them": "What's wrong with it?", "themvi": "Slide đó có gì không ổn?", "you": "The date says last year.", "youvi": "Ngày tháng vẫn đang là năm ngoái ạ." },
+                    { "them": "Good catch — thanks.", "themvi": "Phát hiện tốt đấy — cảm ơn em.", "you": "No problem.", "youvi": "Không có gì ạ." }
+                  ],
+                  "close": { "en": "Everything else looked great.", "vi": "Còn lại thì rất ổn ạ." }
+                },
+                {
+                  "en": "It might be worth documenting this decision.",
+                  "vi": "Có lẽ đáng ghi lại quyết định này thành văn bản.",
+                  "note": "Sau <b>worth</b> là V-ing. Lời khuyên thực dụng — tránh tranh cãi về sau mà không ám chỉ ai hay quên.",
+                  "reply": [
+                    { "them": "Is that really necessary?", "themvi": "Việc đó có thật sự cần không?", "you": "It saved us last time there was a dispute.", "youvi": "Lần trước có tranh cãi thì nhờ vậy mà thoát ạ." }
+                  ],
+                  "vars": [
+                    { "en": "It might be a good idea to put it in writing.", "vi": "Có lẽ nên ghi lại bằng văn bản." }
+                  ]
+                },
+                {
+                  "en": "It might be a good idea to loop them in early.",
+                  "vi": "Có lẽ nên cho họ nắm thông tin sớm.",
+                  "note": "<span class=\"k\">loop someone in</span> = đưa ai vào chuỗi email hoặc cuộc trao đổi. Cụm rất phổ biến ở công sở.",
+                  "reply": [
+                    { "them": "They'll only slow us down.", "themvi": "Họ chỉ làm mình chậm lại thôi.", "you": "Maybe, but later objections cost more.", "youvi": "Có thể, nhưng phản đối muộn còn tốn kém hơn ạ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "You might want to consider the larger size.",
+                  "vi": "Có lẽ anh/chị nên cân nhắc cỡ lớn hơn.",
+                  "note": "Nhân viên tư vấn kiểu này nghe như chuyên gia, không như người cố bán hàng đắt hơn.",
+                  "reply": [
+                    { "them": "Why do you say that?", "themvi": "Vì sao bạn nói vậy?", "you": "This fabric shrinks a little.", "youvi": "Vải này giặt xong co lại một chút ạ." }
+                  ]
+                },
+                {
+                  "en": "It might be worth checking the return policy first.",
+                  "vi": "Có lẽ đáng kiểm tra chính sách đổi trả trước.",
+                  "reply": [
+                    { "them": "Is there something I should know?", "themvi": "Có điều gì tôi cần biết không?", "you": "Sale items can't be returned.", "youvi": "Hàng giảm giá không đổi trả được ạ." }
+                  ]
+                },
+                {
+                  "en": "It might be a good idea to keep the box for a month.",
+                  "vi": "Có lẽ nên giữ hộp lại một tháng.",
+                  "reply": [
+                    { "them": "Why a month?", "themvi": "Sao lại một tháng?", "you": "That's the exchange window.", "youvi": "Đó là thời hạn đổi hàng ạ." }
+                  ]
+                },
+                {
+                  "en": "You might want to compare prices online first.",
+                  "vi": "Có lẽ bạn nên so giá trên mạng trước.",
+                  "note": "Góp ý cho người đi cùng mà không nghe như đang can ngăn họ tiêu tiền.",
+                  "reply": [
+                    { "them": "Good idea, thanks.", "themvi": "Ý hay, cảm ơn nhé.", "you": "Take your time — it'll still be here.", "youvi": "Cứ thong thả — nó vẫn ở đây mà." }
+                  ],
+                  "close": { "en": "No rush either way.", "vi": "Kiểu gì cũng không vội đâu." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "It might be a good idea to arrive an hour early.",
+                  "vi": "Có lẽ nên đến sớm một tiếng.",
+                  "reply": [
+                    { "them": "Is it usually busy?", "themvi": "Thường đông không?", "you": "On Fridays, very.", "youvi": "Thứ Sáu thì đông lắm ạ." }
+                  ],
+                  "vars": [
+                    { "en": "It might be worth leaving earlier.", "vi": "Có lẽ đáng đi sớm hơn." }
+                  ]
+                },
+                {
+                  "en": "You might want to keep a copy of your passport.",
+                  "vi": "Có lẽ anh/chị nên giữ một bản sao hộ chiếu.",
+                  "reply": [
+                    { "them": "A photo on my phone?", "themvi": "Chụp ảnh vào điện thoại được không ạ?", "you": "And email it to yourself, just in case.", "youvi": "Và gửi email cho chính mình nữa, phòng khi cần." }
+                  ]
+                },
+                {
+                  "en": "It might be worth booking a taxi in advance.",
+                  "vi": "Có lẽ đáng đặt taxi trước.",
+                  "reply": [
+                    { "them": "Can't we just get one outside?", "themvi": "Mình ra ngoài bắt luôn không được à?", "you": "At six in the morning it's hard.", "youvi": "Sáu giờ sáng thì khó lắm." }
+                  ]
+                },
+                {
+                  "en": "It might help to write the address down.",
+                  "vi": "Ghi địa chỉ ra giấy có thể sẽ đỡ hơn.",
+                  "note": "<span class=\"k\">It might help to…</span> nhấn vào <b>lợi ích</b> chứ không vào nghĩa vụ — dạng nhẹ nhàng nhất.",
+                  "reply": [
+                    { "them": "Good thinking — the driver may not speak English.", "themvi": "Nghĩ hay đấy — tài xế có khi không nói tiếng Anh.", "you": "I'll write it in Vietnamese too.", "youvi": "Mình viết cả tiếng Việt nữa." }
+                  ],
+                  "close": { "en": "That should cover it.", "vi": "Vậy chắc là đủ rồi." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "It might be a good idea to sleep on it.",
+                  "vi": "Có lẽ nên để qua đêm rồi hãy quyết.",
+                  "note": "Khuyên hoãn quyết định mà không phủ định lựa chọn của người kia.",
+                  "reply": [
+                    { "them": "I've been going back and forth all week.", "themvi": "Cả tuần mình cứ phân vân tới lui.", "you": "Then one more night won't hurt.", "youvi": "Vậy thêm một đêm nữa có sao đâu." }
+                  ]
+                },
+                {
+                  "en": "It might help to write it down.",
+                  "vi": "Viết ra giấy có thể sẽ đỡ hơn.",
+                  "reply": [
+                    { "them": "Does that actually work?", "themvi": "Cách đó có tác dụng thật không?", "you": "For me it does — it stops the loop.", "youvi": "Với mình thì có — nó cắt được vòng suy nghĩ lặp lại." }
+                  ]
+                },
+                {
+                  "en": "It might be worth getting a second opinion.",
+                  "vi": "Có lẽ đáng hỏi thêm ý kiến khác.",
+                  "note": "Gợi ý kiểm chứng mà không nói người kia sai hoặc bác sĩ kia kém.",
+                  "reply": [
+                    { "them": "You think so?", "themvi": "Bạn nghĩ vậy à?", "you": "For something this big, yes.", "youvi": "Việc lớn thế này thì có." }
+                  ]
+                },
+                {
+                  "en": "You might want to let them know you'll be late.",
+                  "vi": "Có lẽ bạn nên báo họ là bạn sẽ đến muộn.",
+                  "note": "Nhắc việc mà không trách — người nghe làm ngay mà không phòng thủ.",
+                  "reply": [
+                    { "them": "Oh — I completely forgot.", "themvi": "Ồ — mình quên béng.", "you": "A quick message is enough.", "youvi": "Nhắn một tin ngắn là đủ." }
+                  ],
+                  "close": { "en": "Better than turning up unannounced.", "vi": "Vẫn hơn là tới mà không báo trước." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "It might be a good idea to book for Saturday.",
+                  "vi": "Có lẽ nên đặt bàn cho thứ Bảy.",
+                  "reply": [
+                    { "them": "Is it that popular?", "themvi": "Quán đông vậy à?", "you": "Weekends, yes — weekdays you'd be fine.", "youvi": "Cuối tuần thì có — ngày thường thì không sao." }
+                  ]
+                },
+                {
+                  "en": "You might want to check if it contains nuts.",
+                  "vi": "Có lẽ bạn nên kiểm tra xem có hạt không.",
+                  "reply": [
+                    { "them": "Good point — I'll ask.", "themvi": "Đúng đấy — để mình hỏi.", "you": "Better to be sure.", "youvi": "Chắc chắn vẫn hơn." }
+                  ]
+                },
+                {
+                  "en": "It might be worth sharing — the portions are huge.",
+                  "vi": "Có lẽ nên gọi ăn chung — phần ăn to lắm.",
+                  "reply": [
+                    { "them": "How big are we talking?", "themvi": "To cỡ nào?", "you": "One main is enough for two.", "youvi": "Một món chính đủ cho hai người." }
+                  ]
+                },
+                {
+                  "en": "It might be a good idea to order the set menu.",
+                  "vi": "Có lẽ nên gọi phần combo.",
+                  "reply": [
+                    { "them": "Is it better value?", "themvi": "Có lợi hơn không ạ?", "you": "Much — three courses for the price of two.", "youvi": "Lợi hơn nhiều ạ — ba món mà giá bằng hai." }
+                  ],
+                  "close": { "en": "I'll leave it up to you, though.", "vi": "Nhưng tùy anh/chị quyết ạ." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Chỉ ra lỗi trong bài trình bày của sếp",
+          "lines": [
+            { "speaker": "Director", "en": "I'm presenting this to the board in an hour.", "vi": "Một tiếng nữa tôi trình bày cái này với hội đồng." },
+            { "speaker": "You", "me": true, "en": "You might want to check slide three before you do.", "vi": "Có lẽ anh nên xem lại slide ba trước khi trình bày ạ." },
+            { "speaker": "Director", "en": "What's wrong with it?", "vi": "Slide đó có gì không ổn?" },
+            { "speaker": "You", "me": true, "en": "The date still says last year.", "vi": "Ngày tháng vẫn đang là năm ngoái ạ." },
+            { "speaker": "Director", "en": "Good catch. Anything else?", "vi": "Phát hiện tốt. Còn gì nữa không?" },
+            { "speaker": "You", "me": true, "en": "It might be worth adding a source for the figures. They'll ask.", "vi": "Có lẽ đáng thêm nguồn cho các con số ạ. Họ sẽ hỏi đấy." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Khuyên bạn hoãn một quyết định lớn",
+          "lines": [
+            { "speaker": "Friend", "en": "I'm going to accept the offer tonight.", "vi": "Tối nay mình sẽ nhận lời mời làm việc đó." },
+            { "speaker": "You", "me": true, "en": "It might be a good idea to sleep on it first.", "vi": "Có lẽ nên để qua đêm nghĩ đã." },
+            { "speaker": "Friend", "en": "I've been thinking about it all week.", "vi": "Cả tuần mình nghĩ về nó rồi." },
+            { "speaker": "You", "me": true, "en": "Fair enough. It might be worth asking about the notice period, though.", "vi": "Cũng phải. Nhưng có lẽ đáng hỏi về thời gian báo trước." },
+            { "speaker": "Friend", "en": "I hadn't thought of that.", "vi": "Mình chưa nghĩ tới điều đó." },
+            { "speaker": "You", "me": true, "en": "It might help to write down your questions before you call.", "vi": "Viết sẵn câu hỏi ra trước khi gọi có thể sẽ đỡ hơn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "It might be worth to wait.", "right": "It might be worth waiting.", "why": "Sau <b>worth</b> luôn là <b>V-ing</b>, không bao giờ là <i>to V</i>." },
+            { "wrong": "It might be a good idea waiting.", "right": "It might be a good idea to wait.", "why": "Sau <b>a good idea</b> thì LẠI là <b>to V</b> — ngược với <i>worth</i>. Đây là chỗ rất dễ lẫn." },
+            { "wrong": "You might want check that.", "right": "You might want to check that.", "why": "Sau <b>want</b> luôn có <b>to</b>." },
+            { "wrong": "Might be a good idea to wait.", "right": "It might be a good idea to wait.", "why": "Thiếu chủ ngữ giả <b>It</b> — trong văn nói thân mật thì bỏ được, nhưng viết thì phải có." },
+            { "wrong": "It might be a good idea to run! <i>(khi khẩn cấp)</i>", "right": "Run!", "why": "Tình huống khẩn cấp cần dứt khoát. Khung này quá vòng vo cho lúc nguy hiểm." },
+            { "wrong": "It's might be worth asking.", "right": "It might be worth asking.", "why": "Không có <i>'s</i>. Công thức là <b>It might be</b>, không phải <i>It's might be</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>It might be a good idea to + V</code>", "Nhã nhất — nhắm vào việc, không vào người", "<i>It might be a good idea to wait.</i>"],
+            ["<code>It might be worth + V-ing</code>", "Nhã, ngắn gọn hơn", "<i>It might be worth waiting.</i>"],
+            ["<code>You might want to + V</code>", "Nhã, nhưng có nhắc tới người nghe", "<i>You might want to wait.</i>"],
+            ["<code>I'd suggest + V-ing</code>", "Chuyên nghiệp — bạn đứng tên", "<i>I'd suggest waiting.</i> — Xem [Khung 37]."],
+            ["<code>You should + V</code>", "Khuyên thẳng", "<i>You should wait.</i> — Xem [Khung 38]."],
+            ["<code>You'd better + V</code>", "Cảnh báo — có hậu quả", "<i>You'd better wait.</i> — Xem [Khung 38]."],
+            ["<code>Why don't you + V?</code>", "Khuyên dưới dạng câu hỏi", "<i>Why don't you wait?</i> — Xem [Khung 32]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang độ nhã — góp ý cho cấp trên" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "You'd better check that.", "vi": "Cảnh báo — tuyệt đối tránh với sếp" },
+            { "en": "You should check that.", "vi": "Khuyên thẳng — dễ nghe như dạy bảo" },
+            { "en": "I'd suggest checking that.", "vi": "Chuyên nghiệp — bạn đứng tên" },
+            { "en": "You might want to check that.", "vi": "Nhã — nhắc nhẹ" },
+            { "en": "It might be worth checking that.", "vi": "Nhã nhất — không nhắm vào ai" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>might be</b> → “mai-bi” — âm /t/ gần như biến mất giữa hai phụ âm.",
+            "<b>It might be</b> → “i-mai-bi” — cả cụm ba từ nói liền, rất nhanh và nhẹ.",
+            "<b>a good idea</b> → “ə-gu-dai-DIƠ” — âm /d/ của <i>good</i> trượt sang <i>idea</i>.",
+            "<b>idea</b> = /aɪˈdɪə/ — trọng âm ở <b>giữa</b>: ai-<b>DIA</b>. Nhấn sai vào đầu là nghe rất lạ.",
+            "<b>worth</b> = /wɜːθ/ — âm <b>th</b> vô thanh, đặt lưỡi giữa hai hàm răng.",
+            "Cả cụm mở đầu nói <b>nhanh và nhẹ</b>, rồi nhấn vào động từ chính: <i>It might be a good idea to</i> <b>WAIT</b>."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "It might be a good idea to ask them first.", "vi": "Luyện shadowing: nói cả cụm đầu thật nhanh, nhấn vào “ask”." },
+            { "en": "It might be worth checking the date.", "vi": "Chú ý “worth checking” — V-ing chứ không phải “to check”." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Có lẽ nên hỏi họ trước đã.", "blank": "__________ ask them first.", "a": "It might be a good idea to" },
+            { "vi": "Có lẽ đáng kiểm tra lại ngày tháng.", "blank": "It might be worth __________ the date.", "a": "checking (V-ing sau “worth”)" },
+            { "vi": "Có lẽ anh/chị nên xem lại slide ba.", "blank": "__________ check slide three.", "a": "You might want to" },
+            { "vi": "Viết ra giấy có thể sẽ đỡ hơn.", "blank": "__________ write it down.", "a": "It might help to" },
+            { "vi": "Có lẽ nên cho họ nắm thông tin sớm.", "blank": "It might be a good idea to __________ early.", "a": "loop them in" },
+            { "vi": "Phương án kia cũng đáng cân nhắc.", "blank": "__________ the alternative.", "a": "It's worth considering" },
+            { "vi": "Ý đó hợp lý đấy — tôi sẽ làm vậy.", "blank": "__________ — I'll do that.", "a": "That's a fair point" },
+            { "vi": "Có lẽ nên khoan đến thứ Hai.", "blank": "It might be a good idea to __________ until Monday.", "a": "hold off" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Có lẽ đáng ghi lại quyết định này thành văn bản.", "a": "It might be worth documenting this decision." },
+            { "vi": "2. Có lẽ bạn nên giữ một bản sao hộ chiếu.", "a": "You might want to keep a copy of your passport." },
+            { "vi": "3. Có lẽ nên để qua đêm rồi hãy quyết.", "a": "It might be a good idea to sleep on it." },
+            { "vi": "4. Có lẽ đáng hỏi thêm ý kiến khác.", "a": "It might be worth getting a second opinion." },
+            { "vi": "5. Có lẽ nên đến sớm một tiếng.", "a": "It might be a good idea to arrive an hour early." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Dùng khi góp ý cho người trên:</b> đổi chủ ngữ từ <i>You</i> sang <i>It</i> là lời khuyên không còn chĩa vào ai — không ai thấy bị dạy bảo.",
+            "<b>Nhớ hai cấu trúc ngược nhau:</b> <i>a good idea <b>to</b> wait</i> nhưng <i>worth <b>waiting</b></i>.",
+            "<b>Ghép với một lý do khách quan:</b> <i>It might be worth double-checking — the format changed last month.</i> Lý do nằm ở hoàn cảnh, không ở người.",
+            "<b>Thuộc “You might want to…”:</b> đây là cách chỉ ra lỗi của người khác mà không nói ai sai — dùng được hằng ngày ở công sở.",
+            "<b>Dùng “It might help to…” khi muốn thật nhẹ:</b> nó nhấn vào lợi ích thay vì vào nghĩa vụ.",
+            "<b>Bài tập 3 phút:</b> lấy 5 câu <i>You should…</i> bạn hay nói, viết lại thành <i>It might be a good idea to…</i> và đọc to cả hai để cảm nhận khác biệt."
+          ]
+        }
+      ]
+    }
+  ]
+}

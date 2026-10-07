@@ -1,0 +1,277 @@
+{
+  "id": 13,
+  "group": "Nhóm 3 · Nói — từ câu lẻ lên đoạn dài",
+  "title": "Lập luận có nhượng bộ",
+  "subtitle": "I think it's good — rồi hết. Nêu quan điểm mà không có vì sao thì ở B2 không tính là lập luận. Và nói tuyệt đối một chiều còn bị coi là yếu hơn nữa: người chấm chờ bạn thừa nhận mặt kia rồi mới bác lại.",
+  "meaning": "Nêu quan điểm kèm lý do, ví dụ và nhượng bộ",
+  "rule": [
+    "Khung <em>P-R-E-P</em>: quan điểm → vì sao → ví dụ → chốt",
+    "Thừa nhận mặt kia <em>trước</em>, rồi mới bác",
+    "Tránh nói tuyệt đối — dùng <em>tend to · in most cases</em>"
+  ],
+  "tags": [
+    { "text": "Mức độ: B2 bắt buộc", "hot": true },
+    { "text": "I think it's good. — rồi hết" },
+    { "text": "Nhượng bộ là dấu hiệu B2" },
+    { "text": "Ảnh hưởng: rất lớn" }
+  ],
+  "frames": [41, 42, 49, 52, 53],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Ở B1, nêu được quan điểm là đủ. Ở B2, <b>quan điểm chỉ là bước một</b> — phần được chấm điểm nằm ở <b>lý do</b>, <b>ví dụ</b> và khả năng <b>thừa nhận mặt ngược lại</b>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — nêu quan điểm rồi dừng:</b><br><i>“I think working from home is good.”</i> — rồi im.<br>Người nghe còn chờ <b>vì sao</b> và <b>ví dụ nào</b>. Dùng khung <b>P-R-E-P</b>, mỗi chữ một câu:<br>① <b>P</b>oint — <i>I think working from home is better for most people.</i><br>② <b>R</b>eason — <i>The main reason is that you save a lot of time.</i><br>③ <b>E</b>xample — <i>For example, I used to spend two hours a day commuting.</i><br>④ <b>P</b>oint — <i>So for me, it's definitely worth it.</i><br>Bốn câu, khoảng 25 giây, và đã là một lập luận hoàn chỉnh." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — nói tuyệt đối, không nhượng bộ:</b><br><i>“It's the best option.”</i> · <i>“Everyone knows that.”</i> · <i>“It's always better.”</i><br>Ở B2, nói tuyệt đối bị coi là <b>lập luận yếu</b>, không phải mạnh. Người nói giỏi <b>thừa nhận mặt kia trước</b> rồi mới bác:<br><i><b>Of course</b>, it can be lonely. <b>However</b>, you can always go to a café.</i><br>Và làm mềm bằng <i>tend to</i>, <i>in most cases</i>, <i>for me at least</i> — nghe chín hơn hẳn so với <i>always</i> và <i>never</i>." },
+        { "t": "h3", "text": "Bốn bước của một lập luận" },
+        {
+          "t": "table",
+          "head": ["Bước", "Nói gì", "Cụm mở đầu"],
+          "rows": [
+            ["Quan điểm", "Nêu thẳng, một câu", "I think… · In my opinion…"],
+            ["Lý do", "Vì sao bạn nghĩ vậy", "The main reason is that…"],
+            ["Ví dụ", "Một chuyện cụ thể", "For example… · In my case…"],
+            ["Nhượng bộ + chốt", "Thừa nhận rồi bác, rồi chốt", "Of course… However… So…"]
+          ]
+        },
+        { "t": "p", "html": "Bước bốn là thứ <b>phân biệt B2 với B1</b> rõ nhất. Ba bước đầu thì B1 cũng làm được; thừa nhận mặt ngược lại mới là dấu hiệu của người nghĩ kỹ." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Chức năng", "Cụm", "Ghi chú"],
+          "rows": [
+            ["Nêu quan điểm", "I think… · I'd say… · In my opinion…", "Xem [Khung 41], [Khung 42]"],
+            ["Nêu quan điểm mạnh hơn", "I'm convinced that… · I firmly believe…", "Dùng khi thật sự chắc"],
+            ["Nêu quan điểm dè dặt", "I'm not sure, but… · It seems to me…", "Xem [Khung 50]"],
+            ["Đưa lý do", "The main reason is that… · because…", "Luôn có ít nhất MỘT lý do"],
+            ["Đưa lý do thứ hai", "On top of that… · Another reason is…", "Đừng lặp <i>and</i>"],
+            ["Đưa ví dụ", "For example… · Take… for instance", "Ví dụ thật, không chung chung"],
+            ["Ví dụ từ bản thân", "In my case… · Speaking for myself…", "Mạnh nhất vì không ai cãi được"],
+            ["Thừa nhận mặt kia", "Of course… · Admittedly… · It's true that…", "Dấu hiệu B2 rõ nhất"],
+            ["Bác lại sau nhượng bộ", "However… · That said… · Even so…", "Xem [Ngữ pháp 48]"],
+            ["Làm mềm", "tend to · in most cases · for me at least", "Thay cho <i>always</i>, <i>never</i>"],
+            ["Phản biện lịch sự", "That's a good point, but…", "Xem [Khung 52]"],
+            ["Chốt lại", "So overall… · That's why I think…", "Quay về quan điểm ban đầu"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Mẹo nhượng bộ một câu:</b> ghép <b>Of course + [điểm yếu của bạn]</b>, rồi <b>However + [lý do vẫn giữ quan điểm]</b>.<br><i><b>Of course</b>, not everyone has a quiet place at home. <b>However</b>, most companies now help with that.</i><br>Một câu này làm cả đoạn nghe chín hơn hẳn — và nó cho thấy bạn đã nghĩ tới ý kiến trái chiều trước khi người ta nêu ra." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I think working from home is better for most people.", "vi": "Tôi nghĩ làm ở nhà tốt hơn với phần lớn mọi người.", "note": "Bước 1 — quan điểm. <i>most people</i> đã làm mềm. Xem [Khung 41]." },
+            { "en": "The main reason is that you save a lot of time.", "vi": "Lý do chính là bạn tiết kiệm được nhiều thời gian.", "note": "Bước 2 — lý do. Đây là câu người Việt hay bỏ qua." },
+            { "en": "For example, I used to spend two hours a day commuting.", "vi": "Ví dụ, trước đây tôi mất hai tiếng mỗi ngày đi lại.", "note": "Bước 3 — ví dụ từ chính mình, mạnh nhất. Xem [Khung 93]." },
+            { "en": "Of course, it can be lonely sometimes.", "vi": "Tất nhiên đôi khi cũng buồn.", "note": "BẪY SỐ HAI: thừa nhận mặt kia TRƯỚC khi bác." },
+            { "en": "However, you can always go to a café.", "vi": "Tuy nhiên bạn luôn có thể ra quán cà phê.", "note": "Bác lại sau nhượng bộ. Xem [Ngữ pháp 48]." },
+            { "en": "So for me at least, it's definitely worth it.", "vi": "Nên ít nhất với tôi thì rất đáng.", "note": "Bước 4 — chốt, có làm mềm bằng <i>for me at least</i>." },
+            { "en": "In my opinion, it depends on the job.", "vi": "Theo tôi thì còn tùy công việc.", "note": "Câu an toàn khi chưa muốn chọn phe. Xem [Khung 42]." },
+            { "en": "That's a good point, but I still think it works.", "vi": "Ý đó hay đấy, nhưng tôi vẫn nghĩ nó ổn.", "note": "Phản biện lịch sự. Xem [Khung 52]." },
+            { "en": "I see what you mean, although I'd look at it differently.", "vi": "Tôi hiểu ý bạn, nhưng tôi nhìn khác.", "note": "Xem [Khung 53]." },
+            { "en": "People tend to work better when they choose their hours.", "vi": "Người ta thường làm tốt hơn khi tự chọn giờ.", "note": "<b>tend to</b> thay cho <i>always</i> — nghe chín hơn hẳn." },
+            { "en": "In most cases, it saves money too.", "vi": "Phần lớn trường hợp thì còn tiết kiệm tiền.", "note": "Làm mềm bằng <i>in most cases</i>." },
+            { "en": "If you ask me, the real issue is trust.", "vi": "Nếu hỏi tôi thì vấn đề thật sự là niềm tin.", "note": "Cách mở lời mạnh. Xem [Khung 49]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào cần để ý nhất",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🎤", "title": "Thi nói phần 3", "text": "Phần thảo luận chấm chính ở khả năng lập luận." },
+            { "icon": "💼", "title": "Họp, bảo vệ đề xuất", "text": "Nêu ý mà không có lý do thì không ai theo." },
+            { "icon": "🤝", "title": "Không đồng ý với ai", "text": "Nhượng bộ trước rồi bác. Xem [Khung 52]." },
+            { "icon": "✍️", "title": "Viết luận", "text": "Cùng khung P-R-E-P. Xem [Kỹ năng 18]." },
+            { "icon": "🗣", "title": "Tranh luận đời thường", "text": "<i>tend to</i> nghe chín hơn <i>always</i> nhiều." },
+            { "icon": "🚫", "title": "Đừng làm…", "text": "Đừng nói <i>Everyone knows that</i> — nghe yếu, không mạnh." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cụm để lập luận",
+      "blocks": [
+        { "t": "p", "html": "Chọn một cụm ở cột trái để xem nó dùng ở bước nào và câu mẫu hoàn chỉnh." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Nêu quan điểm & đưa lý do",
+              "items": [
+                { "w": "I think…", "vi": "Tôi nghĩ…", "ex": "I think working from home is better.", "exvi": "Tôi nghĩ làm ở nhà tốt hơn. Xem [Khung 41]." },
+                { "w": "In my opinion,…", "vi": "Theo tôi,…", "ex": "In my opinion, it depends on the job.", "exvi": "Theo tôi còn tùy công việc. Xem [Khung 42]." },
+                { "w": "I'd say…", "vi": "Tôi thì cho rằng…", "ex": "I'd say it works for most people.", "exvi": "Tôi cho là hợp với phần lớn. Xem [Khung 46]." },
+                { "w": "If you ask me,…", "vi": "Nếu hỏi tôi thì…", "ex": "If you ask me, the real issue is trust.", "exvi": "Nếu hỏi tôi thì vấn đề là niềm tin. Xem [Khung 49]." },
+                { "w": "The main reason is that…", "vi": "Lý do chính là…", "ex": "The main reason is that you save time.", "exvi": "Lý do chính là tiết kiệm thời gian.", "note": "Câu người Việt hay bỏ qua nhất — đừng bỏ." },
+                { "w": "That's because…", "vi": "Đó là vì…", "ex": "That's because people work differently.", "exvi": "Đó là vì mỗi người làm việc một kiểu." },
+                { "w": "Another reason is…", "vi": "Một lý do nữa là…", "ex": "Another reason is the cost.", "exvi": "Một lý do nữa là chi phí.", "note": "Dùng thay cho việc lặp <i>and</i> mãi." },
+                { "w": "On top of that,…", "vi": "Hơn nữa,…", "ex": "On top of that, it's better for the environment.", "exvi": "Hơn nữa lại tốt cho môi trường." },
+                { "w": "For example,…", "vi": "Ví dụ,…", "ex": "For example, I used to commute two hours.", "exvi": "Ví dụ, trước tôi đi lại hai tiếng." },
+                { "w": "In my case,…", "vi": "Với tôi thì…", "ex": "In my case, it saved me ten hours a week.", "exvi": "Với tôi nó tiết kiệm mười tiếng mỗi tuần.", "note": "Ví dụ từ bản thân là mạnh nhất — không ai cãi được." },
+                { "w": "Take … for instance", "vi": "Lấy… làm ví dụ", "ex": "Take my team, for instance.", "exvi": "Lấy nhóm tôi làm ví dụ." },
+                { "w": "I'm not sure, but…", "vi": "Tôi không chắc, nhưng…", "ex": "I'm not sure, but I think it's changing.", "exvi": "Tôi không chắc, nhưng hình như đang đổi. Xem [Khung 50]." }
+              ]
+            },
+            {
+              "title": "Nhượng bộ, làm mềm & chốt",
+              "items": [
+                { "w": "Of course,…", "vi": "Tất nhiên,…", "ex": "Of course, it can be lonely.", "exvi": "Tất nhiên đôi khi cũng buồn.", "note": "BẪY SỐ HAI: thừa nhận TRƯỚC rồi mới bác." },
+                { "w": "Admittedly,…", "vi": "Phải thừa nhận là…", "ex": "Admittedly, not everyone can do it.", "exvi": "Phải thừa nhận không phải ai cũng làm được." },
+                { "w": "It's true that…", "vi": "Đúng là…", "ex": "It's true that some people need an office.", "exvi": "Đúng là có người cần văn phòng." },
+                { "w": "However,…", "vi": "Tuy nhiên,…", "ex": "However, most companies now help with that.", "exvi": "Tuy nhiên giờ công ty nào cũng hỗ trợ. Xem [Ngữ pháp 48]." },
+                { "w": "That said,…", "vi": "Tuy vậy,…", "ex": "That said, I'd still choose it.", "exvi": "Tuy vậy tôi vẫn chọn cách đó." },
+                { "w": "Even so,…", "vi": "Dù vậy,…", "ex": "Even so, the benefits are bigger.", "exvi": "Dù vậy lợi ích vẫn lớn hơn." },
+                { "w": "tend to", "vi": "thường thì", "ex": "People tend to work better that way.", "exvi": "Người ta thường làm tốt hơn theo cách đó.", "note": "Thay cho <i>always</i> — nghe chín hơn hẳn." },
+                { "w": "in most cases", "vi": "phần lớn trường hợp", "ex": "In most cases, it saves money.", "exvi": "Phần lớn trường hợp thì tiết kiệm tiền." },
+                { "w": "for me at least", "vi": "ít nhất với tôi", "ex": "For me at least, it's worth it.", "exvi": "Ít nhất với tôi thì đáng." },
+                { "w": "That's a good point, but…", "vi": "Ý đó hay, nhưng…", "ex": "That's a good point, but it still works.", "exvi": "Ý hay đấy, nhưng vẫn ổn. Xem [Khung 52]." },
+                { "w": "I see what you mean, but…", "vi": "Tôi hiểu ý bạn, nhưng…", "ex": "I see what you mean, although I'd disagree.", "exvi": "Tôi hiểu ý bạn, nhưng tôi không đồng ý. Xem [Khung 53]." },
+                { "w": "So that's why I think…", "vi": "Nên đó là lý do tôi nghĩ…", "ex": "So that's why I think it's worth trying.", "exvi": "Nên tôi nghĩ đáng thử.", "note": "Chốt bằng cách quay về quan điểm ban đầu." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<b>“I think it's good.”</b> rồi dừng", "right": "<b>“I think it's good. The main reason is that… For example…”</b>", "why": "BẪY SỐ MỘT: quan điểm không có lý do thì ở B2 chưa tính là lập luận." },
+            { "wrong": "<b>“It's the best option.”</b>", "right": "<b>“For most people, it tends to be the better option.”</b>", "why": "BẪY SỐ HAI: nói tuyệt đối bị coi là lập luận YẾU, không phải mạnh." },
+            { "wrong": "<b>“Everyone knows that.”</b>", "right": "<b>“Most people would probably agree that…”</b>", "why": "Khẳng định thay cho người khác là lỗi lập luận cơ bản." },
+            { "wrong": "<b>“It's always better.”</b>", "right": "<b>“In most cases it's better.”</b>", "why": "<i>always</i> và <i>never</i> gần như luôn sai — chỉ cần một ngoại lệ là đổ." },
+            { "wrong": "Nêu ba lý do nối toàn bằng <b>and</b>", "right": "<b>Another reason is… On top of that…</b>", "why": "Nối bằng <i>and</i> mãi nghe như liệt kê, không như lập luận." },
+            { "wrong": "Ví dụ chung chung: <b>“Many people do it.”</b>", "right": "<b>“In my case, it saved me ten hours a week.”</b>", "why": "Ví dụ từ bản thân là mạnh nhất — không ai cãi được số liệu của chính bạn." },
+            { "wrong": "Phản bác thẳng: <b>“No, you're wrong.”</b>", "right": "<b>“That's a good point, but…”</b>", "why": "Nhượng bộ trước làm người nghe sẵn sàng nghe tiếp. Xem [Khung 52]." },
+            { "wrong": "Nói một chiều từ đầu đến cuối", "right": "Thêm một câu <b>“Of course… However…”</b>", "why": "Thừa nhận mặt kia là dấu hiệu B2 rõ nhất trong cả bài." },
+            { "wrong": "Nhượng bộ rồi <b>quên bác lại</b>", "right": "<b>Of course… <u>However</u>…</b>", "why": "Nhượng bộ mà không bác thì thành ra bạn đổi ý giữa chừng." },
+            { "wrong": "Kết thúc bằng <b>“That's all.”</b>", "right": "<b>“So that's why I think…”</b>", "why": "Chốt bằng cách quay về quan điểm ban đầu — đóng khung lập luận." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với lỗi gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["Quan điểm / lập luận", "Một câu / bốn bước", "I think… ≠ P-R-E-P"],
+            ["Tuyệt đối / có mức độ", "Yếu / mạnh", "always ≠ tend to"],
+            ["Nhượng bộ / đổi ý", "Có <code>However</code> / không có", "Of course… However…"],
+            ["Ví dụ chung / ví dụ thật", "Many people ≠ In my case", "Ví dụ bản thân mạnh nhất"],
+            ["<code>and</code> / nối đa dạng", "Liệt kê / lập luận", "Another reason is…"],
+            ["Phản bác thẳng / lịch sự", "Đóng cửa / mở cửa", "You're wrong ≠ That's a good point, but…"],
+            ["Nói / viết", "Cùng khung P-R-E-P", "Xem [Kỹ năng 18]"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: vừa nêu quan điểm xong, nói gì tiếp?" },
+        {
+          "t": "tree",
+          "q": "Bạn vừa nói “I think…” — đừng dừng, đi tiếp theo nhánh.",
+          "nodes": [
+            { "if": "Chưa nói vì sao", "then": "The main reason is that…", "ex": "…you save a lot of time." },
+            { "if": "Đã có lý do, chưa có ví dụ", "then": "For example… hoặc In my case…", "ex": "I used to commute two hours." },
+            { "if": "Muốn thêm sức nặng", "then": "Another reason is… · On top of that…", "ex": "Another reason is the cost." },
+            { "if": "Biết có ý kiến trái chiều", "then": "Of course… rồi However…", "ex": "Of course it can be lonely. However…" },
+            { "if": "Đang phản biện người khác", "then": "That's a good point, but…", "ex": "Xem [Khung 52]" },
+            { "if": "Đã đủ, cần chốt", "then": "So that's why I think…", "ex": "…it's worth trying." }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ chín của cùng một quan điểm" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "It's good.", "vi": "A2 — chưa phải lập luận" },
+            { "en": "I think it's good because it saves time.", "vi": "B1 — có lý do" },
+            { "en": "…For example, I used to commute two hours.", "vi": "B1+ — có ví dụ" },
+            { "en": "…Of course it can be lonely. However, …", "vi": "B2 — có nhượng bộ" },
+            { "en": "…In most cases it tends to work. So for me at least, …", "vi": "B2+ — có làm mềm và chốt" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kỹ năng này dùng ở đâu",
+      "blocks": [
+        { "t": "p", "html": "Khung lập luận này dùng chung cho cả nói lẫn viết. Bấm vào để luyện trên khung câu thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 41, "why": "I think (that) + mệnh đề — bước 1 của mọi lập luận." },
+            { "id": 42, "why": "In my opinion, … — cách mở lời trang trọng hơn, hợp khi thảo luận." },
+            { "id": 52, "why": "That's a good point, but… — nhượng bộ rồi bác, đúng khuôn B2." },
+            { "id": 53, "why": "I see what you mean, but… — cùng khuôn, mềm hơn một bậc." },
+            { "id": 49, "why": "If you ask me, … — mở lời mạnh khi bạn thật sự có chính kiến." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Câu này là bước nào của P-R-E-P?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi nghĩ làm ở nhà tốt hơn.", "blank": "I think working from home is better.  →  bước __________", "a": "P — quan điểm" },
+            { "vi": "Lý do chính là tiết kiệm thời gian.", "blank": "The main reason is that you save time.  →  bước __________", "a": "R — lý do" },
+            { "vi": "Ví dụ, trước tôi đi lại hai tiếng.", "blank": "For example, I used to commute two hours.  →  bước __________", "a": "E — ví dụ" },
+            { "vi": "Nên với tôi thì rất đáng.", "blank": "So for me, it's worth it.  →  bước __________", "a": "P — chốt lại" },
+            { "vi": "Tất nhiên đôi khi cũng buồn.", "blank": "Of course, it can be lonely.  →  __________", "a": "nhượng bộ" },
+            { "vi": "Tuy nhiên bạn có thể ra quán.", "blank": "However, you can go to a café.  →  __________", "a": "bác lại sau nhượng bộ" },
+            { "vi": "Một lý do nữa là chi phí.", "blank": "Another reason is the cost.  →  __________", "a": "lý do thứ hai" },
+            { "vi": "Phần lớn trường hợp thì tiết kiệm tiền.", "blank": "In most cases, it saves money.  →  __________", "a": "làm mềm" }
+          ]
+        },
+        { "t": "h3", "text": "B. Câu nào nghe chín hơn ở B2?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Nêu mức độ", "blank": "(a) It's always better.  (b) In most cases it's better.", "a": "(b)" },
+            { "vi": "Phản biện", "blank": "(a) No, you're wrong.  (b) That's a good point, but…", "a": "(b)" },
+            { "vi": "Đưa ví dụ", "blank": "(a) Many people do it.  (b) In my case, it saved me ten hours a week.", "a": "(b)" },
+            { "vi": "Khẳng định", "blank": "(a) Everyone knows that.  (b) Most people would probably agree that…", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Nói đủ bốn bước, bấm giờ 40 giây" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Học tiếng Anh online có tốt bằng học ở lớp không?", "a": "P: I think… → R: The main reason is… → E: In my case… → P: So overall…" },
+            { "vi": "2. Có nên cấm xe máy trong trung tâm thành phố?", "a": "Thêm nhượng bộ: Of course, many people depend on them. However, …" },
+            { "vi": "3. Làm việc ở công ty lớn hay công ty nhỏ tốt hơn?", "a": "Dùng tend to và in most cases thay vì always. Xem [Kỹ năng 14]." },
+            { "vi": "4. Phản biện một ý bạn không đồng tình.", "a": "That's a good point, but… → The main reason is… → So that's why I think…" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Bốn chữ P-R-E-P:</b> quan điểm → <b>vì sao</b> → <b>ví dụ</b> → chốt. Bốn câu, 25 giây, là một lập luận hoàn chỉnh.",
+            "<b>Câu người Việt hay bỏ nhất là câu lý do.</b> Nêu ý xong thì hỏi ngay trong đầu: “vì sao?”",
+            "<b>Nói tuyệt đối là YẾU, không phải mạnh.</b> Đổi <i>always</i> thành <i>tend to</i>, <i>everyone</i> thành <i>most people</i>.",
+            "<b>Nhượng bộ một câu là đủ:</b> <i>Of course…</i> rồi <i>However…</i>. Đây là dấu hiệu B2 rõ nhất trong cả bài.",
+            "<b>Nhượng bộ thì phải bác lại.</b> Quên chữ <i>However</i> là người nghe tưởng bạn vừa đổi ý.",
+            "<b>Bài tập 2 phút:</b> lấy một chủ đề bất kỳ, nói đúng bốn câu P-R-E-P, rồi thêm một câu <i>Of course… However…</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

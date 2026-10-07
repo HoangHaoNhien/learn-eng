@@ -1,0 +1,495 @@
+{
+  "id": 6,
+  "group": "Nhóm 1 · Mong muốn & Nhu cầu",
+  "title": "I'm trying to… — Nói ra nỗ lực đang dở dang",
+  "subtitle": "Khung này làm hai việc cùng lúc: kể ra mục tiêu bạn đang theo đuổi, và ngầm báo rằng bạn đang gặp khó. Chính vế thứ hai khiến nó trở thành cách xin giúp đỡ tự nhiên nhất mà không phải mở miệng nhờ.",
+  "pattern": [
+    "I'm trying to <em>+ V</em>",
+    "I'm trying to find <em>+ danh từ</em>",
+    "I've been trying to <em>+ V</em>"
+  ],
+  "meaning": "Tôi đang cố… (chưa xong, đang gặp khó)",
+  "grammar": [24, 2],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Nói & viết đều dùng được" },
+    { "text": "Trình độ: A2–B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">try to + V</span> = cố gắng làm gì đó, và hàm ý rằng việc đó <b>không dễ</b>. Thì tiếp diễn <i>am trying</i> đặt bạn vào giữa quá trình: đã bắt đầu, chưa xong, đang vật lộn." },
+        { "t": "p", "html": "Đây là lý do khung này mạnh đến vậy trong giao tiếp. Khi bạn nói <i>I'm trying to find the station</i>, bạn không hề nhờ ai, nhưng người nghe hiểu ngay là bạn đang bí và gần như luôn nhảy vào giúp. Nó lịch sự hơn hỏi thẳng, vì bạn không đặt ai vào thế phải trả lời." },
+        { "t": "p", "html": "Ở công sở, khung này còn có tác dụng <b>bảo vệ</b>: <i>I'm trying to finish it, but the data keeps changing</i> cho thấy bạn đang nỗ lực và nêu được trở ngại, thay vì chỉ báo cáo là chưa xong." },
+        { "t": "callout", "html": "<b>Bẫy nghĩa kinh điển:</b> <span class=\"k\">try to + V</span> = cố gắng (việc khó). <span class=\"k\">try + V-ing</span> = thử làm xem có tác dụng không (việc dễ). <i>I tried to open the window</i> = tôi cố mở mà không được. <i>I tried opening the window</i> = tôi thử mở cửa sổ xem có đỡ nóng không." },
+        { "t": "h3", "text": "Ba cách nói về cùng một việc chưa xong" },
+        {
+          "t": "table",
+          "head": ["Câu", "Người nghe hiểu là", "Nên dùng khi"],
+          "rows": [
+            ["<code>It's not finished.</code>", "Chưa xong. (khô, như một lời thú nhận)", "Khi bạn chỉ cần báo tình trạng"],
+            ["<code>I'm trying to finish it.</code>", "Tôi đang cố, có khó khăn.", "Khi bạn muốn cho thấy nỗ lực"],
+            ["<code>I'm still working on it.</code>", "Vẫn đang làm, tiến triển bình thường.", "Khi mọi thứ vẫn ổn, chỉ chưa xong"],
+            ["<code>I've been trying to finish it all week.</code>", "Cả tuần rồi mà vẫn chưa được.", "Khi muốn nhấn mạnh sự vất vả"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🆘", "title": "Xin giúp đỡ gián tiếp", "text": "Bối cảnh mạnh nhất. <i>I'm trying to find platform seven.</i> Người ta sẽ tự động chỉ đường." },
+            { "icon": "🎯", "title": "Kể về mục tiêu đang theo đuổi", "text": "<i>I'm trying to eat less sugar.</i> Khiêm tốn hơn <i>I don't eat sugar</i> và thành thật hơn." },
+            { "icon": "💼", "title": "Giải thích tiến độ ở công sở", "text": "<i>I'm trying to finish it, but I'm waiting on data.</i> Nêu nỗ lực kèm trở ngại." },
+            { "icon": "🙅", "title": "Từ chối lịch sự", "text": "<i>Thanks, but I'm trying to cut down on coffee.</i> Lý do cá nhân thì không ai ép thêm." },
+            { "icon": "💬", "title": "Làm rõ ý mình", "text": "<i>What I'm trying to say is…</i> Cách cứu nguy khi bạn nói lòng vòng mà người kia chưa hiểu." },
+            { "icon": "📵", "title": "Nói rằng liên lạc không được", "text": "<i>I've been trying to reach you all morning.</i> Nêu sự việc mà không trách móc." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cơ bản", "<code>I'm trying to + V</code>", "I'm trying to fix this bug."],
+            ["Đang tìm gì đó", "<code>I'm trying to find + N</code>", "I'm trying to find the exit."],
+            ["Kéo dài đến giờ", "<code>I've been trying to + V</code>", "I've been trying to call you all day."],
+            ["Quá khứ — cố mà không được", "<code>I tried to + V</code>", "I tried to open it, but it was locked."],
+            ["Thử xem có tác dụng không", "<code>I tried + V-ing</code>", "I tried restarting it, and it worked."],
+            ["Phủ định", "<code>I'm not trying to + V</code>", "I'm not trying to start an argument."],
+            ["Câu hỏi", "<code>Are you trying to + V?</code>", "Are you trying to lose weight?"],
+            ["Làm rõ ý", "<code>What I'm trying to say is…</code>", "What I'm trying to say is, we need more time."],
+            ["Nỗ lực hết sức", "<code>I'm trying my best to + V</code>", "I'm trying my best to keep up."],
+            ["Khuyên nhẹ", "<code>Try to + V</code>", "Try to get some rest."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cụm cứu nguy số một:</b> <span class=\"k\">I'm not trying to…, I'm just…</span> dùng để gỡ hiểu lầm khi lời bạn nói bị hiểu sai. <i>I'm not trying to criticise, I'm just asking.</i> Câu này dập tắt được rất nhiều cuộc cãi vã." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “I'm trying to…”",
+              "items": [
+                { "w": "find", "vi": "tìm ra", "ex": "I'm trying to find platform seven.", "exvi": "Tôi đang cố tìm sân ga số bảy.", "note": "Khác [Khung 04]: <i>looking for</i> là đang tìm, <i>trying to find</i> ngụ ý đã tìm mà chưa ra." },
+                { "w": "understand", "vi": "hiểu", "ex": "I'm trying to understand what went wrong.", "exvi": "Tôi đang cố hiểu xem đã sai ở đâu." },
+                { "w": "finish", "vi": "làm xong", "ex": "I'm trying to finish this before the meeting.", "exvi": "Tôi đang cố làm xong cái này trước cuộc họp." },
+                { "w": "fix", "vi": "sửa", "ex": "I'm trying to fix this bug, but it keeps coming back.", "exvi": "Tôi đang cố sửa lỗi này, nhưng nó cứ quay lại." },
+                { "w": "explain", "vi": "giải thích", "ex": "I'm trying to explain it more simply.", "exvi": "Tôi đang cố giải thích đơn giản hơn." },
+                { "w": "reach", "vi": "liên lạc được với", "ex": "I'm trying to reach someone in the sales team.", "exvi": "Tôi đang cố liên lạc với ai đó bên kinh doanh.", "note": "<i>reach + ai</i> = liên lạc được với ai. Rất hay dùng trong email công việc." },
+                { "w": "get hold of", "vi": "liên lạc được / lấy được", "ex": "I'm trying to get hold of the manager.", "exvi": "Tôi đang cố liên hệ được với quản lý." },
+                { "w": "figure out", "vi": "nghĩ ra, tìm ra cách", "ex": "I'm trying to figure out how this works.", "exvi": "Tôi đang cố nghĩ xem cái này hoạt động thế nào.", "note": "Cụm cực kỳ tự nhiên, dùng hằng ngày." },
+                { "w": "book", "vi": "đặt chỗ", "ex": "I'm trying to book a table for six.", "exvi": "Tôi đang cố đặt bàn cho sáu người." },
+                { "w": "save", "vi": "tiết kiệm", "ex": "I'm trying to save for a house.", "exvi": "Tôi đang cố tiết kiệm để mua nhà." },
+                { "w": "learn", "vi": "học", "ex": "I'm trying to learn Japanese in my free time.", "exvi": "Tôi đang cố học tiếng Nhật lúc rảnh." },
+                { "w": "improve", "vi": "cải thiện", "ex": "I'm trying to improve my pronunciation.", "exvi": "Tôi đang cố cải thiện phát âm của mình." },
+                { "w": "remember", "vi": "nhớ ra", "ex": "I'm trying to remember her name.", "exvi": "Tôi đang cố nhớ ra tên cô ấy." },
+                { "w": "decide", "vi": "quyết định", "ex": "I'm still trying to decide.", "exvi": "Tôi vẫn đang cố quyết định." },
+                { "w": "focus", "vi": "tập trung", "ex": "I'm trying to focus — could we talk later?", "exvi": "Tôi đang cố tập trung — lát nữa mình nói chuyện nhé?" },
+                { "w": "avoid", "vi": "tránh", "ex": "I'm trying to avoid rush hour.", "exvi": "Tôi đang cố tránh giờ cao điểm.", "note": "<i>avoid + V-ing</i> nếu theo sau là động từ: <i>avoid eating late</i>." },
+                { "w": "cut down on", "vi": "giảm bớt", "ex": "I'm trying to cut down on coffee.", "exvi": "Tôi đang cố giảm bớt cà phê.", "note": "<i>cut down on + N</i> = giảm lượng. Cách từ chối đồ uống rất lịch sự." },
+                { "w": "keep up with", "vi": "theo kịp", "ex": "I'm trying to keep up with all the emails.", "exvi": "Tôi đang cố theo kịp đống email." },
+                { "w": "get through", "vi": "làm xong / gọi thông", "ex": "I'm trying to get through to customer service.", "exvi": "Tôi đang cố gọi thông tới bộ phận chăm sóc khách hàng." },
+                { "w": "be more patient", "vi": "kiên nhẫn hơn", "ex": "I'm trying to be more patient with my team.", "exvi": "Tôi đang cố kiên nhẫn hơn với nhóm của mình." }
+              ]
+            },
+            {
+              "title": "Mục tiêu cá nhân hay gặp",
+              "items": [
+                { "w": "to eat healthier", "vi": "ăn lành mạnh hơn", "ex": "I'm trying to eat healthier this year.", "exvi": "Năm nay tôi đang cố ăn uống lành mạnh hơn." },
+                { "w": "to quit smoking", "vi": "bỏ thuốc lá", "ex": "I'm trying to quit smoking.", "exvi": "Tôi đang cố bỏ thuốc lá." },
+                { "w": "to get fit", "vi": "lấy lại vóc dáng", "ex": "I'm trying to get fit before the wedding.", "exvi": "Tôi đang cố lấy lại vóc dáng trước đám cưới." },
+                { "w": "to sleep better", "vi": "ngủ ngon hơn", "ex": "I'm trying to sleep better — no phone after ten.", "exvi": "Tôi đang cố ngủ ngon hơn — sau mười giờ là không đụng điện thoại." },
+                { "w": "to spend less", "vi": "tiêu ít hơn", "ex": "I'm trying to spend less this month.", "exvi": "Tháng này tôi đang cố tiêu ít lại." },
+                { "w": "to be on time", "vi": "đúng giờ", "ex": "I'm trying to be on time more often.", "exvi": "Tôi đang cố đúng giờ thường xuyên hơn." },
+                { "w": "to read more", "vi": "đọc nhiều hơn", "ex": "I'm trying to read more and scroll less.", "exvi": "Tôi đang cố đọc nhiều hơn và lướt điện thoại ít đi." },
+                { "w": "to get promoted", "vi": "được thăng chức", "ex": "I'm trying to get promoted this year.", "exvi": "Năm nay tôi đang cố để được thăng chức." },
+                { "w": "to speak more English", "vi": "nói tiếng Anh nhiều hơn", "ex": "I'm trying to speak more English at work.", "exvi": "Tôi đang cố nói tiếng Anh nhiều hơn ở công ty." },
+                { "w": "to switch off", "vi": "ngắt kết nối, thư giãn", "ex": "I'm trying to switch off at weekends.", "exvi": "Tôi đang cố không nghĩ tới công việc vào cuối tuần.", "note": "<i>switch off</i> = ngắt khỏi công việc, thư giãn đầu óc." }
+              ]
+            },
+            {
+              "title": "Biến thể & cụm hay gặp",
+              "items": [
+                { "w": "I'm trying my best", "vi": "tôi đang cố hết sức", "ex": "I'm trying my best, but it's a lot of work.", "exvi": "Tôi đang cố hết sức, nhưng việc nhiều quá." },
+                { "w": "I've been trying to…", "vi": "tôi cố mãi mà…", "ex": "I've been trying to reach you all morning.", "exvi": "Tôi gọi cho bạn cả sáng nay rồi.", "note": "Nêu sự việc mà không trách móc — rất hữu dụng." },
+                { "w": "I tried to… but…", "vi": "tôi đã cố… nhưng…", "ex": "I tried to call, but your phone was off.", "exvi": "Tôi đã cố gọi, nhưng máy bạn tắt." },
+                { "w": "try + V-ing", "vi": "thử làm… xem sao", "ex": "Try restarting it — that usually works.", "exvi": "Thử khởi động lại xem — thường là được đấy.", "note": "NGHĨA KHÁC: đây là “thử xem có tác dụng không”, không phải “cố gắng”." },
+                { "w": "I'm not trying to…", "vi": "tôi không có ý…", "ex": "I'm not trying to criticise, I'm just asking.", "exvi": "Tôi không có ý chỉ trích, tôi chỉ đang hỏi thôi.", "note": "Câu gỡ hiểu lầm mạnh nhất trong nhóm này." },
+                { "w": "What I'm trying to say is…", "vi": "ý tôi muốn nói là…", "ex": "What I'm trying to say is, we need more time.", "exvi": "Ý tôi muốn nói là, chúng ta cần thêm thời gian.", "note": "Dùng khi bạn nói lòng vòng và muốn chốt lại ý chính." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I'm trying to finish it, but I'm waiting on the data.",
+                  "vi": "Tôi đang cố làm xong, nhưng còn đang chờ dữ liệu.",
+                  "note": "Công thức báo cáo tiến độ hay nhất: <b>nỗ lực + trở ngại cụ thể</b>. Cho thấy bạn không ngồi yên.",
+                  "open": { "en": "Quick update on the report —", "vi": "Cập nhật nhanh về báo cáo —" },
+                  "reply": [
+                    { "them": "Who are you waiting on?", "themvi": "Bạn đang chờ ai?", "you": "The finance team.", "youvi": "Bên tài chính ạ." },
+                    { "them": "Do you want me to chase them?", "themvi": "Tôi giục họ giúp bạn nhé?", "you": "That would really help, thanks.", "youvi": "Vậy thì giúp tôi nhiều lắm, cảm ơn anh/chị." }
+                  ],
+                  "close": { "en": "I'll send it the moment I have it.", "vi": "Có là tôi gửi ngay ạ." }
+                },
+                {
+                  "en": "I've been trying to reach you all morning.",
+                  "vi": "Tôi gọi cho bạn cả sáng nay rồi.",
+                  "note": "Nêu sự việc mà không trách móc. Nếu nói <i>Why didn't you answer?</i> thì thành ra gây gổ.",
+                  "reply": [
+                    { "them": "Sorry, I was in back-to-back meetings.", "themvi": "Xin lỗi, tôi họp liên tục cả sáng.", "you": "No problem. Do you have five minutes now?", "youvi": "Không sao. Giờ anh/chị rảnh năm phút chứ?" }
+                  ],
+                  "vars": [
+                    { "en": "I've been trying to get hold of the supplier.", "vi": "Tôi cố liên lạc với nhà cung cấp mãi rồi." }
+                  ]
+                },
+                {
+                  "en": "I'm not trying to criticise — I'm just asking.",
+                  "vi": "Tôi không có ý chỉ trích — tôi chỉ đang hỏi thôi.",
+                  "note": "Câu gỡ hiểu lầm mạnh nhất. Dùng ngay khi thấy người kia bắt đầu phòng thủ.",
+                  "reply": [
+                    { "them": "Sorry, I took that the wrong way.", "themvi": "Xin lỗi, tôi hiểu nhầm ý anh/chị.", "you": "No harm done.", "youvi": "Không sao đâu." }
+                  ],
+                  "vars": [
+                    { "en": "I'm not trying to rush you.", "vi": "Tôi không có ý giục bạn." }
+                  ]
+                },
+                {
+                  "en": "What I'm trying to say is, we need one more week.",
+                  "vi": "Ý tôi muốn nói là, chúng ta cần thêm một tuần.",
+                  "note": "Dùng khi bạn đã nói lòng vòng và muốn chốt lại ý chính thật rõ.",
+                  "reply": [
+                    { "them": "Then say that. Can you justify it?", "themvi": "Vậy thì nói thẳng đi. Bạn giải thích được lý do chứ?", "you": "Yes — the scope changed twice.", "youvi": "Được ạ — phạm vi đã đổi hai lần." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Excuse me, I'm trying to find platform seven.",
+                  "vi": "Xin lỗi, tôi đang cố tìm sân ga số bảy.",
+                  "note": "Xin giúp mà không nhờ. Khác <i>I'm looking for</i> ở chỗ câu này ngụ ý bạn đã tìm rồi mà không thấy.",
+                  "open": { "en": "Sorry to bother you —", "vi": "Xin lỗi làm phiền bạn —" },
+                  "reply": [
+                    { "them": "Down the stairs and to your left.", "themvi": "Xuống cầu thang rồi rẽ trái ạ.", "you": "Down the stairs, left. Got it, thanks.", "youvi": "Xuống cầu thang, rẽ trái. Hiểu rồi, cảm ơn bạn." },
+                    { "them": "I'm heading that way — follow me.", "themvi": "Tôi cũng đi hướng đó — đi theo tôi.", "you": "That's very kind, thank you.", "youvi": "Bạn tốt quá, cảm ơn nhiều." }
+                  ],
+                  "close": { "en": "Thanks so much for your help.", "vi": "Cảm ơn bạn nhiều lắm." }
+                },
+                {
+                  "en": "I'm trying to book a table for six on Saturday.",
+                  "vi": "Tôi đang cố đặt bàn cho sáu người vào thứ Bảy.",
+                  "reply": [
+                    { "them": "We're fully booked at seven, but eight is free.", "themvi": "Bảy giờ kín chỗ rồi ạ, nhưng tám giờ còn bàn.", "you": "Eight works. Let's do that.", "youvi": "Tám giờ được. Đặt giờ đó đi ạ." }
+                  ]
+                },
+                {
+                  "en": "I'm trying to get through to customer service.",
+                  "vi": "Tôi đang cố gọi thông tới bộ phận chăm sóc khách hàng.",
+                  "note": "<span class=\"k\">get through to + ai</span> = gọi điện mà liên lạc được. Rất hay dùng khi tổng đài bận.",
+                  "reply": [
+                    { "them": "The line's been busy all day.", "themvi": "Đường dây bận cả ngày ạ.", "you": "Is there an email address instead?", "youvi": "Có địa chỉ email thay thế không ạ?" }
+                  ]
+                },
+                {
+                  "en": "I'm trying to avoid rush hour.",
+                  "vi": "Tôi đang cố tránh giờ cao điểm.",
+                  "reply": [
+                    { "them": "Then leave before four.", "themvi": "Vậy thì đi trước bốn giờ.", "you": "Good call. I'll head off soon.", "youvi": "Đúng đấy. Tôi đi sớm luôn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I'm trying to eat healthier this year.",
+                  "vi": "Năm nay tôi đang cố ăn uống lành mạnh hơn.",
+                  "note": "Khiêm tốn và thành thật hơn <i>I eat healthy</i> — thừa nhận đây là một quá trình.",
+                  "reply": [
+                    { "them": "How's it going so far?", "themvi": "Đến giờ thế nào rồi?", "you": "Some days better than others.", "youvi": "Có hôm tốt, có hôm không." }
+                  ],
+                  "vars": [
+                    { "en": "I'm trying to get fit before the wedding.", "vi": "Tôi đang cố lấy lại vóc dáng trước đám cưới." },
+                    { "en": "I'm trying to spend less time on my phone.", "vi": "Tôi đang cố bớt dùng điện thoại." }
+                  ]
+                },
+                {
+                  "en": "I'm trying to remember her name — it's on the tip of my tongue.",
+                  "vi": "Tôi đang cố nhớ tên cô ấy — nó ở ngay đầu lưỡi rồi.",
+                  "note": "<span class=\"k\">on the tip of my tongue</span> = sắp nhớ ra mà chưa ra. Thành ngữ cực tự nhiên.",
+                  "reply": [
+                    { "them": "Does it start with H?", "themvi": "Có phải bắt đầu bằng chữ H không?", "you": "Hoa! That's it.", "youvi": "Hoa! Đúng rồi." }
+                  ]
+                },
+                {
+                  "en": "I'm trying to switch off at weekends.",
+                  "vi": "Tôi đang cố không nghĩ tới công việc vào cuối tuần.",
+                  "reply": [
+                    { "them": "Good. You need it.", "themvi": "Tốt. Bạn cần vậy đấy.", "you": "It's harder than it sounds.", "youvi": "Khó hơn nghe tưởng đấy." }
+                  ]
+                },
+                {
+                  "en": "I've been trying to learn Japanese for two years now.",
+                  "vi": "Tôi học tiếng Nhật được hai năm rồi.",
+                  "note": "Thì hoàn thành tiếp diễn — nhấn mạnh quá trình dài và vẫn đang tiếp tục.",
+                  "reply": [
+                    { "them": "How far have you got?", "themvi": "Bạn đến đâu rồi?", "you": "I can read a menu. That's about it.", "youvi": "Đọc được thực đơn. Chỉ vậy thôi." }
+                  ],
+                  "close": { "en": "Slowly but surely.", "vi": "Chậm mà chắc." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Thanks, but I'm trying to cut down on coffee.",
+                  "vi": "Cảm ơn, nhưng tôi đang cố giảm bớt cà phê.",
+                  "note": "Cách từ chối đồ uống hay nhất: lý do thuộc về bạn nên chẳng ai ép thêm được.",
+                  "reply": [
+                    { "them": "Tea instead?", "themvi": "Vậy uống trà nhé?", "you": "Tea would be lovely, thanks.", "youvi": "Trà thì tuyệt, cảm ơn bạn." }
+                  ],
+                  "vars": [
+                    { "en": "Thanks, but I'm trying to cut down on sugar.", "vi": "Cảm ơn, nhưng tôi đang cố giảm đường." }
+                  ]
+                },
+                {
+                  "en": "I'm trying to avoid dairy at the moment.",
+                  "vi": "Dạo này tôi đang cố tránh đồ có sữa.",
+                  "reply": [
+                    { "them": "We can do it with oat milk.", "themvi": "Bên em làm bằng sữa yến mạch được ạ.", "you": "That would be great, thank you.", "youvi": "Vậy thì tuyệt, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "I'm still trying to decide — give me one more minute.",
+                  "vi": "Tôi vẫn đang cố quyết định — cho tôi thêm một phút.",
+                  "reply": [
+                    { "them": "Of course, take your time.", "themvi": "Vâng ạ, anh/chị cứ thong thả.", "you": "Thank you.", "youvi": "Cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "I'm trying to book a table, but the line is always busy.",
+                  "vi": "Tôi đang cố đặt bàn, nhưng máy lúc nào cũng bận.",
+                  "reply": [
+                    { "them": "Try their website — it's easier.", "themvi": "Thử trang web của họ xem — dễ hơn đấy.", "you": "Good idea, I'll do that.", "youvi": "Ý hay, để mình thử." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I'm trying to find something under five hundred thousand.",
+                  "vi": "Tôi đang cố tìm món gì đó dưới năm trăm nghìn.",
+                  "note": "Nói mức giá ngay từ đầu để nhân viên khỏi giới thiệu đồ ngoài tầm — tiết kiệm thời gian cho cả hai.",
+                  "reply": [
+                    { "them": "Everything on this shelf is in that range.", "themvi": "Toàn bộ kệ này đều trong tầm giá đó ạ.", "you": "Perfect, I'll have a look.", "youvi": "Tuyệt, để tôi xem." }
+                  ]
+                },
+                {
+                  "en": "I'm trying to spend less this month, so I'll leave it.",
+                  "vi": "Tháng này tôi đang cố tiêu ít lại, nên thôi ạ.",
+                  "note": "Cách rời cửa hàng mà không ai mất mặt — lý do thuộc về bạn, không phải về món hàng.",
+                  "reply": [
+                    { "them": "No problem at all. Come back any time.", "themvi": "Không sao ạ. Khi nào anh/chị quay lại cũng được.", "you": "Thanks for your help.", "youvi": "Cảm ơn bạn đã tư vấn." }
+                  ]
+                },
+                {
+                  "en": "I'm trying to figure out which one fits my laptop.",
+                  "vi": "Tôi đang cố xem cái nào vừa với laptop của tôi.",
+                  "reply": [
+                    { "them": "What size is the screen?", "themvi": "Màn hình bao nhiêu inch ạ?", "you": "Fourteen inches.", "youvi": "Mười bốn inch." }
+                  ]
+                },
+                {
+                  "en": "I've been trying to return this for a week.",
+                  "vi": "Tôi cố trả lại món này cả tuần nay rồi.",
+                  "note": "Nêu thời gian để cho thấy vấn đề kéo dài — hiệu quả hơn là tỏ ra tức giận.",
+                  "open": { "en": "I hope you can help me with this.", "vi": "Mong bạn giúp tôi việc này." },
+                  "reply": [
+                    { "them": "I'm sorry about that. Let me sort it now.", "themvi": "Em xin lỗi ạ. Để em xử lý ngay.", "you": "Thank you, I appreciate it.", "youvi": "Cảm ơn bạn, tôi rất cảm kích." }
+                  ],
+                  "close": { "en": "Thanks for sorting that out.", "vi": "Cảm ơn bạn đã giải quyết giúp." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Hỏi đường ở nhà ga",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Sorry to bother you — I'm trying to find platform seven.", "vi": "Xin lỗi làm phiền bạn — tôi đang cố tìm sân ga số bảy." },
+            { "speaker": "Stranger", "en": "Platform seven? Down the stairs and to your left.", "vi": "Sân ga bảy à? Xuống cầu thang rồi rẽ trái." },
+            { "speaker": "You", "me": true, "en": "Down the stairs, then left. Is it far?", "vi": "Xuống cầu thang, rồi rẽ trái. Có xa không ạ?" },
+            { "speaker": "Stranger", "en": "Two minutes. You've got time.", "vi": "Hai phút thôi. Bạn còn kịp." },
+            { "speaker": "You", "me": true, "en": "That's a relief. Thanks so much.", "vi": "May quá. Cảm ơn bạn nhiều." },
+            { "speaker": "Stranger", "en": "No problem. Safe trip!", "vi": "Không có gì. Đi đường bình an nhé!" }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Báo cáo tiến độ với quản lý",
+          "lines": [
+            { "speaker": "Manager", "en": "How's the report coming along?", "vi": "Báo cáo tới đâu rồi?" },
+            { "speaker": "You", "me": true, "en": "I'm trying to finish it, but I'm waiting on the finance data.", "vi": "Em đang cố làm xong, nhưng còn chờ số liệu bên tài chính ạ." },
+            { "speaker": "Manager", "en": "How long have you been waiting?", "vi": "Em chờ bao lâu rồi?" },
+            { "speaker": "You", "me": true, "en": "I've been trying to reach them since Monday.", "vi": "Em liên lạc với họ từ thứ Hai rồi ạ." },
+            { "speaker": "Manager", "en": "I'll chase it. Anything else blocking you?", "vi": "Để tôi giục. Còn gì cản trở em nữa không?" },
+            { "speaker": "You", "me": true, "en": "No, that's the only thing. I'll send it the moment I have it.", "vi": "Không ạ, chỉ mỗi việc đó. Có là em gửi ngay." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'm trying finish this.", "right": "I'm trying to finish this.", "why": "Sau <b>try</b> mang nghĩa “cố gắng” thì luôn là <b>to + V</b>." },
+            { "wrong": "I tried opening the door but it was locked.", "right": "I tried to open the door but it was locked.", "why": "Bị khóa nên cố mà không mở được → <b>try to</b>. <i>try + V-ing</i> chỉ dùng khi thử một cách làm xem có tác dụng không." },
+            { "wrong": "I'm trying to cut down coffee.", "right": "I'm trying to cut down on coffee.", "why": "Cụm là <b>cut down ON + N</b> — thiếu <i>on</i> là sai." },
+            { "wrong": "I'm trying to avoid to eat late.", "right": "I'm trying to avoid eating late.", "why": "Sau <b>avoid</b> luôn là <b>V-ing</b>, dù trước đó là <i>trying to</i>." },
+            { "wrong": "I try to call you all morning.", "right": "I've been trying to call you all morning.", "why": "Việc kéo dài từ quá khứ đến hiện tại thì dùng <b>hiện tại hoàn thành tiếp diễn</b>." },
+            { "wrong": "I'm trying my best for finish it.", "right": "I'm trying my best to finish it.", "why": "Sau <b>try my best</b> vẫn là <b>to + V</b>, không dùng <i>for</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I'm trying to + V</code>", "Đang nỗ lực, có khó khăn", "<i>I'm trying to fix it.</i>"],
+            ["<code>I'm looking for + N</code>", "Đang tìm, chưa hàm ý bế tắc", "<i>I'm looking for the exit.</i> — Xem [Khung 04]."],
+            ["<code>I'm working on + N</code>", "Đang làm, tiến triển bình thường", "<i>I'm working on the report.</i> — Không hàm ý khó khăn."],
+            ["<code>I want to + V</code>", "Muốn — chưa chắc đã bắt tay làm", "<i>I want to learn Japanese.</i> — Xem [Khung 02]."],
+            ["<code>I'm hoping to + V</code>", "Mong — phụ thuộc vào yếu tố ngoài", "<i>I'm hoping to finish today.</i> — Xem [Khung 07]."],
+            ["<code>I managed to + V</code>", "Đã cố VÀ thành công", "<i>I managed to fix it.</i> — Kết quả ngược với <i>tried to</i>."],
+            ["<code>try + V-ing</code>", "Thử một cách xem có tác dụng không", "<i>Try restarting it.</i> — Nghĩa khác hẳn."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — cùng một việc chưa xong" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "It's not done.", "vi": "Khô — chỉ báo tình trạng" },
+            { "en": "I'm working on it.", "vi": "Bình thường — vẫn đang làm" },
+            { "en": "I'm trying to finish it.", "vi": "Có nỗ lực — ngụ ý hơi khó" },
+            { "en": "I'm trying my best, but it's tricky.", "vi": "Nhấn mạnh nỗ lực và khó khăn" },
+            { "en": "I've been trying all week.", "vi": "Mạnh nhất — kéo dài và bế tắc" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>trying</b> = /ˈtraɪɪŋ/ — hai âm tiết. Cụm <b>tr</b> đọc gần như “chr”, đừng tách thành “tơ-rai”.",
+            "<b>trying to</b> khi nói nhanh thành <b>“try-nə”</b> /ˈtraɪnə/: <i>I'm trying to go</i> → “am-TRY-nə-go”.",
+            "<b>I'm</b> đầu câu rút còn “am”: cả cụm <i>I'm trying to</i> chỉ còn “am-TRY-nə” — ba âm tiết nói liền một hơi.",
+            "<b>I've been trying to</b> → “av-bin-TRY-nə”, <i>been</i> đọc ngắn thành /bɪn/ chứ không phải /biːn/.",
+            "<b>tried</b> = /traɪd/ — một âm tiết, đuôi <i>-ed</i> đọc là /d/, không phải “tơ-rai-ết”.",
+            "Trọng âm rơi vào <b>TRY</b> và vào động từ chính: <i>I'm</i> <b>TRY</b>-<i>ing to</i> <b>FIND</b> <i>the exit.</i>"
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm trying to find platform seven.", "vi": "Luyện shadowing: nghe — nhại lại — lặp 5 lần cho trôi cụm “trying to”." },
+            { "en": "I've been trying to reach you all morning.", "vi": "Chú ý cụm “I've been trying to” nói liền thành một khối." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi đang cố tìm sân ga số bảy.", "blank": "__________ platform seven.", "a": "I'm trying to find" },
+            { "vi": "Tôi gọi cho bạn cả sáng nay rồi.", "blank": "__________ you all morning.", "a": "I've been trying to reach" },
+            { "vi": "Tôi đang cố giảm bớt cà phê.", "blank": "I'm trying to __________ coffee.", "a": "cut down on" },
+            { "vi": "Tôi không có ý chỉ trích, tôi chỉ đang hỏi thôi.", "blank": "__________ criticise, I'm just asking.", "a": "I'm not trying to" },
+            { "vi": "Ý tôi muốn nói là, chúng ta cần thêm thời gian.", "blank": "__________, we need more time.", "a": "What I'm trying to say is" },
+            { "vi": "Thử khởi động lại xem — thường là được đấy.", "blank": "__________ it — that usually works.", "a": "Try restarting (V-ing, không phải “to restart”)" },
+            { "vi": "Tôi đang cố tránh ăn muộn.", "blank": "I'm trying to avoid __________ late.", "a": "eating" },
+            { "vi": "Tôi đang cố hết sức, nhưng việc nhiều quá.", "blank": "__________, but it's a lot of work.", "a": "I'm trying my best" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi đang cố làm xong, nhưng còn chờ dữ liệu.", "a": "I'm trying to finish it, but I'm waiting on the data." },
+            { "vi": "2. Năm nay tôi đang cố ăn uống lành mạnh hơn.", "a": "I'm trying to eat healthier this year." },
+            { "vi": "3. Tôi đang cố nghĩ xem cái này hoạt động thế nào.", "a": "I'm trying to figure out how this works." },
+            { "vi": "4. Cảm ơn, nhưng tôi đang cố giảm đường.", "a": "Thanks, but I'm trying to cut down on sugar." },
+            { "vi": "5. Tôi học tiếng Nhật được hai năm rồi.", "a": "I've been trying to learn Japanese for two years." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Dùng để xin giúp mà không nhờ:</b> <i>I'm trying to find…</i> khiến người nghe tự nguyện giúp. Đây là ứng dụng giá trị nhất của khung này.",
+            "<b>Công thức báo cáo ở công sở:</b> <i>I'm trying to X, but Y.</i> — luôn nêu trở ngại cụ thể, đừng chỉ nói là chưa xong.",
+            "<b>Thuộc câu gỡ hiểu lầm:</b> <i>I'm not trying to…, I'm just…</i> Nó dập tắt được rất nhiều cuộc cãi vã trước khi chúng bắt đầu.",
+            "<b>Phân biệt hai cấu trúc:</b> <i>try to</i> = cố (việc khó), <i>try + V-ing</i> = thử (xem có tác dụng không). Đọc lại ví dụ mở cửa sổ cho thuộc.",
+            "<b>Dùng để từ chối đồ ăn thức uống:</b> <i>I'm trying to cut down on…</i> — lý do thuộc về bạn nên không ai nài thêm.",
+            "<b>Bài tập 3 phút:</b> viết 5 mục tiêu bạn đang theo đuổi bằng <i>I'm trying to…</i>, rồi thêm vào mỗi câu một vế <i>but…</i> nêu khó khăn thật."
+          ]
+        }
+      ]
+    }
+  ]
+}

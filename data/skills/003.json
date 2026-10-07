@@ -1,0 +1,276 @@
+{
+  "id": 3,
+  "group": "Nhóm 1 · Phát âm — gỡ chặn cả nghe lẫn nói",
+  "title": "Đuôi -ed — /t/ · /d/ · /ɪd/",
+  "subtitle": "Chỉ hai âm /t/ và /d/ mới làm đuôi -ed dài thêm một nhịp. Người Việt hay làm ngược: đọc worked thành “work-ed” hai âm tiết, rồi lại nuốt hẳn đuôi khi kể chuyện quá khứ.",
+  "meaning": "Đọc đúng ba biến thể của đuôi -ed",
+  "rule": [
+    "Trước là <em>/t/</em> hoặc <em>/d/</em> → <em>/ɪd/</em> (thêm một âm tiết)",
+    "Trước là âm <em>không rung</em> → <em>/t/</em>",
+    "Trước là âm <em>có rung</em> hoặc nguyên âm → <em>/d/</em>"
+  ],
+  "tags": [
+    { "text": "Mức độ: nền móng", "hot": true },
+    { "text": "worked /t/ · lived /d/ · wanted /ɪd/" },
+    { "text": "Chỉ /t/ /d/ mới thêm âm tiết" },
+    { "text": "Ảnh hưởng: rất lớn" }
+  ],
+  "frames": [93, 95, 96, 79],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Đuôi <b>-ed</b> theo đúng khuôn của đuôi <b>-s</b> [Kỹ năng 02]: ba biến thể, chọn cái nào là do <b>âm đứng ngay trước</b> quyết định. Khác một chỗ — danh sách “thêm âm tiết” ở đây <b>chỉ có đúng hai âm</b>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — thêm âm tiết vào mọi từ:</b><br><i>worked</i> đọc thành “work-ed” ✗ · <i>lived</i> thành “live-ed” ✗ · <i>asked</i> thành “ask-ed” ✗<br>Chỉ khi âm trước là <b>/t/</b> hoặc <b>/d/</b> thì <i>-ed</i> mới thành <b>/ɪd/</b> và dài thêm một nhịp:<br>• <i>wan<b>t</b>ed</i> → /ˈwɒntɪd/ ✓ · <i>nee<b>d</b>ed</i> → /ˈniːdɪd/ ✓<br>• <i>worked</i> → /wɜːk<b>t</b>/ — <b>một âm tiết</b>, đuôi dính liền<br>Lý do: hai âm /t/ /d/ nếu dính thẳng vào nhau thì không ai nghe ra, nên tiếng Anh chèn /ɪ/ vào giữa. Các âm khác không cần." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — nuốt hẳn đuôi khi kể chuyện quá khứ:</b><br><i>I worked there last year</i> đọc thành “ai work the la dia” ✗<br>Mất <b>-ed</b> là <b>mất luôn thì quá khứ</b> — người nghe tưởng bạn đang nói chuyện hiện tại. Đây là hệ quả trực tiếp của thói quen nuốt phụ âm cuối [Kỹ năng 01].<br>Khó nhất là khi đuôi tạo thành <b>cụm phụ âm</b>: <i>asked</i> = /ɑːskt/ — ba phụ âm liền. Xem [Kỹ năng 04]." },
+        { "t": "h3", "text": "Ba cách đọc" },
+        {
+          "t": "table",
+          "head": ["Âm đứng trước", "Đọc là", "Ví dụ"],
+          "rows": [
+            ["<code>/t/</code> hoặc <code>/d/</code>", "<code>/ɪd/</code> — thêm một âm tiết", "wanted · needed · started"],
+            ["Âm không rung: /p k f s ʃ tʃ θ/", "<code>/t/</code>", "worked · stopped · washed"],
+            ["Âm có rung: /b g v z m n l r ð/", "<code>/d/</code>", "lived · called · opened"],
+            ["Nguyên âm", "<code>/d/</code>", "played · studied · tried"]
+          ]
+        },
+        { "t": "p", "html": "Giống đuôi <b>-s</b>, nhóm <b>/d/ là mặc định</b>. Chỉ cần thuộc hai danh sách nhỏ: <b>/t/ /d/</b> → /ɪd/, và nhóm <b>bảy âm không rung</b> → /t/." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Từ gốc kết thúc bằng", "Đuôi đọc", "Ví dụ"],
+          "rows": [
+            ["/t/", "/ɪd/", "wanted · started · visited · waited"],
+            ["/d/", "/ɪd/", "needed · decided · ended"],
+            ["/p/", "/t/", "stopped · helped · hoped"],
+            ["/k/", "/t/", "worked · asked · looked · liked"],
+            ["/f/", "/t/", "laughed · coughed"],
+            ["/s/", "/t/", "missed · passed · promised"],
+            ["/ʃ/ /tʃ/", "/t/", "washed · watched · finished"],
+            ["/b/ /g/", "/d/", "robbed · begged"],
+            ["/v/ /ð/", "/d/", "lived · moved · breathed"],
+            ["/z/ /dʒ/", "/d/", "used · closed · changed"],
+            ["/m/ /n/ /ŋ/ /l/ /r/", "/d/", "seemed · opened · called · offered"],
+            ["Nguyên âm", "/d/", "played · studied · tried · stayed"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Vài tính từ giữ /ɪd/ dù không theo luật</b> — chúng là ngoại lệ phải nhớ riêng:<br><i>aged</i> /ˈeɪdʒɪd/, <i>naked</i> /ˈneɪkɪd/, <i>wicked</i> /ˈwɪkɪd/, <i>learned</i> (uyên bác) /ˈlɜːnɪd/.<br>So sánh: <i>He learned English</i> /lɜːnd/ (động từ) ≠ <i>a learned professor</i> /ˈlɜːnɪd/ (tính từ)." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I worked there last year.", "vi": "Năm ngoái tôi làm ở đó.", "note": "BẪY SỐ MỘT: <b>worked</b> = /wɜːkt/ — MỘT âm tiết, không phải “work-ed”." },
+            { "en": "I lived in Hue for three years.", "vi": "Tôi sống ở Huế ba năm.", "note": "<b>lived</b> = /lɪvd/ — /v/ có rung nên đuôi là /d/." },
+            { "en": "I wanted to call you.", "vi": "Tôi đã định gọi cho bạn.", "note": "<b>wanted</b> = /ˈwɒntɪd/ — trước là /t/ nên thêm hẳn một âm tiết." },
+            { "en": "She needed more time.", "vi": "Cô ấy cần thêm thời gian.", "note": "<b>needed</b> = /ˈniːdɪd/ — trước là /d/." },
+            { "en": "The bus stopped suddenly.", "vi": "Xe buýt dừng đột ngột.", "note": "<b>stopped</b> = /stɒpt/ — một âm tiết. Xem [Ngữ pháp 54]." },
+            { "en": "I asked him twice.", "vi": "Tôi hỏi anh ấy hai lần.", "note": "<b>asked</b> = /ɑːskt/ — ba phụ âm liền, khó nhất. Xem [Kỹ năng 04]." },
+            { "en": "I played football yesterday.", "vi": "Hôm qua tôi đá bóng.", "note": "<b>played</b> = /pleɪd/ — sau nguyên âm thì /d/." },
+            { "en": "He called me this morning.", "vi": "Sáng nay anh ấy gọi tôi.", "note": "<b>called</b> = /kɔːld/ — /l/ có rung." },
+            { "en": "I've just finished.", "vi": "Tôi vừa làm xong.", "note": "<b>finished</b> = /ˈfɪnɪʃt/ — /ʃ/ không rung. Xem [Khung 95]." },
+            { "en": "I used to live there.", "vi": "Trước đây tôi sống ở đó.", "note": "Trong <b>used to</b>, đuôi đọc /t/ chứ không phải /d/. Xem [Khung 93]." },
+            { "en": "I'm sorry for being late.", "vi": "Xin lỗi vì tôi đến muộn.", "note": "Câu xin lỗi hay kéo theo một loạt động từ quá khứ. Xem [Khung 79]." },
+            { "en": "When I was young, I studied hard.", "vi": "Hồi trẻ tôi học rất chăm.", "note": "<b>studied</b> = /ˈstʌdid/ — sau nguyên âm. Xem [Khung 96]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào cần để ý nhất",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "⏮", "title": "Kể chuyện quá khứ", "text": "Mất <b>-ed</b> là mất luôn thì. Xem [Khung 96]." },
+            { "icon": "✅", "title": "Nói việc vừa xong", "text": "<i>I've just finished.</i> Xem [Khung 95]." },
+            { "icon": "🙏", "title": "Xin lỗi, giải thích", "text": "<i>I'm sorry, I forgot / I missed it.</i>" },
+            { "icon": "📄", "title": "Phỏng vấn, kể kinh nghiệm", "text": "<i>I worked · I managed · I studied</i>" },
+            { "icon": "🎧", "title": "Luyện nghe", "text": "Đuôi /t/ /d/ rất nhẹ — không biết trước thì nghe không ra." },
+            { "icon": "🚫", "title": "Đừng làm…", "text": "Đừng thêm /ɪd/ vào mọi từ — chỉ sau /t/ và /d/." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay gặp",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để nghe đuôi <b>-ed</b> của nó đọc thế nào và vì sao." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Đọc /ɪd/ và /t/",
+              "items": [
+                { "w": "wanted /ɪd/", "vi": "đã muốn", "ex": "I wanted to call you.", "exvi": "Tôi đã định gọi cho bạn.", "note": "Trước là /t/ — một trong hai âm duy nhất thêm âm tiết." },
+                { "w": "needed /ɪd/", "vi": "đã cần", "ex": "She needed more time.", "exvi": "Cô ấy cần thêm thời gian." },
+                { "w": "started /ɪd/", "vi": "đã bắt đầu", "ex": "It started at six.", "exvi": "Nó bắt đầu lúc sáu giờ." },
+                { "w": "decided /ɪd/", "vi": "đã quyết định", "ex": "We decided to stay.", "exvi": "Bọn tôi quyết định ở lại." },
+                { "w": "visited /ɪd/", "vi": "đã tới thăm", "ex": "We visited her last week.", "exvi": "Tuần trước bọn tôi tới thăm cô ấy." },
+                { "w": "worked /t/", "vi": "đã làm việc", "ex": "I worked there last year.", "exvi": "Năm ngoái tôi làm ở đó.", "note": "BẪY: MỘT âm tiết, không phải “work-ed”." },
+                { "w": "stopped /t/", "vi": "đã dừng", "ex": "The bus stopped suddenly.", "exvi": "Xe buýt dừng đột ngột." },
+                { "w": "asked /t/", "vi": "đã hỏi", "ex": "I asked him twice.", "exvi": "Tôi hỏi anh ấy hai lần.", "note": "/skt/ — ba phụ âm liền. Xem [Kỹ năng 04]." },
+                { "w": "liked /t/", "vi": "đã thích", "ex": "I liked the film.", "exvi": "Tôi thích bộ phim đó." },
+                { "w": "missed /t/", "vi": "đã lỡ, đã nhớ", "ex": "I missed the bus.", "exvi": "Tôi lỡ chuyến buýt." },
+                { "w": "finished /t/", "vi": "đã xong", "ex": "I've just finished.", "exvi": "Tôi vừa làm xong. Xem [Khung 95]." },
+                { "w": "watched /t/", "vi": "đã xem", "ex": "I watched it last night.", "exvi": "Tối qua tôi xem rồi." }
+              ]
+            },
+            {
+              "title": "Đọc /d/ — nhóm đông nhất",
+              "items": [
+                { "w": "lived /d/", "vi": "đã sống", "ex": "I lived in Hue for three years.", "exvi": "Tôi sống ở Huế ba năm." },
+                { "w": "called /d/", "vi": "đã gọi", "ex": "He called me this morning.", "exvi": "Sáng nay anh ấy gọi tôi." },
+                { "w": "opened /d/", "vi": "đã mở", "ex": "The shop opened at nine.", "exvi": "Cửa hàng mở lúc chín giờ." },
+                { "w": "moved /d/", "vi": "đã chuyển", "ex": "We moved here last year.", "exvi": "Năm ngoái bọn tôi chuyển tới đây." },
+                { "w": "played /d/", "vi": "đã chơi", "ex": "I played football yesterday.", "exvi": "Hôm qua tôi đá bóng.", "note": "Sau nguyên âm thì luôn /d/." },
+                { "w": "studied /d/", "vi": "đã học", "ex": "I studied hard.", "exvi": "Tôi học rất chăm. Xem [Khung 96]." },
+                { "w": "tried /d/", "vi": "đã thử, đã cố", "ex": "She tried to call you.", "exvi": "Cô ấy đã cố gọi bạn." },
+                { "w": "stayed /d/", "vi": "đã ở lại", "ex": "We stayed in a hotel.", "exvi": "Bọn tôi ở khách sạn." },
+                { "w": "changed /d/", "vi": "đã đổi", "ex": "Things have changed.", "exvi": "Mọi thứ thay đổi rồi." },
+                { "w": "closed /d/", "vi": "đã đóng", "ex": "The shop closed early.", "exvi": "Cửa hàng đóng sớm." },
+                { "w": "seemed /d/", "vi": "có vẻ", "ex": "He seemed tired.", "exvi": "Anh ấy có vẻ mệt." },
+                { "w": "used to /t/", "vi": "trước đây hay", "ex": "I used to live there.", "exvi": "Trước đây tôi sống ở đó.", "note": "Ngoại lệ: trong cụm này đuôi đọc /t/. Xem [Ngữ pháp 26]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<i>worked</i> đọc là <b>“work-ed”</b> (hai âm tiết)", "right": "<b>“wɜːkt”</b> (một âm tiết)", "why": "BẪY SỐ MỘT: chỉ sau /t/ và /d/ mới thêm âm tiết. /k/ thì không." },
+            { "wrong": "<i>lived</i> đọc là <b>“live-ed”</b>", "right": "<b>“lɪvd”</b>", "why": "Cùng lỗi — /v/ không nằm trong danh sách hai âm." },
+            { "wrong": "<i>I worked there</i> đọc là <b>“ai work the”</b>", "right": "<b>“ai wɜːkt ðeə”</b>", "why": "BẪY SỐ HAI: nuốt đuôi là mất thì quá khứ. Xem [Kỹ năng 01]." },
+            { "wrong": "<i>wanted</i> đọc là <b>“wɒntd”</b>", "right": "<b>“wɒnt-ɪd”</b>", "why": "Sau /t/ bắt buộc chèn /ɪ/, nếu không thì hai âm /t/ dính nhau không ai nghe ra." },
+            { "wrong": "<i>asked</i> đọc là <b>“ask”</b>", "right": "<b>“ɑːskt”</b>", "why": "Cụm /skt/ khó nên hay bị cắt. Nhưng cắt là mất thì. Xem [Kỹ năng 04]." },
+            { "wrong": "<i>stopped</i> đọc là <b>“stop-pơd”</b>", "right": "<b>“stɒpt”</b>", "why": "Chữ viết gấp đôi phụ âm nhưng ÂM thì không đổi. Xem [Ngữ pháp 54]." },
+            { "wrong": "<i>played</i> đọc là <b>“plei-ed”</b>", "right": "<b>“pleɪd”</b>", "why": "Sau nguyên âm chỉ thêm /d/, không thêm âm tiết." },
+            { "wrong": "<i>used to</i> đọc là <b>“iuzd tu”</b>", "right": "<b>“iust tu”</b>", "why": "Trong cụm này đuôi đọc /t/ — khác hẳn <i>used</i> (dùng) = /juːzd/." },
+            { "wrong": "<i>finished</i> đọc là <b>“finish-ed”</b>", "right": "<b>“fɪnɪʃt”</b>", "why": "/ʃ/ không rung nên đuôi là /t/ dính liền." },
+            { "wrong": "<i>a learned professor</i> đọc là <b>“lɜːnd”</b>", "right": "<b>“lɜːn-ɪd”</b>", "why": "Tính từ <i>learned</i> (uyên bác) giữ /ɪd/ — ngoại lệ phải nhớ riêng." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với luật gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["/t/ / /d/", "Không rung / có rung", "worked /t/ ≠ lived /d/"],
+            ["/t/ / /ɪd/", "Không thêm âm tiết / thêm một âm tiết", "worked ≠ wanted"],
+            ["Đuôi <code>-ed</code> / đuôi <code>-s</code>", "Hai âm /t/ /d/ / nhóm âm xuýt", "wanted ≠ watches. Xem [Kỹ năng 02]"],
+            ["Luật ĐỌC / luật VIẾT", "Theo âm / theo chữ", "stopped viết gấp đôi, âm không đổi"],
+            ["<code>used</code> / <code>used to</code>", "/juːzd/ / /juːst/", "I used it ≠ I used to"],
+            ["<code>learned</code> động từ / tính từ", "/lɜːnd/ / /ˈlɜːnɪd/", "He learned ≠ a learned professor"],
+            ["Có quy tắc / bất quy tắc", "Luật này chỉ áp cho động từ CÓ quy tắc", "worked ≠ went"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: đuôi -ed đọc thế nào?" },
+        {
+          "t": "tree",
+          "q": "Nghe ÂM cuối của động từ gốc rồi đi theo nhánh.",
+          "nodes": [
+            { "if": "Âm /t/ hoặc /d/", "then": "/ɪd/ — thêm một âm tiết", "ex": "wanted · needed · started" },
+            { "if": "Âm không rung /p k f s ʃ tʃ θ/", "then": "/t/ — dính liền", "ex": "worked · stopped · washed" },
+            { "if": "Âm có rung /b g v z m n l r/", "then": "/d/ — dính liền", "ex": "lived · called · opened" },
+            { "if": "Nguyên âm", "then": "/d/", "ex": "played · studied · tried" },
+            { "if": "Không chắc rung hay không", "then": "Đặt tay lên cổ họng rồi đọc âm đó", "ex": "/k/ không rung → /t/" },
+            { "if": "Động từ bất quy tắc", "then": "Không áp luật này — tra bảng", "ex": "go → went · see → saw" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ rõ của đuôi -ed" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "“ai work thea” — mất hẳn", "vi": "Tệ nhất — mất thì quá khứ" },
+            { "en": "“ai work-ed thea” — thừa âm tiết", "vi": "Nghe lạ, giống đọc chính tả" },
+            { "en": "“ai wɜːk-t thea” — tách rời", "vi": "Đúng nhưng còn cứng" },
+            { "en": "“ai wɜːkt thea” — dính liền", "vi": "Tự nhiên" },
+            { "en": "“ai wɜːkt ðeə” nhanh, nhẹ", "vi": "Tốt nhất" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kỹ năng này dùng ở đâu",
+      "blocks": [
+        { "t": "p", "html": "Đuôi <b>-ed</b> quyết định người nghe hiểu bạn đang nói chuyện quá khứ hay hiện tại. Bấm vào để luyện trên câu thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 96, "why": "When I was…, I + V2 — khung kể chuyện quá khứ, đuôi -ed xuất hiện dày nhất." },
+            { "id": 95, "why": "I've just + V3 — finished, arrived, called: đuôi -ed trong thì hoàn thành." },
+            { "id": 93, "why": "I used to + V — cụm used to đọc /t/, một ngoại lệ phải thuộc." },
+            { "id": 79, "why": "I'm sorry for + V-ing — câu xin lỗi hay kéo theo một loạt động từ quá khứ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Đuôi -ed đọc là /t/, /d/ hay /ɪd/?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "đã làm việc", "blank": "worked  →  __________", "a": "/t/ — trước là /k/ không rung" },
+            { "vi": "đã sống", "blank": "lived  →  __________", "a": "/d/ — trước là /v/ có rung" },
+            { "vi": "đã muốn", "blank": "wanted  →  __________", "a": "/ɪd/ — trước là /t/" },
+            { "vi": "đã cần", "blank": "needed  →  __________", "a": "/ɪd/ — trước là /d/" },
+            { "vi": "đã chơi", "blank": "played  →  __________", "a": "/d/ — sau nguyên âm" },
+            { "vi": "đã hỏi", "blank": "asked  →  __________", "a": "/t/ — trước là /k/" },
+            { "vi": "đã xong", "blank": "finished  →  __________", "a": "/t/ — trước là /ʃ/" },
+            { "vi": "đã gọi", "blank": "called  →  __________", "a": "/d/ — trước là /l/" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn cách đọc đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Năm ngoái tôi làm ở đó.", "blank": "(a) “ai work-ed thea”  (b) “ai wɜːkt ðeə”", "a": "(b)" },
+            { "vi": "Tôi đã định gọi cho bạn.", "blank": "(a) “ai wɒntd tu kɔːl iu”  (b) “ai wɒnt-ɪd tu kɔːl iu”", "a": "(b)" },
+            { "vi": "Trước đây tôi sống ở đó.", "blank": "(a) “ai iuzd tu liv ðeə”  (b) “ai iust tu liv ðeə”", "a": "(b)" },
+            { "vi": "Hôm qua tôi đá bóng.", "blank": "(a) “ai plei-ed futbɔːl”  (b) “ai pleɪd futbɔːl”", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Đọc to rồi ghi âm, chấm riêng đuôi -ed" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Năm ngoái tôi làm ở đó.", "a": "I worked there last year.  →  worked /t/" },
+            { "vi": "2. Tôi sống ở Huế ba năm.", "a": "I lived in Hue for three years.  →  lived /d/" },
+            { "vi": "3. Bọn tôi quyết định ở lại và tới thăm cô ấy.", "a": "We decided to stay and visited her.  →  decided /ɪd/ · visited /ɪd/" },
+            { "vi": "4. Tôi hỏi anh ấy hai lần nhưng anh ấy không trả lời.", "a": "I asked him twice but he didn't answer.  →  asked /t/" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Chỉ HAI âm thêm âm tiết:</b> <b>/t/</b> và <b>/d/</b>. Mọi âm khác thì đuôi <b>dính liền</b>, không dài thêm nhịp nào.",
+            "<b>Lý do dễ nhớ:</b> /t/ + /t/ hoặc /d/ + /d/ dính nhau thì không ai nghe ra, nên tiếng Anh chèn /ɪ/ vào giữa.",
+            "<b>Đặt tay lên cổ họng</b> rồi đọc âm cuối. Rung → <b>/d/</b>. Không rung → <b>/t/</b>. Giống hệt luật đuôi <i>-s</i> [Kỹ năng 02].",
+            "<b>/d/ là mặc định</b> — phần lớn từ rơi vào đó, kể cả mọi từ kết thúc bằng nguyên âm.",
+            "<b>Mất đuôi là mất thì.</b> Khi kể chuyện quá khứ, đuôi <i>-ed</i> là tín hiệu duy nhất báo cho người nghe biết.",
+            "<b>Bài tập 2 phút:</b> kể lại hôm qua bằng năm câu quá khứ, ghi âm, rồi chỉ chấm <b>đuôi -ed</b> — không sửa gì khác."
+          ]
+        }
+      ]
+    }
+  ]
+}

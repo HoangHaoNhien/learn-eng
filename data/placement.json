@@ -1,0 +1,146 @@
+{
+  "title": "Kiểm tra đầu vào",
+  "tagline": "30 câu · khoảng 15 phút · để biết nên bắt đầu từ nhóm nào",
+  "intro": "Bài này <b>không chấm điểm bạn</b> — nó chỉ tìm chỗ bạn nên bắt đầu. Chọn đáp án bạn thấy đúng; không chắc thì cứ đoán, đoán sai cũng là thông tin có ích. Làm một mạch, đừng tra cứu giữa chừng, vì tra xong thì kết quả không còn phản ánh trình độ thật.",
+  "groups": [
+    "Nền móng câu tiếng Anh",
+    "Danh từ, mạo từ & lượng từ",
+    "Thì hiện tại & quá khứ",
+    "Thì hoàn thành",
+    "Tương lai",
+    "Tính từ & Trạng từ",
+    "Giới từ",
+    "Dạng theo sau động từ",
+    "Động từ khuyết thiếu",
+    "Điều kiện & Giả định",
+    "Mệnh đề & Dạng câu",
+    "Nhấn mạnh, nối ý & dấu câu"
+  ],
+  "bands": [
+    { "lv": "A1", "vi": "Mới bắt đầu", "say": "Bạn đang ở những viên gạch đầu tiên. Nên học tuần tự từ Nhóm 1, đừng nhảy cóc." },
+    { "lv": "A2", "vi": "Cơ bản", "say": "Bạn dựng được câu đơn và kể được việc hằng ngày. Việc cần làm là vững các thì và mạo từ trước khi lên câu phức." },
+    { "lv": "B1", "vi": "Trung cấp", "say": "Bạn giao tiếp được trong hầu hết tình huống quen thuộc. Chỗ còn yếu thường là mệnh đề, điều kiện và dạng theo sau động từ." },
+    { "lv": "B2", "vi": "Trung cao cấp", "say": "Nền ngữ pháp của bạn đã vững. Việc còn lại là độ chính xác và các cấu trúc nâng cao: đảo ngữ, câu chẻ, tường thuật phức tạp." }
+  ],
+  "items": [
+    { "g": 1, "lv": "A1", "vi": "Cô ấy là giáo viên.", "q": "She ____ a teacher.",
+      "opts": ["is", "are", "be"], "a": 0,
+      "why": "Chủ ngữ ngôi ba số ít đi với <b>is</b>.", "lesson": 43 },
+
+    { "g": 1, "lv": "A2", "vi": "Trên bàn có hai quyển sách.", "q": "____ two books on the table.",
+      "opts": ["There is", "It has", "There are"], "a": 2,
+      "why": "<i>two books</i> số nhiều nên dùng <b>There are</b>. Tiếng Việt chỉ có một chữ \"có\" cho mọi trường hợp.", "lesson": 51 },
+
+    { "g": 1, "lv": "A2", "vi": "Học tiếng Anh thì khó.", "q": "____ difficult to learn English.",
+      "opts": ["That is", "It is", "Is"], "a": 1,
+      "why": "Câu tiếng Anh không được thiếu chủ ngữ — dùng chủ ngữ giả <b>It</b>.", "lesson": 52 },
+
+    { "g": 2, "lv": "A1", "vi": "Tôi cần một quả táo.", "q": "I need ____ apple.",
+      "opts": ["an", "a", "the"], "a": 0,
+      "why": "<i>apple</i> bắt đầu bằng nguyên âm nên dùng <b>an</b>.", "lesson": 20 },
+
+    { "g": 2, "lv": "A2", "vi": "Trong tủ lạnh không còn sữa.", "q": "There isn't ____ milk left.",
+      "opts": ["some", "many", "any"], "a": 2,
+      "why": "Câu phủ định dùng <b>any</b>. <i>many</i> chỉ đi với danh từ đếm được.", "lesson": 22 },
+
+    { "g": 2, "lv": "B1", "vi": "Cả hai phương án đều không ổn.", "q": "____ of the two options is acceptable.",
+      "opts": ["Both", "Neither", "None"], "a": 1,
+      "why": "<b>Neither</b> dùng cho đúng HAI thứ; <i>none</i> dùng cho ba thứ trở lên.", "lesson": 57 },
+
+    { "g": 3, "lv": "A1", "vi": "Anh ấy đi làm bằng xe buýt mỗi ngày.", "q": "He ____ to work by bus every day.",
+      "opts": ["goes", "go", "is going"], "a": 0,
+      "why": "Thói quen lặp lại dùng hiện tại đơn; ngôi ba số ít thêm <b>-es</b>.", "lesson": 1 },
+
+    { "g": 3, "lv": "A2", "vi": "Hôm qua tôi không đi làm.", "q": "I ____ to work yesterday.",
+      "opts": ["didn't went", "don't go", "didn't go"], "a": 2,
+      "why": "Sau <b>didn't</b> động từ về nguyên thể. <i>didn't went</i> là chia quá khứ hai lần.", "lesson": 3 },
+
+    { "g": 3, "lv": "B1", "vi": "Lúc tôi đến thì họ đã về rồi.", "q": "When I arrived, they ____ already left.",
+      "opts": ["were", "had", "have"], "a": 1,
+      "why": "Việc xảy ra TRƯỚC một mốc quá khứ khác dùng quá khứ hoàn thành <b>had + V3</b>.", "lesson": 5 },
+
+    { "g": 4, "lv": "A2", "vi": "Tôi sống ở đây được năm năm rồi.", "q": "I ____ here for five years.",
+      "opts": ["have lived", "live", "lived"], "a": 0,
+      "why": "Việc bắt đầu trong quá khứ và còn kéo dài đến nay dùng hiện tại hoàn thành.", "lesson": 6 },
+
+    { "g": 4, "lv": "B1", "vi": "Tôi biết cô ấy từ năm 2019.", "q": "I have known her ____ 2019.",
+      "opts": ["for", "from", "since"], "a": 2,
+      "why": "<b>since</b> đi với MỐC thời gian, <i>for</i> đi với KHOẢNG thời gian.", "lesson": 7 },
+
+    { "g": 4, "lv": "B1", "vi": "Cô ấy mệt vì đã chạy suốt hai tiếng.", "q": "She is tired because she ____ for two hours.",
+      "opts": ["is running", "has been running", "has run"], "a": 1,
+      "why": "Nhấn vào việc kéo dài liên tục và còn để lại hệ quả dùng hoàn thành tiếp diễn.", "lesson": 8 },
+
+    { "g": 5, "lv": "A2", "vi": "Nhìn mây kìa — trời sắp mưa.", "q": "Look at those clouds — it ____ rain.",
+      "opts": ["is going to", "will", "would"], "a": 0,
+      "why": "Có dấu hiệu nhìn thấy được trước mắt thì dùng <b>be going to</b>, không dùng <i>will</i>.", "lesson": 11 },
+
+    { "g": 5, "lv": "B1", "vi": "Tám giờ tối mai tôi đang bay.", "q": "At 8 p.m. tomorrow I ____ .",
+      "opts": ["will fly", "am flying", "will be flying"], "a": 2,
+      "why": "Việc đang diễn ra tại một thời điểm cụ thể trong tương lai dùng tương lai tiếp diễn.", "lesson": 13 },
+
+    { "g": 6, "lv": "A2", "vi": "Bộ phim chán quá.", "q": "The film was really ____ .",
+      "opts": ["bore", "boring", "bored"], "a": 1,
+      "why": "<b>-ing</b> tả TÍNH CHẤT của vật; <i>bored</i> tả CẢM GIÁC của người.", "lesson": 34 },
+
+    { "g": 6, "lv": "B1", "vi": "Phòng này rộng gấp đôi phòng kia.", "q": "This room is twice ____ that one.",
+      "opts": ["as big as", "bigger than", "the biggest"], "a": 0,
+      "why": "Cấu trúc gấp bội dùng <i>twice/three times</i> + <b>as … as</b>.", "lesson": 37 },
+
+    { "g": 6, "lv": "B2", "vi": "Bạn càng luyện tập, bạn càng giỏi.", "q": "____ you practise, the better you get.",
+      "opts": ["More", "The most", "The more"], "a": 2,
+      "why": "So sánh kép bắt buộc có <b>the</b> ở cả hai vế, và dùng dạng so sánh HƠN.", "lesson": 64 },
+
+    { "g": 7, "lv": "A2", "vi": "Cuộc họp bắt đầu lúc chín giờ.", "q": "The meeting starts ____ nine o'clock.",
+      "opts": ["on", "at", "in"], "a": 1,
+      "why": "<b>at</b> đi với giờ cụ thể, <i>on</i> với ngày, <i>in</i> với tháng và năm.", "lesson": 39 },
+
+    { "g": 7, "lv": "B1", "vi": "Cô ấy giỏi giải quyết vấn đề.", "q": "She is good ____ solving problems.",
+      "opts": ["at", "in", "for"], "a": 0,
+      "why": "<i>good</i> đi cố định với <b>at</b>. Nhóm giới từ cố định phải học thuộc theo cụm.", "lesson": 42 },
+
+    { "g": 8, "lv": "A2", "vi": "Tôi thích bơi.", "q": "I enjoy ____ .",
+      "opts": ["to swim", "swim", "swimming"], "a": 2,
+      "why": "Sau <i>enjoy</i> luôn là <b>V-ing</b>. Nhóm này phải nhớ theo từng động từ.", "lesson": 24 },
+
+    { "g": 8, "lv": "B1", "vi": "Giờ tôi đã quen dậy sớm.", "q": "I ____ getting up early now.",
+      "opts": ["use to", "am used to", "used to"], "a": 1,
+      "why": "<b>be used to + V-ing</b> là \"đã quen với\"; <i>used to + V</i> là \"trước đây hay\".", "lesson": 26 },
+
+    { "g": 8, "lv": "B2", "vi": "Hôm qua tôi đi cắt tóc.", "q": "I ____ yesterday.",
+      "opts": ["had my hair cut", "cut my hair", "had cut my hair"], "a": 0,
+      "why": "Người khác làm cho mình thì dùng <b>have + đồ vật + V3</b>. <i>I cut my hair</i> là TỰ cắt.", "lesson": 63 },
+
+    { "g": 9, "lv": "A2", "vi": "Bạn không cần đến sớm.", "q": "You ____ come early.",
+      "opts": ["mustn't", "shouldn't", "don't have to"], "a": 2,
+      "why": "<b>don't have to</b> là \"không cần\"; <i>mustn't</i> là \"cấm\" — hai nghĩa trái ngược nhau.", "lesson": 31 },
+
+    { "g": 9, "lv": "B1", "vi": "Đáng lẽ anh ấy phải gọi cho tôi.", "q": "He ____ me, but he forgot.",
+      "opts": ["must have called", "should have called", "should call"], "a": 1,
+      "why": "Việc đáng lẽ phải làm trong quá khứ mà không làm dùng <b>should have + V3</b>.", "lesson": 33 },
+
+    { "g": 10, "lv": "B1", "vi": "Nếu tôi có tiền, tôi sẽ mua nó.", "q": "If I ____ money, I would buy it.",
+      "opts": ["had", "have", "would have"], "a": 0,
+      "why": "Điều kiện loại 2 nói việc trái thực tế ở hiện tại: <b>If + V2, would + V</b>.", "lesson": 15 },
+
+    { "g": 10, "lv": "B2", "vi": "Nếu hôm qua tôi học bài thì giờ đã đỗ rồi.", "q": "If I ____ harder, I would have passed.",
+      "opts": ["studied", "would study", "had studied"], "a": 2,
+      "why": "Điều kiện loại 3 nói việc trái thực tế trong quá khứ: <b>If + had V3, would have V3</b>.", "lesson": 16 },
+
+    { "g": 11, "lv": "B1", "vi": "Người đàn ông sống bên cạnh là bác sĩ.", "q": "The man ____ lives next door is a doctor.",
+      "opts": ["whom", "who", "which"], "a": 1,
+      "why": "<b>who</b> thay cho người làm chủ ngữ của mệnh đề quan hệ.", "lesson": 45 },
+
+    { "g": 11, "lv": "B2", "vi": "Anh ấy hỏi tôi sống ở đâu.", "q": "He asked ____ .",
+      "opts": ["where I lived", "where did I live", "where do I live"], "a": 0,
+      "why": "Tường thuật xong thì câu hỏi hết là câu hỏi — về trật tự câu kể, bỏ <i>do/did</i>.", "lesson": 66 },
+
+    { "g": 12, "lv": "B2", "vi": "Mặc dù trời mưa, chúng tôi vẫn đi.", "q": "____ the rain, we went out.",
+      "opts": ["Although", "However", "Despite"], "a": 2,
+      "why": "<b>Despite</b> đi với danh từ; <i>although</i> đi với cả mệnh đề.", "lesson": 48 },
+
+    { "g": 12, "lv": "B2", "vi": "Người ta nói tòa lâu đài đã 800 năm tuổi.", "q": "The castle ____ over 800 years old.",
+      "opts": ["says to be", "is said to be", "is said that is"], "a": 1,
+      "why": "Dạng rút gọn là <b>S + be said + to V</b>; chữ <i>that</i> biến mất.", "lesson": 65 }
+  ]
+}

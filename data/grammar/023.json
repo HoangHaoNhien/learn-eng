@@ -1,0 +1,277 @@
+{
+  "id": 23,
+  "group": "Nhóm 2 · Danh từ, mạo từ & lượng từ",
+  "title": "Số nhiều bất quy tắc & sở hữu cách",
+  "subtitle": "Hai nhóm ngoại lệ ngược nhau làm người học chia động từ sai: people và children không có chữ s mà vẫn là số nhiều, còn news và economics có chữ s mà lại là số ít. Cộng thêm bẫy dấu nháy: Nam's, students', its hay it's.",
+  "meaning": "Dạng số nhiều của danh từ và cách nói của ai",
+  "rule": [
+    "Bất quy tắc: <em>man → men · child → children</em>",
+    "Người sở hữu: <em>Nam's book</em> · Vật: <em>the leg of the table</em>",
+    "Số nhiều sở hữu: dấu nháy SAU chữ s — <em>the students' books</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2–B1", "hot": true },
+    { "text": "people số nhiều · news số ít" },
+    { "text": "its ≠ it's" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [65, 73, 74, 89, 100],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Phần lớn danh từ chỉ cần thêm <b>-s</b>. Nhưng có hai nhóm ngoại lệ đi ngược nhau, và chính chúng làm người học chia động từ sai." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — hai nhóm ngược nhau:</b><br>• <b>Không có <i>s</i> nhưng SỐ NHIỀU:</b> <i>people, children, men, women, police</i> → <i>There <b>are</b> a lot of people</i> ✓<br>• <b>Có <i>s</i> nhưng SỐ ÍT:</b> <i>news, economics, mathematics, physics</i> → <i>The news <b>is</b> good</i> ✓<br>Nhìn vào chữ <i>s</i> mà đoán là sai." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — dấu nháy ở đâu:</b><br>• Số ít: <i>the student<b>'s</b> book</i> = sách của MỘT sinh viên<br>• Số nhiều: <i>the students<b>'</b> books</i> = sách của NHIỀU sinh viên<br>• <i>it<b>'s</b></i> = <i>it is</i> · <i><b>its</b></i> = của nó — <i>it's colour</i> ✗ là lỗi rất phổ biến." },
+        { "t": "h3", "text": "Quy tắc thêm -s" },
+        {
+          "t": "table",
+          "head": ["Đuôi danh từ", "Thêm", "Ví dụ"],
+          "rows": [
+            ["Hầu hết", "<code>-s</code>", "book → books · car → cars"],
+            ["Tận cùng <code>-s -sh -ch -x -o</code>", "<code>-es</code>", "box → boxes · watch → watches · tomato → tomatoes"],
+            ["Phụ âm + <code>y</code>", "<code>-ies</code>", "city → cities · baby → babies"],
+            ["Tận cùng <code>-f / -fe</code>", "<code>-ves</code>", "leaf → leaves · knife → knives"]
+          ]
+        },
+        { "t": "p", "html": "Về sở hữu: dùng <b>'s</b> cho <b>người và động vật</b> (<i>Nam's book, the dog's tail</i>), dùng <b>of</b> cho <b>vật</b> (<i>the leg of the table</i>). Với thời gian thì vẫn dùng <b>'s</b>: <i>today's news, a week's holiday</i>." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Nhóm", "Dạng", "Ví dụ"],
+          "rows": [
+            ["Bất quy tắc — đổi nguyên âm", "<code>man → men</code>", "man/men · woman/women · foot/feet · tooth/teeth"],
+            ["Bất quy tắc — đuôi <code>-en</code>", "<code>child → children</code>", "child/children · ox/oxen"],
+            ["Không đổi", "số ít = số nhiều", "fish · sheep · deer · series"],
+            ["Không có <code>s</code> nhưng SỐ NHIỀU", "động từ chia số nhiều", "people are · police are · children are"],
+            ["Có <code>s</code> nhưng SỐ ÍT", "động từ chia số ít", "news is · economics is · maths is"],
+            ["Luôn số nhiều (vật có hai phần)", "<code>a pair of…</code>", "trousers · glasses · scissors"],
+            ["Sở hữu — người số ít", "<code>'s</code>", "Nam's book · my sister's car"],
+            ["Sở hữu — người số nhiều có <code>s</code>", "dấu nháy SAU <code>s</code>", "the students' books"],
+            ["Sở hữu — số nhiều bất quy tắc", "<code>'s</code>", "the children's toys · the men's room"],
+            ["Sở hữu — vật", "<code>of</code>", "the leg of the table"],
+            ["Sở hữu — thời gian", "<code>'s</code>", "today's news · a week's holiday"],
+            ["<code>its</code> và <code>it's</code>", "của nó · nó là", "its colour · it's cold"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dòng áp chót là lỗi chính tả phổ biến nhất tiếng Anh:</b> <b>its</b> = của nó (không có dấu nháy), <b>it's</b> = <i>it is</i> hoặc <i>it has</i>. Mẹo: thử thay bằng <i>it is</i> — xuôi thì viết <i>it's</i>, không xuôi thì viết <i>its</i>." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "There are a lot of people here.", "vi": "Ở đây đông người quá.", "note": "BẪY SỐ MỘT: <i>people</i> là SỐ NHIỀU dù không có <i>s</i>. Xem [Khung 100]." },
+            { "en": "The news is good.", "vi": "Tin tốt đấy.", "note": "<i>news</i> có <i>s</i> nhưng chia SỐ ÍT." },
+            { "en": "The police are investigating.", "vi": "Cảnh sát đang điều tra.", "note": "<i>police</i> luôn chia SỐ NHIỀU — <i>The police is</i> ✗." },
+            { "en": "My children are at school.", "vi": "Các con tôi đang ở trường.", "note": "<i>child → children</i>, không phải <i>childs</i> ✗." },
+            { "en": "I need two knives.", "vi": "Tôi cần hai con dao.", "note": "Tận cùng <i>-fe</i> đổi thành <b>-ves</b>: <i>knife → knives</i>." },
+            { "en": "How many cities have you visited?", "vi": "Bạn đã đến bao nhiêu thành phố?", "note": "Phụ âm + <i>y</i> đổi thành <b>-ies</b>. Xem [Khung 65]." },
+            { "en": "This is Nam's book.", "vi": "Đây là sách của Nam.", "note": "Người sở hữu thì dùng <b>'s</b>. Xem [Khung 73]." },
+            { "en": "The students' books are on the desk.", "vi": "Sách của các sinh viên ở trên bàn.", "note": "BẪY SỐ HAI: số nhiều có <i>s</i> thì dấu nháy đứng SAU." },
+            { "en": "The children's toys are everywhere.", "vi": "Đồ chơi của bọn trẻ ở khắp nơi.", "note": "Số nhiều BẤT QUY TẮC thì vẫn dùng <b>'s</b> bình thường." },
+            { "en": "The leg of the table is broken.", "vi": "Chân bàn bị gãy.", "note": "Vật thì dùng <b>of</b>, không dùng <i>'s</i>." },
+            { "en": "I like its colour.", "vi": "Tôi thích màu của nó.", "note": "<b>its</b> = của nó, KHÔNG có dấu nháy. <i>it's colour</i> ✗." },
+            { "en": "I need a new pair of glasses.", "vi": "Tôi cần một cái kính mới.", "note": "Vật có hai phần thì luôn SỐ NHIỀU — đếm bằng <b>a pair of</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "👥", "title": "Nói về nhiều người", "text": "<i>There are a lot of people.</i> Chia số nhiều." },
+            { "icon": "📰", "title": "Nói về tin tức", "text": "<i>The news is good.</i> Chia số ít dù có <i>s</i>." },
+            { "icon": "👤", "title": "Nói của ai", "text": "<i>Nam's book</i> — người thì dùng <b>'s</b>. Xem [Khung 73]." },
+            { "icon": "🪑", "title": "Nói bộ phận của vật", "text": "<i>the leg of the table</i> — vật thì dùng <b>of</b>." },
+            { "icon": "👓", "title": "Vật có hai phần", "text": "<i>a pair of glasses</i> · <i>two pairs of trousers</i>" },
+            { "icon": "🚫", "title": "Đừng viết nhầm", "text": "<i>its</i> = của nó · <i>it's</i> = nó là. Thử thay bằng <i>it is</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Số nhiều bất quy tắc & ngoại lệ",
+              "items": [
+                { "w": "people", "vi": "người, mọi người", "ex": "There are a lot of people here.", "exvi": "Ở đây đông người quá.", "note": "SỐ NHIỀU dù không có <i>s</i>. <i>peoples</i> chỉ dùng cho “các dân tộc”." },
+                { "w": "children", "vi": "trẻ con", "ex": "My children are at school.", "exvi": "Các con tôi đang ở trường.", "note": "<i>child → children</i>. <i>childs</i> ✗." },
+                { "w": "men / women", "vi": "đàn ông / phụ nữ", "ex": "Two men were waiting.", "exvi": "Hai người đàn ông đang chờ.", "note": "<i>man → men</i>, <i>woman → women</i> — đổi nguyên âm." },
+                { "w": "feet / teeth", "vi": "bàn chân / răng", "ex": "My feet hurt.", "exvi": "Chân tôi đau.", "note": "<i>foot → feet</i>, <i>tooth → teeth</i>." },
+                { "w": "police", "vi": "cảnh sát", "ex": "The police are investigating.", "exvi": "Cảnh sát đang điều tra.", "note": "LUÔN chia số nhiều. <i>The police is</i> ✗." },
+                { "w": "news", "vi": "tin tức", "ex": "The news is good.", "exvi": "Tin tốt đấy.", "note": "Có <i>s</i> nhưng chia SỐ ÍT. Xem [Ngữ pháp 19]." },
+                { "w": "economics / maths", "vi": "kinh tế học / toán", "ex": "Economics is my favourite subject.", "exvi": "Kinh tế học là môn tôi thích nhất.", "note": "Tên môn học có <i>s</i> nhưng chia SỐ ÍT." },
+                { "w": "fish / sheep", "vi": "cá / cừu", "ex": "I caught three fish.", "exvi": "Tôi bắt được ba con cá.", "note": "Số ít và số nhiều GIỐNG HỆT nhau." },
+                { "w": "knives / leaves", "vi": "dao / lá", "ex": "I need two knives.", "exvi": "Tôi cần hai con dao.", "note": "Tận cùng <i>-f/-fe</i> đổi thành <b>-ves</b>." },
+                { "w": "cities / babies", "vi": "thành phố / em bé", "ex": "How many cities have you visited?", "exvi": "Bạn đến bao nhiêu thành phố rồi?", "note": "Phụ âm + <i>y</i> đổi thành <b>-ies</b>." },
+                { "w": "tomatoes / potatoes", "vi": "cà chua / khoai tây", "ex": "Two kilos of tomatoes, please.", "exvi": "Cho tôi hai cân cà chua.", "note": "Tận cùng <i>-o</i> thường thêm <b>-es</b>." },
+                { "w": "a pair of glasses", "vi": "một cái kính", "ex": "I need a new pair of glasses.", "exvi": "Tôi cần một cái kính mới.", "note": "Vật có hai phần luôn SỐ NHIỀU: <i>glasses, trousers, scissors</i>." }
+              ]
+            },
+            {
+              "title": "Sở hữu cách & đại từ sở hữu",
+              "items": [
+                { "w": "Nam's book", "vi": "sách của Nam", "ex": "This is Nam's book.", "exvi": "Đây là sách của Nam.", "note": "Người sở hữu thì dùng <b>'s</b>. Xem [Khung 73]." },
+                { "w": "my sister's car", "vi": "xe của chị tôi", "ex": "That's my sister's car.", "exvi": "Đó là xe của chị tôi." },
+                { "w": "the students' books", "vi": "sách của các sinh viên", "ex": "The students' books are here.", "exvi": "Sách của các sinh viên ở đây.", "note": "BẪY SỐ HAI: số nhiều có <i>s</i> thì dấu nháy đứng SAU." },
+                { "w": "the children's toys", "vi": "đồ chơi của bọn trẻ", "ex": "The children's toys are everywhere.", "exvi": "Đồ chơi của bọn trẻ khắp nơi.", "note": "Số nhiều BẤT QUY TẮC thì vẫn dùng <b>'s</b>." },
+                { "w": "the leg of the table", "vi": "chân bàn", "ex": "The leg of the table is broken.", "exvi": "Chân bàn bị gãy.", "note": "VẬT thì dùng <b>of</b>, không dùng <i>'s</i>." },
+                { "w": "today's news", "vi": "tin hôm nay", "ex": "Have you seen today's news?", "exvi": "Bạn xem tin hôm nay chưa?", "note": "Thời gian vẫn dùng <b>'s</b> bình thường." },
+                { "w": "a week's holiday", "vi": "kỳ nghỉ một tuần", "ex": "I'm taking a week's holiday.", "exvi": "Tôi nghỉ phép một tuần." },
+                { "w": "its", "vi": "của nó", "ex": "I like its colour.", "exvi": "Tôi thích màu của nó.", "note": "KHÔNG có dấu nháy. Lỗi chính tả phổ biến nhất tiếng Anh." },
+                { "w": "it's", "vi": "nó là, nó đã", "ex": "It's cold today.", "exvi": "Hôm nay lạnh.", "note": "= <i>it is</i> hoặc <i>it has</i>. Mẹo: thử thay bằng <i>it is</i>." },
+                { "w": "their / there / they're", "vi": "của họ / ở đó / họ là", "ex": "Their books are there.", "exvi": "Sách của họ ở đằng kia.", "note": "Ba từ ĐỌC GIỐNG HỆT nhau — chỉ phân biệt được qua chính tả. Xem [Khung 100]." },
+                { "w": "mine / yours / theirs", "vi": "của tôi / của bạn / của họ", "ex": "That book is mine.", "exvi": "Quyển sách đó là của tôi.", "note": "Đại từ sở hữu KHÔNG có dấu nháy: <i>their's</i> ✗." },
+                { "w": "a friend of mine", "vi": "một người bạn của tôi", "ex": "He's a friend of mine.", "exvi": "Anh ấy là bạn tôi.", "note": "Cấu trúc kép — <i>a my friend</i> ✗. Xem [Khung 73]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "There <b>is</b> a lot of people here.", "right": "There <b>are</b> a lot of people here.", "why": "BẪY SỐ MỘT: <i>people</i> là SỐ NHIỀU dù không có chữ <i>s</i>." },
+            { "wrong": "The news <b>are</b> good.", "right": "The news <b>is</b> good.", "why": "Ngược lại: <i>news</i> có <i>s</i> nhưng chia SỐ ÍT. Cùng nhóm với <i>economics, maths</i>." },
+            { "wrong": "The police <b>is</b> investigating.", "right": "The police <b>are</b> investigating.", "why": "<i>police</i> LUÔN chia số nhiều, không bao giờ số ít." },
+            { "wrong": "My <b>childs</b> are at school.", "right": "My <b>children</b> are at school.", "why": "<i>child → children</i> — bất quy tắc, phải thuộc riêng." },
+            { "wrong": "I need two <b>knifes</b>.", "right": "I need two <b>knives</b>.", "why": "Tận cùng <i>-f/-fe</i> đổi thành <b>-ves</b>: <i>knife → knives</i>, <i>leaf → leaves</i>." },
+            { "wrong": "the <b>student's</b> books <i>(nhiều sinh viên)</i>", "right": "the <b>students'</b> books", "why": "BẪY SỐ HAI: số nhiều có <i>s</i> thì dấu nháy đứng SAU chữ <i>s</i>." },
+            { "wrong": "the <b>childrens'</b> toys", "right": "the <b>children's</b> toys", "why": "<i>children</i> đã là số nhiều bất quy tắc nên vẫn dùng <b>'s</b> bình thường." },
+            { "wrong": "the book <b>of Nam</b>", "right": "<b>Nam's</b> book", "why": "NGƯỜI sở hữu thì dùng <b>'s</b>. Dùng <i>of</i> chỉ hợp với vật." },
+            { "wrong": "I like <b>it's</b> colour.", "right": "I like <b>its</b> colour.", "why": "<b>its</b> = của nó (không dấu nháy), <b>it's</b> = <i>it is</i>. Thử thay bằng <i>it is</i> để kiểm tra." },
+            { "wrong": "He's <b>a my friend</b>.", "right": "He's <b>a friend of mine</b>.", "why": "Không ghép mạo từ với tính từ sở hữu. Dùng cấu trúc kép <i>a … of mine</i>. Xem [Khung 73]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Nhóm", "Chia động từ", "Ví dụ"],
+          "rows": [
+            ["<code>people, children, police</code>", "SỐ NHIỀU dù không có s", "There are a lot of people."],
+            ["<code>news, economics, maths</code>", "SỐ ÍT dù có s", "The news is good."],
+            ["<code>fish, sheep, series</code>", "Theo ngữ cảnh — không đổi dạng", "three fish · one fish"],
+            ["<code>glasses, trousers</code>", "LUÔN số nhiều", "My glasses are here."],
+            ["<code>'s</code>", "Người, động vật, thời gian", "Nam's book · today's news"],
+            ["<code>of</code>", "Vật", "the leg of the table"],
+            ["<code>its</code> / <code>it's</code>", "Của nó / nó là", "its colour · it's cold"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: chia động từ nào, dùng dấu nháy ở đâu?" },
+        {
+          "t": "tree",
+          "q": "Danh từ của bạn thuộc nhóm nào?",
+          "nodes": [
+            { "if": "Là people, children, men, women, police", "then": "Chia SỐ NHIỀU", "ex": "There are a lot of people." },
+            { "if": "Là news, economics, mathematics, physics", "then": "Chia SỐ ÍT", "ex": "The news is good." },
+            { "if": "Sở hữu của một người", "then": "'s trước chữ s", "ex": "the student's book" },
+            { "if": "Sở hữu của nhiều người, danh từ đã có s", "then": "dấu nháy SAU chữ s", "ex": "the students' books" },
+            { "if": "Sở hữu của số nhiều bất quy tắc", "then": "'s bình thường", "ex": "the children's toys" },
+            { "if": "Sở hữu của một vật", "then": "of", "ex": "the leg of the table" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ bất quy tắc" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "book → books", "vi": "Đơn giản nhất — chỉ thêm s" },
+            { "en": "box → boxes", "vi": "Thêm -es sau s, sh, ch, x, o" },
+            { "en": "city → cities", "vi": "Đổi y thành -ies" },
+            { "en": "knife → knives", "vi": "Đổi f/fe thành -ves" },
+            { "en": "child → children", "vi": "Bất quy tắc hoàn toàn — phải thuộc" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Luật số nhiều và sở hữu xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 100, "why": "There is / There are — chọn is hay are phụ thuộc hoàn toàn vào nhóm danh từ này." },
+            { "id": 73, "why": "This is… — giới thiệu người, dùng dày đặc sở hữu cách và a friend of mine." },
+            { "id": 65, "why": "How much / How many…? — đếm số nhiều, kèm các dạng bất quy tắc." },
+            { "id": 89, "why": "What a…! — câu cảm thán với danh từ số nhiều thì bỏ chữ a." },
+            { "id": 74, "why": "I'm from… — tên riêng và dạng sở hữu khi giới thiệu bản thân." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Viết dạng số nhiều hoặc chia động từ" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Ở đây đông người quá.", "blank": "There __________ a lot of people here.", "a": "are" },
+            { "vi": "Tin tốt đấy.", "blank": "The news __________ good.", "a": "is" },
+            { "vi": "Cảnh sát đang điều tra.", "blank": "The police __________ investigating.", "a": "are" },
+            { "vi": "Các con tôi đang ở trường.", "blank": "My __________ (child) are at school.", "a": "children" },
+            { "vi": "Tôi cần hai con dao.", "blank": "I need two __________ (knife).", "a": "knives" },
+            { "vi": "Bạn đến bao nhiêu thành phố rồi?", "blank": "How many __________ (city) have you visited?", "a": "cities" },
+            { "vi": "Chân tôi đau.", "blank": "My __________ (foot) hurt.", "a": "feet" },
+            { "vi": "Tôi bắt được ba con cá.", "blank": "I caught three __________ (fish).", "a": "fish — không đổi dạng" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng sở hữu đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Đây là sách của Nam.", "blank": "This is __________ book.  (Nam's / the book of Nam)", "a": "Nam's — người thì dùng 's" },
+            { "vi": "Sách của các sinh viên.", "blank": "the __________ books  (student's / students')", "a": "students' — số nhiều, dấu nháy sau s" },
+            { "vi": "Đồ chơi của bọn trẻ.", "blank": "the __________ toys  (children's / childrens')", "a": "children's" },
+            { "vi": "Tôi thích màu của nó.", "blank": "I like __________ colour.  (its / it's)", "a": "its — không có dấu nháy" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Ở đây đông người quá.", "a": "There are a lot of people here." },
+            { "vi": "2. Sách của các sinh viên ở trên bàn.", "a": "The students' books are on the desk." },
+            { "vi": "3. Chân bàn bị gãy.", "a": "The leg of the table is broken." },
+            { "vi": "4. Anh ấy là bạn tôi.", "a": "He's a friend of mine." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Đừng nhìn chữ <i>s</i> mà đoán:</b> <i>people, children, police</i> không có <i>s</i> mà số nhiều; <i>news, economics</i> có <i>s</i> mà số ít.",
+            "<b>Mẹo <i>its</i> / <i>it's</i>:</b> thử thay bằng <i>it is</i>. Xuôi thì viết <i>it's</i>, không xuôi thì viết <i>its</i>.",
+            "<b>Dấu nháy theo chữ s:</b> danh từ đã có <i>s</i> thì nháy đứng SAU (<i>students'</i>); chưa có thì nháy đứng TRƯỚC (<i>student's</i>).",
+            "<b>Người dùng <i>'s</i>, vật dùng <i>of</i>:</b> <i>Nam's book</i> nhưng <i>the leg of the table</i>. Thời gian cũng dùng <i>'s</i>.",
+            "<b>Vật có hai phần luôn số nhiều:</b> <i>glasses, trousers, scissors</i> — đếm bằng <i>a pair of</i>.",
+            "<b>Bài tập 3 phút:</b> viết năm câu <i>There are…</i> về người và đồ vật quanh bạn, rồi năm câu sở hữu — ba câu dùng <i>'s</i>, hai câu dùng <i>of</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

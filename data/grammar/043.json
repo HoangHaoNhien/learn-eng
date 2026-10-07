@@ -1,0 +1,277 @@
+{
+  "id": 43,
+  "group": "Nhóm 1 · Nền móng câu tiếng Anh",
+  "title": "Trật tự từ cơ bản & vị trí trạng ngữ",
+  "subtitle": "S + V + O là bộ khung không được phá. Bẫy lớn nhất của người Việt là chen trạng từ vào GIỮA động từ và tân ngữ — I like very much this song ✗ — vì tiếng Việt cho phép đặt “rất thích” ngay trước đối tượng.",
+  "meaning": "Thứ tự các thành phần trong câu tiếng Anh",
+  "rule": [
+    "<em>S + V + O</em> — không tách V khỏi O",
+    "Cuối câu: <em>cách thức → nơi chốn → thời gian</em>",
+    "Trạng từ tần suất: TRƯỚC động từ thường, SAU <em>be</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2–B1", "hot": true },
+    { "text": "Không chen gì giữa V và O" },
+    { "text": "Nơi chốn trước, thời gian sau" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [67, 92, 93, 96, 99],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Tiếng Anh dựa vào <b>trật tự từ</b> để báo ai làm gì với ai. Tiếng Việt cũng S-V-O nên phần khung chính không khó; cái khó nằm ở chỗ <b>đặt trạng từ vào đâu</b>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — đừng chen gì vào giữa V và O:</b><br><i>I like <b>very much</b> this song</i> ✗<br><i>I like this song <b>very much</b></i> ✓<br><i>I speak <b>well</b> English</i> ✗ → <i>I speak English <b>well</b></i> ✓<br>Động từ và tân ngữ của nó <b>dính liền nhau</b>. Trạng từ bị đẩy ra sau tân ngữ." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — cuối câu theo thứ tự “cách thức → nơi chốn → thời gian”:</b><br><i>I go <b>every day to school</b></i> ✗<br><i>I go <b>to school every day</b></i> ✓<br>Nhớ ba chữ <b>C-N-T</b>: Cách thức, Nơi chốn, Thời gian. Thời gian luôn đứng chót (hoặc được đẩy hẳn lên đầu câu)." },
+        { "t": "h3", "text": "Bốn luật trật tự phải thuộc" },
+        {
+          "t": "table",
+          "head": ["Luật", "Nội dung", "Ví dụ"],
+          "rows": [
+            ["Khung chính", "S + V + O, không tách rời", "I like this song."],
+            ["Cuối câu", "Cách thức → Nơi chốn → Thời gian", "She sang beautifully at the party last night."],
+            ["Tần suất", "Trước động từ thường, sau <code>be</code>", "I always go. · I am always late."],
+            ["Đẩy lên đầu", "Trạng ngữ thời gian + dấu phẩy", "Last night, I went out."]
+          ]
+        },
+        { "t": "p", "html": "Luật thứ ba đã nói kỹ ở [Ngữ pháp 38]; ở đây ta lo phần còn lại của câu." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Thành phần", "Vị trí", "Ví dụ"],
+          "rows": [
+            ["Chủ ngữ", "Đầu câu", "<b>I</b> like this song."],
+            ["Động từ", "Ngay sau chủ ngữ", "I <b>like</b> this song."],
+            ["Tân ngữ", "Ngay sau động từ — không tách", "I like <b>this song</b>."],
+            ["Hai tân ngữ", "Người trước, vật sau", "He gave <b>me a book</b>."],
+            ["Hai tân ngữ có <code>to</code>", "Vật trước, người sau", "He gave <b>a book to me</b>."],
+            ["Trạng từ cách thức", "Sau tân ngữ", "I speak English <b>well</b>."],
+            ["Trạng ngữ nơi chốn", "Sau cách thức", "She sang <b>at the party</b>."],
+            ["Trạng ngữ thời gian", "Chót, hoặc đầu câu + phẩy", "… <b>last night</b>. · <b>Last night,</b> …"],
+            ["Trạng từ tần suất", "Trước V thường, sau <code>be</code>", "I <b>always</b> go. · I am <b>always</b> late."],
+            ["Tính từ", "Trước danh từ", "a <b>new</b> car"],
+            ["<code>enough</code>", "SAU tính từ, TRƯỚC danh từ", "big <b>enough</b> · <b>enough</b> money"],
+            ["<code>also</code> / <code>too</code>", "<code>also</code> giữa câu · <code>too</code> cuối câu", "I <b>also</b> went. · I went <b>too</b>."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Chú ý <i>enough</i>:</b> nó là từ duy nhất đứng <b>SAU</b> tính từ — <i>old enough</i>, <i>big enough</i> — nhưng lại đứng <b>TRƯỚC</b> danh từ — <i>enough money</i>. <i>enough old</i> ✗." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I like this song very much.", "vi": "Tôi rất thích bài này.", "note": "BẪY SỐ MỘT: <i>I like very much this song</i> ✗." },
+            { "en": "I speak English well.", "vi": "Tôi nói tiếng Anh tốt.", "note": "Trạng từ cách thức đứng SAU tân ngữ." },
+            { "en": "I go to school every day.", "vi": "Ngày nào tôi cũng đi học.", "note": "BẪY SỐ HAI: nơi chốn trước, thời gian sau." },
+            { "en": "She sang beautifully at the party last night.", "vi": "Tối qua cô ấy hát rất hay ở bữa tiệc.", "note": "Đủ ba phần: cách thức → nơi chốn → thời gian." },
+            { "en": "Last night, I went out with friends.", "vi": "Tối qua tôi đi chơi với bạn.", "note": "Trạng ngữ thời gian đẩy lên đầu, có dấu phẩy. Xem [Ngữ pháp 50]." },
+            { "en": "I always have coffee in the morning.", "vi": "Sáng nào tôi cũng uống cà phê.", "note": "Tần suất TRƯỚC động từ thường. Xem [Ngữ pháp 38]." },
+            { "en": "I am always late.", "vi": "Tôi lúc nào cũng muộn.", "note": "Nhưng SAU động từ <b>be</b>." },
+            { "en": "He gave me a book.", "vi": "Anh ấy đưa tôi một quyển sách.", "note": "Hai tân ngữ: NGƯỜI trước, VẬT sau." },
+            { "en": "He gave a book to me.", "vi": "Anh ấy đưa một quyển sách cho tôi.", "note": "Có <i>to</i> thì đảo lại: VẬT trước, NGƯỜI sau." },
+            { "en": "He's old enough to drive.", "vi": "Nó đủ tuổi lái xe rồi.", "note": "<b>enough</b> đứng SAU tính từ. <i>enough old</i> ✗." },
+            { "en": "I don't have enough money.", "vi": "Tôi không đủ tiền.", "note": "Nhưng đứng TRƯỚC danh từ." },
+            { "en": "When I was young, I lived in Hue.", "vi": "Hồi trẻ tôi sống ở Huế.", "note": "Mệnh đề thời gian đứng đầu thì có dấu phẩy. Xem [Khung 96]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🧱", "title": "Câu kể bình thường", "text": "S + V + O, không chen gì vào giữa V và O." },
+            { "icon": "📍", "title": "Thêm nơi chốn và lúc", "text": "Nơi chốn trước, thời gian sau: <i>to school every day</i>." },
+            { "icon": "🔁", "title": "Nói tần suất", "text": "<i>always, often</i> trước V thường, sau <i>be</i>." },
+            { "icon": "⏮", "title": "Nhấn vào thời điểm", "text": "Đẩy lên đầu câu kèm dấu phẩy: <i>Last night, …</i>" },
+            { "icon": "🎁", "title": "Cho ai cái gì", "text": "<i>give me a book</i> hoặc <i>give a book to me</i>." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Đừng bê thẳng trật tự tiếng Việt: <i>rất thích</i> → không đứng trước tân ngữ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một mục ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi mục đó có bẫy vị trí." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Trạng từ và chỗ đứng của chúng",
+              "items": [
+                { "w": "very much", "vi": "rất", "ex": "I like this song very much.", "exvi": "Tôi rất thích bài này.", "note": "BẪY SỐ MỘT: đứng CUỐI câu, không chen giữa V và O." },
+                { "w": "a lot", "vi": "nhiều, lắm", "ex": "I miss her a lot.", "exvi": "Tôi nhớ cô ấy lắm.", "note": "Cũng đứng cuối, không đứng trước tân ngữ." },
+                { "w": "well", "vi": "giỏi, tốt", "ex": "I speak English well.", "exvi": "Tôi nói tiếng Anh tốt.", "note": "<i>I speak well English</i> ✗." },
+                { "w": "quickly", "vi": "nhanh", "ex": "She finished the work quickly.", "exvi": "Cô ấy làm xong việc rất nhanh." },
+                { "w": "carefully", "vi": "cẩn thận", "ex": "Read the contract carefully.", "exvi": "Đọc hợp đồng cho kỹ." },
+                { "w": "always", "vi": "luôn luôn", "ex": "I always have coffee.", "exvi": "Tôi luôn uống cà phê.", "note": "TRƯỚC động từ thường, SAU <i>be</i>. Xem [Ngữ pháp 38]." },
+                { "w": "often", "vi": "thường", "ex": "We often eat out.", "exvi": "Bọn tôi hay ăn ngoài." },
+                { "w": "sometimes", "vi": "thỉnh thoảng", "ex": "Sometimes I work late.", "exvi": "Thỉnh thoảng tôi làm muộn.", "note": "Từ tần suất hiếm hoi được đứng cả ở ĐẦU câu." },
+                { "w": "also", "vi": "cũng", "ex": "I also went there.", "exvi": "Tôi cũng đến đó.", "note": "<b>also</b> đứng GIỮA câu, không đứng cuối." },
+                { "w": "too", "vi": "cũng", "ex": "I went there too.", "exvi": "Tôi cũng đến đó.", "note": "<b>too</b> đứng CUỐI câu — ngược với <i>also</i>." },
+                { "w": "enough", "vi": "đủ", "ex": "He's old enough to drive.", "exvi": "Nó đủ tuổi lái xe.", "note": "SAU tính từ nhưng TRƯỚC danh từ: <i>enough money</i>." },
+                { "w": "only", "vi": "chỉ", "ex": "I only have ten minutes.", "exvi": "Tôi chỉ có mười phút.", "note": "Đặt ngay TRƯỚC thứ muốn nhấn — đổi chỗ là đổi nghĩa." }
+              ]
+            },
+            {
+              "title": "Trạng ngữ nơi chốn, thời gian & từ mở đầu",
+              "items": [
+                { "w": "at home", "vi": "ở nhà", "ex": "I work at home on Fridays.", "exvi": "Thứ Sáu tôi làm ở nhà.", "note": "Nơi chốn đứng TRƯỚC thời gian. Xem [Ngữ pháp 40]." },
+                { "w": "to school", "vi": "đến trường", "ex": "I go to school every day.", "exvi": "Ngày nào tôi cũng đi học.", "note": "BẪY SỐ HAI: <i>go every day to school</i> ✗." },
+                { "w": "in the office", "vi": "ở văn phòng", "ex": "She's in the office now.", "exvi": "Giờ cô ấy ở văn phòng." },
+                { "w": "every day", "vi": "mỗi ngày", "ex": "I go to the gym every day.", "exvi": "Ngày nào tôi cũng đi tập.", "note": "Thời gian đứng CHÓT câu. Không có giới từ. Xem [Ngữ pháp 39]." },
+                { "w": "last night", "vi": "tối qua", "ex": "Last night, I went out.", "exvi": "Tối qua tôi đi chơi.", "note": "Đẩy lên đầu câu thì phải có dấu phẩy." },
+                { "w": "at six", "vi": "lúc sáu giờ", "ex": "I'm meeting him at six.", "exvi": "Sáu giờ tôi gặp anh ấy. Xem [Khung 92]." },
+                { "w": "yesterday", "vi": "hôm qua", "ex": "I saw him yesterday.", "exvi": "Hôm qua tôi gặp anh ấy." },
+                { "w": "then", "vi": "rồi, sau đó", "ex": "Then I went home.", "exvi": "Rồi tôi về nhà.", "note": "Đứng đầu câu để nối chuỗi sự việc." },
+                { "w": "after that", "vi": "sau đó", "ex": "After that, we had dinner.", "exvi": "Sau đó bọn tôi ăn tối." },
+                { "w": "first of all", "vi": "trước hết", "ex": "First of all, thank you.", "exvi": "Trước hết, xin cảm ơn." },
+                { "w": "in my opinion", "vi": "theo tôi", "ex": "In my opinion, it's too late.", "exvi": "Theo tôi thì muộn quá rồi.", "note": "Trạng ngữ quan điểm đứng đầu câu, có dấu phẩy." },
+                { "w": "to be honest", "vi": "nói thật thì", "ex": "To be honest, I'm tired.", "exvi": "Nói thật thì tôi mệt rồi." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I like <b>very much</b> this song.", "right": "I like this song <b>very much</b>.", "why": "BẪY SỐ MỘT: không chen trạng từ vào giữa động từ và tân ngữ." },
+            { "wrong": "I speak <b>well</b> English.", "right": "I speak English <b>well</b>.", "why": "Cùng một lỗi — trạng từ cách thức đứng sau tân ngữ." },
+            { "wrong": "I go <b>every day to school</b>.", "right": "I go <b>to school every day</b>.", "why": "BẪY SỐ HAI: nơi chốn trước, thời gian sau." },
+            { "wrong": "I <b>am always</b> go to bed late.", "right": "I <b>always</b> go to bed late.", "why": "Thừa <i>am</i>. Động từ thường thì không mượn <i>be</i>. Xem [Ngữ pháp 01]." },
+            { "wrong": "I <b>go always</b> to bed late.", "right": "I <b>always go</b> to bed late.", "why": "Tần suất đứng TRƯỚC động từ thường. Xem [Ngữ pháp 38]." },
+            { "wrong": "He's <b>enough old</b> to drive.", "right": "He's <b>old enough</b> to drive.", "why": "<b>enough</b> đứng SAU tính từ — từ duy nhất làm vậy." },
+            { "wrong": "I <b>went there also</b>.", "right": "I <b>also went</b> there. / I went there <b>too</b>.", "why": "<b>also</b> ở giữa câu, <b>too</b> ở cuối câu." },
+            { "wrong": "He gave <b>a book me</b>.", "right": "He gave <b>me a book</b>. / He gave <b>a book to me</b>.", "why": "Hai tân ngữ: người trước vật sau, hoặc vật trước rồi <i>to</i> + người." },
+            { "wrong": "<b>Last night I went out</b> — thiếu phẩy.", "right": "<b>Last night, I went out.</b>", "why": "Trạng ngữ đẩy lên đầu câu thì có dấu phẩy. Xem [Ngữ pháp 50]." },
+            { "wrong": "<b>Very I like it.</b>", "right": "<b>I like it very much.</b>", "why": "<i>very</i> không đứng trước động từ. Bổ nghĩa cho động từ phải dùng <b>very much</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>also</code> / <code>too</code>", "Giữa câu / cuối câu", "I also went. ≠ I went too."],
+            ["<code>very</code> / <code>very much</code>", "Bổ nghĩa tính từ / bổ nghĩa động từ", "very good ≠ like it very much"],
+            ["<code>old enough</code> / <code>enough money</code>", "Sau tính từ / trước danh từ", "old enough ≠ enough old"],
+            ["<code>give me a book</code>", "Người trước, vật sau", "He gave me a book."],
+            ["<code>give a book to me</code>", "Vật trước, rồi to + người", "He gave a book to me."],
+            ["<code>I only have ten minutes</code>", "<code>only</code> nhấn vào thứ ngay sau nó", "only have ≠ only ten minutes"],
+            ["Câu hỏi", "Đảo trợ động từ lên trước chủ ngữ", "Do you like it? Xem [Ngữ pháp 44]."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: đặt trạng từ vào đâu?" },
+        {
+          "t": "tree",
+          "q": "Bạn muốn thêm một trạng từ hoặc trạng ngữ vào câu — nó đứng ở đâu?",
+          "nodes": [
+            { "if": "Nói tần suất (always, often, never)", "then": "Trước V thường, sau be", "ex": "I always go. · I am always late." },
+            { "if": "Nói cách thức (well, quickly, carefully)", "then": "Sau tân ngữ, cuối câu", "ex": "I speak English well." },
+            { "if": "Nói nơi chốn và thời gian cùng lúc", "then": "Nơi chốn trước, thời gian sau", "ex": "I go to school every day." },
+            { "if": "Muốn nhấn vào thời điểm", "then": "Đẩy lên đầu câu + dấu phẩy", "ex": "Last night, I went out." },
+            { "if": "Muốn nhấn mức độ của động từ", "then": "very much / a lot ở cuối câu", "ex": "I like it very much." },
+            { "if": "Nói quan điểm của mình", "then": "Đầu câu + dấu phẩy", "ex": "In my opinion, it's too late." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ thích — vị trí trạng từ không đổi" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I don't really like it.", "vi": "Nhẹ nhất — không thích lắm" },
+            { "en": "It's OK.", "vi": "Tạm được" },
+            { "en": "I quite like it.", "vi": "Cũng thích" },
+            { "en": "I like it a lot.", "vi": "Thích nhiều" },
+            { "en": "I like it very much.", "vi": "Mạnh nhất — rất thích" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Trật tự từ chi phối mọi câu, nhưng rõ nhất ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 92, "why": "I'm meeting him at six — trạng ngữ thời gian đứng cuối câu." },
+            { "id": 96, "why": "When I was…, I + V2 — mệnh đề thời gian đứng đầu kèm dấu phẩy." },
+            { "id": 99, "why": "It takes… — trật tự It takes + người + khoảng + to V." },
+            { "id": 93, "why": "I used to… — vị trí trạng từ tần suất trong câu kể chuyện cũ." },
+            { "id": 67, "why": "Do you know + wh-…? — câu hỏi gián tiếp quay về trật tự S + V." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Sắp xếp lại cho đúng trật tự" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi rất thích bài này.", "blank": "I / very much / this song / like  →  __________", "a": "I like this song very much." },
+            { "vi": "Tôi nói tiếng Anh tốt.", "blank": "I / well / English / speak  →  __________", "a": "I speak English well." },
+            { "vi": "Ngày nào tôi cũng đi học.", "blank": "I / every day / to school / go  →  __________", "a": "I go to school every day." },
+            { "vi": "Sáng nào tôi cũng uống cà phê.", "blank": "I / coffee / always / have  →  __________", "a": "I always have coffee." },
+            { "vi": "Tôi lúc nào cũng muộn.", "blank": "I / late / always / am  →  __________", "a": "I am always late." },
+            { "vi": "Nó đủ tuổi lái xe rồi.", "blank": "he's / to drive / enough / old  →  __________", "a": "He's old enough to drive." },
+            { "vi": "Anh ấy đưa tôi một quyển sách.", "blank": "he / a book / me / gave  →  __________", "a": "He gave me a book." },
+            { "vi": "Tối qua tôi đi chơi.", "blank": "I / last night / went out  →  __________", "a": "Last night, I went out." }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn câu đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi rất thích bài này.", "blank": "(a) I like very much this song.  (b) I like this song very much.", "a": "(b)" },
+            { "vi": "Ngày nào tôi cũng đi học.", "blank": "(a) I go every day to school.  (b) I go to school every day.", "a": "(b)" },
+            { "vi": "Tôi cũng đến đó.", "blank": "(a) I went there also.  (b) I went there too.", "a": "(b)" },
+            { "vi": "Tôi không đủ tiền.", "blank": "(a) I don't have money enough.  (b) I don't have enough money.", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi rất thích bài này.", "a": "I like this song very much." },
+            { "vi": "2. Tối qua cô ấy hát rất hay ở bữa tiệc.", "a": "She sang beautifully at the party last night." },
+            { "vi": "3. Sáng nào tôi cũng uống cà phê.", "a": "I always have coffee in the morning." },
+            { "vi": "4. Nó đủ tuổi lái xe rồi.", "a": "He's old enough to drive." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật dính:</b> động từ và tân ngữ <b>dính liền nhau</b>. Mọi trạng từ bị đẩy ra sau tân ngữ.",
+            "<b>Ba chữ C-N-T:</b> Cách thức → Nơi chốn → Thời gian. Thời gian luôn chót, hoặc được đẩy hẳn lên đầu câu.",
+            "<b>Tần suất:</b> TRƯỚC động từ thường, SAU <i>be</i>. Một câu, nhớ cả đời. Xem [Ngữ pháp 38].",
+            "<b><i>enough</i> ngược đời:</b> sau tính từ (<i>old enough</i>) nhưng trước danh từ (<i>enough money</i>).",
+            "<b><i>also</i> giữa, <i>too</i> cuối.</b> Hai từ cùng nghĩa “cũng” nhưng đứng hai chỗ khác nhau.",
+            "<b>Bài tập 3 phút:</b> lấy câu <i>I go to school</i>, lần lượt thêm <i>every day</i>, <i>by bus</i>, <i>always</i> và kiểm tra lại trật tự."
+          ]
+        }
+      ]
+    }
+  ]
+}

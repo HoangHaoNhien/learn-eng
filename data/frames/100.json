@@ -1,0 +1,505 @@
+{
+  "id": 100,
+  "group": "Nhóm 10 · Kể chuyện, Kế hoạch & Thời gian",
+  "title": "There is / There are — Nói rằng có cái gì đó",
+  "subtitle": "Khung câu cuối cùng, và cũng là một trong những khung dùng nhiều nhất mỗi ngày. Bẫy lớn nhất của người Việt: chữ có trong tiếng Việt kéo ta dịch thành Have a book on the table ✗. Tiếng Anh dùng There is / There are, và động từ phải hợp với danh từ ngay sau nó.",
+  "pattern": [
+    "There is <em>+ danh từ số ít / không đếm được</em>.",
+    "There are <em>+ danh từ số nhiều</em>.",
+    "Is there <em>+ danh từ</em>?"
+  ],
+  "meaning": "Có…",
+  "grammar": [19, 20, 21, 22],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "KHÔNG dùng “have”" },
+    { "text": "is + số ít / are + số nhiều" },
+    { "text": "Trình độ: A1–A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">There is a book on the table.</span> Đây là cách tiếng Anh nói rằng <b>một thứ gì đó tồn tại</b> hoặc <b>có mặt ở đâu đó</b>. Chữ <i>There</i> ở đây là chủ ngữ giả, giống chữ <i>It</i> trong <i>It takes…</i> ở [Khung 99]." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT:</b> tiếng Việt nói “<b>có</b> một quyển sách trên bàn” nên người học dịch thẳng thành <i>Have a book on the table</i> ✗ hoặc <i>It has a book</i> ✗. Tiếng Anh bắt buộc là <i><b>There is</b> a book on the table</i> ✓." },
+        { "t": "p", "html": "Phân biệt cho rõ: <b>have</b> là <b>sở hữu</b> — <i>I have a book</i> (tôi có một quyển sách, nó là của tôi). Còn <b>there is</b> là <b>tồn tại</b> — <i>There is a book</i> (có một quyển sách ở đó, không nói của ai)." },
+        { "t": "h3", "text": "is hay are — nhìn vào danh từ NGAY SAU" },
+        {
+          "t": "table",
+          "head": ["Danh từ theo sau", "Dùng", "Ví dụ"],
+          "rows": [
+            ["Số ít đếm được", "<code>There is</code>", "There is a book."],
+            ["Không đếm được", "<code>There is</code>", "There is some water."],
+            ["Số nhiều", "<code>There are</code>", "There are two books."],
+            ["Danh sách nhiều thứ", "Theo thứ ĐẦU TIÊN", "There is a book and two pens."]
+          ]
+        },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — danh từ không đếm được:</b> <i>There is some <b>water</b></i> ✓, <i>There is some <b>information</b></i> ✓. Dù cảm giác là “nhiều”, danh từ không đếm được vẫn đi với <b>is</b>. Cùng danh sách với [Khung 89]." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "📍", "title": "Mô tả một nơi chốn", "text": "<i>There's a good café near here.</i>" },
+            { "icon": "❓", "title": "Hỏi xem có gì không", "text": "<i>Is there a bank nearby?</i>" },
+            { "icon": "⚠️", "title": "Báo một vấn đề", "text": "<i>There's a problem with my order.</i>" },
+            { "icon": "🔢", "title": "Nói số lượng", "text": "<i>There are four of us.</i>" },
+            { "icon": "🙅", "title": "Nói không có gì", "text": "<i>There isn't any milk left.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Nói về sở hữu. Lúc đó là <i>I have a book</i>, không phải <i>There is my book</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Số ít", "<code>There is + a/an + N.</code>", "There is a book on the table."],
+            ["Số nhiều", "<code>There are + số + N số nhiều.</code>", "There are two books."],
+            ["Không đếm được", "<code>There is some + N.</code>", "There is some water."],
+            ["Rút gọn", "<code>There's + N.</code>", "There's a café near here."],
+            ["Phủ định số ít", "<code>There isn't any + N.</code>", "There isn't any milk."],
+            ["Phủ định số nhiều", "<code>There aren't any + N.</code>", "There aren't any seats."],
+            ["Câu hỏi", "<code>Is there + N?</code>", "Is there a bank nearby?"],
+            ["Hỏi số lượng", "<code>How many + N + are there?</code>", "How many people are there?"],
+            ["Quá khứ", "<code>There was / There were…</code>", "There was a problem."],
+            ["Tương lai", "<code>There will be…</code>", "There'll be four of us."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Khi liệt kê nhiều thứ, động từ theo thứ ĐẦU TIÊN:</b> <i>There <b>is</b> a book and two pens</i> ✓ (vì <i>a book</i> số ít) nhưng <i>There <b>are</b> two pens and a book</i> ✓ (vì <i>two pens</i> số nhiều). Chỉ cần nhìn vào danh từ ngay sau động từ." },
+        { "t": "callout", "html": "<b>Dạng rút gọn:</b> <i>There's</i> rất phổ biến. Nhưng <i>There're</i> gần như không ai viết — dạng số nhiều cứ nói và viết đầy đủ <b>There are</b>." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các dạng của khung",
+              "items": [
+                { "w": "There is / There's", "vi": "có (một cái)", "ex": "There's a book on the table.", "exvi": "Có một quyển sách trên bàn.", "note": "BẪY SỐ MỘT: <i>Have a book on the table</i> ✗. Tiếng Anh dùng <b>There is</b> cho sự tồn tại." },
+                { "w": "There are", "vi": "có (nhiều cái)", "ex": "There are two books.", "exvi": "Có hai quyển sách.", "note": "Dạng <i>There're</i> gần như không ai viết — cứ viết đầy đủ." },
+                { "w": "There is some", "vi": "có một ít", "ex": "There is some water in the fridge.", "exvi": "Trong tủ lạnh có ít nước.", "note": "BẪY SỐ HAI: danh từ KHÔNG đếm được vẫn đi với <b>is</b>." },
+                { "w": "There isn't any", "vi": "không có chút nào", "ex": "There isn't any milk left.", "exvi": "Không còn chút sữa nào.", "note": "Phủ định dùng <b>any</b>, không dùng <i>some</i>." },
+                { "w": "There aren't any", "vi": "không có cái nào", "ex": "There aren't any seats left.", "exvi": "Không còn ghế nào." },
+                { "w": "Is there…?", "vi": "có… không?", "ex": "Is there a bank nearby?", "exvi": "Gần đây có ngân hàng không?", "note": "Câu hỏi đảo <i>is</i> lên trước <i>there</i>." },
+                { "w": "Are there…?", "vi": "có… không? (số nhiều)", "ex": "Are there any tickets left?", "exvi": "Còn vé nào không?" },
+                { "w": "There was", "vi": "đã có", "ex": "There was a problem yesterday.", "exvi": "Hôm qua có vấn đề." },
+                { "w": "There were", "vi": "đã có (số nhiều)", "ex": "There were about twenty people.", "exvi": "Có khoảng hai mươi người." },
+                { "w": "There will be", "vi": "sẽ có", "ex": "There'll be four of us.", "exvi": "Bọn tôi sẽ có bốn người." },
+                { "w": "How many are there?", "vi": "có bao nhiêu?", "ex": "How many people are there?", "exvi": "Có bao nhiêu người?", "note": "Trật tự: <i>How many + danh từ + are there?</i> — <i>are there</i> đứng CUỐI." },
+                { "w": "There must be", "vi": "chắc phải có", "ex": "There must be a mistake.", "exvi": "Chắc phải có nhầm lẫn gì.", "note": "Câu rất lịch sự khi khiếu nại — không đổ lỗi cho ai." }
+              ]
+            },
+            {
+              "title": "Danh từ hay đi cùng & từ dễ nhầm",
+              "items": [
+                { "w": "a problem", "vi": "một vấn đề", "ex": "There's a problem with my order.", "exvi": "Đơn hàng của tôi có vấn đề.", "note": "Cách nêu vấn đề trung tính, không trách móc ai." },
+                { "w": "a mistake", "vi": "một nhầm lẫn", "ex": "There seems to be a mistake.", "exvi": "Hình như có nhầm lẫn.", "note": "<b>There seems to be</b> nhẹ nhàng hơn <i>There is</i> nhiều khi khiếu nại." },
+                { "w": "a café near here", "vi": "một quán cà phê gần đây", "ex": "There's a good café near here.", "exvi": "Gần đây có quán cà phê ngon." },
+                { "w": "four of us", "vi": "bốn người chúng tôi", "ex": "There are four of us.", "exvi": "Bọn tôi có bốn người.", "note": "Câu chuẩn khi đặt bàn nhà hàng. <i>We are four</i> ✗." },
+                { "w": "some information", "vi": "một ít thông tin", "ex": "There is some information online.", "exvi": "Trên mạng có ít thông tin.", "note": "<i>information</i> KHÔNG đếm được nên dùng <b>is</b>. Xem [Khung 89]." },
+                { "w": "a lot of people", "vi": "nhiều người", "ex": "There are a lot of people here.", "exvi": "Ở đây có nhiều người.", "note": "<i>people</i> là SỐ NHIỀU nên dùng <b>are</b>, dù nhìn không có chữ s." },
+                { "w": "nothing", "vi": "không có gì", "ex": "There's nothing to worry about.", "exvi": "Không có gì phải lo. Xem [Khung 87]." },
+                { "w": "something wrong", "vi": "có gì đó không ổn", "ex": "There's something wrong with it.", "exvi": "Nó có vấn đề gì đó." },
+                { "w": "I have a book", "vi": "tôi có một quyển sách", "ex": "I have a book about that.", "exvi": "Tôi có một quyển sách về chuyện đó.", "note": "<b>have</b> = SỞ HỮU, của tôi. <b>There is</b> = TỒN TẠI, không nói của ai." },
+                { "w": "It has", "vi": "nó có (bộ phận)", "ex": "The room has two windows.", "exvi": "Phòng có hai cửa sổ.", "note": "Dùng được khi vật là chủ ngữ thật. Nhưng <i>It has a book on the table</i> ✗." },
+                { "w": "They're", "vi": "họ là", "ex": "They're on the table.", "exvi": "Chúng ở trên bàn.", "note": "BẪY CHÍNH TẢ: <i>There</i> (có), <i>Their</i> (của họ), <i>They're</i> (họ là) — đọc GIỐNG HỆT nhau." },
+                { "w": "Their", "vi": "của họ", "ex": "Their books are on the table.", "exvi": "Sách của họ ở trên bàn." }
+              ]
+            },
+            {
+              "title": "Phản ứng & nối tiếp",
+              "items": [
+                { "w": "Whereabouts?", "vi": "chỗ nào?", "ex": "Whereabouts is it?", "exvi": "Nó ở chỗ nào?", "note": "Thân mật hơn <i>Where exactly?</i> và rất bản xứ." },
+                { "w": "Just round the corner", "vi": "ngay góc kia", "ex": "It's just round the corner.", "exvi": "Ngay góc kia thôi." },
+                { "w": "Two minutes away", "vi": "cách hai phút", "ex": "It's two minutes away.", "exvi": "Cách đây hai phút thôi." },
+                { "w": "I'm afraid not", "vi": "rất tiếc là không", "ex": "I'm afraid not.", "exvi": "Rất tiếc là không. Xem [Khung 87]." },
+                { "w": "Not that I know of", "vi": "theo tôi biết thì không", "ex": "Not that I know of.", "exvi": "Theo tôi biết thì không." },
+                { "w": "Let me check", "vi": "để tôi kiểm tra", "ex": "Let me check for you.", "exvi": "Để em kiểm tra giúp anh/chị." },
+                { "w": "There you go", "vi": "đây rồi", "ex": "There you go!", "exvi": "Đây rồi!", "note": "Câu nói khi đưa cho ai cái gì — không liên quan nghĩa “có”." },
+                { "w": "How come?", "vi": "sao vậy?", "ex": "How come there aren't any?", "exvi": "Sao lại không còn cái nào?" },
+                { "w": "That's a shame", "vi": "tiếc quá", "ex": "That's a shame.", "exvi": "Tiếc quá. Xem [Khung 89]." },
+                { "w": "Never mind", "vi": "thôi không sao", "ex": "Never mind, I'll look elsewhere.", "exvi": "Thôi không sao, tôi tìm chỗ khác." },
+                { "w": "Is there anything else?", "vi": "còn gì nữa không?", "ex": "Is there anything else I can do?", "exvi": "Còn gì tôi giúp được nữa không?" },
+                { "w": "That's everything", "vi": "vậy là hết", "ex": "That's everything, thanks.", "exvi": "Vậy là hết, cảm ơn." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Is there a bank nearby?",
+                  "vi": "Gần đây có ngân hàng không ạ?",
+                  "note": "Câu hỏi đảo <b>is</b> lên trước <i>there</i>. Đây là câu hỏi đường thông dụng nhất.",
+                  "open": { "en": "Excuse me, could you help me?", "vi": "Xin lỗi, anh/chị giúp tôi được không?" },
+                  "reply": [
+                    { "them": "There's one just round the corner.", "themvi": "Có một cái ngay góc kia.", "you": "Whereabouts exactly?", "youvi": "Chính xác là chỗ nào ạ?" },
+                    { "them": "Past the traffic lights, on the left.", "themvi": "Qua đèn giao thông, bên trái.", "you": "Thank you very much.", "youvi": "Cảm ơn anh/chị nhiều." }
+                  ],
+                  "close": { "en": "That's very helpful.", "vi": "Anh/chị giúp tôi nhiều lắm." }
+                },
+                {
+                  "en": "There's a good café near here.",
+                  "vi": "Gần đây có quán cà phê ngon.",
+                  "note": "<b>There's</b> là dạng rút gọn của <i>There is</i>, rất phổ biến khi nói.",
+                  "reply": [
+                    { "them": "How far is it?", "themvi": "Xa không?", "you": "Two minutes away.", "youvi": "Cách đây hai phút thôi." }
+                  ],
+                  "vars": [
+                    { "en": "There are a couple of cafés near here.", "vi": "Gần đây có vài quán cà phê." }
+                  ]
+                },
+                {
+                  "en": "There aren't any seats left.",
+                  "vi": "Không còn ghế nào cả.",
+                  "note": "Phủ định số nhiều dùng <b>aren't any</b>, không dùng <i>some</i>.",
+                  "reply": [
+                    { "them": "On the next train, then?", "themvi": "Vậy chuyến sau nhé?", "you": "Let's check.", "youvi": "Mình kiểm tra đi." }
+                  ]
+                },
+                {
+                  "en": "There were about twenty people waiting.",
+                  "vi": "Có khoảng hai mươi người đang chờ.",
+                  "note": "Quá khứ số nhiều là <b>There were</b>. <i>people</i> là SỐ NHIỀU dù không có chữ s.",
+                  "reply": [
+                    { "them": "How long did you wait?", "themvi": "Bạn chờ bao lâu?", "you": "Nearly an hour.", "youvi": "Gần một tiếng. Xem [Khung 99]." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "There's a problem with my order.",
+                  "vi": "Đơn hàng của tôi có vấn đề.",
+                  "note": "Cách nêu vấn đề TRUNG TÍNH — không trách móc ai, nên người nghe dễ hợp tác hơn.",
+                  "open": { "en": "Excuse me, could you help me with something?", "vi": "Xin lỗi em, giúp tôi một chuyện được không?" },
+                  "reply": [
+                    { "them": "I'm sorry to hear that. What's happened?", "themvi": "Em rất tiếc ạ. Có chuyện gì vậy?", "you": "There are two items missing.", "youvi": "Thiếu mất hai món." },
+                    { "them": "Let me check for you.", "themvi": "Để em kiểm tra giúp anh/chị.", "you": "Thank you.", "youvi": "Cảm ơn em." }
+                  ],
+                  "close": { "en": "I appreciate your help.", "vi": "Cảm ơn em đã giúp." }
+                },
+                {
+                  "en": "There seems to be a mistake on the receipt.",
+                  "vi": "Hình như hóa đơn có nhầm lẫn.",
+                  "note": "<b>There seems to be</b> nhẹ nhàng hơn <i>There is</i> nhiều — rất hợp khi khiếu nại. Xem [Khung 44].",
+                  "reply": [
+                    { "them": "You're right, I'm sorry.", "themvi": "Anh/chị nói đúng, em xin lỗi.", "you": "No harm done.", "youvi": "Có sao đâu em." }
+                  ],
+                  "vars": [
+                    { "en": "There must be a mistake.", "vi": "Chắc phải có nhầm lẫn gì." }
+                  ]
+                },
+                {
+                  "en": "Are there any left in blue?",
+                  "vi": "Còn cái nào màu xanh không em?",
+                  "note": "Câu hỏi số nhiều: <b>Are there any…?</b>",
+                  "reply": [
+                    { "them": "I'm afraid not.", "themvi": "Rất tiếc là không ạ.", "you": "Never mind. Thanks anyway.", "youvi": "Thôi không sao. Dù sao cũng cảm ơn em." }
+                  ]
+                },
+                {
+                  "en": "Is there anything else I should know?",
+                  "vi": "Còn điều gì tôi nên biết không em?",
+                  "reply": [
+                    { "them": "There's a two-year warranty.", "themvi": "Có bảo hành hai năm ạ.", "you": "That's good to know.", "youvi": "Biết vậy hay quá." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "There are four of us.",
+                  "vi": "Bọn tôi có bốn người.",
+                  "note": "Câu CHUẨN khi đặt bàn. <i>We are four</i> ✗ là lỗi dịch thẳng rất hay gặp.",
+                  "reply": [
+                    { "them": "Do you have a booking?", "themvi": "Anh/chị có đặt bàn không ạ?", "you": "No, we don't.", "youvi": "Không, bọn tôi không đặt." },
+                    { "them": "There's a table by the window.", "themvi": "Có bàn cạnh cửa sổ ạ.", "you": "That would be lovely.", "youvi": "Vậy thì tuyệt." }
+                  ],
+                  "close": { "en": "Thank you for fitting us in.", "vi": "Cảm ơn em đã xếp chỗ cho bọn tôi." }
+                },
+                {
+                  "en": "There isn't any milk left.",
+                  "vi": "Không còn chút sữa nào.",
+                  "note": "<i>milk</i> KHÔNG đếm được nên dùng <b>isn't</b>. Phủ định dùng <b>any</b>.",
+                  "reply": [
+                    { "them": "I'll pick some up.", "themvi": "Để mình mua ít về.", "you": "Get two, just in case.", "youvi": "Mua hai hộp cho chắc." }
+                  ],
+                  "vars": [
+                    { "en": "There's no milk left.", "vi": "Hết sữa rồi." }
+                  ]
+                },
+                {
+                  "en": "Is there anything without nuts?",
+                  "vi": "Có món nào không có hạt không em?",
+                  "note": "Câu hỏi quan trọng khi dị ứng — nên hỏi rõ và sớm. Xem [Khung 87].",
+                  "reply": [
+                    { "them": "Most of the menu, actually.", "themvi": "Thật ra phần lớn thực đơn ạ.", "you": "That's a relief.", "youvi": "Vậy tôi nhẹ cả người." }
+                  ]
+                },
+                {
+                  "en": "There's a book and two menus on the table.",
+                  "vi": "Trên bàn có một quyển sách và hai tờ thực đơn.",
+                  "note": "Liệt kê nhiều thứ thì động từ theo thứ ĐẦU TIÊN: <i>a book</i> số ít nên dùng <b>is</b>.",
+                  "reply": [
+                    { "them": "The book's mine, sorry.", "themvi": "Quyển sách của em ạ, xin lỗi.", "you": "No problem at all.", "youvi": "Không sao đâu em." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "There's a problem with the report.",
+                  "vi": "Báo cáo có vấn đề.",
+                  "note": "Nêu vấn đề mà không chỉ mặt ai — cách mở lời an toàn nhất trong công việc.",
+                  "reply": [
+                    { "them": "What sort of problem?", "themvi": "Vấn đề kiểu gì?", "you": "There are some figures missing.", "youvi": "Thiếu một số con số." }
+                  ],
+                  "close": { "en": "I'll fix it this morning.", "vi": "Sáng nay tôi sẽ sửa." }
+                },
+                {
+                  "en": "How many people are there in your team?",
+                  "vi": "Nhóm anh/chị có bao nhiêu người?",
+                  "note": "Trật tự: <b>How many + danh từ + are there?</b> — <i>are there</i> đứng CUỐI câu.",
+                  "reply": [
+                    { "them": "There are six of us at the moment.", "themvi": "Hiện tại bọn tôi sáu người.", "you": "Are you hiring?", "youvi": "Bên anh/chị đang tuyển à?" }
+                  ]
+                },
+                {
+                  "en": "There is some information in the shared folder.",
+                  "vi": "Trong thư mục chung có một ít thông tin.",
+                  "note": "BẪY SỐ HAI: <i>information</i> KHÔNG đếm được nên dùng <b>is</b>, dù cảm giác là nhiều.",
+                  "reply": [
+                    { "them": "I'll take a look now.", "themvi": "Tôi xem ngay đây.", "you": "Let me know if anything's unclear.", "youvi": "Có gì chưa rõ thì báo tôi." }
+                  ],
+                  "vars": [
+                    { "en": "There are some documents in the folder.", "vi": "Trong thư mục có mấy tài liệu." }
+                  ]
+                },
+                {
+                  "en": "There'll be four of us at the meeting.",
+                  "vi": "Cuộc họp sẽ có bốn người.",
+                  "note": "Tương lai là <b>There will be</b>, rút gọn thành <i>There'll be</i>.",
+                  "reply": [
+                    { "them": "I'll book the bigger room.", "themvi": "Tôi sẽ đặt phòng to hơn.", "you": "Good thinking.", "youvi": "Anh/chị nghĩ chu đáo đấy." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "There's nothing to worry about.",
+                  "vi": "Không có gì phải lo cả.",
+                  "note": "Câu trấn an rất thông dụng. Cụm cố định — giới từ <b>about</b> đứng cuối câu. Xem [Khung 87].",
+                  "reply": [
+                    { "them": "Are you sure?", "themvi": "Bạn chắc chứ?", "you": "Completely.", "youvi": "Chắc chắn." }
+                  ],
+                  "close": { "en": "Try to get some sleep.", "vi": "Cố ngủ một chút đi." }
+                },
+                {
+                  "en": "There's something wrong with my phone.",
+                  "vi": "Điện thoại mình có vấn đề gì đó.",
+                  "note": "<b>something wrong with</b> — cụm cố định, giới từ là <i>with</i>.",
+                  "reply": [
+                    { "them": "Have you tried restarting it?", "themvi": "Bạn thử khởi động lại chưa?", "you": "Twice already.", "youvi": "Hai lần rồi." }
+                  ]
+                },
+                {
+                  "en": "There are a lot of people here tonight.",
+                  "vi": "Tối nay ở đây đông người quá.",
+                  "note": "<i>people</i> là SỐ NHIỀU dù không có chữ s ở cuối — nên dùng <b>are</b>.",
+                  "reply": [
+                    { "them": "It's always busy on Fridays.", "themvi": "Thứ Sáu lúc nào chẳng đông.", "you": "Shall we go somewhere quieter?", "youvi": "Hay mình đi chỗ nào yên hơn?" }
+                  ],
+                  "vars": [
+                    { "en": "There's quite a crowd tonight.", "vi": "Tối nay đông thật." }
+                  ]
+                },
+                {
+                  "en": "There was a time when I couldn't say any of this.",
+                  "vi": "Từng có lúc mình không nói nổi câu nào thế này.",
+                  "note": "<b>There was a time when…</b> — cách mở đầu một câu chuyện hồi tưởng rất đẹp. Xem [Khung 96].",
+                  "reply": [
+                    { "them": "Look at you now.", "themvi": "Nhìn bạn bây giờ kìa.", "you": "One hundred frames later.", "youvi": "Sau một trăm khung câu." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Hỏi đường người lạ",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Excuse me, is there a bank nearby?", "vi": "Xin lỗi, gần đây có ngân hàng không ạ?" },
+            { "speaker": "Stranger", "en": "There's one just round the corner.", "vi": "Có một cái ngay góc kia." },
+            { "speaker": "You", "me": true, "en": "Whereabouts exactly?", "vi": "Chính xác là chỗ nào ạ?" },
+            { "speaker": "Stranger", "en": "Past the lights. There's a café next to it.", "vi": "Qua đèn giao thông. Cạnh nó có quán cà phê." },
+            { "speaker": "You", "me": true, "en": "And is there a cash machine outside?", "vi": "Bên ngoài có cây ATM không ạ?" },
+            { "speaker": "Stranger", "en": "There are two, actually.", "vi": "Thật ra là có hai cái." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Đến nhà hàng không đặt trước",
+          "lines": [
+            { "speaker": "Waiter", "en": "Good evening. Do you have a booking?", "vi": "Chào anh/chị. Anh/chị có đặt bàn không ạ?" },
+            { "speaker": "You", "me": true, "en": "We don't, I'm afraid. There are four of us.", "vi": "Rất tiếc là không. Bọn tôi có bốn người." },
+            { "speaker": "Waiter", "en": "Let me check. There's a table by the window.", "vi": "Để em kiểm tra. Có bàn cạnh cửa sổ ạ." },
+            { "speaker": "You", "me": true, "en": "That would be lovely. Is there a menu online?", "vi": "Vậy thì tuyệt. Trên mạng có thực đơn không em?" },
+            { "speaker": "Waiter", "en": "There is, but I'll bring you one.", "vi": "Có ạ, nhưng em mang cho anh/chị một tờ." },
+            { "speaker": "You", "me": true, "en": "Thank you. And is there anything without nuts?", "vi": "Cảm ơn em. Mà có món nào không có hạt không?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<b>Have</b> a book on the table.", "right": "<b>There is</b> a book on the table.", "why": "BẪY SỐ MỘT. Chữ “có” tiếng Việt kéo người học sang <i>have</i>. Nhưng <i>have</i> là SỞ HỮU, còn <b>there is</b> là TỒN TẠI." },
+            { "wrong": "<b>It has</b> a lot of people here.", "right": "<b>There are</b> a lot of people here.", "why": "Cùng lỗi ở dạng khác. <i>It has</i> chỉ dùng khi vật là chủ ngữ thật: <i>The room has two windows</i> ✓." },
+            { "wrong": "There <b>is</b> two books.", "right": "There <b>are</b> two books.", "why": "Động từ phải hợp với danh từ NGAY SAU. <i>two books</i> số nhiều nên dùng <b>are</b>." },
+            { "wrong": "There <b>are</b> some information.", "right": "There <b>is</b> some information.", "why": "BẪY SỐ HAI: <i>information</i> KHÔNG đếm được nên đi với <b>is</b>, dù cảm giác là nhiều. Xem [Khung 89]." },
+            { "wrong": "<b>We are four.</b>", "right": "<b>There are four of us.</b>", "why": "Câu chuẩn khi đặt bàn. <i>We are four</i> dịch thẳng từ tiếng Việt và nghe rất lạ với người bản xứ." },
+            { "wrong": "<b>How many are there people?</b>", "right": "<b>How many people are there?</b>", "why": "Trật tự đúng là <i>How many + danh từ + are there?</i> — <b>are there</b> đứng CUỐI câu." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>There is + N số ít</code>", "Có một cái — sự tồn tại", "There is a book on the table."],
+            ["<code>There are + N số nhiều</code>", "Có nhiều cái", "There are two books."],
+            ["<code>There is some + N không đếm</code>", "Có một ít", "There is some water."],
+            ["<code>I have + N</code>", "Tôi SỞ HỮU nó", "I have a book."],
+            ["<code>The room has + N</code>", "Vật đó có bộ phận này", "The room has two windows."],
+            ["<code>It takes + time</code>", "Mất bao lâu. Xem [Khung 99]", "It takes two hours."],
+            ["<code>There seems to be…</code>", "Hình như có — nhẹ nhàng khi khiếu nại", "There seems to be a mistake."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ số lượng" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "There isn't any left.", "vi": "Ít nhất — không còn gì" },
+            { "en": "There's one left.", "vi": "Còn đúng một" },
+            { "en": "There are a few left.", "vi": "Còn vài cái" },
+            { "en": "There are quite a lot.", "vi": "Còn khá nhiều" },
+            { "en": "There are loads.", "vi": "Nhiều nhất — đầy ra đấy" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>There's</b> đọc /ðeəz/ một âm tiết — bắt đầu bằng âm /ð/, lưỡi chạm nhẹ răng trên.",
+            "<b>There are</b> nối thành <b>“ðeə-rə”</b> — có âm /r/ nối giữa hai từ ở giọng Anh.",
+            "<b>Is there</b> → <b>“iz-ðeə”</b>, giọng LÊN ở cuối vì đây là câu hỏi.",
+            "<b>There</b>, <b>their</b> và <b>they're</b> đọc GIỐNG HỆT nhau /ðeə/ — chỉ phân biệt được qua văn cảnh và chính tả.",
+            "<b>Đừng đọc /ð/ thành /d/.</b> <i>There</i> thành “de” là lỗi phát âm lộ rõ nhất của người Việt.",
+            "<b>Trọng âm rơi vào DANH TỪ</b>, không phải vào <i>there</i>: “ðeə-zə-<b>BUK</b>-on-ðə-<b>TEI</b>-bl”."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "There's a book on the table.", "vi": "Luyện shadowing: “ðeə-zə-BUK-on-ðə-TEI-bl”, chú ý âm /ð/ đầu câu." },
+            { "en": "Is there a bank nearby?", "vi": "Tập lên giọng ở cuối và nối “i-ðeə-rə-BANK”." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Có một quyển sách trên bàn.", "blank": "__________ is a book on the table.", "a": "There (không dùng “Have”)" },
+            { "vi": "Có hai quyển sách.", "blank": "There __________ two books.", "a": "are" },
+            { "vi": "Trong tủ lạnh có ít nước.", "blank": "There __________ some water in the fridge.", "a": "is (water không đếm được)" },
+            { "vi": "Trên mạng có ít thông tin.", "blank": "There __________ some information online.", "a": "is (information không đếm được)" },
+            { "vi": "Ở đây có nhiều người.", "blank": "There __________ a lot of people here.", "a": "are (people là số nhiều)" },
+            { "vi": "Bọn tôi có bốn người.", "blank": "There are four __________ us.", "a": "of" },
+            { "vi": "Không còn chút sữa nào.", "blank": "There isn't __________ milk left.", "a": "any" },
+            { "vi": "Có bao nhiêu người?", "blank": "How many people __________?", "a": "are there (đứng cuối câu)" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Gần đây có ngân hàng không ạ?", "a": "Is there a bank nearby?" },
+            { "vi": "2. Đơn hàng của tôi có vấn đề.", "a": "There's a problem with my order." },
+            { "vi": "3. Bọn tôi có bốn người.", "a": "There are four of us." },
+            { "vi": "4. Không còn ghế nào cả.", "a": "There aren't any seats left." },
+            { "vi": "5. Không có gì phải lo cả.", "a": "There's nothing to worry about." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Chữ “có” tiếng Việt có hai bản dịch:</b> <i>There is/are</i> cho TỒN TẠI, <i>have</i> cho SỞ HỮU. Chọn đúng là câu tự nhiên ngay.",
+            "<b>Nhìn vào danh từ NGAY SAU động từ</b> để chọn <i>is</i> hay <i>are</i> — kể cả khi liệt kê nhiều thứ.",
+            "<b>Danh từ không đếm được luôn đi với <i>is</i>:</b> water, information, advice, news, furniture. Xem [Khung 89].",
+            "<b>Học thuộc câu đặt bàn:</b> <i>There are four of us.</i> — không bao giờ là <i>We are four</i>.",
+            "<b>Khiếu nại thì dùng <i>There's a problem with…</i></b> — nêu vấn đề mà không chỉ mặt ai, người nghe dễ hợp tác hơn.",
+            "<b>Bài tập 3 phút:</b> nhìn quanh phòng và mô tả bằng năm câu — ba câu <i>There is</i>, hai câu <i>There are</i>. Đây là khung cuối cùng: bạn đã đi hết một trăm khung câu."
+          ]
+        }
+      ]
+    }
+  ]
+}

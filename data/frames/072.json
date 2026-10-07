@@ -1,0 +1,501 @@
+{
+  "id": 72,
+  "group": "Nhóm 8 · Giới thiệu & Xã giao",
+  "title": "Nice to meet you — và bẫy “meet” hay “see”",
+  "subtitle": "Câu xã giao ai cũng thuộc, nhưng dùng sai chỗ thì người bản xứ nhận ra ngay lập tức. Meet chỉ dành cho lần đầu tiên; gặp lại người quen mà vẫn nói Nice to meet you là ngầm bảo rằng bạn không nhớ họ. Và khi chia tay, cấu trúc lại đổi thành V-ing.",
+  "pattern": [
+    "Nice to meet you. <em>(lần đầu)</em>",
+    "Good to see you. <em>(gặp lại)</em>",
+    "It was nice meeting you. <em>(khi chia tay)</em>"
+  ],
+  "meaning": "Rất vui được gặp bạn / Rất vui được gặp lại bạn",
+  "grammar": [6, 7, 20],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 5/5" },
+    { "text": "Bẫy meet / see" },
+    { "text": "Trình độ: A1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "Trong tiếng Anh, <b>meet</b> mang nghĩa <b>làm quen lần đầu</b>. Vì thế <span class=\"k\">Nice to meet you</span> chỉ đúng khi hai người <b>chưa từng gặp nhau</b>. Đây là điểm mà tiếng Việt không phân biệt — ta nói “rất vui được gặp bạn” cho cả hai trường hợp." },
+        { "t": "p", "html": "Gặp lại người đã quen thì phải đổi sang <b>see</b>: <span class=\"k\">Good to see you</span> hoặc <span class=\"k\">Nice to see you again</span>. Nếu bạn nói <i>Nice to meet you</i> với người đã gặp rồi, họ sẽ hiểu ngầm rằng <b>bạn không nhớ họ</b> — một tình huống khá ngượng." },
+        { "t": "p", "html": "Còn một biến đổi nữa ở <b>lúc chia tay</b>. Khi kết thúc một cuộc gặp lần đầu, cấu trúc chuyển sang thì quá khứ và V-ing: <span class=\"k\">It was nice meeting you.</span> hoặc gọn hơn là <i>Nice meeting you.</i>" },
+        { "t": "callout", "html": "<b>BA THỜI ĐIỂM, BA CÂU KHÁC NHAU:</b> lúc gặp lần đầu → <i>Nice <b>to meet</b> you.</i> Lúc chia tay sau lần đầu → <i>Nice <b>meeting</b> you.</i> Lúc gặp lại → <i>Good <b>to see</b> you.</i>" },
+        { "t": "h3", "text": "Bảng chọn câu theo tình huống" },
+        {
+          "t": "table",
+          "head": ["Tình huống", "Câu đúng", "Ghi chú"],
+          "rows": [
+            ["Lần đầu, khi gặp", "<code>Nice to meet you.</code>", "<i>meet</i> = làm quen"],
+            ["Lần đầu, khi chia tay", "<code>Nice meeting you.</code>", "Chuyển sang V-ing"],
+            ["Gặp lại người quen", "<code>Good to see you.</code>", "<i>see</i> = gặp lại"],
+            ["Rất lâu không gặp", "<code>Long time no see!</code>", "Thân mật, rất phổ biến"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Bẫy cổ điển “How do you do?”</b> — câu này rất trang trọng và <b>không phải câu hỏi thật</b>. Cách đáp đúng là lặp lại chính nó: <i>How do you do?</i> Đừng trả lời <i>I'm fine, thank you</i>." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🤝", "title": "Làm quen lần đầu", "text": "Bối cảnh số 1. <i>Nice to meet you.</i> Chỉ lần đầu tiên." },
+            { "icon": "🔁", "title": "Gặp lại người quen", "text": "<i>Good to see you.</i> Dùng <i>see</i>, không phải <i>meet</i>." },
+            { "icon": "👋", "title": "Chia tay sau lần đầu gặp", "text": "<i>It was nice meeting you.</i> Chuyển sang V-ing." },
+            { "icon": "🎩", "title": "Sự kiện trang trọng", "text": "<i>Pleased to meet you.</i> Hoặc <i>How do you do?</i>" },
+            { "icon": "⏳", "title": "Rất lâu không gặp", "text": "<i>Long time no see!</i> Thân mật và ấm áp." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn đã gặp họ rồi. Nói <i>meet</i> lúc đó là ngầm bảo bạn quên họ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Lần đầu — khi gặp", "<code>Nice to meet you.</code>", "Nice to meet you, Mai."],
+            ["Đáp lại", "<code>Nice to meet you too.</code>", "Nice to meet you too."],
+            ["Trang trọng", "<code>Pleased to meet you.</code>", "Pleased to meet you."],
+            ["Rất trang trọng", "<code>How do you do?</code>", "How do you do?"],
+            ["Ấm áp — Anh-Anh", "<code>Lovely to meet you.</code>", "Lovely to meet you."],
+            ["Gặp lại", "<code>Good to see you (again).</code>", "Good to see you again."],
+            ["Lâu không gặp", "<code>Long time no see!</code>", "Long time no see!"],
+            ["Chia tay — lần đầu", "<code>It was nice meeting you.</code>", "It was nice meeting you."],
+            ["Chia tay — gọn", "<code>Nice meeting you.</code>", "Nice meeting you."],
+            ["Mong gặp lại", "<code>Hope to see you again.</code>", "Hope to see you again soon."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng quên chữ “too” khi đáp lại.</b> Người kia nói <i>Nice to meet you</i>, bạn đáp <b>Nice to meet you too</b>. Bỏ <i>too</i> nghe như bạn đang nói lại y nguyên chứ không phải đáp lễ." },
+        { "t": "callout", "html": "<b>“Long time no see” tuy sai ngữ pháp nhưng hoàn toàn chuẩn.</b> Đây là một thành ngữ cố định, người bản xứ dùng hằng ngày. Đừng cố sửa thành <i>I haven't seen you for a long time</i> — câu đó đúng nhưng cứng hơn nhiều." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Lần đầu gặp mặt",
+              "items": [
+                { "w": "Nice to meet you", "vi": "rất vui được gặp bạn", "ex": "Nice to meet you, Mai.", "exvi": "Rất vui được gặp chị Mai.", "note": "CHỈ dùng lần ĐẦU TIÊN. Gặp lại thì phải là <i>see</i>." },
+                { "w": "Nice to meet you too", "vi": "tôi cũng vậy", "ex": "Nice to meet you too.", "exvi": "Tôi cũng rất vui được gặp anh/chị.", "note": "Đừng quên <b>too</b> — thiếu nó nghe như lặp lại chứ không phải đáp lễ." },
+                { "w": "Pleased to meet you", "vi": "hân hạnh được gặp", "ex": "Pleased to meet you.", "exvi": "Hân hạnh được gặp anh/chị.", "note": "Trang trọng hơn — hợp công việc và sự kiện." },
+                { "w": "Lovely to meet you", "vi": "rất vui được gặp", "ex": "Lovely to meet you.", "exvi": "Rất vui được gặp bạn.", "note": "Ấm áp, rất Anh-Anh — nghe thân thiện hơn <i>nice</i>." },
+                { "w": "Great to meet you", "vi": "tuyệt quá, được gặp bạn", "ex": "Great to meet you at last.", "exvi": "Cuối cùng cũng được gặp anh/chị." },
+                { "w": "How do you do?", "vi": "hân hạnh", "ex": "How do you do?", "exvi": "Hân hạnh ạ.", "note": "BẪY: KHÔNG phải câu hỏi. Đáp lại bằng chính câu đó, đừng nói <i>I'm fine</i>." },
+                { "w": "at last", "vi": "cuối cùng cũng", "ex": "Good to meet you at last.", "exvi": "Cuối cùng cũng được gặp anh/chị.", "note": "Thêm vào khi hai bên đã trao đổi email hoặc điện thoại từ lâu." },
+                { "w": "I've heard a lot about you", "vi": "tôi nghe nói nhiều về bạn", "ex": "I've heard a lot about you.", "exvi": "Tôi nghe nói nhiều về anh/chị lắm.", "note": "Câu xã giao ấm — chỉ nói khi đúng là vậy." },
+                { "w": "All good, I hope", "vi": "hy vọng toàn điều tốt", "ex": "All good, I hope!", "exvi": "Hy vọng toàn điều tốt!", "note": "Câu đáp dí dỏm chuẩn mực cho <i>I've heard a lot about you</i>." },
+                { "w": "Pleasure", "vi": "hân hạnh", "ex": "Pleasure.", "exvi": "Hân hạnh ạ.", "note": "Rút gọn của <i>It's a pleasure</i> — ngắn và trang nhã." },
+                { "w": "The pleasure's mine", "vi": "tôi mới là người hân hạnh", "ex": "The pleasure's mine.", "exvi": "Tôi mới là người hân hạnh.", "note": "Câu đáp lịch thiệp — nhường lời khen về phía người kia." },
+                { "w": "Have you two met?", "vi": "hai người gặp nhau chưa?", "ex": "Have you two met?", "exvi": "Hai người đã gặp nhau chưa?", "note": "Dẫn vào một lời giới thiệu. Xem [Khung 71]." }
+              ]
+            },
+            {
+              "title": "Gặp lại & chia tay",
+              "items": [
+                { "w": "Good to see you", "vi": "rất vui được gặp lại", "ex": "Good to see you, Nam.", "exvi": "Rất vui được gặp lại Nam.", "note": "Dùng <b>see</b> khi đã quen. Đây là điểm khác biệt quan trọng nhất của khung này." },
+                { "w": "Nice to see you again", "vi": "vui được gặp lại bạn", "ex": "Nice to see you again.", "exvi": "Vui được gặp lại anh/chị." },
+                { "w": "Long time no see", "vi": "lâu quá không gặp", "ex": "Long time no see!", "exvi": "Lâu quá không gặp!", "note": "Thành ngữ cố định — sai ngữ pháp nhưng hoàn toàn chuẩn và rất phổ biến." },
+                { "w": "It's been a while", "vi": "lâu rồi nhỉ", "ex": "It's been a while, hasn't it?", "exvi": "Lâu rồi nhỉ?", "note": "Nhẹ nhàng hơn <i>Long time no see</i> — hợp cả trong công việc." },
+                { "w": "It was nice meeting you", "vi": "rất vui vì đã gặp bạn", "ex": "It was nice meeting you.", "exvi": "Rất vui vì đã được gặp anh/chị.", "note": "Lúc CHIA TAY sau lần đầu gặp — chuyển sang <b>V-ing</b> và thì quá khứ." },
+                { "w": "Nice meeting you", "vi": "vui vì đã gặp bạn", "ex": "Nice meeting you.", "exvi": "Vui vì đã gặp bạn.", "note": "Dạng gọn của câu trên — vẫn là V-ing, không phải <i>to meet</i>." },
+                { "w": "Hope to see you again", "vi": "mong được gặp lại", "ex": "Hope to see you again soon.", "exvi": "Mong sớm được gặp lại anh/chị." },
+                { "w": "See you around", "vi": "hẹn gặp lại", "ex": "See you around.", "exvi": "Hẹn gặp lại nhé.", "note": "Thân mật, dùng khi không hẹn ngày cụ thể." },
+                { "w": "Take care", "vi": "giữ gìn sức khỏe", "ex": "Take care, Mai.", "exvi": "Giữ gìn sức khỏe nhé Mai." },
+                { "w": "Say hello to…", "vi": "cho tôi gửi lời chào đến", "ex": "Say hello to your family.", "exvi": "Cho tôi gửi lời chào đến gia đình anh/chị.", "note": "Câu kết thúc ấm áp — rất tự nhiên trong văn hóa Anh." },
+                { "w": "Let's keep in touch", "vi": "mình giữ liên lạc nhé", "ex": "Let's keep in touch.", "exvi": "Mình giữ liên lạc nhé." },
+                { "w": "How have you been?", "vi": "dạo này bạn thế nào?", "ex": "How have you been?", "exvi": "Dạo này anh/chị thế nào?", "note": "Câu hỏi thăm chuẩn khi GẶP LẠI — không dùng với người mới quen." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "You too", "vi": "bạn cũng vậy", "ex": "Nice to meet you. — You too.", "exvi": "Rất vui được gặp bạn. — Bạn cũng vậy.", "note": "Câu đáp ngắn gọn và rất tự nhiên — chỉ hai từ." },
+                { "w": "Likewise", "vi": "tôi cũng vậy", "ex": "Likewise.", "exvi": "Tôi cũng vậy.", "note": "Trang trọng hơn <i>You too</i> — rất hợp trong công việc." },
+                { "w": "And you", "vi": "anh/chị cũng vậy", "ex": "Good to see you. — And you.", "exvi": "Vui được gặp lại. — Anh/chị cũng vậy.", "note": "Rất Anh-Anh và rất ngắn gọn." },
+                { "w": "Same here", "vi": "tôi cũng thế", "ex": "Same here.", "exvi": "Mình cũng thế." },
+                { "w": "I'm good, thanks", "vi": "tôi khỏe, cảm ơn", "ex": "I'm good, thanks — and you?", "exvi": "Mình khỏe, cảm ơn — còn bạn?" },
+                { "w": "Not too bad", "vi": "cũng không tệ", "ex": "Not too bad, thanks.", "exvi": "Cũng không tệ, cảm ơn.", "note": "Câu đáp khiêm tốn rất Anh — nghĩa thật là “khá ổn”." },
+                { "w": "Busy, as always", "vi": "vẫn bận như mọi khi", "ex": "Busy, as always.", "exvi": "Vẫn bận như mọi khi." },
+                { "w": "Where did we meet?", "vi": "mình gặp nhau ở đâu nhỉ?", "ex": "Sorry, where did we meet?", "exvi": "Xin lỗi, mình gặp nhau ở đâu nhỉ?", "note": "Thành thật khi bạn quên — vẫn tốt hơn nói <i>Nice to meet you</i> sai chỗ." },
+                { "w": "You haven't changed a bit", "vi": "bạn chẳng thay đổi gì cả", "ex": "You haven't changed a bit!", "exvi": "Bạn chẳng thay đổi gì cả!", "note": "Lời khen khi gặp lại sau nhiều năm." },
+                { "w": "It's been too long", "vi": "lâu quá rồi", "ex": "It's been far too long.", "exvi": "Lâu quá rồi ấy chứ." },
+                { "w": "We must catch up", "vi": "mình phải hẹn nhau kể chuyện", "ex": "We must catch up properly.", "exvi": "Mình phải hẹn nhau kể chuyện tử tế mới được.", "note": "<i>catch up</i> = gặp nhau cập nhật tin tức. Rất phổ biến." },
+                { "w": "Good to put a face to the name", "vi": "cuối cùng cũng biết mặt", "ex": "Good to put a face to the name.", "exvi": "Cuối cùng cũng biết mặt anh/chị.", "note": "Thành ngữ tuyệt hay khi gặp trực tiếp người bạn chỉ từng trao đổi qua email." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Nice to meet you — good to put a face to the name.",
+                  "vi": "Rất vui được gặp anh/chị — cuối cùng cũng biết mặt.",
+                  "note": "<span class=\"k\">put a face to the name</span> — thành ngữ tuyệt hay khi gặp trực tiếp người bạn chỉ từng trao đổi qua email.",
+                  "open": { "en": "You must be Mai —", "vi": "Chắc chị là Mai —" },
+                  "reply": [
+                    { "them": "Likewise! We've emailed for months.", "themvi": "Tôi cũng vậy! Mình email mấy tháng rồi.", "you": "At last we meet properly.", "youvi": "Cuối cùng cũng gặp nhau tử tế." },
+                    { "them": "I've heard a lot about you.", "themvi": "Tôi nghe nói nhiều về anh lắm.", "you": "All good, I hope!", "youvi": "Hy vọng toàn điều tốt!" }
+                  ],
+                  "close": { "en": "Shall we grab a coffee?", "vi": "Mình đi cà phê nhé?" }
+                },
+                {
+                  "en": "Good to see you again, Nam.",
+                  "vi": "Rất vui được gặp lại Nam.",
+                  "note": "Dùng <b>see</b> vì đã quen. Nói <i>meet</i> ở đây là ngầm bảo bạn không nhớ họ.",
+                  "reply": [
+                    { "them": "And you. How have you been?", "themvi": "Anh cũng vậy. Dạo này thế nào?", "you": "Busy, as always.", "youvi": "Vẫn bận như mọi khi." }
+                  ],
+                  "vars": [
+                    { "en": "Nice to see you again.", "vi": "Vui được gặp lại anh/chị." }
+                  ]
+                },
+                {
+                  "en": "Pleased to meet you. I'm Nam, from finance.",
+                  "vi": "Hân hạnh được gặp anh/chị. Tôi là Nam, bên tài chính.",
+                  "note": "<b>Pleased</b> trang trọng hơn <i>nice</i> — hợp hội nghị, gặp đối tác. Xem [Khung 71].",
+                  "reply": [
+                    { "them": "The pleasure's mine.", "themvi": "Tôi mới là người hân hạnh.", "you": "Shall we start?", "youvi": "Mình bắt đầu nhé?" }
+                  ]
+                },
+                {
+                  "en": "It was nice meeting you. Hope to see you again soon.",
+                  "vi": "Rất vui vì đã được gặp anh/chị. Mong sớm gặp lại.",
+                  "note": "Lúc CHIA TAY sau lần đầu gặp — chuyển sang <b>meeting</b> (V-ing) và thì quá khứ.",
+                  "reply": [
+                    { "them": "Likewise. Let's keep in touch.", "themvi": "Tôi cũng vậy. Mình giữ liên lạc nhé.", "you": "I'll send over my details.", "youvi": "Tôi sẽ gửi thông tin liên hệ." }
+                  ],
+                  "close": { "en": "Safe travels.", "vi": "Chúc đi đường bình an." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Long time no see!",
+                  "vi": "Lâu quá không gặp!",
+                  "note": "Thành ngữ cố định — sai ngữ pháp nhưng hoàn toàn chuẩn và cực kỳ phổ biến.",
+                  "reply": [
+                    { "them": "I know! You haven't changed a bit.", "themvi": "Đúng không! Bạn chẳng thay đổi gì cả.", "you": "Neither have you.", "youvi": "Bạn cũng vậy." },
+                    { "them": "It's been far too long.", "themvi": "Lâu quá rồi ấy chứ.", "you": "We must catch up properly.", "youvi": "Mình phải hẹn nhau kể chuyện tử tế." }
+                  ],
+                  "close": { "en": "Are you free next week?", "vi": "Tuần sau bạn rảnh không?" }
+                },
+                {
+                  "en": "Nice to meet you. I'm Nam.",
+                  "vi": "Rất vui được gặp bạn. Mình là Nam.",
+                  "reply": [
+                    { "them": "You too. I'm Mai.", "themvi": "Mình cũng vậy. Mình là Mai.", "you": "How do you know the host?", "youvi": "Bạn quen chủ nhà thế nào?" }
+                  ],
+                  "vars": [
+                    { "en": "Lovely to meet you.", "vi": "Rất vui được gặp bạn." }
+                  ]
+                },
+                {
+                  "en": "Sorry, where did we meet?",
+                  "vi": "Xin lỗi, mình gặp nhau ở đâu nhỉ?",
+                  "note": "Thành thật khi bạn quên — vẫn tốt hơn nhiều so với nói <i>Nice to meet you</i> sai chỗ.",
+                  "reply": [
+                    { "them": "At Mai's birthday, last year.", "themvi": "Ở sinh nhật Mai, năm ngoái.", "you": "Of course! Good to see you again.", "youvi": "À đúng rồi! Vui được gặp lại bạn." }
+                  ]
+                },
+                {
+                  "en": "It's been a while, hasn't it?",
+                  "vi": "Lâu rồi nhỉ?",
+                  "note": "Nhẹ nhàng hơn <i>Long time no see</i> — dùng được cả trong công việc.",
+                  "reply": [
+                    { "them": "Must be two years now.", "themvi": "Chắc phải hai năm rồi.", "you": "How have you been?", "youvi": "Dạo này bạn thế nào?" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Nice to meet you — are you here on holiday too?",
+                  "vi": "Rất vui được gặp bạn — bạn cũng đi nghỉ à?",
+                  "note": "Ghép lời chào với một câu hỏi mở — cách bắt chuyện với bạn đồng hành hiệu quả nhất.",
+                  "reply": [
+                    { "them": "Work, unfortunately. You?", "themvi": "Tiếc là đi công tác. Còn bạn?", "you": "Holiday, thankfully.", "youvi": "May là đi nghỉ." }
+                  ],
+                  "close": { "en": "Enjoy your stay.", "vi": "Chúc bạn ở lại vui vẻ." }
+                },
+                {
+                  "en": "Good to see you again — you were here last year too, weren't you?",
+                  "vi": "Vui được gặp lại anh/chị — năm ngoái anh/chị cũng ở đây phải không?",
+                  "note": "Nhân viên khách sạn nhớ khách quen dùng <b>see</b>, không bao giờ dùng <i>meet</i>.",
+                  "reply": [
+                    { "them": "You've got a good memory!", "themvi": "Em nhớ giỏi thật!", "you": "Welcome back.", "youvi": "Chào mừng anh/chị quay lại ạ." }
+                  ],
+                  "vars": [
+                    { "en": "Welcome back, nice to see you.", "vi": "Chào mừng quay lại, vui được gặp lại ạ." }
+                  ]
+                },
+                {
+                  "en": "It was nice meeting you. Safe travels!",
+                  "vi": "Rất vui vì đã gặp bạn. Chúc đi đường bình an!",
+                  "note": "Chia tay bạn đồng hành mới quen — nhớ dùng <b>meeting</b>, không phải <i>to meet</i>.",
+                  "reply": [
+                    { "them": "You too — have a good one.", "themvi": "Bạn cũng vậy — chúc vui vẻ.", "you": "Maybe see you around.", "youvi": "Biết đâu lại gặp." }
+                  ]
+                },
+                {
+                  "en": "How do you do?",
+                  "vi": "Hân hạnh ạ.",
+                  "note": "BẪY CỔ ĐIỂN: đây KHÔNG phải câu hỏi. Đáp lại bằng chính câu đó, đừng nói <i>I'm fine</i>.",
+                  "reply": [
+                    { "them": "How do you do?", "themvi": "Hân hạnh ạ.", "you": "Shall we go through?", "youvi": "Mình vào trong nhé?" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Nice to meet you — I think we're at the same table.",
+                  "vi": "Rất vui được gặp bạn — hình như mình cùng bàn.",
+                  "reply": [
+                    { "them": "Looks like it. I'm Mai.", "themvi": "Có vẻ vậy. Mình là Mai.", "you": "Nice to meet you too, Mai.", "youvi": "Mình cũng rất vui được gặp bạn, Mai." }
+                  ]
+                },
+                {
+                  "en": "Good to see you — it's been ages!",
+                  "vi": "Vui được gặp lại — lâu ơi là lâu!",
+                  "note": "<i>it's been ages</i> = lâu lắm rồi. Thân mật và rất Anh.",
+                  "reply": [
+                    { "them": "Hasn't it just. How have you been?", "themvi": "Đúng là lâu thật. Dạo này bạn sao?", "you": "Not too bad, thanks.", "youvi": "Cũng không tệ, cảm ơn." }
+                  ],
+                  "vars": [
+                    { "en": "Long time no see!", "vi": "Lâu quá không gặp!" }
+                  ]
+                },
+                {
+                  "en": "Lovely to meet you at last.",
+                  "vi": "Cuối cùng cũng được gặp bạn.",
+                  "note": "<b>Lovely</b> ấm áp hơn <i>nice</i>, và <i>at last</i> hợp khi hai bên đã nghe về nhau từ lâu.",
+                  "reply": [
+                    { "them": "And you — Nam's told me so much about you.", "themvi": "Mình cũng vậy — Nam kể về bạn nhiều lắm.", "you": "All good, I hope!", "youvi": "Hy vọng toàn điều tốt!" }
+                  ]
+                },
+                {
+                  "en": "Nice meeting you — say hello to Nam for me.",
+                  "vi": "Vui vì đã gặp bạn — cho mình gửi lời chào Nam nhé.",
+                  "note": "Chia tay kèm lời nhắn gửi — cách kết thúc rất ấm áp trong văn hóa Anh.",
+                  "reply": [
+                    { "them": "Will do. Take care!", "themvi": "Mình sẽ chuyển. Giữ gìn sức khỏe nhé!", "you": "You too.", "youvi": "Bạn cũng vậy." }
+                  ],
+                  "close": { "en": "Let's do this again.", "vi": "Mình gặp lại thế này nhé." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Good to see you again — the usual?",
+                  "vi": "Vui được gặp lại anh/chị — như mọi khi ạ?",
+                  "note": "Nhân viên nhớ khách quen dùng <b>see</b>. <i>the usual</i> = món quen thường gọi.",
+                  "reply": [
+                    { "them": "You remembered!", "themvi": "Em nhớ thật à!", "you": "Same time every Tuesday.", "youvi": "Thứ Ba nào cũng đúng giờ này ạ." }
+                  ],
+                  "close": { "en": "See you next week.", "vi": "Tuần sau gặp lại ạ." }
+                },
+                {
+                  "en": "Nice to meet you — I'm the new manager here.",
+                  "vi": "Rất vui được gặp anh/chị — tôi là quản lý mới ở đây.",
+                  "reply": [
+                    { "them": "Oh, welcome! I'm a regular.", "themvi": "Ồ, chào mừng! Tôi là khách quen.", "you": "Then I'll be seeing you.", "youvi": "Vậy chắc mình sẽ gặp nhau thường." }
+                  ]
+                },
+                {
+                  "en": "Pleased to meet you.",
+                  "vi": "Hân hạnh được gặp anh/chị.",
+                  "reply": [
+                    { "them": "Likewise.", "themvi": "Tôi cũng vậy.", "you": "How can I help today?", "youvi": "Hôm nay tôi giúp gì được ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "How do you do?", "vi": "Hân hạnh ạ." }
+                  ]
+                },
+                {
+                  "en": "Thanks — it was nice meeting you.",
+                  "vi": "Cảm ơn — rất vui vì đã được gặp em.",
+                  "reply": [
+                    { "them": "You too. Have a good day.", "themvi": "Anh/chị cũng vậy ạ. Chúc một ngày tốt lành.", "you": "See you around.", "youvi": "Hẹn gặp lại nhé." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Gặp trực tiếp một đối tác đã email nhiều tháng",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "You must be Mai — nice to meet you at last.", "vi": "Chắc chị là Mai — cuối cùng cũng được gặp chị." },
+            { "speaker": "Mai", "en": "Likewise! Good to put a face to the name.", "vi": "Tôi cũng vậy! Cuối cùng cũng biết mặt anh." },
+            { "speaker": "You", "me": true, "en": "I've heard a lot about you from Nam.", "vi": "Tôi nghe Nam kể nhiều về chị lắm." },
+            { "speaker": "Mai", "en": "All good, I hope!", "vi": "Hy vọng toàn điều tốt!" },
+            { "speaker": "You", "me": true, "en": "All good. Shall we grab a coffee before the meeting?", "vi": "Toàn điều tốt. Mình đi cà phê trước cuộc họp nhé?" },
+            { "speaker": "Mai", "en": "Lovely idea.", "vi": "Ý hay quá." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Tình cờ gặp lại người quen cũ",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Nam! Long time no see.", "vi": "Nam! Lâu quá không gặp." },
+            { "speaker": "Nam", "en": "It's been far too long. How have you been?", "vi": "Lâu quá rồi ấy chứ. Dạo này bạn thế nào?" },
+            { "speaker": "You", "me": true, "en": "Not too bad, thanks. Busy, as always. And you?", "vi": "Cũng không tệ, cảm ơn. Vẫn bận như mọi khi. Còn bạn?" },
+            { "speaker": "Nam", "en": "Same. You haven't changed a bit!", "vi": "Cũng vậy. Bạn chẳng thay đổi gì cả!" },
+            { "speaker": "You", "me": true, "en": "Neither have you. We must catch up properly.", "vi": "Bạn cũng vậy. Mình phải hẹn nhau kể chuyện tử tế mới được." },
+            { "speaker": "Nam", "en": "Definitely. I'll message you this week.", "vi": "Chắc chắn rồi. Tuần này mình nhắn bạn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Nice to meet you. <i>(với người đã gặp rồi)</i>", "right": "Good to see you again.", "why": "BẪY SỐ MỘT. <b>meet</b> chỉ dành cho lần ĐẦU. Nói <i>meet</i> với người quen là ngầm bảo bạn không nhớ họ." },
+            { "wrong": "Nice to meet you. <i>(khi chia tay sau lần đầu gặp)</i>", "right": "It was nice meeting you.", "why": "Lúc chia tay phải chuyển sang <b>V-ing</b> và thì quá khứ: <i>nice <b>meeting</b> you</i>." },
+            { "wrong": "“How do you do?” — “I'm fine, thank you.”", "right": "“How do you do?” — “How do you do?”", "why": "BẪY CỔ ĐIỂN. Đây KHÔNG phải câu hỏi thật — đáp lại bằng chính câu đó." },
+            { "wrong": "Nice to meet you. — Nice to meet you.", "right": "Nice to meet you. — Nice to meet you too.", "why": "Thiếu <b>too</b> nghe như lặp lại y nguyên chứ không phải đáp lễ. Hoặc nói gọn <i>You too</i>." },
+            { "wrong": "I haven't seen you for a long time! <i>(chào thân mật)</i>", "right": "Long time no see!", "why": "Câu đầu đúng ngữ pháp nhưng cứng. Thành ngữ <b>Long time no see</b> mới là thứ người bản xứ dùng." },
+            { "wrong": "Nice to meet you again.", "right": "Nice to see you again.", "why": "Không thể <i>meet</i> lại người đã quen. Có <b>again</b> thì luôn đi với <b>see</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu", "Dùng khi", "Ghi chú"],
+          "rows": [
+            ["<code>Nice to meet you.</code>", "Lần đầu, lúc gặp", "<i>meet</i> = làm quen."],
+            ["<code>Nice meeting you.</code>", "Lần đầu, lúc chia tay", "Chuyển sang V-ing."],
+            ["<code>Good to see you.</code>", "Gặp lại người quen", "<i>see</i> = gặp lại."],
+            ["<code>Long time no see!</code>", "Rất lâu không gặp", "Thành ngữ, thân mật."],
+            ["<code>Pleased to meet you.</code>", "Trang trọng, lần đầu", "Công việc, sự kiện."],
+            ["<code>How do you do?</code>", "Rất trang trọng", "Không phải câu hỏi thật."],
+            ["<code>How have you been?</code>", "Hỏi thăm khi gặp lại", "Không dùng với người mới quen."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — chào một người lần đầu gặp" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Hi, I'm Nam.", "vi": "Thân mật nhất. Xem [Khung 71]" },
+            { "en": "Nice to meet you.", "vi": "Chuẩn mực, dùng được mọi nơi" },
+            { "en": "Lovely to meet you.", "vi": "Ấm áp hơn — rất Anh-Anh" },
+            { "en": "Pleased to meet you.", "vi": "Trang trọng — công việc, sự kiện" },
+            { "en": "How do you do?", "vi": "Trang trọng nhất — hơi cổ" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Nice to meet you</b> nói nhanh dính thành <b>“nai-stə-MEE-chu”</b> — âm /t/ gặp /j/ biến thành /tʃ/.",
+            "<b>meet you</b> → “MEE-chu”, hai từ nhập làm một. Đây là nối âm rất đặc trưng của tiếng Anh.",
+            "<b>Good to see you</b> → “gu-tə-SEE-yu”, âm /d/ cuối <i>good</i> gần như biến mất.",
+            "Trọng âm rơi vào <b>MEET</b> hoặc <b>SEE</b> — đó là từ mang nghĩa phân biệt.",
+            "<b>Nice to meet you too</b> → nhấn thêm vào <b>TOO</b> ở cuối để rõ là đáp lễ.",
+            "<b>Giọng ấm và hơi lên ở cuối</b> — đây là lời chào, nói giọng phẳng nghe như thủ tục."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Nice to meet you at last.", "vi": "Luyện shadowing: “nai-stə-MEE-chu-ət-LAST”, nối /tʃ/ ở meet you." },
+            { "en": "Good to see you again.", "vi": "Tập nhấn SEE và AGAIN — hai từ phân biệt với lần đầu gặp." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Rất vui được gặp bạn. (lần đầu)", "blank": "__________ you.", "a": "Nice to meet" },
+            { "vi": "Rất vui được gặp lại anh/chị.", "blank": "Good __________ you again.", "a": "to see (KHÔNG phải “to meet”)" },
+            { "vi": "Rất vui vì đã được gặp anh/chị. (lúc chia tay)", "blank": "It was nice __________ you.", "a": "meeting (V-ing)" },
+            { "vi": "Lâu quá không gặp!", "blank": "__________!", "a": "Long time no see" },
+            { "vi": "Tôi cũng rất vui được gặp anh/chị.", "blank": "Nice to meet you __________.", "a": "too" },
+            { "vi": "Tôi cũng vậy. (trang trọng)", "blank": "__________.", "a": "Likewise" },
+            { "vi": "Cuối cùng cũng biết mặt anh/chị.", "blank": "Good to __________.", "a": "put a face to the name" },
+            { "vi": "Dạo này anh/chị thế nào?", "blank": "__________?", "a": "How have you been" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Rất vui được gặp anh/chị — cuối cùng cũng biết mặt.", "a": "Nice to meet you — good to put a face to the name." },
+            { "vi": "2. Rất vui được gặp lại Nam.", "a": "Good to see you again, Nam." },
+            { "vi": "3. Rất vui vì đã được gặp anh/chị. Mong sớm gặp lại.", "a": "It was nice meeting you. Hope to see you again soon." },
+            { "vi": "4. Lâu quá không gặp! Bạn chẳng thay đổi gì cả.", "a": "Long time no see! You haven't changed a bit." },
+            { "vi": "5. Hân hạnh được gặp anh/chị. Tôi là Nam, bên tài chính.", "a": "Pleased to meet you. I'm Nam, from finance." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật vàng:</b> lần đầu thì <b>meet</b>, gặp lại thì <b>see</b>. Nhầm chỗ này là ngầm bảo người ta rằng bạn quên họ.",
+            "<b>Lúc chia tay đổi sang V-ing:</b> <i>It was nice <b>meeting</b> you.</i> — không phải <i>to meet</i>.",
+            "<b>Đừng quên chữ “too” khi đáp lại</b>, hoặc nói gọn <i>You too</i> / <i>Likewise</i>.",
+            "<b>“How do you do?” không phải câu hỏi</b> — đáp lại bằng chính câu đó.",
+            "<b>Học thuộc “Good to put a face to the name”</b> — câu tuyệt hay khi gặp trực tiếp người bạn chỉ từng email.",
+            "<b>Bài tập 3 phút:</b> viết bốn câu chào cho bốn tình huống — lần đầu gặp, chia tay sau lần đầu, gặp lại sau một tuần, gặp lại sau năm năm."
+          ]
+        }
+      ]
+    }
+  ]
+}

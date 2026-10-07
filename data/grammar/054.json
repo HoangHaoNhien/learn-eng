@@ -1,0 +1,277 @@
+{
+  "id": 54,
+  "group": "Nhóm 1 · Nền móng câu tiếng Anh",
+  "title": "Quy tắc chính tả khi thêm -s, -ed, -ing",
+  "subtitle": "studys, stoped, makeing — ba lỗi này đều đến từ việc không nhìn chữ cái NGAY TRƯỚC đuôi. Chữ đó quyết định tất cả: y đổi hay giữ, e bỏ hay không, phụ âm cuối có gấp đôi hay không.",
+  "meaning": "Viết đúng động từ và danh từ khi thêm đuôi",
+  "rule": [
+    "Nhìn <em>chữ ngay trước đuôi</em> để quyết định",
+    "<em>y</em> → <em>ies</em> chỉ khi trước nó là PHỤ ÂM",
+    "Gấp đôi phụ âm khi <em>1 nguyên âm + 1 phụ âm</em> và trọng âm ở cuối"
+  ],
+  "tags": [
+    { "text": "Trình độ: A1–A2", "hot": true },
+    { "text": "studys · stoped · makeing ✗" },
+    { "text": "Nền móng — học sớm" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [5, 86, 92, 95, 96],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Mọi bài về thì đều bắt bạn thêm <b>-s</b>, <b>-ed</b>, <b>-ing</b> vào động từ — nhưng không bài nào dạy <b>viết thế nào cho đúng</b>. Toàn bộ luật nằm ở <b>chữ cái ngay trước đuôi</b>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — chữ <i>y</i>:</b> chỉ đổi thành <b>-ies</b> khi <b>trước <i>y</i> là PHỤ ÂM</b>.<br>• phụ âm + y → đổi: <i>stud<b>y</b> → stud<b>ies</b></i> · <i>tr<b>y</b> → tr<b>ied</b></i><br>• nguyên âm + y → giữ nguyên: <i>pl<b>ay</b> → pl<b>ays</b></i> · <i>enj<b>oy</b> → enj<b>oyed</b></i><br><i>studys</i> ✗ · <i>plaies</i> ✗ — hai lỗi ngược nhau, cùng một nguyên nhân là không nhìn chữ trước <i>y</i>.<br>Riêng <b>-ing</b> thì <b>y luôn giữ nguyên</b>: <i>studying, playing, trying</i>." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — gấp đôi phụ âm cuối.</b> Chỉ gấp đôi khi đủ <b>CẢ HAI</b> điều kiện:<br>① từ kết thúc bằng <b>1 nguyên âm + 1 phụ âm</b>, và ② <b>trọng âm rơi vào âm tiết cuối</b>.<br>• <i>stop → sto<b>pp</b>ed</i> ✓ (một tiếng, luôn thỏa)<br>• <i>be<b>GIN</b> → begi<b>nn</b>ing</i> ✓ (trọng âm cuối)<br>• <i><b>VIS</b>it → visited</i> ✓ — KHÔNG gấp đôi, vì trọng âm ở đầu. <i>visitted</i> ✗<br>• <i>rain → rained</i> ✓ — KHÔNG gấp đôi, vì có HAI nguyên âm. <i>rainned</i> ✗" },
+        { "t": "h3", "text": "Bốn luật phải thuộc" },
+        {
+          "t": "table",
+          "head": ["Chữ trước đuôi", "Làm gì", "Ví dụ"],
+          "rows": [
+            ["Phụ âm + <code>y</code>", "Đổi <code>y</code> thành <code>i</code> (trừ <code>-ing</code>)", "study → studies, studied, studying"],
+            ["Nguyên âm + <code>y</code>", "Giữ nguyên <code>y</code>", "play → plays, played, playing"],
+            ["<code>e</code> câm ở cuối", "Bỏ <code>e</code> trước <code>-ing</code>/<code>-ed</code>", "make → making · live → lived, living"],
+            ["1 nguyên âm + 1 phụ âm, trọng âm cuối", "Gấp đôi phụ âm", "stop → stopped · begin → beginning"]
+          ]
+        },
+        { "t": "p", "html": "Ba đuôi này dùng ở khắp nơi: <b>-s</b> cho hiện tại đơn [Ngữ pháp 01] và số nhiều [Ngữ pháp 23], <b>-ed</b> cho quá khứ [Ngữ pháp 03], <b>-ing</b> cho tiếp diễn [Ngữ pháp 02]." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Trường hợp", "Luật", "Ví dụ"],
+          "rows": [
+            ["Bình thường + <code>-s</code>", "Thêm thẳng", "work → works · read → reads"],
+            ["Tận cùng <code>s, x, z, ch, sh, o</code>", "Thêm <code>-es</code>", "watch → watches · go → goes"],
+            ["Phụ âm + <code>y</code> + <code>-s</code>", "<code>y</code> → <code>ies</code>", "study → studies · fly → flies"],
+            ["Nguyên âm + <code>y</code> + <code>-s</code>", "Giữ <code>y</code>", "play → plays · buy → buys"],
+            ["Bình thường + <code>-ed</code>", "Thêm thẳng", "work → worked"],
+            ["Tận cùng <code>e</code> + <code>-ed</code>", "Chỉ thêm <code>-d</code>", "live → lived · like → liked"],
+            ["Phụ âm + <code>y</code> + <code>-ed</code>", "<code>y</code> → <code>ied</code>", "try → tried · study → studied"],
+            ["1 nguyên âm + 1 phụ âm, trọng âm cuối", "Gấp đôi + <code>-ed</code>", "stop → stopped · plan → planned"],
+            ["Trọng âm KHÔNG ở cuối", "Không gấp đôi", "visit → visited · open → opened"],
+            ["Tận cùng <code>e</code> + <code>-ing</code>", "Bỏ <code>e</code>", "make → making · write → writing"],
+            ["Tận cùng <code>ie</code> + <code>-ing</code>", "<code>ie</code> → <code>y</code>", "lie → lying · die → dying"],
+            ["Mọi từ + <code>-ing</code>", "<code>y</code> luôn giữ nguyên", "study → studying · play → playing"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Hai ngoại lệ nhỏ cần nhớ riêng:</b><br>• <i>be → is/are</i>, <i>have → has</i>, <i>do → does</i>, <i>go → goes</i> — bất quy tắc hoàn toàn.<br>• Động từ bất quy tắc không có <b>-ed</b>: <i>go → went → gone</i>. Luật chính tả ở đây chỉ áp cho động từ <b>có quy tắc</b>. Xem [Ngữ pháp 03]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "She studies English every day.", "vi": "Ngày nào cô ấy cũng học tiếng Anh.", "note": "BẪY SỐ MỘT: phụ âm <i>d</i> trước <i>y</i> → <b>studies</b>. <i>studys</i> ✗." },
+            { "en": "He plays football on Sundays.", "vi": "Chủ nhật anh ấy đá bóng.", "note": "Nguyên âm <i>a</i> trước <i>y</i> → giữ nguyên. <i>plaies</i> ✗." },
+            { "en": "She watches TV after dinner.", "vi": "Ăn tối xong cô ấy xem ti vi.", "note": "Tận cùng <i>ch</i> nên thêm <b>-es</b>." },
+            { "en": "He goes to work by bus.", "vi": "Anh ấy đi làm bằng xe buýt.", "note": "Tận cùng <i>o</i> cũng thêm <b>-es</b>. Xem [Ngữ pháp 01]." },
+            { "en": "The bus stopped suddenly.", "vi": "Xe buýt dừng đột ngột.", "note": "BẪY SỐ HAI: một tiếng, 1 nguyên âm + 1 phụ âm → gấp đôi. <i>stoped</i> ✗." },
+            { "en": "We visited her last week.", "vi": "Tuần trước bọn tôi tới thăm cô ấy.", "note": "Trọng âm ở đầu (<b>VIS</b>-it) nên KHÔNG gấp đôi. <i>visitted</i> ✗." },
+            { "en": "It rained all day yesterday.", "vi": "Hôm qua mưa cả ngày.", "note": "Có HAI nguyên âm <i>ai</i> nên không gấp đôi. <i>rainned</i> ✗." },
+            { "en": "I'm making dinner right now.", "vi": "Tôi đang nấu bữa tối.", "note": "Bỏ <i>e</i> câm trước <b>-ing</b>. <i>makeing</i> ✗. Xem [Khung 92]." },
+            { "en": "He's beginning to understand.", "vi": "Anh ấy bắt đầu hiểu ra.", "note": "Trọng âm ở cuối (be-<b>GIN</b>) nên gấp đôi <i>n</i>." },
+            { "en": "She tried to call you twice.", "vi": "Cô ấy đã gọi bạn hai lần.", "note": "Phụ âm <i>r</i> trước <i>y</i> → <b>tried</b>." },
+            { "en": "I'm studying for the exam.", "vi": "Tôi đang học thi.", "note": "Với <b>-ing</b> thì <i>y</i> LUÔN giữ nguyên. <i>studiing</i> ✗." },
+            { "en": "He's lying on the sofa.", "vi": "Anh ấy đang nằm trên ghế sofa.", "note": "<i>lie</i> → <b>lying</b>: <i>ie</i> đổi thành <i>y</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "✍️", "title": "Chia hiện tại đơn", "text": "Ngôi thứ ba thêm <b>-s/-es</b>. Xem [Ngữ pháp 01]." },
+            { "icon": "⏮", "title": "Chia quá khứ có quy tắc", "text": "Thêm <b>-ed</b>. Xem [Ngữ pháp 03]." },
+            { "icon": "🔄", "title": "Chia tiếp diễn", "text": "Thêm <b>-ing</b>. Xem [Ngữ pháp 02]." },
+            { "icon": "📦", "title": "Viết danh từ số nhiều", "text": "Cùng luật <b>-s/-es</b>. Xem [Ngữ pháp 23]." },
+            { "icon": "🗣", "title": "Sau giới từ", "text": "Luôn là V-ing. Xem [Ngữ pháp 25]." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Động từ bất quy tắc không theo luật <b>-ed</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một động từ ở cột trái để xem nó đổi chính tả thế nào và vì sao." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Đổi chính tả khi thêm -s / -es",
+              "items": [
+                { "w": "study → studies", "vi": "học", "ex": "She studies English every day.", "exvi": "Ngày nào cô ấy cũng học tiếng Anh.", "note": "Phụ âm <i>d</i> trước <i>y</i> → đổi thành <b>ies</b>. <i>studys</i> ✗." },
+                { "w": "fly → flies", "vi": "bay", "ex": "Time flies.", "exvi": "Thời gian trôi nhanh thật." },
+                { "w": "try → tries", "vi": "thử, cố", "ex": "He tries his best.", "exvi": "Anh ấy cố hết sức." },
+                { "w": "play → plays", "vi": "chơi", "ex": "He plays football.", "exvi": "Anh ấy đá bóng.", "note": "Nguyên âm <i>a</i> trước <i>y</i> → GIỮ NGUYÊN. <i>plaies</i> ✗." },
+                { "w": "buy → buys", "vi": "mua", "ex": "She buys coffee every morning.", "exvi": "Sáng nào cô ấy cũng mua cà phê." },
+                { "w": "watch → watches", "vi": "xem", "ex": "She watches TV at night.", "exvi": "Tối cô ấy xem ti vi.", "note": "Tận cùng <i>ch</i> thì thêm <b>-es</b>." },
+                { "w": "finish → finishes", "vi": "kết thúc", "ex": "He finishes work at six.", "exvi": "Sáu giờ anh ấy xong việc." },
+                { "w": "fix → fixes", "vi": "sửa", "ex": "He fixes computers.", "exvi": "Anh ấy sửa máy tính.", "note": "Tận cùng <i>x</i> cũng thêm <b>-es</b>." },
+                { "w": "go → goes", "vi": "đi", "ex": "He goes to work by bus.", "exvi": "Anh ấy đi làm bằng buýt.", "note": "Tận cùng <i>o</i> thì thêm <b>-es</b>." },
+                { "w": "do → does", "vi": "làm", "ex": "She does the dishes.", "exvi": "Cô ấy rửa bát.", "note": "Cũng là trợ động từ trong câu hỏi. Xem [Ngữ pháp 44]." },
+                { "w": "have → has", "vi": "có", "ex": "He has two children.", "exvi": "Anh ấy có hai con.", "note": "Bất quy tắc — phải nhớ riêng." },
+                { "w": "be → is / are", "vi": "thì, là, ở", "ex": "She is a teacher.", "exvi": "Cô ấy là giáo viên.", "note": "Bất quy tắc hoàn toàn." }
+              ]
+            },
+            {
+              "title": "Đổi chính tả khi thêm -ed / -ing",
+              "items": [
+                { "w": "stop → stopped", "vi": "dừng", "ex": "The bus stopped suddenly.", "exvi": "Xe buýt dừng đột ngột.", "note": "BẪY SỐ HAI: 1 nguyên âm + 1 phụ âm → gấp đôi. <i>stoped</i> ✗." },
+                { "w": "plan → planned", "vi": "lên kế hoạch", "ex": "We planned the trip together.", "exvi": "Bọn tôi cùng lên kế hoạch chuyến đi." },
+                { "w": "begin → beginning", "vi": "bắt đầu", "ex": "He's beginning to understand.", "exvi": "Anh ấy bắt đầu hiểu ra.", "note": "Trọng âm ở âm tiết cuối (be-<b>GIN</b>) nên gấp đôi." },
+                { "w": "visit → visited", "vi": "thăm", "ex": "We visited her last week.", "exvi": "Tuần trước bọn tôi tới thăm cô ấy.", "note": "Trọng âm ở ĐẦU (<b>VIS</b>-it) nên KHÔNG gấp đôi. <i>visitted</i> ✗." },
+                { "w": "open → opened", "vi": "mở", "ex": "The shop opened at nine.", "exvi": "Cửa hàng mở lúc chín giờ." },
+                { "w": "rain → rained", "vi": "mưa", "ex": "It rained all day.", "exvi": "Mưa cả ngày.", "note": "Hai nguyên âm <i>ai</i> nên không gấp đôi. <i>rainned</i> ✗." },
+                { "w": "live → lived / living", "vi": "sống", "ex": "I'm living in Hanoi now.", "exvi": "Giờ tôi sống ở Hà Nội.", "note": "Tận cùng <i>e</i> câm: thêm <b>-d</b>, và bỏ <i>e</i> trước <b>-ing</b>." },
+                { "w": "make → making", "vi": "làm, nấu", "ex": "I'm making dinner.", "exvi": "Tôi đang nấu bữa tối.", "note": "Bỏ <i>e</i> câm. <i>makeing</i> ✗. Xem [Khung 92]." },
+                { "w": "write → writing", "vi": "viết", "ex": "She's writing an email.", "exvi": "Cô ấy đang viết email." },
+                { "w": "try → tried", "vi": "cố, thử", "ex": "She tried to call you.", "exvi": "Cô ấy đã gọi bạn." },
+                { "w": "enjoy → enjoyed", "vi": "thích, tận hưởng", "ex": "I really enjoyed the trip.", "exvi": "Tôi rất thích chuyến đi.", "note": "Nguyên âm <i>o</i> trước <i>y</i> nên giữ nguyên. Xem [Ngữ pháp 24]." },
+                { "w": "lie → lying", "vi": "nằm, nói dối", "ex": "He's lying on the sofa.", "exvi": "Anh ấy đang nằm trên sofa.", "note": "<i>ie</i> đổi thành <b>y</b> trước <b>-ing</b>. Cùng luật: <i>die → dying</i>." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "She <b>studys</b> English.", "right": "She <b>studies</b> English.", "why": "BẪY SỐ MỘT: phụ âm <i>d</i> đứng trước <i>y</i> nên phải đổi thành <b>ies</b>." },
+            { "wrong": "He <b>plaies</b> football.", "right": "He <b>plays</b> football.", "why": "Lỗi ngược lại: nguyên âm <i>a</i> trước <i>y</i> thì GIỮ NGUYÊN." },
+            { "wrong": "I'm <b>studiing</b> for the exam.", "right": "I'm <b>studying</b> for the exam.", "why": "Với <b>-ing</b> thì <i>y</i> luôn giữ nguyên, không bao giờ đổi." },
+            { "wrong": "The bus <b>stoped</b>.", "right": "The bus <b>stopped</b>.", "why": "BẪY SỐ HAI: một tiếng, 1 nguyên âm + 1 phụ âm → gấp đôi phụ âm cuối." },
+            { "wrong": "We <b>visitted</b> her.", "right": "We <b>visited</b> her.", "why": "Trọng âm ở âm tiết ĐẦU nên không gấp đôi — khác hẳn <i>stop</i>." },
+            { "wrong": "It <b>rainned</b> all day.", "right": "It <b>rained</b> all day.", "why": "<i>rain</i> có HAI nguyên âm <i>ai</i> nên không thỏa điều kiện gấp đôi." },
+            { "wrong": "I'm <b>makeing</b> dinner.", "right": "I'm <b>making</b> dinner.", "why": "Phải bỏ <i>e</i> câm trước khi thêm <b>-ing</b>." },
+            { "wrong": "He <b>gos</b> to work by bus.", "right": "He <b>goes</b> to work by bus.", "why": "Tận cùng bằng <i>o</i> thì thêm <b>-es</b>, không phải <i>-s</i>." },
+            { "wrong": "She <b>watchs</b> TV.", "right": "She <b>watches</b> TV.", "why": "Tận cùng <i>ch</i> thì thêm <b>-es</b> — cùng nhóm với <i>s, x, z, sh</i>." },
+            { "wrong": "He's <b>lieing</b> on the sofa.", "right": "He's <b>lying</b> on the sofa.", "why": "Tận cùng <i>ie</i> thì đổi thành <b>y</b> trước <b>-ing</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>studies</code> / <code>plays</code>", "Phụ âm + y / nguyên âm + y", "study → studies ≠ play → plays"],
+            ["<code>studied</code> / <code>studying</code>", "<code>-ed</code> đổi y / <code>-ing</code> giữ y", "studied ≠ studying"],
+            ["<code>stopped</code> / <code>visited</code>", "Trọng âm cuối / trọng âm đầu", "stopped ≠ visited"],
+            ["<code>stopped</code> / <code>rained</code>", "1 nguyên âm / 2 nguyên âm", "stopped ≠ rained"],
+            ["<code>making</code> / <code>watching</code>", "Có e câm thì bỏ / không có thì giữ", "make → making ≠ watch → watching"],
+            ["<code>lying</code> / <code>living</code>", "<code>ie</code> → y / bỏ e", "lie → lying ≠ live → living"],
+            ["<code>-ed</code> có quy tắc / bất quy tắc", "Luật chính tả chỉ áp cho loại có quy tắc", "worked ≠ went"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: thêm đuôi thế nào cho đúng?" },
+        {
+          "t": "tree",
+          "q": "Nhìn vào chữ cái NGAY TRƯỚC chỗ bạn sắp thêm đuôi.",
+          "nodes": [
+            { "if": "Phụ âm + y, thêm -s hoặc -ed", "then": "Đổi y thành i", "ex": "study → studies, studied" },
+            { "if": "Nguyên âm + y", "then": "Giữ nguyên y", "ex": "play → plays, played" },
+            { "if": "Đang thêm -ing", "then": "y luôn giữ nguyên", "ex": "study → studying" },
+            { "if": "Có e câm ở cuối, thêm -ing", "then": "Bỏ e", "ex": "make → making" },
+            { "if": "1 nguyên âm + 1 phụ âm, trọng âm cuối", "then": "Gấp đôi phụ âm", "ex": "stop → stopped · begin → beginning" },
+            { "if": "Tận cùng s, x, z, ch, sh, o", "then": "Thêm -es", "ex": "watch → watches · go → goes" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ khó của bốn luật — học theo thứ tự này" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "work → works, worked, working", "vi": "Dễ nhất — thêm thẳng" },
+            { "en": "watch → watches", "vi": "Nhớ nhóm s, x, z, ch, sh, o" },
+            { "en": "make → making", "vi": "Bỏ e câm" },
+            { "en": "study → studies ≠ play → plays", "vi": "Nhìn chữ trước y" },
+            { "en": "stop → stopped ≠ visit → visited", "vi": "Khó nhất — phải biết trọng âm" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Luật chính tả này áp vào mọi khung câu có chia động từ. Rõ nhất ở những khung sau." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 92, "why": "I'm + V-ing — mọi động từ đuôi -ing đều phải qua luật bỏ e và gấp đôi phụ âm." },
+            { "id": 96, "why": "When I was…, I + V2 — nơi đuôi -ed và động từ bất quy tắc gặp nhau." },
+            { "id": 95, "why": "I've just + V3 — phân biệt V2/V3 có quy tắc với bất quy tắc." },
+            { "id": 86, "why": "I'm looking forward to + V-ing — V-ing sau giới từ, vẫn theo luật chính tả này." },
+            { "id": 5, "why": "I feel like + V-ing — một chỗ nữa bắt buộc viết đúng đuôi -ing." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Viết đúng dạng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Ngày nào cô ấy cũng học tiếng Anh.", "blank": "She __________ English every day.  (study)", "a": "studies" },
+            { "vi": "Chủ nhật anh ấy đá bóng.", "blank": "He __________ football on Sundays.  (play)", "a": "plays" },
+            { "vi": "Anh ấy đi làm bằng xe buýt.", "blank": "He __________ to work by bus.  (go)", "a": "goes" },
+            { "vi": "Xe buýt dừng đột ngột.", "blank": "The bus __________ suddenly.  (stop)", "a": "stopped" },
+            { "vi": "Tuần trước bọn tôi tới thăm cô ấy.", "blank": "We __________ her last week.  (visit)", "a": "visited" },
+            { "vi": "Tôi đang nấu bữa tối.", "blank": "I'm __________ dinner.  (make)", "a": "making" },
+            { "vi": "Tôi đang học thi.", "blank": "I'm __________ for the exam.  (study)", "a": "studying" },
+            { "vi": "Anh ấy đang nằm trên ghế sofa.", "blank": "He's __________ on the sofa.  (lie)", "a": "lying" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn cách viết đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Cô ấy học tiếng Anh.", "blank": "(a) She studys English.  (b) She studies English.", "a": "(b)" },
+            { "vi": "Anh ấy đá bóng.", "blank": "(a) He plaies football.  (b) He plays football.", "a": "(b)" },
+            { "vi": "Bọn tôi tới thăm cô ấy.", "blank": "(a) We visitted her.  (b) We visited her.", "a": "(b)" },
+            { "vi": "Tôi đang nấu bữa tối.", "blank": "(a) I'm makeing dinner.  (b) I'm making dinner.", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Ngày nào cô ấy cũng học tiếng Anh.", "a": "She studies English every day." },
+            { "vi": "2. Hôm qua mưa cả ngày.", "a": "It rained all day yesterday." },
+            { "vi": "3. Anh ấy bắt đầu hiểu ra.", "a": "He's beginning to understand." },
+            { "vi": "4. Tối cô ấy xem ti vi.", "a": "She watches TV at night." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật một dòng:</b> trước khi thêm đuôi, <b>nhìn chữ cái ngay trước nó</b>. Chữ đó quyết định tất cả.",
+            "<b>Chữ <i>y</i>:</b> trước nó là phụ âm thì đổi (<i>studies</i>), là nguyên âm thì giữ (<i>plays</i>). Riêng <b>-ing</b> thì luôn giữ.",
+            "<b>Gấp đôi phụ âm cần ĐỦ HAI điều kiện:</b> 1 nguyên âm + 1 phụ âm, VÀ trọng âm ở âm tiết cuối. Thiếu một là không gấp.",
+            "<b>Mẹo nhanh:</b> từ <b>một tiếng</b> như <i>stop, plan, run</i> thì gần như luôn gấp đôi; từ nhiều tiếng thì phải nghe trọng âm.",
+            "<b>Sáu chữ cái đòi <i>-es</i>:</b> <code>s · x · z · ch · sh · o</code>. Đọc thành một câu cho dễ thuộc.",
+            "<b>Bài tập 3 phút:</b> lấy sáu động từ <i>study, play, stop, visit, make, lie</i> rồi viết cả ba dạng <b>-s / -ed / -ing</b> của từng từ."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "id": 73,
+  "group": "Nhóm 8 · Giới thiệu & Xã giao",
+  "title": "This is… — Giới thiệu người khác",
+  "subtitle": "Giới thiệu hai người với nhau là một kỹ năng xã giao nhỏ nhưng tạo ấn tượng lớn. Tiếng Anh có một quy tắc cố định mà người Việt hay bỏ qua: người đang đứng trước mặt bạn không bao giờ được gọi là he hay she — họ phải là this.",
+  "pattern": [
+    "This is <em>+ tên</em>.",
+    "This is <em>+ tên</em>, <em>+ vai trò</em>.",
+    "<em>Tên A</em>, this is <em>tên B</em>."
+  ],
+  "meaning": "Đây là… (giới thiệu người khác)",
+  "grammar": [23, 45, 53, 60],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Bẫy “he is” / “this is”" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "Khi giới thiệu một người <b>đang có mặt</b>, tiếng Anh bắt buộc dùng <span class=\"k\">This is…</span> chứ không phải <i>He is</i> hay <i>She is</i>. Lý do rất đơn giản: <i>he/she</i> dùng để nói <b>về</b> ai đó vắng mặt, còn <i>this</i> là chỉ thẳng vào người đang đứng đây." },
+        { "t": "p", "html": "Nói <i>She is my colleague, Mai</i> khi Mai đang đứng cạnh nghe như bạn đang kể về cô ấy với người thứ ba — một cảm giác hơi lạnh lùng, như thể cô ấy không có mặt." },
+        { "t": "p", "html": "Lời giới thiệu tốt luôn có <b>thêm một chi tiết</b>: <i>This is Mai, she leads the design team.</i> Chi tiết đó cho hai người kia một cái cớ để bắt chuyện — không có nó, cuộc trò chuyện dễ rơi vào im lặng." },
+        { "t": "callout", "html": "<b>QUY TẮC THỨ TỰ:</b> giới thiệu người <b>ít quan trọng hơn</b> cho người <b>quan trọng hơn</b> trước. <i>Mr Brown, this is Nam, our new analyst.</i> — tên của người được kính trọng được gọi trước." },
+        { "t": "h3", "text": "Bốn cách giới thiệu" },
+        {
+          "t": "table",
+          "head": ["Câu", "Độ trang trọng", "Dùng khi"],
+          "rows": [
+            ["<code>This is Mai.</code>", "Thân mật, tự nhiên", "Bạn bè, đồng nghiệp"],
+            ["<code>This is Mai, she leads design.</code>", "Tự nhiên, hữu ích", "Thêm cớ để bắt chuyện"],
+            ["<code>I'd like you to meet Mai.</code>", "Trang trọng", "Khách hàng, sự kiện"],
+            ["<code>Have you two met?</code>", "Khéo léo", "Khi chưa chắc họ đã quen"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Khi không chắc hai người đã quen chưa,</b> đừng đoán — hỏi trước: <i>Have you two met?</i> Câu này cứu bạn khỏi tình huống ngượng khi họ vốn đã biết nhau từ lâu." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🤝", "title": "Giới thiệu hai người quen bạn", "text": "Bối cảnh số 1. <i>Mai, this is Nam.</i>" },
+            { "icon": "💼", "title": "Giới thiệu đồng nghiệp với khách", "text": "<i>This is Mai, she leads the design team.</i>" },
+            { "icon": "🎩", "title": "Sự kiện trang trọng", "text": "<i>I'd like you to meet Ms Tran.</i>" },
+            { "icon": "❓", "title": "Chưa chắc họ đã quen", "text": "<i>Have you two met?</i> Hỏi trước cho an toàn." },
+            { "icon": "👨‍👩‍👧", "title": "Giới thiệu người nhà", "text": "<i>This is my wife, Mai.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Người đó vắng mặt. Lúc đó mới dùng <i>He is / She is</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cơ bản", "<code>This is + tên.</code>", "This is Mai."],
+            ["Kèm vai trò", "<code>This is + tên, + vai trò.</code>", "This is Mai, our designer."],
+            ["Kèm mệnh đề", "<code>This is + tên, + mệnh đề.</code>", "This is Mai, she leads design."],
+            ["Giới thiệu hai chiều", "<code>A, this is B. B, A.</code>", "Mai, this is Nam. Nam, Mai."],
+            ["Nhiều người", "<code>These are + tên.</code>", "These are my colleagues, Mai and Nam."],
+            ["Trang trọng", "<code>I'd like you to meet + tên.</code>", "I'd like you to meet Ms Tran."],
+            ["Rất trang trọng", "<code>May I introduce + tên?</code>", "May I introduce Mr Brown?"],
+            ["Hỏi trước", "<code>Have you two met?</code>", "Have you two met?"],
+            ["Hỏi khác", "<code>Do you know each other?</code>", "Do you two know each other?"],
+            ["Nhắc lại tên", "<code>Sorry, this is…</code>", "Sorry — this is Mai, from design."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Giới thiệu hai chiều là chuẩn mực.</b> Đừng chỉ giới thiệu một người rồi dừng: <i>Mai, this is Nam. Nam, Mai.</i> — cả hai đều biết tên nhau, không ai bị bỏ rơi." },
+        { "t": "callout", "html": "<b>Nhiều người thì dùng “These are”:</b> <i>These are my colleagues, Mai and Nam.</i> Nhưng khi chỉ vào từng người một thì vẫn dùng <i>This is…</i> cho mỗi người." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Vai trò hay được nêu kèm",
+              "items": [
+                { "w": "my colleague", "vi": "đồng nghiệp của tôi", "ex": "This is my colleague, Mai.", "exvi": "Đây là đồng nghiệp của tôi, Mai.", "note": "Dùng <b>This is</b>, không dùng <i>She is</i> khi người đó đang có mặt." },
+                { "w": "my manager", "vi": "quản lý của tôi", "ex": "This is my manager, Ms Tran.", "exvi": "Đây là quản lý của tôi, chị Trần." },
+                { "w": "my wife", "vi": "vợ tôi", "ex": "This is my wife, Mai.", "exvi": "Đây là vợ tôi, Mai." },
+                { "w": "my husband", "vi": "chồng tôi", "ex": "This is my husband, Nam.", "exvi": "Đây là chồng tôi, Nam." },
+                { "w": "a friend of mine", "vi": "một người bạn của tôi", "ex": "This is a friend of mine, Mai.", "exvi": "Đây là một người bạn của tôi, Mai.", "note": "<i>a friend of mine</i> tự nhiên hơn <i>my friend</i> khi giới thiệu người lạ." },
+                { "w": "our new analyst", "vi": "chuyên viên mới của chúng tôi", "ex": "This is Nam, our new analyst.", "exvi": "Đây là Nam, chuyên viên mới của chúng tôi." },
+                { "w": "from the design team", "vi": "bên đội thiết kế", "ex": "This is Mai, from the design team.", "exvi": "Đây là Mai, bên đội thiết kế." },
+                { "w": "who I told you about", "vi": "người tôi kể với bạn", "ex": "This is Mai, who I told you about.", "exvi": "Đây là Mai, người mình kể với bạn đấy.", "note": "Nối hai người lại bằng một điểm chung — rất khéo." },
+                { "w": "we work together", "vi": "chúng tôi làm cùng nhau", "ex": "This is Nam — we work together.", "exvi": "Đây là Nam — bọn mình làm cùng nhau." },
+                { "w": "she leads design", "vi": "cô ấy phụ trách thiết kế", "ex": "This is Mai, she leads design.", "exvi": "Đây là Mai, chị ấy phụ trách thiết kế.", "note": "Thêm một mệnh đề cho hai người kia cái cớ bắt chuyện." },
+                { "w": "an old friend", "vi": "bạn cũ, bạn lâu năm", "ex": "This is Nam, an old friend.", "exvi": "Đây là Nam, một người bạn cũ.", "note": "<i>an old friend</i> = bạn lâu năm. <i>my old friend</i> dễ bị hiểu là “người bạn già”." },
+                { "w": "our guest", "vi": "khách của chúng tôi", "ex": "This is our guest, Mr Brown.", "exvi": "Đây là khách của chúng tôi, ông Brown." }
+              ]
+            },
+            {
+              "title": "Các cách giới thiệu khác",
+              "items": [
+                { "w": "I'd like you to meet", "vi": "tôi muốn giới thiệu bạn với", "ex": "I'd like you to meet Ms Tran.", "exvi": "Tôi muốn giới thiệu anh/chị với chị Trần.", "note": "Trang trọng — hợp khách hàng và sự kiện." },
+                { "w": "May I introduce…?", "vi": "cho phép tôi giới thiệu…?", "ex": "May I introduce Mr Brown?", "exvi": "Cho phép tôi giới thiệu ông Brown?", "note": "Trang trọng nhất — sự kiện chính thức, nghi lễ." },
+                { "w": "Have you two met?", "vi": "hai người gặp nhau chưa?", "ex": "Have you two met?", "exvi": "Hai người đã gặp nhau chưa?", "note": "Hỏi trước khi giới thiệu — cứu bạn khỏi tình huống ngượng." },
+                { "w": "Do you know each other?", "vi": "hai người biết nhau không?", "ex": "Do you two know each other?", "exvi": "Hai người có biết nhau không?" },
+                { "w": "Let me introduce you", "vi": "để tôi giới thiệu", "ex": "Let me introduce you to Mai.", "exvi": "Để tôi giới thiệu anh/chị với Mai.", "note": "<i>introduce someone <b>to</b> someone</i> — đừng quên <i>to</i>." },
+                { "w": "These are", "vi": "đây là (nhiều người)", "ex": "These are my colleagues, Mai and Nam.", "exvi": "Đây là các đồng nghiệp của tôi, Mai và Nam.", "note": "Nhiều người thì dùng <b>These are</b>." },
+                { "w": "You must know", "vi": "chắc anh/chị biết", "ex": "You must know Mai, from design.", "exvi": "Chắc anh/chị biết Mai bên thiết kế." },
+                { "w": "I don't think you've met", "vi": "hình như hai người chưa gặp", "ex": "I don't think you've met — this is Nam.", "exvi": "Hình như hai người chưa gặp — đây là Nam.", "note": "Cách dẫn vào rất mượt khi bạn khá chắc họ chưa quen." },
+                { "w": "I'll leave you two to it", "vi": "tôi để hai người nói chuyện", "ex": "I'll leave you two to it.", "exvi": "Tôi để hai người nói chuyện nhé.", "note": "Câu rút lui lịch sự sau khi đã giới thiệu xong." },
+                { "w": "You two have a lot in common", "vi": "hai người có nhiều điểm chung", "ex": "You two have a lot in common.", "exvi": "Hai người có nhiều điểm chung lắm.", "note": "Gợi ý chủ đề cho họ nói — một lời giới thiệu chu đáo." },
+                { "w": "Mai, this is Nam", "vi": "Mai, đây là Nam", "ex": "Mai, this is Nam. Nam, Mai.", "exvi": "Mai, đây là Nam. Nam, đây là Mai.", "note": "Giới thiệu HAI CHIỀU — chuẩn mực, không ai bị bỏ rơi." },
+                { "w": "Sorry, I should introduce you", "vi": "xin lỗi, lẽ ra tôi phải giới thiệu", "ex": "Sorry, I should introduce you two.", "exvi": "Xin lỗi, lẽ ra tôi phải giới thiệu hai người." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "Nice to meet you", "vi": "rất vui được gặp bạn", "ex": "Nice to meet you, Mai.", "exvi": "Rất vui được gặp Mai. Xem [Khung 72]." },
+                { "w": "We've met, actually", "vi": "thật ra bọn tôi gặp rồi", "ex": "We've met, actually — at the conference.", "exvi": "Thật ra bọn tôi gặp rồi — ở hội thảo.", "note": "Cách sửa lại lịch sự khi người giới thiệu không biết hai bên đã quen." },
+                { "w": "Yes, we go way back", "vi": "vâng, bọn tôi quen từ lâu", "ex": "Yes, we go way back.", "exvi": "Vâng, bọn tôi quen từ lâu rồi.", "note": "<i>go way back</i> = quen nhau từ rất lâu. Thành ngữ ấm áp." },
+                { "w": "I've heard a lot about you", "vi": "tôi nghe nói nhiều về bạn", "ex": "I've heard a lot about you.", "exvi": "Tôi nghe nói nhiều về anh/chị lắm." },
+                { "w": "What do you do?", "vi": "bạn làm nghề gì?", "ex": "What do you do, Mai?", "exvi": "Mai làm nghề gì vậy?", "note": "Câu hỏi tiếp tự nhiên nhất sau lời giới thiệu. Xem [Khung 75]." },
+                { "w": "How do you two know each other?", "vi": "hai người quen nhau thế nào?", "ex": "How do you two know each other?", "exvi": "Hai người quen nhau thế nào vậy?", "note": "Câu hỏi mở rất hay — cho cả hai người cùng kể." },
+                { "w": "Pleasure to meet you", "vi": "hân hạnh được gặp", "ex": "Pleasure to meet you.", "exvi": "Hân hạnh được gặp anh/chị." },
+                { "w": "Any friend of Nam's…", "vi": "bạn của Nam thì…", "ex": "Any friend of Nam's is a friend of mine.", "exvi": "Bạn của Nam thì cũng là bạn của tôi.", "note": "Câu xã giao ấm áp và thân thiện." },
+                { "w": "I'll let you two catch up", "vi": "tôi để hai người hàn huyên", "ex": "I'll let you two catch up.", "exvi": "Tôi để hai người hàn huyên nhé." },
+                { "w": "Lovely to put a face to the name", "vi": "cuối cùng cũng biết mặt", "ex": "Lovely to put a face to the name.", "exvi": "Cuối cùng cũng biết mặt anh/chị. Xem [Khung 72]." },
+                { "w": "Not yet, no", "vi": "chưa, chưa gặp", "ex": "Not yet, no.", "exvi": "Chưa, chưa gặp ạ.", "note": "Đáp lại <i>Have you two met?</i> khi chưa quen." },
+                { "w": "Welcome to the team", "vi": "chào mừng gia nhập đội", "ex": "Welcome to the team, Nam.", "exvi": "Chào mừng Nam gia nhập đội." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Mai, this is Nam, our new analyst. Nam, Mai.",
+                  "vi": "Mai, đây là Nam, chuyên viên mới của mình. Nam, đây là Mai.",
+                  "note": "Giới thiệu HAI CHIỀU — chuẩn mực. Cả hai đều biết tên nhau, không ai bị bỏ rơi.",
+                  "open": { "en": "Have you two met?", "vi": "Hai người gặp nhau chưa?" },
+                  "reply": [
+                    { "them": "Nice to meet you, Nam.", "themvi": "Rất vui được gặp Nam.", "you": "Mai leads the design team.", "youvi": "Mai phụ trách đội thiết kế." },
+                    { "them": "We've met, actually — at the conference.", "themvi": "Thật ra bọn mình gặp rồi — ở hội thảo.", "you": "Ah, I should have known.", "youvi": "À, lẽ ra mình phải biết." }
+                  ],
+                  "close": { "en": "I'll leave you two to it.", "vi": "Mình để hai người nói chuyện nhé." }
+                },
+                {
+                  "en": "I'd like you to meet Ms Tran, our head of operations.",
+                  "vi": "Tôi muốn giới thiệu anh/chị với chị Trần, trưởng bộ phận vận hành của chúng tôi.",
+                  "note": "Trang trọng — hợp khi giới thiệu với khách hàng hoặc đối tác quan trọng.",
+                  "reply": [
+                    { "them": "Pleasure to meet you.", "themvi": "Hân hạnh được gặp chị.", "you": "Ms Tran will walk you through the numbers.", "youvi": "Chị Trần sẽ trình bày số liệu cho anh/chị." }
+                  ],
+                  "vars": [
+                    { "en": "May I introduce Ms Tran?", "vi": "Cho phép tôi giới thiệu chị Trần?" }
+                  ]
+                },
+                {
+                  "en": "This is Mai, she leads the design team.",
+                  "vi": "Đây là Mai, chị ấy phụ trách đội thiết kế.",
+                  "note": "Thêm một mệnh đề cho hai người kia cái cớ để bắt chuyện — lời giới thiệu chu đáo.",
+                  "reply": [
+                    { "them": "Oh, I've heard a lot about your team.", "themvi": "Ồ, tôi nghe nói nhiều về đội của chị.", "you": "All good, I hope.", "youvi": "Hy vọng toàn điều tốt." }
+                  ]
+                },
+                {
+                  "en": "I don't think you've met — this is Nam.",
+                  "vi": "Hình như hai người chưa gặp — đây là Nam.",
+                  "note": "Cách dẫn vào rất mượt khi bạn khá chắc họ chưa quen nhau.",
+                  "reply": [
+                    { "them": "Not yet, no. Nice to meet you.", "themvi": "Chưa ạ. Rất vui được gặp anh.", "you": "Nam's just joined finance.", "youvi": "Nam vừa vào bên tài chính." }
+                  ],
+                  "close": { "en": "Welcome to the team, Nam.", "vi": "Chào mừng Nam gia nhập đội." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "This is a friend of mine, Mai.",
+                  "vi": "Đây là một người bạn của mình, Mai.",
+                  "note": "<i>a friend of mine</i> tự nhiên hơn <i>my friend</i> khi giới thiệu với người lạ.",
+                  "reply": [
+                    { "them": "Nice to meet you, Mai.", "themvi": "Rất vui được gặp Mai.", "you": "We've known each other since university.", "youvi": "Bọn mình quen nhau từ hồi đại học." }
+                  ]
+                },
+                {
+                  "en": "This is my wife, Mai.",
+                  "vi": "Đây là vợ mình, Mai.",
+                  "reply": [
+                    { "them": "Lovely to meet you at last.", "themvi": "Cuối cùng cũng được gặp chị.", "you": "Nam talks about you all the time.", "youvi": "Nam nhắc đến anh/chị suốt." }
+                  ],
+                  "vars": [
+                    { "en": "This is my husband, Nam.", "vi": "Đây là chồng mình, Nam." }
+                  ]
+                },
+                {
+                  "en": "This is Mai, who I told you about.",
+                  "vi": "Đây là Mai, người mình kể với bạn đấy.",
+                  "note": "Nối hai người lại bằng một điểm chung sẵn có — cách giới thiệu rất khéo.",
+                  "reply": [
+                    { "them": "Ah, the photographer!", "themvi": "À, nhiếp ảnh gia đây!", "you": "That's the one.", "youvi": "Đúng người luôn." }
+                  ]
+                },
+                {
+                  "en": "Do you two know each other?",
+                  "vi": "Hai người có biết nhau không?",
+                  "note": "Hỏi trước khi giới thiệu — cứu bạn khỏi tình huống ngượng khi họ vốn đã quen.",
+                  "reply": [
+                    { "them": "Yes, we go way back.", "themvi": "Có chứ, bọn mình quen từ lâu rồi.", "you": "Of course you do.", "youvi": "Đúng rồi nhỉ." }
+                  ],
+                  "close": { "en": "I'll let you two catch up.", "vi": "Mình để hai người hàn huyên." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "This is Nam — we work together.",
+                  "vi": "Đây là Nam — bọn mình làm cùng nhau.",
+                  "reply": [
+                    { "them": "Nice to meet you. What do you do?", "themvi": "Rất vui được gặp bạn. Bạn làm nghề gì?", "you": "We're both in finance.", "youvi": "Cả hai bọn mình đều bên tài chính." }
+                  ]
+                },
+                {
+                  "en": "These are my colleagues, Mai and Nam.",
+                  "vi": "Đây là các đồng nghiệp của mình, Mai và Nam.",
+                  "note": "Nhiều người thì dùng <b>These are</b>, không phải <i>This is</i>.",
+                  "reply": [
+                    { "them": "Hello both — welcome.", "themvi": "Chào cả hai — mời vào.", "you": "Thanks for having us.", "youvi": "Cảm ơn đã mời bọn mình." }
+                  ],
+                  "vars": [
+                    { "en": "This is Mai, and this is Nam.", "vi": "Đây là Mai, còn đây là Nam." }
+                  ]
+                },
+                {
+                  "en": "Sorry, I should introduce you two.",
+                  "vi": "Xin lỗi, lẽ ra mình phải giới thiệu hai người.",
+                  "note": "Câu chữa cháy khi bạn nhận ra mình quên giới thiệu — lịch sự và chân thành.",
+                  "reply": [
+                    { "them": "No worries! I'm Mai.", "themvi": "Không sao! Mình là Mai.", "you": "And this is Nam, an old friend.", "youvi": "Còn đây là Nam, bạn cũ của mình." }
+                  ]
+                },
+                {
+                  "en": "You two have a lot in common, actually.",
+                  "vi": "Thật ra hai người có nhiều điểm chung lắm.",
+                  "note": "Gợi ý chủ đề cho họ nói — một lời giới thiệu chu đáo thay vì để họ tự xoay xở.",
+                  "reply": [
+                    { "them": "Oh? Like what?", "themvi": "Ồ? Ví dụ như gì?", "you": "You both lived in Da Nang.", "youvi": "Cả hai đều từng sống ở Đà Nẵng." }
+                  ],
+                  "close": { "en": "I'll leave you to it.", "vi": "Mình để hai người nói chuyện." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "This is Mai, she's travelling with me.",
+                  "vi": "Đây là Mai, cô ấy đi cùng tôi.",
+                  "reply": [
+                    { "them": "Welcome, both of you.", "themvi": "Chào mừng cả hai ạ.", "you": "Thank you — we're staying three nights.", "youvi": "Cảm ơn — chúng tôi ở ba đêm." }
+                  ]
+                },
+                {
+                  "en": "This is our guide, Nam.",
+                  "vi": "Đây là hướng dẫn viên của chúng tôi, Nam.",
+                  "reply": [
+                    { "them": "Nice to meet you, Nam.", "themvi": "Rất vui được gặp anh Nam.", "you": "Nam knows the area inside out.", "youvi": "Nam thuộc vùng này như lòng bàn tay." }
+                  ],
+                  "vars": [
+                    { "en": "This is Nam, he's showing us around.", "vi": "Đây là Nam, anh ấy dẫn chúng tôi đi." }
+                  ]
+                },
+                {
+                  "en": "Have you two met? This is Mai, from the tour group.",
+                  "vi": "Hai người gặp nhau chưa? Đây là Mai, cùng đoàn tour.",
+                  "reply": [
+                    { "them": "We sat together on the bus!", "themvi": "Bọn tôi ngồi cạnh nhau trên xe mà!", "you": "Small world.", "youvi": "Trái đất tròn thật." }
+                  ]
+                },
+                {
+                  "en": "This is my travel companion, Nam.",
+                  "vi": "Đây là bạn đồng hành của tôi, Nam.",
+                  "note": "<i>travel companion</i> lịch sự và trung tính — dùng khi không muốn nói rõ quan hệ.",
+                  "reply": [
+                    { "them": "How long have you two been travelling?", "themvi": "Hai người đi được bao lâu rồi?", "you": "Three weeks now.", "youvi": "Ba tuần rồi." }
+                  ],
+                  "close": { "en": "Enjoy the rest of your trip.", "vi": "Chúc phần còn lại của chuyến đi vui vẻ." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "This is my colleague — she'll take over from here.",
+                  "vi": "Đây là đồng nghiệp của em — chị ấy sẽ tiếp tục hỗ trợ anh/chị ạ.",
+                  "note": "Cách bàn giao khách cho người khác rất chuyên nghiệp.",
+                  "reply": [
+                    { "them": "Thanks for your help.", "themvi": "Cảm ơn em đã giúp.", "you": "My pleasure — Mai knows this range better.", "youvi": "Không có gì ạ — chị Mai rành dòng này hơn." }
+                  ],
+                  "close": { "en": "You're in good hands.", "vi": "Anh/chị cứ yên tâm ạ." }
+                },
+                {
+                  "en": "This is the manager, he can help with that.",
+                  "vi": "Đây là quản lý, anh ấy xử lý được việc đó ạ.",
+                  "reply": [
+                    { "them": "Good afternoon — what's the issue?", "themvi": "Chào anh/chị — có vấn đề gì ạ?", "you": "It's about a refund.", "youvi": "Về việc hoàn tiền ạ." }
+                  ],
+                  "vars": [
+                    { "en": "Let me introduce you to the manager.", "vi": "Để em giới thiệu anh/chị với quản lý ạ." }
+                  ]
+                },
+                {
+                  "en": "This is Nam, he's with me.",
+                  "vi": "Đây là Nam, anh ấy đi cùng tôi.",
+                  "reply": [
+                    { "them": "No problem at all.", "themvi": "Không vấn đề gì ạ.", "you": "We're looking at the same order.", "youvi": "Chúng tôi cùng xem một đơn hàng." }
+                  ]
+                },
+                {
+                  "en": "May I introduce our regional manager?",
+                  "vi": "Cho phép em giới thiệu quản lý khu vực của chúng em?",
+                  "note": "Trang trọng nhất — dùng trong sự kiện hoặc khi tiếp khách quan trọng.",
+                  "reply": [
+                    { "them": "Of course, delighted.", "themvi": "Vâng ạ, rất hân hạnh.", "you": "He's been looking forward to meeting you.", "youvi": "Anh ấy mong được gặp anh/chị lắm ạ." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Giới thiệu nhân viên mới với đồng nghiệp",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Mai, have you two met?", "vi": "Mai, hai người gặp nhau chưa?" },
+            { "speaker": "Mai", "en": "Not yet, no.", "vi": "Chưa ạ." },
+            { "speaker": "You", "me": true, "en": "Mai, this is Nam, our new analyst. Nam, Mai.", "vi": "Mai, đây là Nam, chuyên viên mới của mình. Nam, đây là Mai." },
+            { "speaker": "Mai", "en": "Nice to meet you, Nam. What will you be working on?", "vi": "Rất vui được gặp Nam. Bạn sẽ làm mảng gì?" },
+            { "speaker": "You", "me": true, "en": "Mai leads design — you two have a lot in common, actually.", "vi": "Mai phụ trách thiết kế — thật ra hai người có nhiều điểm chung lắm." },
+            { "speaker": "Mai", "en": "Oh? In that case, let's grab a coffee.", "vi": "Ồ? Vậy thì mình đi cà phê đi." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Giới thiệu bạn đời tại một bữa tiệc",
+          "lines": [
+            { "speaker": "Friend", "en": "Nam! Glad you could come.", "vi": "Nam! Mừng là bạn đến được." },
+            { "speaker": "You", "me": true, "en": "Thanks for having us. This is my wife, Mai.", "vi": "Cảm ơn đã mời bọn mình. Đây là vợ mình, Mai." },
+            { "speaker": "Friend", "en": "Lovely to meet you at last, Mai.", "vi": "Cuối cùng cũng được gặp chị Mai." },
+            { "speaker": "You", "me": true, "en": "And this is Linh, a friend of mine from university.", "vi": "Còn đây là Linh, bạn đại học của mình." },
+            { "speaker": "Friend", "en": "Do you two know each other already?", "vi": "Hai người biết nhau rồi à?" },
+            { "speaker": "You", "me": true, "en": "They've met once. I'll leave you all to it.", "vi": "Họ gặp một lần rồi. Mình để mọi người nói chuyện nhé." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "She is my colleague, Mai. <i>(Mai đang đứng đó)</i>", "right": "This is my colleague, Mai.", "why": "BẪY SỐ MỘT. Người đang có mặt thì dùng <b>This is</b>. <i>She is</i> nghe như kể về người vắng mặt." },
+            { "wrong": "This is my colleagues, Mai and Nam.", "right": "These are my colleagues, Mai and Nam.", "why": "Nhiều người thì dùng <b>These are</b>, và <i>colleagues</i> số nhiều." },
+            { "wrong": "Let me introduce you Mai.", "right": "Let me introduce you to Mai.", "why": "<b>introduce someone <b>to</b> someone</b> — đừng quên giới từ <i>to</i>. Cùng nhóm với <i>explain</i> ở [Khung 69]." },
+            { "wrong": "This is Mai. <i>(rồi dừng, không giới thiệu chiều ngược lại)</i>", "right": "Mai, this is Nam. Nam, Mai.", "why": "Giới thiệu HAI CHIỀU mới là chuẩn mực — nếu không, một người sẽ không biết tên người kia." },
+            { "wrong": "He is here, this is my manager.", "right": "This is my manager.", "why": "Thừa và lộn xộn. Một câu <b>This is…</b> là đủ, không cần dẫn dắt bằng <i>He is here</i>." },
+            { "wrong": "This is Mai, my old friend. <i>(ý: bạn lâu năm)</i>", "right": "This is Mai, an old friend.", "why": "<i>an old friend</i> = bạn lâu năm. <i>my old friend</i> dễ bị hiểu là “người bạn già” của tôi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu", "Dùng khi", "Ghi chú"],
+          "rows": [
+            ["<code>This is Mai.</code>", "Giới thiệu người có mặt", "Thân mật, tự nhiên nhất."],
+            ["<code>These are…</code>", "Giới thiệu nhiều người", "Số nhiều."],
+            ["<code>I'd like you to meet…</code>", "Trang trọng", "Khách hàng, sự kiện."],
+            ["<code>May I introduce…?</code>", "Rất trang trọng", "Nghi lễ, sự kiện chính thức."],
+            ["<code>Have you two met?</code>", "Chưa chắc họ đã quen", "Hỏi trước cho an toàn."],
+            ["<code>She is my colleague.</code>", "Người vắng mặt", "Kể về ai đó, không giới thiệu."],
+            ["<code>I'm Nam.</code>", "Giới thiệu bản thân", "Xem [Khung 71]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — giới thiệu một người" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "This is Mai.", "vi": "Ngắn nhất — bạn bè, thân mật" },
+            { "en": "This is Mai, from design.", "vi": "Thêm bối cảnh — hữu ích" },
+            { "en": "This is Mai, she leads the design team.", "vi": "Đầy đủ — cho họ cớ bắt chuyện" },
+            { "en": "I'd like you to meet Ms Tran.", "vi": "Trang trọng — khách hàng" },
+            { "en": "May I introduce Ms Tran?", "vi": "Trang trọng nhất — sự kiện chính thức" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>This is</b> nối âm thành <b>“thi-siz”</b> — âm /s/ cuối <i>this</i> nối sang nguyên âm của <i>is</i>.",
+            "<b>These are</b> → “theez-ə”, nguyên âm <i>ee</i> dài phân biệt với <i>this</i> ngắn.",
+            "<b>Nhấn vào TÊN người được giới thiệu</b> — đó là thông tin mới, còn <i>this is</i> nói lướt.",
+            "<b>Ngắt một nhịp nhỏ trước tên:</b> <i>This is</i> … <b>MAI</b>. Chỗ ngắt giúp người nghe bắt được cái tên.",
+            "Khi giới thiệu hai chiều, <b>ngắt rõ giữa hai vế:</b> <i>Mai, this is Nam.</i> … <i>Nam, Mai.</i>",
+            "<b>Giọng ấm và hơi lên ở tên</b> — đây là lời giới thiệu, không phải thông báo."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Mai, this is Nam, our new analyst.", "vi": "Luyện shadowing: ngắt rõ sau Mai, nhấn vào NAM." },
+            { "en": "These are my colleagues, Mai and Nam.", "vi": "Tập phân biệt nguyên âm dài trong These với This ngắn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Đây là đồng nghiệp của tôi, Mai. (Mai đang đứng đó)", "blank": "__________ my colleague, Mai.", "a": "This is (KHÔNG phải “She is”)" },
+            { "vi": "Đây là các đồng nghiệp của tôi, Mai và Nam.", "blank": "__________ my colleagues, Mai and Nam.", "a": "These are" },
+            { "vi": "Hai người gặp nhau chưa?", "blank": "__________?", "a": "Have you two met" },
+            { "vi": "Tôi muốn giới thiệu anh/chị với chị Trần.", "blank": "__________ Ms Tran.", "a": "I'd like you to meet" },
+            { "vi": "Để tôi giới thiệu anh/chị với Mai.", "blank": "Let me introduce you __________ Mai.", "a": "to (đừng quên giới từ)" },
+            { "vi": "Đây là một người bạn của mình, Mai.", "blank": "This is __________, Mai.", "a": "a friend of mine" },
+            { "vi": "Vâng, bọn tôi quen từ lâu rồi.", "blank": "Yes, we __________.", "a": "go way back" },
+            { "vi": "Tôi để hai người nói chuyện nhé.", "blank": "I'll __________.", "a": "leave you two to it" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Mai, đây là Nam, chuyên viên mới của mình. Nam, đây là Mai.", "a": "Mai, this is Nam, our new analyst. Nam, Mai." },
+            { "vi": "2. Đây là Mai, chị ấy phụ trách đội thiết kế.", "a": "This is Mai, she leads the design team." },
+            { "vi": "3. Tôi muốn giới thiệu anh/chị với chị Trần, trưởng bộ phận vận hành.", "a": "I'd like you to meet Ms Tran, our head of operations." },
+            { "vi": "4. Hình như hai người chưa gặp — đây là Nam.", "a": "I don't think you've met — this is Nam." },
+            { "vi": "5. Đây là các đồng nghiệp của mình, Mai và Nam.", "a": "These are my colleagues, Mai and Nam." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Người đang có mặt thì luôn là “This is”</b> — không bao giờ <i>He is</i> hay <i>She is</i>.",
+            "<b>Luôn giới thiệu hai chiều:</b> <i>Mai, this is Nam. Nam, Mai.</i> Đừng để một người không biết tên người kia.",
+            "<b>Thêm một chi tiết về người được giới thiệu</b> — nó cho hai người kia cái cớ để bắt chuyện.",
+            "<b>Hỏi trước nếu không chắc:</b> <i>Have you two met?</i> Câu này cứu bạn khỏi tình huống ngượng.",
+            "<b>Nhớ giới từ:</b> <i>introduce someone <b>to</b> someone</i> — cùng luật với <i>explain</i> ở [Khung 69].",
+            "<b>Bài tập 3 phút:</b> nghĩ đến ba người bạn quen, viết một câu giới thiệu cho mỗi người kèm đúng một chi tiết thú vị về họ."
+          ]
+        }
+      ]
+    }
+  ]
+}

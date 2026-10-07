@@ -1,0 +1,139 @@
+{
+  "id": 20,
+  "title": "Thứ, tháng và ngày tháng",
+  "teaches": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday", "January", "February", "March", "April", "June", "July", "August", "September", "October", "November", "December", "fifth", "twelfth", "twentieth", "thirty-first", "is", "are", "on", "in", "weekdays", "May", "exam"],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn nói được thứ mấy, tháng nào, ngày bao nhiêu — và dùng đúng giới từ <b>on</b> hay <b>in</b> đi kèm." },
+        { "t": "callout", "html": "<b>Luật viết hoa — khác hẳn tiếng Việt:</b><br><br>Thứ và tháng trong tiếng Anh <b>LUÔN viết hoa</b>, dù nằm giữa câu.<br><br><i>I work on <b>M</b>onday.</i> · <i>My birthday is in <b>J</b>une.</i><br><br>Tiếng Việt viết <i>thứ hai</i>, <i>tháng sáu</i> bằng chữ thường. Tiếng Anh thì không — đây là lỗi chính tả người Việt mắc nhiều nhất khi viết email." }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "Bài 19 — số đếm, vì ngày tháng dùng <b>số thứ tự</b> (first, second, third…) dựng từ số đếm." },
+        { "t": "p", "html": "Bài 07 — <code>to be</code>, vì nói ngày tháng thường dùng <i>is</i>: <i>Today <b>is</b> Monday.</i>" },
+        { "t": "link", "items": [
+          { "id": 19, "label": "Bài 19 — số đếm" },
+          { "id": 7, "label": "Bài 07 — to be" }
+        ] }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "table", "head": ["Luật", "Nghĩa là gì", "Ví dụ"], "rows": [
+          ["<b>1.</b> Thứ và tháng <b>luôn viết hoa</b>", "Dù đứng giữa câu", "<i>on <b>M</b>onday</i> · <i>in <b>J</b>une</i>"],
+          ["<b>2.</b> <b>on</b> cho thứ và ngày · <b>in</b> cho tháng", "Hai giới từ khác nhau", "<i><b>on</b> Monday</i> · <i><b>in</b> June</i>"],
+          ["<b>3.</b> Ngày dùng <b>số thứ tự</b>", "first, second, third… chứ không phải one, two", "<i>the fifth of May</i>"]
+        ] },
+        { "t": "h3", "text": "Bảy thứ trong tuần" },
+        { "t": "table", "head": ["Tiếng Anh", "Phiên âm", "Tiếng Việt"], "rows": [
+          ["<b>Monday</b>", "/ˈmʌndeɪ/", "thứ Hai"],
+          ["<b>Tuesday</b>", "/ˈtjuːzdeɪ/", "thứ Ba"],
+          ["<b>Wednesday</b>", "/ˈwenzdeɪ/ — chữ <code>d</code> đầu CÂM", "thứ Tư"],
+          ["<b>Thursday</b>", "/ˈθɜːzdeɪ/", "thứ Năm"],
+          ["<b>Friday</b>", "/ˈfraɪdeɪ/", "thứ Sáu"],
+          ["<b>Saturday</b>", "/ˈsætədeɪ/", "thứ Bảy"],
+          ["<b>Sunday</b>", "/ˈsʌndeɪ/", "Chủ nhật"]
+        ] },
+        { "t": "h3", "text": "Mười hai tháng" },
+        { "t": "table", "head": ["Nửa đầu năm", "Nửa sau năm"], "rows": [
+          ["<b>January</b> — tháng Một", "<b>July</b> — tháng Bảy"],
+          ["<b>February</b> — tháng Hai", "<b>August</b> — tháng Tám"],
+          ["<b>March</b> — tháng Ba", "<b>September</b> — tháng Chín"],
+          ["<b>April</b> — tháng Tư", "<b>October</b> — tháng Mười"],
+          ["<b>May</b> — tháng Năm", "<b>November</b> — tháng Mười một"],
+          ["<b>June</b> — tháng Sáu", "<b>December</b> — tháng Mười hai"]
+        ] },
+        { "t": "callout", "html": "<b>Số thứ tự cho ngày — chỉ cần nhớ bốn cái đặc biệt:</b><br>• 1 → <b>first</b> · 2 → <b>second</b> · 3 → <b>third</b> · 5 → <b>fifth</b><br>• Còn lại cứ thêm <b>-th</b>: four<b>th</b>, six<b>th</b>, ten<b>th</b>, twentie<b>th</b>…<br>• Số kết thúc bằng 1, 2, 3 thì lặp lại luật trên: 21 → twenty-<b>first</b>, 22 → twenty-<b>second</b>" }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "on cho thứ" },
+        { "t": "ex", "items": [
+          { "en": "I work on Monday.", "vi": "Thứ Hai tôi làm việc.", "note": "<b>on</b> + thứ, và <b>M</b> viết hoa." },
+          { "en": "We meet on Tuesday.", "vi": "Thứ Ba chúng tôi gặp nhau.", "note": "Cùng luật." },
+          { "en": "I don't work on Sunday.", "vi": "Chủ nhật tôi không làm việc.", "note": "Kết hợp phủ định ở bài 15." },
+          { "en": "The shop is closed on Monday.", "vi": "Thứ Hai cửa hàng đóng cửa.", "note": "<b>on</b> dùng cho mọi thứ trong tuần." },
+          { "en": "See you on Friday.", "vi": "Hẹn gặp thứ Sáu.", "note": "Câu chia tay hay dùng." }
+        ] },
+        { "t": "h3", "text": "in cho tháng" },
+        { "t": "ex", "items": [
+          { "en": "My birthday is in June.", "vi": "Sinh nhật tôi vào tháng Sáu.", "note": "<b>in</b> + tháng." },
+          { "en": "It is hot in May.", "vi": "Tháng Năm trời nóng.", "note": "Nói về thời tiết theo tháng." },
+          { "en": "School starts in September.", "vi": "Trường học bắt đầu vào tháng Chín.", "note": "Cùng luật." },
+          { "en": "I go there in April.", "vi": "Tháng Tư tôi đến đó.", "note": "<b>in</b> chứ không phải <b>on</b>." },
+          { "en": "It rains a lot in August.", "vi": "Tháng Tám mưa nhiều.", "note": "Cùng luật." }
+        ] },
+        { "t": "h3", "text": "Hỏi và đáp về ngày" },
+        { "t": "ex", "items": [
+          { "en": "What day is it today? — It is Monday.", "vi": "Hôm nay thứ mấy? — Thứ Hai.", "note": "<b>What day</b> hỏi thứ." },
+          { "en": "Today is Wednesday.", "vi": "Hôm nay thứ Tư.", "note": "Chữ <code>d</code> đầu trong <i>Wednesday</i> câm." },
+          { "en": "When is your birthday? — In February.", "vi": "Sinh nhật bạn khi nào? — Tháng Hai.", "note": "<b>When</b> ở bài 17." },
+          { "en": "Tomorrow is Thursday.", "vi": "Mai là thứ Năm.", "note": "<i>tomorrow</i> ở bài từ vựng A1." }
+        ] },
+        { "t": "h3", "text": "Nói ngày tháng đầy đủ" },
+        { "t": "ex", "items": [
+          { "en": "the fifth of May", "vi": "ngày 5 tháng Năm", "note": "Kiểu Anh-Anh: <b>the</b> + số thứ tự + <b>of</b> + tháng." },
+          { "en": "the first of January", "vi": "ngày 1 tháng Một", "note": "1 → <b>first</b>." },
+          { "en": "the twelfth of June", "vi": "ngày 12 tháng Sáu", "note": "12 → <b>twelfth</b>." },
+          { "en": "My birthday is on the second of March.", "vi": "Sinh nhật tôi vào ngày 2 tháng Ba.", "note": "Có ngày cụ thể thì dùng <b>on</b>, không dùng <b>in</b>." },
+          { "en": "The exam is on the twentieth of May.", "vi": "Kỳ thi vào ngày 20 tháng Năm.", "note": "20 → <b>twentieth</b>." }
+        ] },
+        { "t": "h3", "text": "Đặt cạnh nhau — on hay in" },
+        { "t": "ex", "items": [
+          { "en": "I work on Monday.", "vi": "Thứ Hai tôi làm việc.", "note": "Thứ → <b>on</b>." },
+          { "en": "I work in June.", "vi": "Tháng Sáu tôi làm việc.", "note": "Tháng → <b>in</b>." },
+          { "en": "My birthday is in June.", "vi": "Sinh nhật tôi vào tháng Sáu.", "note": "Chỉ nói tháng → <b>in</b>." },
+          { "en": "My birthday is on the fifth of June.", "vi": "Sinh nhật tôi ngày 5 tháng Sáu.", "note": "Có ngày cụ thể → <b>on</b>." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — chọn on hay in" },
+        { "t": "quiz", "items": [
+          { "vi": "Thứ Hai tôi làm việc.", "blank": "I work ___ Monday.", "a": "on" },
+          { "vi": "Sinh nhật tôi vào tháng Sáu.", "blank": "My birthday is ___ June.", "a": "in" },
+          { "vi": "Chủ nhật tôi không làm việc.", "blank": "I don't work ___ Sunday.", "a": "on" },
+          { "vi": "Tháng Năm trời nóng.", "blank": "It is hot ___ May.", "a": "in" },
+          { "vi": "Sinh nhật tôi ngày 5 tháng Sáu.", "blank": "My birthday is ___ the fifth of June.", "a": "on — có ngày cụ thể" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — viết đúng" },
+        { "t": "quiz", "items": [
+          { "vi": "Viết tên thứ Tư bằng tiếng Anh.", "a": "Wednesday — viết hoa, chữ d đầu CÂM" },
+          { "vi": "Viết tên tháng Hai bằng tiếng Anh.", "a": "February — viết hoa" },
+          { "vi": "Vì sao <i>i work on monday</i> sai hai chỗ?", "a": "<i>I</i> và <i>Monday</i> đều phải viết hoa" },
+          { "vi": "Nói ngày 1 tháng Một.", "a": "the first of January" }
+        ] },
+        { "t": "h3", "text": "Phần 3 — dùng thật" },
+        { "t": "quiz", "items": [
+          { "vi": "Hôm nay thứ mấy?", "a": "What day is it today?" },
+          { "vi": "Sinh nhật bạn khi nào? Trả lời bằng tháng của bạn.", "a": "When is your birthday? — In … (tháng của bạn)" },
+          { "vi": "Đọc to bảy thứ trong tuần, chú ý <i>Wednesday</i>.", "a": "Monday · Tuesday · Wednesday /ˈwenzdeɪ/ · Thursday · Friday · Saturday · Sunday" }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>Thứ và tháng LUÔN viết hoa.</b> Kể cả nằm giữa câu. Đây là lỗi chính tả người Việt mắc nhiều nhất khi viết email tiếng Anh.",
+          "<b><code>on</code> cho thứ và ngày · <code>in</code> cho tháng.</b> <i>on Monday</i> · <i>in June</i> · <i>on the fifth of June</i>.",
+          "<b><i>Wednesday</i> có chữ <code>d</code> đầu CÂM</b> — đọc <code>/ˈwenzdeɪ/</code>, chỉ hai âm tiết."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "<i>I work on monday.</i>", "right": "<i>I work on Monday.</i>", "why": "Tiếng Việt viết <i>thứ hai</i> chữ thường nên ta quen tay. Tiếng Anh coi thứ và tháng là tên riêng, luôn viết hoa — bỏ sót là lỗi chính tả rõ ràng, người đọc nhận ra ngay." },
+          { "wrong": "<i>My birthday is on June.</i>", "right": "<i>My birthday is in June.</i>", "why": "Chỉ nói tháng thì dùng <b>in</b>. Dùng <b>on</b> khi có ngày cụ thể: <i>on the fifth of June</i>. Nhớ theo độ chính xác: càng cụ thể thì giới từ càng “nhỏ”." },
+          { "wrong": "<i>My birthday is the five of June.</i>", "right": "<i>My birthday is on the fifth of June.</i>", "why": "Ngày dùng <b>số thứ tự</b> (fifth) chứ không dùng số đếm (five). Tiếng Việt nói <i>ngày 5</i> nên ta hay lấy thẳng số đếm sang." }
+        ] }
+      ]
+    }
+  ]
+}

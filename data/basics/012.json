@@ -1,0 +1,121 @@
+{
+  "id": 12,
+  "title": "the — cái mà cả hai đều biết",
+  "teaches": ["an", "is", "are", "books", "sun", "moon", "same", "only", "best", "cats", "bought", "lives", "works", "opens", "closes", "Vietnamese", "children"],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn biết khi nào dùng <b>the</b> thay cho <b>a</b>, và biết <b>the</b> là mạo từ dùng được cho cả số ít lẫn số nhiều." },
+        { "t": "callout", "html": "<b>Một câu phân biệt được cả bài:</b><br><br>Dùng <b>a</b> khi người nghe <b>chưa biết</b> bạn đang nói cái nào.<br>Dùng <b>the</b> khi người nghe <b>đã biết</b> rồi.<br><br><i>I have <b>a</b> cat.</i> — bạn chưa biết con nào, giờ mới nghe lần đầu.<br><i><b>The</b> cat is black.</i> — giờ thì biết rồi, chính con vừa nhắc." }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "Bài 11 — <b>a</b> và <b>an</b>. Bài này là nửa còn lại của cùng một câu chuyện: ba mạo từ tiếng Anh là <b>a</b>, <b>an</b>, <b>the</b>." },
+        { "t": "p", "html": "Điểm khác biệt đáng mừng: <b>the</b> chỉ có <b>một hình</b>, dùng cho số ít, số nhiều, đếm được lẫn không đếm được. Không phải chọn gì cả." },
+        { "t": "link", "items": [{ "id": 11, "label": "Bài 11 — a và an" }] }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "table", "head": ["Luật", "Nghĩa là gì", "Ví dụ"], "rows": [
+          ["<b>1.</b> Nhắc <b>lần hai</b> trở đi → dùng <b>the</b>", "Lần đầu dùng a/an, sau đó dùng the", "<i>a cat … <b>the</b> cat</i>"],
+          ["<b>2.</b> Cả hai đều biết là cái nào → dùng <b>the</b>", "Dù chưa nhắc lần nào", "<i>Close <b>the</b> door.</i>"],
+          ["<b>3.</b> Chỉ có <b>một cái duy nhất</b> → dùng <b>the</b>", "Mặt trời, mặt trăng, bầu trời…", "<i><b>the</b> sun</i> · <i><b>the</b> sky</i>"]
+        ] },
+        { "t": "h3", "text": "the đi được với mọi loại danh từ" },
+        { "t": "table", "head": ["Loại danh từ", "Dùng a/an?", "Dùng the?"], "rows": [
+          ["Số ít đếm được", "<b>có</b> — a book", "<b>có</b> — the book"],
+          ["Số nhiều", "<b>không</b> — books", "<b>có</b> — the books"],
+          ["Không đếm được", "<b>không</b> — water", "<b>có</b> — the water"]
+        ] },
+        { "t": "callout", "html": "<b>Cách đọc <code>the</code>:</b><br>• Trước <b>phụ âm</b> → <code>/ðə/</code> — <i>the book</i>, <i>the cat</i><br>• Trước <b>nguyên âm</b> → <code>/ði/</code> — <i>the apple</i>, <i>the hour</i><br><br>Cùng một luật với <b>a</b> / <b>an</b>: đổi để miệng đỡ vấp. Chữ viết không đổi, chỉ cách đọc đổi." }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "Lần đầu dùng a, lần sau dùng the" },
+        { "t": "ex", "items": [
+          { "en": "I have a cat. The cat is black.", "vi": "Tôi có một con mèo. Con mèo màu đen.", "note": "Câu đầu giới thiệu, câu sau nhắc lại nên dùng <b>the</b>." },
+          { "en": "I see a man. The man is my teacher.", "vi": "Tôi thấy một người đàn ông. Người đó là thầy tôi.", "note": "Cùng kiểu." },
+          { "en": "She buys a book. The book is new.", "vi": "Cô ấy mua một quyển sách. Quyển sách đó mới.", "note": "Lần hai thì cả hai đã biết là quyển nào." },
+          { "en": "There is a shop here. The shop opens at eight.", "vi": "Có một cửa hàng ở đây. Cửa hàng mở lúc tám giờ.", "note": "Giới thiệu rồi mới nói chi tiết." }
+        ] },
+        { "t": "h3", "text": "Cả hai đều biết — dù chưa nhắc lần nào" },
+        { "t": "ex", "items": [
+          { "en": "Please close the door.", "vi": "Vui lòng đóng cửa.", "note": "Cả hai đang ở trong phòng, biết rõ cửa nào." },
+          { "en": "Where is the toilet?", "vi": "Nhà vệ sinh ở đâu ạ?", "note": "Nhà vệ sinh của chính chỗ này." },
+          { "en": "The food here is good.", "vi": "Đồ ăn ở đây ngon.", "note": "Đồ ăn của quán này, không phải đồ ăn nói chung." },
+          { "en": "Open the window, please.", "vi": "Vui lòng mở cửa sổ.", "note": "Cửa sổ ngay trước mặt." },
+          { "en": "The bank is next to the park.", "vi": "Ngân hàng ở cạnh công viên.", "note": "Cả hai nơi đều là nơi cụ thể ở khu này." }
+        ] },
+        { "t": "h3", "text": "Chỉ có một cái duy nhất trên đời" },
+        { "t": "ex", "items": [
+          { "en": "The sun is hot today.", "vi": "Hôm nay nắng gắt.", "note": "Chỉ có một mặt trời." },
+          { "en": "The sky is blue.", "vi": "Trời xanh.", "note": "Chỉ có một bầu trời." },
+          { "en": "We live on the same street.", "vi": "Chúng tôi sống cùng một con phố.", "note": "<i>same</i> luôn đi với <b>the</b>." },
+          { "en": "She is the best teacher here.", "vi": "Cô ấy là giáo viên giỏi nhất ở đây.", "note": "Giỏi NHẤT thì chỉ có một người." }
+        ] },
+        { "t": "h3", "text": "the với số nhiều và không đếm được" },
+        { "t": "ex", "items": [
+          { "en": "The books are new.", "vi": "Mấy quyển sách này mới.", "note": "Số nhiều vẫn dùng <b>the</b> được — khác hẳn <b>a</b>." },
+          { "en": "The water here is cold.", "vi": "Nước ở đây lạnh.", "note": "Không đếm được vẫn dùng <b>the</b> được." },
+          { "en": "The children are at school.", "vi": "Bọn trẻ đang ở trường.", "note": "<i>children</i> số nhiều, vẫn dùng <b>the</b>." },
+          { "en": "I like the food here.", "vi": "Tôi thích đồ ăn ở đây.", "note": "Cụ thể đồ ăn chỗ này." }
+        ] },
+        { "t": "h3", "text": "Đặt cạnh nhau để thấy khác biệt" },
+        { "t": "ex", "items": [
+          { "en": "I like books.", "vi": "Tôi thích sách (nói chung).", "note": "Không mạo từ — mọi quyển sách trên đời." },
+          { "en": "I like the books here.", "vi": "Tôi thích mấy quyển sách ở đây.", "note": "Có <b>the</b> — chỉ mấy quyển cụ thể này." },
+          { "en": "I want a book.", "vi": "Tôi muốn một quyển sách (nào cũng được).", "note": "<b>a</b> — chưa xác định quyển nào." },
+          { "en": "I want the book.", "vi": "Tôi muốn quyển sách đó.", "note": "<b>the</b> — đúng quyển cả hai đang nghĩ tới." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — chọn a, an hay the" },
+        { "t": "quiz", "items": [
+          { "vi": "Tôi có một con mèo. (lần đầu nhắc)", "blank": "I have ___ cat.", "a": "a" },
+          { "vi": "Con mèo đó màu đen. (nhắc lại)", "blank": "___ cat is black.", "a": "The" },
+          { "vi": "Vui lòng đóng cửa.", "blank": "Please close ___ door.", "a": "the — cả hai đều biết cửa nào" },
+          { "vi": "Hôm nay nắng gắt.", "blank": "___ sun is hot today.", "a": "The — chỉ có một mặt trời" },
+          { "vi": "Tôi muốn một quả táo.", "blank": "I want ___ apple.", "a": "an" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — có hay không" },
+        { "t": "quiz", "items": [
+          { "vi": "Tôi thích sách nói chung.", "a": "I like books. — không mạo từ" },
+          { "vi": "Tôi thích mấy quyển sách ở đây.", "a": "I like the books here. — có <b>the</b> vì cụ thể" },
+          { "vi": "Mấy quyển sách này mới.", "a": "The books are new. — số nhiều vẫn dùng the được" },
+          { "vi": "Nước ở đây lạnh.", "a": "The water here is cold." }
+        ] },
+        { "t": "h3", "text": "Phần 3 — hiểu quy tắc" },
+        { "t": "quiz", "items": [
+          { "vi": "Một câu để phân biệt <b>a</b> và <b>the</b>?", "a": "<b>a</b> = người nghe chưa biết cái nào · <b>the</b> = đã biết rồi" },
+          { "vi": "<b>the</b> có dùng với số nhiều được không?", "a": "Có — khác <b>a</b>, chữ <b>the</b> dùng được cho mọi loại danh từ" },
+          { "vi": "<i>the apple</i> đọc thế nào?", "a": "<code>/ði ˈæpl/</code> — trước nguyên âm thì <b>the</b> đọc /ði/" }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>a = chưa biết cái nào · the = đã biết rồi.</b> Một câu này giải quyết được phần lớn tình huống.",
+          "<b><code>the</code> dùng được cho mọi loại danh từ</b> — số ít, số nhiều, đếm được hay không. Chỉ <b>a/an</b> mới kén.",
+          "<b>Nói chung thì bỏ mạo từ, nói cụ thể thì thêm <code>the</code>.</b> <i>I like books</i> (sách nói chung) ≠ <i>I like the books here</i> (mấy quyển này)."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "<i>I have the cat.</i> (lần đầu nhắc tới)", "right": "<i>I have a cat.</i>", "why": "Dùng <b>the</b> ngay lần đầu làm người nghe bối rối — họ sẽ tưởng mình phải biết con mèo nào, rồi tự hỏi “con nào nhỉ?”. Lần đầu luôn dùng <b>a</b>." },
+          { "wrong": "<i>I like the books.</i> (ý nói sách nói chung)", "right": "<i>I like books.</i>", "why": "Thêm <b>the</b> là đang chỉ vào mấy quyển cụ thể. Muốn nói sở thích chung chung thì bỏ hẳn mạo từ." },
+          { "wrong": "<i>Sun is hot today.</i>", "right": "<i>The sun is hot today.</i>", "why": "Thứ chỉ có một trên đời vẫn cần <b>the</b>. Người Việt hay bỏ vì thấy đã rõ ràng rồi, nhưng tiếng Anh vẫn đòi mạo từ." }
+        ] }
+      ]
+    }
+  ]
+}

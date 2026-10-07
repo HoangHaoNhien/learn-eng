@@ -1,0 +1,277 @@
+{
+  "id": 62,
+  "group": "Nhóm 12 · Nhấn mạnh, nối ý & dấu câu",
+  "title": "Câu chẻ nhấn mạnh — It was John who… / What I need is…",
+  "subtitle": "Muốn nhấn mạnh một phần của câu thì tách câu làm đôi. Bẫy lớn nhất là dùng sai từ nối: It was John what called ✗ và The thing what I need ✗ — tiếng Anh không có chữ what ở hai chỗ đó.",
+  "meaning": "Tách câu làm đôi để dồn ánh sáng vào một phần",
+  "rule": [
+    "<em>It + be + phần nhấn + who/that + phần còn lại</em>",
+    "<em>What + S + V + is/was + phần nhấn</em>",
+    "Thì của <em>It was</em> phải khớp với thì của vế sau"
+  ],
+  "tags": [
+    { "text": "Trình độ: B2–C1", "hot": true },
+    { "text": "It was John what… ✗" },
+    { "text": "Nhấn mạnh có chủ đích" },
+    { "text": "Tần suất: trung bình" }
+  ],
+  "frames": [10, 42, 46, 48, 84],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Câu bình thường rải đều sự chú ý. <b>Câu chẻ</b> tách câu làm đôi để dồn ánh sáng vào <b>đúng một phần</b>. Từ một câu <i>John called me yesterday</i> ta nhấn được ba kiểu khác nhau tùy muốn nhấn vào ai, vào việc gì hay vào lúc nào." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — từ nối là <i>who/that</i>, không phải <i>what</i>:</b><br><i>It was John <b>what</b> called me</i> ✗ → <i>It was John <b>who</b> called me.</i> ✓<br><i>The thing <b>what</b> I need is a holiday</i> ✗ → <i><b>What</b> I need is a holiday.</i> ✓<br>Chữ <b>what</b> chỉ đứng được ở <b>ĐẦU câu</b> và <b>không có danh từ nào trước nó</b>. Thấy <i>the thing what</i>, <i>something what</i> là sai chắc. Xem [Ngữ pháp 45]." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — thì của <i>It is/was</i> phải khớp với vế sau:</b><br><i><b>It is</b> John who <b>called</b> me yesterday</i> ✗<br><i><b>It was</b> John who <b>called</b> me yesterday.</i> ✓<br>Và động từ trong vế <i>who</i> chia theo <b>phần được nhấn</b>, không chia theo <i>It</i>:<br><i>It was <b>my parents</b> who <b>were</b> waiting.</i> ✓ — <i>were</i> theo <i>my parents</i>." },
+        { "t": "h3", "text": "Hai khuôn, ba kiểu nhấn" },
+        {
+          "t": "table",
+          "head": ["Muốn nhấn vào", "Khuôn", "Ví dụ"],
+          "rows": [
+            ["Người", "It + be + người + <code>who</code>", "It was John who called me."],
+            ["Vật, việc", "It + be + vật + <code>that</code>", "It was the noise that woke me."],
+            ["Thời gian, nơi chốn", "It + be + mốc + <code>that</code>", "It was yesterday that he called."],
+            ["Cả hành động", "<code>What</code> + S + V + is/was +…", "What I need is a holiday."]
+          ]
+        },
+        { "t": "p", "html": "Câu gốc <i>John called me yesterday</i> cho ra cả bốn dòng trên — <b>cùng một sự việc, khác nhau ở chỗ bạn muốn người nghe chú ý vào đâu</b>." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Nhấn vào", "Ví dụ"],
+          "rows": [
+            ["<code>It is/was + người + who</code>", "Ai làm", "It was John who called me."],
+            ["<code>It is/was + vật + that</code>", "Cái gì", "It was the noise that woke me."],
+            ["<code>It is/was + mốc + that</code>", "Khi nào", "It was yesterday that he called."],
+            ["<code>It is/was + nơi + that</code>", "Ở đâu", "It was in Hue that we met."],
+            ["<code>It is/was + lý do + that</code>", "Vì sao", "It was because of you that I stayed."],
+            ["<code>It wasn't … that</code>", "Phủ định điều người khác tưởng", "It wasn't me who broke it."],
+            ["<code>What + S + V + is</code>", "Điều mình cần, muốn", "What I need is a holiday."],
+            ["<code>What + S + V + is to V</code>", "Việc nên làm", "What we should do is call her."],
+            ["<code>All + S + V + is</code>", "Chỉ cần đúng một thứ", "All I want is a coffee."],
+            ["<code>The reason why … is that</code>", "Lý do", "The reason why I left is that I was tired."],
+            ["<code>The thing (that) … is</code>", "Điều đáng nói", "The thing that worries me is the cost."],
+            ["<code>The way … is</code>", "Cách làm", "The way I see it, we have no choice."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Ba dòng cuối dùng danh từ thay cho <i>what</i></b> — và vì đã có danh từ (<i>reason, thing, way</i>) nên từ nối phải là <b>that</b> hoặc bỏ hẳn, <b>không bao giờ</b> là <i>what</i>:<br><i>The thing <b>what</b> worries me</i> ✗ → <i>The thing <b>that</b> worries me</i> ✓" },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "It was John who called me yesterday.", "vi": "Chính John là người gọi tôi hôm qua.", "note": "BẪY SỐ MỘT: <i>what called</i> ✗ — người thì dùng <b>who</b>." },
+            { "en": "It was the noise that woke me up.", "vi": "Chính tiếng ồn làm tôi tỉnh giấc.", "note": "Vật thì dùng <b>that</b>." },
+            { "en": "It was yesterday that he called.", "vi": "Chính hôm qua anh ấy gọi.", "note": "BẪY SỐ HAI: <i>It is yesterday</i> ✗ — thì phải khớp." },
+            { "en": "It was in Hue that we first met.", "vi": "Chính ở Huế bọn tôi gặp nhau lần đầu.", "note": "Nhấn vào nơi chốn." },
+            { "en": "It wasn't me who broke it.", "vi": "Không phải tôi làm vỡ đâu.", "note": "Cách chối rất tự nhiên — nhấn vào “không phải tôi”." },
+            { "en": "It was my parents who were waiting.", "vi": "Chính bố mẹ tôi là người đang đợi.", "note": "<i>were</i> chia theo <b>my parents</b>, không theo <i>It</i>." },
+            { "en": "What I need is a holiday.", "vi": "Cái tôi cần là một kỳ nghỉ.", "note": "<i>The thing what I need</i> ✗ — <b>what</b> đứng đầu câu, không có danh từ trước." },
+            { "en": "What we should do is call her.", "vi": "Việc nên làm là gọi cho cô ấy.", "note": "Sau <i>is</i> có thể là động từ trần." },
+            { "en": "All I want is a coffee.", "vi": "Tôi chỉ muốn một ly cà phê thôi.", "note": "<b>All</b> nhấn mạnh “chỉ đúng thứ này”. Xem [Khung 10]." },
+            { "en": "The reason why I left is that I was tired.", "vi": "Lý do tôi về là vì tôi mệt.", "note": "Có danh từ <i>reason</i> nên dùng <b>why</b>, rồi <b>that</b>." },
+            { "en": "The thing that worries me is the cost.", "vi": "Điều làm tôi lo là chi phí.", "note": "<i>The thing what</i> ✗ — đã có danh từ thì dùng <b>that</b>." },
+            { "en": "The way I see it, we have no choice.", "vi": "Theo cách tôi nhìn nhận, ta không còn lựa chọn.", "note": "<i>the way how</i> ✗. Xem [Khung 48]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🎯", "title": "Chỉ đích danh ai làm", "text": "<i>It was John who called me.</i>" },
+            { "icon": "🙅", "title": "Chối, đính chính", "text": "<i>It wasn't me who broke it.</i>" },
+            { "icon": "📣", "title": "Nói thẳng điều mình cần", "text": "<i>What I need is a holiday.</i>" },
+            { "icon": "✅", "title": "Chốt việc phải làm", "text": "<i>What we should do is call her.</i>" },
+            { "icon": "💬", "title": "Mở lời nêu quan điểm", "text": "<i>The way I see it, …</i> Xem [Khung 48]." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Câu bình thường đã rõ ý — chẻ ra chỉ làm dài dòng." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một mục ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi mục đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Khuôn It is / It was",
+              "items": [
+                { "w": "It was … who", "vi": "chính … là người", "ex": "It was John who called me.", "exvi": "Chính John gọi tôi.", "note": "BẪY SỐ MỘT: người dùng <b>who</b>, không dùng <i>what</i>." },
+                { "w": "It was … that", "vi": "chính … là cái", "ex": "It was the noise that woke me.", "exvi": "Chính tiếng ồn làm tôi tỉnh." },
+                { "w": "It wasn't … who", "vi": "không phải … đâu", "ex": "It wasn't me who broke it.", "exvi": "Không phải tôi làm vỡ đâu." },
+                { "w": "It was yesterday that", "vi": "chính hôm qua", "ex": "It was yesterday that he called.", "exvi": "Chính hôm qua anh ấy gọi.", "note": "BẪY SỐ HAI: <i>It is yesterday</i> ✗ — thì phải khớp." },
+                { "w": "It was in Hue that", "vi": "chính ở Huế", "ex": "It was in Hue that we met.", "exvi": "Chính ở Huế bọn tôi gặp nhau." },
+                { "w": "It was because … that", "vi": "chính vì … mà", "ex": "It was because of you that I stayed.", "exvi": "Chính vì bạn mà tôi ở lại." },
+                { "w": "It is only when … that", "vi": "chỉ khi … thì mới", "ex": "It is only when you try that you learn.", "exvi": "Chỉ khi thử bạn mới học được.", "note": "Họ hàng gần với đảo ngữ. Xem [Ngữ pháp 49]." },
+                { "w": "It was not until … that", "vi": "mãi đến … mới", "ex": "It was not until nine that he arrived.", "exvi": "Mãi chín giờ anh ấy mới đến." },
+                { "w": "who", "vi": "người mà", "ex": "It was she who told me.", "exvi": "Chính cô ấy nói với tôi.", "note": "Văn nói hay dùng <i>It was her who…</i>, cũng chấp nhận được." },
+                { "w": "that", "vi": "mà", "ex": "It was the rain that ruined the trip.", "exvi": "Chính cơn mưa làm hỏng chuyến đi." },
+                { "w": "I can't believe", "vi": "tôi không tin nổi", "ex": "I can't believe it was him.", "exvi": "Không tin nổi là anh ta. Xem [Khung 84]." },
+                { "w": "In my opinion", "vi": "theo tôi", "ex": "In my opinion, it was a mistake.", "exvi": "Theo tôi thì đó là sai lầm. Xem [Khung 42]." }
+              ]
+            },
+            {
+              "title": "Khuôn What / All / The thing",
+              "items": [
+                { "w": "What I need is", "vi": "cái tôi cần là", "ex": "What I need is a holiday.", "exvi": "Cái tôi cần là một kỳ nghỉ.", "note": "<b>what</b> đứng ĐẦU câu, không có danh từ trước nó." },
+                { "w": "What I want is", "vi": "điều tôi muốn là", "ex": "What I want is a straight answer.", "exvi": "Tôi muốn một câu trả lời thẳng." },
+                { "w": "What we should do is", "vi": "việc nên làm là", "ex": "What we should do is call her.", "exvi": "Việc nên làm là gọi cho cô ấy.", "note": "Sau <i>is</i> có thể là động từ TRẦN." },
+                { "w": "What happened was", "vi": "chuyện là thế này", "ex": "What happened was, the train was late.", "exvi": "Chuyện là tàu bị trễ." },
+                { "w": "What I like about … is", "vi": "điều tôi thích ở … là", "ex": "What I like about it is the price.", "exvi": "Điều tôi thích ở nó là giá." },
+                { "w": "All I want is", "vi": "tôi chỉ muốn", "ex": "All I want is a coffee.", "exvi": "Tôi chỉ muốn một ly cà phê. Xem [Khung 10]." },
+                { "w": "All you have to do is", "vi": "bạn chỉ cần", "ex": "All you have to do is ask.", "exvi": "Bạn chỉ cần hỏi thôi." },
+                { "w": "The thing that … is", "vi": "điều mà … là", "ex": "The thing that worries me is the cost.", "exvi": "Điều làm tôi lo là chi phí.", "note": "Đã có danh từ <i>thing</i> nên dùng <b>that</b>. <i>the thing what</i> ✗." },
+                { "w": "The reason why … is that", "vi": "lý do … là vì", "ex": "The reason why I left is that I was tired.", "exvi": "Lý do tôi về là vì tôi mệt." },
+                { "w": "The point is", "vi": "vấn đề là", "ex": "The point is, we don't have time.", "exvi": "Vấn đề là bọn mình không có thời gian." },
+                { "w": "The way I see it", "vi": "theo cách tôi nhìn nhận", "ex": "The way I see it, we have no choice.", "exvi": "Theo tôi thì không còn lựa chọn. Xem [Khung 48]." },
+                { "w": "That's why", "vi": "đó là lý do", "ex": "That's why I called you.", "exvi": "Đó là lý do tôi gọi bạn.", "note": "Dạng ngắn gọn nhất, dùng được ở mọi mức trang trọng. Xem [Khung 46]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "It was John <b>what</b> called me.", "right": "It was John <b>who</b> called me.", "why": "BẪY SỐ MỘT: nhấn vào NGƯỜI thì từ nối là <b>who</b>." },
+            { "wrong": "<b>The thing what</b> I need is a holiday.", "right": "<b>What</b> I need is a holiday.", "why": "<b>what</b> không đứng sau danh từ được. Bỏ <i>the thing</i> đi, hoặc đổi thành <i>the thing that</i>." },
+            { "wrong": "The thing <b>what</b> worries me is the cost.", "right": "The thing <b>that</b> worries me is the cost.", "why": "Đã có danh từ <i>thing</i> thì từ nối phải là <b>that</b>. Xem [Ngữ pháp 45]." },
+            { "wrong": "<b>It is</b> John who called me yesterday.", "right": "<b>It was</b> John who called me yesterday.", "why": "BẪY SỐ HAI: vế sau ở quá khứ (<i>called</i>) nên <i>It</i> cũng phải ở quá khứ." },
+            { "wrong": "It was my parents who <b>was</b> waiting.", "right": "It was my parents who <b>were</b> waiting.", "why": "Động từ chia theo phần ĐƯỢC NHẤN (<i>my parents</i>), không theo <i>It</i>." },
+            { "wrong": "<b>What</b> I need <b>are</b> a holiday.", "right": "<b>What</b> I need <b>is</b> a holiday.", "why": "<b>What</b> luôn tính là số ít nên động từ là <b>is</b>." },
+            { "wrong": "What we should do is <b>to call</b> her.", "right": "What we should do is <b>call</b> her.", "why": "Sau khuôn <i>What … do is</i> thì động từ để TRẦN, không cần <i>to</i>." },
+            { "wrong": "The reason why I left is <b>because</b> I was tired.", "right": "The reason why I left is <b>that</b> I was tired.", "why": "Đã có <i>the reason</i> rồi nên dùng <b>that</b>; dùng <i>because</i> là lặp ý. Xem [Ngữ pháp 48]." },
+            { "wrong": "The way <b>how</b> I see it, we have no choice.", "right": "The way I see it, we have no choice.", "why": "<i>the way how</i> ✗ — chọn một trong hai, thường bỏ <i>how</i>." },
+            { "wrong": "It was <b>yesterday when</b> he called.", "right": "It was <b>yesterday that</b> he called.", "why": "Trong câu chẻ, mốc thời gian vẫn nối bằng <b>that</b>, không dùng <i>when</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>who</code> / <code>that</code>", "Người / vật, mốc", "It was John who ≠ It was the noise that"],
+            ["<code>What I need</code> / <code>The thing that</code>", "Không có danh từ / có danh từ", "What I need ✓ · the thing that ✓"],
+            ["<code>the thing what</code>", "Không tồn tại", "Luôn sai"],
+            ["<code>It is</code> / <code>It was</code>", "Phải khớp thì với vế sau", "It was John who called"],
+            ["<code>What</code> + động từ", "Luôn chia số ít", "What I need is…"],
+            ["<code>What … do is</code> + V", "Động từ để trần, không <code>to</code>", "What we should do is call her."],
+            ["Câu chẻ / đảo ngữ", "Tách câu / đảo trợ động từ", "It was then that… ≠ Only then did I…"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: nhấn mạnh kiểu nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn muốn dồn sự chú ý vào phần nào của câu?",
+          "nodes": [
+            { "if": "Vào một NGƯỜI", "then": "It + be + người + who", "ex": "It was John who called me." },
+            { "if": "Vào một VẬT hoặc sự việc", "then": "It + be + vật + that", "ex": "It was the noise that woke me." },
+            { "if": "Vào THỜI GIAN hoặc NƠI CHỐN", "then": "It + be + mốc + that", "ex": "It was yesterday that he called." },
+            { "if": "Vào điều mình CẦN hoặc MUỐN", "then": "What + S + V + is", "ex": "What I need is a holiday." },
+            { "if": "Muốn nói chỉ cần đúng một thứ", "then": "All + S + V + is", "ex": "All I want is a coffee." },
+            { "if": "Đã có danh từ (thing, reason, way)", "then": "that — không bao giờ what", "ex": "The thing that worries me…" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ nhấn mạnh của cùng một ý" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "John called me yesterday.", "vi": "Nhẹ nhất — kể bình thường" },
+            { "en": "John was the one who called me.", "vi": "Có nhấn" },
+            { "en": "It was John who called me.", "vi": "Câu chẻ — nhấn rõ" },
+            { "en": "It was John, not Peter, who called me.", "vi": "Nhấn kèm đính chính" },
+            { "en": "It was John and no one else who called me.", "vi": "Mạnh nhất" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Câu chẻ xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 10, "why": "All I want is + N / to V — khung chính, một câu chẻ hoàn chỉnh dùng hằng ngày." },
+            { "id": 48, "why": "The way I see it, … — mở lời nêu quan điểm bằng khuôn danh từ + mệnh đề." },
+            { "id": 42, "why": "In my opinion, … — cùng mục đích đẩy quan điểm lên đầu câu." },
+            { "id": 46, "why": "I'd say + mệnh đề — cách nhấn nhẹ hơn, hay đi với That's why…" },
+            { "id": 84, "why": "I can't believe + mệnh đề — ngạc nhiên, hay kéo theo It was him who…" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Viết lại thành câu chẻ" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Chính John gọi tôi hôm qua.", "blank": "John called me yesterday. → It __________ John __________ called me yesterday.", "a": "was / who" },
+            { "vi": "Chính tiếng ồn làm tôi tỉnh giấc.", "blank": "The noise woke me up. → It was the noise __________ woke me up.", "a": "that" },
+            { "vi": "Chính hôm qua anh ấy gọi.", "blank": "He called yesterday. → It __________ yesterday that he called.", "a": "was" },
+            { "vi": "Không phải tôi làm vỡ đâu.", "blank": "I didn't break it. → It __________ me who broke it.", "a": "wasn't" },
+            { "vi": "Cái tôi cần là một kỳ nghỉ.", "blank": "I need a holiday. → __________ I need __________ a holiday.", "a": "What / is" },
+            { "vi": "Việc nên làm là gọi cho cô ấy.", "blank": "We should call her. → What we should do is __________ her.", "a": "call — động từ trần" },
+            { "vi": "Tôi chỉ muốn một ly cà phê thôi.", "blank": "__________ I want is a coffee.", "a": "All" },
+            { "vi": "Điều làm tôi lo là chi phí.", "blank": "The thing __________ worries me is the cost.", "a": "that" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn câu đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Chính John gọi tôi.", "blank": "(a) It was John what called me.  (b) It was John who called me.", "a": "(b)" },
+            { "vi": "Cái tôi cần là một kỳ nghỉ.", "blank": "(a) The thing what I need is a holiday.  (b) What I need is a holiday.", "a": "(b)" },
+            { "vi": "Chính John gọi tôi hôm qua.", "blank": "(a) It is John who called me yesterday.  (b) It was John who called me yesterday.", "a": "(b)" },
+            { "vi": "Việc nên làm là gọi cho cô ấy.", "blank": "(a) What we should do is to call her.  (b) What we should do is call her.", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Chính John là người gọi tôi hôm qua.", "a": "It was John who called me yesterday." },
+            { "vi": "2. Cái tôi cần là một kỳ nghỉ.", "a": "What I need is a holiday." },
+            { "vi": "3. Không phải tôi làm vỡ đâu.", "a": "It wasn't me who broke it." },
+            { "vi": "4. Điều làm tôi lo là chi phí.", "a": "The thing that worries me is the cost." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật chữ <i>what</i>:</b> nó chỉ đứng ở <b>ĐẦU câu</b> và <b>không có danh từ nào trước nó</b>. Thấy <i>the thing what</i> là sai chắc.",
+            "<b>Người thì <i>who</i>, còn lại thì <i>that</i>.</b> Mốc thời gian cũng dùng <i>that</i>, không dùng <i>when</i>.",
+            "<b>Thì phải khớp:</b> vế sau ở quá khứ thì mở đầu bằng <b>It was</b>, không phải <i>It is</i>.",
+            "<b>Động từ chia theo phần được nhấn</b>, không theo <i>It</i>: <i>It was my parents who <b>were</b> waiting</i>.",
+            "<b>Sau <i>What … do is</i> thì động từ để trần:</b> <i>What we should do is <b>call</b> her</i> — không có <i>to</i>.",
+            "<b>Bài tập 3 phút:</b> lấy một câu bất kỳ của bạn rồi viết lại ba lần — nhấn vào người, nhấn vào thời gian, và nhấn bằng <i>What I…</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

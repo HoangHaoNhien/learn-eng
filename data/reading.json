@@ -1,0 +1,4186 @@
+{
+ "title": "Đọc đoạn dài",
+ "tagline": "bài 400–600 từ, dùng lại chính từ vựng bạn đã học",
+ "intro": "Toàn bộ tài liệu còn lại chỉ có <b>câu lẻ</b>. B2 đòi hỏi đọc hiểu cả bài. Mỗi bài ở đây nhồi <b>15–25 từ của một chủ đề từ vựng bạn đã học</b> vào ngữ cảnh thật — vừa luyện đọc vừa củng cố từ, không phải học thêm từ mới. Đọc hết một lượt trước, đừng tra từ giữa chừng; danh sách từ nằm ở cuối bài.",
+ "items": [
+  {
+   "id": 1,
+   "topic": "work",
+   "lv": "B1",
+   "title": "The Job Nobody Applied For",
+   "vi": "Công việc không ai nộp đơn",
+   "text": [
+    "When the small design company advertised a vacancy for a junior designer last spring, the manager expected a flood of applications. The salary was reasonable, the office was in the city centre, and the advertisement promised flexible hours and the option of remote work two days a week. Six weeks later, only four people had applied for the job.",
+    "At first the manager blamed the wording of the advertisement. He rewrote it twice, adding a line about a yearly bonus and the chance of promotion within eighteen months. Nothing changed. Then he asked a colleague in another department to look at it with fresh eyes. She read it carefully and pointed at one line near the bottom: the job required five years of experience and three specific qualifications.",
+    "\"You are not looking for a junior designer,\" she said. \"You are looking for somebody halfway through their career, and you are offering them a junior salary.\"",
+    "This is a surprisingly common mistake. Companies write a list of every skill they would like, then wonder why no suitable candidate appears. The longer the list, the smaller the pool of applicants, because people who meet only seven of ten requirements often do not bother to send a CV at all. Research suggests that this affects some groups far more than others: many applicants will not apply unless they match almost every line.",
+    "The manager cut the list to three essential skills and one he was willing to train. He also described the workload honestly. The job involved a heavy workload in busy periods, he wrote, but the company did not expect overtime as a matter of routine, and the team took work-life balance seriously.",
+    "Thirty-one people applied in the next two weeks. The shortlist was strong enough that the interview panel argued for an hour about which two candidates to invite back. The person they eventually recruited had four of the five skills on the original list, and learned the fifth in her first month.",
+    "Her supervisor later said the most useful question in the interview had nothing to do with software. They asked each candidate to describe a project that had gone badly and explain what they would do differently. The answers told them more about how someone would deal with a difficult deadline than any qualification on paper.",
+    "Three years on, she is in charge of a small team herself. When she writes an advertisement for a vacancy, she keeps the list of requirements short. \"Every extra line,\" she says, \"is a person who decides not to apply.\""
+   ],
+   "q": [
+    {
+     "q": "What is the main point of the article?",
+     "opts": [
+      "Long lists of requirements drive good applicants away.",
+      "Companies should always pay higher salaries.",
+      "Interviews are more useful than written applications.",
+      "Remote work makes jobs more attractive."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "Which sentence best describes the manager's first reaction to the problem?",
+     "opts": [
+      "He assumed the problem was how the advertisement was written.",
+      "He decided the salary was too low.",
+      "He asked the company to cancel the vacancy.",
+      "He blamed the candidates for being lazy."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "How many people applied after the manager shortened the list?",
+     "opts": [
+      "Thirty-one",
+      "Four",
+      "Eighteen",
+      "Three"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "What did the interview panel ask every candidate to describe?",
+     "opts": [
+      "A project that had gone badly",
+      "Their highest qualification",
+      "Their expected salary",
+      "A piece of software they had written"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 4, \"the pool of applicants\" means",
+     "opts": [
+      "the group of people available to apply",
+      "the money set aside for salaries",
+      "a test given to candidates",
+      "the list of required skills"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "applicant",
+     "n",
+     "ứng viên"
+    ],
+    [
+     "CV / résumé",
+     "n",
+     "sơ yếu lý lịch"
+    ],
+    [
+     "interview",
+     "n",
+     "buổi phỏng vấn"
+    ],
+    [
+     "shortlist",
+     "v",
+     "đưa vào danh sách ngắn"
+    ],
+    [
+     "recruit",
+     "v",
+     "tuyển dụng"
+    ],
+    [
+     "vacancy",
+     "n",
+     "vị trí trống"
+    ],
+    [
+     "candidate",
+     "n",
+     "ứng viên"
+    ],
+    [
+     "qualification",
+     "n",
+     "bằng cấp, trình độ"
+    ],
+    [
+     "experience",
+     "n",
+     "kinh nghiệm"
+    ],
+    [
+     "skill",
+     "n",
+     "kỹ năng"
+    ],
+    [
+     "salary",
+     "n",
+     "lương (tháng/năm)"
+    ],
+    [
+     "bonus",
+     "n",
+     "thưởng"
+    ],
+    [
+     "promotion",
+     "n",
+     "sự thăng chức"
+    ],
+    [
+     "colleague",
+     "n",
+     "đồng nghiệp"
+    ],
+    [
+     "supervisor",
+     "n",
+     "người quản lý trực tiếp"
+    ],
+    [
+     "deadline",
+     "n",
+     "hạn chót"
+    ],
+    [
+     "workload",
+     "n",
+     "khối lượng công việc"
+    ],
+    [
+     "overtime",
+     "n",
+     "làm thêm giờ"
+    ],
+    [
+     "remote work",
+     "n",
+     "làm việc từ xa"
+    ],
+    [
+     "flexible hours",
+     "n",
+     "giờ giấc linh hoạt"
+    ],
+    [
+     "career",
+     "n",
+     "sự nghiệp"
+    ],
+    [
+     "department",
+     "n",
+     "phòng ban"
+    ],
+    [
+     "project",
+     "n",
+     "dự án"
+    ],
+    [
+     "in charge of",
+     "phr",
+     "phụ trách"
+    ],
+    [
+     "deal with",
+     "phr",
+     "xử lý"
+    ]
+   ]
+  },
+  {
+   "id": 2,
+   "topic": "edu",
+   "lv": "B2",
+   "title": "Why Cramming Fails",
+   "vi": "Vì sao học nhồi không hiệu quả",
+   "text": [
+    "Every semester, in every university in the world, the same thing happens. For eleven weeks students attend lectures, skip the occasional seminar, and tell themselves that they will revise properly later. Then, in the last fortnight, the library fills up and nobody leaves before midnight. This is the season of cramming, and almost everyone does it at least once.",
+    "Cramming is not entirely useless. If you sit an exam the morning after an all-night session, you will probably remember enough to pass. The problem is what happens next. Studies of students across several universities have found that material learned in a single intense block disappears from memory far faster than material revised in short sessions spread over weeks. Two months after the exam, the crammers remembered roughly a third of what the steady students did.",
+    "This matters more than it sounds. A degree is not a series of unconnected modules. The statistics you memorise in your first year are the tools you need for your dissertation in your third. Students who cram often find themselves falling behind not because the new coursework is harder, but because the foundation underneath it was never properly built.",
+    "The alternative is not more hours. It is different hours. Researchers who study memory recommend what they call spaced retrieval: instead of rereading your notes, close them and try to recall the material from an empty page. This feels much worse than rereading, which is precisely the point. The effort of retrieval is what fixes the information in place.",
+    "There is a second habit worth building. After each lecture, spend five minutes writing down three things you did not understand. Most students take notes well but never revisit the gaps. A tutor can clear up in two minutes something that would otherwise cost you an afternoon the week before an exam.",
+    "None of this requires expensive software or a complicated system. A notebook and a willingness to feel slightly uncomfortable are enough. Yet the advice is routinely ignored, partly because cramming produces a satisfying feeling of effort, and partly because the costs arrive months later, when nobody connects them to the cause.",
+    "One lecturer puts it to her first-year students like this: \"You can pay a small amount of attention every week, or a very large amount in one terrible fortnight. The second option costs more and buys less.\" Most of them nod. Most of them cram anyway. The ones who do not are usually the ones who failed something in their first year and decided never to repeat the experience.",
+    "Perhaps that is the real lesson. Nobody changes how they study because of advice. They change because something went wrong, and they would rather it did not happen again."
+   ],
+   "q": [
+    {
+     "q": "What is the writer's main argument?",
+     "opts": [
+      "Spreading revision over time works better than cramming.",
+      "Universities set too many exams.",
+      "Students should spend more hours in the library.",
+      "Note-taking software improves results."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "What does the writer suggest about advice on study habits?",
+     "opts": [
+      "It rarely changes behaviour until something goes wrong.",
+      "It is usually incorrect.",
+      "It only works for postgraduate students.",
+      "It should be taught in the first lecture."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "Two months after an exam, how much did crammers remember compared with steady students?",
+     "opts": [
+      "About a third as much",
+      "Twice as much",
+      "Almost the same",
+      "About half as much"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "What does the writer recommend doing after each lecture?",
+     "opts": [
+      "Writing down three things you did not understand",
+      "Rereading your notes twice",
+      "Comparing notes with a classmate",
+      "Summarising the lecture in one sentence"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 4, \"spaced retrieval\" refers to",
+     "opts": [
+      "recalling material from memory in sessions spread over time",
+      "reading notes in a quiet room",
+      "studying with a group of classmates",
+      "taking an exam more than once"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "degree",
+     "n",
+     "bằng đại học"
+    ],
+    [
+     "semester",
+     "n",
+     "học kỳ"
+    ],
+    [
+     "lecture",
+     "n",
+     "bài giảng (lớp đông)"
+    ],
+    [
+     "seminar",
+     "n",
+     "buổi thảo luận"
+    ],
+    [
+     "coursework",
+     "n",
+     "bài làm trong khoá học"
+    ],
+    [
+     "dissertation",
+     "n",
+     "luận văn"
+    ],
+    [
+     "revise",
+     "v",
+     "ôn lại bài"
+    ],
+    [
+     "cram",
+     "v",
+     "học dồn phút chót"
+    ],
+    [
+     "sit an exam",
+     "phr",
+     "dự thi"
+    ],
+    [
+     "pass",
+     "v",
+     "đỗ, qua môn"
+    ],
+    [
+     "fail",
+     "v",
+     "trượt"
+    ],
+    [
+     "attend",
+     "v",
+     "tham dự, đi học"
+    ],
+    [
+     "skip",
+     "v",
+     "bỏ (tiết học)"
+    ],
+    [
+     "memorise",
+     "v",
+     "học thuộc"
+    ],
+    [
+     "fall behind",
+     "phr",
+     "tụt lại phía sau"
+    ],
+    [
+     "tutor",
+     "n",
+     "gia sư, trợ giảng"
+    ],
+    [
+     "take notes",
+     "phr",
+     "ghi chép"
+    ]
+   ]
+  },
+  {
+   "id": 3,
+   "topic": "health",
+   "lv": "B1",
+   "title": "The Patient Who Would Not Rest",
+   "vi": "Người bệnh không chịu nghỉ",
+   "text": [
+    "Mr Pham was fifty-four years old and had not taken a single day off work in nine years. When he finally made an appointment with his GP, it was not because of the cough that had lasted a month, but because his wife refused to stop asking.",
+    "The GP listened to his chest, asked about his diet, and checked his blood pressure twice. Then she asked a question he was not expecting: how many hours did he sleep? Four, he said, maybe five. He had suffered from insomnia for years and had learned to live with it.",
+    "The diagnosis was not dramatic. There was an infection, which a short course of antibiotics would clear, and a prescription for something to help the cough. But the doctor spent most of the appointment on something else. His blood pressure was high, he was overweight, and he was exhausted in a way that he had stopped noticing.",
+    "\"You think you are fine because nothing has gone wrong yet,\" she said. \"That is not the same thing.\"",
+    "She explained the treatment in two parts. The first part was simple: take the antibiotics, finish the whole course even after the symptoms disappear, and come back in three weeks for a check-up. The second part was harder. Walk for thirty minutes a day. Eat one proper meal instead of three snacks. Go to bed before midnight.",
+    "Mr Pham did what a great many patients do. He took the medicine, recovered from the infection, and ignored everything else. Six months later he was back, this time in an ambulance, after collapsing at work. It was not a heart attack, but it was close enough to frighten him.",
+    "What changed his mind was not the warning. It was a number. In the ward, a young doctor showed him a chart of his own readings over ten years, collected at various appointments he had barely remembered attending. The line went steadily in one direction. For the first time, the risk stopped being an abstract idea about other people.",
+    "Two years later, Mr Pham walks four kilometres every morning before work. He still finds it difficult to sleep, and he still works too much, but his blood pressure is normal and he has lost eleven kilos. When his colleagues ask how he did it, he does not talk about willpower. He talks about the chart.",
+    "Doctors have known this for a long time. People rarely change their behaviour because they are told to. They change when the information stops being general and becomes unmistakably about them."
+   ],
+   "q": [
+    {
+     "q": "What is the main idea of the story?",
+     "opts": [
+      "People change their habits when risk becomes personal, not when they are warned.",
+      "Antibiotics should always be taken for a full course.",
+      "Sleeping badly causes high blood pressure.",
+      "Doctors do not spend enough time with patients."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "What does the doctor mean by \"You think you are fine because nothing has gone wrong yet\"?",
+     "opts": [
+      "Having no symptoms does not mean being healthy.",
+      "His illness was more serious than he realised.",
+      "He should have come to the clinic sooner.",
+      "His test results were wrong."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "Why did Mr Pham finally make an appointment?",
+     "opts": [
+      "His wife kept asking him to.",
+      "His cough became painful.",
+      "His employer required a check-up.",
+      "He collapsed at work."
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "What finally persuaded Mr Pham to change?",
+     "opts": [
+      "A chart of his own readings over ten years",
+      "The warning from his GP",
+      "Advice from his colleagues",
+      "A leaflet he read in the ward"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In the last paragraph, \"unmistakably about them\" means the information is",
+     "opts": [
+      "clearly about that particular person",
+      "difficult to understand",
+      "written by a specialist",
+      "repeated several times"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "symptom",
+     "n",
+     "triệu chứng"
+    ],
+    [
+     "diagnosis",
+     "n",
+     "sự chẩn đoán"
+    ],
+    [
+     "treatment",
+     "n",
+     "cách điều trị"
+    ],
+    [
+     "prescription",
+     "n",
+     "đơn thuốc"
+    ],
+    [
+     "antibiotics",
+     "n",
+     "thuốc kháng sinh"
+    ],
+    [
+     "recover",
+     "v",
+     "hồi phục"
+    ],
+    [
+     "GP",
+     "n",
+     "bác sĩ gia đình"
+    ],
+    [
+     "appointment",
+     "n",
+     "cuộc hẹn khám"
+    ],
+    [
+     "ward",
+     "n",
+     "khu bệnh trong viện"
+    ],
+    [
+     "ambulance",
+     "n",
+     "xe cứu thương"
+    ],
+    [
+     "cough",
+     "n / v",
+     "ho"
+    ],
+    [
+     "infection",
+     "n",
+     "nhiễm trùng"
+    ],
+    [
+     "diet",
+     "n",
+     "chế độ ăn"
+    ],
+    [
+     "overweight",
+     "adj",
+     "thừa cân"
+    ],
+    [
+     "insomnia",
+     "n",
+     "mất ngủ"
+    ],
+    [
+     "blood pressure",
+     "n",
+     "huyết áp"
+    ]
+   ]
+  },
+  {
+   "id": 4,
+   "topic": "env",
+   "lv": "B2",
+   "title": "The Village That Ran Out of Water",
+   "vi": "Ngôi làng cạn nước",
+   "text": [
+    "For four generations the village of Hoa Binh had taken its water for granted. The river ran past the edge of the fields, the rain arrived in June, and the crop came in twice a year. Then, over roughly a decade, the pattern broke.",
+    "The drought of the third year was the one people still talk about. The river fell so low that the irrigation channels filled with mud, and farmers watched a whole season of rice turn brown in the ground. The following year brought the opposite problem: a flood that took away topsoil the village could not replace. Erosion had been a slow worry for years. Now it was visible from the road.",
+    "It would be comfortable to describe this as a natural disaster that simply happened. The reality was more complicated. Upstream, logging had cleared a large area of forest over fifteen years, and the deforestation changed how water moved through the whole valley. Without tree roots to hold it, rain ran off the slopes in hours instead of soaking into the ground over days. The lost forest had been the habitat of several species of bird that nobody missed until they were gone. The village was not only unlucky. It was downstream of a decision.",
+    "What happened next is the part worth studying. A group of farmers, none of whom had any training in conservation, began meeting on Sunday evenings. Their first proposals were about blame. Their later ones were about water.",
+    "They agreed three things. They would stop burning crop waste and compost it instead, which held moisture in the soil and was far more sustainable than buying fertiliser they could not afford. They would plant trees along the riverbank, slowly, with whatever money they could raise, in the hope of preserving what was left of the riverside ecosystem. And they would measure. Somebody bought a cheap gauge and recorded the river level every morning for four years.",
+    "The measurements turned out to matter more than anything else. When the village finally approached the district authorities, they did not arrive with complaints. They arrived with four years of daily readings, a map of where the logging had taken place, and a specific request: a ban on clearing the remaining slope above the village.",
+    "The ban was granted. It was not a victory over anybody; the logging company had already moved on. But the principle held, the slope is still forested, and the wildlife that had become scarce on that side of the valley has slowly come back.",
+    "The village has not gone back to how it was. Water is still a resource nobody takes for granted, the rains remain unpredictable, and two families have left for the city. Yet the river level has risen slightly for three consecutive years, and the second rice crop returned last season for the first time in eight years. Three nearby villages have asked how it was done, which is how one small effort to conserve a slope has begun to raise awareness further down the valley.",
+    "A woman who kept the gauge records for most of that period was asked what she would tell another village in the same position. She thought about it for a while. \"Start writing things down,\" she said. \"Nobody argues with four years of numbers.\""
+   ],
+   "q": [
+    {
+     "q": "What is the main point of the article?",
+     "opts": [
+      "Careful local evidence can change decisions about shared resources.",
+      "Droughts are becoming more frequent everywhere.",
+      "Logging companies should be fined for deforestation.",
+      "Villages should move when water becomes scarce."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "Why does the writer say the village was \"downstream of a decision\"?",
+     "opts": [
+      "Its problems were partly caused by logging further up the valley.",
+      "The authorities decided where the village could take water.",
+      "The village was built in the wrong place.",
+      "The farmers had chosen the wrong crop."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "For how long did somebody record the river level every morning?",
+     "opts": [
+      "Four years",
+      "One season",
+      "Fifteen years",
+      "Eight years"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "What did the farmers decide to do with crop waste?",
+     "opts": [
+      "Compost it instead of burning it",
+      "Sell it to the district",
+      "Bury it in the riverbank",
+      "Feed it to animals"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 3, \"ran off the slopes\" means the water",
+     "opts": [
+      "flowed away quickly over the surface",
+      "was collected in tanks",
+      "evaporated in the heat",
+      "was used up by the trees"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "sustainable",
+     "adj",
+     "bền vững (duy trì được lâu dài)"
+    ],
+    [
+     "waste",
+     "n / v",
+     "rác thải; lãng phí"
+    ],
+    [
+     "deforestation",
+     "n",
+     "nạn phá rừng"
+    ],
+    [
+     "logging",
+     "n",
+     "việc khai thác gỗ"
+    ],
+    [
+     "habitat",
+     "n",
+     "môi trường sống (của loài)"
+    ],
+    [
+     "species",
+     "n",
+     "loài (số ít và số nhiều VIẾT GIỐNG NHAU)"
+    ],
+    [
+     "conservation",
+     "n",
+     "công tác bảo tồn"
+    ],
+    [
+     "wildlife",
+     "n",
+     "động vật hoang dã (KHÔNG thêm s)"
+    ],
+    [
+     "ecosystem",
+     "n",
+     "hệ sinh thái"
+    ],
+    [
+     "drought",
+     "n",
+     "hạn hán"
+    ],
+    [
+     "flood",
+     "n / v",
+     "lũ lụt; ngập"
+    ],
+    [
+     "natural disaster",
+     "n",
+     "thiên tai"
+    ],
+    [
+     "erosion",
+     "n",
+     "sự xói mòn"
+    ],
+    [
+     "scarce",
+     "adj",
+     "khan hiếm"
+    ],
+    [
+     "resource",
+     "n",
+     "tài nguyên"
+    ],
+    [
+     "conserve",
+     "v",
+     "tiết kiệm, giữ gìn (điện, nước)"
+    ],
+    [
+     "raise awareness",
+     "phr",
+     "nâng cao nhận thức"
+    ],
+    [
+     "crop",
+     "n",
+     "cây trồng, vụ mùa"
+    ],
+    [
+     "irrigation",
+     "n",
+     "sự tưới tiêu"
+    ],
+    [
+     "ban",
+     "v / n",
+     "cấm; lệnh cấm"
+    ]
+   ]
+  },
+  {
+   "id": 5,
+   "topic": "tech",
+   "lv": "B2",
+   "title": "The Password Everybody Knew",
+   "vi": "Mật khẩu ai cũng biết",
+   "text": [
+    "The security review began, as these things often do, with something small. A junior member of staff could not log in to the booking system, and when she asked a colleague for help, he told her the password over the phone. It was the name of the company followed by the current year.",
+    "She mentioned it to the person who had been asked to look at the company's data practices, mostly as a joke. He did not laugh. Over the following fortnight he found that the same password opened four other accounts, that nobody had changed it in three years, and that at least sixty people knew it, including several who had left the company.",
+    "None of this was the result of carelessness in the usual sense. Every person in that chain had behaved reasonably. A shared password is faster than asking someone to install new software on every device. Writing it down saves a phone call. Telling a new colleague saves twenty minutes. Each decision made the day easier, and together they removed the firewall between the company's data and anybody who had ever worked there.",
+    "This pattern is familiar to anybody who studies security. The weak point is almost never the encryption, the network, or the browser. It is the small, sensible shortcut that a tired person takes at four in the afternoon.",
+    "The company's response was better than most. They did not send a stern email about privacy. Instead they asked a simple question: what is the slowest part of your day? The answers had nothing to do with security. People waited twenty minutes for a laptop to update. The interface of the booking system was so unfriendly that three departments had quietly started using a spreadsheet instead. One team could not upload files larger than ten megabytes, so they emailed attachments to their personal accounts and worked from home.",
+    "Every one of those complaints was also a security problem, and none of them would have appeared in a security audit.",
+    "The fixes took four months. A password manager removed the need for anyone to remember anything. The booking system was replaced with something people did not actively avoid. The storage limit went up, which ended the habit of sending company data to private accounts.",
+    "The person who ran the review has a line he repeats to clients. \"If the secure way is slower than the insecure way, you have not built security. You have built a rule that people will break.\" It sounds obvious. It is also, he says, the single thing most organisations get wrong, because the rule is cheap to write and the slow system is expensive to fix.",
+    "A year later, nobody in the company could tell you the old password. Not because they had been trained to forget it, but because they no longer had any reason to use it."
+   ],
+   "q": [
+    {
+     "q": "What is the main argument of the article?",
+     "opts": [
+      "Security fails when the secure option is slower than the insecure one.",
+      "Companies should change passwords more often.",
+      "Encryption is the weakest part of most systems.",
+      "Staff need more training in data privacy."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "Why does the writer say the complaints \"would not have appeared in a security audit\"?",
+     "opts": [
+      "They looked like ordinary inconveniences rather than security issues.",
+      "Staff were afraid to report them.",
+      "The audit was carried out too quickly.",
+      "They happened only at certain times of year."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "How many people knew the shared password?",
+     "opts": [
+      "At least sixty",
+      "About twenty",
+      "Only four",
+      "Three departments"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "What did one team do because of the file size limit?",
+     "opts": [
+      "Emailed attachments to their personal accounts",
+      "Bought extra storage themselves",
+      "Stopped sharing files altogether",
+      "Compressed every file before sending"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 4, \"the weak point\" refers to",
+     "opts": [
+      "the easiest place for a system to fail",
+      "a damaged piece of hardware",
+      "an employee who breaks the rules",
+      "a gap in the company's budget"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "device",
+     "n",
+     "thiết bị"
+    ],
+    [
+     "software",
+     "n",
+     "phần mềm (KHÔNG đếm được)"
+    ],
+    [
+     "upload",
+     "v",
+     "tải lên"
+    ],
+    [
+     "install",
+     "v",
+     "cài đặt"
+    ],
+    [
+     "update",
+     "n / v",
+     "bản cập nhật; cập nhật"
+    ],
+    [
+     "browser",
+     "n",
+     "trình duyệt"
+    ],
+    [
+     "password",
+     "n",
+     "mật khẩu"
+    ],
+    [
+     "log in",
+     "phr",
+     "đăng nhập"
+    ],
+    [
+     "account",
+     "n",
+     "tài khoản"
+    ],
+    [
+     "privacy",
+     "n",
+     "quyền riêng tư"
+    ],
+    [
+     "firewall",
+     "n",
+     "tường lửa"
+    ],
+    [
+     "data",
+     "n",
+     "dữ liệu (thường đi với động từ số ít)"
+    ],
+    [
+     "storage",
+     "n",
+     "bộ nhớ lưu trữ"
+    ],
+    [
+     "attachment",
+     "n",
+     "tệp đính kèm"
+    ],
+    [
+     "network",
+     "n",
+     "mạng (máy tính, quan hệ)"
+    ],
+    [
+     "interface",
+     "n",
+     "giao diện"
+    ],
+    [
+     "file",
+     "n",
+     "tệp, tập tin"
+    ]
+   ]
+  },
+  {
+   "id": 6,
+   "topic": "media",
+   "lv": "B2",
+   "title": "The Headline That Was Not Wrong",
+   "vi": "Cái tít không hề sai",
+   "text": [
+    "In March a regional newspaper ran a front page headline reporting that a local hospital had cut waiting times by half. Every word of it was accurate. The article beneath it was careful, the figures came from a reliable source, and the reporter had checked them twice. Within a week the story had been shared tens of thousands of times, and the hospital was receiving letters of congratulation.",
+    "It was also, in the way that matters most, misleading.",
+    "The waiting time had indeed halved, but only for one particular procedure, in one department, over three months, and largely because a second clinic had opened nearby and absorbed the overflow. Across the hospital as a whole, waiting times had risen slightly. None of this was hidden. It was all in the article, in the eleventh paragraph.",
+    "Editors have known for a long time that most readers do not reach the eleventh paragraph. What has changed is that most readers now do not reach the first one either. A headline travels on its own, detached from the article, through feeds and group chats, and by the time it arrives in front of somebody it has lost every qualification the reporter attached to it.",
+    "This is not quite the same problem as fake news, and treating the two as identical makes both harder to discuss. The article in question was not propaganda and contained no rumour. Nobody exaggerated. The failure was structural: a true sentence, separated from its context, behaves exactly like a false one.",
+    "Some newsrooms have begun to respond. A few now write headlines last rather than first, and test them by asking a simple question: if a reader sees only this line, what will they believe? Others have started putting the most important qualification into the headline itself, even at the cost of elegance. \"Waiting times halve for one procedure as second clinic opens\" is clumsier. It is also much harder to misunderstand.",
+    "Readers can do something too, although the advice is unglamorous. Before sharing, open the article. Look for the paragraph that begins with \"however\" or \"although\", because that is usually where the qualification lives. Check whether the numbers describe everything or one small part of everything.",
+    "The editor of the newspaper in question published a note about the episode three weeks later. She did not apologise for the facts, because the facts were right. She apologised for the shape of the story: for putting the striking number where everyone would see it and the necessary limits where almost nobody would.",
+    "\"Accuracy is not the same as honesty,\" she wrote. \"You can be completely accurate and still leave a reader believing something untrue. That is the part we have to get better at.\""
+   ],
+   "q": [
+    {
+     "q": "What is the writer's main point?",
+     "opts": [
+      "A true statement can mislead once it is separated from its context.",
+      "Newspapers should stop publishing statistics.",
+      "Most reporters do not check their figures.",
+      "Fake news is the biggest problem facing the media."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "Why does the writer distinguish this case from fake news?",
+     "opts": [
+      "Nothing in the article was false or invented.",
+      "The newspaper was regional rather than national.",
+      "The story was not shared very widely.",
+      "The hospital had asked for the coverage."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "Where in the article was the full explanation of the figures?",
+     "opts": [
+      "In the eleventh paragraph",
+      "In the headline",
+      "In a separate editorial",
+      "In the first paragraph"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "What do some newsrooms now do differently?",
+     "opts": [
+      "They write the headline last and test what it alone would suggest.",
+      "They refuse to publish numbers on the front page.",
+      "They ask readers to approve headlines.",
+      "They publish a correction with every story."
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In the final paragraph, \"Accuracy is not the same as honesty\" suggests that",
+     "opts": [
+      "correct facts can still create a false impression",
+      "journalists often invent quotes",
+      "editors should check figures twice",
+      "honesty matters less than speed"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "reporter",
+     "n",
+     "phóng viên"
+    ],
+    [
+     "editor",
+     "n",
+     "biên tập viên, tổng biên tập"
+    ],
+    [
+     "headline",
+     "n",
+     "tiêu đề lớn (trên báo)"
+    ],
+    [
+     "article",
+     "n",
+     "bài báo"
+    ],
+    [
+     "live",
+     "adj / adv",
+     "trực tiếp (phát sóng ngay lúc đó)"
+    ],
+    [
+     "source",
+     "n",
+     "nguồn tin"
+    ],
+    [
+     "accurate",
+     "adj",
+     "chính xác"
+    ],
+    [
+     "misleading",
+     "adj",
+     "gây hiểu lầm"
+    ],
+    [
+     "exaggerate",
+     "v",
+     "phóng đại"
+    ],
+    [
+     "rumour",
+     "n",
+     "tin đồn (Mỹ viết: rumor)"
+    ],
+    [
+     "fake news",
+     "n",
+     "tin giả"
+    ],
+    [
+     "propaganda",
+     "n",
+     "sự tuyên truyền (KHÔNG đếm được)"
+    ],
+    [
+     "front page",
+     "n",
+     "trang nhất"
+    ],
+    [
+     "publish",
+     "v",
+     "xuất bản, đăng"
+    ],
+    [
+     "share",
+     "v",
+     "chia sẻ (bài đăng)"
+    ]
+   ]
+  },
+  {
+   "id": 7,
+   "topic": "travel",
+   "lv": "B1",
+   "title": "Twelve Hours in the Wrong City",
+   "vi": "Mười hai tiếng ở nhầm thành phố",
+   "text": [
+    "The problem started with a connecting flight that nobody mentioned. Lan had booked the cheapest fare she could find, two months in advance, and the itinerary showed a departure at seven in the morning and an arrival the same evening. What it did not show clearly was that the journey included a layover of eleven hours in a city she had never planned to visit.",
+    "She discovered this at the check-in desk. The woman behind the counter was sympathetic but not surprised. \"It happens every day,\" she said, printing the boarding pass. \"People look at the price and the arrival time. They do not read the middle.\"",
+    "Lan had two choices. She could spend eleven hours in a departure lounge, or she could go through customs and see something. She had no visa for the country, which ruled out the second option entirely until a member of staff pointed out that her passport qualified for a transit arrangement that allowed a stay of up to twenty-four hours.",
+    "What followed was the best day of the trip.",
+    "She left her suitcase in storage, took a train into the city centre, and walked. There was no itinerary and no guided tour. She had four hours of genuine sightseeing, found a market that no travel agency would have sent her to, ate lunch standing up for the equivalent of two euros, and got slightly lost on the way back. She arrived at the gate forty minutes before boarding, tired and extremely pleased with herself.",
+    "The accidental stopover has become something of a habit since. She now checks every itinerary for layovers of more than six hours and treats them as opportunities rather than delays. Several airlines, she discovered afterwards, actively offer long stopovers at no extra cost, because it costs them nothing and makes an awkward connection sound like a feature.",
+    "There are rules worth knowing. Travel light, because dragging luggage around a city is miserable. Check the transit arrangements before you arrive, not at the desk. Allow three hours to get back, not one. Keep enough local currency for a train ticket, since the exchange rate at the airport is always poor. And never leave the airport if the gap is under five hours, because the time disappears faster than anyone expects.",
+    "Lan still travels on a budget, and still books whatever is cheapest. The difference is that she now reads the middle of the itinerary first. The departure and arrival times tell you when the trip starts and ends. Everything interesting, she says, tends to happen in between."
+   ],
+   "q": [
+    {
+     "q": "What is the main idea of the article?",
+     "opts": [
+      "A long layover can be turned into an opportunity rather than wasted time.",
+      "Cheap flights are usually a false economy.",
+      "Travellers should avoid connecting flights.",
+      "Airport staff rarely give useful advice."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "What does the final paragraph suggest about how Lan books flights now?",
+     "opts": [
+      "She still chooses cheap fares but reads the whole itinerary.",
+      "She now pays more for direct flights.",
+      "She avoids flights with any stopover.",
+      "She books only through a travel agency."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "How long was the layover?",
+     "opts": [
+      "Eleven hours",
+      "Twenty-four hours",
+      "Six hours",
+      "Four hours"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "What does Lan advise about getting back to the airport?",
+     "opts": [
+      "Allow three hours rather than one",
+      "Book a taxi in advance",
+      "Return before it gets dark",
+      "Leave the airport only with hand luggage"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 3, \"ruled out\" means",
+     "opts": [
+      "made impossible",
+      "made more expensive",
+      "decided in advance",
+      "recommended strongly"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "itinerary",
+     "n",
+     "lịch trình chuyến đi"
+    ],
+    [
+     "book",
+     "v",
+     "đặt trước (vé, phòng, bàn)"
+    ],
+    [
+     "check in",
+     "phr",
+     "làm thủ tục (nhận phòng, lên máy bay)"
+    ],
+    [
+     "fare",
+     "n",
+     "giá vé (xe, tàu, máy bay)"
+    ],
+    [
+     "luggage",
+     "n",
+     "hành lý (KHÔNG đếm được, không có s)"
+    ],
+    [
+     "suitcase",
+     "n",
+     "va li"
+    ],
+    [
+     "passport",
+     "n",
+     "hộ chiếu"
+    ],
+    [
+     "visa",
+     "n",
+     "thị thực"
+    ],
+    [
+     "boarding pass",
+     "n",
+     "thẻ lên máy bay"
+    ],
+    [
+     "departure",
+     "n",
+     "sự khởi hành"
+    ],
+    [
+     "arrival",
+     "n",
+     "sự đến nơi"
+    ],
+    [
+     "delay",
+     "n / v",
+     "sự chậm trễ; làm chậm"
+    ],
+    [
+     "connecting flight",
+     "n",
+     "chuyến bay nối chuyến"
+    ],
+    [
+     "layover",
+     "n",
+     "thời gian chờ nối chuyến"
+    ],
+    [
+     "customs",
+     "n",
+     "hải quan (luôn có s)"
+    ],
+    [
+     "guided tour",
+     "n",
+     "tour có hướng dẫn viên"
+    ],
+    [
+     "sightseeing",
+     "n",
+     "việc tham quan ngắm cảnh"
+    ],
+    [
+     "currency",
+     "n",
+     "tiền tệ, đồng tiền"
+    ],
+    [
+     "exchange rate",
+     "n",
+     "tỷ giá hối đoái"
+    ],
+    [
+     "stopover",
+     "n",
+     "điểm dừng chân giữa hành trình"
+    ],
+    [
+     "travel light",
+     "phr",
+     "đi gọn nhẹ, mang ít đồ"
+    ],
+    [
+     "on a budget",
+     "phr",
+     "với ngân sách hạn hẹp"
+    ],
+    [
+     "travel agency",
+     "n",
+     "công ty lữ hành"
+    ]
+   ]
+  },
+  {
+   "id": 8,
+   "topic": "home",
+   "lv": "B2",
+   "title": "The Street That Fixed Itself",
+   "vi": "Con phố tự sửa mình",
+   "text": [
+    "Nguyen Street is four hundred metres long and sits on the outskirts of a city that has grown faster than anyone planned. Ten years ago it was a quiet residential road of terraced houses and small yards. Then the new ring road opened, the neighbourhood became convenient, and the rent doubled in four years.",
+    "What followed is a familiar story in any growing suburb. Landlords divided houses into smaller flats. A detached house at the corner became six units with shared plumbing that had been designed for one family. The street became overcrowded in a way that nobody had decided and nobody could easily reverse.",
+    "The infrastructure gave way first. Utility bills rose because the electricity supply had not been upgraded since the houses were built. Rubbish collection, scheduled for a street of twenty households, now served sixty. Three families complained to the district office about the heating in winter and the water pressure in summer, and received polite letters in reply.",
+    "The turning point came from a tenant rather than an owner, which is unusual. A woman who had moved in two years earlier and expected to move out again noticed that every complaint was being made separately. She spent a month knocking on doors, and found that twenty-two households had each written to the same office about the same problems, individually, over three years.",
+    "She did something simple. She put all the complaints into one document, in date order, with the addresses listed. The district office received a single letter from twenty-two households instead of twenty-two letters from one household each. The difference in effect was enormous.",
+    "The street did not get everything. The electricity supply was upgraded, which solved the worst of the problem. The rubbish collection doubled. A request for a proper pavement was refused twice before being approved as part of an unrelated construction project two years later.",
+    "What the street did get, and had not had before, was a way of talking to itself. There is now a list of who lives where, which sounds trivial until a pipe bursts at midnight. Two neighbours repair things for everybody and are paid properly for it. When a new tenant moves in, somebody tells them which day the rubbish goes out, which is the kind of information that never appears in a lease.",
+    "The woman who started it moved out last year, as she had always planned to. The list she made is still being updated by somebody else.",
+    "Housing problems are usually described as a shortage of buildings, and often they are. But a surprising number of them are a shortage of coordination, and that one is considerably cheaper to fix."
+   ],
+   "q": [
+    {
+     "q": "What is the main point of the article?",
+     "opts": [
+      "Some housing problems are caused by poor coordination rather than lack of buildings.",
+      "Rents rise whenever transport improves.",
+      "Tenants have fewer rights than landlords.",
+      "Dividing houses into flats should be banned."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "Why does the writer call the tenant's action \"simple\"?",
+     "opts": [
+      "She only gathered existing complaints into one document.",
+      "She spoke directly to the landlords.",
+      "She organised a protest at the district office.",
+      "She paid for the repairs herself."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "How many households had complained separately?",
+     "opts": [
+      "Twenty-two",
+      "Twenty",
+      "Sixty",
+      "Three"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "What happened to the request for a proper pavement?",
+     "opts": [
+      "It was refused twice, then approved later as part of another project.",
+      "It was approved immediately.",
+      "It was never submitted.",
+      "It was replaced by a request for better lighting."
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 3, \"The infrastructure gave way\" means the basic services",
+     "opts": [
+      "stopped working properly under the extra pressure",
+      "were rebuilt by the district office",
+      "were handed over to private companies",
+      "became more expensive to use"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "flat",
+     "n",
+     "căn hộ (Mỹ: apartment)"
+    ],
+    [
+     "detached house",
+     "n",
+     "nhà riêng biệt lập (không chung tường)"
+    ],
+    [
+     "terraced house",
+     "n",
+     "nhà liền kề (dãy nhà chung tường)"
+    ],
+    [
+     "landlord",
+     "n",
+     "chủ nhà cho thuê"
+    ],
+    [
+     "tenant",
+     "n",
+     "người thuê nhà"
+    ],
+    [
+     "rent",
+     "n / v",
+     "tiền thuê; thuê (nhà)"
+    ],
+    [
+     "lease",
+     "n",
+     "hợp đồng thuê dài hạn"
+    ],
+    [
+     "move in",
+     "phr",
+     "dọn vào ở"
+    ],
+    [
+     "move out",
+     "phr",
+     "dọn đi, chuyển ra"
+    ],
+    [
+     "neighbourhood",
+     "n",
+     "khu dân cư, khu phố"
+    ],
+    [
+     "neighbour",
+     "n",
+     "hàng xóm (Mỹ: neighbor)"
+    ],
+    [
+     "suburb",
+     "n",
+     "vùng ngoại ô"
+    ],
+    [
+     "outskirts",
+     "n",
+     "rìa, vùng ven thành phố (luôn có s)"
+    ],
+    [
+     "residential",
+     "adj",
+     "thuộc khu dân cư (để ở)"
+    ],
+    [
+     "overcrowded",
+     "adj",
+     "quá đông đúc, chen chúc"
+    ],
+    [
+     "housing",
+     "n",
+     "nhà ở (KHÔNG đếm được)"
+    ],
+    [
+     "utility bills",
+     "n",
+     "hoá đơn điện nước"
+    ],
+    [
+     "electricity",
+     "n",
+     "điện (KHÔNG đếm được)"
+    ],
+    [
+     "heating",
+     "n",
+     "hệ thống sưởi"
+    ],
+    [
+     "plumbing",
+     "n",
+     "hệ thống đường nước"
+    ],
+    [
+     "repair",
+     "n / v",
+     "việc sửa chữa; sửa"
+    ],
+    [
+     "yard",
+     "n",
+     "sân (quanh nhà)"
+    ],
+    [
+     "convenient",
+     "adj",
+     "thuận tiện"
+    ],
+    [
+     "infrastructure",
+     "n",
+     "cơ sở hạ tầng"
+    ],
+    [
+     "construction",
+     "n",
+     "việc xây dựng"
+    ]
+   ]
+  },
+  {
+   "id": 9,
+   "topic": "money",
+   "lv": "B1",
+   "title": "The Shopping List Experiment",
+   "vi": "Thí nghiệm tờ giấy mua hàng",
+   "text": [
+    "Two years ago a small consumer group in Manchester ran an experiment that cost almost nothing and produced a surprisingly clear result. They asked forty households to do their weekly shopping exactly as usual for one month, keeping every receipt. For the second month, they asked the same households to write a list before leaving home and buy nothing that was not on it.",
+    "The average household spent eighteen per cent less in the second month. Nobody ate worse. Nobody reported feeling that they had gone without anything.",
+    "What the receipts showed was not a story about expensive taste. The difference came almost entirely from small purchases made at the moment of seeing something: a magazine at the checkout, a second packet of biscuits because it was half price, a bargain that nobody had intended to buy. Each impulse buy was trivial, and none of them was a rip off. Together they came to roughly the cost of a week's shopping every month.",
+    "The organisers were careful not to describe the result as a lesson in willpower. Supermarkets are designed by people who understand human attention extremely well. The items near the checkout are there because that is where a tired person waiting in a queue will reach out without deciding to. A list does not make anybody stronger. It simply means the decision has already been made somewhere calmer.",
+    "There was a second finding that interested the group more. Households with the lowest income saved the smallest amount. This sounds backwards until you look at the receipts. Families struggling to make ends meet were already buying almost nothing beyond necessities; there was no spare spending left to remove. The households that saved most were the well-off ones who had never needed to look closely at what they could afford.",
+    "This matters because advice about money is usually aimed at the wrong people. Being told to cut small expenses is useful if you have small expenses to cut. If you are already choosing between heating and food, the advice is not merely unhelpful but faintly insulting.",
+    "A third of the households kept using lists after the experiment ended. Of those, most said the real benefit was not the savings. It was that shopping took less time and required less thought, which is a different kind of value for money. Two families reported that they had started putting the difference aside each month rather than letting it vanish back into general expenses.",
+    "One participant, a nurse who had described herself at the start as hopeless with money, had paid off a small debt within six months and had begun to save up for the first time in years. She was clear about what had changed. \"I did not become careful,\" she said. \"I just stopped making forty decisions while standing in a shop at seven in the evening, pushing a trolley I had already half filled.\"",
+    "The group published the results with a note at the top: this works for some households and not others, and anyone who tells you it works for everybody is selling something."
+   ],
+   "q": [
+    {
+     "q": "What is the main finding of the experiment?",
+     "opts": [
+      "Shopping from a list reduced spending, mostly by removing unplanned purchases.",
+      "Supermarkets charge more than smaller shops.",
+      "Families on low incomes waste the most money.",
+      "Writing lists saves time but not money."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "Why does the writer say advice about money is \"aimed at the wrong people\"?",
+     "opts": [
+      "Those with the least to cut are told to cut small expenses.",
+      "Most advice is written by wealthy people.",
+      "The advice is usually too complicated to follow.",
+      "Supermarkets pay for most financial advice."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "By how much did the average household spending fall?",
+     "opts": [
+      "Eighteen per cent",
+      "Half",
+      "A third",
+      "Six per cent"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "Which households saved the smallest amount?",
+     "opts": [
+      "Those with the lowest income",
+      "Those with the largest families",
+      "Those who shopped most often",
+      "Those who kept the fewest receipts"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 3, an \"impulse buy\" is something bought",
+     "opts": [
+      "suddenly, without having planned to",
+      "at a reduced price",
+      "in large quantities",
+      "for somebody else"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "afford",
+     "v",
+     "đủ tiền để mua / làm (thường đi với can)"
+    ],
+    [
+     "save up",
+     "phr",
+     "tiết kiệm dần (để mua gì)"
+    ],
+    [
+     "savings",
+     "n",
+     "tiền tiết kiệm (luôn có s)"
+    ],
+    [
+     "expense",
+     "n",
+     "khoản chi phí"
+    ],
+    [
+     "income",
+     "n",
+     "thu nhập"
+    ],
+    [
+     "debt",
+     "n",
+     "khoản nợ (chữ b CÂM)"
+    ],
+    [
+     "bargain",
+     "n",
+     "món hời, mua được giá hời"
+    ],
+    [
+     "half price",
+     "adj / adv",
+     "nửa giá"
+    ],
+    [
+     "receipt",
+     "n",
+     "hoá đơn mua hàng (chữ p CÂM)"
+    ],
+    [
+     "change",
+     "n",
+     "tiền thừa, tiền lẻ"
+    ],
+    [
+     "make ends meet",
+     "phr",
+     "xoay xở đủ sống"
+    ],
+    [
+     "pay off",
+     "phr",
+     "trả hết (nợ)"
+    ],
+    [
+     "rip off",
+     "v / n",
+     "chặt chém; vụ chặt chém"
+    ],
+    [
+     "value for money",
+     "phr",
+     "đáng đồng tiền"
+    ],
+    [
+     "consumer",
+     "n",
+     "người tiêu dùng (nói chung)"
+    ],
+    [
+     "purchase",
+     "n / v",
+     "việc mua; mua (trang trọng)"
+    ],
+    [
+     "checkout",
+     "n",
+     "quầy thanh toán"
+    ],
+    [
+     "trolley",
+     "n",
+     "xe đẩy siêu thị (Mỹ: cart)"
+    ],
+    [
+     "queue",
+     "n / v",
+     "hàng người xếp; xếp hàng (Mỹ: line)"
+    ],
+    [
+     "impulse buy",
+     "n",
+     "món mua bốc đồng"
+    ]
+   ]
+  },
+  {
+   "id": 10,
+   "topic": "food",
+   "lv": "B1",
+   "title": "What the Chef Learned from Complaints",
+   "vi": "Điều người đầu bếp học được từ lời phàn nàn",
+   "text": [
+    "When Mai opened her restaurant she expected complaints about the bill or the waiting time. What she did not expect was that almost every complaint in the first year would be about the same thing: portion size.",
+    "The food itself was rarely criticised. Customers described the dishes as tasty, sometimes delicious. The starters were praised. The problem was that people felt the main course was small, and they said so in a way that suggested they thought they were being cheated.",
+    "Mai weighed everything. The portions were, if anything, slightly larger than those of the restaurant down the road. She tried serving the same quantity on a smaller plate, which is an old trick, and the complaints dropped by about half within a fortnight. That was interesting but not satisfying, because it solved the perception rather than the cause.",
+    "The real answer came from a waiter. He pointed out that most customers ordered a main course and nothing else. They skipped the starter, did not order a side dish, and left before dessert. Of course they left hungry. They had eaten one course of a meal designed as three.",
+    "So Mai changed the menu rather than the food. She removed the word \"starter\" and replaced it with a short line at the top: *most people order two of these*. She made the side dishes cheaper and listed them next to the main courses instead of on a separate page. She stopped describing anything as a full meal.",
+    "Complaints about portion size almost disappeared, and the average bill went up slightly, which she had not planned.",
+    "There was a second change she made for a different reason. Customers kept asking whether a dish was spicy, and the honest answer was that it depended on the batch of chillies. Rather than guess, she began writing the actual seasoning on the menu: *mild, two chillies, adjustable*. One line of information ended an argument that had been happening twice a night.",
+    "Her conclusion, after four years, is that most complaints in a restaurant are not really about the food. They are about expectations that nobody managed. A customer who orders one course and expects to be full has been failed by the menu, not the kitchen.",
+    "Mai still gets complaints, naturally. These days they are mostly about the music, which she says is a much better problem to have."
+   ],
+   "q": [
+    {
+     "q": "What is the main point of the article?",
+     "opts": [
+      "Many restaurant complaints come from unmanaged expectations rather than the food.",
+      "Restaurants should serve larger portions.",
+      "Customers do not understand how menus work.",
+      "Smaller plates make food look better."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "Why was Mai not satisfied by the smaller plates?",
+     "opts": [
+      "It changed how people felt without addressing the real cause.",
+      "The plates were too expensive to replace.",
+      "Customers noticed the trick immediately.",
+      "Complaints rose again after a month."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "Who worked out why customers were leaving hungry?",
+     "opts": [
+      "A waiter",
+      "Mai herself",
+      "A regular customer",
+      "The chef down the road"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "What did Mai write on the menu about seasoning?",
+     "opts": [
+      "The actual level, such as \"mild, two chillies, adjustable\"",
+      "A warning that all dishes were spicy",
+      "The country each recipe came from",
+      "The name of the chef who prepared it"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 4, \"skipped the starter\" means they",
+     "opts": [
+      "did not order the first course",
+      "ate the first course very quickly",
+      "shared one starter between two people",
+      "ordered the starter after the main course"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "dish",
+     "n",
+     "món ăn"
+    ],
+    [
+     "course",
+     "n",
+     "món trong bữa (khai vị, chính...)"
+    ],
+    [
+     "starter",
+     "n",
+     "món khai vị (Mỹ: appetizer)"
+    ],
+    [
+     "main course",
+     "n",
+     "món chính"
+    ],
+    [
+     "dessert",
+     "n",
+     "món tráng miệng"
+    ],
+    [
+     "side dish",
+     "n",
+     "món ăn kèm"
+    ],
+    [
+     "portion",
+     "n",
+     "khẩu phần"
+    ],
+    [
+     "menu",
+     "n",
+     "thực đơn"
+    ],
+    [
+     "order",
+     "v / n",
+     "gọi món; đơn gọi món"
+    ],
+    [
+     "bill",
+     "n",
+     "hoá đơn tính tiền (Mỹ: check)"
+    ],
+    [
+     "waiter",
+     "n",
+     "người phục vụ bàn"
+    ],
+    [
+     "season",
+     "v",
+     "nêm nếm"
+    ],
+    [
+     "seasoning",
+     "n",
+     "gia vị nêm"
+    ],
+    [
+     "tasty",
+     "adj",
+     "ngon"
+    ],
+    [
+     "delicious",
+     "adj",
+     "rất ngon (KHÔNG dùng very delicious)"
+    ],
+    [
+     "spicy",
+     "adj",
+     "cay"
+    ]
+   ]
+  },
+  {
+   "id": 11,
+   "topic": "family",
+   "lv": "B2",
+   "title": "The Phone Call Nobody Made",
+   "vi": "Cuộc gọi không ai gọi",
+   "text": [
+    "Two brothers, eleven months apart in age, did not speak to each other for six years. Neither of them could later describe the argument that started it with any confidence. There had been a disagreement about money after their father died, and then a second quarrel about the first one, and after that the silence simply continued because neither wanted to be the one who gave in.",
+    "This is more common than most people assume. Surveys in several countries suggest that a substantial minority of adults have lost touch with a close relative, and that the great majority of those breaks began with something small. Families rarely split up over a single dramatic event. They fall out with each other over something minor, then drift, and then the drift hardens. Even in households that everyone describes as close-knit, two siblings can stop speaking without anybody outside the family noticing for a year.",
+    "What makes these situations difficult is that both people usually believe they are waiting for an apology they are owed. From inside the argument, each position looks obviously reasonable. From outside, an observer often cannot tell the two accounts apart.",
+    "The brothers were brought back into contact by their mother, who was not subtle about it. She told each of them separately that she was unwell, which was partly true, and arranged for both to visit on the same afternoon. The meeting was awkward for about twenty minutes and then, by both accounts, surprisingly ordinary.",
+    "What struck the younger brother afterwards was how much had happened that he knew nothing about. His brother had got married and separated again; the couple had been together for most of the silence and he had met neither the wedding nor the divorce. There was a nephew he had never met, now five years old, who had grown up without knowing he had an uncle. Six years is not long in a relationship between adults, but it is most of a childhood, and a whole generation of the extended family had rearranged itself around a gap nobody mentioned.",
+    "Family therapists who work on these reconciliations describe a pattern. The first conversation almost never resolves the original argument, and attempting to make up properly in that first meeting usually makes things worse. What works is talking about something else entirely for long enough that the relationship exists again and some basic trust returns. The quarrel can be discussed later, or more often never, because it stops mattering once there is something to lose.",
+    "The brothers have never discussed the money. The younger one tried once, about a year after they started speaking again, and his brother changed the subject so firmly that he understood the message and did not raise it a second time.",
+    "They are not close in the way they were growing up. They see each other perhaps four times a year, mostly at their mother's household, and the conversation stays on safe ground. Neither has suggested that they get in touch more often. Both of them describe this as a good outcome, which it is.",
+    "Their mother, who is now genuinely unwell, has never admitted what she did. Both brothers worked it out independently within a week. Neither has ever mentioned it to her."
+   ],
+   "q": [
+    {
+     "q": "What is the main point of the article?",
+     "opts": [
+      "Family estrangements usually begin with small disputes and are rarely resolved by discussing them.",
+      "Arguments about inheritance are the most damaging kind.",
+      "Family therapists should be involved earlier.",
+      "Parents should not interfere between adult children."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "What do therapists say works in a first conversation?",
+     "opts": [
+      "Talking about other things until the relationship exists again",
+      "Agreeing who was at fault",
+      "Writing down each person's version of events",
+      "Meeting somewhere neutral"
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "How long had the brothers not spoken?",
+     "opts": [
+      "Six years",
+      "Eleven months",
+      "A year",
+      "Five years"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "What happened when the younger brother raised the money again?",
+     "opts": [
+      "His brother changed the subject firmly.",
+      "They argued for the rest of the visit.",
+      "His brother apologised.",
+      "Their mother intervened."
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 2, \"the drift hardens\" means the distance between people",
+     "opts": [
+      "becomes fixed and difficult to change",
+      "is noticed by other relatives",
+      "causes a serious argument",
+      "disappears over time"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "relative",
+     "n",
+     "họ hàng, người thân"
+    ],
+    [
+     "relationship",
+     "n",
+     "mối quan hệ"
+    ],
+    [
+     "extended family",
+     "n",
+     "đại gia đình (gồm cả ông bà, cô dì)"
+    ],
+    [
+     "sibling",
+     "n",
+     "anh chị em ruột (trang trọng)"
+    ],
+    [
+     "generation",
+     "n",
+     "thế hệ"
+    ],
+    [
+     "raise",
+     "v",
+     "nuôi lớn (Mỹ hay dùng thay bring up)"
+    ],
+    [
+     "grow up",
+     "phr",
+     "lớn lên"
+    ],
+    [
+     "adult",
+     "n / adj",
+     "người lớn"
+    ],
+    [
+     "get married",
+     "phr",
+     "kết hôn (KHÔNG nói marry with)"
+    ],
+    [
+     "wedding",
+     "n",
+     "đám cưới"
+    ],
+    [
+     "couple",
+     "n",
+     "cặp đôi"
+    ],
+    [
+     "divorce",
+     "n / v",
+     "ly hôn"
+    ],
+    [
+     "separate",
+     "v",
+     "ly thân, tách ra"
+    ],
+    [
+     "household",
+     "n",
+     "hộ gia đình"
+    ],
+    [
+     "fall out with",
+     "phr",
+     "giận nhau, cãi nhau rồi nghỉ chơi"
+    ],
+    [
+     "make up",
+     "phr",
+     "làm lành"
+    ],
+    [
+     "argument",
+     "n",
+     "cuộc cãi vã; lập luận"
+    ],
+    [
+     "quarrel",
+     "n / v",
+     "cuộc cãi cọ; cãi cọ"
+    ],
+    [
+     "trust",
+     "v / n",
+     "tin tưởng; sự tin tưởng"
+    ],
+    [
+     "split up",
+     "phr",
+     "chia tay"
+    ],
+    [
+     "get in touch",
+     "phr",
+     "liên lạc"
+    ],
+    [
+     "lose touch",
+     "phr",
+     "mất liên lạc"
+    ]
+   ]
+  },
+  {
+   "id": 12,
+   "topic": "person",
+   "lv": "B2",
+   "title": "The Quiet One in the Meeting",
+   "vi": "Người ít nói trong cuộc họp",
+   "text": [
+    "In almost every team there is somebody who says very little. They are often described as shy or reserved, sometimes as not confident enough, and in performance reviews the feedback tends to be the same year after year: speak up more, be more outgoing, show more ambition. The implication is always that a quieter attitude is something to be fixed.",
+    "There is a growing body of work suggesting this advice is frequently wrong, or at least incomplete. Not everybody who is quiet in meetings is anxious or nervous about speaking. Some are simply more patient about forming an opinion and unwilling to say something they have not thought through. In a discussion where the fastest voice usually wins, this looks like a weakness. In the decision that follows, it often is not.",
+    "A manager at a logistics company described an experiment she tried after noticing that her most thoughtful employee almost never contributed. Instead of asking people to comment in the meeting, she sent the agenda out two days early and asked for written notes beforehand. The quiet employee sent four paragraphs that reshaped the entire discussion. He had not been nervous. He had been composing.",
+    "This is not an argument that quiet people are secretly the most creative in the room, which is a comfortable story and not generally true. Some people say little because they are bored, and some confident speakers are confident because they are right. The point is narrower: meetings reward a particular temperament — relaxed in front of an audience, quick to commit to a view — and it is not obvious that this temperament produces better decisions.",
+    "There is also a cost to the person. Being told repeatedly that your natural way of working is a flaw is corrosive, and several of the employees interviewed described feeling frustrated and faintly ashamed after each review. Studies of workplace feedback have found that staff described as reserved or sensitive receive more comments about personality and fewer about actual output than their more talkative colleagues, even when the output is identical. A hard-working employee hears about their mood; a louder one hears about their results.",
+    "The practical fixes are unglamorous. Circulate material in advance. Allow written contributions to count. Ask directly rather than waiting for volunteers, because \"any thoughts?\" is answered by whoever is most comfortable talking, every single time. Leave a gap of five seconds after asking a question, which feels unbearable and is usually enough.",
+    "None of this requires deciding that one temperament is better than another. It requires noticing that the default format of a meeting is itself a choice, and that nobody ever chose it deliberately.",
+    "The employee in the logistics company was promoted eighteen months later. His manager was careful about how she described the change when colleagues asked. She did not say he had become more confident, because he had not. She said the team had finally found a way to hear him."
+   ],
+   "q": [
+    {
+     "q": "What is the writer's main argument?",
+     "opts": [
+      "Meeting formats favour one temperament, and that is a choice worth examining.",
+      "Quiet employees usually make better decisions.",
+      "Managers should give less feedback about personality.",
+      "Written communication is better than spoken."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "Which statement does the writer explicitly reject?",
+     "opts": [
+      "That quiet people are secretly the cleverest in the room",
+      "That meetings reward fast speakers",
+      "That feedback can be corrosive",
+      "That silence can mean disengagement"
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "What did the manager change about her meetings?",
+     "opts": [
+      "She sent the agenda early and asked for written notes.",
+      "She made meetings shorter.",
+      "She asked each person to speak in turn.",
+      "She stopped holding meetings altogether."
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "How long should you leave after asking a question?",
+     "opts": [
+      "Five seconds",
+      "Thirty seconds",
+      "Two minutes",
+      "As long as it takes"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 5, \"corrosive\" suggests the effect is",
+     "opts": [
+      "slowly damaging",
+      "immediately obvious",
+      "easily reversed",
+      "mildly annoying"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "outgoing",
+     "adj",
+     "hướng ngoại, cởi mở"
+    ],
+    [
+     "shy",
+     "adj",
+     "nhút nhát"
+    ],
+    [
+     "reserved",
+     "adj",
+     "kín đáo, dè dặt"
+    ],
+    [
+     "confident",
+     "adj",
+     "tự tin"
+    ],
+    [
+     "patient",
+     "adj",
+     "kiên nhẫn"
+    ],
+    [
+     "sensitive",
+     "adj",
+     "nhạy cảm, dễ tổn thương"
+    ],
+    [
+     "thoughtful",
+     "adj",
+     "chu đáo, biết quan tâm"
+    ],
+    [
+     "anxious",
+     "adj",
+     "lo lắng, bồn chồn"
+    ],
+    [
+     "nervous",
+     "adj",
+     "hồi hộp, căng thẳng (trước việc gì)"
+    ],
+    [
+     "relaxed",
+     "adj",
+     "thư thái, thoải mái"
+    ],
+    [
+     "frustrated",
+     "adj",
+     "bực bội vì bất lực"
+    ],
+    [
+     "ashamed",
+     "adj",
+     "xấu hổ (vì đã làm điều sai)"
+    ],
+    [
+     "bored",
+     "adj",
+     "thấy chán (bored KHÁC boring)"
+    ],
+    [
+     "creative",
+     "adj",
+     "sáng tạo"
+    ],
+    [
+     "mood",
+     "n",
+     "tâm trạng"
+    ],
+    [
+     "attitude",
+     "n",
+     "thái độ"
+    ]
+   ]
+  },
+  {
+   "id": 13,
+   "topic": "sport",
+   "lv": "B1",
+   "title": "The Team That Stopped Training Harder",
+   "vi": "Đội bóng ngừng tập nặng hơn",
+   "text": [
+    "Three seasons ago a semi-professional football club in the north of England finished second from bottom of its league. The squad was not short of effort. Training ran five evenings a week, the players arrived exhausted at matches, and by February half the team had some kind of injury.",
+    "The new coach did something that looked, at the time, like giving up. He cut training from five evenings to three.",
+    "The players were not pleased. Several of them had been brought up to believe that whichever side trains hardest wins, and that an amateur club competing against better-funded opponents has nothing to offer except effort. Two of the most competitive members of the squad asked to speak to him privately and said, more or less, that he was going to get them relegated.",
+    "What he had noticed was simple. The club had no full-time staff, no physiotherapist, and no gym of its own. The players had jobs. Training five evenings a week was not producing fitter athletes; it was producing tired ones who could not recover between sessions. In the previous season the team had lost nine points in the last fifteen minutes of matches, which is the sort of statistic that looks like weak character and is usually just fatigue.",
+    "The three remaining sessions changed as well. One was tactical and involved almost no running. One focused on the final twenty minutes of a match specifically, practising at the point when players were already tired. The third was a proper warm up, stretching, and work on flexibility and endurance rather than repetition of drills everybody had done since they were twelve.",
+    "The club finished eighth that season and fourth the next. They did not win the championship and nobody claims the change alone explains it. Two good players joined, and the team got a favourable run of fixtures in the spring.",
+    "The statistic the coach cares about is a different one. In the first season under the new schedule, the number of players unavailable through injury fell by more than half. A squad of eighteen that can field its best eleven most weeks is a better squad than one of twenty-four that cannot.",
+    "He is careful when other clubs ask about it. The approach worked, he says, because of what this particular club lacked. A professional side with proper recovery facilities might well train five days and be fine. The mistake is not training hard. The mistake is copying the training schedule of a club whose resources you do not have.",
+    "His captain put it more bluntly after the last match of that first season. \"We did not get fitter,\" he said. \"We just stopped being broken.\""
+   ],
+   "q": [
+    {
+     "q": "What is the main point of the article?",
+     "opts": [
+      "A training schedule has to match the resources a club actually has.",
+      "Amateur clubs should train less than professional ones.",
+      "Fitness matters less than tactics in football.",
+      "Coaches should ignore what players want."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "Why does the writer mention the nine points lost late in matches?",
+     "opts": [
+      "To show that what looked like weak character was really tiredness.",
+      "To prove the team lacked talent.",
+      "To explain why the coach was replaced.",
+      "To show the league was unusually strong."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "How many evenings a week did training become?",
+     "opts": [
+      "Three",
+      "Five",
+      "Two",
+      "Four"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "What fell by more than half in the first season under the new schedule?",
+     "opts": [
+      "The number of players unavailable through injury",
+      "The number of goals conceded",
+      "The size of the squad",
+      "The cost of running the club"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 4, \"fatigue\" means",
+     "opts": [
+      "extreme tiredness",
+      "lack of skill",
+      "poor organisation",
+      "loss of confidence"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "athlete",
+     "n",
+     "vận động viên"
+    ],
+    [
+     "coach",
+     "n / v",
+     "huấn luyện viên; huấn luyện"
+    ],
+    [
+     "opponent",
+     "n",
+     "đối thủ"
+    ],
+    [
+     "gym",
+     "n",
+     "phòng tập"
+    ],
+    [
+     "league",
+     "n",
+     "giải đấu theo vòng tròn"
+    ],
+    [
+     "championship",
+     "n",
+     "giải vô địch"
+    ],
+    [
+     "match",
+     "n",
+     "trận đấu"
+    ],
+    [
+     "fixture",
+     "n",
+     "trận trong lịch thi đấu"
+    ],
+    [
+     "win",
+     "v",
+     "thắng (win A MATCH, không win someone)"
+    ],
+    [
+     "lose",
+     "v",
+     "thua"
+    ],
+    [
+     "train",
+     "v",
+     "tập luyện"
+    ],
+    [
+     "training",
+     "n",
+     "việc tập luyện"
+    ],
+    [
+     "warm up",
+     "phr",
+     "khởi động"
+    ],
+    [
+     "stretch",
+     "v",
+     "giãn cơ, vươn người"
+    ],
+    [
+     "competitive",
+     "adj",
+     "giàu tính cạnh tranh, ham thắng"
+    ],
+    [
+     "amateur",
+     "n / adj",
+     "nghiệp dư"
+    ],
+    [
+     "professional",
+     "n / adj",
+     "chuyên nghiệp"
+    ],
+    [
+     "exhausted",
+     "adj",
+     "kiệt sức"
+    ],
+    [
+     "endurance",
+     "n",
+     "sức bền"
+    ],
+    [
+     "flexibility",
+     "n",
+     "sự dẻo dai, linh hoạt"
+    ],
+    [
+     "squad",
+     "n",
+     "đội hình, danh sách cầu thủ"
+    ]
+   ]
+  },
+  {
+   "id": 14,
+   "topic": "art",
+   "lv": "B2",
+   "title": "The Play That Was Rewritten in Rehearsal",
+   "vi": "Vở kịch viết lại trong buổi tập",
+   "text": [
+    "Six weeks before the premiere, the director of a small theatre company did something that writers generally hate. She told the author that the second act did not work and would have to be rebuilt during rehearsal.",
+    "The script had been three years in the writing. It had been praised by two critics who read an early draft, and the company had sold a reasonable number of tickets on the strength of the author's previous play. On paper, the plot was sound: a family drama with a strong central character and a reversal at the end that nobody saw coming.",
+    "The problem only appeared when the cast stood up and said the lines. Scenes that read beautifully took eleven minutes to perform and contained one piece of information. The central character explained her own motives at length, which an audience will tolerate on a page and resents on a stage. Two supporting roles existed mainly to ask her questions.",
+    "What followed was six weeks of a particular kind of work that rarely gets described. Each morning the cast would rehearse a scene; each afternoon the author would rewrite it; the next morning they would try the new version. Roughly a third of the second act was cut entirely. One character disappeared and her best lines were given to somebody else, which the actor who lost the role took with more grace than anybody expected.",
+    "The author later described the experience as the most useful thing that had ever happened to his writing, and said he would not willingly repeat it.",
+    "The production opened to reviews that were good rather than spectacular. One critic called it moving and tightly constructed; another found the ending abrupt, which was fair, because the ending had been rewritten four days before the premiere. The run sold out in its final fortnight, mostly by word of mouth.",
+    "What interests people who work in theatre is not whether the play was a masterpiece, which it was not. It is that the gap between a script and a performance is much larger than audiences imagine, and that almost nothing in the first version survives contact with a stage unaltered.",
+    "This is one reason the question \"who wrote it?\" is harder than it looks. The author's name is on the programme, correctly. But the shape of what the audience saw was decided by a director, argued over by a cast, and in one case determined by the fact that a particular actor could not convincingly deliver a line and everybody eventually agreed the line was the problem.",
+    "The author's next play was written differently. He sent the first draft to the company after eight months instead of three years, and told them it was not finished."
+   ],
+   "q": [
+    {
+     "q": "What is the main point of the article?",
+     "opts": [
+      "A script changes substantially once it is performed, and many people shape the result.",
+      "Directors should have more authority than writers.",
+      "Most new plays are too long.",
+      "Critics judge plays before they are finished."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "Why does the writer say \"who wrote it?\" is harder than it looks?",
+     "opts": [
+      "Many people besides the author shaped what the audience saw.",
+      "The author used a false name.",
+      "The script was based on an older play.",
+      "Nobody kept a record of the changes."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "How much of the second act was cut?",
+     "opts": [
+      "About a third",
+      "Half",
+      "All of it",
+      "Two scenes"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "How did the author change his approach for his next play?",
+     "opts": [
+      "He sent an unfinished draft much earlier.",
+      "He directed it himself.",
+      "He refused to allow changes in rehearsal.",
+      "He wrote it with two other authors."
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 7, \"survives contact with a stage unaltered\" means remains",
+     "opts": [
+      "unchanged once it is performed",
+      "popular with audiences",
+      "in the final programme",
+      "owned by the author"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "masterpiece",
+     "n",
+     "kiệt tác"
+    ],
+    [
+     "performance",
+     "n",
+     "buổi biểu diễn; màn thể hiện"
+    ],
+    [
+     "perform",
+     "v",
+     "biểu diễn"
+    ],
+    [
+     "stage",
+     "n",
+     "sân khấu"
+    ],
+    [
+     "play",
+     "n",
+     "vở kịch"
+    ],
+    [
+     "drama",
+     "n",
+     "kịch; phim chính kịch"
+    ],
+    [
+     "plot",
+     "n",
+     "cốt truyện"
+    ],
+    [
+     "character",
+     "n",
+     "nhân vật"
+    ],
+    [
+     "scene",
+     "n",
+     "cảnh (trong phim, kịch)"
+    ],
+    [
+     "script",
+     "n",
+     "kịch bản"
+    ],
+    [
+     "director",
+     "n",
+     "đạo diễn"
+    ],
+    [
+     "cast",
+     "n",
+     "dàn diễn viên"
+    ],
+    [
+     "actor",
+     "n",
+     "diễn viên (nữ cũng dùng actor)"
+    ],
+    [
+     "role",
+     "n",
+     "vai diễn; vai trò"
+    ],
+    [
+     "rehearse",
+     "v",
+     "tập dượt"
+    ],
+    [
+     "rehearsal",
+     "n",
+     "buổi tập dượt"
+    ],
+    [
+     "premiere",
+     "n",
+     "buổi công chiếu đầu tiên"
+    ],
+    [
+     "review",
+     "n / v",
+     "bài đánh giá; đánh giá"
+    ],
+    [
+     "critic",
+     "n",
+     "nhà phê bình"
+    ],
+    [
+     "praise",
+     "v / n",
+     "khen ngợi; lời khen"
+    ],
+    [
+     "ticket",
+     "n",
+     "vé"
+    ],
+    [
+     "sold out",
+     "adj",
+     "đã bán hết vé"
+    ],
+    [
+     "author",
+     "n",
+     "tác giả"
+    ],
+    [
+     "moving",
+     "adj",
+     "cảm động"
+    ]
+   ]
+  },
+  {
+   "id": 15,
+   "topic": "law",
+   "lv": "B2",
+   "title": "The Deterrent That Was Not One",
+   "vi": "Hình phạt không răn đe được ai",
+   "text": [
+    "In 2019 a city council decided to crack down on shoplifting in its central shopping district. The fine for a first offence was doubled, a campaign of warning posters went up in every shop window, and the police agreed to charge offenders who would previously have been let off with a caution. The aim was to make breaking the law feel expensive.",
+    "Eighteen months later, reported shoplifting had risen by nine per cent.",
+    "The council had made a mistake that criminologists have been writing about for forty years. They had increased the severity of the punishment without touching the probability of being caught, and the evidence is reasonably clear that the second number matters far more than the first. An offender who believes there is a one in forty chance of arrest does not meaningfully change behaviour when the fine goes from two hundred to four hundred, because the calculation was never about the size of the penalty.",
+    "There is a second problem, which is that the people committing the offence were not the people the campaign imagined. A review of the cases that reached trial found that a substantial proportion involved goods worth under fifteen pounds, taken by a first-time offender with no previous conviction, most often food. In court the evidence was rarely disputed; most defendants pleaded guilty at the first hearing and the verdict took minutes. A larger fine is not a deterrent to somebody who cannot pay the first one. It becomes a debt, then a summons for not paying the debt, and the system spends several hundred pounds of public money pursuing a sum it will never recover.",
+    "The council changed approach in the third year, and the change was not dramatic. Two shops in the district agreed to employ a member of staff near the door whose job was partly security and partly helping customers. The police moved a regular patrol to the hours when most offences occurred, which were not the hours anybody had assumed. The fine went back down.",
+    "Reported shoplifting fell by about a fifth over the following year. Nobody involved claims this is a solution to anything; it is a local improvement in one district with particular characteristics.",
+    "The wider point is that the political attraction of longer sentences and larger fines is almost entirely disconnected from whether they work. Nobody suggests that theft, burglary and fraud should go unpunished, or that the law should not be enforced. The argument is about which lever actually moves the number. A politician who announces tougher penalties and promises to imprison more offenders is visibly doing something. A politician who announces an extra patrol between four and six in the afternoon is not making a speech anybody will report.",
+    "One of the magistrates who handled the original cases described the eighteen months as the clearest example she had seen of a policy that was popular, well intentioned, and useless. She had sentenced dozens of people under it, almost none of whom she expected to see again, and almost all of whom she did. \"We were not deterring anyone,\" she said. \"We were processing them.\"",
+    "The posters, incidentally, are still up. Nobody has got round to taking them down."
+   ],
+   "q": [
+    {
+     "q": "What is the main argument of the article?",
+     "opts": [
+      "The chance of being caught deters crime more than the size of the penalty.",
+      "Shoplifting should not be treated as a crime.",
+      "Councils should employ more police officers.",
+      "Fines are always unfair to poor defendants."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "Why does the writer contrast two kinds of politician?",
+     "opts": [
+      "To show that visible measures are rewarded even when ineffective.",
+      "To argue that politicians should not set criminal policy.",
+      "To explain why the council changed its mind.",
+      "To show that local policy is better than national policy."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "What happened to reported shoplifting in the eighteen months after the crackdown?",
+     "opts": [
+      "It rose by nine per cent.",
+      "It fell by a fifth.",
+      "It stayed the same.",
+      "It fell slightly then rose."
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "What did two shops in the district agree to do?",
+     "opts": [
+      "Employ a member of staff near the door",
+      "Close earlier in the evening",
+      "Install more cameras",
+      "Stop reporting small thefts"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In the title and paragraph 3, a \"deterrent\" is something that",
+     "opts": [
+      "discourages people from doing something",
+      "proves somebody is guilty",
+      "replaces a prison sentence",
+      "reduces the cost of a trial"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "offence",
+     "n",
+     "hành vi vi phạm (Mỹ: offense)"
+    ],
+    [
+     "offender",
+     "n",
+     "người vi phạm"
+    ],
+    [
+     "arrest",
+     "v / n",
+     "bắt giữ; vụ bắt giữ"
+    ],
+    [
+     "charge",
+     "v / n",
+     "buộc tội; cáo buộc"
+    ],
+    [
+     "evidence",
+     "n",
+     "bằng chứng (KHÔNG đếm được, không có s)"
+    ],
+    [
+     "trial",
+     "n",
+     "phiên toà xét xử"
+    ],
+    [
+     "defendant",
+     "n",
+     "bị cáo"
+    ],
+    [
+     "verdict",
+     "n",
+     "phán quyết"
+    ],
+    [
+     "sentence",
+     "n / v",
+     "bản án; tuyên án"
+    ],
+    [
+     "fine",
+     "n / v",
+     "tiền phạt; phạt tiền"
+    ],
+    [
+     "imprison",
+     "v",
+     "bỏ tù, giam giữ"
+    ],
+    [
+     "theft",
+     "n",
+     "hành vi trộm cắp"
+    ],
+    [
+     "burglary",
+     "n",
+     "vụ đột nhập trộm cắp trong nhà"
+    ],
+    [
+     "shoplifting",
+     "n",
+     "ăn cắp vặt trong cửa hàng"
+    ],
+    [
+     "fraud",
+     "n",
+     "hành vi gian lận, lừa đảo"
+    ],
+    [
+     "enforce",
+     "v",
+     "thực thi (luật)"
+    ],
+    [
+     "break the law",
+     "phr",
+     "vi phạm pháp luật"
+    ],
+    [
+     "crack down on",
+     "phr",
+     "mạnh tay trấn áp"
+    ],
+    [
+     "deterrent",
+     "n",
+     "biện pháp răn đe"
+    ]
+   ]
+  },
+  {
+   "id": 16,
+   "topic": "society",
+   "lv": "B2",
+   "title": "The Meeting That Changed the Bus Route",
+   "vi": "Cuộc họp đổi được tuyến xe buýt",
+   "text": [
+    "The public consultation on the new bus route attracted eleven people. Nine of them were retired, one was a local journalist, and one was a woman in her thirties who had taken an afternoon off work. The proposal under discussion would move the route two streets north, which would halve the journey time for commuters and remove the stop outside the health centre.",
+    "The consultation ran for six weeks, as the regulations required. It was announced on the council website, in a notice on a lamp post, and in a letter to households on one of the two affected streets. Nobody had done anything improper. Every official involved had followed the policy exactly, and the authority could show, correctly, that it had given every citizen in the district a chance to take part.",
+    "The woman who had taken the afternoon off pointed out, politely, that the people most affected were the ones least likely to attend a meeting at two in the afternoon on a Wednesday. The health centre stop was used mainly by elderly patients and by parents with young children. Neither group was in the room.",
+    "This is the central difficulty with public consultation, and it is not solved by holding more consultations. Participation is not distributed evenly across a community. It correlates strongly with time, confidence, and a belief that speaking out will make a difference — which means it tracks class and age almost as reliably as a survey of either. A minority with free afternoons is heard; the rest are not. The result is that official public opinion, carefully gathered and properly recorded, can be an accurate record of what a very particular group thinks, and a poor guide to what the community wants.",
+    "The council officer running the meeting did something unusual. Rather than defend the process, he agreed to extend it by three weeks, and asked the health centre to put a single question on its reception desk: *do you use the bus stop outside?* Four hundred and twelve people answered. Two hundred and ninety said yes, and a hundred and forty of those said they could not easily walk to the next stop.",
+    "The route was changed, but not as originally proposed. It moved north for most of its length and kept a loop past the health centre, which added four minutes. Commuters were not delighted, and two of them wrote to their local minister about it. The compromise satisfied nobody completely, which is roughly what a good compromise looks like. Nobody had to protest, and nobody had to organise a demonstration, which in a district with that much inequality is itself worth something.",
+    "What is worth noticing is how cheap the fix was. One question, one piece of paper, three weeks. The expensive part of the original process — the six-week statutory consultation, the formal notices, the minuted meeting — had produced eleven people and almost no information.",
+    "The journalist who attended wrote a short piece about it, which is partly why anybody outside the district knows. Her last line has been quoted in two council training documents since. \"Asking is not the same as listening,\" she wrote, \"and a process that is fair to everybody who turns up is not fair at all.\"",
+    "The woman who took the afternoon off now sits on a residents' panel and volunteers one evening a month at a local charity that helps older people with paperwork. She says the main thing she has learned is how often a decision is made correctly, by people acting in good faith, on the basis of almost nothing — and how rarely anybody in the room notices who is not in it."
+   ],
+   "q": [
+    {
+     "q": "What is the writer's main point?",
+     "opts": [
+      "A correctly run consultation can still gather opinions from an unrepresentative few.",
+      "Councils should hold more public meetings.",
+      "Bus routes should be decided by commuters.",
+      "Journalists improve the quality of local government."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "What does the writer suggest about the final compromise?",
+     "opts": [
+      "Satisfying nobody completely is a sign it was reasonable.",
+      "It was worse than the original proposal.",
+      "It was decided before the consultation began.",
+      "It pleased the commuters most."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "How many people attended the original consultation?",
+     "opts": [
+      "Eleven",
+      "Four hundred and twelve",
+      "Two hundred and ninety",
+      "Nine"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "What did the officer ask the health centre to do?",
+     "opts": [
+      "Put one question on its reception desk",
+      "Write to all its patients",
+      "Hold a second meeting in the evening",
+      "Record how many people used the stop"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 4, \"correlates strongly with\" means it is closely",
+     "opts": [
+      "connected to",
+      "opposed to",
+      "measured by",
+      "limited to"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "minister",
+     "n",
+     "bộ trưởng"
+    ],
+    [
+     "policy",
+     "n",
+     "chính sách (KHÁC politics: chính trị)"
+    ],
+    [
+     "authority",
+     "n",
+     "chính quyền; thẩm quyền"
+    ],
+    [
+     "official",
+     "n / adj",
+     "quan chức; chính thức"
+    ],
+    [
+     "citizen",
+     "n",
+     "công dân"
+    ],
+    [
+     "inequality",
+     "n",
+     "sự bất bình đẳng"
+    ],
+    [
+     "minority",
+     "n",
+     "nhóm thiểu số"
+    ],
+    [
+     "class",
+     "n",
+     "tầng lớp xã hội"
+    ],
+    [
+     "charity",
+     "n",
+     "tổ chức từ thiện"
+    ],
+    [
+     "volunteer",
+     "n / v",
+     "tình nguyện viên; tình nguyện"
+    ],
+    [
+     "community",
+     "n",
+     "cộng đồng"
+    ],
+    [
+     "protest",
+     "n / v",
+     "cuộc biểu tình; phản đối"
+    ],
+    [
+     "demonstration",
+     "n",
+     "cuộc tuần hành"
+    ],
+    [
+     "public opinion",
+     "n",
+     "dư luận"
+    ],
+    [
+     "survey",
+     "n",
+     "cuộc khảo sát"
+    ],
+    [
+     "speak out",
+     "phr",
+     "lên tiếng công khai"
+    ]
+   ]
+  },
+  {
+   "id": 17,
+   "topic": "science",
+   "lv": "B2",
+   "title": "The Result That Would Not Repeat",
+   "vi": "Kết quả không lặp lại được",
+   "text": [
+    "In 2011 a research group published a finding that looked, at first reading, like a small breakthrough. A particular chemical appeared to slow the growth of a common bacterium, and the result was statistically significant. The paper passed peer review without serious objection and was cited forty times in the following three years.",
+    "Then a second laboratory tried to repeat the experiment and got nothing.",
+    "This is less unusual than people outside science assume. A large project that attempted to reproduce a hundred published psychology studies succeeded with fewer than half, and similar exercises in other fields have produced comparable numbers. The phrase that has attached itself to this is the replication crisis, which is dramatic and not entirely accurate, because failing to replicate a result is science working rather than science failing.",
+    "The original group did something that deserves more credit than it received. Rather than defending the finding, they published their full method, their raw data, and the exact procedure down to the brand of equipment. The two teams then compared notes, and found the difference in about a fortnight.",
+    "The bacterium had been grown at slightly different temperatures. In the first laboratory it was two degrees warmer, because the incubator in that room ran warm and everybody knew it and nobody had written it down. At the higher temperature the effect was real. At the standard temperature it was not.",
+    "This is not a story about carelessness. It is a story about how much of a method lives in a room rather than in a paper. A published procedure is a summary, and a summary leaves things out, and the things it leaves out are precisely the ones the people doing the work no longer notice.",
+    "Several changes have followed from cases like this one. More journals now require authors to deposit their data and analysis code. Some fields have adopted pre-registration, in which the hypothesis and the method are published before the experiment is carried out, which makes it much harder to present an accidental finding as a prediction. Funding bodies have started awarding grants specifically for replication, which was until recently almost impossible to get money for.",
+    "The two groups eventually published a joint paper. Its conclusion was narrower than the original and considerably more useful: the effect exists, it depends on temperature, and here is the range in which it can be observed.",
+    "The researcher who ran the second laboratory was asked whether the first paper had been wrong. She said it was a reasonable question with a boring answer. \"It was incomplete,\" she said. \"Everything is, until somebody tries it somewhere else.\""
+   ],
+   "q": [
+    {
+     "q": "What is the main point of the article?",
+     "opts": [
+      "Published methods leave out details that only exist in a particular laboratory.",
+      "Most published research is fraudulent.",
+      "Peer review should be abolished.",
+      "Temperature affects all biological experiments."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "Why does the writer say \"replication crisis\" is not entirely accurate?",
+     "opts": [
+      "Failing to replicate a result is science working properly.",
+      "Very few studies actually fail to replicate.",
+      "The term was invented by journalists.",
+      "Only psychology is affected."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "What caused the difference between the two laboratories?",
+     "opts": [
+      "The bacterium was grown two degrees warmer in one of them.",
+      "The second laboratory used a different chemical.",
+      "The first group made an error in its analysis.",
+      "The samples had been stored too long."
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "What does pre-registration involve?",
+     "opts": [
+      "Publishing the hypothesis and method before the experiment",
+      "Registering the laboratory with a funding body",
+      "Submitting data to a journal after publication",
+      "Having a second team check the results"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 3, \"reproduce\" a study means to",
+     "opts": [
+      "carry it out again and see whether the result appears",
+      "publish it in a second journal",
+      "explain it to a wider audience",
+      "use its data for a different purpose"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "research",
+     "n / v",
+     "nghiên cứu (danh từ KHÔNG đếm được)"
+    ],
+    [
+     "researcher",
+     "n",
+     "nhà nghiên cứu"
+    ],
+    [
+     "laboratory",
+     "n",
+     "phòng thí nghiệm (nói tắt: lab)"
+    ],
+    [
+     "experiment",
+     "n / v",
+     "cuộc thí nghiệm; làm thí nghiệm"
+    ],
+    [
+     "hypothesis",
+     "n",
+     "giả thuyết (số nhiều: hypotheses)"
+    ],
+    [
+     "breakthrough",
+     "n",
+     "bước đột phá"
+    ],
+    [
+     "analysis",
+     "n",
+     "sự phân tích (số nhiều: analyses)"
+    ],
+    [
+     "result",
+     "n",
+     "kết quả"
+    ],
+    [
+     "finding",
+     "n",
+     "phát hiện (từ nghiên cứu)"
+    ],
+    [
+     "conclusion",
+     "n",
+     "kết luận"
+    ],
+    [
+     "method",
+     "n",
+     "phương pháp"
+    ],
+    [
+     "procedure",
+     "n",
+     "quy trình thực hiện"
+    ],
+    [
+     "observe",
+     "v",
+     "quan sát"
+    ],
+    [
+     "significant",
+     "adj",
+     "đáng kể, có ý nghĩa thống kê"
+    ],
+    [
+     "peer review",
+     "n",
+     "bình duyệt bởi đồng nghiệp"
+    ],
+    [
+     "funding",
+     "n",
+     "nguồn tài trợ"
+    ],
+    [
+     "grant",
+     "n",
+     "khoản tài trợ nghiên cứu"
+    ],
+    [
+     "chemical",
+     "n / adj",
+     "hoá chất; thuộc hoá học"
+    ]
+   ]
+  },
+  {
+   "id": 18,
+   "topic": "transport",
+   "lv": "B1",
+   "title": "The Junction Everybody Complained About",
+   "vi": "Ngã tư ai cũng kêu",
+   "text": [
+    "The crossroads at the end of Mill Lane had a reputation. Every driver in the area had a story about it, most residents avoided it on foot, and in four years there had been nineteen minor collisions and one serious accident involving a cyclist.",
+    "The council's first response was the obvious one. They lowered the speed limit from forty to thirty, painted warning markings on the road, and put up a sign. Over the following year the number of collisions stayed almost exactly the same.",
+    "The second response was better, and it began with somebody actually standing at the junction during rush hour with a notebook.",
+    "What she recorded was not what the complaints had described. Drivers were not speeding; the average speed was already below the old limit because the approach was too narrow for anything faster. The problem was sight lines. A parked van near the corner, in a legal parking space, blocked the view of the cycle lane for anybody turning right. Drivers were not being reckless. They were pulling out into a space they could not see.",
+    "There was a second issue nobody had reported. The pedestrian crossing was positioned twelve metres from the junction, which meant people crossing on foot walked to the corner instead, because twelve metres felt like a detour. Every pedestrian on that route was crossing at the worst possible point, and all of them were behaving perfectly sensibly.",
+    "The fixes cost less than the signs had. The parking space was moved eight metres back, which removed the obstruction entirely. The crossing was repositioned to where people were already crossing. A short section of the pavement was widened so that pedestrians waiting were visible to drivers rather than hidden behind a post box.",
+    "Collisions at the junction fell to three in the following two years, and there were no injuries.",
+    "The engineer who did the work is unromantic about it. Most junctions with a bad reputation, she says, are not full of bad drivers. They are places where the road asks people to do something slightly impossible, and then the design blames them when it goes wrong. A speed limit treats the driver as the problem. Moving a parking space treats the junction as the problem.",
+    "She adds one warning. The approach only works if somebody goes and watches. Complaints tell you where the trouble is; they are almost never reliable about what the trouble is. Every single resident had said the same thing about Mill Lane, and every single one of them had been wrong about the cause."
+   ],
+   "q": [
+    {
+     "q": "What is the main point of the article?",
+     "opts": [
+      "Dangerous junctions are often a design problem rather than a driver problem.",
+      "Speed limits should be lowered more often.",
+      "Cyclists need separate routes from cars.",
+      "Residents should report accidents more quickly."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "What does the writer say about complaints?",
+     "opts": [
+      "They show where the problem is but rarely why.",
+      "They are usually exaggerated.",
+      "They are the most reliable source of information.",
+      "They should be collected in writing."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "What was blocking the view of the cycle lane?",
+     "opts": [
+      "A van parked in a legal space",
+      "A row of trees",
+      "The post box",
+      "A warning sign"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "Why did pedestrians not use the crossing?",
+     "opts": [
+      "It was twelve metres away and felt like a detour.",
+      "The signal took too long to change.",
+      "It was blocked by parked cars.",
+      "They did not know it was there."
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 4, \"sight lines\" refers to",
+     "opts": [
+      "what a person can actually see from a position",
+      "the painted markings on the road",
+      "the route taken by cyclists",
+      "the distance between two junctions"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "rush hour",
+     "n",
+     "giờ cao điểm"
+    ],
+    [
+     "junction",
+     "n",
+     "giao lộ, ngã rẽ"
+    ],
+    [
+     "crossroads",
+     "n",
+     "ngã tư (luôn có s)"
+    ],
+    [
+     "pedestrian",
+     "n",
+     "người đi bộ"
+    ],
+    [
+     "crossing",
+     "n",
+     "vạch sang đường"
+    ],
+    [
+     "pavement",
+     "n",
+     "vỉa hè (Mỹ: sidewalk)"
+    ],
+    [
+     "lane",
+     "n",
+     "làn đường"
+    ],
+    [
+     "route",
+     "n",
+     "tuyến đường"
+    ],
+    [
+     "detour",
+     "n",
+     "đường vòng"
+    ],
+    [
+     "speed limit",
+     "n",
+     "giới hạn tốc độ"
+    ],
+    [
+     "park",
+     "v",
+     "đỗ xe"
+    ],
+    [
+     "parking space",
+     "n",
+     "chỗ đỗ xe"
+    ],
+    [
+     "driver",
+     "n",
+     "tài xế, người lái"
+    ],
+    [
+     "cycle lane",
+     "n",
+     "làn dành cho xe đạp"
+    ],
+    [
+     "collision",
+     "n",
+     "vụ va chạm"
+    ],
+    [
+     "accident",
+     "n",
+     "tai nạn"
+    ],
+    [
+     "speeding",
+     "n",
+     "chạy quá tốc độ"
+    ],
+    [
+     "reckless",
+     "adj",
+     "liều lĩnh, bất cẩn"
+    ],
+    [
+     "on foot",
+     "phr",
+     "đi bộ"
+    ]
+   ]
+  },
+  {
+   "id": 19,
+   "topic": "nature",
+   "lv": "B1",
+   "title": "The Forecast That Was Right and Ignored",
+   "vi": "Bản tin thời tiết đúng mà không ai nghe",
+   "text": [
+    "The weather forecast on the Thursday evening was unusually direct. A storm was approaching from the south-west, the temperature would drop sharply overnight with a hard frost inland, and the coast could expect a gale with waves high enough to come over the sea wall by the early hours of Saturday. There would be a downpour first, then thunder, then several hours of steady rain.",
+    "The forecast was correct in almost every detail. The storm arrived within two hours of the predicted time. What did not happen was the response.",
+    "A study of how people react to severe weather warnings found something that forecasters have been arguing about for years. Accuracy is not the problem. Modern forecasting is good: a prediction made three days ahead is now roughly as reliable as a one-day prediction was thirty years ago. The difficulty is that a correct warning and an effective warning are different things.",
+    "Part of this is simple fatigue. If a town is told six times in a winter that a storm is coming, and on four of those occasions the weather turns out to be a damp and windy afternoon with a bit of drizzle, the seventh warning is heard differently. People remember the overcast Saturday that cleared up by lunchtime, not the two that were genuinely dangerous. This is not stupidity. It is a reasonable response to past experience, and it is made worse when warnings are issued for a whole region rather than a specific coast — the same bulletin covering a valley, a hill town and a shore where the tide matters.",
+    "There is a second factor that matters more. The Thursday forecast said what the weather would be. It did not say what anybody should do. \"Gale force winds overnight\" is information. \"Move your car off the sea front before midnight\" is an instruction, and the second one changes behaviour in a way the first does not.",
+    "After that weekend, the local authority rewrote its warnings. The format now has three lines: what is coming, when, and one specific action. The action line is the part people remember, and it is written for the particular place rather than the county.",
+    "The following winter brought a comparable storm: the same south-westerly, a similar drop in temperature, freezing by dawn. The warning went out on the Wednesday with a single instruction about the sea front car park. On the night the waves came over the wall exactly as predicted, and eleven cars were still there, compared with over sixty the previous year.",
+    "The forecaster who had made the original prediction keeps a copy of that first bulletin. He says it is the most accurate forecast he has ever issued and the least useful thing he has ever written. Every number in it was right. Not one person did anything differently because of it.",
+    "He now spends more time on the last sentence of a bulletin than on the first, which he describes as the opposite of how he was trained."
+   ],
+   "q": [
+    {
+     "q": "What is the main argument of the article?",
+     "opts": [
+      "A correct forecast only works if it tells people what to do.",
+      "Weather forecasts have become less accurate.",
+      "Coastal towns should be evacuated more often.",
+      "Storms are becoming more frequent in winter."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "Why does the writer say ignoring warnings is \"not stupidity\"?",
+     "opts": [
+      "It is a reasonable response to warnings that often came to little.",
+      "Most people never receive the warnings.",
+      "The warnings use language that is too technical.",
+      "The forecasts are usually wrong."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "What three lines does the new warning format contain?",
+     "opts": [
+      "What is coming, when, and one specific action",
+      "The forecast, the risk level, and a phone number",
+      "Wind speed, temperature, and tide times",
+      "A summary, a map, and a warning"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "How many cars were left in the sea front car park the second year?",
+     "opts": [
+      "Eleven",
+      "Over sixty",
+      "Six",
+      "None"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 4, \"fatigue\" here describes people becoming",
+     "opts": [
+      "tired of hearing repeated warnings",
+      "physically exhausted by bad weather",
+      "confused by technical terms",
+      "angry with the authorities"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "weather forecast",
+     "n",
+     "dự báo thời tiết"
+    ],
+    [
+     "temperature",
+     "n",
+     "nhiệt độ"
+    ],
+    [
+     "freezing",
+     "adj",
+     "lạnh cóng"
+    ],
+    [
+     "gale",
+     "n",
+     "gió mạnh, gió giật"
+    ],
+    [
+     "storm",
+     "n",
+     "cơn bão"
+    ],
+    [
+     "thunder",
+     "n",
+     "sấm (KHÔNG đếm được)"
+    ],
+    [
+     "drizzle",
+     "n / v",
+     "mưa phùn"
+    ],
+    [
+     "downpour",
+     "n",
+     "trận mưa như trút"
+    ],
+    [
+     "damp",
+     "adj",
+     "ẩm (khó chịu)"
+    ],
+    [
+     "frost",
+     "n",
+     "sương giá"
+    ],
+    [
+     "overcast",
+     "adj",
+     "u ám, đầy mây"
+    ],
+    [
+     "clear up",
+     "phr",
+     "tạnh, quang mây"
+    ],
+    [
+     "tide",
+     "n",
+     "thuỷ triều"
+    ],
+    [
+     "wave",
+     "n",
+     "con sóng"
+    ],
+    [
+     "shore",
+     "n",
+     "bờ (biển, hồ)"
+    ],
+    [
+     "coast",
+     "n",
+     "bờ biển (cả vùng)"
+    ],
+    [
+     "valley",
+     "n",
+     "thung lũng"
+    ],
+    [
+     "hill",
+     "n",
+     "ngọn đồi"
+    ]
+   ]
+  },
+  {
+   "id": 20,
+   "topic": "service",
+   "lv": "B1",
+   "title": "Twenty-Six Minutes on Hold",
+   "vi": "Hai mươi sáu phút chờ máy",
+   "text": [
+    "A washing machine arrived damaged. The customer rang the helpline, waited twenty-six minutes on hold, explained the problem, was put through to a second department, explained it again, and was told somebody would call back within forty-eight hours. Nobody did. She rang again four days later, quoted her tracking number, and repeated the whole process.",
+    "The replacement eventually arrived, eighteen days after the original delivery. By then she had spent about two hours on the phone and had told the same story to five different people. Nobody had been rude; every one of them had been courteous and apparently helpful, and each had promised to follow up. The item had been in stock the whole time.",
+    "The company's own figures showed that this case was not unusual, and the cost of it was larger than anybody had calculated. Each call cost roughly four pounds of staff time. Six calls, five of them caused by the previous call not being recorded properly, came to more than the margin on the appliance itself.",
+    "What the company did next is worth describing because it is so ordinary. They did not install new software or launch a campaign about customer satisfaction. They changed one rule: whoever answers a call owns the problem until it is sorted out, and gives the customer a direct number.",
+    "This is harder than it sounds. It means a member of staff cannot pass a difficult enquiry on, which was the entire purpose of the second department. It also means the first call becomes longer, and the average handling time — the number most call centres are measured on — got worse immediately.",
+    "The total number of calls fell by thirty-one per cent within six months.",
+    "That is the trap in the original system. A short call that does not solve anything is recorded as efficient, and it generates the next call, which is recorded separately. The old measurement counted the cheap half of the transaction and ignored the expensive half, which arrived three days later wearing a different reference number.",
+    "The company also stopped asking customers to rate each individual call. They now ask one question a week after the case closes: was it dealt with? A rating of a call measures whether the person on the phone was polite. The later question measures whether the washing machine works, which is the only thing a dissatisfied customer was ever enquiring about. Satisfaction scores fell slightly in the first quarter and the number of complaints fell by far more.",
+    "The customer with the damaged machine was contacted during the review and asked what would have made the difference. Her answer was not about a prompt replacement or compensation, and she had not wanted a refund. \"Somebody telling me their name,\" she said, \"and that it was now their job.\""
+   ],
+   "q": [
+    {
+     "q": "What is the main point of the article?",
+     "opts": [
+      "Measuring the wrong thing made a service look efficient while creating more work.",
+      "Call centres should employ more staff.",
+      "Customers should be offered compensation faster.",
+      "Damaged deliveries are the main source of complaints."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "Why did average handling time get worse?",
+     "opts": [
+      "Staff could no longer pass difficult cases to another department.",
+      "The new software was slower.",
+      "More customers began calling.",
+      "Staff were given longer breaks."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "By how much did the total number of calls fall?",
+     "opts": [
+      "Thirty-one per cent",
+      "Half",
+      "Eighteen per cent",
+      "Twenty-six per cent"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "What single question does the company now ask a week later?",
+     "opts": [
+      "Was it dealt with?",
+      "Was the member of staff polite?",
+      "Would you recommend us?",
+      "How long did you wait?"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 4, \"owns the problem\" means that person",
+     "opts": [
+      "is responsible for it until it is solved",
+      "caused the problem originally",
+      "pays for the replacement",
+      "decides whether to accept the complaint"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "complaint",
+     "n",
+     "lời phàn nàn, khiếu nại"
+    ],
+    [
+     "compensation",
+     "n",
+     "tiền bồi thường"
+    ],
+    [
+     "damaged",
+     "adj",
+     "bị hư hại"
+    ],
+    [
+     "replacement",
+     "n",
+     "hàng thay thế"
+    ],
+    [
+     "delivery",
+     "n",
+     "việc giao hàng"
+    ],
+    [
+     "tracking number",
+     "n",
+     "mã vận đơn để tra cứu"
+    ],
+    [
+     "in stock",
+     "phr",
+     "còn hàng"
+    ],
+    [
+     "helpline",
+     "n",
+     "đường dây hỗ trợ"
+    ],
+    [
+     "on hold",
+     "phr",
+     "đang chờ máy"
+    ],
+    [
+     "put through",
+     "phr",
+     "nối máy cho ai"
+    ],
+    [
+     "enquiry",
+     "n",
+     "câu hỏi, yêu cầu thông tin"
+    ],
+    [
+     "prompt",
+     "adj",
+     "nhanh chóng, kịp thời"
+    ],
+    [
+     "courteous",
+     "adj",
+     "lịch thiệp, nhã nhặn"
+    ],
+    [
+     "helpful",
+     "adj",
+     "hữu ích, nhiệt tình giúp đỡ"
+    ],
+    [
+     "satisfaction",
+     "n",
+     "sự hài lòng"
+    ],
+    [
+     "dissatisfied",
+     "adj",
+     "không hài lòng"
+    ],
+    [
+     "rating",
+     "n",
+     "mức đánh giá (sao, điểm)"
+    ],
+    [
+     "sort out",
+     "phr",
+     "giải quyết, xử lý xong"
+    ],
+    [
+     "follow up",
+     "phr",
+     "theo dõi tiếp, liên hệ lại"
+    ]
+   ]
+  },
+  {
+   "id": 21,
+   "topic": "colloc",
+   "lv": "B2",
+   "title": "The Promise That Was Easy to Keep",
+   "vi": "Lời hứa dễ giữ",
+   "text": [
+    "When Hien took over the small training centre, she inherited a bad habit. Her predecessor had made a habit of saying yes. Every client who asked for something was told it could be done, and the result was a wide range of promises that nobody on the staff could keep.",
+    "Her first week was spent reading complaints. Most of them came down to the same thing: somebody had made a promise, the centre had failed to meet the deadline, and nobody had thought to break the news early. The clients were not unreasonable. They had been told something and it had not happened. Several said they had stopped bothering to make a complaint because it made no difference.",
+    "She made a decision that caused an argument in her first management meeting. From that month, nobody at the centre would give a client a date without checking with the person who would actually do the work. Two of her staff thought this would do serious damage to the business, because competitors were promising faster and would take advantage of the delay.",
+    "She decided to take a risk anyway, and asked everybody to bear in mind one thing: a promise you keep is worth more than a promise that sounds good. If the centre could not solve a problem by the date it had given, it would say so while there was still time to do something about it.",
+    "The first three months were uncomfortable. The centre lost two clients and had an argument with a third. Staff had to learn to say something harder than yes: *I can tell you tomorrow morning*. Several of them found this almost physically difficult, which Hien says is common and has nothing to do with confidence. She made an effort to take responsibility publicly for the delays rather than leaving anybody to face a problem alone, and she took care of the two hardest conversations herself.",
+    "What happened next was slower than a success story usually allows. The centre made progress in small steps and nothing dramatic occurred for about five months. Then one of the clients they had nearly lost came back with a larger contract, and said in passing that the centre was the only supplier they worked with who did not need to be chased. It was not a huge success; it was the first sign that the decision had been the right one.",
+    "Over two years the centre grew by roughly forty per cent, which Hien is careful not to attribute entirely to one policy. Two good trainers joined. The market improved. She is wary of people who draw a conclusion from a single change.",
+    "What she will say is that the policy saved a great deal of time. Staff had been spending their days managing the consequences of promises nobody could keep: apologising, rescheduling, explaining. All of that was wasted time, it did real harm to morale, and it had never appeared on anybody's job description. Removing it had an immediate effect on how much actual teaching the centre could do, and freed people to do their best work rather than firefight.",
+    "She now gives advice to anybody who asks, and warns them that it sounds too simple to make sense. Do the research: find out how long something actually takes. Say that number. Then keep your promise. The hard part is not the discipline. It is the three months in the middle when you look slower than everybody else, when it is tempting to change your mind, and nobody has noticed yet that you are telling the truth."
+   ],
+   "q": [
+    {
+     "q": "What is the main point of the article?",
+     "opts": [
+      "Making only promises you can keep costs business at first and pays off later.",
+      "Training centres should hire more staff.",
+      "Competitors usually promise more than they deliver.",
+      "Clients care most about price."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "Why is Hien careful about explaining the growth?",
+     "opts": [
+      "Several things changed at once, not only the policy.",
+      "The figures were not reliable.",
+      "She did not want to criticise her predecessor.",
+      "The growth happened before the policy began."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "What did staff have to learn to say?",
+     "opts": [
+      "I can tell you tomorrow morning",
+      "We cannot do that",
+      "Please put it in writing",
+      "That will cost extra"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "What did the returning client say about the centre?",
+     "opts": [
+      "It was the only supplier that did not need to be chased.",
+      "It was the cheapest option available.",
+      "Its trainers were the most experienced.",
+      "It replied to emails fastest."
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In the last paragraph, \"the hard part\" refers to",
+     "opts": [
+      "the period when you seem slower than competitors",
+      "learning how long work takes",
+      "disciplining staff who make promises",
+      "writing the new policy"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "make a decision",
+     "phr",
+     "ra quyết định (KHÔNG dùng do)"
+    ],
+    [
+     "make an effort",
+     "phr",
+     "cố gắng, nỗ lực"
+    ],
+    [
+     "make progress",
+     "phr",
+     "tiến bộ"
+    ],
+    [
+     "make a complaint",
+     "phr",
+     "khiếu nại chính thức"
+    ],
+    [
+     "make sense",
+     "phr",
+     "hợp lý, dễ hiểu"
+    ],
+    [
+     "have an argument",
+     "phr",
+     "cãi nhau một trận"
+    ],
+    [
+     "take a risk",
+     "phr",
+     "chấp nhận rủi ro"
+    ],
+    [
+     "take responsibility",
+     "phr",
+     "nhận trách nhiệm"
+    ],
+    [
+     "take advantage of",
+     "phr",
+     "tận dụng; lợi dụng"
+    ],
+    [
+     "take care of",
+     "phr",
+     "lo liệu, chăm lo"
+    ],
+    [
+     "give advice",
+     "phr",
+     "cho lời khuyên (advice KHÔNG đếm được)"
+    ],
+    [
+     "break the news",
+     "phr",
+     "báo tin (thường là tin xấu)"
+    ],
+    [
+     "waste time",
+     "phr",
+     "lãng phí thời gian"
+    ],
+    [
+     "wide range",
+     "phr",
+     "dải lựa chọn rộng"
+    ],
+    [
+     "bad habit",
+     "phr",
+     "thói quen xấu"
+    ],
+    [
+     "huge success",
+     "phr",
+     "thành công lớn"
+    ],
+    [
+     "solve a problem",
+     "phr",
+     "giải quyết vấn đề"
+    ],
+    [
+     "face a problem",
+     "phr",
+     "đối mặt với vấn đề"
+    ],
+    [
+     "change your mind",
+     "phr",
+     "đổi ý"
+    ],
+    [
+     "tell the truth",
+     "phr",
+     "nói thật"
+    ],
+    [
+     "bear in mind",
+     "phr",
+     "ghi nhớ, lưu ý"
+    ]
+   ]
+  },
+  {
+   "id": 22,
+   "topic": "phrasal",
+   "lv": "B1",
+   "title": "The Shop That Nearly Closed Down",
+   "vi": "Cửa hàng suýt đóng cửa",
+   "text": [
+    "The hardware shop on Station Road had been run by the same family for forty years. When the owner passed away, his daughter took over, and within eighteen months it had nearly closed down.",
+    "She did not get on with the changes at first. A supermarket had opened nearby and was selling the same goods more cheaply. Two of the oldest customers had moved away. The accounts, which her father had kept in a notebook, turned out to be far worse than anybody had worked out.",
+    "She spent a week going through the figures with an accountant, and the conclusion came down to a simple choice: close the shop, or find something the supermarket could not do.",
+    "What she came up with was not clever. She started lending tools. A customer who needed a particular drill for one afternoon could borrow it, pay a small amount, and bring it back the next morning. The supermarket could not do this, because it had no staff who could point out which tool was right for the job and no interest in taking anything back.",
+    "The idea caught on slowly. For the first two months almost nobody turned up. Then one builder told another, and by the spring the lending list was full most weekends.",
+    "She also cleared out a quarter of the stock. Items that had been sitting on the shelves since the 1990s were given away or thrown away, which her father would have hated and which freed up enough space to set up a workbench at the back. People started dropping in to ask whether something could be repaired rather than replaced. About half the time it could.",
+    "The shop did not take off dramatically. It got by for two years, then began to grow. She has taken on one member of staff and is thinking about a second.",
+    "She is clear that she did not turn the business around by working harder than her father, who had worked extremely hard. What she did was stop trying to compete on the thing she was going to lose. The supermarket will always win on price. It cannot lend you a drill, and it cannot look at a broken chair and tell you it is not worth fixing.",
+    "She keeps her father's notebook in a drawer. She has never thrown it away, although she now does the accounts properly on a computer, and she points out that he would almost certainly have told her off for most of what she has changed."
+   ],
+   "q": [
+    {
+     "q": "What is the main point of the story?",
+     "opts": [
+      "She survived by offering what the supermarket could not, rather than competing on price.",
+      "Family businesses should always be modernised.",
+      "Supermarkets are forcing small shops to close.",
+      "Lending tools is more profitable than selling them."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "What does the writer suggest about her father?",
+     "opts": [
+      "He worked hard but would have disliked the changes.",
+      "He had kept the accounts dishonestly.",
+      "He had wanted to close the shop.",
+      "He had tried the same ideas before."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "How long did it take before the lending idea caught on?",
+     "opts": [
+      "About two months",
+      "A week",
+      "Two years",
+      "Eighteen months"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "What did clearing out the old stock allow her to do?",
+     "opts": [
+      "Set up a workbench at the back",
+      "Reduce her prices",
+      "Open on Sundays",
+      "Take on extra staff"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 7, \"got by\" means the shop",
+     "opts": [
+      "survived without doing well",
+      "grew quickly",
+      "closed temporarily",
+      "changed owners again"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "catch on",
+     "phr",
+     "trở nên phổ biến"
+    ],
+    [
+     "clear out",
+     "phr",
+     "dọn sạch, bỏ hết đồ"
+    ],
+    [
+     "close down",
+     "phr",
+     "đóng cửa (cửa hàng, nhà máy)"
+    ],
+    [
+     "come down to",
+     "phr",
+     "quy về, rốt cuộc là"
+    ],
+    [
+     "come up",
+     "phr",
+     "nảy sinh (vấn đề, cơ hội)"
+    ],
+    [
+     "get by",
+     "phr",
+     "xoay xở đủ sống"
+    ],
+    [
+     "get on",
+     "phr",
+     "lên (xe buýt, tàu, máy bay)"
+    ],
+    [
+     "give away",
+     "phr",
+     "cho đi; làm lộ bí mật"
+    ],
+    [
+     "go through",
+     "phr",
+     "trải qua (giai đoạn khó)"
+    ],
+    [
+     "pass away",
+     "phr",
+     "qua đời (nói giảm)"
+    ],
+    [
+     "point out",
+     "phr",
+     "chỉ ra, nêu ra"
+    ],
+    [
+     "set up",
+     "phr",
+     "thành lập; lắp đặt"
+    ],
+    [
+     "take off",
+     "phr",
+     "cất cánh; cởi ra"
+    ],
+    [
+     "take over",
+     "phr",
+     "tiếp quản"
+    ],
+    [
+     "throw away",
+     "phr",
+     "vứt đi"
+    ],
+    [
+     "turn out",
+     "phr",
+     "hoá ra là"
+    ],
+    [
+     "turn up",
+     "phr",
+     "xuất hiện; vặn to"
+    ]
+   ]
+  },
+  {
+   "id": 23,
+   "topic": "wfam",
+   "lv": "B2",
+   "title": "A Difference Worth Measuring",
+   "vi": "Một khác biệt đáng đo",
+   "text": [
+    "The question sounded simple enough: does the new teaching method produce better results? The school had spent two years on its development, the teachers believed in it, and the head wanted an answer before committing the following year's budget.",
+    "Getting a reliable answer turned out to be considerably harder than anybody had expected, and the difficulty had very little to do with mathematics.",
+    "The first analysis was encouraging. Students taught by the new method scored higher, and the difference looked important. But the researcher brought in to check the work pointed out a problem with the comparison. The classes using the new approach had been taught by the four teachers who volunteered, and teachers who volunteer for a new method are not a random sample. They tend to be the most motivated, and motivation has a measurable effect on student achievement all by itself.",
+    "This is not a small objection. It means the study may have measured the difference between enthusiastic teachers and ordinary ones, which is a real and interesting finding, but not the one the school was paying for.",
+    "The second design was better. Teachers were assigned to the two approaches rather than choosing, which several of them disliked, and the school accepted that the arrangement would be unpopular for a year. The analysis also compared students of similar ability at the start rather than comparing class averages, because a class is not a unit of measurement.",
+    "The result was less dramatic and much more useful. The new method produced a small improvement overall, a larger one among students who had been struggling, and no detectable difference among the strongest students, who were apparently going to be fine either way.",
+    "That pattern changed the decision. The school did not adopt the method everywhere. It used it where the evidence suggested it would help and left the rest alone, which saved both money and a great deal of argument.",
+    "The head described the whole exercise afterwards as an education in what a comparison requires. Her summary is worth repeating. Any two groups differ in dozens of ways. A study is an attempt to make sure that the one you are interested in is the only one doing the work, and that is a far more demanding requirement than it appears.",
+    "She also noted, with some regret, that the careful version took eleven months longer and cost roughly three times as much, and that she would almost certainly not have approved it if the first analysis had been slightly less convincing."
+   ],
+   "q": [
+    {
+     "q": "What is the main argument of the article?",
+     "opts": [
+      "A fair comparison must rule out differences other than the one being studied.",
+      "New teaching methods rarely work.",
+      "Schools should spend less on research.",
+      "Volunteers make the best teachers."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "What does the head admit in the final paragraph?",
+     "opts": [
+      "She might not have approved the careful study if the first looked weaker.",
+      "The second study was also flawed.",
+      "She had opposed the new method from the start.",
+      "The cost was lower than expected."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "What was wrong with the first comparison?",
+     "opts": [
+      "The teachers using the new method had volunteered.",
+      "The students were tested too early.",
+      "The classes were too small.",
+      "The results were calculated incorrectly."
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "Which group showed the largest improvement?",
+     "opts": [
+      "Students who had been struggling",
+      "The strongest students",
+      "Students taught by volunteers",
+      "Students in the smallest classes"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 3, \"a random sample\" means a group chosen",
+     "opts": [
+      "without any pattern that could affect the result",
+      "from several different schools",
+      "by the students themselves",
+      "because of their experience"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "produce / production / productive",
+     "v / n / adj",
+     "sản xuất / việc sản xuất / năng suất"
+    ],
+    [
+     "describe / description / descriptive",
+     "v / n / adj",
+     "miêu tả / lời miêu tả / giàu hình ảnh"
+    ],
+    [
+     "suggest / suggestion",
+     "v / n",
+     "gợi ý / lời gợi ý"
+    ],
+    [
+     "believe / belief / believable",
+     "v / n / adj",
+     "tin / niềm tin / đáng tin"
+    ],
+    [
+     "differ / difference / different",
+     "v / n / adj",
+     "khác nhau / sự khác biệt / khác"
+    ],
+    [
+     "similar / similarity / similarly",
+     "adj / n / adv",
+     "tương tự / điểm tương đồng / tương tự như vậy"
+    ],
+    [
+     "important / importance / importantly",
+     "adj / n / adv",
+     "quan trọng / tầm quan trọng / quan trọng là"
+    ],
+    [
+     "study / student / studious",
+     "v / n / adj",
+     "học / sinh viên / chăm học"
+    ],
+    [
+     "teach / teacher / teaching",
+     "v / n / n",
+     "dạy / giáo viên / việc giảng dạy"
+    ],
+    [
+     "mathematics / mathematical",
+     "n / adj",
+     "toán học / thuộc toán học"
+    ],
+    [
+     "use / useful / useless",
+     "v / adj / adj",
+     "dùng / hữu ích / vô dụng"
+    ],
+    [
+     "help / helpful / helpless",
+     "v / adj / adj",
+     "giúp / hữu ích / bất lực"
+    ],
+    [
+     "pay / payment / payable",
+     "v / n / adj",
+     "trả / khoản thanh toán / phải trả"
+    ],
+    [
+     "cost / costly / costs",
+     "n / adj / n",
+     "chi phí / tốn kém / các khoản chi"
+    ],
+    [
+     "save / saving / saver",
+     "v / n / n",
+     "tiết kiệm / khoản tiết kiệm / người tiết kiệm"
+    ],
+    [
+     "compare / comparison / comparative",
+     "v / n / adj",
+     "so sánh / sự so sánh / mang tính so sánh"
+    ],
+    [
+     "approve / approval / approved",
+     "v / n / adj",
+     "phê duyệt / sự phê duyệt / đã được duyệt"
+    ]
+   ]
+  },
+  {
+   "id": 24,
+   "topic": "a1-place",
+   "lv": "A2",
+   "title": "The Map on the Wall",
+   "vi": "Tấm bản đồ trên tường",
+   "text": [
+    "There is an old map on the wall of the bus station in my town. It is not a good map. The paper is yellow, some of the street names are too small to read, and three of the roads on it do not exist any more. The new bus stop is not on it at all.",
+    "People use it every day.",
+    "I watched for an hour one morning, because I was early for a train and had nothing to do. Nine people stopped in front of that map. Two of them had phones in their hands. One woman looked at her phone, then looked at the map, then looked at her phone again, and then asked a man behind the counter where the hotel was.",
+    "He told her. Turn left outside the station, go straight on for about five minutes, and it is on the right, just behind the bank. She thanked him and left. She did not look at the map or the phone again.",
+    "I think about this often. The map on the wall is wrong and nobody takes it down. The phone in her hand was right and she did not trust it. What she wanted was not information. She wanted somebody to tell her she was not lost.",
+    "The man behind the counter has worked there for eleven years. I asked him later how many times a day people ask him for directions. He said about thirty. I asked whether it annoyed him. He looked genuinely surprised by the question.",
+    "\"It is the best part of the job,\" he said. \"Somebody comes in from the city, or from another country, and they do not know where anything is. The street is not far, but it feels far. You tell them, and you can see their face change.\"",
+    "He also told me something I did not know. In bad weather, when there is heavy rain or the wind is strong, more people ask. Not because the route is harder, but because being lost in the rain is worse than being lost in the sun.",
+    "The map is still there. The station manager has ordered a new one twice, and twice something else became more urgent. I hope it never arrives. I like the idea that in a building full of timetables and screens, the thing people actually use is a man who knows the town and does not mind being asked."
+   ],
+   "q": [
+    {
+     "q": "What is the main idea of the text?",
+     "opts": [
+      "People often want reassurance rather than information.",
+      "Old maps are better than phones.",
+      "Bus stations should replace their maps.",
+      "Most tourists get lost in small towns."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "What does the writer think about the old map?",
+     "opts": [
+      "It is useless but he is glad it is still there.",
+      "It should be replaced immediately.",
+      "It is more accurate than it looks.",
+      "Nobody ever looks at it."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "How many people stopped in front of the map in one hour?",
+     "opts": [
+      "Nine",
+      "Thirty",
+      "Two",
+      "Eleven"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "Why do more people ask for directions in bad weather?",
+     "opts": [
+      "Being lost in the rain feels worse.",
+      "The signs are harder to see.",
+      "The buses run less often.",
+      "The map gets wet."
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "In paragraph 5, \"she did not trust it\" refers to",
+     "opts": [
+      "the phone",
+      "the map",
+      "the bus timetable",
+      "the man behind the counter"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "city",
+     "n",
+     "thành phố"
+    ],
+    [
+     "town",
+     "n",
+     "thị trấn"
+    ],
+    [
+     "country",
+     "n",
+     "đất nước; nông thôn"
+    ],
+    [
+     "street",
+     "n",
+     "con phố"
+    ],
+    [
+     "road",
+     "n",
+     "con đường"
+    ],
+    [
+     "bank",
+     "n",
+     "ngân hàng"
+    ],
+    [
+     "station",
+     "n",
+     "nhà ga, bến"
+    ],
+    [
+     "hotel",
+     "n",
+     "khách sạn"
+    ],
+    [
+     "map",
+     "n",
+     "bản đồ"
+    ],
+    [
+     "bus",
+     "n",
+     "xe buýt (số nhiều: buses)"
+    ],
+    [
+     "train",
+     "n",
+     "tàu hoả"
+    ],
+    [
+     "in",
+     "prep",
+     "ở trong"
+    ],
+    [
+     "on",
+     "prep",
+     "ở trên (bề mặt)"
+    ],
+    [
+     "at",
+     "prep",
+     "ở tại (một điểm)"
+    ],
+    [
+     "behind",
+     "prep",
+     "ở phía sau"
+    ],
+    [
+     "in front of",
+     "prep",
+     "ở phía trước"
+    ],
+    [
+     "far",
+     "adj",
+     "xa"
+    ],
+    [
+     "there",
+     "adv",
+     "ở đó"
+    ],
+    [
+     "left",
+     "n",
+     "bên trái"
+    ],
+    [
+     "right",
+     "n",
+     "bên phải"
+    ],
+    [
+     "straight on",
+     "phr",
+     "đi thẳng"
+    ],
+    [
+     "turn",
+     "v",
+     "rẽ"
+    ],
+    [
+     "weather",
+     "n",
+     "thời tiết (KHÔNG đếm được)"
+    ],
+    [
+     "rain",
+     "n",
+     "mưa"
+    ],
+    [
+     "sun",
+     "n",
+     "mặt trời"
+    ],
+    [
+     "wind",
+     "n",
+     "gió"
+    ]
+   ]
+  }
+ ]
+}

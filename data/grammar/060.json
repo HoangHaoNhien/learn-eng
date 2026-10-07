@@ -1,0 +1,277 @@
+{
+  "id": 60,
+  "group": "Nhóm 11 · Mệnh đề & Dạng câu",
+  "title": "Mệnh đề quan hệ rút gọn",
+  "subtitle": "Bỏ who/which đi rồi dùng V-ing hay V3? Hỏi đúng một câu: ai làm việc đó? Danh từ tự làm thì V-ing — the man sitting there. Bị người khác làm thì V3 — the letter written by him.",
+  "meaning": "Rút gọn mệnh đề quan hệ cho câu nhẹ đi",
+  "rule": [
+    "Chủ động → <em>V-ing</em> · Bị động → <em>V3</em>",
+    "Chỉ rút gọn được khi đại từ quan hệ làm <em>CHỦ NGỮ</em>",
+    "<em>be</em> + tính từ / giới từ thì bỏ hẳn <em>be</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: B2", "hot": true },
+    { "text": "the man sat there ✗" },
+    { "text": "V-ing hay V3?" },
+    { "text": "Tần suất: cao (văn viết)" }
+  ],
+  "frames": [4, 66, 70, 73, 100],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Mệnh đề quan hệ [Ngữ pháp 45] có thể <b>rút ngắn lại</b> cho câu nhẹ đi: bỏ đại từ quan hệ, bỏ luôn động từ <i>be</i>, và đổi động từ chính sang <b>V-ing</b> hoặc <b>V3</b>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — V-ing hay V3? Hỏi “ai làm việc đó?”</b><br>• Danh từ <b>tự làm</b> → <b>V-ing</b>: <i>the man <b>who is sitting</b> there</i> → <i>the man <b>sitting</b> there</i><br>• Danh từ <b>bị người khác làm</b> → <b>V3</b>: <i>the letter <b>which was written</b> by him</i> → <i>the letter <b>written</b> by him</i><br><i>the man <b>sat</b> there</i> ✗ — <i>sat</i> là V2, viết thế thì câu thành “người đàn ông đã ngồi đó” và mất luôn danh từ chính.<br><i>the letter <b>writing</b> by him</i> ✗ — bức thư không tự viết được." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — chỉ rút gọn được khi đại từ quan hệ làm CHỦ NGỮ:</b><br>• <i>The man <b>who called</b> me</i> → <i>The man <b>calling</b> me</i> ✓ (<i>who</i> là chủ ngữ)<br>• <i>The man <b>who I met</b></i> → <i>The man <b>I met</b></i> ✓ — chỉ <b>bỏ <i>who</i></b> thôi, KHÔNG đổi sang V-ing.<br><i>The man <b>meeting I</b> yesterday</i> ✗<br>Mẹo kiểm tra: sau đại từ quan hệ là <b>động từ</b> → rút gọn được bằng V-ing/V3. Là <b>chủ ngữ mới</b> → chỉ bỏ đại từ." },
+        { "t": "h3", "text": "Bốn kiểu rút gọn" },
+        {
+          "t": "table",
+          "head": ["Dạng đầy đủ", "Rút gọn thành", "Ví dụ"],
+          "rows": [
+            ["<code>who/which + is + V-ing</code>", "<code>V-ing</code>", "the man sitting there"],
+            ["<code>who/which + V (chủ động)</code>", "<code>V-ing</code>", "the road leading to town"],
+            ["<code>which/who + be + V3</code>", "<code>V3</code>", "the letter written by him"],
+            ["<code>who/which + be + tính từ/giới từ</code>", "Bỏ hẳn <code>be</code>", "the man in the blue shirt"]
+          ]
+        },
+        { "t": "p", "html": "Dòng cuối là kiểu dễ nhất và dùng nhiều nhất trong văn nói: <i>the woman <b>who is</b> in the kitchen</i> → <i>the woman <b>in the kitchen</b></i>." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Đầy đủ", "Rút gọn", "Ghi chú"],
+          "rows": [
+            ["the man who is sitting there", "the man sitting there", "Chủ động → V-ing"],
+            ["the people who are waiting", "the people waiting", "Số nhiều cũng vậy"],
+            ["the road which leads to town", "the road leading to town", "Hiện tại đơn cũng thành V-ing"],
+            ["the man who lives next door", "the man living next door", "Không cần có <code>be</code> trước"],
+            ["the letter which was written by him", "the letter written by him", "Bị động → V3"],
+            ["the car which was stolen", "the car stolen", "Không cần <code>by</code>"],
+            ["the questions that are asked often", "the questions often asked", "Trạng từ đứng trước V3"],
+            ["the man who is in the blue shirt", "the man in the blue shirt", "Bỏ hẳn <code>be</code>"],
+            ["the box which is on the table", "the box on the table", "Giới từ giữ nguyên"],
+            ["the only one who is available", "the only one available", "Tính từ chuyển ra sau danh từ"],
+            ["the man who I met yesterday", "the man I met yesterday", "Tân ngữ: CHỈ bỏ đại từ"],
+            ["Because he was tired, he left", "Being tired, he left", "Rút gọn cả mệnh đề trạng ngữ"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dòng cuối mở rộng sang mệnh đề trạng ngữ</b> — cùng một luật V-ing/V3:<br><i><b>Being</b> tired, he went home early.</i> (vì mệt)<br><i><b>Written</b> in 1920, the book is still popular.</i> (được viết năm 1920)<br>Điều kiện bắt buộc: <b>hai vế phải cùng một chủ ngữ</b>. Xem [Ngữ pháp 28]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Do you know the man sitting over there?", "vi": "Bạn biết người đàn ông ngồi đằng kia không?", "note": "BẪY SỐ MỘT: <i>the man sat there</i> ✗ — ông ấy tự ngồi nên dùng V-ing." },
+            { "en": "The people waiting outside are our guests.", "vi": "Mấy người đang đợi ngoài kia là khách của bọn mình.", "note": "Rút gọn từ <i>who are waiting</i>." },
+            { "en": "This is the road leading to town.", "vi": "Đây là con đường dẫn ra phố.", "note": "Hiện tại đơn <i>which leads</i> cũng thành V-ing." },
+            { "en": "The man living next door is a doctor.", "vi": "Người sống cạnh nhà tôi là bác sĩ.", "note": "Không cần có <i>be</i> trong câu gốc vẫn rút gọn được." },
+            { "en": "The letter written by him arrived today.", "vi": "Bức thư anh ấy viết hôm nay mới tới.", "note": "Bị động nên dùng V3. <i>writing by him</i> ✗. Xem [Ngữ pháp 46]." },
+            { "en": "The car stolen last night was mine.", "vi": "Chiếc xe bị mất tối qua là xe tôi.", "note": "V3 không cần <i>by</i> khi không rõ ai làm." },
+            { "en": "Do you have the man in the blue shirt's number?", "vi": "Bạn có số của anh mặc áo xanh không?", "note": "Rút gọn <i>who is in the blue shirt</i> — bỏ hẳn <i>be</i>." },
+            { "en": "The box on the table is yours.", "vi": "Cái hộp trên bàn là của bạn.", "note": "Dạng rút gọn hay dùng nhất trong văn nói. Xem [Khung 100]." },
+            { "en": "He's the only one available right now.", "vi": "Giờ chỉ còn mỗi anh ấy rảnh.", "note": "Tính từ nhảy ra SAU danh từ khi rút gọn." },
+            { "en": "The man I met yesterday called again.", "vi": "Người tôi gặp hôm qua lại gọi.", "note": "BẪY SỐ HAI: tân ngữ thì CHỈ bỏ <i>who</i>, không đổi sang V-ing." },
+            { "en": "Being tired, he went home early.", "vi": "Vì mệt nên anh ấy về sớm.", "note": "Rút gọn mệnh đề lý do — hai vế cùng chủ ngữ <i>he</i>." },
+            { "en": "Written in 1920, the book is still popular.", "vi": "Viết từ năm 1920 mà sách vẫn ăn khách.", "note": "Bị động nên mở đầu bằng V3." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "👉", "title": "Chỉ ai đó trong đám đông", "text": "<i>the man sitting over there</i>" },
+            { "icon": "👕", "title": "Tả bằng quần áo, vị trí", "text": "<i>the man in the blue shirt</i>" },
+            { "icon": "📦", "title": "Chỉ đồ vật ở đâu", "text": "<i>the box on the table</i>. Xem [Khung 100]." },
+            { "icon": "📄", "title": "Viết gọn, trang trọng", "text": "<i>the letter written by him</i>" },
+            { "icon": "📕", "title": "Mở đầu câu kể chuyện", "text": "<i>Being tired, he went home.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Đại từ quan hệ là TÂN NGỮ — chỉ bỏ nó đi thôi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một mục ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi mục đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Rút gọn chủ động — V-ing",
+              "items": [
+                { "w": "sitting there", "vi": "đang ngồi đằng kia", "ex": "Do you know the man sitting over there?", "exvi": "Bạn biết người ngồi đằng kia không?", "note": "BẪY SỐ MỘT: <i>the man sat there</i> ✗ — V2 không rút gọn được." },
+                { "w": "waiting outside", "vi": "đang đợi bên ngoài", "ex": "The people waiting outside are our guests.", "exvi": "Mấy người đợi ngoài kia là khách." },
+                { "w": "standing next to", "vi": "đang đứng cạnh", "ex": "The woman standing next to him is his wife.", "exvi": "Người phụ nữ đứng cạnh anh ta là vợ anh ấy." },
+                { "w": "living next door", "vi": "sống cạnh nhà", "ex": "The man living next door is a doctor.", "exvi": "Người sống cạnh nhà là bác sĩ.", "note": "Câu gốc không có <i>be</i> vẫn rút gọn được." },
+                { "w": "leading to", "vi": "dẫn tới", "ex": "This is the road leading to town.", "exvi": "Đây là con đường dẫn ra phố." },
+                { "w": "working here", "vi": "đang làm ở đây", "ex": "The people working here are very friendly.", "exvi": "Mọi người làm ở đây rất thân thiện. Xem [Khung 70]." },
+                { "w": "containing", "vi": "có chứa", "ex": "Avoid food containing too much sugar.", "exvi": "Tránh đồ ăn nhiều đường." },
+                { "w": "wearing", "vi": "đang mặc, đang đeo", "ex": "The girl wearing glasses is my sister.", "exvi": "Cô bé đeo kính là em tôi." },
+                { "w": "coming from", "vi": "đến từ", "ex": "The noise coming from upstairs woke me up.", "exvi": "Tiếng ồn từ tầng trên làm tôi tỉnh giấc." },
+                { "w": "looking for", "vi": "đang tìm", "ex": "The customer looking for you just left.", "exvi": "Vị khách tìm bạn vừa đi rồi. Xem [Khung 4]." },
+                { "w": "Being + tính từ", "vi": "vì đang…", "ex": "Being tired, he went home early.", "exvi": "Vì mệt nên anh ấy về sớm.", "note": "Hai vế phải CÙNG chủ ngữ." },
+                { "w": "Having + V3", "vi": "sau khi đã…", "ex": "Having finished, she left.", "exvi": "Xong việc, cô ấy về.", "note": "Nhấn việc xảy ra TRƯỚC. Xem [Ngữ pháp 28]." }
+              ]
+            },
+            {
+              "title": "Rút gọn bị động — V3 & bỏ hẳn be",
+              "items": [
+                { "w": "written by", "vi": "được viết bởi", "ex": "The letter written by him arrived today.", "exvi": "Bức thư anh ấy viết hôm nay mới tới.", "note": "<i>writing by him</i> ✗ — bức thư không tự viết." },
+                { "w": "made in", "vi": "sản xuất tại", "ex": "Products made in Vietnam are cheaper.", "exvi": "Hàng sản xuất ở Việt Nam rẻ hơn." },
+                { "w": "stolen", "vi": "bị mất cắp", "ex": "The car stolen last night was mine.", "exvi": "Chiếc xe bị mất tối qua là xe tôi." },
+                { "w": "built in", "vi": "được xây năm", "ex": "The house built in 1920 is still standing.", "exvi": "Căn nhà xây năm 1920 vẫn còn đó." },
+                { "w": "asked", "vi": "được hỏi", "ex": "These are the questions often asked.", "exvi": "Đây là những câu hay được hỏi." },
+                { "w": "sent", "vi": "được gửi", "ex": "The email sent yesterday bounced back.", "exvi": "Email gửi hôm qua bị trả lại." },
+                { "w": "based on", "vi": "dựa trên", "ex": "A film based on a true story.", "exvi": "Bộ phim dựa trên chuyện có thật.", "note": "Cụm cố định, luôn ở dạng V3. Xem [Ngữ pháp 42]." },
+                { "w": "in the blue shirt", "vi": "mặc áo xanh", "ex": "the man in the blue shirt", "exvi": "anh mặc áo xanh", "note": "Rút gọn <i>who is in…</i> — bỏ hẳn <b>be</b>." },
+                { "w": "on the table", "vi": "trên bàn", "ex": "The box on the table is yours.", "exvi": "Cái hộp trên bàn là của bạn. Xem [Khung 100]." },
+                { "w": "available", "vi": "có sẵn, rảnh", "ex": "He's the only one available.", "exvi": "Chỉ còn mỗi anh ấy rảnh.", "note": "Tính từ nhảy ra SAU danh từ khi rút gọn." },
+                { "w": "responsible for", "vi": "chịu trách nhiệm về", "ex": "The person responsible for this is me.", "exvi": "Người chịu trách nhiệm việc này là tôi." },
+                { "w": "I met yesterday", "vi": "tôi gặp hôm qua", "ex": "The man I met yesterday called again.", "exvi": "Người tôi gặp hôm qua lại gọi.", "note": "BẪY SỐ HAI: tân ngữ thì chỉ BỎ đại từ, không đổi V-ing. Xem [Ngữ pháp 45]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Do you know the man <b>sat</b> over there?", "right": "Do you know the man <b>sitting</b> over there?", "why": "BẪY SỐ MỘT: ông ấy TỰ ngồi nên dùng V-ing. <i>sat</i> là V2, không rút gọn được." },
+            { "wrong": "The letter <b>writing</b> by him arrived today.", "right": "The letter <b>written</b> by him arrived today.", "why": "Bức thư BỊ viết nên dùng V3. Hỏi “ai làm?” là chọn đúng cột." },
+            { "wrong": "The car <b>stealing</b> last night was mine.", "right": "The car <b>stolen</b> last night was mine.", "why": "Xe bị người ta lấy, không tự lấy mình." },
+            { "wrong": "The man <b>meeting I</b> yesterday called again.", "right": "The man <b>I met</b> yesterday called again.", "why": "BẪY SỐ HAI: <i>who</i> ở đây là TÂN NGỮ nên chỉ bỏ nó, giữ nguyên <i>I met</i>." },
+            { "wrong": "The man <b>who sitting</b> there.", "right": "The man <b>sitting</b> there. / The man <b>who is sitting</b> there.", "why": "Rút gọn thì bỏ LUÔN đại từ quan hệ. Giữ <i>who</i> thì phải giữ cả <i>is</i>." },
+            { "wrong": "The man <b>is</b> in the blue shirt is my boss.", "right": "The man in the blue shirt is my boss.", "why": "Rút gọn kiểu này bỏ hẳn <b>be</b> — giữ lại thành hai động từ trong một câu." },
+            { "wrong": "He's the only <b>available one</b>.", "right": "He's the only one <b>available</b>.", "why": "Khi rút gọn, tính từ nhảy ra SAU danh từ. Xem [Ngữ pháp 36]." },
+            { "wrong": "<b>Being tired</b>, the work was left unfinished.", "right": "<b>Being tired</b>, he left the work unfinished.", "why": "Hai vế phải CÙNG chủ ngữ. Công việc không thể “mệt”." },
+            { "wrong": "The people <b>waited</b> outside are our guests.", "right": "The people <b>waiting</b> outside are our guests.", "why": "Cùng lỗi dùng V2 — họ tự đợi nên dùng V-ing." },
+            { "wrong": "A film <b>basing on</b> a true story.", "right": "A film <b>based on</b> a true story.", "why": "<b>based on</b> là cụm cố định, luôn ở dạng V3." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>V-ing</code> / <code>V3</code>", "Tự làm / bị làm", "the man sitting ≠ the letter written"],
+            ["<code>V-ing</code> / <code>V2</code>", "Rút gọn / câu kể", "the man sitting ≠ the man sat"],
+            ["Chủ ngữ / tân ngữ", "Rút gọn được / chỉ bỏ đại từ", "the man calling me ≠ the man I met"],
+            ["<code>Being</code> / <code>Having been</code>", "Cùng lúc / xảy ra trước", "Being tired ≠ Having finished"],
+            ["Rút gọn / mệnh đề có phẩy", "Xác định / bổ sung", "the man sitting ≠ My boss, who is 40,"],
+            ["<code>the only one available</code>", "Tính từ ra sau danh từ", "≠ the only available one"],
+            ["<code>based on</code>", "Cụm cố định, luôn V3", "a film based on…"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: rút gọn thế nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn muốn rút gọn một mệnh đề quan hệ — nhìn vào từ ngay sau who/which.",
+          "nodes": [
+            { "if": "Ngay sau nó là CHỦ NGỮ MỚI", "then": "Chỉ bỏ đại từ, giữ nguyên phần sau", "ex": "the man (who) I met yesterday" },
+            { "if": "Danh từ TỰ làm việc đó", "then": "V-ing", "ex": "the man sitting there" },
+            { "if": "Danh từ BỊ người khác làm", "then": "V3", "ex": "the letter written by him" },
+            { "if": "Sau đó là be + giới từ", "then": "Bỏ hẳn be", "ex": "the box on the table" },
+            { "if": "Sau đó là be + tính từ", "then": "Bỏ be, tính từ ra sau danh từ", "ex": "the only one available" },
+            { "if": "Muốn rút gọn cả mệnh đề lý do", "then": "Being / Having + V3, cùng chủ ngữ", "ex": "Being tired, he went home." }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ gọn của cùng một ý" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "the man who is sitting over there", "vi": "Dài nhất — đầy đủ" },
+            { "en": "the man that is sitting over there", "vi": "Thân mật hơn" },
+            { "en": "the man sitting over there", "vi": "Rút gọn" },
+            { "en": "the man over there", "vi": "Gọn hơn nữa" },
+            { "en": "that man", "vi": "Gọn nhất — chỉ tay là hiểu" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Mệnh đề rút gọn xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 100, "why": "There is / There are + N — There's a box on the table, dạng rút gọn hay dùng nhất." },
+            { "id": 4, "why": "I'm looking for… — I'm looking for the file sent yesterday." },
+            { "id": 70, "why": "What's + N + like? — mô tả người và nơi chốn bằng mệnh đề rút gọn." },
+            { "id": 73, "why": "This is + người — This is the colleague working with me." },
+            { "id": 66, "why": "What's the difference between A and B? — so sánh hai thứ bằng cụm mô tả gọn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Rút gọn mệnh đề" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Người đàn ông ngồi đằng kia.", "blank": "the man who is sitting over there → the man __________ over there", "a": "sitting" },
+            { "vi": "Mấy người đang đợi bên ngoài.", "blank": "the people who are waiting outside → the people __________ outside", "a": "waiting" },
+            { "vi": "Người sống cạnh nhà tôi.", "blank": "the man who lives next door → the man __________ next door", "a": "living" },
+            { "vi": "Bức thư anh ấy viết.", "blank": "the letter which was written by him → the letter __________ by him", "a": "written" },
+            { "vi": "Chiếc xe bị mất tối qua.", "blank": "the car which was stolen last night → the car __________ last night", "a": "stolen" },
+            { "vi": "Anh mặc áo xanh.", "blank": "the man who is in the blue shirt → the man __________", "a": "in the blue shirt" },
+            { "vi": "Người duy nhất còn rảnh.", "blank": "the only one who is available → the only one __________", "a": "available" },
+            { "vi": "Người tôi gặp hôm qua.", "blank": "the man who I met yesterday → the man __________", "a": "I met yesterday" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn câu đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Người đàn ông ngồi đằng kia.", "blank": "(a) the man sat over there  (b) the man sitting over there", "a": "(b)" },
+            { "vi": "Bức thư anh ấy viết.", "blank": "(a) the letter writing by him  (b) the letter written by him", "a": "(b)" },
+            { "vi": "Người tôi gặp hôm qua.", "blank": "(a) the man meeting I yesterday  (b) the man I met yesterday", "a": "(b)" },
+            { "vi": "Người duy nhất còn rảnh.", "blank": "(a) the only available one  (b) the only one available", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Bạn biết người ngồi đằng kia không?", "a": "Do you know the man sitting over there?" },
+            { "vi": "2. Chiếc xe bị mất tối qua là xe tôi.", "a": "The car stolen last night was mine." },
+            { "vi": "3. Cái hộp trên bàn là của bạn.", "a": "The box on the table is yours." },
+            { "vi": "4. Vì mệt nên anh ấy về sớm.", "a": "Being tired, he went home early." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Một câu hỏi quyết định tất cả:</b> <b>ai làm việc đó?</b> Danh từ tự làm → <b>V-ing</b>. Bị người khác làm → <b>V3</b>.",
+            "<b>Không bao giờ dùng V2 để rút gọn.</b> <i>the man sat there</i> ✗ — V2 biến cụm thành một câu kể.",
+            "<b>Mẹo kiểm tra rút gọn được hay không:</b> sau <i>who/which</i> là <b>động từ</b> → rút được · là <b>chủ ngữ mới</b> → chỉ bỏ đại từ.",
+            "<b>Gặp <i>be</i> + giới từ hay tính từ thì bỏ hẳn <i>be</i>:</b> <i>the box on the table</i>, <i>the only one available</i>.",
+            "<b>Rút gọn mệnh đề lý do thì hai vế phải cùng chủ ngữ.</b> <i>Being tired, the work…</i> ✗ — công việc không biết mệt.",
+            "<b>Bài tập 3 phút:</b> nhìn quanh phòng, tả năm thứ bằng mệnh đề rút gọn: <i>the book on the shelf</i>, <i>the man sitting…</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "id": 12,
+  "group": "Nhóm 2 · Yêu cầu & Nhờ vả",
+  "title": "Can you…? — Nhờ vả kiểu thân mật",
+  "subtitle": "Phiên bản thẳng và gần gũi của [Khung 11]. Dùng với bạn bè, đồng nghiệp cùng cấp và trong tin nhắn hằng ngày. Nó cũng là khung để hỏi về khả năng — và đó chính là chỗ dễ gây hiểu nhầm nhất.",
+  "pattern": [
+    "Can you <em>+ V (không “to”)</em>?",
+    "Can you please <em>+ V</em>?",
+    "Can't you <em>+ V</em>?"
+  ],
+  "meaning": "Bạn… được không? (thân mật, trực tiếp)",
+  "grammar": [29, 44],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Thân mật — bạn bè, đồng nghiệp" },
+    { "text": "Trình độ: A1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">Can you…?</span> làm hai việc khác hẳn nhau tùy ngữ cảnh. Một là <b>nhờ vả</b>: <i>Can you help me?</i> Hai là <b>hỏi về khả năng</b>: <i>Can you swim?</i> Người nghe phân biệt bằng bối cảnh, gần như không bao giờ nhầm — nhưng người học thì hay lúng túng khi tự đặt câu." },
+        { "t": "p", "html": "So với <i>Could you</i>, khung này <b>thẳng hơn và gần hơn</b>. Không phải là bất lịch sự — với bạn bè và đồng nghiệp cùng cấp, dùng <i>Could you</i> cho mọi việc nhỏ lại nghe khách sáo, thậm chí hơi xa cách. <i>Can you pass me that?</i> là câu bình thường trong đời sống." },
+        { "t": "p", "html": "Ranh giới thực tế rất đơn giản: nếu người kia <b>ngang hàng hoặc thân</b> với bạn, và việc nhờ <b>nhỏ</b>, hãy dùng <i>Can you</i>. Nếu người kia <b>ở trên</b>, hoặc bạn <b>chưa quen</b>, hoặc việc nhờ <b>tốn công</b>, hãy chuyển sang <i>Could you</i> ở [Khung 11]." },
+        { "t": "callout", "html": "<b>Cẩn thận với dạng phủ định:</b> <span class=\"k\">Can't you…?</span> hầu như luôn mang giọng <b>sốt ruột hoặc trách móc</b>. <i>Can't you just fix it?</i> = “sao không sửa quách đi?”. Đừng dùng khi bạn chỉ đơn giản muốn nhờ." },
+        { "t": "h3", "text": "Cùng một từ, hai nghĩa" },
+        {
+          "t": "table",
+          "head": ["Câu", "Nghĩa", "Dấu hiệu nhận biết"],
+          "rows": [
+            ["<code>Can you help me?</code>", "Nhờ vả: giúp tôi với", "Việc cần làm ngay lúc này"],
+            ["<code>Can you swim?</code>", "Hỏi khả năng: bạn biết bơi không", "Kỹ năng, không gắn với lúc này"],
+            ["<code>Can you hear me?</code>", "Hỏi khả năng: nghe rõ không", "Rất hay dùng khi họp trực tuyến"],
+            ["<code>Can't you help me?</code>", "Trách móc: sao không giúp tôi", "Có <i>n't</i> — giọng sốt ruột"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "👥", "title": "Nhờ bạn bè, đồng nghiệp", "text": "Bối cảnh số 1. <i>Can you send me that link?</i> Tự nhiên, không khách sáo." },
+            { "icon": "💻", "title": "Họp trực tuyến", "text": "<i>Can you hear me? Can you see my screen?</i> Hai câu dùng mỗi ngày nếu bạn họp online." },
+            { "icon": "💬", "title": "Tin nhắn, chat nội bộ", "text": "<i>Can you check this when you're free?</i> Ngắn gọn, hợp với chat." },
+            { "icon": "🏊", "title": "Hỏi về kỹ năng", "text": "<i>Can you drive?</i> Đây là nghĩa “khả năng”, không phải nhờ vả." },
+            { "icon": "📅", "title": "Hỏi ai đó có đến được không", "text": "<i>Can you make it on Friday?</i> Câu chốt lịch hẹn gọn nhất." },
+            { "icon": "🚫", "title": "Tránh dùng khi…", "text": "Nhờ sếp việc lớn, email khách hàng, nói với người lạ — hãy chuyển sang [Khung 11]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Nhờ vả", "<code>Can you + V?</code>", "Can you help me with this?"],
+            ["Nhờ, dứt khoát hơn", "<code>Can you please + V?</code>", "Can you please check the date?"],
+            ["Hỏi khả năng", "<code>Can you + V?</code>", "Can you drive?"],
+            ["Nhờ hộ nhóm", "<code>Can we + V?</code>", "Can we start at ten instead?"],
+            ["Nhờ một việc riêng", "<code>Can you do me a favour?</code>", "Can you do me a favour and call him?"],
+            ["Sốt ruột / trách móc", "<code>Can't you + V?</code>", "Can't you just tell me?"],
+            ["Nhờ đừng làm gì", "<code>Can you not + V?</code>", "Can you not do that, please?"],
+            ["Trả lời đồng ý", "<code>Sure. / Yeah, no problem.</code>", "“Can you send it?” — “Sure.”"],
+            ["Trả lời từ chối", "<code>Sorry, I can't.</code>", "Sorry, I can't — I'm in a meeting."],
+            ["Hỏi lại nhẹ nhàng", "<code>Can you just + V?</code>", "Can you just check one thing?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp:</b> sau <i>Can you</i> là <b>động từ nguyên thể KHÔNG “to”</b>, giống hệt [Khung 11]. <span class=\"k\">Can you help me?</span> ✓ — <i>Can you to help me?</i> ✗" },
+        { "t": "callout", "html": "<b>Đừng nhầm với xin phép:</b> <span class=\"k\">Can you…?</span> = nhờ NGƯỜI KHÁC làm. <span class=\"k\">Can I…?</span> = xin phép cho MÌNH làm. Chỉ khác một chữ mà đổi hẳn vai — xem [Khung 21]." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “Can you…”",
+              "items": [
+                { "w": "help", "vi": "giúp", "ex": "Can you help me move this?", "exvi": "Bạn giúp mình dịch cái này được không?" },
+                { "w": "hear", "vi": "nghe thấy", "ex": "Can you hear me OK?", "exvi": "Bạn nghe mình rõ không?", "note": "Câu mở đầu mọi cuộc họp trực tuyến. Thuộc ngay." },
+                { "w": "see", "vi": "nhìn thấy", "ex": "Can you see my screen?", "exvi": "Bạn thấy màn hình của mình không?" },
+                { "w": "send", "vi": "gửi", "ex": "Can you send me that link?", "exvi": "Bạn gửi mình cái đường dẫn đó nhé?" },
+                { "w": "check", "vi": "kiểm tra", "ex": "Can you check this when you're free?", "exvi": "Khi nào rảnh bạn kiểm tra cái này nhé?" },
+                { "w": "come", "vi": "đến", "ex": "Can you come a bit earlier?", "exvi": "Bạn đến sớm hơn chút được không?" },
+                { "w": "make it", "vi": "đến được, thu xếp được", "ex": "Can you make it on Friday?", "exvi": "Thứ Sáu bạn đến được không?", "note": "<i>make it</i> = thu xếp đến được. Câu chốt lịch hẹn gọn nhất." },
+                { "w": "wait", "vi": "chờ", "ex": "Can you wait five minutes?", "exvi": "Bạn chờ năm phút được không?" },
+                { "w": "hold", "vi": "cầm giúp, giữ máy", "ex": "Can you hold this for a second?", "exvi": "Bạn cầm giúp cái này một lát nhé?" },
+                { "w": "pass", "vi": "đưa, chuyền", "ex": "Can you pass me that pen?", "exvi": "Bạn đưa mình cái bút đó nhé?" },
+                { "w": "tell", "vi": "nói cho biết", "ex": "Can you tell me what happened?", "exvi": "Bạn kể mình nghe chuyện gì xảy ra được không?" },
+                { "w": "show", "vi": "chỉ cho xem", "ex": "Can you show me how you did that?", "exvi": "Bạn chỉ mình cách bạn làm được không?" },
+                { "w": "remind", "vi": "nhắc", "ex": "Can you remind me later?", "exvi": "Lát bạn nhắc mình nhé?" },
+                { "w": "pick up", "vi": "đón, lấy giúp", "ex": "Can you pick me up at seven?", "exvi": "Bảy giờ bạn đón mình nhé?", "note": "<i>pick someone up</i> = đón ai. <i>pick something up</i> = lấy giúp thứ gì." },
+                { "w": "drop off", "vi": "thả xuống, đưa tới", "ex": "Can you drop this off at reception?", "exvi": "Bạn đưa cái này xuống lễ tân giúp mình nhé?" },
+                { "w": "grab", "vi": "lấy nhanh", "ex": "Can you grab me a coffee?", "exvi": "Bạn lấy giúp mình ly cà phê nhé?", "note": "<i>grab</i> rất thân mật — chỉ dùng với bạn bè, đồng nghiệp thân." },
+                { "w": "text", "vi": "nhắn tin", "ex": "Can you text me when you leave?", "exvi": "Lúc đi bạn nhắn mình nhé?" },
+                { "w": "call", "vi": "gọi điện", "ex": "Can you call me back in ten?", "exvi": "Mười phút nữa bạn gọi lại mình nhé?" },
+                { "w": "sort out", "vi": "xử lý, giải quyết", "ex": "Can you sort this out today?", "exvi": "Hôm nay bạn xử lý được việc này không?" },
+                { "w": "cover", "vi": "làm thay, trực thay", "ex": "Can you cover for me this afternoon?", "exvi": "Chiều nay bạn làm thay mình được không?" }
+              ]
+            },
+            {
+              "title": "Câu hoàn chỉnh nên thuộc lòng",
+              "items": [
+                { "w": "Can you hear me?", "vi": "bạn nghe rõ không?", "ex": "Can you hear me OK now?", "exvi": "Giờ bạn nghe mình rõ chưa?", "note": "Câu dùng nhiều nhất trong họp trực tuyến." },
+                { "w": "Can you see my screen?", "vi": "bạn thấy màn hình không?", "ex": "Can you all see my screen?", "exvi": "Mọi người thấy màn hình của mình không?" },
+                { "w": "Can you make it?", "vi": "bạn đến được không?", "ex": "We're meeting at six — can you make it?", "exvi": "Sáu giờ bọn mình gặp — bạn đến được không?" },
+                { "w": "Can you do me a favour?", "vi": "bạn giúp mình một việc nhé?", "ex": "Can you do me a favour and check the address?", "exvi": "Bạn giúp mình một việc, kiểm tra địa chỉ nhé?", "note": "Anh-Mỹ viết <i>favor</i>. Câu mở lời khi sắp nhờ việc hơi phiền." },
+                { "w": "Can you give me a minute?", "vi": "cho mình một phút nhé?", "ex": "Can you give me a minute? I'm nearly done.", "exvi": "Cho mình một phút nhé? Mình sắp xong rồi." },
+                { "w": "Can you let me know?", "vi": "bạn báo mình biết nhé?", "ex": "Can you let me know either way?", "exvi": "Được hay không bạn cũng báo mình biết nhé?", "note": "<i>either way</i> = dù có hay không." },
+                { "w": "Can you keep a secret?", "vi": "bạn giữ bí mật được không?", "ex": "Can you keep a secret? I'm leaving in June.", "exvi": "Bạn giữ bí mật được không? Tháng Sáu mình nghỉ việc." },
+                { "w": "Can you manage?", "vi": "bạn xoay xở được chứ?", "ex": "That's a lot of boxes — can you manage?", "exvi": "Nhiều thùng quá — bạn ôm nổi không?", "note": "Hỏi thăm khi thấy ai đó đang vất vả." },
+                { "w": "Can you believe it?", "vi": "bạn tin nổi không?", "ex": "They cancelled again — can you believe it?", "exvi": "Họ lại hủy nữa — bạn tin nổi không?", "note": "Câu cảm thán, không thật sự là câu hỏi." },
+                { "w": "Can you hold on?", "vi": "bạn chờ máy chút nhé?", "ex": "Can you hold on? I'll put you through.", "exvi": "Bạn giữ máy chút nhé? Tôi nối máy cho." }
+              ]
+            },
+            {
+              "title": "Hỏi khả năng & biến thể",
+              "items": [
+                { "w": "Can you drive?", "vi": "bạn biết lái xe không?", "ex": "Can you drive? We'll need a second driver.", "exvi": "Bạn biết lái xe không? Bọn mình cần thêm người lái.", "note": "Đây là nghĩa KHẢ NĂNG, không phải nhờ vả." },
+                { "w": "Can you swim?", "vi": "bạn biết bơi không?", "ex": "Can you swim? The water's deep here.", "exvi": "Bạn biết bơi không? Chỗ này nước sâu đấy." },
+                { "w": "Can you speak…?", "vi": "bạn nói được tiếng…?", "ex": "Can you speak any Japanese?", "exvi": "Bạn nói được chút tiếng Nhật nào không?", "note": "<i>any</i> làm câu hỏi nhẹ đi — không đòi hỏi bạn phải giỏi." },
+                { "w": "Can't you…?", "vi": "sao bạn không…?", "ex": "Can't you just tell me now?", "exvi": "Sao bạn không nói luôn bây giờ đi?", "note": "CẨN THẬN: gần như luôn mang giọng sốt ruột hoặc trách móc." },
+                { "w": "Can you not…?", "vi": "bạn đừng… được không?", "ex": "Can you not slam the door, please?", "exvi": "Bạn đừng đóng sầm cửa được không?", "note": "Nhờ ngừng làm gì. Ngữ điệu nặng một chút là thành gắt gỏng." },
+                { "w": "Sorry, I can't", "vi": "xin lỗi, mình không được", "ex": "Sorry, I can't — I'm in a meeting until four.", "exvi": "Xin lỗi, mình không được — mình họp đến bốn giờ.", "note": "Từ chối kèm lý do ngắn là đủ, không cần dài dòng." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Can you hear me OK?",
+                  "vi": "Bạn nghe mình rõ không?",
+                  "note": "Câu mở đầu mọi cuộc họp trực tuyến. Nghe được câu này và trả lời gọn là bạn đã qua được ba giây đầu căng thẳng nhất.",
+                  "reply": [
+                    { "them": "Yes, loud and clear.", "themvi": "Có, rõ mồn một.", "you": "Great, let's start.", "youvi": "Tốt, mình bắt đầu nhé." },
+                    { "them": "You're breaking up a bit.", "themvi": "Tiếng bạn bị ngắt quãng.", "you": "Let me turn my camera off.", "youvi": "Để mình tắt camera đi." }
+                  ],
+                  "vars": [
+                    { "en": "Can you see my screen?", "vi": "Bạn thấy màn hình của mình không?" },
+                    { "en": "Can everyone hear me at the back?", "vi": "Mọi người ở cuối phòng nghe rõ không?" }
+                  ]
+                },
+                {
+                  "en": "Can you check this when you're free?",
+                  "vi": "Khi nào rảnh bạn kiểm tra cái này nhé?",
+                  "note": "<i>when you're free</i> bỏ áp lực thời gian — phù hợp khi nhắn tin nội bộ.",
+                  "reply": [
+                    { "them": "Sure, give me half an hour.", "themvi": "Được, cho mình nửa tiếng.", "you": "No rush at all.", "youvi": "Không vội chút nào." }
+                  ],
+                  "close": { "en": "Thanks, you're a lifesaver.", "vi": "Cảm ơn nhé, bạn cứu mình rồi." }
+                },
+                {
+                  "en": "Can you cover for me this afternoon?",
+                  "vi": "Chiều nay bạn làm thay mình được không?",
+                  "note": "<span class=\"k\">cover for someone</span> = làm thay, trực thay. Cụm rất hay dùng ở chỗ làm.",
+                  "open": { "en": "I hate to ask, but —", "vi": "Ngại quá khi phải nhờ, nhưng —" },
+                  "reply": [
+                    { "them": "Sure, what do I need to know?", "themvi": "Được, mình cần biết gì?", "you": "Just answer the phone — I'll leave notes.", "youvi": "Chỉ cần nghe điện thoại thôi — mình để lại ghi chú." },
+                    { "them": "Sorry, I can't — I've got my own deadline.", "themvi": "Xin lỗi, mình không được — mình cũng có hạn chót.", "you": "No worries, I'll ask Minh.", "youvi": "Không sao, mình hỏi Minh vậy." }
+                  ],
+                  "close": { "en": "I owe you one.", "vi": "Mình nợ bạn một lần đấy." }
+                },
+                {
+                  "en": "Can you do me a favour and check the address?",
+                  "vi": "Bạn giúp mình một việc, kiểm tra địa chỉ nhé?",
+                  "note": "Mở bằng <i>do me a favour</i> báo trước rằng bạn sắp nhờ — người nghe có một giây chuẩn bị.",
+                  "reply": [
+                    { "them": "Of course. Which one?", "themvi": "Tất nhiên rồi. Địa chỉ nào?", "you": "The one on the invoice.", "youvi": "Cái trên hóa đơn ấy." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Can you make it on Friday?",
+                  "vi": "Thứ Sáu bạn đến được không?",
+                  "note": "<span class=\"k\">make it</span> = thu xếp đến được. Ngắn hơn và tự nhiên hơn <i>Can you come?</i>",
+                  "reply": [
+                    { "them": "Friday works for me.", "themvi": "Thứ Sáu mình ổn.", "you": "Great, I'll book a table.", "youvi": "Tuyệt, mình đặt bàn nhé." },
+                    { "them": "Friday's tight. Saturday?", "themvi": "Thứ Sáu hơi kẹt. Thứ Bảy được không?", "you": "Saturday's fine too.", "youvi": "Thứ Bảy cũng được." }
+                  ],
+                  "close": { "en": "Can you let me know either way?", "vi": "Được hay không bạn cũng báo mình nhé?" }
+                },
+                {
+                  "en": "Can you pick me up at seven?",
+                  "vi": "Bảy giờ bạn đón mình nhé?",
+                  "reply": [
+                    { "them": "Sure, where are you?", "themvi": "Được, bạn ở đâu?", "you": "Outside the office.", "youvi": "Trước cửa văn phòng." }
+                  ],
+                  "vars": [
+                    { "en": "Can you drop me off at the station?", "vi": "Bạn thả mình ở nhà ga nhé?" }
+                  ]
+                },
+                {
+                  "en": "Can you keep a secret? I'm leaving in June.",
+                  "vi": "Bạn giữ bí mật được không? Tháng Sáu mình nghỉ việc.",
+                  "reply": [
+                    { "them": "Wow. My lips are sealed.", "themvi": "Ồ. Mình kín miệng mà.", "you": "Thanks. I'll tell the team next month.", "youvi": "Cảm ơn. Tháng sau mình mới báo cả nhóm." }
+                  ]
+                },
+                {
+                  "en": "Can you not slam the door, please?",
+                  "vi": "Bạn đừng đóng sầm cửa được không?",
+                  "note": "Nhờ người khác ngừng làm gì. Nói nhẹ thì là lời đề nghị, nói nặng một chút là thành gắt gỏng.",
+                  "reply": [
+                    { "them": "Oh, sorry — I didn't realise.", "themvi": "Ồ, xin lỗi — mình không để ý.", "you": "No problem, thanks.", "youvi": "Không sao, cảm ơn bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Can you grab me a coffee while you're out?",
+                  "vi": "Ra ngoài bạn lấy giúp mình ly cà phê nhé?",
+                  "note": "<i>grab</i> rất thân mật — chỉ dùng với người đã quen.",
+                  "reply": [
+                    { "them": "Sure. Black or with milk?", "themvi": "Được. Đen hay có sữa?", "you": "With milk, no sugar.", "youvi": "Có sữa, không đường." }
+                  ],
+                  "close": { "en": "I'll pay you back.", "vi": "Mình gửi lại tiền nhé." }
+                },
+                {
+                  "en": "Can you pass me that pen?",
+                  "vi": "Bạn đưa mình cái bút đó nhé?",
+                  "reply": [
+                    { "them": "Here you go.", "themvi": "Đây bạn.", "you": "Thanks.", "youvi": "Cảm ơn nhé." }
+                  ]
+                },
+                {
+                  "en": "Can we start at ten instead?",
+                  "vi": "Hay mình bắt đầu lúc mười giờ nhé?",
+                  "note": "Dùng <i>we</i> khi đổi kế hoạch chung — nghe như bàn bạc chứ không phải áp đặt.",
+                  "reply": [
+                    { "them": "Ten's better for me too.", "themvi": "Mười giờ mình cũng tiện hơn.", "you": "Perfect, I'll tell the others.", "youvi": "Tuyệt, mình báo mọi người." }
+                  ]
+                },
+                {
+                  "en": "Can you eat spicy food?",
+                  "vi": "Bạn ăn cay được không?",
+                  "note": "Đây là nghĩa <b>khả năng</b>, không phải nhờ vả. Nên hỏi trước khi dẫn ai đi ăn.",
+                  "reply": [
+                    { "them": "Not really, to be honest.", "themvi": "Thật ra là không lắm.", "you": "No problem, they do mild dishes.", "youvi": "Không sao, quán có món không cay." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Can you text me when you land?",
+                  "vi": "Hạ cánh bạn nhắn mình nhé?",
+                  "reply": [
+                    { "them": "Will do. It's a long flight.", "themvi": "Mình sẽ nhắn. Bay lâu lắm.", "you": "Get some sleep. Safe trip.", "youvi": "Ngủ chút đi. Đi đường bình an." }
+                  ]
+                },
+                {
+                  "en": "Can you wait here while I check in?",
+                  "vi": "Mình làm thủ tục, bạn chờ đây nhé?",
+                  "reply": [
+                    { "them": "Sure, take your time.", "themvi": "Được, bạn cứ thong thả.", "you": "Won't be long.", "youvi": "Không lâu đâu." }
+                  ]
+                },
+                {
+                  "en": "Can you hold this for a second?",
+                  "vi": "Bạn cầm giúp cái này một lát nhé?",
+                  "reply": [
+                    { "them": "Of course.", "themvi": "Tất nhiên rồi.", "you": "Thanks, I just need to find my ticket.", "youvi": "Cảm ơn, mình tìm cái vé chút." }
+                  ]
+                },
+                {
+                  "en": "Can you speak any Vietnamese?",
+                  "vi": "Bạn nói được chút tiếng Việt nào không?",
+                  "note": "<i>any</i> làm câu hỏi nhẹ đi — người kia trả lời “một chút” cũng không ngại.",
+                  "reply": [
+                    { "them": "Just a few words.", "themvi": "Vài từ thôi.", "you": "That's more than most people!", "youvi": "Vậy là hơn nhiều người rồi đấy!" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Can you check if you have this in stock?",
+                  "vi": "Bạn kiểm tra giúp xem còn hàng không?",
+                  "reply": [
+                    { "them": "Give me one moment.", "themvi": "Cho em một lát ạ.", "you": "No problem.", "youvi": "Không sao đâu." }
+                  ]
+                },
+                {
+                  "en": "Can you hold it for me until tomorrow?",
+                  "vi": "Bạn giữ giúp mình đến mai được không?",
+                  "reply": [
+                    { "them": "We can hold it for 24 hours.", "themvi": "Bên em giữ được 24 tiếng ạ.", "you": "That works, thanks.", "youvi": "Vậy được, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "Can you tell me what the difference is?",
+                  "vi": "Bạn nói giúp mình hai cái khác nhau thế nào?",
+                  "note": "Chú ý thứ tự câu hỏi gián tiếp: <i>what the difference IS</i>, không đảo ngữ.",
+                  "reply": [
+                    { "them": "This one has a longer battery life.", "themvi": "Cái này pin trâu hơn ạ.", "you": "And the price difference?", "youvi": "Còn chênh giá bao nhiêu?" }
+                  ]
+                },
+                {
+                  "en": "Can you sort this out today?",
+                  "vi": "Hôm nay bạn xử lý được việc này không?",
+                  "note": "<span class=\"k\">sort out</span> = xử lý, giải quyết. Thân mật hơn <i>resolve</i>.",
+                  "open": { "en": "This has been going on for a week.", "vi": "Chuyện này kéo dài cả tuần rồi." },
+                  "reply": [
+                    { "them": "I'll do my best.", "themvi": "Em sẽ cố hết sức ạ.", "you": "Can you let me know either way?", "youvi": "Được hay không bạn cũng báo mình nhé?" }
+                  ],
+                  "close": { "en": "Thanks for chasing it up.", "vi": "Cảm ơn bạn đã theo giúp." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Ba phút đầu của một cuộc họp trực tuyến",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Hi everyone. Can you hear me OK?", "vi": "Chào cả nhà. Mọi người nghe mình rõ không?" },
+            { "speaker": "Minh", "en": "Yes, loud and clear.", "vi": "Có, rõ mồn một." },
+            { "speaker": "You", "me": true, "en": "Great. Can you see my screen?", "vi": "Tuyệt. Mọi người thấy màn hình của mình không?" },
+            { "speaker": "Lan", "en": "Not yet — still showing the old slide.", "vi": "Chưa — vẫn hiện slide cũ." },
+            { "speaker": "You", "me": true, "en": "Sorry. Can you give me a second? … How about now?", "vi": "Xin lỗi. Cho mình một giây nhé? … Giờ thì sao?" },
+            { "speaker": "Lan", "en": "Perfect, we can see it.", "vi": "Hoàn hảo, thấy rồi." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Nhờ đồng nghiệp trực thay",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "I hate to ask, but can you cover for me this afternoon?", "vi": "Ngại quá khi phải nhờ, nhưng chiều nay bạn làm thay mình được không?" },
+            { "speaker": "Tuan", "en": "Depends. What time?", "vi": "Còn tùy. Mấy giờ?" },
+            { "speaker": "You", "me": true, "en": "Two till five. Can you manage that?", "vi": "Từ hai đến năm giờ. Bạn xoay được không?" },
+            { "speaker": "Tuan", "en": "Sure. What do I need to know?", "vi": "Được. Mình cần biết gì?" },
+            { "speaker": "You", "me": true, "en": "Just answer the phone. Can you text me if anything urgent comes up?", "vi": "Chỉ cần nghe điện thoại thôi. Có gì gấp bạn nhắn mình nhé?" },
+            { "speaker": "Tuan", "en": "Will do. Go, don't worry about it.", "vi": "Mình sẽ nhắn. Đi đi, đừng lo." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Can you to help me?", "right": "Can you help me?", "why": "Sau <b>Can you</b> là động từ nguyên thể <b>không “to”</b>." },
+            { "wrong": "Can you helping me?", "right": "Can you help me?", "why": "Không dùng V-ing sau <i>can</i>. Luôn là động từ trần." },
+            { "wrong": "Can you send me the report? <i>(gửi khách hàng)</i>", "right": "Could you send me the report, please?", "why": "Đúng ngữ pháp nhưng sai bối cảnh — với khách hàng hãy dùng [Khung 11]." },
+            { "wrong": "Can't you help me? <i>(khi chỉ muốn nhờ)</i>", "right": "Can you help me?", "why": "<b>Can't you…?</b> mang giọng trách móc. Muốn nhờ bình thường thì bỏ <i>n't</i>." },
+            { "wrong": "Can you tell me what is the difference?", "right": "Can you tell me what the difference is?", "why": "Câu hỏi gián tiếp <b>không đảo ngữ</b>." },
+            { "wrong": "Can I help me with this? <i>(ý: bạn giúp tôi)</i>", "right": "Can you help me with this?", "why": "<b>Can I</b> là xin phép cho mình; <b>Can you</b> là nhờ người khác. Xem [Khung 21]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>Can you…?</code>", "Thân mật, thẳng — việc nhỏ", "<i>Can you pass me that?</i>"],
+            ["<code>Could you…?</code>", "Lịch sự chuẩn mực — an toàn mọi nơi", "<i>Could you pass me that, please?</i> — Xem [Khung 11]."],
+            ["<code>Can I…?</code>", "Xin phép cho MÌNH làm", "<i>Can I sit here?</i> — Xem [Khung 21]."],
+            ["<code>Can't you…?</code>", "Sốt ruột, trách móc", "<i>Can't you just fix it?</i> — Cẩn thận khi dùng."],
+            ["<code>Will you…?</code>", "Hỏi sự sẵn lòng, có thể nghe ra lệnh", "<i>Will you close the door?</i>"],
+            ["<code>Do you mind + V-ing?</code>", "Rất nhã — hỏi có phiền không", "<i>Do you mind closing the door?</i> — Xem [Khung 13]."],
+            ["<code>Are you able to…?</code>", "Trang trọng, thiên về khả năng", "<i>Are you able to attend?</i> — Hay gặp trong email."]
+          ]
+        },
+        { "t": "h3", "text": "Thang độ lịch sự — cùng một lời nhờ" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Pass me that.", "vi": "Ra lệnh — chỉ với người rất thân" },
+            { "en": "Can you pass me that?", "vi": "Thân mật — bạn bè, đồng nghiệp" },
+            { "en": "Could you pass me that, please?", "vi": "Chuẩn mực — dùng mọi nơi" },
+            { "en": "Would you mind passing me that?", "vi": "Rất nhã — người lạ" },
+            { "en": "Sorry, would you mind passing me that?", "vi": "Nhã nhất — khi cắt ngang" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>can</b> trong câu hỏi thường được giảm thành /kən/ — rất nhẹ, gần như “kơn”. Chỉ nhấn khi bạn muốn nhấn mạnh khả năng.",
+            "<b>Can you</b> nói nhanh dính thành <b>“kə-njə”</b>: <i>Can you help?</i> → “kə-njə-HELP”.",
+            "<b>can't</b> = /kɑːnt/ (Anh-Anh) hoặc /kænt/ (Anh-Mỹ) — luôn được <b>nhấn mạnh</b>. Đây là cách phân biệt <i>can</i> với <i>can't</i> khi nghe: nghe thấy nhấn là phủ định.",
+            "<b>Can I</b> → “kə-nai”, khác hẳn <b>Can you</b> → “kə-njə”. Nghe kỹ chỗ này để không nhầm vai.",
+            "<b>Can you just</b> → “kə-njə-JUS”, âm /t/ cuối <i>just</i> gần như biến mất.",
+            "Câu nhờ vả phải <b>lên giọng ở cuối</b>; câu hỏi khả năng cũng vậy."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Can you hear me OK?", "vi": "Luyện shadowing: nghe — nhại lại — lặp 5 lần cho trôi cụm “Can you”." },
+            { "en": "Sorry, I can't — I'm in a meeting until four.", "vi": "Chú ý nhấn mạnh vào “can't” — đó là dấu hiệu phủ định khi nghe." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Bạn nghe mình rõ không?", "blank": "__________ me OK?", "a": "Can you hear" },
+            { "vi": "Thứ Sáu bạn đến được không?", "blank": "__________ on Friday?", "a": "Can you make it" },
+            { "vi": "Bạn giúp mình một việc, kiểm tra địa chỉ nhé?", "blank": "__________ and check the address?", "a": "Can you do me a favour" },
+            { "vi": "Chiều nay bạn làm thay mình được không?", "blank": "__________ for me this afternoon?", "a": "Can you cover" },
+            { "vi": "Bạn nói giúp mình hai cái khác nhau thế nào?", "blank": "Can you tell me __________?", "a": "what the difference is (không đảo ngữ)" },
+            { "vi": "Bạn đừng đóng sầm cửa được không?", "blank": "__________ slam the door, please?", "a": "Can you not" },
+            { "vi": "Được hay không bạn cũng báo mình nhé?", "blank": "__________ either way?", "a": "Can you let me know" },
+            { "vi": "Xin lỗi, mình không được — mình đang họp.", "blank": "__________ — I'm in a meeting.", "a": "Sorry, I can't" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Bạn gửi mình cái đường dẫn đó nhé?", "a": "Can you send me that link?" },
+            { "vi": "2. Bảy giờ bạn đón mình nhé?", "a": "Can you pick me up at seven?" },
+            { "vi": "3. Ra ngoài bạn lấy giúp mình ly cà phê nhé?", "a": "Can you grab me a coffee while you're out?" },
+            { "vi": "4. Hạ cánh bạn nhắn mình nhé?", "a": "Can you text me when you land?" },
+            { "vi": "5. Bạn nói được chút tiếng Nhật nào không?", "a": "Can you speak any Japanese?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Quy tắc chọn trong một giây:</b> người ngang hàng + việc nhỏ → <i>Can you</i>. Người trên, người lạ, hoặc việc lớn → <i>Could you</i> ở [Khung 11].",
+            "<b>Thuộc bộ đôi họp online:</b> <i>Can you hear me?</i> và <i>Can you see my screen?</i> — hai câu này bạn sẽ dùng mỗi tuần.",
+            "<b>Tránh “Can't you…?”:</b> trừ khi bạn thật sự muốn tỏ ra sốt ruột. Nó nghe trách móc hơn bạn tưởng nhiều.",
+            "<b>Nghe phân biệt can / can't:</b> <i>can</i> đọc nhẹ, <i>can't</i> luôn được nhấn. Đây là mẹo nghe quan trọng nhất của khung này.",
+            "<b>Dùng “do me a favour” để mở lời:</b> nó cho người kia một giây chuẩn bị trước khi bạn nhờ.",
+            "<b>Bài tập 3 phút:</b> viết 5 việc bạn hay nhờ đồng nghiệp bằng <i>Can you…?</i>, rồi viết lại 5 câu đó cho sếp bằng <i>Could you…, please?</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

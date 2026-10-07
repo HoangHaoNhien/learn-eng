@@ -1,0 +1,277 @@
+{
+  "id": 11,
+  "group": "Nhóm 5 · Tương lai",
+  "title": "be going to — kế hoạch đã quyết",
+  "subtitle": "Cấu trúc tương lai dùng nhiều nhất trong hội thoại thật, nhưng người Việt lại ít dùng vì quen với will. Bẫy hình thức nằm ở chữ to: ở đây nó là dấu hiệu nguyên thể nên theo sau là động từ trần — ngược hẳn với look forward to.",
+  "meaning": "Kế hoạch đã quyết từ trước · dự đoán có bằng chứng trước mắt",
+  "rule": [
+    "S + <em>am/is/are going to</em> + V trần",
+    "S + <em>am/is/are not going to</em> + V trần",
+    "S + <em>was/were going to</em> + V trần <em>(dự định hụt)</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2", "hot": true },
+    { "text": "Sau going to là động từ TRẦN" },
+    { "text": "Nói nhanh: gonna" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [86, 87, 91, 92, 97],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I'm going to look for a new job.</span> Câu này nói về việc bạn <b>đã quyết định từ trước</b> — kế hoạch đã nằm sẵn trong đầu trước khi cuộc trò chuyện bắt đầu. Đó là điểm phân biệt với <i>will</i>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — chữ <i>to</i> ở đây là NGUYÊN THỂ:</b> theo sau nó là <b>động từ trần</b>.<br>• <i>I'm going to <b>call</b> him</i> ✓ — <i>I'm going to calling</i> ✗<br>Đừng lẫn với <i>looking forward <b>to calling</b></i> ✓ ở [Khung 86] — ở đó <i>to</i> là GIỚI TỪ nên mới có V-ing." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — khi theo sau là nơi chốn:</b> <i>I'm going <b>to the shop</b></i> ✓ (chuyển động thật, <i>shop</i> là danh từ) nhưng <i>I'm going <b>home</b></i> ✓ — <i>home</i> là TRẠNG TỪ nên không có <i>to</i>. <i>going to home</i> ✗." },
+        { "t": "h3", "text": "Hai nhánh của be going to" },
+        {
+          "t": "table",
+          "head": ["Nhánh", "Ý nghĩa", "Ví dụ"],
+          "rows": [
+            ["Kế hoạch đã quyết", "Đã tính trước khi nói", "I'm going to look for a job."],
+            ["Dự đoán CÓ bằng chứng", "Nhìn thấy dấu hiệu trước mắt", "Look at those clouds — it's going to rain."],
+            ["Dự định HỤT (quá khứ)", "Đã định nhưng không làm", "I was going to call, but I fell asleep."],
+            ["Chuyển động thật", "<code>going to + nơi chốn</code>", "I'm going to the shop."]
+          ]
+        },
+        { "t": "p", "html": "Khi nói nhanh, <i>going to</i> biến thành <b>gonna</b> /ˈɡənə/ — nghe ở mọi nơi, nhưng <b>không viết</b> trong email hay văn bản trang trọng. Và chỉ rút gọn khi theo sau là ĐỘNG TỪ: <i>I'm going to the shop</i> không bao giờ thành <i>gonna the shop</i> ✗." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Khẳng định — I", "<code>I am going to + V trần</code>", "I'm going to call him."],
+            ["Khẳng định — he/she/it", "<code>S is going to + V trần</code>", "He's going to call."],
+            ["Khẳng định — you/we/they", "<code>S are going to + V trần</code>", "They're going to call."],
+            ["Phủ định", "<code>S + am/is/are not going to + V</code>", "I'm not going to wait."],
+            ["Câu hỏi", "<code>Am/Is/Are + S + going to + V?</code>", "Are you going to come?"],
+            ["Câu hỏi có từ để hỏi", "<code>What + are + S + going to + V?</code>", "What are you going to do?"],
+            ["Dự đoán có bằng chứng", "<code>It's going to + V</code>", "It's going to rain."],
+            ["Dự định hụt (quá khứ)", "<code>was/were going to + V</code>", "I was going to call, but…"],
+            ["Nói nhanh", "<code>gonna</code>", "I'm gonna grab a coffee."],
+            ["Chuyển động thật", "<code>going to + nơi chốn</code>", "I'm going to the station."],
+            ["Với <code>home</code> — không có <code>to</code>", "<code>going home</code>", "I'm going home now."],
+            ["Bất đắc dĩ phải làm", "<code>going to have to + V</code>", "I'm going to have to leave early."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dòng áp chót rất hữu ích:</b> <b>I'm going to have to…</b> nghe mềm hơn <i>I must</i> nhiều khi báo một điều bất đắc dĩ — <i>I'm going to have to leave early</i> = chắc tôi phải về sớm." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm going to look for a new job.", "vi": "Tôi định tìm việc mới.", "note": "Kế hoạch ĐÃ quyết từ trước. Xem [Khung 91]." },
+            { "en": "I'm going to call him tonight.", "vi": "Tối nay tôi định gọi cho anh ấy.", "note": "BẪY SỐ MỘT: <b>call</b> dạng trần, không phải <i>calling</i>." },
+            { "en": "Look at those clouds — it's going to rain.", "vi": "Nhìn mây kia kìa — trời sắp mưa.", "note": "Dự đoán có BẰNG CHỨNG trước mắt. Đoán mò thì dùng <i>I think it'll rain</i>." },
+            { "en": "I'm not going to wait any longer.", "vi": "Tôi không định chờ thêm nữa.", "note": "Phủ định: chữ <i>not</i> đứng sau <i>am/is/are</i>." },
+            { "en": "What are you going to do about it?", "vi": "Bạn định xử lý chuyện đó thế nào?", "note": "Câu hỏi có từ để hỏi — trật tự <i>What are you going to…?</i>" },
+            { "en": "I was going to call, but I fell asleep.", "vi": "Tôi đã định gọi nhưng lại ngủ mất.", "note": "Dạng QUÁ KHỨ = dự định KHÔNG thành. Mẫu giải thích rất tự nhiên." },
+            { "en": "I'm going to have to leave early.", "vi": "Chắc tôi phải về sớm.", "note": "Nghe mềm hơn <i>I must leave early</i> nhiều." },
+            { "en": "We're going to need more time.", "vi": "Chúng ta sẽ cần thêm thời gian." },
+            { "en": "I'm gonna grab a coffee — want one?", "vi": "Tôi đi làm ly cà phê — bạn uống không?", "note": "<b>gonna</b> rất tự nhiên khi nói, nhưng KHÔNG viết trong email." },
+            { "en": "I'm going to the station — want a lift?", "vi": "Tôi đi ra ga — đi nhờ không?", "note": "Đây là CHUYỂN ĐỘNG thật: <i>going to + nơi chốn</i>, không phải kế hoạch." },
+            { "en": "I'm going home now.", "vi": "Tôi về nhà đây.", "note": "BẪY SỐ HAI: <i>home</i> là TRẠNG TỪ nên không có <i>to</i>." },
+            { "en": "OK, I'll do it.", "vi": "Được rồi, để tôi làm.", "note": "Quyết định NGAY lúc nói thì dùng <i>will</i>, không dùng <i>going to</i>. Xem [Ngữ pháp 10]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "📝", "title": "Nói ra kế hoạch", "text": "<i>I'm going to look for a new job.</i> Đã tính từ trước." },
+            { "icon": "☁️", "title": "Dự đoán có bằng chứng", "text": "<i>It's going to rain.</i> Vì bạn đang nhìn thấy mây đen." },
+            { "icon": "🎯", "title": "Tuyên bố quyết tâm", "text": "<i>I'm going to finish it tonight.</i>" },
+            { "icon": "🙇", "title": "Báo việc bất đắc dĩ", "text": "<i>I'm going to have to leave early.</i> Mềm hơn <i>I must</i>." },
+            { "icon": "😅", "title": "Giải thích dự định hụt", "text": "<i>I was going to call, but…</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Vừa quyết định ngay lúc nói. Lúc đó là <i>I'll…</i> — xem [Ngữ pháp 10]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các dạng của be going to",
+              "items": [
+                { "w": "I'm going to", "vi": "tôi định, tôi sẽ", "ex": "I'm going to call him tonight.", "exvi": "Tối nay tôi định gọi anh ấy.", "note": "Sau <i>going to</i> là ĐỘNG TỪ TRẦN. <i>going to calling</i> ✗." },
+                { "w": "I'm not going to", "vi": "tôi không định", "ex": "I'm not going to wait.", "exvi": "Tôi không định chờ.", "note": "Chữ <i>not</i> đứng sau <i>am/is/are</i>." },
+                { "w": "Are you going to…?", "vi": "bạn có định… không?", "ex": "Are you going to come?", "exvi": "Bạn có định đến không?" },
+                { "w": "What are you going to do?", "vi": "bạn định làm gì?", "ex": "What are you going to do about it?", "exvi": "Bạn định xử lý chuyện đó thế nào?" },
+                { "w": "I was going to", "vi": "tôi đã định", "ex": "I was going to call, but I fell asleep.", "exvi": "Tôi đã định gọi nhưng lại ngủ mất.", "note": "Dự định KHÔNG thành — cách giải thích rất tự nhiên." },
+                { "w": "It's going to rain", "vi": "trời sắp mưa", "ex": "Look at those clouds — it's going to rain.", "exvi": "Nhìn mây kia kìa — trời sắp mưa.", "note": "Dự đoán có BẰNG CHỨNG trước mắt." },
+                { "w": "I'm going to have to", "vi": "chắc tôi phải", "ex": "I'm going to have to leave early.", "exvi": "Chắc tôi phải về sớm.", "note": "Mềm hơn <i>I must</i> nhiều khi báo việc bất đắc dĩ." },
+                { "w": "We're going to need", "vi": "chúng ta sẽ cần", "ex": "We're going to need more time.", "exvi": "Chúng ta sẽ cần thêm thời gian." },
+                { "w": "gonna", "vi": "dạng nói nhanh", "ex": "I'm gonna grab a coffee.", "exvi": "Tôi đi làm ly cà phê.", "note": "Nghe ở mọi nơi nhưng KHÔNG viết trong email hay văn bản trang trọng." },
+                { "w": "I'm going to the shop", "vi": "tôi đi ra cửa hàng", "ex": "I'm going to the shop.", "exvi": "Tôi đi ra cửa hàng.", "note": "CHUYỂN ĐỘNG thật — theo sau là danh từ, không phải động từ." },
+                { "w": "I'm going home", "vi": "tôi về nhà", "ex": "I'm going home now.", "exvi": "Tôi về nhà đây.", "note": "BẪY SỐ HAI: <i>home</i> là TRẠNG TỪ nên KHÔNG có <i>to</i>." },
+                { "w": "I'm going to try", "vi": "tôi sẽ thử", "ex": "I'm going to try again.", "exvi": "Tôi sẽ thử lại." }
+              ]
+            },
+            {
+              "title": "Trạng từ đi kèm & cách nói tương lai khác",
+              "items": [
+                { "w": "definitely", "vi": "chắc chắn", "ex": "I'm definitely going to go.", "exvi": "Tôi chắc chắn sẽ đi.", "note": "Trạng từ đặt TRƯỚC <i>going to</i>." },
+                { "w": "probably", "vi": "chắc là", "ex": "I'm probably going to stay in.", "exvi": "Chắc là tôi sẽ ở nhà." },
+                { "w": "eventually", "vi": "rồi sẽ, cuối cùng thì", "ex": "I'm going to do it eventually.", "exvi": "Rồi tôi cũng sẽ làm thôi.", "note": "KHÔNG phải “có thể” — nghĩa là cuối cùng rồi cũng." },
+                { "w": "sooner or later", "vi": "sớm muộn gì", "ex": "Sooner or later I'm going to have to tell her.", "exvi": "Sớm muộn gì tôi cũng phải nói với cô ấy." },
+                { "w": "will + V", "vi": "sẽ (quyết ngay)", "ex": "OK, I'll do it.", "exvi": "Được rồi, để tôi làm.", "note": "Quyết định NGAY lúc nói. Xem [Ngữ pháp 10]." },
+                { "w": "am/is/are + V-ing", "vi": "lịch đã chốt", "ex": "I'm meeting him at six.", "exvi": "Sáu giờ tôi có hẹn gặp anh ấy.", "note": "Chắc chắn hơn <i>going to</i> — có giờ, có người. Xem [Khung 92]." },
+                { "w": "be about to + V", "vi": "sắp sửa", "ex": "I'm about to leave.", "exvi": "Tôi sắp đi rồi.", "note": "Trong vài phút — gấp hơn <i>going to</i> nhiều." },
+                { "w": "I'm planning to", "vi": "tôi đang tính", "ex": "I'm planning to move next year.", "exvi": "Tôi đang tính chuyển đi năm sau.", "note": "Mềm hơn <i>going to</i> — kế hoạch chưa chắc lắm." },
+                { "w": "I'm thinking of + V-ing", "vi": "tôi đang nghĩ đến việc", "ex": "I'm thinking of moving.", "exvi": "Tôi đang nghĩ đến chuyện chuyển đi.", "note": "Sau <i>thinking of</i> là <b>V-ing</b>, không phải động từ trần." },
+                { "w": "I intend to", "vi": "tôi có ý định", "ex": "I intend to finish by Friday.", "exvi": "Tôi có ý định xong trước thứ Sáu.", "note": "Trang trọng — hợp email công việc." },
+                { "w": "looking forward to + V-ing", "vi": "mong chờ", "ex": "I'm looking forward to seeing you.", "exvi": "Tôi mong được gặp bạn.", "note": "ĐỐI LẬP: ở đây <i>to</i> là GIỚI TỪ nên có V-ing. Xem [Khung 86]." },
+                { "w": "If…, I'll + V", "vi": "nếu…, tôi sẽ…", "ex": "If it rains, I'll take a taxi.", "exvi": "Nếu mưa tôi sẽ đi taxi.", "note": "Vế <i>if</i> không có <i>will</i> lẫn <i>going to</i>. Xem [Khung 97]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'm going to <b>calling</b> him.", "right": "I'm going to <b>call</b> him.", "why": "BẪY SỐ MỘT: chữ <i>to</i> ở đây là NGUYÊN THỂ nên theo sau là động từ trần. Khác hẳn <i>looking forward to calling</i> ở [Khung 86]." },
+            { "wrong": "I'm going <b>to home</b>.", "right": "I'm going <b>home</b>.", "why": "BẪY SỐ HAI: <i>home</i> là TRẠNG TỪ chỉ nơi chốn nên không cần <i>to</i>. Nhưng <i>going <b>to</b> the shop</i> ✓ vì <i>shop</i> là danh từ." },
+            { "wrong": "<b>I going to</b> call him.", "right": "<b>I'm going to</b> call him.", "why": "Thiếu động từ <b>be</b>. Cấu trúc đầy đủ là <i>am/is/are + going to</i>." },
+            { "wrong": "He <b>is going to goes</b> tomorrow.", "right": "He <b>is going to go</b> tomorrow.", "why": "Chỉ <i>is</i> chia theo ngôi, còn động từ sau <i>going to</i> luôn ở dạng trần." },
+            { "wrong": "I <b>was going to called</b> you.", "right": "I <b>was going to call</b> you.", "why": "Dù ở quá khứ, sau <i>going to</i> vẫn là động từ TRẦN. Chỉ chia thì ở <i>was</i>." },
+            { "wrong": "I <b>will</b> visit my parents next week. <i>(đã lên kế hoạch)</i>", "right": "I'<b>m going to</b> visit my parents next week.", "why": "Kế hoạch ĐÃ quyết từ trước thì dùng <b>going to</b>. Dùng <i>will</i> nghe cứng. Xem [Ngữ pháp 10]." },
+            { "wrong": "A: Can you help? B: <b>I'm going to</b> do it.", "right": "B: <b>I'll</b> do it.", "why": "Quyết định NGAY lúc nói thì dùng <b>will</b>. <i>going to</i> nghe như bạn đã tính từ trước, rất lạ." },
+            { "wrong": "I think it'<b>s going to</b> rain tomorrow. <i>(chỉ đoán mò)</i>", "right": "I think it'<b>ll</b> rain tomorrow.", "why": "Không có bằng chứng trước mắt thì dùng <i>will</i>. <i>going to</i> dành cho lúc bạn NHÌN THẤY dấu hiệu." },
+            { "wrong": "If it'<b>s going to</b> rain, I'll take a taxi.", "right": "If it <b>rains</b>, I'll take a taxi.", "why": "Vế <i>if</i> dùng hiện tại đơn — không chứa <i>will</i> lẫn <i>going to</i>. Xem [Khung 97]." },
+            { "wrong": "I'm <b>gonna</b> send you the report. <i>(trong email)</i>", "right": "I'm <b>going to</b> send you the report.", "why": "<b>gonna</b> chỉ dùng khi NÓI. Viết ra trong email hay văn bản công việc là không phù hợp." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Dùng khi", "Ví dụ"],
+          "rows": [
+            ["<code>be going to + V</code>", "Kế hoạch đã quyết từ trước", "I'm going to look for a job."],
+            ["<code>be going to + V</code>", "Dự đoán CÓ bằng chứng", "It's going to rain."],
+            ["<code>will + V</code>", "Quyết định ngay lúc nói. Xem [Ngữ pháp 10]", "OK, I'll do it."],
+            ["<code>I think … will</code>", "Dự đoán theo cảm nhận", "I think it'll rain."],
+            ["<code>am/is/are + V-ing</code>", "Lịch đã chốt. Xem [Khung 92]", "I'm meeting him at six."],
+            ["<code>be about to + V</code>", "Sắp xảy ra trong vài phút", "I'm about to leave."],
+            ["<code>was going to + V</code>", "Dự định đã KHÔNG thành", "I was going to call, but…"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: going to hay cách khác?" },
+        {
+          "t": "tree",
+          "q": "Bạn đã quyết chuyện này từ bao giờ, và có nhìn thấy dấu hiệu gì không?",
+          "nodes": [
+            { "if": "Đã tính từ trước khi cuộc nói chuyện bắt đầu", "then": "be going to", "ex": "I'm going to look for a job." },
+            { "if": "Vừa nảy ra trong đầu lúc đang nói", "then": "will", "ex": "OK, I'll do it." },
+            { "if": "Nhìn thấy dấu hiệu rõ trước mắt", "then": "be going to", "ex": "It's going to rain." },
+            { "if": "Chỉ đoán theo cảm nhận, không có bằng chứng", "then": "I think … will", "ex": "I think it'll rain." },
+            { "if": "Đã hẹn với người khác, có giờ cụ thể", "then": "Hiện tại tiếp diễn", "ex": "I'm meeting him at six." },
+            { "if": "Theo sau là nơi chốn, không phải động từ", "then": "going to + danh từ (nhưng going home)", "ex": "I'm going to the shop." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ chắc chắn của kế hoạch" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'm thinking of going.", "vi": "Mơ hồ nhất — mới chỉ nghĩ" },
+            { "en": "I'm planning to go.", "vi": "Đã tính nhưng chưa chắc" },
+            { "en": "I'm going to go.", "vi": "Đã quyết trong đầu" },
+            { "en": "I'm going at six.", "vi": "Đã chốt giờ giấc" },
+            { "en": "I'm about to go.", "vi": "Sắp đi ngay bây giờ" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "<i>be going to</i> xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 91, "why": "I'm going to + V — khung chính, có bảng đối chiếu đầy đủ với will và mẫu I was going to…, but…" },
+            { "id": 86, "why": "I'm looking forward to… — đối lập quan trọng nhất: to giới từ kéo theo V-ing, to nguyên thể kéo theo động từ trần." },
+            { "id": 92, "why": "I'm + V-ing — cách nói tương lai chắc chắn hơn going to." },
+            { "id": 97, "why": "If + hiện tại, I'll + V — vế if không chứa will lẫn going to." },
+            { "id": 87, "why": "I'm worried… — mẫu What if…? và cách nêu dự định phòng hờ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ hoặc điền từ" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tối nay tôi định gọi cho anh ấy.", "blank": "I'm going to __________ (call) him tonight.", "a": "call — động từ trần" },
+            { "vi": "Tôi về nhà đây.", "blank": "I'm going __________ now.", "a": "home — không có to" },
+            { "vi": "Tôi đã định gọi cho bạn.", "blank": "I __________ going to call you.", "a": "was" },
+            { "vi": "Bạn có định đến không?", "blank": "__________ you going to come?", "a": "Are" },
+            { "vi": "Tôi không định chờ thêm nữa.", "blank": "I'm __________ going to wait any longer.", "a": "not" },
+            { "vi": "Chắc tôi phải về sớm.", "blank": "I'm going to __________ to leave early.", "a": "have" },
+            { "vi": "Anh ấy định đi vào ngày mai.", "blank": "He __________ going to go tomorrow.", "a": "is" },
+            { "vi": "Tôi chắc chắn sẽ đi.", "blank": "I'm __________ going to go.", "a": "definitely" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi mong được gặp bạn.", "blank": "I'm looking forward to __________ you.  (see / seeing)", "a": "seeing — to ở đây là giới từ" },
+            { "vi": "Tôi định gặp anh ấy.", "blank": "I'm going to __________ him.  (meet / meeting)", "a": "meet — to ở đây là nguyên thể" },
+            { "vi": "Nhìn mây kia kìa — trời sắp mưa.", "blank": "Look at those clouds — it __________.  (will rain / is going to rain)", "a": "is going to rain — có bằng chứng" },
+            { "vi": "Nếu trời mưa, tôi sẽ đi taxi.", "blank": "If it __________, I'll take a taxi.  (rains / is going to rain)", "a": "rains" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi định tìm việc mới.", "a": "I'm going to look for a new job." },
+            { "vi": "2. Tôi đã định gọi nhưng lại ngủ mất.", "a": "I was going to call, but I fell asleep." },
+            { "vi": "3. Nhìn mây kia kìa — trời sắp mưa.", "a": "Look at those clouds — it's going to rain." },
+            { "vi": "4. Chắc tôi phải về sớm.", "a": "I'm going to have to leave early." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Hỏi một câu trước khi nói:</b> “Mình đã quyết chuyện này từ trước chưa?” Rồi thì <i>going to</i>, vừa nghĩ ra thì <i>I'll</i>.",
+            "<b>Cặp <i>to</i> phải thuộc:</b> <i>going <b>to call</b></i> (nguyên thể) vs <i>looking forward <b>to calling</b></i> (giới từ). Xem [Khung 86].",
+            "<b>Có bằng chứng trước mắt thì dùng <i>going to</i>:</b> thấy mây đen mới nói <i>It's going to rain</i>.",
+            "<b><i>home</i> không cần <i>to</i>:</b> <i>going home</i> ✓ nhưng <i>going to the shop</i> ✓. Khác nhau vì <i>home</i> là trạng từ.",
+            "<b>Học thuộc <i>I was going to…, but…</i></b> — cách giải thích dự định không thành, dùng được hàng ngày.",
+            "<b>Nói <i>gonna</i> thoải mái, nhưng đừng viết nó</b> trong email hay văn bản công việc."
+          ]
+        }
+      ]
+    }
+  ]
+}

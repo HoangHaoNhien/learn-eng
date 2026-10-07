@@ -1,0 +1,277 @@
+{
+  "id": 11,
+  "group": "Nhóm 2 · Nghe — vì sao nghe không ra",
+  "title": "Nghe số, ngày và đánh vần",
+  "subtitle": "13 và 30 chỉ khác nhau ở chỗ nhấn: thirTEEN nhấn sau, THIRty nhấn trước. Nghe nhầm một chữ là đặt nhầm giờ hẹn, chuyển nhầm tiền, ghi nhầm địa chỉ — sai ở đây tốn kém hơn mọi lỗi phát âm khác.",
+  "meaning": "Nghe chính xác con số, ngày tháng và chữ cái",
+  "rule": [
+    "<em>-teen</em> nhấn <em>SAU</em> + có <em>/n/</em> cuối · <em>-ty</em> nhấn <em>TRƯỚC</em>",
+    "Số điện thoại đọc <em>từng chữ số</em>, không đọc thành số lớn",
+    "Chữ cái dễ lẫn thì dùng <em>“A for Apple”</em>"
+  ],
+  "tags": [
+    { "text": "Mức độ: dùng hằng ngày", "hot": true },
+    { "text": "15 ≠ 50" },
+    { "text": "Sai là sai cả cuộc hẹn" },
+    { "text": "Ảnh hưởng: lớn" }
+  ],
+  "frames": [61, 64, 65, 71, 99],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Số và chữ cái là chỗ <b>sai một ly đi một dặm</b>. Người nghe không đoán được từ ngữ cảnh như với từ thường — nghe nhầm <i>fifteen</i> thành <i>fifty</i> thì không có gì cứu được." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — <i>-teen</i> và <i>-ty</i>:</b><br>• <b>thir<u>TEEN</u></b> /ˌθɜːˈtiːn/ — nhấn <b>âm tiết SAU</b>, nguyên âm <b>dài</b>, có <b>/n/</b> ở cuối<br>• <b><u>THIR</u>ty</b> /ˈθɜːti/ — nhấn <b>âm tiết TRƯỚC</b>, kết thúc bằng <b>/i/</b> ngắn, <b>không có /n/</b><br>Người Việt hay nghe mỗi phần đầu (giống nhau ở cả hai) rồi đoán bừa.<br><b>Hai dấu hiệu để bắt:</b> ① nhịp — nặng ở đâu; ② có nghe thấy <b>/n/</b> ở cuối không. Có /n/ là <i>-teen</i>." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — đọc số điện thoại như số đếm:</b><br>Số điện thoại, số phòng, mã đơn hàng đọc <b>từng chữ số một</b>:<br><i>0912 345 678</i> → “oh nine one two, three four five, six seven eight”<br>• Số <b>0</b> đọc là <b>“oh”</b> (Anh) hoặc <b>“zero”</b> — không phải “không”<br>• Hai chữ số giống nhau liền nhau đọc <b>“double”</b>: <i>77</i> → “double seven”<br>Đọc thành <i>“nine hundred and twelve”</i> là người nghe ghi sai ngay." },
+        { "t": "h3", "text": "Bốn chỗ hay nghe nhầm" },
+        {
+          "t": "table",
+          "head": ["Chỗ", "Nhầm gì", "Cách bắt"],
+          "rows": [
+            ["<code>-teen</code> / <code>-ty</code>", "13 ↔ 30 · 15 ↔ 50", "Nghe nhịp và /n/ cuối"],
+            ["Chữ cái", "B ↔ V ↔ P · M ↔ N · S ↔ F", "Dùng “B for Boy”"],
+            ["Ngày tháng", "3/4 là 3 tháng 4 hay 4 tháng 3?", "Anh: ngày trước · Mỹ: tháng trước"],
+            ["Số điện thoại", "Đọc thành số lớn", "Đọc từng chữ số, dùng “double”"]
+          ]
+        },
+        { "t": "p", "html": "Hàng ba không phải lỗi phát âm mà là <b>khác biệt quy ước</b>: <i>3/4</i> ở Anh là <b>3 tháng 4</b>, ở Mỹ là <b>4 tháng 3</b>. Khi quan trọng thì luôn đọc rõ tên tháng." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp / loại", "Nghe thế nào", "Mẹo"],
+          "rows": [
+            ["13 / 30", "thir<b>TEEN</b> / <b>THIR</b>ty", "Có /n/ cuối là 13"],
+            ["14 / 40", "four<b>TEEN</b> / <b>FOR</b>ty", "<i>forty</i> không có chữ <i>u</i>"],
+            ["15 / 50", "fif<b>TEEN</b> / <b>FIF</b>ty", "Cặp nhầm nhiều nhất"],
+            ["16 / 60", "six<b>TEEN</b> / <b>SIX</b>ty", "Nghe nhịp"],
+            ["17 / 70", "seven<b>TEEN</b> / <b>SEV</b>enty", "70 có ba âm tiết"],
+            ["18 / 80", "eigh<b>TEEN</b> / <b>EIGH</b>ty", "Nghe /n/ cuối"],
+            ["19 / 90", "nine<b>TEEN</b> / <b>NINE</b>ty", "Nghe /n/ cuối"],
+            ["Số 0", "“oh” hoặc “zero”", "Trong số ĐT luôn là “oh”"],
+            ["Hai số giống nhau", "“double seven”", "Không đọc “seven seven”"],
+            ["Ngày (Anh)", "the 3rd of April — 3/4", "Ngày trước, tháng sau"],
+            ["Ngày (Mỹ)", "April 3rd — 4/3", "Tháng trước, ngày sau"],
+            ["Năm", "1990 → “nineteen ninety”", "Tách đôi, không đọc cả cụm"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Bảng chữ cái đánh vần</b> — dùng khi đọc tên riêng, email, biển số qua điện thoại. Không cần thuộc bảng NATO, chỉ cần một từ quen cho mỗi chữ dễ lẫn:<br><b>B</b> for Boy · <b>V</b> for Victor · <b>P</b> for Peter · <b>M</b> for Mary · <b>N</b> for Nancy · <b>S</b> for Sugar · <b>F</b> for Father · <b>G</b> for George · <b>J</b> for John<br>Nói <i>“B for Boy”</i> là hết đường nhầm." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "It costs fifteen pounds.", "vi": "Cái này mười lăm bảng.", "note": "BẪY SỐ MỘT: fif<b>TEEN</b> — nhấn sau, có /n/ cuối. Xem [Khung 65]." },
+            { "en": "It costs fifty pounds.", "vi": "Cái này năm mươi bảng.", "note": "<b>FIF</b>ty — nhấn trước, không có /n/. Khác nhau hơn ba lần tiền." },
+            { "en": "The meeting is at thirteen hundred.", "vi": "Cuộc họp lúc 13 giờ.", "note": "thir<b>TEEN</b> — giờ quân sự, hay dùng ở sân bay." },
+            { "en": "I'll be there in thirty minutes.", "vi": "Ba mươi phút nữa tôi tới.", "note": "<b>THIR</b>ty. Xem [Khung 99]." },
+            { "en": "My number is 0912 345 678.", "vi": "Số của tôi là 0912 345 678.", "note": "BẪY SỐ HAI: “oh nine one two…” — từng chữ số một." },
+            { "en": "Room double four seven.", "vi": "Phòng 447.", "note": "<b>double four</b> — hai số giống nhau liền nhau." },
+            { "en": "It's on the third of April.", "vi": "Vào ngày 3 tháng 4.", "note": "Kiểu Anh: ngày trước. Viết là <i>3/4</i>." },
+            { "en": "It's on April third.", "vi": "Vào ngày 3 tháng 4.", "note": "Kiểu Mỹ: tháng trước. Viết là <i>4/3</i> — ngược hẳn." },
+            { "en": "I was born in nineteen ninety.", "vi": "Tôi sinh năm 1990.", "note": "Tách đôi “nineteen” + “ninety”, không đọc cả cụm." },
+            { "en": "That's N for Nancy, not M for Mary.", "vi": "Là N như trong Nancy, không phải M.", "note": "Cách duy nhất chắc chắn khi đánh vần qua điện thoại." },
+            { "en": "What time does it start? — At eight fifteen.", "vi": "Mấy giờ bắt đầu? — Tám giờ mười lăm.", "note": "Giờ đọc tách: “eight fifteen”. Xem [Khung 61]." },
+            { "en": "How long does it take? — About forty minutes.", "vi": "Mất bao lâu? — Khoảng bốn mươi phút.", "note": "<b>FOR</b>ty — và chú ý <i>forty</i> không có chữ <i>u</i>. Xem [Khung 64]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào cần để ý nhất",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🕐", "title": "Hẹn giờ", "text": "<i>at fifteen past</i> hay <i>at fifty</i>? Xem [Khung 61]." },
+            { "icon": "💰", "title": "Nghe giá tiền", "text": "15 và 50 lệch nhau hơn ba lần." },
+            { "icon": "📞", "title": "Đọc số điện thoại", "text": "Từng chữ số, dùng “oh” và “double”." },
+            { "icon": "📧", "title": "Đọc email, tên riêng", "text": "<i>B for Boy</i> — bắt buộc khi qua điện thoại." },
+            { "icon": "📅", "title": "Chốt ngày", "text": "3/4 ở Anh và Mỹ là hai ngày khác nhau." },
+            { "icon": "🚫", "title": "Đừng làm…", "text": "Đừng đoán — hỏi lại <i>“One five or five oh?”</i>" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay gặp",
+      "blocks": [
+        { "t": "p", "html": "Chọn một mục ở cột trái để nghe cách đọc và mẹo bắt âm." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Số dễ nhầm",
+              "items": [
+                { "w": "thirTEEN / THIRty", "vi": "13 / 30", "ex": "I'll be there in thirty minutes.", "exvi": "Ba mươi phút nữa tôi tới.", "note": "BẪY SỐ MỘT: nghe nhịp và nghe /n/ cuối." },
+                { "w": "fourTEEN / FORty", "vi": "14 / 40", "ex": "It takes about forty minutes.", "exvi": "Mất khoảng bốn mươi phút.", "note": "<i>forty</i> viết KHÔNG có chữ <i>u</i> — khác <i>four</i>." },
+                { "w": "fifTEEN / FIFty", "vi": "15 / 50", "ex": "It costs fifteen pounds.", "exvi": "Cái này mười lăm bảng.", "note": "Cặp bị nhầm nhiều nhất. Xem [Khung 65]." },
+                { "w": "sixTEEN / SIXty", "vi": "16 / 60", "ex": "He's sixty years old.", "exvi": "Ông ấy sáu mươi tuổi." },
+                { "w": "sevenTEEN / SEVenty", "vi": "17 / 70", "ex": "Seventy per cent agreed.", "exvi": "Bảy mươi phần trăm đồng ý." },
+                { "w": "eighTEEN / EIGHty", "vi": "18 / 80", "ex": "She's eighteen.", "exvi": "Cô ấy mười tám tuổi." },
+                { "w": "nineTEEN / NINEty", "vi": "19 / 90", "ex": "I was born in nineteen ninety.", "exvi": "Tôi sinh năm 1990." },
+                { "w": "oh / zero", "vi": "số 0", "ex": "My number is oh nine one two…", "exvi": "Số tôi là 0912…", "note": "Trong số điện thoại luôn là “oh”, không phải “zero”." },
+                { "w": "double", "vi": "hai số giống nhau", "ex": "Room double four seven.", "exvi": "Phòng 447.", "note": "Không đọc “four four seven”." },
+                { "w": "a hundred and…", "vi": "một trăm lẻ…", "ex": "A hundred and twenty.", "exvi": "Một trăm hai mươi.", "note": "Kiểu Anh có <i>and</i>; kiểu Mỹ hay bỏ." },
+                { "w": "point", "vi": "dấu phẩy thập phân", "ex": "Three point five.", "exvi": "Ba phẩy năm.", "note": "Tiếng Anh dùng dấu chấm, tiếng Việt dùng dấu phẩy." },
+                { "w": "per cent", "vi": "phần trăm", "ex": "About fifty per cent.", "exvi": "Khoảng năm mươi phần trăm." }
+              ]
+            },
+            {
+              "title": "Chữ cái, ngày tháng & cách hỏi lại",
+              "items": [
+                { "w": "B for Boy", "vi": "B như trong Boy", "ex": "That's B for Boy, not V.", "exvi": "Là B như Boy, không phải V.", "note": "B, V, P lẫn nhau nhiều nhất qua điện thoại." },
+                { "w": "V for Victor", "vi": "V như trong Victor", "ex": "V for Victor.", "exvi": "V như Victor." },
+                { "w": "M for Mary / N for Nancy", "vi": "M / N", "ex": "N for Nancy, not M.", "exvi": "N như Nancy, không phải M." },
+                { "w": "S for Sugar / F for Father", "vi": "S / F", "ex": "S for Sugar.", "exvi": "S như Sugar." },
+                { "w": "G for George / J for John", "vi": "G / J", "ex": "G for George.", "exvi": "G như George.", "note": "Hai chữ này đọc rất giống: /dʒiː/ và /dʒeɪ/." },
+                { "w": "double L", "vi": "hai chữ L", "ex": "It's spelt with a double L.", "exvi": "Nó có hai chữ L." },
+                { "w": "capital / lower case", "vi": "chữ hoa / chữ thường", "ex": "Capital N, then lower case.", "exvi": "N viết hoa, rồi chữ thường." },
+                { "w": "the third of April", "vi": "ngày 3 tháng 4 (Anh)", "ex": "It's on the third of April.", "exvi": "Vào ngày 3 tháng 4.", "note": "Viết tắt là 3/4 — ngày trước." },
+                { "w": "April third", "vi": "ngày 3 tháng 4 (Mỹ)", "ex": "It's on April third.", "exvi": "Vào ngày 3 tháng 4.", "note": "Viết tắt là 4/3 — NGƯỢC hẳn kiểu Anh." },
+                { "w": "eight fifteen", "vi": "8 giờ 15", "ex": "It starts at eight fifteen.", "exvi": "Tám giờ mười lăm bắt đầu. Xem [Khung 61]." },
+                { "w": "Sorry, was that…?", "vi": "Xin lỗi, có phải là…?", "ex": "Sorry, was that fifteen or fifty?", "exvi": "Xin lỗi, mười lăm hay năm mươi ạ?", "note": "Câu cứu nguy — hỏi lại luôn tốt hơn đoán. Xem [Khung 68]." },
+                { "w": "one five, or five oh?", "vi": "một năm, hay năm không?", "ex": "Is that one five, or five oh?", "exvi": "Là 15 hay 50 ạ?", "note": "Cách hỏi lại chắc chắn nhất: đọc từng chữ số." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Nghe <b>“fifty”</b> rồi ghi <b>15</b>", "right": "<b>FIF</b>ty = 50 · fif<b>TEEN</b> = 15", "why": "BẪY SỐ MỘT: nghe mỗi phần đầu rồi đoán. Phải nghe nhịp và /n/ cuối." },
+            { "wrong": "Nói <b>“fifteen”</b> với nhịp đều", "right": "<b>“fif-TEEN”</b> — nhấn rõ âm sau", "why": "Nói đều thì người nghe cũng nhầm bạn đang nói 50." },
+            { "wrong": "Đọc số ĐT là <b>“nine hundred and twelve”</b>", "right": "<b>“nine one two”</b>", "why": "BẪY SỐ HAI: số điện thoại luôn đọc từng chữ số." },
+            { "wrong": "Đọc số 0 là <b>“không”</b> hoặc <b>“o-không”</b>", "right": "<b>“oh”</b> hoặc <b>“zero”</b>", "why": "Trong số điện thoại người Anh luôn nói “oh”." },
+            { "wrong": "Đọc <i>447</i> là <b>“four four seven”</b>", "right": "<b>“double four seven”</b>", "why": "Hai chữ số giống nhau liền nhau thì dùng <i>double</i> cho rõ." },
+            { "wrong": "Hiểu <b>3/4</b> là mùng 4 tháng 3 (kiểu Mỹ) khi người Anh viết", "right": "Hỏi lại hoặc <b>đọc rõ tên tháng</b>", "why": "Anh và Mỹ ngược nhau. Khi quan trọng thì luôn nói “the third of April”." },
+            { "wrong": "Đánh vần <b>“B”</b> rồi để người ta tự đoán", "right": "<b>“B for Boy”</b>", "why": "B, V, P qua điện thoại nghe giống hệt nhau." },
+            { "wrong": "Đọc năm 1990 là <b>“one thousand nine hundred and ninety”</b>", "right": "<b>“nineteen ninety”</b>", "why": "Năm luôn tách đôi — ngắn hơn và đúng quy ước." },
+            { "wrong": "Nghe không rõ rồi <b>đoán bừa</b> và ghi lại", "right": "Hỏi <b>“Sorry, one five or five oh?”</b>", "why": "Hỏi lại mất ba giây; ghi sai mất cả buổi hẹn. Xem [Khung 68]." },
+            { "wrong": "Đọc <i>3.5</i> là <b>“three comma five”</b>", "right": "<b>“three point five”</b>", "why": "Tiếng Anh dùng dấu chấm cho phần thập phân, ngược với tiếng Việt." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với lỗi gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>-teen</code> / <code>-ty</code>", "Nhấn sau + /n/ / nhấn trước", "fifTEEN ≠ FIFty"],
+            ["Số đếm / số điện thoại", "Đọc cả cụm / từng chữ số", "912 ≠ nine one two"],
+            ["<code>oh</code> / <code>zero</code>", "Số ĐT / toán học, nhiệt độ", "oh nine one two"],
+            ["Ngày kiểu Anh / Mỹ", "Ngày trước / tháng trước", "3/4 ≠ 3/4"],
+            ["<code>B</code> / <code>V</code> / <code>P</code>", "Nghe giống qua điện thoại", "Dùng “B for Boy”"],
+            ["<code>G</code> / <code>J</code>", "/dʒiː/ / /dʒeɪ/", "G for George, J for John"],
+            ["Năm / số lớn", "Tách đôi / đọc cả cụm", "nineteen ninety ≠ one thousand…"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: nghe một con số thì xử lý thế nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn vừa nghe một con số và không chắc — làm gì?",
+          "nodes": [
+            { "if": "Nghe thấy /n/ ở cuối", "then": "Đó là -teen (13–19)", "ex": "fifteen, sixteen" },
+            { "if": "Nhấn rơi vào âm tiết ĐẦU", "then": "Đó là -ty (30–90)", "ex": "FIFty, SIXty" },
+            { "if": "Là số điện thoại hoặc mã", "then": "Nghe từng chữ số, chú ý “double”", "ex": "double four seven" },
+            { "if": "Là ngày tháng viết tắt", "then": "Hỏi lại tên tháng", "ex": "3/4 → “the third of April”?" },
+            { "if": "Là tên riêng hoặc email", "then": "Yêu cầu đánh vần kiểu “B for Boy”", "ex": "Could you spell that?" },
+            { "if": "Vẫn không chắc", "then": "Hỏi lại bằng từng chữ số", "ex": "“One five, or five oh?”" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ chắc chắn khi xác nhận lại một con số" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "(gật đầu, ghi lại)", "vi": "Rủi ro nhất — đoán bừa" },
+            { "en": "Sorry?", "vi": "Họ nhắc lại y hệt, vẫn có thể nhầm" },
+            { "en": "Fifteen?", "vi": "Khá hơn — nêu rõ cái mình nghe" },
+            { "en": "Sorry, was that fifteen or fifty?", "vi": "Rõ — nêu cả hai khả năng" },
+            { "en": "Is that one five, or five oh?", "vi": "Chắc nhất — đọc từng chữ số" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kỹ năng này dùng ở đâu",
+      "blocks": [
+        { "t": "p", "html": "Số và chữ cái nằm trong mọi cuộc hẹn, mọi đơn hàng, mọi cuộc gọi." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 61, "why": "What time…? / When…? — chốt giờ hẹn, chỗ nhầm 15/50 tốn kém nhất." },
+            { "id": 65, "why": "How much / How many…? — nghe giá tiền, lệch một chữ là lệch ba lần tiền." },
+            { "id": 64, "why": "How long does it take…? — câu trả lời luôn là một con số." },
+            { "id": 99, "why": "It takes + thời gian + to V — thirty minutes hay thirteen?" },
+            { "id": 71, "why": "I'm + tên / My name is… — tên riêng phải đánh vần kiểu B for Boy." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Đây là số nào?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "nhấn âm sau, có /n/ cuối", "blank": "“fif-TEEN”  →  __________", "a": "15" },
+            { "vi": "nhấn âm trước, không có /n/", "blank": "“FIF-ty”  →  __________", "a": "50" },
+            { "vi": "nhấn âm sau", "blank": "“thir-TEEN”  →  __________", "a": "13" },
+            { "vi": "ba âm tiết, nhấn đầu", "blank": "“SEV-en-ty”  →  __________", "a": "70" },
+            { "vi": "số điện thoại", "blank": "“oh nine one two”  →  __________", "a": "0912" },
+            { "vi": "số phòng", "blank": "“double four seven”  →  __________", "a": "447" },
+            { "vi": "năm sinh", "blank": "“nineteen ninety”  →  __________", "a": "1990" },
+            { "vi": "số thập phân", "blank": "“three point five”  →  __________", "a": "3.5" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn cách nói đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Số của tôi là 0912…", "blank": "(a) “nine hundred and twelve”  (b) “oh nine one two”", "a": "(b)" },
+            { "vi": "Phòng 447", "blank": "(a) “four four seven”  (b) “double four seven”", "a": "(b)" },
+            { "vi": "Tôi sinh năm 1990.", "blank": "(a) “one thousand nine hundred and ninety”  (b) “nineteen ninety”", "a": "(b)" },
+            { "vi": "Là chữ B.", "blank": "(a) “B”  (b) “B for Boy”", "a": "(b) — qua điện thoại" }
+          ]
+        },
+        { "t": "h3", "text": "C. Đọc to, nhấn đúng chỗ" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Cái này mười lăm bảng, không phải năm mươi.", "a": "It costs fif-TEEN pounds, not FIF-ty." },
+            { "vi": "2. Số của tôi là 0912 345 678.", "a": "My number is oh nine one two, three four five, six seven eight." },
+            { "vi": "3. Vào ngày 3 tháng 4.", "a": "It's on the third of April." },
+            { "vi": "4. Xin lỗi, mười lăm hay năm mươi ạ?", "a": "Sorry, was that fifteen or fifty? Is that one five, or five oh?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Hai dấu hiệu bắt <i>-teen</i>:</b> nhấn rơi vào <b>âm tiết sau</b>, và có <b>/n/</b> ở cuối. Thiếu cả hai là <i>-ty</i>.",
+            "<b>Khi tự nói, nhấn thật rõ.</b> Bạn nói đều thì người nghe cũng nhầm y như bạn nhầm họ.",
+            "<b>Số điện thoại đọc từng chữ số</b>, số 0 là <b>“oh”</b>, hai số giống nhau liền nhau là <b>“double”</b>.",
+            "<b>Ngày tháng Anh và Mỹ ngược nhau.</b> Khi quan trọng thì bỏ viết tắt, đọc rõ tên tháng.",
+            "<b>Đánh vần thì luôn kèm một từ:</b> <i>“B for Boy”</i>. B, V, P qua điện thoại nghe giống hệt nhau.",
+            "<b>Hỏi lại mất ba giây, ghi sai mất cả buổi.</b> Câu cứu nguy: <i>“Is that one five, or five oh?”</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

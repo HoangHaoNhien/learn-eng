@@ -1,0 +1,277 @@
+{
+  "id": 28,
+  "group": "Nhóm 8 · Dạng theo sau động từ",
+  "title": "having done · being done",
+  "subtitle": "Hai dạng nâng cao của V-ing, hay gặp trong email và văn viết công việc. Having + V3 nói việc xảy ra TRƯỚC, being + V3 là dạng bị động. Người Việt ít dùng nên câu viết nghe đơn điệu, dù chỉ cần hai mẫu này là văn lên hẳn.",
+  "meaning": "Danh động từ ở dạng hoàn thành và bị động",
+  "rule": [
+    "<em>having</em> + V3 — việc xảy ra TRƯỚC",
+    "<em>being</em> + V3 — dạng bị động",
+    "<em>having been</em> + V3 — vừa trước vừa bị động"
+  ],
+  "tags": [
+    { "text": "Trình độ: B2–C1", "hot": true },
+    { "text": "Having said that…" },
+    { "text": "I object to being rushed" },
+    { "text": "Tần suất: trung bình" }
+  ],
+  "frames": [53, 86, 87, 88, 95],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "V-ing thường có hai biến thể nâng cao. Một cái nói rằng việc đó <b>đã xảy ra trước</b>, một cái nói rằng chủ ngữ <b>chịu tác động</b> chứ không phải người làm." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — <i>having</i> + V3 là việc xảy ra TRƯỚC:</b><br>• <i><b>Having finished</b> the report, I went home</i> = xong báo cáo rồi mới về.<br>• <i><b>Finishing</b> the report, I went home</i> — nghe như hai việc cùng lúc, lạ.<br>Dùng khi muốn nhấn rõ thứ tự trước sau." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>being</i> + V3 là BỊ ĐỘNG:</b><br>• <i>I object to <b>being rushed</b></i> ✓ = tôi phản đối việc BỊ giục.<br>• <i>I object to <b>rushing</b></i> = tôi phản đối việc giục người khác — nghĩa ngược hẳn.<br>Hỏi một câu: chủ ngữ làm hay chịu?" },
+        { "t": "h3", "text": "Bốn dạng của V-ing" },
+        {
+          "t": "table",
+          "head": ["Dạng", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>doing</code>", "Chủ động, cùng lúc", "I enjoy reading."],
+            ["<code>having done</code>", "Chủ động, xảy ra TRƯỚC", "Having finished, I went home."],
+            ["<code>being done</code>", "BỊ ĐỘNG, cùng lúc", "I hate being told what to do."],
+            ["<code>having been done</code>", "BỊ ĐỘNG, xảy ra TRƯỚC", "Having been told, I left."]
+          ]
+        },
+        { "t": "p", "html": "Lưu ý: sau <b>after</b> thì <i>having done</i> và <i>doing</i> gần như thay nhau được — <i>After <b>finishing</b>, I left</i> ✓ cũng đúng, vì bản thân <i>after</i> đã nói rõ thứ tự. Dạng <i>having</i> cần thiết nhất khi <b>không có từ nối</b>." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Hoàn thành chủ động", "<code>having + V3</code>", "Having finished, I went home."],
+            ["Hoàn thành — phủ định", "<code>not having + V3</code>", "Not having slept, I was tired."],
+            ["Bị động hiện tại", "<code>being + V3</code>", "I hate being told what to do."],
+            ["Bị động hoàn thành", "<code>having been + V3</code>", "Having been warned, I was careful."],
+            ["Sau giới từ — bị động", "<code>giới từ + being + V3</code>", "I object to being rushed."],
+            ["Sau động từ — bị động", "<code>enjoy/hate + being + V3</code>", "She enjoys being praised."],
+            ["Mở đầu câu — nguyên nhân", "<code>Having + V3, S + V</code>", "Having lost my key, I waited outside."],
+            ["Sau <code>after</code>", "<code>after + (having) V3</code>", "After (having) eaten, I left."],
+            ["Cụm nối ý", "<code>Having said that</code>", "Having said that, I agree."],
+            ["Nhớ việc bị động", "<code>remember being + V3</code>", "I remember being told."],
+            ["Nhớ việc chủ động", "<code>remember + V-ing</code>", "I remember telling you."],
+            ["Danh động từ có chủ ngữ riêng", "<code>his/her + V-ing</code>", "I don't mind his coming late."]
+          ]
+        },
+        { "t": "callout", "html": "<b><i>Having said that</i> là cụm nối ý rất hữu ích:</b> nghĩa là “tuy nói vậy nhưng…”. Nó mở đường cho một ý ngược lại mà vẫn giữ lịch sự — <i>It's expensive. <b>Having said that</b>, the quality is excellent.</i> Xem [Khung 53]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Having finished the report, I went home.", "vi": "Làm xong báo cáo, tôi về nhà.", "note": "BẪY SỐ MỘT: <b>having + V3</b> = việc xảy ra TRƯỚC." },
+            { "en": "Having lost my key, I waited outside.", "vi": "Mất chìa khóa nên tôi phải chờ ngoài.", "note": "Dạng này còn ngầm nói NGUYÊN NHÂN." },
+            { "en": "Not having slept well, I was exhausted.", "vi": "Ngủ không ngon nên tôi kiệt sức.", "note": "Phủ định đặt <b>not</b> TRƯỚC <i>having</i>." },
+            { "en": "I object to being rushed.", "vi": "Tôi phản đối việc bị giục.", "note": "BẪY SỐ HAI: <b>being + V3</b> = BỊ động. Xem [Khung 86]." },
+            { "en": "I hate being told what to do.", "vi": "Tôi ghét bị bảo phải làm gì.", "note": "Chủ ngữ CHỊU tác động, không phải người làm." },
+            { "en": "She enjoys being praised.", "vi": "Cô ấy thích được khen.", "note": "<b>being praised</b> = được khen, không phải khen người khác." },
+            { "en": "Having been warned, I was careful.", "vi": "Đã được cảnh báo nên tôi cẩn thận.", "note": "<b>having been + V3</b> = vừa TRƯỚC vừa BỊ ĐỘNG." },
+            { "en": "I remember being told about it.", "vi": "Tôi nhớ là đã được báo chuyện đó.", "note": "<b>being told</b> = được báo. Khác <i>remember telling</i> = nhớ đã nói." },
+            { "en": "I remember telling you about it.", "vi": "Tôi nhớ là đã nói với bạn chuyện đó.", "note": "Chủ động — chính tôi là người nói." },
+            { "en": "After eating, I went for a walk.", "vi": "Ăn xong tôi đi dạo.", "note": "Sau <b>after</b> thì <i>eating</i> và <i>having eaten</i> gần như thay nhau được." },
+            { "en": "It's expensive. Having said that, the quality is excellent.", "vi": "Nó đắt. Tuy nói vậy, chất lượng thì tuyệt.", "note": "Cụm nối ý — mở đường cho ý ngược lại. Xem [Khung 53]." },
+            { "en": "I don't mind his coming late.", "vi": "Tôi không phiền việc anh ấy đến muộn.", "note": "Danh động từ có chủ ngữ riêng — dùng tính từ sở hữu." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "📄", "title": "Viết email công việc", "text": "<i>Having reviewed the proposal, I have a few comments.</i>" },
+            { "icon": "⏮️", "title": "Nhấn thứ tự trước sau", "text": "<i>Having finished, I went home.</i>" },
+            { "icon": "🔄", "title": "Nói mình chịu tác động", "text": "<i>I hate being told what to do.</i>" },
+            { "icon": "🤝", "title": "Nối ý ngược lại lịch sự", "text": "<i>Having said that, I agree.</i> Xem [Khung 53]." },
+            { "icon": "💭", "title": "Nhớ việc được làm cho", "text": "<i>I remember being told.</i> Khác <i>remember telling</i>." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Nói chuyện thường ngày. Lúc đó <i>After I finished…</i> tự nhiên hơn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "having + V3 — việc xảy ra trước",
+              "items": [
+                { "w": "Having finished", "vi": "làm xong rồi", "ex": "Having finished the report, I went home.", "exvi": "Làm xong báo cáo, tôi về nhà.", "note": "BẪY SỐ MỘT: nhấn rõ thứ tự TRƯỚC SAU." },
+                { "w": "Having lost", "vi": "đã làm mất nên", "ex": "Having lost my key, I waited outside.", "exvi": "Mất chìa khóa nên tôi chờ ngoài.", "note": "Ngầm nói cả NGUYÊN NHÂN, không chỉ thứ tự." },
+                { "w": "Having read", "vi": "đã đọc xong", "ex": "Having read it, I understood.", "exvi": "Đọc xong tôi mới hiểu." },
+                { "w": "Having reviewed", "vi": "đã xem lại", "ex": "Having reviewed the proposal, I have a few comments.", "exvi": "Đã xem lại đề xuất, tôi có vài ý kiến.", "note": "Mở đầu email công việc rất chuyên nghiệp." },
+                { "w": "Not having + V3", "vi": "vì đã không", "ex": "Not having slept well, I was exhausted.", "exvi": "Ngủ không ngon nên tôi kiệt sức.", "note": "Phủ định đặt <b>not</b> TRƯỚC <i>having</i>." },
+                { "w": "Having said that", "vi": "tuy nói vậy", "ex": "Having said that, I agree with you.", "exvi": "Tuy nói vậy, tôi đồng ý với bạn.", "note": "Cụm nối ý — mở đường cho ý ngược lại. Xem [Khung 53]." },
+                { "w": "Having considered", "vi": "sau khi cân nhắc", "ex": "Having considered everything, I'll stay.", "exvi": "Cân nhắc mọi thứ rồi, tôi sẽ ở lại." },
+                { "w": "after having + V3", "vi": "sau khi đã", "ex": "After having eaten, I left.", "exvi": "Sau khi ăn xong tôi đi.", "note": "Có <i>after</i> rồi thì bỏ <i>having</i> cũng được." },
+                { "w": "having been + V3", "vi": "đã được, đã bị", "ex": "Having been warned, I was careful.", "exvi": "Đã được cảnh báo nên tôi cẩn thận.", "note": "Vừa TRƯỚC vừa BỊ ĐỘNG — dạng đầy đủ nhất." },
+                { "w": "on + V-ing", "vi": "ngay khi", "ex": "On arriving, I called her.", "exvi": "Vừa đến nơi tôi gọi cô ấy ngay.", "note": "Dạng trang trọng, cùng nhóm với <i>having</i>." },
+                { "w": "despite having + V3", "vi": "mặc dù đã", "ex": "Despite having tried, I failed.", "exvi": "Mặc dù đã cố, tôi vẫn trượt.", "note": "Sau <i>despite</i> là danh từ hoặc V-ing. Xem [Ngữ pháp 48]." },
+                { "w": "before + V-ing", "vi": "trước khi", "ex": "Before leaving, I locked the door.", "exvi": "Trước khi đi tôi khóa cửa.", "note": "Ở đây KHÔNG dùng <i>having</i> — việc xảy ra SAU." }
+              ]
+            },
+            {
+              "title": "being + V3 — dạng bị động",
+              "items": [
+                { "w": "being told", "vi": "bị bảo, được báo", "ex": "I hate being told what to do.", "exvi": "Tôi ghét bị bảo phải làm gì.", "note": "BẪY SỐ HAI: chủ ngữ CHỊU tác động." },
+                { "w": "being rushed", "vi": "bị giục", "ex": "I object to being rushed.", "exvi": "Tôi phản đối việc bị giục. Xem [Khung 86]." },
+                { "w": "being praised", "vi": "được khen", "ex": "She enjoys being praised.", "exvi": "Cô ấy thích được khen." },
+                { "w": "being asked", "vi": "được hỏi, bị hỏi", "ex": "I don't mind being asked.", "exvi": "Tôi không phiền khi bị hỏi." },
+                { "w": "being treated", "vi": "bị đối xử", "ex": "I object to being treated like that.", "exvi": "Tôi phản đối bị đối xử như vậy." },
+                { "w": "being charged", "vi": "bị tính tiền", "ex": "I object to being charged twice.", "exvi": "Tôi phản đối bị tính tiền hai lần. Xem [Khung 86]." },
+                { "w": "being late", "vi": "việc đến muộn", "ex": "Sorry for being late.", "exvi": "Xin lỗi vì đến muộn.", "note": "Ở đây <i>being</i> + tính từ, không phải bị động. Xem [Khung 79]." },
+                { "w": "remember being + V3", "vi": "nhớ là đã được", "ex": "I remember being told about it.", "exvi": "Tôi nhớ là đã được báo." },
+                { "w": "remember + V-ing", "vi": "nhớ là đã tự làm", "ex": "I remember telling you.", "exvi": "Tôi nhớ là đã nói với bạn.", "note": "Chủ động — chính tôi là người nói. Xem [Ngữ pháp 24]." },
+                { "w": "worth + V-ing", "vi": "đáng để", "ex": "It's worth trying.", "exvi": "Đáng để thử.", "note": "<b>worth</b> luôn đi với V-ing, không có <i>to V</i>." },
+                { "w": "his / her + V-ing", "vi": "việc anh ấy / cô ấy làm", "ex": "I don't mind his coming late.", "exvi": "Tôi không phiền việc anh ấy đến muộn.", "note": "Danh động từ có chủ ngữ riêng — dùng tính từ sở hữu." },
+                { "w": "need + V-ing", "vi": "cần được", "ex": "The car needs washing.", "exvi": "Xe cần được rửa.", "note": "<b>need + V-ing</b> mang nghĩa BỊ ĐỘNG — bằng <i>needs to be washed</i>." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I object to <b>rushing</b>. <i>(ý: bị giục)</i>", "right": "I object to <b>being rushed</b>.", "why": "BẪY SỐ HAI: chủ ngữ CHỊU tác động nên phải dùng <b>being + V3</b>. Dạng chủ động nghĩa ngược hẳn." },
+            { "wrong": "I hate <b>telling</b> what to do. <i>(ý: bị bảo)</i>", "right": "I hate <b>being told</b> what to do.", "why": "Cùng lỗi. <i>hate telling</i> = ghét việc đi bảo người khác." },
+            { "wrong": "<b>Having</b> the report, I went home. <i>(ý: làm xong)</i>", "right": "<b>Having finished</b> the report, I went home.", "why": "Sau <i>having</i> phải là V3, không phải danh từ." },
+            { "wrong": "<b>Have finished</b> the report, I went home.", "right": "<b>Having finished</b> the report, I went home.", "why": "Dạng này dùng <b>having</b>, không phải <i>have</i>." },
+            { "wrong": "<b>Having not</b> slept well, I was tired.", "right": "<b>Not having</b> slept well, I was tired.", "why": "Phủ định đặt <b>not</b> TRƯỚC <i>having</i>, không đặt sau." },
+            { "wrong": "I remember <b>telling</b> about it. <i>(ý: được báo)</i>", "right": "I remember <b>being told</b> about it.", "why": "Được người khác báo thì dùng BỊ ĐỘNG. <i>remember telling</i> = nhớ đã tự nói." },
+            { "wrong": "Having been <b>warn</b>, I was careful.", "right": "Having been <b>warned</b>, I was careful.", "why": "Sau <i>having been</i> là V3." },
+            { "wrong": "It's worth <b>to try</b>.", "right": "It's worth <b>trying</b>.", "why": "<b>worth</b> luôn đi với V-ing, không bao giờ <i>to V</i>." },
+            { "wrong": "The car needs <b>to wash</b>.", "right": "The car needs <b>washing</b>.", "why": "<b>need + V-ing</b> mang nghĩa bị động. Hoặc viết đầy đủ <i>needs to be washed</i>." },
+            { "wrong": "I don't mind <b>him coming</b> late. <i>(văn trang trọng)</i>", "right": "I don't mind <b>his coming</b> late.", "why": "Trong văn trang trọng, danh động từ có chủ ngữ riêng thì dùng TÍNH TỪ SỞ HỮU." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Chủ động hay bị động", "Ví dụ"],
+          "rows": [
+            ["<code>doing</code>", "Chủ động, cùng lúc", "I enjoy reading."],
+            ["<code>having done</code>", "Chủ động, xảy ra TRƯỚC", "Having finished, I went home."],
+            ["<code>being done</code>", "BỊ ĐỘNG, cùng lúc", "I hate being told."],
+            ["<code>having been done</code>", "BỊ ĐỘNG, xảy ra TRƯỚC", "Having been told, I left."],
+            ["<code>to be done</code>", "Bị động nguyên thể. Xem [Ngữ pháp 46]", "It needs to be washed."],
+            ["<code>after + V-ing</code>", "Có từ nối nên bỏ having được", "After eating, I left."],
+            ["<code>before + V-ing</code>", "Việc xảy ra SAU — không dùng having", "Before leaving, I locked up."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng dạng nào?" },
+        {
+          "t": "tree",
+          "q": "Chủ ngữ làm hay chịu, và việc đó xảy ra trước hay cùng lúc?",
+          "nodes": [
+            { "if": "Chủ ngữ LÀM, cùng lúc hoặc chung chung", "then": "doing", "ex": "I enjoy reading." },
+            { "if": "Chủ ngữ LÀM, việc đó xong TRƯỚC", "then": "having + V3", "ex": "Having finished, I went home." },
+            { "if": "Chủ ngữ CHỊU tác động, cùng lúc", "then": "being + V3", "ex": "I hate being told." },
+            { "if": "Chủ ngữ CHỊU tác động, việc đó xong TRƯỚC", "then": "having been + V3", "ex": "Having been warned, I was careful." },
+            { "if": "Đã có after, before, on làm từ nối", "then": "V-ing đơn giản là đủ", "ex": "After eating, I left." },
+            { "if": "Sau worth hoặc need, mang nghĩa bị động", "then": "V-ing", "ex": "It's worth trying. · It needs washing." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ trang trọng khi nối hai việc" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I finished, then I went home.", "vi": "Thường ngày nhất" },
+            { "en": "After I finished, I went home.", "vi": "Có từ nối, rõ ràng" },
+            { "en": "After finishing, I went home.", "vi": "Gọn hơn" },
+            { "en": "Having finished, I went home.", "vi": "Trang trọng, văn viết" },
+            { "en": "The report having been finished, I went home.", "vi": "Trang trọng nhất — hiếm dùng" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Hai dạng này xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 86, "why": "I'm looking forward to… — mẫu I object to being rushed và being charged twice." },
+            { "id": 53, "why": "I see what you mean, but… — cụm nối ý Having said that, cùng chức năng." },
+            { "id": 88, "why": "I feel bad about… — mẫu about not calling, phủ định của danh động từ." },
+            { "id": 87, "why": "I'm worried about… — giới từ about kéo theo V-ing, nền cho being + V3." },
+            { "id": 95, "why": "I've just + V3 — nguồn các dạng V3 dùng trong having done và being done." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ trong ngoặc" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Làm xong báo cáo, tôi về nhà.", "blank": "__________ (finish) the report, I went home.", "a": "Having finished" },
+            { "vi": "Tôi ghét bị bảo phải làm gì.", "blank": "I hate __________ (tell) what to do.", "a": "being told" },
+            { "vi": "Tôi phản đối việc bị giục.", "blank": "I object to __________ (rush).", "a": "being rushed" },
+            { "vi": "Đã được cảnh báo nên tôi cẩn thận.", "blank": "__________ (warn), I was careful.", "a": "Having been warned" },
+            { "vi": "Ngủ không ngon nên tôi kiệt sức.", "blank": "__________ (not sleep) well, I was exhausted.", "a": "Not having slept" },
+            { "vi": "Cô ấy thích được khen.", "blank": "She enjoys __________ (praise).", "a": "being praised" },
+            { "vi": "Đáng để thử.", "blank": "It's worth __________ (try).", "a": "trying" },
+            { "vi": "Xe cần được rửa.", "blank": "The car needs __________ (wash).", "a": "washing" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng theo nghĩa" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi nhớ là đã được báo chuyện đó.", "blank": "I remember __________ about it.  (telling / being told)", "a": "being told — bị động" },
+            { "vi": "Tôi nhớ là đã nói với bạn chuyện đó.", "blank": "I remember __________ you about it.  (telling / being told)", "a": "telling — chủ động" },
+            { "vi": "Làm xong báo cáo, tôi về nhà.", "blank": "__________ the report, I went home.  (Finishing / Having finished)", "a": "Having finished — nhấn thứ tự" },
+            { "vi": "Trước khi đi tôi khóa cửa.", "blank": "__________ leaving, I locked the door.  (Before / Having)", "a": "Before — việc xảy ra sau" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Làm xong báo cáo, tôi về nhà.", "a": "Having finished the report, I went home." },
+            { "vi": "2. Tôi phản đối việc bị giục.", "a": "I object to being rushed." },
+            { "vi": "3. Tôi ghét bị bảo phải làm gì.", "a": "I hate being told what to do." },
+            { "vi": "4. Nó đắt. Tuy nói vậy, chất lượng thì tuyệt.", "a": "It's expensive. Having said that, the quality is excellent." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Hỏi một câu trước khi chọn:</b> chủ ngữ LÀM hay CHỊU? Chịu thì dùng <i>being + V3</i>.",
+            "<b><i>having + V3</i> khi muốn nhấn thứ tự trước sau</b> mà trong câu không có <i>after</i> hay <i>before</i>.",
+            "<b>Phủ định đặt <i>not</i> ở đầu:</b> <i><b>Not having</b> slept well…</i>, không phải <i>having not</i>.",
+            "<b>Học thuộc <i>Having said that</i></b> — cụm nối ý mở đường cho một ý ngược lại mà vẫn lịch sự. Xem [Khung 53].",
+            "<b>Hai cụm luôn đi với V-ing:</b> <i>It's worth <b>trying</b></i> và <i>The car needs <b>washing</b></i> — cái sau mang nghĩa bị động.",
+            "<b>Bài tập 3 phút:</b> viết ba câu mở đầu bằng <i>Having…</i> về việc bạn làm hôm nay, rồi ba câu <i>I hate being…</i> về điều bạn không thích."
+          ]
+        }
+      ]
+    }
+  ]
+}

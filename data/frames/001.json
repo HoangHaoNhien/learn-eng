@@ -1,0 +1,1281 @@
+{
+  "id": 1,
+  "group": "Nhóm 1 · Mong muốn & Nhu cầu",
+  "title": "I’d like to… — Nói ra mong muốn một cách lịch sự",
+  "subtitle": "Khung câu được dùng nhiều nhất khi bạn phải mở miệng nói với người lạ: gọi món, mua hàng, đặt chỗ, hỏi việc, mở đầu email. Nếu chỉ học được một khung, hãy học khung này.",
+  "pattern": [
+    "I’d like <em>+ to V</em>",
+    "I’d like <em>+ danh từ</em>",
+    "I’d like <em>+ ai đó + to V</em>"
+  ],
+  "meaning": "Tôi muốn… / Cho tôi xin… (nhã nhặn, an toàn trong mọi tình huống)",
+  "grammar": [24, 29],
+  "tags": [
+    {
+      "text": "Tần suất: rất cao",
+      "hot": true
+    },
+    {
+      "text": "Độ lịch sự: 4/5"
+    },
+    {
+      "text": "Trang trọng & thân mật đều dùng được"
+    },
+    {
+      "text": "Trình độ: A1–A2"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "<b>I’d</b> là viết tắt của <b>I would</b>. Ở đây <span class=\"k\">would</span> không mang nghĩa “sẽ”, mà đóng vai trò <b>làm mềm câu nói</b>. Tiếng Anh dùng thì quá khứ (would, could, was wondering…) để tạo “khoảng cách” giữa lời nói và hiện thực — càng “xa” thì càng nhẹ, càng lịch sự, càng ít áp đặt."
+        },
+        {
+          "t": "p",
+          "html": "Vì vậy <span class=\"k\">I want a coffee</span> nghe như <i>“Tôi muốn cà phê”</i> (tuyên bố nhu cầu, hơi cộc khi nói với người lạ), còn <span class=\"k\">I’d like a coffee</span> nghe như <i>“Cho tôi xin một ly cà phê ạ”</i> — vẫn rõ ràng nhưng dễ chịu."
+        },
+        {
+          "t": "callout",
+          "html": "<b>Điểm mấu chốt:</b> người Việt học tiếng Anh thường mắc lỗi “quá thẳng” chứ không phải sai ngữ pháp. Đổi <i>I want</i> thành <i>I’d like</i> là thay đổi nhỏ nhất mang lại hiệu quả lớn nhất cho giọng điệu của bạn."
+        },
+        {
+          "t": "h3",
+          "text": "Ba tầng nghĩa bạn cần phân biệt"
+        },
+        {
+          "t": "table",
+          "head": [
+            "Câu",
+            "Ý thật sự",
+            "Nói với ai"
+          ],
+          "rows": [
+            [
+              "<code>I like coffee.</code>",
+              "Sở thích nói chung: tôi thích cà phê (nói chung, mọi lúc)",
+              "Ai cũng được — nhưng KHÔNG phải để gọi món"
+            ],
+            [
+              "<code>I want a coffee.</code>",
+              "Nhu cầu ngay lúc này, nói thẳng",
+              "Bạn bè, người thân, trẻ con"
+            ],
+            [
+              "<code>I’d like a coffee.</code>",
+              "Yêu cầu ngay lúc này, có phép lịch sự",
+              "Nhân viên phục vụ, đồng nghiệp, khách hàng, người lạ"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            {
+              "icon": "🍽",
+              "title": "Gọi món, mua hàng",
+              "text": "Nhà hàng, quán cà phê, tiệm bánh, cửa hàng tiện lợi. Đây là bối cảnh số 1: <i>I’d like the chicken salad, please.</i>"
+            },
+            {
+              "icon": "🏨",
+              "title": "Đặt chỗ, làm thủ tục",
+              "text": "Khách sạn, phòng khám, sân bay, ngân hàng. <i>I’d like to check in, please.</i>"
+            },
+            {
+              "icon": "💼",
+              "title": "Công việc & họp hành",
+              "text": "Mở lời trong cuộc họp, email, điện thoại: <i>I’d like to raise one point.</i>"
+            },
+            {
+              "icon": "🎤",
+              "title": "Phát biểu trang trọng",
+              "text": "Mở đầu lời cảm ơn / giới thiệu: <i>I’d like to thank everyone for coming.</i>"
+            },
+            {
+              "icon": "💬",
+              "title": "Nói nguyện vọng cá nhân",
+              "text": "Phỏng vấn, tâm sự, định hướng: <i>I’d like to work in marketing someday.</i>"
+            },
+            {
+              "icon": "🤝",
+              "title": "Mời & hỏi ý người khác",
+              "text": "Đảo thành câu hỏi: <i>Would you like some tea?</i> — cách mời chuẩn mực nhất."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": [
+            "Dạng",
+            "Công thức",
+            "Ví dụ"
+          ],
+          "rows": [
+            [
+              "Khẳng định + danh từ",
+              "<code>I’d like + N</code>",
+              "I’d like a table for two."
+            ],
+            [
+              "Khẳng định + động từ",
+              "<code>I’d like to + V(nguyên thể)</code>",
+              "I’d like to change my booking."
+            ],
+            [
+              "Muốn người khác làm",
+              "<code>I’d like + O + to V</code>",
+              "I’d like you to review this file."
+            ],
+            [
+              "Mời / hỏi ý",
+              "<code>Would you like + N / to V?</code>",
+              "Would you like something to drink?"
+            ],
+            [
+              "Hỏi mở",
+              "<code>What would you like + to V?</code>",
+              "What would you like to order?"
+            ],
+            [
+              "Gắn mệnh đề hỏi",
+              "<code>I’d like to know / ask + wh-…</code>",
+              "I’d like to know when it opens."
+            ],
+            [
+              "Từ chối (mềm)",
+              "<code>I’d rather not + V</code>",
+              "I’d rather not talk about it."
+            ],
+            [
+              "Tiếc nuối (quá khứ)",
+              "<code>I would have liked to + V</code>",
+              "I would have liked to join, but I was busy."
+            ],
+            [
+              "Làm mềm thêm",
+              "<code>I’d just like to + V</code>",
+              "I’d just like to confirm one thing."
+            ]
+          ]
+        },
+        {
+          "t": "callout",
+          "html": "<b>Lưu ý phủ định:</b> người bản xứ hiếm khi nói <i>I wouldn’t like…</i>. Để từ chối, hãy dùng <span class=\"k\">I’d rather not…</span>, <span class=\"k\">I don’t think I will, thanks.</span> hoặc <span class=\"k\">No, thank you.</span>"
+        }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy."
+        },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “I’d like to…”",
+              "items": [
+                {
+                  "w": "know",
+                  "vi": "biết",
+                  "ex": "I’d like to know more about the job.",
+                  "exvi": "Tôi muốn biết thêm về công việc đó."
+                },
+                {
+                  "w": "ask",
+                  "vi": "hỏi",
+                  "ex": "I’d like to ask a quick question.",
+                  "exvi": "Tôi muốn hỏi nhanh một câu."
+                },
+                {
+                  "w": "say",
+                  "vi": "nói",
+                  "ex": "I’d like to say a few words before we start.",
+                  "exvi": "Tôi muốn nói vài lời trước khi bắt đầu."
+                },
+                {
+                  "w": "add",
+                  "vi": "bổ sung",
+                  "ex": "I’d like to add one more thing.",
+                  "exvi": "Tôi muốn bổ sung thêm một ý."
+                },
+                {
+                  "w": "check",
+                  "vi": "kiểm tra",
+                  "ex": "I’d like to check the price first.",
+                  "exvi": "Tôi muốn kiểm tra giá trước đã."
+                },
+                {
+                  "w": "confirm",
+                  "vi": "xác nhận",
+                  "ex": "I’d like to confirm my reservation for Saturday.",
+                  "exvi": "Tôi muốn xác nhận đặt chỗ vào thứ Bảy."
+                },
+                {
+                  "w": "book",
+                  "vi": "đặt chỗ",
+                  "ex": "I’d like to book a room for two nights.",
+                  "exvi": "Tôi muốn đặt một phòng cho hai đêm."
+                },
+                {
+                  "w": "order",
+                  "vi": "gọi món / đặt hàng",
+                  "ex": "I’d like to order the same as last time.",
+                  "exvi": "Tôi muốn gọi giống lần trước."
+                },
+                {
+                  "w": "change",
+                  "vi": "đổi",
+                  "ex": "I’d like to change my seat, please.",
+                  "exvi": "Tôi muốn đổi chỗ ngồi ạ."
+                },
+                {
+                  "w": "cancel",
+                  "vi": "hủy",
+                  "ex": "I’d like to cancel my appointment tomorrow.",
+                  "exvi": "Tôi muốn hủy cuộc hẹn ngày mai."
+                },
+                {
+                  "w": "try",
+                  "vi": "thử",
+                  "ex": "I’d like to try the fish, please.",
+                  "exvi": "Cho tôi thử món cá ạ."
+                },
+                {
+                  "w": "see",
+                  "vi": "xem / gặp",
+                  "ex": "I’d like to see the menu, please.",
+                  "exvi": "Cho tôi xem thực đơn ạ."
+                },
+                {
+                  "w": "speak to",
+                  "vi": "nói chuyện với",
+                  "ex": "I’d like to speak to the manager.",
+                  "exvi": "Tôi muốn nói chuyện với quản lý.",
+                  "note": "Anh-Mỹ hay dùng <i>speak with</i>; cả hai đều đúng."
+                },
+                {
+                  "w": "talk about",
+                  "vi": "bàn về",
+                  "ex": "I’d like to talk about the schedule.",
+                  "exvi": "Tôi muốn bàn về lịch trình."
+                },
+                {
+                  "w": "apologize",
+                  "vi": "xin lỗi",
+                  "ex": "I’d like to apologize for the delay.",
+                  "exvi": "Tôi muốn xin lỗi vì sự chậm trễ.",
+                  "note": "Trang trọng hơn hẳn <i>Sorry!</i> — hợp với email và khách hàng."
+                },
+                {
+                  "w": "thank",
+                  "vi": "cảm ơn",
+                  "ex": "I’d like to thank you for your help.",
+                  "exvi": "Tôi muốn cảm ơn bạn đã giúp đỡ."
+                },
+                {
+                  "w": "introduce",
+                  "vi": "giới thiệu",
+                  "ex": "I’d like to introduce our new teammate.",
+                  "exvi": "Tôi muốn giới thiệu đồng đội mới của chúng ta."
+                },
+                {
+                  "w": "suggest",
+                  "vi": "đề xuất",
+                  "ex": "I’d like to suggest a different date.",
+                  "exvi": "Tôi muốn đề xuất một ngày khác."
+                },
+                {
+                  "w": "start by",
+                  "vi": "bắt đầu bằng",
+                  "ex": "I’d like to start by thanking everyone.",
+                  "exvi": "Tôi muốn bắt đầu bằng lời cảm ơn mọi người.",
+                  "note": "Sau <i>start by</i> luôn là V-ing."
+                },
+                {
+                  "w": "point out",
+                  "vi": "chỉ ra",
+                  "ex": "I’d like to point out one small problem.",
+                  "exvi": "Tôi muốn chỉ ra một vấn đề nhỏ.",
+                  "note": "Cách nêu vấn đề mà không làm ai mất mặt."
+                }
+              ]
+            },
+            {
+              "title": "Danh từ thường theo sau “I’d like…”",
+              "items": [
+                {
+                  "w": "a table for two",
+                  "vi": "bàn cho 2 người",
+                  "ex": "I’d like a table for two, please.",
+                  "exvi": "Cho tôi một bàn cho hai người ạ.",
+                  "note": "Đổi số người: <i>for three / for four</i>."
+                },
+                {
+                  "w": "a room for two nights",
+                  "vi": "phòng 2 đêm",
+                  "ex": "I’d like a room for two nights.",
+                  "exvi": "Tôi muốn một phòng cho hai đêm."
+                },
+                {
+                  "w": "the bill / the check",
+                  "vi": "hóa đơn",
+                  "ex": "I’d like the bill, please.",
+                  "exvi": "Cho tôi hóa đơn ạ.",
+                  "note": "Anh-Anh dùng <i>the bill</i>, Anh-Mỹ dùng <i>the check</i>."
+                },
+                {
+                  "w": "a receipt",
+                  "vi": "biên lai",
+                  "ex": "I’d like a receipt, please.",
+                  "exvi": "Cho tôi biên lai ạ.",
+                  "note": "Đọc là /rɪˈsiːt/ — chữ <b>p</b> câm."
+                },
+                {
+                  "w": "a refund",
+                  "vi": "hoàn tiền",
+                  "ex": "I’d like a refund for this order.",
+                  "exvi": "Tôi muốn hoàn tiền cho đơn hàng này."
+                },
+                {
+                  "w": "an appointment",
+                  "vi": "cuộc hẹn",
+                  "ex": "I’d like an appointment with Dr. Hoa.",
+                  "exvi": "Tôi muốn một cuộc hẹn với bác sĩ Hoa.",
+                  "note": "Hẹn khám / hẹn làm việc. Hẹn bạn bè thì dùng <i>meet up</i>."
+                },
+                {
+                  "w": "some water",
+                  "vi": "chút nước",
+                  "ex": "I’d like some water, please.",
+                  "exvi": "Cho tôi chút nước ạ.",
+                  "note": "<i>Water</i> không đếm được — dùng <i>some</i>, không dùng <i>a</i>."
+                },
+                {
+                  "w": "another one",
+                  "vi": "cái nữa",
+                  "ex": "This is nice — I’d like another one.",
+                  "exvi": "Cái này ngon — cho tôi thêm một cái nữa."
+                },
+                {
+                  "w": "the same, please",
+                  "vi": "cho giống vậy",
+                  "ex": "I’d like the same, please.",
+                  "exvi": "Cho tôi giống vậy ạ.",
+                  "note": "Cực tiện khi bạn không biết gọi tên món."
+                },
+                {
+                  "w": "a single ticket",
+                  "vi": "vé một chiều",
+                  "ex": "I’d like a single ticket to Hue.",
+                  "exvi": "Cho tôi một vé một chiều đi Huế.",
+                  "note": "Khứ hồi là <i>a return ticket</i> (Anh-Anh) / <i>round-trip</i> (Anh-Mỹ)."
+                }
+              ]
+            },
+            {
+              "title": "Từ nối làm câu mượt hơn",
+              "items": [
+                {
+                  "w": "please",
+                  "vi": "đặt cuối câu",
+                  "ex": "I’d like a glass of water, please.",
+                  "exvi": "Cho tôi một ly nước ạ.",
+                  "note": "Đặt cuối câu nghe tự nhiên hơn đặt đầu câu."
+                },
+                {
+                  "w": "if possible",
+                  "vi": "nếu được",
+                  "ex": "I’d like to sit by the window, if possible.",
+                  "exvi": "Nếu được thì tôi muốn ngồi cạnh cửa sổ.",
+                  "note": "Báo trước rằng bạn không đòi hỏi — rất được lòng người nghe."
+                },
+                {
+                  "w": "actually",
+                  "vi": "thật ra thì",
+                  "ex": "Actually, I’d like the chicken instead.",
+                  "exvi": "Thật ra thì cho tôi món gà thay vào đó.",
+                  "note": "Dùng khi đổi ý giữa chừng, nghe nhẹ nhàng không đột ngột."
+                },
+                {
+                  "w": "just",
+                  "vi": "chỉ… thôi",
+                  "ex": "I’d just like to ask one thing.",
+                  "exvi": "Tôi chỉ muốn hỏi một điều thôi.",
+                  "note": "Đặt giữa <i>I’d</i> và <i>like</i>, làm yêu cầu nhỏ đi."
+                },
+                {
+                  "w": "for now",
+                  "vi": "tạm thời",
+                  "ex": "I’d like just a coffee for now.",
+                  "exvi": "Tạm thời cho tôi một ly cà phê thôi.",
+                  "note": "Ngụ ý có thể gọi thêm sau — hay dùng khi chưa quyết."
+                },
+                {
+                  "w": "instead",
+                  "vi": "thay vào đó",
+                  "ex": "I’d like tea instead, please.",
+                  "exvi": "Cho tôi trà thay vào đó ạ.",
+                  "note": "Đặt cuối câu, dùng khi đổi từ lựa chọn này sang lựa chọn khác."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết. Học trọn một lượt nói chứ không chỉ một câu lẻ."
+        },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I’d like a cappuccino, please.",
+                  "vi": "Cho tôi một ly cappuccino ạ.",
+                  "open": {
+                    "en": "Hi there!",
+                    "vi": "Chào bạn!"
+                  },
+                  "reply": [
+                    {
+                      "them": "For here or to go?",
+                      "themvi": "Dùng tại chỗ hay mang đi ạ?",
+                      "you": "To go, please.",
+                      "youvi": "Mang đi ạ."
+                    },
+                    {
+                      "them": "What size would you like?",
+                      "themvi": "Bạn muốn cỡ nào?",
+                      "you": "Large, please.",
+                      "youvi": "Cỡ lớn ạ."
+                    },
+                    {
+                      "them": "Anything else?",
+                      "themvi": "Bạn dùng thêm gì không?",
+                      "you": "No, that’s all, thanks.",
+                      "youvi": "Không, vậy thôi, cảm ơn bạn."
+                    }
+                  ],
+                  "vars": [
+                    {
+                      "en": "I’d like a black coffee, please.",
+                      "vi": "Cho tôi một ly cà phê đen ạ."
+                    },
+                    {
+                      "en": "I’d like an iced tea, please.",
+                      "vi": "Cho tôi một ly trà đá ạ."
+                    }
+                  ],
+                  "close": {
+                    "en": "Thank you!",
+                    "vi": "Cảm ơn bạn!"
+                  }
+                },
+                {
+                  "en": "I’d like to order now, please.",
+                  "vi": "Tôi muốn gọi món bây giờ ạ.",
+                  "note": "Gọi nhân viên bằng <b>Excuse me</b> — đừng vẫy tay hay gọi “Hey”, người Âu Mỹ thấy khá bất lịch sự.",
+                  "open": {
+                    "en": "Excuse me…",
+                    "vi": "Xin lỗi, cho hỏi…"
+                  },
+                  "reply": [
+                    {
+                      "them": "Sure, go ahead.",
+                      "themvi": "Vâng, mời anh/chị.",
+                      "you": "I’d like the beef pho, please.",
+                      "youvi": "Cho tôi phở bò ạ."
+                    },
+                    {
+                      "them": "Are you ready to order?",
+                      "themvi": "Anh/chị gọi món chưa ạ?",
+                      "you": "Yes, I think so.",
+                      "youvi": "Rồi ạ."
+                    }
+                  ]
+                },
+                {
+                  "en": "I’d like the beef noodles, but without onions.",
+                  "vi": "Cho tôi phở bò, nhưng không hành nhé.",
+                  "note": "Mẫu <span class=\"k\">…, but without + N</span> dùng để tùy chỉnh món mà không cần giải thích dài dòng.",
+                  "reply": [
+                    {
+                      "them": "No problem. Anything to drink?",
+                      "themvi": "Không vấn đề gì ạ. Anh/chị uống gì không?",
+                      "you": "Just water, please.",
+                      "youvi": "Cho tôi nước lọc thôi ạ."
+                    }
+                  ],
+                  "vars": [
+                    {
+                      "en": "I’d like the chicken, but no spicy sauce.",
+                      "vi": "Cho tôi món gà, nhưng không sốt cay."
+                    },
+                    {
+                      "en": "I’d like a salad, but without cheese.",
+                      "vi": "Cho tôi một phần salad, nhưng không phô mai."
+                    }
+                  ],
+                  "close": {
+                    "en": "Thank you.",
+                    "vi": "Cảm ơn bạn."
+                  }
+                },
+                {
+                  "en": "Could we have the bill? Actually, I’d like to pay by card.",
+                  "vi": "Cho chúng tôi hóa đơn nhé? À, tôi muốn thanh toán bằng thẻ.",
+                  "note": "<b>Actually</b> dùng để bổ sung hoặc đính chính nhẹ nhàng giữa chừng.",
+                  "reply": [
+                    {
+                      "them": "Of course. Together or separately?",
+                      "themvi": "Vâng ạ. Tính chung hay tính riêng ạ?",
+                      "you": "Together, please.",
+                      "youvi": "Tính chung ạ."
+                    }
+                  ],
+                  "close": {
+                    "en": "Thanks, that was great.",
+                    "vi": "Cảm ơn nhé, đồ ăn ngon lắm."
+                  }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I’d like to try this on. Where’s the fitting room?",
+                  "vi": "Tôi muốn thử cái này. Phòng thử đồ ở đâu ạ?",
+                  "reply": [
+                    {
+                      "them": "Sure, it’s right over there.",
+                      "themvi": "Vâng, ngay đằng kia ạ.",
+                      "you": "Thanks!",
+                      "youvi": "Cảm ơn bạn!"
+                    },
+                    {
+                      "them": "How many items?",
+                      "themvi": "Anh/chị thử mấy món ạ?",
+                      "you": "Just two.",
+                      "youvi": "Hai món thôi ạ."
+                    }
+                  ],
+                  "open": {
+                    "en": "Excuse me…",
+                    "vi": "Xin lỗi, cho hỏi…"
+                  }
+                },
+                {
+                  "en": "I’d like to return this. It doesn’t fit.",
+                  "vi": "Tôi muốn trả lại món này. Nó không vừa.",
+                  "reply": [
+                    {
+                      "them": "Do you have the receipt?",
+                      "themvi": "Anh/chị có biên lai không ạ?",
+                      "you": "Yes, here you go.",
+                      "youvi": "Có, đây ạ."
+                    },
+                    {
+                      "them": "Would you like a refund or an exchange?",
+                      "themvi": "Anh/chị muốn hoàn tiền hay đổi hàng ạ?",
+                      "you": "A refund, please.",
+                      "youvi": "Hoàn tiền ạ."
+                    }
+                  ],
+                  "vars": [
+                    {
+                      "en": "I’d like to return this. It’s the wrong size.",
+                      "vi": "Tôi muốn trả lại món này. Sai cỡ rồi."
+                    },
+                    {
+                      "en": "I’d like to exchange this for a bigger one.",
+                      "vi": "Tôi muốn đổi cái này lấy cỡ lớn hơn."
+                    }
+                  ],
+                  "open": {
+                    "en": "Hi — I bought this here yesterday.",
+                    "vi": "Chào bạn — mình mua cái này ở đây hôm qua."
+                  },
+                  "close": {
+                    "en": "Thanks for sorting that out.",
+                    "vi": "Cảm ơn bạn đã xử lý giúp."
+                  }
+                },
+                {
+                  "en": "I’d like a refund, if possible.",
+                  "vi": "Nếu được thì tôi muốn hoàn tiền.",
+                  "note": "<b>if possible</b> giữ thể diện cho cả hai bên: nếu họ từ chối thì không ai khó xử.",
+                  "reply": [
+                    {
+                      "them": "I’m afraid we only offer store credit.",
+                      "themvi": "E là bên em chỉ đổi phiếu mua hàng thôi ạ.",
+                      "you": "I see. That’s fine then.",
+                      "youvi": "Tôi hiểu rồi. Vậy cũng được."
+                    }
+                  ],
+                  "close": {
+                    "en": "Thanks anyway.",
+                    "vi": "Vẫn cảm ơn bạn nhé."
+                  }
+                },
+                {
+                  "en": "I’d like to know if you have this in black.",
+                  "vi": "Tôi muốn biết bên bạn có màu đen không.",
+                  "note": "<span class=\"k\">I’d like to know if…</span> là câu hỏi gián tiếp — nghe mềm hơn <i>Do you have…?</i>",
+                  "reply": [
+                    {
+                      "them": "Let me check for you.",
+                      "themvi": "Để em kiểm tra giúp anh/chị.",
+                      "you": "Thank you.",
+                      "youvi": "Cảm ơn bạn."
+                    },
+                    {
+                      "them": "Sorry, we’re out of stock.",
+                      "themvi": "Xin lỗi, bên em hết hàng rồi ạ.",
+                      "you": "No worries. Thanks anyway.",
+                      "youvi": "Không sao. Vẫn cảm ơn nhé."
+                    }
+                  ],
+                  "open": {
+                    "en": "Excuse me, could you help me?",
+                    "vi": "Xin lỗi, bạn giúp mình một chút được không?"
+                  },
+                  "close": {
+                    "en": "Thanks for checking.",
+                    "vi": "Cảm ơn bạn đã kiểm tra giúp."
+                  }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Hi, I’d like to check in. The booking is under Nam.",
+                  "vi": "Chào anh/chị, tôi muốn nhận phòng. Đặt phòng dưới tên Nam.",
+                  "note": "<span class=\"k\">under + tên</span> = đặt dưới tên ai. Dùng cho cả khách sạn lẫn nhà hàng.",
+                  "reply": [
+                    {
+                      "them": "Could I see your passport, please?",
+                      "themvi": "Cho em xin hộ chiếu ạ?",
+                      "you": "Sure, here you go.",
+                      "youvi": "Vâng, đây ạ."
+                    },
+                    {
+                      "them": "You’re in room 502, on the fifth floor.",
+                      "themvi": "Anh/chị ở phòng 502, tầng 5 ạ.",
+                      "you": "Great, thank you.",
+                      "youvi": "Tuyệt, cảm ơn bạn."
+                    }
+                  ],
+                  "close": {
+                    "en": "Thanks for your help.",
+                    "vi": "Cảm ơn bạn đã giúp."
+                  }
+                },
+                {
+                  "en": "I’d like a room with a window, please.",
+                  "vi": "Cho tôi phòng có cửa sổ ạ.",
+                  "reply": [
+                    {
+                      "them": "Let me see what we have.",
+                      "themvi": "Để em xem còn phòng nào ạ.",
+                      "you": "Thank you.",
+                      "youvi": "Cảm ơn bạn."
+                    },
+                    {
+                      "them": "I’m afraid those are all taken.",
+                      "themvi": "E là hết phòng loại đó rồi ạ.",
+                      "you": "That’s OK, thanks for checking.",
+                      "youvi": "Không sao, cảm ơn đã kiểm tra giúp."
+                    }
+                  ],
+                  "vars": [
+                    {
+                      "en": "I’d like a room on a higher floor, please.",
+                      "vi": "Cho tôi phòng ở tầng cao hơn ạ."
+                    },
+                    {
+                      "en": "I’d like a quiet room, if possible.",
+                      "vi": "Nếu được cho tôi phòng yên tĩnh ạ."
+                    }
+                  ],
+                  "close": {
+                    "en": "Perfect, thank you.",
+                    "vi": "Tuyệt, cảm ơn bạn."
+                  }
+                },
+                {
+                  "en": "I’d like to book an appointment for Friday morning.",
+                  "vi": "Tôi muốn đặt lịch hẹn sáng thứ Sáu.",
+                  "reply": [
+                    {
+                      "them": "What time works for you?",
+                      "themvi": "Anh/chị muốn mấy giờ ạ?",
+                      "you": "Around nine, if possible.",
+                      "youvi": "Khoảng 9 giờ, nếu được ạ."
+                    },
+                    {
+                      "them": "Can I take your name?",
+                      "themvi": "Cho em xin tên ạ?",
+                      "you": "It’s Nam — N, A, M.",
+                      "youvi": "Nam ạ — N, A, M."
+                    }
+                  ],
+                  "open": {
+                    "en": "Hello, I’m calling about an appointment.",
+                    "vi": "Xin chào, tôi gọi để đặt lịch hẹn."
+                  },
+                  "close": {
+                    "en": "Great — see you Friday.",
+                    "vi": "Tuyệt — hẹn gặp thứ Sáu."
+                  }
+                },
+                {
+                  "en": "I’d like to change my flight to the evening one.",
+                  "vi": "Tôi muốn đổi chuyến bay sang chuyến buổi tối.",
+                  "reply": [
+                    {
+                      "them": "There’s a change fee of thirty dollars.",
+                      "themvi": "Phí đổi vé là 30 đô ạ.",
+                      "you": "That’s fine. Go ahead.",
+                      "youvi": "Được thôi. Anh/chị làm giúp tôi."
+                    },
+                    {
+                      "them": "The evening flight is full, I’m afraid.",
+                      "themvi": "E là chuyến tối đã kín chỗ ạ.",
+                      "you": "What else do you have?",
+                      "youvi": "Vậy còn chuyến nào khác không ạ?"
+                    }
+                  ],
+                  "open": {
+                    "en": "Hi, I need some help with my booking.",
+                    "vi": "Chào bạn, tôi cần hỗ trợ về vé đã đặt."
+                  },
+                  "close": {
+                    "en": "Thanks for your help.",
+                    "vi": "Cảm ơn bạn đã giúp."
+                  }
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Before we finish, I’d like to raise one point.",
+                  "vi": "Trước khi kết thúc, tôi muốn nêu một vấn đề.",
+                  "note": "Câu mở lời an toàn nhất khi muốn phát biểu vào cuối cuộc họp — báo trước rằng bạn sẽ nói ngắn.",
+                  "reply": [
+                    {
+                      "them": "Sure, go ahead.",
+                      "themvi": "Vâng, mời anh/chị.",
+                      "you": "It’s about the deadline.",
+                      "youvi": "Là về hạn chót ạ."
+                    }
+                  ],
+                  "vars": [
+                    {
+                      "en": "Before we move on, I’d like to add something.",
+                      "vi": "Trước khi sang phần khác, tôi muốn bổ sung một ý."
+                    },
+                    {
+                      "en": "If I may, I’d like to ask a question.",
+                      "vi": "Nếu được, tôi muốn hỏi một câu."
+                    }
+                  ],
+                  "close": {
+                    "en": "That’s all from me, thanks.",
+                    "vi": "Tôi chỉ có vậy thôi, cảm ơn mọi người."
+                  }
+                },
+                {
+                  "en": "I’d like you to send me the report by Friday.",
+                  "vi": "Tôi muốn bạn gửi tôi báo cáo trước thứ Sáu.",
+                  "note": "Dạng <span class=\"k\">I’d like + ai + to V</span> — giao việc lịch sự nhưng vẫn rõ ràng, không mơ hồ.",
+                  "reply": [
+                    {
+                      "them": "Sure, I’ll get it to you by then.",
+                      "themvi": "Vâng, em sẽ gửi anh/chị trước hạn.",
+                      "you": "Thanks, I appreciate it.",
+                      "youvi": "Cảm ơn nhé, tôi rất cảm kích."
+                    },
+                    {
+                      "them": "Friday might be tight. Could I send it Monday?",
+                      "themvi": "Thứ Sáu hơi gấp ạ. Em gửi thứ Hai được không?",
+                      "you": "Monday works.",
+                      "youvi": "Thứ Hai cũng được."
+                    }
+                  ],
+                  "open": {
+                    "en": "Quick thing before you go —",
+                    "vi": "Có việc nhanh trước khi bạn đi —"
+                  },
+                  "close": {
+                    "en": "Great, thanks a lot.",
+                    "vi": "Tuyệt, cảm ơn bạn nhiều."
+                  }
+                },
+                {
+                  "en": "Hello, I’d like to speak to Ms. Lan, please.",
+                  "vi": "Xin chào, cho tôi gặp chị Lan ạ.",
+                  "reply": [
+                    {
+                      "them": "May I ask who’s calling?",
+                      "themvi": "Cho hỏi ai đang gọi ạ?",
+                      "you": "This is Nam from CMC.",
+                      "youvi": "Nam bên CMC ạ."
+                    },
+                    {
+                      "them": "She’s in a meeting right now.",
+                      "themvi": "Chị ấy đang họp ạ.",
+                      "you": "Could I leave a message?",
+                      "youvi": "Tôi để lại lời nhắn được không?"
+                    }
+                  ],
+                  "close": {
+                    "en": "Thanks for your help. Goodbye.",
+                    "vi": "Cảm ơn bạn đã giúp. Chào bạn."
+                  }
+                },
+                {
+                  "en": "I’d just like to confirm the meeting is still at 3 p.m.",
+                  "vi": "Tôi chỉ muốn xác nhận lại là cuộc họp vẫn lúc 3 giờ chiều.",
+                  "reply": [
+                    {
+                      "them": "Yes, that’s right.",
+                      "themvi": "Vâng, đúng rồi ạ.",
+                      "you": "Great, see you then.",
+                      "youvi": "Tuyệt, hẹn gặp lúc đó."
+                    },
+                    {
+                      "them": "Actually, it’s been moved to four.",
+                      "themvi": "Thật ra dời sang 4 giờ rồi ạ.",
+                      "you": "Good to know — thanks.",
+                      "youvi": "May mà hỏi — cảm ơn nhé."
+                    }
+                  ],
+                  "open": {
+                    "en": "Hi Lan, sorry to bother you.",
+                    "vi": "Chào Lan, xin lỗi làm phiền bạn."
+                  },
+                  "close": {
+                    "en": "See you at three.",
+                    "vi": "Hẹn gặp lúc ba giờ."
+                  }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I’d like to learn how to swim this year.",
+                  "vi": "Năm nay tôi muốn học bơi.",
+                  "note": "<span class=\"k\">learn how to + V</span> — học cách làm một việc.",
+                  "reply": [
+                    {
+                      "them": "That’s great! Have you found a class?",
+                      "themvi": "Hay quá! Bạn tìm được lớp chưa?",
+                      "you": "Not yet, I’m still looking.",
+                      "youvi": "Chưa, mình vẫn đang tìm."
+                    }
+                  ],
+                  "close": {
+                    "en": "Let me know if you hear of one.",
+                    "vi": "Bạn biết lớp nào thì báo mình nhé."
+                  }
+                },
+                {
+                  "en": "One day I’d like to live by the sea.",
+                  "vi": "Một ngày nào đó tôi muốn sống gần biển.",
+                  "reply": [
+                    {
+                      "them": "Same here! Where would you go?",
+                      "themvi": "Mình cũng vậy! Bạn sẽ đi đâu?",
+                      "you": "Maybe Da Nang.",
+                      "youvi": "Chắc là Đà Nẵng."
+                    }
+                  ],
+                  "vars": [
+                    {
+                      "en": "Someday I’d like to work abroad.",
+                      "vi": "Một ngày nào đó tôi muốn làm việc ở nước ngoài."
+                    },
+                    {
+                      "en": "Eventually I’d like to start my own business.",
+                      "vi": "Về lâu dài tôi muốn tự mở công ty."
+                    }
+                  ]
+                },
+                {
+                  "en": "I’d like to thank you all for your hard work.",
+                  "vi": "Tôi muốn cảm ơn tất cả mọi người vì đã làm việc vất vả.",
+                  "note": "Câu mở đầu chuẩn cho một phát biểu ngắn trước đám đông.",
+                  "close": {
+                    "en": "Thank you again, everyone.",
+                    "vi": "Một lần nữa, cảm ơn mọi người."
+                  }
+                },
+                {
+                  "en": "I’d like to introduce my colleague, Minh.",
+                  "vi": "Tôi xin giới thiệu đồng nghiệp của tôi, Minh.",
+                  "reply": [
+                    {
+                      "them": "Nice to meet you, Minh.",
+                      "themvi": "Rất vui được gặp Minh.",
+                      "you": "Nice to meet you too.",
+                      "youvi": "Tôi cũng rất vui được gặp bạn."
+                    }
+                  ],
+                  "open": {
+                    "en": "Everyone, before we start —",
+                    "vi": "Mọi người ơi, trước khi bắt đầu —"
+                  },
+                  "close": {
+                    "en": "Please make him feel welcome.",
+                    "vi": "Mọi người đón chào cậu ấy nhé."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Tại quán cà phê",
+          "lines": [
+            {
+              "speaker": "Barista",
+              "en": "Hi there! What can I get you?",
+              "vi": "Chào bạn! Bạn dùng gì ạ?"
+            },
+            {
+              "speaker": "You",
+              "me": true,
+              "en": "Hi, I’d like a large iced latte, please.",
+              "vi": "Chào bạn, cho mình một ly latte đá cỡ lớn."
+            },
+            {
+              "speaker": "Barista",
+              "en": "Sure. Anything else?",
+              "vi": "Vâng ạ. Bạn dùng thêm gì không?"
+            },
+            {
+              "speaker": "You",
+              "me": true,
+              "en": "Yes, I’d also like a croissant. And could I have it to go?",
+              "vi": "Có, cho mình thêm một cái bánh sừng bò. Và cho mình mang đi được không?"
+            },
+            {
+              "speaker": "Barista",
+              "en": "Of course. That’ll be six fifty.",
+              "vi": "Tất nhiên rồi. Hết sáu đồng rưỡi ạ."
+            }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Gọi điện cho công ty",
+          "lines": [
+            {
+              "speaker": "Receptionist",
+              "en": "Good morning, ABC Company. How may I help you?",
+              "vi": "Chào buổi sáng, công ty ABC xin nghe. Tôi có thể giúp gì ạ?"
+            },
+            {
+              "speaker": "You",
+              "me": true,
+              "en": "Good morning. I’d like to speak to someone in the sales department.",
+              "vi": "Chào chị. Tôi muốn nói chuyện với ai đó ở bộ phận kinh doanh."
+            },
+            {
+              "speaker": "Receptionist",
+              "en": "May I ask what it’s about?",
+              "vi": "Cho hỏi là về việc gì ạ?"
+            },
+            {
+              "speaker": "You",
+              "me": true,
+              "en": "Sure. I’d like to ask about your pricing for large orders.",
+              "vi": "Vâng. Tôi muốn hỏi về bảng giá cho đơn hàng số lượng lớn."
+            },
+            {
+              "speaker": "Receptionist",
+              "en": "One moment, I’ll put you through.",
+              "vi": "Chờ một chút, tôi sẽ nối máy cho anh/chị."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            {
+              "wrong": "I’d like to a coffee.",
+              "right": "I’d like a coffee.",
+              "why": "Có <b>to</b> thì phải có động từ theo sau. Đi với danh từ thì bỏ <b>to</b>."
+            },
+            {
+              "wrong": "I’d like going to Da Lat.",
+              "right": "I’d like to go to Da Lat.",
+              "why": "Sau <b>would like</b> luôn là <b>to + V</b>. (Chỉ <i>I like going…</i> — nói về sở thích — mới dùng V-ing.)"
+            },
+            {
+              "wrong": "I’d like that you help me.",
+              "right": "I’d like you to help me.",
+              "why": "Tiếng Anh không dùng mệnh đề “that” ở đây. Công thức là <b>I’d like + ai + to V</b>."
+            },
+            {
+              "wrong": "Do you like some tea? <i>(khi đang mời)</i>",
+              "right": "Would you like some tea?",
+              "why": "<i>Do you like tea?</i> là hỏi sở thích lâu dài. Muốn <b>mời</b> ngay lúc đó phải dùng <b>Would you like…?</b>"
+            },
+            {
+              "wrong": "I like a table for two, please.",
+              "right": "I’d like a table for two, please.",
+              "why": "Nuốt mất âm <b>’d</b> là lỗi phát âm phổ biến nhất — và nó làm câu đổi nghĩa hoàn toàn."
+            },
+            {
+              "wrong": "I’d like to a meeting tomorrow.",
+              "right": "I’d like to have a meeting tomorrow.",
+              "why": "Thiếu động từ. Khi nói về sự kiện, nhớ thêm <b>have / arrange / set up</b>."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": [
+            "Khung",
+            "Sắc thái",
+            "Ví dụ & lúc nào dùng"
+          ],
+          "rows": [
+            [
+              "<code>I want to…</code>",
+              "Thẳng, mạnh, thân mật",
+              "<i>I want to go home.</i> — Với bạn bè, người thân, hoặc khi cần dứt khoát."
+            ],
+            [
+              "<code>I’d like to…</code>",
+              "Lịch sự trung tính — mặc định an toàn",
+              "<i>I’d like to go home now, if that’s OK.</i>"
+            ],
+            [
+              "<code>I’d love to…</code>",
+              "Nhiệt tình, hào hứng",
+              "<i>“Want to join us?” — “I’d love to!”</i> — Cách nhận lời mời hay nhất."
+            ],
+            [
+              "<code>I feel like + V-ing</code>",
+              "Thèm, hứng nhất thời",
+              "<i>I feel like eating something spicy.</i>"
+            ],
+            [
+              "<code>I need to…</code>",
+              "Cần thiết, bắt buộc — không phải mong muốn",
+              "<i>I need to see a doctor.</i>"
+            ],
+            [
+              "<code>I wish I could…</code>",
+              "Ước điều khó/không thể xảy ra",
+              "<i>I wish I could speak French.</i>"
+            ],
+            [
+              "<code>I was hoping to…</code>",
+              "Rất dè dặt, khi ngại làm phiền",
+              "<i>I was hoping to leave a bit early today.</i>"
+            ]
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Thang độ lịch sự — chọn theo đối tượng"
+        },
+        {
+          "t": "scale",
+          "items": [
+            {
+              "en": "I want a receipt.",
+              "vi": "Thẳng — bạn bè"
+            },
+            {
+              "en": "Can I have a receipt?",
+              "vi": "Thân thiện — đời thường"
+            },
+            {
+              "en": "I’d like a receipt, please.",
+              "vi": "Chuẩn mực — dùng mọi nơi"
+            },
+            {
+              "en": "Could I have a receipt, please?",
+              "vi": "Lịch sự hơn — người lạ"
+            },
+            {
+              "en": "I was wondering if I could get a receipt.",
+              "vi": "Rất nhã — khi ngại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>I’d</b> = /aɪd/ — một âm tiết, âm /d/ rất nhẹ ở cuối. Đừng đọc tách thành “ai đờ”.",
+            "<b>I’d like</b> → hai phụ âm /d/ + /l/ dính vào nhau: nghe gần như <i>“ai-LAIK”</i>, trọng âm rơi vào <b>like</b>.",
+            "<b>to</b> trong “like to” bị giảm thành /tə/ (âm “tơ” rất nhẹ): <i>“ai-laik-tə”</i>.",
+            "Nhịp cả cụm: <b>ai-laik-tə</b> nói liền một hơi, rồi mới nhấn vào nội dung chính. Ví dụ: <i>I’d like to</i> <b>BOOK</b> <i>a</i> <b>TA</b>-ble.",
+            "Nói đầy đủ “I <b>would</b> like” chỉ khi muốn nhấn mạnh hoặc phát biểu rất trang trọng."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "I’d like to book a table for tomorrow evening.",
+              "vi": "Luyện shadowing: nghe — nhại lại — lặp 5 lần cho trôi cụm đầu câu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        {
+          "t": "h3",
+          "text": "A. Điền vào chỗ trống"
+        },
+        {
+          "t": "quiz",
+          "items": [
+            {
+              "vi": "Xin chào, tôi muốn đặt bàn cho bốn người.",
+              "blank": "Hello, __________ a table for four.",
+              "a": "I’d like to book"
+            },
+            {
+              "vi": "Cho tôi một chai nước ạ.",
+              "blank": "__________ a bottle of water, please.",
+              "a": "I’d like (bỏ “to” vì theo sau là danh từ)"
+            },
+            {
+              "vi": "Tôi muốn bạn kiểm tra lại các con số này.",
+              "blank": "__________ these numbers again.",
+              "a": "I’d like you to check"
+            },
+            {
+              "vi": "Bạn có muốn uống chút gì không?",
+              "blank": "__________ something to drink?",
+              "a": "Would you like"
+            },
+            {
+              "vi": "Tôi muốn biết liệu phòng đã sẵn sàng chưa.",
+              "blank": "__________ the room is ready.",
+              "a": "I’d like to know if"
+            },
+            {
+              "vi": "Tôi không muốn nói về chuyện đó.",
+              "blank": "__________ talk about that.",
+              "a": "I’d rather not"
+            },
+            {
+              "vi": "Tôi muốn đổi lịch hẹn sang thứ Năm.",
+              "blank": "__________ my appointment to Thursday.",
+              "a": "I’d like to change"
+            },
+            {
+              "vi": "Tôi chỉ muốn xác nhận lại địa chỉ thôi.",
+              "blank": "__________ the address.",
+              "a": "I’d just like to confirm"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "B. Dịch Việt → Anh"
+        },
+        {
+          "t": "quiz",
+          "items": [
+            {
+              "vi": "1. Tôi muốn thử cái này ạ.",
+              "a": "I’d like to try this on, please."
+            },
+            {
+              "vi": "2. Cho tôi gặp quản lý ạ.",
+              "a": "I’d like to speak to the manager, please."
+            },
+            {
+              "vi": "3. Tôi muốn hủy đơn hàng của mình.",
+              "a": "I’d like to cancel my order."
+            },
+            {
+              "vi": "4. Tôi muốn bạn gửi tôi tập tin đó hôm nay.",
+              "a": "I’d like you to send me the file today."
+            },
+            {
+              "vi": "5. Một ngày nào đó tôi muốn làm việc ở nước ngoài.",
+              "a": "One day I’d like to work abroad."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Quy tắc thay thế:</b> mỗi lần định nói <i>I want…</i> với người không thân, dừng lại và đổi thành <i>I’d like…</i>. Chỉ cần một tuần là thành phản xạ.",
+            "<b>Luyện theo ổ khóa:</b> học thuộc cụm mở đầu <i>“I’d like to…”</i> như một từ duy nhất, rồi mỗi ngày cắm 10 động từ khác nhau vào sau. Não bạn sẽ rảnh để lo phần nội dung.",
+            "<b>Cặp đôi bất ly thân:</b> luôn kết thúc bằng <i>please</i> khi yêu cầu dịch vụ. <i>I’d like…, please.</i>",
+            "<b>Tự kiểm tra:</b> sau “to” có động từ không? Nếu là danh từ thì đã bỏ “to” chưa?",
+            "<b>Bài tập 3 phút:</b> mô tả 5 việc bạn muốn làm trong tháng này, tất cả bằng <i>I’d like to…</i>, nói to thành tiếng."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "id": 69,
+  "group": "Nhóm 7 · Hỏi thông tin",
+  "title": "Could you explain…? — Xin giải thích đầy đủ",
+  "subtitle": "Khi một câu hỏi lại ngắn không đủ và bạn cần cả một lời giải thích, đây là khung câu để xin. Nó lịch sự, chuyên nghiệp, và không hề làm bạn kém đi trong mắt ai. Nhưng nó chứa một lỗi ngữ pháp mà gần như mọi người học Việt Nam đều mắc: explain me.",
+  "pattern": [
+    "Could you explain <em>+ N</em>?",
+    "Could you explain <em>+ N</em> to me?",
+    "Could you walk me through <em>+ N</em>?"
+  ],
+  "meaning": "Anh/chị giải thích… được không? / Cho tôi hiểu rõ hơn về…",
+  "grammar": [29, 31, 32, 38],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 5/5" },
+    { "text": "Bẫy “explain me”" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">Could you explain…?</span> xin một <b>lời giải thích đầy đủ</b>, không phải một câu trả lời ngắn. Khác với [Khung 68] vốn chỉ làm rõ một từ, khung này yêu cầu người kia trình bày lại cả một điều gì đó." },
+        { "t": "p", "html": "Nó hoàn toàn <b>không làm bạn kém đi trong mắt ai</b>. Ngược lại, trong công việc, người dám hỏi để hiểu đúng được đánh giá cao hơn nhiều so với người gật đầu rồi làm sai." },
+        { "t": "p", "html": "Một biến thể cực mạnh là <span class=\"k\">Could you walk me through…?</span> — nó xin người kia dẫn bạn đi <b>từng bước một</b>. Rất hữu dụng với quy trình, phần mềm, hoặc bất cứ thứ gì có nhiều bước." },
+        { "t": "callout", "html": "<b>LỖI KINH ĐIỂN NHẤT:</b> <span class=\"k\">Could you explain me?</span> ✗ — động từ <i>explain</i> KHÔNG nhận tân ngữ người trực tiếp. Phải là <b>explain something <b>to</b> someone</b>: <i>Could you explain it <b>to me</b>?</i> ✓" },
+        { "t": "h3", "text": "Trật tự đúng của “explain”" },
+        {
+          "t": "table",
+          "head": ["Sai", "Đúng", "Ghi chú"],
+          "rows": [
+            ["<i>Explain me this.</i> ✗", "<code>Explain this to me.</code>", "Vật trước, người sau, có <i>to</i>"],
+            ["<i>Could you explain me?</i> ✗", "<code>Could you explain it to me?</code>", "Phải có tân ngữ vật"],
+            ["<i>He explained me the rules.</i> ✗", "<code>He explained the rules to me.</code>", "Cùng một lỗi"],
+            ["<i>Explain to me this.</i> ⚠", "<code>Explain this to me.</code>", "Đảo được nhưng ít tự nhiên"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Nhóm động từ cùng luật:</b> <i>explain, describe, suggest, mention, announce</i> — tất cả đều cần <b>to + người</b>. Khác với <i>tell, give, send, show</i> vốn nhận người trực tiếp: <i>tell me</i> ✓, <i>give me</i> ✓." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "📚", "title": "Xin giải thích một khái niệm", "text": "Bối cảnh số 1. <i>Could you explain how it works?</i>" },
+            { "icon": "🪜", "title": "Xin hướng dẫn từng bước", "text": "<i>Could you walk me through the process?</i>" },
+            { "icon": "🔁", "title": "Xin nhắc lại", "text": "<i>Could you go over that again?</i>" },
+            { "icon": "📄", "title": "Làm rõ điều khoản, hợp đồng", "text": "<i>Could you explain this clause?</i>" },
+            { "icon": "🗣", "title": "Xin nói đơn giản hơn", "text": "<i>Could you explain it in simple terms?</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn chỉ cần làm rõ một từ. Ở đó dùng [Khung 68] cho gọn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Với danh từ", "<code>Could you explain + N?</code>", "Could you explain the process?"],
+            ["Nêu rõ người nhận", "<code>Could you explain + N + to me?</code>", "Could you explain it to me?"],
+            ["Với mệnh đề wh-", "<code>Could you explain how/why…?</code>", "Could you explain how it works?"],
+            ["Từng bước", "<code>Could you walk me through + N?</code>", "Could you walk me through it?"],
+            ["Nhắc lại", "<code>Could you go over that again?</code>", "Could you go over that again?"],
+            ["Nói rõ thêm", "<code>Could you elaborate?</code>", "Could you elaborate on that?"],
+            ["Làm rõ điểm mơ hồ", "<code>Could you clarify + N?</code>", "Could you clarify the deadline?"],
+            ["Xin nói đơn giản", "<code>…in simple terms?</code>", "Could you explain it in simple terms?"],
+            ["Thân mật", "<code>Can you break it down for me?</code>", "Can you break it down for me?"],
+            ["Trang trọng nhất", "<code>I'd be grateful if you could explain…</code>", "I'd be grateful if you could explain the terms."]
+          ]
+        },
+        { "t": "callout", "html": "<b>“elaborate” đi với “on”:</b> <i>Could you elaborate <b>on</b> that?</i> Nó nghĩa là “nói thêm, khai triển thêm” — dùng khi người ta đã nói rồi nhưng quá ngắn gọn." },
+        { "t": "callout", "html": "<b>Đừng thêm “about” sau explain</b> khi đã có tân ngữ rõ ràng: <i>Could you explain the process?</i> ✓ — <i>explain about the process</i> nghe thừa và vụng." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Những thứ hay xin giải thích",
+              "items": [
+                { "w": "how it works", "vi": "nó hoạt động thế nào", "ex": "Could you explain how it works?", "exvi": "Anh/chị giải thích nó hoạt động thế nào được không ạ?", "note": "Mệnh đề wh- ở trật tự THƯỜNG: <i>how it works</i>, không phải <i>how does it work</i>." },
+                { "w": "the process", "vi": "quy trình", "ex": "Could you explain the process?", "exvi": "Anh/chị giải thích quy trình được không ạ?" },
+                { "w": "this clause", "vi": "điều khoản này", "ex": "Could you explain this clause?", "exvi": "Anh/chị giải thích điều khoản này được không ạ?" },
+                { "w": "the difference", "vi": "sự khác biệt", "ex": "Could you explain the difference?", "exvi": "Anh/chị giải thích khác biệt giúp được không ạ? Xem [Khung 66]." },
+                { "w": "why it happened", "vi": "vì sao chuyện đó xảy ra", "ex": "Could you explain why it happened?", "exvi": "Anh/chị giải thích vì sao chuyện đó xảy ra được không?" },
+                { "w": "what went wrong", "vi": "sai ở đâu", "ex": "Could you explain what went wrong?", "exvi": "Anh/chị giải thích sai ở đâu được không?" },
+                { "w": "the charges", "vi": "các khoản phí", "ex": "Could you explain the charges?", "exvi": "Anh/chị giải thích các khoản phí được không ạ?", "note": "Rất hữu dụng khi hóa đơn có mục bạn không hiểu." },
+                { "w": "the terms", "vi": "điều khoản", "ex": "Could you explain the terms to me?", "exvi": "Anh/chị giải thích điều khoản cho tôi được không ạ?" },
+                { "w": "how to use it", "vi": "cách dùng nó", "ex": "Could you explain how to use it?", "exvi": "Anh/chị hướng dẫn cách dùng được không ạ?" },
+                { "w": "the next steps", "vi": "các bước tiếp theo", "ex": "Could you explain the next steps?", "exvi": "Anh/chị giải thích các bước tiếp theo được không ạ?" },
+                { "w": "what's included", "vi": "gồm những gì", "ex": "Could you explain what's included?", "exvi": "Anh/chị giải thích gồm những gì được không ạ?" },
+                { "w": "it to me", "vi": "nó cho tôi", "ex": "Could you explain it to me?", "exvi": "Anh/chị giải thích cho tôi được không ạ?", "note": "BẮT BUỘC có <b>to</b>. <i>explain me</i> ✗ là lỗi kinh điển." }
+              ]
+            },
+            {
+              "title": "Các cách xin giải thích khác",
+              "items": [
+                { "w": "walk me through", "vi": "dẫn tôi đi từng bước", "ex": "Could you walk me through the process?", "exvi": "Anh/chị dẫn tôi đi từng bước quy trình được không ạ?", "note": "Biến thể mạnh nhất — xin hướng dẫn TỪNG BƯỚC, rất hợp với quy trình." },
+                { "w": "go over that again", "vi": "xem lại chỗ đó lần nữa", "ex": "Could you go over that again?", "exvi": "Anh/chị nói lại chỗ đó được không ạ?", "note": "Xin nhắc lại mà không làm người ta thấy mình giảng dở." },
+                { "w": "elaborate on", "vi": "nói rõ thêm về", "ex": "Could you elaborate on that point?", "exvi": "Anh/chị nói rõ thêm về ý đó được không ạ?", "note": "Đi với <b>on</b>. Dùng khi người ta đã nói nhưng quá ngắn gọn." },
+                { "w": "clarify", "vi": "làm rõ", "ex": "Could you clarify the deadline?", "exvi": "Anh/chị làm rõ giúp hạn chót được không ạ?", "note": "Trang trọng — rất hợp email công việc." },
+                { "w": "break it down", "vi": "chia nhỏ ra cho dễ hiểu", "ex": "Can you break it down for me?", "exvi": "Anh/chị chia nhỏ ra cho tôi dễ hiểu được không?", "note": "Thân mật hơn — dùng với đồng nghiệp thân." },
+                { "w": "in simple terms", "vi": "một cách đơn giản", "ex": "Could you explain it in simple terms?", "exvi": "Anh/chị giải thích đơn giản được không ạ?", "note": "Xin nói dễ hiểu mà không làm ai mất mặt." },
+                { "w": "in plain English", "vi": "bằng ngôn ngữ dễ hiểu", "ex": "Could you put that in plain English?", "exvi": "Anh/chị nói bằng ngôn ngữ dễ hiểu được không ạ?", "note": "Thành ngữ — xin bỏ bớt thuật ngữ chuyên môn." },
+                { "w": "step by step", "vi": "từng bước một", "ex": "Could you explain it step by step?", "exvi": "Anh/chị giải thích từng bước được không ạ?" },
+                { "w": "spell it out", "vi": "nói toạc ra", "ex": "Could you spell it out for me?", "exvi": "Anh/chị nói toạc ra cho tôi được không?", "note": "Hơi mạnh — ngụ ý bạn muốn nghe thẳng, không vòng vo." },
+                { "w": "talk me through", "vi": "giảng cho tôi nghe", "ex": "Talk me through the numbers.", "exvi": "Giảng cho tôi nghe mấy con số này." },
+                { "w": "give me an example", "vi": "cho tôi một ví dụ", "ex": "Could you give me an example?", "exvi": "Anh/chị cho tôi một ví dụ được không ạ?", "note": "Cách làm rõ hiệu quả nhất — ví dụ luôn rõ hơn định nghĩa." },
+                { "w": "I'd be grateful if you could", "vi": "tôi rất biết ơn nếu anh/chị có thể", "ex": "I'd be grateful if you could explain the terms.", "exvi": "Tôi rất biết ơn nếu anh/chị giải thích điều khoản giúp.", "note": "Trang trọng nhất — hợp email chính thức. Xem [Khung 16]." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại & phản hồi",
+              "items": [
+                { "w": "Of course", "vi": "tất nhiên rồi", "ex": "Of course — where shall I start?", "exvi": "Tất nhiên rồi — tôi bắt đầu từ đâu ạ?" },
+                { "w": "Let me start from the beginning", "vi": "để tôi bắt đầu từ đầu", "ex": "Let me start from the beginning.", "exvi": "Để tôi bắt đầu từ đầu." },
+                { "w": "In short", "vi": "nói ngắn gọn thì", "ex": "In short, we're waiting on approval.", "exvi": "Nói ngắn gọn thì mình đang chờ duyệt." },
+                { "w": "Does that make sense?", "vi": "vậy có dễ hiểu không?", "ex": "Does that make sense so far?", "exvi": "Đến đây có dễ hiểu không ạ?", "note": "Người giải thích dùng để kiểm tra — rất chu đáo." },
+                { "w": "Stop me if I lose you", "vi": "mất mạch thì dừng tôi lại nhé", "ex": "Stop me if I lose you.", "exvi": "Nếu mất mạch thì cứ dừng tôi lại nhé.", "note": "Xem [Khung 58]." },
+                { "w": "That's much clearer", "vi": "rõ hơn nhiều rồi", "ex": "That's much clearer, thank you.", "exvi": "Rõ hơn nhiều rồi, cảm ơn ạ." },
+                { "w": "I follow now", "vi": "giờ tôi theo kịp rồi", "ex": "I follow now, thanks.", "exvi": "Giờ tôi theo kịp rồi, cảm ơn." },
+                { "w": "Could you repeat the last part?", "vi": "anh/chị nhắc lại phần cuối được không?", "ex": "Could you repeat the last part?", "exvi": "Anh/chị nhắc lại phần cuối được không ạ?" },
+                { "w": "It's a bit technical", "vi": "hơi nặng kỹ thuật", "ex": "It's a bit technical, sorry.", "exvi": "Hơi nặng kỹ thuật, xin lỗi." },
+                { "w": "Send it in writing", "vi": "gửi bằng văn bản nhé", "ex": "Could you send it in writing?", "exvi": "Anh/chị gửi bằng văn bản được không ạ?", "note": "Rất hữu ích với thông tin phức tạp — nghe xong dễ quên." },
+                { "w": "Take your time", "vi": "anh/chị cứ từ từ", "ex": "Take your time.", "exvi": "Anh/chị cứ từ từ." },
+                { "w": "Any questions?", "vi": "có câu hỏi gì không?", "ex": "Any questions so far?", "exvi": "Đến đây có câu hỏi gì không ạ?" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Could you walk me through the process?",
+                  "vi": "Anh/chị dẫn tôi đi từng bước quy trình được không ạ?",
+                  "note": "Biến thể mạnh nhất — xin hướng dẫn TỪNG BƯỚC thay vì một lời giải thích chung chung.",
+                  "open": { "en": "Before I start —", "vi": "Trước khi tôi bắt đầu —" },
+                  "reply": [
+                    { "them": "Of course. Let me start from the beginning.", "themvi": "Tất nhiên rồi. Để tôi bắt đầu từ đầu.", "you": "Stop me if I lose you.", "youvi": "Nếu tôi mất mạch thì cứ dừng lại nhé." },
+                    { "them": "It's a bit technical, sorry.", "themvi": "Hơi nặng kỹ thuật, xin lỗi.", "you": "Could you put it in plain English?", "youvi": "Anh/chị nói bằng ngôn ngữ dễ hiểu được không ạ?" }
+                  ],
+                  "close": { "en": "Could you send it in writing too?", "vi": "Anh/chị gửi thêm bằng văn bản được không ạ?" }
+                },
+                {
+                  "en": "Could you explain it to me in simple terms?",
+                  "vi": "Anh/chị giải thích đơn giản cho tôi được không ạ?",
+                  "note": "BẮT BUỘC có <b>to me</b>. <i>Could you explain me</i> ✗ là lỗi kinh điển của người Việt.",
+                  "reply": [
+                    { "them": "In short, we're waiting on approval.", "themvi": "Nói ngắn gọn thì mình đang chờ duyệt.", "you": "That's much clearer, thank you.", "youvi": "Rõ hơn nhiều rồi, cảm ơn." }
+                  ],
+                  "vars": [
+                    { "en": "Can you break it down for me?", "vi": "Anh/chị chia nhỏ ra cho tôi dễ hiểu được không?" }
+                  ]
+                },
+                {
+                  "en": "Could you elaborate on that point?",
+                  "vi": "Anh/chị nói rõ thêm về ý đó được không ạ?",
+                  "note": "<b>elaborate on</b> — dùng khi người ta đã nói rồi nhưng quá ngắn gọn.",
+                  "reply": [
+                    { "them": "Sure. Which part specifically?", "themvi": "Vâng. Cụ thể phần nào ạ?", "you": "The risk you mentioned.", "youvi": "Phần rủi ro anh/chị vừa nhắc." }
+                  ]
+                },
+                {
+                  "en": "Could you clarify the deadline?",
+                  "vi": "Anh/chị làm rõ giúp hạn chót được không ạ?",
+                  "note": "<b>clarify</b> trang trọng hơn <i>explain</i> — rất hợp email công việc.",
+                  "reply": [
+                    { "them": "Friday for the draft, Monday for final.", "themvi": "Thứ Sáu bản nháp, thứ Hai bản cuối.", "you": "That's clear now, thanks.", "youvi": "Giờ thì rõ rồi, cảm ơn." }
+                  ],
+                  "close": { "en": "I'll confirm by email.", "vi": "Tôi sẽ xác nhận qua email." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Could you explain the charges?",
+                  "vi": "Em giải thích các khoản phí được không ạ?",
+                  "note": "Rất hữu dụng khi hóa đơn có mục bạn không hiểu — hỏi ngay còn hơn trả nhầm.",
+                  "reply": [
+                    { "them": "There's a delivery fee and insurance.", "themvi": "Có phí giao hàng và bảo hiểm ạ.", "you": "Is the insurance optional?", "youvi": "Bảo hiểm có bắt buộc không ạ?" }
+                  ],
+                  "close": { "en": "Then I'll skip that one.", "vi": "Vậy tôi bỏ khoản đó." }
+                },
+                {
+                  "en": "Could you explain how the warranty works?",
+                  "vi": "Em giải thích bảo hành hoạt động thế nào được không ạ?",
+                  "note": "Mệnh đề wh- ở trật tự THƯỜNG: <b>how the warranty works</b>, không phải <i>how does it work</i>.",
+                  "reply": [
+                    { "them": "Bring the receipt within two years.", "themvi": "Mang hóa đơn đến trong vòng hai năm ạ.", "you": "Does it cover accidental damage?", "youvi": "Có bao gồm hỏng do va đập không ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "Could you explain the warranty to me?", "vi": "Em giải thích bảo hành cho tôi được không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Could you explain what's included in the price?",
+                  "vi": "Em giải thích giá đó gồm những gì được không ạ?",
+                  "reply": [
+                    { "them": "The unit, cable and one year of support.", "themvi": "Máy, dây cáp và một năm hỗ trợ ạ.", "you": "And installation?", "youvi": "Còn lắp đặt thì sao ạ?" }
+                  ]
+                },
+                {
+                  "en": "Could you go over that again?",
+                  "vi": "Em nói lại chỗ đó được không ạ?",
+                  "note": "Xin nhắc lại mà không làm người ta thấy mình giải thích kém.",
+                  "reply": [
+                    { "them": "Of course, no problem.", "themvi": "Vâng ạ, không vấn đề gì.", "you": "Just the return policy part.", "youvi": "Chỉ phần chính sách đổi trả thôi ạ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Could you explain the fare options?",
+                  "vi": "Anh/chị giải thích các loại vé được không ạ?",
+                  "reply": [
+                    { "them": "Peak, off-peak and super off-peak.", "themvi": "Giờ cao điểm, ngoài cao điểm và siêu ngoài cao điểm ạ.", "you": "Could you give me an example?", "youvi": "Anh/chị cho tôi một ví dụ được không ạ?" }
+                  ],
+                  "close": { "en": "That's much clearer, thank you.", "vi": "Rõ hơn nhiều rồi, cảm ơn ạ." }
+                },
+                {
+                  "en": "Could you walk me through the check-in process?",
+                  "vi": "Anh/chị dẫn tôi qua quy trình làm thủ tục được không ạ?",
+                  "reply": [
+                    { "them": "Scan your passport at the machine first.", "themvi": "Trước tiên quét hộ chiếu ở máy ạ.", "you": "And then the bag drop?", "youvi": "Rồi đến quầy gửi hành lý ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "Could you talk me through it step by step?", "vi": "Anh/chị hướng dẫn từng bước được không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Could you explain this charge on my bill?",
+                  "vi": "Anh/chị giải thích khoản này trên hóa đơn được không ạ?",
+                  "note": "Hỏi về một khoản cụ thể — lịch sự nhưng rõ ràng, không quy kết ai.",
+                  "reply": [
+                    { "them": "That's the city tax, it's compulsory.", "themvi": "Đó là thuế thành phố ạ, bắt buộc.", "you": "Ah, I see. Thank you.", "youvi": "À, tôi hiểu rồi. Cảm ơn ạ." }
+                  ]
+                },
+                {
+                  "en": "Could you put that in plain English?",
+                  "vi": "Anh/chị nói bằng ngôn ngữ dễ hiểu được không ạ?",
+                  "note": "Thành ngữ — xin bỏ bớt thuật ngữ chuyên môn. Rất hữu dụng khi nghe điều khoản bảo hiểm.",
+                  "reply": [
+                    { "them": "Sorry — basically, you're covered.", "themvi": "Xin lỗi — nói đơn giản là anh/chị được bảo hiểm ạ.", "you": "That's all I needed.", "youvi": "Vậy là đủ rồi ạ." }
+                  ],
+                  "close": { "en": "Thanks for your patience.", "vi": "Cảm ơn anh/chị đã kiên nhẫn." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Could you explain what's in this dish?",
+                  "vi": "Em giải thích món này có gì được không ạ?",
+                  "note": "Câu thiết yếu khi bạn có dị ứng hoặc kiêng khem.",
+                  "reply": [
+                    { "them": "Pork, ginger and a fish sauce base.", "themvi": "Thịt heo, gừng và nước mắm làm nền ạ.", "you": "Is there any shellfish in it?", "youvi": "Có hải sản có vỏ không ạ?" }
+                  ],
+                  "close": { "en": "Thank you for checking.", "vi": "Cảm ơn em đã kiểm tra." }
+                },
+                {
+                  "en": "Could you explain the set menu to me?",
+                  "vi": "Em giải thích thực đơn cố định cho tôi được không ạ?",
+                  "note": "Nhớ <b>to me</b> — không bao giờ là <i>explain me</i>.",
+                  "reply": [
+                    { "them": "Five courses, chef's choice.", "themvi": "Năm món, đầu bếp chọn ạ.", "you": "Can we swap a course?", "youvi": "Đổi một món được không ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "Could you talk me through the menu?", "vi": "Em giới thiệu thực đơn giúp được không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Could you explain the difference between these two?",
+                  "vi": "Em giải thích hai món này khác nhau thế nào được không ạ?",
+                  "note": "Ghép với [Khung 66] — xin giải thích đầy đủ thay vì một câu trả lời ngắn.",
+                  "reply": [
+                    { "them": "One's grilled, one's steamed.", "themvi": "Một món nướng, một món hấp ạ.", "you": "Which is lighter?", "youvi": "Món nào nhẹ hơn ạ?" }
+                  ]
+                },
+                {
+                  "en": "Could you go over the specials again?",
+                  "vi": "Em nhắc lại món đặc biệt được không ạ?",
+                  "reply": [
+                    { "them": "Of course — there are three today.", "themvi": "Vâng ạ — hôm nay có ba món.", "you": "Take your time.", "youvi": "Em cứ từ từ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Could you explain it to me again?",
+                  "vi": "Bạn giải thích lại cho mình được không?",
+                  "note": "Cấu trúc đúng: <i>explain</i> + <b>it</b> + <b>to me</b>. Cả hai phần đều cần thiết.",
+                  "reply": [
+                    { "them": "Of course. Which bit?", "themvi": "Được chứ. Phần nào?", "you": "The middle part mostly.", "youvi": "Chủ yếu là phần giữa." }
+                  ]
+                },
+                {
+                  "en": "Can you break it down for me?",
+                  "vi": "Bạn chia nhỏ ra cho mình dễ hiểu được không?",
+                  "note": "Thân mật hơn <i>explain</i> — rất tự nhiên giữa bạn bè và đồng nghiệp thân.",
+                  "reply": [
+                    { "them": "Sure. Three things went wrong.", "themvi": "Được. Có ba chỗ sai.", "you": "Start with the first.", "youvi": "Bắt đầu từ cái đầu tiên đi." }
+                  ],
+                  "vars": [
+                    { "en": "Could you spell it out for me?", "vi": "Bạn nói toạc ra cho mình được không?" }
+                  ]
+                },
+                {
+                  "en": "Could you explain why you're upset?",
+                  "vi": "Bạn giải thích vì sao bạn buồn được không?",
+                  "note": "Mở đường cho người kia nói ra — nhẹ nhàng hơn nhiều so với <i>What's wrong?</i>",
+                  "reply": [
+                    { "them": "It's hard to put into words.", "themvi": "Khó nói thành lời lắm.", "you": "Take your time.", "youvi": "Bạn cứ từ từ." }
+                  ],
+                  "close": { "en": "I'm listening.", "vi": "Mình đang nghe đây." }
+                },
+                {
+                  "en": "Could you give me an example?",
+                  "vi": "Bạn cho mình một ví dụ được không?",
+                  "note": "Cách làm rõ hiệu quả nhất — một ví dụ cụ thể luôn rõ hơn mọi định nghĩa.",
+                  "reply": [
+                    { "them": "Like last Tuesday, for instance.", "themvi": "Ví dụ như hôm thứ Ba tuần trước.", "you": "Ah, now I follow.", "youvi": "À, giờ mình hiểu rồi." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Xin hướng dẫn một quy trình mới ở công ty",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Before I start — could you walk me through the process?", "vi": "Trước khi tôi bắt đầu — anh/chị dẫn tôi đi từng bước quy trình được không ạ?" },
+            { "speaker": "Colleague", "en": "Of course. Let me start from the beginning.", "vi": "Tất nhiên rồi. Để tôi bắt đầu từ đầu." },
+            { "speaker": "You", "me": true, "en": "Stop me if I lose you. Could you explain how the approval bit works?", "vi": "Nếu tôi mất mạch thì cứ dừng lại nhé. Phần duyệt hoạt động thế nào ạ?" },
+            { "speaker": "Colleague", "en": "It's a bit technical, sorry.", "vi": "Hơi nặng kỹ thuật, xin lỗi." },
+            { "speaker": "You", "me": true, "en": "Could you put it in plain English?", "vi": "Anh/chị nói bằng ngôn ngữ dễ hiểu được không ạ?" },
+            { "speaker": "Colleague", "en": "In short: you submit, your manager signs, finance pays.", "vi": "Ngắn gọn: bạn nộp, quản lý ký, tài chính trả tiền." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Hỏi về các khoản phí trên hóa đơn",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Could you explain the charges on this bill?", "vi": "Em giải thích các khoản phí trên hóa đơn này được không ạ?" },
+            { "speaker": "Staff", "en": "There's the room rate, city tax and a service charge.", "vi": "Có tiền phòng, thuế thành phố và phí dịch vụ ạ." },
+            { "speaker": "You", "me": true, "en": "Could you clarify what the service charge covers?", "vi": "Em làm rõ giúp phí dịch vụ bao gồm gì được không ạ?" },
+            { "speaker": "Staff", "en": "Housekeeping and the use of the facilities.", "vi": "Dọn phòng và sử dụng tiện ích ạ." },
+            { "speaker": "You", "me": true, "en": "And could you explain this last item to me?", "vi": "Còn mục cuối này em giải thích cho tôi được không ạ?" },
+            { "speaker": "Staff", "en": "That's the minibar. Does that make sense?", "vi": "Đó là minibar ạ. Vậy có dễ hiểu không ạ?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Could you explain me this?", "right": "Could you explain this to me?", "why": "LỖI KINH ĐIỂN NHẤT. <b>explain</b> không nhận tân ngữ người trực tiếp — phải là <i>explain something <b>to</b> someone</i>." },
+            { "wrong": "He explained me the rules.", "right": "He explained the rules to me.", "why": "Cùng một lỗi. Trật tự là: <b>explain + vật + to + người</b>." },
+            { "wrong": "Could you explain me?", "right": "Could you explain it to me?", "why": "Thiếu cả tân ngữ vật lẫn giới từ <i>to</i>. Phải có đủ hai phần." },
+            { "wrong": "Could you explain how does it work?", "right": "Could you explain how it works?", "why": "Mệnh đề sau ở trật tự THƯỜNG — bỏ <i>does</i>. Cùng quy tắc với [Khung 67]." },
+            { "wrong": "Could you elaborate that?", "right": "Could you elaborate on that?", "why": "<b>elaborate</b> luôn đi với giới từ <b>on</b>." },
+            { "wrong": "Could you explain about the process?", "right": "Could you explain the process?", "why": "Thừa <i>about</i> khi đã có tân ngữ rõ ràng — nghe vụng và không tự nhiên." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu", "Xin điều gì", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>Could you explain…?</code>", "Giải thích đầy đủ", "<i>Could you explain the process?</i>"],
+            ["<code>Could you walk me through…?</code>", "Hướng dẫn từng bước", "<i>Could you walk me through it?</i>"],
+            ["<code>Could you clarify…?</code>", "Làm rõ một điểm mơ hồ", "<i>Could you clarify the deadline?</i> Trang trọng."],
+            ["<code>Could you elaborate on…?</code>", "Nói thêm khi đã nói quá ngắn", "<i>Could you elaborate on that?</i>"],
+            ["<code>What do you mean by…?</code>", "Làm rõ một từ", "Xem [Khung 68]. Gọn hơn."],
+            ["<code>Could you go over that again?</code>", "Nhắc lại", "Khi bạn không theo kịp."],
+            ["<code>Could you tell me…?</code>", "Hỏi một thông tin", "Xem [Khung 17]. Ngắn hơn."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — xin giải thích một quy trình" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Can you break it down for me?", "vi": "Thân mật nhất — với đồng nghiệp thân" },
+            { "en": "Could you explain the process?", "vi": "Chuẩn mực, dùng được mọi nơi" },
+            { "en": "Could you walk me through it?", "vi": "Xin hướng dẫn từng bước" },
+            { "en": "Could you clarify the process for me?", "vi": "Trang trọng — hợp email" },
+            { "en": "I'd be grateful if you could explain the process.", "vi": "Trang trọng nhất. Xem [Khung 16]" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>explain</b> nhấn ở <b>âm tiết thứ hai</b>: ik-<b>SPLAIN</b>. Âm đầu đọc rất nhẹ thành /ɪk/.",
+            "<b>Could you</b> nối âm thành <b>“kə-jə”</b> — âm /d/ gặp /j/ biến thành /dʒ/ như trong <i>judge</i>.",
+            "Cả cụm: <b>“kə-jə-ik-SPLAIN”</b> — chỉ nhấn vào <i>SPLAIN</i>.",
+            "<b>explain it to me</b> → “ik-splai-ni-tə-mi”, bốn từ nối liền thành một khối.",
+            "Chữ <b>l</b> trong <i>could</i> là <b>âm câm</b> — không bao giờ đọc.",
+            "<b>Giọng lên nhẹ ở cuối</b> — đây là lời đề nghị lịch sự, không phải mệnh lệnh."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Could you explain it to me in simple terms?", "vi": "Luyện shadowing: “kə-jə-ik-splai-ni-tə-mi”, nối liền cả khối." },
+            { "en": "Could you walk me through the process?", "vi": "Tập nhấn WALK và PROCESS, phần còn lại đọc lướt." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Anh/chị giải thích cho tôi được không ạ?", "blank": "Could you explain __________?", "a": "it to me (KHÔNG phải “me”)" },
+            { "vi": "Anh/chị dẫn tôi đi từng bước quy trình được không ạ?", "blank": "Could you __________ the process?", "a": "walk me through" },
+            { "vi": "Anh/chị nói rõ thêm về ý đó được không ạ?", "blank": "Could you elaborate __________ that point?", "a": "on" },
+            { "vi": "Anh/chị làm rõ giúp hạn chót được không ạ?", "blank": "Could you __________ the deadline?", "a": "clarify" },
+            { "vi": "Anh/chị giải thích nó hoạt động thế nào được không ạ?", "blank": "Could you explain how __________?", "a": "it works (trật tự thường)" },
+            { "vi": "Anh/chị nói bằng ngôn ngữ dễ hiểu được không ạ?", "blank": "Could you put that __________?", "a": "in plain English" },
+            { "vi": "Anh/chị nói lại chỗ đó được không ạ?", "blank": "Could you __________ again?", "a": "go over that" },
+            { "vi": "Anh/chị chia nhỏ ra cho tôi dễ hiểu được không?", "blank": "Can you __________ for me?", "a": "break it down" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Anh/chị dẫn tôi đi từng bước quy trình được không ạ?", "a": "Could you walk me through the process?" },
+            { "vi": "2. Anh/chị giải thích đơn giản cho tôi được không ạ?", "a": "Could you explain it to me in simple terms?" },
+            { "vi": "3. Em giải thích các khoản phí được không ạ?", "a": "Could you explain the charges?" },
+            { "vi": "4. Anh/chị làm rõ giúp hạn chót được không ạ?", "a": "Could you clarify the deadline?" },
+            { "vi": "5. Em giải thích món này có gì được không ạ?", "a": "Could you explain what's in this dish?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Xóa vĩnh viễn “explain me”</b> — luôn là <i>explain something <b>to</b> someone</i>. Đọc to <i>explain it to me</i> mười lần.",
+            "<b>Nhớ nhóm động từ cùng luật:</b> <i>explain, describe, suggest, mention</i> đều cần <b>to + người</b>.",
+            "<b>Học thuộc “Could you walk me through…?”</b> — câu xin hướng dẫn từng bước hiệu quả nhất trong công việc.",
+            "<b>“In plain English” là cụm cứu mạng</b> khi ai đó nói quá nhiều thuật ngữ — và nó không làm ai mất mặt.",
+            "<b>Hỏi để hiểu đúng không làm bạn kém đi.</b> Gật đầu rồi làm sai mới là thứ khiến bạn mất uy tín.",
+            "<b>Bài tập 3 phút:</b> viết 5 thứ trong công việc bạn chưa hiểu rõ, mỗi cái thành một câu <i>Could you explain/walk me through…?</i> rồi hỏi thật."
+          ]
+        }
+      ]
+    }
+  ]
+}

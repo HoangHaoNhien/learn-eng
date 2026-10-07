@@ -1,0 +1,277 @@
+{
+  "id": 19,
+  "group": "Nhóm 4 · Viết — cấu trúc trước, chữ sau",
+  "title": "Bài luận hai chiều",
+  "subtitle": "Đề bảo bàn cả hai mặt thì phải tách đôi rõ ràng: một đoạn cho bên này, một đoạn cho bên kia. Trộn lẫn trong một đoạn là người đọc không theo được. Và viết xong hai bên mà không chốt gì thì bài vẫn hỏng.",
+  "meaning": "Viết bài bàn cả mặt lợi và mặt hại",
+  "rule": [
+    "<em>Một đoạn một bên</em> — không trộn lẫn",
+    "Mỗi bên <em>2 ý</em>, mỗi ý có ví dụ",
+    "Kết bài phải <em>cân nhắc rồi nghiêng</em>, không bỏ lửng"
+  ],
+  "tags": [
+    { "text": "Mức độ: B2 bắt buộc", "hot": true },
+    { "text": "Trộn hai bên trong một đoạn" },
+    { "text": "Viết xong không chốt gì" },
+    { "text": "Ảnh hưởng: rất lớn" }
+  ],
+  "frames": [42, 52, 53, 57, 66],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Đề hai chiều có dạng <i>“Discuss both views”</i> hoặc <i>“What are the advantages and disadvantages?”</i>. Nó khác hẳn đề nêu quan điểm [Kỹ năng 18]: ở đây bạn <b>phải trình bày cả hai bên một cách công bằng</b> trước khi nói mình nghiêng về đâu." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — trộn hai bên trong một đoạn:</b><br><i>“Remote work saves time. But it can be lonely. It also cuts costs. However, teamwork suffers…”</i><br>Người đọc bị kéo qua kéo lại, không nắm được bên nào có mấy ý.<br><b>Bố cục đúng — bốn đoạn:</b><br>① Mở bài → nêu đề tài có hai mặt<br>② <b>Toàn bộ</b> mặt lợi (2 ý + ví dụ)<br>③ <b>Toàn bộ</b> mặt hại (2 ý + ví dụ)<br>④ Kết bài → cân nhắc rồi nghiêng<br>Mỗi đoạn thân bài mở bằng một câu báo rõ: <i>“On the one hand,…”</i> rồi <i>“On the other hand,…”</i>" },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — viết xong hai bên rồi bỏ lửng:</b><br><i>“In conclusion, there are both advantages and disadvantages.”</i> ✗<br>Câu này <b>không nói gì cả</b> — nó chỉ lặp lại đề bài. Kết bài phải làm một trong hai việc:<br>• <b>Nghiêng về một bên</b>: <i>“On balance, the benefits outweigh the drawbacks.”</i><br>• <b>Nêu điều kiện rõ</b>: <i>“It depends largely on the type of job: for creative work,… whereas for teamwork,…”</i><br>Cả hai đều được. Chỉ <b>không nói gì</b> mới là mất điểm." },
+        { "t": "h3", "text": "Bốn đoạn của bài hai chiều" },
+        {
+          "t": "table",
+          "head": ["Đoạn", "Việc của nó", "Câu mở đầu"],
+          "rows": [
+            ["Mở bài", "Nêu đề tài có hai mặt", "…is a topic that divides opinion."],
+            ["Thân 1", "<b>Toàn bộ</b> mặt lợi", "On the one hand,…"],
+            ["Thân 2", "<b>Toàn bộ</b> mặt hại", "On the other hand,…"],
+            ["Kết bài", "Cân nhắc rồi <b>nghiêng</b>", "On balance,… · It depends largely on…"]
+          ]
+        },
+        { "t": "p", "html": "So với bài nêu quan điểm, khác đúng hai chỗ: mở bài <b>không</b> nêu lập trường ngay, và hai đoạn thân bài <b>đối xứng</b> nhau." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Vị trí", "Chức năng", "Cụm mẫu"],
+          "rows": [
+            ["Mở bài câu 1", "Nêu bối cảnh", "Remote work has grown rapidly."],
+            ["Mở bài câu 2", "Báo có hai mặt", "It is a topic that divides opinion."],
+            ["Mở bài câu cuối", "Báo hướng đi của bài", "This essay will look at both sides."],
+            ["Thân 1 mở", "Vào mặt thứ nhất", "On the one hand,…"],
+            ["Thân 1 ý 2", "Ý thứ hai cùng bên", "Moreover,… · In addition,…"],
+            ["Thân 2 mở", "Chuyển sang mặt kia", "On the other hand,…"],
+            ["Thân 2 ý 2", "Ý thứ hai cùng bên", "Another concern is that…"],
+            ["Đối chiếu", "Đặt hai bên cạnh nhau", "Whereas… · While…"],
+            ["Nêu ai nghĩ gì", "Dẫn ý kiến chung", "Supporters argue that… · Critics point out that…"],
+            ["Kết bài — nghiêng", "Chọn một bên", "On balance,… · Taking everything into account,…"],
+            ["Kết bài — có điều kiện", "Nêu “tùy vào gì”", "It depends largely on…"],
+            ["Tránh", "Không viết ở kết bài", "There are both advantages and disadvantages."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Hai bên phải cân nhau.</b> Nếu đoạn lợi có hai ý kèm ví dụ mà đoạn hại chỉ có một câu, người chấm thấy ngay là bạn <b>chưa bàn cả hai mặt</b> — dù bạn có viết chữ <i>“On the other hand”</i>.<br>Mẹo: viết dàn ý <b>2 ý mỗi bên</b> trước khi đặt bút, rồi mới viết thành câu." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Remote work has grown rapidly in recent years.", "vi": "Làm việc từ xa tăng nhanh những năm gần đây.", "note": "Mở bài câu 1 — bối cảnh, một câu là đủ." },
+            { "en": "It is a topic that divides opinion.", "vi": "Đây là chủ đề gây nhiều tranh cãi.", "note": "Báo có hai mặt — khác hẳn bài nêu quan điểm." },
+            { "en": "This essay will look at both sides before reaching a conclusion.", "vi": "Bài này sẽ xem xét cả hai mặt trước khi kết luận.", "note": "Báo hướng đi, chưa nêu lập trường." },
+            { "en": "On the one hand, remote work saves a great deal of time.", "vi": "Một mặt, làm từ xa tiết kiệm rất nhiều thời gian.", "note": "BẪY SỐ MỘT: mở đoạn mặt lợi — toàn bộ đoạn này chỉ nói mặt lợi." },
+            { "en": "Moreover, it reduces costs for both employers and staff.", "vi": "Hơn nữa, nó giảm chi phí cho cả công ty lẫn nhân viên.", "note": "Ý thứ hai, CÙNG bên." },
+            { "en": "On the other hand, it can weaken teamwork.", "vi": "Mặt khác, nó có thể làm yếu tinh thần nhóm.", "note": "Chuyển sang mặt hại — đoạn mới, xuống dòng." },
+            { "en": "Another concern is that new staff learn more slowly.", "vi": "Một lo ngại nữa là nhân viên mới học việc chậm hơn.", "note": "Ý thứ hai của mặt hại — giữ cho hai bên cân nhau." },
+            { "en": "Supporters argue that output matters more than hours in an office.", "vi": "Người ủng hộ cho rằng kết quả quan trọng hơn số giờ ngồi văn phòng.", "note": "Dẫn ý kiến chung, không phải ý của riêng bạn." },
+            { "en": "Critics point out that informal learning disappears.", "vi": "Người phản đối chỉ ra rằng việc học hỏi không chính thức biến mất." },
+            { "en": "Whereas older staff adapt easily, newcomers often struggle.", "vi": "Trong khi nhân viên cũ thích nghi dễ, người mới thường chật vật.", "note": "Đối chiếu trực tiếp. Xem [Ngữ pháp 48]." },
+            { "en": "On balance, the benefits outweigh the drawbacks for most roles.", "vi": "Cân nhắc lại, lợi ích lớn hơn bất lợi với phần lớn vị trí.", "note": "BẪY SỐ HAI: kết bài phải NGHIÊNG, không bỏ lửng." },
+            { "en": "It depends largely on the type of work involved.", "vi": "Cái đó phụ thuộc nhiều vào loại công việc.", "note": "Cách kết thứ hai — nêu điều kiện rõ. Xem [Khung 57]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào cần để ý nhất",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "⚖️", "title": "Đề “Discuss both views”", "text": "Phải bàn cả hai, không được thiên lệch." },
+            { "icon": "📋", "title": "Đề “advantages and disadvantages”", "text": "Cùng một bố cục bốn đoạn." },
+            { "icon": "✂️", "title": "Tách hai bên", "text": "Đổi bên thì xuống dòng. Xem [Kỹ năng 17]." },
+            { "icon": "📏", "title": "Giữ hai bên cân nhau", "text": "2 ý mỗi bên, mỗi ý có ví dụ." },
+            { "icon": "🎯", "title": "Viết kết bài", "text": "Nghiêng một bên, hoặc nêu điều kiện rõ." },
+            { "icon": "🚫", "title": "Đừng làm…", "text": "Đừng kết bằng <i>there are both advantages and disadvantages</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cụm để viết bài hai chiều",
+      "blocks": [
+        { "t": "p", "html": "Chọn một cụm ở cột trái để xem nó dùng ở đoạn nào và ví dụ hoàn chỉnh." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Mở bài & hai đoạn thân bài",
+              "items": [
+                { "w": "…divides opinion", "vi": "…gây nhiều tranh cãi", "ex": "It is a topic that divides opinion.", "exvi": "Đây là chủ đề gây tranh cãi.", "note": "Báo có hai mặt — không nêu lập trường ngay như bài [Kỹ năng 18]." },
+                { "w": "There are arguments on both sides.", "vi": "Cả hai phía đều có lý.", "ex": "There are arguments on both sides.", "exvi": "Cả hai phía đều có lý lẽ." },
+                { "w": "This essay will look at both sides.", "vi": "Bài này sẽ xem xét cả hai mặt.", "ex": "This essay will look at both sides before concluding.", "exvi": "Bài này xem cả hai mặt trước khi kết luận." },
+                { "w": "On the one hand,…", "vi": "Một mặt,…", "ex": "On the one hand, it saves a great deal of time.", "exvi": "Một mặt, nó tiết kiệm rất nhiều thời gian.", "note": "BẪY SỐ MỘT: mở đoạn — cả đoạn chỉ nói MỘT bên." },
+                { "w": "On the other hand,…", "vi": "Mặt khác,…", "ex": "On the other hand, it can weaken teamwork.", "exvi": "Mặt khác nó làm yếu tinh thần nhóm.", "note": "Xuống dòng, đoạn mới." },
+                { "w": "The main advantage is…", "vi": "Ưu điểm chính là…", "ex": "The main advantage is flexibility.", "exvi": "Ưu điểm chính là tính linh hoạt." },
+                { "w": "The main drawback is…", "vi": "Nhược điểm chính là…", "ex": "The main drawback is isolation.", "exvi": "Nhược điểm chính là sự cô lập." },
+                { "w": "Moreover,…", "vi": "Hơn nữa,…", "ex": "Moreover, it reduces costs.", "exvi": "Hơn nữa, nó giảm chi phí.", "note": "Ý thứ hai CÙNG bên — không đổi bên." },
+                { "w": "Another concern is that…", "vi": "Một lo ngại nữa là…", "ex": "Another concern is that new staff learn slowly.", "exvi": "Một lo ngại nữa là người mới học chậm." },
+                { "w": "Supporters argue that…", "vi": "Người ủng hộ cho rằng…", "ex": "Supporters argue that output matters more.", "exvi": "Người ủng hộ cho rằng kết quả quan trọng hơn." },
+                { "w": "Critics point out that…", "vi": "Người phản đối chỉ ra rằng…", "ex": "Critics point out that learning disappears.", "exvi": "Người phản đối chỉ ra việc học hỏi mất đi." },
+                { "w": "Whereas…", "vi": "Trong khi đó…", "ex": "Whereas older staff adapt easily, newcomers struggle.", "exvi": "Nhân viên cũ thích nghi dễ, người mới chật vật. Xem [Ngữ pháp 48]." }
+              ]
+            },
+            {
+              "title": "Kết bài & cách chốt",
+              "items": [
+                { "w": "On balance,…", "vi": "Cân nhắc lại,…", "ex": "On balance, the benefits outweigh the drawbacks.", "exvi": "Cân nhắc lại, lợi ích lớn hơn bất lợi.", "note": "BẪY SỐ HAI: cách chốt chuẩn nhất — có nghiêng về một bên." },
+                { "w": "Taking everything into account,…", "vi": "Xét mọi mặt,…", "ex": "Taking everything into account, I would support it.", "exvi": "Xét mọi mặt, tôi ủng hộ." },
+                { "w": "Weighing up both sides,…", "vi": "Cân cả hai phía,…", "ex": "Weighing up both sides, the case is strong.", "exvi": "Cân cả hai phía, lý lẽ khá vững." },
+                { "w": "It depends largely on…", "vi": "Phụ thuộc nhiều vào…", "ex": "It depends largely on the type of work.", "exvi": "Phụ thuộc nhiều vào loại công việc.", "note": "Cách chốt thứ hai — nêu ĐIỀU KIỆN rõ. Xem [Khung 57]." },
+                { "w": "For … it works; for … it does not", "vi": "Với… thì hợp; với… thì không", "ex": "For creative work it suits; for teamwork it does not.", "exvi": "Việc sáng tạo thì hợp, việc nhóm thì không." },
+                { "w": "the benefits outweigh…", "vi": "lợi ích lớn hơn…", "ex": "The benefits outweigh the drawbacks.", "exvi": "Lợi ích lớn hơn bất lợi." },
+                { "w": "the drawbacks are hard to ignore", "vi": "bất lợi khó bỏ qua", "ex": "The drawbacks are hard to ignore.", "exvi": "Những bất lợi khó mà bỏ qua." },
+                { "w": "a reasonable compromise would be…", "vi": "một thoả hiệp hợp lý là…", "ex": "A reasonable compromise would be two days a week.", "exvi": "Thoả hiệp hợp lý là hai ngày một tuần." },
+                { "w": "In my opinion,…", "vi": "Theo tôi,…", "ex": "In my opinion, the first view is stronger.", "exvi": "Theo tôi, quan điểm thứ nhất vững hơn. Xem [Khung 42]." },
+                { "w": "That's a good point, but…", "vi": "Ý đó hay, nhưng…", "ex": "That is a valid point, but it applies to few jobs.", "exvi": "Ý đó đúng, nhưng chỉ với ít công việc. Xem [Khung 52]." },
+                { "w": "I see what you mean, but…", "vi": "Tôi hiểu ý đó, nhưng…", "ex": "The concern is understandable, but it can be managed.", "exvi": "Lo ngại đó hiểu được, nhưng xử lý được. Xem [Khung 53]." },
+                { "w": "What's the difference between…", "vi": "Khác nhau giữa… là gì", "ex": "The real difference between the two views is…", "exvi": "Khác biệt thật giữa hai quan điểm là… Xem [Khung 66]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Một đoạn viết: <b>“It saves time. But it can be lonely. It also cuts costs. However…”</b>", "right": "<b>Đoạn 2</b> toàn mặt lợi, <b>đoạn 3</b> toàn mặt hại", "why": "BẪY SỐ MỘT: trộn hai bên làm người đọc bị kéo qua kéo lại." },
+            { "wrong": "Kết bài: <b>“There are both advantages and disadvantages.”</b>", "right": "<b>“On balance, the benefits outweigh the drawbacks.”</b>", "why": "BẪY SỐ HAI: câu đó chỉ lặp lại đề bài, không nói gì cả." },
+            { "wrong": "Đoạn lợi <b>hai ý có ví dụ</b>, đoạn hại <b>một câu</b>", "right": "<b>Hai ý mỗi bên</b>, cân nhau", "why": "Lệch là người chấm thấy ngay bạn chưa thật sự bàn cả hai mặt." },
+            { "wrong": "Mở bài nêu luôn lập trường như bài một chiều", "right": "Mở bài <b>báo có hai mặt</b>, để lập trường cho kết bài", "why": "Nêu lập trường sớm làm hai đoạn thân bài mất thế cân bằng." },
+            { "wrong": "Dùng <b>“On the other hand”</b> hai ba lần trong bài", "right": "Dùng <b>một lần</b>, ở chỗ chuyển bên", "why": "Cụm này đánh dấu chỗ chuyển bên DUY NHẤT — lặp lại là mất chức năng." },
+            { "wrong": "Viết ý mặt hại trong <b>đoạn mặt lợi</b> rồi bác ngay", "right": "Để dành cho <b>đoạn sau</b>", "why": "Bài hai chiều khác bài nêu quan điểm: ở đây hai bên có đoạn riêng." },
+            { "wrong": "Nêu ý mà không nói <b>ai nghĩ vậy</b>", "right": "<b>Supporters argue that… · Critics point out that…</b>", "why": "Dẫn ý kiến chung làm bài khách quan hơn, đúng chất bài hai chiều." },
+            { "wrong": "Kết bài <b>nêu ý mới</b> chưa bàn", "right": "Chỉ cân nhắc <b>những ý đã nêu</b>", "why": "Cùng lỗi với bài nêu quan điểm. Xem [Kỹ năng 18]." },
+            { "wrong": "Dùng <b>“Firstly… Secondly…”</b> cho cả bốn đoạn", "right": "<b>On the one hand… On the other hand…</b>", "why": "Đánh số không cho thấy bạn đang chuyển BÊN, chỉ cho thấy thứ tự." },
+            { "wrong": "Hai bên viết xong nhưng <b>không đối chiếu</b>", "right": "Thêm một câu <b>Whereas…</b>", "why": "Đối chiếu trực tiếp cho thấy bạn thật sự so hai bên, không chỉ liệt kê." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với lỗi gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["Hai chiều / nêu quan điểm", "Lập trường ở kết / ở mở bài", "Xem [Kỹ năng 18]"],
+            ["Tách bên / trộn bên", "Dễ theo / rối", "Một đoạn một bên"],
+            ["Hai bên cân / lệch", "Đủ / chưa bàn cả hai", "2 ý mỗi bên"],
+            ["Kết có nghiêng / bỏ lửng", "Được điểm / mất điểm", "On balance,… ✓"],
+            ["Nghiêng một bên / nêu điều kiện", "Cả hai đều được", "On balance… hoặc It depends largely on…"],
+            ["<code>On the other hand</code> một lần / nhiều lần", "Đánh dấu chuyển bên / mất chức năng", "Dùng đúng một lần"],
+            ["Dẫn ý kiến chung / chỉ ý mình", "Khách quan / chủ quan", "Supporters argue that…"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: đang viết đoạn nào?" },
+        {
+          "t": "tree",
+          "q": "Xác định vị trí trong bài rồi chọn cụm mở đầu.",
+          "nodes": [
+            { "if": "Mở bài", "then": "Bối cảnh → báo có hai mặt → báo hướng đi", "ex": "…is a topic that divides opinion." },
+            { "if": "Vào mặt thứ nhất", "then": "On the one hand,… — cả đoạn một bên", "ex": "…it saves a great deal of time." },
+            { "if": "Thêm ý CÙNG bên", "then": "Moreover,… · In addition,…", "ex": "Moreover, it reduces costs." },
+            { "if": "Chuyển sang mặt kia", "then": "Xuống dòng + On the other hand,…", "ex": "…it can weaken teamwork." },
+            { "if": "Muốn đối chiếu trực tiếp", "then": "Whereas… · While…", "ex": "Whereas older staff adapt, newcomers struggle." },
+            { "if": "Kết bài", "then": "On balance,… hoặc It depends largely on…", "ex": "KHÔNG viết “there are both advantages and disadvantages”" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ chắc của câu kết bài" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "There are both advantages and disadvantages.", "vi": "Tệ nhất — chỉ lặp lại đề bài" },
+            { "en": "It is difficult to say which is better.", "vi": "Vẫn né tránh" },
+            { "en": "It depends largely on the type of work.", "vi": "Được — nêu điều kiện rõ" },
+            { "en": "On balance, the benefits outweigh the drawbacks.", "vi": "Tốt — có nghiêng" },
+            { "en": "On balance, … although a compromise of two days a week would suit most.", "vi": "Tốt nhất — nghiêng kèm đề xuất" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kỹ năng này dùng ở đâu",
+      "blocks": [
+        { "t": "p", "html": "Bài hai chiều dùng chung bộ cụm với phần nói so sánh và phản biện." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 66, "why": "What's the difference between A and B? — cách đặt hai bên cạnh nhau, nền của bài hai chiều." },
+            { "id": 57, "why": "It depends on… — cách kết bài thứ hai: nêu điều kiện thay vì chọn phe." },
+            { "id": 52, "why": "That's a good point, but… — công nhận ý bên kia rồi mới giới hạn nó lại." },
+            { "id": 53, "why": "I see what you mean, but… — cùng khuôn, dùng khi bàn ý phản đối." },
+            { "id": 42, "why": "In my opinion, … — câu nêu lập trường ở kết bài, không phải ở mở bài." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Câu này thuộc đoạn nào?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Đây là chủ đề gây tranh cãi.", "blank": "It is a topic that divides opinion.  →  __________", "a": "mở bài — báo có hai mặt" },
+            { "vi": "Một mặt, nó tiết kiệm nhiều thời gian.", "blank": "On the one hand, it saves time.  →  __________", "a": "thân bài 1 — mở đoạn mặt lợi" },
+            { "vi": "Hơn nữa, nó giảm chi phí.", "blank": "Moreover, it reduces costs.  →  __________", "a": "thân bài 1 — ý thứ hai CÙNG bên" },
+            { "vi": "Mặt khác, nó làm yếu tinh thần nhóm.", "blank": "On the other hand, it weakens teamwork.  →  __________", "a": "thân bài 2 — chuyển bên, xuống dòng" },
+            { "vi": "Một lo ngại nữa là người mới học chậm.", "blank": "Another concern is that…  →  __________", "a": "thân bài 2 — ý thứ hai" },
+            { "vi": "Người ủng hộ cho rằng kết quả quan trọng hơn.", "blank": "Supporters argue that…  →  __________", "a": "dẫn ý kiến chung" },
+            { "vi": "Cân nhắc lại, lợi ích lớn hơn bất lợi.", "blank": "On balance, the benefits outweigh…  →  __________", "a": "kết bài — nghiêng một bên" },
+            { "vi": "Phụ thuộc nhiều vào loại công việc.", "blank": "It depends largely on…  →  __________", "a": "kết bài — nêu điều kiện" }
+          ]
+        },
+        { "t": "h3", "text": "B. Câu nào đúng chuẩn bài hai chiều?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Kết bài", "blank": "(a) There are both advantages and disadvantages.  (b) On balance, the benefits outweigh the drawbacks.", "a": "(b)" },
+            { "vi": "Bố cục", "blank": "(a) trộn lợi và hại trong một đoạn  (b) một đoạn mặt lợi, một đoạn mặt hại", "a": "(b)" },
+            { "vi": "Mở bài", "blank": "(a) In my view, remote work is better.  (b) It is a topic that divides opinion.", "a": "(b) — lập trường để dành cho kết bài" },
+            { "vi": "Dẫn ý kiến", "blank": "(a) I think teamwork suffers.  (b) Critics point out that teamwork suffers.", "a": "(b) — khách quan hơn" }
+          ]
+        },
+        { "t": "h3", "text": "C. Viết bài 4 đoạn, hai bên cân nhau" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Lợi và hại của mạng xã hội với thanh thiếu niên.", "a": "Mở bài → On the one hand (2 ý) → On the other hand (2 ý) → On balance…" },
+            { "vi": "2. Có nên cho học sinh dùng AI để làm bài tập?", "a": "Nhớ mỗi bên 2 ý, mỗi ý một ví dụ. Thêm một câu Whereas… để đối chiếu." },
+            { "vi": "3. Viết dàn ý TRƯỚC: 2 ý mỗi bên.", "a": "Dàn ý trước khi viết câu là cách chắc nhất để hai bên cân nhau." },
+            { "vi": "4. Soát: kết bài có nghiêng hoặc nêu điều kiện chưa?", "a": "Nếu kết bài đọc lên mà không biết bạn nghĩ gì thì viết lại." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Một đoạn một bên.</b> Trộn lợi và hại trong cùng đoạn là lỗi bố cục nặng nhất của dạng bài này.",
+            "<b>Hai bên phải cân:</b> 2 ý mỗi bên, mỗi ý có ví dụ. Lệch là người chấm thấy ngay.",
+            "<b>Viết dàn ý trước khi viết câu.</b> Ghi 2 ý cho mỗi bên rồi mới đặt bút — đó là cách chắc nhất giữ cân bằng.",
+            "<b><i>On the other hand</i> dùng ĐÚNG MỘT LẦN</b>, ở chỗ chuyển bên. Lặp lại là nó mất chức năng đánh dấu.",
+            "<b>Kết bài phải nói gì đó:</b> nghiêng một bên (<i>On balance,…</i>) hoặc nêu điều kiện rõ (<i>It depends largely on…</i>).",
+            "<b>Soát 30 giây:</b> đọc riêng câu kết — nếu không biết bạn nghĩ gì, viết lại ngay."
+          ]
+        }
+      ]
+    }
+  ]
+}

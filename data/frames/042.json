@@ -1,0 +1,491 @@
+{
+  "id": 42,
+  "group": "Nhóm 5 · Ý kiến & Quan điểm",
+  "title": "In my opinion… — Nêu quan điểm một cách trang trọng",
+  "subtitle": "Khung câu dùng khi bạn muốn đánh dấu rõ “đây là quan điểm của riêng tôi” — nó nặng hơn I think, nghe có cân nhắc, và rất hợp với văn viết, tranh luận hay cuộc họp trang trọng. Đây cũng là nơi người Việt mắc một lỗi kinh điển: dịch “theo tôi” thành “according to me”.",
+  "pattern": [
+    "In my opinion, <em>+ mệnh đề</em>",
+    "In my view / From my perspective, <em>+ mệnh đề</em>",
+    "Personally, <em>+ mệnh đề</em>"
+  ],
+  "meaning": "Theo ý kiến của tôi… / Theo quan điểm của tôi…",
+  "grammar": [18, 62],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Trang trọng — viết nhiều hơn nói" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">In my opinion</span> làm một việc mà <i>I think</i> không làm: nó <b>đánh dấu rõ ranh giới</b> giữa sự thật và quan điểm. Khi bạn nói câu này, người nghe hiểu ngay rằng phần sau là góc nhìn cá nhân, có thể tranh luận được." },
+        { "t": "p", "html": "Vì thế nó nghe <b>có cân nhắc</b> hơn: như thể bạn đã suy nghĩ trước khi nói, chứ không phải phản ứng tức thời. So với <i>I think</i> ở [Khung 41] — vốn thường chỉ là lớp đệm — câu này mang trọng lượng thật." },
+        { "t": "p", "html": "Mặt trái: nếu dùng trong trò chuyện thường ngày, nó nghe <b>hơi lên gân</b>. Nói <i>In my opinion, this coffee is too sweet.</i> giữa bạn bè sẽ khiến mọi người buồn cười. Ở đó hãy dùng <i>I think</i> hoặc <i>Personally</i>." },
+        { "t": "callout", "html": "<b>BẪY KINH ĐIỂN của người Việt:</b> “theo tôi” KHÔNG dịch là <i>according to me</i>. Trong tiếng Anh, <span class=\"k\">according to</span> chỉ dùng cho <b>nguồn bên ngoài</b> (<i>according to the report / to him</i>). Nói <i>according to me</i> nghe rất sai và hơi buồn cười." },
+        { "t": "h3", "text": "Nặng hay nhẹ?" },
+        {
+          "t": "table",
+          "head": ["Câu", "Trọng lượng", "Hợp với"],
+          "rows": [
+            ["<code>I think it's too risky.</code>", "Nhẹ — lớp đệm", "Mọi hoàn cảnh"],
+            ["<code>Personally, I'd wait.</code>", "Nhẹ nhưng cá nhân", "Trò chuyện, họp thân mật"],
+            ["<code>In my view, it's too risky.</code>", "Vừa — chuyên nghiệp", "Họp, email công việc"],
+            ["<code>In my opinion, it's too risky.</code>", "Nặng — có cân nhắc", "Tranh luận, báo cáo, văn viết"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dấu phẩy là bắt buộc khi viết:</b> <i>In my opinion, the plan is flawed.</i> Bỏ dấu phẩy là lỗi chính tả phổ biến trong email tiếng Anh của người Việt." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "✍️", "title": "Viết email, báo cáo", "text": "Bối cảnh số 1. <i>In my opinion, we should postpone.</i> Trang trọng và rõ ràng." },
+            { "icon": "⚖️", "title": "Tranh luận", "text": "<i>In my opinion, that's the wrong question.</i> Đánh dấu rõ đâu là quan điểm." },
+            { "icon": "🎯", "title": "Được hỏi ý kiến chính thức", "text": "<i>In my professional opinion…</i> Khi bạn là người có chuyên môn." },
+            { "icon": "🛡", "title": "Phản đối có cơ sở", "text": "<i>In my view, the data says otherwise.</i> Vững hơn <i>I don't think so</i>." },
+            { "icon": "💬", "title": "Trò chuyện — dùng bản nhẹ", "text": "<i>Personally, I'd go with the blue one.</i> Đừng dùng bản trang trọng ở đây." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Mỗi câu đều mở bằng nó. Nghe như đang diễn thuyết chứ không phải nói chuyện." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Chuẩn", "<code>In my opinion, + mệnh đề</code>", "In my opinion, it's too risky."],
+            ["Trung tính hơn", "<code>In my view, + mệnh đề</code>", "In my view, the timing is wrong."],
+            ["Nhấn góc nhìn", "<code>From my perspective, + mệnh đề</code>", "From my perspective, it's a win."],
+            ["Đời thường", "<code>Personally, + mệnh đề</code>", "Personally, I'd wait."],
+            ["Rất thân mật", "<code>If you ask me, + mệnh đề</code>", "If you ask me, it's a waste."],
+            ["Kể góc nhìn", "<code>The way I see it, + mệnh đề</code>", "The way I see it, we have no choice."],
+            ["Nhấn giới hạn", "<code>As far as I'm concerned, + mệnh đề</code>", "As far as I'm concerned, it's done."],
+            ["Có chuyên môn", "<code>In my professional opinion, + mệnh đề</code>", "In my professional opinion, it's unsafe."],
+            ["Khiêm tốn (hơi đùa)", "<code>In my humble opinion, + mệnh đề</code>", "In my humble opinion, that's wrong."],
+            ["Đặt cuối câu", "<code>…, in my opinion.</code>", "It's too risky, in my opinion."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Luôn là số ít:</b> <i>in my <b>opinion</b></i>, không phải <i>in my opinions</i>. Và luôn là <b>in</b>, không phải <i>on my opinion</i> hay <i>by my opinion</i>." },
+        { "t": "callout", "html": "<b>Đừng chồng hai lớp:</b> <span class=\"k\">In my opinion, I think it's risky.</span> ✗ — thừa. Chọn một: hoặc <i>In my opinion, it's risky</i>, hoặc <i>I think it's risky</i>." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Mệnh đề hay theo sau “In my opinion,”",
+              "items": [
+                { "w": "it's too risky", "vi": "quá rủi ro", "ex": "In my opinion, it's too risky.", "exvi": "Theo tôi, việc này quá rủi ro." },
+                { "w": "we should postpone", "vi": "mình nên hoãn", "ex": "In my opinion, we should postpone the launch.", "exvi": "Theo tôi, mình nên hoãn ra mắt." },
+                { "w": "the timing is wrong", "vi": "thời điểm không hợp", "ex": "In my opinion, the timing is wrong.", "exvi": "Theo tôi, thời điểm không hợp." },
+                { "w": "that's the wrong question", "vi": "đó là câu hỏi sai", "ex": "In my opinion, that's the wrong question.", "exvi": "Theo tôi, đó là câu hỏi sai." },
+                { "w": "it's worth the investment", "vi": "đáng để đầu tư", "ex": "In my opinion, it's worth the investment.", "exvi": "Theo tôi, việc này đáng để đầu tư." },
+                { "w": "the data says otherwise", "vi": "số liệu nói ngược lại", "ex": "In my view, the data says otherwise.", "exvi": "Theo tôi, số liệu lại nói ngược lại." },
+                { "w": "there's a better way", "vi": "có cách tốt hơn", "ex": "In my opinion, there's a better way to do this.", "exvi": "Theo tôi, có cách làm tốt hơn." },
+                { "w": "it's not sustainable", "vi": "không bền vững", "ex": "In my opinion, this pace is not sustainable.", "exvi": "Theo tôi, nhịp độ này không bền." },
+                { "w": "both sides have a point", "vi": "cả hai bên đều có lý", "ex": "In my opinion, both sides have a point.", "exvi": "Theo tôi, cả hai bên đều có lý." },
+                { "w": "it's overpriced", "vi": "giá bị đội lên", "ex": "In my opinion, it's overpriced.", "exvi": "Theo tôi, giá này bị đội lên." },
+                { "w": "quality matters more", "vi": "chất lượng quan trọng hơn", "ex": "In my opinion, quality matters more than speed.", "exvi": "Theo tôi, chất lượng quan trọng hơn tốc độ." },
+                { "w": "it's a fair deal", "vi": "một thỏa thuận công bằng", "ex": "In my opinion, it's a fair deal.", "exvi": "Theo tôi, đây là thỏa thuận công bằng." },
+                { "w": "the report is incomplete", "vi": "báo cáo chưa đầy đủ", "ex": "In my opinion, the report is incomplete.", "exvi": "Theo tôi, báo cáo chưa đầy đủ." },
+                { "w": "we're solving the wrong problem", "vi": "mình đang giải sai bài toán", "ex": "In my opinion, we're solving the wrong problem.", "exvi": "Theo tôi, mình đang giải sai bài toán." },
+                { "w": "it's the safest option", "vi": "phương án an toàn nhất", "ex": "In my opinion, it's the safest option.", "exvi": "Theo tôi, đó là phương án an toàn nhất." },
+                { "w": "the service was poor", "vi": "dịch vụ kém", "ex": "In my opinion, the service was poor.", "exvi": "Theo tôi, dịch vụ ở đó kém." },
+                { "w": "it needs more testing", "vi": "cần kiểm thử thêm", "ex": "In my opinion, it needs more testing.", "exvi": "Theo tôi, cần kiểm thử thêm." },
+                { "w": "that's a fair criticism", "vi": "đó là lời phê bình xác đáng", "ex": "In my opinion, that's a fair criticism.", "exvi": "Theo tôi, đó là lời phê bình xác đáng." },
+                { "w": "it's not worth the trouble", "vi": "không bõ công", "ex": "In my opinion, it's not worth the trouble.", "exvi": "Theo tôi, không bõ công đâu." },
+                { "w": "we need a second opinion", "vi": "cần ý kiến thứ hai", "ex": "In my opinion, we need a second opinion on this.", "exvi": "Theo tôi, việc này cần ý kiến thứ hai.", "note": "<i>a second opinion</i> = ý kiến của một chuyên gia khác, rất hay dùng trong y tế và kỹ thuật." }
+              ]
+            },
+            {
+              "title": "Các cách nói thay thế",
+              "items": [
+                { "w": "In my view,", "vi": "theo quan điểm của tôi", "ex": "In my view, the timing is wrong.", "exvi": "Theo quan điểm của tôi, thời điểm không hợp.", "note": "Trung tính hơn <i>in my opinion</i> một chút — rất hợp email công việc." },
+                { "w": "From my perspective,", "vi": "từ góc nhìn của tôi", "ex": "From my perspective, it's actually a win.", "exvi": "Từ góc nhìn của tôi, đây thật ra là một thắng lợi.", "note": "Nhấn rằng bạn đang nhìn từ một vị trí cụ thể — hợp khi các bên có lợi ích khác nhau." },
+                { "w": "Personally,", "vi": "cá nhân tôi thì", "ex": "Personally, I'd wait a week.", "exvi": "Cá nhân tôi thì tôi sẽ đợi một tuần.", "note": "Bản đời thường nhất — dùng được cả khi trò chuyện." },
+                { "w": "The way I see it,", "vi": "theo cách tôi nhìn nhận", "ex": "The way I see it, we have no choice.", "exvi": "Theo cách tôi nhìn nhận thì mình không có lựa chọn." },
+                { "w": "As far as I'm concerned,", "vi": "riêng tôi thì", "ex": "As far as I'm concerned, the matter is closed.", "exvi": "Riêng tôi thì chuyện này khép lại rồi.", "note": "Hơi dứt khoát, đôi khi nghe như “tôi không bàn thêm nữa”." },
+                { "w": "If you ask me,", "vi": "nếu hỏi tôi thì", "ex": "If you ask me, it's a waste of money.", "exvi": "Nếu hỏi tôi thì đó là phí tiền.", "note": "Rất thân mật và hơi thẳng — không dùng với khách hàng." },
+                { "w": "To my mind,", "vi": "theo tôi nghĩ", "ex": "To my mind, that's the real issue.", "exvi": "Theo tôi nghĩ, đó mới là vấn đề thật.", "note": "Hơi trang trọng và mang màu Anh-Anh." },
+                { "w": "In my professional opinion,", "vi": "theo ý kiến chuyên môn của tôi", "ex": "In my professional opinion, it's unsafe.", "exvi": "Theo ý kiến chuyên môn của tôi, cái này không an toàn.", "note": "Chỉ dùng khi bạn thật sự có chuyên môn về việc đó." },
+                { "w": "In my humble opinion,", "vi": "theo ý kiến khiêm tốn của tôi", "ex": "In my humble opinion, that's the wrong call.", "exvi": "Theo ý kiến khiêm tốn của tôi, đó là quyết định sai.", "note": "Thường mang chút đùa; viết tắt trên mạng là IMHO." },
+                { "w": "…, in my opinion.", "vi": "…, theo tôi", "ex": "It's too risky, in my opinion.", "exvi": "Việc này quá rủi ro, theo tôi.", "note": "Đặt cuối câu nghe nhẹ hơn và ít trịnh trọng hơn." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "I share that view", "vi": "tôi cùng quan điểm", "ex": "I share that view.", "exvi": "Tôi cùng quan điểm đó.", "note": "Trang trọng, hợp với họp và email." },
+                { "w": "That's a valid point", "vi": "đó là ý xác đáng", "ex": "That's a valid point.", "exvi": "Đó là ý xác đáng." },
+                { "w": "I see it differently", "vi": "tôi nhìn khác", "ex": "I see it differently, actually.", "exvi": "Thật ra tôi nhìn nhận khác.", "note": "Cách phản đối lịch sự và chuyên nghiệp nhất." },
+                { "w": "I beg to differ", "vi": "tôi xin phép không đồng ý", "ex": "I beg to differ on that.", "exvi": "Chỗ đó tôi xin phép không đồng ý.", "note": "Rất trang trọng, hơi cổ — dùng trong tranh luận, đôi khi hơi đùa." },
+                { "w": "What makes you say that?", "vi": "vì sao bạn nói vậy?", "ex": "What makes you say that?", "exvi": "Vì sao anh/chị nói vậy?", "note": "Hỏi lý do mà không nghe như đang chất vấn." },
+                { "w": "Fair enough", "vi": "cũng có lý", "ex": "Fair enough — let's go with that.", "exvi": "Cũng có lý — vậy làm theo đó." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "In my opinion, we should postpone the launch.",
+                  "vi": "Theo tôi, mình nên hoãn ra mắt.",
+                  "note": "Câu chuẩn mực trong họp: đánh dấu rõ đây là quan điểm, không phải quyết định.",
+                  "open": { "en": "May I offer a different view?", "vi": "Tôi xin nêu một góc nhìn khác được không?" },
+                  "reply": [
+                    { "them": "What makes you say that?", "themvi": "Vì sao anh/chị nói vậy?", "you": "We still have twelve open bugs.", "youvi": "Mình vẫn còn mười hai lỗi chưa xử lý." },
+                    { "them": "I see it differently — we can patch after.", "themvi": "Tôi nhìn khác — mình vá sau cũng được.", "you": "That's a valid point, but the risk is public.", "youvi": "Ý đó xác đáng, nhưng rủi ro là lộ ra ngoài." }
+                  ],
+                  "close": { "en": "Happy to go with the team's decision.", "vi": "Tôi sẵn sàng theo quyết định của nhóm." }
+                },
+                {
+                  "en": "In my view, the data says otherwise.",
+                  "vi": "Theo quan điểm của tôi, số liệu lại nói ngược lại.",
+                  "note": "<i>In my view</i> trung tính hơn <i>in my opinion</i> — hợp khi phản bác mà không muốn nghe đối đầu.",
+                  "reply": [
+                    { "them": "Which numbers are you looking at?", "themvi": "Anh/chị đang nhìn số nào?", "you": "The retention chart on slide nine.", "youvi": "Biểu đồ giữ chân người dùng ở slide chín." }
+                  ],
+                  "vars": [
+                    { "en": "From my perspective, the data says otherwise.", "vi": "Từ góc nhìn của tôi, số liệu nói ngược lại." }
+                  ]
+                },
+                {
+                  "en": "In my opinion, we're solving the wrong problem.",
+                  "vi": "Theo tôi, mình đang giải sai bài toán.",
+                  "note": "Câu mạnh — chỉ dùng khi bạn có lý lẽ theo sau, nếu không sẽ nghe như phủ nhận công sức cả nhóm.",
+                  "reply": [
+                    { "them": "Go on.", "themvi": "Anh/chị nói tiếp đi.", "you": "Users aren't complaining about speed — they're lost.", "youvi": "Người dùng không kêu chậm — họ bị lạc." }
+                  ]
+                },
+                {
+                  "en": "Personally, I'd wait for the Q3 numbers.",
+                  "vi": "Cá nhân tôi thì tôi sẽ đợi số liệu quý ba.",
+                  "note": "Bản nhẹ — dùng khi bạn muốn nêu ý riêng mà không đặt nó lên bàn cân chính thức.",
+                  "reply": [
+                    { "them": "Fair enough.", "themvi": "Cũng có lý.", "you": "It's only three more weeks.", "youvi": "Chỉ thêm ba tuần thôi mà." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "If you ask me, it's a waste of money.",
+                  "vi": "Nếu hỏi tôi thì đó là phí tiền.",
+                  "note": "Rất thân mật và hơi thẳng — chỉ dùng với bạn bè, đừng dùng với khách hàng.",
+                  "reply": [
+                    { "them": "You're probably right.", "themvi": "Chắc bạn nói đúng.", "you": "Save it for the trip instead.", "youvi": "Để dành cho chuyến đi thì hơn." }
+                  ]
+                },
+                {
+                  "en": "The way I see it, we don't have much choice.",
+                  "vi": "Theo cách tôi nhìn nhận thì mình không có nhiều lựa chọn.",
+                  "reply": [
+                    { "them": "There's always a choice.", "themvi": "Lúc nào chẳng có lựa chọn.", "you": "Then tell me what it is.", "youvi": "Vậy nói tôi nghe đó là gì." }
+                  ]
+                },
+                {
+                  "en": "Personally, I'd go with the blue one.",
+                  "vi": "Cá nhân tôi thì tôi chọn cái màu xanh.",
+                  "note": "Cho lời khuyên mà không áp đặt — <i>Personally</i> nói rõ đây chỉ là gu của bạn.",
+                  "reply": [
+                    { "them": "Really? I liked the grey.", "themvi": "Thật à? Mình thích cái xám.", "you": "Both work — it's your call.", "youvi": "Cái nào cũng được — bạn quyết." }
+                  ],
+                  "vars": [
+                    { "en": "The blue one, in my opinion.", "vi": "Cái xanh, theo tôi." }
+                  ]
+                },
+                {
+                  "en": "As far as I'm concerned, the matter is closed.",
+                  "vi": "Riêng tôi thì chuyện này khép lại rồi.",
+                  "note": "Dứt khoát — báo hiệu bạn không muốn bàn thêm. Dùng cẩn thận vì nghe khá cứng.",
+                  "reply": [
+                    { "them": "So we just move on?", "themvi": "Vậy mình bỏ qua luôn à?", "you": "I think that's best for everyone.", "youvi": "Tôi nghĩ vậy là tốt nhất cho mọi người." }
+                  ],
+                  "close": { "en": "No hard feelings.", "vi": "Không có gì phải để bụng." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "In my opinion, it's overpriced.",
+                  "vi": "Theo tôi, giá này bị đội lên.",
+                  "reply": [
+                    { "them": "It's imported, though.", "themvi": "Nhưng hàng nhập mà ạ.", "you": "Even so, I've seen it cheaper online.", "youvi": "Dù vậy tôi thấy trên mạng rẻ hơn." }
+                  ]
+                },
+                {
+                  "en": "In my opinion, quality matters more than price here.",
+                  "vi": "Theo tôi, ở món này chất lượng quan trọng hơn giá.",
+                  "reply": [
+                    { "them": "Then I'd recommend this one.", "themvi": "Vậy em gợi ý cái này ạ.", "you": "What's the warranty on it?", "youvi": "Bảo hành bao lâu?" }
+                  ]
+                },
+                {
+                  "en": "Personally, I think the smaller one is better value.",
+                  "vi": "Cá nhân tôi thấy cái nhỏ đáng tiền hơn.",
+                  "note": "Ở đây <i>Personally</i> và <i>I think</i> đi cùng được — nhưng <i>In my opinion, I think…</i> thì thừa.",
+                  "reply": [
+                    { "them": "Most people say the same.", "themvi": "Đa số khách cũng nói vậy ạ.", "you": "I'll take the smaller one then.", "youvi": "Vậy tôi lấy cái nhỏ." }
+                  ]
+                },
+                {
+                  "en": "It's not worth the trouble, in my opinion.",
+                  "vi": "Không bõ công đâu, theo tôi.",
+                  "note": "Đặt cuối câu — nhẹ hơn và ít trịnh trọng hơn khi đứng đầu.",
+                  "reply": [
+                    { "them": "But it's under warranty.", "themvi": "Nhưng còn bảo hành mà.", "you": "Three weeks of waiting, though.", "youvi": "Nhưng phải đợi ba tuần." }
+                  ],
+                  "close": { "en": "I'll just buy a new one.", "vi": "Tôi mua cái mới cho xong." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "In my opinion, the service was poor.",
+                  "vi": "Theo tôi, dịch vụ ở đó kém.",
+                  "note": "Dùng khi viết đánh giá hoặc phản ánh chính thức — trang trọng và có trọng lượng.",
+                  "reply": [
+                    { "them": "I'm very sorry to hear that.", "themvi": "Em rất tiếc khi nghe vậy ạ.", "you": "We waited forty minutes for water.", "youvi": "Chúng tôi đợi bốn mươi phút chỉ để có nước." }
+                  ]
+                },
+                {
+                  "en": "Personally, I'd skip dessert here.",
+                  "vi": "Cá nhân tôi thì tôi bỏ qua món tráng miệng ở đây.",
+                  "reply": [
+                    { "them": "Not good?", "themvi": "Không ngon à?", "you": "Not for the price, in my opinion.", "youvi": "So với giá thì không, theo tôi." }
+                  ]
+                },
+                {
+                  "en": "In my view, this place is overrated.",
+                  "vi": "Theo quan điểm của tôi, chỗ này được khen quá lời.",
+                  "note": "<span class=\"k\">overrated</span> = được đánh giá cao hơn thực chất. Từ rất hay khi bình luận quán xá.",
+                  "reply": [
+                    { "them": "Everyone raves about it though.", "themvi": "Nhưng ai cũng khen mà.", "you": "The way I see it, they're paying for the view.", "youvi": "Theo cách tôi nhìn, người ta trả tiền cho cái view thôi." }
+                  ],
+                  "vars": [
+                    { "en": "It's overrated, if you ask me.", "vi": "Được khen quá lời, nếu hỏi tôi." }
+                  ]
+                },
+                {
+                  "en": "From my perspective, it's still good value.",
+                  "vi": "Từ góc nhìn của tôi, vẫn đáng tiền.",
+                  "reply": [
+                    { "them": "Compared to what?", "themvi": "So với cái gì?", "you": "Compared to anywhere else downtown.", "youvi": "So với mọi chỗ khác trong trung tâm." }
+                  ],
+                  "close": { "en": "Anyway, my treat today.", "vi": "Dù sao hôm nay tôi mời." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "In my opinion, the train is the better option.",
+                  "vi": "Theo tôi, đi tàu là phương án tốt hơn.",
+                  "reply": [
+                    { "them": "Isn't it slower?", "themvi": "Không phải chậm hơn à?", "you": "Slower but far more reliable.", "youvi": "Chậm hơn nhưng chắc chắn hơn nhiều." }
+                  ]
+                },
+                {
+                  "en": "In my opinion, three days isn't enough for this city.",
+                  "vi": "Theo tôi, ba ngày không đủ cho thành phố này.",
+                  "reply": [
+                    { "them": "How long would you stay?", "themvi": "Bạn sẽ ở bao lâu?", "you": "Five, minimum.", "youvi": "Ít nhất năm ngày." }
+                  ]
+                },
+                {
+                  "en": "Personally, I'd book somewhere closer to the centre.",
+                  "vi": "Cá nhân tôi thì tôi đặt chỗ gần trung tâm hơn.",
+                  "note": "Cho lời khuyên du lịch mà không ép — rất hợp khi bàn kế hoạch chung.",
+                  "reply": [
+                    { "them": "It's double the price though.", "themvi": "Nhưng giá gấp đôi đấy.", "you": "True, but you save on taxis.", "youvi": "Đúng, nhưng đỡ tiền taxi." }
+                  ]
+                },
+                {
+                  "en": "In my professional opinion, that route isn't safe at night.",
+                  "vi": "Theo ý kiến chuyên môn của tôi, tuyến đó không an toàn vào ban đêm.",
+                  "note": "Chỉ dùng <i>professional</i> khi bạn thật sự có chuyên môn — nếu không sẽ nghe khoe khoang.",
+                  "reply": [
+                    { "them": "What would you suggest?", "themvi": "Anh/chị gợi ý gì?", "you": "Take the main road, even if it's longer.", "youvi": "Đi đường chính, dù có xa hơn." }
+                  ],
+                  "close": { "en": "Better safe than sorry.", "vi": "Cẩn tắc vô ưu." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Bảo vệ quan điểm trong cuộc họp",
+          "lines": [
+            { "speaker": "Director", "en": "The team wants to launch on Friday. Thoughts?", "vi": "Nhóm muốn ra mắt vào thứ Sáu. Ý kiến thế nào?" },
+            { "speaker": "You", "me": true, "en": "May I offer a different view? In my opinion, we should postpone.", "vi": "Tôi xin nêu một góc nhìn khác được không? Theo tôi, mình nên hoãn." },
+            { "speaker": "Director", "en": "What makes you say that?", "vi": "Vì sao anh/chị nói vậy?" },
+            { "speaker": "You", "me": true, "en": "In my view, the data says otherwise — twelve bugs are still open.", "vi": "Theo quan điểm của tôi, số liệu nói ngược lại — vẫn còn mười hai lỗi." },
+            { "speaker": "Director", "en": "I see it differently. We can patch after release.", "vi": "Tôi nhìn khác. Mình vá sau khi phát hành cũng được." },
+            { "speaker": "You", "me": true, "en": "That's a valid point. But from my perspective, the risk is public. Either way, I'm happy to go with the team's decision.", "vi": "Ý đó xác đáng. Nhưng từ góc nhìn của tôi, rủi ro là lộ ra ngoài. Dù sao tôi cũng sẵn sàng theo quyết định của nhóm." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Bàn chuyện mua sắm với bạn",
+          "lines": [
+            { "speaker": "Lan", "en": "So, should I get the expensive one?", "vi": "Vậy mình có nên lấy cái đắt không?" },
+            { "speaker": "You", "me": true, "en": "Personally, I'd go with the smaller one.", "vi": "Cá nhân mình thì mình chọn cái nhỏ." },
+            { "speaker": "Lan", "en": "Really? Everyone says the big one is better.", "vi": "Thật à? Ai cũng bảo cái to tốt hơn mà." },
+            { "speaker": "You", "me": true, "en": "If you ask me, it's overrated. In my opinion, it's overpriced too.", "vi": "Nếu hỏi mình thì nó được khen quá lời. Theo mình, giá cũng bị đội lên." },
+            { "speaker": "Lan", "en": "Fair enough. What would you do?", "vi": "Cũng có lý. Bạn sẽ làm gì?" },
+            { "speaker": "You", "me": true, "en": "The way I see it, save the difference and buy a case.", "vi": "Theo cách mình nhìn, để dành khoản chênh đó mua cái ốp." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "According to me, it's too risky.", "right": "In my opinion, it's too risky.", "why": "BẪY KINH ĐIỂN. <b>According to</b> chỉ dùng cho nguồn bên ngoài (<i>according to the report</i>). Không bao giờ dùng cho chính mình." },
+            { "wrong": "In my opinion, I think it's risky.", "right": "In my opinion, it's risky.", "why": "Thừa — đã có <i>in my opinion</i> thì bỏ <i>I think</i>, và ngược lại." },
+            { "wrong": "In my opinions, it's too risky.", "right": "In my opinion, it's too risky.", "why": "Luôn là <b>số ít</b>: <i>opinion</i>, không có <i>s</i>." },
+            { "wrong": "On my opinion, it's too risky.", "right": "In my opinion, it's too risky.", "why": "Giới từ là <b>in</b>. Không phải <i>on</i>, không phải <i>by</i>." },
+            { "wrong": "In my opinion it's too risky.", "right": "In my opinion, it's too risky.", "why": "Khi viết phải có <b>dấu phẩy</b> sau cụm mở đầu. Lỗi rất phổ biến trong email." },
+            { "wrong": "In my opinion, this coffee is too sweet. <i>(giữa bạn bè)</i>", "right": "This coffee's a bit sweet, I think.", "why": "Quá trang trọng cho chuyện vặt. Trong trò chuyện hãy dùng [Khung 41] hoặc <i>Personally</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Trang trọng / sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>In my opinion,…</code>", "Trang trọng — có cân nhắc", "<i>In my opinion, it's too risky.</i> Viết, tranh luận, họp."],
+            ["<code>In my view,…</code>", "Trang trọng nhưng trung tính hơn", "<i>In my view, the timing is wrong.</i> Email công việc."],
+            ["<code>From my perspective,…</code>", "Nhấn vị trí, góc nhìn", "<i>From my perspective, it's a win.</i> Khi các bên khác lợi ích."],
+            ["<code>Personally,…</code>", "Đời thường — gu cá nhân", "<i>Personally, I'd wait.</i> Trò chuyện, khuyên bạn."],
+            ["<code>I think…</code>", "Nhẹ nhất — lớp đệm", "<i>I think it's risky.</i> Xem [Khung 41]."],
+            ["<code>As far as I'm concerned,…</code>", "Dứt khoát — khép lại tranh luận", "<i>As far as I'm concerned, it's done.</i> Dùng cẩn thận."],
+            ["<code>If you ask me,…</code>", "Thân mật, hơi thẳng", "<i>If you ask me, it's a waste.</i> Không dùng với khách."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — nói rằng một món đồ quá đắt" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "It's a bit pricey, I think.", "vi": "Nhẹ nhất — nhận xét thoáng qua" },
+            { "en": "Personally, I find it expensive.", "vi": "Gu cá nhân — không áp đặt" },
+            { "en": "In my view, it's not good value.", "vi": "Chuyên nghiệp, có cân nhắc" },
+            { "en": "In my opinion, it's overpriced.", "vi": "Quan điểm rõ ràng, có trọng lượng" },
+            { "en": "If you ask me, it's a complete rip-off.", "vi": "Thẳng nhất — chỉ dùng chỗ thân mật" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>In my</b> nói nhanh dính thành <b>“in-mai”</b>, gần như một từ.",
+            "<b>opinion</b> nhấn ở <b>âm tiết thứ hai</b>: o-<b>PIN</b>-yun. Người Việt hay nhấn sai vào âm đầu.",
+            "Đuôi <b>-nion</b> đọc là <b>“nyun”</b> /njən/, không phải “ni-on” tách rời.",
+            "Cả cụm: <b>“in-mai-o-PIN-yun”</b> — nói liền, chỉ nhấn duy nhất vào PIN.",
+            "<b>Ngắt một nhịp ngắn sau “opinion”</b> — chính chỗ ngắt đó tạo cảm giác bạn đã cân nhắc.",
+            "<b>Personally</b> nhấn âm đầu: <b>PER</b>-sun-ly, và thường chỉ đọc ba âm tiết chứ không phải bốn."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "In my opinion, we should postpone.", "vi": "Luyện shadowing: “in-mai-o-PIN-yun” rồi ngắt một nhịp trước phần sau." },
+            { "en": "Personally, I'd wait a week.", "vi": "Nhấn PER ở đầu, phần còn lại đọc lướt nhanh." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Theo tôi, việc này quá rủi ro.", "blank": "__________, it's too risky.", "a": "In my opinion (KHÔNG phải “According to me”)" },
+            { "vi": "Theo quan điểm của tôi, thời điểm không hợp.", "blank": "__________, the timing is wrong.", "a": "In my view" },
+            { "vi": "Cá nhân tôi thì tôi sẽ đợi.", "blank": "__________, I'd wait.", "a": "Personally" },
+            { "vi": "Từ góc nhìn của tôi, đây là một thắng lợi.", "blank": "__________, it's a win.", "a": "From my perspective" },
+            { "vi": "Nếu hỏi tôi thì đó là phí tiền.", "blank": "__________, it's a waste of money.", "a": "If you ask me" },
+            { "vi": "Việc này quá rủi ro, theo tôi.", "blank": "It's too risky, __________.", "a": "in my opinion" },
+            { "vi": "Riêng tôi thì chuyện này khép lại rồi.", "blank": "__________, the matter is closed.", "a": "As far as I'm concerned" },
+            { "vi": "Theo cách tôi nhìn nhận thì mình không có lựa chọn.", "blank": "__________, we have no choice.", "a": "The way I see it" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Theo tôi, mình nên hoãn ra mắt.", "a": "In my opinion, we should postpone the launch." },
+            { "vi": "2. Theo quan điểm của tôi, số liệu lại nói ngược lại.", "a": "In my view, the data says otherwise." },
+            { "vi": "3. Cá nhân tôi thì tôi chọn cái màu xanh.", "a": "Personally, I'd go with the blue one." },
+            { "vi": "4. Theo tôi, giá này bị đội lên.", "a": "In my opinion, it's overpriced." },
+            { "vi": "5. Không bõ công đâu, theo tôi.", "a": "It's not worth the trouble, in my opinion." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Xóa hẳn “according to me” khỏi đầu.</b> Đây là lỗi số một. <i>According to</i> chỉ dành cho nguồn bên ngoài.",
+            "<b>Chọn một lớp, đừng chồng hai:</b> hoặc <i>In my opinion, it's risky</i>, hoặc <i>I think it's risky</i> — không bao giờ cả hai.",
+            "<b>Nhớ dấu phẩy khi viết.</b> Trong email tiếng Anh, thiếu dấu phẩy sau cụm mở đầu là lỗi nhìn thấy ngay.",
+            "<b>Dùng “Personally” cho đời thường, “In my opinion” cho văn bản.</b> Nhầm chỗ là nghe lên gân hoặc thiếu nghiêm túc.",
+            "<b>Đặt cuối câu để hạ nhiệt:</b> <i>It's overpriced, in my opinion.</i> nhẹ hơn hẳn khi cụm này đứng đầu.",
+            "<b>Bài tập 3 phút:</b> viết 5 ý kiến của bạn về công việc tuần này, mỗi ý viết hai lần — một lần với <i>I think</i>, một lần với <i>In my opinion</i>. Đọc to và cảm nhận sự khác biệt về trọng lượng."
+          ]
+        }
+      ]
+    }
+  ]
+}

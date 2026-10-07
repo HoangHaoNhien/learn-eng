@@ -1,0 +1,134 @@
+{
+  "id": 19,
+  "title": "Số đếm và cách đọc",
+  "teaches": ["thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen", "forty", "sixty", "seventy", "eighty", "ninety", "million", "costs", "is", "are", "dong", "and"],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn đọc được <b>mọi số từ 0 đến 100</b>, nói được tuổi, giá tiền, số điện thoại — và nghe ra được khi người ta nói số cho bạn." },
+        { "t": "callout", "html": "<b>Bẫy nghe quan trọng nhất của cả bài:</b><br><br><b>13 · 14 · 15…</b> (<i>thirteen</i>) nhấn ở <b>âm cuối</b> → <code>/ˌθɜːˈtiːn/</code><br><b>30 · 40 · 50…</b> (<i>thirty</i>) nhấn ở <b>âm đầu</b> → <code>/ˈθɜːti/</code><br><br>Nghe nhầm <i>fifteen</i> thành <i>fifty</i> là chênh nhau ba lần tiền. Đây là lỗi gây hiểu nhầm thật ngoài đời, không phải lỗi sách vở." }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "Bài 03 — <b>trọng âm</b>. Toàn bộ bài này xoay quanh việc nhấn vào âm nào, nên cần biết dấu <code>ˈ</code> nghĩa là gì." },
+        { "t": "p", "html": "Bài 07 — <code>to be</code>, vì nói tuổi dùng <i>I am…</i> chứ không dùng <i>I have…</i>" },
+        { "t": "link", "items": [
+          { "id": 3, "label": "Bài 03 — trọng âm" },
+          { "id": 7, "label": "Bài 07 — to be" }
+        ] }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "table", "head": ["Luật", "Nghĩa là gì", "Ví dụ"], "rows": [
+          ["<b>1.</b> 13–19 thêm đuôi <b>-teen</b>, nhấn <b>cuối</b>", "Nghe nặng ở phần sau", "<i>thir<b>TEEN</b></i> <code>/ˌθɜːˈtiːn/</code>"],
+          ["<b>2.</b> 20–90 thêm đuôi <b>-ty</b>, nhấn <b>đầu</b>", "Nghe nặng ở phần trước", "<i><b>THIR</b>ty</i> <code>/ˈθɜːti/</code>"],
+          ["<b>3.</b> Số ghép có <b>gạch nối</b>", "Từ 21 đến 99", "<i>twenty-one</i> · <i>forty-five</i>"]
+        ] },
+        { "t": "h3", "text": "Bốn số viết KHÁC quy luật — phải thuộc" },
+        { "t": "table", "head": ["Số", "Viết đúng", "Chỗ dễ sai"], "rows": [
+          ["<b>13</b>", "<b>thir</b>teen", "không phải <i>threeteen</i>"],
+          ["<b>15</b>", "<b>fif</b>teen", "không phải <i>fiveteen</i>"],
+          ["<b>40</b>", "<b>for</b>ty", "không có chữ <code>u</code> — khác <i>four</i>"],
+          ["<b>50</b>", "<b>fif</b>ty", "không phải <i>fivety</i>"]
+        ] },
+        { "t": "h3", "text": "Bảng tra nhanh" },
+        { "t": "table", "head": ["0–10", "11–19", "Hàng chục"], "rows": [
+          ["0 zero · 1 one · 2 two", "11 eleven · 12 twelve", "20 twenty"],
+          ["3 three · 4 four · 5 five", "13 thirteen · 14 fourteen", "30 thirty"],
+          ["6 six · 7 seven · 8 eight", "15 fifteen · 16 sixteen", "40 forty"],
+          ["9 nine · 10 ten", "17 seventeen · 18 eighteen", "50 fifty · 60 sixty"],
+          ["", "19 nineteen", "70 seventy · 80 eighty · 90 ninety"]
+        ] },
+        { "t": "callout", "html": "<b>Số từ 100 trở lên — chèn chữ <code>and</code>:</b><br>• 100 — <i>one hundred</i><br>• 101 — <i>one hundred <b>and</b> one</i><br>• 250 — <i>two hundred <b>and</b> fifty</i><br><br>Và <b>hundred</b> không bao giờ thêm <b>-s</b> khi có số đứng trước: <i>two hundred</i> ✓ · <i>two hundreds</i> ✗." }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "Cặp dễ nghe nhầm — tập kỹ sáu cặp này" },
+        { "t": "ex", "items": [
+          { "en": "thirteen /ˌθɜːˈtiːn/ — thirty /ˈθɜːti/", "vi": "mười ba — ba mươi", "note": "Nhấn cuối và nhấn đầu. Đọc to cả hai, nghe sự khác nhau." },
+          { "en": "fourteen /ˌfɔːˈtiːn/ — forty /ˈfɔːti/", "vi": "mười bốn — bốn mươi", "note": "<i>forty</i> không có chữ <code>u</code>." },
+          { "en": "fifteen /ˌfɪfˈtiːn/ — fifty /ˈfɪfti/", "vi": "mười lăm — năm mươi", "note": "Cặp hay nhầm nhất khi nói giá tiền." },
+          { "en": "sixteen /ˌsɪkˈstiːn/ — sixty /ˈsɪksti/", "vi": "mười sáu — sáu mươi", "note": "Cùng luật." },
+          { "en": "seventeen /ˌsevnˈtiːn/ — seventy /ˈsevnti/", "vi": "mười bảy — bảy mươi", "note": "Cùng luật." },
+          { "en": "eighteen /ˌeɪˈtiːn/ — eighty /ˈeɪti/", "vi": "mười tám — tám mươi", "note": "Chữ <code>gh</code> câm ở cả hai." }
+        ] },
+        { "t": "h3", "text": "Số ghép — có gạch nối" },
+        { "t": "ex", "items": [
+          { "en": "twenty-one", "vi": "hai mươi mốt", "note": "Gạch nối giữa hàng chục và hàng đơn vị." },
+          { "en": "thirty-five", "vi": "ba mươi lăm", "note": "Cùng kiểu." },
+          { "en": "forty-eight", "vi": "bốn mươi tám", "note": "<i>forty</i> không có <code>u</code>." },
+          { "en": "ninety-nine", "vi": "chín mươi chín", "note": "Số lớn nhất có hai chữ số." }
+        ] },
+        { "t": "h3", "text": "Nói tuổi — dùng to be, không dùng have" },
+        { "t": "ex", "items": [
+          { "en": "I am twenty.", "vi": "Tôi hai mươi tuổi.", "note": "Không cần thêm <i>years old</i>." },
+          { "en": "I am twenty years old.", "vi": "Tôi hai mươi tuổi.", "note": "Thêm vào cũng đúng, chỉ dài hơn." },
+          { "en": "How old are you? — I am thirty.", "vi": "Bạn bao nhiêu tuổi? — Tôi ba mươi.", "note": "Hỏi bằng <b>How old</b> ở bài 17." },
+          { "en": "My son is eight.", "vi": "Con trai tôi tám tuổi.", "note": "Dùng <b>is</b> cho người khác." },
+          { "en": "My grandmother is eighty.", "vi": "Bà tôi tám mươi tuổi.", "note": "Nhấn âm đầu: <i>EIGHT-y</i>." }
+        ] },
+        { "t": "h3", "text": "Nói giá tiền và số lượng" },
+        { "t": "ex", "items": [
+          { "en": "It costs fifty thousand dong.", "vi": "Giá năm mươi nghìn đồng.", "note": "<i>fifty</i> nhấn đầu — đừng để nghe thành <i>fifteen</i>." },
+          { "en": "I have fifteen books.", "vi": "Tôi có mười lăm quyển sách.", "note": "<i>fifteen</i> nhấn cuối." },
+          { "en": "There are thirty students.", "vi": "Có ba mươi học sinh.", "note": "Số nhiều nên dùng <i>are</i> và thêm <b>-s</b>." },
+          { "en": "Wait five minutes, please.", "vi": "Vui lòng đợi năm phút.", "note": "Số nhỏ dễ hơn nhiều." },
+          { "en": "One hundred and twenty.", "vi": "Một trăm hai mươi.", "note": "Có chữ <b>and</b> ở giữa." }
+        ] },
+        { "t": "h3", "text": "Đọc số điện thoại — đọc từng chữ số" },
+        { "t": "ex", "items": [
+          { "en": "My number is 0 9 1 2 3 4 5.", "vi": "Số của tôi là 0912345.", "note": "Đọc rời từng số, không đọc thành số lớn." },
+          { "en": "Zero nine one two…", "vi": "Không chín một hai…", "note": "<i>zero</i> cũng đọc là <i>oh</i> trong số điện thoại." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — viết số" },
+        { "t": "quiz", "items": [
+          { "vi": "Viết số 13 bằng chữ.", "a": "thirteen — không phải <i>threeteen</i>" },
+          { "vi": "Viết số 15 bằng chữ.", "a": "fifteen — không phải <i>fiveteen</i>" },
+          { "vi": "Viết số 40 bằng chữ.", "a": "forty — KHÔNG có chữ u" },
+          { "vi": "Viết số 50 bằng chữ.", "a": "fifty" },
+          { "vi": "Viết số 35 bằng chữ.", "a": "thirty-five — có gạch nối" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — trọng âm" },
+        { "t": "quiz", "items": [
+          { "vi": "<i>thirteen</i> nhấn ở đâu?", "a": "Âm CUỐI — <code>/ˌθɜːˈtiːn/</code>" },
+          { "vi": "<i>thirty</i> nhấn ở đâu?", "a": "Âm ĐẦU — <code>/ˈθɜːti/</code>" },
+          { "vi": "Vì sao phải phân biệt kỹ hai nhóm này?", "a": "Nghe nhầm <i>fifteen</i> thành <i>fifty</i> là chênh ba lần tiền" },
+          { "vi": "Đọc to: fifteen — fifty — fifteen — fifty.", "a": "Nghe rõ chỗ nặng đổi từ sau ra trước" }
+        ] },
+        { "t": "h3", "text": "Phần 3 — dùng thật" },
+        { "t": "quiz", "items": [
+          { "vi": "Tôi hai mươi tuổi.", "a": "I am twenty. — dùng <b>am</b>, không dùng <i>have</i>" },
+          { "vi": "Bạn bao nhiêu tuổi?", "a": "How old are you?" },
+          { "vi": "Đọc số điện thoại của bạn bằng tiếng Anh.", "a": "Đọc rời từng chữ số, không gộp thành số lớn" }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>-teen nhấn cuối, -ty nhấn đầu.</b> <i>fif<b>TEEN</b></i> (15) ≠ <i><b>FIF</b>ty</i> (50). Đây là bẫy gây hiểu nhầm thật khi mua bán.",
+          "<b>Bốn số viết lệch quy luật:</b> <i>thirteen · fifteen · forty · fifty</i>. Riêng <b>forty</b> không có chữ <code>u</code>.",
+          "<b>Nói tuổi dùng <code>to be</code>.</b> <i>I <b>am</b> twenty</i>, không bao giờ <i>I have twenty</i> — khác hẳn tiếng Việt."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "<i>I have twenty years old.</i>", "right": "<i>I am twenty.</i>", "why": "Tiếng Việt nói <i>“Tôi <b>có</b> hai mươi tuổi”</i> không ai nói, nhưng nhiều thứ tiếng khác thì dùng động từ <i>có</i>. Tiếng Anh dùng <code>to be</code>: bạn <b>là</b> hai mươi, chứ không <b>có</b> hai mươi." },
+          { "wrong": "<i>fourty</i>", "right": "<i>forty</i>", "why": "Đây là lỗi chính tả phổ biến nhất trong cả tiếng Anh, kể cả người bản xứ cũng sai. <i>four</i> có chữ <code>u</code> nhưng <i>forty</i> thì không." },
+          { "wrong": "Đọc <i>fifteen</i> mà nhấn âm đầu", "right": "<i>fif<b>TEEN</b></i> — nhấn âm cuối", "why": "Nhấn sai chỗ làm người nghe hiểu thành <i>fifty</i>. Ngoài đời đây là lỗi gây mất tiền hoặc trễ hẹn, nên đáng tập riêng vài phút." }
+        ] }
+      ]
+    }
+  ]
+}

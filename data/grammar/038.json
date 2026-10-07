@@ -1,0 +1,277 @@
+{
+  "id": 38,
+  "group": "Nhóm 6 · Tính từ & Trạng từ",
+  "title": "Trạng từ — vị trí & tần suất",
+  "subtitle": "Trạng từ có hai bẫy riêng. Bẫy vị trí: trạng từ tần suất đứng TRƯỚC động từ thường nhưng SAU động từ be. Bẫy từ vựng: hard và hardly nhìn giống nhau mà nghĩa ngược hẳn — He works hard khen, He hardly works chê.",
+  "meaning": "Từ bổ nghĩa cho động từ — làm thế nào, bao lâu một lần",
+  "rule": [
+    "Tần suất: TRƯỚC động từ thường · SAU động từ <em>be</em>",
+    "Không chen trạng từ giữa động từ và tân ngữ",
+    "<em>hard</em> ≠ <em>hardly</em> · <em>late</em> ≠ <em>lately</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1", "hot": true },
+    { "text": "hardly = hầu như không" },
+    { "text": "always trước động từ thường" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [45, 69, 81, 85, 92],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Trạng từ bổ nghĩa cho <b>động từ</b> (khác tính từ bổ nghĩa cho danh từ). Phần lớn được tạo bằng cách thêm <b>-ly</b> vào tính từ: <i>quick → quickly</i>, <i>careful → carefully</i>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — vị trí trạng từ tần suất:</b><br>• <b>TRƯỚC</b> động từ thường — <i>She <b>always</b> arrives early</i> ✓<br>• <b>SAU</b> động từ <i>be</i> — <i>He <b>is always</b> late</i> ✓<br>• <b>GIỮA</b> trợ động từ và động từ chính — <i>I have <b>never</b> been there</i> ✓<br>Và không đứng đầu câu: <i>Always I get up at six</i> ✗." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — những cặp nghĩa ngược nhau:</b><br>• <i>He works <b>hard</b></i> = làm việc chăm · <i>He <b>hardly</b> works</i> = hầu như không làm<br>• <i>He arrived <b>late</b></i> = đến muộn · <i>I've been busy <b>lately</b></i> = dạo gần đây<br>• <i>It's <b>near</b></i> = gần · <i>I <b>nearly</b> fell</i> = suýt ngã" },
+        { "t": "h3", "text": "Ba vị trí của trạng từ" },
+        {
+          "t": "table",
+          "head": ["Vị trí", "Loại trạng từ", "Ví dụ"],
+          "rows": [
+            ["Giữa câu", "Tần suất: always, often, never", "She <b>always</b> arrives early."],
+            ["Cuối câu", "Cách thức: quickly, carefully", "He speaks English <b>well</b>."],
+            ["Cuối câu", "Thời gian, nơi chốn", "I saw him <b>yesterday</b>."],
+            ["Đầu câu", "Nối ý: however, luckily", "<b>Luckily</b>, it stopped raining."]
+          ]
+        },
+        { "t": "p", "html": "Một nhóm nhỏ <b>trông như trạng từ mà lại là tính từ</b>: <i>friendly, lovely, lonely, silly, ugly</i>. Chúng kết thúc bằng <i>-ly</i> nhưng không có dạng trạng từ riêng — muốn nói cách thức thì phải diễn đạt vòng: <i>in a friendly way</i>." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Quy tắc", "Cách tạo", "Ví dụ"],
+          "rows": [
+            ["Hầu hết tính từ", "<code>+ ly</code>", "quick → quickly · careful → carefully"],
+            ["Tận cùng <code>-y</code>", "<code>-ily</code>", "easy → easily · happy → happily"],
+            ["Tận cùng <code>-le</code>", "<code>-ly</code> (bỏ e)", "simple → simply · terrible → terribly"],
+            ["Tận cùng <code>-ic</code>", "<code>-ically</code>", "basic → basically · automatic → automatically"],
+            ["Giống nhau cả hai dạng", "không đổi", "fast · hard · early · late"],
+            ["Bất quy tắc", "đổi hẳn", "good → <b>well</b>"],
+            ["Tần suất — động từ thường", "TRƯỚC động từ", "She always arrives early."],
+            ["Tần suất — động từ <code>be</code>", "SAU <code>be</code>", "He is always late."],
+            ["Tần suất — có trợ động từ", "GIỮA trợ và động từ chính", "I have never been there."],
+            ["Cách thức", "CUỐI câu", "He speaks English well."],
+            ["<code>-ly</code> nhưng là TÍNH TỪ", "không có dạng trạng từ", "friendly · lovely · lonely"],
+            ["Cặp nghĩa khác nhau", "cẩn thận", "hard/hardly · late/lately · near/nearly"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng chen trạng từ giữa động từ và tân ngữ:</b> <i>I speak English <b>well</b></i> ✓ — <i>I speak well English</i> ✗. Trạng từ cách thức luôn đứng SAU tân ngữ, hoặc cuối câu." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "She always arrives early.", "vi": "Cô ấy lúc nào cũng đến sớm.", "note": "BẪY SỐ MỘT: <b>always</b> đứng TRƯỚC động từ thường." },
+            { "en": "He is always late.", "vi": "Anh ấy lúc nào cũng muộn.", "note": "Với động từ <b>be</b> thì trạng từ đứng SAU." },
+            { "en": "I have never been there.", "vi": "Tôi chưa từng đến đó.", "note": "Có trợ động từ thì trạng từ nằm GIỮA." },
+            { "en": "He speaks English well.", "vi": "Anh ấy nói tiếng Anh giỏi.", "note": "<i>I speak well English</i> ✗ — không chen giữa động từ và tân ngữ." },
+            { "en": "He works hard.", "vi": "Anh ấy làm việc chăm chỉ.", "note": "BẪY SỐ HAI: <b>hard</b> = chăm chỉ." },
+            { "en": "He hardly works.", "vi": "Anh ấy hầu như không làm gì.", "note": "<b>hardly</b> = hầu như không — nghĩa NGƯỢC HẲN." },
+            { "en": "He arrived late.", "vi": "Anh ấy đến muộn.", "note": "<b>late</b> = muộn." },
+            { "en": "I've been busy lately.", "vi": "Dạo này tôi bận.", "note": "<b>lately</b> = dạo gần đây, không liên quan gì đến “muộn”." },
+            { "en": "I nearly fell over.", "vi": "Tôi suýt ngã.", "note": "<b>nearly</b> = suýt, gần như. Khác <i>near</i> = gần về khoảng cách." },
+            { "en": "Sometimes I work from home.", "vi": "Thỉnh thoảng tôi làm ở nhà.", "note": "Riêng <b>sometimes</b> đứng đầu câu được — ngoại lệ." },
+            { "en": "Luckily, it stopped raining.", "vi": "May là trời tạnh mưa.", "note": "Trạng từ nối ý đứng đầu câu, có dấu phẩy sau." },
+            { "en": "He smiled in a friendly way.", "vi": "Anh ấy cười thân thiện.", "note": "<i>friendly</i> là TÍNH TỪ — <i>friendlily</i> ✗, phải diễn đạt vòng." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🔁", "title": "Nói tần suất", "text": "<i>She always arrives early.</i> Trước động từ thường." },
+            { "icon": "🗣️", "title": "Nói làm thế nào", "text": "<i>He speaks English well.</i> Cuối câu." },
+            { "icon": "🍀", "title": "Nối ý, bình luận", "text": "<i>Luckily, it stopped raining.</i>" },
+            { "icon": "📊", "title": "Rào đón mức chắc chắn", "text": "<i>Probably, Apparently, Actually</i> Xem [Khung 45]." },
+            { "icon": "⏰", "title": "Nói thời gian, nơi chốn", "text": "<i>I saw him yesterday.</i> Cuối câu." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Sau linking verb. Lúc đó là tính từ — xem [Ngữ pháp 35]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Trạng từ tần suất & vị trí",
+              "items": [
+                { "w": "always", "vi": "luôn luôn", "ex": "She always arrives early.", "exvi": "Cô ấy lúc nào cũng đến sớm.", "note": "TRƯỚC động từ thường, SAU <i>be</i>. <i>Always I…</i> ✗." },
+                { "w": "usually", "vi": "thường", "ex": "I usually walk to work.", "exvi": "Tôi thường đi bộ đi làm." },
+                { "w": "often", "vi": "hay, thường", "ex": "We often eat out.", "exvi": "Bọn tôi hay ăn ngoài." },
+                { "w": "sometimes", "vi": "thỉnh thoảng", "ex": "Sometimes I work from home.", "exvi": "Thỉnh thoảng tôi làm ở nhà.", "note": "NGOẠI LỆ: đứng đầu câu được." },
+                { "w": "rarely / seldom", "vi": "hiếm khi", "ex": "He rarely says no.", "exvi": "Anh ấy hiếm khi từ chối.", "note": "Đã mang nghĩa phủ định — không thêm <i>not</i>." },
+                { "w": "never", "vi": "không bao giờ", "ex": "I have never been there.", "exvi": "Tôi chưa từng đến đó.", "note": "Có trợ động từ thì nằm GIỮA: <i>have <b>never</b> been</i>." },
+                { "w": "still", "vi": "vẫn", "ex": "I still haven't heard back.", "exvi": "Tôi vẫn chưa nhận hồi âm.", "note": "Đứng TRƯỚC <i>haven't</i>. Xem [Khung 95]." },
+                { "w": "already", "vi": "đã… rồi", "ex": "I've already sent it.", "exvi": "Tôi gửi rồi.", "note": "Nằm giữa <i>have</i> và V3." },
+                { "w": "probably", "vi": "chắc là", "ex": "I'll probably stay in.", "exvi": "Chắc là tôi sẽ ở nhà.", "note": "Đặt SAU <i>will</i>, trước động từ chính." },
+                { "w": "Luckily", "vi": "may là", "ex": "Luckily, it stopped raining.", "exvi": "May là trời tạnh mưa.", "note": "Trạng từ nối ý — đầu câu, có dấu phẩy." },
+                { "w": "Actually", "vi": "thật ra", "ex": "Actually, I disagree.", "exvi": "Thật ra tôi không đồng ý.", "note": "KHÔNG phải “hiện tại” — nghĩa là “thật ra”." },
+                { "w": "Apparently", "vi": "nghe nói, hình như", "ex": "Apparently he forgot.", "exvi": "Hình như anh ấy quên. Xem [Khung 45]." }
+              ]
+            },
+            {
+              "title": "Cặp dễ nhầm & cách tạo trạng từ",
+              "items": [
+                { "w": "hard ≠ hardly", "vi": "chăm chỉ ≠ hầu như không", "ex": "He works hard. · He hardly works.", "exvi": "Anh ấy làm chăm. · Anh ấy hầu như không làm.", "note": "BẪY SỐ HAI: nghĩa NGƯỢC HẲN nhau." },
+                { "w": "late ≠ lately", "vi": "muộn ≠ dạo gần đây", "ex": "He arrived late. · I've been busy lately.", "exvi": "Anh ấy đến muộn. · Dạo này tôi bận." },
+                { "w": "near ≠ nearly", "vi": "gần ≠ suýt", "ex": "It's near. · I nearly fell.", "exvi": "Nó ở gần. · Tôi suýt ngã." },
+                { "w": "good → well", "vi": "tốt → giỏi", "ex": "He speaks English well.", "exvi": "Anh ấy nói tiếng Anh giỏi.", "note": "Trạng từ BẤT QUY TẮC. <i>goodly</i> ✗." },
+                { "w": "well (tính từ)", "vi": "khỏe mạnh", "ex": "You look well.", "exvi": "Trông bạn khỏe.", "note": "Sau linking verb thì <i>well</i> là TÍNH TỪ. Xem [Ngữ pháp 35]." },
+                { "w": "fast / early", "vi": "nhanh / sớm", "ex": "He runs fast. · She arrives early.", "exvi": "Anh ấy chạy nhanh. · Cô ấy đến sớm.", "note": "Tính từ và trạng từ GIỐNG HỆT nhau. <i>fastly</i> ✗." },
+                { "w": "easy → easily", "vi": "dễ → một cách dễ dàng", "ex": "I found it easily.", "exvi": "Tôi tìm thấy dễ dàng.", "note": "Tận cùng <b>-y</b> đổi thành <b>-ily</b>." },
+                { "w": "simple → simply", "vi": "đơn giản", "ex": "Simply put, it won't work.", "exvi": "Nói đơn giản thì nó không chạy được.", "note": "Tận cùng <b>-le</b> thì bỏ <i>e</i> rồi thêm <i>-ly</i>." },
+                { "w": "basic → basically", "vi": "về cơ bản", "ex": "Basically, it's the same thing.", "exvi": "Về cơ bản thì giống nhau thôi.", "note": "Tận cùng <b>-ic</b> thì thêm <b>-ally</b>." },
+                { "w": "friendly (tính từ)", "vi": "thân thiện", "ex": "He smiled in a friendly way.", "exvi": "Anh ấy cười thân thiện.", "note": "Kết thúc bằng <i>-ly</i> nhưng là TÍNH TỪ. <i>friendlily</i> ✗." },
+                { "w": "lovely / lonely / silly", "vi": "dễ thương / cô đơn / ngớ ngẩn", "ex": "What a lovely day!", "exvi": "Ngày đẹp quá! Xem [Khung 89]." },
+                { "w": "in a … way", "vi": "một cách…", "ex": "in a friendly way", "exvi": "một cách thân thiện", "note": "Cách diễn đạt vòng khi tính từ không có dạng trạng từ." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<b>Always I</b> get up at six.", "right": "I <b>always</b> get up at six.", "why": "BẪY SỐ MỘT: trạng từ tần suất đứng TRƯỚC động từ thường, không đứng đầu câu." },
+            { "wrong": "He <b>always is</b> late.", "right": "He <b>is always</b> late.", "why": "Với động từ <b>be</b> thì trạng từ đứng SAU, không đứng trước." },
+            { "wrong": "I <b>never have</b> been there.", "right": "I <b>have never</b> been there.", "why": "Có trợ động từ thì trạng từ nằm GIỮA trợ động từ và động từ chính." },
+            { "wrong": "I speak <b>well English</b>.", "right": "I speak <b>English well</b>.", "why": "Không chen trạng từ giữa động từ và tân ngữ." },
+            { "wrong": "He <b>hardly works</b> — he's always first in. <i>(ý: làm chăm)</i>", "right": "He works <b>hard</b>.", "why": "BẪY SỐ HAI: <b>hardly</b> nghĩa là “hầu như không” — ngược hẳn với <i>hard</i>." },
+            { "wrong": "He arrived <b>lately</b>. <i>(ý: đến muộn)</i>", "right": "He arrived <b>late</b>.", "why": "<b>lately</b> nghĩa là “dạo gần đây”, không phải “muộn”." },
+            { "wrong": "He speaks English <b>good</b>.", "right": "He speaks English <b>well</b>.", "why": "<i>good</i> là tính từ. Trạng từ của nó là <b>well</b> — bất quy tắc." },
+            { "wrong": "He runs <b>fastly</b>.", "right": "He runs <b>fast</b>.", "why": "<i>fast</i> giống nhau ở cả hai dạng — không có <i>fastly</i>." },
+            { "wrong": "He smiled <b>friendlily</b>.", "right": "He smiled <b>in a friendly way</b>.", "why": "<i>friendly</i> là TÍNH TỪ dù kết thúc bằng <i>-ly</i> — phải diễn đạt vòng." },
+            { "wrong": "That sounds <b>greatly</b>.", "right": "That sounds <b>great</b>.", "why": "Sau linking verb là TÍNH TỪ, không phải trạng từ. Xem [Ngữ pháp 35]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>hard</code> / <code>hardly</code>", "Chăm chỉ / hầu như không", "works hard ≠ hardly works"],
+            ["<code>late</code> / <code>lately</code>", "Muộn / dạo gần đây", "arrived late ≠ busy lately"],
+            ["<code>near</code> / <code>nearly</code>", "Gần / suýt", "It's near ≠ I nearly fell"],
+            ["<code>good</code> / <code>well</code>", "Tính từ / trạng từ", "a good speaker ≠ speaks well"],
+            ["<code>well</code> (tính từ)", "Khỏe mạnh. Xem [Ngữ pháp 35]", "You look well."],
+            ["<code>friendly, lovely</code>", "TÍNH TỪ dù có -ly", "a friendly smile"],
+            ["Tần suất / cách thức", "Giữa câu / cuối câu", "always arrives ≠ speaks well"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: đặt trạng từ ở đâu?" },
+        {
+          "t": "tree",
+          "q": "Trạng từ của bạn thuộc loại nào, và câu có động từ gì?",
+          "nodes": [
+            { "if": "Trạng từ tần suất + động từ thường", "then": "TRƯỚC động từ", "ex": "She always arrives early." },
+            { "if": "Trạng từ tần suất + động từ be", "then": "SAU be", "ex": "He is always late." },
+            { "if": "Trạng từ tần suất + có trợ động từ", "then": "GIỮA trợ và động từ chính", "ex": "I have never been there." },
+            { "if": "Trạng từ cách thức (quickly, well)", "then": "CUỐI câu, sau tân ngữ", "ex": "He speaks English well." },
+            { "if": "Trạng từ bình luận (luckily, actually)", "then": "ĐẦU câu, có dấu phẩy", "ex": "Luckily, it stopped raining." },
+            { "if": "Sau linking verb (sound, look, feel)", "then": "Dùng TÍNH TỪ, không phải trạng từ", "ex": "That sounds great." }
+          ]
+        },
+        { "t": "h3", "text": "Thang tần suất" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I never drink coffee.", "vi": "0% — không bao giờ" },
+            { "en": "I rarely drink coffee.", "vi": "10% — hiếm khi" },
+            { "en": "I sometimes drink coffee.", "vi": "40% — thỉnh thoảng" },
+            { "en": "I usually drink coffee.", "vi": "80% — thường" },
+            { "en": "I always drink coffee.", "vi": "100% — luôn luôn" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Luật trạng từ xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 85, "why": "That sounds… — ranh giới quan trọng: sau linking verb là tính từ, không phải trạng từ." },
+            { "id": 92, "why": "I'm meeting him at six — trạng từ tần suất và cụm chỉ thời gian trong câu." },
+            { "id": 45, "why": "As far as I know… — trạng từ bình luận như apparently, actually, probably." },
+            { "id": 69, "why": "Could you explain…? — mẫu Could you speak more slowly, trạng từ cách thức." },
+            { "id": 81, "why": "I'm so… — tính từ sau be, đặt cạnh trạng từ để thấy khác biệt." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Đặt trạng từ đúng vị trí" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Cô ấy lúc nào cũng đến sớm. (always)", "blank": "She __________ arrives early.", "a": "always — trước động từ thường" },
+            { "vi": "Anh ấy lúc nào cũng muộn. (always)", "blank": "He is __________ late.", "a": "always — sau be" },
+            { "vi": "Tôi chưa từng đến đó. (never)", "blank": "I have __________ been there.", "a": "never — giữa trợ và động từ chính" },
+            { "vi": "Anh ấy nói tiếng Anh giỏi. (well)", "blank": "He speaks English __________.", "a": "well — cuối câu" },
+            { "vi": "Chắc là tôi sẽ ở nhà. (probably)", "blank": "I'll __________ stay in.", "a": "probably — sau will" },
+            { "vi": "Tôi vẫn chưa nhận hồi âm. (still)", "blank": "I __________ haven't heard back.", "a": "still — trước haven't" },
+            { "vi": "Thỉnh thoảng tôi làm ở nhà. (sometimes)", "blank": "__________ I work from home.", "a": "Sometimes — ngoại lệ, đứng đầu được" },
+            { "vi": "May là trời tạnh mưa. (luckily)", "blank": "__________, it stopped raining.", "a": "Luckily" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn từ đúng nghĩa" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Anh ấy làm việc chăm chỉ.", "blank": "He works __________.  (hard / hardly)", "a": "hard" },
+            { "vi": "Dạo này tôi bận.", "blank": "I've been busy __________.  (late / lately)", "a": "lately" },
+            { "vi": "Anh ấy nói tiếng Anh giỏi.", "blank": "He speaks English __________.  (good / well)", "a": "well" },
+            { "vi": "Anh ấy chạy nhanh.", "blank": "He runs __________.  (fast / fastly)", "a": "fast" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Cô ấy lúc nào cũng đến sớm.", "a": "She always arrives early." },
+            { "vi": "2. Anh ấy lúc nào cũng muộn.", "a": "He is always late." },
+            { "vi": "3. Anh ấy nói tiếng Anh giỏi.", "a": "He speaks English well." },
+            { "vi": "4. Anh ấy hầu như không làm gì.", "a": "He hardly works." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật vị trí một dòng:</b> trạng từ tần suất đứng TRƯỚC động từ thường nhưng SAU động từ <i>be</i>.",
+            "<b>Có trợ động từ thì chen vào giữa:</b> <i>I have <b>never</b> been</i>, <i>I'll <b>probably</b> stay</i>.",
+            "<b>Đừng chen giữa động từ và tân ngữ:</b> <i>speak English <b>well</b></i> ✓, <i>speak well English</i> ✗.",
+            "<b>Ba cặp phải thuộc:</b> <i>hard/hardly</i>, <i>late/lately</i>, <i>near/nearly</i> — nghĩa khác hẳn nhau.",
+            "<b>Có <i>-ly</i> chưa chắc là trạng từ:</b> <i>friendly, lovely, lonely</i> đều là TÍNH TỪ.",
+            "<b>Bài tập 3 phút:</b> viết năm câu về thói quen của bạn với <i>always, usually, sometimes, rarely, never</i> — chú ý vị trí với <i>be</i> và động từ thường."
+          ]
+        }
+      ]
+    }
+  ]
+}

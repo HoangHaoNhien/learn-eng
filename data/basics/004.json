@@ -1,0 +1,128 @@
+{
+  "id": 4,
+  "title": "Thuật ngữ — gọi tên các loại từ",
+  "teaches": ["slowly", "quickly", "slow", "quick", "carefully"],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn hiểu được tám chữ: <b>danh từ, động từ, tính từ, trạng từ, chủ ngữ, tân ngữ, giới từ, mạo từ</b>. Tám chữ này sẽ xuất hiện trong <b>mọi bài còn lại</b>, kể cả tab Ngữ pháp." },
+        { "t": "callout", "html": "<b>Đây là bài quan trọng nhất trong phần Nhập môn.</b><br><br>Không biết “tân ngữ” là gì thì câu <i>“đừng chen gì vào giữa động từ và tân ngữ”</i> chỉ là một dòng chữ vô nghĩa. Biết rồi thì đọc bài ngữ pháp nào cũng trôi.<br><br>Tin tốt: <b>tiếng Việt cũng có đủ tám thứ này</b>. Bạn đã dùng chúng cả đời rồi, chỉ là chưa ai gọi tên ra thôi." }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "<b>Không cần biết tiếng Anh.</b> Bài này giải thích bằng ví dụ tiếng Việt trước, rồi mới đối chiếu sang tiếng Anh." },
+        { "t": "p", "html": "Nếu đã học bài 01–03 thì tốt, nhưng không bắt buộc — bài này không dùng phiên âm." }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "p", "html": "Ba câu hỏi này cho biết một từ thuộc loại nào." },
+        { "t": "table", "head": ["Hỏi gì", "Nếu đúng thì là", "Ví dụ tiếng Việt"], "rows": [
+          ["Nó là <b>tên</b> của cái gì đó?", "<b>danh từ</b>", "<i>sách, mèo, Huế, niềm vui</i>"],
+          ["Nó là <b>việc đang xảy ra</b>?", "<b>động từ</b>", "<i>chạy, ăn, ngủ, là</i>"],
+          ["Nó <b>mô tả</b> cái khác?", "<b>tính từ</b> (tả danh từ) hoặc <b>trạng từ</b> (tả động từ)", "<i>to</i> (con mèo to) · <i>nhanh</i> (chạy nhanh)"]
+        ] },
+        { "t": "h3", "text": "Tám thuật ngữ — bảng tra" },
+        { "t": "table", "head": ["Tiếng Việt", "Tiếng Anh", "Là gì", "Ví dụ"], "rows": [
+          ["<b>danh từ</b>", "noun", "Tên của người, vật, nơi chốn, ý niệm", "<i>book</i> · <i>cat</i> · <i>school</i> · <i>water</i>"],
+          ["<b>động từ</b>", "verb", "Việc làm, hoặc trạng thái tồn tại", "<i>run</i> · <i>eat</i> · <i>go</i> · <i>be</i>"],
+          ["<b>tính từ</b>", "adjective", "Mô tả một <b>danh từ</b>", "<i>big</i> book · <i>red</i> hat"],
+          ["<b>trạng từ</b>", "adverb", "Mô tả một <b>động từ</b> — làm thế nào, khi nào, ở đâu", "run <i>slowly</i> · come <i>early</i>"],
+          ["<b>chủ ngữ</b>", "subject", "<b>Ai / cái gì làm</b> việc trong câu", "<u>I</u> eat rice."],
+          ["<b>tân ngữ</b>", "object", "<b>Ai / cái gì bị tác động</b> bởi việc đó", "I eat <u>rice</u>."],
+          ["<b>giới từ</b>", "preposition", "Chỉ vị trí hoặc thời gian, đứng trước danh từ", "<i>in</i> the box · <i>at</i> six"],
+          ["<b>mạo từ</b>", "article", "Ba chữ nhỏ đứng trước danh từ", "<i>a</i> · <i>an</i> · <i>the</i>"]
+        ] },
+        { "t": "callout", "html": "<b>Ba chữ viết tắt bạn sẽ gặp khắp nơi:</b><br>• <b>S</b> = subject = <b>chủ ngữ</b><br>• <b>V</b> = verb = <b>động từ</b><br>• <b>O</b> = object = <b>tân ngữ</b><br><br>Nên khi một bài viết <code>S + V + O</code>, nó chỉ đang nói: <b>chủ ngữ — động từ — tân ngữ</b>.<br><i>I eat rice.</i> → <i>I</i> (S) + <i>eat</i> (V) + <i>rice</i> (O)." }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "Danh từ — tên của cái gì đó" },
+        { "t": "ex", "items": [
+          { "en": "a book", "vi": "một quyển sách", "note": "<b>book</b> là <b>danh từ</b> — tên của một vật." },
+          { "en": "my mother", "vi": "mẹ tôi", "note": "<b>mother</b> là danh từ — tên của một người." },
+          { "en": "the school", "vi": "ngôi trường", "note": "<b>school</b> là danh từ — tên của một nơi." },
+          { "en": "some water", "vi": "một ít nước", "note": "<b>water</b> cũng là danh từ, dù không đếm được." }
+        ] },
+        { "t": "h3", "text": "Động từ — việc đang xảy ra" },
+        { "t": "ex", "items": [
+          { "en": "I eat.", "vi": "Tôi ăn.", "note": "<b>eat</b> là <b>động từ</b> — một việc làm." },
+          { "en": "She runs.", "vi": "Cô ấy chạy.", "note": "<b>runs</b> là động từ." },
+          { "en": "I am a student.", "vi": "Tôi là sinh viên.", "note": "<b>am</b> cũng là động từ, dù không phải việc làm — nó chỉ trạng thái “là”." },
+          { "en": "He sleeps.", "vi": "Anh ấy ngủ.", "note": "<b>sleeps</b> là động từ." }
+        ] },
+        { "t": "h3", "text": "Tính từ tả danh từ · trạng từ tả động từ" },
+        { "t": "ex", "items": [
+          { "en": "a big house", "vi": "một ngôi nhà to", "note": "<b>big</b> là <b>tính từ</b>, nó tả <b>house</b> (danh từ)." },
+          { "en": "a red hat", "vi": "một chiếc mũ đỏ", "note": "<b>red</b> tả <b>hat</b>." },
+          { "en": "I walk slowly.", "vi": "Tôi đi chậm.", "note": "<b>slowly</b> là <b>trạng từ</b>, nó tả <b>walk</b> (động từ) — đi <i>thế nào</i>." },
+          { "en": "She comes early.", "vi": "Cô ấy đến sớm.", "note": "<b>early</b> tả <b>comes</b> — đến <i>khi nào</i>." },
+          { "en": "a slow car", "vi": "một chiếc xe chậm", "note": "<b>slow</b> tả <b>car</b> nên là tính từ." },
+          { "en": "He drives slowly.", "vi": "Anh ấy lái chậm.", "note": "Cùng gốc, nhưng <b>slowly</b> tả động từ nên là trạng từ. Đuôi <i>-ly</i> là dấu hiệu quen thuộc." }
+        ] },
+        { "t": "h3", "text": "Chủ ngữ và tân ngữ — ai làm, làm lên cái gì" },
+        { "t": "ex", "items": [
+          { "en": "I eat rice.", "vi": "Tôi ăn cơm.", "note": "<b>I</b> = chủ ngữ (ai làm) · <b>rice</b> = tân ngữ (ăn cái gì)." },
+          { "en": "She reads a book.", "vi": "Cô ấy đọc một quyển sách.", "note": "<b>She</b> chủ ngữ · <b>a book</b> tân ngữ." },
+          { "en": "My father drives a car.", "vi": "Bố tôi lái ô tô.", "note": "Chủ ngữ có thể dài hơn một từ: <b>My father</b>." },
+          { "en": "The cat sleeps.", "vi": "Con mèo ngủ.", "note": "Câu này <b>không có tân ngữ</b> — ngủ thì không ngủ “lên cái gì” cả." },
+          { "en": "I like you.", "vi": "Tôi thích bạn.", "note": "<b>you</b> là tân ngữ ở đây, dù nó là người." }
+        ] },
+        { "t": "h3", "text": "Giới từ và mạo từ — hai loại từ nhỏ mà quan trọng" },
+        { "t": "ex", "items": [
+          { "en": "The book is in my bag.", "vi": "Quyển sách ở trong túi tôi.", "note": "<b>in</b> là <b>giới từ</b> — chỉ vị trí. Nó luôn đứng trước một danh từ." },
+          { "en": "I work at eight.", "vi": "Tôi làm việc lúc tám giờ.", "note": "<b>at</b> cũng là giới từ, nhưng chỉ thời gian." },
+          { "en": "The cat is under the table.", "vi": "Con mèo ở dưới bàn.", "note": "<b>under</b> là giới từ chỉ vị trí." },
+          { "en": "a book", "vi": "một quyển sách", "note": "<b>a</b> là <b>mạo từ</b> — nhắc tới lần đầu, chưa rõ quyển nào." },
+          { "en": "the book", "vi": "quyển sách (đó)", "note": "<b>the</b> cũng là mạo từ — nhưng là quyển mà cả hai đều biết. Bài 11 và 12 sẽ dạy kỹ." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — gọi tên loại từ" },
+        { "t": "quiz", "items": [
+          { "vi": "Trong <i>a big house</i>, từ <b>house</b> là loại gì?", "a": "danh từ — tên của một vật" },
+          { "vi": "Trong <i>a big house</i>, từ <b>big</b> là loại gì?", "a": "tính từ — nó tả danh từ <i>house</i>" },
+          { "vi": "Trong <i>I walk slowly</i>, từ <b>slowly</b> là loại gì?", "a": "trạng từ — nó tả động từ <i>walk</i>" },
+          { "vi": "Trong <i>She runs</i>, từ <b>runs</b> là loại gì?", "a": "động từ" },
+          { "vi": "Trong <i>in my bag</i>, từ <b>in</b> là loại gì?", "a": "giới từ — chỉ vị trí, đứng trước danh từ" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — tìm chủ ngữ và tân ngữ" },
+        { "t": "quiz", "items": [
+          { "vi": "<i>I eat rice.</i> — đâu là chủ ngữ, đâu là tân ngữ?", "a": "chủ ngữ = <b>I</b> · tân ngữ = <b>rice</b>" },
+          { "vi": "<i>She reads a book.</i> — đâu là chủ ngữ, đâu là tân ngữ?", "a": "chủ ngữ = <b>She</b> · tân ngữ = <b>a book</b>" },
+          { "vi": "<i>The cat sleeps.</i> — tân ngữ ở đâu?", "a": "Không có. Ngủ không ngủ “lên cái gì” nên câu này không cần tân ngữ." },
+          { "vi": "<i>My father drives a car.</i> — chủ ngữ là gì?", "a": "<b>My father</b> — chủ ngữ có thể dài hơn một từ" }
+        ] },
+        { "t": "h3", "text": "Phần 3 — đọc ký hiệu" },
+        { "t": "quiz", "items": [
+          { "vi": "<code>S + V + O</code> nghĩa là gì?", "a": "chủ ngữ + động từ + tân ngữ" },
+          { "vi": "Hãy xếp <i>I like you</i> vào S, V, O.", "a": "<b>I</b> = S · <b>like</b> = V · <b>you</b> = O" },
+          { "vi": "Tự đặt một câu tiếng Việt rồi chỉ ra chủ ngữ, động từ, tân ngữ của nó.", "a": "Ví dụ: <i>Tôi đọc sách.</i> → <i>Tôi</i> (S) · <i>đọc</i> (V) · <i>sách</i> (O)" }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>S · V · O = chủ ngữ · động từ · tân ngữ.</b> Ba chữ này xuất hiện trong mọi bài ngữ pháp. Nhớ được là đọc bài nào cũng trôi.",
+          "<b>Tính từ tả danh từ, trạng từ tả động từ.</b> <i>a slow car</i> (tính từ) nhưng <i>drives slowly</i> (trạng từ). Đuôi <i>-ly</i> thường là dấu hiệu của trạng từ.",
+          "<b>Tiếng Việt cũng có đủ tám loại này.</b> Bạn không học cái gì mới — chỉ là học tên gọi để đọc được sách ngữ pháp."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "<i>He drives slow.</i>", "right": "<i>He drives slowly.</i>", "why": "<b>drives</b> là động từ, nên phải dùng <b>trạng từ</b> <i>slowly</i> để tả nó. <i>slow</i> là tính từ, chỉ tả được danh từ — <i>a slow car</i> mới đúng." },
+          { "wrong": "<i>I eat a rice.</i>", "right": "<i>I eat rice.</i>", "why": "<b>rice</b> là danh từ không đếm được nên không đi với mạo từ <i>a</i>. Bài 10 và 11 sẽ nói kỹ chỗ này — ở đây chỉ cần nhớ mạo từ không phải lúc nào cũng có." }
+        ] }
+      ]
+    }
+  ]
+}

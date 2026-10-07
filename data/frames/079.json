@@ -1,0 +1,506 @@
+{
+  "id": 79,
+  "group": "Nhóm 8 · Giới thiệu & Xã giao",
+  "title": "I'm sorry for… — Xin lỗi cho đúng lúc",
+  "subtitle": "Tiếng Anh phân biệt rất rõ hai thứ mà tiếng Việt gộp chung: xin lỗi vì việc đã làm và xin lỗi vì việc đang sắp làm. Chọn sai giữa for V-ing và to V là câu xin lỗi lệch hẳn thời điểm. Và còn cặp Excuse me / Sorry mà người Việt hay dùng nhầm chỗ.",
+  "pattern": [
+    "I'm sorry for <em>+ V-ing</em>. <em>(việc đã làm)</em>",
+    "I'm sorry to <em>+ V</em>. <em>(việc đang làm)</em>",
+    "Sorry about <em>+ danh từ</em>."
+  ],
+  "meaning": "Tôi xin lỗi vì đã… / Xin lỗi vì…",
+  "grammar": [3, 16, 27, 31],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 5/5" },
+    { "text": "Bẫy for V-ing / to V" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "Điểm mấu chốt nằm ở <b>thời điểm</b>. <span class=\"k\">I'm sorry for being late.</span> — bạn <b>đã</b> đến muộn rồi. <span class=\"k\">I'm sorry to bother you.</span> — bạn <b>đang</b> làm phiền ngay lúc nói." },
+        { "t": "p", "html": "Quy tắc gọn: <b>for + V-ing</b> nhìn về <b>quá khứ</b>, <b>to + V</b> nhìn về <b>hiện tại hoặc tương lai gần</b>. Đây là một trong những khác biệt rõ ràng nhất mà tiếng Việt không có." },
+        { "t": "p", "html": "Cũng cần phân biệt <b>Excuse me</b> và <b>Sorry</b>. <i>Excuse me</i> nói <b>trước</b> khi bạn làm phiền ai đó — chen qua, hỏi đường, ngắt lời. <i>Sorry</i> nói <b>sau</b> khi bạn đã gây ra phiền toái." },
+        { "t": "callout", "html": "<b>BẪY NGHĨA NGHIÊM TRỌNG:</b> <span class=\"k\">I'm sorry for you</span> KHÔNG phải xin lỗi — nó nghĩa là <b>“tôi thương hại bạn”</b> và có thể gây khó chịu. Muốn chia buồn thì nói <b>I'm sorry about your…</b> hoặc <b>I'm sorry to hear that</b>." },
+        { "t": "h3", "text": "Chọn dạng nào?" },
+        {
+          "t": "table",
+          "head": ["Câu", "Thời điểm", "Ví dụ tình huống"],
+          "rows": [
+            ["<code>Sorry for being late.</code>", "Đã xảy ra rồi", "Bạn vừa bước vào muộn"],
+            ["<code>Sorry to bother you.</code>", "Đang xảy ra", "Bạn đang cắt ngang ai đó"],
+            ["<code>Sorry about the noise.</code>", "Về một việc, một vật", "Sau <i>about</i> là danh từ"],
+            ["<code>Excuse me…</code>", "Trước khi làm phiền", "Chen qua đám đông, hỏi đường"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Người Anh xin lỗi rất nhiều</b> — kể cả khi không có lỗi. Bị người khác va vào, họ vẫn nói <i>Sorry!</i> Đó là một phản xạ xã giao, không phải nhận lỗi. Đừng ngạc nhiên và cũng nên bắt chước." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "⏰", "title": "Xin lỗi vì đến muộn", "text": "Bối cảnh số 1. <i>Sorry for being late.</i> Việc đã xảy ra." },
+            { "icon": "🚪", "title": "Trước khi làm phiền", "text": "<i>Sorry to bother you.</i> Bạn đang cắt ngang." },
+            { "icon": "📧", "title": "Xin lỗi trong email", "text": "<i>I apologise for the delay.</i> Trang trọng hơn." },
+            { "icon": "🙇", "title": "Nhận lỗi nghiêm túc", "text": "<i>That was my fault. It won't happen again.</i>" },
+            { "icon": "💐", "title": "Chia buồn", "text": "<i>I'm sorry to hear that.</i> Không phải <i>sorry for you</i>." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Muốn chen qua đám đông. Ở đó dùng <i>Excuse me</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Việc đã làm", "<code>Sorry for + V-ing.</code>", "Sorry for being late."],
+            ["Việc đang làm", "<code>Sorry to + V.</code>", "Sorry to bother you."],
+            ["Với danh từ", "<code>Sorry about + N.</code>", "Sorry about the noise."],
+            ["Ngắn gọn", "<code>Sorry!</code>", "Sorry!"],
+            ["Nhấn mạnh", "<code>I'm so sorry.</code>", "I'm so sorry about that."],
+            ["Trang trọng", "<code>I apologise for + V-ing/N.</code>", "I apologise for the delay."],
+            ["Rất trang trọng", "<code>My apologies.</code>", "My apologies for the confusion."],
+            ["Nhận lỗi", "<code>That was my fault.</code>", "That was my fault entirely."],
+            ["Hứa sửa", "<code>It won't happen again.</code>", "It won't happen again."],
+            ["Trước khi làm phiền", "<code>Excuse me…</code>", "Excuse me, could I get past?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>“I apologise” trang trọng hơn “I'm sorry”</b> và thường xuất hiện trong email, thông báo chính thức. Chú ý chính tả: Anh-Anh là <i>apologise</i>, Anh-Mỹ là <i>apologize</i> — cả hai đều đúng." },
+        { "t": "callout", "html": "<b>Lời xin lỗi mạnh nhất có ba phần:</b> nhận lỗi (<i>That was my fault</i>), xin lỗi (<i>I'm sorry</i>), và hứa sửa (<i>It won't happen again</i>). Thiếu phần ba thì lời xin lỗi nghe chưa trọn." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Việc đã làm — “sorry for + V-ing”",
+              "items": [
+                { "w": "for being late", "vi": "vì đã đến muộn", "ex": "Sorry for being late.", "exvi": "Xin lỗi vì đã đến muộn.", "note": "Việc ĐÃ xảy ra nên dùng <b>for + V-ing</b>." },
+                { "w": "for not replying", "vi": "vì đã không trả lời", "ex": "Sorry for not replying sooner.", "exvi": "Xin lỗi vì đã không trả lời sớm hơn.", "note": "Phủ định thì <b>not</b> đứng TRƯỚC V-ing." },
+                { "w": "for the delay", "vi": "vì sự chậm trễ", "ex": "Sorry for the delay.", "exvi": "Xin lỗi vì sự chậm trễ.", "note": "Sau <i>for</i> là DANH TỪ cũng được." },
+                { "w": "for missing the meeting", "vi": "vì đã lỡ cuộc họp", "ex": "Sorry for missing the meeting.", "exvi": "Xin lỗi vì đã lỡ cuộc họp." },
+                { "w": "for the confusion", "vi": "vì sự nhầm lẫn", "ex": "Sorry for the confusion.", "exvi": "Xin lỗi vì sự nhầm lẫn.", "note": "Rất hay dùng trong email khi thông tin bị hiểu sai." },
+                { "w": "for keeping you waiting", "vi": "vì đã để bạn chờ", "ex": "Sorry for keeping you waiting.", "exvi": "Xin lỗi vì đã để anh/chị chờ.", "note": "Chuẩn mực trong dịch vụ — lịch sự hơn <i>sorry for the wait</i>." },
+                { "w": "for the short notice", "vi": "vì báo gấp quá", "ex": "Sorry for the short notice.", "exvi": "Xin lỗi vì báo gấp quá.", "note": "Dùng khi bạn thay đổi kế hoạch vào phút chót." },
+                { "w": "for the mix-up", "vi": "vì sự nhầm lẫn", "ex": "Sorry for the mix-up.", "exvi": "Xin lỗi vì có sự nhầm lẫn." },
+                { "w": "about the noise", "vi": "về tiếng ồn", "ex": "Sorry about the noise last night.", "exvi": "Xin lỗi về tiếng ồn tối qua.", "note": "<b>about</b> đi với danh từ, gần nghĩa với <i>for</i> nhưng thân mật hơn." },
+                { "w": "about earlier", "vi": "về chuyện lúc nãy", "ex": "Sorry about earlier.", "exvi": "Xin lỗi về chuyện lúc nãy.", "note": "Cách xin lỗi ngắn gọn và rất tự nhiên cho một sự việc vừa xảy ra." },
+                { "w": "for snapping at you", "vi": "vì đã gắt với bạn", "ex": "Sorry for snapping at you.", "exvi": "Xin lỗi vì mình đã gắt với bạn.", "note": "<i>snap at someone</i> = nói gắt với ai. Rất hữu dụng khi làm lành." },
+                { "w": "for the inconvenience", "vi": "vì sự bất tiện", "ex": "We apologise for any inconvenience.", "exvi": "Chúng tôi xin lỗi vì mọi bất tiện.", "note": "Câu chuẩn mực trong thông báo chính thức." }
+              ]
+            },
+            {
+              "title": "Việc đang làm — “sorry to + V”",
+              "items": [
+                { "w": "to bother you", "vi": "vì làm phiền bạn", "ex": "Sorry to bother you.", "exvi": "Xin lỗi vì làm phiền anh/chị.", "note": "Việc ĐANG xảy ra nên dùng <b>to + V</b>. Đây là câu mở lời cực phổ biến." },
+                { "w": "to interrupt", "vi": "vì cắt ngang", "ex": "Sorry to interrupt, but…", "exvi": "Xin lỗi cắt ngang, nhưng…", "note": "Chuẩn mực khi bạn phải xen vào giữa cuộc nói chuyện." },
+                { "w": "to hear that", "vi": "khi nghe vậy", "ex": "I'm sorry to hear that.", "exvi": "Tôi rất tiếc khi nghe vậy.", "note": "Câu CHIA BUỒN chuẩn mực — KHÔNG phải <i>sorry for you</i> ✗." },
+                { "w": "to trouble you", "vi": "vì làm phiền anh/chị", "ex": "Sorry to trouble you.", "exvi": "Xin lỗi vì làm phiền anh/chị.", "note": "Trang trọng hơn <i>bother</i> một chút — rất Anh." },
+                { "w": "to keep you", "vi": "vì giữ chân bạn", "ex": "Sorry to keep you — one last thing.", "exvi": "Xin lỗi giữ chân anh/chị — một việc cuối." },
+                { "w": "to ask, but", "vi": "xin lỗi hỏi, nhưng", "ex": "Sorry to ask, but could you help?", "exvi": "Xin lỗi hỏi, nhưng anh/chị giúp được không?" },
+                { "w": "to be a pain", "vi": "vì phiền quá", "ex": "Sorry to be a pain, but…", "exvi": "Xin lỗi vì phiền quá, nhưng…", "note": "Thân mật và tự giễu — rất Anh, làm dịu một lời nhờ vả." },
+                { "w": "Excuse me", "vi": "xin lỗi, cho hỏi", "ex": "Excuse me, could I get past?", "exvi": "Xin lỗi, cho tôi đi qua được không?", "note": "BẪY: dùng TRƯỚC khi làm phiền. <i>Sorry</i> dùng SAU khi đã gây phiền." },
+                { "w": "I beg your pardon", "vi": "xin lỗi, tôi chưa nghe rõ", "ex": "I beg your pardon?", "exvi": "Xin lỗi, anh/chị nói lại được không?", "note": "Trang trọng — vừa là xin lỗi vừa là xin nhắc lại." },
+                { "w": "Pardon?", "vi": "sao cơ ạ?", "ex": "Pardon?", "exvi": "Sao cơ ạ?", "note": "Rút gọn — xin nhắc lại khi chưa nghe rõ. Rất Anh." },
+                { "w": "My apologies", "vi": "tôi xin lỗi", "ex": "My apologies for the confusion.", "exvi": "Tôi xin lỗi vì sự nhầm lẫn.", "note": "Trang trọng — hợp email và tình huống chính thức." },
+                { "w": "I apologise for", "vi": "tôi xin lỗi vì", "ex": "I apologise for the delay.", "exvi": "Tôi xin lỗi vì sự chậm trễ.", "note": "Anh-Anh viết <i>apologise</i>, Anh-Mỹ viết <i>apologize</i> — cả hai đều đúng." }
+              ]
+            },
+            {
+              "title": "Nhận lỗi & cách đáp lại",
+              "items": [
+                { "w": "That was my fault", "vi": "đó là lỗi của tôi", "ex": "That was my fault entirely.", "exvi": "Hoàn toàn là lỗi của tôi.", "note": "Nhận lỗi thẳng thắn — mạnh hơn nhiều so với chỉ nói <i>sorry</i>." },
+                { "w": "It won't happen again", "vi": "sẽ không tái diễn", "ex": "It won't happen again.", "exvi": "Chuyện này sẽ không tái diễn.", "note": "Phần thứ ba của một lời xin lỗi trọn vẹn — thiếu nó thì nghe chưa đủ." },
+                { "w": "I should have told you", "vi": "lẽ ra tôi phải báo bạn", "ex": "I should have told you sooner.", "exvi": "Lẽ ra tôi phải báo bạn sớm hơn." },
+                { "w": "There's no excuse", "vi": "không có lý do bào chữa", "ex": "There's no excuse, honestly.", "exvi": "Thật lòng thì không có gì bào chữa được." },
+                { "w": "Let me make it up to you", "vi": "để tôi bù lại cho bạn", "ex": "Let me make it up to you.", "exvi": "Để mình bù lại cho bạn.", "note": "<i>make it up to someone</i> = đền bù, chuộc lỗi. Rất chân thành." },
+                { "w": "That's alright", "vi": "không sao đâu", "ex": "That's alright, don't worry.", "exvi": "Không sao đâu, đừng lo." },
+                { "w": "No harm done", "vi": "cũng chưa hại gì", "ex": "No harm done.", "exvi": "Cũng chưa hại gì đâu.", "note": "Câu tha thứ nhẹ nhàng và rất Anh." },
+                { "w": "Don't worry about it", "vi": "đừng bận tâm chuyện đó", "ex": "Don't worry about it.", "exvi": "Đừng bận tâm chuyện đó." },
+                { "w": "These things happen", "vi": "chuyện thường mà", "ex": "These things happen.", "exvi": "Chuyện thường mà.", "note": "Cách tha thứ rộng lượng — không quy lỗi cho ai." },
+                { "w": "It's fine, really", "vi": "thật sự không sao", "ex": "It's fine, really.", "exvi": "Thật sự không sao mà." },
+                { "w": "Apology accepted", "vi": "tôi chấp nhận lời xin lỗi", "ex": "Apology accepted.", "exvi": "Tôi chấp nhận lời xin lỗi.", "note": "Hơi trang trọng — đôi khi mang chút lạnh lùng, dùng cẩn thận." },
+                { "w": "Just don't do it again", "vi": "chỉ cần đừng tái phạm", "ex": "Just don't do it again!", "exvi": "Chỉ cần đừng tái phạm nữa!", "note": "Thân mật, nửa đùa nửa thật — giữa bạn bè." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Sorry for being late — the traffic was awful.",
+                  "vi": "Xin lỗi vì đã đến muộn — kẹt xe kinh khủng.",
+                  "note": "Việc ĐÃ xảy ra nên dùng <b>for + V-ing</b>. Kèm lý do ngắn gọn, đừng biện minh dài dòng.",
+                  "open": { "en": "Morning, everyone —", "vi": "Chào cả nhà —" },
+                  "reply": [
+                    { "them": "No harm done, we've just started.", "themvi": "Chưa sao đâu, mình vừa bắt đầu.", "you": "Thanks — I'll catch up quickly.", "youvi": "Cảm ơn — tôi sẽ bắt kịp nhanh." },
+                    { "them": "These things happen.", "themvi": "Chuyện thường mà.", "you": "It won't happen again.", "youvi": "Chuyện này sẽ không tái diễn." }
+                  ],
+                  "close": { "en": "Where are we up to?", "vi": "Mình đang đến đâu rồi?" }
+                },
+                {
+                  "en": "Sorry to interrupt, but there's a call for you.",
+                  "vi": "Xin lỗi cắt ngang, nhưng có điện thoại cho anh/chị.",
+                  "note": "Việc ĐANG xảy ra nên dùng <b>to + V</b>. Đây là câu chuẩn khi phải xen vào cuộc nói chuyện.",
+                  "reply": [
+                    { "them": "Thanks — who is it?", "themvi": "Cảm ơn — ai vậy?", "you": "The supplier, about Friday.", "youvi": "Bên nhà cung cấp, về thứ Sáu." }
+                  ],
+                  "vars": [
+                    { "en": "Sorry to bother you, but…", "vi": "Xin lỗi làm phiền, nhưng…" }
+                  ]
+                },
+                {
+                  "en": "I apologise for the confusion in my last email.",
+                  "vi": "Tôi xin lỗi vì sự nhầm lẫn trong email trước.",
+                  "note": "<b>I apologise</b> trang trọng hơn <i>I'm sorry</i> — chuẩn mực trong email công việc.",
+                  "reply": [
+                    { "them": "No problem, it's clear now.", "themvi": "Không sao, giờ rõ rồi.", "you": "Thanks for your patience.", "youvi": "Cảm ơn anh/chị đã kiên nhẫn." }
+                  ]
+                },
+                {
+                  "en": "That was my fault entirely. It won't happen again.",
+                  "vi": "Hoàn toàn là lỗi của tôi. Chuyện này sẽ không tái diễn.",
+                  "note": "Lời xin lỗi TRỌN VẸN gồm ba phần: nhận lỗi, xin lỗi, hứa sửa. Thiếu phần ba là nghe chưa đủ.",
+                  "reply": [
+                    { "them": "I appreciate you saying that.", "themvi": "Tôi trân trọng việc anh/chị nói vậy.", "you": "I've already fixed the process.", "youvi": "Tôi đã sửa lại quy trình rồi." }
+                  ],
+                  "close": { "en": "Let's move on.", "vi": "Mình đi tiếp nhé." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Sorry for snapping at you earlier.",
+                  "vi": "Xin lỗi vì lúc nãy mình đã gắt với bạn.",
+                  "note": "<span class=\"k\">snap at someone</span> = nói gắt với ai. Câu làm lành rất chân thành.",
+                  "open": { "en": "Can I say something?", "vi": "Cho mình nói một câu nhé?" },
+                  "reply": [
+                    { "them": "It's fine, really. Long day?", "themvi": "Thật sự không sao. Ngày dài nhỉ?", "you": "No excuse, though.", "youvi": "Nhưng cũng không bào chữa được." },
+                    { "them": "Just don't do it again!", "themvi": "Chỉ cần đừng tái phạm nữa!", "you": "Let me make it up to you.", "youvi": "Để mình bù lại cho bạn." }
+                  ],
+                  "close": { "en": "Coffee's on me.", "vi": "Cà phê mình mời." }
+                },
+                {
+                  "en": "Sorry about the noise last night.",
+                  "vi": "Xin lỗi về tiếng ồn tối qua.",
+                  "note": "<b>about</b> đi với danh từ — thân mật hơn <i>for</i> một chút.",
+                  "reply": [
+                    { "them": "Don't worry about it.", "themvi": "Đừng bận tâm chuyện đó.", "you": "We'll keep it down next time.", "youvi": "Lần sau bọn mình sẽ nhỏ tiếng hơn." }
+                  ],
+                  "vars": [
+                    { "en": "Sorry about earlier.", "vi": "Xin lỗi về chuyện lúc nãy." }
+                  ]
+                },
+                {
+                  "en": "I'm sorry to hear that.",
+                  "vi": "Mình rất tiếc khi nghe vậy.",
+                  "note": "BẪY: đây là câu CHIA BUỒN. <i>I'm sorry for you</i> ✗ nghĩa là “tôi thương hại bạn” — hoàn toàn khác.",
+                  "reply": [
+                    { "them": "Thanks. It's been a hard week.", "themvi": "Cảm ơn. Tuần này khó khăn lắm.", "you": "Anything I can do?", "youvi": "Mình giúp được gì không?" }
+                  ]
+                },
+                {
+                  "en": "Sorry for not replying sooner.",
+                  "vi": "Xin lỗi vì đã không trả lời sớm hơn.",
+                  "note": "Phủ định thì <b>not</b> đứng TRƯỚC V-ing: <i>for <b>not</b> replying</i>.",
+                  "reply": [
+                    { "them": "No worries, I know you're busy.", "themvi": "Không sao, mình biết bạn bận.", "you": "Still, I should have told you.", "youvi": "Dù vậy, lẽ ra mình phải báo bạn." }
+                  ],
+                  "close": { "en": "Let's catch up properly soon.", "vi": "Hôm nào mình gặp nhau tử tế nhé." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Sorry for keeping you waiting.",
+                  "vi": "Xin lỗi vì đã để anh/chị chờ.",
+                  "note": "Chuẩn mực trong dịch vụ — lịch sự hơn hẳn <i>sorry for the wait</i>.",
+                  "reply": [
+                    { "them": "That's alright.", "themvi": "Không sao đâu.", "you": "Thanks for your patience.", "youvi": "Cảm ơn anh/chị đã kiên nhẫn." }
+                  ],
+                  "close": { "en": "How can I help?", "vi": "Em giúp gì được ạ?" }
+                },
+                {
+                  "en": "Excuse me, could I get past?",
+                  "vi": "Xin lỗi, cho tôi đi qua được không?",
+                  "note": "BẪY: dùng <b>Excuse me</b> TRƯỚC khi làm phiền. <i>Sorry</i> dùng SAU khi đã gây phiền.",
+                  "reply": [
+                    { "them": "Of course, sorry.", "themvi": "Vâng, xin lỗi.", "you": "Thank you.", "youvi": "Cảm ơn ạ." }
+                  ],
+                  "vars": [
+                    { "en": "Sorry, excuse me.", "vi": "Xin lỗi, cho tôi qua." }
+                  ]
+                },
+                {
+                  "en": "We apologise for any inconvenience.",
+                  "vi": "Chúng tôi xin lỗi vì mọi bất tiện.",
+                  "note": "Câu chuẩn mực trong thông báo chính thức — biển báo, email hàng loạt, loa phát thanh.",
+                  "reply": [
+                    { "them": "When will it reopen?", "themvi": "Khi nào mở lại ạ?", "you": "Monday morning, we hope.", "youvi": "Chúng tôi hy vọng sáng thứ Hai." }
+                  ]
+                },
+                {
+                  "en": "Sorry about the mix-up with your order.",
+                  "vi": "Xin lỗi về sự nhầm lẫn với đơn hàng của anh/chị.",
+                  "reply": [
+                    { "them": "These things happen.", "themvi": "Chuyện thường mà.", "you": "Let me sort it out for you now.", "youvi": "Để em xử lý ngay cho anh/chị." }
+                  ],
+                  "close": { "en": "I'll add a discount for the trouble.", "vi": "Em sẽ giảm giá bù cho phiền toái ạ." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Sorry to trouble you — is this seat free?",
+                  "vi": "Xin lỗi làm phiền — ghế này trống chứ ạ?",
+                  "note": "<b>to trouble you</b> trang trọng hơn <i>bother</i> một chút — rất Anh.",
+                  "reply": [
+                    { "them": "Yes, go ahead.", "themvi": "Vâng, mời anh/chị.", "you": "Thank you.", "youvi": "Cảm ơn ạ." }
+                  ]
+                },
+                {
+                  "en": "Sorry for the short notice, but I need to change my booking.",
+                  "vi": "Xin lỗi vì báo gấp quá, nhưng tôi cần đổi đặt phòng.",
+                  "note": "<i>short notice</i> = báo sát giờ. Dùng khi bạn thay đổi kế hoạch vào phút chót.",
+                  "reply": [
+                    { "them": "Let me see what we have.", "themvi": "Để em xem còn gì ạ.", "you": "I really appreciate it.", "youvi": "Tôi thật sự cảm kích." }
+                  ],
+                  "vars": [
+                    { "en": "Sorry for the last-minute change.", "vi": "Xin lỗi vì thay đổi vào phút chót." }
+                  ]
+                },
+                {
+                  "en": "I beg your pardon?",
+                  "vi": "Xin lỗi, anh/chị nói lại được không?",
+                  "note": "Trang trọng — vừa là xin lỗi vừa là xin nhắc lại. Bản rút gọn là <i>Pardon?</i>",
+                  "reply": [
+                    { "them": "I said the gate has changed.", "themvi": "Tôi nói cổng đã thay đổi.", "you": "Thank you — which one now?", "youvi": "Cảm ơn — giờ là cổng nào ạ?" }
+                  ]
+                },
+                {
+                  "en": "Sorry to be a pain, but could we move seats?",
+                  "vi": "Xin lỗi vì phiền quá, nhưng bọn tôi đổi chỗ được không?",
+                  "note": "<i>be a pain</i> = làm phiền. Thân mật và tự giễu — rất Anh, làm dịu lời nhờ vả.",
+                  "reply": [
+                    { "them": "No problem at all.", "themvi": "Không vấn đề gì ạ.", "you": "You're very kind.", "youvi": "Anh/chị tốt quá." }
+                  ],
+                  "close": { "en": "Thanks again.", "vi": "Cảm ơn lần nữa." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Sorry for the delay with your order.",
+                  "vi": "Xin lỗi vì đơn của anh/chị bị chậm.",
+                  "reply": [
+                    { "them": "No harm done.", "themvi": "Cũng chưa sao đâu.", "you": "It'll be with you in five minutes.", "youvi": "Năm phút nữa là có ạ." }
+                  ],
+                  "close": { "en": "Drinks are on us.", "vi": "Đồ uống bên em mời ạ." }
+                },
+                {
+                  "en": "Sorry to bother you — could we get the bill?",
+                  "vi": "Xin lỗi làm phiền — cho chúng tôi xin hóa đơn ạ?",
+                  "note": "Câu mở lời cực phổ biến khi gọi nhân viên — lịch sự và không khiến ai khó chịu.",
+                  "reply": [
+                    { "them": "Of course, one moment.", "themvi": "Vâng ạ, một lát.", "you": "No rush.", "youvi": "Không vội đâu." }
+                  ]
+                },
+                {
+                  "en": "Sorry, I think there's been a mistake.",
+                  "vi": "Xin lỗi, tôi nghĩ có nhầm lẫn.",
+                  "note": "Mở đầu bằng <i>Sorry</i> làm dịu hẳn một lời phàn nàn. Xem [Khung 44].",
+                  "reply": [
+                    { "them": "Oh? Let me check.", "themvi": "Dạ? Để em kiểm tra ạ.", "you": "We ordered the fish, not the chicken.", "youvi": "Chúng tôi gọi cá, không phải gà." }
+                  ],
+                  "vars": [
+                    { "en": "Sorry to say, but this isn't what we ordered.", "vi": "Xin lỗi phải nói, nhưng đây không phải món chúng tôi gọi." }
+                  ]
+                },
+                {
+                  "en": "Sorry about earlier — I didn't mean it.",
+                  "vi": "Xin lỗi về chuyện lúc nãy — mình không cố ý.",
+                  "reply": [
+                    { "them": "Forget it. Let's eat.", "themvi": "Quên đi. Ăn thôi.", "you": "Thanks for understanding.", "youvi": "Cảm ơn bạn đã hiểu." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Đến muộn cuộc họp",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Morning, everyone — sorry for being late. The traffic was awful.", "vi": "Chào cả nhà — xin lỗi vì đã đến muộn. Kẹt xe kinh khủng." },
+            { "speaker": "Manager", "en": "No harm done, we've just started.", "vi": "Chưa sao đâu, mình vừa bắt đầu." },
+            { "speaker": "You", "me": true, "en": "That was my fault — I should have left earlier.", "vi": "Đó là lỗi của tôi — lẽ ra tôi phải đi sớm hơn." },
+            { "speaker": "Manager", "en": "These things happen. Take a seat.", "vi": "Chuyện thường mà. Mời ngồi." },
+            { "speaker": "You", "me": true, "en": "Thanks. Sorry to interrupt — where are we up to?", "vi": "Cảm ơn. Xin lỗi cắt ngang — mình đang đến đâu rồi?" },
+            { "speaker": "Manager", "en": "Item two. It won't take long.", "vi": "Mục hai. Sẽ không lâu đâu." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Làm lành với bạn sau khi nói gắt",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Can I say something? Sorry for snapping at you earlier.", "vi": "Cho mình nói một câu nhé? Xin lỗi vì lúc nãy mình đã gắt với bạn." },
+            { "speaker": "Friend", "en": "It's fine, really. Long day?", "vi": "Thật sự không sao. Ngày dài nhỉ?" },
+            { "speaker": "You", "me": true, "en": "It was, but there's no excuse.", "vi": "Đúng vậy, nhưng không bào chữa được." },
+            { "speaker": "Friend", "en": "Don't worry about it. Just don't do it again!", "vi": "Đừng bận tâm. Chỉ cần đừng tái phạm nữa!" },
+            { "speaker": "You", "me": true, "en": "I won't. Let me make it up to you — dinner's on me.", "vi": "Mình sẽ không. Để mình bù lại — bữa tối mình mời." },
+            { "speaker": "Friend", "en": "Now you're talking.", "vi": "Giờ mới đúng chuyện." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Sorry for bother you.", "right": "Sorry to bother you.", "why": "Việc ĐANG xảy ra thì dùng <b>to + V</b>. Và sau <i>for</i> phải là V-ing, không phải động từ trần." },
+            { "wrong": "Sorry to be late. <i>(khi đã đến muộn rồi)</i>", "right": "Sorry for being late.", "why": "Việc ĐÃ xảy ra thì dùng <b>for + V-ing</b>. Dạng <i>to be</i> dùng khi bạn sắp muộn." },
+            { "wrong": "I'm sorry for you. <i>(ý: chia buồn)</i>", "right": "I'm sorry to hear that.", "why": "BẪY NGHĨA NGHIÊM TRỌNG. <i>Sorry for you</i> = “tôi thương hại bạn” — có thể gây khó chịu." },
+            { "wrong": "Sorry for not reply sooner.", "right": "Sorry for not replying sooner.", "why": "Sau <i>for</i> luôn là <b>V-ing</b>, kể cả khi có <i>not</i> đứng trước." },
+            { "wrong": "Sorry, could I get past? <i>(trước khi chen qua)</i>", "right": "Excuse me, could I get past?", "why": "<b>Excuse me</b> dùng TRƯỚC khi làm phiền. <i>Sorry</i> dùng SAU khi đã gây phiền toái." },
+            { "wrong": "Sorry about be late.", "right": "Sorry about being late. / Sorry for being late.", "why": "Sau <b>about</b> cũng phải là danh từ hoặc V-ing — không bao giờ là động từ trần." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu", "Thời điểm / mục đích", "Ví dụ"],
+          "rows": [
+            ["<code>Sorry for + V-ing</code>", "Việc đã làm", "<i>Sorry for being late.</i>"],
+            ["<code>Sorry to + V</code>", "Việc đang làm", "<i>Sorry to bother you.</i>"],
+            ["<code>Sorry about + N</code>", "Về một việc, một vật", "<i>Sorry about the noise.</i>"],
+            ["<code>Excuse me</code>", "Trước khi làm phiền", "<i>Excuse me, could I…?</i>"],
+            ["<code>I'm sorry to hear that.</code>", "Chia buồn", "Không phải <i>sorry for you</i>."],
+            ["<code>I apologise for…</code>", "Trang trọng", "Email, thông báo chính thức."],
+            ["<code>Pardon?</code>", "Xin nhắc lại", "Khi chưa nghe rõ."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — xin lỗi vì một sai sót trong công việc" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Sorry about that.", "vi": "Nhẹ nhất — việc rất nhỏ" },
+            { "en": "Sorry for the delay.", "vi": "Chuẩn mực, nêu rõ lý do" },
+            { "en": "I apologise for the confusion.", "vi": "Trang trọng — email, khách hàng" },
+            { "en": "That was my fault. I'm sorry.", "vi": "Nhận lỗi thẳng thắn" },
+            { "en": "That was my fault entirely. It won't happen again.", "vi": "Trọn vẹn nhất — có cả lời hứa sửa" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Sorry</b> ở Anh đọc là <b>/ˈsɒri/</b> (âm <i>o</i> tròn), ở Mỹ là <b>/ˈsɑːri/</b> — cả hai đều đúng.",
+            "<b>Sorry for</b> → “SOR-i-fə”, chữ <i>for</i> lướt thành /fə/, không nhấn.",
+            "<b>Sorry to</b> → “SOR-i-tə”, chữ <i>to</i> cũng lướt thành /tə/.",
+            "<b>Excuse me</b> → “ik-SKYOOZ-mi” — nhấn âm giữa, chữ <i>x</i> đọc là /ks/ rồi nối sang /j/.",
+            "<b>apologise</b> nhấn âm thứ hai: ə-<b>POL</b>-ə-jaiz — bốn âm tiết.",
+            "<b>Giọng hạ xuống và chậm lại</b> — lời xin lỗi nói nhanh và giọng phẳng nghe như không thật lòng."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Sorry for keeping you waiting.", "vi": "Luyện shadowing: “SOR-i-fə-KEEP-ing-yu-WAIT-ing”, nói chậm và ấm." },
+            { "en": "Sorry to bother you, but could you help?", "vi": "Tập phân biệt “SOR-i-tə” với “SOR-i-fə” — hai thời điểm khác nhau." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Xin lỗi vì đã đến muộn.", "blank": "Sorry __________ late.", "a": "for being (việc đã xảy ra)" },
+            { "vi": "Xin lỗi vì làm phiền anh/chị.", "blank": "Sorry __________ you.", "a": "to bother (việc đang xảy ra)" },
+            { "vi": "Xin lỗi về tiếng ồn tối qua.", "blank": "Sorry __________ the noise last night.", "a": "about" },
+            { "vi": "Tôi rất tiếc khi nghe vậy.", "blank": "I'm sorry __________.", "a": "to hear that (KHÔNG phải “for you”)" },
+            { "vi": "Xin lỗi vì đã không trả lời sớm hơn.", "blank": "Sorry for __________ sooner.", "a": "not replying" },
+            { "vi": "Xin lỗi, cho tôi đi qua được không?", "blank": "__________, could I get past?", "a": "Excuse me (trước khi làm phiền)" },
+            { "vi": "Hoàn toàn là lỗi của tôi.", "blank": "__________ entirely.", "a": "That was my fault" },
+            { "vi": "Để mình bù lại cho bạn.", "blank": "Let me __________.", "a": "make it up to you" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Xin lỗi vì đã đến muộn — kẹt xe kinh khủng.", "a": "Sorry for being late — the traffic was awful." },
+            { "vi": "2. Xin lỗi cắt ngang, nhưng có điện thoại cho anh/chị.", "a": "Sorry to interrupt, but there's a call for you." },
+            { "vi": "3. Xin lỗi vì đã để anh/chị chờ.", "a": "Sorry for keeping you waiting." },
+            { "vi": "4. Hoàn toàn là lỗi của tôi. Chuyện này sẽ không tái diễn.", "a": "That was my fault entirely. It won't happen again." },
+            { "vi": "5. Xin lỗi vì báo gấp quá, nhưng tôi cần đổi đặt phòng.", "a": "Sorry for the short notice, but I need to change my booking." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Quy tắc thời điểm:</b> <i>for + V-ing</i> nhìn về quá khứ, <i>to + V</i> nhìn về hiện tại. Nhớ hai câu mẫu: <i>sorry for being late</i> và <i>sorry to bother you</i>.",
+            "<b>Excuse me trước, Sorry sau.</b> Chen qua đám đông thì <i>Excuse me</i>; va vào người ta rồi thì <i>Sorry</i>.",
+            "<b>Tránh “I'm sorry for you”</b> — nó nghĩa là thương hại. Chia buồn thì dùng <i>I'm sorry to hear that</i>.",
+            "<b>Lời xin lỗi trọn vẹn có ba phần:</b> nhận lỗi, xin lỗi, hứa sửa. Thiếu phần ba là nghe chưa đủ.",
+            "<b>Nói chậm và hạ giọng.</b> Lời xin lỗi nói nhanh nghe như thủ tục chứ không phải thật lòng.",
+            "<b>Bài tập 3 phút:</b> viết năm lời xin lỗi — ba câu dùng <i>for + V-ing</i> cho việc đã làm, hai câu dùng <i>to + V</i> cho việc đang làm."
+          ]
+        }
+      ]
+    }
+  ]
+}

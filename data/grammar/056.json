@@ -1,0 +1,277 @@
+{
+  "id": 56,
+  "group": "Nhóm 6 · Tính từ & Trạng từ",
+  "title": "too / very / enough / so / such — mức độ & kết quả",
+  "subtitle": "I'm too happy ✗ là lỗi rất hay gặp. Chữ too trong tiếng Anh LUÔN mang nghĩa xấu: quá đến mức không làm được gì nữa. Muốn khen thì phải dùng very, so hoặc really.",
+  "meaning": "Nói mức độ và hậu quả của mức độ đó",
+  "rule": [
+    "<em>too</em> = quá đến mức <em>không được</em> — luôn nghĩa xấu",
+    "<em>so</em> + tính từ · <em>such</em> + (a/an) + danh từ",
+    "<em>enough</em> sau tính từ, trước danh từ"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2–B1", "hot": true },
+    { "text": "I'm too happy ✗" },
+    { "text": "so a nice day ✗" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [81, 83, 85, 89, 99],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Năm từ này đều nói về <b>mức độ</b>, nhưng chỉ có <i>very, so, really</i> là trung tính. Hai từ còn lại mang theo một <b>hậu quả</b>: <i>too</i> là hậu quả xấu, <i>enough</i> là vừa đủ để làm được." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — <i>too</i> không phải là “rất”:</b><br><i>I'm <b>too</b> happy</i> ✗ — câu này nghĩa là “tôi vui quá đến mức hỏng việc”.<br><i>I'm <b>so</b> happy.</i> ✓ · <i>I'm <b>very</b> happy.</i> ✓ · <i>I'm <b>really</b> happy.</i> ✓<br><b>too</b> = <b>quá đến mức KHÔNG làm được gì nữa</b>: <i>It's too hot to go out.</i> (nóng quá nên không ra ngoài được).<br>Người Việt hay nhầm vì “quá” trong tiếng Việt khen được: “vui quá!” — tiếng Anh thì không." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>so</i> và <i>such</i>:</b><br>• <b>so</b> + <b>tính từ / trạng từ</b> (không có danh từ): <i>It's <b>so</b> nice.</i><br>• <b>such</b> + <b>(a/an) + (tính từ) + danh từ</b>: <i>It's <b>such a</b> nice day.</i><br><i>so a nice day</i> ✗ · <i>such nice</i> ✗ (khi không có danh từ)<br><b>Mẹo:</b> có <b>danh từ</b> phía sau thì dùng <b>such</b>, không có thì dùng <b>so</b>." },
+        { "t": "h3", "text": "Bốn khuôn phải thuộc" },
+        {
+          "t": "table",
+          "head": ["Khuôn", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>too + tính từ + to V</code>", "Quá… nên không thể…", "It's too hot to go out."],
+            ["<code>tính từ + enough + to V</code>", "Đủ… để…", "He's old enough to drive."],
+            ["<code>so + tính từ + that</code>", "… đến nỗi mà…", "It was so hot that we stayed in."],
+            ["<code>such a + tính từ + N + that</code>", "… đến nỗi mà…", "It was such a hot day that we stayed in."]
+          ]
+        },
+        { "t": "p", "html": "Hai dòng cuối nói <b>cùng một ý</b> — khác nhau chỉ ở chỗ có danh từ hay không. Vị trí của <i>enough</i> đã nói kỹ ở [Ngữ pháp 43]: <b>sau</b> tính từ nhưng <b>trước</b> danh từ." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>very + tính từ</code>", "Rất — trung tính", "It's very hot today."],
+            ["<code>so + tính từ</code>", "Rất — có cảm xúc hơn", "I'm so tired."],
+            ["<code>really + tính từ</code>", "Rất — thân mật", "It's really good."],
+            ["<code>too + tính từ</code>", "Quá — mang hậu quả xấu", "It's too hot."],
+            ["<code>too + tính từ + to V</code>", "Quá… nên không thể…", "It's too hot to go out."],
+            ["<code>too + tính từ + for ai + to V</code>", "Quá… với ai nên không thể…", "It's too hard for me to do."],
+            ["<code>too much / too many + N</code>", "Quá nhiều", "too much work · too many people"],
+            ["<code>tính từ + enough</code>", "Đủ (đứng SAU tính từ)", "It's not warm enough."],
+            ["<code>enough + danh từ</code>", "Đủ (đứng TRƯỚC danh từ)", "I don't have enough money."],
+            ["<code>so + tính từ + that</code>", "… đến nỗi mà…", "It was so hot that we stayed in."],
+            ["<code>such a + (tt) + N + that</code>", "… đến nỗi mà…", "It was such a hot day that…"],
+            ["<code>so much / so many + N</code>", "Nhiều đến thế", "There was so much noise."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Chú ý <i>such</i> với danh từ không đếm được và số nhiều:</b> bỏ <i>a/an</i> đi.<br><i>such <b>a</b> nice weather</i> ✗ → <i><b>such</b> nice weather</i> ✓ · <i><b>such</b> nice people</i> ✓. Xem [Ngữ pháp 19]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm so happy for you!", "vi": "Mình mừng cho bạn quá!", "note": "BẪY SỐ MỘT: <i>I'm too happy</i> ✗ — <i>too</i> luôn nghĩa xấu. Xem [Khung 81]." },
+            { "en": "It's very hot today.", "vi": "Hôm nay nóng lắm.", "note": "<b>very</b> trung tính, chỉ nói mức độ." },
+            { "en": "It's too hot to go out.", "vi": "Nóng quá nên không ra ngoài được.", "note": "<b>too … to V</b> — nóng tới mức KHÔNG làm được." },
+            { "en": "It's too hard for me to do alone.", "vi": "Việc này với tôi khó quá, làm một mình không nổi.", "note": "Thêm người thì dùng <b>for me</b>. Xem [Ngữ pháp 52]." },
+            { "en": "He's old enough to drive.", "vi": "Nó đủ tuổi lái xe rồi.", "note": "<b>enough</b> đứng SAU tính từ. <i>enough old</i> ✗." },
+            { "en": "I don't have enough money.", "vi": "Tôi không đủ tiền.", "note": "Nhưng đứng TRƯỚC danh từ. Xem [Ngữ pháp 43]." },
+            { "en": "It's such a nice day!", "vi": "Hôm nay đẹp trời quá!", "note": "BẪY SỐ HAI: có danh từ <i>day</i> nên dùng <b>such a</b>. Xem [Khung 89]." },
+            { "en": "It's so nice today!", "vi": "Hôm nay đẹp quá!", "note": "Không có danh từ nên dùng <b>so</b>." },
+            { "en": "It was so hot that we stayed in.", "vi": "Nóng đến nỗi bọn tôi ở nhà luôn.", "note": "<b>so … that</b> nối mức độ với hậu quả." },
+            { "en": "There was so much noise I couldn't sleep.", "vi": "Ồn đến mức tôi không ngủ được.", "note": "Danh từ không đếm được thì dùng <b>so much</b>." },
+            { "en": "We had such nice weather.", "vi": "Thời tiết đẹp quá chừng.", "note": "<i>weather</i> không đếm được nên bỏ <i>a</i>." },
+            { "en": "It takes too long to get there.", "vi": "Đi tới đó mất lâu quá.", "note": "<b>too long</b> — mất lâu đến mức ngại. Xem [Khung 99]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "😄", "title": "Khen, mừng cho ai", "text": "<i>I'm so happy for you!</i> Dùng <b>so</b>, không dùng <i>too</i>." },
+            { "icon": "🥵", "title": "Phàn nàn vì quá mức", "text": "<i>It's too hot to go out.</i>" },
+            { "icon": "✅", "title": "Nói vừa đủ để làm gì", "text": "<i>He's old enough to drive.</i>" },
+            { "icon": "☀️", "title": "Cảm thán có danh từ", "text": "<i>It's such a nice day!</i> Xem [Khung 89]." },
+            { "icon": "🔗", "title": "Nối mức độ với hậu quả", "text": "<i>so hot that…</i> / <i>such a hot day that…</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Đừng dùng <i>too</i> để khen, và đừng viết <i>so a</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một mục ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi mục đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Nói mức độ",
+              "items": [
+                { "w": "very", "vi": "rất (trung tính)", "ex": "It's very hot today.", "exvi": "Hôm nay nóng lắm.", "note": "Chỉ nói mức độ, không kèm hậu quả gì." },
+                { "w": "so", "vi": "rất (có cảm xúc)", "ex": "I'm so happy for you!", "exvi": "Mình mừng cho bạn quá! Xem [Khung 81]." },
+                { "w": "really", "vi": "thật sự, rất", "ex": "It's really good.", "exvi": "Ngon thật đấy. Xem [Khung 85]." },
+                { "w": "quite", "vi": "khá", "ex": "It's quite cold in here.", "exvi": "Trong này cũng khá lạnh." },
+                { "w": "pretty", "vi": "khá (thân mật)", "ex": "It's pretty good.", "exvi": "Cũng ổn đấy chứ." },
+                { "w": "a bit", "vi": "hơi", "ex": "I'm a bit tired.", "exvi": "Tôi hơi mệt.", "note": "Thường đi với tính từ mang nghĩa xấu." },
+                { "w": "extremely", "vi": "cực kỳ", "ex": "It's extremely difficult.", "exvi": "Cực kỳ khó." },
+                { "w": "absolutely", "vi": "hoàn toàn", "ex": "It's absolutely perfect.", "exvi": "Hoàn hảo luôn.", "note": "Đi với tính từ tuyệt đối: <i>perfect, amazing, awful</i>, không đi với <i>good</i>." },
+                { "w": "too", "vi": "quá (nghĩa xấu)", "ex": "It's too hot to go out.", "exvi": "Nóng quá không ra ngoài được.", "note": "BẪY SỐ MỘT: <i>I'm too happy</i> ✗." },
+                { "w": "too much", "vi": "quá nhiều (không đếm được)", "ex": "I have too much work.", "exvi": "Tôi nhiều việc quá." },
+                { "w": "too many", "vi": "quá nhiều (đếm được)", "ex": "There were too many people.", "exvi": "Đông người quá. Xem [Ngữ pháp 22]." },
+                { "w": "not … enough", "vi": "chưa đủ", "ex": "It's not warm enough.", "exvi": "Chưa đủ ấm.", "note": "Đối lập trực tiếp với <i>too</i>: <i>too cold</i> = <i>not warm enough</i>." }
+              ]
+            },
+            {
+              "title": "Nối mức độ với hậu quả",
+              "items": [
+                { "w": "too + adj + to V", "vi": "quá… nên không thể…", "ex": "It's too hot to go out.", "exvi": "Nóng quá nên không ra ngoài được." },
+                { "w": "too + adj + for sb + to V", "vi": "quá… với ai nên không thể…", "ex": "It's too hard for me to do.", "exvi": "Với tôi khó quá, không làm nổi.", "note": "Người thụ hưởng dùng <b>for</b>. Xem [Ngữ pháp 52]." },
+                { "w": "adj + enough + to V", "vi": "đủ… để…", "ex": "He's old enough to drive.", "exvi": "Nó đủ tuổi lái xe.", "note": "<b>enough</b> SAU tính từ. <i>enough old</i> ✗." },
+                { "w": "enough + N", "vi": "đủ (+ danh từ)", "ex": "I don't have enough money.", "exvi": "Tôi không đủ tiền.", "note": "Nhưng TRƯỚC danh từ. Xem [Ngữ pháp 43]." },
+                { "w": "so + adj + that", "vi": "… đến nỗi mà…", "ex": "It was so hot that we stayed in.", "exvi": "Nóng đến nỗi bọn tôi ở nhà." },
+                { "w": "such a + N + that", "vi": "… đến nỗi mà…", "ex": "It was such a hot day that we stayed in.", "exvi": "Ngày nóng đến nỗi bọn tôi ở nhà.", "note": "BẪY SỐ HAI: có danh từ thì dùng <b>such</b>." },
+                { "w": "such + N không đếm được", "vi": "… quá chừng", "ex": "We had such nice weather.", "exvi": "Thời tiết đẹp quá chừng.", "note": "Bỏ <i>a</i> với danh từ không đếm được và số nhiều." },
+                { "w": "so much + N", "vi": "nhiều đến thế (không đếm được)", "ex": "There was so much noise.", "exvi": "Ồn kinh khủng." },
+                { "w": "so many + N", "vi": "nhiều đến thế (đếm được)", "ex": "There were so many people.", "exvi": "Đông người thế." },
+                { "w": "What a + adj + N!", "vi": "… thật là…!", "ex": "What a nice day!", "exvi": "Ngày đẹp quá! Xem [Khung 89]." },
+                { "w": "How + adj!", "vi": "… quá!", "ex": "How nice!", "exvi": "Hay quá!", "note": "<b>How</b> + tính từ (không danh từ) · <b>What a</b> + danh từ — cùng luật với <i>so</i> / <i>such</i>." },
+                { "w": "It makes me so…", "vi": "nó làm tôi … quá", "ex": "It makes me so nervous.", "exvi": "Việc đó làm tôi lo quá. Xem [Khung 83]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'm <b>too happy</b> for you!", "right": "I'm <b>so happy</b> for you!", "why": "BẪY SỐ MỘT: <b>too</b> luôn mang nghĩa xấu. Khen thì dùng <i>so / very / really</i>." },
+            { "wrong": "The food is <b>too delicious</b>.", "right": "The food is <b>really delicious</b>.", "why": "Cùng lỗi — <i>too delicious</i> nghĩa là ngon đến mức gây rắc rối." },
+            { "wrong": "It's <b>so a nice day</b>.", "right": "It's <b>such a nice day</b>.", "why": "BẪY SỐ HAI: có danh từ <i>day</i> nên phải dùng <b>such a</b>." },
+            { "wrong": "It's <b>such nice</b> today.", "right": "It's <b>so nice</b> today.", "why": "Không có danh từ thì dùng <b>so</b>." },
+            { "wrong": "We had <b>such a nice weather</b>.", "right": "We had <b>such nice weather</b>.", "why": "<i>weather</i> không đếm được nên bỏ <i>a</i>. Xem [Ngữ pháp 19]." },
+            { "wrong": "He's <b>enough old</b> to drive.", "right": "He's <b>old enough</b> to drive.", "why": "<b>enough</b> đứng SAU tính từ — từ duy nhất làm vậy. Xem [Ngữ pháp 43]." },
+            { "wrong": "I don't have <b>money enough</b>.", "right": "I don't have <b>enough money</b>.", "why": "Nhưng lại đứng TRƯỚC danh từ. Hai vị trí ngược nhau." },
+            { "wrong": "There were <b>too much people</b>.", "right": "There were <b>too many people</b>.", "why": "<i>people</i> đếm được nên dùng <b>too many</b>. Xem [Ngữ pháp 22]." },
+            { "wrong": "It's too hot <b>for going out</b>.", "right": "It's too hot <b>to go out</b>.", "why": "Sau <b>too + tính từ</b> là <b>to V</b>, không phải V-ing." },
+            { "wrong": "It's too hard <b>to me</b> to do.", "right": "It's too hard <b>for me</b> to do.", "why": "Người thụ hưởng luôn dùng <b>for</b>. Xem [Ngữ pháp 52]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>too</code> / <code>very</code>", "Hậu quả xấu / trung tính", "too hot to go out ≠ very hot"],
+            ["<code>too</code> / <code>not … enough</code>", "Hai mặt của cùng một ý", "too cold = not warm enough"],
+            ["<code>so</code> / <code>such</code>", "Không có danh từ / có danh từ", "so nice ≠ such a nice day"],
+            ["<code>such a</code> / <code>such</code>", "Đếm được số ít / không đếm được", "such a day ≠ such weather"],
+            ["<code>old enough</code> / <code>enough money</code>", "Sau tính từ / trước danh từ", "Hai vị trí ngược nhau"],
+            ["<code>too much</code> / <code>too many</code>", "Không đếm được / đếm được", "too much work ≠ too many people"],
+            ["<code>How nice!</code> / <code>What a nice day!</code>", "Cùng luật với so / such", "How + tt ≠ What a + danh từ"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng từ nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn muốn nói “rất” hoặc “quá” — ý bạn là khen hay là than?",
+          "nodes": [
+            { "if": "Khen, mừng, thích", "then": "so / very / really", "ex": "I'm so happy for you!" },
+            { "if": "Than vì quá mức, không làm được gì", "then": "too (+ to V)", "ex": "It's too hot to go out." },
+            { "if": "Nói vừa đủ để làm được", "then": "adj + enough + to V", "ex": "He's old enough to drive." },
+            { "if": "Theo sau là tính từ, không có danh từ", "then": "so", "ex": "It's so nice today." },
+            { "if": "Theo sau có một danh từ", "then": "such (a/an)", "ex": "It's such a nice day." },
+            { "if": "Danh từ không đếm được hoặc số nhiều", "then": "such, bỏ a/an", "ex": "such nice weather · such nice people" }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ nóng — và hậu quả của nó" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "It's a bit warm.", "vi": "Nhẹ nhất — hơi ấm" },
+            { "en": "It's quite hot.", "vi": "Khá nóng" },
+            { "en": "It's very hot.", "vi": "Rất nóng — vẫn trung tính" },
+            { "en": "It's so hot that I can't think.", "vi": "Nóng đến nỗi không nghĩ nổi" },
+            { "en": "It's too hot to go out.", "vi": "Nặng nhất — nóng tới mức không ra ngoài được" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Nhóm từ chỉ mức độ này xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 81, "why": "I'm (so) + tính từ — khung chính của so, nơi bẫy I'm too happy hay xảy ra." },
+            { "id": 89, "why": "What a + tính từ + danh từ! — cùng luật với such a." },
+            { "id": 85, "why": "That sounds + tính từ — chỗ really và so hay đứng để khen." },
+            { "id": 83, "why": "It makes me + tính từ — It makes me so nervous." },
+            { "id": 99, "why": "It takes + thời gian + to V — It takes too long to get there." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền too / very / so / such / enough" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Mình mừng cho bạn quá!", "blank": "I'm __________ happy for you!", "a": "so (hoặc very, really)" },
+            { "vi": "Nóng quá nên không ra ngoài được.", "blank": "It's __________ hot to go out.", "a": "too" },
+            { "vi": "Nó đủ tuổi lái xe rồi.", "blank": "He's old __________ to drive.", "a": "enough" },
+            { "vi": "Tôi không đủ tiền.", "blank": "I don't have __________ money.", "a": "enough" },
+            { "vi": "Hôm nay đẹp trời quá!", "blank": "It's __________ a nice day!", "a": "such" },
+            { "vi": "Hôm nay đẹp quá!", "blank": "It's __________ nice today!", "a": "so" },
+            { "vi": "Thời tiết đẹp quá chừng.", "blank": "We had __________ nice weather.", "a": "such — bỏ a" },
+            { "vi": "Đông người quá.", "blank": "There were __________ people.", "a": "too many" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn câu đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Mình mừng cho bạn quá!", "blank": "(a) I'm too happy for you!  (b) I'm so happy for you!", "a": "(b)" },
+            { "vi": "Hôm nay đẹp trời quá!", "blank": "(a) It's so a nice day!  (b) It's such a nice day!", "a": "(b)" },
+            { "vi": "Nó đủ tuổi lái xe rồi.", "blank": "(a) He's enough old to drive.  (b) He's old enough to drive.", "a": "(b)" },
+            { "vi": "Đông người quá.", "blank": "(a) There were too much people.  (b) There were too many people.", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Mình mừng cho bạn quá!", "a": "I'm so happy for you!" },
+            { "vi": "2. Nóng quá nên không ra ngoài được.", "a": "It's too hot to go out." },
+            { "vi": "3. Hôm nay đẹp trời quá!", "a": "It's such a nice day!" },
+            { "vi": "4. Nóng đến nỗi bọn tôi ở nhà luôn.", "a": "It was so hot that we stayed in." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật một dòng về <i>too</i>:</b> nếu câu của bạn là lời KHEN, <b>không bao giờ</b> dùng <i>too</i>. Dùng <i>so, very, really</i>.",
+            "<b>Thử bằng <i>to V</i>:</b> viết được <i>too … to V</i> (<i>too hot to go out</i>) thì <i>too</i> đúng chỗ. Không viết được thì bạn đang định khen.",
+            "<b>Mẹo <i>so</i> / <i>such</i>:</b> nhìn xem có <b>danh từ</b> phía sau không. Có → <b>such</b>, không → <b>so</b>. Y hệt luật <i>What a</i> / <i>How</i>.",
+            "<b><i>enough</i> ngược đời:</b> SAU tính từ (<i>old enough</i>) nhưng TRƯỚC danh từ (<i>enough money</i>). Xem [Ngữ pháp 43].",
+            "<b><i>too</i> và <i>not … enough</i> là hai mặt của một ý:</b> <i>It's too cold</i> = <i>It's not warm enough</i>.",
+            "<b>Bài tập 3 phút:</b> tả thời tiết hôm nay bằng năm câu, mỗi câu một từ: <i>very, so, such, too, enough</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

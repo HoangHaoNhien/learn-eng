@@ -1,0 +1,277 @@
+{
+  "id": 14,
+  "group": "Nhóm 10 · Điều kiện & Giả định",
+  "title": "Điều kiện loại 1 — khả năng có thật",
+  "subtitle": "Câu điều kiện dùng nhiều nhất, và cũng là nơi người Việt mắc một lỗi gần như trăm phần trăm khi mới học: sau chữ if không bao giờ có will, dù cả câu đang nói về tương lai. Tiếng Anh chỉ cho phép đánh dấu tương lai một lần.",
+  "meaning": "Nếu…, (thì) sẽ… — điều hoàn toàn có thể xảy ra",
+  "rule": [
+    "<em>If</em> + hiện tại đơn, S + <em>will</em> + V trần",
+    "S + <em>will</em> + V trần + <em>if</em> + hiện tại đơn",
+    "<em>Unless</em> + hiện tại đơn, S + <em>will</em> + V trần"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2–B1", "hot": true },
+    { "text": "Sau if KHÔNG có will" },
+    { "text": "unless = if… not" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [57, 87, 91, 92, 97],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">If it rains, I'll take a taxi.</span> Đây là điều kiện loại một: một khả năng <b>hoàn toàn có thể xảy ra</b> trong tương lai, kèm hệ quả của nó. Khác với loại hai ở [Ngữ pháp 15], chuyện này có thật và bạn đang tính đến nó nghiêm túc." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — lỗi phổ biến nhất của người Việt:</b> vế <i>if</i> dùng <b>HIỆN TẠI ĐƠN</b>, dù đang nói về tương lai.<br>• <i>If it <b>rains</b>, I'll take a taxi</i> ✓<br>• <i>If it <b>will rain</b>, I'll take a taxi</i> ✗<br>Lý do rất gọn: tiếng Anh chỉ đánh dấu tương lai <b>một lần</b>, ở vế chính." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>if</i> hay <i>when</i>:</b> <i><b>If</b> I see him, I'll tell him</i> = chưa chắc có gặp. <i><b>When</b> I see him, I'll tell him</i> = chắc chắn sẽ gặp, chỉ chưa biết lúc nào. Chọn sai là đổi hẳn mức chắc chắn trong đầu người nghe." },
+        { "t": "h3", "text": "Loại 0 và loại 1" },
+        {
+          "t": "table",
+          "head": ["Loại", "Cấu trúc", "Dùng khi"],
+          "rows": [
+            ["Loại 0 — luôn đúng", "<code>If + hiện tại, hiện tại</code>", "If you heat water, it boils."],
+            ["Loại 1 — có thể xảy ra", "<code>If + hiện tại, will + V</code>", "If it rains, I'll take a taxi."],
+            ["Loại 1 nhẹ hơn", "<code>If + hiện tại, might/can + V</code>", "If it rains, I might stay in."],
+            ["Loại 1 dạng mệnh lệnh", "<code>If + hiện tại, + V trần</code>", "If you need help, just ask."]
+          ]
+        },
+        { "t": "p", "html": "Luật “không có <i>will</i>” áp dụng cho <b>cả bảy từ nối</b>: <i>if, when, unless, as soon as, before, after, until</i>. Nhớ một luật là xong cả bảy. Xem [Ngữ pháp 12]." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Chuẩn", "<code>If + hiện tại, S + will + V.</code>", "If it rains, I'll take a taxi."],
+            ["Đảo vế — không cần phẩy", "<code>S + will + V + if + hiện tại.</code>", "I'll take a taxi if it rains."],
+            ["Điều kiện phủ định", "<code>If + don't/doesn't + V…</code>", "If you don't book, you won't get in."],
+            ["Với <code>unless</code>", "<code>Unless + hiện tại, will + V.</code>", "Unless it rains, I'll walk."],
+            ["Chắc chắn xảy ra", "<code>When + hiện tại, will + V.</code>", "When I see him, I'll tell him."],
+            ["Khả năng thấp hơn", "<code>If…, might + V.</code>", "If it rains, I might stay in."],
+            ["Nêu khả năng làm được", "<code>If…, can + V.</code>", "If you're busy, I can help."],
+            ["Lời khuyên", "<code>If…, should + V.</code>", "If you're tired, you should rest."],
+            ["Mệnh lệnh", "<code>If…, + V trần.</code>", "If you need help, just ask."],
+            ["Loại 0 — sự thật", "<code>If + hiện tại, hiện tại.</code>", "If you heat water, it boils."],
+            ["Nhấn mạnh điều kiện", "<code>Only if…</code>", "Only if you ask."],
+            ["Điều không có thật", "<code>If + V2, would + V.</code>", "If I had money, I'd travel."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dấu phẩy:</b> vế <i>if</i> đứng TRƯỚC thì có dấu phẩy — <i>If it rains<b>,</b> I'll take a taxi.</i> Đứng SAU thì không cần — <i>I'll take a taxi if it rains.</i> Cùng luật với [Ngữ pháp 50]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "If it rains, I'll take a taxi.", "vi": "Nếu trời mưa, tôi sẽ đi taxi.", "note": "Câu mẫu kinh điển. <b>rains</b>, không bao giờ <i>will rain</i> ✗. Xem [Khung 97]." },
+            { "en": "If I have time, I'll call you.", "vi": "Nếu có thời gian tôi sẽ gọi bạn.", "note": "Vế <i>if</i> dùng <b>have</b>, không phải <i>will have</i>." },
+            { "en": "I'll take a taxi if it rains.", "vi": "Tôi sẽ đi taxi nếu trời mưa.", "note": "Đảo vế thì KHÔNG cần dấu phẩy." },
+            { "en": "If you don't book, you won't get a table.", "vi": "Nếu không đặt trước, bạn sẽ không có bàn.", "note": "Điều kiện phủ định dùng <b>don't</b>, kết quả phủ định mới dùng <b>won't</b>." },
+            { "en": "Unless it rains, I'll walk.", "vi": "Trừ khi trời mưa, tôi sẽ đi bộ.", "note": "<b>unless</b> = <i>if… not</i>. Đã dùng nó thì KHÔNG phủ định thêm." },
+            { "en": "When I see him, I'll tell him.", "vi": "Khi gặp anh ấy tôi sẽ nói.", "note": "BẪY SỐ HAI: <b>when</b> = chắc chắn sẽ gặp. Chưa chắc thì dùng <i>if</i>." },
+            { "en": "If you need a hand, just ask.", "vi": "Nếu cần giúp thì cứ nói.", "note": "Vế kết quả là MỆNH LỆNH, không cần <i>will</i>." },
+            { "en": "If it rains, I might stay in.", "vi": "Nếu mưa có khi tôi ở nhà.", "note": "<b>might</b> nhẹ hơn <i>will</i> — khả năng chỉ khoảng một nửa." },
+            { "en": "If you heat water, it boils.", "vi": "Nếu đun nước thì nước sôi.", "note": "Loại 0: sự thật LUÔN ĐÚNG nên cả hai vế đều ở hiện tại đơn." },
+            { "en": "If anything changes, I'll let you know.", "vi": "Có gì thay đổi tôi sẽ báo bạn.", "note": "Cụm rất hay để kết thúc một cuộc trao đổi công việc." },
+            { "en": "What if it rains?", "vi": "Lỡ trời mưa thì sao?", "note": "Sau <b>What if</b> cũng dùng HIỆN TẠI. Xem [Khung 87]." },
+            { "en": "If I had money, I'd travel.", "vi": "Nếu có tiền tôi sẽ đi du lịch.", "note": "Điều KHÔNG có thật — cấu trúc khác hẳn. Xem [Ngữ pháp 15]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🌧️", "title": "Lên phương án dự phòng", "text": "<i>If it rains, I'll take a taxi.</i>" },
+            { "icon": "📞", "title": "Hứa có điều kiện", "text": "<i>If I have time, I'll call you.</i>" },
+            { "icon": "⚠️", "title": "Cảnh báo nhẹ nhàng", "text": "<i>If you don't book, you won't get in.</i>" },
+            { "icon": "🤝", "title": "Đề nghị giúp đỡ", "text": "<i>If you need a hand, just ask.</i>" },
+            { "icon": "🌍", "title": "Nêu sự thật hiển nhiên", "text": "<i>If you heat water, it boils.</i> Loại 0." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Chuyện không có thật. Lúc đó là <i>If I were you…</i> — xem [Ngữ pháp 15]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Vế điều kiện — luôn ở hiện tại đơn",
+              "items": [
+                { "w": "If it rains", "vi": "nếu trời mưa", "ex": "If it rains, I'll take a taxi.", "exvi": "Nếu trời mưa tôi sẽ đi taxi.", "note": "BẪY SỐ MỘT: <b>rains</b>, không bao giờ <i>will rain</i> ✗." },
+                { "w": "If I have time", "vi": "nếu tôi có thời gian", "ex": "If I have time, I'll call you.", "exvi": "Nếu có thời gian tôi sẽ gọi bạn." },
+                { "w": "If you need", "vi": "nếu bạn cần", "ex": "If you need a hand, just ask.", "exvi": "Nếu cần giúp thì cứ nói." },
+                { "w": "If I see him", "vi": "nếu tôi gặp anh ấy", "ex": "If I see him, I'll tell him.", "exvi": "Nếu gặp anh ấy tôi sẽ nói.", "note": "<i>if</i> = CHƯA CHẮC gặp. Chắc chắn gặp thì dùng <b>when</b>." },
+                { "w": "If you don't…", "vi": "nếu bạn không…", "ex": "If you don't book, you won't get in.", "exvi": "Nếu không đặt trước bạn sẽ không vào được.", "note": "Điều kiện phủ định dùng <b>don't</b>, không dùng <i>won't</i>." },
+                { "w": "If anything changes", "vi": "nếu có gì thay đổi", "ex": "If anything changes, I'll let you know.", "exvi": "Có gì thay đổi tôi sẽ báo bạn.", "note": "Cụm kết thúc trao đổi công việc rất lịch sự." },
+                { "w": "If all goes well", "vi": "nếu mọi việc suôn sẻ", "ex": "If all goes well, we'll finish today.", "exvi": "Nếu suôn sẻ hôm nay sẽ xong." },
+                { "w": "If that's OK", "vi": "nếu vậy được", "ex": "I'll come at six, if that's OK.", "exvi": "Sáu giờ tôi đến, nếu vậy được." },
+                { "w": "If you like", "vi": "nếu bạn muốn", "ex": "I'll drive, if you like.", "exvi": "Để tôi lái, nếu bạn muốn.", "note": "Cách đề nghị nhẹ nhàng, không áp đặt." },
+                { "w": "unless", "vi": "trừ khi", "ex": "Unless it rains, I'll walk.", "exvi": "Trừ khi trời mưa, tôi sẽ đi bộ.", "note": "<b>unless</b> = <i>if… not</i>. <i>unless it doesn't rain</i> ✗ là phủ định hai lần." },
+                { "w": "when + hiện tại", "vi": "khi (chắc chắn xảy ra)", "ex": "When I see him, I'll tell him.", "exvi": "Khi gặp anh ấy tôi sẽ nói.", "note": "BẪY SỐ HAI. Sau <i>when</i> cũng không có <i>will</i>." },
+                { "w": "What if…?", "vi": "lỡ như… thì sao?", "ex": "What if it rains?", "exvi": "Lỡ trời mưa thì sao?", "note": "Cũng dùng HIỆN TẠI: <i>What if it will rain</i> ✗. Xem [Khung 87]." }
+              ]
+            },
+            {
+              "title": "Vế kết quả & các mức độ",
+              "items": [
+                { "w": "I'll + V trần", "vi": "tôi sẽ", "ex": "I'll take a taxi.", "exvi": "Tôi sẽ đi taxi.", "note": "<i>I'll</i> = <i>I will</i>, theo sau là ĐỘNG TỪ TRẦN." },
+                { "w": "I won't be able to", "vi": "tôi sẽ không thể", "ex": "If I'm late, I won't be able to come.", "exvi": "Nếu muộn thì tôi không đến được." },
+                { "w": "I might + V", "vi": "có thể tôi sẽ", "ex": "If it rains, I might stay in.", "exvi": "Nếu mưa có khi tôi ở nhà.", "note": "Nhẹ hơn <i>will</i> — khả năng khoảng năm mươi phần trăm." },
+                { "w": "I can + V", "vi": "tôi có thể", "ex": "If you're busy, I can help.", "exvi": "Nếu bạn bận, tôi giúp được." },
+                { "w": "you should + V", "vi": "bạn nên", "ex": "If you're tired, you should rest.", "exvi": "Nếu mệt thì bạn nên nghỉ." },
+                { "w": "just ask", "vi": "cứ nói", "ex": "If you need a hand, just ask.", "exvi": "Cần giúp thì cứ nói.", "note": "Vế kết quả có thể là MỆNH LỆNH, không cần <i>will</i>." },
+                { "w": "give me a call", "vi": "gọi cho tôi", "ex": "If you're free, give me a call.", "exvi": "Rảnh thì gọi cho tôi." },
+                { "w": "it boils", "vi": "nó sôi", "ex": "If you heat water, it boils.", "exvi": "Nếu đun nước thì nước sôi.", "note": "Loại 0: sự thật LUÔN ĐÚNG — cả hai vế hiện tại đơn." },
+                { "w": "I'd better + V", "vi": "tôi nên", "ex": "If it's late, I'd better go.", "exvi": "Muộn rồi thì tôi nên về.", "note": "<b>had better</b> + động từ TRẦN: <i>I'd better to go</i> ✗." },
+                { "w": "in that case", "vi": "vậy thì", "ex": "In that case, I'll wait.", "exvi": "Vậy thì tôi sẽ chờ." },
+                { "w": "either way", "vi": "kiểu gì thì", "ex": "Either way, I'll be there.", "exvi": "Kiểu gì tôi cũng sẽ đến." },
+                { "w": "If I were you, I'd", "vi": "nếu tôi là bạn, tôi sẽ", "ex": "If I were you, I'd rest.", "exvi": "Nếu tôi là bạn, tôi sẽ nghỉ.", "note": "Điều KHÔNG có thật — loại 2. Xem [Ngữ pháp 15]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "If it <b>will rain</b>, I'll take a taxi.", "right": "If it <b>rains</b>, I'll take a taxi.", "why": "BẪY SỐ MỘT, lỗi phổ biến nhất. Vế <i>if</i> dùng HIỆN TẠI ĐƠN dù nói về tương lai." },
+            { "wrong": "If you <b>will come</b>, I'll cook.", "right": "If you <b>come</b>, I'll cook.", "why": "Cùng lỗi. Tiếng Anh chỉ đánh dấu tương lai MỘT LẦN, ở vế chính." },
+            { "wrong": "<b>Unless</b> it <b>doesn't</b> rain, I'll walk.", "right": "<b>Unless</b> it rains, I'll walk.", "why": "<i>unless</i> đã mang nghĩa <b>if… not</b> rồi. Phủ định thêm lần nữa là lật ngược hẳn nghĩa." },
+            { "wrong": "If it rains, I <b>take</b> a taxi. <i>(ý: tương lai)</i>", "right": "If it rains, I'<b>ll take</b> a taxi.", "why": "Vế KẾT QUẢ mới là chỗ dùng <i>will</i>. Bỏ mất <i>will</i> thì câu thành một sự thật chung chung." },
+            { "wrong": "<b>When</b> I see him, I'll tell him. <i>(chưa chắc gặp)</i>", "right": "<b>If</b> I see him, I'll tell him.", "why": "BẪY SỐ HAI: <b>when</b> = chắc chắn xảy ra, <b>if</b> = chưa chắc." },
+            { "wrong": "If you don't book, you <b>don't get</b> a table.", "right": "If you don't book, you <b>won't get</b> a table.", "why": "Vế điều kiện dùng <i>don't</i>, vế kết quả tương lai mới dùng <b>won't</b>." },
+            { "wrong": "I'll call you <b>when I will get</b> there.", "right": "I'll call you <b>when I get</b> there.", "why": "Luật áp dụng cho cả bảy từ nối: <i>if, when, unless, as soon as, before, after, until</i>." },
+            { "wrong": "What if it <b>will rain</b>?", "right": "What if it <b>rains</b>?", "why": "Sau <b>What if</b> cũng dùng hiện tại đơn." },
+            { "wrong": "If it rains<b> </b>I'll take a taxi.", "right": "If it rains<b>,</b> I'll take a taxi.", "why": "Vế <i>if</i> đứng TRƯỚC thì phải có dấu phẩy. Đứng sau thì không cần." },
+            { "wrong": "If I <b>would have</b> time, I'll call.", "right": "If I <b>have</b> time, I'll call.", "why": "Vế <i>if</i> không chứa <i>will</i> lẫn <i>would</i>. Xem [Ngữ pháp 15]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Dùng khi", "Ví dụ"],
+          "rows": [
+            ["<code>If + hiện tại, will + V</code>", "Khả năng CÓ THẬT trong tương lai", "If it rains, I'll take a taxi."],
+            ["<code>Unless + hiện tại, will + V</code>", "Điều kiện ngược — nếu… không", "Unless it rains, I'll walk."],
+            ["<code>When + hiện tại, will + V</code>", "CHẮC CHẮN xảy ra, chưa rõ lúc nào", "When I see him, I'll tell him."],
+            ["<code>If…, might + V</code>", "Khả năng thấp hơn, khoảng một nửa", "If it rains, I might stay in."],
+            ["<code>If + hiện tại, hiện tại</code>", "Loại 0 — sự thật luôn đúng", "If you heat water, it boils."],
+            ["<code>If + V2, would + V</code>", "KHÔNG có thật. Xem [Ngữ pháp 15]", "If I had money, I'd travel."],
+            ["<code>If + had V3, would have + V3</code>", "Tiếc nuối quá khứ. Xem [Ngữ pháp 16]", "If I had known, I'd have called."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: loại nào, từ nối nào?" },
+        {
+          "t": "tree",
+          "q": "Chuyện này có thật không, và chắc chắn đến đâu?",
+          "nodes": [
+            { "if": "Luôn đúng, như một quy luật tự nhiên", "then": "Loại 0 — cả hai vế hiện tại", "ex": "If you heat water, it boils." },
+            { "if": "Có thể xảy ra, và bạn đang tính đến nó", "then": "Loại 1 — If + hiện tại, will + V", "ex": "If it rains, I'll take a taxi." },
+            { "if": "Chắc chắn sẽ xảy ra, chỉ chưa rõ lúc nào", "then": "When + hiện tại, will + V", "ex": "When I see him, I'll tell him." },
+            { "if": "Muốn nêu điều kiện NGƯỢC lại", "then": "Unless + hiện tại (không phủ định thêm)", "ex": "Unless it rains, I'll walk." },
+            { "if": "Khả năng chỉ khoảng một nửa", "then": "If + hiện tại, might + V", "ex": "If it rains, I might stay in." },
+            { "if": "Chuyện KHÔNG có thật ở hiện tại", "then": "Loại 2 — If + V2, would + V", "ex": "If I had money, I'd travel." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ chắc chắn của kết quả" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "If it rains, I might stay in.", "vi": "Yếu nhất — có khi" },
+            { "en": "If it rains, I'll probably stay in.", "vi": "Nhiều khả năng" },
+            { "en": "If it rains, I'll stay in.", "vi": "Chắc chắn" },
+            { "en": "If it rains, I'll definitely stay in.", "vi": "Rất chắc chắn" },
+            { "en": "Whatever happens, I'll stay in.", "vi": "Mạnh nhất — không điều kiện nào đổi được" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Điều kiện loại một xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 97, "why": "If + hiện tại, I'll + V — khung chính, có đủ unless, when và bảng mức độ chắc chắn." },
+            { "id": 91, "why": "I'm going to + V — vế kết quả hay dùng will, so sánh với going to." },
+            { "id": 92, "why": "I'm + V-ing — luật bảy từ nối dùng hiện tại chỉ tương lai." },
+            { "id": 87, "why": "I'm worried… — mẫu What if…? và cách nêu phương án phòng hờ." },
+            { "id": 57, "why": "It depends on… — cách nói điều kiện mềm hơn, không cần cấu trúc if đầy đủ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ trong ngoặc" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Nếu trời mưa, tôi sẽ đi taxi.", "blank": "If it __________ (rain), I'll take a taxi.", "a": "rains — hiện tại đơn" },
+            { "vi": "Nếu có thời gian tôi sẽ gọi bạn.", "blank": "If I __________ (have) time, I'll call you.", "a": "have" },
+            { "vi": "Nếu trời mưa, tôi sẽ đi taxi.", "blank": "If it rains, I __________ (take) a taxi.", "a": "will take" },
+            { "vi": "Nếu đun nước thì nước sôi.", "blank": "If you heat water, it __________ (boil).", "a": "boils — loại 0" },
+            { "vi": "Khi gặp anh ấy tôi sẽ nói.", "blank": "When I __________ (see) him, I'll tell him.", "a": "see" },
+            { "vi": "Nếu không đặt trước, bạn sẽ không có bàn.", "blank": "If you don't book, you __________ (not get) a table.", "a": "won't get" },
+            { "vi": "Lỡ trời mưa thì sao?", "blank": "What if it __________ (rain)?", "a": "rains" },
+            { "vi": "Đến nơi là tôi gọi ngay.", "blank": "I'll call as soon as I __________ (get) there.", "a": "get" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn từ nối đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Trừ khi trời mưa, tôi sẽ đi bộ.", "blank": "__________ it rains, I'll walk.  (Unless / If)", "a": "Unless" },
+            { "vi": "Khi gặp anh ấy (chắc chắn gặp), tôi sẽ nói.", "blank": "__________ I see him, I'll tell him.  (If / When)", "a": "When" },
+            { "vi": "Trừ khi trời mưa, tôi sẽ đi bộ.", "blank": "Unless it __________, I'll walk.  (rains / doesn't rain)", "a": "rains — unless đã là phủ định" },
+            { "vi": "Nếu trời mưa, tôi sẽ đi taxi.", "blank": "If it rains__________ I'll take a taxi.  (dấu phẩy / không)", "a": "có dấu phẩy — vế if đứng trước" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Nếu trời mưa, tôi sẽ đi taxi.", "a": "If it rains, I'll take a taxi." },
+            { "vi": "2. Nếu có thời gian, hôm nay tôi sẽ xem.", "a": "If I have time, I'll look at it today." },
+            { "vi": "3. Trừ khi trời mưa, tôi sẽ đi bộ.", "a": "Unless it rains, I'll walk." },
+            { "vi": "4. Có gì thay đổi tôi sẽ báo bạn.", "a": "If anything changes, I'll let you know." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Quy tắc vàng:</b> sau <i>if</i> KHÔNG BAO GIỜ có <i>will</i>. Tương lai chỉ được đánh dấu một lần, ở vế chính.",
+            "<b>Luật này áp dụng cho bảy từ nối:</b> <i>if, when, unless, as soon as, before, after, until</i>. Nhớ một là xong cả bảy.",
+            "<b><i>unless</i> đã là phủ định rồi</b> — không thêm <i>don't</i> vào sau nó nữa.",
+            "<b>Chọn <i>if</i> hay <i>when</i> theo mức chắc chắn:</b> <i>if</i> = chưa chắc, <i>when</i> = chắc chắn xảy ra.",
+            "<b>Vế <i>if</i> đứng trước thì có dấu phẩy</b>, đứng sau thì không. Một chi tiết nhỏ nhưng làm câu viết chuẩn hẳn.",
+            "<b>Bài tập 3 phút:</b> viết năm phương án dự phòng cho tuần này — ba câu với <i>if</i>, một câu với <i>unless</i>, một câu với <i>when</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

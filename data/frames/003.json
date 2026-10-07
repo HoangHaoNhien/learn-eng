@@ -1,0 +1,496 @@
+{
+  "id": 3,
+  "group": "Nhóm 1 · Mong muốn & Nhu cầu",
+  "title": "I need to… — Nói ra điều bắt buộc phải làm",
+  "subtitle": "Khung này không nói về sở thích mà về sự cần thiết. Đó là lý do nó có sức nặng: khi bạn nói “I need to”, người nghe hiểu rằng việc đó không thể bỏ qua — nên đừng dùng cho những chuyện chỉ đơn giản là bạn thích.",
+  "pattern": [
+    "I need <em>+ to V</em>",
+    "I need <em>+ danh từ</em>",
+    "I need <em>+ ai đó + to V</em>"
+  ],
+  "meaning": "Tôi cần… (bắt buộc, thiết yếu — không phải mong muốn)",
+  "grammar": [24, 31],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Nói & viết đều dùng được" },
+    { "text": "Trình độ: A1–A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">want</span> là <b>muốn</b>, <span class=\"k\">need</span> là <b>cần</b>. Tiếng Việt dùng chữ “cần” khá thoải mái, nhưng trong tiếng Anh <i>need</i> mang nghĩa mạnh: nếu không có hoặc không làm thì <b>sẽ có hậu quả</b>." },
+        { "t": "p", "html": "Vì vậy <i>I need a coffee</i> nghe như “không có cà phê là tôi không sống nổi” — đúng khi bạn thật sự kiệt sức, nhưng thành phóng đại nếu bạn chỉ thèm. Người bản xứ trong trường hợp đó thường nói <span class=\"k\">I could use a coffee</span> hoặc <span class=\"k\">I could really do with a coffee</span>." },
+        { "t": "p", "html": "Ngược lại, khi có lý do chính đáng thì <i>I need to…</i> lại là công cụ xin phép hiệu quả nhất, vì người nghe rất khó từ chối một nhu cầu thật. Đây là lý do bạn nên <b>tiết kiệm</b> khung này: dùng càng ít, mỗi lần dùng càng có trọng lượng." },
+        { "t": "callout", "html": "<b>Điểm mấu chốt:</b> <i>need</i> là lá bài mạnh. Ai cũng nói <i>I need</i> cho mọi chuyện thì chẳng còn ai tin nữa. Hãy để dành nó cho những việc thật sự không thể bỏ qua." },
+        { "t": "h3", "text": "Bốn mức độ cần thiết" },
+        {
+          "t": "table",
+          "head": ["Câu", "Mức độ", "Người nghe hiểu là"],
+          "rows": [
+            ["<code>I'd like to leave early.</code>", "Mong muốn", "Bạn thích vậy — có thể từ chối"],
+            ["<code>I need to leave early.</code>", "Cần thiết", "Có lý do thật — khó từ chối"],
+            ["<code>I have to leave early.</code>", "Bắt buộc từ bên ngoài", "Hoàn cảnh ép buộc, không phải bạn chọn"],
+            ["<code>I must leave early.</code>", "Bắt buộc từ chính mình", "Trang trọng, ít dùng khi nói"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🏥", "title": "Việc khẩn, sức khỏe", "text": "<i>I need to see a doctor.</i> Đây là lúc <i>need</i> phát huy đúng sức mạnh của nó." },
+            { "icon": "💼", "title": "Xin phép có lý do", "text": "<i>I need to leave at four — my daughter is sick.</i> Nhu cầu kèm lý do ngắn là cách xin phép hiệu quả nhất." },
+            { "icon": "📋", "title": "Giải thích thứ tự ưu tiên", "text": "<i>I need to finish the report first.</i> Cách từ chối việc mới mà không làm mất lòng ai." },
+            { "icon": "🛒", "title": "Mua sắm, tìm đồ", "text": "<i>I need a charger for this phone.</i> Nói rõ mục đích để nhân viên tư vấn đúng loại." },
+            { "icon": "⏸", "title": "Câu giờ khi chưa quyết", "text": "<i>I need to check with my manager first.</i> Câu cứu nguy trong mọi cuộc thương lượng." },
+            { "icon": "🤝", "title": "Giao việc rõ ràng", "text": "<i>I need you to sign this before I send it.</i> Rõ ràng mà không thành ra ra lệnh, nhờ có vế lý do." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Khẳng định + danh từ", "<code>I need + N</code>", "I need a new laptop."],
+            ["Khẳng định + động từ", "<code>I need to + V</code>", "I need to finish this today."],
+            ["Cần người khác làm", "<code>I need + O + to V</code>", "I need you to sign this."],
+            ["Phủ định", "<code>I don't need to + V</code>", "I don't need to be there in person."],
+            ["Nói người khác khỏi cần", "<code>You don't need to + V</code>", "You don't need to wait for me."],
+            ["Câu hỏi", "<code>Do you need + N / to V?</code>", "Do you need any help?"],
+            ["Nhấn mạnh số lượng", "<code>All I need is + N</code>", "All I need is ten minutes."],
+            ["Vật cần được làm gì", "<code>N + needs + V-ing</code>", "This report needs checking."],
+            ["Quá khứ", "<code>I needed to + V</code>", "I needed to call you, sorry."],
+            ["Trang trọng khi viết", "<code>We will need + N</code>", "We will need your confirmation by Friday."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Bẫy phủ định quan trọng:</b> <span class=\"k\">You don't need to</span> = bạn không cần (nhưng cứ tự nhiên). <span class=\"k\">You mustn't</span> = bạn không được phép. Hai câu này khác nhau hoàn toàn — nhầm là gây hiểu lầm nghiêm trọng." },
+        { "t": "callout", "html": "<b>Cấu trúc lạ mà rất hay dùng:</b> <span class=\"k\">N + needs + V-ing</span> mang nghĩa bị động. <i>This report needs checking</i> = báo cáo này cần được kiểm tra. Anh-Mỹ hay nói <i>needs to be checked</i>." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “I need to…”",
+              "items": [
+                { "w": "finish", "vi": "hoàn thành", "ex": "I need to finish this before lunch.", "exvi": "Tôi cần làm xong cái này trước bữa trưa." },
+                { "w": "leave", "vi": "rời đi", "ex": "I need to leave in ten minutes.", "exvi": "Mười phút nữa tôi phải đi." },
+                { "w": "check", "vi": "kiểm tra", "ex": "I need to check with my manager first.", "exvi": "Tôi cần hỏi ý quản lý trước đã.", "note": "<i>check with + ai</i> = hỏi ý ai đó. Câu cực hữu dụng để câu giờ." },
+                { "w": "talk", "vi": "nói chuyện", "ex": "I need to talk to you about the budget.", "exvi": "Tôi cần nói chuyện với bạn về ngân sách." },
+                { "w": "know", "vi": "biết", "ex": "I need to know by Friday.", "exvi": "Tôi cần biết câu trả lời trước thứ Sáu." },
+                { "w": "see", "vi": "gặp / khám", "ex": "I think I need to see a doctor.", "exvi": "Chắc tôi cần đi khám bác sĩ." },
+                { "w": "book", "vi": "đặt chỗ", "ex": "I need to book a flight for Monday.", "exvi": "Tôi cần đặt vé máy bay cho thứ Hai." },
+                { "w": "practise", "vi": "luyện tập", "ex": "I need to practise speaking more.", "exvi": "Tôi cần luyện nói nhiều hơn.", "note": "Anh-Anh viết <i>practise</i> cho động từ, Anh-Mỹ viết <i>practice</i> cho cả hai từ loại." },
+                { "w": "get", "vi": "lấy / mua", "ex": "I need to get some cash before we go.", "exvi": "Tôi cần rút ít tiền mặt trước khi đi." },
+                { "w": "think about", "vi": "suy nghĩ về", "ex": "I need to think about it.", "exvi": "Tôi cần suy nghĩ thêm.", "note": "Cách từ chối khéo mà không đóng cửa hẳn." },
+                { "w": "send", "vi": "gửi", "ex": "I need to send this before six.", "exvi": "Tôi cần gửi cái này trước 6 giờ." },
+                { "w": "call", "vi": "gọi điện", "ex": "I need to call the bank about this.", "exvi": "Tôi cần gọi cho ngân hàng về việc này." },
+                { "w": "ask", "vi": "hỏi", "ex": "I need to ask you one more thing.", "exvi": "Tôi cần hỏi bạn thêm một điều nữa." },
+                { "w": "find", "vi": "tìm", "ex": "I need to find a new place to live.", "exvi": "Tôi cần tìm chỗ ở mới." },
+                { "w": "fix", "vi": "sửa", "ex": "I need to fix this bug before the demo.", "exvi": "Tôi cần sửa lỗi này trước buổi demo." },
+                { "w": "rest", "vi": "nghỉ ngơi", "ex": "I need to rest for a bit.", "exvi": "Tôi cần nghỉ một lát." },
+                { "w": "confirm", "vi": "xác nhận", "ex": "I need to confirm the time with the client.", "exvi": "Tôi cần xác nhận giờ giấc với khách hàng." },
+                { "w": "print", "vi": "in", "ex": "I need to print two copies of this.", "exvi": "Tôi cần in cái này hai bản." },
+                { "w": "sign", "vi": "ký", "ex": "I need to sign the contract today.", "exvi": "Hôm nay tôi cần ký hợp đồng." },
+                { "w": "catch up on", "vi": "làm bù, cập nhật lại", "ex": "I need to catch up on my emails.", "exvi": "Tôi cần xử lý nốt đống email tồn.", "note": "<i>catch up on + việc tồn đọng</i> — cụm rất hay dùng ở công sở." }
+              ]
+            },
+            {
+              "title": "Danh từ thường theo sau “I need…”",
+              "items": [
+                { "w": "some help", "vi": "chút giúp đỡ", "ex": "I need some help with this form.", "exvi": "Tôi cần giúp một chút với cái đơn này." },
+                { "w": "more time", "vi": "thêm thời gian", "ex": "I need more time to finish it properly.", "exvi": "Tôi cần thêm thời gian để làm cho tử tế." },
+                { "w": "a charger", "vi": "cục sạc", "ex": "I need a charger for this phone.", "exvi": "Tôi cần một cục sạc cho cái điện thoại này." },
+                { "w": "a receipt", "vi": "biên lai", "ex": "I need a receipt for my company.", "exvi": "Tôi cần biên lai để thanh toán với công ty." },
+                { "w": "a day off", "vi": "một ngày nghỉ", "ex": "I need a day off next week.", "exvi": "Tuần sau tôi cần nghỉ một ngày." },
+                { "w": "your signature", "vi": "chữ ký của bạn", "ex": "I just need your signature here.", "exvi": "Tôi chỉ cần bạn ký vào đây thôi." },
+                { "w": "a break", "vi": "một lúc nghỉ", "ex": "I need a break — I've been at this for three hours.", "exvi": "Tôi cần nghỉ một lát — tôi làm cái này ba tiếng rồi." },
+                { "w": "a hand", "vi": "một tay giúp", "ex": "I need a hand moving this table.", "exvi": "Tôi cần một người phụ khiêng cái bàn này.", "note": "<i>need a hand</i> = cần người phụ. Rất tự nhiên và thân thiện." },
+                { "w": "the wifi password", "vi": "mật khẩu wifi", "ex": "I need the wifi password, please.", "exvi": "Cho tôi xin mật khẩu wifi ạ." },
+                { "w": "an update", "vi": "thông tin cập nhật", "ex": "I need an update on the project by Thursday.", "exvi": "Tôi cần cập nhật tình hình dự án trước thứ Năm." }
+              ]
+            },
+            {
+              "title": "Biến thể & cụm hay gặp",
+              "items": [
+                { "w": "I don't need to…", "vi": "tôi không cần…", "ex": "I don't need to be there in person.", "exvi": "Tôi không cần phải có mặt trực tiếp." },
+                { "w": "You don't need to…", "vi": "bạn khỏi cần…", "ex": "You don't need to wait for me.", "exvi": "Bạn khỏi cần chờ tôi đâu.", "note": "Khác hẳn <i>You mustn't</i> (cấm). Nhầm là gây hiểu lầm nặng." },
+                { "w": "All I need is…", "vi": "tất cả tôi cần là…", "ex": "All I need is ten minutes of your time.", "exvi": "Tất cả tôi cần là mười phút của bạn.", "note": "Cách xin thời gian khiến người ta khó từ chối. Xem [Khung 10]." },
+                { "w": "needs + V-ing", "vi": "cần được… (bị động)", "ex": "This report needs checking before we send it.", "exvi": "Báo cáo này cần được kiểm tra trước khi gửi.", "note": "Anh-Mỹ hay nói <i>needs to be checked</i>. Cả hai đều đúng." },
+                { "w": "I needed to…", "vi": "tôi đã cần… (quá khứ)", "ex": "I needed to call you yesterday, sorry.", "exvi": "Hôm qua tôi cần gọi cho bạn, xin lỗi nhé." },
+                { "w": "Do you need…?", "vi": "bạn có cần… không?", "ex": "Do you need a hand with that?", "exvi": "Bạn có cần phụ một tay không?", "note": "Cách đề nghị giúp tự nhiên nhất, nhẹ hơn <i>Can I help you?</i>" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết. Học trọn một lượt nói chứ không chỉ một câu lẻ." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I need to leave at four today — my daughter is sick.",
+                  "vi": "Hôm nay tôi cần về lúc 4 giờ — con gái tôi bị ốm.",
+                  "note": "Công thức xin phép hiệu quả nhất: <b>nhu cầu + lý do ngắn</b>. Không cần xin lỗi dài dòng.",
+                  "open": { "en": "Sorry to catch you quickly —", "vi": "Xin lỗi làm phiền anh/chị một chút —" },
+                  "reply": [
+                    { "them": "Of course, go ahead.", "themvi": "Tất nhiên rồi, em cứ về đi.", "you": "Thank you. I'll finish the rest tonight.", "youvi": "Cảm ơn anh/chị. Phần còn lại em làm buổi tối." },
+                    { "them": "Will the report still be ready?", "themvi": "Báo cáo vẫn kịp chứ?", "you": "Yes, I just need an hour this evening.", "youvi": "Vâng, em chỉ cần một tiếng buổi tối là xong." }
+                  ],
+                  "close": { "en": "Thanks for understanding.", "vi": "Cảm ơn anh/chị đã thông cảm." }
+                },
+                {
+                  "en": "I need to check with my manager first.",
+                  "vi": "Tôi cần hỏi ý quản lý trước đã.",
+                  "note": "Câu câu giờ lịch sự nhất khi bạn chưa muốn trả lời ngay. Không ai bắt bẻ được.",
+                  "reply": [
+                    { "them": "Sure. When can you let me know?", "themvi": "Vâng. Khi nào anh/chị báo lại được ạ?", "you": "By tomorrow morning.", "youvi": "Trước sáng mai." },
+                    { "them": "We'd really like an answer today.", "themvi": "Bên em rất mong có câu trả lời hôm nay.", "you": "I understand. I'll try to get back to you by five.", "youvi": "Tôi hiểu. Tôi sẽ cố phản hồi trước 5 giờ." }
+                  ],
+                  "vars": [
+                    { "en": "I need to check the numbers first.", "vi": "Tôi cần kiểm tra lại số liệu trước đã." },
+                    { "en": "I need to check my calendar.", "vi": "Tôi cần xem lại lịch của mình." }
+                  ]
+                },
+                {
+                  "en": "I need you to sign this before I send it.",
+                  "vi": "Tôi cần bạn ký cái này trước khi tôi gửi đi.",
+                  "note": "Dạng <span class=\"k\">I need + ai + to V</span>. Vế lý do ở sau làm câu rõ ràng mà không thành ra ra lệnh.",
+                  "reply": [
+                    { "them": "Sure, give me two minutes.", "themvi": "Được, cho tôi hai phút.", "you": "No rush.", "youvi": "Không vội đâu ạ." }
+                  ],
+                  "vars": [
+                    { "en": "I need you to review this by Thursday.", "vi": "Tôi cần bạn xem lại cái này trước thứ Năm." },
+                    { "en": "I need everyone to be there by nine.", "vi": "Tôi cần mọi người có mặt trước 9 giờ." }
+                  ]
+                },
+                {
+                  "en": "I need to finish the report first, then I can help.",
+                  "vi": "Tôi cần làm xong báo cáo đã, rồi tôi giúp bạn được.",
+                  "note": "Cách từ chối tạm thời hay nhất: không nói “không”, mà nói <b>thứ tự ưu tiên</b>.",
+                  "reply": [
+                    { "them": "How long will that take?", "themvi": "Việc đó mất bao lâu?", "you": "About an hour.", "youvi": "Khoảng một tiếng." }
+                  ],
+                  "close": { "en": "I'll come find you when I'm done.", "vi": "Xong tôi sẽ qua tìm bạn." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I need a charger for this phone.",
+                  "vi": "Tôi cần một cục sạc cho cái điện thoại này.",
+                  "note": "Đưa máy ra cùng lúc nói — nhân viên sẽ tư vấn đúng loại ngay.",
+                  "open": { "en": "Excuse me, could you help me?", "vi": "Xin lỗi, bạn giúp tôi một chút được không?" },
+                  "reply": [
+                    { "them": "Sure. Is it USB-C?", "themvi": "Vâng. Cổng USB-C phải không ạ?", "you": "Yes, I think so.", "youvi": "Vâng, tôi nghĩ vậy." },
+                    { "them": "We have two types. Fast charging or standard?", "themvi": "Bên em có hai loại. Sạc nhanh hay sạc thường ạ?", "you": "Fast charging, please.", "youvi": "Cho tôi loại sạc nhanh ạ." }
+                  ]
+                },
+                {
+                  "en": "I need a receipt for my company, please.",
+                  "vi": "Cho tôi xin biên lai để thanh toán với công ty ạ.",
+                  "reply": [
+                    { "them": "Do you need a VAT invoice?", "themvi": "Anh/chị có cần hóa đơn đỏ không ạ?", "you": "Yes, please. Here's the company name.", "youvi": "Có ạ. Đây là tên công ty." }
+                  ],
+                  "close": { "en": "Thanks a lot.", "vi": "Cảm ơn bạn nhiều." }
+                },
+                {
+                  "en": "I need to think about it. Thanks for your help.",
+                  "vi": "Tôi cần suy nghĩ thêm. Cảm ơn bạn đã tư vấn.",
+                  "note": "Cách rời khỏi cửa hàng mà không mất lòng ai khi bạn chưa muốn mua.",
+                  "reply": [
+                    { "them": "No problem. Take your time.", "themvi": "Không sao ạ. Anh/chị cứ thong thả.", "you": "Thanks, I'll come back.", "youvi": "Cảm ơn, tôi sẽ quay lại." }
+                  ]
+                },
+                {
+                  "en": "I don't need a bag, thanks.",
+                  "vi": "Tôi không cần túi đâu, cảm ơn.",
+                  "note": "Câu ngắn dùng hằng ngày ở quầy thanh toán.",
+                  "reply": [
+                    { "them": "No problem. Here's your change.", "themvi": "Vâng ạ. Đây là tiền thối của anh/chị.", "you": "Thank you.", "youvi": "Cảm ơn bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I need to change my booking to Sunday.",
+                  "vi": "Tôi cần đổi lịch đặt sang Chủ nhật.",
+                  "reply": [
+                    { "them": "Let me check availability.", "themvi": "Để em kiểm tra chỗ trống ạ.", "you": "Thank you.", "youvi": "Cảm ơn bạn." },
+                    { "them": "There's a small fee for that.", "themvi": "Có một khoản phí nhỏ ạ.", "you": "That's fine. Go ahead.", "youvi": "Không sao ạ. Bạn làm giúp tôi." }
+                  ],
+                  "close": { "en": "Could you send me the new confirmation?", "vi": "Bạn gửi lại xác nhận mới cho tôi nhé?" }
+                },
+                {
+                  "en": "I think I need to see a doctor.",
+                  "vi": "Chắc tôi cần đi khám bác sĩ.",
+                  "note": "<b>I think</b> ở đầu làm câu bớt hoảng loạn khi bạn chưa chắc chắn tình hình.",
+                  "open": { "en": "Sorry, I'm not feeling well.", "vi": "Xin lỗi, tôi thấy không khỏe." },
+                  "reply": [
+                    { "them": "There's a clinic two blocks away.", "themvi": "Có phòng khám cách đây hai dãy nhà ạ.", "you": "Could you write down the address?", "youvi": "Bạn ghi giúp tôi địa chỉ được không?" }
+                  ]
+                },
+                {
+                  "en": "I need some help with this form.",
+                  "vi": "Tôi cần giúp một chút với cái đơn này.",
+                  "reply": [
+                    { "them": "Which part are you stuck on?", "themvi": "Anh/chị vướng ở phần nào ạ?", "you": "This section here.", "youvi": "Phần này đây ạ." }
+                  ]
+                },
+                {
+                  "en": "I need the wifi password, please.",
+                  "vi": "Cho tôi xin mật khẩu wifi ạ.",
+                  "reply": [
+                    { "them": "It's on the back of your key card.", "themvi": "Nó ở mặt sau thẻ phòng của anh/chị ạ.", "you": "Oh, found it. Thanks!", "youvi": "À, thấy rồi. Cảm ơn bạn!" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I need a break. I've been at this for three hours.",
+                  "vi": "Tôi cần nghỉ một lát. Tôi làm cái này ba tiếng rồi.",
+                  "reply": [
+                    { "them": "Go on, take twenty minutes.", "themvi": "Cứ đi đi, nghỉ hai mươi phút.", "you": "Thanks, I'll be right back.", "youvi": "Cảm ơn, tôi quay lại ngay." }
+                  ]
+                },
+                {
+                  "en": "I need a hand moving this table.",
+                  "vi": "Tôi cần một người phụ khiêng cái bàn này.",
+                  "note": "<span class=\"k\">need a hand + V-ing</span> — cách nhờ vả thân thiện và tự nhiên nhất.",
+                  "reply": [
+                    { "them": "Sure, where are we taking it?", "themvi": "Được chứ, khiêng đi đâu?", "you": "Just over to the window.", "youvi": "Sang chỗ cửa sổ thôi." }
+                  ]
+                },
+                {
+                  "en": "You don't need to wait for me — go ahead.",
+                  "vi": "Bạn khỏi cần chờ tôi đâu — cứ đi trước đi.",
+                  "note": "Nhớ kỹ: <b>don't need to</b> là “khỏi cần”, còn <b>mustn't</b> là “cấm”.",
+                  "reply": [
+                    { "them": "Are you sure?", "themvi": "Bạn chắc chứ?", "you": "Yes, I'll catch up with you later.", "youvi": "Chắc, lát nữa tôi đuổi theo sau." }
+                  ]
+                },
+                {
+                  "en": "I need to find a new place to live.",
+                  "vi": "Tôi cần tìm chỗ ở mới.",
+                  "reply": [
+                    { "them": "What area are you looking at?", "themvi": "Bạn đang nhắm khu nào?", "you": "Somewhere near the office.", "youvi": "Chỗ nào gần văn phòng ấy." }
+                  ],
+                  "close": { "en": "Let me know if you hear of anything.", "vi": "Bạn nghe ngóng được gì thì báo mình nhé." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I need to see the menu again, please.",
+                  "vi": "Cho tôi xem lại thực đơn ạ.",
+                  "reply": [
+                    { "them": "Of course, here you are.", "themvi": "Vâng ạ, đây ạ.", "you": "Thank you.", "youvi": "Cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "I need a few more minutes to decide.",
+                  "vi": "Tôi cần thêm vài phút để quyết định.",
+                  "note": "Câu cứu nguy khi nhân viên tới hỏi mà bạn chưa chọn xong món.",
+                  "reply": [
+                    { "them": "No problem, I'll come back.", "themvi": "Không sao ạ, lát em quay lại.", "you": "Thank you.", "youvi": "Cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "I need something without peanuts — I'm allergic.",
+                  "vi": "Tôi cần món nào không có đậu phộng — tôi bị dị ứng.",
+                  "note": "Đây là lúc <i>need</i> hoàn toàn đúng chỗ: có hậu quả thật nếu không được đáp ứng.",
+                  "reply": [
+                    { "them": "I'll check with the kitchen.", "themvi": "Để em hỏi bếp ạ.", "you": "Thank you, I really appreciate it.", "youvi": "Cảm ơn bạn nhiều, tôi rất cảm kích." }
+                  ],
+                  "close": { "en": "Thanks for checking.", "vi": "Cảm ơn bạn đã kiểm tra giúp." }
+                },
+                {
+                  "en": "Do you need a hand with the dishes?",
+                  "vi": "Bạn có cần phụ rửa bát không?",
+                  "note": "Cách đề nghị giúp tự nhiên nhất khi ở nhà người khác.",
+                  "reply": [
+                    { "them": "No, you're fine. Sit down!", "themvi": "Không, bạn cứ ngồi đi!", "you": "Are you sure? Thanks.", "youvi": "Bạn chắc chứ? Cảm ơn nhé." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Xin về sớm ở văn phòng",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Anh, do you have a second?", "vi": "Anh ơi, anh rảnh một chút không ạ?" },
+            { "speaker": "Manager", "en": "Sure, what's up?", "vi": "Có chứ, chuyện gì vậy?" },
+            { "speaker": "You", "me": true, "en": "I need to leave at four today. My daughter is sick.", "vi": "Hôm nay em cần về lúc 4 giờ. Con gái em bị ốm ạ." },
+            { "speaker": "Manager", "en": "Of course. Is the report going to be OK?", "vi": "Tất nhiên rồi. Báo cáo có kịp không?" },
+            { "speaker": "You", "me": true, "en": "Yes — I just need an hour tonight to finish it.", "vi": "Kịp ạ — em chỉ cần một tiếng buổi tối là xong." },
+            { "speaker": "Manager", "en": "That works. Hope she feels better.", "vi": "Vậy được. Chúc bé chóng khỏe." },
+            { "speaker": "You", "me": true, "en": "Thank you. I really appreciate it.", "vi": "Em cảm ơn anh. Em rất cảm kích ạ." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Bị ép trả lời ngay trong cuộc gọi với đối tác",
+          "lines": [
+            { "speaker": "Client", "en": "So, can you start next Monday?", "vi": "Vậy bên anh bắt đầu thứ Hai tới được chứ?" },
+            { "speaker": "You", "me": true, "en": "I need to check with my manager first.", "vi": "Tôi cần hỏi ý quản lý trước đã." },
+            { "speaker": "Client", "en": "We'd really like an answer today.", "vi": "Bên em rất mong có câu trả lời hôm nay." },
+            { "speaker": "You", "me": true, "en": "I understand. I need about two hours — I'll call you back by five.", "vi": "Tôi hiểu. Tôi cần khoảng hai tiếng — tôi sẽ gọi lại trước 5 giờ." },
+            { "speaker": "Client", "en": "That's fine. Thanks.", "vi": "Vậy được ạ. Cảm ơn anh." },
+            { "speaker": "You", "me": true, "en": "One more thing — I need to know the exact start time.", "vi": "Còn một điều nữa — tôi cần biết giờ bắt đầu chính xác." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I need go to the bank.", "right": "I need to go to the bank.", "why": "Sau <b>need</b> phải có <b>to</b> khi đi với động từ." },
+            { "wrong": "I need that you help me.", "right": "I need you to help me.", "why": "Công thức là <b>need + ai + to V</b>, không dùng mệnh đề “that”." },
+            { "wrong": "You mustn't wait for me. <i>(ý: khỏi cần chờ)</i>", "right": "You don't need to wait for me.", "why": "<b>mustn't</b> = cấm. Muốn nói “không cần” thì dùng <b>don't need to</b> hoặc <b>don't have to</b>." },
+            { "wrong": "I am needing more time.", "right": "I need more time.", "why": "<b>need</b> là động từ chỉ trạng thái — không dùng thì tiếp diễn." },
+            { "wrong": "I need a coffee. <i>(chỉ vì thèm)</i>", "right": "I could use a coffee.", "why": "Dùng <i>need</i> cho chuyện nhỏ làm mất sức nặng của từ này." },
+            { "wrong": "This report needs to check.", "right": "This report needs checking. / needs to be checked.", "why": "Khi vật là chủ ngữ thì phải dùng <b>V-ing</b> hoặc dạng bị động — vì báo cáo không tự kiểm tra được." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I need to…</code>", "Cần thiết, có hậu quả nếu không làm", "<i>I need to see a doctor.</i>"],
+            ["<code>I have to…</code>", "Bắt buộc từ bên ngoài (quy định, hoàn cảnh)", "<i>I have to wear a uniform.</i> — Không phải bạn chọn."],
+            ["<code>I've got to…</code>", "Như <i>have to</i> nhưng rất thân mật khi nói", "<i>I've got to run.</i> — Cách xin phép đi gấp giữa bạn bè."],
+            ["<code>I must…</code>", "Bắt buộc từ chính mình, trang trọng", "<i>I must remember to call her.</i> — Ít dùng khi nói."],
+            ["<code>I should…</code>", "Nên — lời khuyên, nhẹ hơn nhiều", "<i>I should call her back.</i> — Xem [Khung 38]."],
+            ["<code>I want to…</code>", "Muốn — không có sự cần thiết", "<i>I want to see a doctor.</i> — Xem [Khung 02]."],
+            ["<code>I could use…</code>", "Rất thân mật: “có thì hay quá”", "<i>I could use a coffee.</i> — Thay cho <i>need</i> khi chuyện nhỏ."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — cùng một việc" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'd like to leave early.", "vi": "Muốn — có thể từ chối" },
+            { "en": "I need to leave early.", "vi": "Cần — có lý do thật" },
+            { "en": "I have to leave early.", "vi": "Buộc phải — hoàn cảnh ép" },
+            { "en": "I've got to run, sorry.", "vi": "Gấp — thân mật" },
+            { "en": "I'm afraid I can't stay.", "vi": "Thông báo — hết thương lượng" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>need</b> = /niːd/ — nguyên âm <b>dài</b>. Đọc ngắn thành /nɪd/ thì người nghe phải đoán nghĩa.",
+            "<b>need to</b> khi nói nhanh: âm /d/ nuốt vào /t/, nghe thành <b>“nee-tə”</b> — gần như mất hẳn chữ d.",
+            "<b>don't need to</b> → “dohn-NEE-tə”, cả cụm đọc liền một hơi, âm /t/ ở <i>don't</i> biến mất.",
+            "<b>needed</b> = /ˈniːdɪd/ — hai âm tiết, đuôi <i>-ed</i> đọc rõ thành “id” vì đứng sau /d/.",
+            "<b>need a</b> nối thành “NEE-də”: <i>I need a hand</i> → “ai-NEE-də-hand”.",
+            "Trọng âm rơi vào <b>need</b> và động từ chính: <i>I</i> <b>NEED</b> <i>to</i> <b>LEAVE</b> <i>at four.</i>"
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I need to check with my manager first.", "vi": "Luyện shadowing: nghe — nhại lại — lặp 5 lần cho trôi cụm “need to”." },
+            { "en": "You don't need to wait for me.", "vi": "Chú ý cụm “don't need to” nói liền, đừng tách từng từ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi cần làm xong cái này trước bữa trưa.", "blank": "__________ this before lunch.", "a": "I need to finish" },
+            { "vi": "Tôi cần bạn ký vào đây.", "blank": "__________ sign here.", "a": "I need you to" },
+            { "vi": "Bạn không cần phải chờ tôi đâu.", "blank": "__________ wait for me.", "a": "You don't need to" },
+            { "vi": "Tôi cần hỏi ý quản lý trước đã.", "blank": "__________ with my manager first.", "a": "I need to check" },
+            { "vi": "Bạn có cần giúp gì không?", "blank": "__________ any help?", "a": "Do you need" },
+            { "vi": "Tất cả những gì tôi cần là mười phút.", "blank": "__________ ten minutes.", "a": "All I need is" },
+            { "vi": "Báo cáo này cần được kiểm tra.", "blank": "This report __________.", "a": "needs checking (hoặc needs to be checked)" },
+            { "vi": "Tôi cần một người phụ khiêng cái bàn này.", "blank": "__________ moving this table.", "a": "I need a hand" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Mười phút nữa tôi phải đi.", "a": "I need to leave in ten minutes." },
+            { "vi": "2. Tôi cần biết câu trả lời trước thứ Sáu.", "a": "I need to know by Friday." },
+            { "vi": "3. Tuần sau tôi cần nghỉ một ngày.", "a": "I need a day off next week." },
+            { "vi": "4. Tôi cần suy nghĩ thêm.", "a": "I need to think about it." },
+            { "vi": "5. Tôi cần món nào không có đậu phộng — tôi bị dị ứng.", "a": "I need something without peanuts — I'm allergic." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Phép thử “nếu không thì sao”:</b> trước khi nói <i>I need</i>, tự hỏi “không có thì có hậu quả gì không?”. Không có hậu quả thì dùng <i>I'd like</i> hoặc <i>I could use</i>.",
+            "<b>Luôn kèm lý do khi xin phép:</b> <i>I need to leave at four — my daughter is sick.</i> Một vế lý do ngắn hiệu quả hơn ba câu xin lỗi.",
+            "<b>Học thuộc câu câu giờ:</b> <i>I need to check with my manager first.</i> Nó cứu bạn khỏi phải quyết định vội trong mọi cuộc thương lượng.",
+            "<b>Cẩn thận với phủ định:</b> nhớ kỹ <i>don't need to</i> (không cần) khác hẳn <i>mustn't</i> (không được phép).",
+            "<b>Dùng “need a hand” để nhờ vả:</b> nghe thân thiện hơn hẳn <i>I need help</i>, và người ta gần như luôn đồng ý.",
+            "<b>Bài tập 3 phút:</b> viết danh sách 5 việc bạn phải làm tuần này bằng <i>I need to…</i>, rồi đọc to từng câu và thêm một vế lý do cho mỗi câu."
+          ]
+        }
+      ]
+    }
+  ]
+}

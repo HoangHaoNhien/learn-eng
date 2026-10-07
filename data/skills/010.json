@@ -1,0 +1,864 @@
+{
+ "id": 10,
+ "group": "Nhóm 2 · Nghe — vì sao nghe không ra",
+ "title": "Rút gọn trong văn nói — gonna · wanna · I'd've",
+ "subtitle": "Dấu lược che giấu hai từ khác nhau: I'd có thể là I had hoặc I would, he's có thể là he is hoặc he has. Phải nhìn từ ĐỨNG SAU mới biết — và đoán sai là hiểu lệch cả thì của câu.",
+ "meaning": "Nhận ra các dạng rút gọn khi nghe và khi đọc",
+ "rule": [
+  "<em>'d</em> = <em>had</em> (+V3) hoặc <em>would</em> (+V trần)",
+  "<em>'s</em> = <em>is</em> (+V-ing/tính từ) hoặc <em>has</em> (+V3)",
+  "<em>gonna · wanna · shoulda</em> chỉ có trong <em>lời nói</em>"
+ ],
+ "tags": [
+  {
+   "text": "Mức độ: then chốt cho nghe",
+   "hot": true
+  },
+  {
+   "text": "I'd = I had hay I would?"
+  },
+  {
+   "text": "should of ✗"
+  },
+  {
+   "text": "Ảnh hưởng: lớn"
+  }
+ ],
+ "frames": [
+  1,
+  8,
+  91,
+  95,
+  98
+ ],
+ "sections": [
+  {
+   "title": "Quy tắc cốt lõi",
+   "blocks": [
+    {
+     "t": "p",
+     "html": "Rút gọn không chỉ là chuyện tiết kiệm chữ. Có hai dấu lược <b>mang hai nghĩa khác hẳn nhau</b>, và tiếng Anh không cho bạn manh mối nào ngoài <b>từ đứng ngay sau</b>."
+    },
+    {
+     "t": "callout",
+     "html": "<b>BẪY SỐ MỘT — một dấu lược, hai từ:</b><br>• <b>'d</b> = <b>had</b> hoặc <b>would</b><br>&nbsp;&nbsp;<i>I'<b>d</b> <u>seen</u> it</i> → V3 theo sau → <b>had</b> (quá khứ hoàn thành)<br>&nbsp;&nbsp;<i>I'<b>d</b> <u>see</u> it</i> → V trần theo sau → <b>would</b> (điều kiện)<br>• <b>'s</b> = <b>is</b> hoặc <b>has</b><br>&nbsp;&nbsp;<i>He'<b>s</b> <u>working</u></i> → V-ing → <b>is</b> · <i>He'<b>s</b> <u>worked</u></i> → V3 → <b>has</b><br><b>Luật gỡ:</b> nhìn <b>dạng động từ đứng sau</b>. Đoán sai là hiểu lệch cả thì của câu."
+    },
+    {
+     "t": "callout",
+     "html": "<b>BẪY SỐ HAI — viết ra dạng chỉ dùng khi nói:</b><br><i>I should <b>of</b> called</i> ✗ → <i>I should <b>have</b> called</i> ✓<br><i>I'm <b>gonna</b> send the report</i> ✗ trong email công việc<br>Dạng <b>gonna · wanna · gotta · shoulda</b> sinh ra từ dạng yếu [Kỹ năng 09] — chúng <b>chỉ tồn tại trong lời nói</b>. <i>should of</i> là hệ quả trực tiếp: nghe “shouldə” rồi viết theo âm.<br>Nghe thì cứ nghe, nhưng <b>viết ra thì luôn viết đủ</b>."
+    },
+    {
+     "t": "h3",
+     "text": "Bốn nhóm rút gọn"
+    },
+    {
+     "t": "table",
+     "head": [
+      "Nhóm",
+      "Ví dụ",
+      "Viết ra được không?"
+     ],
+     "rows": [
+      [
+       "Rút gọn chuẩn",
+       "I'm · he's · they're · can't",
+       "Được — kể cả văn trang trọng vừa"
+      ],
+      [
+       "Dấu lược hai nghĩa",
+       "I'd · he's · we've",
+       "Được, nhưng phải đọc kỹ từ sau"
+      ],
+      [
+       "Rút gọn kép",
+       "I'd've · wouldn't've",
+       "Chỉ nên nói, ít khi viết"
+      ],
+      [
+       "Dạng chỉ nói",
+       "gonna · wanna · gotta",
+       "<b>Không</b> — viết là <i>going to</i>…"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "html": "Hàng ba khá hiếm nhưng rất hay gặp trong phim: <i>I'<b>d've</b> called you</i> = <i>I would have called you</i> — ba từ nén thành một nhịp."
+    }
+   ]
+  },
+  {
+   "title": "Bảng chia đầy đủ",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "Rút gọn",
+      "Đầy đủ",
+      "Cách nhận ra"
+     ],
+     "rows": [
+      [
+       "<code>I'm</code>",
+       "I am",
+       "Chỉ một nghĩa"
+      ],
+      [
+       "<code>he's</code> + V-ing",
+       "he <b>is</b>",
+       "Theo sau là V-ing hoặc tính từ"
+      ],
+      [
+       "<code>he's</code> + V3",
+       "he <b>has</b>",
+       "Theo sau là V3"
+      ],
+      [
+       "<code>I'd</code> + V trần",
+       "I <b>would</b>",
+       "Theo sau là động từ trần"
+      ],
+      [
+       "<code>I'd</code> + V3",
+       "I <b>had</b>",
+       "Theo sau là V3"
+      ],
+      [
+       "<code>I'd better</code>",
+       "I <b>had</b> better",
+       "Cụm cố định, luôn là <i>had</i>"
+      ],
+      [
+       "<code>I'd rather</code>",
+       "I <b>would</b> rather",
+       "Cụm cố định, luôn là <i>would</i>"
+      ],
+      [
+       "<code>we've</code> / <code>they've</code>",
+       "we have / they have",
+       "Luôn + V3"
+      ],
+      [
+       "<code>I'd've</code>",
+       "I would have",
+       "Rút gọn kép, chỉ trong lời nói"
+      ],
+      [
+       "<code>gonna</code>",
+       "going to",
+       "Chỉ khi <i>going to</i> + động từ"
+      ],
+      [
+       "<code>wanna</code>",
+       "want to",
+       "Lời nói thân mật"
+      ],
+      [
+       "<code>gotta</code> / <code>shoulda</code>",
+       "got to / should have",
+       "Lời nói; <i>should of</i> ✗"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "html": "<b>Một bẫy nhỏ với <i>gonna</i>:</b> chỉ rút gọn khi <i>going to</i> đi với <b>động từ</b>.<br><i>I'm going to <b>call</b> her</i> → “gonna call her” ✓<br><i>I'm going to <b>London</b></i> → <b>không</b> rút gọn được — ở đây <i>to</i> là giới từ chỉ nơi chốn. Xem [Ngữ pháp 61]."
+    },
+    {
+     "t": "h3",
+     "text": "Mười hai ví dụ song ngữ"
+    },
+    {
+     "t": "ex",
+     "items": [
+      {
+       "en": "I'd seen it before.",
+       "vi": "Tôi đã xem nó trước đó rồi.",
+       "note": "BẪY SỐ MỘT: theo sau là V3 <i>seen</i> → <b>had</b>. Xem [Ngữ pháp 05]."
+      },
+      {
+       "en": "I'd see a doctor if I were you.",
+       "vi": "Nếu tôi là bạn, tôi sẽ đi khám.",
+       "note": "Theo sau là V trần <i>see</i> → <b>would</b>. Xem [Khung 98]."
+      },
+      {
+       "en": "He's working from home today.",
+       "vi": "Hôm nay anh ấy làm ở nhà.",
+       "note": "Theo sau là V-ing → <b>is</b>."
+      },
+      {
+       "en": "He's worked here for ten years.",
+       "vi": "Anh ấy làm ở đây mười năm rồi.",
+       "note": "Theo sau là V3 → <b>has</b>. Xem [Khung 94]."
+      },
+      {
+       "en": "I'd better go now.",
+       "vi": "Tôi nên đi bây giờ.",
+       "note": "<b>had</b> better — cụm cố định. Xem [Ngữ pháp 32]."
+      },
+      {
+       "en": "I'd rather stay home.",
+       "vi": "Tôi thà ở nhà.",
+       "note": "<b>would</b> rather — cụm cố định, ngược với trên. Xem [Khung 8]."
+      },
+      {
+       "en": "I'm going to call her later.",
+       "vi": "Lát tôi sẽ gọi cô ấy.",
+       "note": "Nói là “gonna call her”. Xem [Khung 91]."
+      },
+      {
+       "en": "I'm going to London next week.",
+       "vi": "Tuần sau tôi đi London.",
+       "note": "Ở đây KHÔNG rút gọn được — <i>to</i> là giới từ."
+      },
+      {
+       "en": "Do you want to come with us?",
+       "vi": "Bạn có muốn đi cùng không?",
+       "note": "Nói là “d'ya wanna come”. Xem [Kỹ năng 08]."
+      },
+      {
+       "en": "I should have called you.",
+       "vi": "Lẽ ra tôi phải gọi cho bạn.",
+       "note": "BẪY SỐ HAI: nói “shoulda”, viết <b>should have</b>. <i>should of</i> ✗."
+      },
+      {
+       "en": "I'd've called if I'd known.",
+       "vi": "Giá mà biết thì tôi đã gọi.",
+       "note": "Rút gọn kép: <i>I would have</i> và <i>I had</i>. Xem [Ngữ pháp 16]."
+      },
+      {
+       "en": "I'd like to book a table.",
+       "vi": "Tôi muốn đặt bàn.",
+       "note": "<b>would</b> like — theo sau là <i>to V</i>. Xem [Khung 1]."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Khi nào cần để ý nhất",
+   "blocks": [
+    {
+     "t": "cards",
+     "items": [
+      {
+       "icon": "🔍",
+       "title": "Nghe thấy 'd hoặc 's",
+       "text": "Nhìn ngay động từ sau nó để biết là từ nào."
+      },
+      {
+       "icon": "✉️",
+       "title": "Viết email công việc",
+       "text": "Không bao giờ viết <i>gonna</i>, <i>wanna</i>."
+      },
+      {
+       "icon": "⚠️",
+       "title": "Viết should have",
+       "text": "<i>should of</i> ✗ — lỗi viết phổ biến nhất."
+      },
+      {
+       "icon": "🎬",
+       "title": "Xem phim",
+       "text": "<i>I'd've</i>, <i>wouldn't've</i> xuất hiện liên tục."
+      },
+      {
+       "icon": "💬",
+       "title": "Nói chuyện thân mật",
+       "text": "Không rút gọn nghe rất cứng và xa cách."
+      },
+      {
+       "icon": "🚫",
+       "title": "Đừng làm…",
+       "text": "Đừng đoán <i>'d</i> là <i>would</i> mặc định — phải xem từ sau."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Dấu hiệu nhận biết & từ hay gặp",
+   "blocks": [
+    {
+     "t": "p",
+     "html": "Chọn một dạng ở cột trái để xem nó là từ gì và nhận ra bằng cách nào."
+    },
+    {
+     "t": "words",
+     "groups": [
+      {
+       "title": "Dấu lược hai nghĩa — nhìn từ đứng sau",
+       "items": [
+        {
+         "w": "I'd + V3 = I had",
+         "vi": "tôi đã…",
+         "ex": "I'd seen it before.",
+         "exvi": "Tôi đã xem nó trước đó rồi.",
+         "note": "BẪY SỐ MỘT: V3 theo sau thì là <b>had</b>. Xem [Ngữ pháp 05]."
+        },
+        {
+         "w": "I'd + V trần = I would",
+         "vi": "tôi sẽ…",
+         "ex": "I'd see a doctor if I were you.",
+         "exvi": "Nếu tôi là bạn tôi sẽ đi khám. Xem [Khung 98]."
+        },
+        {
+         "w": "I'd better = had",
+         "vi": "tôi nên",
+         "ex": "I'd better go now.",
+         "exvi": "Tôi nên đi bây giờ.",
+         "note": "Cụm cố định, LUÔN là <i>had</i>. Xem [Ngữ pháp 32]."
+        },
+        {
+         "w": "I'd rather = would",
+         "vi": "tôi thà",
+         "ex": "I'd rather stay home.",
+         "exvi": "Tôi thà ở nhà. Xem [Khung 8]."
+        },
+        {
+         "w": "I'd like = would",
+         "vi": "tôi muốn",
+         "ex": "I'd like to book a table.",
+         "exvi": "Tôi muốn đặt bàn. Xem [Khung 1]."
+        },
+        {
+         "w": "he's + V-ing = is",
+         "vi": "anh ấy đang",
+         "ex": "He's working from home.",
+         "exvi": "Anh ấy làm ở nhà."
+        },
+        {
+         "w": "he's + V3 = has",
+         "vi": "anh ấy đã",
+         "ex": "He's worked here for ten years.",
+         "exvi": "Anh ấy làm ở đây mười năm rồi. Xem [Khung 94]."
+        },
+        {
+         "w": "he's + tính từ = is",
+         "vi": "anh ấy thì",
+         "ex": "He's busy right now.",
+         "exvi": "Giờ anh ấy đang bận."
+        },
+        {
+         "w": "it's = is / has",
+         "vi": "nó là / nó đã",
+         "ex": "It's been a long day.",
+         "exvi": "Hôm nay dài thật.",
+         "note": "<i>been</i> là V3 nên đây là <b>has</b>. Và <i>its</i> sở hữu thì không có dấu lược. Xem [Ngữ pháp 50]."
+        },
+        {
+         "w": "we've / they've",
+         "vi": "chúng tôi đã / họ đã",
+         "ex": "We've just finished.",
+         "exvi": "Bọn tôi vừa xong. Xem [Khung 95]."
+        },
+        {
+         "w": "there's = is / has",
+         "vi": "có",
+         "ex": "There's been a change.",
+         "exvi": "Có một thay đổi. Xem [Ngữ pháp 51]."
+        },
+        {
+         "w": "who's ≠ whose",
+         "vi": "ai là / của ai",
+         "ex": "Who's that? Whose is it?",
+         "exvi": "Ai đấy? Của ai vậy?",
+         "note": "<b>who's</b> = <i>who is</i> · <b>whose</b> = sở hữu."
+        }
+       ]
+      },
+      {
+       "title": "Dạng chỉ dùng khi nói",
+       "items": [
+        {
+         "w": "gonna = going to",
+         "vi": "sắp, định",
+         "ex": "I'm going to call her later.",
+         "exvi": "Lát tôi gọi cô ấy.",
+         "note": "Chỉ khi theo sau là ĐỘNG TỪ. Xem [Khung 91]."
+        },
+        {
+         "w": "wanna = want to",
+         "vi": "muốn",
+         "ex": "Do you want to come?",
+         "exvi": "Bạn muốn đi cùng không?"
+        },
+        {
+         "w": "gotta = got to",
+         "vi": "phải",
+         "ex": "I've got to go.",
+         "exvi": "Tôi phải đi đây."
+        },
+        {
+         "w": "shoulda = should have",
+         "vi": "lẽ ra phải",
+         "ex": "I should have called you.",
+         "exvi": "Lẽ ra tôi phải gọi bạn.",
+         "note": "BẪY SỐ HAI: viết <i>should of</i> ✗. Xem [Ngữ pháp 33]."
+        },
+        {
+         "w": "coulda = could have",
+         "vi": "lẽ ra có thể",
+         "ex": "I could have helped.",
+         "exvi": "Lẽ ra tôi giúp được."
+        },
+        {
+         "w": "woulda = would have",
+         "vi": "lẽ ra đã",
+         "ex": "I would have come.",
+         "exvi": "Lẽ ra tôi đã đến."
+        },
+        {
+         "w": "I'd've = I would have",
+         "vi": "lẽ ra tôi đã",
+         "ex": "I'd've called if I'd known.",
+         "exvi": "Giá mà biết thì tôi đã gọi.",
+         "note": "Rút gọn kép — ba từ một nhịp. Xem [Ngữ pháp 16]."
+        },
+        {
+         "w": "kinda = kind of",
+         "vi": "hơi hơi",
+         "ex": "It's kind of expensive.",
+         "exvi": "Hơi đắt."
+        },
+        {
+         "w": "lemme = let me",
+         "vi": "để tôi",
+         "ex": "Let me check.",
+         "exvi": "Để tôi kiểm tra. Xem [Khung 20]."
+        },
+        {
+         "w": "gimme = give me",
+         "vi": "đưa tôi",
+         "ex": "Give me a second.",
+         "exvi": "Đợi tôi một giây."
+        },
+        {
+         "w": "dunno = don't know",
+         "vi": "không biết",
+         "ex": "I don't know.",
+         "exvi": "Tôi không biết.",
+         "note": "Rất thân mật — không dùng với người lạ."
+        },
+        {
+         "w": "'cause = because",
+         "vi": "vì",
+         "ex": "I left because I was tired.",
+         "exvi": "Tôi về vì mệt. Xem [Ngữ pháp 48]."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "BẪY người Việt hay mắc",
+   "blocks": [
+    {
+     "t": "pairs",
+     "items": [
+      {
+       "wrong": "Hiểu <i>I'd seen it</i> là <b>I would seen it</b>",
+       "right": "<b>I had seen it</b>",
+       "why": "BẪY SỐ MỘT: theo sau là V3 <i>seen</i> nên <i>'d</i> phải là <b>had</b>."
+      },
+      {
+       "wrong": "Hiểu <i>He's worked here</i> là <b>he is worked</b>",
+       "right": "<b>he has worked</b>",
+       "why": "V3 theo sau thì <i>'s</i> là <b>has</b>, không phải <i>is</i>."
+      },
+      {
+       "wrong": "Viết <b>I should of called</b>",
+       "right": "<b>I should have called</b>",
+       "why": "BẪY SỐ HAI: nghe “shouldə” rồi viết theo âm. Xem [Ngữ pháp 33]."
+      },
+      {
+       "wrong": "Viết <b>I'm gonna send the report</b> trong email",
+       "right": "<b>I'm going to send the report</b>",
+       "why": "<i>gonna</i> chỉ tồn tại trong lời nói, không viết ra."
+      },
+      {
+       "wrong": "Nói <b>I'm gonna London</b>",
+       "right": "<b>I'm going to London</b>",
+       "why": "Chỉ rút gọn khi <i>going to</i> đi với động từ, không phải với nơi chốn."
+      },
+      {
+       "wrong": "Hiểu <i>I'd better go</i> là <b>I would better go</b>",
+       "right": "<b>I had better go</b>",
+       "why": "<i>had better</i> là cụm cố định — luôn là <b>had</b>. Xem [Ngữ pháp 32]."
+      },
+      {
+       "wrong": "Hiểu <i>I'd rather stay</i> là <b>I had rather stay</b>",
+       "right": "<b>I would rather stay</b>",
+       "why": "Ngược với trên: <i>would rather</i> mới là cụm đúng. Xem [Khung 8]."
+      },
+      {
+       "wrong": "Viết <b>Its been a long day</b>",
+       "right": "<b>It's been a long day</b>",
+       "why": "<i>It's</i> = <i>it has</i>. <i>its</i> không dấu lược là sở hữu. Xem [Ngữ pháp 50]."
+      },
+      {
+       "wrong": "Viết <b>Whose that?</b>",
+       "right": "<b>Who's that?</b>",
+       "why": "<i>who's</i> = <i>who is</i>; <i>whose</i> hỏi của ai. Hai từ khác hẳn."
+      },
+      {
+       "wrong": "Nói đủ <b>“I am going to call her”</b> với bạn bè",
+       "right": "<b>“I'm gonna call her”</b>",
+       "why": "Lỗi ngược: không rút gọn nghe rất cứng và xa cách trong hội thoại thân mật."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Phân biệt với lỗi gần giống",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "Cặp dễ nhầm",
+      "Khác nhau",
+      "Ví dụ"
+     ],
+     "rows": [
+      [
+       "<code>'d</code> = had / would",
+       "V3 theo sau / V trần theo sau",
+       "I'd seen ≠ I'd see"
+      ],
+      [
+       "<code>'s</code> = is / has",
+       "V-ing, tính từ / V3",
+       "He's working ≠ He's worked"
+      ],
+      [
+       "<code>I'd better</code> / <code>I'd rather</code>",
+       "had / would",
+       "Hai cụm cố định ngược nhau"
+      ],
+      [
+       "<code>it's</code> / <code>its</code>",
+       "it is·has / sở hữu",
+       "It's been ≠ its leg"
+      ],
+      [
+       "<code>who's</code> / <code>whose</code>",
+       "who is / của ai",
+       "Who's that? ≠ Whose is it?"
+      ],
+      [
+       "Rút gọn chuẩn / dạng chỉ nói",
+       "Viết được / không viết",
+       "I'm ≠ gonna"
+      ],
+      [
+       "<code>should have</code> / <code>should of</code>",
+       "Đúng / sai hoàn toàn",
+       "<i>of</i> không bao giờ đứng đó"
+      ]
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "Sơ đồ chọn: 'd và 's này là từ gì?"
+    },
+    {
+     "t": "tree",
+     "q": "Bạn gặp một dấu lược — nhìn vào từ đứng NGAY SAU nó.",
+     "nodes": [
+      {
+       "if": "'d rồi tới V3",
+       "then": "had — quá khứ hoàn thành",
+       "ex": "I'd seen it before."
+      },
+      {
+       "if": "'d rồi tới động từ TRẦN",
+       "then": "would — điều kiện",
+       "ex": "I'd see a doctor."
+      },
+      {
+       "if": "'d rồi tới better",
+       "then": "had better — cụm cố định",
+       "ex": "I'd better go."
+      },
+      {
+       "if": "'d rồi tới rather / like",
+       "then": "would — cụm cố định",
+       "ex": "I'd rather stay."
+      },
+      {
+       "if": "'s rồi tới V-ing hoặc tính từ",
+       "then": "is",
+       "ex": "He's working."
+      },
+      {
+       "if": "'s rồi tới V3",
+       "then": "has",
+       "ex": "He's worked here."
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "Thang độ trang trọng của cùng một ý"
+    },
+    {
+     "t": "scale",
+     "items": [
+      {
+       "en": "I am going to send the report.",
+       "vi": "Trang trọng nhất — văn bản"
+      },
+      {
+       "en": "I'm going to send the report.",
+       "vi": "Email công việc bình thường"
+      },
+      {
+       "en": "I'll send the report.",
+       "vi": "Gọn, trung tính"
+      },
+      {
+       "en": "I'm gonna send it.",
+       "vi": "Nói chuyện thân mật"
+      },
+      {
+       "en": "Gonna send it.",
+       "vi": "Thân mật nhất — tin nhắn"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Kỹ năng này dùng ở đâu",
+   "blocks": [
+    {
+     "t": "p",
+     "html": "Dấu lược hai nghĩa nằm đúng trong những khung câu bạn dùng nhiều nhất."
+    },
+    {
+     "t": "link",
+     "items": [
+      {
+       "id": 1,
+       "why": "I'd like to + V — 'd ở đây luôn là would, cụm cố định."
+      },
+      {
+       "id": 8,
+       "why": "I'd rather + V (than…) — would rather, ngược với I'd better."
+      },
+      {
+       "id": 91,
+       "why": "I'm going to + V — khung chính của gonna, và chỗ không được rút gọn."
+      },
+      {
+       "id": 98,
+       "why": "If I were you, I'd + V — 'd là would vì theo sau là động từ trần."
+      },
+      {
+       "id": 95,
+       "why": "I've just + V3 — we've, he's + V3 đều là has/have."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Luyện tập",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Nghe người thật nói"
+    },
+    {
+     "t": "listen",
+     "intro": "Rút gọn trong văn nói <b>không có trong sách và không có trong TTS</b>, nhưng chiếm phần lớn những gì bạn nghe thấy. Nghe giọng thật để biết từng cụm <b>nghe ra sao</b>, còn viết thì vẫn viết đầy đủ.",
+     "items": [
+      {
+       "en": "going to",
+       "vi": "sắp…",
+       "focus": "→ “gonna”. Chỉ dùng khi theo sau là động từ",
+       "yg": "going to",
+       "src": "youglish"
+      },
+      {
+       "en": "want to",
+       "vi": "muốn…",
+       "focus": "→ “wanna”",
+       "yg": "want to",
+       "src": "youglish"
+      },
+      {
+       "en": "kind of",
+       "vi": "hơi hơi…",
+       "focus": "→ “kinda”, làm câu nhẹ đi",
+       "yg": "kind of",
+       "src": "youglish"
+      },
+      {
+       "en": "let me",
+       "vi": "để tôi…",
+       "focus": "→ “lemme”",
+       "yg": "let me",
+       "src": "youglish"
+      },
+      {
+       "en": "should have",
+       "vi": "đáng lẽ đã…",
+       "focus": "→ “shoulda”. KHÔNG phải <i>should of</i> khi viết",
+       "yg": "should have",
+       "src": "youglish"
+      },
+      {
+       "en": "would have been",
+       "vi": "hẳn đã…",
+       "focus": "→ “would've been”, nói nhanh còn “woulda bin”",
+       "yg": "would have been",
+       "src": "youglish"
+      },
+      {
+       "en": "a lot of",
+       "vi": "rất nhiều",
+       "focus": "→ “alotta”",
+       "yg": "a lot of",
+       "src": "youglish"
+      },
+      {
+       "en": "out of",
+       "vi": "ra khỏi…",
+       "focus": "→ “outa”",
+       "yg": "out of",
+       "src": "youglish"
+      }
+     ],
+     "more": [
+      {
+       "label": "BBC Learning English — mục phát âm",
+       "url": "https://www.bbc.co.uk/learningenglish"
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "A. Dấu lược này là từ gì?"
+    },
+    {
+     "t": "quiz",
+     "items": [
+      {
+       "vi": "Tôi đã xem nó trước đó rồi.",
+       "blank": "I'd seen it before.  →  'd = __________",
+       "a": "had — vì theo sau là V3"
+      },
+      {
+       "vi": "Nếu tôi là bạn tôi sẽ đi khám.",
+       "blank": "I'd see a doctor.  →  'd = __________",
+       "a": "would — vì theo sau là V trần"
+      },
+      {
+       "vi": "Tôi nên đi bây giờ.",
+       "blank": "I'd better go.  →  'd = __________",
+       "a": "had — cụm cố định"
+      },
+      {
+       "vi": "Tôi thà ở nhà.",
+       "blank": "I'd rather stay home.  →  'd = __________",
+       "a": "would — cụm cố định"
+      },
+      {
+       "vi": "Hôm nay anh ấy làm ở nhà.",
+       "blank": "He's working from home.  →  's = __________",
+       "a": "is — vì theo sau là V-ing"
+      },
+      {
+       "vi": "Anh ấy làm ở đây mười năm rồi.",
+       "blank": "He's worked here for ten years.  →  's = __________",
+       "a": "has — vì theo sau là V3"
+      },
+      {
+       "vi": "Hôm nay dài thật.",
+       "blank": "It's been a long day.  →  's = __________",
+       "a": "has — been là V3"
+      },
+      {
+       "vi": "Giá mà biết thì tôi đã gọi.",
+       "blank": "I'd've called.  →  viết đầy đủ là __________",
+       "a": "I would have called"
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "B. Viết được hay không viết được?"
+    },
+    {
+     "t": "quiz",
+     "items": [
+      {
+       "vi": "Lẽ ra tôi phải gọi.",
+       "blank": "(a) I should of called.  (b) I should have called.",
+       "a": "(b)"
+      },
+      {
+       "vi": "Tôi sẽ gửi báo cáo. (email công việc)",
+       "blank": "(a) I'm gonna send it.  (b) I'm going to send it.",
+       "a": "(b)"
+      },
+      {
+       "vi": "Tuần sau tôi đi London.",
+       "blank": "(a) I'm gonna London.  (b) I'm going to London.",
+       "a": "(b) — to là giới từ"
+      },
+      {
+       "vi": "Hôm nay dài thật.",
+       "blank": "(a) Its been a long day.  (b) It's been a long day.",
+       "a": "(b)"
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "C. Nghe thế này thì viết đầy đủ là gì?"
+    },
+    {
+     "t": "quiz",
+     "items": [
+      {
+       "vi": "1. Lát tôi gọi cô ấy.",
+       "a": "“ai-m gonna call-ə” → I'm going to call her."
+      },
+      {
+       "vi": "2. Lẽ ra tôi phải gọi bạn.",
+       "a": "“ai shoulda kɔːld yu” → I should have called you."
+      },
+      {
+       "vi": "3. Giá mà biết thì tôi đã gọi.",
+       "a": "“ai-dəv kɔːld if ai-d nəʊn” → I'd have called if I'd known."
+      },
+      {
+       "vi": "4. Bạn có muốn đi cùng không?",
+       "a": "“d'ya wanna cam with as” → Do you want to come with us?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Mẹo nhớ",
+   "blocks": [
+    {
+     "t": "list",
+     "items": [
+      "<b>Luật một dòng:</b> gặp <i>'d</i> hay <i>'s</i> thì <b>nhìn động từ đứng sau</b>. V3 → <i>had/has</i> · V trần hoặc V-ing → <i>would/is</i>.",
+      "<b>Hai cụm cố định ngược nhau:</b> <i>I'<b>d</b> better</i> = <b>had</b> · <i>I'<b>d</b> rather</i> = <b>would</b>. Phải thuộc riêng.",
+      "<b>Nghe thì nghe, viết thì viết đủ.</b> <i>gonna, wanna, shoulda</i> chỉ tồn tại trong lời nói.",
+      "<b><i>should of</i> không bao giờ đúng.</b> Nó là <i>should have</i> nghe nhầm rồi viết theo âm. Xem [Ngữ pháp 33].",
+      "<b><i>gonna</i> chỉ dùng trước động từ:</b> <i>gonna call</i> ✓ nhưng <i>gonna London</i> ✗ — ở đó <i>to</i> là giới từ.",
+      "<b>Bài tập 2 phút:</b> lấy năm câu có <i>'d</i> và <i>'s</i>, che từ đứng sau lại rồi thử đoán — bạn sẽ thấy đoán không nổi, đó chính là bài học."
+     ]
+    }
+   ]
+  }
+ ]
+}

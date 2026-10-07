@@ -1,0 +1,495 @@
+{
+  "id": 55,
+  "group": "Nhóm 6 · Đồng ý & Phản đối",
+  "title": "I don't think so — Trả lời “không” một cách ngắn gọn",
+  "subtitle": "Khung câu trả lời ngắn phủ định phổ biến nhất trong tiếng Anh. Nó đơn giản đến mức người học tưởng đã biết, nhưng thực ra nó nằm trong một hệ thống so và not với những quy tắc chéo nhau: think thì đi với don't… so, còn hope lại đi với hope not. Nhầm chỗ này là sai ngay.",
+  "pattern": [
+    "I don't think so.",
+    "I hope not. / I'm afraid not.",
+    "Not really. / Probably not."
+  ],
+  "meaning": "Tôi không nghĩ vậy / Chắc là không",
+  "grammar": [30],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Câu trả lời ngắn thiết yếu" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I don't think so.</span> là cách nói “không” <b>mềm hơn</b> chữ <i>No</i> trần trụi. Thay vì bác bỏ thẳng, bạn nói rằng theo suy nghĩ của bạn thì không — người nghe vẫn còn chỗ để đưa thêm thông tin." },
+        { "t": "p", "html": "Chữ <b>so</b> ở đây thay cho <b>cả mệnh đề</b> vừa được nhắc. Khi ai đó hỏi <i>Is the shop still open?</i>, nói <i>I don't think so</i> tức là <i>I don't think the shop is still open</i>. Đó là lý do bạn không được thay <i>so</i> bằng <i>yes</i> hay <i>no</i>." },
+        { "t": "p", "html": "Nó cũng có một mặt <b>sắc lạnh</b>: khi nhấn mạnh và hạ giọng, <i>I don't think so.</i> trở thành lời từ chối dứt khoát, gần nghĩa “còn lâu”. Ngữ điệu quyết định hoàn toàn sắc thái ở đây." },
+        { "t": "callout", "html": "<b>BẪY LỚN NHẤT — hệ thống “so” và “not” bắt chéo nhau:</b> với <i>think</i> thì phủ định ở <b>động từ</b> (<span class=\"k\">I don't think so</span>); nhưng với <i>hope</i>, <i>afraid</i>, <i>guess</i> thì phủ định ở <b>cuối</b> (<span class=\"k\">I hope not</span>, <span class=\"k\">I'm afraid not</span>). Nhầm là sai ngay." },
+        { "t": "h3", "text": "Bảng so / not — học thuộc bảng này" },
+        {
+          "t": "table",
+          "head": ["Động từ", "Khẳng định", "Phủ định"],
+          "rows": [
+            ["think", "<code>I think so.</code>", "<code>I don't think so.</code> ✓ (không phải <i>I think not</i>)"],
+            ["hope", "<code>I hope so.</code>", "<code>I hope not.</code> ✓ (không phải <i>I don't hope so</i>)"],
+            ["be afraid", "<code>I'm afraid so.</code>", "<code>I'm afraid not.</code> ✓"],
+            ["guess / suppose", "<code>I guess so.</code>", "<code>I guess not.</code> / <code>I don't suppose so.</code>"]
+          ]
+        },
+        { "t": "callout", "html": "<b>“I'm afraid so” và “I'm afraid not” đều là tin xấu.</b> <i>Is it cancelled?</i> — <i>I'm afraid so.</i> (tiếc là đúng vậy). <i>Is there any left?</i> — <i>I'm afraid not.</i> (tiếc là không còn). Chọn theo câu hỏi, không theo cảm xúc." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💬", "title": "Trả lời câu hỏi có-không", "text": "Bối cảnh số 1. <i>Is it still open?</i> — <i>I don't think so.</i>" },
+            { "icon": "🛡", "title": "Từ chối mềm", "text": "<i>Can you make it?</i> — <i>I don't think so, sorry.</i>" },
+            { "icon": "😬", "title": "Báo tin không vui", "text": "<i>I'm afraid not.</i> Nhã hơn hẳn chữ <i>No</i>." },
+            { "icon": "🤞", "title": "Mong điều đó không xảy ra", "text": "<i>Will it rain?</i> — <i>I hope not.</i>" },
+            { "icon": "🚪", "title": "Từ chối dứt khoát", "text": "Nhấn mạnh và hạ giọng: <i>I don't think so.</i> = “còn lâu”." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn chắc chắn có dữ kiện. Ở đó nói thẳng: <i>No, it closed at six.</i>" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Chuẩn", "<code>I don't think so.</code>", "“Is it open?” — “I don't think so.”"],
+            ["Mềm thêm", "<code>I don't think so, sorry.</code>", "I don't think so, sorry."],
+            ["Trang trọng / cổ", "<code>I think not.</code>", "I think not."],
+            ["Mong không xảy ra", "<code>I hope not.</code>", "“Will it rain?” — “I hope not.”"],
+            ["Tin không vui", "<code>I'm afraid not.</code>", "“Any tickets left?” — “I'm afraid not.”"],
+            ["Đoán là không", "<code>I guess not.</code>", "I guess not."],
+            ["Không hẳn", "<code>Not really.</code>", "“Do you like it?” — “Not really.”"],
+            ["Chắc là không", "<code>Probably not.</code>", "Probably not, no."],
+            ["Theo tôi biết thì không", "<code>Not that I know of.</code>", "Not that I know of. Xem [Khung 45]."],
+            ["Phẫn nộ (Anh-Anh)", "<code>I should think not!</code>", "I should think not!"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng bao giờ nói “I think no”.</b> ✗ Chữ <i>so</i> thay cho cả mệnh đề — <i>yes</i> và <i>no</i> không làm được việc đó. Đây là lỗi người Việt mắc nhiều nhất ở khung này." },
+        { "t": "callout", "html": "<b>“I think not” không sai nhưng rất trang trọng</b> và nghe hơi cổ hoặc kiêu kỳ. Trong hội thoại hằng ngày luôn dùng <b>I don't think so</b>." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Hệ thống “so” và “not”",
+              "items": [
+                { "w": "I don't think so", "vi": "tôi không nghĩ vậy", "ex": "“Is it still open?” — “I don't think so.”", "exvi": "“Còn mở cửa không?” — “Tôi không nghĩ vậy.”", "note": "Phủ định ở ĐỘNG TỪ. KHÔNG nói <i>I think no</i> ✗ hay <i>I don't think no</i> ✗." },
+                { "w": "I think so", "vi": "tôi nghĩ vậy", "ex": "“Is he coming?” — “I think so.”", "exvi": "“Anh ấy đến không?” — “Tôi nghĩ là có.”", "note": "Xem thêm [Khung 41]." },
+                { "w": "I hope so", "vi": "tôi mong là vậy", "ex": "“Will they call back?” — “I hope so.”", "exvi": "“Họ sẽ gọi lại chứ?” — “Tôi mong là vậy.”" },
+                { "w": "I hope not", "vi": "tôi mong là không", "ex": "“Will it rain?” — “I hope not.”", "exvi": "“Trời sẽ mưa à?” — “Mong là không.”", "note": "BẪY: với <i>hope</i> thì phủ định ở CUỐI. KHÔNG nói <i>I don't hope so</i> ✗." },
+                { "w": "I'm afraid so", "vi": "tiếc là đúng vậy", "ex": "“Is it cancelled?” — “I'm afraid so.”", "exvi": "“Bị hủy à?” — “Tiếc là đúng vậy.”", "note": "Xác nhận một TIN XẤU. Chọn <i>so</i> hay <i>not</i> tùy câu hỏi, không tùy cảm xúc." },
+                { "w": "I'm afraid not", "vi": "tiếc là không", "ex": "“Any tickets left?” — “I'm afraid not.”", "exvi": "“Còn vé không?” — “Tiếc là hết rồi.”", "note": "Cách nói “không” nhã nhất trong ngành dịch vụ." },
+                { "w": "I guess not", "vi": "chắc là không", "ex": "“Nobody's coming?” — “I guess not.”", "exvi": "“Không ai đến à?” — “Chắc là không.”" },
+                { "w": "I suppose so", "vi": "chắc vậy", "ex": "“Shall we go?” — “I suppose so.”", "exvi": "“Mình đi nhé?” — “Chắc vậy.”", "note": "Mang sắc thái miễn cưỡng — nghe như đồng ý cho xong." },
+                { "w": "I don't suppose so", "vi": "chắc là không", "ex": "I don't suppose so, no.", "exvi": "Chắc là không đâu." },
+                { "w": "I believe so", "vi": "tôi tin là vậy", "ex": "“Is breakfast included?” — “I believe so.”", "exvi": "“Có kèm bữa sáng không?” — “Tôi tin là có.”", "note": "Xem [Khung 43]." },
+                { "w": "I don't believe so", "vi": "tôi tin là không", "ex": "I don't believe so, sir.", "exvi": "Tôi tin là không ạ." },
+                { "w": "I think not", "vi": "tôi cho là không", "ex": "I think not.", "exvi": "Tôi cho là không.", "note": "Rất trang trọng và hơi cổ — nghe kiêu kỳ. Hội thoại thường ngày dùng <i>I don't think so</i>." }
+              ]
+            },
+            {
+              "title": "Các cách nói “không” khác",
+              "items": [
+                { "w": "Not really", "vi": "không hẳn", "ex": "“Do you like it?” — “Not really.”", "exvi": "“Bạn thích không?” — “Không hẳn.”", "note": "Nhẹ nhất — chê mà không chê hẳn. Cực kỳ hay dùng." },
+                { "w": "Probably not", "vi": "chắc là không", "ex": "Probably not, to be honest.", "exvi": "Thật lòng thì chắc là không." },
+                { "w": "Not that I know of", "vi": "theo tôi biết thì không", "ex": "“Any problems?” — “Not that I know of.”", "exvi": "“Có vấn đề gì không?” — “Theo tôi biết thì không.”", "note": "Xem [Khung 45]." },
+                { "w": "Not at the moment", "vi": "hiện giờ thì không", "ex": "Not at the moment, sorry.", "exvi": "Hiện giờ thì không, xin lỗi.", "note": "Từ chối mà vẫn để ngỏ cho sau này." },
+                { "w": "Not as far as I'm aware", "vi": "theo tôi nắm được thì không", "ex": "Not as far as I'm aware.", "exvi": "Theo tôi nắm được thì không." },
+                { "w": "I doubt it", "vi": "tôi nghi là không", "ex": "I doubt it, honestly.", "exvi": "Thật lòng thì tôi nghi là không.", "note": "Mạnh hơn <i>I don't think so</i> một chút — nghiêng về nghi ngờ." },
+                { "w": "Unlikely", "vi": "khó xảy ra", "ex": "Unlikely, but possible.", "exvi": "Khó xảy ra, nhưng có thể." },
+                { "w": "Not a chance", "vi": "còn lâu", "ex": "Not a chance!", "exvi": "Còn lâu!", "note": "Rất thân mật và dứt khoát — chỉ dùng với người quen." },
+                { "w": "I wouldn't say so", "vi": "tôi thì không cho là vậy", "ex": "I wouldn't say so, no.", "exvi": "Tôi thì không cho là vậy.", "note": "Xem [Khung 46]." },
+                { "w": "Nothing that I've heard", "vi": "tôi chưa nghe gì cả", "ex": "Nothing that I've heard about.", "exvi": "Tôi chưa nghe gì về chuyện đó." },
+                { "w": "I should think not", "vi": "còn phải hỏi, tất nhiên là không", "ex": "I should think not!", "exvi": "Tất nhiên là không rồi!", "note": "Mang màu Anh-Anh, thể hiện sự phẫn nộ hoặc bất bình." },
+                { "w": "Not if I can help it", "vi": "nếu tôi ngăn được thì không", "ex": "Not if I can help it.", "exvi": "Nếu tôi ngăn được thì không.", "note": "Thành ngữ — nghĩa là “tôi sẽ cố hết sức để điều đó không xảy ra”." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "Are you sure?", "vi": "bạn chắc không?", "ex": "Are you sure about that?", "exvi": "Bạn chắc chuyện đó không?" },
+                { "w": "Let me double-check", "vi": "để tôi kiểm tra lại", "ex": "Let me double-check for you.", "exvi": "Để em kiểm tra lại giúp anh/chị ạ." },
+                { "w": "That's a shame", "vi": "tiếc thật", "ex": "That's a shame.", "exvi": "Tiếc thật.", "note": "Đáp lại một tin không vui — rất tự nhiên và lịch sự." },
+                { "w": "No worries", "vi": "không sao đâu", "ex": "No worries, I'll ask elsewhere.", "exvi": "Không sao đâu, mình hỏi chỗ khác." },
+                { "w": "Why not?", "vi": "sao lại không?", "ex": "Why not, out of interest?", "exvi": "Tò mò thôi, sao lại không?" },
+                { "w": "Fair enough", "vi": "cũng được", "ex": "Fair enough.", "exvi": "Cũng được." },
+                { "w": "Me neither", "vi": "tôi cũng không", "ex": "Me neither.", "exvi": "Mình cũng không.", "note": "Đáp cho câu phủ định. Với câu khẳng định thì là <i>Me too</i>." },
+                { "w": "Same here", "vi": "tôi cũng vậy", "ex": "Same here.", "exvi": "Mình cũng vậy." },
+                { "w": "Maybe next time", "vi": "để lần sau nhé", "ex": "Maybe next time then.", "exvi": "Vậy để lần sau nhé." },
+                { "w": "Any idea who would know?", "vi": "biết ai sẽ rõ không?", "ex": "Any idea who would know?", "exvi": "Bạn biết ai sẽ nắm rõ không?" },
+                { "w": "I thought as much", "vi": "tôi cũng đoán vậy", "ex": "I thought as much.", "exvi": "Tôi cũng đoán vậy.", "note": "Nghĩa là bạn đã nghi ngờ điều đó từ trước." },
+                { "w": "Worth a try", "vi": "hỏi thử thôi", "ex": "Worth a try, anyway.", "exvi": "Dù sao cũng đáng hỏi thử." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I'm afraid not — we sold the last one this morning.",
+                  "vi": "Tiếc là không ạ — cái cuối cùng đã bán sáng nay.",
+                  "note": "<i>I'm afraid not</i> là cách nói “không” nhã nhất trong ngành dịch vụ — kèm lý do thì càng tốt.",
+                  "open": { "en": "Do you have this in blue?", "vi": "Có màu xanh không ạ?" },
+                  "reply": [
+                    { "them": "That's a shame. When will you restock?", "themvi": "Tiếc thật. Khi nào có hàng lại ạ?", "you": "Thursday, most likely.", "youvi": "Nhiều khả năng là thứ Năm." },
+                    { "them": "No worries, I'll try another branch.", "themvi": "Không sao, tôi thử chi nhánh khác.", "you": "The one on Main Street has two.", "youvi": "Chi nhánh phố chính còn hai cái ạ." }
+                  ],
+                  "close": { "en": "Sorry I couldn't help more.", "vi": "Xin lỗi em không giúp được nhiều hơn." }
+                },
+                {
+                  "en": "I don't think so — the receipt's over a year old.",
+                  "vi": "Tôi nghĩ là không — hóa đơn hơn một năm rồi.",
+                  "reply": [
+                    { "them": "Are you sure?", "themvi": "Anh/chị chắc không?", "you": "Let me double-check the policy.", "youvi": "Để tôi kiểm tra lại chính sách." }
+                  ],
+                  "vars": [
+                    { "en": "I'm afraid not — it's outside the window.", "vi": "Tiếc là không — đã quá hạn." }
+                  ]
+                },
+                {
+                  "en": "Not really — it's a bit big for me.",
+                  "vi": "Không hẳn — hơi rộng so với tôi.",
+                  "note": "<i>Not really</i> là cách chê nhẹ nhất trong tiếng Anh — chê mà không chê hẳn.",
+                  "reply": [
+                    { "them": "Shall I bring a smaller size?", "themvi": "Em lấy cỡ nhỏ hơn nhé ạ?", "you": "Yes please, one size down.", "youvi": "Vâng, nhỏ hơn một cỡ." }
+                  ]
+                },
+                {
+                  "en": "Not at the moment, thanks — I'm just looking.",
+                  "vi": "Hiện giờ thì chưa, cảm ơn — tôi chỉ xem thôi.",
+                  "note": "Từ chối lời mời giúp đỡ mà vẫn để ngỏ — câu chuẩn khi vào cửa hàng.",
+                  "reply": [
+                    { "them": "Of course, take your time.", "themvi": "Vâng ạ, anh/chị cứ thong thả.", "you": "Thank you.", "youvi": "Cảm ơn em." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I don't think so, but let me double-check.",
+                  "vi": "Tôi nghĩ là không, nhưng để tôi kiểm tra lại.",
+                  "note": "Ghép phủ định mềm với lời hứa kiểm tra — câu trả lời chuyên nghiệp nhất khi bạn không chắc.",
+                  "reply": [
+                    { "them": "Thanks, no rush.", "themvi": "Cảm ơn, không vội.", "you": "I'll come back to you within the hour.", "youvi": "Trong một tiếng tôi sẽ phản hồi." }
+                  ],
+                  "close": { "en": "I'll confirm by email.", "vi": "Tôi sẽ xác nhận qua email." }
+                },
+                {
+                  "en": "Not that I know of.",
+                  "vi": "Theo tôi biết thì không.",
+                  "note": "Xem thêm [Khung 45] — nó giới hạn câu trả lời trong phạm vi hiểu biết của bạn.",
+                  "reply": [
+                    { "them": "Any idea who would know?", "themvi": "Anh/chị biết ai sẽ rõ không?", "you": "Mai handles that side.", "youvi": "Chị Mai phụ trách mảng đó." }
+                  ],
+                  "vars": [
+                    { "en": "Not as far as I'm aware.", "vi": "Theo tôi nắm được thì không." }
+                  ]
+                },
+                {
+                  "en": "I'm afraid so — the client pushed the date forward.",
+                  "vi": "Tiếc là đúng vậy — khách đã dời ngày lên sớm.",
+                  "note": "BẪY: đây là <b>so</b> chứ không phải <i>not</i>, vì bạn đang XÁC NHẬN một tin xấu.",
+                  "reply": [
+                    { "them": "Seriously? That's this Friday.", "themvi": "Thật á? Là thứ Sáu này đấy.", "you": "I know. Let's re-plan this afternoon.", "youvi": "Tôi biết. Chiều nay mình lên lại kế hoạch." }
+                  ]
+                },
+                {
+                  "en": "I doubt it, honestly.",
+                  "vi": "Thật lòng thì tôi nghi là không.",
+                  "note": "Mạnh hơn <i>I don't think so</i> một bậc — nghiêng hẳn về nghi ngờ.",
+                  "reply": [
+                    { "them": "Why do you say that?", "themvi": "Sao anh/chị nói vậy?", "you": "They've missed every deadline so far.", "youvi": "Họ trễ hết mọi hạn chót từ trước tới giờ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I don't think so, sorry — I've got family over.",
+                  "vi": "Chắc là không, xin lỗi nhé — nhà mình có khách.",
+                  "note": "Từ chối mềm kèm lý do — nghe chân thành hơn hẳn một chữ <i>No</i>.",
+                  "reply": [
+                    { "them": "No worries. Maybe next time.", "themvi": "Không sao. Để lần sau nhé.", "you": "Definitely — I'll message you.", "youvi": "Chắc chắn rồi — mình nhắn bạn." }
+                  ],
+                  "close": { "en": "Have fun without me!", "vi": "Chơi vui nhé, thiếu mình cũng được!" }
+                },
+                {
+                  "en": "I hope not!",
+                  "vi": "Mong là không!",
+                  "note": "BẪY: với <b>hope</b> thì phủ định ở CUỐI. Không bao giờ nói <i>I don't hope so</i>.",
+                  "reply": [
+                    { "them": "They said it might rain all weekend.", "themvi": "Nghe nói cuối tuần mưa cả ngày.", "you": "I hope not — we've booked the boat.", "youvi": "Mong là không — mình đặt thuyền rồi." }
+                  ]
+                },
+                {
+                  "en": "Not really, to be honest.",
+                  "vi": "Thật lòng thì không hẳn.",
+                  "reply": [
+                    { "them": "Everyone else loved it.", "themvi": "Ai cũng thích mà.", "you": "It just wasn't my thing.", "youvi": "Chỉ là không hợp gu mình thôi." }
+                  ],
+                  "vars": [
+                    { "en": "I wouldn't say so, no.", "vi": "Mình thì không cho là vậy." }
+                  ]
+                },
+                {
+                  "en": "I don't think so.",
+                  "vi": "Còn lâu.",
+                  "note": "Khi nhấn mạnh và hạ giọng, câu này thành lời từ chối dứt khoát. <b>Ngữ điệu quyết định tất cả.</b>",
+                  "reply": [
+                    { "them": "Come on, just this once.", "themvi": "Thôi mà, một lần thôi.", "you": "Not a chance.", "youvi": "Còn lâu." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I'm afraid not — the last train left at ten.",
+                  "vi": "Tiếc là không ạ — chuyến tàu cuối chạy lúc mười giờ.",
+                  "reply": [
+                    { "them": "Is there a bus?", "themvi": "Có xe buýt không ạ?", "you": "There's a night bus at half past.", "youvi": "Có xe buýt đêm lúc mười giờ rưỡi ạ." }
+                  ],
+                  "close": { "en": "The stop is just outside.", "vi": "Điểm dừng ngay bên ngoài ạ." }
+                },
+                {
+                  "en": "I don't think so — it doesn't run on Sundays.",
+                  "vi": "Tôi nghĩ là không — Chủ nhật không chạy.",
+                  "reply": [
+                    { "them": "Are you sure?", "themvi": "Bạn chắc không?", "you": "Fairly sure. Let's check the app.", "youvi": "Khá chắc. Xem ứng dụng đi." }
+                  ]
+                },
+                {
+                  "en": "I hope not — we've only got forty minutes.",
+                  "vi": "Mong là không — mình chỉ có bốn mươi phút.",
+                  "reply": [
+                    { "them": "The board says delayed.", "themvi": "Bảng ghi là bị hoãn.", "you": "Then we'll miss the connection.", "youvi": "Vậy mình lỡ chuyến nối rồi." }
+                  ],
+                  "vars": [
+                    { "en": "I doubt it, at this hour.", "vi": "Giờ này thì mình nghi là không." }
+                  ]
+                },
+                {
+                  "en": "Not at the moment — everything's booked out.",
+                  "vi": "Hiện giờ thì không — hết chỗ cả rồi ạ.",
+                  "reply": [
+                    { "them": "Any cancellations expected?", "themvi": "Có ai hủy không ạ?", "you": "Try again tomorrow morning.", "youvi": "Sáng mai anh/chị thử lại ạ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I'm afraid not — the kitchen closed at ten.",
+                  "vi": "Tiếc là không ạ — bếp đóng lúc mười giờ rồi.",
+                  "reply": [
+                    { "them": "Not even a starter?", "themvi": "Món khai vị cũng không ạ?", "you": "I can do drinks and desserts.", "youvi": "Em làm được đồ uống và tráng miệng ạ." }
+                  ],
+                  "close": { "en": "Sorry about that.", "vi": "Em xin lỗi ạ." }
+                },
+                {
+                  "en": "Not really — it was a bit bland for me.",
+                  "vi": "Không hẳn — với mình hơi nhạt.",
+                  "note": "<i>bland</i> = nhạt, không có vị đặc sắc. Từ rất hay khi nhận xét món ăn.",
+                  "reply": [
+                    { "them": "I thought it was lovely.", "themvi": "Mình thấy ngon mà.", "you": "Different tastes, I suppose.", "youvi": "Chắc là khẩu vị khác nhau." }
+                  ]
+                },
+                {
+                  "en": "I don't think so — we only ordered two.",
+                  "vi": "Tôi nghĩ là không — chúng tôi chỉ gọi hai phần.",
+                  "reply": [
+                    { "them": "Let me check the order.", "themvi": "Để em kiểm tra đơn ạ.", "you": "Thank you — no hurry.", "youvi": "Cảm ơn — không vội." }
+                  ],
+                  "vars": [
+                    { "en": "I'm afraid that's not right.", "vi": "E là không đúng ạ. Xem [Khung 54]." }
+                  ]
+                },
+                {
+                  "en": "I guess not — the queue's too long.",
+                  "vi": "Chắc là không — hàng chờ dài quá.",
+                  "reply": [
+                    { "them": "Shall we find somewhere else?", "themvi": "Hay mình tìm chỗ khác?", "you": "Let's — I'm starving.", "youvi": "Đi thôi — mình đói lả." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Hỏi mua hàng đã hết",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Excuse me, do you have this in blue?", "vi": "Xin lỗi, cái này có màu xanh không ạ?" },
+            { "speaker": "Staff", "en": "I'm afraid not — we sold the last one this morning.", "vi": "Tiếc là không ạ — cái cuối cùng bán sáng nay rồi." },
+            { "speaker": "You", "me": true, "en": "That's a shame. Will you restock soon?", "vi": "Tiếc thật. Sắp có hàng lại không ạ?" },
+            { "speaker": "Staff", "en": "I think so — Thursday, most likely.", "vi": "Em nghĩ là có — nhiều khả năng thứ Năm ạ." },
+            { "speaker": "You", "me": true, "en": "Could you hold one for me?", "vi": "Em giữ một cái cho tôi được không?" },
+            { "speaker": "Staff", "en": "I don't think so, sorry — but I can call you when it arrives.", "vi": "E là không ạ — nhưng em gọi anh/chị khi có hàng nhé." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Từ chối một lời rủ",
+          "lines": [
+            { "speaker": "Hương", "en": "Are you free on Saturday?", "vi": "Thứ Bảy bạn rảnh không?" },
+            { "speaker": "You", "me": true, "en": "I don't think so, sorry — I've got family over.", "vi": "Chắc là không, xin lỗi nhé — nhà mình có khách." },
+            { "speaker": "Hương", "en": "All day?", "vi": "Cả ngày à?" },
+            { "speaker": "You", "me": true, "en": "Probably not, but I won't know until Friday.", "vi": "Chắc không cả ngày, nhưng thứ Sáu mình mới biết." },
+            { "speaker": "Hương", "en": "Will you be too tired to come out after?", "vi": "Xong có mệt quá không đi được không?" },
+            { "speaker": "You", "me": true, "en": "I hope not! I'll message you either way.", "vi": "Mong là không! Kiểu gì mình cũng nhắn bạn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I think no.", "right": "I don't think so.", "why": "BẪY SỐ MỘT. Chữ <b>so</b> thay cho cả mệnh đề — <i>yes</i> và <i>no</i> không làm được việc đó." },
+            { "wrong": "I don't hope so.", "right": "I hope not.", "why": "Với <b>hope</b>, phủ định đặt ở CUỐI. Khác hẳn <i>think</i> vốn phủ định ở động từ." },
+            { "wrong": "I don't think not.", "right": "I don't think so.", "why": "Phủ định hai lần. Đã có <i>don't</i> thì cuối câu vẫn là <b>so</b>." },
+            { "wrong": "“Is it cancelled?” — “I'm afraid not.” <i>(ý: đúng, bị hủy rồi)</i>", "right": "I'm afraid so.", "why": "Chọn <b>so</b> hay <b>not</b> theo CÂU HỎI, không theo cảm xúc. Xác nhận “đúng vậy” thì luôn là <i>so</i>." },
+            { "wrong": "I think not. <i>(trong hội thoại hằng ngày)</i>", "right": "I don't think so.", "why": "<i>I think not</i> đúng ngữ pháp nhưng rất trang trọng và nghe kiêu kỳ trong đời thường." },
+            { "wrong": "No. <i>(trả lời khách hàng)</i>", "right": "I'm afraid not.", "why": "Chữ <i>No</i> trần trụi nghe cộc lốc. Trong dịch vụ luôn dùng <b>I'm afraid not</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu trả lời", "Sắc thái", "Lúc nào dùng"],
+          "rows": [
+            ["<code>I don't think so.</code>", "Phủ định mềm — mặc định", "Mọi hoàn cảnh."],
+            ["<code>I'm afraid not.</code>", "Nhã nhất — báo tin không vui", "Dịch vụ, khách hàng."],
+            ["<code>Not really.</code>", "Nhẹ nhất — chê mà không chê hẳn", "Trò chuyện."],
+            ["<code>I hope not.</code>", "Mong điều đó không xảy ra", "Khi nói về tương lai."],
+            ["<code>I doubt it.</code>", "Nghi ngờ rõ hơn", "Khi bạn khá chắc là không."],
+            ["<code>Not that I know of.</code>", "Giới hạn hiểu biết", "Xem [Khung 45]."],
+            ["<code>Not a chance.</code>", "Dứt khoát, rất thân mật", "Chỉ với người quen."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — trả lời “không” cho một lời rủ" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Not at the moment — maybe later?", "vi": "Nhẹ nhất — vẫn để ngỏ" },
+            { "en": "I don't think so, sorry.", "vi": "Từ chối mềm — chuẩn mực" },
+            { "en": "I'm afraid not.", "vi": "Nhã và dứt khoát" },
+            { "en": "Probably not, no.", "vi": "Gần như chắc chắn không" },
+            { "en": "Not a chance.", "vi": "Dứt khoát — chỉ với người thân" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>don't think</b> → âm /t/ cuối <i>don't</i> gần như biến mất, nghe như <b>“don-THINK”</b>.",
+            "Cả cụm nói nhanh thành <b>“ai-don-THINK-so”</b> — chỉ nhấn vào <i>THINK</i>.",
+            "Âm <b>/θ/</b> trong <i>think</i>: đầu lưỡi chạm nhẹ răng trên. Đừng đọc thành <i>tink</i> hay <i>sink</i>.",
+            "<b>so</b> ở cuối đọc nhẹ và <b>hạ giọng</b> — đó là ngữ điệu của một câu trả lời bình thường.",
+            "<b>Nếu nhấn mạnh vào “think” và hạ giọng sâu</b>, câu thành lời từ chối dứt khoát: <i>I DON'T think so.</i>",
+            "<b>I'm afraid not</b> → “aim-ə-FRAYD-not”, nói chậm và giọng trầm để nghe chân thành."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I don't think so, sorry.", "vi": "Luyện shadowing: “ai-don-THINK-so”, hạ giọng nhẹ ở cuối." },
+            { "en": "I'm afraid not — we sold the last one.", "vi": "Tập giọng trầm và chậm — đây là câu báo tin không vui." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "“Còn mở cửa không?” — “Tôi không nghĩ vậy.”", "blank": "“Is it open?” — “__________.”", "a": "I don't think so (KHÔNG phải “I think no”)" },
+            { "vi": "“Trời sẽ mưa à?” — “Mong là không.”", "blank": "“Will it rain?” — “__________.”", "a": "I hope not (KHÔNG phải “I don't hope so”)" },
+            { "vi": "“Bị hủy à?” — “Tiếc là đúng vậy.”", "blank": "“Is it cancelled?” — “__________.”", "a": "I'm afraid so" },
+            { "vi": "“Còn vé không?” — “Tiếc là hết rồi.”", "blank": "“Any tickets left?” — “__________.”", "a": "I'm afraid not" },
+            { "vi": "“Bạn thích không?” — “Không hẳn.”", "blank": "“Do you like it?” — “__________.”", "a": "Not really" },
+            { "vi": "Thật lòng thì tôi nghi là không.", "blank": "__________, honestly.", "a": "I doubt it" },
+            { "vi": "Hiện giờ thì chưa, cảm ơn.", "blank": "__________, thanks.", "a": "Not at the moment" },
+            { "vi": "Mình cũng không.", "blank": "__________.", "a": "Me neither" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tiếc là không ạ — cái cuối cùng đã bán sáng nay.", "a": "I'm afraid not — we sold the last one this morning." },
+            { "vi": "2. Chắc là không, xin lỗi nhé — nhà mình có khách.", "a": "I don't think so, sorry — I've got family over." },
+            { "vi": "3. Tôi nghĩ là không, nhưng để tôi kiểm tra lại.", "a": "I don't think so, but let me double-check." },
+            { "vi": "4. Tiếc là đúng vậy — khách đã dời ngày lên sớm.", "a": "I'm afraid so — the client pushed the date forward." },
+            { "vi": "5. Không hẳn — với mình hơi nhạt.", "a": "Not really — it was a bit bland for me." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Học thuộc bảng so/not:</b> <i>think</i> → <b>don't think so</b>; <i>hope</i> → <b>hope not</b>; <i>afraid</i> → <b>afraid so / afraid not</b>. Đây là điểm sai nhiều nhất.",
+            "<b>Xóa hẳn “I think no” khỏi đầu.</b> Chữ <i>so</i> thay cho cả mệnh đề, <i>no</i> không thay được.",
+            "<b>Chọn so hay not theo CÂU HỎI, không theo cảm xúc:</b> xác nhận tin xấu vẫn là <i>I'm afraid so</i>.",
+            "<b>Với khách hàng luôn dùng “I'm afraid not”</b> thay cho chữ <i>No</i> trần trụi.",
+            "<b>Ngữ điệu đổi hẳn sắc thái:</b> nói nhẹ là phủ định mềm; nhấn mạnh và hạ giọng sâu là “còn lâu”.",
+            "<b>Bài tập 3 phút:</b> lấy 8 câu hỏi có-không và trả lời mỗi câu hai lần — một lần với <i>I don't think so</i>, một lần với <i>I'm afraid not</i> hoặc <i>I hope not</i> tùy ngữ cảnh."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "id": 47,
+  "group": "Nhóm 11 · Mệnh đề & Dạng câu",
+  "title": "Câu tường thuật — lùi thì & đổi đại từ",
+  "subtitle": "Kể lại lời người khác thì động từ phải LÙI một bậc: am → was, will → would. Bẫy thứ hai là say và tell: He said me ✗ — tell mới đi thẳng với người, còn say phải có to.",
+  "meaning": "Kể lại lời của người khác",
+  "rule": [
+    "Động từ <em>lùi một bậc</em>: am → was · will → would",
+    "Đổi cả <em>đại từ</em> và <em>trạng từ thời gian</em>",
+    "<em>tell somebody</em> nhưng <em>say to somebody</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1", "hot": true },
+    { "text": "He said me ✗" },
+    { "text": "Lùi thì một bậc" },
+    { "text": "Tần suất: cao" }
+  ],
+  "frames": [37, 41, 43, 84, 87],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Khi kể lại lời ai đó bằng <i>He said…</i> hay <i>She told me…</i>, ta bỏ dấu ngoặc kép và <b>lùi động từ một bậc về quá khứ</b>, đồng thời chỉnh lại đại từ và mốc thời gian cho khớp với người đang kể." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — quên lùi thì:</b><br><i>He said he <b>is</b> busy</i> ✗ → <i>He said he <b>was</b> busy</i> ✓<br><i>She said she <b>will</b> call</i> ✗ → <i>She said she <b>would</b> call</i> ✓<br>Tiếng Việt không đổi động từ khi kể lại nên người Việt rất hay bỏ qua bước này. Quy luật: <b>lùi đúng một bậc</b>." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>say</i> và <i>tell</i>:</b><br><i>He <b>said me</b> that…</i> ✗<br><i>He <b>told me</b> that…</i> ✓ hoặc <i>He <b>said to me</b> that…</i> ✓<br>• <b>tell</b> + NGƯỜI ngay sau — <i>tell me, tell him</i><br>• <b>say</b> không đi thẳng với người, muốn nhắc người thì phải có <b>to</b>." },
+        { "t": "h3", "text": "Ba thứ phải đổi" },
+        {
+          "t": "table",
+          "head": ["Đổi gì", "Từ → thành", "Ví dụ"],
+          "rows": [
+            ["Động từ", "Lùi một bậc", "is → was · will → would"],
+            ["Đại từ", "Theo người đang kể", "I → he · my → his"],
+            ["Thời gian", "Lùi về mốc cũ", "today → that day · tomorrow → the next day"],
+            ["Nơi chốn", "Theo chỗ đang đứng", "here → there · this → that"]
+          ]
+        },
+        { "t": "p", "html": "Nếu điều được kể <b>vẫn đúng đến bây giờ</b> thì có thể <b>không lùi thì</b>: <i>He said he <b>lives</b> in Hanoi</i> ✓ — anh ấy vẫn đang sống ở đó." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Lời nói trực tiếp", "Tường thuật", "Ví dụ"],
+          "rows": [
+            ["Hiện tại đơn", "Quá khứ đơn", "\"I am busy.\" → He said he was busy."],
+            ["Hiện tại tiếp diễn", "Quá khứ tiếp diễn", "\"I'm working.\" → He said he was working."],
+            ["Quá khứ đơn", "Quá khứ hoàn thành", "\"I saw him.\" → He said he had seen him."],
+            ["Hiện tại hoàn thành", "Quá khứ hoàn thành", "\"I've finished.\" → He said he had finished."],
+            ["<code>will</code>", "<code>would</code>", "\"I'll call.\" → She said she would call."],
+            ["<code>can</code>", "<code>could</code>", "\"I can help.\" → He said he could help."],
+            ["<code>may</code>", "<code>might</code>", "\"I may be late.\" → He said he might be late."],
+            ["<code>must</code>", "<code>had to</code>", "\"I must go.\" → He said he had to go."],
+            ["<code>would / could / should</code>", "Không đổi", "\"I'd like it.\" → He said he'd like it."],
+            ["Câu hỏi Yes/No", "<code>asked if / whether</code>", "\"Are you OK?\" → He asked if I was OK."],
+            ["Câu hỏi Wh-", "<code>asked</code> + wh- + S + V", "\"Where is he?\" → She asked where he was."],
+            ["Mệnh lệnh", "<code>told sb to V</code> / <code>not to V</code>", "\"Wait!\" → He told me to wait."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Hai dòng cuối hay sai nhất:</b> câu hỏi khi tường thuật <b>KHÔNG đảo</b> và <b>không có dấu hỏi</b>.<br><i>She asked <b>where was he</b></i> ✗ → <i>She asked <b>where he was</b></i> ✓<br>Giống hệt luật câu hỏi gián tiếp. Xem [Ngữ pháp 44]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "He said he was busy.", "vi": "Anh ấy bảo anh ấy bận.", "note": "BẪY SỐ MỘT: <i>he said he is busy</i> ✗ — phải lùi <i>is</i> thành <i>was</i>." },
+            { "en": "She told me she would call.", "vi": "Cô ấy bảo tôi là cô ấy sẽ gọi.", "note": "<b>told me</b> ✓ — <i>said me</i> ✗. Và <i>will</i> lùi thành <i>would</i>." },
+            { "en": "He said to me that he was sorry.", "vi": "Anh ấy nói với tôi là anh ấy xin lỗi.", "note": "Muốn dùng <b>say</b> với người thì phải có <b>to</b>." },
+            { "en": "He said he had seen the film.", "vi": "Anh ấy bảo đã xem phim đó rồi.", "note": "Quá khứ đơn lùi thành quá khứ hoàn thành. Xem [Ngữ pháp 05]." },
+            { "en": "She said she could help.", "vi": "Cô ấy bảo có thể giúp được.", "note": "<i>can</i> lùi thành <i>could</i>. Xem [Ngữ pháp 29]." },
+            { "en": "He said he had to go.", "vi": "Anh ấy bảo phải đi rồi.", "note": "<i>must</i> lùi thành <i>had to</i>. Xem [Ngữ pháp 31]." },
+            { "en": "He asked if I was OK.", "vi": "Anh ấy hỏi tôi có ổn không.", "note": "Câu hỏi Yes/No thì dùng <b>asked if</b>." },
+            { "en": "She asked where he was.", "vi": "Cô ấy hỏi anh ta ở đâu.", "note": "KHÔNG đảo, KHÔNG có dấu hỏi. Xem [Ngữ pháp 44]." },
+            { "en": "He told me to wait here.", "vi": "Anh ấy bảo tôi đợi ở đây.", "note": "Mệnh lệnh thành <b>told sb to V</b>." },
+            { "en": "She told me not to worry.", "vi": "Cô ấy bảo tôi đừng lo.", "note": "Phủ định là <b>not to</b> + V, đặt trước <i>to</i>." },
+            { "en": "He said he lives in Hanoi.", "vi": "Anh ấy bảo anh ấy sống ở Hà Nội.", "note": "Vẫn đúng đến giờ nên có thể KHÔNG lùi thì." },
+            { "en": "I think that it's a good idea.", "vi": "Tôi nghĩ đó là ý hay.", "note": "Chủ ngữ là <i>I</i> ở hiện tại thì không lùi gì cả. Xem [Khung 41]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🗣", "title": "Kể lại lời ai đó", "text": "<i>He said he was busy.</i> Lùi thì một bậc." },
+            { "icon": "📞", "title": "Nhắn lại hộ người khác", "text": "<i>She told me she'd call you.</i>" },
+            { "icon": "❓", "title": "Kể lại câu hỏi", "text": "<i>He asked if I was OK.</i> Không đảo." },
+            { "icon": "📋", "title": "Kể lại yêu cầu", "text": "<i>He told me to wait.</i> / <i>not to worry.</i>" },
+            { "icon": "🕒", "title": "Sự thật vẫn đúng", "text": "Có thể không lùi: <i>He said he lives in Hanoi.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Đừng viết <i>said me</i>. Hoặc <i>told me</i>, hoặc <i>said to me</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một mục ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi mục đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ tường thuật",
+              "items": [
+                { "w": "say", "vi": "nói", "ex": "He said he was busy.", "exvi": "Anh ấy bảo anh ấy bận.", "note": "BẪY SỐ HAI: <i>say me</i> ✗. Muốn nhắc người thì <b>say to me</b>." },
+                { "w": "tell", "vi": "bảo ai", "ex": "She told me she would call.", "exvi": "Cô ấy bảo tôi là sẽ gọi.", "note": "<b>tell</b> đi THẲNG với người, không có <i>to</i>." },
+                { "w": "ask", "vi": "hỏi", "ex": "He asked if I was OK.", "exvi": "Anh ấy hỏi tôi có ổn không." },
+                { "w": "ask sb to V", "vi": "nhờ ai làm gì", "ex": "She asked me to wait.", "exvi": "Cô ấy nhờ tôi đợi." },
+                { "w": "tell sb to V", "vi": "bảo ai làm gì", "ex": "He told me to wait here.", "exvi": "Anh ấy bảo tôi đợi ở đây.", "note": "Mệnh lệnh tường thuật luôn dùng dạng này." },
+                { "w": "tell sb not to V", "vi": "bảo ai đừng làm gì", "ex": "She told me not to worry.", "exvi": "Cô ấy bảo tôi đừng lo.", "note": "<b>not</b> đứng TRƯỚC <i>to</i>." },
+                { "w": "explain", "vi": "giải thích", "ex": "He explained that it was broken.", "exvi": "Anh ấy giải thích là nó hỏng rồi.", "note": "<i>explain me</i> ✗ — phải là <b>explain to me</b>." },
+                { "w": "admit", "vi": "thừa nhận", "ex": "He admitted he was wrong.", "exvi": "Anh ấy thừa nhận mình sai." },
+                { "w": "suggest", "vi": "đề nghị", "ex": "He suggested that we leave early.", "exvi": "Anh ấy đề nghị bọn tôi đi sớm.", "note": "Sau <i>suggest</i> là động từ TRẦN. Xem [Ngữ pháp 18]." },
+                { "w": "promise", "vi": "hứa", "ex": "She promised she would come.", "exvi": "Cô ấy hứa sẽ đến." },
+                { "w": "complain", "vi": "phàn nàn", "ex": "He complained that it was too noisy.", "exvi": "Anh ấy phàn nàn là ồn quá." },
+                { "w": "wonder", "vi": "tự hỏi", "ex": "I wondered if he was coming.", "exvi": "Tôi tự hỏi anh ấy có đến không." }
+              ]
+            },
+            {
+              "title": "Từ đổi khi tường thuật",
+              "items": [
+                { "w": "now → then", "vi": "bây giờ → lúc đó", "ex": "He said he was busy then.", "exvi": "Anh ấy bảo lúc đó anh ấy bận." },
+                { "w": "today → that day", "vi": "hôm nay → hôm đó", "ex": "She said she was free that day.", "exvi": "Cô ấy bảo hôm đó cô ấy rảnh." },
+                { "w": "tomorrow → the next day", "vi": "ngày mai → hôm sau", "ex": "He said he would call the next day.", "exvi": "Anh ấy bảo hôm sau sẽ gọi." },
+                { "w": "yesterday → the day before", "vi": "hôm qua → hôm trước", "ex": "He said he had seen her the day before.", "exvi": "Anh ấy bảo hôm trước đã gặp cô ta." },
+                { "w": "last week → the week before", "vi": "tuần trước → tuần trước đó", "ex": "She said she had left the week before.", "exvi": "Cô ấy bảo đã nghỉ từ tuần trước đó." },
+                { "w": "next week → the following week", "vi": "tuần sau → tuần kế tiếp", "ex": "He said he would start the following week.", "exvi": "Anh ấy bảo tuần kế tiếp sẽ bắt đầu." },
+                { "w": "here → there", "vi": "ở đây → ở đó", "ex": "He said he would wait there.", "exvi": "Anh ấy bảo sẽ đợi ở đó." },
+                { "w": "this → that", "vi": "cái này → cái đó", "ex": "She said that book was hers.", "exvi": "Cô ấy bảo quyển sách đó là của cô ấy." },
+                { "w": "I → he / she", "vi": "đổi đại từ theo người kể", "ex": "\"I am tired.\" → He said he was tired.", "exvi": "Anh ấy bảo anh ấy mệt.", "note": "Quên đổi đại từ thì câu thành ra nói về chính mình." },
+                { "w": "my → his / her", "vi": "đổi sở hữu", "ex": "He said it was his car.", "exvi": "Anh ấy bảo đó là xe của anh ấy." },
+                { "w": "ago → before", "vi": "cách đây → trước đó", "ex": "He said he had left two days before.", "exvi": "Anh ấy bảo đã đi hai hôm trước đó.", "note": "<i>ago</i> không dùng được trong tường thuật lùi thì. Xem [Ngữ pháp 41]." },
+                { "w": "that", "vi": "rằng", "ex": "He said (that) he was busy.", "exvi": "Anh ấy bảo rằng anh ấy bận.", "note": "<b>that</b> gần như luôn bỏ được trong văn nói. Xem [Khung 41]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "He <b>said me</b> that he was busy.", "right": "He <b>told me</b> that he was busy.", "why": "BẪY SỐ HAI: <b>tell</b> đi thẳng với người, <b>say</b> thì cần <i>to</i>." },
+            { "wrong": "He <b>told to me</b> that he was busy.", "right": "He <b>told me</b> that he was busy.", "why": "Ngược lại — <b>tell</b> không bao giờ có <i>to</i> trước người." },
+            { "wrong": "He said he <b>is</b> busy.", "right": "He said he <b>was</b> busy.", "why": "BẪY SỐ MỘT: quên lùi thì. Động từ phải lùi một bậc." },
+            { "wrong": "She said she <b>will</b> call me.", "right": "She said she <b>would</b> call me.", "why": "<i>will</i> lùi thành <i>would</i>. Xem [Ngữ pháp 10]." },
+            { "wrong": "He said he <b>must</b> go.", "right": "He said he <b>had to</b> go.", "why": "<i>must</i> lùi thành <i>had to</i> khi tường thuật." },
+            { "wrong": "She asked <b>where was he</b>.", "right": "She asked <b>where he was</b>.", "why": "Câu hỏi tường thuật KHÔNG đảo. Xem [Ngữ pháp 44]." },
+            { "wrong": "He asked <b>if was I</b> OK?", "right": "He asked <b>if I was</b> OK.", "why": "Không đảo và không có dấu hỏi — nó là câu kể." },
+            { "wrong": "He told me <b>wait</b> here.", "right": "He told me <b>to wait</b> here.", "why": "Mệnh lệnh tường thuật là <b>tell sb to V</b>." },
+            { "wrong": "She told me <b>to not</b> worry.", "right": "She told me <b>not to</b> worry.", "why": "<b>not</b> đứng TRƯỚC <i>to</i>, không chen vào giữa." },
+            { "wrong": "He <b>explained me</b> the problem.", "right": "He <b>explained the problem to me</b>.", "why": "<i>explain</i> giống <i>say</i> — phải có <b>to</b> trước người." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>say</code> / <code>tell</code>", "Cần <code>to</code> / đi thẳng với người", "said to me ≠ told me"],
+            ["<code>said</code> / <code>said that</code>", "<code>that</code> bỏ được", "He said (that) he was busy."],
+            ["<code>ask if</code> / <code>ask wh-</code>", "Câu hỏi Yes/No / câu hỏi Wh-", "asked if I was OK ≠ asked where he was"],
+            ["<code>tell sb to V</code> / <code>tell sb that</code>", "Mệnh lệnh / lời kể", "told me to wait ≠ told me he was busy"],
+            ["<code>not to V</code> / <code>to not V</code>", "Đúng / sai", "told me not to worry ✓"],
+            ["Lùi thì / không lùi", "Chuyện cũ / vẫn còn đúng", "said he was busy ≠ said he lives in Hanoi"],
+            ["<code>must</code> → <code>had to</code>", "<code>must</code> không giữ nguyên khi lùi", "He said he had to go."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: tường thuật thế nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn muốn kể lại lời của ai đó — câu gốc là loại gì?",
+          "nodes": [
+            { "if": "Câu kể, và có nhắc tới người nghe", "then": "told + người + (that) …", "ex": "She told me she would call." },
+            { "if": "Câu kể, không nhắc người nghe", "then": "said (that) …", "ex": "He said he was busy." },
+            { "if": "Câu hỏi Yes/No", "then": "asked if / whether + S + V", "ex": "He asked if I was OK." },
+            { "if": "Câu hỏi Wh-", "then": "asked + wh- + S + V (không đảo)", "ex": "She asked where he was." },
+            { "if": "Câu mệnh lệnh", "then": "told sb to V / not to V", "ex": "He told me not to worry." },
+            { "if": "Điều được kể vẫn đúng đến giờ", "then": "Có thể không lùi thì", "ex": "He said he lives in Hanoi." }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ chắc chắn khi kể lại" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "He might have said something about it.", "vi": "Mơ hồ nhất" },
+            { "en": "I think he said he was busy.", "vi": "Không chắc lắm" },
+            { "en": "He said he was busy.", "vi": "Trung tính" },
+            { "en": "He told me clearly that he was busy.", "vi": "Chắc chắn" },
+            { "en": "His exact words were: \"I'm busy.\"", "vi": "Chắc nhất — trích nguyên văn" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Câu tường thuật xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 41, "why": "I think (that) + mệnh đề — cấu trúc mệnh đề that, nền của mọi câu tường thuật." },
+            { "id": 43, "why": "I believe (that) + mệnh đề — cùng khuôn, chỉ đổi động từ dẫn." },
+            { "id": 87, "why": "I'm worried (that) + mệnh đề — mệnh đề that sau tính từ." },
+            { "id": 84, "why": "I can't believe + mệnh đề — kể lại điều vừa nghe được." },
+            { "id": 37, "why": "I suggest (that) you + V — động từ trần sau suggest, ngoại lệ của luật lùi thì." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Đổi sang câu tường thuật" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Anh ấy bảo anh ấy bận.", "blank": "\"I am busy.\"  →  He said he __________ busy.", "a": "was" },
+            { "vi": "Cô ấy bảo tôi là sẽ gọi.", "blank": "\"I'll call you.\"  →  She __________ me she __________ call me.", "a": "told / would" },
+            { "vi": "Anh ấy bảo đã xem phim đó rồi.", "blank": "\"I saw the film.\"  →  He said he __________ the film.", "a": "had seen" },
+            { "vi": "Cô ấy bảo có thể giúp được.", "blank": "\"I can help.\"  →  She said she __________ help.", "a": "could" },
+            { "vi": "Anh ấy bảo phải đi rồi.", "blank": "\"I must go.\"  →  He said he __________ go.", "a": "had to" },
+            { "vi": "Anh ấy hỏi tôi có ổn không.", "blank": "\"Are you OK?\"  →  He asked __________ I __________ OK.", "a": "if / was" },
+            { "vi": "Cô ấy hỏi anh ta ở đâu.", "blank": "\"Where is he?\"  →  She asked where he __________.", "a": "was" },
+            { "vi": "Anh ấy bảo tôi đợi ở đây.", "blank": "\"Wait here.\"  →  He told me __________ here.", "a": "to wait" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn câu đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Anh ấy bảo tôi là anh ấy bận.", "blank": "(a) He said me that he was busy.  (b) He told me that he was busy.", "a": "(b)" },
+            { "vi": "Cô ấy hỏi anh ta ở đâu.", "blank": "(a) She asked where was he.  (b) She asked where he was.", "a": "(b)" },
+            { "vi": "Cô ấy bảo tôi đừng lo.", "blank": "(a) She told me to not worry.  (b) She told me not to worry.", "a": "(b)" },
+            { "vi": "Anh ấy bảo phải đi rồi.", "blank": "(a) He said he must go.  (b) He said he had to go.", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Cô ấy bảo tôi là cô ấy sẽ gọi.", "a": "She told me she would call." },
+            { "vi": "2. Anh ấy hỏi tôi có ổn không.", "a": "He asked if I was OK." },
+            { "vi": "3. Anh ấy bảo tôi đợi ở đây.", "a": "He told me to wait here." },
+            { "vi": "4. Cô ấy bảo tôi đừng lo.", "a": "She told me not to worry." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Lùi đúng một bậc:</b> <i>is → was</i>, <i>saw → had seen</i>, <i>will → would</i>, <i>can → could</i>, <i>must → had to</i>.",
+            "<b>Luật <i>say</i> / <i>tell</i> một dòng:</b> <b>tell</b> cần NGƯỜI ngay sau, <b>say</b> thì không — muốn nhắc người phải thêm <i>to</i>.",
+            "<b>Đổi ba thứ, không chỉ động từ:</b> đại từ, mốc thời gian và <i>here/this</i>.",
+            "<b>Câu hỏi tường thuật là câu KỂ:</b> không đảo, không dấu hỏi. Giống hệt [Ngữ pháp 44].",
+            "<b>Mệnh lệnh biến thành <i>to V</i>:</b> <i>told me to wait</i>, phủ định là <i>not to</i> — <b>not</b> luôn đứng trước <i>to</i>.",
+            "<b>Bài tập 3 phút:</b> nghe một đoạn hội thoại ngắn, kể lại cho người khác bằng năm câu bắt đầu bằng <i>He said…</i> và <i>She told me…</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

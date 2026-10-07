@@ -1,0 +1,277 @@
+{
+  "id": 29,
+  "group": "Nhóm 9 · Động từ khuyết thiếu",
+  "title": "can · could · be able to",
+  "subtitle": "Động từ khuyết thiếu có ba đặc điểm chung làm người Việt hay sai: sau chúng là động từ TRẦN, chúng không chia theo ngôi, và không bao giờ đứng cạnh một modal khác. Riêng could còn có hai nghĩa tách biệt — quá khứ và lời xin phép lịch sự.",
+  "meaning": "Khả năng · sự cho phép · lời đề nghị",
+  "rule": [
+    "<em>can / could</em> + V trần — không <em>to</em>, không <em>-s</em>",
+    "<em>Could you…?</em> — xin phép, nhờ vả lịch sự",
+    "<em>will be able to</em> — không bao giờ <em>will can</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2–B1", "hot": true },
+    { "text": "Sau modal là động từ trần" },
+    { "text": "will can ✗" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [46, 62, 63, 68, 69],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "<b>can</b> và <b>could</b> thuộc nhóm <b>động từ khuyết thiếu</b> — chúng bổ nghĩa cho động từ chính chứ không đứng một mình. Cả nhóm này chia sẻ ba đặc điểm, và nắm được ba điểm đó là tránh gần hết lỗi." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — ba luật chung của mọi modal:</b><br>1. Theo sau là <b>ĐỘNG TỪ TRẦN</b> — <i>He can <b>swim</b></i> ✓, <i>He can to swim</i> ✗<br>2. <b>Không chia theo ngôi</b> — <i>He <b>can</b></i> ✓, <i>He cans</i> ✗<br>3. <b>Không đứng cạnh modal khác</b> — <i>He <b>will be able to</b> swim</i> ✓, <i>He will can swim</i> ✗" },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>could</i> có HAI nghĩa tách biệt:</b><br>• <b>Quá khứ của <i>can</i></b> — <i>When I was young, I <b>could</b> run fast</i> = hồi trẻ tôi chạy nhanh.<br>• <b>Xin phép lịch sự ở HIỆN TẠI</b> — <i><b>Could</b> you help me?</i> = bạn giúp tôi được không?<br>Nghĩa thứ hai không liên quan gì đến quá khứ." },
+        { "t": "h3", "text": "Ba chức năng của can / could" },
+        {
+          "t": "table",
+          "head": ["Chức năng", "Dạng", "Ví dụ"],
+          "rows": [
+            ["Khả năng", "<code>can / could + V trần</code>", "I can swim. · I could swim at five."],
+            ["Xin phép", "<code>Can/Could I…?</code>", "Could I borrow your pen?"],
+            ["Nhờ vả", "<code>Can/Could you…?</code>", "Could you help me?"],
+            ["Thay thế khi cần chia thì", "<code>be able to</code>", "I'll be able to come."]
+          ]
+        },
+        { "t": "p", "html": "<b>be able to</b> sinh ra để lấp chỗ trống: khi cần dùng <i>can</i> ở một thì mà nó không có dạng — <i>will be able to</i> (tương lai), <i>have been able to</i> (hoàn thành), <i>to be able to</i> (nguyên thể)." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Khẳng định — hiện tại", "<code>S + can + V trần</code>", "I can swim."],
+            ["Phủ định", "<code>S + can't + V trần</code>", "I can't swim."],
+            ["Câu hỏi", "<code>Can + S + V trần?</code>", "Can you swim?"],
+            ["Khả năng quá khứ chung", "<code>S + could + V trần</code>", "I could swim at five."],
+            ["Phủ định quá khứ", "<code>S + couldn't + V trần</code>", "I couldn't find it."],
+            ["Làm được MỘT LẦN cụ thể", "<code>was/were able to</code>", "I was able to fix it."],
+            ["Tương lai", "<code>will be able to</code>", "I'll be able to come."],
+            ["Thì hoàn thành", "<code>have been able to</code>", "I haven't been able to reach him."],
+            ["Sau động từ khác", "<code>to be able to</code>", "I want to be able to speak Thai."],
+            ["Xin phép — thân mật", "<code>Can I…?</code>", "Can I borrow your pen?"],
+            ["Xin phép — lịch sự", "<code>Could I…?</code>", "Could I borrow your pen?"],
+            ["Nhờ vả — lịch sự nhất", "<code>Could you possibly…?</code>", "Could you possibly help me?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dòng 4 và 6 là cặp dễ nhầm:</b> <b>could</b> dùng cho khả năng CHUNG trong quá khứ (<i>I could swim at five</i>), còn <b>was able to</b> dùng khi nói làm được MỘT LẦN cụ thể (<i>The door was stuck, but I <b>was able to</b> open it</i>). Dùng <i>could</i> ở câu thứ hai nghe lạ." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I can swim, but not very well.", "vi": "Tôi biết bơi, nhưng không giỏi lắm.", "note": "BẪY SỐ MỘT: <b>swim</b> dạng trần, không có <i>to</i>." },
+            { "en": "He can speak three languages.", "vi": "Anh ấy nói được ba thứ tiếng.", "note": "<i>He cans</i> ✗ — modal không chia theo ngôi." },
+            { "en": "Could you help me with this?", "vi": "Bạn giúp tôi việc này được không?", "note": "BẪY SỐ HAI: <b>could</b> ở đây là LỊCH SỰ, không phải quá khứ. Xem [Khung 69]." },
+            { "en": "Could I borrow your pen?", "vi": "Cho tôi mượn bút được không?", "note": "<b>Could I…?</b> lịch sự hơn <i>Can I…?</i>" },
+            { "en": "When I was young, I could run fast.", "vi": "Hồi trẻ tôi chạy nhanh lắm.", "note": "Ở đây <b>could</b> mới là quá khứ của <i>can</i> — khả năng CHUNG." },
+            { "en": "The door was stuck, but I was able to open it.", "vi": "Cửa bị kẹt nhưng tôi mở được.", "note": "Làm được MỘT LẦN cụ thể thì dùng <b>was able to</b>, không dùng <i>could</i>." },
+            { "en": "I'll be able to come on Friday.", "vi": "Thứ Sáu tôi sẽ đến được.", "note": "Tương lai phải dùng <b>will be able to</b> — <i>will can</i> ✗." },
+            { "en": "I haven't been able to reach him.", "vi": "Tôi chưa liên lạc được với anh ấy.", "note": "Thì hoàn thành cũng phải mượn <b>be able to</b>." },
+            { "en": "I want to be able to speak Thai.", "vi": "Tôi muốn nói được tiếng Thái.", "note": "Sau <i>want to</i> thì <i>can</i> không dùng được — mượn <b>to be able to</b>." },
+            { "en": "Where can I find a taxi?", "vi": "Tôi tìm taxi ở đâu được ạ?", "note": "Câu hỏi đường rất thông dụng. Xem [Khung 62]." },
+            { "en": "I can't find my keys.", "vi": "Tôi không tìm thấy chìa khóa.", "note": "Phủ định viết liền: <b>can't</b> hoặc <b>cannot</b> — <i>can not</i> ít dùng." },
+            { "en": "I'd say it's worth trying.", "vi": "Tôi thấy đáng để thử.", "note": "<i>I'd</i> = <i>I would</i> — cũng là modal, cũng đi với động từ trần. Xem [Khung 46]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💪", "title": "Nói khả năng", "text": "<i>I can swim. · He can speak three languages.</i>" },
+            { "icon": "🙏", "title": "Nhờ vả lịch sự", "text": "<i>Could you help me?</i> Xem [Khung 69]." },
+            { "icon": "🙋", "title": "Xin phép", "text": "<i>Could I borrow your pen?</i>" },
+            { "icon": "🗺️", "title": "Hỏi đường, hỏi chỗ", "text": "<i>Where can I find a taxi?</i> Xem [Khung 62]." },
+            { "icon": "🔮", "title": "Nói khả năng tương lai", "text": "<i>I'll be able to come.</i> Không dùng <i>will can</i>." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Cần chia thì. Lúc đó mượn <i>be able to</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "can · could — khả năng và lời đề nghị",
+              "items": [
+                { "w": "can + V trần", "vi": "có thể, biết", "ex": "I can swim.", "exvi": "Tôi biết bơi.", "note": "BẪY SỐ MỘT: không <i>to</i>, không <i>-s</i>." },
+                { "w": "can't / cannot", "vi": "không thể", "ex": "I can't find my keys.", "exvi": "Tôi không tìm thấy chìa khóa.", "note": "Viết liền <b>cannot</b> hoặc rút gọn <b>can't</b>." },
+                { "w": "Can you…?", "vi": "bạn… được không?", "ex": "Can you help me?", "exvi": "Bạn giúp tôi được không?", "note": "Thân mật. Muốn lịch sự hơn thì dùng <i>Could you</i>." },
+                { "w": "Could you…?", "vi": "bạn… được không ạ?", "ex": "Could you help me with this?", "exvi": "Bạn giúp tôi việc này được không?", "note": "BẪY SỐ HAI: LỊCH SỰ, không phải quá khứ. Xem [Khung 69]." },
+                { "w": "Could I…?", "vi": "cho tôi… được không?", "ex": "Could I borrow your pen?", "exvi": "Cho tôi mượn bút được không?" },
+                { "w": "Could you possibly…?", "vi": "liệu bạn có thể…?", "ex": "Could you possibly help me?", "exvi": "Liệu bạn có thể giúp tôi không?", "note": "Lịch sự nhất — dùng khi nhờ việc lớn." },
+                { "w": "could (quá khứ)", "vi": "hồi đó có thể", "ex": "When I was young, I could run fast.", "exvi": "Hồi trẻ tôi chạy nhanh.", "note": "Khả năng CHUNG trong quá khứ." },
+                { "w": "couldn't", "vi": "đã không thể", "ex": "I couldn't find it anywhere.", "exvi": "Tôi tìm khắp nơi không thấy.", "note": "Phủ định quá khứ dùng được cho cả một lần cụ thể." },
+                { "w": "Where can I…?", "vi": "tôi… ở đâu được?", "ex": "Where can I find a taxi?", "exvi": "Tôi tìm taxi ở đâu ạ? Xem [Khung 62]." },
+                { "w": "How can I…?", "vi": "tôi… bằng cách nào?", "ex": "How can I get there?", "exvi": "Tôi đến đó bằng cách nào? Xem [Khung 63]." },
+                { "w": "can't help + V-ing", "vi": "không nhịn được", "ex": "I can't help laughing.", "exvi": "Tôi không nhịn được cười.", "note": "Thành ngữ — không phải nghĩa “không giúp được”." },
+                { "w": "can't stand", "vi": "không chịu nổi", "ex": "I can't stand waiting.", "exvi": "Tôi không chịu nổi việc chờ đợi.", "note": "Theo sau là V-ing. Xem [Ngữ pháp 24]." }
+              ]
+            },
+            {
+              "title": "be able to & các modal khác",
+              "items": [
+                { "w": "will be able to", "vi": "sẽ có thể", "ex": "I'll be able to come on Friday.", "exvi": "Thứ Sáu tôi sẽ đến được.", "note": "<i>will can</i> ✗ — hai modal không đứng cạnh nhau." },
+                { "w": "was / were able to", "vi": "đã làm được (một lần)", "ex": "The door was stuck, but I was able to open it.", "exvi": "Cửa kẹt nhưng tôi mở được.", "note": "Làm được MỘT LẦN cụ thể. Dùng <i>could</i> ở đây nghe lạ." },
+                { "w": "have been able to", "vi": "đã có thể", "ex": "I haven't been able to reach him.", "exvi": "Tôi chưa liên lạc được với anh ấy.", "note": "Thì hoàn thành phải mượn <b>be able to</b>." },
+                { "w": "to be able to", "vi": "để có thể", "ex": "I want to be able to speak Thai.", "exvi": "Tôi muốn nói được tiếng Thái.", "note": "Sau <i>want to, hope to</i> thì <i>can</i> không dùng được." },
+                { "w": "might be able to", "vi": "có khi làm được", "ex": "I might be able to help.", "exvi": "Có khi tôi giúp được.", "note": "Hai modal cần nhau thì cái thứ hai phải đổi sang <i>be able to</i>." },
+                { "w": "manage to + V", "vi": "xoay xở làm được", "ex": "I managed to finish on time.", "exvi": "Tôi xoay xở xong đúng hạn.", "note": "Gần nghĩa <i>was able to</i>, nhấn vào sự khó khăn. Xem [Ngữ pháp 24]." },
+                { "w": "know how to + V", "vi": "biết cách", "ex": "I know how to drive.", "exvi": "Tôi biết lái xe.", "note": "Nhấn vào KỸ NĂNG đã học, khác <i>can</i> chung chung." },
+                { "w": "be allowed to", "vi": "được phép", "ex": "We're not allowed to park here.", "exvi": "Ở đây không được đỗ xe.", "note": "Nhấn vào QUY ĐỊNH, khác <i>can</i> nói khả năng. Xem [Ngữ pháp 27]." },
+                { "w": "may I", "vi": "tôi… được không ạ", "ex": "May I come in?", "exvi": "Tôi vào được không ạ?", "note": "Trang trọng hơn <i>Could I</i> — hơi cổ. Xem [Ngữ pháp 30]." },
+                { "w": "would you mind + V-ing", "vi": "bạn có phiền không", "ex": "Would you mind waiting?", "exvi": "Bạn chờ một lát được không?", "note": "Rất lịch sự. Theo sau là V-ing, không phải động từ trần." },
+                { "w": "I'd say", "vi": "tôi thì thấy", "ex": "I'd say it's worth trying.", "exvi": "Tôi thấy đáng để thử.", "note": "<i>I'd</i> = <i>I would</i>, cũng là modal. Xem [Khung 46]." },
+                { "w": "What do you mean by…?", "vi": "ý bạn là sao?", "ex": "What do you mean by that?", "exvi": "Ý bạn là sao? Xem [Khung 68]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "He can <b>to swim</b>.", "right": "He can <b>swim</b>.", "why": "BẪY SỐ MỘT: sau mọi modal là ĐỘNG TỪ TRẦN, không bao giờ có <i>to</i>." },
+            { "wrong": "He <b>cans</b> speak three languages.", "right": "He <b>can</b> speak three languages.", "why": "Modal KHÔNG chia theo ngôi — không có <i>cans</i>, <i>coulds</i>." },
+            { "wrong": "I <b>will can</b> come on Friday.", "right": "I <b>will be able to</b> come on Friday.", "why": "Hai modal không đứng cạnh nhau. Phải đổi cái thứ hai sang <b>be able to</b>." },
+            { "wrong": "I <b>might can</b> help.", "right": "I <b>might be able to</b> help.", "why": "Cùng lỗi. <i>might</i> và <i>can</i> đều là modal." },
+            { "wrong": "I <b>have could</b> finish it.", "right": "I <b>have been able to</b> finish it.", "why": "Modal không có dạng V3 — thì hoàn thành phải mượn <b>be able to</b>." },
+            { "wrong": "I want to <b>can</b> speak Thai.", "right": "I want to <b>be able to</b> speak Thai.", "why": "Sau <i>to</i> nguyên thể thì <i>can</i> không dùng được." },
+            { "wrong": "The door was stuck, but I <b>could</b> open it.", "right": "The door was stuck, but I <b>was able to</b> open it.", "why": "Làm được MỘT LẦN cụ thể thì dùng <b>was able to</b>. <i>could</i> dành cho khả năng chung." },
+            { "wrong": "<b>Can</b> you help me? <i>(nhờ việc lớn)</i>", "right": "<b>Could</b> you possibly help me?", "why": "<i>Can you</i> hơi suồng sã khi nhờ việc lớn. <b>Could</b> lịch sự hơn hẳn. Xem [Khung 69]." },
+            { "wrong": "I can't help <b>to laugh</b>.", "right": "I can't help <b>laughing</b>.", "why": "<b>can't help + V-ing</b> là thành ngữ cố định." },
+            { "wrong": "Would you mind <b>wait</b>?", "right": "Would you mind <b>waiting</b>?", "why": "<i>mind</i> đi với V-ing, dù <i>would</i> là modal. Xem [Ngữ pháp 24]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Dùng khi", "Ví dụ"],
+          "rows": [
+            ["<code>can + V trần</code>", "Khả năng ở hiện tại", "I can swim."],
+            ["<code>could + V trần</code>", "Khả năng CHUNG ở quá khứ", "I could swim at five."],
+            ["<code>was able to</code>", "Làm được MỘT LẦN cụ thể", "I was able to open it."],
+            ["<code>will be able to</code>", "Khả năng tương lai", "I'll be able to come."],
+            ["<code>Could you…?</code>", "Nhờ vả lịch sự ở HIỆN TẠI", "Could you help me?"],
+            ["<code>be allowed to</code>", "Được phép theo quy định. Xem [Ngữ pháp 27]", "We're not allowed to park here."],
+            ["<code>know how to</code>", "Biết cách, kỹ năng đã học", "I know how to drive."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: can, could hay be able to?" },
+        {
+          "t": "tree",
+          "q": "Bạn nói về thì nào, và muốn diễn đạt gì?",
+          "nodes": [
+            { "if": "Khả năng ở hiện tại", "then": "can + V trần", "ex": "I can swim." },
+            { "if": "Khả năng CHUNG ở quá khứ", "then": "could + V trần", "ex": "I could swim at five." },
+            { "if": "Làm được MỘT LẦN cụ thể trong quá khứ", "then": "was/were able to", "ex": "I was able to open it." },
+            { "if": "Cần dùng ở tương lai hoặc thì hoàn thành", "then": "be able to — vì modal không chia thì", "ex": "I'll be able to come." },
+            { "if": "Muốn nhờ vả hoặc xin phép lịch sự", "then": "Could you…? / Could I…?", "ex": "Could you help me?" },
+            { "if": "Nói về quy định cho phép", "then": "be allowed to", "ex": "We're not allowed to park here." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ lịch sự khi nhờ vả" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Help me with this.", "vi": "Suồng sã nhất — mệnh lệnh" },
+            { "en": "Can you help me?", "vi": "Thân mật" },
+            { "en": "Could you help me?", "vi": "Lịch sự" },
+            { "en": "Could you possibly help me?", "vi": "Rất lịch sự" },
+            { "en": "I was wondering if you could help me.", "vi": "Lịch sự nhất — nhờ việc lớn" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "<i>can</i> và <i>could</i> xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 69, "why": "Could you explain…? — khung chính của could dùng để nhờ vả lịch sự." },
+            { "id": 62, "why": "Where can I…? — mẫu hỏi chỗ bằng can, rất thông dụng khi đi lại." },
+            { "id": 63, "why": "How do I get to…? — cùng nhóm câu hỏi đường, có cả How can I get there?" },
+            { "id": 68, "why": "What do you mean by…? — cách hỏi lại khi chưa hiểu, hay đi kèm Could you…?" },
+            { "id": 46, "why": "I'd say… — I would cũng là modal, cũng đi với động từ trần." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ hoặc điền từ" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi biết bơi.", "blank": "I can __________ (swim).", "a": "swim — động từ trần" },
+            { "vi": "Anh ấy nói được ba thứ tiếng.", "blank": "He __________ speak three languages.", "a": "can — không chia theo ngôi" },
+            { "vi": "Thứ Sáu tôi sẽ đến được.", "blank": "I'll __________ to come on Friday.", "a": "be able" },
+            { "vi": "Cửa kẹt nhưng tôi mở được.", "blank": "The door was stuck, but I __________ to open it.", "a": "was able" },
+            { "vi": "Tôi chưa liên lạc được với anh ấy.", "blank": "I haven't __________ to reach him.", "a": "been able" },
+            { "vi": "Tôi muốn nói được tiếng Thái.", "blank": "I want to __________ to speak Thai.", "a": "be able" },
+            { "vi": "Bạn giúp tôi việc này được không?", "blank": "__________ you help me with this?", "a": "Could" },
+            { "vi": "Tôi không nhịn được cười.", "blank": "I can't help __________ (laugh).", "a": "laughing" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Thứ Sáu tôi sẽ đến được.", "blank": "I __________ come on Friday.  (will can / will be able to)", "a": "will be able to" },
+            { "vi": "Hồi trẻ tôi chạy nhanh lắm.", "blank": "When I was young, I __________ run fast.  (could / was able to)", "a": "could — khả năng chung" },
+            { "vi": "Có khi tôi giúp được.", "blank": "I __________ help.  (might can / might be able to)", "a": "might be able to" },
+            { "vi": "Bạn chờ một lát được không?", "blank": "Would you mind __________?  (wait / waiting)", "a": "waiting" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Bạn giúp tôi việc này được không?", "a": "Could you help me with this?" },
+            { "vi": "2. Thứ Sáu tôi sẽ đến được.", "a": "I'll be able to come on Friday." },
+            { "vi": "3. Cửa bị kẹt nhưng tôi mở được.", "a": "The door was stuck, but I was able to open it." },
+            { "vi": "4. Tôi tìm taxi ở đâu được ạ?", "a": "Where can I find a taxi?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Ba luật chung của mọi modal:</b> động từ TRẦN theo sau · không chia theo ngôi · không đứng cạnh modal khác.",
+            "<b>Hai modal cần nhau thì đổi cái thứ hai:</b> <i>will <b>be able to</b></i>, <i>might <b>be able to</b></i> — không bao giờ <i>will can</i>.",
+            "<b><i>could</i> có hai nghĩa:</b> quá khứ của <i>can</i>, và lời nhờ vả LỊCH SỰ ở hiện tại. Ngữ cảnh quyết định.",
+            "<b>Một lần cụ thể thì dùng <i>was able to</i>:</b> <i>The door was stuck, but I <b>was able to</b> open it.</i>",
+            "<b>Nhờ việc lớn thì dùng <i>Could you possibly…?</i></b> — <i>Can you…?</i> nghe hơi suồng sã.",
+            "<b>Bài tập 3 phút:</b> viết năm việc bạn làm được bằng <i>I can…</i>, rồi đổi cả năm sang tương lai với <i>I'll be able to…</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

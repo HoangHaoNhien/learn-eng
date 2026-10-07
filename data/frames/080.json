@@ -1,0 +1,505 @@
+{
+  "id": 80,
+  "group": "Nhóm 8 · Giới thiệu & Xã giao",
+  "title": "Have a good…! / See you… — Chia tay cho tự nhiên",
+  "subtitle": "Khung câu đóng Nhóm 8. Chia tay trong tiếng Anh gần như không bao giờ chỉ là Goodbye — luôn có một lời chúc kèm theo. Và có một cái bẫy tưởng nhỏ mà ai cũng vấp: khi người ta chúc bạn, câu đáp đúng là You too, không phải Me too.",
+  "pattern": [
+    "Have a good <em>+ danh từ</em>!",
+    "See you <em>+ thời gian</em>.",
+    "You too! <em>(câu đáp)</em>"
+  ],
+  "meaning": "Chúc bạn… vui vẻ! / Hẹn gặp…",
+  "grammar": [10, 12, 39],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Bẫy “You too” / “Me too”" },
+    { "text": "Trình độ: A1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "Trong tiếng Anh, chia tay hiếm khi chỉ có một chữ <i>Bye</i>. Người ta gần như luôn thêm một <b>lời chúc</b> — <span class=\"k\">Have a good day!</span> — hoặc một <b>lời hẹn</b> — <span class=\"k\">See you tomorrow.</span>" },
+        { "t": "p", "html": "Chính lời chúc hoặc lời hẹn đó mới là phần mang cảm xúc. <i>Bye</i> trần trụi nghe lạnh và cụt; thêm <i>Have a good one!</i> thì cả cuộc trò chuyện kết thúc ấm áp." },
+        { "t": "p", "html": "Cũng nên biết: <b>Goodbye</b> đầy đủ nghe khá trang trọng, và đôi khi mang cảm giác <b>chia tay lâu dài</b>. Trong đời sống hằng ngày, người bản xứ chỉ nói <b>Bye</b> hoặc <b>Bye for now</b>." },
+        { "t": "callout", "html": "<b>BẪY AI CŨNG VẤP:</b> khi ai đó nói <i>Have a good weekend!</i>, câu đáp đúng là <span class=\"k\">You too!</span> — nghĩa là “chúc bạn cũng vậy”. Nói <i>Me too</i> ✗ nghe như bạn tự chúc mình, hoàn toàn sai." },
+        { "t": "h3", "text": "Hai kiểu chia tay" },
+        {
+          "t": "table",
+          "head": ["Kiểu", "Câu", "Dùng khi"],
+          "rows": [
+            ["Lời chúc", "<code>Have a good day!</code>", "Không biết khi nào gặp lại"],
+            ["Lời hẹn", "<code>See you tomorrow.</code>", "Biết rõ lần gặp tới"],
+            ["Lời hẹn mơ hồ", "<code>See you around.</code>", "Sẽ gặp nhưng không rõ khi nào"],
+            ["Quan tâm", "<code>Take care.</code>", "Ấm áp, hợp mọi hoàn cảnh"]
+          ]
+        },
+        { "t": "callout", "html": "<b>“See you again” nghe hơi lạ</b> trong lời chia tay thường ngày. Người bản xứ nói <b>See you soon</b> hoặc <b>See you around</b>. Dạng có <i>again</i> chỉ dùng khi bạn thật sự nhấn mạnh việc sẽ gặp lại." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "👋", "title": "Chia tay đồng nghiệp cuối ngày", "text": "Bối cảnh số 1. <i>See you tomorrow!</i>" },
+            { "icon": "🎉", "title": "Trước cuối tuần", "text": "<i>Have a good weekend!</i> Câu chuẩn chiều thứ Sáu." },
+            { "icon": "🛍", "title": "Rời cửa hàng, quán ăn", "text": "<i>Have a good one!</i> Nhân viên nói rất nhiều." },
+            { "icon": "✈️", "title": "Tiễn ai đi xa", "text": "<i>Safe travels!</i> Ấm và cụ thể." },
+            { "icon": "💙", "title": "Chia tay người thân", "text": "<i>Take care.</i> Quan tâm, ấm áp." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Đáp lại lời chúc bằng <i>Me too</i>. Luôn là <b>You too</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Lời chúc", "<code>Have a good + N!</code>", "Have a good weekend!"],
+            ["Chung chung", "<code>Have a good one!</code>", "Have a good one!"],
+            ["Lời hẹn cụ thể", "<code>See you + thời gian.</code>", "See you on Monday."],
+            ["Lời hẹn mơ hồ", "<code>See you around.</code>", "See you around."],
+            ["Thân mật", "<code>Catch you later.</code>", "Catch you later!"],
+            ["Quan tâm", "<code>Take care.</code>", "Take care, Mai."],
+            ["Tạm biệt ngắn", "<code>Bye for now.</code>", "Bye for now."],
+            ["Tiễn đi xa", "<code>Safe travels!</code>", "Safe travels!"],
+            ["Chúc trước bữa ăn", "<code>Enjoy your meal.</code>", "Enjoy your meal."],
+            ["Câu đáp", "<code>You too! / And you!</code>", "You too!"]
+          ]
+        },
+        { "t": "callout", "html": "<b>“Have a good one” là câu chúc vạn năng</b> — <i>one</i> thay cho bất cứ thứ gì: ngày, tối, cuối tuần. Rất tiện khi bạn không biết chúc gì cho hợp, và cực kỳ phổ biến ở Anh-Mỹ." },
+        { "t": "callout", "html": "<b>Kết hợp hai kiểu để nghe tự nhiên nhất:</b> <i>See you Monday — have a good weekend!</i> Vừa có lời hẹn vừa có lời chúc, đó là cách người bản xứ chia tay." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Lời chúc — “Have a good…”",
+              "items": [
+                { "w": "a good day", "vi": "một ngày tốt lành", "ex": "Have a good day!", "exvi": "Chúc anh/chị một ngày tốt lành!", "note": "Câu chúc phổ biến nhất — dùng buổi sáng và buổi trưa." },
+                { "w": "a good weekend", "vi": "cuối tuần vui vẻ", "ex": "Have a good weekend!", "exvi": "Chúc bạn cuối tuần vui vẻ!", "note": "Câu chuẩn của chiều thứ Sáu ở công sở." },
+                { "w": "a good evening", "vi": "buổi tối tốt lành", "ex": "Have a good evening.", "exvi": "Chúc anh/chị buổi tối tốt lành." },
+                { "w": "a good one", "vi": "một ngày vui", "ex": "Have a good one!", "exvi": "Chúc anh/chị vui nhé!", "note": "Câu chúc VẠN NĂNG — <i>one</i> thay cho bất cứ thứ gì. Rất tiện." },
+                { "w": "a good trip", "vi": "chuyến đi tốt đẹp", "ex": "Have a good trip!", "exvi": "Chúc chuyến đi tốt đẹp!" },
+                { "w": "a good holiday", "vi": "kỳ nghỉ vui vẻ", "ex": "Have a good holiday.", "exvi": "Chúc kỳ nghỉ vui vẻ.", "note": "Anh-Anh là <i>holiday</i>, Anh-Mỹ là <i>vacation</i>." },
+                { "w": "a good rest", "vi": "nghỉ ngơi cho khỏe", "ex": "Have a good rest.", "exvi": "Nghỉ ngơi cho khỏe nhé." },
+                { "w": "a lovely time", "vi": "khoảng thời gian tuyệt vời", "ex": "Have a lovely time!", "exvi": "Chúc bạn có khoảng thời gian tuyệt vời!", "note": "Ấm áp hơn <i>good</i> — rất Anh." },
+                { "w": "a safe journey", "vi": "hành trình bình an", "ex": "Have a safe journey.", "exvi": "Chúc hành trình bình an." },
+                { "w": "Safe travels", "vi": "đi đường bình an", "ex": "Safe travels!", "exvi": "Chúc đi đường bình an!", "note": "Ngắn gọn và ấm — câu tiễn người đi xa phổ biến nhất." },
+                { "w": "Enjoy your meal", "vi": "chúc ngon miệng", "ex": "Enjoy your meal.", "exvi": "Chúc anh/chị ngon miệng.", "note": "Nhân viên nhà hàng nói khi mang đồ ăn ra — đáp lại bằng <i>Thank you</i>." },
+                { "w": "Enjoy the rest of your day", "vi": "chúc phần còn lại của ngày vui vẻ", "ex": "Enjoy the rest of your day.", "exvi": "Chúc anh/chị phần còn lại của ngày vui vẻ.", "note": "Lịch sự và chu đáo — hay dùng vào buổi chiều." }
+              ]
+            },
+            {
+              "title": "Lời hẹn — “See you…”",
+              "items": [
+                { "w": "See you tomorrow", "vi": "hẹn gặp ngày mai", "ex": "See you tomorrow!", "exvi": "Hẹn gặp ngày mai!", "note": "Dùng khi bạn biết chắc sẽ gặp lại vào lúc nào." },
+                { "w": "See you on Monday", "vi": "hẹn gặp thứ Hai", "ex": "See you on Monday.", "exvi": "Hẹn gặp thứ Hai nhé.", "note": "Với thứ trong tuần thì dùng <b>on</b>." },
+                { "w": "See you later", "vi": "hẹn gặp lát nữa", "ex": "See you later!", "exvi": "Lát gặp lại nhé!", "note": "Nghĩa là sẽ gặp lại TRONG NGÀY — không phải “hẹn gặp sau”." },
+                { "w": "See you soon", "vi": "hẹn sớm gặp lại", "ex": "See you soon.", "exvi": "Hẹn sớm gặp lại." },
+                { "w": "See you around", "vi": "hẹn gặp lại", "ex": "See you around.", "exvi": "Hẹn gặp lại nhé.", "note": "Mơ hồ — sẽ gặp nhưng không rõ khi nào. Rất tự nhiên." },
+                { "w": "See you next week", "vi": "hẹn gặp tuần sau", "ex": "See you next week.", "exvi": "Hẹn gặp tuần sau." },
+                { "w": "Catch you later", "vi": "lát gặp nhé", "ex": "Catch you later!", "exvi": "Lát gặp nhé!", "note": "Rất thân mật — chỉ dùng với bạn bè và đồng nghiệp thân." },
+                { "w": "Speak soon", "vi": "sớm nói chuyện lại nhé", "ex": "Speak soon!", "exvi": "Sớm nói chuyện lại nhé!", "note": "Dùng khi kết thúc cuộc gọi hoặc tin nhắn — không phải gặp mặt." },
+                { "w": "Till next time", "vi": "hẹn lần sau", "ex": "Till next time.", "exvi": "Hẹn lần sau nhé.", "note": "Rút gọn của <i>until</i> — hơi có sắc thái văn vẻ." },
+                { "w": "Bye for now", "vi": "tạm biệt nhé", "ex": "Bye for now.", "exvi": "Tạm biệt nhé.", "note": "<i>for now</i> ngụ ý sẽ còn gặp lại — ấm hơn <i>Bye</i> trần." },
+                { "w": "Take care", "vi": "giữ gìn sức khỏe", "ex": "Take care, Mai.", "exvi": "Giữ gìn sức khỏe nhé Mai.", "note": "Quan tâm và ấm áp — hợp mọi hoàn cảnh, kể cả công việc." },
+                { "w": "Look after yourself", "vi": "tự chăm sóc bản thân nhé", "ex": "Look after yourself.", "exvi": "Nhớ tự chăm sóc bản thân nhé.", "note": "Rất Anh và rất ấm — dùng khi người kia đang mệt hoặc gặp khó khăn." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "You too!", "vi": "bạn cũng vậy!", "ex": "Have a good weekend! — You too!", "exvi": "Chúc cuối tuần vui vẻ! — Bạn cũng vậy!", "note": "BẪY AI CŨNG VẤP: là <b>You too</b>, KHÔNG phải <i>Me too</i> ✗." },
+                { "w": "And you!", "vi": "anh/chị cũng vậy!", "ex": "Have a good day! — And you!", "exvi": "Chúc một ngày tốt lành! — Anh/chị cũng vậy!", "note": "Rất Anh và rất ngắn gọn." },
+                { "w": "Same to you", "vi": "chúc bạn cũng vậy", "ex": "Same to you!", "exvi": "Chúc bạn cũng vậy!" },
+                { "w": "Thanks, you too", "vi": "cảm ơn, bạn cũng vậy", "ex": "Thanks, you too.", "exvi": "Cảm ơn, bạn cũng vậy.", "note": "Ghép cảm ơn với lời chúc lại — đầy đủ nhất." },
+                { "w": "Cheers, bye", "vi": "cảm ơn nhé, chào", "ex": "Cheers, bye!", "exvi": "Cảm ơn nhé, chào!", "note": "Rất Anh — <i>cheers</i> ở đây là cảm ơn. Xem [Khung 78]." },
+                { "w": "Will do", "vi": "sẽ làm vậy", "ex": "Take care! — Will do.", "exvi": "Giữ gìn sức khỏe nhé! — Sẽ vậy.", "note": "Đáp cho một lời dặn dò — ngắn và tự nhiên." },
+                { "w": "See you", "vi": "gặp lại nhé", "ex": "See you!", "exvi": "Gặp lại nhé!", "note": "Rút gọn của <i>See you later</i> — dùng rất nhiều." },
+                { "w": "Have fun!", "vi": "chơi vui nhé!", "ex": "Have fun!", "exvi": "Chơi vui nhé!" },
+                { "w": "Say hi to…", "vi": "cho tôi gửi lời chào đến", "ex": "Say hi to Nam for me.", "exvi": "Cho mình gửi lời chào Nam nhé.", "note": "Kết thúc ấm áp — cho thấy bạn nhớ đến người vắng mặt." },
+                { "w": "Get home safe", "vi": "về nhà an toàn nhé", "ex": "Get home safe.", "exvi": "Về nhà an toàn nhé.", "note": "Quan tâm cụ thể — hay dùng khi chia tay buổi tối." },
+                { "w": "Text me when you're back", "vi": "về đến nơi nhắn mình nhé", "ex": "Text me when you're back.", "exvi": "Về đến nơi nhắn mình nhé." },
+                { "w": "Let's do this again", "vi": "mình gặp lại thế này nhé", "ex": "Let's do this again soon.", "exvi": "Hôm nào mình gặp lại thế này nhé." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "See you Monday — have a good weekend!",
+                  "vi": "Hẹn gặp thứ Hai — chúc cuối tuần vui vẻ!",
+                  "note": "Kết hợp LỜI HẸN và LỜI CHÚC — đây là cách chia tay tự nhiên nhất của người bản xứ.",
+                  "open": { "en": "Right, I'm off —", "vi": "Được rồi, tôi về đây —" },
+                  "reply": [
+                    { "them": "You too! Any plans?", "themvi": "Anh/chị cũng vậy! Có kế hoạch gì không?", "you": "Nothing much. Rest, mostly.", "youvi": "Chẳng có gì. Chủ yếu là nghỉ ngơi." },
+                    { "them": "Thanks, and you.", "themvi": "Cảm ơn, anh/chị cũng vậy.", "you": "See you bright and early.", "youvi": "Hẹn gặp sáng sớm nhé." }
+                  ],
+                  "close": { "en": "Bye for now.", "vi": "Tạm biệt nhé." }
+                },
+                {
+                  "en": "Enjoy the rest of your day.",
+                  "vi": "Chúc anh/chị phần còn lại của ngày vui vẻ.",
+                  "note": "Lịch sự và chu đáo — hay dùng vào buổi chiều, khi <i>Have a good day</i> đã hơi muộn.",
+                  "reply": [
+                    { "them": "You too, thanks.", "themvi": "Anh/chị cũng vậy, cảm ơn.", "you": "Speak soon.", "youvi": "Sớm nói chuyện lại nhé." }
+                  ],
+                  "vars": [
+                    { "en": "Have a good afternoon.", "vi": "Chúc anh/chị buổi chiều tốt lành." }
+                  ]
+                },
+                {
+                  "en": "Speak soon!",
+                  "vi": "Sớm nói chuyện lại nhé!",
+                  "note": "Dùng khi kết thúc CUỘC GỌI hoặc tin nhắn — không phải gặp mặt, nên không dùng <i>See you</i>.",
+                  "reply": [
+                    { "them": "Will do. Thanks again.", "themvi": "Sẽ vậy. Cảm ơn lần nữa.", "you": "Any time.", "youvi": "Lúc nào cũng được." }
+                  ]
+                },
+                {
+                  "en": "Take care — and say hi to the team for me.",
+                  "vi": "Giữ gìn sức khỏe nhé — cho tôi gửi lời chào cả đội.",
+                  "note": "Kết thúc ấm áp — cho thấy bạn nhớ đến cả những người vắng mặt.",
+                  "reply": [
+                    { "them": "Will do. Take care yourself.", "themvi": "Sẽ chuyển lời. Anh/chị cũng giữ sức khỏe.", "you": "Bye for now.", "youvi": "Tạm biệt nhé." }
+                  ],
+                  "close": { "en": "See you next month.", "vi": "Hẹn gặp tháng sau." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Have a good one!",
+                  "vi": "Chúc bạn vui nhé!",
+                  "note": "Câu chúc VẠN NĂNG — <i>one</i> thay cho ngày, tối, cuối tuần. Rất tiện khi không biết chúc gì.",
+                  "reply": [
+                    { "them": "You too!", "themvi": "Bạn cũng vậy!", "you": "See you around.", "youvi": "Hẹn gặp lại nhé." }
+                  ]
+                },
+                {
+                  "en": "Get home safe. Text me when you're back.",
+                  "vi": "Về nhà an toàn nhé. Về đến nơi nhắn mình.",
+                  "note": "Quan tâm cụ thể — cách chia tay ấm áp nhất khi chia tay buổi tối muộn.",
+                  "open": { "en": "Right, it's getting late —", "vi": "Thôi, muộn rồi —" },
+                  "reply": [
+                    { "them": "Will do. Thanks for tonight.", "themvi": "Sẽ nhắn. Cảm ơn vì tối nay.", "you": "Let's do this again soon.", "youvi": "Hôm nào mình gặp lại thế này nhé." }
+                  ],
+                  "close": { "en": "Night!", "vi": "Ngủ ngon!" }
+                },
+                {
+                  "en": "Catch you later!",
+                  "vi": "Lát gặp nhé!",
+                  "note": "Rất thân mật — chỉ dùng với bạn bè. Không dùng với khách hàng hay cấp trên.",
+                  "reply": [
+                    { "them": "Later!", "themvi": "Lát gặp!", "you": "Don't be late.", "youvi": "Đừng đến muộn đấy." }
+                  ],
+                  "vars": [
+                    { "en": "See you later!", "vi": "Lát gặp lại nhé!" }
+                  ]
+                },
+                {
+                  "en": "Look after yourself.",
+                  "vi": "Nhớ tự chăm sóc bản thân nhé.",
+                  "note": "Rất Anh và rất ấm — dùng khi người kia đang mệt mỏi hoặc gặp khó khăn.",
+                  "reply": [
+                    { "them": "I will. Thanks for listening.", "themvi": "Mình sẽ. Cảm ơn đã lắng nghe.", "you": "Any time. Call me if you need to.", "youvi": "Lúc nào cũng vậy. Cần thì gọi mình." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Thanks — have a good one!",
+                  "vi": "Cảm ơn — chúc anh/chị vui nhé!",
+                  "note": "Câu nhân viên nói khi khách rời đi — cực kỳ phổ biến, ngắn và ấm.",
+                  "reply": [
+                    { "them": "You too, thanks.", "themvi": "Em cũng vậy, cảm ơn.", "you": "See you next time.", "youvi": "Hẹn gặp lại lần sau ạ." }
+                  ],
+                  "close": { "en": "Take care!", "vi": "Giữ gìn sức khỏe ạ!" }
+                },
+                {
+                  "en": "Have a good day!",
+                  "vi": "Chúc anh/chị một ngày tốt lành!",
+                  "note": "Đáp lại bằng <b>You too</b>, KHÔNG phải <i>Me too</i> ✗ — đây là bẫy ai cũng vấp.",
+                  "reply": [
+                    { "them": "And you!", "themvi": "Em cũng vậy!", "you": "Thanks for your help.", "youvi": "Cảm ơn em đã giúp." }
+                  ],
+                  "vars": [
+                    { "en": "Have a lovely day.", "vi": "Chúc anh/chị một ngày thật đẹp." }
+                  ]
+                },
+                {
+                  "en": "See you next week — same time?",
+                  "vi": "Hẹn gặp tuần sau — vẫn giờ này chứ?",
+                  "reply": [
+                    { "them": "Same time. Bye for now.", "themvi": "Vẫn giờ đó. Tạm biệt ạ.", "you": "Cheers, bye!", "youvi": "Cảm ơn nhé, chào!" }
+                  ]
+                },
+                {
+                  "en": "Thanks again — bye for now.",
+                  "vi": "Cảm ơn lần nữa — tạm biệt nhé.",
+                  "note": "<i>for now</i> ngụ ý sẽ còn gặp lại — ấm hơn hẳn một chữ <i>Bye</i> trần trụi.",
+                  "reply": [
+                    { "them": "Bye! See you soon.", "themvi": "Chào ạ! Hẹn sớm gặp lại.", "you": "Take care.", "youvi": "Giữ gìn sức khỏe nhé." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Safe travels!",
+                  "vi": "Chúc đi đường bình an!",
+                  "note": "Ngắn gọn và ấm — câu tiễn người đi xa phổ biến nhất trong tiếng Anh.",
+                  "reply": [
+                    { "them": "Thanks! You too.", "themvi": "Cảm ơn! Bạn cũng vậy.", "you": "Text me when you land.", "youvi": "Hạ cánh nhớ nhắn mình." }
+                  ],
+                  "close": { "en": "Enjoy the trip!", "vi": "Chúc chuyến đi vui vẻ!" }
+                },
+                {
+                  "en": "Have a good trip — say hi to your family.",
+                  "vi": "Chúc chuyến đi tốt đẹp — cho mình gửi lời chào gia đình bạn.",
+                  "reply": [
+                    { "them": "Will do. See you in two weeks.", "themvi": "Sẽ chuyển lời. Hai tuần nữa gặp.", "you": "Safe journey!", "youvi": "Chúc hành trình bình an!" }
+                  ],
+                  "vars": [
+                    { "en": "Have a safe journey.", "vi": "Chúc hành trình bình an." }
+                  ]
+                },
+                {
+                  "en": "Enjoy your stay!",
+                  "vi": "Chúc anh/chị ở lại vui vẻ!",
+                  "note": "Câu nhân viên khách sạn nói khi trao chìa khóa phòng — chuẩn mực trong ngành.",
+                  "reply": [
+                    { "them": "Thank you very much.", "themvi": "Cảm ơn em rất nhiều.", "you": "Anything you need, just ring down.", "youvi": "Cần gì anh/chị cứ gọi xuống ạ." }
+                  ]
+                },
+                {
+                  "en": "See you around!",
+                  "vi": "Hẹn gặp lại nhé!",
+                  "note": "Mơ hồ — sẽ gặp nhưng không rõ khi nào. Rất tự nhiên với bạn đồng hành mới quen.",
+                  "reply": [
+                    { "them": "Hopefully! It's been great.", "themvi": "Hy vọng vậy! Vui lắm.", "you": "It really has.", "youvi": "Đúng là vui thật." }
+                  ],
+                  "close": { "en": "Take care of yourself.", "vi": "Tự chăm sóc bản thân nhé." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Enjoy your meal.",
+                  "vi": "Chúc anh/chị ngon miệng.",
+                  "note": "Nhân viên nói khi mang đồ ăn ra. Đáp lại đơn giản bằng <i>Thank you</i>.",
+                  "reply": [
+                    { "them": "Thank you.", "themvi": "Cảm ơn em.", "you": "Let me know if you need anything.", "youvi": "Cần gì anh/chị cứ gọi em ạ." }
+                  ]
+                },
+                {
+                  "en": "Thanks for tonight — let's do this again soon.",
+                  "vi": "Cảm ơn vì tối nay — hôm nào mình gặp lại thế này nhé.",
+                  "note": "Câu chia tay sau một bữa ăn vui — vừa cảm ơn vừa mở đường cho lần sau.",
+                  "open": { "en": "Right, I should get going —", "vi": "Thôi, mình nên về —" },
+                  "reply": [
+                    { "them": "Definitely. Get home safe.", "themvi": "Chắc chắn rồi. Về nhà an toàn nhé.", "you": "Will do. Night!", "youvi": "Sẽ vậy. Ngủ ngon!" }
+                  ],
+                  "close": { "en": "Text me when you're back.", "vi": "Về đến nơi nhắn mình nhé." }
+                },
+                {
+                  "en": "Have a lovely evening.",
+                  "vi": "Chúc anh/chị buổi tối thật đẹp.",
+                  "note": "<b>lovely</b> ấm hơn <i>good</i> — rất Anh và rất chu đáo.",
+                  "reply": [
+                    { "them": "You too, thank you.", "themvi": "Em cũng vậy, cảm ơn.", "you": "See you next time.", "youvi": "Hẹn gặp lại lần sau." }
+                  ],
+                  "vars": [
+                    { "en": "Have a good evening.", "vi": "Chúc anh/chị buổi tối tốt lành." }
+                  ]
+                },
+                {
+                  "en": "Have fun!",
+                  "vi": "Chơi vui nhé!",
+                  "reply": [
+                    { "them": "We will! See you Monday.", "themvi": "Bọn mình sẽ! Hẹn gặp thứ Hai.", "you": "Have a good weekend.", "youvi": "Chúc cuối tuần vui vẻ." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Rời văn phòng chiều thứ Sáu",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Right, I'm off. See you Monday — have a good weekend!", "vi": "Được rồi, tôi về đây. Hẹn gặp thứ Hai — chúc cuối tuần vui vẻ!" },
+            { "speaker": "Colleague", "en": "You too! Any plans?", "vi": "Anh/chị cũng vậy! Có kế hoạch gì không?" },
+            { "speaker": "You", "me": true, "en": "Nothing much — rest, mostly. You?", "vi": "Chẳng có gì — chủ yếu là nghỉ ngơi. Còn anh/chị?" },
+            { "speaker": "Colleague", "en": "Family visiting. Should be fun.", "vi": "Gia đình đến chơi. Chắc vui." },
+            { "speaker": "You", "me": true, "en": "Have fun! And say hi to the team for me.", "vi": "Chơi vui nhé! Cho tôi gửi lời chào cả đội." },
+            { "speaker": "Colleague", "en": "Will do. Take care!", "vi": "Sẽ chuyển lời. Giữ gìn sức khỏe nhé!" }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Chia tay bạn sau bữa tối",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Right, I should get going. Thanks for tonight.", "vi": "Thôi, mình nên về. Cảm ơn vì tối nay." },
+            { "speaker": "Friend", "en": "Thanks for coming! Let's do this again soon.", "vi": "Cảm ơn bạn đã đến! Hôm nào mình gặp lại thế này nhé." },
+            { "speaker": "You", "me": true, "en": "Definitely. Get home safe.", "vi": "Chắc chắn rồi. Về nhà an toàn nhé." },
+            { "speaker": "Friend", "en": "You too. Text me when you're back.", "vi": "Bạn cũng vậy. Về đến nơi nhắn mình." },
+            { "speaker": "You", "me": true, "en": "Will do. Say hi to Mai for me.", "vi": "Sẽ nhắn. Cho mình gửi lời chào Mai." },
+            { "speaker": "Friend", "en": "I will. Night!", "vi": "Mình sẽ. Ngủ ngon!" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "“Have a good weekend!” — “Me too!”", "right": "You too!", "why": "BẪY AI CŨNG VẤP. Người ta chúc BẠN, nên bạn chúc lại HỌ: <b>You too</b>. <i>Me too</i> nghe như bạn tự chúc mình." },
+            { "wrong": "Have a good weekend! — Thank you, you also.", "right": "Thanks, you too.", "why": "<i>You also</i> nghe cứng và không tự nhiên. Dạng đúng là <b>you too</b> hoặc <b>and you</b>." },
+            { "wrong": "Have good day!", "right": "Have a good day!", "why": "Thiếu mạo từ <b>a</b>. Cấu trúc luôn là <i>Have <b>a</b> good + danh từ</i>." },
+            { "wrong": "See you again! <i>(chia tay hằng ngày)</i>", "right": "See you soon! / See you around!", "why": "<i>See you again</i> nghe hơi lạ trong lời chia tay thường ngày. Người bản xứ dùng <b>soon</b> hoặc <b>around</b>." },
+            { "wrong": "Goodbye. <i>(chia tay đồng nghiệp cuối ngày)</i>", "right": "Bye! See you tomorrow.", "why": "<i>Goodbye</i> đầy đủ nghe trang trọng và đôi khi mang cảm giác chia tay lâu dài. Hằng ngày chỉ nói <b>Bye</b>." },
+            { "wrong": "See you in Monday.", "right": "See you on Monday.", "why": "Với thứ trong tuần thì dùng <b>on</b>. Xem thêm luật giới từ thời gian ở [Khung 61]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu", "Sắc thái", "Dùng khi"],
+          "rows": [
+            ["<code>Bye!</code>", "Ngắn nhất, trung tính", "Hằng ngày."],
+            ["<code>Have a good day!</code>", "Lời chúc", "Không biết khi nào gặp lại."],
+            ["<code>Have a good one!</code>", "Vạn năng, thân thiện", "Khi không biết chúc gì cho hợp."],
+            ["<code>See you tomorrow.</code>", "Lời hẹn cụ thể", "Biết rõ lần gặp tới."],
+            ["<code>See you around.</code>", "Lời hẹn mơ hồ", "Sẽ gặp nhưng không rõ khi nào."],
+            ["<code>Take care.</code>", "Quan tâm, ấm áp", "Mọi hoàn cảnh."],
+            ["<code>Goodbye.</code>", "Trang trọng, hơi dứt khoát", "Chia tay lâu dài."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — chia tay đồng nghiệp" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Bye.", "vi": "Ngắn nhất — có thể hơi cụt" },
+            { "en": "See you tomorrow.", "vi": "Có lời hẹn — ấm hơn" },
+            { "en": "Have a good evening!", "vi": "Có lời chúc — chu đáo" },
+            { "en": "See you Monday — have a good weekend!", "vi": "Cả hẹn lẫn chúc — tự nhiên nhất" },
+            { "en": "Take care — and say hi to the team for me.", "vi": "Ấm nhất — nhớ cả người vắng mặt" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Have a good</b> nối âm thành <b>“hæ-və-GUD”</b> — chữ <i>a</i> lướt gần như biến mất.",
+            "<b>See you</b> → “si-yu” hoặc gọn hơn nữa là <b>“siu”</b> khi nói rất nhanh.",
+            "<b>See you later</b> → “si-yə-LEI-tə”, ba từ dính thành một khối.",
+            "<b>You too</b> → “yu-TOO”, nhấn vào <i>TOO</i> — đó là từ mang nghĩa đáp lễ.",
+            "<b>Trọng âm rơi vào danh từ được chúc:</b> <i>Have a good</i> <b>WEEK</b>-end!",
+            "<b>Giọng lên cao và ấm ở cuối</b> — lời chia tay nói giọng phẳng nghe như đuổi khách."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "See you Monday — have a good weekend!", "vi": "Luyện shadowing: nối “hæ-və-GUD” rồi nhấn WEEK-end, lên giọng." },
+            { "en": "You too, thanks.", "vi": "Tập nhấn TOO — đây là từ phân biệt với <i>Me too</i> sai." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Chúc bạn cuối tuần vui vẻ!", "blank": "__________ weekend!", "a": "Have a good (nhớ mạo từ “a”)" },
+            { "vi": "“Chúc cuối tuần vui vẻ!” — “Bạn cũng vậy!”", "blank": "Have a good weekend! — __________!", "a": "You too (KHÔNG phải “Me too”)" },
+            { "vi": "Hẹn gặp thứ Hai nhé.", "blank": "See you __________ Monday.", "a": "on" },
+            { "vi": "Chúc anh/chị vui nhé! (vạn năng)", "blank": "Have a __________!", "a": "good one" },
+            { "vi": "Chúc đi đường bình an!", "blank": "__________!", "a": "Safe travels" },
+            { "vi": "Lát gặp nhé! (rất thân mật)", "blank": "__________!", "a": "Catch you later" },
+            { "vi": "Nhớ tự chăm sóc bản thân nhé.", "blank": "__________.", "a": "Look after yourself" },
+            { "vi": "Về nhà an toàn nhé.", "blank": "__________.", "a": "Get home safe" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Hẹn gặp thứ Hai — chúc cuối tuần vui vẻ!", "a": "See you Monday — have a good weekend!" },
+            { "vi": "2. Chúc anh/chị phần còn lại của ngày vui vẻ.", "a": "Enjoy the rest of your day." },
+            { "vi": "3. Về nhà an toàn nhé. Về đến nơi nhắn mình.", "a": "Get home safe. Text me when you're back." },
+            { "vi": "4. Giữ gìn sức khỏe nhé — cho tôi gửi lời chào cả đội.", "a": "Take care — and say hi to the team for me." },
+            { "vi": "5. Cảm ơn vì tối nay — hôm nào mình gặp lại thế này nhé.", "a": "Thanks for tonight — let's do this again soon." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Khắc vào đầu: đáp lời chúc là “You too”</b>, không bao giờ <i>Me too</i>. Đây là bẫy ai cũng vấp ít nhất một lần.",
+            "<b>Đừng chia tay bằng một chữ “Bye” trần trụi</b> — luôn thêm một lời chúc hoặc một lời hẹn.",
+            "<b>Kết hợp cả hai cho tự nhiên nhất:</b> <i>See you Monday — have a good weekend!</i>",
+            "<b>“Have a good one” là câu chúc vạn năng</b> khi bạn không biết chúc gì cho hợp hoàn cảnh.",
+            "<b>“Goodbye” hơi trang trọng</b> và đôi khi mang cảm giác chia tay lâu dài — hằng ngày chỉ cần <i>Bye</i>.",
+            "<b>Bài tập 3 phút:</b> viết năm lời chia tay cho năm hoàn cảnh — cuối ngày làm, chiều thứ Sáu, tiễn người đi xa, rời quán ăn, chia tay bạn thân."
+          ]
+        }
+      ]
+    }
+  ]
+}

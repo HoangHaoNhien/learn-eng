@@ -1,0 +1,470 @@
+{
+  "id": 24,
+  "title": "to be ở quá khứ — was và were",
+  "teaches": [
+    "was",
+    "were",
+    "wasn't",
+    "weren't",
+    "is",
+    "are",
+    "am",
+    "yesterday",
+    "last",
+    "ago",
+    "born",
+    "Monday",
+    "Hue",
+    "English",
+    "parents",
+    "children",
+    "ready",
+    "open",
+    "driver"
+  ],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Xong bài này bạn nói được về <b>quá khứ</b> với <code>to be</code>: <i>I was at home yesterday</i> · <i>They were busy</i>."
+        },
+        {
+          "t": "p",
+          "html": "Đây là <b>bước đầu tiên vào thì quá khứ</b> — phần lớn còn lại để tab Ngữ pháp dạy, nhưng <code>was/were</code> thì dùng mỗi ngày nên học luôn."
+        },
+        {
+          "t": "callout",
+          "html": "<b>Ba dạng rút còn HAI.</b><br><br>Hiện tại: <i>am · is · are</i> — ba dạng.<br>Quá khứ: <i>was · were</i> — chỉ <b>hai</b>.<br><br><i>I · he · she · it</i> → <b>was</b><br><i>you · we · they</i> → <b>were</b><br><br>Dễ hơn hiện tại một bậc."
+        }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Bài 07 — <code>to be</code> ở hiện tại. Bài 08 — thêm <b>not</b>. Bài 09 — đảo chỗ để hỏi. Ba luật đó giữ nguyên, chỉ đổi <i>am/is/are</i> thành <i>was/were</i>."
+        },
+        {
+          "t": "link",
+          "items": [
+            {
+              "id": 7,
+              "label": "Bài 07 — to be ở hiện tại"
+            },
+            {
+              "id": 8,
+              "label": "Bài 08 — nói KHÔNG với to be"
+            },
+            {
+              "id": 9,
+              "label": "Bài 09 — hỏi với to be"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        {
+          "t": "table",
+          "head": [
+            "Luật",
+            "Nghĩa là gì",
+            "Ví dụ"
+          ],
+          "rows": [
+            [
+              "<b>1.</b> <b>I · he · she · it</b> → <b>was</b>",
+              "Để ý: <i>I</i> đi với <b>was</b>, không phải <i>were</i>",
+              "<i>I was at home.</i>"
+            ],
+            [
+              "<b>2.</b> <b>you · we · they</b> → <b>were</b>",
+              "Số nhiều và <i>you</i>",
+              "<i>They were busy.</i>"
+            ],
+            [
+              "<b>3.</b> Phủ định và câu hỏi làm y hệt hiện tại",
+              "Thêm <b>not</b> · đảo chỗ",
+              "<i>I wasn't…</i> · <i>Were you…?</i>"
+            ]
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Bảng đối chiếu hiện tại — quá khứ"
+        },
+        {
+          "t": "table",
+          "head": [
+            "Chủ ngữ",
+            "Hiện tại",
+            "Quá khứ"
+          ],
+          "rows": [
+            [
+              "<b>I</b>",
+              "am",
+              "<b>was</b>"
+            ],
+            [
+              "<b>You</b>",
+              "are",
+              "<b>were</b>"
+            ],
+            [
+              "<b>He / She / It</b>",
+              "is",
+              "<b>was</b>"
+            ],
+            [
+              "<b>We</b>",
+              "are",
+              "<b>were</b>"
+            ],
+            [
+              "<b>They</b>",
+              "are",
+              "<b>were</b>"
+            ]
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Ba dạng câu"
+        },
+        {
+          "t": "table",
+          "head": [
+            "Dạng",
+            "Công thức",
+            "Ví dụ"
+          ],
+          "rows": [
+            [
+              "Khẳng định",
+              "S + was/were",
+              "<i>I was tired.</i>"
+            ],
+            [
+              "Phủ định",
+              "S + wasn't/weren't",
+              "<i>I wasn't tired.</i>"
+            ],
+            [
+              "Câu hỏi",
+              "Was/Were + S?",
+              "<i>Were you tired?</i>"
+            ],
+            [
+              "Đáp CÓ",
+              "Yes, S + was/were.",
+              "<i>Yes, I was.</i>"
+            ],
+            [
+              "Đáp KHÔNG",
+              "No, S + wasn't/weren't.",
+              "<i>No, I wasn't.</i>"
+            ]
+          ]
+        },
+        {
+          "t": "callout",
+          "html": "<b>Từ chỉ thời gian hay đi kèm — thấy chúng là biết dùng quá khứ:</b><br>• <b>yesterday</b> — hôm qua<br>• <b>last week / last month / last year</b> — tuần trước, tháng trước, năm ngoái<br>• <b>two days ago</b> — hai ngày trước<br><br>Chú ý <b>ago</b> đứng <b>SAU</b> khoảng thời gian: <i>two days <b>ago</b></i>, không phải <i>ago two days</i>."
+        }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        {
+          "t": "h3",
+          "text": "was — I, he, she, it"
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "I was at home yesterday.",
+              "vi": "Hôm qua tôi ở nhà.",
+              "note": "<b>I</b> đi với <b>was</b> — đừng nhầm sang <i>were</i>."
+            },
+            {
+              "en": "I was very tired.",
+              "vi": "Tôi đã rất mệt.",
+              "note": "Nói cảm giác trong quá khứ."
+            },
+            {
+              "en": "He was my teacher.",
+              "vi": "Thầy ấy từng dạy tôi.",
+              "note": "<b>He</b> → <b>was</b>."
+            },
+            {
+              "en": "She was here this morning.",
+              "vi": "Sáng nay cô ấy ở đây.",
+              "note": "Việc đã qua rồi."
+            },
+            {
+              "en": "It was hot yesterday.",
+              "vi": "Hôm qua trời nóng.",
+              "note": "Thời tiết dùng <b>It</b>."
+            },
+            {
+              "en": "My father was a driver.",
+              "vi": "Bố tôi từng là tài xế.",
+              "note": "Danh từ số ít — như <i>he</i>."
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "were — you, we, they"
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "You were right.",
+              "vi": "Bạn đã đúng.",
+              "note": "<b>You</b> → <b>were</b>."
+            },
+            {
+              "en": "We were at school.",
+              "vi": "Chúng tôi đã ở trường.",
+              "note": "<b>We</b> → <b>were</b>."
+            },
+            {
+              "en": "They were my friends.",
+              "vi": "Họ từng là bạn tôi.",
+              "note": "<b>They</b> → <b>were</b>."
+            },
+            {
+              "en": "My parents were teachers.",
+              "vi": "Bố mẹ tôi từng là giáo viên.",
+              "note": "Danh từ số nhiều — như <i>they</i>."
+            },
+            {
+              "en": "The children were at home.",
+              "vi": "Bọn trẻ đã ở nhà.",
+              "note": "<i>children</i> số nhiều."
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Phủ định"
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "I wasn't at home.",
+              "vi": "Tôi không ở nhà.",
+              "note": "<b>wasn't</b> = <i>was not</i>."
+            },
+            {
+              "en": "She wasn't here.",
+              "vi": "Cô ấy không có ở đây.",
+              "note": "Cùng luật."
+            },
+            {
+              "en": "They weren't ready.",
+              "vi": "Họ chưa sẵn sàng.",
+              "note": "<b>weren't</b> = <i>were not</i>."
+            },
+            {
+              "en": "It wasn't cold yesterday.",
+              "vi": "Hôm qua trời không lạnh.",
+              "note": "Cùng kiểu với bài 08."
+            },
+            {
+              "en": "The shop wasn't open.",
+              "vi": "Cửa hàng không mở cửa.",
+              "note": "Danh từ số ít."
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Câu hỏi và trả lời"
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "Were you at home? — Yes, I was.",
+              "vi": "Bạn có ở nhà không? — Có.",
+              "note": "Hỏi <i>you</i>, đáp <b>I</b>. Câu Yes không rút gọn."
+            },
+            {
+              "en": "Was she here? — No, she wasn't.",
+              "vi": "Cô ấy có ở đây không? — Không.",
+              "note": "Đáp KHÔNG thì rút gọn được."
+            },
+            {
+              "en": "Were they busy? — Yes, they were.",
+              "vi": "Họ có bận không? — Có.",
+              "note": "Cùng luật bài 09."
+            },
+            {
+              "en": "Where were you yesterday?",
+              "vi": "Hôm qua bạn ở đâu?",
+              "note": "Ghép với từ để hỏi ở bài 17."
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Từ chỉ thời gian quá khứ"
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "I was busy last week.",
+              "vi": "Tuần trước tôi bận.",
+              "note": "<b>last week</b> — tuần trước."
+            },
+            {
+              "en": "She was in Hue last month.",
+              "vi": "Tháng trước cô ấy ở Huế.",
+              "note": "<b>last month</b>."
+            },
+            {
+              "en": "They were here two days ago.",
+              "vi": "Hai ngày trước họ ở đây.",
+              "note": "<b>ago</b> đứng SAU khoảng thời gian."
+            },
+            {
+              "en": "I was born in June.",
+              "vi": "Tôi sinh vào tháng Sáu.",
+              "note": "<i>born</i> luôn đi với <b>was/were</b>."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        {
+          "t": "h3",
+          "text": "Phần 1 — chọn was hay were"
+        },
+        {
+          "t": "quiz",
+          "items": [
+            {
+              "vi": "Hôm qua tôi ở nhà.",
+              "blank": "I ___ at home yesterday.",
+              "a": "was — chú ý <b>I</b> đi với <b>was</b>"
+            },
+            {
+              "vi": "Họ đã bận.",
+              "blank": "They ___ busy.",
+              "a": "were"
+            },
+            {
+              "vi": "Cô ấy đã ở đây.",
+              "blank": "She ___ here.",
+              "a": "was"
+            },
+            {
+              "vi": "Chúng tôi đã ở trường.",
+              "blank": "We ___ at school.",
+              "a": "were"
+            },
+            {
+              "vi": "Bố mẹ tôi từng là giáo viên.",
+              "blank": "My parents ___ teachers.",
+              "a": "were — số nhiều"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Phần 2 — phủ định và câu hỏi"
+        },
+        {
+          "t": "quiz",
+          "items": [
+            {
+              "vi": "Tôi không ở nhà.",
+              "a": "I wasn't at home."
+            },
+            {
+              "vi": "Họ chưa sẵn sàng.",
+              "a": "They weren't ready."
+            },
+            {
+              "vi": "Bạn có ở nhà không?",
+              "a": "Were you at home?"
+            },
+            {
+              "vi": "Were you tired? — đáp CÓ",
+              "a": "Yes, I was. — không rút gọn câu Yes"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Phần 3 — hiểu quy tắc"
+        },
+        {
+          "t": "quiz",
+          "items": [
+            {
+              "vi": "Quá khứ của <i>am</i> là gì?",
+              "a": "was"
+            },
+            {
+              "vi": "Quá khứ của <i>are</i> là gì?",
+              "a": "were"
+            },
+            {
+              "vi": "Nói ba câu về hôm qua của bạn.",
+              "a": "Ví dụ: <i>I was at home. I was tired. It was hot.</i>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Ba dạng rút còn hai.</b> <i>I · he · she · it</i> → <b>was</b> · <i>you · we · they</i> → <b>were</b>.",
+            "<b>Mọi luật khác giữ nguyên.</b> Phủ định thêm <b>not</b>, câu hỏi đảo chỗ — y như bài 08 và 09.",
+            "<b>Thấy <i>yesterday · last week · ago</i> là dùng quá khứ.</b> Và <b>ago</b> luôn đứng SAU khoảng thời gian."
+          ]
+        },
+        {
+          "t": "pairs",
+          "items": [
+            {
+              "wrong": "<i>I were at home.</i>",
+              "right": "<i>I was at home.</i>",
+              "why": "Ở hiện tại <i>I</i> có dạng riêng là <i>am</i>, nên nhiều người tưởng ở quá khứ nó cũng phải khác <i>he/she/it</i>. Thực ra <b>I</b> gộp chung với <i>he/she/it</i> và dùng <b>was</b>."
+            },
+            {
+              "wrong": "<i>I was go to school.</i>",
+              "right": "<i>I went to school.</i>",
+              "why": "<b>was/were</b> chỉ thay cho <i>am/is/are</i>, không ghép với động từ thường. Muốn nói <i>đã đi</i> thì phải đổi chính động từ đó — tab Ngữ pháp sẽ dạy."
+            },
+            {
+              "wrong": "<i>They were here ago two days.</i>",
+              "right": "<i>They were here two days ago.</i>",
+              "why": "<b>ago</b> đứng SAU khoảng thời gian, khác hẳn tiếng Việt nói <i>“hai ngày trước”</i> với chữ <i>trước</i> ở sau nhưng dịch thẳng lại dễ ra sai vị trí."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

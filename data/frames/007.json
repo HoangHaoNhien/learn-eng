@@ -1,0 +1,500 @@
+{
+  "id": 7,
+  "group": "Nhóm 1 · Mong muốn & Nhu cầu",
+  "title": "I hope to… — Nói ra điều mình mong sẽ xảy ra",
+  "subtitle": "Khung của sự lạc quan có cơ sở: điều bạn mong vẫn còn khả năng thành sự thật. Ngoài ra đây còn là kho câu xã giao lớn nhất trong tiếng Anh — mở email, chúc người ốm, tiễn bạn đi thi, gần như chỗ nào cũng có “hope”.",
+  "pattern": [
+    "I hope to <em>+ V</em>",
+    "I hope (that) <em>+ mệnh đề</em>",
+    "I was hoping to <em>+ V</em>"
+  ],
+  "meaning": "Tôi hi vọng… (còn khả năng xảy ra thật)",
+  "grammar": [24, 47],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Cực mạnh trong email" },
+    { "text": "Trình độ: A2–B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">hope</span> = mong một điều <b>vẫn còn khả năng xảy ra</b>. Đây là ranh giới quan trọng nhất phân biệt nó với <span class=\"k\">wish</span>: <i>I hope I pass the exam</i> (chưa thi, còn cơ hội) khác hẳn <i>I wish I could fly</i> (không bao giờ xảy ra được)." },
+        { "t": "p", "html": "Vì luôn hàm ý “còn cơ hội”, khung này nghe tích cực và nhẹ nhàng. Nó cũng khiêm tốn hơn <i>I will</i>: nói <i>I hope to finish today</i> là bạn cam kết nỗ lực nhưng thừa nhận có yếu tố ngoài tầm kiểm soát — an toàn hơn hứa chắc rồi lỡ." },
+        { "t": "p", "html": "Dạng quá khứ tiếp diễn <span class=\"k\">I was hoping to…</span> là một trong những cách <b>xin phép nhã nhất</b> trong tiếng Anh. Lùi về quá khứ tạo khoảng cách, nên câu nghe như bạn chỉ đang ngỏ ý chứ không đòi hỏi: <i>I was hoping to leave a bit early today.</i>" },
+        { "t": "callout", "html": "<b>Phân biệt sống còn:</b> <span class=\"k\">hope</span> = còn có thể xảy ra. <span class=\"k\">wish</span> = không thể hoặc rất khó. Nói <i>I wish I pass the exam</i> là sai ngữ pháp; nói <i>I hope I could fly</i> là sai logic. Xem thêm [Khung 09]." },
+        { "t": "h3", "text": "Hai cấu trúc, hai việc khác nhau" },
+        {
+          "t": "table",
+          "head": ["Công thức", "Ai làm việc đó", "Ví dụ"],
+          "rows": [
+            ["<code>I hope to + V</code>", "Chính tôi làm", "I hope to see you soon."],
+            ["<code>I hope (that) + mệnh đề</code>", "Người khác, hoặc sự việc tự xảy ra", "I hope you feel better soon."],
+            ["<code>I hope so / I hope not</code>", "Trả lời ngắn cho câu người khác vừa nói", "“Will it rain?” — “I hope not.”"],
+            ["<code>Hopefully, + mệnh đề</code>", "Nói chung chung, không nêu ai mong", "Hopefully the traffic won't be bad."]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "📧", "title": "Mở đầu email", "text": "<i>I hope you're well.</i> Câu mở email phổ biến nhất trong tiếng Anh công sở." },
+            { "icon": "🙏", "title": "Xin phép thật nhã", "text": "<i>I was hoping to leave a bit early.</i> Lùi về quá khứ để không tạo áp lực." },
+            { "icon": "🤒", "title": "Chúc, an ủi", "text": "<i>I hope you feel better soon.</i> Câu bắt buộc phải thuộc khi ai đó ốm." },
+            { "icon": "🎯", "title": "Nói kế hoạch một cách khiêm tốn", "text": "<i>I hope to finish it today.</i> Cam kết nỗ lực mà không hứa chắc." },
+            { "icon": "👋", "title": "Chào tạm biệt", "text": "<i>I hope to see you again soon.</i> Ấm áp hơn <i>Goodbye</i> rất nhiều." },
+            { "icon": "💬", "title": "Trả lời ngắn", "text": "<i>I hope so.</i> / <i>I hope not.</i> Hai câu cực ngắn mà dùng hằng ngày." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Tôi làm việc đó", "<code>I hope to + V</code>", "I hope to visit Japan next year."],
+            ["Người khác / sự việc", "<code>I hope (that) + mệnh đề</code>", "I hope you enjoy the trip."],
+            ["Mong điều không xảy ra", "<code>I hope + phủ định</code>", "I hope it doesn't rain."],
+            ["Trả lời ngắn — khẳng định", "<code>I hope so.</code>", "“Is the meeting cancelled?” — “I hope so.”"],
+            ["Trả lời ngắn — phủ định", "<code>I hope not.</code>", "“Will we work this weekend?” — “I hope not.”"],
+            ["Xin phép rất nhã", "<code>I was hoping to + V</code>", "I was hoping to ask you something."],
+            ["Đang mong (mềm hơn)", "<code>I'm hoping (that) + mệnh đề</code>", "I'm hoping they'll say yes."],
+            ["Nói chung chung", "<code>Hopefully, + mệnh đề</code>", "Hopefully we'll be done by five."],
+            ["Rủ cùng mong", "<code>Let's hope + mệnh đề</code>", "Let's hope it works."],
+            ["Quá khứ tiếc nuối", "<code>I had hoped to + V</code>", "I had hoped to join, but I couldn't."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Quy tắc thì rất lạ:</b> sau <i>hope</i>, người bản xứ thường dùng <b>thì hiện tại</b> để nói về tương lai. <span class=\"k\">I hope it doesn't rain tomorrow.</span> tự nhiên hơn <i>I hope it won't rain</i>. Cả hai đều đúng, nhưng dạng hiện tại phổ biến hơn nhiều." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “I hope to…”",
+              "items": [
+                { "w": "see", "vi": "gặp", "ex": "I hope to see you again soon.", "exvi": "Mong sớm gặp lại bạn.", "note": "Câu tạm biệt ấm áp nhất — thuộc ngay câu này." },
+                { "w": "hear", "vi": "nghe tin", "ex": "I hope to hear from you soon.", "exvi": "Mong sớm nhận được hồi âm của bạn.", "note": "<i>hear FROM someone</i> = nhận tin từ ai. Câu kết email chuẩn mực." },
+                { "w": "meet", "vi": "gặp mặt", "ex": "I hope to meet the whole team next week.", "exvi": "Tôi mong được gặp cả nhóm vào tuần tới." },
+                { "w": "visit", "vi": "thăm", "ex": "I hope to visit Japan next year.", "exvi": "Năm tới tôi mong được đi Nhật." },
+                { "w": "finish", "vi": "làm xong", "ex": "I hope to finish this by Friday.", "exvi": "Tôi mong làm xong cái này trước thứ Sáu." },
+                { "w": "start", "vi": "bắt đầu", "ex": "I hope to start the course in September.", "exvi": "Tôi mong bắt đầu khóa học vào tháng Chín." },
+                { "w": "join", "vi": "tham gia", "ex": "I hope to join you later if I finish early.", "exvi": "Nếu xong sớm thì tôi mong sẽ tham gia cùng mọi người." },
+                { "w": "get", "vi": "được, nhận được", "ex": "I hope to get an answer this week.", "exvi": "Tôi mong tuần này có câu trả lời." },
+                { "w": "travel", "vi": "đi du lịch", "ex": "I hope to travel more this year.", "exvi": "Năm nay tôi mong được đi nhiều hơn." },
+                { "w": "move", "vi": "chuyển đi", "ex": "I hope to move closer to the city.", "exvi": "Tôi mong chuyển đến gần thành phố hơn." },
+                { "w": "learn", "vi": "học", "ex": "I hope to learn a lot from this project.", "exvi": "Tôi mong học được nhiều từ dự án này.", "note": "Câu rất hợp khi mới nhận việc hoặc mới vào nhóm." },
+                { "w": "improve", "vi": "cải thiện", "ex": "I hope to improve my English this year.", "exvi": "Năm nay tôi mong cải thiện tiếng Anh." },
+                { "w": "work", "vi": "làm việc", "ex": "I hope to work with you again.", "exvi": "Mong được làm việc với bạn lần nữa.", "note": "Câu kết đẹp nhất khi kết thúc một dự án chung." },
+                { "w": "study", "vi": "học tập", "ex": "I hope to study abroad one day.", "exvi": "Một ngày nào đó tôi mong được đi du học." },
+                { "w": "come back", "vi": "quay lại", "ex": "I hope to come back next summer.", "exvi": "Tôi mong hè sau sẽ quay lại." },
+                { "w": "stay", "vi": "ở lại", "ex": "I hope to stay in this role for a while.", "exvi": "Tôi mong gắn bó với vị trí này một thời gian." },
+                { "w": "find", "vi": "tìm được", "ex": "I hope to find something closer to home.", "exvi": "Tôi mong tìm được chỗ gần nhà hơn." },
+                { "w": "make it", "vi": "đến được, kịp", "ex": "I hope to make it by seven.", "exvi": "Tôi mong kịp trước bảy giờ.", "note": "<i>make it</i> = đến được / kịp giờ. Cụm cực tự nhiên." },
+                { "w": "catch up", "vi": "gặp nhau nói chuyện", "ex": "I hope to catch up with you properly soon.", "exvi": "Mong sớm ngồi lại nói chuyện tử tế với bạn." },
+                { "w": "be part of", "vi": "là một phần của", "ex": "I hope to be part of the next phase.", "exvi": "Tôi mong được tham gia giai đoạn tiếp theo." }
+              ]
+            },
+            {
+              "title": "Câu xã giao bắt buộc phải thuộc",
+              "items": [
+                { "w": "I hope you're well", "vi": "mong bạn vẫn khỏe", "ex": "Hi Lan, I hope you're well.", "exvi": "Chào Lan, mong chị vẫn khỏe.", "note": "Câu mở email phổ biến nhất trong tiếng Anh công sở." },
+                { "w": "I hope you don't mind", "vi": "mong bạn không phiền", "ex": "I hope you don't mind me asking.", "exvi": "Mong bạn không phiền khi tôi hỏi điều này.", "note": "Lớp đệm trước một câu hỏi riêng tư hoặc khó." },
+                { "w": "I hope that helps", "vi": "mong là giúp được bạn", "ex": "Let me know if not — I hope that helps.", "exvi": "Nếu chưa được thì báo tôi nhé — mong là giúp được bạn.", "note": "Câu kết email khi bạn vừa giải thích điều gì đó." },
+                { "w": "I hope so", "vi": "mong là vậy", "ex": "“Do you think we'll finish on time?” — “I hope so.”", "exvi": "“Anh nghĩ mình kịp không?” — “Mong là vậy.”" },
+                { "w": "I hope not", "vi": "mong là không", "ex": "“Will we have to work Saturday?” — “I hope not.”", "exvi": "“Mình có phải làm thứ Bảy không?” — “Mong là không.”", "note": "KHÔNG nói <i>I don't hope so</i> — đó là lỗi kinh điển." },
+                { "w": "Hope you feel better", "vi": "mong bạn chóng khỏe", "ex": "Take care — hope you feel better soon.", "exvi": "Giữ gìn sức khỏe nhé — mong bạn chóng khỏe." },
+                { "w": "Hope it goes well", "vi": "chúc mọi việc suôn sẻ", "ex": "Good luck tomorrow — hope it goes well.", "exvi": "Chúc may mắn ngày mai — mong mọi việc suôn sẻ." },
+                { "w": "Hope you had a good weekend", "vi": "mong bạn có cuối tuần vui", "ex": "Morning! Hope you had a good weekend.", "exvi": "Chào buổi sáng! Mong bạn có cuối tuần vui vẻ.", "note": "Câu mở đầu sáng thứ Hai ở văn phòng." },
+                { "w": "I hope I'm not disturbing you", "vi": "mong không làm phiền bạn", "ex": "I hope I'm not disturbing you — do you have a minute?", "exvi": "Mong là tôi không làm phiền — bạn rảnh một phút chứ?" },
+                { "w": "Hope to see you soon", "vi": "mong sớm gặp lại", "ex": "Safe travels — hope to see you soon!", "exvi": "Đi đường bình an — mong sớm gặp lại bạn!" }
+              ]
+            },
+            {
+              "title": "Biến thể & từ đi kèm",
+              "items": [
+                { "w": "I was hoping to…", "vi": "tôi đang mong là…", "ex": "I was hoping to leave a bit early today.", "exvi": "Hôm nay tôi mong được về sớm một chút.", "note": "Cách xin phép nhã nhất. Lùi về quá khứ để bớt áp lực cho người nghe." },
+                { "w": "I'm hoping (that)…", "vi": "tôi đang mong rằng…", "ex": "I'm hoping they'll say yes.", "exvi": "Tôi đang mong là họ sẽ đồng ý.", "note": "Mềm và tạm thời hơn <i>I hope</i> — mong trong lúc này." },
+                { "w": "Hopefully", "vi": "hi vọng là", "ex": "Hopefully the traffic won't be too bad.", "exvi": "Hi vọng là không kẹt xe lắm.", "note": "Đặt đầu câu, không cần nói ai mong — rất tiện." },
+                { "w": "Let's hope…", "vi": "mong là…", "ex": "Let's hope it works this time.", "exvi": "Mong là lần này chạy được." },
+                { "w": "Fingers crossed", "vi": "cầu mong may mắn", "ex": "Fingers crossed for tomorrow!", "exvi": "Cầu mong ngày mai may mắn nhé!", "note": "Thành ngữ thân mật, hay dùng khi chờ kết quả." },
+                { "w": "I had hoped to…", "vi": "tôi đã mong… (nhưng không được)", "ex": "I had hoped to join, but I couldn't get away.", "exvi": "Tôi đã mong tham gia, nhưng không rút ra được.", "note": "Thì quá khứ hoàn thành — diễn tả mong muốn đã không thành." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I was hoping to leave a bit early today.",
+                  "vi": "Hôm nay tôi mong được về sớm một chút.",
+                  "note": "Cách xin phép nhã nhất trong tiếng Anh. So với <i>I need to leave early</i> thì câu này để ngỏ cửa cho người kia từ chối mà không ai khó xử.",
+                  "open": { "en": "Do you have a second?", "vi": "Anh/chị rảnh một chút không ạ?" },
+                  "reply": [
+                    { "them": "Sure, what time were you thinking?", "themvi": "Được chứ, em định về lúc mấy giờ?", "you": "Around four, if that's OK.", "youvi": "Khoảng bốn giờ ạ, nếu được." },
+                    { "them": "Can you finish the handover first?", "themvi": "Em bàn giao xong trước được không?", "you": "Yes, I'll do that before I go.", "youvi": "Vâng, em làm xong rồi mới về ạ." }
+                  ],
+                  "close": { "en": "Thanks — I really appreciate it.", "vi": "Cảm ơn anh/chị — em rất cảm kích." }
+                },
+                {
+                  "en": "I hope to finish this by Friday.",
+                  "vi": "Tôi mong làm xong cái này trước thứ Sáu.",
+                  "note": "Khiêm tốn hơn <i>I will finish it by Friday</i> — bạn cam kết nỗ lực mà không hứa chắc điều còn phụ thuộc yếu tố khác.",
+                  "reply": [
+                    { "them": "Is Friday realistic?", "themvi": "Thứ Sáu có khả thi không?", "you": "It is, if I get the data on Wednesday.", "youvi": "Khả thi ạ, nếu thứ Tư em nhận được dữ liệu." }
+                  ],
+                  "vars": [
+                    { "en": "I'm hoping to have a draft by Wednesday.", "vi": "Tôi đang mong có bản nháp trước thứ Tư." }
+                  ]
+                },
+                {
+                  "en": "Hi Lan, I hope you're well.",
+                  "vi": "Chào chị Lan, mong chị vẫn khỏe.",
+                  "note": "Câu mở email công việc phổ biến nhất. Với người đã quen thì dùng <i>Hope you're doing well</i> nghe thân hơn.",
+                  "reply": [
+                    { "them": "Hi! All good here, thanks. How can I help?", "themvi": "Chào anh! Bên em vẫn ổn ạ. Em giúp gì được không?", "you": "I wanted to ask about the invoice.", "youvi": "Tôi muốn hỏi về hóa đơn." }
+                  ],
+                  "vars": [
+                    { "en": "I hope you had a good weekend.", "vi": "Mong bạn có cuối tuần vui vẻ." },
+                    { "en": "I hope this email finds you well.", "vi": "Mong email này đến lúc anh/chị vẫn khỏe." }
+                  ],
+                  "close": { "en": "I hope to hear from you soon.", "vi": "Mong sớm nhận được phản hồi của anh/chị." }
+                },
+                {
+                  "en": "I hope to work with you again.",
+                  "vi": "Mong được làm việc với anh/chị lần nữa.",
+                  "note": "Câu kết đẹp nhất khi khép lại một dự án chung hoặc rời công ty.",
+                  "open": { "en": "Before I go —", "vi": "Trước khi tôi đi —" },
+                  "reply": [
+                    { "them": "Likewise. It's been a pleasure.", "themvi": "Tôi cũng vậy. Rất vui được cộng tác.", "you": "Let's stay in touch.", "youvi": "Mình giữ liên lạc nhé." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I hope you feel better soon.",
+                  "vi": "Mong bạn chóng khỏe.",
+                  "note": "Câu bắt buộc phải thuộc. Nói với người ốm, người vừa nghỉ bệnh, hoặc nhắn tin hỏi thăm.",
+                  "reply": [
+                    { "them": "Thanks, I'm on the mend.", "themvi": "Cảm ơn bạn, mình đỡ rồi.", "you": "Glad to hear it. Take it easy.", "youvi": "Mừng quá. Nghỉ ngơi cho khỏe nhé." }
+                  ],
+                  "vars": [
+                    { "en": "Hope you're feeling better today.", "vi": "Mong hôm nay bạn thấy khá hơn." }
+                  ],
+                  "close": { "en": "Let me know if you need anything.", "vi": "Cần gì thì báo mình nhé." }
+                },
+                {
+                  "en": "Good luck tomorrow — I hope it goes well.",
+                  "vi": "Chúc may mắn ngày mai — mong mọi việc suôn sẻ.",
+                  "reply": [
+                    { "them": "Thanks, I'm a bit nervous.", "themvi": "Cảm ơn bạn, mình hơi hồi hộp.", "you": "You'll be fine. Fingers crossed!", "youvi": "Bạn sẽ ổn thôi. Cầu mong may mắn nhé!" }
+                  ]
+                },
+                {
+                  "en": "I hope to travel more this year.",
+                  "vi": "Năm nay tôi mong được đi nhiều hơn.",
+                  "reply": [
+                    { "them": "Anywhere in particular?", "themvi": "Có chỗ nào cụ thể không?", "you": "Japan, hopefully.", "youvi": "Hi vọng là Nhật Bản." }
+                  ],
+                  "vars": [
+                    { "en": "I hope to improve my English this year.", "vi": "Năm nay tôi mong cải thiện tiếng Anh." }
+                  ]
+                },
+                {
+                  "en": "I hope I'm not disturbing you — do you have a minute?",
+                  "vi": "Mong là tôi không làm phiền — bạn rảnh một phút chứ?",
+                  "note": "Lớp đệm hoàn hảo khi bạn phải cắt ngang việc của ai đó.",
+                  "reply": [
+                    { "them": "Not at all, go ahead.", "themvi": "Không hề, bạn cứ nói.", "you": "Thanks. It's about the schedule.", "youvi": "Cảm ơn. Là về lịch trình ấy." },
+                    { "them": "Can it wait ten minutes?", "themvi": "Đợi mười phút được không?", "you": "Of course, no rush.", "youvi": "Tất nhiên, không vội đâu." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I hope to make it by seven.",
+                  "vi": "Tôi mong kịp trước bảy giờ.",
+                  "note": "<span class=\"k\">make it</span> = đến kịp / đến được. Cụm cực tự nhiên khi hẹn hò, đi lại.",
+                  "reply": [
+                    { "them": "No rush, we'll wait for you.", "themvi": "Không vội đâu, bọn mình đợi bạn.", "you": "Thanks — I'll text when I'm close.", "youvi": "Cảm ơn — gần tới mình nhắn nhé." }
+                  ]
+                },
+                {
+                  "en": "I hope it doesn't rain tomorrow.",
+                  "vi": "Mong là ngày mai trời đừng mưa.",
+                  "note": "Chú ý thì: người bản xứ dùng <b>hiện tại</b> sau <i>hope</i> để nói về tương lai, không phải <i>won't rain</i>.",
+                  "reply": [
+                    { "them": "The forecast says it's clear.", "themvi": "Dự báo nói trời quang mà.", "you": "That's a relief.", "youvi": "Vậy thì yên tâm rồi." }
+                  ],
+                  "vars": [
+                    { "en": "I hope the traffic isn't too bad.", "vi": "Mong là đừng kẹt xe quá." }
+                  ]
+                },
+                {
+                  "en": "I hope to come back next summer.",
+                  "vi": "Tôi mong hè sau sẽ quay lại.",
+                  "open": { "en": "This place is beautiful.", "vi": "Chỗ này đẹp quá." },
+                  "reply": [
+                    { "them": "You're always welcome here.", "themvi": "Lúc nào bạn quay lại cũng được chào đón.", "you": "That's very kind. Thank you.", "youvi": "Bạn tốt quá. Cảm ơn nhiều." }
+                  ],
+                  "close": { "en": "Hope to see you again soon!", "vi": "Mong sớm gặp lại bạn!" }
+                },
+                {
+                  "en": "I was hoping to change my seat, if that's possible.",
+                  "vi": "Tôi mong được đổi chỗ ngồi, nếu có thể ạ.",
+                  "note": "So sánh với <i>I want to change my seat</i> — cùng một yêu cầu nhưng câu này khiến người ta muốn giúp bạn.",
+                  "reply": [
+                    { "them": "Let me see what's free.", "themvi": "Để em xem còn chỗ nào ạ.", "you": "Thank you so much.", "youvi": "Cảm ơn bạn nhiều." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I hope you like spicy food.",
+                  "vi": "Mong là bạn ăn được cay.",
+                  "note": "Câu nên nói TRƯỚC khi dẫn ai đó đi ăn — tránh cảnh họ ngồi khổ sở suốt bữa.",
+                  "reply": [
+                    { "them": "I love it, actually.", "themvi": "Thật ra mình rất thích.", "you": "Great, then you'll enjoy this place.", "youvi": "Tuyệt, vậy bạn sẽ thích quán này." },
+                    { "them": "Not too much, to be honest.", "themvi": "Thật lòng thì không ăn cay lắm.", "you": "No problem, they do mild options.", "youvi": "Không sao, quán có món không cay." }
+                  ]
+                },
+                {
+                  "en": "I hope we can get a table without booking.",
+                  "vi": "Mong là mình có bàn mà không cần đặt trước.",
+                  "reply": [
+                    { "them": "It's a weekday, we should be fine.", "themvi": "Ngày thường mà, chắc ổn thôi.", "you": "Fingers crossed.", "youvi": "Cầu mong vậy." }
+                  ]
+                },
+                {
+                  "en": "I hope this is what you ordered.",
+                  "vi": "Mong đây đúng là món anh/chị gọi ạ.",
+                  "reply": [
+                    { "them": "It is, thank you.", "themvi": "Đúng rồi ạ, cảm ơn bạn.", "you": "Enjoy your meal.", "youvi": "Chúc anh/chị ngon miệng." }
+                  ]
+                },
+                {
+                  "en": "I hope you don't mind — I've already ordered for us.",
+                  "vi": "Mong bạn không phiền — mình gọi món sẵn cho cả hai rồi.",
+                  "note": "<span class=\"k\">I hope you don't mind</span> là lớp đệm khi bạn đã tự quyết điều gì đó thay người khác.",
+                  "reply": [
+                    { "them": "Not at all, that saves time.", "themvi": "Không hề, đỡ mất thời gian.", "you": "I got the noodles — is that OK?", "youvi": "Mình gọi mì — bạn thấy được không?" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I hope this is the right size.",
+                  "vi": "Mong là cỡ này đúng.",
+                  "reply": [
+                    { "them": "You can exchange it if not.", "themvi": "Nếu không vừa thì anh/chị đổi được ạ.", "you": "Good to know, thanks.", "youvi": "May quá, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "I was hoping to return this — I still have the receipt.",
+                  "vi": "Tôi mong được trả lại món này — tôi vẫn còn biên lai.",
+                  "note": "Mở đầu bằng <i>I was hoping to</i> khiến nhân viên hợp tác hơn hẳn so với đòi hỏi thẳng.",
+                  "open": { "en": "Hi, I hope you can help me.", "vi": "Chào bạn, mong bạn giúp tôi được." },
+                  "reply": [
+                    { "them": "Of course. Was there a problem with it?", "themvi": "Tất nhiên rồi ạ. Sản phẩm có vấn đề gì không ạ?", "you": "It just doesn't fit.", "youvi": "Chỉ là không vừa thôi ạ." }
+                  ],
+                  "close": { "en": "Thanks for sorting that out.", "vi": "Cảm ơn bạn đã giải quyết giúp." }
+                },
+                {
+                  "en": "I hope it's still in stock.",
+                  "vi": "Mong là vẫn còn hàng.",
+                  "reply": [
+                    { "them": "Let me check the system for you.", "themvi": "Để em kiểm tra trên hệ thống giúp anh/chị.", "you": "Thank you.", "youvi": "Cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "I hope that's not too expensive to fix.",
+                  "vi": "Mong là sửa cái đó không đắt quá.",
+                  "reply": [
+                    { "them": "Around two hundred thousand.", "themvi": "Khoảng hai trăm nghìn ạ.", "you": "That's fine. Go ahead.", "youvi": "Vậy được. Bạn làm giúp tôi." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Xin về sớm bằng cách nhã nhất",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Do you have a second? I was hoping to leave a bit early today.", "vi": "Anh rảnh một chút không ạ? Hôm nay em mong được về sớm một chút." },
+            { "speaker": "Manager", "en": "Sure. What time were you thinking?", "vi": "Được chứ. Em định về lúc mấy giờ?" },
+            { "speaker": "You", "me": true, "en": "Around four, if that's OK.", "vi": "Khoảng bốn giờ ạ, nếu được." },
+            { "speaker": "Manager", "en": "Fine by me. Will the report still be ready?", "vi": "Tôi thấy ổn. Báo cáo vẫn kịp chứ?" },
+            { "speaker": "You", "me": true, "en": "Yes — I hope to finish it before I go.", "vi": "Vâng ạ — em mong làm xong trước khi về." },
+            { "speaker": "Manager", "en": "Great. See you tomorrow.", "vi": "Tốt. Mai gặp nhé." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Tạm biệt sau một chuyến công tác",
+          "lines": [
+            { "speaker": "Host", "en": "It's been great having you here.", "vi": "Rất vui vì có anh đến đây." },
+            { "speaker": "You", "me": true, "en": "Thank you. I hope to come back next year.", "vi": "Cảm ơn anh. Tôi mong năm sau sẽ quay lại." },
+            { "speaker": "Host", "en": "You're always welcome. Safe travels!", "vi": "Lúc nào anh quay lại cũng được chào đón. Đi đường bình an!" },
+            { "speaker": "You", "me": true, "en": "Thanks. I hope to hear from you soon about the contract.", "vi": "Cảm ơn anh. Mong sớm nhận được tin về hợp đồng." },
+            { "speaker": "Host", "en": "I'll email you next week.", "vi": "Tuần sau tôi sẽ gửi email cho anh." },
+            { "speaker": "You", "me": true, "en": "Perfect. Hope to see you again soon!", "vi": "Tuyệt ạ. Mong sớm gặp lại anh!" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I don't hope so.", "right": "I hope not.", "why": "Tiếng Anh phủ định ở <b>vế sau</b>, không phủ định động từ <i>hope</i>. Đây là lỗi kinh điển." },
+            { "wrong": "I hope you to come.", "right": "I hope you can come. / I hope you'll come.", "why": "Sau <b>hope</b> không dùng cấu trúc <i>ai + to V</i>. Phải dùng cả một mệnh đề." },
+            { "wrong": "I wish I pass the exam.", "right": "I hope I pass the exam.", "why": "Còn khả năng xảy ra thì dùng <b>hope</b>. <i>wish</i> dành cho điều không/khó xảy ra — xem [Khung 09]." },
+            { "wrong": "I hope to you have a nice trip.", "right": "I hope you have a nice trip.", "why": "Thừa <b>to</b>. Khi người khác làm việc đó thì theo sau <i>hope</i> là mệnh đề." },
+            { "wrong": "I am hoping to see you. <i>(trong email trang trọng)</i>", "right": "I hope to see you.", "why": "Không sai, nhưng dạng tiếp diễn nghe tạm bợ hơn — email trang trọng nên dùng <b>I hope to</b>." },
+            { "wrong": "Hopefully it will not to rain.", "right": "Hopefully it won't rain.", "why": "Sau <i>will not</i> là động từ nguyên thể không <b>to</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I hope to…</code>", "Mong — còn khả năng xảy ra thật", "<i>I hope to see you soon.</i>"],
+            ["<code>I wish I could…</code>", "Ước — không hoặc rất khó xảy ra", "<i>I wish I could join you.</i> — Xem [Khung 09]."],
+            ["<code>I was hoping to…</code>", "Rất nhã, dùng để xin phép", "<i>I was hoping to leave early.</i>"],
+            ["<code>I'd like to…</code>", "Muốn, lịch sự — không nói về khả năng", "<i>I'd like to see you soon.</i> — Xem [Khung 01]."],
+            ["<code>I'm planning to…</code>", "Đã có kế hoạch cụ thể, chắc chắn hơn", "<i>I'm planning to visit Japan.</i>"],
+            ["<code>I expect to…</code>", "Dự kiến — thiên về khả năng cao, không phải mong", "<i>I expect to finish by five.</i>"],
+            ["<code>Hopefully…</code>", "Hi vọng chung chung, không nêu ai mong", "<i>Hopefully it works.</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ chắc chắn — cùng một việc" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I wish I could finish today.", "vi": "Không thể — chỉ là ước" },
+            { "en": "I hope to finish today.", "vi": "Mong — còn tùy" },
+            { "en": "I'm planning to finish today.", "vi": "Có kế hoạch" },
+            { "en": "I expect to finish today.", "vi": "Nhiều khả năng xong" },
+            { "en": "I'll finish it today.", "vi": "Cam kết chắc chắn" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>hope</b> = /həʊp/ (Anh-Anh) hoặc /hoʊp/ (Anh-Mỹ) — có âm đôi, đừng đọc cụt thành “hốp”.",
+            "Âm <b>h</b> đầu phải bật ra rõ. Nuốt mất /h/ thì <i>hope</i> nghe gần như <i>ope</i> và người nghe phải đoán.",
+            "<b>hope to</b> — hai âm /p/ và /t/ đi liền nhau, /p/ gần như câm: nghe thành “hoh-tə”.",
+            "<b>I hope you're well</b> nói nhanh thành “ai-hoh-pjə-WEL” — <i>you're</i> giảm còn /jə/.",
+            "<b>I was hoping to</b> → “ai-wəz-HOH-ping-tə”, <i>was</i> giảm thành /wəz/ rất nhẹ.",
+            "Trọng âm rơi vào <b>HOPE</b> và vào động từ chính: <i>I</i> <b>HOPE</b> <i>to</i> <b>SEE</b> <i>you soon.</i>"
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I was hoping to leave a bit early today.", "vi": "Luyện shadowing: nghe — nhại lại — lặp 5 lần cho trôi cụm “I was hoping to”." },
+            { "en": "I hope you're well. I hope to hear from you soon.", "vi": "Hai câu mở và đóng email — thuộc lòng là viết email nhanh hơn hẳn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Mong sớm gặp lại bạn.", "blank": "__________ you again soon.", "a": "I hope to see" },
+            { "vi": "Mong bạn chóng khỏe.", "blank": "__________ better soon.", "a": "I hope you feel" },
+            { "vi": "“Mình có phải làm thứ Bảy không?” — “Mong là không.”", "blank": "“Will we work Saturday?” — “__________.”", "a": "I hope not (KHÔNG phải “I don't hope so”)" },
+            { "vi": "Hôm nay tôi mong được về sớm một chút.", "blank": "__________ a bit early today.", "a": "I was hoping to leave" },
+            { "vi": "Mong là ngày mai trời đừng mưa.", "blank": "I hope it __________ tomorrow.", "a": "doesn't rain" },
+            { "vi": "Mong bạn không phiền khi tôi hỏi điều này.", "blank": "__________ me asking.", "a": "I hope you don't mind" },
+            { "vi": "Mong sớm nhận được hồi âm của bạn.", "blank": "__________ from you soon.", "a": "I hope to hear" },
+            { "vi": "Hi vọng là không kẹt xe lắm.", "blank": "__________ the traffic won't be too bad.", "a": "Hopefully" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Chào chị Lan, mong chị vẫn khỏe.", "a": "Hi Lan, I hope you're well." },
+            { "vi": "2. Tôi mong làm xong cái này trước thứ Sáu.", "a": "I hope to finish this by Friday." },
+            { "vi": "3. Chúc may mắn ngày mai — mong mọi việc suôn sẻ.", "a": "Good luck tomorrow — I hope it goes well." },
+            { "vi": "4. Mong được làm việc với anh/chị lần nữa.", "a": "I hope to work with you again." },
+            { "vi": "5. Mong là tôi không làm phiền — bạn rảnh một phút chứ?", "a": "I hope I'm not disturbing you — do you have a minute?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Thuộc bộ đôi email:</b> mở bằng <i>I hope you're well</i>, đóng bằng <i>I hope to hear from you soon</i>. Chỉ hai câu này đã bọc gọn mọi email công việc.",
+            "<b>Dùng “I was hoping to” để xin phép:</b> đây là vũ khí lịch sự mạnh nhất trong nhóm. Càng lùi về quá khứ, câu càng nhã.",
+            "<b>Khắc vào đầu “I hope not”:</b> không bao giờ nói <i>I don't hope so</i>. Lỗi này lộ ngay bạn đang dịch từ tiếng Việt.",
+            "<b>Nhớ ranh giới hope / wish:</b> còn khả năng → <i>hope</i>; không thể → <i>wish</i>. Sai chỗ này là câu vô nghĩa chứ không chỉ sai ngữ pháp.",
+            "<b>Dùng thì hiện tại sau hope:</b> <i>I hope it doesn't rain</i> tự nhiên hơn <i>I hope it won't rain</i>.",
+            "<b>Bài tập 3 phút:</b> viết 5 điều bạn mong xảy ra trong năm nay bằng <i>I hope to…</i>, và 3 điều bạn mong cho người khác bằng <i>I hope you…</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

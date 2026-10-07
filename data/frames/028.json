@@ -1,0 +1,492 @@
+{
+  "id": 28,
+  "group": "Nhóm 3 · Xin phép & Cho phép",
+  "title": "I'm afraid… — Báo tin xấu mà không làm ai khó chịu",
+  "subtitle": "Công thức từ chối và báo tin xấu chuẩn mực nhất trong tiếng Anh. “I'm afraid” ở đây không phải là sợ — nó là lớp đệm báo trước rằng điều sắp nói không phải điều người kia muốn nghe. Chỉ ba chữ mà thay đổi hoàn toàn không khí cuộc nói chuyện.",
+  "pattern": [
+    "I'm afraid <em>+ mệnh đề</em>",
+    "I'm afraid you can't <em>+ V</em>",
+    "I'm afraid not."
+  ],
+  "meaning": "E là… / Rất tiếc là… (báo tin không vui)",
+  "grammar": [46],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 5/5" },
+    { "text": "Bắt buộc trong dịch vụ" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I'm afraid</span> ở đây <b>không có nghĩa là sợ</b>. Nó là một lớp đệm mang nghĩa “rất tiếc phải nói rằng…”. Người nghe vừa nghe ba chữ này là đã chuẩn bị tinh thần — nên tin xấu phía sau không còn gây sốc." },
+        { "t": "p", "html": "So sánh: <i>You can't park here</i> nghe như một mệnh lệnh cụt. <i>I'm afraid you can't park here</i> nghe như bạn đang tiếc thay cho người ta. Cùng một nội dung, cùng một kết quả, nhưng phản ứng của người nghe khác hẳn." },
+        { "t": "p", "html": "Trong ngành dịch vụ, đây gần như là câu <b>bắt buộc</b>. Nhân viên khách sạn, hàng không, nhà hàng đều dùng nó hàng chục lần mỗi ngày. Nếu bạn làm việc với khách hàng nước ngoài, không thuộc câu này là một thiệt thòi lớn." },
+        { "t": "callout", "html": "<b>Công thức từ chối hoàn chỉnh:</b> <span class=\"k\">I'm afraid</span> + tin xấu + <b>lý do ngắn</b> + <b>phương án thay thế</b>. Ví dụ: <i>I'm afraid we're fully booked tonight — there's been a big event. But I could do tomorrow at seven.</i> Đủ ba phần thì hầu như không ai phật lòng." },
+        { "t": "h3", "text": "Cùng một lời từ chối, bốn mức độ" },
+        {
+          "t": "table",
+          "head": ["Câu", "Sắc thái", "Người nghe cảm thấy"],
+          "rows": [
+            ["<code>No.</code>", "Cụt", "Bị chặn lại"],
+            ["<code>You can't do that.</code>", "Mệnh lệnh", "Bị cấm"],
+            ["<code>I'm afraid you can't do that.</code>", "Lịch sự — có tiếc nuối", "Được tôn trọng"],
+            ["<code>I'm afraid that's not possible, but we could…</code>", "Lịch sự + lối ra", "Được giúp tìm cách khác"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🙅", "title": "Từ chối yêu cầu", "text": "Bối cảnh số 1. <i>I'm afraid we can't do that.</i> Từ chối mà vẫn giữ được quan hệ." },
+            { "icon": "📞", "title": "Nghe điện thoại", "text": "<i>I'm afraid she's in a meeting.</i> Báo người kia không có mặt." },
+            { "icon": "🏨", "title": "Ngành dịch vụ", "text": "<i>I'm afraid we're fully booked.</i> Câu nhân viên dùng mỗi ngày." },
+            { "icon": "📧", "title": "Email công việc", "text": "<i>I'm afraid we won't make the deadline.</i> Báo tin xấu sớm và rõ." },
+            { "icon": "❌", "title": "Trả lời ngắn — không", "text": "<i>“Is there any left?” — “I'm afraid not.”</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Báo tin vui hoặc nói chuyện bình thường — câu sẽ nghe rất kỳ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cơ bản", "<code>I'm afraid + mệnh đề</code>", "I'm afraid we're closed."],
+            ["Từ chối cho phép", "<code>I'm afraid you can't + V</code>", "I'm afraid you can't park here."],
+            ["Nói việc không khả thi", "<code>I'm afraid that's not possible</code>", "I'm afraid that's not possible today."],
+            ["Trả lời ngắn — không", "<code>I'm afraid not.</code>", "“Any tickets left?” — “I'm afraid not.”"],
+            ["Trả lời ngắn — có (tin xấu)", "<code>I'm afraid so.</code>", "“Is it cancelled?” — “I'm afraid so.”"],
+            ["Nói về mình", "<code>I'm afraid I can't + V</code>", "I'm afraid I can't make it tonight."],
+            ["Trang trọng khi viết", "<code>Unfortunately, + mệnh đề</code>", "Unfortunately, we cannot proceed."],
+            ["Thêm lời xin lỗi", "<code>I'm sorry, but I'm afraid…</code>", "I'm sorry, but I'm afraid it's too late."],
+            ["Kèm phương án", "<code>I'm afraid…, but we could…</code>", "I'm afraid not tonight, but we could do Friday."],
+            ["Rất trang trọng", "<code>I regret to inform you that…</code>", "I regret to inform you that your application was unsuccessful."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Hai câu trả lời ngắn rất hay nhầm:</b> <span class=\"k\">I'm afraid not</span> = rất tiếc là không. <span class=\"k\">I'm afraid so</span> = rất tiếc là có (và đó là tin xấu). Cả hai đều mang nghĩa tiêu cực về mặt cảm xúc." },
+        { "t": "callout", "html": "<b>Khi nói dùng “I'm afraid”, khi viết dùng “Unfortunately”:</b> trong email trang trọng, <i>Unfortunately</i> ở đầu câu tự nhiên hơn. Còn khi nói trực tiếp thì <i>I'm afraid</i> mềm hơn nhiều." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Mệnh đề thường theo sau “I'm afraid…”",
+              "items": [
+                { "w": "you can't…", "vi": "bạn không thể…", "ex": "I'm afraid you can't park here.", "exvi": "E là anh/chị không đỗ xe ở đây được ạ." },
+                { "w": "we're fully booked", "vi": "bên tôi kín chỗ rồi", "ex": "I'm afraid we're fully booked tonight.", "exvi": "E là tối nay bên em kín chỗ rồi ạ.", "note": "Câu nhà hàng, khách sạn dùng mỗi ngày." },
+                { "w": "we're closed", "vi": "bên tôi đóng cửa rồi", "ex": "I'm afraid we're closed now.", "exvi": "E là bên em đóng cửa rồi ạ." },
+                { "w": "she's in a meeting", "vi": "chị ấy đang họp", "ex": "I'm afraid she's in a meeting right now.", "exvi": "E là chị ấy đang họp ạ.", "note": "Câu chuẩn khi nghe điện thoại hộ đồng nghiệp." },
+                { "w": "it's out of stock", "vi": "hết hàng rồi", "ex": "I'm afraid it's out of stock.", "exvi": "E là món đó hết hàng rồi ạ." },
+                { "w": "that's not possible", "vi": "việc đó không được", "ex": "I'm afraid that's not possible today.", "exvi": "E là hôm nay không được ạ." },
+                { "w": "I can't make it", "vi": "tôi không đến được", "ex": "I'm afraid I can't make it tonight.", "exvi": "E là tối nay tôi không đến được." },
+                { "w": "there's been a delay", "vi": "có sự chậm trễ", "ex": "I'm afraid there's been a delay.", "exvi": "E là có sự chậm trễ ạ." },
+                { "w": "we won't make the deadline", "vi": "chúng ta không kịp hạn", "ex": "I'm afraid we won't make the deadline.", "exvi": "E là chúng ta không kịp hạn chót." },
+                { "w": "it's already been sold", "vi": "đã bán mất rồi", "ex": "I'm afraid it's already been sold.", "exvi": "E là món đó đã bán rồi ạ." },
+                { "w": "the flight is cancelled", "vi": "chuyến bay bị hủy", "ex": "I'm afraid the flight is cancelled.", "exvi": "E là chuyến bay bị hủy ạ." },
+                { "w": "I don't know", "vi": "tôi không biết", "ex": "I'm afraid I don't know the answer.", "exvi": "E là tôi không biết câu trả lời.", "note": "Thừa nhận không biết mà vẫn giữ được thể diện." },
+                { "w": "we've run out", "vi": "bên tôi hết mất rồi", "ex": "I'm afraid we've run out of the fish.", "exvi": "E là món cá hết rồi ạ.", "note": "<i>run out of + N</i> = dùng hết, không còn." },
+                { "w": "it's non-refundable", "vi": "không hoàn tiền được", "ex": "I'm afraid it's non-refundable.", "exvi": "E là khoản này không hoàn lại được ạ." },
+                { "w": "I have to go", "vi": "tôi phải đi rồi", "ex": "I'm afraid I have to go — I've got another call.", "exvi": "E là tôi phải đi rồi — tôi có cuộc gọi khác." },
+                { "w": "there's nothing I can do", "vi": "tôi không làm gì được", "ex": "I'm afraid there's nothing I can do.", "exvi": "E là tôi không giúp gì được ạ.", "note": "Câu khá nặng — chỉ dùng khi thật sự hết cách." },
+                { "w": "it's against policy", "vi": "trái với quy định", "ex": "I'm afraid it's against company policy.", "exvi": "E là việc đó trái quy định công ty ạ.", "note": "Đổ cho quy định thay vì cho cá nhân — người nghe dễ chấp nhận hơn." },
+                { "w": "we don't accept…", "vi": "bên tôi không nhận…", "ex": "I'm afraid we don't accept cash.", "exvi": "E là bên em không nhận tiền mặt ạ." },
+                { "w": "you've missed it", "vi": "bạn lỡ mất rồi", "ex": "I'm afraid you've missed the last train.", "exvi": "E là anh/chị lỡ chuyến tàu cuối rồi ạ." },
+                { "w": "I disagree", "vi": "tôi không đồng ý", "ex": "I'm afraid I disagree with that.", "exvi": "E là tôi không đồng ý với ý đó.", "note": "Cách phản đối lịch sự nhất trong họp. Xem [Khung 54]." }
+              ]
+            },
+            {
+              "title": "Câu hoàn chỉnh nên thuộc lòng",
+              "items": [
+                { "w": "I'm afraid not.", "vi": "rất tiếc là không", "ex": "“Are there any seats left?” — “I'm afraid not.”", "exvi": "“Còn ghế nào không ạ?” — “Rất tiếc là không ạ.”" },
+                { "w": "I'm afraid so.", "vi": "rất tiếc là có", "ex": "“Is the meeting cancelled?” — “I'm afraid so.”", "exvi": "“Cuộc họp bị hủy à?” — “Rất tiếc là vậy.”", "note": "Dùng khi câu trả lời “có” lại là tin xấu." },
+                { "w": "I'm afraid we're fully booked.", "vi": "e là bên em kín chỗ rồi", "ex": "I'm afraid we're fully booked this evening.", "exvi": "E là tối nay bên em kín chỗ rồi ạ." },
+                { "w": "I'm afraid you can't…", "vi": "e là anh/chị không thể…", "ex": "I'm afraid you can't bring that inside.", "exvi": "E là anh/chị không mang cái đó vào trong được ạ." },
+                { "w": "I'm afraid I can't make it.", "vi": "e là tôi không đến được", "ex": "I'm afraid I can't make it on Friday.", "exvi": "E là thứ Sáu tôi không đến được.", "note": "Cách từ chối lời mời gọn và lịch sự." },
+                { "w": "I'm afraid there's been a mix-up.", "vi": "e là có sự nhầm lẫn", "ex": "I'm afraid there's been a mix-up with your order.", "exvi": "E là có sự nhầm lẫn với đơn hàng của anh/chị ạ.", "note": "<i>a mix-up</i> = một sự nhầm lẫn. Nhẹ hơn <i>a mistake</i>." },
+                { "w": "I'm afraid it's against policy.", "vi": "e là trái quy định", "ex": "I'm afraid that's against our policy.", "exvi": "E là việc đó trái quy định bên em ạ." },
+                { "w": "…, but we could…", "vi": "…, nhưng mình có thể…", "ex": "I'm afraid not tonight, but we could do Friday.", "exvi": "E là tối nay không được, nhưng thứ Sáu thì được ạ.", "note": "Vế này quan trọng nhất — luôn đưa ra phương án thay thế." },
+                { "w": "I'm sorry, but I'm afraid…", "vi": "xin lỗi, nhưng e là…", "ex": "I'm sorry, but I'm afraid it's too late to change.", "exvi": "Xin lỗi anh/chị, nhưng e là đã quá muộn để đổi ạ." },
+                { "w": "Unfortunately, …", "vi": "rất tiếc là…", "ex": "Unfortunately, we cannot proceed with your request.", "exvi": "Rất tiếc là chúng tôi không thể tiến hành yêu cầu của anh/chị.", "note": "Dạng dùng khi VIẾT. Khi nói thì <i>I'm afraid</i> mềm hơn." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại khi bạn nghe tin xấu",
+              "items": [
+                { "w": "That's a shame", "vi": "tiếc quá", "ex": "That's a shame. Never mind.", "exvi": "Tiếc quá. Thôi không sao.", "note": "Phản ứng chuẩn mực, nhẹ nhàng — không làm người báo tin khó xử." },
+                { "w": "No problem at all", "vi": "không sao đâu", "ex": "No problem at all — I understand.", "exvi": "Không sao đâu ạ — tôi hiểu mà." },
+                { "w": "I understand", "vi": "tôi hiểu", "ex": "I understand. Thanks for checking.", "exvi": "Tôi hiểu. Cảm ơn bạn đã kiểm tra giúp." },
+                { "w": "What are my options?", "vi": "vậy tôi có lựa chọn nào?", "ex": "I see. What are my options?", "exvi": "Tôi hiểu rồi. Vậy tôi có những lựa chọn nào ạ?", "note": "Câu hỏi tiếp theo hiệu quả nhất — mở ra phương án bạn chưa biết." },
+                { "w": "Is there anything else we could do?", "vi": "còn cách nào khác không?", "ex": "Is there anything else we could do?", "exvi": "Còn cách nào khác không ạ?", "note": "Dùng <i>we</i> để cùng phe tìm cách. Xem [Khung 18]." },
+                { "w": "Never mind", "vi": "thôi không sao", "ex": "Never mind — I'll try somewhere else.", "exvi": "Thôi không sao — tôi thử chỗ khác vậy." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I'm afraid we're fully booked tonight.",
+                  "vi": "E là tối nay bên em kín chỗ rồi ạ.",
+                  "note": "Câu nhà hàng dùng mỗi ngày. Nghe quen để không bị hẫng, và để biết hỏi tiếp phương án.",
+                  "reply": [
+                    { "them": "Oh, that's a shame. What about tomorrow?", "themvi": "Ồ, tiếc quá. Ngày mai thì sao ạ?", "you": "Tomorrow we have seven or nine thirty.", "youvi": "Mai bên em còn bảy giờ hoặc chín rưỡi ạ." },
+                    { "them": "Is there a waiting list?", "themvi": "Có danh sách chờ không ạ?", "you": "There is — shall I add you?", "youvi": "Có ạ — em thêm tên anh/chị nhé?" }
+                  ],
+                  "close": { "en": "I'm sorry we couldn't fit you in tonight.", "vi": "Xin lỗi vì tối nay bên em không xếp được ạ." }
+                },
+                {
+                  "en": "I'm afraid we've run out of the fish.",
+                  "vi": "E là món cá hết rồi ạ.",
+                  "note": "<span class=\"k\">run out of + N</span> = dùng hết. Luôn nên kèm gợi ý món thay thế ngay sau đó.",
+                  "reply": [
+                    { "them": "Oh no. What would you recommend instead?", "themvi": "Ôi. Vậy bạn gợi ý món nào thay thế ạ?", "you": "The chicken is very popular today.", "youvi": "Hôm nay món gà được nhiều người gọi lắm ạ." }
+                  ]
+                },
+                {
+                  "en": "I'm afraid we don't accept cash.",
+                  "vi": "E là bên em không nhận tiền mặt ạ.",
+                  "reply": [
+                    { "them": "Oh. Is there an ATM nearby?", "themvi": "Ồ. Có máy ATM nào gần đây không ạ?", "you": "There's one just across the road.", "youvi": "Có một cái ngay bên kia đường ạ." }
+                  ]
+                },
+                {
+                  "en": "I'm afraid the kitchen closes in ten minutes.",
+                  "vi": "E là mười phút nữa bếp đóng ạ.",
+                  "note": "Báo trước giới hạn thời gian là cách từ chối gián tiếp mà rất được lòng khách.",
+                  "reply": [
+                    { "them": "Can we still order something quick?", "themvi": "Chúng tôi gọi món gì nhanh được không ạ?", "you": "Of course — the noodles are fastest.", "youvi": "Được chứ ạ — món mì nhanh nhất ạ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I'm afraid she's in a meeting right now.",
+                  "vi": "E là chị ấy đang họp ạ.",
+                  "note": "Câu chuẩn khi nghe điện thoại hộ đồng nghiệp. Luôn kèm câu hỏi tiếp theo để người gọi không bị bỏ lửng.",
+                  "reply": [
+                    { "them": "Do you know when she'll be free?", "themvi": "Anh/chị có biết khi nào chị ấy rảnh không ạ?", "you": "After three. Can I take a message?", "youvi": "Sau ba giờ ạ. Tôi nhắn lại giúp anh/chị nhé?" }
+                  ],
+                  "vars": [
+                    { "en": "I'm afraid he's away until Monday.", "vi": "E là anh ấy đi vắng đến thứ Hai ạ." }
+                  ]
+                },
+                {
+                  "en": "I'm afraid we won't make the deadline.",
+                  "vi": "E là chúng ta không kịp hạn chót.",
+                  "note": "Báo tin xấu sớm là dấu hiệu của người chuyên nghiệp. Nêu luôn mốc mới khả thi ngay sau đó.",
+                  "open": { "en": "I need to flag something —", "vi": "Tôi cần báo một việc —" },
+                  "reply": [
+                    { "them": "How far behind are we?", "themvi": "Chúng ta chậm bao nhiêu?", "you": "About three days. I'd suggest the eighteenth.", "youvi": "Khoảng ba ngày ạ. Em đề xuất ngày mười tám." },
+                    { "them": "The client won't be happy.", "themvi": "Khách hàng sẽ không vui đâu.", "you": "I know — shall I call them myself?", "youvi": "Em biết ạ — em gọi cho họ nhé?" }
+                  ],
+                  "close": { "en": "I'll send a revised plan today.", "vi": "Hôm nay em sẽ gửi kế hoạch điều chỉnh." }
+                },
+                {
+                  "en": "I'm afraid I disagree with that.",
+                  "vi": "E là tôi không đồng ý với ý đó.",
+                  "note": "Cách phản đối lịch sự nhất trong cuộc họp. Nói kèm lý do ngay sau đó thì không thành đối đầu. Xem [Khung 54].",
+                  "reply": [
+                    { "them": "Go on — why?", "themvi": "Nói tiếp đi — vì sao?", "you": "The data only covers one quarter.", "youvi": "Dữ liệu mới chỉ có một quý ạ." }
+                  ]
+                },
+                {
+                  "en": "I'm afraid I don't know the answer to that.",
+                  "vi": "E là tôi không biết câu trả lời ạ.",
+                  "note": "Thừa nhận không biết mà vẫn giữ thể diện. Luôn nên kèm lời hứa tìm hiểu.",
+                  "reply": [
+                    { "them": "Can you find out?", "themvi": "Anh/chị tìm hiểu được không?", "you": "I'll check and get back to you by five.", "youvi": "Tôi sẽ kiểm tra và báo lại trước năm giờ ạ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I'm afraid it's out of stock.",
+                  "vi": "E là món đó hết hàng rồi ạ.",
+                  "reply": [
+                    { "them": "When will you get more in?", "themvi": "Khi nào bên mình có hàng lại ạ?", "you": "Next Tuesday. Shall I hold one for you?", "youvi": "Thứ Ba tuần sau ạ. Em giữ một cái cho anh/chị nhé?" }
+                  ],
+                  "vars": [
+                    { "en": "I'm afraid it's already been sold.", "vi": "E là món đó đã bán rồi ạ." }
+                  ]
+                },
+                {
+                  "en": "I'm afraid it's non-refundable.",
+                  "vi": "E là khoản này không hoàn lại được ạ.",
+                  "note": "Tin xấu nặng — nên kèm ngay phương án khác nếu có, kẻo khách cảm thấy bị dồn vào đường cùng.",
+                  "reply": [
+                    { "them": "So there's nothing I can do?", "themvi": "Vậy tôi không làm gì được à?", "you": "We could offer store credit instead.", "youvi": "Bên em đổi phiếu mua hàng thay thế được ạ." }
+                  ]
+                },
+                {
+                  "en": "I'm afraid that's against our policy.",
+                  "vi": "E là việc đó trái quy định bên em ạ.",
+                  "note": "Đổ cho quy định thay vì cho cá nhân bạn — khách hàng chấp nhận dễ hơn nhiều.",
+                  "reply": [
+                    { "them": "Could you check with your manager?", "themvi": "Bạn hỏi lại quản lý giúp được không?", "you": "Of course — one moment.", "youvi": "Vâng ạ — một lát ạ." }
+                  ]
+                },
+                {
+                  "en": "I'm afraid there's been a mix-up with your order.",
+                  "vi": "E là có sự nhầm lẫn với đơn hàng của anh/chị ạ.",
+                  "note": "<i>a mix-up</i> nhẹ hơn <i>a mistake</i> — không quy trách nhiệm cho ai cụ thể.",
+                  "open": { "en": "I'm really sorry about this —", "vi": "Em thật sự xin lỗi về việc này —" },
+                  "reply": [
+                    { "them": "What happened exactly?", "themvi": "Cụ thể là chuyện gì ạ?", "you": "The wrong size was picked. I'll sort it today.", "youvi": "Bên em lấy nhầm cỡ ạ. Hôm nay em xử lý xong." }
+                  ],
+                  "close": { "en": "Thank you for being so patient.", "vi": "Cảm ơn anh/chị đã kiên nhẫn." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I'm afraid the flight has been cancelled.",
+                  "vi": "E là chuyến bay đã bị hủy ạ.",
+                  "reply": [
+                    { "them": "What are my options?", "themvi": "Vậy tôi có những lựa chọn nào ạ?", "you": "We can rebook you or refund you in full.", "youvi": "Bên em đổi chuyến hoặc hoàn tiền toàn bộ cho anh/chị ạ." }
+                  ],
+                  "vars": [
+                    { "en": "I'm afraid there's been a delay.", "vi": "E là có sự chậm trễ ạ." }
+                  ]
+                },
+                {
+                  "en": "I'm afraid you've missed the last train.",
+                  "vi": "E là anh/chị lỡ chuyến tàu cuối rồi ạ.",
+                  "reply": [
+                    { "them": "Is there a bus instead?", "themvi": "Có xe buýt thay thế không ạ?", "you": "There's a night bus at eleven.", "youvi": "Có xe buýt đêm lúc mười một giờ ạ." }
+                  ]
+                },
+                {
+                  "en": "I'm afraid check-in is closed for that flight.",
+                  "vi": "E là chuyến bay đó đã đóng quầy làm thủ tục ạ.",
+                  "note": "Tin xấu nghiêm trọng — nhân viên giỏi sẽ nói kèm phương án ngay lập tức.",
+                  "reply": [
+                    { "them": "Is there really nothing you can do?", "themvi": "Thật sự không còn cách nào à ạ?", "you": "Let me see if there's space on the next one.", "youvi": "Để em xem chuyến sau còn chỗ không ạ." }
+                  ]
+                },
+                {
+                  "en": "I'm afraid we can't upgrade you today.",
+                  "vi": "E là hôm nay bên em không nâng hạng cho anh/chị được ạ.",
+                  "reply": [
+                    { "them": "No problem at all — I understand.", "themvi": "Không sao đâu ạ — tôi hiểu mà.", "you": "Thank you. I've noted it for next time.", "youvi": "Cảm ơn anh/chị. Em ghi chú cho lần sau ạ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I'm afraid I can't make it on Friday.",
+                  "vi": "E là thứ Sáu mình không đến được.",
+                  "note": "Cách từ chối lời mời gọn gàng. Kèm phương án thay thế thì người mời không hụt hẫng.",
+                  "reply": [
+                    { "them": "That's a shame. Another time?", "themvi": "Tiếc quá. Để hôm khác nhé?", "you": "Definitely — how about next weekend?", "youvi": "Chắc chắn rồi — cuối tuần sau nhé?" }
+                  ],
+                  "close": { "en": "Sorry to miss it — have a great time.", "vi": "Tiếc vì không tham gia được — mọi người vui vẻ nhé." }
+                },
+                {
+                  "en": "“Is it cancelled?” — “I'm afraid so.”",
+                  "vi": "“Bị hủy à?” — “Rất tiếc là vậy.”",
+                  "note": "<b>I'm afraid so</b> dùng khi câu trả lời “có” lại là tin xấu — rất dễ nhầm với <i>I'm afraid not</i>.",
+                  "reply": [
+                    { "them": "Do you know why?", "themvi": "Bạn có biết vì sao không?", "you": "Not really — they didn't say.", "youvi": "Không rõ lắm — họ không nói." }
+                  ]
+                },
+                {
+                  "en": "“Are there any tickets left?” — “I'm afraid not.”",
+                  "vi": "“Còn vé nào không ạ?” — “Rất tiếc là không ạ.”",
+                  "reply": [
+                    { "them": "Never mind. Thanks anyway.", "themvi": "Thôi không sao. Vẫn cảm ơn bạn.", "you": "Try the website tomorrow — they sometimes release more.", "youvi": "Mai thử trang web xem — đôi khi họ mở bán thêm ạ." }
+                  ]
+                },
+                {
+                  "en": "I'm afraid I have to go — I've got another call.",
+                  "vi": "E là mình phải đi rồi — mình có cuộc gọi khác.",
+                  "note": "Cách kết thúc cuộc trò chuyện mà không có vẻ chán người kia — lý do nằm ở lịch, không ở họ.",
+                  "reply": [
+                    { "them": "Of course — talk later.", "themvi": "Tất nhiên rồi — lát nói chuyện tiếp.", "you": "I'll call you this evening.", "youvi": "Tối mình gọi lại cho bạn." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Nhà hàng kín chỗ — từ chối đủ ba phần",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Hi, do you have a table for two tonight?", "vi": "Chào bạn, tối nay còn bàn cho hai người không ạ?" },
+            { "speaker": "Staff", "en": "I'm afraid we're fully booked — there's a private event.", "vi": "E là bên em kín chỗ rồi ạ — có một sự kiện riêng." },
+            { "speaker": "You", "me": true, "en": "That's a shame. What about tomorrow?", "vi": "Tiếc quá. Ngày mai thì sao ạ?" },
+            { "speaker": "Staff", "en": "Tomorrow we have seven or nine thirty.", "vi": "Mai bên em còn bảy giờ hoặc chín rưỡi ạ." },
+            { "speaker": "You", "me": true, "en": "Seven would be great. And is there a waiting list for tonight?", "vi": "Bảy giờ thì tốt quá. Với lại tối nay có danh sách chờ không ạ?" },
+            { "speaker": "Staff", "en": "There is — I'll take your number just in case.", "vi": "Có ạ — em xin số của anh/chị để phòng khi có chỗ." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Báo tin xấu với khách hàng qua điện thoại",
+          "lines": [
+            { "speaker": "Client", "en": "Are we still on track for the fifteenth?", "vi": "Mình vẫn đúng tiến độ cho ngày mười lăm chứ?" },
+            { "speaker": "You", "me": true, "en": "I need to flag something — I'm afraid we won't make the fifteenth.", "vi": "Tôi cần báo một việc — e là chúng tôi không kịp ngày mười lăm." },
+            { "speaker": "Client", "en": "That's not what I wanted to hear. Why?", "vi": "Đó không phải điều tôi muốn nghe. Vì sao vậy?" },
+            { "speaker": "You", "me": true, "en": "The supplier had a delay. I'm afraid it's out of our hands.", "vi": "Nhà cung cấp bị chậm. E là nằm ngoài khả năng của chúng tôi ạ." },
+            { "speaker": "Client", "en": "So what now?", "vi": "Vậy giờ thế nào?" },
+            { "speaker": "You", "me": true, "en": "I'd suggest the eighteenth, and we'll cover the express shipping.", "vi": "Tôi đề xuất ngày mười tám, và bên tôi sẽ chịu phí giao nhanh ạ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'm afraid of you can't park here.", "right": "I'm afraid you can't park here.", "why": "Không có <b>of</b>. <i>be afraid of</i> mới là “sợ cái gì” — còn ở đây là lớp đệm báo tin xấu." },
+            { "wrong": "“Is it cancelled?” — “I'm afraid not.” <i>(ý: đúng, bị hủy)</i>", "right": "“Is it cancelled?” — “I'm afraid so.”", "why": "Câu trả lời là “có” nên phải dùng <b>so</b>. <i>not</i> nghĩa là không bị hủy." },
+            { "wrong": "I'm afraid that you can't do it. <i>(khi nói)</i>", "right": "I'm afraid you can't do it.", "why": "Không cần <b>that</b> khi nói — thừa và nghe cứng." },
+            { "wrong": "I'm afraid we're fully booked. <i>(báo tin vui)</i>", "right": "Good news — we still have a table!", "why": "<i>I'm afraid</i> chỉ dùng cho tin XẤU. Dùng cho tin vui thì câu trở nên vô nghĩa." },
+            { "wrong": "I'm afraid. You can't park here.", "right": "I'm afraid you can't park here.", "why": "Tách thành hai câu thì <i>I'm afraid</i> lại mang nghĩa “tôi sợ” — hoàn toàn khác." },
+            { "wrong": "Unfortunately you can't park here. <i>(nói trực tiếp)</i>", "right": "I'm afraid you can't park here.", "why": "Không sai, nhưng <b>Unfortunately</b> hợp văn viết hơn. Khi nói thì <i>I'm afraid</i> mềm hơn nhiều." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I'm afraid + mệnh đề</code>", "Lớp đệm báo tin xấu — mềm nhất khi nói", "<i>I'm afraid we're closed.</i>"],
+            ["<code>Unfortunately, + mệnh đề</code>", "Trang trọng — hợp văn viết", "<i>Unfortunately, we cannot proceed.</i>"],
+            ["<code>I'm sorry, but…</code>", "Xin lỗi trước rồi mới từ chối", "<i>I'm sorry, but it's too late.</i>"],
+            ["<code>You can't + V</code>", "Dứt khoát — không có lớp đệm", "<i>You can't park here.</i>"],
+            ["<code>You're not allowed to + V</code>", "Nêu quy định", "<i>You're not allowed to park here.</i> — Xem [Khung 23]."],
+            ["<code>You're not supposed to + V</code>", "Nhắc nhở mềm", "<i>You're not supposed to park here.</i> — Xem [Khung 27]."],
+            ["<code>I regret to inform you that…</code>", "Rất trang trọng — thư chính thức", "<i>I regret to inform you that…</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Thang độ mềm — từ chối một yêu cầu" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "No.", "vi": "Cụt — dễ gây phản ứng" },
+            { "en": "You can't.", "vi": "Dứt khoát — như mệnh lệnh" },
+            { "en": "I'm afraid you can't.", "vi": "Lịch sự — có tiếc nuối" },
+            { "en": "I'm afraid not, but we could…", "vi": "Lịch sự + lối ra" },
+            { "en": "I'm so sorry, I'm afraid that's not possible — but…", "vi": "Mềm nhất — dịch vụ cao cấp" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>afraid</b> = /əˈfreɪd/ — trọng âm ở âm tiết <b>thứ hai</b>: ə-<b>FRAID</b>.",
+            "<b>I'm afraid</b> nối liền thành “ai-mə-FRAID” — âm /m/ trượt sang nguyên âm của <i>afraid</i>.",
+            "<b>I'm afraid not</b> → “ai-mə-FRAID-not”, nhấn cả <i>afraid</i> và <i>not</i>.",
+            "<b>I'm afraid so</b> → “ai-mə-FRAID-sow” — chú ý nghe chữ cuối, vì <i>so</i> và <i>not</i> đổi hẳn nghĩa.",
+            "Cả cụm <b>I'm afraid</b> nên nói <b>nhanh và nhẹ</b>, rồi mới chậm lại ở phần tin xấu — đó là cách người bản xứ làm.",
+            "<b>Giọng đi xuống</b> ở cuối câu. Lên giọng sẽ nghe như bạn đang hỏi chứ không phải báo tin."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm afraid we're fully booked tonight.", "vi": "Luyện shadowing: nói nhanh cụm “I'm afraid”, chậm lại ở “fully booked”." },
+            { "en": "I'm afraid not. / I'm afraid so.", "vi": "Hai câu trả lời ngắn — nghe kỹ chữ cuối vì nó quyết định nghĩa." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "E là tối nay bên em kín chỗ rồi ạ.", "blank": "__________ fully booked tonight.", "a": "I'm afraid we're" },
+            { "vi": "“Còn vé nào không ạ?” — “Rất tiếc là không ạ.”", "blank": "“Any tickets left?” — “__________.”", "a": "I'm afraid not" },
+            { "vi": "“Cuộc họp bị hủy à?” — “Rất tiếc là vậy.”", "blank": "“Is the meeting cancelled?” — “__________.”", "a": "I'm afraid so" },
+            { "vi": "E là anh/chị không đỗ xe ở đây được ạ.", "blank": "__________ park here.", "a": "I'm afraid you can't" },
+            { "vi": "E là việc đó trái quy định bên em ạ.", "blank": "I'm afraid that's __________.", "a": "against our policy" },
+            { "vi": "E là tối nay không được, nhưng thứ Sáu thì được ạ.", "blank": "I'm afraid not tonight, __________ Friday.", "a": "but we could do" },
+            { "vi": "Rất tiếc là chúng tôi không thể tiến hành yêu cầu này. (viết)", "blank": "__________, we cannot proceed with your request.", "a": "Unfortunately" },
+            { "vi": "E là có sự nhầm lẫn với đơn hàng của anh/chị ạ.", "blank": "I'm afraid there's been a __________ with your order.", "a": "mix-up" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. E là chị ấy đang họp ạ.", "a": "I'm afraid she's in a meeting right now." },
+            { "vi": "2. E là chúng ta không kịp hạn chót.", "a": "I'm afraid we won't make the deadline." },
+            { "vi": "3. E là thứ Sáu mình không đến được.", "a": "I'm afraid I can't make it on Friday." },
+            { "vi": "4. E là món đó hết hàng rồi ạ.", "a": "I'm afraid it's out of stock." },
+            { "vi": "5. E là tôi không đồng ý với ý đó.", "a": "I'm afraid I disagree with that." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Học thuộc công thức ba phần:</b> <i>I'm afraid</i> + tin xấu + lý do ngắn + phương án thay thế. Đủ ba phần thì hầu như không ai phật lòng.",
+            "<b>Phân biệt “not” và “so”:</b> <i>I'm afraid not</i> = rất tiếc là không. <i>I'm afraid so</i> = rất tiếc là có. Nghe kỹ chữ cuối.",
+            "<b>Nói thì dùng “I'm afraid”, viết thì dùng “Unfortunately”:</b> hai từ cùng chức năng nhưng khác kênh.",
+            "<b>Đổ cho quy định, đừng đổ cho mình:</b> <i>I'm afraid it's against policy</i> dễ được chấp nhận hơn <i>I won't do that.</i>",
+            "<b>Luôn có vế “but we could…”:</b> đây là phần quan trọng nhất — người nghe cần một lối ra, không chỉ một cánh cửa đóng.",
+            "<b>Bài tập 3 phút:</b> nghĩ 5 lời từ chối bạn hay phải nói ở công ty, viết lại mỗi lời theo đúng công thức ba phần, rồi đọc to với giọng đi xuống."
+          ]
+        }
+      ]
+    }
+  ]
+}

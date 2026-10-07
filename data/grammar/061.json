@@ -1,0 +1,277 @@
+{
+  "id": 61,
+  "group": "Nhóm 7 · Giới từ",
+  "title": "Giới từ chỉ chuyển động — into / onto / out of / through",
+  "subtitle": "go to home ✗ là lỗi kinh điển. Ba từ home, there, here không bao giờ có giới từ đứng trước. Bẫy thứ hai: in là đứng yên bên trong, into là đi từ ngoài vào — đổi một chữ là đổi cả câu chuyện.",
+  "meaning": "Nói hướng đi và đường đi",
+  "rule": [
+    "<em>home · there · here · abroad</em> — KHÔNG có giới từ",
+    "<em>in</em> đứng yên · <em>into</em> chuyển động vào",
+    "<em>to</em> chỉ đích đến · <em>through</em> xuyên qua"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2–B1", "hot": true },
+    { "text": "go to home ✗" },
+    { "text": "in ≠ into" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [4, 62, 63, 64, 99],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "[Ngữ pháp 40] nói về nơi chốn <b>đứng yên</b>. Bài này nói về <b>chuyển động</b> — đi đâu, đi bằng đường nào, vào hay ra. Phần lớn lỗi đến từ hai chỗ." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — vài từ KHÔNG BAO GIỜ có giới từ:</b><br><i>go <b>to</b> home</i> ✗ → <i>go <b>home</b></i> ✓<br><i>go <b>to</b> there</i> ✗ → <i>go <b>there</b></i> ✓<br>Danh sách phải thuộc: <b>home · here · there · abroad · upstairs · downstairs · inside · outside</b>.<br>Lý do: những từ này <b>đã là trạng từ</b>, tự chúng mang sẵn nghĩa hướng rồi nên không cần <i>to</i> nữa." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>in</i> và <i>into</i> kể hai câu chuyện khác nhau:</b><br>• <i>He walked <b>in</b> the room.</i> = anh ta đi <b>bên trong</b> phòng (đi qua đi lại)<br>• <i>He walked <b>into</b> the room.</i> = anh ta đi <b>từ ngoài vào</b> phòng<br>Cùng cặp như vậy: <b>on</b> (nằm trên) ↔ <b>onto</b> (trèo lên), <b>in</b> ↔ <b>out of</b> (từ trong ra).<br>Mẹo: có <b>-to</b> ở cuối là có <b>chuyển động</b>." },
+        { "t": "h3", "text": "Bốn khuôn phải thuộc" },
+        {
+          "t": "table",
+          "head": ["Giới từ", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>to</code>", "Đích đến", "I go to work by bus."],
+            ["<code>into</code>", "Từ ngoài vào trong", "He walked into the room."],
+            ["<code>out of</code>", "Từ trong ra ngoài", "She got out of the car."],
+            ["(không giới từ)", "<code>home, there, here, abroad</code>", "I'm going home."]
+          ]
+        },
+        { "t": "p", "html": "Lưu ý <i>arrive</i> không bao giờ đi với <b>to</b>: <i>arrive <b>at</b> the station</i>, <i>arrive <b>in</b> Hanoi</i>, nhưng <i>get <b>to</b> the station</i>. Xem [Ngữ pháp 40]." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Giới từ", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>to</code>", "Đích đến", "go to school · get to the station"],
+            ["<code>into</code>", "Từ ngoài vào trong", "walk into the room · get into the car"],
+            ["<code>out of</code>", "Từ trong ra ngoài", "get out of the car · run out of money"],
+            ["<code>onto</code>", "Trèo lên trên bề mặt", "climb onto the roof"],
+            ["<code>off</code>", "Rời khỏi bề mặt", "get off the bus · fall off the chair"],
+            ["<code>through</code>", "Xuyên qua bên trong", "walk through the park"],
+            ["<code>across</code>", "Băng qua bề mặt", "walk across the road"],
+            ["<code>along</code>", "Dọc theo", "walk along the river"],
+            ["<code>past</code>", "Đi ngang qua", "walk past the bank"],
+            ["<code>towards</code>", "Về phía (chưa tới)", "He walked towards me."],
+            ["<code>from … to …</code>", "Từ… đến…", "from Hanoi to Hue"],
+            ["(không giới từ)", "<code>home, here, there, abroad, upstairs</code>", "go home · go abroad"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cặp <i>get on/off</i> và <i>get in/out of</i> theo đúng luật của [Ngữ pháp 40]:</b><br>• Xe <b>đi lại được bên trong</b> (buýt, tàu, máy bay) → <b>get <b>on</b> / get <b>off</b></b><br>• Xe <b>phải chui vào</b> (ô tô, taxi) → <b>get <b>in</b> / get <b>out of</b></b><br><i>get off the taxi</i> ✗ → <i>get <b>out of</b> the taxi</i> ✓" },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm going home now.", "vi": "Giờ tôi về nhà đây.", "note": "BẪY SỐ MỘT: <i>go to home</i> ✗ — <b>home</b> là trạng từ." },
+            { "en": "I want to go there next year.", "vi": "Sang năm tôi muốn tới đó.", "note": "<i>go to there</i> ✗ — cùng một luật." },
+            { "en": "She wants to study abroad.", "vi": "Cô ấy muốn đi du học.", "note": "<i>go to abroad</i> ✗." },
+            { "en": "I go to work by bus.", "vi": "Tôi đi làm bằng xe buýt.", "note": "<b>work</b> là danh từ nên vẫn cần <i>to</i>." },
+            { "en": "He walked into the room.", "vi": "Anh ta bước vào phòng.", "note": "BẪY SỐ HAI: từ ngoài VÀO. <i>walked in the room</i> = đi lại bên trong phòng." },
+            { "en": "She got out of the car.", "vi": "Cô ấy bước ra khỏi xe.", "note": "Ô tô phải chui vào nên dùng <b>out of</b>, không dùng <i>off</i>." },
+            { "en": "I got off the bus at the corner.", "vi": "Tôi xuống xe buýt ở góc đường.", "note": "Xe buýt đi lại được bên trong nên dùng <b>off</b>." },
+            { "en": "We walked through the park.", "vi": "Bọn tôi đi xuyên qua công viên.", "note": "<b>through</b> = xuyên qua bên trong một không gian." },
+            { "en": "Be careful walking across the road.", "vi": "Cẩn thận khi băng qua đường.", "note": "<b>across</b> = băng qua một bề mặt phẳng." },
+            { "en": "Walk past the bank and turn left.", "vi": "Đi qua ngân hàng rồi rẽ trái.", "note": "Chỉ đường rất hay dùng. Xem [Khung 63]." },
+            { "en": "How do I get to the station?", "vi": "Làm sao để tới nhà ga ạ?", "note": "<b>get to</b> có <i>to</i>, nhưng <i>arrive</i> thì không. Xem [Khung 63]." },
+            { "en": "The train arrives at the station at six.", "vi": "Sáu giờ tàu tới ga.", "note": "<i>arrive to</i> ✗ — luôn là <b>arrive at/in</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🏠", "title": "Nói về nhà", "text": "<i>go home</i> — không bao giờ có <i>to</i>." },
+            { "icon": "🚪", "title": "Đi vào, đi ra", "text": "<i>walk into</i> · <i>get out of</i>." },
+            { "icon": "🚌", "title": "Lên xuống xe", "text": "<i>get on/off</i> buýt · <i>get in/out of</i> ô tô." },
+            { "icon": "🧭", "title": "Chỉ đường", "text": "<i>walk past</i>, <i>go through</i>, <i>cross</i>. Xem [Khung 63]." },
+            { "icon": "✈️", "title": "Nói đi nước ngoài", "text": "<i>go abroad</i> — cũng không có <i>to</i>." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "<i>arrive</i> không bao giờ đi với <i>to</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một mục ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi mục đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Hướng đi & đích đến",
+              "items": [
+                { "w": "go home", "vi": "về nhà", "ex": "I'm going home now.", "exvi": "Giờ tôi về nhà đây.", "note": "BẪY SỐ MỘT: <i>go to home</i> ✗ — <b>home</b> là trạng từ." },
+                { "w": "go there / come here", "vi": "tới đó / lại đây", "ex": "I want to go there next year.", "exvi": "Sang năm tôi muốn tới đó.", "note": "<i>go to there</i> ✗." },
+                { "w": "go abroad", "vi": "ra nước ngoài", "ex": "She wants to study abroad.", "exvi": "Cô ấy muốn đi du học." },
+                { "w": "go upstairs", "vi": "lên gác", "ex": "He went upstairs to get it.", "exvi": "Anh ấy lên gác lấy nó." },
+                { "w": "go to + nơi chốn", "vi": "đi đến", "ex": "I go to work by bus.", "exvi": "Tôi đi làm bằng buýt.", "note": "Danh từ thì VẪN cần <i>to</i>." },
+                { "w": "get to", "vi": "tới được", "ex": "How do I get to the station?", "exvi": "Làm sao tới nhà ga ạ? Xem [Khung 63]." },
+                { "w": "arrive at / in", "vi": "tới nơi", "ex": "The train arrives at the station.", "exvi": "Tàu tới ga.", "note": "<i>arrive to</i> ✗. Chỗ nhỏ dùng <b>at</b>, thành phố dùng <b>in</b>." },
+                { "w": "towards", "vi": "về phía", "ex": "He walked towards me.", "exvi": "Anh ấy đi về phía tôi.", "note": "Mới hướng tới, CHƯA tới nơi — khác <i>to</i>." },
+                { "w": "from … to …", "vi": "từ… đến…", "ex": "It's 700 km from Hanoi to Hue.", "exvi": "Từ Hà Nội vào Huế 700 cây. Xem [Khung 64]." },
+                { "w": "back to", "vi": "quay lại", "ex": "I went back to the shop.", "exvi": "Tôi quay lại cửa hàng.", "note": "Nhưng <i>go back home</i> — vẫn không có <i>to</i> trước <i>home</i>." },
+                { "w": "on my way to", "vi": "đang trên đường tới", "ex": "I'm on my way to the office.", "exvi": "Tôi đang trên đường tới văn phòng." },
+                { "w": "all the way to", "vi": "tận đến", "ex": "We walked all the way to the beach.", "exvi": "Bọn tôi đi bộ tận ra biển." }
+              ]
+            },
+            {
+              "title": "Vào, ra & đường đi",
+              "items": [
+                { "w": "into", "vi": "từ ngoài vào trong", "ex": "He walked into the room.", "exvi": "Anh ta bước vào phòng.", "note": "BẪY SỐ HAI: <i>in the room</i> = đi lại bên trong phòng." },
+                { "w": "out of", "vi": "từ trong ra ngoài", "ex": "She got out of the car.", "exvi": "Cô ấy bước ra khỏi xe.", "note": "Ô tô, taxi dùng <b>out of</b>, không dùng <i>off</i>." },
+                { "w": "onto", "vi": "trèo lên bề mặt", "ex": "The cat jumped onto the table.", "exvi": "Con mèo nhảy lên bàn." },
+                { "w": "off", "vi": "rời khỏi bề mặt", "ex": "I got off the bus at the corner.", "exvi": "Tôi xuống xe buýt ở góc đường.", "note": "Buýt, tàu, máy bay dùng <b>on/off</b>. Xem [Ngữ pháp 40]." },
+                { "w": "get in / get into", "vi": "lên xe (ô tô)", "ex": "Get in the car, please.", "exvi": "Lên xe đi." },
+                { "w": "through", "vi": "xuyên qua bên trong", "ex": "We walked through the park.", "exvi": "Bọn tôi đi xuyên qua công viên." },
+                { "w": "across", "vi": "băng qua bề mặt", "ex": "Be careful walking across the road.", "exvi": "Cẩn thận khi băng qua đường.", "note": "<b>across</b> qua MẶT · <b>through</b> qua BÊN TRONG." },
+                { "w": "along", "vi": "dọc theo", "ex": "We walked along the river.", "exvi": "Bọn tôi đi dọc bờ sông." },
+                { "w": "past", "vi": "đi ngang qua", "ex": "Walk past the bank and turn left.", "exvi": "Đi qua ngân hàng rồi rẽ trái. Xem [Khung 63]." },
+                { "w": "up / down", "vi": "lên / xuống (dọc đường)", "ex": "Go up the stairs and turn right.", "exvi": "Lên cầu thang rồi rẽ phải." },
+                { "w": "around", "vi": "vòng quanh", "ex": "We walked around the lake.", "exvi": "Bọn tôi đi vòng quanh hồ." },
+                { "w": "run out of", "vi": "hết sạch", "ex": "We've run out of milk.", "exvi": "Hết sữa rồi.", "note": "Nghĩa bóng của <b>out of</b>, rất hay dùng. Xem [Khung 4]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'm going <b>to home</b>.", "right": "I'm going <b>home</b>.", "why": "BẪY SỐ MỘT: <b>home</b> đã là trạng từ, tự mang nghĩa hướng nên không cần <i>to</i>." },
+            { "wrong": "I want to go <b>to there</b>.", "right": "I want to go <b>there</b>.", "why": "Cùng luật với <i>here, abroad, upstairs, outside</i>." },
+            { "wrong": "She wants to study <b>to abroad</b>.", "right": "She wants to study <b>abroad</b>.", "why": "<b>abroad</b> cũng nằm trong danh sách không có giới từ." },
+            { "wrong": "He walked <b>in</b> the room and sat down.", "right": "He walked <b>into</b> the room and sat down.", "why": "BẪY SỐ HAI: từ ngoài VÀO thì dùng <b>into</b>. <i>in</i> nghĩa là đi lại bên trong." },
+            { "wrong": "She got <b>off</b> the taxi.", "right": "She got <b>out of</b> the taxi.", "why": "Taxi phải chui vào nên dùng <b>out of</b>. Buýt mới dùng <i>off</i>." },
+            { "wrong": "I got <b>out of</b> the bus.", "right": "I got <b>off</b> the bus.", "why": "Lỗi ngược lại — xe đi lại được bên trong thì dùng <b>on/off</b>. Xem [Ngữ pháp 40]." },
+            { "wrong": "The train <b>arrives to</b> the station at six.", "right": "The train <b>arrives at</b> the station at six.", "why": "<b>arrive</b> không bao giờ đi với <i>to</i> — chỉ <b>at</b> hoặc <b>in</b>." },
+            { "wrong": "We walked <b>across</b> the park.", "right": "We walked <b>through</b> the park.", "why": "Công viên có cây cối bao quanh nên là xuyên qua BÊN TRONG → <b>through</b>." },
+            { "wrong": "He walked <b>to</b> me and said hello.", "right": "He walked <b>towards</b> me and said hello.", "why": "<b>towards</b> là hướng về phía; <i>to</i> hàm ý đã tới tận nơi." },
+            { "wrong": "Walk <b>pass</b> the bank and turn left.", "right": "Walk <b>past</b> the bank and turn left.", "why": "<b>past</b> là giới từ; <i>pass</i> là động từ. Hai từ khác hẳn nhau." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>in</code> / <code>into</code>", "Đứng yên bên trong / đi từ ngoài vào", "walk in the room ≠ walk into the room"],
+            ["<code>on</code> / <code>onto</code>", "Nằm trên / trèo lên", "sit on the table ≠ jump onto the table"],
+            ["<code>off</code> / <code>out of</code>", "Buýt, tàu / ô tô, taxi", "get off the bus ≠ get out of the car"],
+            ["<code>through</code> / <code>across</code>", "Xuyên bên trong / băng qua mặt", "through the park ≠ across the road"],
+            ["<code>to</code> / <code>towards</code>", "Tới nơi / mới hướng về phía", "walk to me ≠ walk towards me"],
+            ["<code>get to</code> / <code>arrive at</code>", "Có <code>to</code> / không bao giờ có <code>to</code>", "get to the station ≠ arrive at the station"],
+            ["<code>past</code> / <code>pass</code>", "Giới từ / động từ", "walk past the bank ≠ pass the salt"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng giới từ nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn muốn nói ai đó đi đâu — nhìn vào từ chỉ nơi chốn trước đã.",
+          "nodes": [
+            { "if": "Là home, here, there, abroad, upstairs", "then": "KHÔNG dùng giới từ", "ex": "go home · go abroad" },
+            { "if": "Là một danh từ chỉ nơi chốn", "then": "to", "ex": "go to school · get to the station" },
+            { "if": "Đi từ ngoài vào trong", "then": "into", "ex": "walk into the room" },
+            { "if": "Đi từ trong ra ngoài", "then": "out of", "ex": "get out of the car" },
+            { "if": "Đi xuyên qua một không gian", "then": "through", "ex": "walk through the park" },
+            { "if": "Băng qua một bề mặt phẳng", "then": "across", "ex": "walk across the road" }
+          ]
+        },
+        { "t": "h3", "text": "Thang khoảng cách — từ chưa đi đến đã tới" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'm thinking of going there.", "vi": "Mới tính thôi" },
+            { "en": "I'm heading towards the station.", "vi": "Đang đi về phía đó" },
+            { "en": "I'm on my way to the station.", "vi": "Đang trên đường" },
+            { "en": "I'm getting to the station now.", "vi": "Sắp tới nơi" },
+            { "en": "I've arrived at the station.", "vi": "Đã tới nơi" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Giới từ chuyển động xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 63, "why": "How do I get to + nơi chốn? — khung chính, nơi get to, past, through, across sống cả bài." },
+            { "id": 62, "why": "Where can I + V…? — hỏi chỗ làm gì đó, kéo theo cả hướng đi." },
+            { "id": 64, "why": "How long does it take to…? — from … to … và quãng đường." },
+            { "id": 99, "why": "It takes + thời gian + to V — It takes ten minutes to get there." },
+            { "id": 4, "why": "I'm looking for… — We've run out of…, nghĩa bóng của out of." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền giới từ, hoặc để trống nếu không cần" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Giờ tôi về nhà đây.", "blank": "I'm going __________ home now.", "a": "(để trống)" },
+            { "vi": "Sang năm tôi muốn tới đó.", "blank": "I want to go __________ there next year.", "a": "(để trống)" },
+            { "vi": "Tôi đi làm bằng xe buýt.", "blank": "I go __________ work by bus.", "a": "to" },
+            { "vi": "Anh ta bước vào phòng.", "blank": "He walked __________ the room.", "a": "into" },
+            { "vi": "Cô ấy bước ra khỏi xe ô tô.", "blank": "She got __________ the car.", "a": "out of" },
+            { "vi": "Tôi xuống xe buýt ở góc đường.", "blank": "I got __________ the bus at the corner.", "a": "off" },
+            { "vi": "Bọn tôi đi xuyên qua công viên.", "blank": "We walked __________ the park.", "a": "through" },
+            { "vi": "Sáu giờ tàu tới ga.", "blank": "The train arrives __________ the station at six.", "a": "at" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn câu đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Giờ tôi về nhà đây.", "blank": "(a) I'm going to home now.  (b) I'm going home now.", "a": "(b)" },
+            { "vi": "Anh ta bước vào phòng rồi ngồi xuống.", "blank": "(a) He walked in the room and sat down.  (b) He walked into the room and sat down.", "a": "(b)" },
+            { "vi": "Cô ấy bước ra khỏi taxi.", "blank": "(a) She got off the taxi.  (b) She got out of the taxi.", "a": "(b)" },
+            { "vi": "Sáu giờ tàu tới ga.", "blank": "(a) The train arrives to the station.  (b) The train arrives at the station.", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Giờ tôi về nhà đây.", "a": "I'm going home now." },
+            { "vi": "2. Anh ta bước vào phòng.", "a": "He walked into the room." },
+            { "vi": "3. Đi qua ngân hàng rồi rẽ trái.", "a": "Walk past the bank and turn left." },
+            { "vi": "4. Làm sao để tới nhà ga ạ?", "a": "How do I get to the station?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Tám từ không bao giờ có giới từ:</b> <i>home · here · there · abroad · upstairs · downstairs · inside · outside</i>. Học thuộc là xong một nửa bài.",
+            "<b>Mẹo <code>-to</code>:</b> thấy đuôi <b>-to</b> (<i>into, onto</i>) là có <b>chuyển động</b>. Không có <i>-to</i> là đứng yên.",
+            "<b>Lên xuống xe theo đúng luật [Ngữ pháp 40]:</b> đi lại được bên trong → <i>on/off</i> · phải chui vào → <i>in/out of</i>.",
+            "<b><i>through</i> qua BÊN TRONG, <i>across</i> qua MẶT:</b> <i>through the park</i> ↔ <i>across the road</i>.",
+            "<b><i>arrive</i> không bao giờ có <i>to</i></b> — chỉ <i>arrive at</i> (chỗ nhỏ) hoặc <i>arrive in</i> (thành phố). Nhưng <i>get <b>to</b></i> thì có.",
+            "<b>Bài tập 3 phút:</b> tả đường từ nhà bạn tới chỗ làm bằng sáu câu, mỗi câu một giới từ: <i>out of, past, through, across, along, to</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

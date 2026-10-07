@@ -1,0 +1,489 @@
+{
+  "id": 13,
+  "group": "Nhóm 2 · Yêu cầu & Nhờ vả",
+  "title": "Would you mind…? — Nhờ vả nhã nhất, và cái bẫy khi trả lời",
+  "subtitle": "Khung nhờ vả lịch sự bậc nhất: bạn không hỏi “làm được không” mà hỏi “có phiền không”. Nhưng chính vì thế mà câu trả lời bị đảo ngược — trả lời “Yes” lại có nghĩa là từ chối. Đây là cái bẫy khiến người Việt hiểu nhầm nhiều nhất.",
+  "pattern": [
+    "Would you mind <em>+ V-ing</em>?",
+    "Do you mind <em>+ V-ing</em>?",
+    "Would you mind <em>+ not + V-ing</em>?"
+  ],
+  "meaning": "Phiền bạn… nhé? / Bạn có phiền không nếu…?",
+  "grammar": [24, 44],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 5/5" },
+    { "text": "Bẫy trả lời ngược nghĩa" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">mind</span> ở đây nghĩa là <b>thấy phiền, thấy khó chịu</b>. Vậy <i>Would you mind closing the door?</i> dịch sát là “Bạn có thấy phiền không nếu đóng giúp cái cửa?”. Bạn không yêu cầu người ta làm — bạn hỏi xem việc đó có làm họ khó chịu không." },
+        { "t": "p", "html": "Cách hỏi vòng này khiến khung câu trở nên cực kỳ nhã. Nó thừa nhận trước rằng bạn đang làm phiền, và trao toàn quyền từ chối cho người kia. Vì thế nó là lựa chọn số một khi bạn nhờ <b>người lạ</b>, hoặc nhờ ai đó <b>ngừng làm</b> một việc gây khó chịu." },
+        { "t": "p", "html": "Cái giá phải trả là logic câu trả lời bị đảo. Vì câu hỏi là “có phiền không”, nên <b>“No” = không phiền = tôi đồng ý</b>, còn <b>“Yes” = có phiền = tôi từ chối</b>. Người Việt theo phản xạ hay trả lời “Yes” với ý “vâng tôi sẽ làm” — và thành ra nói ngược hoàn toàn." },
+        { "t": "callout", "html": "<b>Bẫy trả lời — học thuộc ngay:</b> muốn đồng ý thì nói <span class=\"k\">Not at all.</span> / <span class=\"k\">Of course not.</span> / <span class=\"k\">No, go ahead.</span> Tránh trả lời trống một chữ <i>Yes</i> — người nghe sẽ hiểu là bạn từ chối." },
+        { "t": "h3", "text": "Trả lời thế nào cho đúng" },
+        {
+          "t": "table",
+          "head": ["Câu trả lời", "Nghĩa thật", "Nên dùng"],
+          "rows": [
+            ["<code>Not at all.</code>", "Không phiền gì cả → <b>tôi đồng ý</b>", "✓ An toàn nhất"],
+            ["<code>Of course not.</code>", "Tất nhiên là không phiền → <b>đồng ý</b>", "✓ Ấm áp"],
+            ["<code>No, go ahead.</code>", "Không phiền, cứ tự nhiên → <b>đồng ý</b>", "✓ Rất tự nhiên"],
+            ["<code>Yes.</code>", "Có, tôi thấy phiền → <b>từ chối</b>", "✗ Tránh — dễ gây hiểu nhầm"],
+            ["<code>Actually, I'd rather not.</code>", "Thật ra tôi không muốn → <b>từ chối</b>", "✓ Cách từ chối lịch sự"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🙇", "title": "Nhờ người lạ", "text": "Bối cảnh số 1. <i>Would you mind moving up one seat?</i> Nhã nhất trong mọi cách nhờ." },
+            { "icon": "🔇", "title": "Nhờ ai đó ngừng làm gì", "text": "<i>Would you mind not smoking here?</i> Nhẹ hơn hẳn mọi cách nói khác." },
+            { "icon": "🗣", "title": "Nhờ nói to / nói chậm", "text": "<i>Would you mind speaking up a bit?</i> Không ai thấy bị chê cả." },
+            { "icon": "💼", "title": "Nhờ cấp trên hoặc khách hàng", "text": "<i>Would you mind signing this?</i> Rất hợp với người bạn không quen thân." },
+            { "icon": "🤫", "title": "Xin giữ kín chuyện", "text": "<i>Would you mind keeping this between us?</i>" },
+            { "icon": "🚫", "title": "Tránh dùng khi…", "text": "Việc gấp cần dứt khoát — câu quá vòng vo dễ khiến người nghe không hiểu là bạn đang nhờ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Nhờ người khác làm", "<code>Would you mind + V-ing?</code>", "Would you mind closing the window?"],
+            ["Bớt trang trọng hơn", "<code>Do you mind + V-ing?</code>", "Do you mind waiting a moment?"],
+            ["Nhờ ngừng làm gì", "<code>Would you mind not + V-ing?</code>", "Would you mind not doing that?"],
+            ["Xin phép cho mình", "<code>Would you mind if I + quá khứ?</code>", "Would you mind if I opened the window?"],
+            ["Xin phép, bớt trang trọng", "<code>Do you mind if I + hiện tại?</code>", "Do you mind if I sit here?"],
+            ["Rất trang trọng (văn viết)", "<code>Would you mind my + V-ing?</code>", "Would you mind my asking why?"],
+            ["Trả lời đồng ý", "<code>Not at all. / Of course not.</code>", "“Would you mind waiting?” — “Not at all.”"],
+            ["Trả lời từ chối", "<code>Actually, I'd rather not.</code>", "Actually, I'd rather not — sorry."],
+            ["Hỏi lại cho chắc", "<code>Do you mind?</code>", "Is this seat free? Do you mind?"],
+            ["Nói mình không phiền", "<code>I don't mind.</code>", "“Tea or coffee?” — “I don't mind.”"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp:</b> sau <i>mind</i> luôn là <b>V-ing</b>, không bao giờ là <i>to V</i>. <span class=\"k\">Would you mind waiting?</span> ✓ — <i>Would you mind to wait?</i> ✗" },
+        { "t": "callout", "html": "<b>Phân biệt hai vai:</b> <span class=\"k\">Would you mind + V-ing</span> = nhờ NGƯỜI KHÁC làm. <span class=\"k\">Would you mind if I…</span> = xin phép cho MÌNH làm. Chỉ khác vài chữ mà đổi hẳn người thực hiện — xem [Khung 14]." },
+        { "t": "callout", "html": "<b>Câu trả lời “I don't mind” rất hữu dụng:</b> khi được hỏi chọn A hay B mà bạn thật sự thấy sao cũng được, hãy nói <i>I don't mind.</i> Nó lịch sự hơn <i>I don't care</i> — câu sau nghe như bạn bất cần." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "V-ing thường theo sau “Would you mind…”",
+              "items": [
+                { "w": "waiting", "vi": "chờ", "ex": "Would you mind waiting a few minutes?", "exvi": "Phiền bạn chờ vài phút nhé?" },
+                { "w": "closing", "vi": "đóng", "ex": "Would you mind closing the window?", "exvi": "Phiền bạn đóng giúp cửa sổ nhé?" },
+                { "w": "opening", "vi": "mở", "ex": "Would you mind opening the door for me?", "exvi": "Phiền bạn mở cửa giúp tôi nhé?" },
+                { "w": "helping", "vi": "giúp", "ex": "Would you mind helping me with this?", "exvi": "Phiền bạn giúp tôi việc này nhé?" },
+                { "w": "checking", "vi": "kiểm tra", "ex": "Would you mind checking the total?", "exvi": "Phiền bạn kiểm tra tổng tiền nhé?" },
+                { "w": "moving", "vi": "dịch chuyển", "ex": "Would you mind moving up one seat?", "exvi": "Phiền bạn dịch sang một ghế nhé?" },
+                { "w": "passing", "vi": "đưa, chuyền", "ex": "Would you mind passing me the water?", "exvi": "Phiền bạn đưa giúp tôi bình nước nhé?" },
+                { "w": "repeating", "vi": "nhắc lại", "ex": "Would you mind repeating that?", "exvi": "Phiền bạn nhắc lại giúp nhé?" },
+                { "w": "speaking up", "vi": "nói to hơn", "ex": "Would you mind speaking up a bit?", "exvi": "Phiền bạn nói to hơn chút nhé?", "note": "<i>speak up</i> = nói to hơn, không phải “phát biểu”." },
+                { "w": "turning down", "vi": "vặn nhỏ lại", "ex": "Would you mind turning the music down?", "exvi": "Phiền bạn vặn nhỏ nhạc lại nhé?", "note": "<i>turn down</i> = giảm âm lượng. <i>turn up</i> = tăng." },
+                { "w": "holding", "vi": "cầm giúp", "ex": "Would you mind holding this for a second?", "exvi": "Phiền bạn cầm giúp cái này một lát nhé?" },
+                { "w": "sending", "vi": "gửi", "ex": "Would you mind sending it again?", "exvi": "Phiền bạn gửi lại lần nữa nhé?" },
+                { "w": "signing", "vi": "ký", "ex": "Would you mind signing here, please?", "exvi": "Phiền anh/chị ký vào đây ạ?" },
+                { "w": "keeping", "vi": "giữ", "ex": "Would you mind keeping this between us?", "exvi": "Phiền bạn giữ kín chuyện này nhé?" },
+                { "w": "letting me know", "vi": "báo tôi biết", "ex": "Would you mind letting me know by Friday?", "exvi": "Phiền bạn báo tôi biết trước thứ Sáu nhé?" },
+                { "w": "giving me a hand", "vi": "phụ một tay", "ex": "Would you mind giving me a hand?", "exvi": "Phiền bạn phụ tôi một tay nhé?" },
+                { "w": "coming back", "vi": "quay lại", "ex": "Would you mind coming back in ten minutes?", "exvi": "Phiền bạn mười phút nữa quay lại nhé?" },
+                { "w": "filling in", "vi": "điền vào", "ex": "Would you mind filling in this form?", "exvi": "Phiền anh/chị điền vào mẫu này ạ?", "note": "Anh-Mỹ nói <i>filling out</i>." },
+                { "w": "stepping outside", "vi": "ra ngoài một chút", "ex": "Would you mind stepping outside for a moment?", "exvi": "Phiền anh/chị ra ngoài một lát được không ạ?" },
+                { "w": "taking a look", "vi": "xem qua", "ex": "Would you mind taking a look at this?", "exvi": "Phiền bạn xem qua cái này nhé?" }
+              ]
+            },
+            {
+              "title": "Câu hoàn chỉnh nên thuộc lòng",
+              "items": [
+                { "w": "Would you mind waiting a moment?", "vi": "phiền bạn chờ một lát", "ex": "Would you mind waiting a moment? I'll check.", "exvi": "Phiền bạn chờ một lát nhé? Tôi kiểm tra đã." },
+                { "w": "Would you mind repeating that?", "vi": "phiền bạn nhắc lại", "ex": "Sorry, would you mind repeating that?", "exvi": "Xin lỗi, phiền bạn nhắc lại nhé?", "note": "Nhã hơn <i>Could you repeat that?</i> ở [Khung 11]." },
+                { "w": "Would you mind speaking up?", "vi": "phiền bạn nói to hơn", "ex": "Would you mind speaking up a bit? It's noisy here.", "exvi": "Phiền bạn nói to hơn chút nhé? Ở đây ồn quá." },
+                { "w": "Would you mind turning it down?", "vi": "phiền bạn vặn nhỏ lại", "ex": "Would you mind turning it down a little?", "exvi": "Phiền bạn vặn nhỏ lại chút nhé?" },
+                { "w": "Would you mind moving up?", "vi": "phiền bạn dịch sang", "ex": "Would you mind moving up one seat?", "exvi": "Phiền bạn dịch sang một ghế nhé?" },
+                { "w": "Would you mind not…?", "vi": "phiền bạn đừng…", "ex": "Would you mind not parking here?", "exvi": "Phiền bạn đừng đỗ xe ở đây nhé?", "note": "Cách nhờ ai đó NGỪNG làm gì mà nhẹ nhàng nhất." },
+                { "w": "Would you mind keeping this between us?", "vi": "phiền bạn giữ kín", "ex": "Would you mind keeping this between us for now?", "exvi": "Tạm thời phiền bạn giữ kín chuyện này nhé?" },
+                { "w": "Would you mind signing here?", "vi": "phiền anh/chị ký vào đây", "ex": "Would you mind signing here, please?", "exvi": "Phiền anh/chị ký vào đây ạ?" },
+                { "w": "Do you mind?", "vi": "bạn có phiền không?", "ex": "Is this seat taken? Do you mind?", "exvi": "Ghế này có ai ngồi chưa? Tôi ngồi được không?", "note": "Nói với giọng gắt thì lại thành “bạn làm gì vậy?” — ngữ điệu rất quan trọng." },
+                { "w": "I don't mind", "vi": "tôi sao cũng được", "ex": "“Tea or coffee?” — “I don't mind.”", "exvi": "“Trà hay cà phê?” — “Tôi sao cũng được.”", "note": "Lịch sự hơn <i>I don't care</i> — câu sau nghe như bất cần." }
+              ]
+            },
+            {
+              "title": "Cách trả lời & biến thể",
+              "items": [
+                { "w": "Not at all", "vi": "không phiền gì cả", "ex": "“Would you mind waiting?” — “Not at all.”", "exvi": "“Phiền bạn chờ nhé?” — “Không sao cả.”", "note": "Cách ĐỒNG Ý an toàn nhất. Thuộc câu này trước tiên." },
+                { "w": "Of course not", "vi": "tất nhiên là không", "ex": "“Would you mind helping?” — “Of course not.”", "exvi": "“Phiền bạn giúp nhé?” — “Tất nhiên là không phiền rồi.”" },
+                { "w": "No, go ahead", "vi": "không, cứ tự nhiên", "ex": "“Do you mind if I sit here?” — “No, go ahead.”", "exvi": "“Tôi ngồi đây được không?” — “Được, bạn cứ tự nhiên.”" },
+                { "w": "Actually, I'd rather not", "vi": "thật ra tôi không muốn", "ex": "Actually, I'd rather not — sorry about that.", "exvi": "Thật ra tôi không muốn lắm — xin lỗi nhé.", "note": "Cách TỪ CHỐI lịch sự. Xem [Khung 08]." },
+                { "w": "Do you mind + V-ing?", "vi": "bạn có phiền… không?", "ex": "Do you mind waiting outside?", "exvi": "Bạn chờ bên ngoài có phiền không?", "note": "Bớt trang trọng hơn <i>Would you mind</i> một chút, nhưng vẫn rất lịch sự." },
+                { "w": "Would you mind my asking…?", "vi": "phiền anh/chị cho tôi hỏi…", "ex": "Would you mind my asking why you left?", "exvi": "Phiền anh/chị cho tôi hỏi vì sao anh/chị nghỉ ạ?", "note": "Rất trang trọng, hay gặp trong phỏng vấn và văn viết." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Would you mind moving up one seat?",
+                  "vi": "Phiền bạn dịch sang một ghế nhé?",
+                  "note": "Nhờ người lạ trên tàu xe. Đây đúng là bối cảnh mà <i>Would you mind</i> tỏa sáng nhất.",
+                  "open": { "en": "Sorry to bother you —", "vi": "Xin lỗi làm phiền bạn —" },
+                  "reply": [
+                    { "them": "Not at all.", "themvi": "Không sao cả.", "you": "Thank you, that's kind.", "youvi": "Cảm ơn bạn, bạn tử tế quá." },
+                    { "them": "Sorry, I'm getting off at the next stop.", "themvi": "Xin lỗi, tôi xuống ở bến sau.", "you": "No problem at all.", "youvi": "Không sao đâu ạ." }
+                  ],
+                  "close": { "en": "Thanks again.", "vi": "Cảm ơn bạn lần nữa." }
+                },
+                {
+                  "en": "Would you mind not reclining your seat?",
+                  "vi": "Phiền bạn đừng ngả ghế ra sau nhé?",
+                  "note": "Dạng <b>not + V-ing</b> để nhờ ngừng làm gì. Ngữ điệu phải thật nhẹ, kèm nụ cười.",
+                  "reply": [
+                    { "them": "Oh, sorry — I didn't realise.", "themvi": "Ồ, xin lỗi — tôi không để ý.", "you": "No problem, thank you.", "youvi": "Không sao, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "Would you mind holding this for a second?",
+                  "vi": "Phiền bạn cầm giúp cái này một lát nhé?",
+                  "reply": [
+                    { "them": "Sure, no problem.", "themvi": "Được chứ, không sao.", "you": "Thanks, I just need to find my ticket.", "youvi": "Cảm ơn, tôi tìm cái vé chút." }
+                  ]
+                },
+                {
+                  "en": "Would you mind taking a photo of us?",
+                  "vi": "Phiền bạn chụp giúp chúng tôi một tấm nhé?",
+                  "note": "Câu nhờ chụp ảnh chuẩn mực nhất khi đi du lịch.",
+                  "reply": [
+                    { "them": "Of course. Where do you want to stand?", "themvi": "Tất nhiên rồi. Anh/chị muốn đứng đâu?", "you": "Just here, with the bridge behind us.", "youvi": "Ngay đây thôi, lấy cây cầu phía sau ạ." }
+                  ],
+                  "close": { "en": "That's perfect — thank you so much!", "vi": "Đẹp quá — cảm ơn bạn nhiều lắm!" }
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Would you mind taking a look at this before I send it?",
+                  "vi": "Phiền bạn xem qua cái này trước khi tôi gửi nhé?",
+                  "note": "Nhờ đồng nghiệp rà soát giúp. Vế <i>before I send it</i> cho thấy việc này có ích cho cả nhóm.",
+                  "reply": [
+                    { "them": "Not at all. Send it over.", "themvi": "Không phiền gì. Gửi qua đi.", "you": "Just did — thanks a lot.", "youvi": "Vừa gửi rồi — cảm ơn bạn nhiều." },
+                    { "them": "Can it wait till after lunch?", "themvi": "Để sau bữa trưa được không?", "you": "Of course, no rush.", "youvi": "Tất nhiên rồi, không vội." }
+                  ]
+                },
+                {
+                  "en": "Would you mind keeping this between us for now?",
+                  "vi": "Tạm thời phiền bạn giữ kín chuyện này nhé?",
+                  "note": "<span class=\"k\">between us</span> = chỉ hai chúng ta biết. <i>for now</i> để ngỏ rằng sau này sẽ công khai.",
+                  "open": { "en": "I want to tell you something first.", "vi": "Tôi muốn nói với bạn trước." },
+                  "reply": [
+                    { "them": "Of course not. My lips are sealed.", "themvi": "Tất nhiên là không rồi. Mình kín miệng mà.", "you": "Thank you. I'll announce it next week.", "youvi": "Cảm ơn bạn. Tuần sau tôi sẽ thông báo." }
+                  ]
+                },
+                {
+                  "en": "Would you mind speaking up a bit? The line's not great.",
+                  "vi": "Phiền anh/chị nói to hơn chút nhé? Đường dây không tốt lắm.",
+                  "note": "Đổ lỗi cho đường truyền thay vì cho người nói — không ai cảm thấy bị chê.",
+                  "reply": [
+                    { "them": "Is this better?", "themvi": "Vậy có tốt hơn không ạ?", "you": "Much better, thank you.", "youvi": "Tốt hơn nhiều rồi, cảm ơn anh/chị." }
+                  ],
+                  "vars": [
+                    { "en": "Would you mind repeating the last part?", "vi": "Phiền anh/chị nhắc lại đoạn cuối nhé?" }
+                  ]
+                },
+                {
+                  "en": "Would you mind not copying everyone on this?",
+                  "vi": "Phiền bạn đừng gửi email này cho tất cả mọi người nhé?",
+                  "note": "<span class=\"k\">copy someone on an email</span> = gửi CC cho ai. Cách góp ý về email mà không làm ai mất mặt.",
+                  "reply": [
+                    { "them": "Sure — I'll just reply to you.", "themvi": "Được — tôi chỉ trả lời riêng anh/chị thôi.", "you": "Thanks, that keeps it simpler.", "youvi": "Cảm ơn, vậy gọn hơn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Would you mind passing me the water?",
+                  "vi": "Phiền bạn đưa giúp tôi bình nước nhé?",
+                  "reply": [
+                    { "them": "Here you go.", "themvi": "Đây bạn.", "you": "Thanks.", "youvi": "Cảm ơn nhé." }
+                  ]
+                },
+                {
+                  "en": "Would you mind if we moved to a quieter table?",
+                  "vi": "Phiền bạn cho chúng tôi chuyển sang bàn yên tĩnh hơn nhé?",
+                  "note": "Dạng <b>Would you mind if + quá khứ</b> — xin phép cho phía mình. Xem [Khung 14].",
+                  "reply": [
+                    { "them": "Not at all. Follow me.", "themvi": "Không sao ạ. Mời anh/chị đi theo em.", "you": "Thank you so much.", "youvi": "Cảm ơn bạn nhiều." }
+                  ]
+                },
+                {
+                  "en": "Would you mind checking if it has peanuts?",
+                  "vi": "Phiền bạn kiểm tra giúp xem có đậu phộng không nhé?",
+                  "note": "Nói lý do ở câu sau sẽ hiệu quả hơn: bếp sẽ cẩn thận hơn khi biết bạn dị ứng.",
+                  "open": { "en": "Sorry, I have an allergy —", "vi": "Xin lỗi, tôi bị dị ứng —" },
+                  "reply": [
+                    { "them": "Of course, I'll ask the kitchen.", "themvi": "Vâng ạ, để em hỏi bếp.", "you": "Thank you, I really appreciate it.", "youvi": "Cảm ơn bạn nhiều, tôi rất cảm kích." }
+                  ],
+                  "close": { "en": "Thanks for checking.", "vi": "Cảm ơn bạn đã kiểm tra giúp." }
+                },
+                {
+                  "en": "Would you mind waiting a few more minutes? My friend is late.",
+                  "vi": "Phiền bạn chờ thêm vài phút nhé? Bạn tôi đến muộn.",
+                  "reply": [
+                    { "them": "No problem at all. Take your time.", "themvi": "Không sao đâu ạ. Anh/chị cứ thong thả.", "you": "Thank you.", "youvi": "Cảm ơn bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Would you mind turning the music down a little?",
+                  "vi": "Phiền bạn vặn nhỏ nhạc lại chút nhé?",
+                  "note": "Tình huống dễ gây căng thẳng nhất giữa hàng xóm — dùng khung này là an toàn nhất.",
+                  "open": { "en": "Hi, sorry to knock so late —", "vi": "Chào bạn, xin lỗi vì gõ cửa muộn —" },
+                  "reply": [
+                    { "them": "Oh, sorry! I didn't realise it was so loud.", "themvi": "Ồ, xin lỗi! Mình không biết là to thế.", "you": "No problem at all. Thanks.", "youvi": "Không sao đâu. Cảm ơn bạn." },
+                    { "them": "We're having a party, sorry.", "themvi": "Bọn mình đang có tiệc, xin lỗi nhé.", "you": "I understand — just a bit lower would help.", "youvi": "Mình hiểu mà — nhỏ hơn chút là được rồi." }
+                  ],
+                  "close": { "en": "Thanks — have a good evening.", "vi": "Cảm ơn nhé — chúc bạn buổi tối vui." }
+                },
+                {
+                  "en": "Would you mind giving me a hand with these bags?",
+                  "vi": "Phiền bạn phụ tôi mấy cái túi này nhé?",
+                  "reply": [
+                    { "them": "Not at all. Which ones?", "themvi": "Không sao cả. Túi nào?", "you": "Just the two big ones.", "youvi": "Hai cái to thôi." }
+                  ]
+                },
+                {
+                  "en": "Would you mind not mentioning this to anyone?",
+                  "vi": "Phiền bạn đừng nhắc chuyện này với ai nhé?",
+                  "reply": [
+                    { "them": "Of course not.", "themvi": "Tất nhiên là không rồi.", "you": "Thanks. I'll explain later.", "youvi": "Cảm ơn bạn. Lát mình giải thích." }
+                  ]
+                },
+                {
+                  "en": "Would you mind letting me know by Friday?",
+                  "vi": "Phiền bạn báo tôi biết trước thứ Sáu nhé?",
+                  "reply": [
+                    { "them": "Sure. I'll text you either way.", "themvi": "Được. Có hay không mình cũng nhắn.", "you": "Perfect, thanks.", "youvi": "Tuyệt, cảm ơn bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Would you mind checking if you have this in stock?",
+                  "vi": "Phiền bạn kiểm tra giúp xem còn hàng không nhé?",
+                  "reply": [
+                    { "them": "Not at all. One moment.", "themvi": "Không sao ạ. Một lát ạ.", "you": "Thank you.", "youvi": "Cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "Would you mind holding it for me until tomorrow?",
+                  "vi": "Phiền bạn giữ giúp tôi đến mai nhé?",
+                  "reply": [
+                    { "them": "We can hold it for 24 hours.", "themvi": "Bên em giữ được 24 tiếng ạ.", "you": "That's perfect, thank you.", "youvi": "Vậy tốt quá, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "Would you mind signing here, please?",
+                  "vi": "Phiền anh/chị ký vào đây ạ?",
+                  "note": "Câu nhân viên hay nói với khách — nghe quen để phản xạ nhanh.",
+                  "reply": [
+                    { "them": "Sure. Here or at the bottom?", "themvi": "Được. Ở đây hay ở dưới cùng?", "you": "Just at the bottom, thank you.", "youvi": "Ở dưới cùng thôi ạ, cảm ơn anh/chị." }
+                  ]
+                },
+                {
+                  "en": "Would you mind explaining the return policy?",
+                  "vi": "Phiền bạn giải thích chính sách đổi trả giúp tôi nhé?",
+                  "reply": [
+                    { "them": "Of course. You have thirty days with a receipt.", "themvi": "Vâng ạ. Ba mươi ngày, có biên lai ạ.", "you": "And without the receipt?", "youvi": "Còn nếu không có biên lai thì sao ạ?" }
+                  ],
+                  "close": { "en": "That's clear now — thanks.", "vi": "Giờ tôi rõ rồi — cảm ơn bạn." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Gõ cửa nhà hàng xóm",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Hi, sorry to knock so late. Would you mind turning the music down a little?", "vi": "Chào bạn, xin lỗi vì gõ cửa muộn. Phiền bạn vặn nhỏ nhạc lại chút nhé?" },
+            { "speaker": "Neighbour", "en": "Oh! Not at all, sorry. I didn't realise it was so loud.", "vi": "Ồ! Không sao cả, xin lỗi nhé. Mình không biết là to thế." },
+            { "speaker": "You", "me": true, "en": "No problem at all. The walls are quite thin.", "vi": "Không sao đâu. Tường ở đây hơi mỏng." },
+            { "speaker": "Neighbour", "en": "I'll keep it down from now on.", "vi": "Từ giờ mình sẽ để nhỏ thôi." },
+            { "speaker": "You", "me": true, "en": "Thank you. And would you mind letting me know next time you have people over?", "vi": "Cảm ơn bạn. Với lại lần sau có khách thì phiền bạn báo mình một tiếng nhé?" },
+            { "speaker": "Neighbour", "en": "Of course. Have a good night.", "vi": "Tất nhiên rồi. Chúc bạn ngủ ngon." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Bẫy trả lời — cùng một câu hỏi, hai cách đáp",
+          "lines": [
+            { "speaker": "Colleague", "en": "Would you mind staying an extra hour today?", "vi": "Hôm nay bạn ở lại thêm một tiếng có phiền không?" },
+            { "speaker": "You", "me": true, "en": "Not at all — what do you need?", "vi": "Không sao cả — bạn cần gì nào?" },
+            { "speaker": "Colleague", "en": "Great. And would you mind covering the phones too?", "vi": "Tuyệt. Với lại bạn trực điện thoại luôn có phiền không?" },
+            { "speaker": "You", "me": true, "en": "Actually, I'd rather not — I have to pick up my daughter at six.", "vi": "Thật ra thì mình không tiện lắm — sáu giờ mình phải đón con gái." },
+            { "speaker": "Colleague", "en": "No worries, I'll ask Lan.", "vi": "Không sao, mình hỏi Lan vậy." },
+            { "speaker": "You", "me": true, "en": "Thanks for understanding. I can stay until five thirty though.", "vi": "Cảm ơn bạn đã thông cảm. Nhưng mình ở lại đến năm rưỡi được." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "“Would you mind waiting?” — “Yes.” <i>(ý: vâng, tôi chờ)</i>", "right": "“Would you mind waiting?” — “Not at all.”", "why": "Câu hỏi là “có phiền không”, nên <b>Yes = có phiền = từ chối</b>. Đây là hiểu nhầm tai hại nhất của khung này." },
+            { "wrong": "Would you mind to wait?", "right": "Would you mind waiting?", "why": "Sau <b>mind</b> luôn là <b>V-ing</b>, không bao giờ là <i>to V</i>." },
+            { "wrong": "Would you mind if I open the window?", "right": "Would you mind if I opened the window?", "why": "Sau <b>Would you mind if I</b> dùng động từ <b>quá khứ</b>. (Với <i>Do you mind if I</i> thì dùng hiện tại.)" },
+            { "wrong": "Would you mind close the door?", "right": "Would you mind closing the door?", "why": "Thiếu đuôi <b>-ing</b>. Đây là lỗi hay gặp khi nói nhanh." },
+            { "wrong": "“Tea or coffee?” — “I don't care.”", "right": "“Tea or coffee?” — “I don't mind.”", "why": "<b>I don't care</b> nghe như bất cần, hơi thô. Dùng <b>I don't mind</b> để nói “sao cũng được”." },
+            { "wrong": "Would you mind you helping me?", "right": "Would you mind helping me?", "why": "Không thêm chủ ngữ. Người thực hiện đã rõ là “bạn” rồi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>Would you mind + V-ing?</code>", "Nhã nhất — nhờ người khác làm", "<i>Would you mind waiting?</i>"],
+            ["<code>Do you mind + V-ing?</code>", "Nhã, bớt trang trọng hơn chút", "<i>Do you mind waiting?</i>"],
+            ["<code>Would you mind if I…?</code>", "Xin phép cho MÌNH làm", "<i>Would you mind if I sat here?</i> — Xem [Khung 14]."],
+            ["<code>Could you…?</code>", "Lịch sự chuẩn mực — thẳng hơn", "<i>Could you wait, please?</i> — Xem [Khung 11]."],
+            ["<code>Can you…?</code>", "Thân mật, trực tiếp", "<i>Can you wait?</i> — Xem [Khung 12]."],
+            ["<code>I was wondering if you could…</code>", "Rất nhã — dùng khi ngại", "<i>I was wondering if you could wait.</i> — Xem [Khung 16]."],
+            ["<code>Please + V</code>", "Ngắn — dễ thành mệnh lệnh", "<i>Please wait.</i> — Xem [Khung 15]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang độ lịch sự — nhờ ai đó vặn nhỏ nhạc" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Turn it down.", "vi": "Ra lệnh — dễ gây gổ" },
+            { "en": "Can you turn it down?", "vi": "Thân mật — người quen" },
+            { "en": "Could you turn it down, please?", "vi": "Chuẩn mực — dùng mọi nơi" },
+            { "en": "Would you mind turning it down?", "vi": "Rất nhã — người lạ, hàng xóm" },
+            { "en": "Sorry, would you mind turning it down a little?", "vi": "Nhã nhất — tình huống nhạy cảm" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>mind</b> = /maɪnd/ — âm /d/ cuối rất nhẹ, nhưng vẫn phải có, nếu không sẽ thành <i>mine</i>.",
+            "<b>Would you</b> nói nhanh dính thành <b>“WU-jə”</b> /ˈwʊdʒə/ — giống <i>Could you</i> thành “KU-jə”.",
+            "<b>Would you mind</b> → “wu-jə-MAIND”, ba âm tiết nói liền, trọng âm rơi vào <i>mind</i>.",
+            "V-ing theo sau thường mất âm /g/: <i>waiting</i> → “WAY-tin”, <i>closing</i> → “CLO-zin”.",
+            "<b>Not at all</b> nối liền thành “no-tə-TAWL” — ba từ dính thành một khối, nhấn ở cuối.",
+            "Câu phải <b>lên giọng ở cuối</b>. Đây là câu hỏi thật sự, không phải mệnh lệnh trá hình."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Would you mind waiting a few minutes?", "vi": "Luyện shadowing: nghe — nhại lại — lặp 5 lần cho trôi cụm “Would you mind”." },
+            { "en": "Not at all — go ahead.", "vi": "Câu trả lời đồng ý chuẩn. Lặp đến khi bật ra không cần nghĩ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Phiền bạn chờ vài phút nhé?", "blank": "Would you mind __________ a few minutes?", "a": "waiting (V-ing, không phải “to wait”)" },
+            { "vi": "“Phiền bạn chờ nhé?” — “Không sao cả.”", "blank": "“Would you mind waiting?” — “__________.”", "a": "Not at all (KHÔNG trả lời “Yes”)" },
+            { "vi": "Phiền bạn đừng đỗ xe ở đây nhé?", "blank": "__________ parking here?", "a": "Would you mind not" },
+            { "vi": "Phiền bạn nói to hơn chút nhé?", "blank": "Would you mind __________ a bit?", "a": "speaking up" },
+            { "vi": "Phiền bạn cho tôi mở cửa sổ nhé?", "blank": "Would you mind if I __________ the window?", "a": "opened (quá khứ sau “Would you mind if I”)" },
+            { "vi": "“Trà hay cà phê?” — “Tôi sao cũng được.”", "blank": "“Tea or coffee?” — “__________.”", "a": "I don't mind" },
+            { "vi": "Phiền bạn giữ kín chuyện này nhé?", "blank": "Would you mind __________ this between us?", "a": "keeping" },
+            { "vi": "Thật ra tôi không muốn lắm — xin lỗi nhé.", "blank": "__________ — sorry about that.", "a": "Actually, I'd rather not" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Phiền bạn vặn nhỏ nhạc lại chút nhé?", "a": "Would you mind turning the music down a little?" },
+            { "vi": "2. Phiền bạn chụp giúp chúng tôi một tấm nhé?", "a": "Would you mind taking a photo of us?" },
+            { "vi": "3. Phiền bạn xem qua cái này trước khi tôi gửi nhé?", "a": "Would you mind taking a look at this before I send it?" },
+            { "vi": "4. Phiền bạn dịch sang một ghế nhé?", "a": "Would you mind moving up one seat?" },
+            { "vi": "5. Phiền anh/chị ký vào đây ạ?", "a": "Would you mind signing here, please?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Thuộc câu trả lời trước khi thuộc câu hỏi:</b> <i>Not at all.</i> Nếu chỉ nhớ một thứ từ bài này, hãy nhớ câu đó — nó cứu bạn khỏi việc gật đầu mà thành từ chối.",
+            "<b>Đừng bao giờ đáp trống một chữ “Yes”:</b> nếu lỡ nói, hãy chữa ngay bằng <i>Sorry — I mean, of course I'll do it.</i>",
+            "<b>Nhớ quy tắc V-ing:</b> <i>mind</i> luôn đi với <b>-ing</b>. Đọc thầm: <i>mind waiting, mind closing, mind helping</i>.",
+            "<b>Dùng dạng “not + V-ing” để nhờ ngừng:</b> <i>Would you mind not…?</i> là cách nhẹ nhàng nhất để yêu cầu ai đó dừng một hành vi khó chịu.",
+            "<b>Thay “I don't care” bằng “I don't mind”:</b> một chữ thôi mà khác nhau giữa lịch sự và bất cần.",
+            "<b>Bài tập 3 phút:</b> nghĩ 5 việc bạn ngại nhờ người lạ, viết mỗi việc bằng <i>Would you mind + V-ing?</i>, rồi tự trả lời bằng <i>Not at all.</i> cho quen cả hai chiều."
+          ]
+        }
+      ]
+    }
+  ]
+}

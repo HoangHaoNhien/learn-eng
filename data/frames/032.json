@@ -1,0 +1,485 @@
+{
+  "id": 32,
+  "group": "Nhóm 4 · Đề nghị & Rủ rê",
+  "title": "Why don't we…? — Đề xuất dưới lớp vỏ câu hỏi",
+  "subtitle": "Khung đề xuất mềm hơn “Let's” một bậc, vì nó khoác lên mình hình thức câu hỏi. Nhưng đây không phải câu hỏi thật — và nếu bạn trả lời nó bằng “Because…” thì cuộc hội thoại sẽ rẽ sang một hướng rất kỳ. Đổi “we” thành “you” là nghĩa đổi hẳn sang lời khuyên.",
+  "pattern": [
+    "Why don't we <em>+ V</em>?",
+    "Why don't you <em>+ V</em>?",
+    "Why not <em>+ V</em>?"
+  ],
+  "meaning": "Sao chúng ta không… nhỉ? / Hay là…",
+  "grammar": [44, 32],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Không phải câu hỏi thật" },
+    { "text": "Trình độ: A2–B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "Về hình thức, <span class=\"k\">Why don't we…?</span> là một câu hỏi. Nhưng về chức năng, nó là một <b>lời đề xuất</b>. Người nói không thật sự muốn biết lý do — họ đang gợi ý một phương án và mời bạn đồng ý." },
+        { "t": "p", "html": "Chính lớp vỏ câu hỏi đó khiến nó mềm hơn <i>Let's</i> ở [Khung 31]. <i>Let's meet at six</i> nghe như đã quyết; <i>Why don't we meet at six?</i> để ngỏ cho người kia phản đối mà không phải cãi lại một quyết định." },
+        { "t": "p", "html": "Đổi một chữ là đổi hẳn chức năng: <span class=\"k\">Why don't we…</span> là <b>rủ cùng làm</b>, còn <span class=\"k\">Why don't you…</span> là <b>khuyên người kia làm</b>. <i>Why don't you take a break?</i> = bạn nên nghỉ một lát đi — bạn không tham gia vào việc nghỉ đó." },
+        { "t": "callout", "html": "<b>Bẫy văn hóa:</b> đừng trả lời câu này bằng <i>Because…</i>. Nếu ai đó nói <i>Why don't we meet on Friday?</i> mà bạn đáp <i>Because I'm busy</i> thì nghe rất lạ. Hãy đáp như với một lời đề xuất: <span class=\"k\">Good idea.</span> hoặc <span class=\"k\">Friday doesn't work for me — how about Thursday?</span>" },
+        { "t": "h3", "text": "Một chữ đổi cả chức năng" },
+        {
+          "t": "table",
+          "head": ["Câu", "Chức năng", "Ai làm việc đó"],
+          "rows": [
+            ["<code>Why don't we meet at six?</code>", "Đề xuất chung", "Cả hai"],
+            ["<code>Why don't you take a break?</code>", "Khuyên nhủ", "Chỉ người nghe"],
+            ["<code>Why don't I call them?</code>", "Ngỏ ý làm giúp", "Chỉ người nói"],
+            ["<code>Why not?</code>", "Đồng ý / hỏi lý do", "Tùy ngữ cảnh"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "📅", "title": "Đề xuất lịch hẹn", "text": "Bối cảnh số 1. <i>Why don't we meet on Thursday?</i> Để ngỏ cho người kia đổi." },
+            { "icon": "💡", "title": "Gỡ bế tắc trong họp", "text": "<i>Why don't we try a smaller test first?</i> Đưa hướng mới mà không phủ định ai." },
+            { "icon": "🤗", "title": "Khuyên nhủ nhẹ nhàng", "text": "<i>Why don't you get some rest?</i> Quan tâm mà không ra lệnh." },
+            { "icon": "🙋", "title": "Ngỏ ý làm giúp", "text": "<i>Why don't I take that one?</i> Nhận việc mà nghe như đề xuất." },
+            { "icon": "🍽", "title": "Rủ đi chơi, đi ăn", "text": "<i>Why don't we try that new place?</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Cần ra quyết định dứt khoát — dạng câu hỏi sẽ khiến người nghe tưởng vẫn còn bàn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Đề xuất chung", "<code>Why don't we + V?</code>", "Why don't we start at nine?"],
+            ["Khuyên người khác", "<code>Why don't you + V?</code>", "Why don't you ask her directly?"],
+            ["Ngỏ ý làm giúp", "<code>Why don't I + V?</code>", "Why don't I call them for you?"],
+            ["Rút gọn", "<code>Why not + V?</code>", "Why not try it?"],
+            ["Đồng ý ngắn", "<code>Why not?</code>", "“Fancy a coffee?” — “Why not?”"],
+            ["Thêm lý do", "<code>Why don't we…, since…?</code>", "Why don't we wait, since we're not sure?"],
+            ["Kèm phương án khác", "<code>Why don't we A instead of B?</code>", "Why don't we email instead of calling?"],
+            ["Quá khứ — tiếc nuối", "<code>Why didn't we + V?</code>", "Why didn't we book earlier?"],
+            ["Trả lời đồng ý", "<code>Good idea.</code>", "Good idea — let's do that."],
+            ["Trả lời từ chối", "<code>That doesn't work for me, but…</code>", "Thursday doesn't work — how about Friday?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Bẫy thứ tự từ:</b> phải đảo ngữ như câu hỏi thật. <span class=\"k\">Why don't we go?</span> ✓ — <i>Why we don't go?</i> ✗ Đây là lỗi rất phổ biến vì trong tiếng Việt thứ tự không đổi." },
+        { "t": "callout", "html": "<b>“Why not?” một mình là câu đồng ý:</b> khi ai đó rủ bạn làm gì, <i>Why not?</i> nghĩa là “ừ, sao lại không” — một cách nhận lời thoải mái. Đừng hiểu nhầm là bạn đang hỏi lý do." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “Why don't we…”",
+              "items": [
+                { "w": "meet", "vi": "gặp nhau", "ex": "Why don't we meet on Thursday instead?", "exvi": "Hay mình gặp nhau thứ Năm đi?" },
+                { "w": "start", "vi": "bắt đầu", "ex": "Why don't we start at nine?", "exvi": "Hay mình bắt đầu lúc chín giờ?" },
+                { "w": "wait", "vi": "chờ", "ex": "Why don't we wait until we have the numbers?", "exvi": "Hay mình chờ đến khi có số liệu?" },
+                { "w": "try", "vi": "thử", "ex": "Why don't we try a smaller test first?", "exvi": "Hay mình thử quy mô nhỏ trước?" },
+                { "w": "split it", "vi": "chia nhỏ ra", "ex": "Why don't we split it into two phases?", "exvi": "Hay mình chia thành hai giai đoạn?" },
+                { "w": "ask", "vi": "hỏi", "ex": "Why don't we ask the client directly?", "exvi": "Hay mình hỏi thẳng khách hàng?" },
+                { "w": "move it", "vi": "dời lịch", "ex": "Why don't we move it to next week?", "exvi": "Hay mình dời sang tuần sau?" },
+                { "w": "take a break", "vi": "nghỉ giải lao", "ex": "Why don't we take a short break?", "exvi": "Hay mình nghỉ giải lao chút?" },
+                { "w": "go together", "vi": "đi cùng nhau", "ex": "Why don't we go together?", "exvi": "Hay mình đi cùng nhau?" },
+                { "w": "order in", "vi": "gọi đồ về", "ex": "Why don't we order in tonight?", "exvi": "Tối nay hay mình gọi đồ về ăn?" },
+                { "w": "keep it simple", "vi": "giữ cho đơn giản", "ex": "Why don't we keep it simple this time?", "exvi": "Lần này hay mình giữ cho đơn giản?" },
+                { "w": "email instead", "vi": "gửi email thay vì", "ex": "Why don't we email instead of calling?", "exvi": "Hay mình gửi email thay vì gọi điện?" },
+                { "w": "book now", "vi": "đặt luôn", "ex": "Why don't we book now before prices rise?", "exvi": "Hay mình đặt luôn trước khi giá tăng?" },
+                { "w": "check with", "vi": "hỏi ý", "ex": "Why don't we check with finance first?", "exvi": "Hay mình hỏi ý bên tài chính trước?" },
+                { "w": "leave it", "vi": "gác lại", "ex": "Why don't we leave it for today?", "exvi": "Hay hôm nay mình gác lại?" },
+                { "w": "share the cost", "vi": "chia chi phí", "ex": "Why don't we share the cost?", "exvi": "Hay mình chia tiền ra?" },
+                { "w": "do both", "vi": "làm cả hai", "ex": "Why don't we do both?", "exvi": "Hay mình làm cả hai?", "note": "Câu gỡ bế tắc rất hay khi hai bên đang giằng co giữa hai phương án." },
+                { "w": "sleep on it", "vi": "để qua đêm nghĩ", "ex": "Why don't we sleep on it?", "exvi": "Hay mình để qua đêm nghĩ đã?", "note": "Thành ngữ: hoãn quyết định sang hôm sau." },
+                { "w": "swap", "vi": "đổi cho nhau", "ex": "Why don't we swap seats?", "exvi": "Hay mình đổi chỗ cho nhau?" },
+                { "w": "call it there", "vi": "dừng ở đây", "ex": "Why don't we call it there for today?", "exvi": "Hay hôm nay mình dừng ở đây?" }
+              ]
+            },
+            {
+              "title": "Dạng “Why don't you…” — lời khuyên",
+              "items": [
+                { "w": "get some rest", "vi": "nghỉ ngơi đi", "ex": "You look exhausted — why don't you get some rest?", "exvi": "Trông bạn mệt lử — hay bạn nghỉ ngơi đi?", "note": "Khuyên nhủ, KHÔNG phải rủ cùng. Bạn không tham gia việc nghỉ." },
+                { "w": "ask her directly", "vi": "hỏi thẳng cô ấy", "ex": "Why don't you ask her directly?", "exvi": "Sao bạn không hỏi thẳng cô ấy?" },
+                { "w": "take the day off", "vi": "nghỉ một ngày", "ex": "Why don't you take the day off tomorrow?", "exvi": "Hay mai bạn nghỉ một ngày?" },
+                { "w": "try it yourself", "vi": "tự thử xem", "ex": "Why don't you try it yourself first?", "exvi": "Sao bạn không tự thử trước xem?" },
+                { "w": "talk to him", "vi": "nói chuyện với anh ấy", "ex": "Why don't you talk to him about it?", "exvi": "Sao bạn không nói chuyện với anh ấy về việc đó?" },
+                { "w": "come along", "vi": "đi cùng đi", "ex": "Why don't you come along?", "exvi": "Hay bạn đi cùng luôn đi?", "note": "Vừa khuyên vừa mời — rất ấm áp." },
+                { "w": "give it a go", "vi": "thử một lần xem", "ex": "Why don't you give it a go?", "exvi": "Sao bạn không thử một lần xem?", "note": "<i>give it a go</i> = thử xem sao. Rất khích lệ." },
+                { "w": "let me help", "vi": "để tôi giúp", "ex": "Why don't you let me help with that?", "exvi": "Sao bạn không để mình giúp việc đó?" },
+                { "w": "sit down", "vi": "ngồi xuống", "ex": "Why don't you sit down for a minute?", "exvi": "Hay bạn ngồi xuống một lát đi?" },
+                { "w": "write it down", "vi": "ghi lại", "ex": "Why don't you write it down so you don't forget?", "exvi": "Sao bạn không ghi lại kẻo quên?" }
+              ]
+            },
+            {
+              "title": "Biến thể & cách đáp",
+              "items": [
+                { "w": "Why not…?", "vi": "sao không…?", "ex": "Why not try it and see?", "exvi": "Sao không thử xem sao?", "note": "Rút gọn — ngắn và khích lệ hơn." },
+                { "w": "Why not?", "vi": "ừ, sao lại không", "ex": "“Fancy a coffee?” — “Why not?”", "exvi": "“Làm ly cà phê không?” — “Ừ, sao lại không.”", "note": "Một mình là câu ĐỒNG Ý, không phải hỏi lý do." },
+                { "w": "Why don't I…?", "vi": "hay để tôi…?", "ex": "Why don't I call them for you?", "exvi": "Hay để mình gọi cho họ giúp bạn?", "note": "Ngỏ ý làm giúp mà nghe như đề xuất — rất khéo." },
+                { "w": "Good idea", "vi": "ý hay đấy", "ex": "Good idea — let's do that.", "exvi": "Ý hay đấy — mình làm vậy đi.", "note": "Cách đồng ý phổ biến nhất với khung này." },
+                { "w": "That works for me", "vi": "mình thấy ổn", "ex": "Thursday? That works for me.", "exvi": "Thứ Năm à? Mình thấy ổn.", "note": "Câu chốt lịch tự nhiên nhất trong công việc." },
+                { "w": "That doesn't work for me, but…", "vi": "mình không tiện, nhưng…", "ex": "Thursday doesn't work for me, but Friday does.", "exvi": "Thứ Năm mình không tiện, nhưng thứ Sáu thì được.", "note": "Từ chối kèm phương án — đừng chỉ nói không." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Why don't we try a smaller test first?",
+                  "vi": "Hay mình thử quy mô nhỏ trước đã?",
+                  "note": "Đưa hướng mới mà không phủ định ý ai — dạng câu hỏi khiến nó nghe như một khả năng chứ không phải lời bác bỏ.",
+                  "open": { "en": "Can I throw an idea out there?", "vi": "Tôi nêu một ý được không?" },
+                  "reply": [
+                    { "them": "Good idea — how small?", "themvi": "Ý hay đấy — nhỏ cỡ nào?", "you": "One region, two weeks.", "youvi": "Một khu vực, hai tuần." },
+                    { "them": "We don't have time for that.", "themvi": "Mình không có thời gian cho việc đó.", "you": "Then why don't we run it in parallel?", "youvi": "Vậy hay mình chạy song song?" }
+                  ],
+                  "close": { "en": "Either way, I'll write it up.", "vi": "Kiểu gì thì tôi cũng sẽ soạn lại thành văn bản." }
+                },
+                {
+                  "en": "Why don't we move it to next week?",
+                  "vi": "Hay mình dời sang tuần sau?",
+                  "note": "Đề xuất dời lịch mà không nêu ai là người chậm trễ — giữ được không khí hợp tác.",
+                  "reply": [
+                    { "them": "That works for me.", "themvi": "Mình thấy ổn.", "you": "Great — I'll send a new invite.", "youvi": "Tuyệt — tôi gửi lời mời mới." },
+                    { "them": "Next week is packed, I'm afraid.", "themvi": "E là tuần sau kín lịch rồi.", "you": "Then why don't we do a short call instead?", "youvi": "Vậy hay mình gọi nhanh thay thế?" }
+                  ]
+                },
+                {
+                  "en": "Why don't I take that one?",
+                  "vi": "Hay để tôi nhận việc đó?",
+                  "note": "Dạng <b>Why don't I</b> — ngỏ ý nhận việc mà nghe như đề xuất, nên không ai thấy bạn đang tranh việc.",
+                  "reply": [
+                    { "them": "Would you? That'd be a big help.", "themvi": "Bạn nhận à? Vậy thì đỡ lắm.", "you": "No problem — send me the details.", "youvi": "Không sao — gửi tôi chi tiết nhé." }
+                  ]
+                },
+                {
+                  "en": "Why don't we do both?",
+                  "vi": "Hay mình làm cả hai?",
+                  "note": "Câu gỡ bế tắc rất hay khi hai bên đang giằng co giữa hai phương án loại trừ nhau.",
+                  "reply": [
+                    { "them": "Can we afford both?", "themvi": "Mình đủ ngân sách cho cả hai không?", "you": "If we scale each one down, yes.", "youvi": "Nếu thu nhỏ mỗi cái lại thì đủ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "You look exhausted — why don't you get some rest?",
+                  "vi": "Trông bạn mệt lử — hay bạn nghỉ ngơi đi?",
+                  "note": "Dạng <b>Why don't you</b> — khuyên nhủ chứ không rủ cùng. Quan tâm mà không ra lệnh.",
+                  "reply": [
+                    { "them": "I still have so much to do.", "themvi": "Mình còn nhiều việc quá.", "you": "It'll still be there tomorrow.", "youvi": "Mai việc vẫn ở đó mà." }
+                  ],
+                  "vars": [
+                    { "en": "Why don't you take the day off tomorrow?", "vi": "Hay mai bạn nghỉ một ngày?" }
+                  ],
+                  "close": { "en": "Look after yourself.", "vi": "Giữ gìn sức khỏe nhé." }
+                },
+                {
+                  "en": "Why don't you ask her directly?",
+                  "vi": "Sao bạn không hỏi thẳng cô ấy?",
+                  "note": "Lời khuyên dưới dạng câu hỏi — người nghe dễ tiếp nhận hơn nhiều so với <i>You should ask her</i>.",
+                  "reply": [
+                    { "them": "I don't want to bother her.", "themvi": "Mình không muốn làm phiền chị ấy.", "you": "She'd rather you asked than guessed.", "youvi": "Chị ấy thà bạn hỏi còn hơn để bạn đoán mò." }
+                  ]
+                },
+                {
+                  "en": "Why don't we sleep on it?",
+                  "vi": "Hay mình để qua đêm nghĩ đã?",
+                  "note": "<span class=\"k\">sleep on it</span> = để qua đêm rồi quyết. Thành ngữ rất tự nhiên khi cần hoãn quyết định.",
+                  "reply": [
+                    { "them": "Good idea. We're both tired.", "themvi": "Ý hay. Cả hai đều mệt rồi.", "you": "Let's talk again tomorrow morning.", "youvi": "Sáng mai mình nói tiếp nhé." }
+                  ]
+                },
+                {
+                  "en": "Why don't you come along?",
+                  "vi": "Hay bạn đi cùng luôn đi?",
+                  "note": "Vừa khuyên vừa mời — câu rủ rê rất ấm áp, không tạo áp lực.",
+                  "reply": [
+                    { "them": "Are you sure I won't be in the way?", "themvi": "Mình đi có phiền không?", "you": "Not at all — the more the merrier.", "youvi": "Không hề — càng đông càng vui." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Why don't we order in tonight?",
+                  "vi": "Tối nay hay mình gọi đồ về ăn?",
+                  "reply": [
+                    { "them": "Why not? I'm too tired to cook.", "themvi": "Ừ, sao lại không. Mình mệt chẳng nấu nổi.", "you": "Noodles or pizza?", "youvi": "Mì hay pizza?" }
+                  ],
+                  "vars": [
+                    { "en": "Why don't we eat out instead?", "vi": "Hay mình ra ngoài ăn đi?" }
+                  ]
+                },
+                {
+                  "en": "Why don't we try that new place?",
+                  "vi": "Hay mình thử quán mới đó?",
+                  "reply": [
+                    { "them": "I've heard mixed things about it.", "themvi": "Mình nghe khen chê lẫn lộn.", "you": "Then why don't we go somewhere safe?", "youvi": "Vậy hay mình đi chỗ nào chắc ăn?" }
+                  ]
+                },
+                {
+                  "en": "Why don't we share a few dishes?",
+                  "vi": "Hay mình gọi vài món ăn chung?",
+                  "note": "Cách gọi món rất hay khi đi nhóm — thử được nhiều món mà không ai ăn thừa.",
+                  "reply": [
+                    { "them": "Good idea — you pick three.", "themvi": "Ý hay — bạn chọn ba món đi.", "you": "Any allergies I should know about?", "youvi": "Có ai dị ứng gì mình cần biết không?" }
+                  ]
+                },
+                {
+                  "en": "Why don't we split the bill?",
+                  "vi": "Hay mình chia đôi hóa đơn?",
+                  "reply": [
+                    { "them": "Sure, that's easier.", "themvi": "Được, vậy dễ hơn.", "you": "I'll ask for two cards.", "youvi": "Mình bảo họ chia hai thẻ." }
+                  ],
+                  "close": { "en": "Next one's on me, though.", "vi": "Nhưng lần sau mình mời nhé." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Why don't we book now before prices rise?",
+                  "vi": "Hay mình đặt luôn trước khi giá tăng?",
+                  "reply": [
+                    { "them": "We don't have the dates yet.", "themvi": "Mình chưa có ngày chính xác mà.", "you": "Then why don't we book a flexible ticket?", "youvi": "Vậy hay mình đặt vé linh hoạt?" }
+                  ]
+                },
+                {
+                  "en": "Why don't we take the train instead?",
+                  "vi": "Hay mình đi tàu thay vì đi xe?",
+                  "reply": [
+                    { "them": "It's more expensive.", "themvi": "Đắt hơn đấy.", "you": "But no traffic and we can work on board.", "youvi": "Nhưng không kẹt xe và trên tàu làm việc được." }
+                  ]
+                },
+                {
+                  "en": "Why don't we swap seats so you can see out?",
+                  "vi": "Hay mình đổi chỗ để bạn nhìn được ra ngoài?",
+                  "note": "Đề nghị hào phóng dưới dạng câu hỏi — người kia dễ nhận lời mà không thấy mắc nợ.",
+                  "reply": [
+                    { "them": "Are you sure? You had the window.", "themvi": "Bạn chắc chứ? Chỗ cửa sổ là của bạn mà.", "you": "I'll be asleep anyway.", "youvi": "Đằng nào mình cũng ngủ thôi." }
+                  ]
+                },
+                {
+                  "en": "Why don't we leave a bit earlier to be safe?",
+                  "vi": "Hay mình đi sớm chút cho chắc?",
+                  "reply": [
+                    { "them": "How much earlier?", "themvi": "Sớm bao nhiêu?", "you": "Half an hour should cover it.", "youvi": "Nửa tiếng là đủ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Why don't we compare prices first?",
+                  "vi": "Hay mình so giá trước đã?",
+                  "reply": [
+                    { "them": "Good idea. I'll check online.", "themvi": "Ý hay. Để mình xem trên mạng.", "you": "I'll ask if they price-match.", "youvi": "Mình hỏi xem họ có khớp giá không." }
+                  ]
+                },
+                {
+                  "en": "Why don't we come back when it's on sale?",
+                  "vi": "Hay đợi giảm giá mình quay lại?",
+                  "reply": [
+                    { "them": "It might sell out by then.", "themvi": "Đến lúc đó có khi hết mất.", "you": "Then why don't we ask them to hold it?", "youvi": "Vậy hay mình nhờ họ giữ hàng?" }
+                  ]
+                },
+                {
+                  "en": "Why don't you try it on before you decide?",
+                  "vi": "Sao bạn không thử trước khi quyết định?",
+                  "note": "Dạng khuyên nhủ — nhẹ hơn hẳn <i>You should try it on</i>.",
+                  "reply": [
+                    { "them": "I'm not sure it suits me.", "themvi": "Mình không chắc có hợp không.", "you": "That's exactly why you should try it.", "youvi": "Chính vì vậy mới nên thử chứ." }
+                  ]
+                },
+                {
+                  "en": "Why don't we ask someone who works here?",
+                  "vi": "Hay mình hỏi nhân viên ở đây?",
+                  "reply": [
+                    { "them": "There's someone by the till.", "themvi": "Có người ở chỗ quầy thu ngân kìa.", "you": "I'll go and ask.", "youvi": "Để mình qua hỏi." }
+                  ],
+                  "close": { "en": "Back in a minute.", "vi": "Một phút nữa mình quay lại." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Gỡ bế tắc trong cuộc họp",
+          "lines": [
+            { "speaker": "Minh", "en": "We can either do the full launch or nothing.", "vi": "Mình hoặc ra mắt toàn bộ, hoặc không làm gì cả." },
+            { "speaker": "You", "me": true, "en": "Why don't we do a smaller test first?", "vi": "Hay mình thử quy mô nhỏ trước đã?" },
+            { "speaker": "Minh", "en": "We don't have time for two rounds.", "vi": "Mình không đủ thời gian cho hai vòng." },
+            { "speaker": "You", "me": true, "en": "Then why don't we run the test in parallel?", "vi": "Vậy hay mình chạy thử song song?" },
+            { "speaker": "Minh", "en": "Hmm. That could work.", "vi": "Hừm. Cách đó có thể được đấy." },
+            { "speaker": "You", "me": true, "en": "Why don't I write it up and we decide tomorrow?", "vi": "Hay để em soạn lại rồi mai mình quyết?" }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Khuyên bạn đang quá tải",
+          "lines": [
+            { "speaker": "Friend", "en": "I've been working until midnight all week.", "vi": "Cả tuần mình làm đến nửa đêm." },
+            { "speaker": "You", "me": true, "en": "Why don't you take tomorrow off?", "vi": "Sao bạn không nghỉ ngày mai?" },
+            { "speaker": "Friend", "en": "I can't — there's too much to do.", "vi": "Không được — nhiều việc quá." },
+            { "speaker": "You", "me": true, "en": "Why don't you tell your manager how bad it is?", "vi": "Sao bạn không nói với quản lý là tình hình tệ thế nào?" },
+            { "speaker": "Friend", "en": "I don't want to look like I can't cope.", "vi": "Mình không muốn bị nhìn như kẻ không kham nổi." },
+            { "speaker": "You", "me": true, "en": "Why don't we practise what you'd say? I'll help.", "vi": "Hay mình tập trước xem bạn sẽ nói gì? Mình giúp cho." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Why we don't go together?", "right": "Why don't we go together?", "why": "Phải đảo ngữ như câu hỏi thật: <b>Why don't + chủ ngữ + V</b>." },
+            { "wrong": "“Why don't we meet Friday?” — “Because I'm busy.”", "right": "“…?” — “Friday doesn't work for me — how about Thursday?”", "why": "Đây không phải câu hỏi thật. Trả lời bằng <i>Because</i> nghe rất lạ — hãy đáp như với một lời đề xuất." },
+            { "wrong": "Why don't we to start now?", "right": "Why don't we start now?", "why": "Sau <b>don't</b> là động từ nguyên thể không <i>to</i>." },
+            { "wrong": "Why don't you take a break? <i>(ý: rủ cùng nghỉ)</i>", "right": "Why don't we take a break?", "why": "<b>you</b> là khuyên người kia; <b>we</b> mới là rủ cùng. Một chữ đổi hẳn nghĩa." },
+            { "wrong": "Why not to try it?", "right": "Why not try it?", "why": "Sau <b>Why not</b> là động từ nguyên thể trần, không có <i>to</i>." },
+            { "wrong": "“Fancy a coffee?” — “Why not?” <i>(hiểu là đang hỏi lý do)</i>", "right": "“Why not?” = “Ừ, sao lại không.”", "why": "<b>Why not?</b> đứng một mình là câu ĐỒNG Ý, không phải câu hỏi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>Why don't we + V?</code>", "Đề xuất dưới dạng câu hỏi — mềm", "<i>Why don't we start?</i>"],
+            ["<code>Why don't you + V?</code>", "Khuyên người kia — bạn không tham gia", "<i>Why don't you rest?</i>"],
+            ["<code>Let's + V</code>", "Rủ — nghe như đã quyết", "<i>Let's start.</i> — Xem [Khung 31]."],
+            ["<code>Shall we + V?</code>", "Hỏi ý — lịch sự, Anh-Anh", "<i>Shall we start?</i> — Xem [Khung 34]."],
+            ["<code>How about + V-ing?</code>", "Gợi ý nhẹ nhất", "<i>How about starting now?</i> — Xem [Khung 33]."],
+            ["<code>We could + V</code>", "Nêu khả năng — không thúc ép", "<i>We could start now.</i> — Xem [Khung 36]."],
+            ["<code>You should + V</code>", "Khuyên thẳng — mạnh hơn", "<i>You should rest.</i> — Xem [Khung 38]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — khuyên ai đó nghỉ ngơi" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "How about taking a break?", "vi": "Nhẹ nhất — chỉ gợi ý" },
+            { "en": "Why don't you take a break?", "vi": "Nhẹ — khuyên dưới dạng câu hỏi" },
+            { "en": "You could take a break.", "vi": "Nêu khả năng" },
+            { "en": "You should take a break.", "vi": "Khuyên thẳng" },
+            { "en": "You need to take a break.", "vi": "Mạnh nhất — gần như bắt buộc" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Why don't we</b> nói nhanh thành <b>“wai-dohn-wi”</b> — âm /t/ của <i>don't</i> biến mất hoàn toàn.",
+            "<b>Why don't you</b> → “wai-dohn-chə” — âm /t/ và /j/ hòa thành /tʃ/, nghe như “chơ”.",
+            "<b>Why don't I</b> → “wai-dohn-tai”, ở đây âm /t/ lại nghe rõ hơn vì nối sang nguyên âm.",
+            "<b>Why not</b> → “wai-NOT”, nhấn mạnh vào <i>not</i>.",
+            "Trọng âm rơi vào <b>động từ chính</b>, không vào <i>why</i>: <i>Why don't we</i> <b>MEET</b> <i>on Thursday?</i>",
+            "<b>Giọng đi lên ở cuối</b> — dù không phải câu hỏi thật, nó vẫn giữ ngữ điệu câu hỏi để nghe như một lời mời."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Why don't we meet on Thursday instead?", "vi": "Luyện shadowing: chú ý “don't” mất âm /t/, cả cụm đầu nói rất nhanh." },
+            { "en": "Why don't you get some rest?", "vi": "Nghe kỹ “don't you” dính thành “dohn-chə” — rất dễ nghe sót." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Hay mình gặp nhau thứ Năm đi?", "blank": "__________ meet on Thursday?", "a": "Why don't we" },
+            { "vi": "Sao bạn không hỏi thẳng cô ấy?", "blank": "__________ ask her directly?", "a": "Why don't you" },
+            { "vi": "Hay để mình gọi cho họ giúp bạn?", "blank": "__________ call them for you?", "a": "Why don't I" },
+            { "vi": "Sao không thử xem sao?", "blank": "__________ try it and see?", "a": "Why not (không có “to”)" },
+            { "vi": "“Làm ly cà phê không?” — “Ừ, sao lại không.”", "blank": "“Fancy a coffee?” — “__________”", "a": "Why not?" },
+            { "vi": "Hay mình để qua đêm nghĩ đã?", "blank": "Why don't we __________?", "a": "sleep on it" },
+            { "vi": "Thứ Năm à? Mình thấy ổn.", "blank": "Thursday? __________.", "a": "That works for me" },
+            { "vi": "Hay mình làm cả hai?", "blank": "__________ do both?", "a": "Why don't we" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Hay mình thử quy mô nhỏ trước đã?", "a": "Why don't we try a smaller test first?" },
+            { "vi": "2. Trông bạn mệt lử — hay bạn nghỉ ngơi đi?", "a": "You look exhausted — why don't you get some rest?" },
+            { "vi": "3. Tối nay hay mình gọi đồ về ăn?", "a": "Why don't we order in tonight?" },
+            { "vi": "4. Hay mình đặt luôn trước khi giá tăng?", "a": "Why don't we book now before prices rise?" },
+            { "vi": "5. Hay bạn đi cùng luôn đi?", "a": "Why don't you come along?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Đừng trả lời bằng “Because…”:</b> đây là lời đề xuất, không phải câu hỏi. Hãy đáp <i>Good idea</i> hoặc nêu phương án khác.",
+            "<b>Nhớ we / you / I đổi hẳn chức năng:</b> <i>we</i> là rủ cùng, <i>you</i> là khuyên người kia, <i>I</i> là ngỏ ý làm giúp.",
+            "<b>Dùng để gỡ bế tắc:</b> khi hai bên đang giằng co, <i>Why don't we do both?</i> hoặc <i>Why don't we try a smaller version?</i> mở ra lối thứ ba.",
+            "<b>Nhớ đảo ngữ:</b> <i>Why <b>don't we</b> go</i>, không phải <i>Why we don't go</i>.",
+            "<b>Thuộc “Why not?” như câu đồng ý:</b> khi được rủ, hai chữ này là cách nhận lời thoải mái nhất.",
+            "<b>Bài tập 3 phút:</b> lấy 5 câu <i>Let's…</i> bạn hay nói, đổi thành <i>Why don't we…?</i> và cảm nhận xem câu nào để ngỏ hơn cho người kia."
+          ]
+        }
+      ]
+    }
+  ]
+}

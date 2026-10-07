@@ -1,0 +1,277 @@
+{
+  "id": 57,
+  "group": "Nhóm 2 · Danh từ, mạo từ & lượng từ",
+  "title": "both / either / neither / all / none",
+  "subtitle": "Ba từ đầu CHỈ dùng cho đúng hai thứ — both of my three friends ✗. Và neither đã mang sẵn nghĩa phủ định rồi, nên thêm don't vào nữa là phủ định hai lần: Neither of them don't like it ✗.",
+  "meaning": "Nói về hai thứ, hoặc về cả nhóm",
+  "rule": [
+    "<em>both / either / neither</em> chỉ cho <em>HAI</em>",
+    "Ba thứ trở lên dùng <em>all / any / none</em>",
+    "<em>neither</em> và <em>none</em> đã là phủ định — không thêm <em>not</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1", "hot": true },
+    { "text": "both of my three… ✗" },
+    { "text": "Neither … don't ✗" },
+    { "text": "Tần suất: cao" }
+  ],
+  "frames": [8, 51, 65, 66, 100],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Năm từ này chia làm hai nhóm theo <b>số lượng</b>: <i>both, either, neither</i> dành riêng cho <b>đúng hai</b> thứ; <i>all, any, none</i> dùng cho <b>từ ba trở lên</b>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — ba từ đầu CHỈ cho hai:</b><br><i><b>both</b> of my three friends</i> ✗ → <i><b>all</b> of my three friends</i> ✓<br><i><b>neither</b> of the five options</i> ✗ → <i><b>none</b> of the five options</i> ✓<br>• <b>both</b> = cả hai · <b>either</b> = một trong hai · <b>neither</b> = không cái nào trong hai<br>• <b>all</b> = tất cả · <b>any</b> = bất kỳ cái nào · <b>none</b> = không cái nào (trong nhiều)" },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>neither</i> và <i>none</i> đã là phủ định rồi:</b><br><i>Neither of them <b>don't</b> like it</i> ✗ → <i>Neither of them <b>likes</b> it.</i> ✓<br><i>I <b>don't</b> like <b>neither</b></i> ✗ → <i>I like <b>neither</b>.</i> ✓ hoặc <i>I <b>don't</b> like <b>either</b>.</i> ✓<br>Tiếng Việt cho phép “không ai … không thích”, tiếng Anh thì <b>một câu chỉ một phủ định</b>. Muốn giữ <i>don't</i> thì đổi <i>neither</i> thành <b>either</b>." },
+        { "t": "h3", "text": "Bốn khuôn phải thuộc" },
+        {
+          "t": "table",
+          "head": ["Từ", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>both</code>", "Cả hai", "Both of them are good."],
+            ["<code>either</code>", "Một trong hai (cái nào cũng được)", "Either of them is fine."],
+            ["<code>neither</code>", "Không cái nào trong hai", "Neither of them is right."],
+            ["<code>none</code>", "Không cái nào (trong nhiều)", "None of them came."]
+          ]
+        },
+        { "t": "p", "html": "Chú ý động từ: <b>both</b> đi với <b>số nhiều</b>, còn <b>either / neither / none</b> theo chuẩn thì đi với <b>số ít</b> — <i>Neither of them <b>is</b> right.</i>" }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>both + danh từ số nhiều</code>", "Cả hai", "Both options are good."],
+            ["<code>both of + the/my/them</code>", "Cả hai trong số đó", "Both of them are good."],
+            ["<code>both … and …</code>", "Vừa… vừa…", "Both Nam and Lan came."],
+            ["<code>either + danh từ số ít</code>", "Cái nào trong hai cũng được", "Either day is fine."],
+            ["<code>either of + them</code>", "Một trong hai", "Either of them is fine."],
+            ["<code>either … or …</code>", "Hoặc… hoặc…", "Either Monday or Tuesday."],
+            ["<code>neither + danh từ số ít</code>", "Không cái nào trong hai", "Neither answer is right."],
+            ["<code>neither of + them</code>", "Không ai trong hai", "Neither of them is right."],
+            ["<code>neither … nor …</code>", "Không… cũng không…", "Neither Nam nor Lan came."],
+            ["<code>all of + them</code>", "Tất cả (từ ba trở lên)", "All of them came."],
+            ["<code>none of + them</code>", "Không ai cả (từ ba trở lên)", "None of them came."],
+            ["<code>So do I</code> / <code>Neither do I</code>", "Tôi cũng vậy / tôi cũng không", "\"I don't smoke.\" \"Neither do I.\""]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dòng cuối là đảo ngữ:</b> sau <b>Neither / Nor / So</b> thì trợ động từ đứng trước chủ ngữ — <i>Neither <b>do I</b></i> ✓, <i>Neither <b>I do</b></i> ✗. Xem [Ngữ pháp 49]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Both of them are good.", "vi": "Cả hai đều tốt.", "note": "<b>both</b> đi với động từ SỐ NHIỀU." },
+            { "en": "Both Nam and Lan came.", "vi": "Cả Nam lẫn Lan đều đến.", "note": "Cặp cố định <b>both … and</b>." },
+            { "en": "Either day is fine for me.", "vi": "Ngày nào cũng được với tôi.", "note": "<b>either</b> + danh từ SỐ ÍT." },
+            { "en": "Either Monday or Tuesday works.", "vi": "Thứ Hai hoặc thứ Ba đều được.", "note": "Cặp cố định <b>either … or</b>." },
+            { "en": "Neither of them is right.", "vi": "Không ai trong hai người đúng cả.", "note": "BẪY SỐ HAI: không thêm <i>don't</i>. Động từ số ít." },
+            { "en": "Neither Nam nor Lan came.", "vi": "Cả Nam lẫn Lan đều không đến.", "note": "Cặp <b>neither … nor</b>, không phải <i>neither … or</i>." },
+            { "en": "All of my three friends came.", "vi": "Cả ba người bạn của tôi đều đến.", "note": "BẪY SỐ MỘT: ba người thì dùng <b>all</b>, không dùng <i>both</i>." },
+            { "en": "None of them came.", "vi": "Chẳng ai đến cả.", "note": "<b>none</b> cho từ ba trở lên; <i>neither</i> chỉ cho hai." },
+            { "en": "I don't like either of them.", "vi": "Tôi không thích cái nào cả.", "note": "Giữ <i>don't</i> thì phải đổi sang <b>either</b>." },
+            { "en": "I like neither of them.", "vi": "Tôi không thích cái nào cả.", "note": "Cùng nghĩa câu trên, nhưng phủ định nằm ở <b>neither</b>." },
+            { "en": "\"I don't smoke.\" \"Neither do I.\"", "vi": "“Tôi không hút thuốc.” “Tôi cũng không.”", "note": "Đảo trợ động từ. Xem [Khung 51]." },
+            { "en": "What's the difference between these two? Both are fine.", "vi": "Hai cái này khác gì nhau? Cả hai đều ổn.", "note": "Xem [Khung 66]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "✌️", "title": "Khen cả hai lựa chọn", "text": "<i>Both of them are good.</i>" },
+            { "icon": "🤷", "title": "Cái nào cũng được", "text": "<i>Either day is fine for me.</i>" },
+            { "icon": "🚷", "title": "Loại cả hai", "text": "<i>Neither of them is right.</i>" },
+            { "icon": "👥", "title": "Nói về cả nhóm nhiều người", "text": "<i>All of them</i> · <i>None of them</i>." },
+            { "icon": "🤝", "title": "Đồng tình phủ định", "text": "<i>“Neither do I.”</i> Xem [Khung 51]." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Đừng dùng <i>both/either/neither</i> cho ba thứ trở lên." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một mục ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi mục đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Nói về đúng HAI thứ",
+              "items": [
+                { "w": "both", "vi": "cả hai", "ex": "Both options are good.", "exvi": "Cả hai phương án đều tốt.", "note": "Đi với động từ SỐ NHIỀU. Chỉ dùng cho HAI." },
+                { "w": "both of", "vi": "cả hai trong số đó", "ex": "Both of them are good.", "exvi": "Cả hai đều tốt.", "note": "Có <i>of</i> khi theo sau là <i>the, my, them</i>." },
+                { "w": "both … and", "vi": "vừa… vừa…", "ex": "Both Nam and Lan came.", "exvi": "Cả Nam lẫn Lan đều đến." },
+                { "w": "either", "vi": "một trong hai", "ex": "Either day is fine.", "exvi": "Ngày nào cũng được.", "note": "Đi với danh từ và động từ SỐ ÍT." },
+                { "w": "either of", "vi": "một trong hai cái đó", "ex": "Either of them is fine.", "exvi": "Cái nào cũng được." },
+                { "w": "either … or", "vi": "hoặc… hoặc…", "ex": "Either Monday or Tuesday.", "exvi": "Thứ Hai hoặc thứ Ba." },
+                { "w": "neither", "vi": "không cái nào trong hai", "ex": "Neither answer is right.", "exvi": "Không câu nào đúng cả.", "note": "BẪY SỐ HAI: đã là phủ định, không thêm <i>not</i>." },
+                { "w": "neither of", "vi": "không ai trong hai", "ex": "Neither of them is right.", "exvi": "Không ai trong hai người đúng." },
+                { "w": "neither … nor", "vi": "không… cũng không…", "ex": "Neither Nam nor Lan came.", "exvi": "Cả Nam lẫn Lan đều không đến.", "note": "<i>neither … or</i> ✗ — phải là <b>nor</b>." },
+                { "w": "Neither do I", "vi": "tôi cũng không", "ex": "\"I don't smoke.\" \"Neither do I.\"", "exvi": "“Tôi không hút thuốc.” “Tôi cũng không.”", "note": "Đảo trợ động từ. <i>Neither I do</i> ✗. Xem [Ngữ pháp 49]." },
+                { "w": "So do I", "vi": "tôi cũng vậy", "ex": "\"I love it.\" \"So do I.\"", "exvi": "“Tôi thích lắm.” “Tôi cũng vậy.” Xem [Khung 51]." },
+                { "w": "the other one", "vi": "cái còn lại", "ex": "I'll take the other one.", "exvi": "Tôi lấy cái kia.", "note": "Dùng khi chỉ còn đúng một cái nữa." }
+              ]
+            },
+            {
+              "title": "Nói về ba thứ trở lên & từ hay đi kèm",
+              "items": [
+                { "w": "all", "vi": "tất cả", "ex": "All my friends came.", "exvi": "Tất cả bạn tôi đều đến.", "note": "BẪY SỐ MỘT: từ ba trở lên thì dùng <b>all</b>, không dùng <i>both</i>." },
+                { "w": "all of", "vi": "tất cả trong số đó", "ex": "All of them came.", "exvi": "Tất cả đều đến." },
+                { "w": "none of", "vi": "không ai trong số đó", "ex": "None of them came.", "exvi": "Chẳng ai đến cả.", "note": "Đã là phủ định — <i>None of them didn't come</i> ✗." },
+                { "w": "any of", "vi": "bất kỳ cái nào", "ex": "Take any of these.", "exvi": "Lấy cái nào cũng được.", "note": "Câu phủ định và câu hỏi hay dùng <b>any</b>. Xem [Ngữ pháp 22]." },
+                { "w": "most of", "vi": "phần lớn", "ex": "Most of them agreed.", "exvi": "Phần lớn đều đồng ý." },
+                { "w": "some of", "vi": "một số trong đó", "ex": "Some of them left early.", "exvi": "Vài người về sớm." },
+                { "w": "each", "vi": "từng cái một", "ex": "Each student has a book.", "exvi": "Mỗi học sinh có một quyển sách.", "note": "<b>each</b> nhấn vào TỪNG cá thể, luôn số ít." },
+                { "w": "every", "vi": "mọi", "ex": "Every student came.", "exvi": "Học sinh nào cũng đến.", "note": "<b>every</b> nhìn cả nhóm nhưng động từ vẫn SỐ ÍT." },
+                { "w": "not … any", "vi": "không có cái nào", "ex": "I don't have any left.", "exvi": "Tôi không còn cái nào." },
+                { "w": "how many of", "vi": "bao nhiêu trong số đó", "ex": "How many of them came?", "exvi": "Có bao nhiêu người đến? Xem [Khung 65]." },
+                { "w": "the difference between", "vi": "khác nhau giữa", "ex": "What's the difference between these two?", "exvi": "Hai cái này khác gì nhau? Xem [Khung 66]." },
+                { "w": "I'd rather … than", "vi": "tôi thích… hơn", "ex": "I'd rather take this one than that one.", "exvi": "Tôi thích lấy cái này hơn cái kia. Xem [Khung 8]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<b>Both</b> of my three friends came.", "right": "<b>All</b> of my three friends came.", "why": "BẪY SỐ MỘT: <b>both</b> chỉ dùng cho đúng HAI. Ba trở lên thì dùng <b>all</b>." },
+            { "wrong": "<b>Neither</b> of the five options is good.", "right": "<b>None</b> of the five options is good.", "why": "Cùng lỗi — <b>neither</b> chỉ cho hai, nhiều hơn thì dùng <b>none</b>." },
+            { "wrong": "Neither of them <b>don't</b> like it.", "right": "Neither of them <b>likes</b> it.", "why": "BẪY SỐ HAI: <b>neither</b> đã mang nghĩa phủ định, thêm <i>don't</i> là phủ định hai lần." },
+            { "wrong": "I <b>don't</b> like <b>neither</b> of them.", "right": "I <b>don't</b> like <b>either</b> of them.", "why": "Giữ <i>don't</i> thì phải đổi sang <b>either</b>. Hoặc bỏ <i>don't</i>: <i>I like neither</i>." },
+            { "wrong": "<b>Neither</b> Nam <b>or</b> Lan came.", "right": "<b>Neither</b> Nam <b>nor</b> Lan came.", "why": "Cặp cố định là <b>neither … nor</b>, không phải <i>or</i>." },
+            { "wrong": "<b>Both</b> Nam <b>or</b> Lan came.", "right": "<b>Both</b> Nam <b>and</b> Lan came.", "why": "Cặp cố định là <b>both … and</b>." },
+            { "wrong": "Both of them <b>is</b> good.", "right": "Both of them <b>are</b> good.", "why": "<b>both</b> luôn đi với động từ SỐ NHIỀU." },
+            { "wrong": "Either of them <b>are</b> fine.", "right": "Either of them <b>is</b> fine.", "why": "Ngược lại — <b>either / neither / none</b> theo chuẩn đi với động từ SỐ ÍT." },
+            { "wrong": "\"I don't smoke.\" \"<b>Neither I do.</b>\"", "right": "\"I don't smoke.\" \"<b>Neither do I.</b>\"", "why": "Sau <b>Neither</b> phải đảo trợ động từ lên trước. Xem [Ngữ pháp 49]." },
+            { "wrong": "<b>Both</b> my parents <b>of</b> came.", "right": "<b>Both</b> my parents came. / <b>Both of</b> my parents came.", "why": "<i>of</i> chỉ đứng ngay sau <b>both</b>, và có thể bỏ khi theo sau là <i>my/the</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>both</code> / <code>all</code>", "Đúng hai / ba trở lên", "both of them ≠ all of them"],
+            ["<code>neither</code> / <code>none</code>", "Đúng hai / ba trở lên", "neither of them ≠ none of them"],
+            ["<code>either</code> / <code>any</code>", "Một trong hai / bất kỳ trong nhiều", "either day ≠ any day"],
+            ["<code>neither</code> / <code>either</code> + not", "Phủ định ở từ / ở động từ", "I like neither = I don't like either"],
+            ["<code>both … and</code> / <code>either … or</code>", "Cả hai / một trong hai", "both A and B ≠ either A or B"],
+            ["<code>neither … nor</code>", "Không bao giờ dùng <code>or</code>", "neither A nor B"],
+            ["<code>each</code> / <code>every</code>", "Từng cá thể / cả nhóm, đều số ít", "each student ≠ every student"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng từ nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn đang nói về mấy thứ, và ý bạn là lấy hết, lấy một, hay không lấy cái nào?",
+          "nodes": [
+            { "if": "Đúng HAI thứ, lấy cả hai", "then": "both (+ động từ số nhiều)", "ex": "Both of them are good." },
+            { "if": "Đúng HAI thứ, cái nào cũng được", "then": "either (+ động từ số ít)", "ex": "Either of them is fine." },
+            { "if": "Đúng HAI thứ, không cái nào", "then": "neither (không thêm not)", "ex": "Neither of them is right." },
+            { "if": "BA thứ trở lên, lấy hết", "then": "all", "ex": "All of them came." },
+            { "if": "BA thứ trở lên, không cái nào", "then": "none", "ex": "None of them came." },
+            { "if": "Muốn giữ don't trong câu", "then": "Đổi neither thành either", "ex": "I don't like either of them." }
+          ]
+        },
+        { "t": "h3", "text": "Thang số lượng — từ không có ai đến tất cả" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "None of them came.", "vi": "Ít nhất — chẳng ai" },
+            { "en": "Only one of them came.", "vi": "Chỉ một người" },
+            { "en": "Some of them came.", "vi": "Một số" },
+            { "en": "Most of them came.", "vi": "Phần lớn" },
+            { "en": "All of them came.", "vi": "Nhiều nhất — tất cả" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Nhóm lượng từ này xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 66, "why": "What's the difference between A and B? — khung so sánh đúng hai thứ, nơi both/either/neither sống." },
+            { "id": 8, "why": "I'd rather + V (than…) — chọn một trong hai, hay đi kèm either và the other one." },
+            { "id": 65, "why": "How much / How many…? — How many of them…? và cách trả lời bằng all/none." },
+            { "id": 51, "why": "I agree with you — So do I / Neither do I, hai câu đồng tình ngắn nhất." },
+            { "id": 100, "why": "There is / There are + N — There are none left, cách nói hết sạch." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền both / either / neither / all / none" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Cả hai đều tốt.", "blank": "__________ of them are good.", "a": "Both" },
+            { "vi": "Ngày nào cũng được với tôi.", "blank": "__________ day is fine for me.", "a": "Either" },
+            { "vi": "Không ai trong hai người đúng cả.", "blank": "__________ of them is right.", "a": "Neither" },
+            { "vi": "Cả ba người bạn của tôi đều đến.", "blank": "__________ of my three friends came.", "a": "All" },
+            { "vi": "Chẳng ai đến cả.", "blank": "__________ of them came.", "a": "None" },
+            { "vi": "Cả Nam lẫn Lan đều không đến.", "blank": "Neither Nam __________ Lan came.", "a": "nor" },
+            { "vi": "Cả Nam lẫn Lan đều đến.", "blank": "Both Nam __________ Lan came.", "a": "and" },
+            { "vi": "Tôi không thích cái nào cả.", "blank": "I don't like __________ of them.", "a": "either" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn câu đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Cả ba người bạn của tôi đều đến.", "blank": "(a) Both of my three friends came.  (b) All of my three friends came.", "a": "(b)" },
+            { "vi": "Không ai trong hai người thích nó.", "blank": "(a) Neither of them don't like it.  (b) Neither of them likes it.", "a": "(b)" },
+            { "vi": "Cả hai đều tốt.", "blank": "(a) Both of them is good.  (b) Both of them are good.", "a": "(b)" },
+            { "vi": "“Tôi không hút thuốc.” “Tôi cũng không.”", "blank": "(a) Neither I do.  (b) Neither do I.", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Cả hai đều tốt.", "a": "Both of them are good." },
+            { "vi": "2. Không ai trong hai người đúng cả.", "a": "Neither of them is right." },
+            { "vi": "3. Thứ Hai hoặc thứ Ba đều được.", "a": "Either Monday or Tuesday works." },
+            { "vi": "4. Chẳng ai trong số họ đến cả.", "a": "None of them came." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Đếm trước đã:</b> đúng <b>hai</b> thì <i>both / either / neither</i>; <b>ba trở lên</b> thì <i>all / any / none</i>.",
+            "<b>Một câu chỉ một phủ định.</b> <i>neither</i> và <i>none</i> đã phủ định sẵn — thấy có <i>don't</i> nữa là sai.",
+            "<b>Muốn giữ <i>don't</i> thì đổi sang <i>either</i>:</b> <i>I don't like either</i> = <i>I like neither</i>.",
+            "<b>Hai cặp cố định đừng tráo nhau:</b> <i>both … <b>and</b></i> và <i>neither … <b>nor</b></i>.",
+            "<b>Động từ:</b> <i>both</i> → số nhiều · <i>either / neither / none</i> → số ít.",
+            "<b>Bài tập 3 phút:</b> lấy hai món bạn đang phân vân, viết bốn câu: <i>Both…</i>, <i>Either…</i>, <i>Neither…</i>, <i>I'd rather… than…</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

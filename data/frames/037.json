@@ -1,0 +1,482 @@
+{
+  "id": 37,
+  "group": "Nhóm 4 · Đề nghị & Rủ rê",
+  "title": "I suggest… — Đề nghị kiểu chuyên nghiệp",
+  "subtitle": "Khung đề nghị trang trọng nhất trong nhóm, dùng nhiều trong họp và email công việc. Nhưng nó có một cấu trúc ngữ pháp rất lạ mà gần như người học nào cũng vấp: sau “I suggest that he…” thì động từ KHÔNG chia theo ngôi.",
+  "pattern": [
+    "I suggest <em>+ V-ing</em>",
+    "I suggest (that) <em>+ ai + V (không chia)</em>",
+    "May I suggest <em>+ danh từ</em>?"
+  ],
+  "meaning": "Tôi đề nghị… / Theo tôi thì nên…",
+  "grammar": [47],
+  "tags": [
+    { "text": "Tần suất: trung bình", "hot": false },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Cấu trúc giả định đặc biệt" },
+    { "text": "Trình độ: B1–B2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I suggest…</span> đưa ra đề nghị một cách <b>chuyên nghiệp và có trọng lượng</b>. So với [Khung 36]: <i>We could try X</i> chỉ là một khả năng, còn <i>I suggest we try X</i> là bạn đang <b>đứng tên</b> cho phương án đó." },
+        { "t": "p", "html": "Vì mang tính chính thức, nó hợp với <b>họp hành, email, báo cáo</b> hơn là trò chuyện đời thường. Nói <i>I suggest we get lunch</i> với bạn bè nghe rất cứng — lúc đó hãy dùng [Khung 33] hoặc [Khung 35]." },
+        { "t": "p", "html": "Thêm <b>'d</b> là mềm hẳn: <span class=\"k\">I'd suggest…</span> nghe như một gợi ý cá nhân chứ không phải một kiến nghị chính thức. Trong email, dạng này an toàn hơn nhiều khi bạn không phải người có quyền quyết định." },
+        { "t": "callout", "html": "<b>Cấu trúc giả định — bẫy lớn nhất:</b> sau <i>I suggest that + ai</i>, động từ <b>giữ nguyên dạng gốc</b>, không chia theo ngôi và không thêm <i>-s</i>. <span class=\"k\">I suggest that he <b>go</b> first.</span> ✓ — <i>I suggest that he goes first.</i> ✗ (dù dạng sau vẫn được chấp nhận trong tiếng Anh-Anh đời thường)." },
+        { "t": "h3", "text": "Ba cách dùng, ba mức trang trọng" },
+        {
+          "t": "table",
+          "head": ["Câu", "Sắc thái", "Dùng ở đâu"],
+          "rows": [
+            ["<code>I suggest waiting.</code>", "Gọn, trung tính", "Email, họp — dạng phổ biến nhất"],
+            ["<code>I'd suggest waiting.</code>", "Mềm hơn — gợi ý cá nhân", "Khi bạn không phải người quyết"],
+            ["<code>I suggest that we wait.</code>", "Trang trọng, rõ chủ thể", "Biên bản, báo cáo"],
+            ["<code>May I suggest an alternative?</code>", "Rất lịch thiệp — xin phép trước", "Họp có cấp trên, khách hàng"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💼", "title": "Đề nghị trong họp", "text": "Bối cảnh số 1. <i>I suggest we postpone until Friday.</i> Có trọng lượng, rõ người đứng tên." },
+            { "icon": "📧", "title": "Email công việc", "text": "<i>I'd suggest checking with finance first.</i> Chuyên nghiệp mà không áp đặt." },
+            { "icon": "🎤", "title": "Xin phép góp ý", "text": "<i>May I suggest an alternative?</i> Rất lịch thiệp khi có cấp trên." },
+            { "icon": "🛠", "title": "Tư vấn khách hàng", "text": "<i>I'd suggest the larger size.</i> Nghe như chuyên gia, không như người bán hàng." },
+            { "icon": "📋", "title": "Viết báo cáo, biên bản", "text": "<i>It is suggested that the deadline be moved.</i> Dạng bị động rất trang trọng." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Trò chuyện với bạn bè — nghe cứng và xa cách. Dùng [Khung 33] thay thế." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Phổ biến nhất", "<code>I suggest + V-ing</code>", "I suggest waiting a week."],
+            ["Mềm hơn", "<code>I'd suggest + V-ing</code>", "I'd suggest waiting a week."],
+            ["Rõ chủ thể", "<code>I suggest (that) + ai + V</code>", "I suggest we wait a week."],
+            ["Với danh từ", "<code>I suggest + N</code>", "I suggest Friday."],
+            ["Xin phép góp ý", "<code>May I suggest…?</code>", "May I suggest an alternative?"],
+            ["Đề nghị phủ định", "<code>I suggest not + V-ing</code>", "I suggest not sending it yet."],
+            ["Hỏi ý người khác", "<code>What do you suggest?</code>", "What do you suggest we do?"],
+            ["Bị động, rất trang trọng", "<code>It is suggested that…</code>", "It is suggested that the date be moved."],
+            ["Gần nghĩa, mềm", "<code>I'd recommend + V-ing</code>", "I'd recommend booking early."],
+            ["Trả lời đồng ý", "<code>That sounds sensible.</code>", "That sounds sensible to me."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp số một:</b> KHÔNG dùng <i>to V</i> sau <i>suggest</i>. <span class=\"k\">I suggest waiting.</span> ✓ / <span class=\"k\">I suggest you wait.</span> ✓ — <i>I suggest you to wait.</i> ✗ Đây là lỗi phổ biến nhất vì ta quen với <i>advise you to</i>." },
+        { "t": "callout", "html": "<b>Dạng an toàn nhất khi chưa chắc:</b> dùng <span class=\"k\">I suggest + V-ing</span>. Nó tránh được hoàn toàn cấu trúc giả định, mà vẫn đúng và tự nhiên trong mọi bối cảnh." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "V-ing thường theo sau “I suggest…”",
+              "items": [
+                { "w": "waiting", "vi": "chờ", "ex": "I suggest waiting until the numbers are in.", "exvi": "Tôi đề nghị chờ đến khi có số liệu." },
+                { "w": "checking", "vi": "kiểm tra", "ex": "I'd suggest checking with finance first.", "exvi": "Tôi đề nghị hỏi bên tài chính trước." },
+                { "w": "postponing", "vi": "hoãn lại", "ex": "I suggest postponing until next month.", "exvi": "Tôi đề nghị hoãn sang tháng sau." },
+                { "w": "starting", "vi": "bắt đầu", "ex": "I suggest starting with the simplest task.", "exvi": "Tôi đề nghị bắt đầu từ việc đơn giản nhất." },
+                { "w": "splitting", "vi": "chia ra", "ex": "I suggest splitting it into two phases.", "exvi": "Tôi đề nghị chia thành hai giai đoạn." },
+                { "w": "booking", "vi": "đặt chỗ", "ex": "I'd suggest booking well in advance.", "exvi": "Tôi khuyên nên đặt trước thật sớm." },
+                { "w": "asking", "vi": "hỏi", "ex": "I suggest asking the client directly.", "exvi": "Tôi đề nghị hỏi thẳng khách hàng." },
+                { "w": "reviewing", "vi": "rà soát", "ex": "I suggest reviewing it once more.", "exvi": "Tôi đề nghị rà soát lại một lần nữa." },
+                { "w": "keeping", "vi": "giữ", "ex": "I suggest keeping the original plan.", "exvi": "Tôi đề nghị giữ kế hoạch ban đầu." },
+                { "w": "trying", "vi": "thử", "ex": "I'd suggest trying the smaller version first.", "exvi": "Tôi đề nghị thử bản nhỏ trước." },
+                { "w": "leaving it", "vi": "gác lại", "ex": "I suggest leaving it for now.", "exvi": "Tôi đề nghị tạm gác lại." },
+                { "w": "taking notes", "vi": "ghi chép", "ex": "I suggest taking notes as we go.", "exvi": "Tôi đề nghị vừa làm vừa ghi chép." },
+                { "w": "meeting", "vi": "gặp mặt", "ex": "I suggest meeting in person for this one.", "exvi": "Việc này tôi đề nghị gặp trực tiếp." },
+                { "w": "documenting", "vi": "ghi lại thành văn bản", "ex": "I suggest documenting the decision.", "exvi": "Tôi đề nghị ghi lại quyết định thành văn bản." },
+                { "w": "prioritising", "vi": "ưu tiên", "ex": "I suggest prioritising the client work.", "exvi": "Tôi đề nghị ưu tiên việc của khách hàng.", "note": "Anh-Mỹ viết <i>prioritizing</i>." },
+                { "w": "not sending", "vi": "chưa gửi", "ex": "I suggest not sending it until Monday.", "exvi": "Tôi đề nghị chưa gửi cho đến thứ Hai.", "note": "Phủ định: <b>not</b> đứng TRƯỚC V-ing." },
+                { "w": "sleeping on it", "vi": "để qua đêm nghĩ", "ex": "I suggest sleeping on it before deciding.", "exvi": "Tôi đề nghị để qua đêm rồi hãy quyết." },
+                { "w": "getting a second opinion", "vi": "hỏi ý kiến thứ hai", "ex": "I'd suggest getting a second opinion.", "exvi": "Tôi khuyên nên hỏi thêm ý kiến khác." },
+                { "w": "setting a deadline", "vi": "đặt hạn chót", "ex": "I suggest setting a clear deadline.", "exvi": "Tôi đề nghị đặt một hạn chót rõ ràng." },
+                { "w": "starting over", "vi": "làm lại từ đầu", "ex": "Honestly, I'd suggest starting over.", "exvi": "Thật lòng thì tôi đề nghị làm lại từ đầu." }
+              ]
+            },
+            {
+              "title": "Dạng mệnh đề & cụm trang trọng",
+              "items": [
+                { "w": "I suggest we…", "vi": "tôi đề nghị chúng ta…", "ex": "I suggest we postpone until Friday.", "exvi": "Tôi đề nghị chúng ta hoãn đến thứ Sáu.", "note": "Động từ sau <i>we</i> giữ nguyên dạng gốc." },
+                { "w": "I suggest that he…", "vi": "tôi đề nghị anh ấy…", "ex": "I suggest that he take the lead on this.", "exvi": "Tôi đề nghị anh ấy dẫn dắt việc này.", "note": "CẤU TRÚC GIẢ ĐỊNH: <i>take</i> chứ không phải <i>takes</i>." },
+                { "w": "May I suggest…?", "vi": "tôi xin phép đề nghị…", "ex": "May I suggest an alternative?", "exvi": "Tôi xin phép đề xuất một phương án khác ạ?", "note": "Rất lịch thiệp — xin phép trước khi góp ý. Xem [Khung 21]." },
+                { "w": "What do you suggest?", "vi": "anh/chị đề nghị thế nào?", "ex": "What do you suggest we do about it?", "exvi": "Anh/chị đề nghị mình xử lý thế nào ạ?", "note": "Chuyền quyền đề xuất sang người kia — rất khéo khi bạn bí." },
+                { "w": "as I suggested earlier", "vi": "như tôi đã đề nghị lúc nãy", "ex": "As I suggested earlier, we should wait.", "exvi": "Như tôi đã đề nghị lúc nãy, mình nên chờ.", "note": "Nhắc lại ý cũ mà không nghe như đang trách ai không nghe." },
+                { "w": "It is suggested that…", "vi": "có đề xuất rằng…", "ex": "It is suggested that the deadline be moved.", "exvi": "Có đề xuất rằng hạn chót nên được dời lại.", "note": "Dạng bị động rất trang trọng — hợp biên bản, báo cáo." },
+                { "w": "I'd suggest…", "vi": "tôi thì đề nghị…", "ex": "I'd suggest checking it twice.", "exvi": "Tôi thì đề nghị kiểm tra hai lần.", "note": "Thêm <b>'d</b> là mềm hẳn — an toàn khi bạn không phải người quyết." },
+                { "w": "I'd recommend…", "vi": "tôi khuyên nên…", "ex": "I'd recommend booking early.", "exvi": "Tôi khuyên nên đặt sớm.", "note": "Gần nghĩa, nhưng thiên về <b>lời khuyên chuyên môn</b> hơn là đề nghị." },
+                { "w": "My suggestion would be…", "vi": "đề xuất của tôi là…", "ex": "My suggestion would be to wait a week.", "exvi": "Đề xuất của tôi là chờ một tuần.", "note": "Dạng danh từ — sau nó LẠI có <i>to V</i>." },
+                { "w": "if I may suggest", "vi": "nếu tôi được phép đề nghị", "ex": "If I may suggest, we could start smaller.", "exvi": "Nếu tôi được phép đề nghị, mình có thể bắt đầu nhỏ hơn.", "note": "Rất trang trọng — chèn giữa câu để xin phép góp ý." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "That sounds sensible", "vi": "nghe hợp lý đấy", "ex": "That sounds sensible to me.", "exvi": "Tôi thấy hợp lý đấy.", "note": "Cách đồng ý chuyên nghiệp, không quá nhiệt tình." },
+                { "w": "Good suggestion", "vi": "đề xuất hay đấy", "ex": "Good suggestion — let's do that.", "exvi": "Đề xuất hay đấy — mình làm vậy đi." },
+                { "w": "I take your point, but…", "vi": "tôi hiểu ý anh/chị, nhưng…", "ex": "I take your point, but we're short on time.", "exvi": "Tôi hiểu ý anh/chị, nhưng mình thiếu thời gian.", "note": "Phản đối lịch sự — ghi nhận trước rồi mới nêu lý do." },
+                { "w": "Let's go with that", "vi": "mình chọn cách đó đi", "ex": "Let's go with that, then.", "exvi": "Vậy mình chọn cách đó đi." },
+                { "w": "I'm not sure that's feasible", "vi": "tôi không chắc khả thi", "ex": "I'm not sure that's feasible right now.", "exvi": "Tôi không chắc lúc này việc đó khả thi." },
+                { "w": "Can you expand on that?", "vi": "anh/chị nói rõ hơn được không?", "ex": "Can you expand on that a little?", "exvi": "Anh/chị nói rõ hơn một chút được không?", "note": "Mời người kia giải thích thêm thay vì bác bỏ ngay." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I suggest we postpone until Friday.",
+                  "vi": "Tôi đề nghị chúng ta hoãn đến thứ Sáu.",
+                  "note": "Đứng tên cho một phương án. Mạnh hơn <i>We could postpone</i> ở [Khung 36] — bạn chịu trách nhiệm về đề xuất này.",
+                  "open": { "en": "Given where we are —", "vi": "Với tình hình hiện tại —" },
+                  "reply": [
+                    { "them": "That sounds sensible.", "themvi": "Nghe hợp lý đấy.", "you": "I'll let the client know today.", "youvi": "Hôm nay tôi sẽ báo khách hàng." },
+                    { "them": "I take your point, but the client won't wait.", "themvi": "Tôi hiểu ý anh/chị, nhưng khách hàng không chờ đâu.", "you": "Then I'd suggest delivering it in two parts.", "youvi": "Vậy tôi đề nghị giao làm hai phần." }
+                  ],
+                  "close": { "en": "I'll write up both options.", "vi": "Tôi sẽ soạn cả hai phương án ra." }
+                },
+                {
+                  "en": "I'd suggest checking with finance first.",
+                  "vi": "Tôi đề nghị hỏi bên tài chính trước.",
+                  "note": "Thêm <b>'d</b> là mềm hẳn — an toàn khi bạn góp ý cho việc không thuộc quyền mình.",
+                  "reply": [
+                    { "them": "Good suggestion. Who's the contact?", "themvi": "Đề xuất hay. Đầu mối là ai?", "you": "Hoa handles budget queries.", "youvi": "Chị Hoa phụ trách các câu hỏi về ngân sách." }
+                  ],
+                  "vars": [
+                    { "en": "I'd suggest getting a second opinion.", "vi": "Tôi khuyên nên hỏi thêm ý kiến khác." }
+                  ]
+                },
+                {
+                  "en": "May I suggest an alternative?",
+                  "vi": "Tôi xin phép đề xuất một phương án khác ạ?",
+                  "note": "Xin phép trước khi góp ý — rất lịch thiệp khi trong phòng có cấp trên hoặc khách hàng.",
+                  "reply": [
+                    { "them": "Please do.", "themvi": "Mời anh/chị.", "you": "We could run a pilot before committing.", "youvi": "Mình có thể chạy thử trước khi cam kết ạ." }
+                  ]
+                },
+                {
+                  "en": "I suggest that he take the lead on this.",
+                  "vi": "Tôi đề nghị anh ấy dẫn dắt việc này.",
+                  "note": "CẤU TRÚC GIẢ ĐỊNH: <b>take</b> chứ không phải <i>takes</i> — động từ giữ nguyên dạng gốc sau <i>suggest that</i>.",
+                  "reply": [
+                    { "them": "Does he have the capacity?", "themvi": "Anh ấy có đủ thời gian không?", "you": "If we move the audit, yes.", "youvi": "Nếu dời việc kiểm toán thì có ạ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I'd suggest the larger size, to be honest.",
+                  "vi": "Thật lòng thì tôi khuyên anh/chị lấy cỡ lớn hơn.",
+                  "note": "Nhân viên nói câu này nghe như chuyên gia tư vấn, không như người bán hàng cố đẩy hàng.",
+                  "reply": [
+                    { "them": "Why's that?", "themvi": "Vì sao vậy bạn?", "you": "This fabric shrinks a little after washing.", "youvi": "Vải này giặt xong co lại một chút ạ." }
+                  ]
+                },
+                {
+                  "en": "I'd suggest booking well in advance.",
+                  "vi": "Tôi khuyên nên đặt trước thật sớm.",
+                  "reply": [
+                    { "them": "How far in advance?", "themvi": "Trước bao lâu ạ?", "you": "At least two weeks for weekends.", "youvi": "Cuối tuần thì ít nhất hai tuần ạ." }
+                  ]
+                },
+                {
+                  "en": "I suggest keeping the receipt for the warranty.",
+                  "vi": "Tôi đề nghị giữ lại biên lai để bảo hành.",
+                  "reply": [
+                    { "them": "For how long?", "themvi": "Giữ bao lâu ạ?", "you": "Two years from today.", "youvi": "Hai năm kể từ hôm nay ạ." }
+                  ]
+                },
+                {
+                  "en": "What do you suggest for a first-time buyer?",
+                  "vi": "Với người mua lần đầu thì bạn đề nghị loại nào ạ?",
+                  "note": "Chuyền quyền đề xuất sang nhân viên — cách nhanh nhất để nhận được tư vấn thật.",
+                  "reply": [
+                    { "them": "I'd suggest this one — it's the easiest to use.", "themvi": "Em đề nghị cái này ạ — dễ dùng nhất.", "you": "And the price difference?", "youvi": "Còn chênh giá bao nhiêu ạ?" }
+                  ],
+                  "close": { "en": "That's helpful, thank you.", "vi": "Hữu ích lắm, cảm ơn bạn." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I'd suggest leaving an hour earlier.",
+                  "vi": "Tôi đề nghị đi sớm hơn một tiếng.",
+                  "reply": [
+                    { "them": "Is the traffic that bad?", "themvi": "Kẹt xe dữ vậy à?", "you": "On Fridays, yes.", "youvi": "Thứ Sáu thì có ạ." }
+                  ]
+                },
+                {
+                  "en": "I suggest taking the train rather than driving.",
+                  "vi": "Tôi đề nghị đi tàu thay vì lái xe.",
+                  "note": "<span class=\"k\">rather than + V-ing</span> — cách nêu phương án bị loại bỏ, rất gọn.",
+                  "reply": [
+                    { "them": "Is it much slower?", "themvi": "Có chậm hơn nhiều không?", "you": "Twenty minutes, but no parking stress.", "youvi": "Hai mươi phút, nhưng khỏi lo chỗ đậu xe." }
+                  ]
+                },
+                {
+                  "en": "I'd suggest getting travel insurance.",
+                  "vi": "Tôi khuyên nên mua bảo hiểm du lịch.",
+                  "reply": [
+                    { "them": "Is it really necessary?", "themvi": "Có thật sự cần không ạ?", "you": "For this trip, I'd say yes.", "youvi": "Với chuyến này thì tôi nghĩ là có." }
+                  ]
+                },
+                {
+                  "en": "What do you suggest we see if we only have one day?",
+                  "vi": "Nếu chỉ có một ngày thì bạn đề nghị nên xem gì ạ?",
+                  "reply": [
+                    { "them": "The old quarter in the morning, museum after lunch.", "themvi": "Sáng đi phố cổ, chiều đi bảo tàng ạ.", "you": "That sounds perfect. Thank you.", "youvi": "Nghe hợp lý quá. Cảm ơn bạn." }
+                  ],
+                  "close": { "en": "I'll follow your suggestion.", "vi": "Tôi sẽ làm theo gợi ý của bạn." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "What would you suggest?",
+                  "vi": "Bạn gợi ý món nào ạ?",
+                  "note": "Câu nhanh nhất để gọi được món ngon ở quán lạ — nhân viên biết rõ món nào đáng gọi.",
+                  "reply": [
+                    { "them": "The grilled fish is our signature dish.", "themvi": "Món cá nướng là món đặc trưng của quán ạ.", "you": "I'll have that, thank you.", "youvi": "Cho tôi món đó, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "I'd suggest sharing — the portions are big.",
+                  "vi": "Tôi đề nghị gọi ăn chung — phần ăn to lắm.",
+                  "reply": [
+                    { "them": "Good to know. Two mains between three?", "themvi": "May mà biết. Ba người gọi hai món chính nhé?", "you": "That should be plenty.", "youvi": "Chắc là thừa đấy." }
+                  ]
+                },
+                {
+                  "en": "I suggest booking a table for Saturday.",
+                  "vi": "Tôi đề nghị đặt bàn cho thứ Bảy.",
+                  "reply": [
+                    { "them": "Do they take bookings?", "themvi": "Quán có nhận đặt bàn không?", "you": "Online only, apparently.", "youvi": "Hình như chỉ đặt trực tuyến." }
+                  ]
+                },
+                {
+                  "en": "I'd suggest trying it before you add salt.",
+                  "vi": "Tôi đề nghị nếm thử trước khi cho thêm muối.",
+                  "note": "Lời khuyên nhẹ nhàng — không ai thấy bị dạy bảo.",
+                  "reply": [
+                    { "them": "Fair point. It might already be seasoned.", "themvi": "Đúng đấy. Có khi đã nêm sẵn rồi.", "you": "It usually is here.", "youvi": "Ở đây thường là vậy." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I suggest sleeping on it before you decide.",
+                  "vi": "Tôi đề nghị để qua đêm rồi hãy quyết.",
+                  "note": "<span class=\"k\">sleep on it</span> = để qua đêm suy nghĩ. Lời khuyên rất được lòng người đang phân vân.",
+                  "reply": [
+                    { "them": "You're probably right.", "themvi": "Chắc bạn nói đúng.", "you": "No decision is better than a rushed one.", "youvi": "Chưa quyết còn hơn quyết vội." }
+                  ]
+                },
+                {
+                  "en": "I'd suggest talking to her directly.",
+                  "vi": "Tôi đề nghị nói chuyện thẳng với cô ấy.",
+                  "reply": [
+                    { "them": "I don't know how to start.", "themvi": "Mình không biết bắt đầu thế nào.", "you": "I suggest keeping it simple — just ask.", "youvi": "Mình đề nghị giữ cho đơn giản — cứ hỏi thôi." }
+                  ]
+                },
+                {
+                  "en": "As I suggested earlier, we should leave earlier.",
+                  "vi": "Như tôi đã đề nghị lúc nãy, mình nên đi sớm hơn.",
+                  "note": "Nhắc lại ý cũ mà không nghe như đang trách ai không chịu nghe.",
+                  "reply": [
+                    { "them": "You did say that. Let's go now.", "themvi": "Bạn có nói vậy thật. Mình đi luôn đi.", "you": "We'll still make it.", "youvi": "Vẫn kịp mà." }
+                  ]
+                },
+                {
+                  "en": "What do you suggest I do?",
+                  "vi": "Bạn đề nghị mình nên làm gì?",
+                  "note": "Hỏi xin lời khuyên một cách trực tiếp — chú ý không có <i>to</i> sau <i>suggest I</i>.",
+                  "reply": [
+                    { "them": "Honestly? I'd wait a few days.", "themvi": "Thật lòng à? Mình sẽ chờ vài ngày.", "you": "That's what I was thinking too.", "youvi": "Mình cũng nghĩ vậy." }
+                  ],
+                  "close": { "en": "Thanks — that helps.", "vi": "Cảm ơn bạn — vậy là mình rõ hơn." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Đề nghị hoãn dự án trong cuộc họp",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Given where we are, I suggest we postpone until Friday.", "vi": "Với tình hình hiện tại, tôi đề nghị chúng ta hoãn đến thứ Sáu." },
+            { "speaker": "Director", "en": "The client is expecting it tomorrow.", "vi": "Khách hàng đang chờ vào ngày mai." },
+            { "speaker": "You", "me": true, "en": "I take your point. Then I'd suggest delivering it in two parts.", "vi": "Tôi hiểu ý anh/chị. Vậy tôi đề nghị giao làm hai phần." },
+            { "speaker": "Director", "en": "Explain what you mean.", "vi": "Nói rõ hơn xem." },
+            { "speaker": "You", "me": true, "en": "The summary tomorrow, the full report Friday. May I suggest we ask them first?", "vi": "Bản tóm tắt ngày mai, báo cáo đầy đủ thứ Sáu. Tôi xin phép đề nghị hỏi ý họ trước ạ?" },
+            { "speaker": "Director", "en": "Good suggestion. Call them this afternoon.", "vi": "Đề xuất hay. Chiều nay gọi cho họ." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Xin tư vấn khi mua hàng",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "What would you suggest for a first-time buyer?", "vi": "Với người mua lần đầu thì bạn đề nghị loại nào ạ?" },
+            { "speaker": "Staff", "en": "I'd suggest this one — it's the easiest to use.", "vi": "Em đề nghị cái này ạ — dễ dùng nhất." },
+            { "speaker": "You", "me": true, "en": "And what do you suggest I avoid?", "vi": "Còn bạn đề nghị tôi nên tránh loại nào?" },
+            { "speaker": "Staff", "en": "The cheapest model — people return it a lot.", "vi": "Mẫu rẻ nhất ạ — nhiều người trả lại lắm." },
+            { "speaker": "You", "me": true, "en": "That's useful. I suggest we go with your recommendation.", "vi": "Thông tin hữu ích đấy. Tôi nghĩ mình làm theo gợi ý của bạn." },
+            { "speaker": "Staff", "en": "I'd suggest keeping the receipt, just in case.", "vi": "Em đề nghị giữ lại biên lai, phòng khi cần ạ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I suggest you to wait.", "right": "I suggest you wait. / I suggest waiting.", "why": "KHÔNG dùng <b>to V</b> sau <i>suggest</i>. Đây là lỗi phổ biến nhất, do nhầm với <i>advise you to</i>." },
+            { "wrong": "I suggest that he goes first.", "right": "I suggest that he go first.", "why": "Cấu trúc giả định: động từ <b>giữ nguyên dạng gốc</b>, không thêm <i>-s</i>. (Dạng <i>goes</i> vẫn gặp trong Anh-Anh đời thường nhưng không chuẩn trong văn viết.)" },
+            { "wrong": "I suggest to wait.", "right": "I suggest waiting.", "why": "Sau <i>suggest</i> là <b>V-ing</b>, không phải <i>to V</i>." },
+            { "wrong": "I suggest we get lunch. <i>(nói với bạn thân)</i>", "right": "How about lunch?", "why": "Quá trang trọng cho trò chuyện đời thường — nghe cứng và xa cách. Dùng [Khung 33]." },
+            { "wrong": "I suggest don't sending it.", "right": "I suggest not sending it.", "why": "Phủ định là <b>not</b> đứng trước V-ing, không dùng <i>don't</i>." },
+            { "wrong": "My suggestion would be waiting.", "right": "My suggestion would be to wait.", "why": "Dạng DANH TỪ <i>suggestion</i> thì LẠI đi với <b>to V</b> — ngược với động từ <i>suggest</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I suggest + V-ing</code>", "Đề nghị chuyên nghiệp — bạn đứng tên", "<i>I suggest waiting.</i>"],
+            ["<code>I'd suggest + V-ing</code>", "Mềm hơn — gợi ý cá nhân", "<i>I'd suggest waiting.</i>"],
+            ["<code>I'd recommend + V-ing</code>", "Lời khuyên chuyên môn", "<i>I'd recommend waiting.</i>"],
+            ["<code>I advise you to + V</code>", "Khuyên chính thức — CÓ <i>to</i>", "<i>I advise you to wait.</i>"],
+            ["<code>We could + V</code>", "Chỉ là một khả năng", "<i>We could wait.</i> — Xem [Khung 36]."],
+            ["<code>You should + V</code>", "Khuyên thẳng, đời thường hơn", "<i>You should wait.</i> — Xem [Khung 38]."],
+            ["<code>It might be a good idea to + V</code>", "Rất nhã — không nhắm vào ai", "<i>It might be a good idea to wait.</i> — Xem [Khung 39]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang trang trọng — khuyên ai đó chờ thêm" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "How about waiting?", "vi": "Nhẹ nhất — đời thường" },
+            { "en": "We could wait.", "vi": "Nêu khả năng" },
+            { "en": "I'd suggest waiting.", "vi": "Gợi ý cá nhân — chuyên nghiệp" },
+            { "en": "I suggest we wait.", "vi": "Đề nghị chính thức — đứng tên" },
+            { "en": "It is suggested that the date be moved.", "vi": "Trang trọng nhất — văn bản" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>suggest</b> = /səˈdʒest/ — trọng âm ở âm tiết <b>thứ hai</b>: sə-<b>JEST</b>. Nhấn sai vào đầu là nghe rất lạ.",
+            "Hai chữ <b>gg</b> đọc là /dʒ/ — âm “j”, không phải “g” cứng.",
+            "<b>I suggest</b> → “ai-sə-JEST”, cả cụm nói liền.",
+            "<b>I'd suggest</b> → “aid-sə-JEST” — âm /d/ rất nhẹ nhưng có, và nó thay đổi sắc thái nên đừng nuốt mất.",
+            "<b>suggestion</b> = /səˈdʒestʃən/ — bốn âm tiết, vẫn nhấn ở <i>-ges-</i>.",
+            "Trọng âm câu rơi vào <b>suggest</b> và vào V-ing theo sau: <i>I su</i><b>GGEST</b> <b>WAIT</b>-<i>ing.</i>"
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'd suggest checking with finance first.", "vi": "Luyện shadowing: nhấn đúng vào “-gest”, đừng nhấn vào “su-”." },
+            { "en": "May I suggest an alternative?", "vi": "Câu xin phép góp ý — lặp 5 lần cho trôi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi đề nghị chờ đến khi có số liệu.", "blank": "__________ until the numbers are in.", "a": "I suggest waiting (V-ing, không phải “to wait”)" },
+            { "vi": "Tôi đề nghị anh ấy dẫn dắt việc này.", "blank": "I suggest that he __________ the lead.", "a": "take (không phải “takes”)" },
+            { "vi": "Tôi xin phép đề xuất một phương án khác ạ?", "blank": "__________ an alternative?", "a": "May I suggest" },
+            { "vi": "Tôi đề nghị chưa gửi cho đến thứ Hai.", "blank": "I suggest __________ it until Monday.", "a": "not sending" },
+            { "vi": "Anh/chị đề nghị mình xử lý thế nào ạ?", "blank": "__________ we do about it?", "a": "What do you suggest" },
+            { "vi": "Đề xuất của tôi là chờ một tuần.", "blank": "My suggestion would be __________ a week.", "a": "to wait (danh từ thì LẠI có “to”)" },
+            { "vi": "Như tôi đã đề nghị lúc nãy, mình nên chờ.", "blank": "__________, we should wait.", "a": "As I suggested earlier" },
+            { "vi": "Tôi hiểu ý anh/chị, nhưng mình thiếu thời gian.", "blank": "__________, but we're short on time.", "a": "I take your point" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi đề nghị chúng ta hoãn đến thứ Sáu.", "a": "I suggest we postpone until Friday." },
+            { "vi": "2. Tôi đề nghị hỏi bên tài chính trước.", "a": "I'd suggest checking with finance first." },
+            { "vi": "3. Tôi đề nghị để qua đêm rồi hãy quyết.", "a": "I suggest sleeping on it before you decide." },
+            { "vi": "4. Tôi khuyên nên đặt trước thật sớm.", "a": "I'd suggest booking well in advance." },
+            { "vi": "5. Bạn đề nghị mình nên làm gì?", "a": "What do you suggest I do?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Dùng dạng V-ing cho an toàn:</b> <i>I suggest waiting</i> tránh được hoàn toàn cấu trúc giả định mà vẫn đúng ở mọi bối cảnh.",
+            "<b>Khắc vào đầu: không có “to”.</b> <i>I suggest you wait</i>, không phải <i>I suggest you to wait</i>. Đây là lỗi bám dai nhất.",
+            "<b>Thêm 'd khi bạn không phải người quyết:</b> <i>I'd suggest…</i> nghe như gợi ý cá nhân, không như kiến nghị chính thức.",
+            "<b>Xin phép trước khi góp ý với cấp trên:</b> <i>May I suggest…?</i> — hai chữ đầu thay đổi hẳn không khí.",
+            "<b>Đừng dùng với bạn bè:</b> nghe cứng và xa cách. Đời thường thì dùng <i>How about…?</i> ở [Khung 33].",
+            "<b>Bài tập 3 phút:</b> lấy 5 ý kiến bạn từng nêu trong họp, viết lại mỗi ý ba lần — bằng <i>We could…</i>, <i>I'd suggest…</i> và <i>I suggest we…</i> — rồi so độ nặng của từng câu."
+          ]
+        }
+      ]
+    }
+  ]
+}

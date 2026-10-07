@@ -1,0 +1,504 @@
+{
+  "id": 76,
+  "group": "Nhóm 8 · Giới thiệu & Xã giao",
+  "title": "How's it going? — Chào hỏi, không phải hỏi thật",
+  "subtitle": "Câu mở đầu mọi cuộc trò chuyện tiếng Anh, và cũng là nơi người Việt hay xử lý sai nhất. Đây không phải một câu hỏi thật — nó là lời chào. Trả lời quá chi tiết sẽ khiến người kia lúng túng, còn đáp bằng công thức sách giáo khoa cũ thì nghe như máy.",
+  "pattern": [
+    "How's it going?",
+    "How are you doing?",
+    "You alright? <em>(Anh-Anh)</em>"
+  ],
+  "meaning": "Dạo này sao rồi? / Khỏe không?",
+  "grammar": [2, 55],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Là lời chào, không phải câu hỏi" },
+    { "text": "Trình độ: A1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">How's it going?</span> nhìn thì giống câu hỏi, nhưng thực chất nó là <b>lời chào</b>. Người hỏi không chờ nghe bạn kể về tuần vừa rồi — họ chờ một câu đáp ngắn rồi hỏi lại." },
+        { "t": "p", "html": "Đây là điểm khác biệt văn hóa quan trọng. Người Việt thường trả lời thật lòng và chi tiết, khiến người bản xứ lúng túng vì họ chỉ đang chào. Câu đáp đúng dài <b>hai đến bốn từ</b>, rồi hỏi ngược lại." },
+        { "t": "p", "html": "Cũng cần bỏ công thức sách giáo khoa cũ <i>I'm fine, thank you. And you?</i> — nó đúng ngữ pháp nhưng nghe cứng và máy móc. Người bản xứ nói <b>Good, thanks</b>, <b>Not bad</b>, hoặc <b>Yeah, good</b>." },
+        { "t": "callout", "html": "<b>BẪY ANH-ANH quan trọng:</b> ở Anh, <span class=\"k\">You alright?</span> hay <span class=\"k\">Alright?</span> KHÔNG phải hỏi bạn có ổn không — nó chỉ là <b>“chào”</b>. Cách đáp đúng là lặp lại: <i>Alright?</i> hoặc <i>Yeah, you?</i>" },
+        { "t": "h3", "text": "Đáp thế nào cho tự nhiên" },
+        {
+          "t": "table",
+          "head": ["Câu chào", "Đáp tự nhiên", "Đáp nghe máy móc"],
+          "rows": [
+            ["<code>How's it going?</code>", "<code>Good, thanks. You?</code>", "<i>I am going well.</i> ✗"],
+            ["<code>How are you?</code>", "<code>Not bad, thanks.</code>", "<i>I'm fine, thank you.</i> ⚠"],
+            ["<code>You alright?</code>", "<code>Yeah, you?</code>", "<i>Yes, I am alright.</i> ✗"],
+            ["<code>How's things?</code>", "<code>Busy, but good.</code>", "<i>Things are good.</i> ⚠"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Luôn hỏi ngược lại.</b> Đáp xong mà không hỏi lại thì cuộc trò chuyện đứt ngay. Thêm <b>You?</b> hoặc <b>And you?</b> ở cuối — chỉ một từ nhưng giữ cho mạch nói chuyện tiếp tục." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "👋", "title": "Chào đồng nghiệp mỗi sáng", "text": "Bối cảnh số 1. <i>Morning — how's it going?</i>" },
+            { "icon": "☕", "title": "Gặp bạn bè", "text": "<i>Hey, how are you doing?</i> Thân mật, ấm áp." },
+            { "icon": "📞", "title": "Mở đầu cuộc gọi", "text": "<i>Hi Nam, how's it going?</i> Trước khi vào việc." },
+            { "icon": "🇬🇧", "title": "Ở Anh", "text": "<i>You alright?</i> Chỉ là lời chào — đáp lại tương tự." },
+            { "icon": "🕰", "title": "Lâu không gặp", "text": "<i>How've you been?</i> Lúc này mới là hỏi thật. Xem [Khung 77]." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn thật sự muốn hỏi thăm sức khỏe ai đó ốm. Ở đó hỏi cụ thể hơn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Phổ biến nhất", "<code>How's it going?</code>", "Hey, how's it going?"],
+            ["Kiểu Anh-Mỹ", "<code>How are you doing?</code>", "How are you doing?"],
+            ["Chuẩn mực", "<code>How are you?</code>", "How are you today?"],
+            ["Rất Anh-Anh", "<code>You alright?</code>", "Alright, Nam?"],
+            ["Thân mật", "<code>How's things?</code>", "How's things?"],
+            ["Lâu không gặp", "<code>How've you been?</code>", "How've you been?"],
+            ["Trang trọng", "<code>I hope you're well.</code>", "I hope you're well."],
+            ["Hỏi về việc cụ thể", "<code>How's the + N + going?</code>", "How's the project going?"],
+            ["Đáp + hỏi lại", "<code>Good, thanks. You?</code>", "Good, thanks. You?"],
+            ["Đáp khiêm tốn", "<code>Not bad, thanks.</code>", "Not bad, thanks."]
+          ]
+        },
+        { "t": "callout", "html": "<b>“I hope you're well” là chuẩn mực mở đầu email</b> trong tiếng Anh công sở. Nó không chờ trả lời — chỉ là một câu lịch sự trước khi vào nội dung chính." },
+        { "t": "callout", "html": "<b>Thêm danh từ để hỏi việc cụ thể:</b> <i>How's the <b>project</b> going?</i> / <i>How's the <b>new job</b> going?</i> Lúc này mới là câu hỏi thật và người ta sẽ trả lời chi tiết." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các cách chào hỏi",
+              "items": [
+                { "w": "How's it going?", "vi": "dạo này sao rồi?", "ex": "Hey, how's it going?", "exvi": "Này, dạo này sao rồi?", "note": "Là LỜI CHÀO, không phải câu hỏi thật. Đáp ngắn rồi hỏi lại." },
+                { "w": "How are you doing?", "vi": "bạn thế nào?", "ex": "How are you doing today?", "exvi": "Hôm nay bạn thế nào?", "note": "Mang màu Anh-Mỹ, rất phổ biến." },
+                { "w": "How are you?", "vi": "bạn khỏe không?", "ex": "How are you?", "exvi": "Bạn khỏe không?", "note": "Chuẩn mực, dùng được mọi nơi kể cả trang trọng." },
+                { "w": "You alright?", "vi": "chào (Anh-Anh)", "ex": "Alright, Nam?", "exvi": "Chào Nam.", "note": "BẪY: ở Anh đây CHỈ LÀ LỜI CHÀO. Đáp lại bằng <i>Alright?</i> hoặc <i>Yeah, you?</i>" },
+                { "w": "How's things?", "vi": "mọi chuyện sao rồi?", "ex": "How's things?", "exvi": "Mọi chuyện sao rồi?", "note": "Thân mật. Về ngữ pháp là <i>how are things</i>, nhưng người bản xứ nói vậy." },
+                { "w": "How've you been?", "vi": "dạo này bạn thế nào?", "ex": "How've you been?", "exvi": "Dạo này bạn thế nào?", "note": "Dùng khi LÂU không gặp — lúc này mới là hỏi thật. Xem [Khung 77]." },
+                { "w": "What's up?", "vi": "có gì mới không?", "ex": "Hey, what's up?", "exvi": "Này, có gì mới không?", "note": "Rất thân mật, Anh-Mỹ. Đáp lại: <i>Not much, you?</i>" },
+                { "w": "How's the project going?", "vi": "dự án tiến triển thế nào?", "ex": "How's the project going?", "exvi": "Dự án tiến triển thế nào rồi?", "note": "Thêm danh từ thì thành CÂU HỎI THẬT — người ta sẽ trả lời chi tiết." },
+                { "w": "I hope you're well", "vi": "mong anh/chị vẫn khỏe", "ex": "I hope you're well.", "exvi": "Mong anh/chị vẫn khỏe.", "note": "Chuẩn mực mở đầu EMAIL công việc — không chờ trả lời." },
+                { "w": "Morning!", "vi": "chào buổi sáng!", "ex": "Morning, Mai!", "exvi": "Chào buổi sáng, Mai!", "note": "Rút gọn của <i>Good morning</i> — thân mật và rất phổ biến ở công sở." },
+                { "w": "Good to see you", "vi": "vui được gặp", "ex": "Good to see you.", "exvi": "Vui được gặp bạn. Xem [Khung 72]." },
+                { "w": "How's your day been?", "vi": "hôm nay của bạn thế nào?", "ex": "How's your day been?", "exvi": "Hôm nay của bạn thế nào?", "note": "Hỏi cụ thể hơn — thường dùng vào buổi chiều tối." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại tự nhiên",
+              "items": [
+                { "w": "Good, thanks. You?", "vi": "tốt, cảm ơn. Còn bạn?", "ex": "Good, thanks. You?", "exvi": "Tốt, cảm ơn. Còn bạn?", "note": "Câu đáp TỰ NHIÊN NHẤT — ngắn và luôn hỏi ngược lại." },
+                { "w": "Not bad, thanks", "vi": "cũng không tệ, cảm ơn", "ex": "Not bad, thanks. And you?", "exvi": "Cũng không tệ, cảm ơn. Còn bạn?", "note": "Rất Anh — khiêm tốn, nghĩa thật là “khá ổn”." },
+                { "w": "Yeah, good", "vi": "ừ, ổn", "ex": "Yeah, good. You?", "exvi": "Ừ, ổn. Còn bạn?", "note": "Thân mật nhất — chỉ dùng với bạn bè và đồng nghiệp thân." },
+                { "w": "Busy, but good", "vi": "bận, nhưng ổn", "ex": "Busy, but good.", "exvi": "Bận, nhưng ổn.", "note": "Câu đáp chuẩn mực ở công sở — thật lòng mà vẫn tích cực." },
+                { "w": "Can't complain", "vi": "chẳng có gì để phàn nàn", "ex": "Can't complain, thanks.", "exvi": "Chẳng có gì để phàn nàn, cảm ơn.", "note": "Thành ngữ khiêm tốn rất Anh — nghĩa là mọi thứ ổn." },
+                { "w": "Surviving", "vi": "vẫn sống sót", "ex": "Surviving! You?", "exvi": "Vẫn sống sót! Còn bạn?", "note": "Dí dỏm — ngụ ý bận rộn hoặc mệt nhưng không than." },
+                { "w": "Same old", "vi": "vẫn vậy thôi", "ex": "Same old, same old.", "exvi": "Vẫn vậy thôi.", "note": "Nghĩa là mọi thứ không có gì mới — thân mật." },
+                { "w": "All good", "vi": "mọi thứ ổn cả", "ex": "All good, thanks.", "exvi": "Mọi thứ ổn cả, cảm ơn." },
+                { "w": "Not too bad", "vi": "cũng không tệ lắm", "ex": "Not too bad, considering.", "exvi": "Cũng không tệ lắm, xét mọi thứ." },
+                { "w": "Getting there", "vi": "cũng đang dần ổn", "ex": "Getting there, slowly.", "exvi": "Cũng đang dần ổn, từ từ thôi.", "note": "Dùng khi bạn đang vượt qua một giai đoạn khó — thành thật mà không nặng nề." },
+                { "w": "Been better", "vi": "cũng từng khá hơn", "ex": "Been better, to be honest.", "exvi": "Thật lòng thì cũng từng khá hơn.", "note": "Tín hiệu nhẹ rằng bạn đang không ổn — người kia sẽ hỏi tiếp nếu muốn." },
+                { "w": "Not much, you?", "vi": "không có gì mới, còn bạn?", "ex": "Not much, you?", "exvi": "Không có gì mới, còn bạn?", "note": "Đáp cho <i>What's up?</i> — đừng kể lể, chỉ đáp ngắn." }
+              ]
+            },
+            {
+              "title": "Nối tiếp câu chuyện",
+              "items": [
+                { "w": "And you?", "vi": "còn bạn?", "ex": "Good, thanks. And you?", "exvi": "Tốt, cảm ơn. Còn bạn?", "note": "BẮT BUỘC hỏi ngược lại — không hỏi lại là cuộc trò chuyện đứt ngay." },
+                { "w": "How about you?", "vi": "còn bạn thì sao?", "ex": "How about you?", "exvi": "Còn bạn thì sao?" },
+                { "w": "Busy week?", "vi": "tuần này bận không?", "ex": "Busy week?", "exvi": "Tuần này bận không?", "note": "Câu hỏi tiếp tự nhiên ở công sở." },
+                { "w": "Any plans for the weekend?", "vi": "cuối tuần có kế hoạch gì không?", "ex": "Any plans for the weekend?", "exvi": "Cuối tuần bạn có kế hoạch gì không?", "note": "Chủ đề xã giao an toàn nhất — ai cũng có gì đó để nói." },
+                { "w": "How's the family?", "vi": "gia đình thế nào?", "ex": "How's the family?", "exvi": "Gia đình bạn thế nào?" },
+                { "w": "What have you been up to?", "vi": "dạo này bạn làm gì?", "ex": "What have you been up to?", "exvi": "Dạo này bạn làm gì vậy?", "note": "Dùng khi lâu không gặp. Nghe nhẹ hơn <i>What have you been doing?</i>" },
+                { "w": "Glad to hear it", "vi": "nghe vậy mừng quá", "ex": "Glad to hear it.", "exvi": "Nghe vậy mừng quá." },
+                { "w": "Sorry to hear that", "vi": "tiếc khi nghe vậy", "ex": "Sorry to hear that.", "exvi": "Tiếc khi nghe vậy.", "note": "Đáp lại khi người kia nói điều không vui — câu cảm thông chuẩn mực." },
+                { "w": "Anything I can do?", "vi": "tôi giúp được gì không?", "ex": "Anything I can do?", "exvi": "Mình giúp được gì không?" },
+                { "w": "Right, shall we start?", "vi": "được rồi, mình bắt đầu nhé?", "ex": "Right, shall we start?", "exvi": "Được rồi, mình bắt đầu nhé?", "note": "Cách chuyển từ xã giao sang công việc — rất tự nhiên trong họp." },
+                { "w": "Anyway", "vi": "dù sao thì", "ex": "Anyway, how can I help?", "exvi": "Dù sao thì, tôi giúp gì được ạ?", "note": "Từ chuyển mạch — báo hiệu phần xã giao kết thúc." },
+                { "w": "Let's catch up properly", "vi": "mình hẹn nhau kể chuyện tử tế", "ex": "Let's catch up properly soon.", "exvi": "Hôm nào mình hẹn nhau kể chuyện tử tế." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Morning — how's it going?",
+                  "vi": "Chào buổi sáng — dạo này sao rồi?",
+                  "note": "Câu chào đồng nghiệp chuẩn mực mỗi sáng. Đây là LỜI CHÀO, không chờ câu trả lời dài.",
+                  "open": { "en": "Morning!", "vi": "Chào buổi sáng!" },
+                  "reply": [
+                    { "them": "Busy, but good. You?", "themvi": "Bận, nhưng ổn. Còn anh/chị?", "you": "Same here. Busy week?", "youvi": "Tôi cũng vậy. Tuần này bận không?" },
+                    { "them": "Can't complain, thanks.", "themvi": "Chẳng có gì để phàn nàn, cảm ơn.", "you": "Glad to hear it.", "youvi": "Nghe vậy mừng quá." }
+                  ],
+                  "close": { "en": "Right, shall we start?", "vi": "Được rồi, mình bắt đầu nhé?" }
+                },
+                {
+                  "en": "How's the project going?",
+                  "vi": "Dự án tiến triển thế nào rồi?",
+                  "note": "Thêm danh từ thì thành CÂU HỎI THẬT — lúc này người ta sẽ trả lời chi tiết.",
+                  "reply": [
+                    { "them": "Getting there, slowly.", "themvi": "Cũng đang dần ổn, từ từ thôi.", "you": "Anything I can do?", "youvi": "Tôi giúp được gì không?" }
+                  ],
+                  "vars": [
+                    { "en": "How's the new job going?", "vi": "Công việc mới thế nào rồi?" }
+                  ]
+                },
+                {
+                  "en": "I hope you're well.",
+                  "vi": "Mong anh/chị vẫn khỏe.",
+                  "note": "Chuẩn mực mở đầu EMAIL công việc — không chờ trả lời, chỉ là câu lịch sự trước khi vào việc.",
+                  "reply": [
+                    { "them": "Thank you — and you.", "themvi": "Cảm ơn anh/chị — anh/chị cũng vậy.", "you": "I'm writing about the invoice.", "youvi": "Tôi viết về chuyện hóa đơn." }
+                  ]
+                },
+                {
+                  "en": "Hi Nam, how's it going? Have you got a minute?",
+                  "vi": "Chào Nam, dạo này sao rồi? Anh/chị rảnh một phút không?",
+                  "note": "Ghép lời chào với lý do gọi — cách mở đầu cuộc gọi công việc rất tự nhiên.",
+                  "reply": [
+                    { "them": "All good. What's up?", "themvi": "Ổn cả. Có chuyện gì?", "you": "Quick question about Friday.", "youvi": "Một câu hỏi nhanh về thứ Sáu." }
+                  ],
+                  "close": { "en": "Thanks, that's all I needed.", "vi": "Cảm ơn, vậy là đủ rồi." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Hey, how are you doing?",
+                  "vi": "Này, bạn thế nào rồi?",
+                  "note": "Thân mật và ấm áp — dùng với bạn bè. Đáp lại nên ngắn rồi hỏi ngược.",
+                  "reply": [
+                    { "them": "Yeah, good. You?", "themvi": "Ừ, ổn. Còn bạn?", "you": "Same old. Any plans this weekend?", "youvi": "Vẫn vậy thôi. Cuối tuần có kế hoạch gì không?" },
+                    { "them": "Been better, to be honest.", "themvi": "Thật lòng thì cũng từng khá hơn.", "you": "Sorry to hear that. Want to talk?", "youvi": "Tiếc khi nghe vậy. Muốn nói chuyện không?" }
+                  ],
+                  "close": { "en": "Let's catch up properly soon.", "vi": "Hôm nào mình hẹn nhau kể chuyện tử tế." }
+                },
+                {
+                  "en": "Alright, Nam?",
+                  "vi": "Chào Nam.",
+                  "note": "BẪY ANH-ANH: đây CHỈ LÀ LỜI CHÀO, không phải hỏi bạn có ổn không. Đáp lại bằng chính nó.",
+                  "reply": [
+                    { "them": "Alright? You good?", "themvi": "Chào. Bạn ổn chứ?", "you": "Yeah, not bad.", "youvi": "Ừ, cũng không tệ." }
+                  ],
+                  "vars": [
+                    { "en": "You alright?", "vi": "Chào bạn." }
+                  ]
+                },
+                {
+                  "en": "What's up?",
+                  "vi": "Có gì mới không?",
+                  "note": "Rất thân mật, mang màu Anh-Mỹ. Đáp ngắn <i>Not much</i> — đừng kể lể.",
+                  "reply": [
+                    { "them": "Not much, you?", "themvi": "Không có gì mới, còn bạn?", "you": "Same. Fancy a coffee?", "youvi": "Cũng vậy. Làm ly cà phê không?" }
+                  ]
+                },
+                {
+                  "en": "How's your day been?",
+                  "vi": "Hôm nay của bạn thế nào?",
+                  "note": "Hỏi cụ thể hơn và thường dùng vào buổi chiều tối — đây là câu hỏi thật.",
+                  "reply": [
+                    { "them": "Long. Yours?", "themvi": "Dài lắm. Còn bạn?", "you": "Same. Let's not talk about work.", "youvi": "Cũng vậy. Thôi đừng nói chuyện công việc." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Hi! How's it going?",
+                  "vi": "Chào! Dạo này sao rồi?",
+                  "reply": [
+                    { "them": "Good, thanks. Table for two?", "themvi": "Tốt ạ, cảm ơn. Bàn cho hai người ạ?", "you": "Please, by the window if possible.", "youvi": "Vâng, cạnh cửa sổ nếu được." }
+                  ]
+                },
+                {
+                  "en": "Good to see you — how've you been?",
+                  "vi": "Vui được gặp lại — dạo này bạn thế nào?",
+                  "note": "<b>How've you been?</b> dùng khi LÂU không gặp — lúc này mới là hỏi thật. Xem [Khung 77].",
+                  "reply": [
+                    { "them": "Busy, but good. You?", "themvi": "Bận, nhưng ổn. Còn bạn?", "you": "Surviving!", "youvi": "Vẫn sống sót!" }
+                  ],
+                  "close": { "en": "Shall we order?", "vi": "Mình gọi món nhé?" }
+                },
+                {
+                  "en": "Everything alright with the food?",
+                  "vi": "Đồ ăn có ổn không ạ?",
+                  "note": "Nhân viên hỏi giữa bữa — đây là câu hỏi THẬT, nên trả lời thật lòng.",
+                  "reply": [
+                    { "them": "Lovely, thank you.", "themvi": "Ngon lắm, cảm ơn em.", "you": "Glad to hear it.", "youvi": "Nghe vậy em mừng ạ." }
+                  ],
+                  "vars": [
+                    { "en": "How is everything?", "vi": "Mọi thứ ổn chứ ạ?" }
+                  ]
+                },
+                {
+                  "en": "Same old, same old.",
+                  "vi": "Vẫn vậy thôi.",
+                  "note": "Nghĩa là mọi thứ không có gì mới — thân mật và hơi dí dỏm.",
+                  "reply": [
+                    { "them": "Nothing exciting then?", "themvi": "Vậy là chẳng có gì hay ho à?", "you": "Nothing I'd bore you with.", "youvi": "Chẳng có gì đáng làm phiền bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Hi there, how are you today?",
+                  "vi": "Chào anh/chị, hôm nay anh/chị thế nào ạ?",
+                  "note": "Câu chào chuẩn mực của nhân viên bán hàng — đáp ngắn rồi vào việc.",
+                  "reply": [
+                    { "them": "Good, thanks. Just looking.", "themvi": "Tốt, cảm ơn. Tôi chỉ xem thôi.", "you": "No problem — shout if you need anything.", "youvi": "Không sao ạ — cần gì anh/chị cứ gọi." }
+                  ],
+                  "close": { "en": "Enjoy your day.", "vi": "Chúc anh/chị một ngày tốt lành." }
+                },
+                {
+                  "en": "Alright? What can I get you?",
+                  "vi": "Chào anh/chị. Anh/chị dùng gì ạ?",
+                  "note": "Rất Anh-Anh — <i>Alright?</i> ở đây chỉ là chào, rồi vào việc ngay.",
+                  "reply": [
+                    { "them": "A flat white, please.", "themvi": "Cho tôi một ly flat white.", "you": "Coming right up.", "youvi": "Có ngay ạ." }
+                  ]
+                },
+                {
+                  "en": "How's it going? Busy day?",
+                  "vi": "Dạo này sao rồi? Hôm nay đông khách không?",
+                  "note": "Hỏi thăm nhân viên — một cử chỉ nhỏ khiến họ nhớ bạn.",
+                  "reply": [
+                    { "them": "Non-stop since ten!", "themvi": "Từ mười giờ đến giờ không nghỉ!", "you": "Hope it quietens down.", "youvi": "Mong lát nữa vắng hơn." }
+                  ],
+                  "vars": [
+                    { "en": "How's your day going?", "vi": "Hôm nay của em thế nào?" }
+                  ]
+                },
+                {
+                  "en": "Not bad, thanks. And yourself?",
+                  "vi": "Cũng không tệ, cảm ơn. Còn em?",
+                  "note": "<i>yourself</i> thay cho <i>you</i> là cách nói lịch sự và hơi trang trọng, rất phổ biến ở Anh.",
+                  "reply": [
+                    { "them": "Can't complain!", "themvi": "Chẳng có gì để phàn nàn!", "you": "Long may it last.", "youvi": "Mong được vậy mãi." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Hi, how's it going? Is this seat taken?",
+                  "vi": "Chào, dạo này sao rồi? Ghế này có ai ngồi chưa?",
+                  "note": "Ghép lời chào với lý do — cách bắt chuyện với người lạ tự nhiên nhất.",
+                  "reply": [
+                    { "them": "All yours.", "themvi": "Ghế trống đấy.", "you": "Thanks. Long journey ahead?", "youvi": "Cảm ơn. Chặng đường dài không?" }
+                  ],
+                  "close": { "en": "Safe travels.", "vi": "Chúc đi đường bình an." }
+                },
+                {
+                  "en": "How's your trip been so far?",
+                  "vi": "Chuyến đi của bạn đến giờ thế nào?",
+                  "note": "Câu hỏi THẬT — người ta sẽ trả lời chi tiết, nên hãy sẵn sàng nghe.",
+                  "reply": [
+                    { "them": "Better than expected, actually.", "themvi": "Thật ra tốt hơn mong đợi.", "you": "What's been the highlight?", "youvi": "Điểm nhấn là gì vậy?" }
+                  ]
+                },
+                {
+                  "en": "Good morning — how are you today?",
+                  "vi": "Chào buổi sáng — hôm nay anh/chị thế nào ạ?",
+                  "reply": [
+                    { "them": "A bit tired, but good.", "themvi": "Hơi mệt, nhưng ổn.", "you": "Long flight?", "youvi": "Chuyến bay dài ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "Morning! How are you?", "vi": "Chào buổi sáng! Anh/chị khỏe không?" }
+                  ]
+                },
+                {
+                  "en": "Surviving! You?",
+                  "vi": "Vẫn sống sót! Còn bạn?",
+                  "note": "Dí dỏm — ngụ ý bạn đang mệt hoặc bận nhưng không muốn than phiền.",
+                  "reply": [
+                    { "them": "Just about!", "themvi": "Cũng vừa đủ thôi!", "you": "Two more hours and we're there.", "youvi": "Hai tiếng nữa là tới." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Chào đồng nghiệp đầu ngày làm việc",
+          "lines": [
+            { "speaker": "Colleague", "en": "Morning! How's it going?", "vi": "Chào buổi sáng! Dạo này sao rồi?" },
+            { "speaker": "You", "me": true, "en": "Busy, but good. You?", "vi": "Bận, nhưng ổn. Còn anh/chị?" },
+            { "speaker": "Colleague", "en": "Can't complain. Busy week?", "vi": "Chẳng có gì để phàn nàn. Tuần này bận không?" },
+            { "speaker": "You", "me": true, "en": "Non-stop, honestly. How's the project going?", "vi": "Thật lòng là không ngơi tay. Dự án tiến triển thế nào?" },
+            { "speaker": "Colleague", "en": "Getting there, slowly.", "vi": "Cũng đang dần ổn, từ từ thôi." },
+            { "speaker": "You", "me": true, "en": "Anything I can do? Right, shall we start?", "vi": "Tôi giúp được gì không? Được rồi, mình bắt đầu nhé?" }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Gặp bạn ở quán cà phê",
+          "lines": [
+            { "speaker": "Friend", "en": "Alright? How've you been?", "vi": "Chào. Dạo này bạn thế nào?" },
+            { "speaker": "You", "me": true, "en": "Yeah, not bad. Same old. You?", "vi": "Ừ, cũng không tệ. Vẫn vậy thôi. Còn bạn?" },
+            { "speaker": "Friend", "en": "Been better, to be honest.", "vi": "Thật lòng thì cũng từng khá hơn." },
+            { "speaker": "You", "me": true, "en": "Sorry to hear that. Anything I can do?", "vi": "Tiếc khi nghe vậy. Mình giúp được gì không?" },
+            { "speaker": "Friend", "en": "Just work stuff. It'll pass.", "vi": "Chuyện công việc thôi. Rồi sẽ qua." },
+            { "speaker": "You", "me": true, "en": "Let's catch up properly this weekend.", "vi": "Cuối tuần mình hẹn nhau kể chuyện tử tế nhé." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "“How's it going?” — “I am going to the office.”", "right": "Good, thanks. You?", "why": "BẪY SỐ MỘT. Đây là LỜI CHÀO, không hỏi bạn đang đi đâu. Đáp ngắn rồi hỏi lại." },
+            { "wrong": "“How are you?” — <i>rồi kể chi tiết cả tuần</i>", "right": "Not bad, thanks. And you?", "why": "Câu đáp đúng dài <b>hai đến bốn từ</b>. Kể chi tiết khiến người bản xứ lúng túng vì họ chỉ đang chào." },
+            { "wrong": "“You alright?” — “Yes, I am alright, thank you.”", "right": "Yeah, you?", "why": "BẪY ANH-ANH. <i>Alright?</i> chỉ là “chào” — đáp lại bằng chính nó hoặc một câu rất ngắn." },
+            { "wrong": "Good, thanks. <i>(rồi im lặng)</i>", "right": "Good, thanks. You?", "why": "Không hỏi ngược lại là cuộc trò chuyện đứt ngay. Thêm <b>You?</b> — chỉ một từ." },
+            { "wrong": "“How do you do?” <i>(dùng như lời chào hằng ngày)</i>", "right": "How's it going?", "why": "<i>How do you do?</i> chỉ dùng khi gặp LẦN ĐẦU và rất trang trọng. Xem [Khung 72]." },
+            { "wrong": "I'm fine, thank you. And you? <i>(với bạn bè)</i>", "right": "Yeah, good. You?", "why": "Không sai nhưng là công thức sách giáo khoa cũ — nghe cứng và máy móc trong hội thoại thật." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu", "Là gì", "Cách đáp"],
+          "rows": [
+            ["<code>How's it going?</code>", "Lời chào", "<i>Good, thanks. You?</i>"],
+            ["<code>You alright?</code>", "Lời chào (Anh-Anh)", "<i>Yeah, you?</i>"],
+            ["<code>What's up?</code>", "Lời chào (Anh-Mỹ)", "<i>Not much, you?</i>"],
+            ["<code>How've you been?</code>", "Hỏi thật — khi lâu không gặp", "Trả lời chi tiết hơn. Xem [Khung 77]."],
+            ["<code>How's the project going?</code>", "Hỏi thật về việc cụ thể", "Trả lời chi tiết."],
+            ["<code>How do you do?</code>", "Chào lần đầu, rất trang trọng", "Lặp lại chính nó. Xem [Khung 72]."],
+            ["<code>I hope you're well.</code>", "Mở đầu email", "Không cần đáp."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — trả lời “How are you?”" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Been better, to be honest.", "vi": "Tín hiệu bạn đang không ổn" },
+            { "en": "Surviving!", "vi": "Mệt nhưng nói dí dỏm" },
+            { "en": "Not bad, thanks.", "vi": "Khiêm tốn — nghĩa thật là khá ổn" },
+            { "en": "Good, thanks. You?", "vi": "Chuẩn mực, tự nhiên nhất" },
+            { "en": "Really good, actually!", "vi": "Tích cực rõ rệt" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>How's it going</b> nói nhanh dính thành <b>“hau-zit-GO-in”</b> — ba từ đầu nhập làm một.",
+            "Đuôi <b>-ing</b> trong hội thoại thân mật thường đọc là <b>/ɪn/</b>: <i>goin'</i> thay vì <i>going</i>.",
+            "<b>How are you</b> → “hau-wə-yu” hoặc gọn hơn nữa là <b>“ha-yu”</b> khi nói rất nhanh.",
+            "<b>You alright</b> → “yə-RAIT” — chữ <i>you</i> lướt gần như biến mất, chỉ còn <i>alright</i>.",
+            "<b>Trọng âm rơi vào GO-ing hoặc RIGHT</b> — phần đầu câu nói lướt rất nhanh.",
+            "<b>Giọng đi lên ở cuối</b> — đây là lời chào thân thiện, nói giọng phẳng nghe như thủ tục."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Morning — how's it going?", "vi": "Luyện shadowing: “hau-zit-GO-in”, lên giọng ở cuối." },
+            { "en": "Not bad, thanks. And you?", "vi": "Tập đáp gọn trong một hơi rồi hỏi lại ngay." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Dạo này sao rồi?", "blank": "__________?", "a": "How's it going" },
+            { "vi": "Tốt, cảm ơn. Còn bạn?", "blank": "Good, thanks. __________?", "a": "You / And you" },
+            { "vi": "Cũng không tệ, cảm ơn.", "blank": "__________, thanks.", "a": "Not bad" },
+            { "vi": "Chẳng có gì để phàn nàn.", "blank": "__________, thanks.", "a": "Can't complain" },
+            { "vi": "Dạo này bạn thế nào? (lâu không gặp)", "blank": "__________?", "a": "How've you been" },
+            { "vi": "Dự án tiến triển thế nào rồi?", "blank": "How's __________?", "a": "the project going" },
+            { "vi": "Mong anh/chị vẫn khỏe. (email)", "blank": "__________.", "a": "I hope you're well" },
+            { "vi": "Cũng đang dần ổn, từ từ thôi.", "blank": "__________, slowly.", "a": "Getting there" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Chào buổi sáng — dạo này sao rồi?", "a": "Morning — how's it going?" },
+            { "vi": "2. Bận, nhưng ổn. Còn anh/chị?", "a": "Busy, but good. You?" },
+            { "vi": "3. Dự án tiến triển thế nào rồi?", "a": "How's the project going?" },
+            { "vi": "4. Thật lòng thì cũng từng khá hơn.", "a": "Been better, to be honest." },
+            { "vi": "5. Vui được gặp lại — dạo này bạn thế nào?", "a": "Good to see you — how've you been?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Nhớ đây là lời chào, không phải câu hỏi.</b> Đáp trong <b>hai đến bốn từ</b> rồi hỏi ngược lại.",
+            "<b>Luôn thêm “You?” ở cuối</b> — không hỏi lại là cuộc trò chuyện đứt ngay lập tức.",
+            "<b>Bỏ công thức “I'm fine, thank you”</b> — dùng <i>Good, thanks</i> hoặc <i>Not bad, thanks</i> cho tự nhiên.",
+            "<b>Ở Anh, “Alright?” chỉ là chào</b> — đáp lại bằng chính nó, đừng giải thích bạn có ổn hay không.",
+            "<b>Thêm danh từ nếu muốn hỏi thật:</b> <i>How's the project going?</i> — lúc đó người ta mới trả lời chi tiết.",
+            "<b>Bài tập 3 phút:</b> viết năm câu đáp khác nhau cho <i>How are you?</i>, mỗi câu dưới bốn từ và đều có câu hỏi ngược."
+          ]
+        }
+      ]
+    }
+  ]
+}

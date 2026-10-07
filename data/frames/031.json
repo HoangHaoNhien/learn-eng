@@ -1,0 +1,1122 @@
+{
+  "id": 31,
+  "group": "Nhóm 4 · Đề nghị & Rủ rê",
+  "title": "Let's… — Rủ cả nhóm cùng làm",
+  "subtitle": "Khung rủ rê cơ bản nhất. Điểm cốt lõi: “let's” là viết tắt của “let us”, nên nó luôn bao gồm cả bạn — bạn không sai bảo ai, bạn đang rủ cùng làm. Nhưng chính vì thế mà khi sếp nói “Let's…”, nó thường không phải lời rủ mà là một chỉ đạo lịch sự.",
+  "pattern": [
+    "Let's <em>+ V (không “to”)</em>",
+    "Let's not <em>+ V</em>",
+    "Let's <em>+ V</em>, shall we?"
+  ],
+  "meaning": "Chúng ta hãy… / Mình… đi",
+  "grammar": [27, 44],
+  "tags": [
+    {
+      "text": "Tần suất: rất cao",
+      "hot": true
+    },
+    {
+      "text": "Độ lịch sự: 3/5"
+    },
+    {
+      "text": "Luôn bao gồm người nói"
+    },
+    {
+      "text": "Trình độ: A1–A2"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "<span class=\"k\">Let's</span> = <b>let us</b>. Nghĩa đen là “hãy để chúng ta…”, nên người nói <b>luôn nằm trong nhóm làm việc đó</b>. Đây là điểm phân biệt quan trọng nhất với [Khung 20]: <i>Let me check</i> là một mình tôi, <i>Let's check</i> là chúng ta cùng."
+        },
+        {
+          "t": "p",
+          "html": "Vì bao gồm cả bạn, khung này nghe <b>đồng đội</b> chứ không phải ra lệnh. Nói <i>Let's finish this by five</i> khác hẳn <i>Finish this by five</i> — dù kết quả mong muốn giống nhau, câu đầu khiến người nghe thấy mình cùng phe với bạn."
+        },
+        {
+          "t": "p",
+          "html": "Nhưng có một mặt trái cần biết: khi <b>người có quyền</b> nói <i>Let's…</i>, nó thường không phải lời đề nghị mà là <b>chỉ đạo được bọc mềm</b>. <i>Let's move the deadline</i> từ miệng sếp gần như luôn có nghĩa là quyết định đã xong. Hiểu điều này giúp bạn không trả lời hớ."
+        },
+        {
+          "t": "callout",
+          "html": "<b>Bẫy ngữ pháp:</b> sau <i>let's</i> là <b>động từ nguyên thể KHÔNG “to”</b>. <span class=\"k\">Let's go.</span> ✓ — <i>Let's to go.</i> ✗ — <i>Let's going.</i> ✗"
+        },
+        {
+          "t": "h3",
+          "text": "Ai là người làm việc đó?"
+        },
+        {
+          "t": "table",
+          "head": [
+            "Câu",
+            "Ai làm",
+            "Sắc thái"
+          ],
+          "rows": [
+            [
+              "<code>Let me check.</code>",
+              "Một mình tôi",
+              "Tôi nhận việc — xem [Khung 20]"
+            ],
+            [
+              "<code>Let's check.</code>",
+              "Chúng ta cùng",
+              "Rủ rê, đồng đội"
+            ],
+            [
+              "<code>You check.</code>",
+              "Một mình bạn",
+              "Ra lệnh"
+            ],
+            [
+              "<code>Shall we check?</code>",
+              "Chúng ta cùng",
+              "Hỏi ý — mềm hơn <i>Let's</i>"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            {
+              "icon": "🍽",
+              "title": "Rủ đi ăn, đi chơi",
+              "text": "Bối cảnh số 1. <i>Let's grab lunch.</i> Ngắn gọn, thân thiện."
+            },
+            {
+              "icon": "🏁",
+              "title": "Chốt lại cuộc họp",
+              "text": "<i>Let's wrap up here.</i> Kết thúc mà không cắt lời ai."
+            },
+            {
+              "icon": "🤝",
+              "title": "Đề xuất hướng giải quyết",
+              "text": "<i>Let's try it your way first.</i> Nhường bước mà vẫn dẫn dắt."
+            },
+            {
+              "icon": "⏸",
+              "title": "Đề nghị tạm dừng",
+              "text": "<i>Let's come back to this tomorrow.</i>"
+            },
+            {
+              "icon": "🚫",
+              "title": "Ngăn cả nhóm làm gì",
+              "text": "<i>Let's not rush this.</i> Dạng phủ định rất hữu dụng."
+            },
+            {
+              "icon": "⚠️",
+              "title": "Cẩn thận khi…",
+              "text": "Bạn là người có quyền — <i>Let's</i> của bạn sẽ được hiểu là chỉ đạo, không phải đề nghị."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": [
+            "Dạng",
+            "Công thức",
+            "Ví dụ"
+          ],
+          "rows": [
+            [
+              "Cơ bản",
+              "<code>Let's + V</code>",
+              "Let's start at ten."
+            ],
+            [
+              "Phủ định",
+              "<code>Let's not + V</code>",
+              "Let's not rush this."
+            ],
+            [
+              "Thêm đuôi hỏi",
+              "<code>Let's + V, shall we?</code>",
+              "Let's begin, shall we?"
+            ],
+            [
+              "Giả sử",
+              "<code>Let's say + mệnh đề</code>",
+              "Let's say it takes two weeks."
+            ],
+            [
+              "Chờ xem",
+              "<code>Let's see</code>",
+              "Let's see what they say."
+            ],
+            [
+              "Tạm gác lại",
+              "<code>Let's leave it for now</code>",
+              "Let's leave it for now."
+            ],
+            [
+              "Đề nghị thử",
+              "<code>Let's try + V-ing</code>",
+              "Let's try doing it this way."
+            ],
+            [
+              "Rủ lịch sự hơn",
+              "<code>Shall we + V?</code>",
+              "Shall we start?"
+            ],
+            [
+              "Trả lời đồng ý",
+              "<code>Sure, let's do that.</code>",
+              "Sure, let's do that."
+            ],
+            [
+              "Trả lời từ chối",
+              "<code>Actually, could we…?</code>",
+              "Actually, could we wait a bit?"
+            ]
+          ]
+        },
+        {
+          "t": "callout",
+          "html": "<b>Dạng phủ định rất hay bị bỏ quên:</b> <span class=\"k\">Let's not + V</span> — ngăn cả nhóm mà không chỉ trích ai. <i>Let's not decide today</i> nhẹ hơn hẳn <i>Don't decide today</i>. Đây là công cụ rất mạnh trong họp."
+        },
+        {
+          "t": "callout",
+          "html": "<b>Đừng nhầm với “Lets”:</b> khi viết phải có dấu lược <b>let's</b>. Viết <i>lets</i> là động từ <i>let</i> chia ngôi thứ ba — nghĩa hoàn toàn khác."
+        }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy."
+        },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “Let's…”",
+              "items": [
+                {
+                  "w": "go",
+                  "vi": "đi",
+                  "ex": "Let's go — we're going to be late.",
+                  "exvi": "Đi thôi — mình sắp muộn rồi."
+                },
+                {
+                  "w": "start",
+                  "vi": "bắt đầu",
+                  "ex": "Let's start at ten sharp.",
+                  "exvi": "Mình bắt đầu đúng mười giờ nhé.",
+                  "note": "<i>ten sharp</i> = đúng mười giờ, không sai một phút."
+                },
+                {
+                  "w": "grab lunch",
+                  "vi": "đi ăn trưa",
+                  "ex": "Let's grab lunch after this.",
+                  "exvi": "Xong cái này mình đi ăn trưa nhé.",
+                  "note": "<i>grab</i> rất thân mật — chỉ dùng với người đã quen."
+                },
+                {
+                  "w": "meet",
+                  "vi": "gặp nhau",
+                  "ex": "Let's meet at the café instead.",
+                  "exvi": "Hay mình gặp ở quán cà phê đi."
+                },
+                {
+                  "w": "wrap up",
+                  "vi": "kết thúc, chốt lại",
+                  "ex": "Let's wrap up here — we're over time.",
+                  "exvi": "Mình chốt ở đây nhé — quá giờ rồi.",
+                  "note": "Cụm rất chuyên nghiệp để kết thúc cuộc họp."
+                },
+                {
+                  "w": "keep it simple",
+                  "vi": "giữ cho đơn giản",
+                  "ex": "Let's keep it simple for now.",
+                  "exvi": "Tạm thời mình cứ giữ đơn giản đã."
+                },
+                {
+                  "w": "try",
+                  "vi": "thử",
+                  "ex": "Let's try it your way first.",
+                  "exvi": "Mình thử cách của bạn trước đi."
+                },
+                {
+                  "w": "wait",
+                  "vi": "chờ",
+                  "ex": "Let's wait until we have the numbers.",
+                  "exvi": "Mình chờ đến khi có số liệu đã."
+                },
+                {
+                  "w": "talk about",
+                  "vi": "bàn về",
+                  "ex": "Let's talk about this tomorrow.",
+                  "exvi": "Chuyện này mai mình bàn nhé."
+                },
+                {
+                  "w": "split it",
+                  "vi": "chia đôi",
+                  "ex": "Let's split it — it's easier.",
+                  "exvi": "Mình chia đôi đi — cho dễ."
+                },
+                {
+                  "w": "book it",
+                  "vi": "đặt chỗ",
+                  "ex": "Let's book it before it fills up.",
+                  "exvi": "Mình đặt trước khi hết chỗ đi."
+                },
+                {
+                  "w": "take a break",
+                  "vi": "nghỉ giải lao",
+                  "ex": "Let's take a ten-minute break.",
+                  "exvi": "Mình nghỉ mười phút nhé."
+                },
+                {
+                  "w": "move on",
+                  "vi": "sang phần tiếp theo",
+                  "ex": "Let's move on to the next item.",
+                  "exvi": "Mình sang mục tiếp theo nhé."
+                },
+                {
+                  "w": "get started",
+                  "vi": "bắt tay vào làm",
+                  "ex": "Right, let's get started.",
+                  "exvi": "Được rồi, bắt tay vào làm thôi."
+                },
+                {
+                  "w": "catch up",
+                  "vi": "gặp nhau nói chuyện",
+                  "ex": "Let's catch up properly next week.",
+                  "exvi": "Tuần sau mình ngồi nói chuyện tử tế nhé."
+                },
+                {
+                  "w": "call it a day",
+                  "vi": "nghỉ, dừng ở đây",
+                  "ex": "It's late — let's call it a day.",
+                  "exvi": "Muộn rồi — mình dừng ở đây thôi.",
+                  "note": "Thành ngữ: kết thúc công việc trong ngày."
+                },
+                {
+                  "w": "agree on",
+                  "vi": "thống nhất về",
+                  "ex": "Let's agree on a date now.",
+                  "exvi": "Mình chốt ngày luôn đi."
+                },
+                {
+                  "w": "do it",
+                  "vi": "làm đi",
+                  "ex": "OK, let's do it.",
+                  "exvi": "Được, làm thôi.",
+                  "note": "Câu chốt quyết định ngắn gọn nhất."
+                },
+                {
+                  "w": "see",
+                  "vi": "xem sao",
+                  "ex": "Let's see what they say first.",
+                  "exvi": "Mình xem họ nói gì đã."
+                },
+                {
+                  "w": "stay in touch",
+                  "vi": "giữ liên lạc",
+                  "ex": "Let's stay in touch.",
+                  "exvi": "Mình giữ liên lạc nhé.",
+                  "note": "Câu chia tay ấm áp, dùng rất nhiều."
+                }
+              ]
+            },
+            {
+              "title": "Dạng phủ định & cụm cố định",
+              "items": [
+                {
+                  "w": "Let's not rush",
+                  "vi": "mình đừng vội",
+                  "ex": "Let's not rush this decision.",
+                  "exvi": "Quyết định này mình đừng vội.",
+                  "note": "Ngăn cả nhóm mà không chỉ trích ai — rất mạnh trong họp."
+                },
+                {
+                  "w": "Let's not decide today",
+                  "vi": "hôm nay mình chưa quyết",
+                  "ex": "Let's not decide today — let's sleep on it.",
+                  "exvi": "Hôm nay mình chưa quyết — để nghĩ qua đêm đã.",
+                  "note": "<i>sleep on it</i> = để qua đêm suy nghĩ."
+                },
+                {
+                  "w": "Let's not get ahead of ourselves",
+                  "vi": "mình đừng đi quá xa",
+                  "ex": "Let's not get ahead of ourselves.",
+                  "exvi": "Mình đừng vội tính quá xa.",
+                  "note": "Cụm rất hay khi cả nhóm đang phấn khích quá mức."
+                },
+                {
+                  "w": "Let's say…",
+                  "vi": "giả sử là…",
+                  "ex": "Let's say it takes two weeks — then what?",
+                  "exvi": "Giả sử mất hai tuần — rồi sao nữa?",
+                  "note": "Dùng để đặt giả thiết trong thảo luận."
+                },
+                {
+                  "w": "Let's see",
+                  "vi": "để xem nào",
+                  "ex": "Let's see what they come back with.",
+                  "exvi": "Xem họ phản hồi thế nào đã."
+                },
+                {
+                  "w": "Let's leave it there",
+                  "vi": "mình dừng ở đây",
+                  "ex": "Let's leave it there for today.",
+                  "exvi": "Hôm nay mình dừng ở đây nhé.",
+                  "note": "Cách kết thúc một cuộc bàn luận đang bế tắc."
+                },
+                {
+                  "w": "Let's face it",
+                  "vi": "phải thừa nhận là",
+                  "ex": "Let's face it — we're not going to finish today.",
+                  "exvi": "Phải thừa nhận là — hôm nay mình không xong được đâu.",
+                  "note": "Cụm mở đầu một sự thật khó chịu mà cả nhóm đều biết."
+                },
+                {
+                  "w": "Let's be honest",
+                  "vi": "nói thật thì",
+                  "ex": "Let's be honest — the first version was better.",
+                  "exvi": "Nói thật thì — bản đầu tiên tốt hơn."
+                },
+                {
+                  "w": "Let's hope",
+                  "vi": "mong là",
+                  "ex": "Let's hope it works this time.",
+                  "exvi": "Mong là lần này chạy được.",
+                  "note": "Xem thêm [Khung 07]."
+                },
+                {
+                  "w": "Let's put it this way",
+                  "vi": "nói thế này nhé",
+                  "ex": "Let's put it this way — it needs a lot of work.",
+                  "exvi": "Nói thế này nhé — nó cần sửa rất nhiều.",
+                  "note": "Dùng để nói một điều tiêu cực một cách khéo léo."
+                }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                {
+                  "w": "Sure, let's do that",
+                  "vi": "được, làm vậy đi",
+                  "ex": "Sure, let's do that.",
+                  "exvi": "Được, mình làm vậy đi."
+                },
+                {
+                  "w": "Sounds good",
+                  "vi": "nghe được đấy",
+                  "ex": "Sounds good to me.",
+                  "exvi": "Mình thấy ổn đấy.",
+                  "note": "Câu đồng ý phổ biến nhất trong công việc."
+                },
+                {
+                  "w": "I'm in",
+                  "vi": "mình tham gia",
+                  "ex": "Drinks on Friday? I'm in.",
+                  "exvi": "Thứ Sáu đi uống? Mình tham gia.",
+                  "note": "Rất thân mật — chỉ dùng với bạn bè."
+                },
+                {
+                  "w": "Actually, could we…?",
+                  "vi": "thật ra, mình… được không?",
+                  "ex": "Actually, could we make it Thursday?",
+                  "exvi": "Thật ra mình dời sang thứ Năm được không?",
+                  "note": "Từ chối nhẹ kèm phương án khác."
+                },
+                {
+                  "w": "Let's not, actually",
+                  "vi": "thật ra thì thôi",
+                  "ex": "Let's not, actually — I'm exhausted.",
+                  "exvi": "Thật ra thôi đi — mình mệt lắm rồi.",
+                  "note": "Từ chối bằng chính cấu trúc đó — nghe rất tự nhiên."
+                },
+                {
+                  "w": "Shall we?",
+                  "vi": "mình đi nhé?",
+                  "ex": "Ready? Shall we?",
+                  "exvi": "Sẵn sàng chưa? Mình đi nhé?",
+                  "note": "Đuôi hỏi lịch sự, cũng dùng độc lập được."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết."
+        },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Let's wrap up here — we're over time.",
+                  "vi": "Mình chốt ở đây nhé — quá giờ rồi.",
+                  "note": "<span class=\"k\">wrap up</span> = kết thúc. Cách dừng cuộc họp mà không cắt lời ai — vì bạn viện dẫn đồng hồ, không phải người nói.",
+                  "reply": [
+                    {
+                      "them": "Can I just add one thing?",
+                      "themvi": "Cho em bổ sung một ý được không ạ?",
+                      "you": "Quickly, then let's wrap up.",
+                      "youvi": "Nhanh nhé, rồi mình chốt."
+                    },
+                    {
+                      "them": "Sounds good. Same time next week?",
+                      "themvi": "Được đấy. Tuần sau cùng giờ nhé?",
+                      "you": "Same time. I'll send the notes.",
+                      "youvi": "Cùng giờ. Tôi sẽ gửi biên bản."
+                    }
+                  ],
+                  "close": {
+                    "en": "Thanks everyone.",
+                    "vi": "Cảm ơn mọi người."
+                  }
+                },
+                {
+                  "en": "Let's not rush this decision.",
+                  "vi": "Quyết định này mình đừng vội.",
+                  "note": "Dạng phủ định — ngăn cả nhóm mà không chỉ trích ai. Mạnh hơn nhiều so với nói thẳng “đừng quyết vội”.",
+                  "reply": [
+                    {
+                      "them": "But the client wants an answer today.",
+                      "themvi": "Nhưng khách hàng muốn có câu trả lời hôm nay.",
+                      "you": "Then let's give them a partial answer.",
+                      "youvi": "Vậy mình trả lời một phần trước đi."
+                    }
+                  ],
+                  "vars": [
+                    {
+                      "en": "Let's not decide today — let's sleep on it.",
+                      "vi": "Hôm nay mình chưa quyết — để nghĩ qua đêm đã."
+                    }
+                  ]
+                },
+                {
+                  "en": "Let's try it your way first.",
+                  "vi": "Mình thử cách của bạn trước đi.",
+                  "note": "Nhường bước mà vẫn dẫn dắt — câu này giải tỏa rất nhiều bất đồng trong nhóm.",
+                  "reply": [
+                    {
+                      "them": "Really? You didn't seem convinced.",
+                      "themvi": "Thật à? Trông anh/chị có vẻ chưa tin lắm.",
+                      "you": "I'm not, but you might be right.",
+                      "youvi": "Đúng là chưa, nhưng có thể bạn đúng."
+                    }
+                  ],
+                  "close": {
+                    "en": "Let's review it in two weeks.",
+                    "vi": "Hai tuần nữa mình xem lại nhé."
+                  }
+                },
+                {
+                  "en": "Let's move on to the next item.",
+                  "vi": "Mình sang mục tiếp theo nhé.",
+                  "reply": [
+                    {
+                      "them": "We haven't finished this one.",
+                      "themvi": "Mục này mình chưa xong mà.",
+                      "you": "Let's park it and come back at the end.",
+                      "youvi": "Mình gác lại, cuối buổi quay lại nhé."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Let's grab lunch after this.",
+                  "vi": "Xong cái này mình đi ăn trưa nhé.",
+                  "note": "<i>grab</i> rất thân mật, ngụ ý ăn nhanh gọn. Với khách hàng thì nói <i>Shall we have lunch?</i>",
+                  "reply": [
+                    {
+                      "them": "Sounds good — where do you fancy?",
+                      "themvi": "Nghe được đấy — bạn thích ăn ở đâu?",
+                      "you": "Anywhere with air con.",
+                      "youvi": "Chỗ nào có điều hòa là được."
+                    }
+                  ],
+                  "vars": [
+                    {
+                      "en": "Let's get something quick.",
+                      "vi": "Mình ăn gì nhanh nhanh đi."
+                    }
+                  ]
+                },
+                {
+                  "en": "Let's split it — it's easier.",
+                  "vi": "Mình chia đôi đi — cho dễ.",
+                  "reply": [
+                    {
+                      "them": "Are you sure? You had less.",
+                      "themvi": "Bạn chắc chứ? Bạn ăn ít hơn mà.",
+                      "you": "It's fine, honestly.",
+                      "youvi": "Không sao đâu, thật đấy."
+                    }
+                  ]
+                },
+                {
+                  "en": "Let's book it before it fills up.",
+                  "vi": "Mình đặt trước khi hết chỗ đi.",
+                  "reply": [
+                    {
+                      "them": "Good call. What time?",
+                      "themvi": "Đúng đấy. Mấy giờ?",
+                      "you": "Seven, if they have it.",
+                      "youvi": "Bảy giờ, nếu còn chỗ."
+                    }
+                  ]
+                },
+                {
+                  "en": "Let's try that new place everyone's talking about.",
+                  "vi": "Mình thử quán mới mà ai cũng nhắc đi.",
+                  "reply": [
+                    {
+                      "them": "I've heard it's hard to get in.",
+                      "themvi": "Mình nghe nói khó đặt chỗ lắm.",
+                      "you": "Then let's book it now.",
+                      "youvi": "Vậy mình đặt luôn đi."
+                    }
+                  ],
+                  "close": {
+                    "en": "I'll text you the confirmation.",
+                    "vi": "Mình nhắn xác nhận cho bạn."
+                  }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "It's late — let's call it a day.",
+                  "vi": "Muộn rồi — mình dừng ở đây thôi.",
+                  "note": "<span class=\"k\">call it a day</span> = kết thúc công việc trong ngày. Thành ngữ rất tự nhiên.",
+                  "reply": [
+                    {
+                      "them": "Agreed. Same time tomorrow?",
+                      "themvi": "Đồng ý. Mai cùng giờ nhé?",
+                      "you": "Same time. Get some rest.",
+                      "youvi": "Cùng giờ. Nghỉ ngơi đi nhé."
+                    }
+                  ]
+                },
+                {
+                  "en": "Let's catch up properly next week.",
+                  "vi": "Tuần sau mình ngồi nói chuyện tử tế nhé.",
+                  "note": "<i>properly</i> ngụ ý lần này chỉ nói vội, lần sau sẽ dành thời gian đàng hoàng.",
+                  "reply": [
+                    {
+                      "them": "I'd love that. What day suits you?",
+                      "themvi": "Mình rất muốn. Bạn tiện hôm nào?",
+                      "you": "Thursday or Friday evening?",
+                      "youvi": "Tối thứ Năm hay thứ Sáu?"
+                    }
+                  ],
+                  "close": {
+                    "en": "Let's stay in touch.",
+                    "vi": "Mình giữ liên lạc nhé."
+                  }
+                },
+                {
+                  "en": "Let's not get ahead of ourselves.",
+                  "vi": "Mình đừng vội tính quá xa.",
+                  "note": "Cụm rất hay khi cả nhóm đang phấn khích và bắt đầu lên kế hoạch cho những thứ chưa chắc xảy ra.",
+                  "reply": [
+                    {
+                      "them": "You're right. One step at a time.",
+                      "themvi": "Bạn nói đúng. Từng bước một thôi.",
+                      "you": "Exactly. Let's see what happens first.",
+                      "youvi": "Chính xác. Xem chuyện gì xảy ra đã."
+                    }
+                  ]
+                },
+                {
+                  "en": "Let's say it takes two weeks — then what?",
+                  "vi": "Giả sử mất hai tuần — rồi sao nữa?",
+                  "note": "<span class=\"k\">Let's say…</span> đặt giả thiết để cùng suy nghĩ. Rất hữu ích khi bàn kế hoạch.",
+                  "reply": [
+                    {
+                      "them": "Then we'd need to push the trip back.",
+                      "themvi": "Vậy thì mình phải dời chuyến đi.",
+                      "you": "Right. So let's plan for three.",
+                      "youvi": "Đúng. Vậy mình cứ tính ba tuần đi."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Let's leave a bit earlier to be safe.",
+                  "vi": "Mình đi sớm chút cho chắc.",
+                  "reply": [
+                    {
+                      "them": "How early are we talking?",
+                      "themvi": "Sớm cỡ nào?",
+                      "you": "Half an hour should do it.",
+                      "youvi": "Nửa tiếng là đủ."
+                    }
+                  ]
+                },
+                {
+                  "en": "Let's take the train instead — it's less stressful.",
+                  "vi": "Hay mình đi tàu đi — đỡ căng thẳng hơn.",
+                  "reply": [
+                    {
+                      "them": "It's slower though.",
+                      "themvi": "Nhưng chậm hơn đấy.",
+                      "you": "By twenty minutes. Worth it.",
+                      "youvi": "Chậm hai mươi phút thôi. Đáng mà."
+                    }
+                  ]
+                },
+                {
+                  "en": "Let's meet at the station at six.",
+                  "vi": "Sáu giờ mình gặp ở nhà ga nhé.",
+                  "reply": [
+                    {
+                      "them": "Which entrance?",
+                      "themvi": "Cửa nào?",
+                      "you": "The main one, by the clock.",
+                      "youvi": "Cửa chính, chỗ cái đồng hồ."
+                    }
+                  ],
+                  "close": {
+                    "en": "Text me if you're running late.",
+                    "vi": "Muộn thì nhắn mình nhé."
+                  }
+                },
+                {
+                  "en": "Let's not book anything until the dates are confirmed.",
+                  "vi": "Chưa chốt ngày thì mình đừng đặt gì cả.",
+                  "reply": [
+                    {
+                      "them": "But prices are going up.",
+                      "themvi": "Nhưng giá đang tăng đấy.",
+                      "you": "Let's risk it — cancelling costs more.",
+                      "youvi": "Cứ liều đi — hủy còn tốn hơn."
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Let's compare prices before we buy.",
+                  "vi": "Mình so giá đã rồi hãy mua.",
+                  "reply": [
+                    {
+                      "them": "Good idea — I'll check online.",
+                      "themvi": "Ý hay — để mình xem trên mạng.",
+                      "you": "I'll ask if they price-match.",
+                      "youvi": "Mình hỏi xem họ có khớp giá không."
+                    }
+                  ]
+                },
+                {
+                  "en": "Let's just get the cheaper one.",
+                  "vi": "Mình lấy cái rẻ hơn đi.",
+                  "note": "<i>just</i> ở đây mang nghĩa “cho xong chuyện” — rất tự nhiên khi bạn không muốn cân nhắc thêm.",
+                  "reply": [
+                    {
+                      "them": "Will it last though?",
+                      "themvi": "Nhưng liệu có bền không?",
+                      "you": "For what we need, yes.",
+                      "youvi": "Với nhu cầu của mình thì đủ."
+                    }
+                  ]
+                },
+                {
+                  "en": "Let's come back when it's on sale.",
+                  "vi": "Đợi giảm giá mình quay lại đi.",
+                  "reply": [
+                    {
+                      "them": "When's the sale?",
+                      "themvi": "Khi nào giảm giá?",
+                      "you": "End of the month, apparently.",
+                      "youvi": "Hình như cuối tháng."
+                    }
+                  ]
+                },
+                {
+                  "en": "Let's ask someone — I can't find it anywhere.",
+                  "vi": "Mình hỏi ai đó đi — tìm mãi không thấy.",
+                  "reply": [
+                    {
+                      "them": "There's someone by the till.",
+                      "themvi": "Có người ở chỗ quầy thu ngân kìa.",
+                      "you": "I'll go and ask.",
+                      "youvi": "Để mình qua hỏi."
+                    }
+                  ],
+                  "close": {
+                    "en": "Let's meet back here in five.",
+                    "vi": "Năm phút nữa mình gặp lại ở đây nhé."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Chốt lại một cuộc họp đang kéo dài",
+          "lines": [
+            {
+              "speaker": "You",
+              "me": true,
+              "en": "We're over time — let's wrap up here.",
+              "vi": "Quá giờ rồi — mình chốt ở đây nhé."
+            },
+            {
+              "speaker": "Minh",
+              "en": "We haven't decided on the date though.",
+              "vi": "Nhưng mình chưa chốt ngày mà."
+            },
+            {
+              "speaker": "You",
+              "me": true,
+              "en": "Fair point. Let's agree on a date now, then finish.",
+              "vi": "Đúng đấy. Vậy mình chốt ngày luôn rồi kết thúc."
+            },
+            {
+              "speaker": "Minh",
+              "en": "The fifteenth works for me.",
+              "vi": "Ngày mười lăm thì em được."
+            },
+            {
+              "speaker": "You",
+              "me": true,
+              "en": "Fifteenth it is. And let's not reopen this by email.",
+              "vi": "Vậy ngày mười lăm. Với lại mình đừng mở lại chuyện này qua email nhé."
+            },
+            {
+              "speaker": "Minh",
+              "en": "Understood. I'll send the confirmation.",
+              "vi": "Em rõ rồi. Em sẽ gửi xác nhận."
+            }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Rủ đồng nghiệp đi ăn trưa",
+          "lines": [
+            {
+              "speaker": "You",
+              "me": true,
+              "en": "Let's grab lunch after this call.",
+              "vi": "Xong cuộc gọi này mình đi ăn trưa nhé."
+            },
+            {
+              "speaker": "Lan",
+              "en": "Sounds good. Where do you fancy?",
+              "vi": "Nghe được đấy. Bạn thích ăn ở đâu?"
+            },
+            {
+              "speaker": "You",
+              "me": true,
+              "en": "Let's try that noodle place everyone's talking about.",
+              "vi": "Mình thử quán mì mà ai cũng nhắc đi."
+            },
+            {
+              "speaker": "Lan",
+              "en": "It's usually packed at twelve.",
+              "vi": "Mười hai giờ chỗ đó thường đông lắm."
+            },
+            {
+              "speaker": "You",
+              "me": true,
+              "en": "Then let's go at half eleven — beat the rush.",
+              "vi": "Vậy mình đi lúc mười một rưỡi — tránh giờ cao điểm."
+            },
+            {
+              "speaker": "Lan",
+              "en": "Perfect. Let's meet downstairs.",
+              "vi": "Tuyệt. Mình gặp ở dưới nhà nhé."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            {
+              "wrong": "Let's to go.",
+              "right": "Let's go.",
+              "why": "Sau <b>let's</b> là động từ nguyên thể <b>không “to”</b>."
+            },
+            {
+              "wrong": "Let's going.",
+              "right": "Let's go.",
+              "why": "Không dùng V-ing. Luôn là động từ trần."
+            },
+            {
+              "wrong": "Let's don't rush.",
+              "right": "Let's not rush.",
+              "why": "Phủ định là <b>Let's not + V</b>, không phải <i>Let's don't</i>."
+            },
+            {
+              "wrong": "Let's me check.",
+              "right": "Let me check. / Let's check.",
+              "why": "<i>Let's</i> đã là <i>let us</i> rồi — không ghép thêm <i>me</i>. Xem [Khung 20]."
+            },
+            {
+              "wrong": "Lets go.",
+              "right": "Let's go.",
+              "why": "Khi viết phải có <b>dấu lược</b>. <i>lets</i> không dấu là động từ chia ngôi thứ ba."
+            },
+            {
+              "wrong": "Let's we start?",
+              "right": "Shall we start?",
+              "why": "Muốn hỏi thì dùng <b>Shall we…?</b>, không ghép <i>let's</i> với <i>we</i>."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": [
+            "Khung",
+            "Sắc thái",
+            "Ví dụ & lúc nào dùng"
+          ],
+          "rows": [
+            [
+              "<code>Let's + V</code>",
+              "Rủ cùng làm — bao gồm người nói",
+              "<i>Let's start.</i>"
+            ],
+            [
+              "<code>Let me + V</code>",
+              "Một mình tôi làm",
+              "<i>Let me start.</i> — Xem [Khung 20]."
+            ],
+            [
+              "<code>Shall we + V?</code>",
+              "Rủ dưới dạng câu hỏi — mềm hơn",
+              "<i>Shall we start?</i> — Xem [Khung 34]."
+            ],
+            [
+              "<code>Why don't we + V?</code>",
+              "Đề xuất dưới dạng câu hỏi",
+              "<i>Why don't we start?</i> — Xem [Khung 32]."
+            ],
+            [
+              "<code>How about + V-ing?</code>",
+              "Gợi ý nhẹ nhất",
+              "<i>How about starting now?</i> — Xem [Khung 33]."
+            ],
+            [
+              "<code>We could + V</code>",
+              "Nêu khả năng, không thúc ép",
+              "<i>We could start now.</i> — Xem [Khung 36]."
+            ],
+            [
+              "<code>We should + V</code>",
+              "Nên — có chút nghĩa vụ",
+              "<i>We should start now.</i>"
+            ]
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Thang mức độ thúc ép — rủ bắt đầu cuộc họp"
+        },
+        {
+          "t": "scale",
+          "items": [
+            {
+              "en": "How about we start?",
+              "vi": "Nhẹ nhất — chỉ gợi ý"
+            },
+            {
+              "en": "Why don't we start?",
+              "vi": "Nhẹ — dạng câu hỏi"
+            },
+            {
+              "en": "Shall we start?",
+              "vi": "Lịch sự — hỏi ý"
+            },
+            {
+              "en": "Let's start.",
+              "vi": "Rủ — hơi dẫn dắt"
+            },
+            {
+              "en": "We need to start now.",
+              "vi": "Mạnh nhất — gần như chỉ đạo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Let's</b> = /lets/ — một âm tiết. Âm /t/ và /s/ dính liền, đừng tách thành “let-sờ”.",
+            "<b>Let's go</b> → “let-SGOW” — âm /s/ trượt sang <i>go</i>, cả cụm như một từ.",
+            "<b>Let's not</b> → “lets-NOT”, nhấn mạnh vào <i>not</i> vì đó là phần mang nghĩa.",
+            "<b>Let's see</b> → “let-SII” — hai âm /s/ nhập làm một, chỉ đọc một lần.",
+            "Trọng âm luôn rơi vào <b>động từ chính</b>, không bao giờ vào <i>let's</i>: <i>Let's</i> <b>GO</b>. / <i>Let's</i> <b>START</b>.",
+            "Khi rủ rê, nói với <b>giọng đi lên nhẹ</b> ở cuối. Giọng đi xuống mạnh sẽ biến lời rủ thành chỉ đạo."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "Let's wrap up here — we're over time.",
+              "vi": "Luyện shadowing: chú ý “let's” dính thành một âm tiết, nhấn vào “wrap up”."
+            },
+            {
+              "en": "Let's not rush this decision.",
+              "vi": "Nhấn vào “not” — đó là chữ mang toàn bộ nghĩa của câu."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        {
+          "t": "h3",
+          "text": "A. Điền vào chỗ trống"
+        },
+        {
+          "t": "quiz",
+          "items": [
+            {
+              "vi": "Mình bắt đầu lúc mười giờ nhé.",
+              "blank": "__________ at ten.",
+              "a": "Let's start (không có “to”)"
+            },
+            {
+              "vi": "Quyết định này mình đừng vội.",
+              "blank": "__________ this decision.",
+              "a": "Let's not rush"
+            },
+            {
+              "vi": "Mình chốt ở đây nhé — quá giờ rồi.",
+              "blank": "__________ here — we're over time.",
+              "a": "Let's wrap up"
+            },
+            {
+              "vi": "Giả sử mất hai tuần — rồi sao nữa?",
+              "blank": "__________ it takes two weeks — then what?",
+              "a": "Let's say"
+            },
+            {
+              "vi": "Muộn rồi — mình dừng ở đây thôi.",
+              "blank": "It's late — let's __________.",
+              "a": "call it a day"
+            },
+            {
+              "vi": "Mình đừng vội tính quá xa.",
+              "blank": "Let's not __________ ourselves.",
+              "a": "get ahead of"
+            },
+            {
+              "vi": "Mình bắt đầu nhé? (dạng câu hỏi)",
+              "blank": "__________ start?",
+              "a": "Shall we"
+            },
+            {
+              "vi": "Mình giữ liên lạc nhé.",
+              "blank": "Let's __________.",
+              "a": "stay in touch"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "B. Dịch Việt → Anh"
+        },
+        {
+          "t": "quiz",
+          "items": [
+            {
+              "vi": "1. Xong cái này mình đi ăn trưa nhé.",
+              "a": "Let's grab lunch after this."
+            },
+            {
+              "vi": "2. Mình thử cách của bạn trước đi.",
+              "a": "Let's try it your way first."
+            },
+            {
+              "vi": "3. Mình sang mục tiếp theo nhé.",
+              "a": "Let's move on to the next item."
+            },
+            {
+              "vi": "4. Chưa chốt ngày thì mình đừng đặt gì cả.",
+              "a": "Let's not book anything until the dates are confirmed."
+            },
+            {
+              "vi": "5. Tuần sau mình ngồi nói chuyện tử tế nhé.",
+              "a": "Let's catch up properly next week."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Nhớ “let's” luôn bao gồm bạn:</b> nếu chỉ một mình bạn làm thì phải dùng <i>Let me</i> ở [Khung 20].",
+            "<b>Dùng dạng phủ định để can ngăn:</b> <i>Let's not rush this</i> nhẹ hơn hẳn <i>Don't rush</i> — vì bạn đứng cùng phe chứ không chỉ trích.",
+            "<b>Thuộc hai cụm kết thúc:</b> <i>Let's wrap up</i> (họp) và <i>Let's call it a day</i> (công việc trong ngày).",
+            "<b>Biết khi nào “Let's” là chỉ đạo:</b> từ miệng người có quyền, nó thường đã là quyết định. Đừng hiểu nhầm là đang xin ý kiến bạn.",
+            "<b>Giữ giọng đi lên khi rủ:</b> giọng đi xuống mạnh biến lời rủ thành mệnh lệnh.",
+            "<b>Bài tập 3 phút:</b> viết 5 việc bạn hay rủ đồng nghiệp làm, rồi viết thêm 3 câu <i>Let's not…</i> cho những việc bạn muốn cả nhóm khoan làm."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,499 @@
+{
+  "id": 92,
+  "group": "Nhóm 10 · Kể chuyện, Kế hoạch & Thời gian",
+  "title": "I'm meeting him at six — Lịch đã chốt",
+  "subtitle": "Thì hiện tại tiếp diễn không chỉ nói chuyện đang xảy ra. Nó còn là cách tự nhiên nhất để nói về một cuộc hẹn ĐÃ CHỐT trong tương lai. Người Việt hầu như không dùng nhánh này vì trong sách vở chỉ học nghĩa đang xảy ra.",
+  "pattern": [
+    "I'm <em>+ V-ing + (thời gian)</em>. <em>(lịch đã chốt)</em>",
+    "I'm <em>+ V-ing</em> right now. <em>(đang xảy ra)</em>",
+    "The train <em>leaves at six</em>. <em>(lịch trình cố định)</em>"
+  ],
+  "meaning": "Tôi … (đã hẹn, đã chốt lịch)",
+  "grammar": [1, 2, 4, 8],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Tiếp diễn cho TƯƠNG LAI" },
+    { "text": "Bẫy: động từ trạng thái" },
+    { "text": "Trình độ: A2–B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "Ai học tiếng Anh cũng biết <i>I'm working</i> nghĩa là “tôi đang làm việc”. Nhưng có một nhánh thứ hai quan trọng không kém mà sách vở ít nhấn: <b>hiện tại tiếp diễn dùng cho TƯƠNG LAI ĐÃ CHỐT</b>." },
+        { "t": "callout", "html": "<b>Điều làm nên nhánh này:</b> <i>I'm meeting him at six</i> = đã hẹn rồi, có giờ, có người, có chỗ. Nó <b>chắc chắn hơn</b> <i>I'm going to meet him</i> — vốn mới chỉ là ý định trong đầu bạn." },
+        { "t": "p", "html": "Nói cách khác: <i>going to</i> là chuyện <b>bạn muốn</b>, còn tiếp diễn là chuyện <b>hai bên đã thống nhất</b>. Có người khác trong lịch hẹn thì gần như luôn dùng tiếp diễn." },
+        {
+          "t": "table",
+          "head": ["Câu", "Nghĩa", "Mức chắc chắn"],
+          "rows": [
+            ["I'm meeting him at six.", "Đã hẹn, có giờ cụ thể", "Chắc chắn nhất"],
+            ["I'm going to meet him.", "Tôi định gặp anh ấy", "Mới là ý định"],
+            ["I'll meet him.", "Tôi vừa quyết sẽ gặp", "Quyết ngay lúc nói"],
+            ["I meet him every Monday.", "Thứ Hai nào cũng gặp", "Thói quen"]
+          ]
+        },
+        { "t": "callout", "html": "<b>BẪY LỚN NHẤT — động từ trạng thái:</b> một số động từ <b>không dùng được ở tiếp diễn</b>: <i>know, understand, believe, want, need, like, love, hate, own, belong, seem</i>. <i>I'm knowing</i> ✗ — phải là <i>I know</i> ✓." },
+        { "t": "p", "html": "Ngoại lệ đáng nhớ: <b>have</b>. <i>I have a car</i> ✓ (sở hữu — không tiếp diễn được) nhưng <i>I'm having lunch</i> ✓ (hành động — tiếp diễn được bình thường)." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "📅", "title": "Báo lịch hẹn đã chốt", "text": "<i>I'm meeting the client at ten.</i>" },
+            { "icon": "✈️", "title": "Kể chuyến đi đã đặt", "text": "<i>I'm flying to Da Nang on Friday.</i>" },
+            { "icon": "🙅", "title": "Từ chối vì bận", "text": "<i>Sorry, I'm working tomorrow.</i>" },
+            { "icon": "❓", "title": "Hỏi lịch người khác", "text": "<i>What are you doing this weekend?</i>" },
+            { "icon": "🍽️", "title": "Hoạt động đang diễn ra", "text": "<i>I'm having lunch — can I call you back?</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Động từ chỉ trạng thái. <i>I'm knowing</i> ✗ — phải là <i>I know</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Lịch đã chốt", "<code>I'm + V-ing + thời gian.</code>", "I'm meeting him at six."],
+            ["Đang xảy ra", "<code>I'm + V-ing + right now.</code>", "I'm having lunch right now."],
+            ["Phủ định", "<code>I'm not + V-ing.</code>", "I'm not working tomorrow."],
+            ["Câu hỏi", "<code>Are you + V-ing?</code>", "Are you coming tonight?"],
+            ["Hỏi lịch", "<code>What are you doing + thời gian?</code>", "What are you doing tonight?"],
+            ["Ngôi khác", "<code>He's / They're + V-ing.</code>", "They're arriving on Sunday."],
+            ["Lịch trình cố định", "<code>The train leaves at six.</code>", "The train leaves at six."],
+            ["Ý định chưa chốt", "<code>I'm going to + V.</code>", "I'm going to call him."],
+            ["Động từ trạng thái", "<code>I know / I want / I need</code>", "I know what you mean."],
+            ["Xu hướng đang thay đổi", "<code>It's getting + adj.</code>", "It's getting colder."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Lịch trình của tàu xe, rạp phim dùng HIỆN TẠI ĐƠN</b>, không phải tiếp diễn: <i>The train <b>leaves</b> at six</i> ✓, <i>The film <b>starts</b> at eight</i> ✓. Đó là lịch của cả thế giới, không phải hẹn riêng của bạn." },
+        { "t": "callout", "html": "<b>Câu hỏi vàng để mời ai đó:</b> <i>What are you doing on Saturday?</i> — hỏi lịch đã chốt của họ. Nếu hỏi <i>What will you do?</i> thì nghe như đang bắt người ta dự đoán tương lai." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ hay dùng cho lịch đã chốt",
+              "items": [
+                { "w": "I'm meeting", "vi": "tôi có hẹn gặp", "ex": "I'm meeting him at six.", "exvi": "Sáu giờ tôi có hẹn gặp anh ấy.", "note": "Động từ số một của nhánh này — có người khác trong lịch thì gần như luôn dùng tiếp diễn." },
+                { "w": "I'm seeing", "vi": "tôi có hẹn với", "ex": "I'm seeing the doctor on Tuesday.", "exvi": "Thứ Ba tôi có hẹn bác sĩ.", "note": "<i>see</i> ở nghĩa “có hẹn” thì tiếp diễn được, còn nghĩa “nhìn thấy” thì không." },
+                { "w": "I'm flying", "vi": "tôi bay", "ex": "I'm flying to Da Nang on Friday.", "exvi": "Thứ Sáu tôi bay đi Đà Nẵng." },
+                { "w": "I'm working", "vi": "tôi làm việc", "ex": "I'm working tomorrow.", "exvi": "Mai tôi phải làm.", "note": "Câu từ chối lời mời tự nhiên nhất — nghe rõ là lịch đã cố định." },
+                { "w": "I'm leaving", "vi": "tôi đi", "ex": "I'm leaving on Sunday.", "exvi": "Chủ nhật tôi đi." },
+                { "w": "I'm starting", "vi": "tôi bắt đầu", "ex": "I'm starting the new job in May.", "exvi": "Tháng Năm tôi bắt đầu việc mới." },
+                { "w": "I'm staying", "vi": "tôi ở lại", "ex": "I'm staying with friends.", "exvi": "Tôi ở nhà bạn." },
+                { "w": "I'm coming", "vi": "tôi đến", "ex": "I'm coming to the party.", "exvi": "Tôi sẽ đến bữa tiệc." },
+                { "w": "They're arriving", "vi": "họ đến", "ex": "They're arriving on Sunday.", "exvi": "Chủ nhật họ đến." },
+                { "w": "We're moving", "vi": "chúng tôi chuyển nhà", "ex": "We're moving next month.", "exvi": "Tháng sau chúng tôi chuyển nhà." },
+                { "w": "I'm taking", "vi": "tôi nghỉ, tôi lấy", "ex": "I'm taking Friday off.", "exvi": "Thứ Sáu tôi nghỉ.", "note": "<i>take a day off</i> = xin nghỉ một ngày. Cụm cố định." },
+                { "w": "What are you doing?", "vi": "bạn có lịch gì?", "ex": "What are you doing on Saturday?", "exvi": "Thứ Bảy bạn có lịch gì?", "note": "CÂU HỎI VÀNG để mời ai đó. Hỏi <i>What will you do?</i> nghe rất lạ." }
+                ]
+            },
+            {
+              "title": "Động từ trạng thái — KHÔNG tiếp diễn",
+              "items": [
+                { "w": "I know", "vi": "tôi biết", "ex": "I know what you mean.", "exvi": "Tôi hiểu ý bạn.", "note": "BẪY LỚN NHẤT: <i>I'm knowing</i> ✗. <i>know</i> là động từ TRẠNG THÁI." },
+                { "w": "I understand", "vi": "tôi hiểu", "ex": "I understand now.", "exvi": "Giờ thì tôi hiểu rồi.", "note": "<i>I'm understanding</i> ✗." },
+                { "w": "I want", "vi": "tôi muốn", "ex": "I want to go home.", "exvi": "Tôi muốn về nhà.", "note": "<i>I'm wanting</i> ✗ — sai kinh điển." },
+                { "w": "I need", "vi": "tôi cần", "ex": "I need a break.", "exvi": "Tôi cần nghỉ một chút.", "note": "<i>I'm needing</i> ✗." },
+                { "w": "I like / I love", "vi": "tôi thích / tôi yêu", "ex": "I love this song.", "exvi": "Tôi mê bài này.", "note": "<i>I'm loving</i> chỉ dùng trong quảng cáo, không phải tiếng Anh chuẩn." },
+                { "w": "I believe", "vi": "tôi tin", "ex": "I believe he's right.", "exvi": "Tôi tin anh ấy đúng. Xem [Khung 43]." },
+                { "w": "It belongs to", "vi": "nó thuộc về", "ex": "It belongs to her.", "exvi": "Nó là của cô ấy.", "note": "<i>It's belonging</i> ✗." },
+                { "w": "It seems", "vi": "có vẻ như", "ex": "It seems fine.", "exvi": "Có vẻ ổn. Xem [Khung 44]." },
+                { "w": "I have a car", "vi": "tôi có một chiếc xe", "ex": "I have a car.", "exvi": "Tôi có một chiếc xe.", "note": "NGOẠI LỆ QUAN TRỌNG: <i>have</i> nghĩa SỞ HỮU thì không tiếp diễn. <i>I'm having a car</i> ✗." },
+                { "w": "I'm having lunch", "vi": "tôi đang ăn trưa", "ex": "I'm having lunch right now.", "exvi": "Tôi đang ăn trưa.", "note": "Nhưng <i>have</i> nghĩa HÀNH ĐỘNG thì tiếp diễn bình thường. Đây là cặp phải nhớ." },
+                { "w": "The train leaves at six", "vi": "tàu chạy lúc sáu giờ", "ex": "The train leaves at six.", "exvi": "Tàu chạy lúc sáu giờ.", "note": "Lịch trình tàu xe dùng HIỆN TẠI ĐƠN, không dùng tiếp diễn." },
+                { "w": "The film starts at eight", "vi": "phim chiếu lúc tám giờ", "ex": "The film starts at eight.", "exvi": "Phim chiếu lúc tám giờ." }
+              ]
+            },
+            {
+              "title": "Từ chỉ thời gian & cách đáp",
+              "items": [
+                { "w": "tonight", "vi": "tối nay", "ex": "I'm working tonight.", "exvi": "Tối nay tôi làm việc." },
+                { "w": "tomorrow", "vi": "ngày mai", "ex": "I'm leaving tomorrow.", "exvi": "Mai tôi đi." },
+                { "w": "this weekend", "vi": "cuối tuần này", "ex": "What are you doing this weekend?", "exvi": "Cuối tuần này bạn có lịch gì?" },
+                { "w": "on Friday", "vi": "vào thứ Sáu", "ex": "I'm flying on Friday.", "exvi": "Thứ Sáu tôi bay.", "note": "Thứ trong tuần đi với giới từ <b>on</b>, không phải <i>in</i>." },
+                { "w": "at six", "vi": "lúc sáu giờ", "ex": "I'm meeting him at six.", "exvi": "Sáu giờ tôi gặp anh ấy.", "note": "Giờ giấc đi với <b>at</b>." },
+                { "w": "next month", "vi": "tháng sau", "ex": "We're moving next month.", "exvi": "Tháng sau chúng tôi chuyển nhà.", "note": "KHÔNG có giới từ trước <i>next</i>: <i>in next month</i> ✗." },
+                { "w": "later", "vi": "lát nữa", "ex": "I'm seeing her later.", "exvi": "Lát nữa tôi gặp cô ấy." },
+                { "w": "the day after tomorrow", "vi": "ngày kia", "ex": "I'm leaving the day after tomorrow.", "exvi": "Ngày kia tôi đi." },
+                { "w": "Count me in", "vi": "cho tôi tham gia với", "ex": "Count me in!", "exvi": "Cho mình tham gia với!" },
+                { "w": "I'm afraid I can't", "vi": "rất tiếc tôi không thể", "ex": "I'm afraid I can't — I'm working.", "exvi": "Rất tiếc tôi không thể — tôi phải làm việc. Xem [Khung 87]." },
+                { "w": "Can I let you know?", "vi": "để tôi báo lại nhé?", "ex": "Can I let you know tomorrow?", "exvi": "Mai tôi báo lại được không?" },
+                { "w": "What time works for you?", "vi": "mấy giờ bạn tiện?", "ex": "What time works for you?", "exvi": "Mấy giờ thì bạn tiện?", "note": "Câu chốt lịch tự nhiên hơn nhiều so với <i>When are you free?</i>" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I'm meeting the client at ten.",
+                  "vi": "Mười giờ tôi có hẹn với khách.",
+                  "note": "Lịch ĐÃ CHỐT — chắc chắn hơn <i>I'm going to meet the client</i> vốn mới là ý định.",
+                  "open": { "en": "What does your morning look like?", "vi": "Sáng nay lịch anh/chị thế nào?" },
+                  "reply": [
+                    { "them": "Do you need the figures before then?", "themvi": "Anh/chị cần số liệu trước lúc đó không?", "you": "If you can, yes.", "youvi": "Nếu được thì có." },
+                    { "them": "I'll have them by nine.", "themvi": "Chín giờ tôi sẽ có.", "you": "Perfect, thank you.", "youvi": "Tuyệt, cảm ơn anh/chị." }
+                  ],
+                  "close": { "en": "I'll brief you after.", "vi": "Xong tôi sẽ báo lại anh/chị." }
+                },
+                {
+                  "en": "I'm taking Friday off.",
+                  "vi": "Thứ Sáu tôi nghỉ.",
+                  "note": "<b>take a day off</b> = xin nghỉ. Dùng tiếp diễn vì lịch đã được duyệt rồi.",
+                  "reply": [
+                    { "them": "Noted. Anything I should cover?", "themvi": "Ghi nhận. Có việc gì tôi cần trực không?", "you": "Just the inbox.", "youvi": "Chỉ hộp thư thôi." }
+                  ],
+                  "vars": [
+                    { "en": "I'm off on Friday.", "vi": "Thứ Sáu tôi nghỉ." }
+                  ]
+                },
+                {
+                  "en": "I'm starting the new job in May.",
+                  "vi": "Tháng Năm tôi bắt đầu việc mới.",
+                  "reply": [
+                    { "them": "Congratulations! Where?", "themvi": "Chúc mừng! Ở đâu vậy?", "you": "A smaller firm, closer to home.", "youvi": "Một công ty nhỏ hơn, gần nhà hơn." }
+                  ]
+                },
+                {
+                  "en": "I know what you mean.",
+                  "vi": "Tôi hiểu ý anh/chị.",
+                  "note": "BẪY LỚN NHẤT: <i>know</i> là động từ TRẠNG THÁI nên KHÔNG tiếp diễn. <i>I'm knowing</i> ✗.",
+                  "reply": [
+                    { "them": "It's been like this for weeks.", "themvi": "Mấy tuần nay đều thế này.", "you": "Let's raise it on Monday.", "youvi": "Thứ Hai mình nêu chuyện này đi." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "What are you doing this weekend?",
+                  "vi": "Cuối tuần này bạn có lịch gì?",
+                  "note": "CÂU HỎI VÀNG để mở lời mời. Hỏi <i>What will you do?</i> nghe như bắt người ta dự đoán tương lai.",
+                  "reply": [
+                    { "them": "Nothing much. Why?", "themvi": "Chẳng có gì. Sao thế?", "you": "I'm having a few people over on Saturday.", "youvi": "Thứ Bảy mình mời vài người sang chơi." },
+                    { "them": "Count me in!", "themvi": "Cho mình tham gia với!", "you": "Great — around seven.", "youvi": "Tuyệt — khoảng bảy giờ nhé." }
+                  ],
+                  "close": { "en": "I'll send you the address.", "vi": "Mình gửi địa chỉ cho bạn." }
+                },
+                {
+                  "en": "Sorry, I'm working tomorrow.",
+                  "vi": "Xin lỗi, mai mình phải làm.",
+                  "note": "Cách từ chối lời mời tự nhiên nhất — tiếp diễn cho thấy lịch đã cố định, không phải cái cớ.",
+                  "reply": [
+                    { "them": "What a shame. Sunday instead?", "themvi": "Tiếc quá. Chủ nhật thì sao?", "you": "Sunday works.", "youvi": "Chủ nhật được." }
+                  ],
+                  "vars": [
+                    { "en": "I'm afraid I can't — I'm working.", "vi": "Rất tiếc mình không đi được — mình phải làm." }
+                  ]
+                },
+                {
+                  "en": "We're moving next month.",
+                  "vi": "Tháng sau nhà mình chuyển đi.",
+                  "note": "KHÔNG có giới từ trước <i>next</i>: <i>in next month</i> ✗.",
+                  "reply": [
+                    { "them": "Already? Where to?", "themvi": "Nhanh vậy? Chuyển đi đâu?", "you": "Just across town.", "youvi": "Sang bên kia thành phố thôi." }
+                  ]
+                },
+                {
+                  "en": "I'm having lunch — can I call you back?",
+                  "vi": "Mình đang ăn trưa — gọi lại sau nhé?",
+                  "note": "NGOẠI LỆ: <i>have</i> nghĩa HÀNH ĐỘNG thì tiếp diễn được. Nhưng <i>I'm having a car</i> ✗.",
+                  "reply": [
+                    { "them": "Of course. No rush.", "themvi": "Tất nhiên rồi. Không vội.", "you": "Twenty minutes.", "youvi": "Hai mươi phút nữa nhé." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I'm flying to Da Nang on Friday.",
+                  "vi": "Thứ Sáu mình bay đi Đà Nẵng.",
+                  "note": "Vé đã đặt rồi nên dùng tiếp diễn. Thứ trong tuần đi với giới từ <b>on</b>.",
+                  "reply": [
+                    { "them": "Work or holiday?", "themvi": "Công tác hay đi chơi?", "you": "A bit of both.", "youvi": "Hơi cả hai." }
+                  ],
+                  "close": { "en": "I'm back on Tuesday.", "vi": "Thứ Ba mình về." }
+                },
+                {
+                  "en": "The train leaves at six.",
+                  "vi": "Tàu chạy lúc sáu giờ.",
+                  "note": "Lịch trình tàu xe dùng HIỆN TẠI ĐƠN, không dùng tiếp diễn. Đó là lịch của cả thế giới, không phải hẹn riêng.",
+                  "reply": [
+                    { "them": "We should leave at five, then.", "themvi": "Vậy mình phải đi từ năm giờ.", "you": "Agreed. I'll book a taxi.", "youvi": "Đồng ý. Mình đặt taxi." }
+                  ],
+                  "vars": [
+                    { "en": "The last train leaves at eleven.", "vi": "Chuyến cuối chạy lúc mười một giờ." }
+                  ]
+                },
+                {
+                  "en": "I'm staying with friends in Hue.",
+                  "vi": "Mình ở nhà bạn tại Huế.",
+                  "reply": [
+                    { "them": "That'll save you a fortune.", "themvi": "Vậy tiết kiệm được khối tiền.", "you": "That was the idea.", "youvi": "Đúng là mình tính thế." }
+                  ]
+                },
+                {
+                  "en": "They're arriving on Sunday.",
+                  "vi": "Chủ nhật họ đến.",
+                  "note": "Ngôi thứ ba số nhiều: <i>They're + V-ing</i>. Lịch đã chốt nên dùng tiếp diễn.",
+                  "reply": [
+                    { "them": "Do they need picking up?", "themvi": "Có cần ra đón không?", "you": "They're getting a taxi.", "youvi": "Họ đi taxi rồi." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I'm having a few people over on Saturday.",
+                  "vi": "Thứ Bảy mình mời vài người sang chơi.",
+                  "note": "<b>have people over</b> = mời khách đến nhà. Cụm cố định rất thông dụng.",
+                  "reply": [
+                    { "them": "Sounds lovely. What can I bring?", "themvi": "Nghe hay quá. Mình mang gì sang?", "you": "Just yourself.", "youvi": "Mang mỗi bạn thôi." }
+                  ],
+                  "close": { "en": "Around seven, then.", "vi": "Vậy khoảng bảy giờ nhé." }
+                },
+                {
+                  "en": "We're eating at eight — is that too late?",
+                  "vi": "Tám giờ nhà mình ăn — có muộn quá không?",
+                  "reply": [
+                    { "them": "That's fine by me.", "themvi": "Với mình thì ổn.", "you": "Great, see you then.", "youvi": "Tuyệt, hẹn gặp lúc đó." }
+                  ]
+                },
+                {
+                  "en": "I'm not eating meat at the moment.",
+                  "vi": "Dạo này mình không ăn thịt.",
+                  "note": "Tiếp diễn với <i>at the moment</i> = giai đoạn TẠM THỜI. Nói <i>I don't eat meat</i> thì thành thói quen lâu dài.",
+                  "reply": [
+                    { "them": "Since when?", "themvi": "Từ bao giờ thế?", "you": "About a month.", "youvi": "Khoảng một tháng nay." }
+                  ],
+                  "vars": [
+                    { "en": "I don't eat meat.", "vi": "Mình không ăn thịt." }
+                  ]
+                },
+                {
+                  "en": "I love this place.",
+                  "vi": "Mình mê quán này.",
+                  "note": "<i>love</i> là động từ TRẠNG THÁI. <i>I'm loving this place</i> chỉ dùng trong quảng cáo, không phải tiếng Anh chuẩn.",
+                  "reply": [
+                    { "them": "Me too. We should come more often.", "themvi": "Mình cũng vậy. Mình nên đến thường xuyên hơn.", "you": "Once a month?", "youvi": "Mỗi tháng một lần nhé?" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I'm coming back on Thursday with my partner.",
+                  "vi": "Thứ Năm tôi quay lại cùng nhà tôi.",
+                  "reply": [
+                    { "them": "I'll be here till six.", "themvi": "Em ở đây đến sáu giờ ạ.", "you": "We'll aim for four.", "youvi": "Chắc bọn tôi đến khoảng bốn giờ." }
+                  ]
+                },
+                {
+                  "en": "I need a bigger size, please.",
+                  "vi": "Cho tôi cỡ to hơn nhé.",
+                  "note": "<i>need</i> là động từ TRẠNG THÁI. <i>I'm needing</i> ✗ — lỗi rất hay gặp.",
+                  "reply": [
+                    { "them": "I'll check the stockroom.", "themvi": "Em kiểm tra kho ạ.", "you": "Thank you.", "youvi": "Cảm ơn em." }
+                  ]
+                },
+                {
+                  "en": "The shop closes at eight.",
+                  "vi": "Cửa hàng đóng lúc tám giờ.",
+                  "note": "Giờ mở cửa là LỊCH TRÌNH cố định nên dùng hiện tại đơn, không dùng tiếp diễn.",
+                  "reply": [
+                    { "them": "We're open later on Fridays.", "themvi": "Thứ Sáu bên em mở muộn hơn ạ.", "you": "Good to know.", "youvi": "Biết vậy hay quá." }
+                  ],
+                  "vars": [
+                    { "en": "What time do you close?", "vi": "Mấy giờ bên em đóng cửa?" }
+                  ]
+                },
+                {
+                  "en": "I'm just looking, thanks.",
+                  "vi": "Tôi xem thôi, cảm ơn em.",
+                  "note": "Câu vàng trong cửa hàng — đang xảy ra ngay lúc này nên dùng tiếp diễn.",
+                  "reply": [
+                    { "them": "Take your time.", "themvi": "Anh/chị cứ thong thả ạ.", "you": "I'll shout if I need anything.", "youvi": "Cần gì tôi gọi em nhé." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Rủ bạn cuối tuần",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "What are you doing this weekend?", "vi": "Cuối tuần này bạn có lịch gì?" },
+            { "speaker": "Friend", "en": "Nothing much. Why?", "vi": "Chẳng có gì. Sao thế?" },
+            { "speaker": "You", "me": true, "en": "I'm having a few people over on Saturday.", "vi": "Thứ Bảy mình mời vài người sang chơi." },
+            { "speaker": "Friend", "en": "Count me in. What time?", "vi": "Cho mình tham gia. Mấy giờ?" },
+            { "speaker": "You", "me": true, "en": "We're eating at eight. Come earlier if you can.", "vi": "Tám giờ ăn. Đến sớm được thì tốt." },
+            { "speaker": "Friend", "en": "I'll be there at seven.", "vi": "Bảy giờ mình đến." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Báo lịch bận với đồng nghiệp",
+          "lines": [
+            { "speaker": "Colleague", "en": "Can we meet on Friday?", "vi": "Thứ Sáu mình gặp nhau được không?" },
+            { "speaker": "You", "me": true, "en": "I'm taking Friday off, I'm afraid.", "vi": "Rất tiếc, thứ Sáu tôi nghỉ." },
+            { "speaker": "Colleague", "en": "Ah. Thursday, then?", "vi": "À. Vậy thứ Năm nhé?" },
+            { "speaker": "You", "me": true, "en": "I'm meeting the client at ten, but I'm free after.", "vi": "Mười giờ tôi có hẹn với khách, nhưng sau đó tôi rảnh." },
+            { "speaker": "Colleague", "en": "Two o'clock?", "vi": "Hai giờ nhé?" },
+            { "speaker": "You", "me": true, "en": "Two works. I'll book a room.", "vi": "Hai giờ được. Tôi đặt phòng họp." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'm <b>knowing</b> what you mean.", "right": "I <b>know</b> what you mean.", "why": "BẪY LỚN NHẤT: động từ TRẠNG THÁI (<i>know, understand, want, need, like, believe, own</i>) không dùng ở tiếp diễn." },
+            { "wrong": "I'm <b>needing</b> a bigger size.", "right": "I <b>need</b> a bigger size.", "why": "Cùng luật. <i>need</i> là trạng thái, không phải hành động đang diễn ra." },
+            { "wrong": "I'm having <b>a car</b>.", "right": "I <b>have</b> a car.", "why": "<i>have</i> nghĩa SỞ HỮU không tiếp diễn. Nhưng <i>I'm having lunch</i> ✓ vì đó là hành động." },
+            { "wrong": "The train <b>is leaving</b> at six. <i>(theo lịch trình)</i>", "right": "The train <b>leaves</b> at six.", "why": "Lịch trình tàu xe, rạp phim dùng HIỆN TẠI ĐƠN — đó là lịch cố định của cả thế giới." },
+            { "wrong": "What <b>will you do</b> on Saturday? <i>(để mời)</i>", "right": "What <b>are you doing</b> on Saturday?", "why": "Hỏi lịch ĐÃ CHỐT thì dùng tiếp diễn. <i>will</i> nghe như bắt người ta dự đoán tương lai." },
+            { "wrong": "We're moving <b>in next month</b>.", "right": "We're moving <b>next month</b>.", "why": "Không có giới từ trước <i>next/last/this</i>: <i>next month</i>, <i>last week</i>, <i>this Friday</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Dùng khi", "Ví dụ"],
+          "rows": [
+            ["<code>I'm + V-ing + giờ</code>", "Lịch ĐÃ CHỐT, có giờ có người", "I'm meeting him at six."],
+            ["<code>I'm + V-ing + right now</code>", "Đang xảy ra lúc này", "I'm having lunch."],
+            ["<code>I'm going to + V</code>", "Ý định, chưa chốt. Xem [Khung 91]", "I'm going to meet him."],
+            ["<code>I'll + V</code>", "Quyết định ngay lúc nói", "OK, I'll meet him."],
+            ["<code>Hiện tại đơn</code>", "Lịch trình tàu xe, giờ mở cửa", "The train leaves at six."],
+            ["<code>Hiện tại đơn</code>", "Thói quen lặp lại", "I meet him every Monday."],
+            ["<code>I'm about to + V</code>", "Sắp xảy ra trong vài phút", "I'm about to leave."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ chắc chắn của một cuộc hẹn" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I might meet him.", "vi": "Mơ hồ nhất — có thể" },
+            { "en": "I'm going to meet him.", "vi": "Ý định trong đầu tôi" },
+            { "en": "I'm meeting him this week.", "vi": "Đã hẹn nhưng chưa chốt giờ" },
+            { "en": "I'm meeting him at six.", "vi": "Chốt giờ cụ thể" },
+            { "en": "I'm meeting him at six at the office.", "vi": "Chắc nhất — giờ, người, địa điểm" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>I'm meeting</b> → <b>“am-MII-ting”</b>, âm /t/ giữa từ ở giọng Mỹ nhẹ thành /d/: “MII-ding”.",
+            "<b>Đuôi -ing đọc /ɪŋ/</b>, không phải /in/. Miệng khép, âm mũi ngân ra phía sau.",
+            "<b>What are you doing</b> nói nhanh thành <b>“wo-də-yə-DUU-ing”</b> — cả cụm gộp lại một hơi.",
+            "<b>Trọng âm rơi vào ĐỘNG TỪ và vào THỜI GIAN</b>: “am-MEE-ting-him-at-<b>SIX</b>”.",
+            "<b>Giới từ <i>at, on</i> lướt rất nhẹ</b>: “at six” → “ət-SIKS”, đừng nhấn vào <i>at</i>.",
+            "<b>I'm</b> đọc /aɪm/ một âm tiết. Tách thành “ai-am” nghe rất cứng và không tự nhiên."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm meeting him at six.", "vi": "Luyện shadowing: “am-MII-ding-im-ət-SIKS”, nhấn vào MEET và SIX." },
+            { "en": "What are you doing this weekend?", "vi": "Tập gộp “wo-də-yə-DUU-ing” thành một hơi liền mạch." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Sáu giờ tôi có hẹn gặp anh ấy.", "blank": "I'm __________ him at six.", "a": "meeting" },
+            { "vi": "Tôi hiểu ý bạn.", "blank": "I __________ what you mean.", "a": "know (không dùng “am knowing”)" },
+            { "vi": "Cuối tuần này bạn có lịch gì?", "blank": "What __________ you doing this weekend?", "a": "are" },
+            { "vi": "Tàu chạy lúc sáu giờ.", "blank": "The train __________ at six.", "a": "leaves (hiện tại đơn cho lịch trình)" },
+            { "vi": "Tôi có một chiếc xe.", "blank": "I __________ a car.", "a": "have (sở hữu, không tiếp diễn)" },
+            { "vi": "Tôi đang ăn trưa.", "blank": "I'm __________ lunch.", "a": "having (hành động, tiếp diễn được)" },
+            { "vi": "Thứ Sáu tôi bay.", "blank": "I'm flying __________ Friday.", "a": "on" },
+            { "vi": "Tháng sau chúng tôi chuyển nhà.", "blank": "We're moving __________ month.", "a": "next (không có giới từ)" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Mười giờ tôi có hẹn với khách.", "a": "I'm meeting the client at ten." },
+            { "vi": "2. Cuối tuần này bạn có lịch gì?", "a": "What are you doing this weekend?" },
+            { "vi": "3. Xin lỗi, mai mình phải làm.", "a": "Sorry, I'm working tomorrow." },
+            { "vi": "4. Thứ Sáu mình bay đi Đà Nẵng.", "a": "I'm flying to Da Nang on Friday." },
+            { "vi": "5. Tàu chạy lúc sáu giờ.", "a": "The train leaves at six." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Đã hẹn với người khác thì dùng tiếp diễn.</b> Có giờ, có người, có chỗ — đó là dấu hiệu rõ nhất.",
+            "<b>Học thuộc câu mời:</b> <i>What are you doing on Saturday?</i> — tự nhiên hơn <i>What will you do?</i> rất nhiều.",
+            "<b>Nhớ danh sách động từ trạng thái:</b> know, understand, want, need, like, love, believe, own, belong, seem.",
+            "<b>Cặp <i>have</i> phải thuộc:</b> <i>I have a car</i> (sở hữu) nhưng <i>I'm having lunch</i> (hành động).",
+            "<b>Lịch trình tàu xe dùng hiện tại đơn:</b> <i>The train leaves at six.</i> Đó không phải hẹn riêng của bạn.",
+            "<b>Bài tập 3 phút:</b> viết ra năm việc đã chốt lịch trong tuần này của bạn, mỗi câu có một mốc thời gian cụ thể."
+          ]
+        }
+      ]
+    }
+  ]
+}

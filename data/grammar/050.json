@@ -1,0 +1,277 @@
+{
+  "id": 50,
+  "group": "Nhóm 12 · Nhấn mạnh, nối ý & dấu câu",
+  "title": "Dấu câu tiếng Anh",
+  "subtitle": "Luật quan trọng nhất là dấu phẩy với mệnh đề if/when: đứng TRƯỚC thì có phẩy, đứng SAU thì không. If it rains, I'll stay home ✓ nhưng I'll stay home if it rains ✓ — không phẩy.",
+  "meaning": "Dùng dấu câu cho đúng chuẩn tiếng Anh",
+  "rule": [
+    "Mệnh đề phụ đứng TRƯỚC → có phẩy · đứng SAU → không phẩy",
+    "Hai câu hoàn chỉnh <em>không nối bằng dấu phẩy</em>",
+    "<em>its</em> sở hữu · <em>it's</em> = it is"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2–B2", "hot": true },
+    { "text": "Trước thì phẩy, sau thì không" },
+    { "text": "its ≠ it's" },
+    { "text": "Tần suất: rất cao (viết)" }
+  ],
+  "frames": [41, 52, 96, 97, 98],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Dấu câu tiếng Anh có luật rõ ràng hơn tiếng Việt nhiều. Chỉ cần nắm ba luật dưới đây là tránh được phần lớn lỗi trong email và bài viết." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — dấu phẩy với mệnh đề <i>if / when / although</i>:</b><br>• Mệnh đề phụ đứng <b>TRƯỚC</b> → <b>có phẩy</b>: <i><b>If it rains,</b> I'll stay home.</i> ✓<br>• Mệnh đề phụ đứng <b>SAU</b> → <b>không phẩy</b>: <i>I'll stay home <b>if it rains</b>.</i> ✓<br><i>I'll stay home<b>,</b> if it rains</i> ✗ — thừa dấu phẩy. Luật này áp cho <i>if, when, because, although, while, after, before</i>." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — không nối hai câu hoàn chỉnh bằng dấu phẩy:</b><br><i>It was raining, we went out</i> ✗<br>Sửa bằng một trong bốn cách:<br>• <i>It was raining<b>, but</b> we went out.</i> (thêm liên từ)<br>• <i>It was raining<b>.</b> We went out.</i> (tách hai câu)<br>• <i>It was raining<b>;</b> we went out.</i> (chấm phẩy)<br>• <i><b>Although</b> it was raining, we went out.</i> (đổi thành mệnh đề phụ)" },
+        { "t": "h3", "text": "Bốn dấu dùng nhiều nhất" },
+        {
+          "t": "table",
+          "head": ["Dấu", "Dùng khi", "Ví dụ"],
+          "rows": [
+            ["<code>,</code> phẩy", "Mệnh đề phụ đứng trước · liệt kê", "If it rains, I'll stay home."],
+            ["<code>.</code> chấm", "Kết thúc một câu hoàn chỉnh", "It was raining. We went out."],
+            ["<code>;</code> chấm phẩy", "Nối hai câu quan hệ chặt, không cần liên từ", "It was raining; we went out."],
+            ["<code>'</code> lược", "Sở hữu cách và dạng rút gọn", "Nam's book · it's = it is"]
+          ]
+        },
+        { "t": "p", "html": "Dấu <b>'</b> có một ngoại lệ phải nhớ: <b><i>its</i></b> (của nó) <b>không có</b> dấu lược, còn <b><i>it's</i></b> luôn là <i>it is</i> hoặc <i>it has</i>. Xem [Ngữ pháp 23]." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dấu / trường hợp", "Luật", "Ví dụ"],
+          "rows": [
+            ["Mệnh đề phụ đứng trước", "Có phẩy", "If it rains, I'll stay home."],
+            ["Mệnh đề phụ đứng sau", "KHÔNG phẩy", "I'll stay home if it rains."],
+            ["Trạng ngữ đầu câu", "Có phẩy", "Last night, I went out."],
+            ["Liệt kê", "Phẩy giữa các mục", "I bought bread, milk and eggs."],
+            ["Trước <code>that</code>", "KHÔNG phẩy", "I think that it's fine."],
+            ["Mệnh đề quan hệ bổ sung", "Có phẩy hai đầu", "My boss, who is 40, lives nearby."],
+            ["Mệnh đề quan hệ xác định", "KHÔNG phẩy", "The man who called me is my boss."],
+            ["Hai câu hoàn chỉnh", "Chấm, chấm phẩy, hoặc phẩy + liên từ", "It rained; we went out."],
+            ["<code>however</code>, <code>therefore</code>", "Chấm trước, phẩy sau", "It rained. However, we went out."],
+            ["Sở hữu số ít", "<code>'s</code>", "Nam's book"],
+            ["Sở hữu số nhiều có <code>s</code>", "Chỉ <code>'</code>", "the students' books"],
+            ["Trích dẫn", "Dấu câu nằm TRONG ngoặc kép (Mỹ)", "He said, \"I'm busy.\""]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dòng 5 rất hay sai:</b> tiếng Việt hay chấm phẩy trước “rằng”, nhưng tiếng Anh <b>không bao giờ đặt phẩy trước <i>that</i></b>.<br><i>I think<b>,</b> that it's fine</i> ✗ → <i>I think that it's fine</i> ✓. Xem [Khung 41]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "If it rains, I'll stay home.", "vi": "Nếu trời mưa, tôi sẽ ở nhà.", "note": "BẪY SỐ MỘT: mệnh đề <i>if</i> đứng TRƯỚC nên CÓ phẩy. Xem [Khung 97]." },
+            { "en": "I'll stay home if it rains.", "vi": "Tôi sẽ ở nhà nếu trời mưa.", "note": "Đứng SAU thì KHÔNG phẩy. Cùng một câu, hai cách viết." },
+            { "en": "When I was young, I lived in Hue.", "vi": "Hồi trẻ tôi sống ở Huế.", "note": "Mệnh đề <i>when</i> đứng trước — có phẩy. Xem [Khung 96]." },
+            { "en": "It was raining, but we went out.", "vi": "Trời mưa nhưng bọn tôi vẫn ra ngoài.", "note": "BẪY SỐ HAI: phải có <b>but</b> thì dấu phẩy mới hợp lệ." },
+            { "en": "It was raining; we went out anyway.", "vi": "Trời mưa; bọn tôi vẫn ra ngoài.", "note": "Chấm phẩy nối hai câu quan hệ chặt, không cần liên từ." },
+            { "en": "It rained. However, we went out.", "vi": "Trời mưa. Tuy nhiên bọn tôi vẫn ra ngoài.", "note": "<b>however</b> cần dấu CHẤM trước và dấu PHẨY sau. Xem [Ngữ pháp 48]." },
+            { "en": "I think that it's a good idea.", "vi": "Tôi nghĩ đó là ý hay.", "note": "KHÔNG phẩy trước <b>that</b>." },
+            { "en": "My boss, who is 40, lives nearby.", "vi": "Sếp tôi, năm nay 40 tuổi, sống gần đây.", "note": "Mệnh đề bổ sung có phẩy HAI đầu. Xem [Ngữ pháp 45]." },
+            { "en": "The man who called me is my boss.", "vi": "Người gọi tôi là sếp tôi.", "note": "Mệnh đề xác định thì KHÔNG phẩy — nghĩa khác hẳn." },
+            { "en": "It's a good idea, but its cost is high.", "vi": "Ý hay đấy, nhưng chi phí cao.", "note": "<b>it's</b> = <i>it is</i> · <b>its</b> = của nó, không có dấu lược." },
+            { "en": "I bought bread, milk and eggs.", "vi": "Tôi mua bánh mì, sữa và trứng.", "note": "Phẩy giữa các mục; trước <i>and</i> cuối cùng thì tùy chọn." },
+            { "en": "He said, \"I'm busy.\"", "vi": "Anh ấy nói: “Tôi bận.”", "note": "Có phẩy trước ngoặc kép, dấu chấm nằm TRONG ngoặc. Xem [Ngữ pháp 47]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🔀", "title": "Mệnh đề phụ đứng trước", "text": "<i>If it rains, …</i> — luôn có phẩy." },
+            { "icon": "➡️", "title": "Mệnh đề phụ đứng sau", "text": "<i>… if it rains.</i> — không phẩy." },
+            { "icon": "📋", "title": "Liệt kê nhiều thứ", "text": "<i>bread, milk and eggs</i>" },
+            { "icon": "🔗", "title": "Hai câu dính nhau về ý", "text": "Dùng dấu chấm phẩy <b>;</b>" },
+            { "icon": "💬", "title": "Trích nguyên văn", "text": "<i>He said, \"I'm busy.\"</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Đừng đặt phẩy trước <i>that</i>, và đừng nối hai câu bằng phẩy." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một mục ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi mục đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Từ quyết định có phẩy hay không",
+              "items": [
+                { "w": "if", "vi": "nếu", "ex": "If it rains, I'll stay home.", "exvi": "Nếu trời mưa tôi ở nhà.", "note": "BẪY SỐ MỘT: đứng TRƯỚC thì có phẩy, đứng SAU thì không." },
+                { "w": "when", "vi": "khi", "ex": "When I was young, I lived in Hue.", "exvi": "Hồi trẻ tôi sống ở Huế." },
+                { "w": "because", "vi": "vì", "ex": "I left because I was tired.", "exvi": "Tôi về vì tôi mệt.", "note": "Đứng sau nên KHÔNG phẩy." },
+                { "w": "although", "vi": "mặc dù", "ex": "Although it rained, we went out.", "exvi": "Mặc dù mưa bọn tôi vẫn ra ngoài.", "note": "Đứng trước nên có phẩy. Xem [Ngữ pháp 48]." },
+                { "w": "while", "vi": "trong khi", "ex": "While I was cooking, he called.", "exvi": "Lúc tôi đang nấu thì anh ấy gọi." },
+                { "w": "after / before", "vi": "sau khi / trước khi", "ex": "After we ate, we left.", "exvi": "Ăn xong bọn tôi về." },
+                { "w": "that", "vi": "rằng", "ex": "I think that it's fine.", "exvi": "Tôi nghĩ là ổn.", "note": "KHÔNG BAO GIỜ có phẩy trước <b>that</b>. Xem [Khung 41]." },
+                { "w": "but", "vi": "nhưng", "ex": "It rained, but we went out.", "exvi": "Trời mưa nhưng bọn tôi vẫn đi.", "note": "Có <b>but</b> thì dấu phẩy nối hai câu mới hợp lệ." },
+                { "w": "and", "vi": "và", "ex": "I called him, and he answered.", "exvi": "Tôi gọi và anh ấy nghe máy." },
+                { "w": "so", "vi": "nên", "ex": "I was tired, so I left.", "exvi": "Tôi mệt nên tôi về." },
+                { "w": "however", "vi": "tuy nhiên", "ex": "It rained. However, we went out.", "exvi": "Trời mưa. Tuy nhiên bọn tôi vẫn đi.", "note": "Dấu CHẤM trước, dấu PHẨY sau — không phải dấu phẩy ở cả hai bên." },
+                { "w": "for example", "vi": "ví dụ", "ex": "For example, you could call first.", "exvi": "Ví dụ, bạn có thể gọi trước đã.", "note": "Đứng đầu câu thì có phẩy sau." }
+              ]
+            },
+            {
+              "title": "Dấu lược, ngoặc kép & cặp dễ nhầm",
+              "items": [
+                { "w": "it's", "vi": "nó là / nó đã", "ex": "It's a good idea.", "exvi": "Đó là ý hay.", "note": "<b>it's</b> LUÔN là <i>it is</i> hoặc <i>it has</i>." },
+                { "w": "its", "vi": "của nó", "ex": "Its cost is high.", "exvi": "Chi phí của nó cao.", "note": "Sở hữu — KHÔNG có dấu lược. Xem [Ngữ pháp 23]." },
+                { "w": "Nam's book", "vi": "sách của Nam", "ex": "This is Nam's book.", "exvi": "Đây là sách của Nam." },
+                { "w": "the students' books", "vi": "sách của các sinh viên", "ex": "The students' books are here.", "exvi": "Sách của sinh viên ở đây.", "note": "Số nhiều đã có <i>s</i> thì chỉ thêm dấu lược." },
+                { "w": "the children's books", "vi": "sách của bọn trẻ", "ex": "The children's books are new.", "exvi": "Sách của bọn trẻ còn mới.", "note": "Số nhiều bất quy tắc thì vẫn dùng <b>'s</b>." },
+                { "w": "don't / can't", "vi": "dạng rút gọn", "ex": "I don't know.", "exvi": "Tôi không biết.", "note": "Dấu lược thay cho chữ bị lược đi." },
+                { "w": "you're / your", "vi": "bạn là / của bạn", "ex": "You're right about your plan.", "exvi": "Bạn nói đúng về kế hoạch của bạn.", "note": "Cặp nhầm nhiều nhất sau <i>its / it's</i>." },
+                { "w": "they're / their / there", "vi": "họ là / của họ / ở đó", "ex": "They're taking their bags there.", "exvi": "Họ đang mang túi của họ tới đó." },
+                { "w": "\" \"", "vi": "ngoặc kép", "ex": "He said, \"I'm busy.\"", "exvi": "Anh ấy nói: “Tôi bận.”", "note": "Kiểu Mỹ đặt dấu chấm, phẩy nằm TRONG ngoặc kép." },
+                { "w": ";", "vi": "chấm phẩy", "ex": "It rained; we went out anyway.", "exvi": "Trời mưa; bọn tôi vẫn ra ngoài.", "note": "Hai vế phải là hai câu HOÀN CHỈNH." },
+                { "w": ":", "vi": "hai chấm", "ex": "I need three things: time, money and luck.", "exvi": "Tôi cần ba thứ: thời gian, tiền và may mắn.", "note": "Vế trước dấu hai chấm phải là câu hoàn chỉnh." },
+                { "w": "–", "vi": "gạch ngang", "ex": "He called me - twice.", "exvi": "Anh ấy gọi tôi - những hai lần.", "note": "Thay cho dấu phẩy khi muốn nhấn mạnh, dùng nhiều trong văn nói viết lại." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'll stay home<b>,</b> if it rains.", "right": "I'll stay home <b>if it rains</b>.", "why": "BẪY SỐ MỘT: mệnh đề <i>if</i> đứng SAU thì KHÔNG có phẩy." },
+            { "wrong": "<b>If it rains</b> I'll stay home.", "right": "<b>If it rains,</b> I'll stay home.", "why": "Ngược lại — đứng TRƯỚC thì bắt buộc có phẩy." },
+            { "wrong": "It was raining<b>,</b> we went out.", "right": "It was raining<b>, but</b> we went out.", "why": "BẪY SỐ HAI: hai câu hoàn chỉnh không nối được bằng mỗi dấu phẩy." },
+            { "wrong": "I think<b>,</b> that it's fine.", "right": "I think <b>that</b> it's fine.", "why": "KHÔNG BAO GIỜ có phẩy trước <b>that</b>. Xem [Khung 41]." },
+            { "wrong": "It rained<b>, however,</b> we went out.", "right": "It rained<b>. However,</b> we went out.", "why": "<b>however</b> cần dấu chấm hoặc chấm phẩy trước nó. Xem [Ngữ pháp 48]." },
+            { "wrong": "<b>Its</b> a good idea.", "right": "<b>It's</b> a good idea.", "why": "<b>it's</b> = <i>it is</i>. Thử thay bằng <i>it is</i> xem câu còn xuôi không." },
+            { "wrong": "The company raised <b>it's</b> prices.", "right": "The company raised <b>its</b> prices.", "why": "Sở hữu thì KHÔNG có dấu lược — đây là ngoại lệ duy nhất." },
+            { "wrong": "The <b>student's</b> books are here. <i>(nhiều sinh viên)</i>", "right": "The <b>students'</b> books are here.", "why": "Số nhiều đã có <i>s</i> thì dấu lược đứng SAU. Xem [Ngữ pháp 23]." },
+            { "wrong": "My boss<b> who is 40 </b>lives nearby.", "right": "My boss<b>, who is 40,</b> lives nearby.", "why": "Mệnh đề bổ sung cần phẩy ở CẢ HAI đầu. Xem [Ngữ pháp 45]." },
+            { "wrong": "He said <b>\"I'm busy\".</b>", "right": "He said<b>, \"I'm busy.\"</b>", "why": "Có phẩy trước ngoặc kép, và dấu chấm nằm TRONG ngoặc." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["Mệnh đề phụ trước / sau", "Có phẩy / không phẩy", "If it rains, I'll stay ≠ I'll stay if it rains"],
+            ["<code>,</code> / <code>;</code>", "Cần liên từ / không cần", "It rained, but we went ≠ It rained; we went"],
+            ["<code>,</code> / <code>.</code> trước <code>however</code>", "Sai / đúng", "It rained. However, …"],
+            ["<code>its</code> / <code>it's</code>", "Sở hữu / <code>it is</code>", "its cost ≠ it's a good idea"],
+            ["<code>your</code> / <code>you're</code>", "Sở hữu / <code>you are</code>", "your plan ≠ you're right"],
+            ["Mệnh đề quan hệ có phẩy / không", "Bổ sung / xác định", "My boss, who… ≠ The man who…"],
+            ["<code>:</code> / <code>;</code>", "Dẫn vào danh sách / nối hai câu", "three things: time, money ≠ It rained; we went"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: có cần dấu phẩy ở đây không?" },
+        {
+          "t": "tree",
+          "q": "Bạn đang phân vân có đặt dấu phẩy hay không — nhìn vào phần đứng trước vị trí đó.",
+          "nodes": [
+            { "if": "Trước nó là mệnh đề if / when / although", "then": "Có phẩy", "ex": "If it rains, I'll stay home." },
+            { "if": "Mệnh đề if / when nằm ở cuối câu", "then": "KHÔNG phẩy", "ex": "I'll stay home if it rains." },
+            { "if": "Trước nó là trạng ngữ đầu câu", "then": "Có phẩy", "ex": "Last night, I went out." },
+            { "if": "Hai bên đều là câu hoàn chỉnh", "then": "Thêm liên từ, hoặc dùng . hoặc ;", "ex": "It rained; we went out." },
+            { "if": "Ngay sau nó là chữ that", "then": "KHÔNG phẩy", "ex": "I think that it's fine." },
+            { "if": "Mệnh đề quan hệ chỉ thêm thông tin phụ", "then": "Phẩy ở CẢ HAI đầu", "ex": "My boss, who is 40, lives nearby." }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ trang trọng khi nối hai ý" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "It rained - we went out anyway.", "vi": "Thoải mái nhất — gạch ngang" },
+            { "en": "It rained, but we went out.", "vi": "Bình thường" },
+            { "en": "It rained. We went out anyway.", "vi": "Gọn, rõ" },
+            { "en": "It rained; we went out anyway.", "vi": "Trang trọng" },
+            { "en": "Although it rained, we went out.", "vi": "Trang trọng nhất — văn viết" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Luật dấu câu quyết định cách viết những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 97, "why": "If + hiện tại, I'll + V — khung chính của BẪY SỐ MỘT, phẩy sau mệnh đề if." },
+            { "id": 98, "why": "If I were you, I'd + V — cùng luật phẩy, mệnh đề if đứng trước." },
+            { "id": 96, "why": "When I was…, I + V2 — mệnh đề when đứng trước nên có phẩy." },
+            { "id": 41, "why": "I think (that) + mệnh đề — không bao giờ đặt phẩy trước that." },
+            { "id": 52, "why": "That's a good point, but… — dấu phẩy hợp lệ vì có liên từ but." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Thêm dấu câu cho đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Nếu trời mưa, tôi sẽ ở nhà.", "blank": "If it rains __ I'll stay home.", "a": ", (có phẩy)" },
+            { "vi": "Tôi sẽ ở nhà nếu trời mưa.", "blank": "I'll stay home __ if it rains.", "a": "không dấu gì" },
+            { "vi": "Hồi trẻ tôi sống ở Huế.", "blank": "When I was young __ I lived in Hue.", "a": ", (có phẩy)" },
+            { "vi": "Tôi nghĩ đó là ý hay.", "blank": "I think __ that it's a good idea.", "a": "không dấu gì" },
+            { "vi": "Trời mưa. Tuy nhiên bọn tôi vẫn ra ngoài.", "blank": "It rained __ However, we went out.", "a": ". (dấu chấm)" },
+            { "vi": "Sếp tôi, năm nay 40 tuổi, sống gần đây.", "blank": "My boss __ who is 40 __ lives nearby.", "a": ", … , (phẩy hai đầu)" },
+            { "vi": "Trời mưa nhưng bọn tôi vẫn ra ngoài.", "blank": "It was raining __ but we went out.", "a": ", (có phẩy)" },
+            { "vi": "Tôi mua bánh mì, sữa và trứng.", "blank": "I bought bread __ milk and eggs.", "a": ", (có phẩy)" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn câu đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi sẽ ở nhà nếu trời mưa.", "blank": "(a) I'll stay home, if it rains.  (b) I'll stay home if it rains.", "a": "(b)" },
+            { "vi": "Trời mưa nhưng bọn tôi vẫn ra ngoài.", "blank": "(a) It was raining, we went out.  (b) It was raining, but we went out.", "a": "(b)" },
+            { "vi": "Đó là ý hay.", "blank": "(a) Its a good idea.  (b) It's a good idea.", "a": "(b)" },
+            { "vi": "Công ty tăng giá của họ.", "blank": "(a) The company raised it's prices.  (b) The company raised its prices.", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Nếu trời mưa, tôi sẽ ở nhà.", "a": "If it rains, I'll stay home." },
+            { "vi": "2. Tôi sẽ ở nhà nếu trời mưa.", "a": "I'll stay home if it rains." },
+            { "vi": "3. Trời mưa. Tuy nhiên bọn tôi vẫn ra ngoài.", "a": "It rained. However, we went out." },
+            { "vi": "4. Ý hay đấy, nhưng chi phí của nó cao.", "a": "It's a good idea, but its cost is high." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật một dòng:</b> mệnh đề phụ đứng <b>TRƯỚC thì có phẩy</b>, đứng <b>SAU thì không</b>. Áp cho <i>if, when, because, although, while</i>.",
+            "<b>Trước khi đặt phẩy, hỏi: hai bên có phải hai câu hoàn chỉnh không?</b> Nếu phải thì cần thêm liên từ, hoặc đổi sang dấu chấm hay chấm phẩy.",
+            "<b>Không bao giờ đặt phẩy trước <i>that</i></b> — dù tiếng Việt có dừng một nhịp ở chỗ “rằng”.",
+            "<b>Mẹo <i>its</i> / <i>it's</i>:</b> thử thay bằng <i>it is</i>. Xuôi thì viết <b>it's</b>, không xuôi thì viết <b>its</b>.",
+            "<b><i>however</i> không phải <i>but</i>:</b> trước nó là dấu chấm hoặc chấm phẩy, sau nó là dấu phẩy.",
+            "<b>Bài tập 3 phút:</b> mở một email tiếng Anh bạn vừa viết, soát riêng dấu phẩy quanh <i>if, when, that</i> và kiểm tra mọi chữ <i>its / it's</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

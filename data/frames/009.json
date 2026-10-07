@@ -1,0 +1,490 @@
+{
+  "id": 9,
+  "group": "Nhóm 1 · Mong muốn & Nhu cầu",
+  "title": "I wish I could… — Nói ra điều không thể, và từ chối thật đẹp",
+  "subtitle": "Khung của điều không xảy ra được: ước ao, tiếc nuối, bất lực. Nhưng công dụng thực tế lớn nhất của nó lại là từ chối — “I wish I could, but…” là cách nói không khiến người nghe cảm thấy được trân trọng chứ không bị chối.",
+  "pattern": [
+    "I wish I could <em>+ V</em>",
+    "I wish <em>+ mệnh đề quá khứ</em>",
+    "I wish I had <em>+ V3</em>"
+  ],
+  "meaning": "Ước gì… (điều không thể hoặc không có thật)",
+  "grammar": [59, 15, 29],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 5/5" },
+    { "text": "Từ chối lời mời đẹp nhất" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">wish</span> nói về điều <b>trái với thực tế</b>: không có, không thể, hoặc đã lỡ mất. Đây là ranh giới tuyệt đối với <span class=\"k\">hope</span> ở [Khung 07]: <i>I hope I pass</i> (chưa thi, còn cơ hội) khác hẳn <i>I wish I had studied</i> (thi rồi, hết cách)." },
+        { "t": "p", "html": "Vì luôn hàm ý “tôi không làm được”, khung này mang sẵn một tầng cảm xúc: tiếc nuối, bất lực, đôi khi là khao khát. Nói <i>I wish I could help</i> nghĩa là bạn thật lòng muốn giúp nhưng có rào cản thật — nó thành thật hơn hẳn một lời từ chối trơn." },
+        { "t": "p", "html": "Đó là lý do <span class=\"k\">I wish I could, but…</span> là công thức từ chối lời mời đẹp nhất trong tiếng Anh. Bạn khẳng định mình muốn tham gia trước, rồi mới nêu lý do. Người mời nghe xong không cảm thấy bị chối, mà cảm thấy được coi trọng." },
+        { "t": "callout", "html": "<b>Quy tắc thì bắt buộc:</b> sau <i>wish</i> luôn <b>lùi một thì</b>. Nói về hiện tại → dùng <b>quá khứ</b> (<i>I wish I had more time</i>). Nói về quá khứ → dùng <b>quá khứ hoàn thành</b> (<i>I wish I had known</i>). Không bao giờ có <i>I wish I can</i>." },
+        { "t": "h3", "text": "Bốn kiểu “wish”, bốn nghĩa khác nhau" },
+        {
+          "t": "table",
+          "head": ["Công thức", "Nói về", "Ví dụ"],
+          "rows": [
+            ["<code>I wish I could + V</code>", "Hiện tại — tôi không làm được", "I wish I could join you. (tôi bận, không đi được)"],
+            ["<code>I wish + quá khứ đơn</code>", "Hiện tại — điều không có thật", "I wish I had more time. (tôi không có thời gian)"],
+            ["<code>I wish + had + V3</code>", "Quá khứ — tiếc nuối, đã lỡ", "I wish I had asked earlier. (tôi đã không hỏi)"],
+            ["<code>I wish + would + V</code>", "Phàn nàn về người/việc khác", "I wish he would stop interrupting. (tôi bực)"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💌", "title": "Từ chối lời mời", "text": "Ứng dụng số một. <i>I wish I could, but I'm away that weekend.</i> Đẹp hơn mọi lời từ chối khác." },
+            { "icon": "🤲", "title": "Nói mình không giúp được", "text": "<i>I wish I could help, but it's not my call.</i> Thể hiện thiện chí dù bất lực." },
+            { "icon": "😔", "title": "Tiếc nuối chuyện đã qua", "text": "<i>I wish I had known earlier.</i> Rút kinh nghiệm mà không đổ lỗi cho ai." },
+            { "icon": "🙏", "title": "Chúc tụng", "text": "<i>I wish you all the best.</i> Nghĩa hoàn toàn khác — là lời chúc, không phải ước." },
+            { "icon": "😤", "title": "Phàn nàn nhẹ", "text": "<i>I wish people would reply to emails.</i> Bực mà không chỉ đích danh ai." },
+            { "icon": "✨", "title": "Mơ ước cho vui", "text": "<i>I wish I could speak ten languages.</i> Câu chuyện phiếm hằng ngày." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Không làm được (hiện tại)", "<code>I wish I could + V</code>", "I wish I could stay longer."],
+            ["Điều không có thật (hiện tại)", "<code>I wish + chủ ngữ + quá khứ đơn</code>", "I wish I knew the answer."],
+            ["Với động từ “to be”", "<code>I wish I were…</code>", "I wish I were better at this."],
+            ["Tiếc nuối quá khứ", "<code>I wish + chủ ngữ + had + V3</code>", "I wish I had asked earlier."],
+            ["Tiếc điều đã làm", "<code>I wish I hadn't + V3</code>", "I wish I hadn't said that."],
+            ["Phàn nàn về người khác", "<code>I wish + chủ ngữ + would + V</code>", "I wish he would let me finish."],
+            ["Từ chối lịch sự", "<code>I wish I could, but…</code>", "I wish I could, but I have plans."],
+            ["Chúc ai đó", "<code>I wish you + danh từ</code>", "I wish you all the best."],
+            ["Trả lời ngắn (đùa)", "<code>I wish!</code>", "“Is that your car?” — “I wish!”"],
+            ["Trang trọng khi viết", "<code>if you wish</code>", "You can pay later, if you wish."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Về “were” và “was”:</b> sách vở yêu cầu <span class=\"k\">I wish I were…</span> cho mọi ngôi. Khi nói đời thường, người bản xứ vẫn hay dùng <i>I wish I was…</i>. Trong email trang trọng và bài thi thì cứ dùng <b>were</b> cho chắc." },
+        { "t": "callout", "html": "<b>Bẫy “would”:</b> không bao giờ nói <i>I wish I would…</i> về chính mình. <b>would</b> chỉ dùng khi phàn nàn về người khác hoặc sự việc ngoài tầm bạn: <i>I wish it would stop raining.</i>" }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “I wish I could…”",
+              "items": [
+                { "w": "come", "vi": "đến, tham gia", "ex": "I wish I could come, but I'm away that weekend.", "exvi": "Ước gì tôi đi được, nhưng cuối tuần đó tôi đi vắng.", "note": "Công thức từ chối lời mời chuẩn mực nhất." },
+                { "w": "join", "vi": "tham gia cùng", "ex": "I wish I could join you for dinner.", "exvi": "Ước gì tôi ăn tối cùng mọi người được." },
+                { "w": "help", "vi": "giúp", "ex": "I wish I could help, but it's not my decision.", "exvi": "Ước gì tôi giúp được, nhưng việc đó không do tôi quyết." },
+                { "w": "stay", "vi": "ở lại", "ex": "I wish I could stay longer.", "exvi": "Ước gì tôi ở lại lâu hơn được.", "note": "Câu chia tay ấm áp khi phải về sớm." },
+                { "w": "say yes", "vi": "nhận lời", "ex": "I wish I could say yes, but my plate is full.", "exvi": "Ước gì tôi nhận lời được, nhưng tôi đang quá tải.", "note": "<i>my plate is full</i> = tôi đang quá nhiều việc." },
+                { "w": "do more", "vi": "làm nhiều hơn", "ex": "I wish I could do more for you.", "exvi": "Ước gì tôi làm được nhiều hơn cho bạn." },
+                { "w": "remember", "vi": "nhớ ra", "ex": "I wish I could remember her name.", "exvi": "Ước gì tôi nhớ được tên cô ấy." },
+                { "w": "speak", "vi": "nói (ngôn ngữ)", "ex": "I wish I could speak Japanese.", "exvi": "Ước gì tôi nói được tiếng Nhật." },
+                { "w": "afford", "vi": "đủ tiền mua", "ex": "I wish I could afford that.", "exvi": "Ước gì tôi đủ tiền mua cái đó.", "note": "<i>afford</i> = có đủ khả năng tài chính. Luôn đi với <i>can/could</i>." },
+                { "w": "take it back", "vi": "rút lại lời", "ex": "I wish I could take it back.", "exvi": "Ước gì tôi rút lại được lời đó." },
+                { "w": "be there", "vi": "có mặt", "ex": "I wish I could be there with you.", "exvi": "Ước gì tôi có mặt ở đó cùng bạn.", "note": "Câu hay dùng khi ai đó gặp chuyện buồn mà bạn ở xa." },
+                { "w": "fix", "vi": "sửa", "ex": "I wish I could fix this for you.", "exvi": "Ước gì tôi sửa được cái này giúp bạn." },
+                { "w": "change", "vi": "thay đổi", "ex": "I wish I could change the deadline.", "exvi": "Ước gì tôi đổi được hạn chót." },
+                { "w": "explain", "vi": "giải thích", "ex": "I wish I could explain it better.", "exvi": "Ước gì tôi giải thích hay hơn được." },
+                { "w": "understand", "vi": "hiểu", "ex": "I wish I could understand why.", "exvi": "Ước gì tôi hiểu được vì sao." },
+                { "w": "travel", "vi": "đi đây đó", "ex": "I wish I could travel more.", "exvi": "Ước gì tôi được đi nhiều hơn." },
+                { "w": "start over", "vi": "làm lại từ đầu", "ex": "Sometimes I wish I could start over.", "exvi": "Đôi khi tôi ước được làm lại từ đầu." },
+                { "w": "give you an answer", "vi": "trả lời bạn ngay", "ex": "I wish I could give you an answer today.", "exvi": "Ước gì hôm nay tôi trả lời bạn được." },
+                { "w": "make it", "vi": "đến được", "ex": "I wish I could make it to the wedding.", "exvi": "Ước gì tôi dự đám cưới được." },
+                { "w": "switch off", "vi": "ngưng nghĩ ngợi", "ex": "I wish I could switch off at weekends.", "exvi": "Ước gì cuối tuần tôi không nghĩ tới công việc được." }
+              ]
+            },
+            {
+              "title": "Tiếc nuối về hiện tại & quá khứ",
+              "items": [
+                { "w": "I wish I had more time", "vi": "ước gì tôi có nhiều thời gian hơn", "ex": "I wish I had more time for this.", "exvi": "Ước gì tôi có nhiều thời gian hơn cho việc này.", "note": "Dùng <b>had</b> (quá khứ) vì nói về hiện tại — không phải <i>have</i>." },
+                { "w": "I wish I knew", "vi": "ước gì tôi biết", "ex": "I wish I knew the answer, honestly.", "exvi": "Thật lòng thì ước gì tôi biết câu trả lời.", "note": "Cách nói “tôi cũng không biết” mà nghe có thiện chí." },
+                { "w": "I wish I lived closer", "vi": "ước gì tôi ở gần hơn", "ex": "I wish I lived closer to my family.", "exvi": "Ước gì tôi ở gần gia đình hơn." },
+                { "w": "I wish it were simpler", "vi": "ước gì nó đơn giản hơn", "ex": "I wish it were simpler, but it isn't.", "exvi": "Ước gì nó đơn giản hơn, nhưng không phải vậy." },
+                { "w": "I wish I had known", "vi": "ước gì tôi biết sớm", "ex": "I wish I had known earlier.", "exvi": "Ước gì tôi biết sớm hơn.", "note": "Quá khứ hoàn thành — tiếc về chuyện đã rồi." },
+                { "w": "I wish I had asked", "vi": "ước gì tôi đã hỏi", "ex": "I wish I had asked before I bought it.", "exvi": "Ước gì tôi đã hỏi trước khi mua." },
+                { "w": "I wish I hadn't said that", "vi": "ước gì tôi đã không nói vậy", "ex": "I wish I hadn't said that in the meeting.", "exvi": "Ước gì tôi đã không nói câu đó trong cuộc họp." },
+                { "w": "I wish we had started earlier", "vi": "ước gì mình bắt đầu sớm hơn", "ex": "I wish we had started earlier on this.", "exvi": "Ước gì chúng ta bắt đầu việc này sớm hơn." },
+                { "w": "I wish I had studied harder", "vi": "ước gì tôi học chăm hơn", "ex": "I wish I had studied harder at school.", "exvi": "Ước gì hồi đi học tôi chăm hơn." },
+                { "w": "I wish I hadn't waited", "vi": "ước gì tôi đã không chần chừ", "ex": "I wish I hadn't waited so long to apply.", "exvi": "Ước gì tôi đã không chần chừ lâu vậy mới nộp đơn." }
+              ]
+            },
+            {
+              "title": "Biến thể & cụm hay gặp",
+              "items": [
+                { "w": "I wish I could, but…", "vi": "ước gì được, nhưng…", "ex": "I wish I could, but I've got a family thing.", "exvi": "Ước gì tôi đi được, nhưng tôi có việc gia đình.", "note": "Công thức từ chối đẹp nhất: khẳng định thiện chí TRƯỚC, nêu lý do SAU." },
+                { "w": "I wish you would…", "vi": "ước gì bạn chịu…", "ex": "I wish you would let me finish.", "exvi": "Ước gì bạn để tôi nói hết.", "note": "Phàn nàn về người khác. Khá nặng — cân nhắc trước khi dùng." },
+                { "w": "I wish you all the best", "vi": "chúc bạn mọi điều tốt đẹp", "ex": "I wish you all the best in your new role.", "exvi": "Chúc bạn mọi điều tốt đẹp ở vị trí mới.", "note": "NGHĨA KHÁC: đây là lời chúc, không phải điều ước bất khả." },
+                { "w": "I wish!", "vi": "ước gì!", "ex": "“Is that your car?” — “I wish!”", "exvi": "“Xe của bạn à?” — “Ước gì!”", "note": "Trả lời ngắn mang tính đùa, rất tự nhiên." },
+                { "w": "if you wish", "vi": "nếu bạn muốn", "ex": "You can pay later, if you wish.", "exvi": "Anh/chị có thể trả sau, nếu muốn.", "note": "Trang trọng — hay gặp trong thư từ và dịch vụ cao cấp." },
+                { "w": "wishful thinking", "vi": "mơ mộng hão", "ex": "Finishing by Friday? That's wishful thinking.", "exvi": "Xong trước thứ Sáu à? Mơ mộng hão thôi." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I wish I could, but I'm away that weekend.",
+                  "vi": "Ước gì tôi đi được, nhưng cuối tuần đó tôi đi vắng.",
+                  "note": "Công thức từ chối lời mời đẹp nhất. Người mời nghe xong cảm thấy được trân trọng chứ không bị chối.",
+                  "open": { "en": "Thanks so much for thinking of me.", "vi": "Cảm ơn bạn đã nghĩ đến mình." },
+                  "reply": [
+                    { "them": "That's a shame! Next time then.", "themvi": "Tiếc quá! Vậy lần sau nhé.", "you": "Definitely — let me know when.", "youvi": "Chắc chắn rồi — khi nào có thì báo mình." },
+                    { "them": "Could you come the following week?", "themvi": "Tuần sau nữa bạn đến được không?", "you": "That should work. Let me check.", "youvi": "Chắc là được. Để mình xem lại lịch." }
+                  ],
+                  "close": { "en": "Have a great time — take photos!", "vi": "Chúc mọi người vui vẻ — nhớ chụp ảnh nhé!" }
+                },
+                {
+                  "en": "I wish I could be there with you.",
+                  "vi": "Ước gì tôi có mặt ở đó cùng bạn.",
+                  "note": "Câu nên thuộc khi người thân gặp chuyện buồn mà bạn ở xa. Rất ấm mà không sáo rỗng.",
+                  "reply": [
+                    { "them": "I know. Thanks for calling.", "themvi": "Mình biết mà. Cảm ơn bạn đã gọi.", "you": "Call me any time, day or night.", "youvi": "Lúc nào cần cứ gọi mình, ngày hay đêm cũng được." }
+                  ]
+                },
+                {
+                  "en": "I wish I lived closer to my family.",
+                  "vi": "Ước gì tôi ở gần gia đình hơn.",
+                  "note": "Dùng <b>lived</b> (quá khứ) vì đang nói về hiện tại không có thật.",
+                  "reply": [
+                    { "them": "How often do you get back?", "themvi": "Bạn về thăm nhà bao lâu một lần?", "you": "Twice a year, if I'm lucky.", "youvi": "May thì hai lần một năm." }
+                  ],
+                  "vars": [
+                    { "en": "I wish I had more time for my family.", "vi": "Ước gì tôi có nhiều thời gian hơn cho gia đình." }
+                  ]
+                },
+                {
+                  "en": "I wish I hadn't waited so long to start.",
+                  "vi": "Ước gì tôi đã không chần chừ lâu vậy mới bắt đầu.",
+                  "note": "Quá khứ hoàn thành phủ định — tiếc vì đã làm (hoặc không làm) một việc trong quá khứ.",
+                  "reply": [
+                    { "them": "You started, though. That's what counts.", "themvi": "Nhưng bạn đã bắt đầu rồi. Điều đó mới quan trọng.", "you": "True. Better late than never.", "youvi": "Đúng thật. Muộn còn hơn không." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I wish I could help, but it's not my decision.",
+                  "vi": "Ước gì tôi giúp được, nhưng việc đó không do tôi quyết.",
+                  "note": "Thể hiện thiện chí rồi mới nêu giới hạn quyền hạn — giữ được quan hệ dù không giúp được.",
+                  "reply": [
+                    { "them": "Who should I talk to then?", "themvi": "Vậy tôi nên nói chuyện với ai?", "you": "Try Hoa — she owns that process.", "youvi": "Thử hỏi chị Hoa — quy trình đó chị ấy phụ trách." }
+                  ],
+                  "vars": [
+                    { "en": "I wish I could approve it, but I don't have the authority.", "vi": "Ước gì tôi duyệt được, nhưng tôi không có thẩm quyền." }
+                  ],
+                  "close": { "en": "Let me know if you get stuck again.", "vi": "Nếu lại vướng thì báo tôi nhé." }
+                },
+                {
+                  "en": "I wish I could give you an answer today.",
+                  "vi": "Ước gì hôm nay tôi trả lời anh/chị được.",
+                  "note": "Cách hoãn trả lời mà vẫn cho thấy bạn hiểu sự sốt ruột của người kia.",
+                  "reply": [
+                    { "them": "When can you confirm?", "themvi": "Khi nào anh/chị xác nhận được ạ?", "you": "By Thursday at the latest.", "youvi": "Chậm nhất là thứ Năm." }
+                  ]
+                },
+                {
+                  "en": "I wish I had known about this earlier.",
+                  "vi": "Ước gì tôi biết chuyện này sớm hơn.",
+                  "note": "Nêu vấn đề về luồng thông tin mà không đổ lỗi cho ai — mạnh hơn hẳn <i>Why didn't you tell me?</i>",
+                  "open": { "en": "Just so we avoid this next time —", "vi": "Để lần sau mình tránh được —" },
+                  "reply": [
+                    { "them": "Sorry, I assumed you were on the email.", "themvi": "Xin lỗi, tôi tưởng anh/chị có trong email rồi.", "you": "No harm done. Could you add me going forward?", "youvi": "Không sao. Từ giờ thêm tôi vào nhé?" }
+                  ]
+                },
+                {
+                  "en": "I wish I could say yes, but my plate is full.",
+                  "vi": "Ước gì tôi nhận lời được, nhưng tôi đang quá tải.",
+                  "note": "<span class=\"k\">my plate is full</span> = tôi đang ôm quá nhiều việc. Cách từ chối việc mới mà nghe có trách nhiệm.",
+                  "reply": [
+                    { "them": "What could we take off your plate?", "themvi": "Mình bỏ bớt việc nào cho bạn được?", "you": "If the audit moves, I could take this.", "youvi": "Nếu dời được việc kiểm toán thì tôi nhận được ạ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I wish I could stay longer.",
+                  "vi": "Ước gì tôi ở lại lâu hơn được.",
+                  "note": "Câu chia tay ấm áp khi phải về sớm — chủ nhà nghe rất vui.",
+                  "reply": [
+                    { "them": "Next time, stay a whole week!", "themvi": "Lần sau ở hẳn một tuần nhé!", "you": "I'd love that. Thank you for everything.", "youvi": "Tôi rất muốn. Cảm ơn anh/chị vì tất cả." }
+                  ],
+                  "close": { "en": "I hope to come back next year.", "vi": "Mong năm sau được quay lại." }
+                },
+                {
+                  "en": "I wish I could speak the language better.",
+                  "vi": "Ước gì tôi nói được tiếng ở đây tốt hơn.",
+                  "reply": [
+                    { "them": "You're doing fine, honestly.", "themvi": "Thật ra bạn nói tốt mà.", "you": "That's kind of you to say.", "youvi": "Bạn nói vậy tử tế quá." }
+                  ]
+                },
+                {
+                  "en": "I wish it would stop raining.",
+                  "vi": "Ước gì trời ngừng mưa.",
+                  "note": "Dùng <b>would</b> vì đây là điều ngoài tầm kiểm soát của bạn — không bao giờ dùng <i>would</i> cho chính mình.",
+                  "reply": [
+                    { "them": "The forecast says it'll clear by three.", "themvi": "Dự báo nói ba giờ sẽ tạnh.", "you": "Let's wait it out then.", "youvi": "Vậy mình chờ tạnh rồi đi." }
+                  ]
+                },
+                {
+                  "en": "I wish I had booked earlier — everything's full.",
+                  "vi": "Ước gì tôi đặt sớm hơn — giờ kín chỗ hết rồi.",
+                  "reply": [
+                    { "them": "Try the place next door.", "themvi": "Thử chỗ bên cạnh xem.", "you": "Good idea. Fingers crossed.", "youvi": "Ý hay. Cầu mong còn chỗ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I wish I could eat spicy food like you.",
+                  "vi": "Ước gì tôi ăn cay được như bạn.",
+                  "reply": [
+                    { "them": "You get used to it, honestly.", "themvi": "Ăn quen là được mà, thật đấy.", "you": "Maybe I'll start small.", "youvi": "Chắc mình bắt đầu từ ít ít." }
+                  ]
+                },
+                {
+                  "en": "I wish I hadn't ordered so much.",
+                  "vi": "Ước gì tôi đã không gọi nhiều thế.",
+                  "note": "Tiếc về việc vừa làm xong — dùng quá khứ hoàn thành phủ định.",
+                  "reply": [
+                    { "them": "We can take the rest home.", "themvi": "Mình gói phần còn lại mang về được mà.", "you": "Good thinking.", "youvi": "Nghĩ hay đấy." }
+                  ]
+                },
+                {
+                  "en": "I wish I could cook like this.",
+                  "vi": "Ước gì tôi nấu được thế này.",
+                  "note": "Lời khen rất tự nhiên khi ăn ở nhà ai đó.",
+                  "reply": [
+                    { "them": "It's easier than it looks — I'll show you.", "themvi": "Dễ hơn nhìn thấy đấy — để mình chỉ cho.", "you": "I'd love that, thank you.", "youvi": "Vậy thì tuyệt, cảm ơn bạn." }
+                  ],
+                  "close": { "en": "Thank you for a lovely meal.", "vi": "Cảm ơn bạn vì bữa ăn tuyệt vời." }
+                },
+                {
+                  "en": "I wish I could join you for lunch, but I've got a call.",
+                  "vi": "Ước gì tôi đi ăn trưa cùng được, nhưng tôi có cuộc gọi.",
+                  "reply": [
+                    { "them": "No worries — tomorrow?", "themvi": "Không sao — mai nhé?", "you": "Tomorrow works. I'll come find you.", "youvi": "Mai được. Tôi sẽ qua tìm bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I wish I could afford that.",
+                  "vi": "Ước gì tôi đủ tiền mua cái đó.",
+                  "note": "<i>afford</i> luôn đi với <i>can / could</i>, không đứng một mình.",
+                  "reply": [
+                    { "them": "We have a similar one for half the price.", "themvi": "Bên em có mẫu tương tự giá bằng nửa ạ.", "you": "Really? Could I see it?", "youvi": "Thật ạ? Cho tôi xem được không?" }
+                  ]
+                },
+                {
+                  "en": "I wish they had it in my size.",
+                  "vi": "Ước gì có cỡ của tôi.",
+                  "reply": [
+                    { "them": "We can order it in for you.", "themvi": "Bên em đặt hàng về cho anh/chị được ạ.", "you": "How long would that take?", "youvi": "Mất bao lâu ạ?" }
+                  ]
+                },
+                {
+                  "en": "I wish I had kept the receipt.",
+                  "vi": "Ước gì tôi giữ lại biên lai.",
+                  "note": "Tiếc về quá khứ. So với <i>I don't have the receipt</i> thì câu này thừa nhận lỗi của mình nên nhân viên dễ thông cảm hơn.",
+                  "open": { "en": "I know this is my fault, but —", "vi": "Tôi biết là lỗi của tôi, nhưng —" },
+                  "reply": [
+                    { "them": "Do you have the bank statement?", "themvi": "Anh/chị có sao kê ngân hàng không ạ?", "you": "Yes, I can show you on my phone.", "youvi": "Có ạ, tôi mở trên điện thoại cho bạn xem." }
+                  ],
+                  "close": { "en": "Thanks for being flexible.", "vi": "Cảm ơn bạn đã linh động giúp." }
+                },
+                {
+                  "en": "I wish I hadn't bought it, to be honest.",
+                  "vi": "Thật lòng thì ước gì tôi đã không mua nó.",
+                  "reply": [
+                    { "them": "You can still return it within thirty days.", "themvi": "Trong ba mươi ngày anh/chị vẫn trả lại được ạ.", "you": "That's a relief. Thank you.", "youvi": "Vậy thì nhẹ cả người. Cảm ơn bạn." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Từ chối một lời mời đám cưới",
+          "lines": [
+            { "speaker": "Mai", "en": "We'd love you to come to the wedding in June.", "vi": "Bọn mình rất mong bạn đến dự đám cưới vào tháng Sáu." },
+            { "speaker": "You", "me": true, "en": "Thanks so much for thinking of me. I wish I could, but I'm away that whole week.", "vi": "Cảm ơn bạn đã nghĩ đến mình. Ước gì mình đi được, nhưng cả tuần đó mình đi vắng." },
+            { "speaker": "Mai", "en": "Oh no, that's a shame.", "vi": "Ôi, tiếc quá." },
+            { "speaker": "You", "me": true, "en": "I know. I wish I had known the date earlier — I'd have moved things around.", "vi": "Mình biết. Ước gì mình biết ngày sớm hơn — mình đã sắp xếp lại được." },
+            { "speaker": "Mai", "en": "Don't worry. We'll send you photos.", "vi": "Đừng lo. Bọn mình sẽ gửi ảnh cho bạn." },
+            { "speaker": "You", "me": true, "en": "Please do. I wish you both all the best.", "vi": "Nhớ gửi nhé. Chúc hai bạn mọi điều tốt đẹp." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Không giúp được đồng nghiệp",
+          "lines": [
+            { "speaker": "Colleague", "en": "Could you approve my expense claim today?", "vi": "Hôm nay anh duyệt giúp em đơn hoàn chi phí được không?" },
+            { "speaker": "You", "me": true, "en": "I wish I could, but it's not my decision anymore.", "vi": "Ước gì anh duyệt được, nhưng giờ việc đó không do anh quyết nữa." },
+            { "speaker": "Colleague", "en": "Oh. Who handles it now?", "vi": "Ồ. Giờ ai phụ trách ạ?" },
+            { "speaker": "You", "me": true, "en": "Finance do. I wish I had told you sooner — sorry about that.", "vi": "Bên tài chính. Ước gì anh nói với em sớm hơn — anh xin lỗi." },
+            { "speaker": "Colleague", "en": "No problem. I'll email them now.", "vi": "Không sao ạ. Em gửi email cho họ ngay." },
+            { "speaker": "You", "me": true, "en": "I'll copy you on the process doc so this doesn't happen again.", "vi": "Anh sẽ gửi em tài liệu quy trình để lần sau không bị vậy nữa." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I wish I can help.", "right": "I wish I could help.", "why": "Sau <b>wish</b> luôn lùi một thì. <i>can</i> phải thành <b>could</b>. Lỗi số một của khung này." },
+            { "wrong": "I wish I have more time.", "right": "I wish I had more time.", "why": "Nói về hiện tại không có thật thì dùng <b>quá khứ đơn</b>, dù nghĩa là bây giờ." },
+            { "wrong": "I wish I studied harder at school.", "right": "I wish I had studied harder at school.", "why": "Nói về <b>quá khứ</b> phải dùng <b>had + V3</b>. Câu sai kia có nghĩa là “bây giờ ước gì mình đang học chăm”." },
+            { "wrong": "I wish I would go to the party.", "right": "I wish I could go to the party.", "why": "Không bao giờ dùng <b>would</b> cho chính mình. <i>would</i> chỉ dùng khi phàn nàn về người/việc khác." },
+            { "wrong": "I wish you to have a good trip.", "right": "I wish you a good trip.", "why": "Khi chúc, công thức là <b>wish + ai + danh từ</b>, không có <i>to V</i>." },
+            { "wrong": "I wish I pass the exam tomorrow.", "right": "I hope I pass the exam tomorrow.", "why": "Còn khả năng xảy ra thì phải dùng <b>hope</b>, không phải <i>wish</i>. Xem [Khung 07]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I wish I could…</code>", "Không thể — tiếc nuối, bất lực", "<i>I wish I could join you.</i>"],
+            ["<code>I hope to…</code>", "Còn khả năng xảy ra", "<i>I hope to join you.</i> — Xem [Khung 07]."],
+            ["<code>I'd love to, but…</code>", "Rất muốn — từ chối nhiệt tình hơn", "<i>I'd love to, but I'm busy.</i> — Ấm áp hơn <i>I wish I could</i>."],
+            ["<code>I'd like to…</code>", "Muốn — không nói gì về khả năng", "<i>I'd like to join you.</i> — Xem [Khung 01]."],
+            ["<code>If only…</code>", "Y hệt <i>wish</i> nhưng cảm xúc mạnh hơn", "<i>If only I had known!</i>"],
+            ["<code>I should have…</code>", "Đáng lẽ tôi nên — tự trách", "<i>I should have asked.</i> — Nặng về trách nhiệm hơn."],
+            ["<code>I regret…</code>", "Hối tiếc, trang trọng", "<i>I regret not asking.</i> — Hay gặp khi viết."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — cùng một lời từ chối lời mời" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I can't.", "vi": "Cụt — dễ làm phật lòng" },
+            { "en": "I'm busy that day.", "vi": "Bình thường — chỉ nêu sự việc" },
+            { "en": "I'd rather not.", "vi": "Mềm — nhưng không thể hiện thiện chí" },
+            { "en": "I wish I could, but I'm away.", "vi": "Đẹp — khẳng định muốn đi trước" },
+            { "en": "I'd love to, but I really can't that weekend.", "vi": "Ấm nhất — nhiệt tình rồi mới từ chối" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>wish</b> = /wɪʃ/ — âm <b>w</b> chúm môi tròn, âm <b>sh</b> cuối kéo nhẹ. Đừng đọc thành “guýt”.",
+            "<b>I wish I</b> — ba âm tiết nói liền, âm /ʃ/ dính vào /aɪ/: nghe thành “ai-WI-shai”.",
+            "<b>could</b> = /kʊd/ — âm <b>l</b> hoàn toàn CÂM. Đọc là “kud”, không phải “cao-lđ”.",
+            "<b>I wish I could</b> nói nhanh thành “ai-wi-shai-kəd” — <i>could</i> giảm còn /kəd/ khi không nhấn.",
+            "<b>I wish I'd known</b> — <i>I'd</i> ở đây là <i>I had</i>, đọc /aɪd/ rất nhanh, dễ nghe sót.",
+            "Trọng âm rơi vào <b>WISH</b> và vào động từ chính: <i>I</i> <b>WISH</b> <i>I could</i> <b>HELP</b>."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I wish I could, but I'm away that weekend.", "vi": "Luyện shadowing: nghe — nhại lại — lặp 5 lần cho trôi cụm “I wish I could”." },
+            { "en": "I wish I had known earlier.", "vi": "Chú ý “had” đọc rất nhẹ — nhưng thiếu nó là sai thì hoàn toàn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Ước gì tôi giúp được, nhưng việc đó không do tôi quyết.", "blank": "__________, but it's not my decision.", "a": "I wish I could help" },
+            { "vi": "Ước gì tôi có nhiều thời gian hơn.", "blank": "I wish I __________ more time.", "a": "had (quá khứ, dù nói về hiện tại)" },
+            { "vi": "Ước gì tôi biết chuyện này sớm hơn.", "blank": "I wish I __________ about this earlier.", "a": "had known" },
+            { "vi": "Ước gì tôi đã không nói câu đó.", "blank": "I wish I __________ that.", "a": "hadn't said" },
+            { "vi": "Ước gì trời ngừng mưa.", "blank": "I wish it __________ raining.", "a": "would stop" },
+            { "vi": "Chúc bạn mọi điều tốt đẹp ở vị trí mới.", "blank": "__________ in your new role.", "a": "I wish you all the best" },
+            { "vi": "Ước gì tôi đủ tiền mua cái đó.", "blank": "I wish I __________ that.", "a": "could afford" },
+            { "vi": "Ngày mai tôi hi vọng thi đỗ.", "blank": "__________ the exam tomorrow.", "a": "I hope I pass (dùng hope, không dùng wish)" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Ước gì tôi đi được, nhưng cuối tuần đó tôi đi vắng.", "a": "I wish I could, but I'm away that weekend." },
+            { "vi": "2. Ước gì tôi có mặt ở đó cùng bạn.", "a": "I wish I could be there with you." },
+            { "vi": "3. Ước gì tôi ở lại lâu hơn được.", "a": "I wish I could stay longer." },
+            { "vi": "4. Ước gì tôi đã hỏi trước khi mua.", "a": "I wish I had asked before I bought it." },
+            { "vi": "5. Ước gì tôi nhận lời được, nhưng tôi đang quá tải.", "a": "I wish I could say yes, but my plate is full." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Thuộc công thức từ chối:</b> <i>I wish I could, but…</i> — khẳng định thiện chí trước, nêu lý do sau. Đây là giá trị lớn nhất của khung này.",
+            "<b>Nhớ quy tắc lùi thì:</b> hiện tại → quá khứ, quá khứ → quá khứ hoàn thành. Không bao giờ có <i>I wish I can</i>.",
+            "<b>Phân định rạch ròi hope / wish:</b> còn cơ hội → <i>hope</i>; hết cách → <i>wish</i>. Xem lại [Khung 07] nếu còn lẫn.",
+            "<b>Đừng dùng “would” cho chính mình:</b> <i>I wish I would…</i> luôn sai. Chỉ dùng <i>would</i> khi phàn nàn về người khác hay thời tiết.",
+            "<b>Tách riêng nghĩa chúc tụng:</b> <i>I wish you all the best</i> không phải điều ước bất khả — đó là lời chúc. Công thức là <i>wish + ai + danh từ</i>.",
+            "<b>Bài tập 3 phút:</b> viết 3 câu tiếc về hiện tại (<i>I wish I had…</i>), 3 câu tiếc về quá khứ (<i>I wish I had + V3</i>), và 1 lời từ chối bằng <i>I wish I could, but…</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

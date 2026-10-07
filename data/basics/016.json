@@ -1,0 +1,125 @@
+{
+  "id": 16,
+  "title": "Hỏi với động từ thường",
+  "teaches": ["don't", "doesn't", "works", "lives", "speaks", "likes", "goes", "eats", "is", "are", "meat", "coffee", "English", "Vietnamese"],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn hỏi được với mọi động từ thường: <i>Do you work here?</i> · <i>Does she speak English?</i> — và trả lời ngắn gọn." },
+        { "t": "callout", "html": "<b>Lại mượn <code>do</code>, nhưng lần này đặt lên ĐẦU câu.</b><br><br><i>You work here.</i> → <i><b>Do</b> you work here?</i><br><i>She works here.</i> → <i><b>Does</b> she work here?</i><br><br>Khác hẳn <code>to be</code> ở bài 09: ở đó chỉ cần <b>đảo chỗ</b>, ở đây phải <b>thêm một từ mới</b> vào đầu." }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "Bài 15 — <b>don't</b> và <b>doesn't</b>. Bài này dùng đúng sự phân chia đó, chỉ đổi vị trí: phủ định thì <i>do</i> đứng giữa, câu hỏi thì <i>do</i> đứng đầu." },
+        { "t": "p", "html": "Bài 09 — hỏi với <code>to be</code>, để thấy hai cách hỏi khác nhau thế nào." },
+        { "t": "link", "items": [
+          { "id": 15, "label": "Bài 15 — don't và doesn't" },
+          { "id": 9, "label": "Bài 09 — hỏi với to be" }
+        ] }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "table", "head": ["Luật", "Nghĩa là gì", "Ví dụ"], "rows": [
+          ["<b>1.</b> Đặt <b>Do</b> hoặc <b>Does</b> lên <b>đầu</b> câu", "Chủ ngữ và động từ giữ nguyên thứ tự", "<i><b>Do</b> you work here?</i>"],
+          ["<b>2.</b> <b>he · she · it</b> → dùng <b>Does</b>", "Giống luật chọn doesn't ở bài 15", "<i><b>Does</b> she work?</i>"],
+          ["<b>3.</b> Sau Do/Does, động từ <b>bỏ -s</b>", "Chữ -s đã nằm ở <i>Does</i> rồi", "<i>Does she work<s>s</s>?</i>"]
+        ] },
+        { "t": "h3", "text": "Bảng hỏi — đáp" },
+        { "t": "table", "head": ["Câu hỏi", "Đáp CÓ", "Đáp KHÔNG"], "rows": [
+          ["<b>Do I</b> …?", "Yes, you do.", "No, you don't."],
+          ["<b>Do you</b> …?", "Yes, I do.", "No, I don't."],
+          ["<b>Does he</b> …?", "Yes, he does.", "No, he doesn't."],
+          ["<b>Does she</b> …?", "Yes, she does.", "No, she doesn't."],
+          ["<b>Does it</b> …?", "Yes, it does.", "No, it doesn't."],
+          ["<b>Do we</b> …?", "Yes, we do.", "No, we don't."],
+          ["<b>Do they</b> …?", "Yes, they do.", "No, they don't."]
+        ] },
+        { "t": "callout", "html": "<b>Trả lời ngắn dùng lại <code>do/does</code>, KHÔNG nhắc lại động từ.</b><br><br><i>Do you work here?</i> — <i>Yes, I <b>do</b>.</i> (không nói <i>Yes, I work</i>)<br><i>Does she speak English?</i> — <i>Yes, she <b>does</b>.</i><br><br>Giống bài 09: câu hỏi dùng từ nào thì câu trả lời dùng lại từ đó." }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "Do — hỏi I, you, we, they" },
+        { "t": "ex", "items": [
+          { "en": "Do you work here?", "vi": "Bạn làm ở đây à?", "note": "<b>Do</b> lên đầu, <i>work</i> giữ nguyên." },
+          { "en": "Do you speak English?", "vi": "Bạn có nói tiếng Anh không?", "note": "Câu hay dùng nhất khi gặp người nước ngoài." },
+          { "en": "Do you like it?", "vi": "Bạn có thích cái đó không?", "note": "Ngắn, dùng mọi lúc." },
+          { "en": "Do they live here?", "vi": "Họ sống ở đây à?", "note": "<b>They</b> → <b>Do</b>." },
+          { "en": "Do we need this?", "vi": "Chúng ta có cần cái này không?", "note": "<b>We</b> → <b>Do</b>." },
+          { "en": "Do your parents live in Hue?", "vi": "Bố mẹ bạn sống ở Huế à?", "note": "Danh từ số nhiều — như <i>they</i>." }
+        ] },
+        { "t": "h3", "text": "Does — hỏi he, she, it" },
+        { "t": "ex", "items": [
+          { "en": "Does he work here?", "vi": "Anh ấy làm ở đây à?", "note": "<b>Does</b> + <i>work</i>, KHÔNG phải <i>works</i>." },
+          { "en": "Does she speak English?", "vi": "Cô ấy có nói tiếng Anh không?", "note": "<i>speak</i> bỏ <b>-s</b>." },
+          { "en": "Does it work?", "vi": "Nó có chạy không?", "note": "Hỏi về máy móc." },
+          { "en": "Does he like coffee?", "vi": "Anh ấy có thích cà phê không?", "note": "<i>like</i> nguyên dạng." },
+          { "en": "Does your mother cook every day?", "vi": "Mẹ bạn nấu ăn mỗi ngày à?", "note": "Một người — như <i>she</i>." },
+          { "en": "Does the shop open on Sunday?", "vi": "Chủ nhật cửa hàng có mở không?", "note": "Vật số ít — như <i>it</i>." }
+        ] },
+        { "t": "h3", "text": "Hỏi và đáp đầy đủ" },
+        { "t": "ex", "items": [
+          { "en": "Do you work here? — Yes, I do.", "vi": "Bạn làm ở đây à? — Vâng.", "note": "Đáp bằng <b>do</b>, không nhắc lại <i>work</i>." },
+          { "en": "Do you like tea? — No, I don't.", "vi": "Bạn thích trà không? — Không." },
+          { "en": "Does she live here? — Yes, she does.", "vi": "Cô ấy sống ở đây à? — Vâng.", "note": "Đáp bằng <b>does</b>." },
+          { "en": "Does he eat meat? — No, he doesn't.", "vi": "Anh ấy ăn thịt không? — Không." },
+          { "en": "Do they speak Vietnamese? — Yes, they do.", "vi": "Họ nói tiếng Việt à? — Vâng." }
+        ] },
+        { "t": "h3", "text": "So với to be — đừng trộn hai cách" },
+        { "t": "ex", "items": [
+          { "en": "Are you a student?", "vi": "Bạn là sinh viên à?", "note": "Có <code>to be</code> thì chỉ <b>đảo chỗ</b>." },
+          { "en": "Do you study English?", "vi": "Bạn học tiếng Anh à?", "note": "Động từ thường thì mượn <b>Do</b>." },
+          { "en": "Is she busy?", "vi": "Cô ấy có bận không?", "note": "<i>Is</i> — không có <i>does</i>." },
+          { "en": "Does she work on Sunday?", "vi": "Chủ nhật cô ấy có làm không?", "note": "<i>Does</i> — không có <i>is</i>." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — chọn Do hay Does" },
+        { "t": "quiz", "items": [
+          { "vi": "Bạn làm ở đây à?", "blank": "___ you work here?", "a": "Do" },
+          { "vi": "Cô ấy có nói tiếng Anh không?", "blank": "___ she speak English?", "a": "Does" },
+          { "vi": "Họ sống ở đây à?", "blank": "___ they live here?", "a": "Do" },
+          { "vi": "Nó có chạy không?", "blank": "___ it work?", "a": "Does" },
+          { "vi": "Bố mẹ bạn sống ở Huế à?", "blank": "___ your parents live in Hue?", "a": "Do — số nhiều" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — đổi sang câu hỏi" },
+        { "t": "quiz", "items": [
+          { "vi": "You work here. → câu hỏi", "a": "Do you work here?" },
+          { "vi": "She works here. → câu hỏi", "a": "Does she work here? — bỏ -s ở <i>work</i>" },
+          { "vi": "They speak English. → câu hỏi", "a": "Do they speak English?" },
+          { "vi": "He goes to school. → câu hỏi", "a": "Does he go to school?" }
+        ] },
+        { "t": "h3", "text": "Phần 3 — trả lời ngắn" },
+        { "t": "quiz", "items": [
+          { "vi": "Do you work here? — đáp CÓ", "a": "Yes, I do. — không nói <i>Yes, I work</i>" },
+          { "vi": "Does she live here? — đáp KHÔNG", "a": "No, she doesn't." },
+          { "vi": "Vì sao <i>Does she works?</i> sai?", "a": "Chữ -s đã nằm ở <i>Does</i> rồi — động từ phải trả lại" }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>Hỏi động từ thường = thêm <code>Do/Does</code> lên đầu.</b> Không đảo chỗ như <code>to be</code> — thứ tự chủ ngữ và động từ giữ nguyên.",
+          "<b>Sau <code>Do/Does</code>, động từ luôn nguyên dạng.</b> <i>Does she <b>work</b>?</i> — chữ <b>-s</b> đã ở <i>Does</i> rồi.",
+          "<b>Trả lời ngắn dùng lại <code>do/does</code>.</b> <i>Yes, I do.</i> · <i>No, she doesn't.</i> — không nhắc lại động từ."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "<i>Does she works here?</i>", "right": "<i>Does she work here?</i>", "why": "Cùng lỗi với bài 15: chữ <b>-s</b> chỉ được xuất hiện một lần trong câu. Nó đã nằm ở <i>Does</i> nên động từ phải về nguyên dạng." },
+          { "wrong": "<i>You work here?</i>", "right": "<i>Do you work here?</i>", "why": "Tiếng Việt chỉ cần lên giọng cuối câu là thành câu hỏi. Tiếng Anh với động từ thường thì bắt buộc phải có <b>Do/Does</b> ở đầu — thiếu nó thì đó là câu kể, không phải câu hỏi." },
+          { "wrong": "<i>Do you are a student?</i>", "right": "<i>Are you a student?</i>", "why": "Câu có <code>to be</code> thì KHÔNG mượn <i>do</i>. Hai cách hỏi này không bao giờ dùng chung: có <i>am/is/are</i> thì đảo chỗ, còn lại thì mượn <i>do</i>." }
+        ] }
+      ]
+    }
+  ]
+}

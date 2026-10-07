@@ -1,0 +1,490 @@
+{
+  "id": 17,
+  "group": "Nhóm 2 · Yêu cầu & Nhờ vả",
+  "title": "Could you tell me…? — Hỏi thông tin mà không đảo ngữ",
+  "subtitle": "Cách hỏi thông tin lịch sự nhất, và cũng là cái bẫy ngữ pháp lớn nhất của cả bộ 100 khung. Khi câu hỏi nằm bên trong một câu khác, nó phải trở lại thứ tự câu kể — không đảo ngữ, không thêm do/does. Sai chỗ này là lộ ngay trình độ.",
+  "pattern": [
+    "Could you tell me <em>+ wh- + chủ ngữ + động từ</em>?",
+    "Could you tell me <em>+ if/whether + mệnh đề</em>?",
+    "Do you know <em>+ wh- + mệnh đề</em>?"
+  ],
+  "meaning": "Bạn cho tôi biết… được không ạ?",
+  "grammar": [44],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Bẫy ngữ pháp nặng" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "Thay vì hỏi thẳng <i>Where is the station?</i>, bạn bọc câu hỏi đó vào trong một câu nhờ vả: <span class=\"k\">Could you tell me where the station is?</span> Người nghe không bị chất vấn mà được mời chia sẻ thông tin — nhã hơn hẳn." },
+        { "t": "p", "html": "Nhưng khi câu hỏi bị bọc vào trong, nó <b>không còn là câu hỏi nữa</b> — nó trở thành một mệnh đề bình thường. Vì thế phải trả nó về <b>thứ tự câu kể</b>: chủ ngữ trước, động từ sau. <i>where the station <b>is</b></i>, không phải <i>where <b>is</b> the station</i>." },
+        { "t": "p", "html": "Hai hệ quả nữa đi kèm: <b>bỏ hết do/does/did</b> (<i>where he <b>lives</b></i>, không phải <i>where does he live</i>), và với câu hỏi có/không thì phải <b>thêm if hoặc whether</b> (<i>if the shop <b>is</b> open</i>, không phải <i>is the shop open</i>)." },
+        { "t": "callout", "html": "<b>Quy tắc ba bước — học thuộc:</b> (1) bỏ đảo ngữ, (2) bỏ do/does/did, (3) câu hỏi có/không thì thêm <i>if</i>. Áp dụng được ba bước này là bạn hỏi đúng mọi câu gián tiếp." },
+        { "t": "h3", "text": "Từ câu hỏi thẳng sang câu hỏi gián tiếp" },
+        {
+          "t": "table",
+          "head": ["Hỏi thẳng", "Hỏi gián tiếp", "Thay đổi gì"],
+          "rows": [
+            ["<code>Where is the station?</code>", "<code>Could you tell me where the station is?</code>", "Bỏ đảo ngữ"],
+            ["<code>What time does it open?</code>", "<code>Could you tell me what time it opens?</code>", "Bỏ <i>does</i>, chia lại động từ"],
+            ["<code>Is the shop open?</code>", "<code>Could you tell me if the shop is open?</code>", "Thêm <i>if</i>, bỏ đảo ngữ"],
+            ["<code>How much did it cost?</code>", "<code>Could you tell me how much it cost?</code>", "Bỏ <i>did</i>, giữ động từ quá khứ"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🧭", "title": "Hỏi đường người lạ", "text": "Bối cảnh số 1. <i>Could you tell me where the station is?</i> Mềm hơn hỏi thẳng rất nhiều." },
+            { "icon": "🕐", "title": "Hỏi giờ giấc, lịch trình", "text": "<i>Could you tell me what time it opens?</i> Dùng ở quầy vé, lễ tân, cửa hàng." },
+            { "icon": "💰", "title": "Hỏi giá, hỏi phí", "text": "<i>Could you tell me how much it costs?</i> Nhã hơn <i>How much?</i> cụt lủn." },
+            { "icon": "📋", "title": "Hỏi quy trình", "text": "<i>Could you tell me what I need to do next?</i> Rất hợp ở ngân hàng, cơ quan hành chính." },
+            { "icon": "☎️", "title": "Gọi điện hỏi thông tin", "text": "<i>Could you tell me if you have it in stock?</i> Câu hỏi có/không phải thêm <i>if</i>." },
+            { "icon": "💼", "title": "Email công việc", "text": "<i>Could you tell me when we can expect an update?</i>" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Với từ hỏi wh-", "<code>Could you tell me + wh- + S + V?</code>", "Could you tell me where it is?"],
+            ["Câu hỏi có/không", "<code>Could you tell me if + S + V?</code>", "Could you tell me if it's open?"],
+            ["Trang trọng khi viết", "<code>Could you tell me whether + S + V?</code>", "Could you tell me whether this is correct?"],
+            ["Thân mật hơn", "<code>Do you know + wh- + S + V?</code>", "Do you know where it is?"],
+            ["Rất tự nhiên khi nói", "<code>Do you happen to know…?</code>", "Do you happen to know what time it starts?"],
+            ["Ngắn gọn giữa bạn bè", "<code>Any idea + wh- + S + V?</code>", "Any idea where he went?"],
+            ["Trang trọng, email", "<code>I'd like to know + wh- + S + V</code>", "I'd like to know how this was decided."],
+            ["Với to + V", "<code>Could you tell me how to + V?</code>", "Could you tell me how to get there?"],
+            ["Nhã nhất", "<code>I was wondering if you could tell me…</code>", "I was wondering if you could tell me the price."],
+            ["Hỏi lại khi chưa rõ", "<code>Sorry, could you tell me that again?</code>", "Sorry, could you tell me that again?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Mẹo tránh bẫy hoàn toàn:</b> dạng <span class=\"k\">how to + V</span> và <span class=\"k\">where to + V</span> không có chủ ngữ nên không thể sai đảo ngữ. <i>Could you tell me how to get there?</i> — an toàn tuyệt đối khi bạn chưa chắc." },
+        { "t": "callout", "html": "<b>Đừng nhầm hai chữ if:</b> <i>if</i> trong câu này nghĩa là <b>“liệu có… không”</b>, không phải “nếu”. <i>Could you tell me if it's open?</i> = cho tôi biết <b>liệu</b> quán có mở cửa không." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Mệnh đề wh- thường theo sau",
+              "items": [
+                { "w": "where … is", "vi": "… ở đâu", "ex": "Could you tell me where the station is?", "exvi": "Bạn cho tôi biết nhà ga ở đâu được không ạ?", "note": "KHÔNG phải <i>where is the station</i> — đây là lỗi phổ biến nhất." },
+                { "w": "what time … opens", "vi": "… mở cửa lúc mấy giờ", "ex": "Could you tell me what time it opens?", "exvi": "Bạn cho tôi biết mấy giờ mở cửa được không ạ?", "note": "Bỏ <i>does</i> và chia động từ: <i>opens</i>." },
+                { "w": "how much … costs", "vi": "… giá bao nhiêu", "ex": "Could you tell me how much it costs?", "exvi": "Bạn cho tôi biết cái này giá bao nhiêu ạ?" },
+                { "w": "how long … takes", "vi": "… mất bao lâu", "ex": "Could you tell me how long it takes?", "exvi": "Bạn cho tôi biết mất bao lâu ạ?" },
+                { "w": "when … starts", "vi": "… bắt đầu khi nào", "ex": "Could you tell me when the meeting starts?", "exvi": "Anh/chị cho tôi biết cuộc họp bắt đầu khi nào ạ?" },
+                { "w": "who … is", "vi": "… là ai", "ex": "Could you tell me who the manager is?", "exvi": "Bạn cho tôi biết quản lý là ai được không ạ?" },
+                { "w": "why … changed", "vi": "vì sao… thay đổi", "ex": "Could you tell me why the price changed?", "exvi": "Bạn cho tôi biết vì sao giá thay đổi ạ?" },
+                { "w": "which … is", "vi": "cái nào là…", "ex": "Could you tell me which one is cheaper?", "exvi": "Bạn cho tôi biết cái nào rẻ hơn ạ?" },
+                { "w": "how … works", "vi": "… hoạt động thế nào", "ex": "Could you tell me how this works?", "exvi": "Bạn chỉ tôi cái này hoạt động thế nào được không ạ?" },
+                { "w": "where I can find…", "vi": "tôi tìm… ở đâu", "ex": "Could you tell me where I can find the toilets?", "exvi": "Bạn cho tôi biết nhà vệ sinh ở đâu ạ?", "note": "Chú ý <i>I can find</i> — chủ ngữ trước động từ." },
+                { "w": "what I need to do", "vi": "tôi cần làm gì", "ex": "Could you tell me what I need to do next?", "exvi": "Anh/chị cho tôi biết bước tiếp theo tôi cần làm gì ạ?" },
+                { "w": "when it will be ready", "vi": "khi nào xong", "ex": "Could you tell me when it will be ready?", "exvi": "Bạn cho tôi biết khi nào xong ạ?" },
+                { "w": "what the difference is", "vi": "khác nhau thế nào", "ex": "Could you tell me what the difference is?", "exvi": "Bạn cho tôi biết hai cái khác nhau thế nào ạ?", "note": "Động từ <i>is</i> đứng CUỐI — đây là chỗ rất dễ sai." },
+                { "w": "how many … there are", "vi": "có bao nhiêu…", "ex": "Could you tell me how many seats there are?", "exvi": "Bạn cho tôi biết có bao nhiêu chỗ ạ?", "note": "<i>there are</i> chứ không phải <i>are there</i>." },
+                { "w": "who to contact", "vi": "nên liên hệ với ai", "ex": "Could you tell me who to contact about this?", "exvi": "Anh/chị cho tôi biết việc này nên liên hệ với ai ạ?", "note": "Dạng <i>wh- + to V</i> không có chủ ngữ nên không thể sai." },
+                { "w": "how to get there", "vi": "làm sao đến đó", "ex": "Could you tell me how to get there?", "exvi": "Bạn chỉ tôi đường đến đó được không ạ?" },
+                { "w": "where to go", "vi": "nên đi đâu", "ex": "Could you tell me where to go next?", "exvi": "Bạn cho tôi biết tiếp theo nên đi đâu ạ?" },
+                { "w": "what happens next", "vi": "tiếp theo thế nào", "ex": "Could you tell me what happens next?", "exvi": "Anh/chị cho tôi biết tiếp theo sẽ thế nào ạ?" },
+                { "w": "how it's spelt", "vi": "viết thế nào", "ex": "Could you tell me how it's spelt?", "exvi": "Bạn cho tôi biết từ đó viết thế nào ạ?", "note": "Anh-Mỹ viết <i>spelled</i>." },
+                { "w": "what this means", "vi": "cái này nghĩa là gì", "ex": "Could you tell me what this means?", "exvi": "Bạn cho tôi biết cái này nghĩa là gì ạ?" }
+              ]
+            },
+            {
+              "title": "Câu hỏi có/không — bắt buộc thêm “if”",
+              "items": [
+                { "w": "if it's open", "vi": "liệu có mở cửa không", "ex": "Could you tell me if it's open on Sunday?", "exvi": "Bạn cho tôi biết Chủ nhật có mở cửa không ạ?", "note": "<i>if</i> ở đây là “liệu có… không”, KHÔNG phải “nếu”." },
+                { "w": "if you have it in stock", "vi": "liệu còn hàng không", "ex": "Could you tell me if you have it in stock?", "exvi": "Bạn cho tôi biết còn hàng không ạ?" },
+                { "w": "if this is correct", "vi": "liệu cái này có đúng không", "ex": "Could you tell me if this is correct?", "exvi": "Anh/chị cho tôi biết cái này có đúng không ạ?" },
+                { "w": "if there's a fee", "vi": "liệu có mất phí không", "ex": "Could you tell me if there's a fee for that?", "exvi": "Bạn cho tôi biết việc đó có mất phí không ạ?" },
+                { "w": "if it includes…", "vi": "liệu có bao gồm…", "ex": "Could you tell me if it includes breakfast?", "exvi": "Bạn cho tôi biết giá đó có bao gồm bữa sáng không ạ?" },
+                { "w": "if I need to book", "vi": "liệu tôi có cần đặt trước", "ex": "Could you tell me if I need to book in advance?", "exvi": "Bạn cho tôi biết có cần đặt trước không ạ?" },
+                { "w": "if the flight is on time", "vi": "liệu chuyến bay có đúng giờ", "ex": "Could you tell me if the flight is on time?", "exvi": "Bạn cho tôi biết chuyến bay có đúng giờ không ạ?" },
+                { "w": "if you accept cards", "vi": "liệu có nhận thẻ không", "ex": "Could you tell me if you accept cards?", "exvi": "Bạn cho tôi biết bên mình có nhận thẻ không ạ?" },
+                { "w": "if it's still available", "vi": "liệu còn không", "ex": "Could you tell me if it's still available?", "exvi": "Bạn cho tôi biết cái đó còn không ạ?" },
+                { "w": "whether this is possible", "vi": "liệu việc này có khả thi", "ex": "Could you tell me whether this is possible?", "exvi": "Anh/chị cho tôi biết việc này có khả thi không ạ?", "note": "<i>whether</i> trang trọng hơn <i>if</i> — hợp với email." }
+              ]
+            },
+            {
+              "title": "Biến thể & cách mở lời",
+              "items": [
+                { "w": "Do you know…?", "vi": "bạn có biết… không?", "ex": "Do you know where the nearest ATM is?", "exvi": "Bạn có biết máy ATM gần nhất ở đâu không?", "note": "Thân mật hơn, và vẫn phải theo đúng quy tắc không đảo ngữ." },
+                { "w": "Do you happen to know…?", "vi": "không biết bạn có tình cờ biết…", "ex": "Do you happen to know what time it closes?", "exvi": "Không biết bạn có biết mấy giờ đóng cửa không ạ?", "note": "<i>happen to</i> làm câu rất nhã — ngụ ý “không biết cũng không sao”." },
+                { "w": "Any idea…?", "vi": "bạn biết… không?", "ex": "Any idea where he went?", "exvi": "Bạn biết anh ấy đi đâu không?", "note": "Rất ngắn và thân mật — chỉ dùng với người quen." },
+                { "w": "I'd like to know…", "vi": "tôi muốn biết…", "ex": "I'd like to know how this was decided.", "exvi": "Tôi muốn biết việc này được quyết định thế nào.", "note": "Câu kể, không phải câu hỏi. Hơi mạnh — dùng khi cần rõ ràng." },
+                { "w": "Could you explain…?", "vi": "bạn giải thích… được không?", "ex": "Could you explain how the discount works?", "exvi": "Bạn giải thích giúp tôi cách tính giảm giá được không ạ?", "note": "Dùng khi bạn cần hiểu cơ chế chứ không chỉ một thông tin." },
+                { "w": "Sorry, could you tell me that again?", "vi": "xin lỗi, bạn nói lại giúp tôi", "ex": "Sorry, could you tell me that again? I didn't catch it.", "exvi": "Xin lỗi, bạn nói lại giúp tôi được không? Tôi chưa nghe kịp.", "note": "<i>didn't catch it</i> = chưa nghe kịp. Câu cứu nguy rất tự nhiên." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Excuse me, could you tell me where the station is?",
+                  "vi": "Xin lỗi, bạn cho tôi biết nhà ga ở đâu được không ạ?",
+                  "note": "Câu hỏi đường chuẩn mực nhất. Chú ý <b>where the station IS</b> — động từ đứng cuối.",
+                  "open": { "en": "Sorry to bother you —", "vi": "Xin lỗi làm phiền bạn —" },
+                  "reply": [
+                    { "them": "It's about five minutes that way.", "themvi": "Đi hướng đó khoảng năm phút ạ.", "you": "Straight down this road?", "youvi": "Đi thẳng đường này ạ?" },
+                    { "them": "Sorry, I'm not from around here.", "themvi": "Xin lỗi, tôi không phải người ở đây.", "you": "No problem, thanks anyway.", "youvi": "Không sao, vẫn cảm ơn bạn." }
+                  ],
+                  "close": { "en": "Thanks so much for your help.", "vi": "Cảm ơn bạn nhiều lắm." }
+                },
+                {
+                  "en": "Could you tell me how long it takes to get there?",
+                  "vi": "Bạn cho tôi biết đến đó mất bao lâu ạ?",
+                  "note": "<span class=\"k\">how long it takes</span> — bỏ <i>does</i> và chia động từ thành <i>takes</i>.",
+                  "reply": [
+                    { "them": "About twenty minutes by bus.", "themvi": "Đi xe buýt khoảng hai mươi phút ạ.", "you": "And on foot?", "youvi": "Còn đi bộ thì sao ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "Could you tell me how to get there?", "vi": "Bạn chỉ tôi đường đến đó được không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Could you tell me if the flight is on time?",
+                  "vi": "Bạn cho tôi biết chuyến bay có đúng giờ không ạ?",
+                  "note": "Câu hỏi có/không nên bắt buộc phải có <b>if</b>. Không được nói <i>if is the flight on time</i>.",
+                  "reply": [
+                    { "them": "It's delayed by forty minutes, I'm afraid.", "themvi": "E là trễ bốn mươi phút ạ.", "you": "Do you know why?", "youvi": "Bạn có biết vì sao không ạ?" }
+                  ]
+                },
+                {
+                  "en": "Could you tell me which platform it leaves from?",
+                  "vi": "Bạn cho tôi biết tàu khởi hành từ sân ga nào ạ?",
+                  "reply": [
+                    { "them": "Platform seven, down the stairs.", "themvi": "Sân ga số bảy, xuống cầu thang ạ.", "you": "Platform seven — thank you.", "youvi": "Sân ga bảy — cảm ơn bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Could you tell me how much this costs?",
+                  "vi": "Bạn cho tôi biết cái này giá bao nhiêu ạ?",
+                  "note": "Nhã hơn hẳn <i>How much?</i> cụt lủn, nhất là khi món hàng không niêm yết giá.",
+                  "reply": [
+                    { "them": "That one's four hundred and fifty thousand.", "themvi": "Cái đó bốn trăm năm mươi nghìn ạ.", "you": "Could you tell me if there's a discount for two?", "youvi": "Bạn cho tôi biết mua hai cái có giảm không ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "Could you tell me what the difference is?", "vi": "Bạn cho tôi biết hai cái khác nhau thế nào ạ?" }
+                  ]
+                },
+                {
+                  "en": "Could you tell me if you have it in stock?",
+                  "vi": "Bạn cho tôi biết còn hàng không ạ?",
+                  "reply": [
+                    { "them": "Let me check the system.", "themvi": "Để em kiểm tra hệ thống ạ.", "you": "Thank you, no rush.", "youvi": "Cảm ơn bạn, không vội đâu." },
+                    { "them": "Not here, but the other branch has one.", "themvi": "Ở đây hết rồi, nhưng chi nhánh kia còn ạ.", "you": "Could you tell me where that branch is?", "youvi": "Bạn cho tôi biết chi nhánh đó ở đâu ạ?" }
+                  ]
+                },
+                {
+                  "en": "Could you tell me how the warranty works?",
+                  "vi": "Bạn giải thích giúp tôi bảo hành thế nào ạ?",
+                  "reply": [
+                    { "them": "Two years, parts and labour included.", "themvi": "Hai năm, bao gồm cả linh kiện và công ạ.", "you": "Could you tell me if water damage is covered?", "youvi": "Bạn cho tôi biết vào nước có được bảo hành không ạ?" }
+                  ],
+                  "close": { "en": "That's clear now — thank you.", "vi": "Giờ tôi rõ rồi — cảm ơn bạn." }
+                },
+                {
+                  "en": "Could you tell me when it will be ready?",
+                  "vi": "Bạn cho tôi biết khi nào xong ạ?",
+                  "reply": [
+                    { "them": "Thursday afternoon at the earliest.", "themvi": "Sớm nhất là chiều thứ Năm ạ.", "you": "Could you call me when it's done?", "youvi": "Xong bạn gọi tôi nhé?" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Could you tell me what I need to do next?",
+                  "vi": "Anh/chị cho tôi biết bước tiếp theo tôi cần làm gì ạ?",
+                  "note": "Câu vàng khi bạn mới vào việc hoặc gặp một quy trình lạ — không ai chê bạn vì đã hỏi cho rõ.",
+                  "reply": [
+                    { "them": "Send it to legal, then wait for sign-off.", "themvi": "Gửi bên pháp chế, rồi chờ họ duyệt.", "you": "Could you tell me who to contact there?", "youvi": "Anh/chị cho tôi biết bên đó nên liên hệ ai ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "Could you tell me what happens next?", "vi": "Anh/chị cho tôi biết tiếp theo sẽ thế nào ạ?" }
+                  ]
+                },
+                {
+                  "en": "Could you tell me when we can expect an update?",
+                  "vi": "Anh/chị cho tôi biết khi nào có thông tin cập nhật ạ?",
+                  "note": "Cách hỏi tiến độ mà không giục. <i>we</i> khiến câu nghe như nhu cầu chung của cả nhóm.",
+                  "reply": [
+                    { "them": "By the end of the week.", "themvi": "Trước cuối tuần ạ.", "you": "Perfect — I'll let the team know.", "youvi": "Tuyệt — tôi sẽ báo lại nhóm." }
+                  ]
+                },
+                {
+                  "en": "Could you tell me why the budget changed?",
+                  "vi": "Anh/chị cho tôi biết vì sao ngân sách thay đổi ạ?",
+                  "note": "Hỏi lý do là chuyện nhạy cảm — bọc trong câu gián tiếp thì nghe như tìm hiểu chứ không phải chất vấn.",
+                  "open": { "en": "Just so I can explain it to the team —", "vi": "Để tôi giải thích lại được với nhóm —" },
+                  "reply": [
+                    { "them": "Sales came in lower than forecast.", "themvi": "Doanh số thấp hơn dự báo.", "you": "That makes sense. Thanks for explaining.", "youvi": "Vậy là hợp lý. Cảm ơn anh/chị đã giải thích." }
+                  ]
+                },
+                {
+                  "en": "Sorry, could you tell me that again? I didn't catch it.",
+                  "vi": "Xin lỗi, anh/chị nói lại giúp tôi được không? Tôi chưa nghe kịp.",
+                  "note": "<span class=\"k\">didn't catch it</span> = chưa nghe kịp. Tự nhiên hơn <i>I didn't hear</i> và không đổ lỗi cho ai.",
+                  "reply": [
+                    { "them": "Of course — the deadline is the fifteenth.", "themvi": "Tất nhiên rồi — hạn chót là ngày mười lăm.", "you": "The fifteenth. Got it, thanks.", "youvi": "Ngày mười lăm. Ghi được rồi, cảm ơn anh/chị." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Could you tell me what's in this dish?",
+                  "vi": "Bạn cho tôi biết món này có những gì ạ?",
+                  "note": "Câu bắt buộc nếu bạn kiêng hoặc dị ứng. Chú ý <i>what's in this dish</i> — không đảo ngữ.",
+                  "reply": [
+                    { "them": "Chicken, lemongrass and a little chilli.", "themvi": "Gà, sả và một chút ớt ạ.", "you": "Could you tell me if it has peanuts?", "youvi": "Bạn cho tôi biết có đậu phộng không ạ?" }
+                  ],
+                  "close": { "en": "Thanks for checking.", "vi": "Cảm ơn bạn đã kiểm tra giúp." }
+                },
+                {
+                  "en": "Could you tell me what time you close?",
+                  "vi": "Bạn cho tôi biết mấy giờ đóng cửa ạ?",
+                  "reply": [
+                    { "them": "Ten on weekdays, eleven at weekends.", "themvi": "Ngày thường mười giờ, cuối tuần mười một giờ ạ.", "you": "Good to know, thank you.", "youvi": "May mà biết, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "Could you tell me if I need to book a table?",
+                  "vi": "Bạn cho tôi biết có cần đặt bàn trước không ạ?",
+                  "reply": [
+                    { "them": "At weekends, yes. Weekdays you'll be fine.", "themvi": "Cuối tuần thì cần ạ. Ngày thường thì không sao.", "you": "Then I'll come on Tuesday.", "youvi": "Vậy tôi đến thứ Ba." }
+                  ]
+                },
+                {
+                  "en": "Could you tell me which one you'd recommend?",
+                  "vi": "Bạn cho tôi biết bạn gợi ý món nào ạ?",
+                  "note": "Hỏi ý nhân viên là cách nhanh nhất để gọi món ngon ở quán lạ.",
+                  "reply": [
+                    { "them": "The grilled fish is very popular.", "themvi": "Món cá nướng được nhiều người gọi lắm ạ.", "you": "I'll have that then, thank you.", "youvi": "Vậy cho tôi món đó, cảm ơn bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Do you happen to know what time it starts?",
+                  "vi": "Không biết bạn có biết mấy giờ bắt đầu không?",
+                  "note": "<span class=\"k\">happen to know</span> — ngụ ý “không biết cũng chẳng sao”, rất nhã với người lạ.",
+                  "reply": [
+                    { "them": "Seven, I think. Let me double-check.", "themvi": "Mình nghĩ là bảy giờ. Để mình kiểm tra lại.", "you": "No rush, thanks.", "youvi": "Không vội đâu, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "Could you tell me how to get there from here?",
+                  "vi": "Bạn chỉ tôi đường từ đây đến đó được không?",
+                  "note": "Dạng <b>how to + V</b> không có chủ ngữ nên không thể sai đảo ngữ — rất an toàn.",
+                  "reply": [
+                    { "them": "Take the number 8 bus, four stops.", "themvi": "Bắt xe buýt số 8, bốn bến.", "you": "Number 8, four stops. Thanks!", "youvi": "Số 8, bốn bến. Cảm ơn bạn!" }
+                  ]
+                },
+                {
+                  "en": "Could you tell me how it's spelt?",
+                  "vi": "Bạn cho tôi biết từ đó viết thế nào ạ?",
+                  "reply": [
+                    { "them": "N-G-U-Y-E-N.", "themvi": "N-G-U-Y-E-N.", "you": "Got it, thank you.", "youvi": "Ghi được rồi, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "Any idea where he went?",
+                  "vi": "Bạn biết anh ấy đi đâu không?",
+                  "note": "Dạng rất ngắn giữa bạn bè. Vẫn giữ đúng thứ tự <i>where he went</i>, không đảo ngữ.",
+                  "reply": [
+                    { "them": "He said something about the bank.", "themvi": "Anh ấy có nói gì đó về ngân hàng.", "you": "Thanks, I'll message him.", "youvi": "Cảm ơn nhé, mình nhắn anh ấy." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Hỏi đường và hỏi giờ ở nhà ga",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Excuse me, could you tell me where platform seven is?", "vi": "Xin lỗi, bạn cho tôi biết sân ga số bảy ở đâu ạ?" },
+            { "speaker": "Staff", "en": "Down the stairs and to your left.", "vi": "Xuống cầu thang rồi rẽ trái ạ." },
+            { "speaker": "You", "me": true, "en": "Thank you. And could you tell me what time the next train leaves?", "vi": "Cảm ơn bạn. Với lại bạn cho tôi biết chuyến sau khởi hành lúc mấy giờ ạ?" },
+            { "speaker": "Staff", "en": "Four twenty. You've got eight minutes.", "vi": "Bốn giờ hai mươi. Anh/chị còn tám phút." },
+            { "speaker": "You", "me": true, "en": "Could you tell me if I need a reservation?", "vi": "Bạn cho tôi biết có cần đặt chỗ trước không ạ?" },
+            { "speaker": "Staff", "en": "Not on this one. Just hop on.", "vi": "Chuyến này thì không. Cứ lên thôi ạ." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Hỏi rõ quy trình ở công ty",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Could you tell me what I need to do to get this approved?", "vi": "Anh cho em biết cần làm gì để cái này được duyệt ạ?" },
+            { "speaker": "Colleague", "en": "Fill in the form, then send it to finance.", "vi": "Điền vào biểu mẫu, rồi gửi bên tài chính." },
+            { "speaker": "You", "me": true, "en": "Could you tell me where I can find the form?", "vi": "Anh cho em biết biểu mẫu tìm ở đâu ạ?" },
+            { "speaker": "Colleague", "en": "It's on the shared drive, under Templates.", "vi": "Ở ổ đĩa chung, trong thư mục Templates." },
+            { "speaker": "You", "me": true, "en": "Got it. And could you tell me how long approval usually takes?", "vi": "Hiểu rồi ạ. Với lại anh cho em biết duyệt thường mất bao lâu ạ?" },
+            { "speaker": "Colleague", "en": "Three working days, normally.", "vi": "Bình thường là ba ngày làm việc." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Could you tell me where is the station?", "right": "Could you tell me where the station is?", "why": "Câu hỏi nằm bên trong thì <b>không đảo ngữ</b>. Đây là lỗi số một của cả bộ 100 khung." },
+            { "wrong": "Could you tell me what time does it open?", "right": "Could you tell me what time it opens?", "why": "Bỏ <b>does</b> và chia động từ cho chủ ngữ: <i>it opens</i>." },
+            { "wrong": "Could you tell me is the shop open?", "right": "Could you tell me if the shop is open?", "why": "Câu hỏi có/không phải thêm <b>if</b> hoặc <b>whether</b>." },
+            { "wrong": "Could you tell me where did he go?", "right": "Could you tell me where he went?", "why": "Bỏ <b>did</b>, và động từ chính chuyển sang quá khứ: <i>went</i>." },
+            { "wrong": "Do you know where is it?", "right": "Do you know where it is?", "why": "<b>Do you know</b> cũng theo đúng quy tắc không đảo ngữ." },
+            { "wrong": "Could you tell me how many are there seats?", "right": "Could you tell me how many seats there are?", "why": "<i>there are</i> giữ nguyên thứ tự, và danh từ đứng ngay sau <i>how many</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>Could you tell me + wh-…?</code>", "Lịch sự chuẩn mực — hỏi thông tin", "<i>Could you tell me where it is?</i>"],
+            ["<code>Where is…?</code>", "Hỏi thẳng — nhanh nhưng cụt", "<i>Where is the station?</i> — Ổn với bạn bè."],
+            ["<code>Do you know + wh-…?</code>", "Thân mật hơn, vẫn lịch sự", "<i>Do you know where it is?</i>"],
+            ["<code>Do you happen to know…?</code>", "Rất nhã — cho người kia đường lui", "<i>Do you happen to know…?</i>"],
+            ["<code>Any idea…?</code>", "Rất ngắn, thân mật", "<i>Any idea where he went?</i>"],
+            ["<code>Could you explain…?</code>", "Cần hiểu cơ chế, không chỉ một thông tin", "<i>Could you explain how it works?</i> — Xem [Khung 69]."],
+            ["<code>I was wondering if you could tell me…</code>", "Nhã nhất — việc tế nhị", "<i>…if you could tell me the price.</i> — Xem [Khung 16]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang độ lịch sự — hỏi đường tới nhà ga" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Station?", "vi": "Cụt — chỉ khi rất gấp" },
+            { "en": "Where's the station?", "vi": "Thẳng — ổn với người quen" },
+            { "en": "Do you know where the station is?", "vi": "Thân thiện — người lạ" },
+            { "en": "Could you tell me where the station is?", "vi": "Chuẩn mực — dùng mọi nơi" },
+            { "en": "Sorry, do you happen to know where the station is?", "vi": "Nhã nhất — khi họ đang bận" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Could you</b> dính thành <b>“KU-jə”</b> /ˈkʊdʒə/ — giống hệt [Khung 11].",
+            "<b>tell me</b> → “TEL-mi”, âm /l/ và /m/ nối liền, không ngắt giữa hai từ.",
+            "<b>Could you tell me</b> nói nhanh thành “ku-jə-TEL-mi” — cả cụm là một khối, nói nhẹ và nhanh.",
+            "Trọng âm rơi vào <b>từ hỏi</b> và <b>động từ cuối</b>: <i>Could you tell me</i> <b>WHERE</b> <i>the station</i> <b>IS</b>?",
+            "Động từ ở cuối câu (<i>is, opens, costs</i>) rất dễ bị nuốt — nhưng đó chính là chỗ chứng tỏ bạn dùng đúng cấu trúc, nên hãy đọc rõ.",
+            "Câu phải <b>lên giọng ở cuối</b> vì đây vẫn là một câu hỏi, dù bên trong là mệnh đề kể."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Could you tell me where the station is?", "vi": "Luyện shadowing: nhấn rõ chữ “is” ở cuối — đó là dấu hiệu bạn dùng đúng cấu trúc." },
+            { "en": "Could you tell me if it's open on Sunday?", "vi": "Chú ý chữ “if” — câu hỏi có/không bắt buộc phải có nó." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Bạn cho tôi biết nhà ga ở đâu ạ?", "blank": "Could you tell me __________?", "a": "where the station is (KHÔNG phải “where is the station”)" },
+            { "vi": "Bạn cho tôi biết mấy giờ mở cửa ạ?", "blank": "Could you tell me what time __________?", "a": "it opens (bỏ “does”)" },
+            { "vi": "Bạn cho tôi biết quán có mở cửa Chủ nhật không ạ?", "blank": "Could you tell me __________ open on Sunday?", "a": "if it's" },
+            { "vi": "Bạn cho tôi biết anh ấy đi đâu ạ?", "blank": "Could you tell me where __________?", "a": "he went (bỏ “did”)" },
+            { "vi": "Bạn cho tôi biết hai cái khác nhau thế nào ạ?", "blank": "Could you tell me what __________?", "a": "the difference is" },
+            { "vi": "Bạn cho tôi biết có bao nhiêu chỗ ạ?", "blank": "Could you tell me how many seats __________?", "a": "there are" },
+            { "vi": "Không biết bạn có biết mấy giờ bắt đầu không?", "blank": "__________ what time it starts?", "a": "Do you happen to know" },
+            { "vi": "Bạn chỉ tôi đường đến đó được không ạ?", "blank": "Could you tell me __________ there?", "a": "how to get" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Bạn cho tôi biết cái này giá bao nhiêu ạ?", "a": "Could you tell me how much this costs?" },
+            { "vi": "2. Bạn cho tôi biết còn hàng không ạ?", "a": "Could you tell me if you have it in stock?" },
+            { "vi": "3. Anh/chị cho tôi biết bước tiếp theo tôi cần làm gì ạ?", "a": "Could you tell me what I need to do next?" },
+            { "vi": "4. Bạn cho tôi biết món này có những gì ạ?", "a": "Could you tell me what's in this dish?" },
+            { "vi": "5. Xin lỗi, bạn nói lại giúp tôi được không? Tôi chưa nghe kịp.", "a": "Sorry, could you tell me that again? I didn't catch it." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Quy tắc ba bước:</b> bỏ đảo ngữ, bỏ do/does/did, câu có-không thì thêm <i>if</i>. Ba bước này giải quyết mọi câu hỏi gián tiếp.",
+            "<b>Mẹo kiểm tra nhanh:</b> đọc phần sau <i>tell me</i> như một câu kể. Nếu nghe như câu hỏi thì bạn đang sai.",
+            "<b>Đường tắt an toàn:</b> chưa chắc thì dùng <i>how to / where to / who to + V</i> — không có chủ ngữ thì không thể sai.",
+            "<b>Nhấn rõ động từ cuối câu:</b> chữ <i>is</i> hay <i>opens</i> ở cuối chính là thứ chứng minh bạn dùng đúng cấu trúc.",
+            "<b>Học một câu cứu nguy:</b> <i>Sorry, could you tell me that again? I didn't catch it.</i> Dùng mỗi khi nghe hụt.",
+            "<b>Bài tập 3 phút:</b> lấy 5 câu hỏi thẳng bạn hay dùng (<i>Where is…? What time does…?</i>) và chuyển từng câu sang dạng gián tiếp, nói to thành tiếng."
+          ]
+        }
+      ]
+    }
+  ]
+}

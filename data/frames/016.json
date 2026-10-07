@@ -1,0 +1,489 @@
+{
+  "id": 16,
+  "group": "Nhóm 2 · Yêu cầu & Nhờ vả",
+  "title": "I was wondering if you could… — Nhờ vả nhã nhất khi bạn thật sự ngại",
+  "subtitle": "Đỉnh cao của phép lịch sự tiếng Anh. Câu dùng thì quá khứ tiếp diễn để đẩy lời nhờ ra xa nhất có thể — nghe như bạn chỉ đang nghĩ vẩn vơ chứ không hề yêu cầu. Dành cho việc lớn, người bạn chưa quen, hoặc khi bạn không có quyền đòi hỏi gì.",
+  "pattern": [
+    "I was wondering if you could <em>+ V</em>",
+    "I was wondering if I could <em>+ V</em>",
+    "I was wondering whether <em>+ mệnh đề</em>"
+  ],
+  "meaning": "Không biết bạn có thể… không ạ? (rất nhã, dè dặt)",
+  "grammar": [44, 47],
+  "tags": [
+    { "text": "Tần suất: trung bình", "hot": false },
+    { "text": "Độ lịch sự: 5/5", "hot": true },
+    { "text": "Rất mạnh trong email" },
+    { "text": "Trình độ: B1–B2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "Dịch sát thì câu này là “Tôi đang tự hỏi liệu bạn có thể…”. Bạn không nhờ — bạn chỉ <b>kể ra một suy nghĩ</b> trong đầu mình. Người nghe hoàn toàn tự do bỏ qua nó mà không ai mất mặt. Đó là lý do nó nhã nhất trong cả nhóm." },
+        { "t": "p", "html": "Ba lớp làm mềm chồng lên nhau: <b>thì quá khứ</b> (<i>was</i>) đẩy lời nói ra xa hiện tại; <b>thì tiếp diễn</b> (<i>wondering</i>) khiến nó nghe tạm thời, chưa dứt khoát; và <b>could</b> lại là một quá khứ nữa. Càng nhiều lớp thì áp lực đặt lên người nghe càng ít." },
+        { "t": "p", "html": "Chính vì mạnh như vậy nên nó <b>không hợp với việc nhỏ</b>. Nói <i>I was wondering if you could pass the salt</i> nghe kỳ quặc, như thể bạn đang xin một ân huệ lớn. Hãy để dành nó cho: nhờ việc tốn công, xin ưu đãi ngoại lệ, viết email cho người lạ, hoặc nhờ người có quyền hơn mình." },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp số một:</b> sau <i>if</i> là <b>thứ tự câu kể</b>, không đảo ngữ. <span class=\"k\">I was wondering if you could help.</span> ✓ — <i>I was wondering if could you help.</i> ✗ Đây là lỗi bám dai vì ta quen với <i>Could you…?</i> ở [Khung 11]." },
+        { "t": "h3", "text": "Vì sao nó nhã hơn các khung khác" },
+        {
+          "t": "table",
+          "head": ["Câu", "Bạn đang làm gì", "Người nghe cảm thấy"],
+          "rows": [
+            ["<code>Help me with this.</code>", "Ra lệnh", "Phải làm"],
+            ["<code>Can you help me with this?</code>", "Hỏi có làm được không", "Nên làm"],
+            ["<code>Could you help me with this, please?</code>", "Đề nghị lịch sự", "Được mời làm"],
+            ["<code>I was wondering if you could help.</code>", "Kể một ý nghĩ", "Hoàn toàn tự do chọn"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "📧", "title": "Email cho người chưa quen", "text": "Bối cảnh số 1. <i>I was wondering if you might have time for a quick call.</i>" },
+            { "icon": "🏔", "title": "Nhờ việc tốn công", "text": "<i>I was wondering if you could review the whole document.</i> Việc càng lớn càng cần lớp đệm dày." },
+            { "icon": "🎁", "title": "Xin ưu đãi ngoại lệ", "text": "<i>I was wondering if you could make an exception.</i> Bạn không có quyền đòi, nên phải nhờ thật nhã." },
+            { "icon": "👔", "title": "Nói với người có quyền hơn", "text": "<i>I was wondering if I could take Friday off.</i>" },
+            { "icon": "🤝", "title": "Xin được giới thiệu", "text": "<i>I was wondering if you could put me in touch with her.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Việc vặt hằng ngày, hoặc việc gấp — câu quá dài và vòng vo, dễ khiến người nghe sốt ruột." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Nhờ người khác làm", "<code>I was wondering if you could + V</code>", "I was wondering if you could help me."],
+            ["Xin phép cho mình", "<code>I was wondering if I could + V</code>", "I was wondering if I could leave early."],
+            ["Dè dặt hơn nữa", "<code>I was wondering if you might + V</code>", "I was wondering if you might be free."],
+            ["Trang trọng khi viết", "<code>I was wondering whether + mệnh đề</code>", "I was wondering whether you'd be interested."],
+            ["Mềm nhất", "<code>I was just wondering if…</code>", "I was just wondering if you'd seen my email."],
+            ["Thêm điều kiện", "<code>…if you had a moment</code>", "I was wondering if you had a moment to chat."],
+            ["Thêm lớp xin lỗi", "<code>…if it's not too much trouble</code>", "…if it's not too much trouble."],
+            ["Hiện tại (bớt nhã hơn)", "<code>I wonder if you could + V</code>", "I wonder if you could take a look."],
+            ["Hỏi về khả năng chung", "<code>I was wondering if it would be possible to + V</code>", "I was wondering if it would be possible to reschedule."],
+            ["Mở đầu email", "<code>I'm writing because I was wondering if…</code>", "I'm writing because I was wondering if you're hiring."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng thêm dấu hỏi:</b> câu này là <b>câu kể</b>, không phải câu hỏi. Viết <i>I was wondering if you could help.</i> với dấu chấm. Khi nói thì giọng đi xuống nhẹ ở cuối, không lên như câu hỏi." },
+        { "t": "callout", "html": "<b>Vì sao dùng quá khứ mà nói chuyện hiện tại:</b> đây là quy luật chung của phép lịch sự tiếng Anh — lùi thì để tạo khoảng cách. Cùng cơ chế với <i>I'd like</i> ở [Khung 01] và <i>I was hoping to</i> ở [Khung 07]." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “…if you could…”",
+              "items": [
+                { "w": "help", "vi": "giúp", "ex": "I was wondering if you could help me with something.", "exvi": "Không biết bạn có giúp tôi một việc được không ạ." },
+                { "w": "spare", "vi": "dành ra (thời gian)", "ex": "I was wondering if you could spare ten minutes.", "exvi": "Không biết bạn có dành ra được mười phút không ạ.", "note": "<i>spare + thời gian</i> = dành ra chút thời gian. Nghe rất nhã." },
+                { "w": "take a look at", "vi": "xem qua", "ex": "I was wondering if you could take a look at my draft.", "exvi": "Không biết bạn có xem qua bản nháp của tôi được không ạ." },
+                { "w": "review", "vi": "rà soát kỹ", "ex": "I was wondering if you could review the whole document.", "exvi": "Không biết anh/chị có rà soát giúp toàn bộ tài liệu được không ạ.", "note": "Nặng hơn <i>take a look</i> nhiều — đúng lúc cần lớp đệm dày." },
+                { "w": "send", "vi": "gửi", "ex": "I was wondering if you could send me the slides.", "exvi": "Không biết anh/chị có gửi tôi bộ slide được không ạ." },
+                { "w": "recommend", "vi": "giới thiệu, gợi ý", "ex": "I was wondering if you could recommend a good clinic.", "exvi": "Không biết bạn có thể giới thiệu một phòng khám tốt không ạ." },
+                { "w": "introduce", "vi": "giới thiệu (người)", "ex": "I was wondering if you could introduce me to her.", "exvi": "Không biết bạn có giới thiệu tôi với chị ấy được không ạ." },
+                { "w": "put me in touch with", "vi": "kết nối tôi với", "ex": "I was wondering if you could put me in touch with your supplier.", "exvi": "Không biết anh/chị có kết nối tôi với nhà cung cấp được không ạ.", "note": "Cụm chuẩn mực khi xin được giới thiệu trong công việc." },
+                { "w": "consider", "vi": "cân nhắc", "ex": "I was wondering if you could consider my application.", "exvi": "Không biết anh/chị có cân nhắc hồ sơ của tôi được không ạ." },
+                { "w": "extend", "vi": "gia hạn", "ex": "I was wondering if you could extend the deadline.", "exvi": "Không biết anh/chị có gia hạn thêm được không ạ." },
+                { "w": "make an exception", "vi": "linh động một lần", "ex": "I was wondering if you could make an exception this once.", "exvi": "Không biết anh/chị có linh động một lần này được không ạ.", "note": "Câu xin ngoại lệ — bắt buộc phải nhã, vì bạn đang xin điều ngoài quy định." },
+                { "w": "arrange", "vi": "sắp xếp", "ex": "I was wondering if you could arrange a meeting.", "exvi": "Không biết anh/chị có sắp xếp một buổi gặp được không ạ." },
+                { "w": "confirm", "vi": "xác nhận", "ex": "I was wondering if you could confirm the details.", "exvi": "Không biết anh/chị có xác nhận lại thông tin được không ạ." },
+                { "w": "advise", "vi": "tư vấn", "ex": "I was wondering if you could advise me on this.", "exvi": "Không biết anh/chị có tư vấn giúp tôi việc này không ạ.", "note": "<i>advise</i> là động từ, <i>advice</i> là danh từ — rất hay viết nhầm." },
+                { "w": "share", "vi": "chia sẻ", "ex": "I was wondering if you could share your notes.", "exvi": "Không biết bạn có chia sẻ ghi chú được không ạ." },
+                { "w": "keep me posted", "vi": "cập nhật cho tôi", "ex": "I was wondering if you could keep me posted.", "exvi": "Không biết anh/chị có cập nhật tình hình cho tôi được không ạ.", "note": "<i>keep someone posted</i> = báo tin thường xuyên." },
+                { "w": "join", "vi": "tham gia", "ex": "I was wondering if you could join us on Thursday.", "exvi": "Không biết anh/chị có tham gia cùng chúng tôi thứ Năm được không ạ." },
+                { "w": "look into", "vi": "xem xét, điều tra", "ex": "I was wondering if you could look into this for me.", "exvi": "Không biết anh/chị có xem xét giúp tôi việc này không ạ." },
+                { "w": "speak to", "vi": "nói chuyện với", "ex": "I was wondering if you could speak to him about it.", "exvi": "Không biết anh/chị có nói với anh ấy giúp tôi không ạ." },
+                { "w": "hold", "vi": "giữ (chỗ, hàng)", "ex": "I was wondering if you could hold the room for me.", "exvi": "Không biết bên bạn có giữ phòng giúp tôi được không ạ." }
+              ]
+            },
+            {
+              "title": "Câu hoàn chỉnh nên thuộc lòng",
+              "items": [
+                { "w": "I was wondering if you could help me with something.", "vi": "không biết bạn giúp tôi một việc được không", "ex": "Sorry to bother you — I was wondering if you could help me with something.", "exvi": "Xin lỗi làm phiền — không biết bạn có giúp tôi một việc được không ạ." },
+                { "w": "I was wondering if you had a moment.", "vi": "không biết bạn có rảnh chút nào không", "ex": "I was wondering if you had a moment to talk.", "exvi": "Không biết anh/chị có rảnh chút để trao đổi không ạ." },
+                { "w": "I was wondering if I could ask a favour.", "vi": "không biết tôi nhờ một việc được không", "ex": "I was wondering if I could ask you a small favour.", "exvi": "Không biết tôi nhờ bạn một việc nhỏ được không ạ.", "note": "Anh-Mỹ viết <i>favor</i>." },
+                { "w": "I was wondering if you might be free.", "vi": "không biết bạn có rảnh không", "ex": "I was wondering if you might be free on Friday.", "exvi": "Không biết thứ Sáu anh/chị có rảnh không ạ.", "note": "<i>might</i> dè dặt hơn <i>could</i> một bậc nữa." },
+                { "w": "I was wondering if it would be possible to…", "vi": "không biết liệu có thể…", "ex": "I was wondering if it would be possible to reschedule.", "exvi": "Không biết liệu có thể dời lịch được không ạ.", "note": "Kết hợp với [Khung 18] — lớp đệm dày nhất có thể." },
+                { "w": "I was just wondering…", "vi": "tôi chỉ đang tự hỏi…", "ex": "I was just wondering if you'd seen my email.", "exvi": "Tôi chỉ đang tự hỏi không biết anh/chị đã xem email của tôi chưa.", "note": "<i>just</i> làm câu nhẹ thêm — cách nhắc email mà không giục." },
+                { "w": "if it's not too much trouble", "vi": "nếu không quá phiền", "ex": "…if it's not too much trouble.", "exvi": "…nếu việc đó không quá phiền ạ." },
+                { "w": "if you get a chance", "vi": "nếu bạn có dịp", "ex": "I was wondering if you could look at it, if you get a chance.", "exvi": "Không biết khi nào tiện bạn xem qua giúp tôi được không." },
+                { "w": "I'm writing because I was wondering if…", "vi": "tôi viết thư vì muốn hỏi liệu…", "ex": "I'm writing because I was wondering if you're taking on new clients.", "exvi": "Tôi viết thư vì muốn hỏi liệu bên anh/chị có nhận thêm khách hàng không ạ.", "note": "Câu mở email chào hàng hoặc xin việc rất lịch thiệp." },
+                { "w": "I was wondering whether you'd be interested.", "vi": "không biết anh/chị có quan tâm không", "ex": "I was wondering whether you'd be interested in a partnership.", "exvi": "Không biết anh/chị có quan tâm tới việc hợp tác không ạ.", "note": "<i>whether</i> trang trọng hơn <i>if</i> khi viết." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "Of course", "vi": "tất nhiên rồi", "ex": "“I was wondering if you could help.” — “Of course, what do you need?”", "exvi": "“Không biết bạn giúp tôi được không.” — “Tất nhiên rồi, bạn cần gì?”" },
+                { "w": "Sure, what is it?", "vi": "được, việc gì vậy?", "ex": "Sure, what is it you need?", "exvi": "Được chứ, bạn cần gì nào?", "note": "Câu đáp tự nhiên nhất — mời người kia nói rõ yêu cầu." },
+                { "w": "I'd be happy to", "vi": "tôi rất sẵn lòng", "ex": "I'd be happy to take a look.", "exvi": "Tôi rất sẵn lòng xem qua giúp bạn.", "note": "Ấm áp và chuyên nghiệp — hay dùng trong email công việc." },
+                { "w": "Let me see what I can do", "vi": "để tôi xem giúp được gì", "ex": "Let me see what I can do and get back to you.", "exvi": "Để tôi xem giúp được gì rồi báo lại anh/chị.", "note": "Nhận lời mà không hứa chắc — rất khéo." },
+                { "w": "I'm afraid I can't, sorry", "vi": "e là tôi không giúp được", "ex": "I'm afraid I can't this week, sorry.", "exvi": "E là tuần này tôi không giúp được, xin lỗi nhé." },
+                { "w": "Unfortunately that's not something we can do", "vi": "rất tiếc bên tôi không làm được việc đó", "ex": "Unfortunately that's not something we can do.", "exvi": "Rất tiếc đó không phải việc bên tôi làm được ạ.", "note": "Câu từ chối trang trọng của doanh nghiệp — nghe quen để không hụt hẫng." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I was wondering if you could take a look at my draft.",
+                  "vi": "Không biết anh/chị có xem qua bản nháp của tôi được không ạ.",
+                  "note": "Nhờ việc tốn thời gian của người khác — đây đúng là lúc cần lớp đệm dày nhất.",
+                  "open": { "en": "Sorry to bother you —", "vi": "Xin lỗi làm phiền anh/chị —" },
+                  "reply": [
+                    { "them": "Sure, what is it you need?", "themvi": "Được chứ, em cần gì nào?", "you": "Mainly whether the structure makes sense.", "youvi": "Chủ yếu là xem bố cục có hợp lý không ạ." },
+                    { "them": "I'm swamped this week, sorry.", "themvi": "Tuần này anh ngập việc quá, xin lỗi em.", "you": "No problem at all — maybe next week?", "youvi": "Không sao đâu ạ — hay để tuần sau ạ?" }
+                  ],
+                  "close": { "en": "Thank you — take your time with it.", "vi": "Cảm ơn anh/chị — anh/chị cứ thong thả ạ." }
+                },
+                {
+                  "en": "I was wondering if you could spare ten minutes this week.",
+                  "vi": "Không biết tuần này anh/chị có dành ra được mười phút không ạ.",
+                  "note": "<i>spare + con số cụ thể</i> làm yêu cầu nghe nhỏ và dễ nhận lời hơn hẳn <i>spare some time</i>.",
+                  "reply": [
+                    { "them": "What's it about?", "themvi": "Về việc gì vậy?", "you": "The handover plan for next month.", "youvi": "Kế hoạch bàn giao tháng sau ạ." },
+                    { "them": "How about Thursday at four?", "themvi": "Thứ Năm bốn giờ được không?", "you": "Thursday at four works perfectly.", "youvi": "Thứ Năm bốn giờ hợp quá ạ." }
+                  ]
+                },
+                {
+                  "en": "I was just wondering if you'd seen my email from Monday.",
+                  "vi": "Tôi chỉ đang tự hỏi không biết anh/chị đã xem email thứ Hai của tôi chưa.",
+                  "note": "Cách nhắc email mà không giục. <i>just wondering</i> khiến câu nghe như tiện thể hỏi, không phải đòi hồi âm.",
+                  "reply": [
+                    { "them": "Oh, sorry — it must have slipped through.", "themvi": "Ồ, xin lỗi — chắc tôi bỏ sót mất.", "you": "No problem, I'll forward it again.", "youvi": "Không sao ạ, tôi chuyển tiếp lại." },
+                    { "them": "I saw it, just haven't had time to reply.", "themvi": "Tôi thấy rồi, chỉ là chưa kịp trả lời.", "you": "Of course — no rush.", "youvi": "Vâng ạ — không vội đâu." }
+                  ]
+                },
+                {
+                  "en": "I was wondering if you could put me in touch with your supplier.",
+                  "vi": "Không biết anh/chị có kết nối tôi với nhà cung cấp được không ạ.",
+                  "note": "<span class=\"k\">put someone in touch with</span> — cụm chuẩn mực khi xin được giới thiệu.",
+                  "reply": [
+                    { "them": "I can ask if they're open to it.", "themvi": "Để tôi hỏi xem họ có sẵn lòng không.", "you": "That would be a huge help, thank you.", "youvi": "Vậy thì giúp tôi nhiều lắm, cảm ơn anh/chị." }
+                  ],
+                  "close": { "en": "I really appreciate you asking.", "vi": "Tôi rất cảm kích vì anh/chị chịu hỏi giúp." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I was wondering if it would be possible to change my booking.",
+                  "vi": "Không biết liệu tôi đổi lịch đặt được không ạ.",
+                  "note": "Kết hợp hai khung nhã nhất: <i>I was wondering</i> + <i>would it be possible</i>. Xem [Khung 18].",
+                  "reply": [
+                    { "them": "Let me check what's available.", "themvi": "Để em kiểm tra còn chỗ nào ạ.", "you": "Thank you — Sunday would be ideal.", "youvi": "Cảm ơn bạn — Chủ nhật thì lý tưởng nhất ạ." },
+                    { "them": "There'd be a change fee, I'm afraid.", "themvi": "E là sẽ có phí đổi ạ.", "you": "That's fine — how much would it be?", "youvi": "Không sao ạ — phí bao nhiêu vậy bạn?" }
+                  ]
+                },
+                {
+                  "en": "I was wondering if you could hold the room for me until six.",
+                  "vi": "Không biết bên bạn có giữ phòng giúp tôi đến sáu giờ được không ạ.",
+                  "note": "Xin một ưu đãi ngoài quy trình — nên phải nhờ thật nhã.",
+                  "open": { "en": "My flight's been delayed, unfortunately.", "vi": "Rất tiếc là chuyến bay của tôi bị hoãn." },
+                  "reply": [
+                    { "them": "Of course, we'll note it on your booking.", "themvi": "Tất nhiên ạ, em ghi chú vào đặt phòng của anh/chị.", "you": "Thank you so much — that's a relief.", "youvi": "Cảm ơn bạn nhiều — vậy tôi yên tâm rồi." }
+                  ],
+                  "close": { "en": "I'll call if anything changes.", "vi": "Có gì thay đổi tôi sẽ gọi lại." }
+                },
+                {
+                  "en": "I was wondering if you could recommend somewhere to eat nearby.",
+                  "vi": "Không biết bạn có thể gợi ý chỗ nào ăn gần đây không ạ.",
+                  "reply": [
+                    { "them": "There's a great noodle place two streets down.", "themvi": "Có quán mì rất ngon cách đây hai con phố ạ.", "you": "Perfect — do they take cards?", "youvi": "Tuyệt quá — quán có nhận thẻ không ạ?" }
+                  ]
+                },
+                {
+                  "en": "I was wondering if you might have a quieter room available.",
+                  "vi": "Không biết bên bạn có phòng nào yên tĩnh hơn không ạ.",
+                  "note": "<i>might</i> dè dặt hơn <i>could</i> — hợp khi bạn không chắc yêu cầu có đáp ứng được không.",
+                  "reply": [
+                    { "them": "Let me see what I can do.", "themvi": "Để em xem giúp được gì ạ.", "you": "Thank you, I'd really appreciate it.", "youvi": "Cảm ơn bạn, tôi rất cảm kích." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I was wondering if you could make an exception this once.",
+                  "vi": "Không biết bạn có linh động một lần này được không ạ.",
+                  "note": "Bạn đang xin điều ngoài quy định nên không có quyền đòi hỏi — đây chính là chỗ khung này tỏa sáng.",
+                  "open": { "en": "I know it's outside the return window, but —", "vi": "Tôi biết là đã quá hạn đổi trả, nhưng —" },
+                  "reply": [
+                    { "them": "Let me ask my manager.", "themvi": "Để em hỏi quản lý ạ.", "you": "Thank you, I really appreciate that.", "youvi": "Cảm ơn bạn, tôi rất cảm kích." },
+                    { "them": "Unfortunately that's not something we can do.", "themvi": "Rất tiếc đó không phải việc bên em làm được ạ.", "you": "I understand. Thanks for checking anyway.", "youvi": "Tôi hiểu mà. Vẫn cảm ơn bạn đã hỏi giúp." }
+                  ]
+                },
+                {
+                  "en": "I was wondering if you could order it in for me.",
+                  "vi": "Không biết bạn có đặt hàng về giúp tôi được không ạ.",
+                  "reply": [
+                    { "them": "We can — it'd take about a week.", "themvi": "Được ạ — mất khoảng một tuần.", "you": "That works. Do I pay now?", "youvi": "Vậy được. Tôi trả tiền luôn ạ?" }
+                  ]
+                },
+                {
+                  "en": "I was wondering if there's any discount for buying two.",
+                  "vi": "Không biết mua hai cái có được giảm giá không ạ.",
+                  "note": "Hỏi giảm giá là chuyện nhạy cảm — dùng khung này thì không ai thấy bạn đang mặc cả sỗ sàng.",
+                  "reply": [
+                    { "them": "I can do ten percent off.", "themvi": "Em giảm được mười phần trăm ạ.", "you": "That's very kind — I'll take both.", "youvi": "Bạn tốt quá — tôi lấy cả hai." }
+                  ],
+                  "close": { "en": "Thanks for sorting that out.", "vi": "Cảm ơn bạn đã giúp." }
+                },
+                {
+                  "en": "I was wondering if you could check the stock at your other branch.",
+                  "vi": "Không biết bạn có kiểm tra giúp hàng ở chi nhánh kia không ạ.",
+                  "reply": [
+                    { "them": "Sure, give me a moment to call them.", "themvi": "Được ạ, cho em một lát để gọi cho bên đó.", "you": "No rush at all, thank you.", "youvi": "Không vội đâu ạ, cảm ơn bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I was wondering if I could ask you a small favour.",
+                  "vi": "Không biết tôi nhờ bạn một việc nhỏ được không ạ.",
+                  "note": "Chú ý <b>if I</b> — xin phép cho chính mình. Câu mở đường trước khi nói ra việc nhờ.",
+                  "reply": [
+                    { "them": "Of course. What do you need?", "themvi": "Tất nhiên rồi. Bạn cần gì?", "you": "Could you water my plants while I'm away?", "youvi": "Mình đi vắng, bạn tưới cây giúp mình nhé?" }
+                  ],
+                  "close": { "en": "You're a star — thank you.", "vi": "Bạn tuyệt quá — cảm ơn nhiều." }
+                },
+                {
+                  "en": "I was wondering if you could recommend a good dentist.",
+                  "vi": "Không biết bạn có thể giới thiệu một nha sĩ tốt không ạ.",
+                  "reply": [
+                    { "them": "Yes! Mine is great. I'll send you the details.", "themvi": "Có! Chỗ mình rất tốt. Mình gửi thông tin cho bạn.", "you": "That would be really helpful, thanks.", "youvi": "Vậy thì hữu ích lắm, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "I was wondering if you might be free on Saturday.",
+                  "vi": "Không biết thứ Bảy bạn có rảnh không.",
+                  "note": "Mời rủ theo cách để ngỏ — nếu người kia bận thì từ chối rất dễ, không ai khó xử.",
+                  "reply": [
+                    { "them": "I think so — what did you have in mind?", "themvi": "Chắc là rảnh — bạn định làm gì?", "you": "Just lunch, nothing fancy.", "youvi": "Ăn trưa thôi, không có gì cầu kỳ." }
+                  ]
+                },
+                {
+                  "en": "I was wondering if you could keep me posted.",
+                  "vi": "Không biết bạn có cập nhật tình hình cho tôi được không.",
+                  "note": "<span class=\"k\">keep someone posted</span> = báo tin thường xuyên. Cụm rất tự nhiên.",
+                  "reply": [
+                    { "them": "Of course, I'll message you as soon as I know.", "themvi": "Tất nhiên rồi, biết gì mình nhắn bạn ngay.", "you": "Thank you, that puts my mind at rest.", "youvi": "Cảm ơn bạn, vậy mình yên tâm rồi." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I was wondering if you could fit us in at seven.",
+                  "vi": "Không biết bên bạn xếp được cho chúng tôi lúc bảy giờ không ạ.",
+                  "note": "<span class=\"k\">fit someone in</span> = xếp chỗ cho ai dù đã kín lịch.",
+                  "reply": [
+                    { "them": "We're fully booked, but I could do seven thirty.", "themvi": "Bên em kín chỗ rồi ạ, nhưng bảy rưỡi thì được.", "you": "Seven thirty is fine, thank you.", "youvi": "Bảy rưỡi cũng được ạ, cảm ơn bạn." }
+                  ]
+                },
+                {
+                  "en": "I was wondering if the kitchen could leave out the chilli.",
+                  "vi": "Không biết bếp có thể bỏ ớt ra giúp tôi không ạ.",
+                  "note": "Nhờ gián tiếp qua “bếp” thay vì nhờ thẳng người phục vụ — nghe nhẹ nhàng hơn.",
+                  "reply": [
+                    { "them": "I'll check with them for you.", "themvi": "Để em hỏi bếp giúp anh/chị ạ.", "you": "Thank you, that's very kind.", "youvi": "Cảm ơn bạn, bạn chu đáo quá." }
+                  ]
+                },
+                {
+                  "en": "I was wondering if we could sit outside instead.",
+                  "vi": "Không biết chúng tôi ngồi ngoài trời được không ạ.",
+                  "reply": [
+                    { "them": "Of course, let me clear a table.", "themvi": "Tất nhiên ạ, để em dọn bàn.", "you": "No rush at all.", "youvi": "Không vội đâu ạ." }
+                  ]
+                },
+                {
+                  "en": "I was wondering if you do takeaway as well.",
+                  "vi": "Không biết bên bạn có bán mang đi không ạ.",
+                  "note": "Anh-Mỹ nói <i>takeout</i>, Anh-Anh nói <i>takeaway</i>.",
+                  "reply": [
+                    { "them": "We do — there's a separate menu.", "themvi": "Có ạ — có thực đơn riêng.", "you": "Could I see it, please?", "youvi": "Cho tôi xem được không ạ?" }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Nhờ đồng nghiệp cấp trên rà soát tài liệu",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Sorry to bother you — do you have a second?", "vi": "Xin lỗi làm phiền anh — anh rảnh một chút không ạ?" },
+            { "speaker": "Manager", "en": "Sure, what's up?", "vi": "Có, chuyện gì vậy?" },
+            { "speaker": "You", "me": true, "en": "I was wondering if you could take a look at my proposal before I send it.", "vi": "Không biết anh có xem qua đề xuất của em trước khi em gửi không ạ." },
+            { "speaker": "Manager", "en": "How long is it?", "vi": "Dài bao nhiêu?" },
+            { "speaker": "You", "me": true, "en": "Four pages. I was wondering if you could spare twenty minutes this week.", "vi": "Bốn trang ạ. Không biết tuần này anh dành ra được hai mươi phút không ạ." },
+            { "speaker": "Manager", "en": "Send it over. I'll look at it Thursday.", "vi": "Gửi anh đi. Thứ Năm anh xem." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Xin linh động khi đã quá hạn đổi trả",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Hi. I know this is outside the return window, but I was wondering if you could make an exception.", "vi": "Chào bạn. Tôi biết là đã quá hạn đổi trả, nhưng không biết bạn có linh động được không ạ." },
+            { "speaker": "Staff", "en": "How long ago did you buy it?", "vi": "Anh/chị mua cách đây bao lâu ạ?" },
+            { "speaker": "You", "me": true, "en": "Thirty-five days. I was away for work and only opened it yesterday.", "vi": "Ba mươi lăm ngày ạ. Tôi đi công tác, hôm qua mới mở ra." },
+            { "speaker": "Staff", "en": "Let me ask my manager. One moment.", "vi": "Để em hỏi quản lý. Một lát ạ." },
+            { "speaker": "You", "me": true, "en": "Thank you — I really appreciate you asking.", "vi": "Cảm ơn bạn — tôi rất cảm kích vì bạn chịu hỏi giúp." },
+            { "speaker": "Staff", "en": "She says we can offer store credit.", "vi": "Chị ấy nói bên em đổi phiếu mua hàng được ạ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I was wondering if could you help me.", "right": "I was wondering if you could help me.", "why": "Sau <b>if</b> là thứ tự câu kể — <b>chủ ngữ trước, động từ sau</b>. Không đảo ngữ." },
+            { "wrong": "I was wondering if you could help me?", "right": "I was wondering if you could help me.", "why": "Đây là <b>câu kể</b>, không phải câu hỏi. Kết thúc bằng dấu chấm, và khi nói thì giọng đi xuống." },
+            { "wrong": "I am wondering if you could pass the salt.", "right": "Could you pass the salt, please?", "why": "Khung này quá trang trọng cho việc vặt — nghe kỳ quặc. Việc nhỏ thì dùng [Khung 11]." },
+            { "wrong": "I was wondering that you could help.", "right": "I was wondering if you could help.", "why": "Phải dùng <b>if</b> hoặc <b>whether</b>, không dùng <i>that</i>." },
+            { "wrong": "I was wondering if you can help.", "right": "I was wondering if you could help.", "why": "Đã lùi thì ở <i>was</i> thì phải lùi luôn <b>can → could</b> cho nhất quán." },
+            { "wrong": "I was wondering if you could to send it.", "right": "I was wondering if you could send it.", "why": "Sau <b>could</b> là động từ nguyên thể không <i>to</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I was wondering if you could…</code>", "Nhã nhất — việc lớn, người chưa quen", "<i>I was wondering if you could review this.</i>"],
+            ["<code>Would you mind + V-ing?</code>", "Rất nhã — hỏi có phiền không", "<i>Would you mind reviewing this?</i> — Xem [Khung 13]."],
+            ["<code>Could you…, please?</code>", "Lịch sự chuẩn mực — việc vừa phải", "<i>Could you review this, please?</i> — Xem [Khung 11]."],
+            ["<code>Can you…?</code>", "Thân mật — việc nhỏ", "<i>Can you review this?</i> — Xem [Khung 12]."],
+            ["<code>Would it be possible to…?</code>", "Trang trọng — hỏi về khả năng của việc", "<i>Would it be possible to reschedule?</i> — Xem [Khung 18]."],
+            ["<code>I was hoping you could…</code>", "Gần giống, hơi thiên về mong đợi", "<i>I was hoping you could help.</i> — Xem [Khung 07]."],
+            ["<code>Any chance you could…?</code>", "Rất thân mật, kiểu bạn bè", "<i>Any chance you could cover for me?</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Thang độ lịch sự — nhờ rà soát một tài liệu dài" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Review this for me.", "vi": "Ra lệnh — không ai muốn nhận" },
+            { "en": "Can you review this?", "vi": "Thân mật — đồng nghiệp thân" },
+            { "en": "Could you review this, please?", "vi": "Chuẩn mực — dùng mọi nơi" },
+            { "en": "Would you mind reviewing this?", "vi": "Rất nhã — người chưa thân" },
+            { "en": "I was wondering if you could review this.", "vi": "Nhã nhất — việc lớn, cấp trên" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>wondering</b> = /ˈwʌndərɪŋ/ — ba âm tiết, trọng âm ở đầu. Khi nói nhanh còn hai âm tiết rưỡi: “WUN-drin”.",
+            "<b>I was</b> nói nhanh thành “ai-wəz” — <i>was</i> giảm hẳn, gần như “wơz”.",
+            "<b>I was wondering if</b> → “ai-wəz-WUN-drin-nif” — cả cụm nói liền một hơi, âm /g/ cuối <i>wondering</i> biến mất và /n/ nối sang <i>if</i>.",
+            "<b>if you could</b> → “i-fjə-kəd” — <i>you</i> giảm thành /jə/, <i>could</i> giảm thành /kəd/.",
+            "Cả cụm mở đầu <b>I was wondering if you could</b> nên nói <b>nhanh và nhẹ</b>, rồi mới nhấn vào động từ chính.",
+            "<b>Giọng đi xuống ở cuối</b> — đây là câu kể, không phải câu hỏi. Lên giọng sẽ nghe như bạn đang chất vấn."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I was wondering if you could take a look at this.", "vi": "Luyện shadowing: nói nhanh cả cụm đầu, nhấn vào “take a look”." },
+            { "en": "I was just wondering if you'd seen my email.", "vi": "Câu nhắc email lịch sự — lặp 5 lần cho trôi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Không biết bạn có giúp tôi một việc được không ạ.", "blank": "__________ help me with something.", "a": "I was wondering if you could" },
+            { "vi": "Không biết tôi về sớm được không ạ.", "blank": "I was wondering __________ leave early.", "a": "if I could" },
+            { "vi": "Không biết thứ Sáu anh/chị có rảnh không ạ.", "blank": "I was wondering if you __________ free on Friday.", "a": "might be" },
+            { "vi": "Tôi chỉ đang tự hỏi không biết anh/chị đã xem email chưa.", "blank": "__________ if you'd seen my email.", "a": "I was just wondering" },
+            { "vi": "Không biết anh/chị có linh động một lần này được không ạ.", "blank": "I was wondering if you could __________ this once.", "a": "make an exception" },
+            { "vi": "Không biết anh/chị có dành ra được mười phút không ạ.", "blank": "I was wondering if you could __________ ten minutes.", "a": "spare" },
+            { "vi": "Không biết liệu có thể dời lịch được không ạ.", "blank": "I was wondering if __________ to reschedule.", "a": "it would be possible" },
+            { "vi": "Không biết anh/chị có kết nối tôi với nhà cung cấp được không ạ.", "blank": "I was wondering if you could __________ your supplier.", "a": "put me in touch with" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Không biết anh/chị có xem qua bản nháp của tôi được không ạ.", "a": "I was wondering if you could take a look at my draft." },
+            { "vi": "2. Không biết tôi nhờ bạn một việc nhỏ được không ạ.", "a": "I was wondering if I could ask you a small favour." },
+            { "vi": "3. Không biết bạn có thể giới thiệu một nha sĩ tốt không ạ.", "a": "I was wondering if you could recommend a good dentist." },
+            { "vi": "4. Không biết bên bạn có giữ phòng giúp tôi đến sáu giờ không ạ.", "a": "I was wondering if you could hold the room for me until six." },
+            { "vi": "5. Không biết bạn có cập nhật tình hình cho tôi được không.", "a": "I was wondering if you could keep me posted." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Để dành cho việc lớn:</b> đây là vũ khí hạng nặng. Dùng cho việc vặt thì nghe khách sáo và kỳ quặc — việc nhỏ cứ dùng [Khung 11].",
+            "<b>Nhớ không đảo ngữ:</b> <i>if you could</i>, không phải <i>if could you</i>. Đọc thầm mười lần cho thành phản xạ.",
+            "<b>Kết thúc bằng dấu chấm:</b> đây là câu kể. Viết dấu hỏi là lộ ngay rằng bạn chưa nắm cấu trúc.",
+            "<b>Thêm con số khi xin thời gian:</b> <i>spare ten minutes</i> dễ được nhận lời hơn hẳn <i>spare some time</i>.",
+            "<b>Dùng “just wondering” để nhắc email:</b> <i>I was just wondering if you'd seen my email.</i> — giục mà không giục.",
+            "<b>Bài tập 3 phút:</b> nghĩ 3 việc bạn ngại nhờ nhất ở công ty, viết mỗi việc bằng <i>I was wondering if you could…</i>, rồi đọc to với giọng đi xuống ở cuối."
+          ]
+        }
+      ]
+    }
+  ]
+}

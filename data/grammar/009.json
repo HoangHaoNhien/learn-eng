@@ -1,0 +1,277 @@
+{
+  "id": 9,
+  "group": "Nhóm 4 · Thì hoàn thành",
+  "title": "Hoàn thành hay Quá khứ đơn?",
+  "subtitle": "Bài quyết định. Hai thì này dịch sang tiếng Việt gần như giống hệt nhau, nên người Việt chọn bừa. Nhưng với người bản xứ, I've worked here và I worked here là hai chuyện khác hẳn: một người vẫn đang làm, một người đã nghỉ.",
+  "meaning": "Cách chọn giữa have + V3 và V2",
+  "rule": [
+    "Có mốc quá khứ → <em>V2</em>",
+    "Còn liên quan hiện tại → <em>have + V3</em>",
+    "Vẫn đang tiếp tục → <em>have + V3 + for/since</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1", "hot": true },
+    { "text": "Có yesterday → bỏ thì hoàn thành" },
+    { "text": "Một chữ have đổi cả nghĩa" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [77, 93, 94, 95, 96],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Tiếng Việt chỉ có một cách nói cho cả hai: “tôi làm ở đây ba năm”. Tiếng Anh tách thành hai câu mang hai thông điệp khác hẳn, và người nghe hiểu ngay sự khác biệt đó mà bạn không cần giải thích gì thêm." },
+        { "t": "callout", "html": "<b>CẶP CÂU ĐỔI CẢ NGHĨA:</b><br>• <i>I'<b>ve worked</b> here for three years</i> = tôi <b>vẫn đang</b> làm ở đây.<br>• <i>I <b>worked</b> here for three years</i> = tôi <b>đã nghỉ</b> rồi.<br>Chỉ khác một chữ <i>have</i>, nhưng người nghe hiểu hai chuyện khác hẳn." },
+        { "t": "callout", "html": "<b>LUẬT CHẶT NHẤT — mốc quá khứ loại trừ thì hoàn thành:</b> hễ câu có <i>yesterday, last week, two hours ago, in 2019, when I was young</i> thì <b>bắt buộc</b> dùng quá khứ đơn. <i>I've finished it <b>yesterday</b></i> ✗ — không có ngoại lệ nào." },
+        { "t": "h3", "text": "Bốn câu hỏi để quyết định" },
+        {
+          "t": "table",
+          "head": ["Hỏi bản thân", "Nếu CÓ", "Nếu KHÔNG"],
+          "rows": [
+            ["Câu có mốc quá khứ xác định?", "<code>V2</code> — bắt buộc", "Xét tiếp câu dưới"],
+            ["Việc vẫn đang tiếp tục đến giờ?", "<code>have + V3</code>", "Xét tiếp câu dưới"],
+            ["Kết quả còn nguyên giá trị lúc này?", "<code>have + V3</code>", "Xét tiếp câu dưới"],
+            ["Chỉ kể một chuyện đã xong?", "<code>V2</code>", "<code>have + V3</code>"]
+          ]
+        },
+        { "t": "p", "html": "Một mẹo phụ: nếu câu trả lời cho <b>“khi nào?”</b> thì gần như chắc chắn là quá khứ đơn. Nếu nó trả lời <b>“bao lâu rồi?”</b> hoặc <b>“xong chưa?”</b> thì là thì hoàn thành." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Tình huống", "Dùng", "Ví dụ"],
+          "rows": [
+            ["Có <code>yesterday / ago / in 2019</code>", "<code>V2</code>", "I finished it yesterday."],
+            ["Hỏi <code>When…?</code>", "<code>V2</code>", "When did you finish it?"],
+            ["Việc đã kết thúc hẳn", "<code>V2</code>", "I worked there for three years."],
+            ["Kể chuỗi việc trong câu chuyện", "<code>V2</code>", "I arrived, then I saw him."],
+            ["Vừa xong, kết quả còn đó", "<code>have + V3</code>", "I've just finished."],
+            ["Vẫn đang tiếp tục", "<code>have + V3 + for/since</code>", "I've worked here for three years."],
+            ["Kinh nghiệm cả đời", "<code>Have you ever + V3?</code>", "Have you ever been to Hue?"],
+            ["Hỏi <code>How long…?</code>", "<code>have + V3</code>", "How long have you worked here?"],
+            ["Chưa xong", "<code>haven't + V3 + yet</code>", "I haven't finished yet."],
+            ["Số lần tính đến giờ", "<code>have + V3 + twice</code>", "I've been there twice."],
+            ["Nhấn quá trình kéo dài", "<code>have been + V-ing</code>", "I've been waiting for an hour."],
+            ["Trước một mốc quá khứ", "<code>had + V3</code>", "I had left by then."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cùng một sự việc, hai cách kể:</b> <i>Have you finished?</i> hỏi về trạng thái <b>lúc này</b>; <i>When did you finish?</i> hỏi về <b>thời điểm</b>. Đổi câu hỏi là đổi thì — và đó là cách dễ nhất để kiểm tra mình chọn đúng chưa." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ — toàn cặp đối chiếu" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I've worked here for three years.", "vi": "Tôi làm ở đây được ba năm rồi.", "note": "Tôi VẪN đang làm. Xem [Khung 94]." },
+            { "en": "I worked here for three years.", "vi": "Tôi từng làm ở đây ba năm.", "note": "Tôi ĐÃ NGHỈ rồi. Chỉ khác một chữ <i>have</i>." },
+            { "en": "I've just finished the report.", "vi": "Tôi vừa làm xong báo cáo.", "note": "Vừa xong, kết quả còn nguyên. Xem [Khung 95]." },
+            { "en": "I finished the report yesterday.", "vi": "Hôm qua tôi làm xong báo cáo.", "note": "Có <i>yesterday</i> nên BẮT BUỘC dùng quá khứ đơn." },
+            { "en": "Have you finished?", "vi": "Bạn xong chưa?", "note": "Hỏi về trạng thái LÚC NÀY." },
+            { "en": "When did you finish?", "vi": "Bạn xong lúc nào?", "note": "Hỏi về THỜI ĐIỂM — luôn là quá khứ đơn." },
+            { "en": "Have you ever been to Hue?", "vi": "Bạn từng đến Huế chưa?", "note": "Kinh nghiệm cả đời, không nói lúc nào." },
+            { "en": "I went to Hue last summer.", "vi": "Hè năm ngoái tôi đi Huế.", "note": "Có mốc <i>last summer</i> nên dùng quá khứ đơn." },
+            { "en": "I haven't seen him for ages.", "vi": "Lâu lắm rồi tôi không gặp anh ấy.", "note": "Tính đến BÂY GIỜ. Xem [Khung 77]." },
+            { "en": "I saw him two hours ago.", "vi": "Tôi gặp anh ấy cách đây hai tiếng.", "note": "<i>ago</i> là mốc quá khứ nên không dùng thì hoàn thành." },
+            { "en": "She's lived in Hue since 2015.", "vi": "Cô ấy sống ở Huế từ năm 2015.", "note": "<i>since</i> + mốc, và cô ấy VẪN sống ở đó." },
+            { "en": "She lived in Hue when she was a child.", "vi": "Hồi nhỏ cô ấy sống ở Huế.", "note": "<i>when she was a child</i> là mốc quá khứ. Xem [Khung 96]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "📅", "title": "Thấy mốc quá khứ → V2", "text": "<i>yesterday, ago, last week, in 2019</i> — không có ngoại lệ." },
+            { "icon": "❓", "title": "Hỏi When → V2", "text": "<i>When did you finish?</i> Không bao giờ <i>When have you finished?</i>" },
+            { "icon": "⏳", "title": "Hỏi How long → have V3", "text": "<i>How long have you worked here?</i>" },
+            { "icon": "✅", "title": "Kết quả còn đó → have V3", "text": "<i>I've just finished.</i> Xem [Khung 95]." },
+            { "icon": "🌏", "title": "Kinh nghiệm cả đời → have V3", "text": "<i>Have you ever been to Hue?</i>" },
+            { "icon": "🚫", "title": "Đừng trộn hai thì", "text": "<i>I've finished it yesterday</i> ✗ — chọn một trong hai, không được cả hai." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Dấu hiệu BẮT BUỘC quá khứ đơn",
+              "items": [
+                { "w": "yesterday", "vi": "hôm qua", "ex": "I finished it yesterday.", "exvi": "Hôm qua tôi làm xong.", "note": "Mốc quá khứ xác định — loại trừ hẳn thì hoàn thành." },
+                { "w": "last week / last year", "vi": "tuần trước / năm ngoái", "ex": "I saw him last week.", "exvi": "Tuần trước tôi gặp anh ấy.", "note": "Không có giới từ trước <i>last</i>: <i>in last week</i> ✗." },
+                { "w": "two hours ago", "vi": "cách đây hai tiếng", "ex": "He left two hours ago.", "exvi": "Anh ấy đi cách đây hai tiếng.", "note": "<b>ago</b> không bao giờ đi với thì hoàn thành. Xem [Ngữ pháp 07]." },
+                { "w": "in 2019", "vi": "vào năm 2019", "ex": "I worked there in 2019.", "exvi": "Năm 2019 tôi làm ở đó." },
+                { "w": "when I was young", "vi": "hồi tôi còn trẻ", "ex": "I lived in Hue when I was young.", "exvi": "Hồi trẻ tôi sống ở Huế. Xem [Khung 96]." },
+                { "w": "When did you…?", "vi": "bạn… lúc nào?", "ex": "When did you finish?", "exvi": "Bạn xong lúc nào?", "note": "Hỏi THỜI ĐIỂM thì luôn là quá khứ đơn. <i>When have you finished?</i> ✗." },
+                { "w": "What time did you…?", "vi": "mấy giờ bạn…?", "ex": "What time did you leave?", "exvi": "Mấy giờ bạn về?" },
+                { "w": "the other day", "vi": "hôm nọ", "ex": "I saw her the other day.", "exvi": "Hôm nọ tôi gặp cô ấy." },
+                { "w": "at first / then", "vi": "ban đầu / rồi sau đó", "ex": "At first I hated it, then I got used to it.", "exvi": "Ban đầu tôi ghét nó, rồi tôi quen dần." },
+                { "w": "in the end", "vi": "cuối cùng thì", "ex": "In the end, I stayed.", "exvi": "Cuối cùng tôi ở lại." },
+                { "w": "used to + V", "vi": "ngày xưa hay", "ex": "I used to work there.", "exvi": "Ngày xưa tôi làm ở đó.", "note": "Luôn là chuyện đã chấm dứt — không bao giờ dùng thì hoàn thành. Xem [Khung 93]." },
+                { "w": "I worked there for…", "vi": "tôi từng làm ở đó", "ex": "I worked there for three years.", "exvi": "Tôi từng làm ở đó ba năm.", "note": "Có <i>for</i> nhưng vẫn là quá khứ đơn — vì việc đã KẾT THÚC." }
+              ]
+            },
+            {
+              "title": "Dấu hiệu BẮT BUỘC thì hoàn thành",
+              "items": [
+                { "w": "just", "vi": "vừa mới", "ex": "I've just finished.", "exvi": "Tôi vừa xong.", "note": "Đứng giữa <i>have</i> và V3. Xem [Khung 95]." },
+                { "w": "already", "vi": "đã… rồi", "ex": "I've already sent it.", "exvi": "Tôi gửi rồi." },
+                { "w": "yet", "vi": "chưa, đã… chưa", "ex": "I haven't finished yet.", "exvi": "Tôi chưa xong.", "note": "Chỉ dùng trong phủ định và câu hỏi, luôn ở CUỐI câu." },
+                { "w": "ever / never", "vi": "đã từng / chưa bao giờ", "ex": "Have you ever been to Hue?", "exvi": "Bạn từng đến Huế chưa?", "note": "Kinh nghiệm cả đời tính đến giờ." },
+                { "w": "for three years", "vi": "được ba năm", "ex": "I've worked here for three years.", "exvi": "Tôi làm ở đây ba năm rồi.", "note": "Có <i>have</i> nên hiểu là VẪN đang làm." },
+                { "w": "since 2015", "vi": "từ năm 2015", "ex": "She's lived here since 2015.", "exvi": "Cô ấy sống ở đây từ 2015.", "note": "<b>since</b> + mốc — nhưng câu vẫn ở thì hoàn thành vì kéo dài đến giờ." },
+                { "w": "How long…?", "vi": "bao lâu rồi?", "ex": "How long have you worked here?", "exvi": "Bạn làm ở đây bao lâu rồi?", "note": "Hỏi THỜI LƯỢNG đến hiện tại — luôn là thì hoàn thành." },
+                { "w": "so far", "vi": "cho đến giờ", "ex": "So far, so good.", "exvi": "Đến giờ thì vẫn ổn." },
+                { "w": "twice / three times", "vi": "hai lần / ba lần", "ex": "I've been there twice.", "exvi": "Tôi đến đó hai lần rồi.", "note": "Đếm số lần tính đến HIỆN TẠI." },
+                { "w": "recently / lately", "vi": "gần đây / dạo này", "ex": "I've been busy lately.", "exvi": "Dạo này tôi bận suốt." },
+                { "w": "this week / today", "vi": "tuần này / hôm nay", "ex": "I've seen him twice this week.", "exvi": "Tuần này tôi gặp anh ấy hai lần.", "note": "Khoảng thời gian CHƯA kết thúc nên dùng thì hoàn thành." },
+                { "w": "still haven't", "vi": "vẫn chưa", "ex": "I still haven't heard back.", "exvi": "Tôi vẫn chưa nhận được hồi âm." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I've finished it <b>yesterday</b>.", "right": "I <b>finished</b> it yesterday.", "why": "LUẬT CHẶT NHẤT: mốc quá khứ xác định loại trừ hẳn thì hoàn thành. Không có ngoại lệ." },
+            { "wrong": "He <b>has left</b> two hours ago.", "right": "He <b>left</b> two hours ago.", "why": "<b>ago</b> cũng là mốc quá khứ. Muốn dùng thì hoàn thành phải đổi thành <i>He has been gone for two hours</i>." },
+            { "wrong": "<b>When have you</b> finished?", "right": "<b>When did you</b> finish?", "why": "Hỏi THỜI ĐIỂM thì luôn là quá khứ đơn. Thì hoàn thành không quan tâm chuyện xảy ra lúc nào." },
+            { "wrong": "<b>How long did you work</b> here? <i>(ý: vẫn đang làm)</i>", "right": "<b>How long have you worked</b> here?", "why": "Hỏi thời lượng kéo dài đến hiện tại thì dùng thì hoàn thành. Dùng <i>did</i> nghe như bạn đã nghỉ." },
+            { "wrong": "I <b>have worked</b> there for three years, but I left in 2020.", "right": "I <b>worked</b> there for three years.", "why": "Đã nói <i>I left</i> thì việc đã kết thúc — dùng quá khứ đơn. Có <i>for</i> không có nghĩa là phải dùng thì hoàn thành." },
+            { "wrong": "I <b>lived</b> here since 2015.", "right": "I'<b>ve lived</b> here since 2015.", "why": "<b>since</b> báo hiệu việc kéo dài đến hiện tại nên cần thì hoàn thành." },
+            { "wrong": "<b>Did you ever</b> been to Hue?", "right": "<b>Have you ever been</b> to Hue?", "why": "Hỏi kinh nghiệm cả đời thì dùng thì hoàn thành, và sau <i>have</i> là V3." },
+            { "wrong": "I <b>didn't finish</b> yet.", "right": "I <b>haven't finished</b> yet.", "why": "<b>yet</b> đi với thì hoàn thành, không đi với quá khứ đơn." },
+            { "wrong": "I <b>saw</b> him twice this week.", "right": "I'<b>ve seen</b> him twice this week.", "why": "<i>this week</i> là khoảng thời gian CHƯA kết thúc nên dùng thì hoàn thành." },
+            { "wrong": "<b>I am working</b> here for three years.", "right": "<b>I've worked</b> here for three years.", "why": "Hiện tại tiếp diễn không kéo dài về quá khứ được. Xem [Ngữ pháp 08]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp câu", "Nghĩa", "Vì sao"],
+          "rows": [
+            ["<code>I've worked here for 3 years.</code>", "Vẫn đang làm", "Thì hoàn thành kéo dài đến giờ"],
+            ["<code>I worked here for 3 years.</code>", "Đã nghỉ rồi", "Quá khứ đơn = kết thúc hẳn"],
+            ["<code>Have you finished?</code>", "Xong chưa? (lúc này)", "Hỏi trạng thái hiện tại"],
+            ["<code>When did you finish?</code>", "Xong lúc nào?", "Hỏi thời điểm → quá khứ đơn"],
+            ["<code>I've seen him twice this week.</code>", "Tuần này chưa hết", "Khoảng thời gian còn mở"],
+            ["<code>I saw him twice last week.</code>", "Tuần trước đã hết", "Khoảng thời gian đã đóng"],
+            ["<code>I've been waiting an hour.</code>", "Nhấn quá trình. Xem [Ngữ pháp 08]", "have been + V-ing"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ quyết định" },
+        {
+          "t": "tree",
+          "q": "Đọc lại câu của bạn và trả lời lần lượt từ trên xuống.",
+          "nodes": [
+            { "if": "Câu có yesterday, ago, last week, in 2019", "then": "Quá khứ đơn — dừng ở đây", "ex": "I finished it yesterday." },
+            { "if": "Câu hỏi bắt đầu bằng When hoặc What time", "then": "Quá khứ đơn", "ex": "When did you finish?" },
+            { "if": "Việc bắt đầu từ trước và VẪN tiếp tục", "then": "have + V3 + for/since", "ex": "I've worked here for three years." },
+            { "if": "Hỏi kinh nghiệm cả đời (ever/never)", "then": "have + V3", "ex": "Have you ever been to Hue?" },
+            { "if": "Có just, already, yet, so far, this week", "then": "have + V3", "ex": "I've just finished." },
+            { "if": "Chỉ kể một chuyện đã xong hẳn", "then": "Quá khứ đơn", "ex": "I worked there for three years." }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ gần của một sự việc" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I've just finished.", "vi": "Vừa xong — thì hoàn thành" },
+            { "en": "I've finished.", "vi": "Xong rồi, không nói lúc nào" },
+            { "en": "I finished this morning.", "vi": "Có mốc — quá khứ đơn" },
+            { "en": "I finished yesterday.", "vi": "Hôm qua" },
+            { "en": "I finished it back in 2019.", "vi": "Xa nhất — chắc chắn quá khứ đơn" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Ranh giới hai thì này xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 95, "why": "I've just + V3 — khung chính, có hẳn cặp lỗi I've just finished yesterday." },
+            { "id": 94, "why": "I've been… for/since — cặp I've worked here và I worked here, đổi một chữ là đổi cả nghĩa." },
+            { "id": 96, "why": "When I was…, I + V2 — phía quá khứ đơn của ranh giới này." },
+            { "id": 93, "why": "I used to… — luôn thuộc phía quá khứ, không bao giờ dùng thì hoàn thành." },
+            { "id": 77, "why": "Long time no see! — I haven't seen you for ages, tính đến tận bây giờ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ trong ngoặc" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Hôm qua tôi làm xong.", "blank": "I __________ (finish) it yesterday.", "a": "finished — có mốc quá khứ" },
+            { "vi": "Tôi vừa làm xong.", "blank": "I __________ (just finish).", "a": "have just finished" },
+            { "vi": "Tôi làm ở đây ba năm rồi (vẫn làm).", "blank": "I __________ (work) here for three years.", "a": "have worked" },
+            { "vi": "Tôi từng làm ở đó ba năm (đã nghỉ).", "blank": "I __________ (work) there for three years.", "a": "worked" },
+            { "vi": "Anh ấy đi cách đây hai tiếng.", "blank": "He __________ (leave) two hours ago.", "a": "left" },
+            { "vi": "Bạn từng đến Huế chưa?", "blank": "__________ you ever __________ (be) to Hue?", "a": "Have … been" },
+            { "vi": "Tuần này tôi gặp anh ấy hai lần.", "blank": "I __________ (see) him twice this week.", "a": "have seen — tuần này chưa hết" },
+            { "vi": "Hồi nhỏ cô ấy sống ở Huế.", "blank": "She __________ (live) in Hue when she was a child.", "a": "lived" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Bạn xong lúc nào?", "blank": "__________ you finish?  (When did / When have)", "a": "When did — hỏi thời điểm" },
+            { "vi": "Bạn làm ở đây bao lâu rồi? (vẫn làm)", "blank": "How long __________ here?  (did you work / have you worked)", "a": "have you worked" },
+            { "vi": "Tôi chưa xong.", "blank": "I __________ finished yet.  (didn't / haven't)", "a": "haven't — yet đi với thì hoàn thành" },
+            { "vi": "Tôi sống ở đây từ năm 2015.", "blank": "I __________ here since 2015.  (lived / have lived)", "a": "have lived" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi làm ở đây được ba năm rồi (vẫn đang làm).", "a": "I've worked here for three years." },
+            { "vi": "2. Tôi từng làm ở đó ba năm (đã nghỉ).", "a": "I worked there for three years." },
+            { "vi": "3. Hôm qua tôi làm xong báo cáo.", "a": "I finished the report yesterday." },
+            { "vi": "4. Lâu lắm rồi tôi không gặp anh ấy.", "a": "I haven't seen him for ages." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Quét mốc thời gian trước tiên:</b> thấy <i>yesterday, ago, last week, in 2019</i> là chốt luôn quá khứ đơn, khỏi suy nghĩ thêm.",
+            "<b>Mẹo câu hỏi:</b> trả lời “<b>khi nào?</b>” → quá khứ đơn. Trả lời “<b>bao lâu rồi?</b>” hoặc “<b>xong chưa?</b>” → thì hoàn thành.",
+            "<b>Cặp đổi cả nghĩa:</b> <i>I've worked here</i> (vẫn làm) vs <i>I worked here</i> (đã nghỉ). Đọc to cả hai để thấy khác biệt.",
+            "<b>Khoảng thời gian còn mở thì dùng thì hoàn thành:</b> <i>this week</i> chưa hết nên <i>I've seen him twice this week</i> ✓.",
+            "<b>Có <i>for</i> không có nghĩa là phải dùng thì hoàn thành:</b> <i>I worked there for three years</i> ✓ khi việc đã kết thúc.",
+            "<b>Bài tập 3 phút:</b> viết năm câu về công việc và nơi ở của bạn, mỗi câu viết hai phiên bản — một với <i>have</i>, một không — rồi xem phiên bản nào đúng với sự thật."
+          ]
+        }
+      ]
+    }
+  ]
+}

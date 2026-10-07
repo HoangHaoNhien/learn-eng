@@ -1,0 +1,486 @@
+{
+  "id": 40,
+  "group": "Nhóm 4 · Đề nghị & Rủ rê",
+  "title": "What do you say…? — Rủ rê kiểu hỏi thẳng ý kiến",
+  "subtitle": "Khung rủ rê thân mật mang màu Anh-Mỹ, thường dùng khi bạn đã có sẵn một phương án và muốn người kia gật đầu ngay. Điểm đặc biệt: nó vừa là lời đề xuất vừa là câu hỏi thật — người nghe được mời trả lời chứ không chỉ được thông báo.",
+  "pattern": [
+    "What do you say we <em>+ V (không “to”)</em>?",
+    "What do you say to <em>+ V-ing / danh từ</em>?",
+    "What do you say?"
+  ],
+  "meaning": "Bạn thấy sao nếu chúng ta…? / Bạn thấy thế nào?",
+  "grammar": [44, 43],
+  "tags": [
+    { "text": "Tần suất: trung bình", "hot": false },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Thân mật — Anh-Mỹ nhiều hơn" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">What do you say we…?</span> dịch sát là “bạn nói sao nếu chúng ta…”. Nó gộp hai việc vào một câu: bạn <b>đưa ra phương án</b> và đồng thời <b>hỏi ý</b> người kia — nên vừa chủ động vừa không áp đặt." },
+        { "t": "p", "html": "So với các khung cùng nhóm, nó nằm gần <i>Let's</i> ở [Khung 31] về độ chủ động, nhưng mềm hơn vì có dấu hỏi thật. Khác với <i>Why don't we…?</i> ở [Khung 32] vốn chỉ là câu hỏi hình thức, câu này <b>thật sự chờ câu trả lời</b>." },
+        { "t": "p", "html": "Sắc thái khá <b>thân mật và có chút hào hứng</b>. Người Mỹ dùng nhiều hơn người Anh. Nó hợp khi rủ bạn bè, chốt kế hoạch với đồng nghiệp thân, hoặc khi bạn muốn kết thúc một cuộc bàn bạc dài bằng một đề xuất cụ thể." },
+        { "t": "callout", "html": "<b>Hai cấu trúc, hai dạng khác nhau:</b> <span class=\"k\">What do you say we + V</span> (động từ trần) và <span class=\"k\">What do you say to + V-ing</span> (có <i>to</i> thì phải V-ing). Đừng trộn hai cái với nhau." },
+        { "t": "h3", "text": "Ba dạng và sắc thái" },
+        {
+          "t": "table",
+          "head": ["Câu", "Cấu trúc", "Sắc thái"],
+          "rows": [
+            ["<code>What do you say we go now?</code>", "we + V trần", "Rủ cùng làm — phổ biến nhất"],
+            ["<code>What do you say to a coffee?</code>", "to + danh từ", "Mời — nhẹ nhàng, hơi lịch thiệp"],
+            ["<code>What do you say to leaving early?</code>", "to + V-ing", "Đề xuất — trang trọng hơn một chút"],
+            ["<code>Seven o'clock. What do you say?</code>", "đứng một mình", "Chốt phương án rồi hỏi ý"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🤝", "title": "Chốt một phương án", "text": "Bối cảnh số 1. <i>Seven o'clock. What do you say?</i> Đưa đề xuất rồi hỏi ý ngay." },
+            { "icon": "🍻", "title": "Rủ bạn bè", "text": "<i>What do you say we grab a drink?</i> Thân mật và có chút hào hứng." },
+            { "icon": "⏹", "title": "Kết thúc bàn bạc dài", "text": "<i>What do you say we leave it there?</i> Chốt lại mà vẫn hỏi ý." },
+            { "icon": "💼", "title": "Đàm phán nhẹ", "text": "<i>What do you say to two million?</i> Thả con số rồi chờ phản hồi." },
+            { "icon": "🔄", "title": "Đề xuất đổi kế hoạch", "text": "<i>What do you say we do it next week instead?</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Nói với khách hàng trang trọng hoặc cấp trên xa cách — hãy dùng [Khung 34]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Rủ cùng làm", "<code>What do you say we + V?</code>", "What do you say we start now?"],
+            ["Mời bằng danh từ", "<code>What do you say to + N?</code>", "What do you say to a coffee?"],
+            ["Đề xuất hành động", "<code>What do you say to + V-ing?</code>", "What do you say to leaving early?"],
+            ["Đứng một mình", "<code>What do you say?</code>", "Friday at six. What do you say?"],
+            ["Lịch sự hơn", "<code>What would you say to + N?</code>", "What would you say to a compromise?"],
+            ["Hỏi ý kiến thật", "<code>What do you say about + N?</code>", "What do you say about the new plan?"],
+            ["Thân mật, Anh-Mỹ", "<code>What do you say we call it a day?</code>", "What do you say we call it a day?"],
+            ["Trả lời đồng ý", "<code>I'm in. / Sounds good.</code>", "I'm in — let's do it."],
+            ["Trả lời dè dặt", "<code>Let me think about it.</code>", "Let me think about it."],
+            ["Trả lời từ chối", "<code>I'd rather not, to be honest.</code>", "I'd rather not, to be honest."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp:</b> sau <i>we</i> là động từ <b>trần</b>, không có <i>to</i>. <span class=\"k\">What do you say we go?</span> ✓ — <i>What do you say we to go?</i> ✗ Còn khi dùng <i>to</i> thì phải là <b>danh từ hoặc V-ing</b>." },
+        { "t": "callout", "html": "<b>Dạng “What do you say?” đứng cuối rất mạnh:</b> nêu phương án cụ thể bằng câu kể, rồi chốt bằng ba chữ này. <i>Two million, cash today. What do you say?</i> Nghe dứt khoát mà vẫn trao quyền quyết định." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ theo sau “What do you say we…”",
+              "items": [
+                { "w": "go", "vi": "đi", "ex": "What do you say we go now?", "exvi": "Bạn thấy sao nếu mình đi luôn?" },
+                { "w": "start", "vi": "bắt đầu", "ex": "What do you say we start at nine?", "exvi": "Bạn thấy sao nếu mình bắt đầu lúc chín giờ?" },
+                { "w": "grab a drink", "vi": "đi làm một ly", "ex": "What do you say we grab a drink after work?", "exvi": "Tan làm mình đi làm một ly, bạn thấy sao?" },
+                { "w": "call it a day", "vi": "dừng ở đây", "ex": "What do you say we call it a day?", "exvi": "Bạn thấy sao nếu mình dừng ở đây?", "note": "Thành ngữ: kết thúc công việc trong ngày. Xem [Khung 31]." },
+                { "w": "try it", "vi": "thử", "ex": "What do you say we try it once?", "exvi": "Bạn thấy sao nếu mình thử một lần?" },
+                { "w": "split it", "vi": "chia đôi", "ex": "What do you say we split it?", "exvi": "Bạn thấy sao nếu mình chia đôi?" },
+                { "w": "meet halfway", "vi": "dung hòa", "ex": "What do you say we meet halfway?", "exvi": "Bạn thấy sao nếu mình dung hòa?" },
+                { "w": "move it", "vi": "dời lịch", "ex": "What do you say we move it to Friday?", "exvi": "Bạn thấy sao nếu mình dời sang thứ Sáu?" },
+                { "w": "take a break", "vi": "nghỉ giải lao", "ex": "What do you say we take a break?", "exvi": "Bạn thấy sao nếu mình nghỉ chút?" },
+                { "w": "order in", "vi": "gọi đồ về", "ex": "What do you say we order in tonight?", "exvi": "Tối nay mình gọi đồ về, bạn thấy sao?" },
+                { "w": "leave it there", "vi": "dừng ở đó", "ex": "What do you say we leave it there for today?", "exvi": "Hôm nay mình dừng ở đó, bạn thấy sao?" },
+                { "w": "do both", "vi": "làm cả hai", "ex": "What do you say we do both?", "exvi": "Bạn thấy sao nếu mình làm cả hai?" },
+                { "w": "start over", "vi": "làm lại từ đầu", "ex": "What do you say we start over?", "exvi": "Bạn thấy sao nếu mình làm lại từ đầu?" },
+                { "w": "keep it simple", "vi": "giữ đơn giản", "ex": "What do you say we keep it simple?", "exvi": "Bạn thấy sao nếu mình giữ cho đơn giản?" },
+                { "w": "give it a go", "vi": "thử một lần xem", "ex": "What do you say we give it a go?", "exvi": "Bạn thấy sao nếu mình thử một lần xem?", "note": "<i>give it a go</i> = thử xem sao. Rất khích lệ." },
+                { "w": "sleep on it", "vi": "để qua đêm nghĩ", "ex": "What do you say we sleep on it?", "exvi": "Bạn thấy sao nếu mình để qua đêm nghĩ?" },
+                { "w": "book it", "vi": "đặt chỗ", "ex": "What do you say we book it now?", "exvi": "Bạn thấy sao nếu mình đặt luôn?" },
+                { "w": "head off", "vi": "về, khởi hành", "ex": "What do you say we head off soon?", "exvi": "Bạn thấy sao nếu mình về sớm?" },
+                { "w": "share the cost", "vi": "chia chi phí", "ex": "What do you say we share the cost?", "exvi": "Bạn thấy sao nếu mình chia chi phí?" },
+                { "w": "wrap up", "vi": "kết thúc", "ex": "What do you say we wrap up here?", "exvi": "Bạn thấy sao nếu mình chốt ở đây?" }
+              ]
+            },
+            {
+              "title": "Dạng “What do you say to…” + danh từ / V-ing",
+              "items": [
+                { "w": "to a coffee", "vi": "làm một ly cà phê", "ex": "What do you say to a coffee?", "exvi": "Làm một ly cà phê nhé?", "note": "Có <i>to</i> thì theo sau là danh từ hoặc V-ing, KHÔNG phải động từ trần." },
+                { "w": "to lunch", "vi": "đi ăn trưa", "ex": "What do you say to lunch at twelve?", "exvi": "Mười hai giờ đi ăn trưa nhé?" },
+                { "w": "to Friday", "vi": "chọn thứ Sáu", "ex": "What do you say to Friday instead?", "exvi": "Hay thứ Sáu nhé?" },
+                { "w": "to a compromise", "vi": "một phương án dung hòa", "ex": "What would you say to a compromise?", "exvi": "Anh/chị thấy sao về một phương án dung hòa?" },
+                { "w": "to leaving early", "vi": "về sớm", "ex": "What do you say to leaving early?", "exvi": "Về sớm nhé, bạn thấy sao?", "note": "Sau <i>to</i> là V-ing, không phải <i>leave</i>." },
+                { "w": "to starting over", "vi": "làm lại từ đầu", "ex": "What do you say to starting over?", "exvi": "Làm lại từ đầu, bạn thấy sao?" },
+                { "w": "to two million", "vi": "hai triệu", "ex": "What do you say to two million?", "exvi": "Hai triệu, anh/chị thấy sao?", "note": "Cách thả giá trong mặc cả — gọn và không gây căng thẳng." },
+                { "w": "to a quick call", "vi": "một cuộc gọi nhanh", "ex": "What do you say to a quick call at four?", "exvi": "Bốn giờ gọi nhanh một cuộc nhé?" },
+                { "w": "to sharing", "vi": "ăn chung, chia sẻ", "ex": "What do you say to sharing a few dishes?", "exvi": "Gọi vài món ăn chung nhé?" },
+                { "w": "to next week", "vi": "tuần sau", "ex": "What do you say to next week instead?", "exvi": "Hay tuần sau nhé?" }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "I'm in", "vi": "mình tham gia", "ex": "I'm in — what time?", "exvi": "Mình tham gia — mấy giờ?", "note": "Rất thân mật, nhiệt tình. Chỉ dùng với bạn bè, đồng nghiệp thân." },
+                { "w": "Sounds good", "vi": "nghe được đấy", "ex": "Sounds good to me.", "exvi": "Mình thấy ổn đấy.", "note": "Câu đồng ý phổ biến nhất trong công việc." },
+                { "w": "You're on", "vi": "chốt nhé", "ex": "You're on — see you at six.", "exvi": "Chốt nhé — sáu giờ gặp.", "note": "Rất thân mật, mang chút thách thức vui vẻ." },
+                { "w": "Deal", "vi": "chốt", "ex": "Deal.", "exvi": "Chốt.", "note": "Một từ duy nhất — dùng khi đã thỏa thuận xong." },
+                { "w": "Let me think about it", "vi": "để mình suy nghĩ", "ex": "Let me think about it and get back to you.", "exvi": "Để mình suy nghĩ rồi báo lại bạn.", "note": "Hoãn trả lời mà không từ chối. Xem [Khung 20]." },
+                { "w": "I'd rather not, to be honest", "vi": "thật lòng thì mình không muốn", "ex": "I'd rather not, to be honest.", "exvi": "Thật lòng thì mình không muốn lắm.", "note": "Từ chối mềm. Xem [Khung 08]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "What do you say we call it a day?",
+                  "vi": "Bạn thấy sao nếu mình dừng ở đây?",
+                  "note": "Kết thúc một buổi làm việc dài mà vẫn hỏi ý — không ai cảm thấy bị cắt ngang.",
+                  "open": { "en": "We've been at this for six hours —", "vi": "Mình làm cái này sáu tiếng rồi —" },
+                  "reply": [
+                    { "them": "Sounds good. Same time tomorrow?", "themvi": "Nghe ổn đấy. Mai cùng giờ nhé?", "you": "Same time. I'll send the notes.", "youvi": "Cùng giờ. Mình gửi biên bản." },
+                    { "them": "Can we finish this one section first?", "themvi": "Mình làm nốt phần này đã nhé?", "you": "Fair enough — twenty minutes.", "youvi": "Cũng được — hai mươi phút nhé." }
+                  ],
+                  "close": { "en": "Good work today.", "vi": "Hôm nay làm tốt lắm." }
+                },
+                {
+                  "en": "What do you say we move it to Friday?",
+                  "vi": "Bạn thấy sao nếu mình dời sang thứ Sáu?",
+                  "reply": [
+                    { "them": "Friday works for me.", "themvi": "Thứ Sáu mình được.", "you": "I'll update the invite.", "youvi": "Mình cập nhật lời mời." },
+                    { "them": "Friday's tight. What about Monday?", "themvi": "Thứ Sáu hơi gấp. Thứ Hai thì sao?", "you": "Monday's fine too.", "youvi": "Thứ Hai cũng được." }
+                  ],
+                  "vars": [
+                    { "en": "What do you say to next week instead?", "vi": "Hay tuần sau nhé?" }
+                  ]
+                },
+                {
+                  "en": "What would you say to a compromise?",
+                  "vi": "Anh/chị thấy sao về một phương án dung hòa?",
+                  "note": "Dạng <b>would</b> lịch sự hơn hẳn — hợp khi đàm phán với đối tác chứ không phải bạn bè.",
+                  "reply": [
+                    { "them": "What did you have in mind?", "themvi": "Anh/chị nghĩ phương án nào?", "you": "Half now, half on delivery.", "youvi": "Một nửa bây giờ, một nửa khi giao hàng." }
+                  ]
+                },
+                {
+                  "en": "What do you say we give it a go?",
+                  "vi": "Bạn thấy sao nếu mình thử một lần xem?",
+                  "note": "<span class=\"k\">give it a go</span> = thử xem sao. Câu khích lệ khi cả nhóm còn e ngại.",
+                  "reply": [
+                    { "them": "What if it doesn't work?", "themvi": "Lỡ không được thì sao?", "you": "Then we'll know in two weeks.", "youvi": "Thì hai tuần nữa mình biết." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "What do you say we order in tonight?",
+                  "vi": "Tối nay mình gọi đồ về, bạn thấy sao?",
+                  "reply": [
+                    { "them": "I'm in. Noodles?", "themvi": "Mình tham gia. Mì nhé?", "you": "Noodles it is.", "youvi": "Vậy mì." }
+                  ]
+                },
+                {
+                  "en": "What do you say to a coffee?",
+                  "vi": "Làm một ly cà phê nhé?",
+                  "note": "Dạng <b>to + danh từ</b> — nhẹ nhàng, gần như một lời mời hơn là một đề xuất.",
+                  "reply": [
+                    { "them": "Sounds good — the usual place?", "themvi": "Nghe ổn đấy — chỗ quen nhé?", "you": "See you there in ten.", "youvi": "Mười phút nữa gặp ở đó." }
+                  ]
+                },
+                {
+                  "en": "What do you say to sharing a few dishes?",
+                  "vi": "Gọi vài món ăn chung nhé?",
+                  "note": "Sau <i>to</i> là V-ing. Nếu nói <i>What do you say we share…</i> thì lại là động từ trần.",
+                  "reply": [
+                    { "them": "Good idea — you pick.", "themvi": "Ý hay — bạn chọn đi.", "you": "Any allergies?", "youvi": "Có ai dị ứng gì không?" }
+                  ]
+                },
+                {
+                  "en": "What do you say we split it?",
+                  "vi": "Bạn thấy sao nếu mình chia đôi?",
+                  "reply": [
+                    { "them": "Deal.", "themvi": "Chốt.", "you": "I'll ask for two cards.", "youvi": "Mình bảo họ chia hai thẻ." }
+                  ],
+                  "close": { "en": "Next one's on me.", "vi": "Lần sau mình mời." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "What do you say we grab a drink after work?",
+                  "vi": "Tan làm mình đi làm một ly, bạn thấy sao?",
+                  "note": "Rủ rê thân mật với chút hào hứng — rất tự nhiên giữa đồng nghiệp thân.",
+                  "reply": [
+                    { "them": "You're on. Six thirty?", "themvi": "Chốt nhé. Sáu rưỡi?", "you": "Six thirty at the usual place.", "youvi": "Sáu rưỡi ở chỗ quen." },
+                    { "them": "I'd rather not tonight, sorry.", "themvi": "Tối nay thì thôi, xin lỗi nhé.", "you": "No worries — another time.", "youvi": "Không sao — để hôm khác." }
+                  ]
+                },
+                {
+                  "en": "Friday at six. What do you say?",
+                  "vi": "Sáu giờ thứ Sáu. Bạn thấy sao?",
+                  "note": "Nêu phương án cụ thể bằng câu kể rồi chốt bằng ba chữ. Dứt khoát mà vẫn trao quyền quyết định.",
+                  "reply": [
+                    { "them": "Works for me.", "themvi": "Mình được.", "you": "Great, I'll book it.", "youvi": "Tuyệt, mình đặt chỗ." }
+                  ],
+                  "vars": [
+                    { "en": "Seven o'clock, my place. What do you say?", "vi": "Bảy giờ, ở nhà mình. Bạn thấy sao?" }
+                  ]
+                },
+                {
+                  "en": "What do you say we sleep on it?",
+                  "vi": "Bạn thấy sao nếu mình để qua đêm nghĩ?",
+                  "reply": [
+                    { "them": "Good idea. We're both tired.", "themvi": "Ý hay. Cả hai đều mệt rồi.", "you": "Let's talk again in the morning.", "youvi": "Sáng mai mình nói tiếp." }
+                  ]
+                },
+                {
+                  "en": "What do you say we start over?",
+                  "vi": "Bạn thấy sao nếu mình làm lại từ đầu?",
+                  "note": "Câu này có thể nói về công việc, và cũng có thể nói về một mối quan hệ — tùy ngữ cảnh.",
+                  "reply": [
+                    { "them": "I'd like that.", "themvi": "Mình rất muốn vậy.", "you": "Then let's forget the last hour.", "youvi": "Vậy mình quên một tiếng vừa rồi đi." }
+                  ],
+                  "close": { "en": "Fresh start, then.", "vi": "Vậy là khởi đầu lại nhé." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "What do you say we head off soon?",
+                  "vi": "Bạn thấy sao nếu mình về sớm?",
+                  "reply": [
+                    { "them": "Give me ten minutes.", "themvi": "Cho mình mười phút.", "you": "Sure, I'll settle up.", "youvi": "Được, mình đi thanh toán." }
+                  ]
+                },
+                {
+                  "en": "What do you say we take the train instead?",
+                  "vi": "Bạn thấy sao nếu mình đi tàu thay vì đi xe?",
+                  "reply": [
+                    { "them": "Is it much slower?", "themvi": "Có chậm hơn nhiều không?", "you": "Twenty minutes, but no traffic.", "youvi": "Hai mươi phút, nhưng không kẹt xe." }
+                  ]
+                },
+                {
+                  "en": "What do you say we book it now before prices go up?",
+                  "vi": "Bạn thấy sao nếu mình đặt luôn trước khi giá tăng?",
+                  "reply": [
+                    { "them": "We don't have the dates yet.", "themvi": "Mình chưa có ngày cụ thể mà.", "you": "Then what do you say to a flexible ticket?", "youvi": "Vậy vé linh hoạt thì sao?" }
+                  ]
+                },
+                {
+                  "en": "What do you say we share the cost of the taxi?",
+                  "vi": "Bạn thấy sao nếu mình chia tiền taxi?",
+                  "reply": [
+                    { "them": "Sounds fair.", "themvi": "Nghe công bằng đấy.", "you": "I'll pay and you transfer me later.", "youvi": "Mình trả trước, lát bạn chuyển khoản lại." }
+                  ],
+                  "close": { "en": "I'll send you the amount.", "vi": "Mình gửi bạn số tiền." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Two million, cash today. What do you say?",
+                  "vi": "Hai triệu, trả tiền mặt luôn hôm nay. Anh/chị thấy sao?",
+                  "note": "Thả con số cụ thể kèm điều kiện, rồi chốt bằng ba chữ — cách mặc cả dứt khoát mà không gây căng thẳng.",
+                  "open": { "en": "Let me be straight with you —", "vi": "Tôi nói thẳng nhé —" },
+                  "reply": [
+                    { "them": "I can do two point two.", "themvi": "Em làm được hai triệu hai ạ.", "you": "Two point one and we're done.", "youvi": "Hai triệu một là chốt." },
+                    { "them": "Deal.", "themvi": "Chốt ạ.", "you": "Great — shall I pay now?", "youvi": "Tuyệt — tôi trả luôn nhé?" }
+                  ]
+                },
+                {
+                  "en": "What do you say we compare prices first?",
+                  "vi": "Bạn thấy sao nếu mình so giá trước?",
+                  "reply": [
+                    { "them": "Good idea. I'll check online.", "themvi": "Ý hay. Để mình xem trên mạng.", "you": "I'll ask if they price-match.", "youvi": "Mình hỏi xem họ có khớp giá không." }
+                  ]
+                },
+                {
+                  "en": "What do you say we get the cheaper one?",
+                  "vi": "Bạn thấy sao nếu mình lấy cái rẻ hơn?",
+                  "reply": [
+                    { "them": "Will it last though?", "themvi": "Nhưng có bền không?", "you": "For what we need, probably.", "youvi": "Với nhu cầu của mình thì chắc đủ." }
+                  ]
+                },
+                {
+                  "en": "What do you say to a smaller size?",
+                  "vi": "Cỡ nhỏ hơn thì anh/chị thấy sao?",
+                  "reply": [
+                    { "them": "Let me try it on.", "themvi": "Để tôi thử xem.", "you": "Fitting room's just there.", "youvi": "Phòng thử ngay đằng kia ạ." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Kết thúc một ngày làm việc dài",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "We've been at this for six hours. What do you say we call it a day?", "vi": "Mình làm cái này sáu tiếng rồi. Bạn thấy sao nếu mình dừng ở đây?" },
+            { "speaker": "Minh", "en": "Can we finish this section first?", "vi": "Mình làm nốt phần này đã nhé?" },
+            { "speaker": "You", "me": true, "en": "Fair enough. What do you say to twenty more minutes?", "vi": "Cũng được. Hai mươi phút nữa thì sao?" },
+            { "speaker": "Minh", "en": "Deal.", "vi": "Chốt." },
+            { "speaker": "You", "me": true, "en": "And what do you say we grab a drink after?", "vi": "Với lại xong rồi đi làm một ly, bạn thấy sao?" },
+            { "speaker": "Minh", "en": "You're on.", "vi": "Chốt nhé." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Mặc cả khi mua hàng",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Let me be straight with you. Two million, cash today. What do you say?", "vi": "Tôi nói thẳng nhé. Hai triệu, trả tiền mặt hôm nay. Anh/chị thấy sao?" },
+            { "speaker": "Seller", "en": "That's below my cost, I'm afraid.", "vi": "E là dưới giá vốn của em ạ." },
+            { "speaker": "You", "me": true, "en": "What would you say to a compromise? Two point one.", "vi": "Một phương án dung hòa thì sao? Hai triệu một." },
+            { "speaker": "Seller", "en": "Two point two and I'll include delivery.", "vi": "Hai triệu hai và em bao luôn giao hàng ạ." },
+            { "speaker": "You", "me": true, "en": "What do you say we settle at two point one five?", "vi": "Chốt hai triệu một rưỡi, anh/chị thấy sao?" },
+            { "speaker": "Seller", "en": "Deal.", "vi": "Chốt ạ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "What do you say we to go?", "right": "What do you say we go?", "why": "Sau <b>we</b> là động từ <b>trần</b>, không có <i>to</i>." },
+            { "wrong": "What do you say to leave early?", "right": "What do you say to leaving early?", "why": "Có <b>to</b> thì theo sau phải là <b>V-ing</b> hoặc danh từ, không phải động từ nguyên thể." },
+            { "wrong": "What do you say we going?", "right": "What do you say we go?", "why": "Không dùng V-ing sau <i>we</i>." },
+            { "wrong": "What you say we go?", "right": "What do you say we go?", "why": "Thiếu trợ động từ <b>do</b> — đây vẫn là một câu hỏi đầy đủ." },
+            { "wrong": "What do you say we grab a drink? <i>(nói với khách hàng trang trọng)</i>", "right": "Shall we get some lunch?", "why": "Quá thân mật với khách hàng. Dùng [Khung 34] cho lịch thiệp." },
+            { "wrong": "How do you say we go?", "right": "What do you say we go?", "why": "Là <b>What</b>, không phải <i>How</i>. <i>How do you say…?</i> nghĩa là “nói cái này thế nào” — hoàn toàn khác." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>What do you say we + V?</code>", "Đề xuất + hỏi ý thật — thân mật", "<i>What do you say we go?</i>"],
+            ["<code>What do you say to + N/V-ing?</code>", "Mời — nhẹ nhàng hơn", "<i>What do you say to a coffee?</i>"],
+            ["<code>Let's + V</code>", "Rủ — nghe như đã quyết", "<i>Let's go.</i> — Xem [Khung 31]."],
+            ["<code>Why don't we + V?</code>", "Câu hỏi hình thức, không chờ trả lời", "<i>Why don't we go?</i> — Xem [Khung 32]."],
+            ["<code>How about + V-ing?</code>", "Gợi ý nhẹ nhất", "<i>How about going?</i> — Xem [Khung 33]."],
+            ["<code>Shall we + V?</code>", "Lịch thiệp — Anh-Anh", "<i>Shall we go?</i> — Xem [Khung 34]."],
+            ["<code>Do you want to + V?</code>", "Thân mật — hỏi ý muốn", "<i>Do you want to go?</i> — Xem [Khung 35]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — rủ đi uống sau giờ làm" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "How about a drink?", "vi": "Nhẹ nhất — thả ý" },
+            { "en": "Do you want to grab a drink?", "vi": "Thân mật — hỏi ý muốn" },
+            { "en": "What do you say we grab a drink?", "vi": "Chủ động + hỏi ý — có chút hào hứng" },
+            { "en": "Shall we get a drink?", "vi": "Lịch thiệp — dùng được với khách" },
+            { "en": "Let's grab a drink.", "vi": "Nghe như đã quyết" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>What do you</b> nói nhanh dính thành <b>“wə-də-yə”</b> hoặc gọn hơn nữa là <b>“wə-jə”</b>.",
+            "Cả cụm <b>What do you say</b> → “wə-jə-SAY” — ba từ đầu nói rất nhanh, nhấn vào <i>say</i>.",
+            "<b>say we</b> → “say-wi”, dính liền không ngắt.",
+            "Âm /t/ trong <b>What</b> thường biến mất hoàn toàn khi nói nhanh.",
+            "Trọng âm rơi vào <b>SAY</b> và vào động từ chính: <i>What do you</i> <b>SAY</b> <i>we</i> <b>GO</b>?",
+            "<b>Giọng đi lên ở cuối</b> — đây là câu hỏi thật, người kia được mời trả lời."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "What do you say we call it a day?", "vi": "Luyện shadowing: nói “wə-jə-SAY” thật nhanh, nhấn vào “day”." },
+            { "en": "Friday at six. What do you say?", "vi": "Kiểu chốt ở cuối — tập ngắt một nhịp trước ba chữ cuối." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Bạn thấy sao nếu mình đi luôn?", "blank": "__________ go now?", "a": "What do you say we (không có “to”)" },
+            { "vi": "Làm một ly cà phê nhé?", "blank": "__________ a coffee?", "a": "What do you say to" },
+            { "vi": "Về sớm nhé, bạn thấy sao?", "blank": "What do you say to __________ early?", "a": "leaving (V-ing sau “to”)" },
+            { "vi": "Sáu giờ thứ Sáu. Bạn thấy sao?", "blank": "Friday at six. __________?", "a": "What do you say" },
+            { "vi": "Anh/chị thấy sao về một phương án dung hòa?", "blank": "__________ a compromise?", "a": "What would you say to" },
+            { "vi": "Bạn thấy sao nếu mình thử một lần xem?", "blank": "What do you say we __________?", "a": "give it a go" },
+            { "vi": "Mình tham gia — mấy giờ?", "blank": "__________ — what time?", "a": "I'm in" },
+            { "vi": "Chốt nhé — sáu giờ gặp.", "blank": "__________ — see you at six.", "a": "You're on" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Bạn thấy sao nếu mình dừng ở đây?", "a": "What do you say we call it a day?" },
+            { "vi": "2. Tan làm mình đi làm một ly, bạn thấy sao?", "a": "What do you say we grab a drink after work?" },
+            { "vi": "3. Gọi vài món ăn chung nhé?", "a": "What do you say to sharing a few dishes?" },
+            { "vi": "4. Hai triệu, trả tiền mặt luôn hôm nay. Anh/chị thấy sao?", "a": "Two million, cash today. What do you say?" },
+            { "vi": "5. Bạn thấy sao nếu mình dời sang thứ Sáu?", "a": "What do you say we move it to Friday?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Nhớ hai cấu trúc khác nhau:</b> <i>say <b>we go</b></i> (động từ trần) nhưng <i>say <b>to going</b></i> (V-ing). Đừng trộn lẫn.",
+            "<b>Dùng kiểu chốt ở cuối:</b> nêu phương án cụ thể bằng câu kể, rồi thêm <i>What do you say?</i> — dứt khoát mà vẫn trao quyền quyết định.",
+            "<b>Rất mạnh khi mặc cả:</b> thả một con số kèm điều kiện rồi chốt bằng ba chữ này — gọn và không gây căng thẳng.",
+            "<b>Dùng “would” khi cần lịch sự hơn:</b> <i>What would you say to…?</i> hợp với đối tác, khách hàng.",
+            "<b>Đây là câu hỏi thật:</b> khác <i>Why don't we…?</i>, nó chờ câu trả lời — nên hãy ngừng lại sau khi hỏi.",
+            "<b>Bài tập 3 phút:</b> lấy 5 kế hoạch bạn muốn chốt trong tuần, viết mỗi cái thành một câu <i>What do you say we…?</i> và một câu kiểu chốt ở cuối."
+          ]
+        }
+      ]
+    }
+  ]
+}

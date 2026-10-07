@@ -1,0 +1,487 @@
+{
+  "id": 34,
+  "group": "Nhóm 4 · Đề nghị & Rủ rê",
+  "title": "Shall we…? — Rủ rê kiểu lịch thiệp",
+  "subtitle": "Khung rủ rê ngắn gọn mà vẫn rất lịch sự, đặc trưng của tiếng Anh-Anh. Chỉ hai chữ mà vừa đề xuất vừa hỏi ý — nên nó hợp cả với đồng nghiệp lẫn khách hàng. Người Mỹ ít dùng, nhưng ai cũng hiểu, nên học nó là bạn được cả hai phía.",
+  "pattern": [
+    "Shall we <em>+ V (không “to”)</em>?",
+    "Shall I <em>+ V</em>?",
+    "…, shall we?"
+  ],
+  "meaning": "Chúng ta… nhé? / Mình… nhé?",
+  "grammar": [44, 29],
+  "tags": [
+    { "text": "Tần suất: cao (Anh-Anh)", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Ngắn mà vẫn lịch thiệp" },
+    { "text": "Trình độ: A2–B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">Shall we…?</span> vừa <b>đề xuất</b> vừa <b>hỏi ý</b> trong cùng một câu. Đó là lý do nó mềm hơn <i>Let's</i> ở [Khung 31] — bạn không tuyên bố gì cả, bạn đang mời người kia gật đầu." },
+        { "t": "p", "html": "Đây là đặc trưng của <b>tiếng Anh-Anh</b>. Người Mỹ trong đời thường thiên về <i>Should we…?</i> hoặc <i>Do you want to…?</i>, nhưng họ hiểu <i>Shall we</i> hoàn toàn bình thường và thấy nó lịch thiệp. Ở môi trường quốc tế, dùng nó là an toàn." },
+        { "t": "p", "html": "Ngoài ra còn hai dùng rất hữu ích: <span class=\"k\">Shall I…?</span> để <b>ngỏ ý làm giúp</b> (xem [Khung 30]), và đuôi hỏi <span class=\"k\">…, shall we?</span> gắn sau <i>Let's</i> để làm mềm một lời rủ." },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp:</b> sau <i>shall</i> là <b>động từ nguyên thể KHÔNG “to”</b>. <span class=\"k\">Shall we go?</span> ✓ — <i>Shall we to go?</i> ✗ — <i>Shall we going?</i> ✗" },
+        { "t": "h3", "text": "Shall we / Shall I / đuôi hỏi" },
+        {
+          "t": "table",
+          "head": ["Câu", "Chức năng", "Ai làm"],
+          "rows": [
+            ["<code>Shall we start?</code>", "Rủ cùng làm", "Cả hai"],
+            ["<code>Shall I start?</code>", "Ngỏ ý làm giúp", "Chỉ người nói — xem [Khung 30]"],
+            ["<code>Let's start, shall we?</code>", "Rủ rồi làm mềm bằng đuôi hỏi", "Cả hai"],
+            ["<code>Shall we?</code>", "Mình đi nhé? (đứng một mình)", "Cả hai"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🚪", "title": "Mời cùng đi, cùng vào", "text": "Bối cảnh số 1. <i>Shall we?</i> — hai chữ đủ để mời ai đó cùng bước đi." },
+            { "icon": "🏁", "title": "Mở đầu cuộc họp", "text": "<i>Shall we begin?</i> Lịch thiệp hơn hẳn <i>Let's begin.</i>" },
+            { "icon": "📅", "title": "Chốt lịch, chốt phương án", "text": "<i>Shall we say three o'clock?</i> Rất gọn khi thương lượng." },
+            { "icon": "🍽", "title": "Rủ ăn uống lịch sự", "text": "<i>Shall we get some lunch?</i> Hợp với khách hàng, không quá suồng sã." },
+            { "icon": "🙋", "title": "Ngỏ ý làm giúp", "text": "<i>Shall I take that for you?</i>" },
+            { "icon": "⚠️", "title": "Cẩn thận khi…", "text": "Trong hợp đồng, <i>shall</i> mang nghĩa <b>bắt buộc</b> chứ không phải đề nghị." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Rủ cùng làm", "<code>Shall we + V?</code>", "Shall we start now?"],
+            ["Ngỏ ý làm giúp", "<code>Shall I + V?</code>", "Shall I open the window?"],
+            ["Đứng một mình", "<code>Shall we?</code>", "Ready? Shall we?"],
+            ["Đuôi hỏi sau Let's", "<code>Let's + V, shall we?</code>", "Let's begin, shall we?"],
+            ["Đề xuất con số", "<code>Shall we say + N?</code>", "Shall we say three o'clock?"],
+            ["Đưa hai lựa chọn", "<code>Shall we A or B?</code>", "Shall we walk or take a taxi?"],
+            ["Hỏi mở", "<code>What shall we + V?</code>", "What shall we do tonight?"],
+            ["Anh-Mỹ tương đương", "<code>Should we + V?</code>", "Should we start now?"],
+            ["Trả lời đồng ý", "<code>Yes, let's. / Why not?</code>", "Yes, let's."],
+            ["Trả lời từ chối", "<code>Could we wait a bit?</code>", "Could we wait five more minutes?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cụm chốt thương lượng rất hay:</b> <span class=\"k\">Shall we say…?</span> dùng để thả một con số hoặc một mốc thời gian như phương án cuối. <i>Shall we say Friday?</i> / <i>Shall we say two million?</i> Nghe gọn, dứt khoát mà vẫn lịch sự." },
+        { "t": "callout", "html": "<b>Trả lời “Yes, let's” nghe rất Anh:</b> khi ai đó nói <i>Shall we go?</i>, câu đáp tự nhiên nhất là <span class=\"k\">Yes, let's.</span> — không phải <i>Yes, we shall</i>, vốn nghe cổ và cứng." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “Shall we…”",
+              "items": [
+                { "w": "start", "vi": "bắt đầu", "ex": "Shall we start? Everyone's here.", "exvi": "Mình bắt đầu nhé? Mọi người đến đủ rồi." },
+                { "w": "begin", "vi": "khai mạc", "ex": "Shall we begin?", "exvi": "Chúng ta bắt đầu nhé ạ?", "note": "Trang trọng hơn <i>start</i> — hợp với buổi họp chính thức." },
+                { "w": "go", "vi": "đi", "ex": "Shall we go? The taxi's waiting.", "exvi": "Mình đi nhé? Taxi đang chờ." },
+                { "w": "sit down", "vi": "ngồi xuống", "ex": "Shall we sit down and talk it through?", "exvi": "Mình ngồi xuống nói cho rõ nhé?" },
+                { "w": "move on", "vi": "sang phần tiếp", "ex": "Shall we move on to the next point?", "exvi": "Mình sang điểm tiếp theo nhé?" },
+                { "w": "take a break", "vi": "nghỉ giải lao", "ex": "Shall we take a five-minute break?", "exvi": "Mình nghỉ năm phút nhé?" },
+                { "w": "meet", "vi": "gặp nhau", "ex": "Shall we meet at the entrance?", "exvi": "Mình gặp ở cửa vào nhé?" },
+                { "w": "wrap up", "vi": "kết thúc", "ex": "Shall we wrap up there?", "exvi": "Mình chốt ở đó nhé?" },
+                { "w": "order", "vi": "gọi món", "ex": "Shall we order? I'm starving.", "exvi": "Mình gọi món nhé? Mình đói lắm rồi." },
+                { "w": "get some lunch", "vi": "đi ăn trưa", "ex": "Shall we get some lunch?", "exvi": "Mình đi ăn trưa nhé?", "note": "Lịch sự hơn <i>Let's grab lunch</i> — hợp với khách hàng." },
+                { "w": "walk", "vi": "đi bộ", "ex": "Shall we walk? It's a nice evening.", "exvi": "Mình đi bộ nhé? Tối nay đẹp trời." },
+                { "w": "call it a day", "vi": "dừng ở đây", "ex": "Shall we call it a day?", "exvi": "Mình dừng ở đây nhé?" },
+                { "w": "split it", "vi": "chia đôi", "ex": "Shall we split it?", "exvi": "Mình chia đôi nhé?" },
+                { "w": "book it", "vi": "đặt chỗ", "ex": "Shall we book it now?", "exvi": "Mình đặt luôn nhé?" },
+                { "w": "discuss", "vi": "bàn bạc", "ex": "Shall we discuss this after the meeting?", "exvi": "Chuyện này mình bàn sau cuộc họp nhé?" },
+                { "w": "review", "vi": "xem lại", "ex": "Shall we review it together?", "exvi": "Mình xem lại cùng nhau nhé?" },
+                { "w": "leave it there", "vi": "dừng ở đó", "ex": "Shall we leave it there for today?", "exvi": "Hôm nay mình dừng ở đó nhé?" },
+                { "w": "try again", "vi": "thử lại", "ex": "Shall we try again tomorrow?", "exvi": "Mai mình thử lại nhé?" },
+                { "w": "head off", "vi": "đi thôi, khởi hành", "ex": "Shall we head off?", "exvi": "Mình đi thôi nhé?", "note": "<i>head off</i> = bắt đầu rời đi. Rất tự nhiên trong tiếng Anh-Anh." },
+                { "w": "keep in touch", "vi": "giữ liên lạc", "ex": "Shall we keep in touch?", "exvi": "Mình giữ liên lạc nhé?" }
+              ]
+            },
+            {
+              "title": "Dạng “Shall I…” & cụm cố định",
+              "items": [
+                { "w": "Shall I open the window?", "vi": "tôi mở cửa sổ nhé?", "ex": "It's stuffy — shall I open the window?", "exvi": "Bí quá — tôi mở cửa sổ nhé?", "note": "Ngỏ ý làm giúp. Xem đầy đủ ở [Khung 30]." },
+                { "w": "Shall I take that for you?", "vi": "để tôi cầm giúp nhé?", "ex": "That looks heavy — shall I take that for you?", "exvi": "Nhìn nặng quá — để tôi cầm giúp nhé?" },
+                { "w": "Shall I call them?", "vi": "tôi gọi cho họ nhé?", "ex": "Shall I call them and check?", "exvi": "Tôi gọi hỏi họ nhé?" },
+                { "w": "Shall we say…?", "vi": "chốt là… nhé?", "ex": "Shall we say three o'clock?", "exvi": "Chốt ba giờ nhé?", "note": "Cụm chốt thương lượng — thả một con số làm phương án cuối." },
+                { "w": "What shall we do?", "vi": "mình làm gì bây giờ?", "ex": "What shall we do about the delay?", "exvi": "Vụ chậm trễ này mình xử lý thế nào?", "note": "Hỏi mở — mời cả nhóm cùng nghĩ." },
+                { "w": "…, shall we?", "vi": "…nhé?", "ex": "Let's begin, shall we?", "exvi": "Mình bắt đầu nhé?", "note": "Đuôi hỏi gắn sau <i>Let's</i> để làm mềm lời rủ." },
+                { "w": "Shall we?", "vi": "mình đi nhé?", "ex": "Ready? Shall we?", "exvi": "Sẵn sàng chưa? Mình đi nhé?", "note": "Đứng một mình — cực gọn và lịch thiệp, thường kèm cử chỉ tay." },
+                { "w": "Shall I go first?", "vi": "tôi nói trước nhé?", "ex": "Shall I go first, or would you rather?", "exvi": "Tôi nói trước nhé, hay anh/chị muốn nói trước?" },
+                { "w": "Shall we leave it at that?", "vi": "mình dừng ở đó nhé?", "ex": "Shall we leave it at that for now?", "exvi": "Tạm thời mình dừng ở đó nhé?", "note": "Cách kết thúc một cuộc bàn luận đang bế tắc." },
+                { "w": "Shall I put you through?", "vi": "tôi nối máy nhé?", "ex": "Shall I put you through to her?", "exvi": "Tôi nối máy cho anh/chị gặp chị ấy nhé?", "note": "Câu lễ tân hay nói qua điện thoại." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "Yes, let's", "vi": "ừ, đi thôi", "ex": "“Shall we go?” — “Yes, let's.”", "exvi": "“Mình đi nhé?” — “Ừ, đi thôi.”", "note": "Câu đáp tự nhiên nhất. ĐỪNG nói <i>Yes, we shall</i> — nghe rất cổ." },
+                { "w": "Why not?", "vi": "ừ, sao lại không", "ex": "“Shall we walk?” — “Why not?”", "exvi": "“Mình đi bộ nhé?” — “Ừ, sao lại không.”", "note": "Xem [Khung 32]." },
+                { "w": "Sounds good", "vi": "nghe được đấy", "ex": "Sounds good to me.", "exvi": "Mình thấy ổn đấy." },
+                { "w": "Go on then", "vi": "thôi được, làm đi", "ex": "“Shall we get dessert?” — “Go on then.”", "exvi": "“Mình gọi tráng miệng nhé?” — “Thôi được, gọi đi.”", "note": "Rất Anh — mang chút vui vẻ kiểu “chiều bạn vậy”." },
+                { "w": "Could we wait a bit?", "vi": "mình chờ chút được không?", "ex": "Could we wait five more minutes?", "exvi": "Mình chờ thêm năm phút được không?", "note": "Từ chối nhẹ mà không nói không." },
+                { "w": "In a minute", "vi": "một lát nữa", "ex": "In a minute — I'm just finishing this.", "exvi": "Một lát nữa — mình làm nốt cái này đã." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Shall we begin? Everyone's here.",
+                  "vi": "Chúng ta bắt đầu nhé? Mọi người đến đủ rồi.",
+                  "note": "Mở đầu cuộc họp lịch thiệp hơn hẳn <i>Let's begin</i> — vì bạn hỏi ý chứ không tuyên bố.",
+                  "reply": [
+                    { "them": "Yes, let's.", "themvi": "Vâng, bắt đầu thôi ạ.", "you": "I'll share my screen.", "youvi": "Tôi chia sẻ màn hình nhé." },
+                    { "them": "Could we wait two minutes for Lan?", "themvi": "Mình chờ chị Lan hai phút được không ạ?", "you": "Of course.", "youvi": "Tất nhiên rồi." }
+                  ],
+                  "close": { "en": "Shall we wrap up there?", "vi": "Mình chốt ở đó nhé?" }
+                },
+                {
+                  "en": "Shall we say three o'clock?",
+                  "vi": "Chốt ba giờ nhé?",
+                  "note": "<span class=\"k\">Shall we say…?</span> — cụm chốt thương lượng. Thả một con số làm phương án cuối, nghe gọn mà vẫn lịch sự.",
+                  "reply": [
+                    { "them": "Three works for me.", "themvi": "Ba giờ tôi được.", "you": "Great — I'll send the invite.", "youvi": "Tuyệt — tôi gửi lời mời." },
+                    { "them": "Could we make it four?", "themvi": "Bốn giờ được không?", "you": "Four it is.", "youvi": "Vậy bốn giờ." }
+                  ]
+                },
+                {
+                  "en": "Shall we move on to the next point?",
+                  "vi": "Mình sang điểm tiếp theo nhé?",
+                  "note": "Cách chuyển chủ đề trong họp mà không cắt lời ai — vì bạn hỏi ý cả phòng.",
+                  "reply": [
+                    { "them": "I still have a question on this one.", "themvi": "Em còn một câu hỏi về mục này ạ.", "you": "Go ahead — then we'll move on.", "youvi": "Em hỏi đi — rồi mình sang mục sau." }
+                  ],
+                  "vars": [
+                    { "en": "Shall we leave it at that for now?", "vi": "Tạm thời mình dừng ở đó nhé?" }
+                  ]
+                },
+                {
+                  "en": "Shall I put you through to her?",
+                  "vi": "Tôi nối máy cho anh/chị gặp chị ấy nhé?",
+                  "note": "Câu lễ tân hay nói. Nghe quen để biết là họ sắp chuyển máy.",
+                  "reply": [
+                    { "them": "Yes, please.", "themvi": "Vâng, phiền anh/chị.", "you": "One moment — putting you through now.", "youvi": "Một lát ạ — tôi nối máy ngay." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Shall we order? I'm starving.",
+                  "vi": "Mình gọi món nhé? Mình đói lắm rồi.",
+                  "reply": [
+                    { "them": "Give me one more minute.", "themvi": "Cho mình một phút nữa.", "you": "No rush.", "youvi": "Không vội đâu." },
+                    { "them": "Yes, let's. What are you having?", "themvi": "Ừ, gọi thôi. Bạn ăn gì?", "you": "The noodles, I think.", "youvi": "Chắc là món mì." }
+                  ]
+                },
+                {
+                  "en": "Shall we get some lunch?",
+                  "vi": "Mình đi ăn trưa nhé?",
+                  "note": "Lịch sự hơn <i>Let's grab lunch</i> — hợp khi rủ khách hàng hoặc người chưa thân.",
+                  "reply": [
+                    { "them": "That would be nice. Anywhere in mind?", "themvi": "Vậy thì hay quá. Anh/chị định đi đâu?", "you": "There's a good place nearby.", "youvi": "Có một quán ngon gần đây ạ." }
+                  ],
+                  "close": { "en": "Shall we say twelve thirty?", "vi": "Chốt mười hai rưỡi nhé?" }
+                },
+                {
+                  "en": "Shall we split it?",
+                  "vi": "Mình chia đôi nhé?",
+                  "reply": [
+                    { "them": "Let me get this one.", "themvi": "Để mình trả lần này.", "you": "Are you sure? Next one's on me then.", "youvi": "Bạn chắc chứ? Vậy lần sau mình mời." }
+                  ]
+                },
+                {
+                  "en": "Shall we get dessert?",
+                  "vi": "Mình gọi tráng miệng nhé?",
+                  "reply": [
+                    { "them": "Go on then.", "themvi": "Thôi được, gọi đi.", "you": "One to share?", "youvi": "Một phần ăn chung nhé?" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Ready? Shall we?",
+                  "vi": "Sẵn sàng chưa? Mình đi nhé?",
+                  "note": "Hai chữ đứng một mình, thường kèm cử chỉ tay. Cực gọn mà vẫn lịch thiệp — rất đặc trưng Anh-Anh.",
+                  "reply": [
+                    { "them": "Yes, let's.", "themvi": "Ừ, đi thôi.", "you": "After you.", "youvi": "Mời bạn trước." }
+                  ]
+                },
+                {
+                  "en": "Shall we walk? It's a nice evening.",
+                  "vi": "Mình đi bộ nhé? Tối nay đẹp trời.",
+                  "reply": [
+                    { "them": "How far is it?", "themvi": "Xa không?", "you": "Fifteen minutes or so.", "youvi": "Khoảng mười lăm phút." }
+                  ],
+                  "vars": [
+                    { "en": "Shall we head off?", "vi": "Mình đi thôi nhé?" }
+                  ]
+                },
+                {
+                  "en": "Shall we sit down and talk it through?",
+                  "vi": "Mình ngồi xuống nói cho rõ nhé?",
+                  "note": "<span class=\"k\">talk something through</span> = bàn cho ra nhẽ. Câu rất hay khi cần giải quyết hiểu lầm.",
+                  "open": { "en": "I think there's been a misunderstanding.", "vi": "Mình nghĩ có hiểu lầm gì đó." },
+                  "reply": [
+                    { "them": "I'd like that, actually.", "themvi": "Thật ra mình cũng muốn vậy.", "you": "Coffee somewhere quiet?", "youvi": "Đi cà phê chỗ nào yên tĩnh nhé?" }
+                  ],
+                  "close": { "en": "I'm glad we talked.", "vi": "Mừng vì mình đã nói chuyện." }
+                },
+                {
+                  "en": "Shall we keep in touch?",
+                  "vi": "Mình giữ liên lạc nhé?",
+                  "reply": [
+                    { "them": "Definitely. What's your number?", "themvi": "Chắc chắn rồi. Số bạn là gì?", "you": "I'll write it down for you.", "youvi": "Mình ghi lại cho bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Shall we walk or take a taxi?",
+                  "vi": "Mình đi bộ hay bắt taxi?",
+                  "note": "Đưa hai lựa chọn trong một câu — người kia dễ chọn hơn là phải tự nghĩ ra phương án.",
+                  "reply": [
+                    { "them": "Taxi — I'm exhausted.", "themvi": "Taxi đi — mình mệt lử rồi.", "you": "I'll flag one down.", "youvi": "Để mình vẫy một chiếc." }
+                  ]
+                },
+                {
+                  "en": "Shall we meet at the entrance?",
+                  "vi": "Mình gặp ở cửa vào nhé?",
+                  "reply": [
+                    { "them": "Which entrance? There are two.", "themvi": "Cửa nào? Có hai cửa mà.", "you": "The main one, by the clock.", "youvi": "Cửa chính, chỗ cái đồng hồ." }
+                  ]
+                },
+                {
+                  "en": "Shall we head off? The traffic will be bad soon.",
+                  "vi": "Mình đi thôi nhé? Lát nữa kẹt xe đấy.",
+                  "note": "<span class=\"k\">head off</span> = bắt đầu rời đi. Nêu lý do ngay sau đó thì không ai thấy bị giục.",
+                  "reply": [
+                    { "them": "Good point. Five minutes?", "themvi": "Đúng đấy. Năm phút nhé?", "you": "I'll wait by the car.", "youvi": "Mình chờ ở chỗ xe." }
+                  ]
+                },
+                {
+                  "en": "Shall I take that for you?",
+                  "vi": "Để tôi cầm giúp nhé?",
+                  "note": "Dạng <b>Shall I</b> ngỏ ý làm giúp — hỏi thay vì tự cầm lấy.",
+                  "reply": [
+                    { "them": "That's very kind, thank you.", "themvi": "Bạn tử tế quá, cảm ơn nhé.", "you": "No problem at all.", "youvi": "Không có gì đâu ạ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Shall we say two million and we have a deal?",
+                  "vi": "Chốt hai triệu là xong nhé?",
+                  "note": "Cụm mặc cả lịch sự — thả con số cuối cùng mà không nghe như ép giá.",
+                  "reply": [
+                    { "them": "I can do two point one.", "themvi": "Em làm được hai triệu một ạ.", "you": "Let's meet in the middle — two and a half?", "youvi": "Mình dung hòa nhé — hai triệu rưỡi?" }
+                  ]
+                },
+                {
+                  "en": "Shall we look somewhere else?",
+                  "vi": "Mình xem chỗ khác nhé?",
+                  "reply": [
+                    { "them": "Just one more shop.", "themvi": "Thêm một cửa hàng nữa thôi.", "you": "OK, but then we stop.", "youvi": "Được, nhưng sau đó là dừng đấy." }
+                  ]
+                },
+                {
+                  "en": "Shall we book it now before it sells out?",
+                  "vi": "Mình đặt luôn trước khi hết nhé?",
+                  "reply": [
+                    { "them": "Is it refundable?", "themvi": "Có hoàn tiền được không?", "you": "Let me check the terms.", "youvi": "Để mình xem điều khoản." }
+                  ]
+                },
+                {
+                  "en": "Shall I wrap it as a gift for you?",
+                  "vi": "Em gói quà cho anh/chị nhé?",
+                  "note": "Câu nhân viên bán hàng hay hỏi — nghe quen để trả lời ngay.",
+                  "reply": [
+                    { "them": "Yes, please — that would be great.", "themvi": "Vâng ạ — vậy thì tốt quá.", "you": "Any message on the card?", "youvi": "Anh/chị có lời nhắn nào trên thiệp không ạ?" }
+                  ],
+                  "close": { "en": "Thank you, that's lovely.", "vi": "Cảm ơn bạn, đẹp quá." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Mở đầu và kết thúc một cuộc họp",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Everyone's here — shall we begin?", "vi": "Mọi người đến đủ rồi — mình bắt đầu nhé?" },
+            { "speaker": "Minh", "en": "Yes, let's.", "vi": "Vâng, bắt đầu thôi ạ." },
+            { "speaker": "You", "me": true, "en": "Shall I share my screen, or would you rather I sent the slides?", "vi": "Tôi chia sẻ màn hình nhé, hay anh/chị muốn tôi gửi slide?" },
+            { "speaker": "Minh", "en": "Share is fine.", "vi": "Chia sẻ màn hình là được ạ." },
+            { "speaker": "You", "me": true, "en": "Right. Shall we move on to the budget?", "vi": "Được rồi. Mình sang phần ngân sách nhé?" },
+            { "speaker": "Minh", "en": "Actually, shall we leave that for next week?", "vi": "Thật ra mình để phần đó sang tuần sau nhé?" }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Rủ khách hàng đi ăn trưa",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "We've covered everything. Shall we get some lunch?", "vi": "Mình đã bàn hết rồi. Mình đi ăn trưa nhé?" },
+            { "speaker": "Client", "en": "That would be nice. Anywhere in mind?", "vi": "Vậy thì hay quá. Anh định đi đâu?" },
+            { "speaker": "You", "me": true, "en": "There's a good Vietnamese place nearby. Shall we walk?", "vi": "Có một quán Việt ngon gần đây. Mình đi bộ nhé?" },
+            { "speaker": "Client", "en": "How far is it?", "vi": "Xa không?" },
+            { "speaker": "You", "me": true, "en": "Five minutes. Shall we say twelve thirty?", "vi": "Năm phút thôi. Chốt mười hai rưỡi nhé?" },
+            { "speaker": "Client", "en": "Perfect. Shall we?", "vi": "Tuyệt. Mình đi nhé?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Shall we to go?", "right": "Shall we go?", "why": "Sau <b>shall</b> là động từ nguyên thể <b>không “to”</b>." },
+            { "wrong": "Shall we going?", "right": "Shall we go?", "why": "Không dùng V-ing sau <i>shall</i>." },
+            { "wrong": "“Shall we go?” — “Yes, we shall.”", "right": "“Shall we go?” — “Yes, let's.”", "why": "<i>Yes, we shall</i> nghe rất cổ và cứng. Câu đáp tự nhiên là <b>Yes, let's.</b>" },
+            { "wrong": "Shall you help me?", "right": "Could you help me? / Will you help me?", "why": "<b>Shall</b> hầu như chỉ đi với <i>I</i> và <i>we</i>. Không dùng <i>shall you</i> trong tiếng Anh hiện đại." },
+            { "wrong": "Shall we say to three o'clock?", "right": "Shall we say three o'clock?", "why": "Thừa <b>to</b>. Sau <i>say</i> là con số hoặc mốc thời gian trực tiếp." },
+            { "wrong": "What shall we to do?", "right": "What shall we do?", "why": "Cùng một lỗi <i>to</i> — sau <i>shall</i> luôn là động từ trần." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>Shall we + V?</code>", "Rủ + hỏi ý — lịch thiệp, Anh-Anh", "<i>Shall we start?</i>"],
+            ["<code>Shall I + V?</code>", "Ngỏ ý làm giúp", "<i>Shall I start?</i> — Xem [Khung 30]."],
+            ["<code>Should we + V?</code>", "Anh-Mỹ tương đương, hơi thiên về hỏi ý kiến", "<i>Should we start?</i>"],
+            ["<code>Let's + V</code>", "Rủ — nghe như đã quyết", "<i>Let's start.</i> — Xem [Khung 31]."],
+            ["<code>Why don't we + V?</code>", "Đề xuất dưới dạng câu hỏi", "<i>Why don't we start?</i> — Xem [Khung 32]."],
+            ["<code>How about + V-ing?</code>", "Gợi ý nhẹ nhất", "<i>How about starting?</i> — Xem [Khung 33]."],
+            ["<code>Do you want to + V?</code>", "Thân mật nhất", "<i>Do you want to start?</i> — Xem [Khung 35]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang trang trọng — rủ bắt đầu" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Wanna start?", "vi": "Rất thân mật — bạn bè" },
+            { "en": "Do you want to start?", "vi": "Thân mật — đồng nghiệp" },
+            { "en": "How about we start?", "vi": "Nhẹ — gợi ý" },
+            { "en": "Shall we start?", "vi": "Lịch thiệp — dùng mọi nơi" },
+            { "en": "Shall we begin?", "vi": "Trang trọng nhất — họp chính thức" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>shall</b> = /ʃæl/ nhưng trong câu hỏi thường giảm thành /ʃəl/ — rất nhẹ, gần như “shơl”.",
+            "<b>Shall we</b> → “shæ-wi” hoặc “shəl-wi” — hai âm tiết dính liền, nói rất nhanh.",
+            "<b>Shall I</b> → “shæ-lai” — âm /l/ trượt sang nguyên âm của <i>I</i>.",
+            "<b>Shall we say</b> → “shəl-wi-SAY”, nhấn vào <i>say</i> và vào con số theo sau.",
+            "Trọng âm rơi vào <b>động từ chính</b>, không vào <i>shall</i>: <i>Shall we</i> <b>START</b>?",
+            "<b>Giọng đi lên ở cuối</b> — đây là câu hỏi thật, mời người kia gật đầu."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Shall we begin? Everyone's here.", "vi": "Luyện shadowing: nói “shəl-wi” thật nhanh, nhấn vào “begin”." },
+            { "en": "“Shall we go?” — “Yes, let's.”", "vi": "Cặp hỏi–đáp rất Anh. Tập cả hai vế cho thành phản xạ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Chúng ta bắt đầu nhé?", "blank": "__________ begin?", "a": "Shall we (không có “to”)" },
+            { "vi": "Chốt ba giờ nhé?", "blank": "__________ three o'clock?", "a": "Shall we say" },
+            { "vi": "“Mình đi nhé?” — “Ừ, đi thôi.”", "blank": "“Shall we go?” — “__________.”", "a": "Yes, let's" },
+            { "vi": "Để tôi cầm giúp nhé?", "blank": "__________ that for you?", "a": "Shall I take" },
+            { "vi": "Mình sang điểm tiếp theo nhé?", "blank": "__________ to the next point?", "a": "Shall we move on" },
+            { "vi": "Mình bắt đầu nhé? (dùng đuôi hỏi)", "blank": "Let's begin, __________?", "a": "shall we" },
+            { "vi": "Vụ chậm trễ này mình xử lý thế nào?", "blank": "__________ about the delay?", "a": "What shall we do" },
+            { "vi": "Mình đi thôi nhé?", "blank": "Shall we __________?", "a": "head off" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Mình gọi món nhé? Mình đói lắm rồi.", "a": "Shall we order? I'm starving." },
+            { "vi": "2. Mình đi bộ hay bắt taxi?", "a": "Shall we walk or take a taxi?" },
+            { "vi": "3. Mình ngồi xuống nói cho rõ nhé?", "a": "Shall we sit down and talk it through?" },
+            { "vi": "4. Tôi nối máy cho anh/chị gặp chị ấy nhé?", "a": "Shall I put you through to her?" },
+            { "vi": "5. Tạm thời mình dừng ở đó nhé?", "a": "Shall we leave it at that for now?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Dùng khi muốn lịch sự mà vẫn gọn:</b> <i>Shall we…?</i> ngắn bằng <i>Let's</i> nhưng lịch thiệp hơn hẳn, vì bạn hỏi ý chứ không tuyên bố.",
+            "<b>Thuộc “Shall we say…?” để chốt:</b> thả một con số hoặc mốc thời gian làm phương án cuối — rất hiệu quả khi thương lượng.",
+            "<b>Đáp bằng “Yes, let's”:</b> đừng nói <i>Yes, we shall</i> — nghe cổ và cứng.",
+            "<b>Nhớ shall chỉ đi với I và we:</b> không có <i>shall you</i> trong tiếng Anh hiện đại.",
+            "<b>Hai chữ “Shall we?” đứng một mình:</b> kèm một cử chỉ tay là đủ mời ai đó cùng bước đi — rất lịch thiệp.",
+            "<b>Bài tập 3 phút:</b> lấy 5 câu <i>Let's…</i> bạn hay dùng, đổi thành <i>Shall we…?</i> rồi đọc to cả hai để cảm nhận độ mềm khác nhau."
+          ]
+        }
+      ]
+    }
+  ]
+}

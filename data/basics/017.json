@@ -1,0 +1,136 @@
+{
+  "id": 17,
+  "title": "Sáu từ để hỏi",
+  "teaches": ["what", "where", "when", "who", "why", "how", "because", "do", "does", "is", "are", "works", "lives", "goes", "English", "Vietnamese", "old", "costs"],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn hỏi được mọi thứ cần hỏi: <b>what</b> (cái gì) · <b>where</b> (ở đâu) · <b>when</b> (khi nào) · <b>who</b> (ai) · <b>why</b> (vì sao) · <b>how</b> (thế nào)." },
+        { "t": "p", "html": "Bài 09 và 16 chỉ hỏi được câu <b>có/không</b>. Bài này mở ra loại câu hỏi <b>lấy thông tin</b> — thứ bạn cần mỗi ngày." },
+        { "t": "callout", "html": "<b>Công thức duy nhất:</b> đặt từ để hỏi lên <b>đầu</b>, phần còn lại giữ nguyên như câu hỏi có/không.<br><br><i>Do you live here?</i> → <i><b>Where</b> do you live?</i><br><i>Is she busy?</i> → <i><b>Why</b> is she busy?</i><br><br>Tức là bạn đã biết 90% rồi — chỉ thêm một từ vào trước." }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "Bài 09 — hỏi với <code>to be</code> (đảo chỗ). Bài 16 — hỏi với động từ thường (mượn <b>Do/Does</b>). Bài này chỉ thêm một từ vào trước hai kiểu câu đó." },
+        { "t": "link", "items": [
+          { "id": 9, "label": "Bài 09 — hỏi với to be" },
+          { "id": 16, "label": "Bài 16 — hỏi với động từ thường" }
+        ] }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "table", "head": ["Luật", "Nghĩa là gì", "Ví dụ"], "rows": [
+          ["<b>1.</b> Từ để hỏi đứng <b>đầu tiên</b>", "Rồi mới tới phần câu hỏi quen thuộc", "<i><b>Where</b> do you live?</i>"],
+          ["<b>2.</b> Phần sau giữ nguyên luật cũ", "Có <code>to be</code> thì đảo chỗ · còn lại mượn Do/Does", "<i>Why <b>is</b> she sad?</i> · <i>What <b>do</b> you want?</i>"],
+          ["<b>3.</b> <b>Không</b> trả lời bằng Yes/No", "Phải trả lời bằng thông tin thật", "<i>Where? — In Hue.</i>"]
+        ] },
+        { "t": "h3", "text": "Sáu từ và dùng khi nào" },
+        { "t": "table", "head": ["Từ", "Hỏi về", "Ví dụ"], "rows": [
+          ["<b>What</b>", "cái gì, điều gì", "<i>What is this?</i>"],
+          ["<b>Where</b>", "nơi chốn", "<i>Where do you live?</i>"],
+          ["<b>When</b>", "thời gian", "<i>When do you start?</i>"],
+          ["<b>Who</b>", "người nào", "<i>Who is she?</i>"],
+          ["<b>Why</b>", "lý do", "<i>Why are you late?</i>"],
+          ["<b>How</b>", "cách thức, tình trạng", "<i>How are you?</i>"]
+        ] },
+        { "t": "h3", "text": "How ghép với từ khác — rất hay dùng" },
+        { "t": "table", "head": ["Cụm", "Nghĩa", "Ví dụ"], "rows": [
+          ["<b>How much</b>", "bao nhiêu tiền · bao nhiêu (không đếm được)", "<i>How much is this?</i>"],
+          ["<b>How many</b>", "bao nhiêu cái (đếm được)", "<i>How many books do you have?</i>"],
+          ["<b>How old</b>", "bao nhiêu tuổi", "<i>How old are you?</i>"],
+          ["<b>How far</b>", "bao xa", "<i>How far is the bank?</i>"]
+        ] },
+        { "t": "callout", "html": "<b>Trả lời <code>Why</code> thì dùng <code>because</code></b> (vì, bởi vì).<br><br><i><b>Why</b> are you late?</i> — <i><b>Because</b> the bus is late.</i><br><br>Người Việt hay quên chữ <i>because</i> và trả lời cụt lủn. Có nó thì câu nghe tự nhiên hơn hẳn." }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "What — hỏi cái gì" },
+        { "t": "ex", "items": [
+          { "en": "What is this?", "vi": "Cái này là gì?", "note": "Câu học từ mới." },
+          { "en": "What is your name?", "vi": "Bạn tên gì?", "note": "Câu đầu tiên khi làm quen." },
+          { "en": "What do you want?", "vi": "Bạn muốn gì?", "note": "Động từ thường nên mượn <b>do</b>." },
+          { "en": "What do you do?", "vi": "Bạn làm nghề gì?", "note": "Hai chữ <i>do</i>: một để hỏi, một là động từ." },
+          { "en": "What time is it?", "vi": "Mấy giờ rồi?", "note": "<i>What</i> ghép với <i>time</i>." }
+        ] },
+        { "t": "h3", "text": "Where · When — nơi chốn và thời gian" },
+        { "t": "ex", "items": [
+          { "en": "Where do you live?", "vi": "Bạn sống ở đâu?", "note": "<b>Where</b> + <b>do</b> + chủ ngữ + động từ." },
+          { "en": "Where is the toilet?", "vi": "Nhà vệ sinh ở đâu?", "note": "Có <code>to be</code> nên chỉ đảo chỗ." },
+          { "en": "Where does she work?", "vi": "Cô ấy làm ở đâu?", "note": "<b>she</b> nên dùng <b>does</b>, động từ bỏ <b>-s</b>." },
+          { "en": "When do you start work?", "vi": "Mấy giờ bạn bắt đầu làm?", "note": "<b>When</b> hỏi thời gian." },
+          { "en": "When is your birthday?", "vi": "Sinh nhật bạn khi nào?", "note": "Có <i>is</i> nên đảo chỗ." }
+        ] },
+        { "t": "h3", "text": "Who · Why — người và lý do" },
+        { "t": "ex", "items": [
+          { "en": "Who is she?", "vi": "Cô ấy là ai?", "note": "<b>Who</b> hỏi về người." },
+          { "en": "Who is your teacher?", "vi": "Thầy bạn là ai?", "note": "Cùng kiểu." },
+          { "en": "Why are you late?", "vi": "Sao bạn đến muộn?", "note": "<b>Why</b> + <i>are</i> + chủ ngữ." },
+          { "en": "Why do you study English?", "vi": "Sao bạn học tiếng Anh?", "note": "Động từ thường nên mượn <b>do</b>." },
+          { "en": "Why are you late? — Because the bus is late.", "vi": "Sao bạn muộn? — Vì xe buýt muộn.", "note": "Trả lời <b>Why</b> thì mở đầu bằng <b>Because</b>." }
+        ] },
+        { "t": "h3", "text": "How và các cụm với How" },
+        { "t": "ex", "items": [
+          { "en": "How are you?", "vi": "Bạn khoẻ không?", "note": "Câu chào hỏi quen thuộc nhất." },
+          { "en": "How do you go to work?", "vi": "Bạn đi làm bằng gì?", "note": "<b>How</b> hỏi cách thức." },
+          { "en": "How much is this?", "vi": "Cái này bao nhiêu tiền?", "note": "Dùng khi mua đồ." },
+          { "en": "How many books do you have?", "vi": "Bạn có bao nhiêu quyển sách?", "note": "Đếm được nên dùng <b>How many</b>." },
+          { "en": "How old are you?", "vi": "Bạn bao nhiêu tuổi?", "note": "Không nói <i>How old you are?</i>" },
+          { "en": "How far is the station?", "vi": "Nhà ga xa bao nhiêu?", "note": "Hỏi khoảng cách." }
+        ] },
+        { "t": "h3", "text": "Đặt cạnh nhau — có/không và lấy thông tin" },
+        { "t": "ex", "items": [
+          { "en": "Do you live here? — Yes, I do.", "vi": "Bạn sống ở đây à? — Vâng.", "note": "Câu hỏi có/không, đáp ngắn." },
+          { "en": "Where do you live? — In Hue.", "vi": "Bạn sống ở đâu? — Ở Huế.", "note": "Câu lấy thông tin, KHÔNG đáp Yes/No được." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — chọn từ để hỏi" },
+        { "t": "quiz", "items": [
+          { "vi": "Bạn sống ở đâu?", "blank": "___ do you live?", "a": "Where" },
+          { "vi": "Sinh nhật bạn khi nào?", "blank": "___ is your birthday?", "a": "When" },
+          { "vi": "Cô ấy là ai?", "blank": "___ is she?", "a": "Who" },
+          { "vi": "Sao bạn đến muộn?", "blank": "___ are you late?", "a": "Why" },
+          { "vi": "Cái này là gì?", "blank": "___ is this?", "a": "What" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — chọn cụm với How" },
+        { "t": "quiz", "items": [
+          { "vi": "Cái này bao nhiêu tiền?", "blank": "How ___ is this?", "a": "much" },
+          { "vi": "Bạn có bao nhiêu quyển sách?", "blank": "How ___ books do you have?", "a": "many — đếm được" },
+          { "vi": "Bạn bao nhiêu tuổi?", "blank": "How ___ are you?", "a": "old" },
+          { "vi": "Nhà ga xa bao nhiêu?", "blank": "How ___ is the station?", "a": "far" }
+        ] },
+        { "t": "h3", "text": "Phần 3 — đặt câu đầy đủ" },
+        { "t": "quiz", "items": [
+          { "vi": "Cô ấy làm ở đâu?", "a": "Where does she work? — <b>does</b> vì là <i>she</i>, động từ bỏ -s" },
+          { "vi": "Sao bạn học tiếng Anh?", "a": "Why do you study English?" },
+          { "vi": "Trả lời câu <i>Why are you late?</i>", "a": "Because … — ví dụ <i>Because the bus is late.</i>" }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>Chỉ thêm một từ vào đầu câu hỏi bạn đã biết.</b> <i>Do you live here?</i> → <i>Where do you live?</i>",
+          "<b>Phần sau vẫn theo luật cũ:</b> có <code>to be</code> thì đảo chỗ, còn lại mượn <b>Do/Does</b>.",
+          "<b>Không trả lời Yes/No được.</b> Hỏi lấy thông tin thì phải đáp bằng thông tin. Hỏi <b>Why</b> thì mở đầu bằng <b>Because</b>."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "<i>Where you live?</i>", "right": "<i>Where do you live?</i>", "why": "Thêm từ để hỏi vào đầu không làm biến mất phần <b>do</b>. Câu hỏi với động từ thường luôn cần <b>Do/Does</b>, có hay không có từ để hỏi cũng vậy." },
+          { "wrong": "<i>Where does she works?</i>", "right": "<i>Where does she work?</i>", "why": "Cùng bẫy với bài 16: chữ <b>-s</b> đã nằm ở <i>does</i> rồi. Thêm từ để hỏi vào đầu không thay đổi luật này." },
+          { "wrong": "<i>How old you are?</i>", "right": "<i>How old are you?</i>", "why": "Vẫn phải đảo <i>are</i> lên trước chủ ngữ. Người học hay quên bước đảo khi câu đã dài, nhưng luật không đổi." }
+        ] }
+      ]
+    }
+  ]
+}

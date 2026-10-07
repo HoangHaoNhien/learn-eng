@@ -1,0 +1,443 @@
+{
+  "id": 26,
+  "title": "Ghép tất cả lại & học tiếp gì",
+  "teaches": [
+    "is",
+    "are",
+    "was",
+    "were",
+    "am",
+    "don't",
+    "doesn't",
+    "can",
+    "can't",
+    "there",
+    "works",
+    "lives",
+    "goes",
+    "studies",
+    "has",
+    "my",
+    "her",
+    "his",
+    "their",
+    "Nam",
+    "Lan",
+    "Hue",
+    "English",
+    "Monday",
+    "Sunday",
+    "o'clock",
+    "past",
+    "at",
+    "in",
+    "on",
+    "next",
+    "near",
+    "children",
+    "parents",
+    "teachers",
+    "books",
+    "shops",
+    "years",
+    "old",
+    "A1",
+    "driver"
+  ],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Bài cuối. Không có luật mới nào — bài này cho bạn <b>đọc một đoạn văn thật</b> dùng đúng những thứ 25 bài trước đã dạy, rồi chỉ rõ <b>đi tiếp đường nào</b>."
+        },
+        {
+          "t": "callout",
+          "html": "<b>Nhìn lại bạn đã có gì:</b><br><br>Đọc được phiên âm · gọi tên được tám loại từ · dựng được câu <code>to be</code> và câu động từ thường · nói được khẳng định, phủ định, câu hỏi · dùng được mạo từ, số nhiều, sở hữu, giới từ · nói được giờ giấc, ngày tháng, số đếm · và biết <code>was/were</code> với <code>there is/are</code>.<br><br>Đó là <b>đủ để sống sót</b> trong một cuộc trò chuyện đơn giản. Không nhiều, nhưng là nền thật."
+        }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "<b>Cả 25 bài trước.</b> Nếu có chỗ nào còn lấn cấn, quay lại đọc bài đó rồi hãy làm phần Tự kiểm tra ở đây."
+        },
+        {
+          "t": "link",
+          "items": [
+            {
+              "id": 4,
+              "label": "Bài 04 — thuật ngữ (quan trọng nhất)"
+            },
+            {
+              "id": 7,
+              "label": "Bài 07 — to be"
+            },
+            {
+              "id": 14,
+              "label": "Bài 14 — động từ thường"
+            },
+            {
+              "id": 16,
+              "label": "Bài 16 — hỏi với động từ thường"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "Không có luật mới. Đây là bảng tra nhanh ba hệ thống bạn đã học — in ra hoặc chụp màn hình lại."
+        },
+        {
+          "t": "table",
+          "head": [
+            "Muốn nói gì",
+            "Dùng gì",
+            "Ví dụ"
+          ],
+          "rows": [
+            [
+              "<b>Là / ở / cảm thấy</b>",
+              "am · is · are",
+              "<i>I am tired.</i>"
+            ],
+            [
+              "<b>Việc làm hằng ngày</b>",
+              "động từ thường (+ <b>-s</b> với he/she/it)",
+              "<i>She works here.</i>"
+            ],
+            [
+              "<b>Làm được / không làm được</b>",
+              "can · can't",
+              "<i>I can swim.</i>"
+            ]
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Ba cách nói KHÔNG — đừng trộn lẫn"
+        },
+        {
+          "t": "table",
+          "head": [
+            "Loại câu",
+            "Cách phủ định",
+            "Ví dụ"
+          ],
+          "rows": [
+            [
+              "Có <code>to be</code>",
+              "thêm <b>not</b>",
+              "<i>I am <b>not</b> tired.</i>"
+            ],
+            [
+              "Động từ thường",
+              "mượn <b>don't / doesn't</b>",
+              "<i>I <b>don't</b> work.</i>"
+            ],
+            [
+              "Có <code>can</code>",
+              "thêm <b>not</b> → <b>can't</b>",
+              "<i>I <b>can't</b> swim.</i>"
+            ]
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Ba cách HỎI"
+        },
+        {
+          "t": "table",
+          "head": [
+            "Loại câu",
+            "Cách hỏi",
+            "Ví dụ"
+          ],
+          "rows": [
+            [
+              "Có <code>to be</code>",
+              "đảo chỗ",
+              "<i><b>Are</b> you tired?</i>"
+            ],
+            [
+              "Động từ thường",
+              "thêm <b>Do / Does</b> lên đầu",
+              "<i><b>Do</b> you work?</i>"
+            ],
+            [
+              "Có <code>can</code>",
+              "đảo chỗ",
+              "<i><b>Can</b> you swim?</i>"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        {
+          "t": "h3",
+          "text": "Đoạn văn — đọc chậm, nhận ra từng luật"
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "My name is Nam.",
+              "vi": "Tôi tên Nam.",
+              "note": "Sở hữu <b>my</b> (bài 23) + <code>to be</code> (bài 07)."
+            },
+            {
+              "en": "I am twenty years old.",
+              "vi": "Tôi hai mươi tuổi.",
+              "note": "Nói tuổi dùng <b>am</b>, không dùng <i>have</i> (bài 19)."
+            },
+            {
+              "en": "I am a student.",
+              "vi": "Tôi là sinh viên.",
+              "note": "Mạo từ <b>a</b> bắt buộc (bài 11)."
+            },
+            {
+              "en": "I live in Hue with my parents.",
+              "vi": "Tôi sống ở Huế với bố mẹ.",
+              "note": "Động từ thường, chủ ngữ <b>I</b> nên không thêm <b>-s</b> (bài 14)."
+            },
+            {
+              "en": "My father is a driver.",
+              "vi": "Bố tôi là tài xế.",
+              "note": "Danh từ số ít → <b>is</b> (bài 07)."
+            },
+            {
+              "en": "My mother works at a school.",
+              "vi": "Mẹ tôi làm ở một trường học.",
+              "note": "Một người → động từ thêm <b>-s</b> (bài 14)."
+            },
+            {
+              "en": "I have one sister.",
+              "vi": "Tôi có một chị gái.",
+              "note": "<i>have</i> là sở hữu, khác <i>there is</i> (bài 25)."
+            },
+            {
+              "en": "Her name is Lan.",
+              "vi": "Chị ấy tên Lan.",
+              "note": "Sở hữu <b>her</b> (bài 23)."
+            },
+            {
+              "en": "She is a teacher.",
+              "vi": "Chị ấy là giáo viên.",
+              "note": "<b>She</b> → <b>is</b>."
+            },
+            {
+              "en": "She doesn't live with us.",
+              "vi": "Chị ấy không sống cùng chúng tôi.",
+              "note": "Phủ định động từ thường với <b>doesn't</b>, động từ bỏ <b>-s</b> (bài 15)."
+            },
+            {
+              "en": "I study English every day.",
+              "vi": "Ngày nào tôi cũng học tiếng Anh.",
+              "note": "<b>every day</b> là dấu hiệu việc làm hằng ngày."
+            },
+            {
+              "en": "I can speak a little English.",
+              "vi": "Tôi nói được chút tiếng Anh.",
+              "note": "<b>can</b> + động từ nguyên dạng (bài 18)."
+            },
+            {
+              "en": "I can't speak French.",
+              "vi": "Tôi không nói được tiếng Pháp.",
+              "note": "<b>can't</b> — không mượn <i>don't</i> (bài 18)."
+            },
+            {
+              "en": "I start work at eight o'clock.",
+              "vi": "Tôi bắt đầu làm lúc tám giờ.",
+              "note": "Giờ dùng <b>at</b> (bài 21)."
+            },
+            {
+              "en": "I don't work on Sunday.",
+              "vi": "Chủ nhật tôi không làm việc.",
+              "note": "Thứ dùng <b>on</b>, viết hoa (bài 20)."
+            },
+            {
+              "en": "There is a shop near my house.",
+              "vi": "Có một cửa hàng gần nhà tôi.",
+              "note": "<b>There is</b> cho số ít (bài 25)."
+            },
+            {
+              "en": "There are two shops near my school.",
+              "vi": "Có hai cửa hàng gần trường tôi.",
+              "note": "<b>There are</b> cho số nhiều (bài 25)."
+            },
+            {
+              "en": "Yesterday I was at home.",
+              "vi": "Hôm qua tôi ở nhà.",
+              "note": "Quá khứ <b>was</b> (bài 24)."
+            },
+            {
+              "en": "I was very tired.",
+              "vi": "Tôi đã rất mệt.",
+              "note": "Cùng bài 24."
+            },
+            {
+              "en": "Today is Monday.",
+              "vi": "Hôm nay thứ Hai.",
+              "note": "Thứ viết hoa (bài 20)."
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Bạn tự viết đoạn của mình"
+        },
+        {
+          "t": "ex",
+          "items": [
+            {
+              "en": "My name is …",
+              "vi": "Tôi tên là …",
+              "note": "Thay tên bạn vào."
+            },
+            {
+              "en": "I am … years old.",
+              "vi": "Tôi … tuổi.",
+              "note": "Thay tuổi bạn vào."
+            },
+            {
+              "en": "I live in … with …",
+              "vi": "Tôi sống ở … với …",
+              "note": "Thay nơi ở và người sống cùng."
+            },
+            {
+              "en": "I can … but I can't …",
+              "vi": "Tôi làm được … nhưng không làm được …",
+              "note": "Hai việc bạn làm được và không làm được."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        {
+          "t": "h3",
+          "text": "Phần 1 — chọn đúng hệ thống"
+        },
+        {
+          "t": "quiz",
+          "items": [
+            {
+              "vi": "Tôi không mệt.",
+              "a": "I am not tired. — có <code>to be</code> thì thêm <b>not</b>"
+            },
+            {
+              "vi": "Tôi không làm việc.",
+              "a": "I don't work. — động từ thường thì mượn <b>don't</b>"
+            },
+            {
+              "vi": "Tôi không biết bơi.",
+              "a": "I can't swim. — có <b>can</b> thì thêm <b>not</b>"
+            },
+            {
+              "vi": "Cô ấy không làm ở đây.",
+              "a": "She doesn't work here. — động từ bỏ <b>-s</b>"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Phần 2 — ba cách hỏi"
+        },
+        {
+          "t": "quiz",
+          "items": [
+            {
+              "vi": "Bạn có mệt không?",
+              "a": "Are you tired?"
+            },
+            {
+              "vi": "Bạn có làm ở đây không?",
+              "a": "Do you work here?"
+            },
+            {
+              "vi": "Bạn biết bơi không?",
+              "a": "Can you swim?"
+            },
+            {
+              "vi": "Cô ấy sống ở đâu?",
+              "a": "Where does she live?"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Phần 3 — viết về chính bạn"
+        },
+        {
+          "t": "quiz",
+          "items": [
+            {
+              "vi": "Viết năm câu giới thiệu bản thân, dùng ít nhất ba hệ thống khác nhau.",
+              "a": "Không có đáp án sẵn — đọc to lên, rồi tự soát lại bằng ba bảng ở mục Quy tắc"
+            },
+            {
+              "vi": "Hôm qua bạn ở đâu và làm gì? Viết hai câu.",
+              "a": "Dùng <b>was/were</b> — ví dụ <i>I was at home. I was tired.</i>"
+            },
+            {
+              "vi": "Quanh nhà bạn có gì? Viết hai câu dùng <i>There is/are</i>.",
+              "a": "Ví dụ: <i>There is a shop near my house. There are two schools near here.</i>"
+            },
+            {
+              "vi": "Bạn thấy phần nào còn lấn cấn nhất? Quay lại đọc bài đó.",
+              "a": "Thành thật với chính mình — bỏ qua chỗ chưa chắc thì càng về sau càng khó"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        {
+          "t": "p",
+          "html": "<b>Đi tiếp đường nào — ba việc, làm song song:</b>"
+        },
+        {
+          "t": "list",
+          "items": [
+            "<b>1. Sang tab Ngữ pháp, bắt đầu từ Nhóm 1.</b> Giờ bạn đã biết thuật ngữ nên đọc được rồi. Mỗi bài ở đó dạy một bẫy cụ thể — khác hẳn phần Nhập môn này vốn dạy quy tắc nền.",
+            "<b>2. Sang tab Từ vựng, bấm nút A1.</b> 400 từ ở đó là những từ bạn gặp hằng ngày. Mỗi từ có phiên âm và hai nút loa — nghe từ và nghe cả câu.",
+            "<b>3. Vào tab Ôn tập mỗi ngày.</b> Thẻ tự rút từ chính những bài bạn đã học. Mươi phút mỗi ngày giữ được nhiều hơn ba tiếng mỗi tuần."
+          ]
+        },
+        {
+          "t": "callout",
+          "html": "<b>Một lời thật lòng:</b> 26 bài này không làm bạn nói được tiếng Anh. Chúng chỉ làm cho <b>phần còn lại đọc được</b>.<br><br>Thứ thật sự tạo ra tiến bộ là <b>nói thành tiếng mỗi ngày</b>, kể cả khi sai. Mỗi bài ở đây có 20 câu ví dụ — đọc to chúng lên, đừng chỉ đọc bằng mắt."
+        },
+        {
+          "t": "pairs",
+          "items": [
+            {
+              "wrong": "Học xong phần Nhập môn rồi bỏ đó, chuyển sang xem phim tiếng Anh.",
+              "right": "Học tiếp tab Ngữ pháp Nhóm 1, mỗi ngày một bài, và ôn tập đều.",
+              "why": "Xem phim có ích khi bạn đã đủ vốn để nhận ra từ. Ở mức này, nghe mà không hiểu gì thì chỉ là tiếng ồn — nên vừa học tiếp vừa nghe thì mới có tác dụng."
+            },
+            {
+              "wrong": "Đọc hết 26 bài trong hai ngày.",
+              "right": "Mỗi ngày một bài, đọc to phần ví dụ.",
+              "why": "Phần Nhập môn này ngắn nên đọc nhanh được, nhưng đọc hiểu khác với dùng được. Mỗi bài có 20 câu ví dụ chính là để tập — bỏ qua chúng thì chỉ còn lại lý thuyết."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

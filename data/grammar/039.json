@@ -1,0 +1,277 @@
+{
+  "id": 39,
+  "group": "Nhóm 7 · Giới từ",
+  "title": "in · on · at — giới từ thời gian",
+  "subtitle": "Ba giới từ chia theo độ dài của khoảng thời gian: at cho điểm, on cho ngày, in cho khoảng dài. Nhưng bẫy lớn nhất lại là lúc KHÔNG dùng giới từ nào — trước next, last, this, every thì bỏ hẳn.",
+  "meaning": "Giới từ đi với mốc và khoảng thời gian",
+  "rule": [
+    "<em>at</em> + giờ · <em>on</em> + ngày · <em>in</em> + tháng, năm, mùa",
+    "Có thứ trong tuần → dùng <em>on</em>",
+    "Trước <em>next · last · this · every</em> → KHÔNG dùng giới từ"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2", "hot": true },
+    { "text": "at night · in the morning" },
+    { "text": "next week — không giới từ" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [61, 80, 92, 94, 99],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Ba giới từ này chia theo <b>độ dài của khoảng thời gian</b>: càng ngắn và càng cụ thể thì dùng <i>at</i>, càng dài và càng bao quát thì dùng <i>in</i>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — ba luật cơ bản:</b><br>• <b>at</b> + ĐIỂM thời gian — <i>at six, at noon, at midnight</i><br>• <b>on</b> + NGÀY — <i>on Monday, on 5 May, on my birthday</i><br>• <b>in</b> + KHOẢNG dài — <i>in May, in 2020, in summer, in the morning</i><br>Ngoại lệ phải thuộc: <b>at night</b> ✓ (không phải <i>in the night</i>), <b>at the weekend</b> ✓ (kiểu Anh)." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — khi nào BỎ HẲN giới từ:</b> trước <b>next, last, this, every</b> thì không dùng giới từ nào.<br>• <i>I'll see you <b>next week</b></i> ✓ — <i>in next week</i> ✗<br>• <i>I saw him <b>last Friday</b></i> ✓ — <i>on last Friday</i> ✗<br>• <i>I go <b>every day</b></i> ✓ — <i>in every day</i> ✗" },
+        { "t": "h3", "text": "Ba giới từ, ba cấp độ" },
+        {
+          "t": "table",
+          "head": ["Giới từ", "Dùng với", "Ví dụ"],
+          "rows": [
+            ["<code>at</code>", "Giờ, điểm thời gian", "at six · at noon · at night"],
+            ["<code>on</code>", "Ngày, thứ, ngày tháng", "on Monday · on 5 May · on my birthday"],
+            ["<code>in</code>", "Tháng, năm, mùa, buổi", "in May · in 2020 · in the morning"],
+            ["Không giới từ", "<code>next · last · this · every</code>", "next week · last Friday · every day"]
+          ]
+        },
+        { "t": "p", "html": "Mẹo giải quyết xung đột: khi một cụm có <b>cả buổi lẫn thứ</b> thì dùng <b>on</b> — <i><b>on</b> Monday morning</i> ✓, không phải <i>in Monday morning</i>. Chữ <i>on</i> của ngày thắng chữ <i>in</i> của buổi." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Giới từ", "Loại thời gian", "Ví dụ"],
+          "rows": [
+            ["<code>at</code>", "Giờ cụ thể", "at six o'clock · at 7.30"],
+            ["<code>at</code>", "Điểm trong ngày", "at noon · at midnight · at night"],
+            ["<code>at</code>", "Dịp lễ (cả kỳ)", "at Christmas · at Easter"],
+            ["<code>at</code>", "Cuối tuần (kiểu Anh)", "at the weekend"],
+            ["<code>on</code>", "Thứ trong tuần", "on Monday · on Fridays"],
+            ["<code>on</code>", "Ngày tháng", "on 5 May · on 1st January"],
+            ["<code>on</code>", "Ngày đặc biệt", "on my birthday · on Christmas Day"],
+            ["<code>on</code>", "Buổi của một ngày cụ thể", "on Monday morning"],
+            ["<code>in</code>", "Tháng, năm, thế kỷ", "in May · in 2020 · in the 1990s"],
+            ["<code>in</code>", "Mùa, buổi trong ngày", "in summer · in the morning"],
+            ["<code>in</code>", "Sau bao lâu nữa", "in two hours · in a week"],
+            ["Không giới từ", "<code>next, last, this, every</code>", "next week · last Friday"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dòng áp chót có nghĩa riêng:</b> <b>in + khoảng thời gian</b> nghĩa là <b>sau bấy nhiêu nữa</b> — <i>I'll be there <b>in</b> ten minutes</i> = mười phút nữa tôi tới. Khác hẳn <i>for ten minutes</i> = trong mười phút. Xem [Khung 94]." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm meeting him at six.", "vi": "Sáu giờ tôi gặp anh ấy.", "note": "Giờ giấc luôn đi với <b>at</b>. Xem [Khung 92]." },
+            { "en": "The shop closes at noon on Sundays.", "vi": "Chủ nhật cửa hàng đóng lúc trưa.", "note": "<b>at</b> cho giờ, <b>on</b> cho thứ." },
+            { "en": "I don't work at night.", "vi": "Tôi không làm ban đêm.", "note": "NGOẠI LỆ: <b>at night</b> ✓ — <i>in the night</i> ✗." },
+            { "en": "I'm flying to Da Nang on Friday.", "vi": "Thứ Sáu tôi bay đi Đà Nẵng.", "note": "Thứ trong tuần đi với <b>on</b>." },
+            { "en": "My birthday is on 5 May.", "vi": "Sinh nhật tôi ngày 5 tháng Năm.", "note": "Ngày tháng cụ thể đi với <b>on</b>." },
+            { "en": "We're moving in May.", "vi": "Tháng Năm nhà tôi chuyển đi.", "note": "Chỉ có tháng thì đi với <b>in</b>." },
+            { "en": "I usually read in the morning.", "vi": "Tôi thường đọc sách buổi sáng.", "note": "Buổi trong ngày đi với <b>in</b> — trừ <i>at night</i>." },
+            { "en": "I'll call you on Monday morning.", "vi": "Sáng thứ Hai tôi sẽ gọi bạn.", "note": "Có THỨ thì dùng <b>on</b>, dù theo sau là buổi." },
+            { "en": "I'll see you next week.", "vi": "Tuần sau gặp bạn.", "note": "BẪY SỐ HAI: trước <i>next</i> KHÔNG dùng giới từ. Xem [Khung 80]." },
+            { "en": "I saw him last Friday.", "vi": "Thứ Sáu tuần trước tôi gặp anh ấy.", "note": "Trước <i>last</i> cũng bỏ giới từ." },
+            { "en": "I'll be there in ten minutes.", "vi": "Mười phút nữa tôi tới.", "note": "<b>in + khoảng</b> = SAU bấy nhiêu nữa. Xem [Khung 99]." },
+            { "en": "What time does the museum open?", "vi": "Mấy giờ bảo tàng mở cửa?", "note": "Hỏi giờ giấc — câu rất thông dụng. Xem [Khung 61]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🕕", "title": "Hẹn giờ", "text": "<i>I'm meeting him at six.</i> Xem [Khung 92]." },
+            { "icon": "📅", "title": "Nói thứ, ngày", "text": "<i>on Friday · on 5 May</i>" },
+            { "icon": "🗓️", "title": "Nói tháng, năm, mùa", "text": "<i>in May · in 2020 · in summer</i>" },
+            { "icon": "🌙", "title": "Nói buổi trong ngày", "text": "<i>in the morning</i> nhưng <b>at night</b>." },
+            { "icon": "⏳", "title": "Nói sau bao lâu nữa", "text": "<i>in ten minutes</i> = mười phút nữa." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Trước <i>next, last, this, every</i>. Bỏ hẳn giới từ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "at & on",
+              "items": [
+                { "w": "at six", "vi": "lúc sáu giờ", "ex": "I'm meeting him at six.", "exvi": "Sáu giờ tôi gặp anh ấy.", "note": "Giờ giấc LUÔN đi với <b>at</b>." },
+                { "w": "at noon / at midnight", "vi": "lúc trưa / nửa đêm", "ex": "The shop closes at noon.", "exvi": "Cửa hàng đóng lúc trưa." },
+                { "w": "at night", "vi": "ban đêm", "ex": "I don't work at night.", "exvi": "Tôi không làm ban đêm.", "note": "NGOẠI LỆ quan trọng — <i>in the night</i> ✗." },
+                { "w": "at the moment", "vi": "lúc này", "ex": "I'm busy at the moment.", "exvi": "Lúc này tôi đang bận." },
+                { "w": "at the weekend", "vi": "cuối tuần", "ex": "What do you do at the weekend?", "exvi": "Cuối tuần bạn làm gì?", "note": "Kiểu Anh. Người Mỹ nói <i>on the weekend</i>." },
+                { "w": "at Christmas", "vi": "dịp Giáng sinh", "ex": "We go home at Christmas.", "exvi": "Giáng sinh nhà tôi về quê.", "note": "Cả KỲ lễ thì <b>at</b>; riêng ngày lễ thì <i>on Christmas Day</i>." },
+                { "w": "on Monday", "vi": "vào thứ Hai", "ex": "I'm flying on Friday.", "exvi": "Thứ Sáu tôi bay.", "note": "Thứ trong tuần đi với <b>on</b>." },
+                { "w": "on Mondays", "vi": "vào các thứ Hai", "ex": "The shop closes early on Mondays.", "exvi": "Thứ Hai cửa hàng đóng sớm.", "note": "Thêm <b>s</b> để chỉ việc lặp lại hằng tuần." },
+                { "w": "on 5 May", "vi": "ngày 5 tháng Năm", "ex": "My birthday is on 5 May.", "exvi": "Sinh nhật tôi ngày 5 tháng Năm." },
+                { "w": "on my birthday", "vi": "vào sinh nhật tôi", "ex": "I'm taking the day off on my birthday.", "exvi": "Sinh nhật tôi nghỉ làm." },
+                { "w": "on Monday morning", "vi": "sáng thứ Hai", "ex": "I'll call you on Monday morning.", "exvi": "Sáng thứ Hai tôi gọi bạn.", "note": "Có THỨ thì dùng <b>on</b>, chữ <i>on</i> thắng chữ <i>in</i>." },
+                { "w": "on time", "vi": "đúng giờ", "ex": "The train arrived on time.", "exvi": "Tàu đến đúng giờ.", "note": "Khác <b>in time</b> = kịp giờ, vừa kịp." }
+              ]
+            },
+            {
+              "title": "in & khi nào bỏ hẳn giới từ",
+              "items": [
+                { "w": "in May", "vi": "vào tháng Năm", "ex": "We're moving in May.", "exvi": "Tháng Năm nhà tôi chuyển đi.", "note": "Chỉ có tháng thì dùng <b>in</b>." },
+                { "w": "in 2020", "vi": "năm 2020", "ex": "I worked there in 2020.", "exvi": "Năm 2020 tôi làm ở đó." },
+                { "w": "in summer", "vi": "mùa hè", "ex": "It's hot in summer.", "exvi": "Mùa hè nóng lắm." },
+                { "w": "in the morning", "vi": "buổi sáng", "ex": "I usually read in the morning.", "exvi": "Tôi thường đọc sách buổi sáng.", "note": "Buổi trong ngày đi với <b>in</b> — trừ <i>at night</i>." },
+                { "w": "in the 1990s", "vi": "thập niên 90", "ex": "It was popular in the 1990s.", "exvi": "Nó thịnh hành thập niên 90." },
+                { "w": "in ten minutes", "vi": "mười phút nữa", "ex": "I'll be there in ten minutes.", "exvi": "Mười phút nữa tôi tới.", "note": "Nghĩa SAU bấy nhiêu nữa — khác <i>for ten minutes</i>. Xem [Khung 99]." },
+                { "w": "in time", "vi": "kịp giờ", "ex": "We arrived just in time.", "exvi": "Bọn tôi đến vừa kịp.", "note": "Khác <b>on time</b> = đúng giờ." },
+                { "w": "next week", "vi": "tuần sau", "ex": "I'll see you next week.", "exvi": "Tuần sau gặp bạn.", "note": "BẪY SỐ HAI: KHÔNG dùng giới từ. <i>in next week</i> ✗." },
+                { "w": "last Friday", "vi": "thứ Sáu tuần trước", "ex": "I saw him last Friday.", "exvi": "Thứ Sáu tuần trước tôi gặp anh ấy.", "note": "<i>on last Friday</i> ✗." },
+                { "w": "this morning", "vi": "sáng nay", "ex": "I called him this morning.", "exvi": "Sáng nay tôi gọi anh ấy.", "note": "<i>in this morning</i> ✗." },
+                { "w": "every day", "vi": "mỗi ngày", "ex": "I go to the gym every day.", "exvi": "Ngày nào tôi cũng đi tập.", "note": "<i>in every day</i> ✗." },
+                { "w": "yesterday / tomorrow", "vi": "hôm qua / ngày mai", "ex": "I saw him yesterday.", "exvi": "Hôm qua tôi gặp anh ấy.", "note": "Cũng không dùng giới từ." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'll see you <b>in next week</b>.", "right": "I'll see you <b>next week</b>.", "why": "BẪY SỐ HAI: trước <i>next, last, this, every</i> thì KHÔNG dùng giới từ nào." },
+            { "wrong": "I saw him <b>on last Friday</b>.", "right": "I saw him <b>last Friday</b>.", "why": "Cùng lỗi với <i>last</i>." },
+            { "wrong": "I don't work <b>in the night</b>.", "right": "I don't work <b>at night</b>.", "why": "BẪY SỐ MỘT: <b>at night</b> là ngoại lệ phải thuộc — khác <i>in the morning</i>." },
+            { "wrong": "I usually read <b>at the morning</b>.", "right": "I usually read <b>in the morning</b>.", "why": "Buổi trong ngày đi với <b>in</b>. Chỉ riêng <i>night</i> mới dùng <i>at</i>." },
+            { "wrong": "I'm meeting him <b>on six</b>.", "right": "I'm meeting him <b>at six</b>.", "why": "Giờ giấc luôn đi với <b>at</b>. Xem [Khung 92]." },
+            { "wrong": "I'm flying <b>in Friday</b>.", "right": "I'm flying <b>on Friday</b>.", "why": "Thứ trong tuần đi với <b>on</b>." },
+            { "wrong": "My birthday is <b>in 5 May</b>.", "right": "My birthday is <b>on 5 May</b>.", "why": "Có NGÀY cụ thể thì dùng <b>on</b>, dù có cả tháng." },
+            { "wrong": "I'll call you <b>in Monday morning</b>.", "right": "I'll call you <b>on Monday morning</b>.", "why": "Có THỨ thì <b>on</b> thắng — dù theo sau là <i>morning</i>." },
+            { "wrong": "I'll be there <b>after</b> ten minutes. <i>(ý: mười phút nữa)</i>", "right": "I'll be there <b>in</b> ten minutes.", "why": "<b>in + khoảng</b> mới nghĩa là “sau bấy nhiêu nữa”." },
+            { "wrong": "The train arrived <b>in time</b>. <i>(ý: đúng giờ)</i>", "right": "The train arrived <b>on time</b>.", "why": "<b>on time</b> = đúng giờ · <b>in time</b> = vừa kịp. Hai nghĩa khác nhau." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>at night</code> / <code>in the morning</code>", "Ngoại lệ / quy tắc chung", "at night ≠ in the night"],
+            ["<code>on Monday</code> / <code>in May</code>", "Ngày / tháng", "on Friday ≠ in May"],
+            ["<code>on Monday morning</code>", "Có thứ thì on thắng", "on Monday morning"],
+            ["<code>on time</code> / <code>in time</code>", "Đúng giờ / vừa kịp", "arrived on time ≠ just in time"],
+            ["<code>in ten minutes</code> / <code>for ten minutes</code>", "Mười phút nữa / suốt mười phút", "Xem [Ngữ pháp 41]"],
+            ["<code>at the weekend</code> / <code>on the weekend</code>", "Kiểu Anh / kiểu Mỹ", "Cả hai đều đúng"],
+            ["Không giới từ", "next, last, this, every", "next week · last Friday"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: dùng giới từ nào?" },
+        {
+          "t": "tree",
+          "q": "Thời gian của bạn thuộc loại nào?",
+          "nodes": [
+            { "if": "Có next, last, this, every, yesterday, tomorrow", "then": "KHÔNG dùng giới từ nào", "ex": "next week · last Friday" },
+            { "if": "Là một giờ cụ thể", "then": "at", "ex": "at six · at 7.30" },
+            { "if": "Là night, noon, midnight, the moment", "then": "at — ngoại lệ phải thuộc", "ex": "at night" },
+            { "if": "Có thứ trong tuần hoặc ngày tháng", "then": "on", "ex": "on Monday · on 5 May" },
+            { "if": "Là tháng, năm, mùa, buổi trong ngày", "then": "in", "ex": "in May · in the morning" },
+            { "if": "Muốn nói sau bao lâu nữa", "then": "in + khoảng thời gian", "ex": "in ten minutes" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ dài của khoảng thời gian" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "at six o'clock", "vi": "Ngắn nhất — một điểm" },
+            { "en": "on Monday", "vi": "Một ngày" },
+            { "en": "in May", "vi": "Một tháng" },
+            { "en": "in 2020", "vi": "Một năm" },
+            { "en": "in the 1990s", "vi": "Dài nhất — cả một thập niên" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Giới từ thời gian xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 92, "why": "I'm meeting him at six — khung chính, có cả at six, on Friday và next month." },
+            { "id": 61, "why": "What time…? / When…? — hỏi giờ giấc, kéo theo toàn bộ nhóm giới từ này." },
+            { "id": 99, "why": "It takes… — phân biệt in ten minutes và for ten minutes." },
+            { "id": 94, "why": "I've been… for/since — cặp giới từ khác chỉ khoảng thời gian." },
+            { "id": 80, "why": "See you…! — mẫu See you next week, không dùng giới từ trước next." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền in / on / at / không điền gì" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Sáu giờ tôi gặp anh ấy.", "blank": "I'm meeting him __________ six.", "a": "at" },
+            { "vi": "Thứ Sáu tôi bay.", "blank": "I'm flying __________ Friday.", "a": "on" },
+            { "vi": "Tháng Năm nhà tôi chuyển đi.", "blank": "We're moving __________ May.", "a": "in" },
+            { "vi": "Tôi không làm ban đêm.", "blank": "I don't work __________ night.", "a": "at" },
+            { "vi": "Tôi thường đọc sách buổi sáng.", "blank": "I usually read __________ the morning.", "a": "in" },
+            { "vi": "Tuần sau gặp bạn.", "blank": "I'll see you __________ next week.", "a": "không điền gì" },
+            { "vi": "Sáng thứ Hai tôi gọi bạn.", "blank": "I'll call you __________ Monday morning.", "a": "on" },
+            { "vi": "Mười phút nữa tôi tới.", "blank": "I'll be there __________ ten minutes.", "a": "in" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi không làm ban đêm.", "blank": "I don't work __________.  (in the night / at night)", "a": "at night" },
+            { "vi": "Thứ Sáu tuần trước tôi gặp anh ấy.", "blank": "I saw him __________.  (on last Friday / last Friday)", "a": "last Friday" },
+            { "vi": "Tàu đến đúng giờ.", "blank": "The train arrived __________.  (in time / on time)", "a": "on time" },
+            { "vi": "Sinh nhật tôi ngày 5 tháng Năm.", "blank": "My birthday is __________ 5 May.  (in / on)", "a": "on" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Sáu giờ tôi gặp anh ấy.", "a": "I'm meeting him at six." },
+            { "vi": "2. Thứ Sáu tôi bay đi Đà Nẵng.", "a": "I'm flying to Da Nang on Friday." },
+            { "vi": "3. Tuần sau gặp bạn nhé.", "a": "I'll see you next week." },
+            { "vi": "4. Mười phút nữa tôi tới.", "a": "I'll be there in ten minutes." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Nhớ theo độ dài:</b> <i>at</i> cho ĐIỂM · <i>on</i> cho NGÀY · <i>in</i> cho KHOẢNG dài.",
+            "<b>Kiểm tra trước tiên:</b> câu có <i>next, last, this, every, yesterday, tomorrow</i> không? Có thì BỎ HẲN giới từ.",
+            "<b>Hai ngoại lệ phải thuộc:</b> <i><b>at</b> night</i> (không <i>in the night</i>) và <i><b>at</b> the weekend</i> (kiểu Anh).",
+            "<b>Có thứ trong tuần thì <i>on</i> thắng:</b> <i><b>on</b> Monday morning</i>, dù <i>morning</i> bình thường đi với <i>in</i>.",
+            "<b>Cặp <i>on time</i> / <i>in time</i>:</b> đúng giờ / vừa kịp — hai nghĩa khác nhau.",
+            "<b>Bài tập 3 phút:</b> viết lịch một tuần của bạn — mỗi câu một mốc thời gian, dùng đủ cả <i>at</i>, <i>on</i>, <i>in</i> và một câu không giới từ."
+          ]
+        }
+      ]
+    }
+  ]
+}

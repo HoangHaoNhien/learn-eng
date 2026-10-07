@@ -1,0 +1,277 @@
+{
+  "id": 6,
+  "group": "Nhóm 1 · Phát âm — gỡ chặn cả nghe lẫn nói",
+  "title": "Những âm tiếng Việt không có",
+  "subtitle": "Gặp âm lạ, miệng tự động thay bằng âm Việt gần nhất: think thành “tink” hoặc “sink”. Đây là phản xạ, không phải lười — nên phải tập lại bằng vị trí lưỡi và môi, chứ nghe nhiều không tự sửa được.",
+  "meaning": "Tập những âm hệ thống tiếng Việt không có",
+  "rule": [
+    "<em>/θ/ /ð/</em> — lưỡi thò ra <em>giữa hai hàm răng</em>",
+    "<em>/iː/</em> dài căng ≠ <em>/ɪ/</em> ngắn lỏng",
+    "Đừng thay âm lạ bằng âm Việt gần nhất"
+  ],
+  "tags": [
+    { "text": "Mức độ: nền móng", "hot": true },
+    { "text": "think ≠ tink ≠ sink" },
+    { "text": "sheep ≠ ship" },
+    { "text": "Ảnh hưởng: rất lớn" }
+  ],
+  "frames": [41, 72, 76, 77, 85],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Khi tai nghe một âm <b>không có trong tiếng mẹ đẻ</b>, não tự động xếp nó vào ô gần nhất đang có. Người Việt nghe /θ/ thì não ghi là <i>t</i> hoặc <i>s</i> — và miệng phát ra đúng cái não đã ghi. Vì vậy <b>nghe nhiều không tự sửa được</b>: phải tập lại bằng <b>vị trí lưỡi và môi</b>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — hai âm <i>th</i>:</b><br><i>think</i> → “tink” ✗ hoặc “sink” ✗ · <i>this</i> → “đít” ✗ · <i>three</i> → “tri” ✗<br>Cả hai âm <b>/θ/</b> (<i>think, three, month</i>) và <b>/ð/</b> (<i>this, that, the</i>) đều làm <b>cùng một động tác</b>: <b>đầu lưỡi thò nhẹ ra giữa hai hàm răng</b> rồi thổi hơi qua.<br>Khác nhau đúng một chỗ: <b>/θ/ không rung</b> cổ họng, <b>/ð/ có rung</b>.<br><b>Mẹo tập:</b> soi gương — phải <b>nhìn thấy</b> đầu lưỡi. Không thấy lưỡi là chưa đúng." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>/iː/</i> và <i>/ɪ/</i> gộp thành một:</b><br>Tiếng Việt chỉ có một âm “i”, nên <i>sheep</i> và <i>ship</i> nghe như nhau.<br>• <b>/iː/</b> — <b>dài, căng</b>, miệng kéo ngang như đang cười: <i>sheep, seat, feel, leave</i><br>• <b>/ɪ/</b> — <b>ngắn, lỏng</b>, hàm thả tự nhiên: <i>ship, sit, fill, live</i><br>Khác biệt chính <b>không phải độ dài</b> mà là <b>độ căng</b>. Thả lỏng hàm là ra /ɪ/." },
+        { "t": "h3", "text": "Bốn nhóm âm phải tập riêng" },
+        {
+          "t": "table",
+          "head": ["Nhóm", "Người Việt hay thay bằng", "Ví dụ"],
+          "rows": [
+            ["<code>/θ/ /ð/</code>", "<i>t</i>, <i>s</i>, <i>đ</i>", "think · this · three · month"],
+            ["<code>/iː/</code> vs <code>/ɪ/</code>", "Gộp làm một âm “i”", "sheep / ship · seat / sit"],
+            ["<code>/ʃ/ /tʃ/ /dʒ/ /ʒ/</code>", "<i>s</i>, <i>ch</i>, <i>gi</i>", "she · cheese · job · measure"],
+            ["<code>/l/</code> cuối từ", "Nguyên âm “o” hoặc <i>n</i>", "feel · small · people"]
+          ]
+        },
+        { "t": "p", "html": "Nhóm cuối đã nói ở [Kỹ năng 01] — nhắc lại ở đây vì nó là <b>âm cuối</b> khó nhất và hay đi cùng ba nhóm trên trong một câu." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Âm", "Làm thế nào", "Từ ví dụ"],
+          "rows": [
+            ["<code>/θ/</code>", "Lưỡi giữa răng, <b>không rung</b>", "think · three · month · both"],
+            ["<code>/ð/</code>", "Lưỡi giữa răng, <b>có rung</b>", "this · that · the · with"],
+            ["<code>/iː/</code>", "Dài, <b>căng</b>, miệng kéo ngang", "sheep · seat · feel · leave"],
+            ["<code>/ɪ/</code>", "Ngắn, <b>lỏng</b>, hàm thả", "ship · sit · fill · live"],
+            ["<code>/ʃ/</code>", "Môi chụm tròn, hơi xì <b>kéo dài</b>", "she · fish · wash · sure"],
+            ["<code>/tʃ/</code>", "Như /ʃ/ nhưng <b>bật ra một phát</b>", "cheese · watch · much"],
+            ["<code>/dʒ/</code>", "Như /tʃ/ nhưng <b>có rung</b>", "job · age · change"],
+            ["<code>/ʒ/</code>", "Như /ʃ/ nhưng có rung — hiếm", "measure · usually · vision"],
+            ["<code>/l/</code> cuối", "Đầu lưỡi <b>chạm lợi</b>, hơi thoát hai bên", "feel · small · people · well"],
+            ["<code>/r/</code>", "Lưỡi cong lên, <b>không chạm</b> đâu cả", "red · very · sorry"],
+            ["<code>/v/</code>", "Răng trên chạm môi dưới, có rung", "very · love · live"],
+            ["<code>/æ/</code>", "Miệng mở rộng, giữa “a” và “e”", "cat · bad · thanks"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Hai âm hay bị tráo cho nhau:</b> <b>/l/</b> và <b>/r/</b>. Tiếng Việt có cả hai ở <b>đầu</b> từ nên phần này dễ; nhưng <b>/r/ tiếng Anh khác hẳn <i>r</i> tiếng Việt</b> — lưỡi <b>cong lên mà không chạm</b> vào đâu, không rung đầu lưỡi. Và <b>/l/ ở cuối từ</b> thì tiếng Việt hoàn toàn không có." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I think it's a good idea.", "vi": "Tôi nghĩ đó là ý hay.", "note": "BẪY SỐ MỘT: <b>think</b> = /θɪŋk/ — lưỡi giữa răng, không rung. Xem [Khung 41]." },
+            { "en": "Thanks a lot!", "vi": "Cảm ơn nhiều!", "note": "<b>thanks</b> = /θæŋks/ — /θ/ rồi cụm /ŋks/. Xem [Kỹ năng 04]." },
+            { "en": "This is my friend Nam.", "vi": "Đây là Nam, bạn tôi.", "note": "<b>this</b> = /ðɪs/ — cùng động tác nhưng CÓ rung. Xem [Khung 73]." },
+            { "en": "I've been here for three months.", "vi": "Tôi ở đây ba tháng rồi.", "note": "<b>three</b> /θr/ và <b>months</b> /nθs/ — hai chỗ /θ/ khó nhất." },
+            { "en": "Nice to meet you.", "vi": "Rất vui được gặp bạn.", "note": "<b>meet</b> = /miːt/ — /iː/ dài căng. Xem [Khung 72]." },
+            { "en": "Please sit down.", "vi": "Mời ngồi.", "note": "BẪY SỐ HAI: <b>sit</b> = /sɪt/ — ngắn, lỏng, khác <i>seat</i> /siːt/." },
+            { "en": "Long time no see!", "vi": "Lâu quá không gặp!", "note": "<b>see</b> = /siː/ — kéo dài và căng. Xem [Khung 77]." },
+            { "en": "I live in Hanoi.", "vi": "Tôi sống ở Hà Nội.", "note": "<b>live</b> = /lɪv/ — /ɪ/ ngắn, rồi /v/ có rung." },
+            { "en": "She works in a shop.", "vi": "Cô ấy làm ở cửa hàng.", "note": "<b>she</b> /ʃ/ và <b>shop</b> /ʃ/ — môi chụm, hơi xì kéo dài." },
+            { "en": "How's it going?", "vi": "Dạo này sao rồi?", "note": "<b>going</b> = /ˈɡəʊɪŋ/ — /ɪ/ ngắn ở giữa. Xem [Khung 76]." },
+            { "en": "That sounds really good.", "vi": "Nghe hay thật đấy.", "note": "<b>that</b> /ð/ · <b>really</b> /r/ — hai âm khó cạnh nhau. Xem [Khung 85]." },
+            { "en": "I feel much better now.", "vi": "Giờ tôi thấy đỡ hơn nhiều.", "note": "<b>feel</b> /iː/ + /l/ cuối · <b>much</b> /tʃ/ — ba âm khó trong một câu." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào cần để ý nhất",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💭", "title": "Nêu ý kiến", "text": "<i>I think…</i> — /θ/ ngay từ đầu câu. Xem [Khung 41]." },
+            { "icon": "🙏", "title": "Cảm ơn", "text": "<i>Thanks</i> — câu bạn nói nhiều nhất trong ngày." },
+            { "icon": "👋", "title": "Chào hỏi, giới thiệu", "text": "<i>This is…</i> · <i>Nice to meet you</i>" },
+            { "icon": "🔢", "title": "Nói số, nói tháng", "text": "<i>three, thirteen, thirty, months</i>" },
+            { "icon": "💼", "title": "Nói về công việc", "text": "<i>job, change, shop</i> — nhóm /dʒ/ /tʃ/ /ʃ/." },
+            { "icon": "🚫", "title": "Đừng làm…", "text": "Đừng thay /θ/ bằng <i>t</i> hay <i>s</i> cho tiện." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay gặp",
+      "blocks": [
+        { "t": "p", "html": "Chọn một cặp ở cột trái để nghe hai từ khác nhau thế nào và biết lưỡi phải đặt ở đâu." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Hai âm th và nhóm xuýt",
+              "items": [
+                { "w": "think /θ/", "vi": "nghĩ", "ex": "I think it's a good idea.", "exvi": "Tôi nghĩ đó là ý hay.", "note": "BẪY SỐ MỘT: “tink” ✗ · “sink” ✗ — lưỡi phải thò ra, soi gương thấy được." },
+                { "w": "three /θ/", "vi": "số ba", "ex": "I've been here three months.", "exvi": "Tôi ở đây ba tháng rồi.", "note": "/θr/ — lưỡi ra rồi cong lên ngay, cụm khó." },
+                { "w": "thanks /θ/", "vi": "cảm ơn", "ex": "Thanks a lot!", "exvi": "Cảm ơn nhiều!" },
+                { "w": "month /θ/", "vi": "tháng", "ex": "I'll be back next month.", "exvi": "Tháng sau tôi quay lại." },
+                { "w": "this /ð/", "vi": "cái này", "ex": "This is my friend Nam.", "exvi": "Đây là Nam, bạn tôi.", "note": "Cùng động tác với /θ/ nhưng CÓ rung cổ họng. Xem [Khung 73]." },
+                { "w": "that /ð/", "vi": "cái kia", "ex": "That sounds really good.", "exvi": "Nghe hay thật đấy. Xem [Khung 85]." },
+                { "w": "the /ð/", "vi": "(mạo từ)", "ex": "the man in the blue shirt", "exvi": "anh mặc áo xanh", "note": "Từ hay dùng nhất tiếng Anh, mà lại chứa âm khó nhất." },
+                { "w": "she /ʃ/", "vi": "cô ấy", "ex": "She works in a shop.", "exvi": "Cô ấy làm ở cửa hàng.", "note": "Môi chụm tròn, hơi xì KÉO DÀI." },
+                { "w": "cheese /tʃ/", "vi": "phô mai", "ex": "I'd like a cheese sandwich.", "exvi": "Cho tôi bánh mì phô mai.", "note": "Như /ʃ/ nhưng BẬT RA một phát, không kéo dài." },
+                { "w": "job /dʒ/", "vi": "công việc", "ex": "I like this job.", "exvi": "Tôi thích công việc này.", "note": "Như /tʃ/ nhưng có rung cổ họng." },
+                { "w": "change /tʃ/ /dʒ/", "vi": "thay đổi", "ex": "Things have changed.", "exvi": "Mọi thứ thay đổi rồi.", "note": "Có cả hai âm trong một từ — /tʃeɪndʒd/." },
+                { "w": "usually /ʒ/", "vi": "thường thường", "ex": "I usually walk to work.", "exvi": "Tôi thường đi bộ đi làm.", "note": "Âm hiếm nhất — như /ʃ/ nhưng có rung." }
+              ]
+            },
+            {
+              "title": "Cặp nguyên âm dài / ngắn và âm cuối",
+              "items": [
+                { "w": "sheep /iː/ · ship /ɪ/", "vi": "con cừu / con tàu", "ex": "The ship is big.", "exvi": "Con tàu to.", "note": "BẪY SỐ HAI: /iː/ CĂNG, /ɪ/ LỎNG — khác nhau ở độ căng, không phải độ dài." },
+                { "w": "seat /iː/ · sit /ɪ/", "vi": "chỗ ngồi / ngồi", "ex": "Please sit down. Take a seat.", "exvi": "Mời ngồi. Mời ngồi xuống ghế." },
+                { "w": "feel /iː/ · fill /ɪ/", "vi": "cảm thấy / đổ đầy", "ex": "How do you feel?", "exvi": "Bạn thấy thế nào?" },
+                { "w": "leave /iː/ · live /ɪ/", "vi": "rời đi / sống", "ex": "I live in Hanoi.", "exvi": "Tôi sống ở Hà Nội.", "note": "Cả nguyên âm lẫn phụ âm cuối đều khác." },
+                { "w": "see /iː/", "vi": "nhìn thấy", "ex": "Long time no see!", "exvi": "Lâu quá không gặp! Xem [Khung 77]." },
+                { "w": "meet /iː/", "vi": "gặp", "ex": "Nice to meet you.", "exvi": "Rất vui được gặp bạn. Xem [Khung 72]." },
+                { "w": "feel /l/ cuối", "vi": "cảm thấy", "ex": "I feel much better now.", "exvi": "Giờ tôi thấy đỡ hơn nhiều.", "note": "/l/ cuối — đầu lưỡi CHẠM lợi, không thành “o”. Xem [Kỹ năng 01]." },
+                { "w": "small /l/ cuối", "vi": "nhỏ", "ex": "I work for a small company.", "exvi": "Tôi làm cho công ty nhỏ." },
+                { "w": "people /l/ cuối", "vi": "mọi người", "ex": "There were a lot of people.", "exvi": "Đông người lắm." },
+                { "w": "really /r/", "vi": "thật sự", "ex": "That sounds really good.", "exvi": "Nghe hay thật đấy.", "note": "/r/ tiếng Anh: lưỡi CONG LÊN mà KHÔNG CHẠM đâu cả." },
+                { "w": "very /v/ /r/", "vi": "rất", "ex": "It's very hot today.", "exvi": "Hôm nay nóng lắm.", "note": "Hai âm khó liền nhau — /v/ răng chạm môi, /r/ lưỡi cong." },
+                { "w": "thanks /æ/", "vi": "cảm ơn", "ex": "Thanks, that's very kind.", "exvi": "Cảm ơn, bạn tốt quá.", "note": "/æ/ — miệng mở rộng, giữa “a” và “e”." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<i>think</i> đọc là <b>“tink”</b>", "right": "<b>/θɪŋk/</b> — lưỡi thò ra giữa răng", "why": "BẪY SỐ MỘT: thay /θ/ bằng <i>t</i>. Soi gương — không thấy lưỡi là chưa đúng." },
+            { "wrong": "<i>think</i> đọc là <b>“sink”</b>", "right": "<b>/θɪŋk/</b>", "why": "Lỗi thay thế thứ hai: dùng /s/. Nghe thành <i>sink</i> (bồn rửa) — từ khác hẳn." },
+            { "wrong": "<i>this</i> đọc là <b>“đít”</b>", "right": "<b>/ðɪs/</b>", "why": "/ð/ cũng thò lưỡi, chỉ khác /θ/ ở chỗ có rung cổ họng." },
+            { "wrong": "<i>three</i> đọc là <b>“tri”</b>", "right": "<b>/θriː/</b>", "why": "Nghe thành <i>tree</i> (cái cây). Cụm /θr/ phải tập riêng." },
+            { "wrong": "<i>sheep</i> và <i>ship</i> đọc <b>giống nhau</b>", "right": "<b>/ʃiːp/</b> căng ≠ <b>/ʃɪp/</b> lỏng", "why": "BẪY SỐ HAI: tiếng Việt chỉ có một âm “i” nên não gộp hai âm làm một." },
+            { "wrong": "<i>feel</i> đọc là <b>“phiu”</b>", "right": "<b>/fiːl/</b>", "why": "/l/ cuối biến thành nguyên âm. Đầu lưỡi phải chạm lợi. Xem [Kỹ năng 01]." },
+            { "wrong": "<i>she</i> đọc là <b>“si”</b>", "right": "<b>/ʃiː/</b> — môi chụm tròn", "why": "/ʃ/ không phải /s/. Môi phải chụm lại, hơi xì rộng hơn." },
+            { "wrong": "<i>job</i> đọc là <b>“giốp”</b>", "right": "<b>/dʒɒb/</b>", "why": "/dʒ/ bật ra một phát rồi dừng, không kéo dài như <i>gi</i> tiếng Việt." },
+            { "wrong": "<i>really</i> đọc với <b>r rung đầu lưỡi</b>", "right": "<b>/ˈrɪəli/</b> — lưỡi cong, không chạm", "why": "<i>r</i> tiếng Việt rung đầu lưỡi; /r/ tiếng Anh thì không chạm vào đâu cả." },
+            { "wrong": "<i>thanks</i> đọc là <b>“ten”</b>", "right": "<b>/θæŋks/</b>", "why": "Mất cả /θ/ lẫn cụm /ŋks/ — ba lỗi trong một từ ngắn. Xem [Kỹ năng 04]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với lỗi gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>/θ/</code> / <code>/ð/</code>", "Không rung / có rung", "think ≠ this"],
+            ["<code>/θ/</code> / <code>/t/</code> / <code>/s/</code>", "Lưỡi giữa răng / sau răng / sau lợi", "think ≠ tink ≠ sink"],
+            ["<code>/iː/</code> / <code>/ɪ/</code>", "Căng / lỏng", "sheep ≠ ship · seat ≠ sit"],
+            ["<code>/ʃ/</code> / <code>/s/</code>", "Môi chụm / môi mở", "she ≠ see"],
+            ["<code>/ʃ/</code> / <code>/tʃ/</code>", "Kéo dài / bật một phát", "wash ≠ watch"],
+            ["<code>/tʃ/</code> / <code>/dʒ/</code>", "Không rung / có rung", "cheap ≠ jeep"],
+            ["<code>/r/</code> Anh / <code>r</code> Việt", "Cong không chạm / rung đầu lưỡi", "really"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: tập âm nào trước?" },
+        {
+          "t": "tree",
+          "q": "Bạn muốn sửa phát âm nhưng không biết bắt đầu từ đâu — chọn theo mức ảnh hưởng.",
+          "nodes": [
+            { "if": "Nói think, thanks, this mà người nghe hỏi lại", "then": "Tập /θ/ và /ð/ trước", "ex": "soi gương, phải thấy đầu lưỡi" },
+            { "if": "sheep và ship nghe như nhau", "then": "Tập độ CĂNG của /iː/", "ex": "kéo ngang miệng như đang cười" },
+            { "if": "she nghe thành see", "then": "Tập chụm môi cho /ʃ/", "ex": "môi tròn lại, hơi xì rộng" },
+            { "if": "wash và watch lẫn nhau", "then": "Tập bật dứt khoát cho /tʃ/", "ex": "/ʃ/ kéo dài, /tʃ/ một phát" },
+            { "if": "feel, small nghe thành “phiu”, “xmon”", "then": "Tập /l/ cuối từ", "ex": "đầu lưỡi chạm lợi trên" },
+            { "if": "Đã ổn cả bốn nhóm", "then": "Chuyển sang trọng âm và nối âm", "ex": "Xem [Kỹ năng 05] và [Kỹ năng 07]" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ chuẩn của từ think" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "“tin” — mất cả /θ/ lẫn /k/", "vi": "Tệ nhất" },
+            { "en": "“tink” — thay /θ/ bằng /t/", "vi": "Nghe thành từ khác" },
+            { "en": "“sink” — thay /θ/ bằng /s/", "vi": "Cũng thành từ khác" },
+            { "en": "/θɪŋk/ chậm, lưỡi thò rõ", "vi": "Đúng" },
+            { "en": "/θɪŋk/ nhanh, tự nhiên", "vi": "Tốt nhất" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kỹ năng này dùng ở đâu",
+      "blocks": [
+        { "t": "p", "html": "Mấy âm này nằm trong những câu bạn nói nhiều nhất mỗi ngày. Bấm vào để luyện trên câu thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 41, "why": "I think (that) + mệnh đề — câu nêu ý kiến nào cũng mở đầu bằng /θ/." },
+            { "id": 72, "why": "Nice to meet you — meet /iː/, thanks /θ/: hai âm khó trong câu chào đầu tiên." },
+            { "id": 77, "why": "Long time no see! — see /iː/ kéo dài căng, chỗ dễ lộ nhất." },
+            { "id": 85, "why": "That sounds + tính từ — that /ð/ và really /r/ đứng cạnh nhau." },
+            { "id": 76, "why": "How's it going? — câu chào hằng ngày, có /ɪ/ ngắn ở giữa." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Âm này là gì, lưỡi đặt ở đâu?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "nghĩ", "blank": "think  →  âm đầu là __________", "a": "/θ/ — lưỡi giữa răng, không rung" },
+            { "vi": "cái này", "blank": "this  →  âm đầu là __________", "a": "/ð/ — lưỡi giữa răng, CÓ rung" },
+            { "vi": "con cừu", "blank": "sheep  →  nguyên âm là __________", "a": "/iː/ — dài và căng" },
+            { "vi": "con tàu", "blank": "ship  →  nguyên âm là __________", "a": "/ɪ/ — ngắn và lỏng" },
+            { "vi": "cô ấy", "blank": "she  →  âm đầu là __________", "a": "/ʃ/ — môi chụm tròn" },
+            { "vi": "phô mai", "blank": "cheese  →  âm đầu là __________", "a": "/tʃ/ — như /ʃ/ nhưng bật một phát" },
+            { "vi": "công việc", "blank": "job  →  âm đầu là __________", "a": "/dʒ/ — như /tʃ/ nhưng có rung" },
+            { "vi": "cảm thấy", "blank": "feel  →  âm cuối là __________", "a": "/l/ — đầu lưỡi chạm lợi" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn cách đọc đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi nghĩ vậy.", "blank": "(a) “ai tink sô”  (b) “ai θɪŋk sô”", "a": "(b)" },
+            { "vi": "Đây là bạn tôi.", "blank": "(a) “đít ít mai frend”  (b) “ðɪs ɪz mai frend”", "a": "(b)" },
+            { "vi": "Mời ngồi xuống ghế.", "blank": "(a) take a /sɪt/  (b) take a /siːt/", "a": "(b) — seat dùng /iː/" },
+            { "vi": "Cô ấy làm ở cửa hàng.", "blank": "(a) “si works in a sop”  (b) “ʃiː works in a ʃɒp”", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Đọc to trước gương, kiểm tra có thấy lưỡi không" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi nghĩ đó là ý hay.", "a": "I think it's a good idea.  →  /θ/ phải thấy lưỡi" },
+            { "vi": "2. Tôi ở đây ba tháng rồi.", "a": "I've been here for three months.  →  /θr/ và /nθs/" },
+            { "vi": "3. Mời ngồi — ghế kia còn trống.", "a": "Please sit down — that seat is free.  →  /ɪ/ ngắn rồi /iː/ dài" },
+            { "vi": "4. Giờ tôi thấy đỡ hơn nhiều, cảm ơn.", "a": "I feel much better now, thanks.  →  /iː/ · /l/ · /tʃ/ · /θ/" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Nghe nhiều không tự sửa được.</b> Não đã xếp âm lạ vào ô gần nhất rồi — phải tập lại bằng <b>vị trí lưỡi và môi</b>.",
+            "<b>Hai âm <i>th</i> cùng một động tác:</b> lưỡi thò ra giữa răng. Khác nhau đúng một chỗ — <i>think</i> không rung, <i>this</i> có rung.",
+            "<b>Soi gương khi tập /θ/.</b> Không <b>nhìn thấy</b> đầu lưỡi là chưa đúng. Đây là bài kiểm tra nhanh nhất.",
+            "<b>/iː/ và /ɪ/ khác ở ĐỘ CĂNG, không phải độ dài.</b> Kéo ngang miệng như đang cười là ra /iː/; thả lỏng hàm là ra /ɪ/.",
+            "<b>/ʃ/ kéo dài, /tʃ/ bật một phát.</b> Cùng hình miệng, khác cách thoát hơi — <i>wash</i> ↔ <i>watch</i>.",
+            "<b>Bài tập 2 phút:</b> đọc năm cặp <i>think/sink, this/dis, sheep/ship, she/see, wash/watch</i>, ghi âm rồi nghe xem hai từ có khác nhau không."
+          ]
+        }
+      ]
+    }
+  ]
+}

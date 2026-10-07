@@ -1,0 +1,277 @@
+{
+  "id": 2,
+  "group": "Nhóm 3 · Thì hiện tại & quá khứ",
+  "title": "Hiện tại tiếp diễn — đang xảy ra & lịch đã chốt",
+  "subtitle": "Ai cũng biết nó nghĩa là đang xảy ra. Nhưng có một nhóm động từ tuyệt đối không được dùng ở thì này — I'm knowing ✗ — và có một nhánh thứ hai mà sách vở ít dạy: tiếp diễn còn dùng cho cuộc hẹn đã chốt trong tương lai.",
+  "meaning": "Đang xảy ra lúc này · giai đoạn tạm thời · lịch đã chốt",
+  "rule": [
+    "S + <em>am/is/are</em> + V-ing",
+    "S + <em>am/is/are not</em> + V-ing",
+    "<em>Am/Is/Are</em> + S + V-ing?"
+  ],
+  "tags": [
+    { "text": "Trình độ: A1–A2", "hot": true },
+    { "text": "Bẫy: động từ trạng thái" },
+    { "text": "Tiếp diễn cho TƯƠNG LAI" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [76, 86, 91, 92, 94],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Hiện tại tiếp diễn có <b>ba việc</b>, không phải một: việc <b>đang xảy ra ngay lúc nói</b> (<i>I'm having lunch</i>), một <b>giai đoạn tạm thời</b> (<i>I'm not eating meat at the moment</i>), và — nhánh ít người để ý — một <b>cuộc hẹn đã chốt trong tương lai</b> (<i>I'm meeting him at six</i>)." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — động từ trạng thái:</b> một nhóm động từ <b>không bao giờ</b> dùng ở tiếp diễn vì chúng mô tả trạng thái chứ không phải hành động: <i>know, understand, believe, want, need, like, love, hate, own, belong, seem</i>. <i>I <b>know</b> what you mean</i> ✓ — <i>I'm knowing</i> ✗." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — ngoại lệ của <i>have</i>:</b> <i>I <b>have</b> a car</i> ✓ (sở hữu — trạng thái, không tiếp diễn) nhưng <i>I'<b>m having</b> lunch</i> ✓ (hành động — tiếp diễn bình thường). Cùng một từ, hai nghĩa, hai cách chia." },
+        { "t": "h3", "text": "Quy tắc thêm -ing" },
+        {
+          "t": "table",
+          "head": ["Đuôi động từ", "Cách thêm", "Ví dụ"],
+          "rows": [
+            ["Hầu hết các động từ", "<code>+ ing</code>", "work → work<b>ing</b> · play → play<b>ing</b>"],
+            ["Tận cùng <code>-e</code> câm", "bỏ <code>e</code> rồi <code>+ ing</code>", "mak<b>e</b> → mak<b>ing</b> · writ<b>e</b> → writ<b>ing</b>"],
+            ["1 nguyên âm + 1 phụ âm, nhấn âm cuối", "gấp đôi phụ âm", "si<b>t</b> → si<b>tt</b>ing · begi<b>n</b> → begi<b>nn</b>ing"],
+            ["Tận cùng <code>-ie</code>", "đổi thành <code>-ying</code>", "l<b>ie</b> → l<b>ying</b> · d<b>ie</b> → d<b>ying</b>"]
+          ]
+        },
+        { "t": "p", "html": "Chú ý: <i>see → seeing</i> (giữ nguyên <i>e</i> vì là <i>ee</i>), và <i>open → opening</i> chứ không phải <i>openning</i> — vì trọng âm rơi vào âm đầu, không phải âm cuối." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Khẳng định — I", "<code>I am + V-ing</code>", "I am working."],
+            ["Khẳng định — he/she/it", "<code>S is + V-ing</code>", "He is working."],
+            ["Khẳng định — you/we/they", "<code>S are + V-ing</code>", "They are working."],
+            ["Rút gọn", "<code>I'm / he's / they're</code>", "I'm working right now."],
+            ["Phủ định", "<code>S + am/is/are not + V-ing</code>", "I'm not working today."],
+            ["Phủ định rút gọn", "<code>isn't / aren't</code>", "He isn't working."],
+            ["Câu hỏi", "<code>Am/Is/Are + S + V-ing?</code>", "Are you working tomorrow?"],
+            ["Trả lời ngắn", "<code>Yes, S + am/is/are.</code>", "Yes, I am. · No, he isn't."],
+            ["Câu hỏi có từ để hỏi", "<code>Từ hỏi + am/is/are + S + V-ing?</code>", "What are you doing?"],
+            ["Đang xảy ra lúc này", "<code>+ right now / at the moment</code>", "I'm having lunch right now."],
+            ["Lịch đã chốt (tương lai)", "<code>+ mốc thời gian</code>", "I'm meeting him at six."],
+            ["Xu hướng đang đổi", "<code>be getting + tính từ</code>", "It's getting colder."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Lưu ý dấu hiệu:</b> cùng một câu <i>I'm working</i>, thêm <i>right now</i> thì là hiện tại, thêm <i>tomorrow</i> thì là tương lai đã chốt. Mốc thời gian quyết định nghĩa, không phải cấu trúc." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm having lunch right now.", "vi": "Tôi đang ăn trưa.", "note": "<i>have</i> nghĩa HÀNH ĐỘNG nên tiếp diễn được. Xem [Khung 92]." },
+            { "en": "She's working from home today.", "vi": "Hôm nay cô ấy làm ở nhà.", "note": "<i>today</i> cho thấy đây là chuyện tạm thời, không phải thường lệ." },
+            { "en": "They aren't coming to the meeting.", "vi": "Họ không đến họp đâu.", "note": "Phủ định rút gọn <b>aren't</b>." },
+            { "en": "What are you doing this weekend?", "vi": "Cuối tuần này bạn có lịch gì?", "note": "CÂU HỎI VÀNG để mở lời mời — hỏi lịch ĐÃ CHỐT. Xem [Khung 92]." },
+            { "en": "I'm meeting the client at ten.", "vi": "Mười giờ tôi có hẹn với khách.", "note": "Tương lai ĐÃ CHỐT — chắc chắn hơn <i>I'm going to meet</i>. Xem [Khung 91]." },
+            { "en": "I'm not eating meat at the moment.", "vi": "Dạo này tôi không ăn thịt.", "note": "Giai đoạn TẠM THỜI. Nói <i>I don't eat meat</i> thì thành thói quen lâu dài." },
+            { "en": "It's getting colder.", "vi": "Trời đang lạnh dần.", "note": "<b>be getting + tính từ</b> = xu hướng đang thay đổi." },
+            { "en": "He's always losing his keys.", "vi": "Anh ấy toàn làm mất chìa khóa.", "note": "<i>always</i> + tiếp diễn = than phiền về một thói quen khó chịu, không phải tần suất." },
+            { "en": "Are you coming tonight?", "vi": "Tối nay bạn đến chứ?", "note": "Câu hỏi đảo <i>are</i> lên trước chủ ngữ." },
+            { "en": "I'm just looking, thanks.", "vi": "Tôi xem thôi, cảm ơn.", "note": "Câu vàng trong cửa hàng — đang xảy ra ngay lúc này." },
+            { "en": "We're moving next month.", "vi": "Tháng sau nhà tôi chuyển đi.", "note": "KHÔNG có giới từ trước <i>next</i>: <i>in next month</i> ✗." },
+            { "en": "I know what you mean.", "vi": "Tôi hiểu ý bạn.", "note": "BẪY SỐ MỘT: <i>know</i> là động từ TRẠNG THÁI — <i>I'm knowing</i> ✗." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "⏱️", "title": "Đang xảy ra lúc này", "text": "<i>I'm having lunch — can I call you back?</i>" },
+            { "icon": "📅", "title": "Lịch hẹn đã chốt", "text": "<i>I'm meeting him at six.</i> Có giờ, có người. Xem [Khung 92]." },
+            { "icon": "🔄", "title": "Giai đoạn tạm thời", "text": "<i>I'm working from home this week.</i> Chỉ tuần này thôi." },
+            { "icon": "📈", "title": "Xu hướng đang đổi", "text": "<i>It's getting colder. Prices are rising.</i>" },
+            { "icon": "😤", "title": "Than phiền với always", "text": "<i>He's always losing his keys.</i> Nghe bực, không phải đếm tần suất." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Động từ trạng thái, hoặc lịch trình tàu xe. Lúc đó là hiện tại đơn — xem [Ngữ pháp 01]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Dấu hiệu & động từ hay dùng ở tiếp diễn",
+              "items": [
+                { "w": "right now", "vi": "ngay lúc này", "ex": "I'm having lunch right now.", "exvi": "Tôi đang ăn trưa.", "note": "Dấu hiệu rõ nhất của nhánh đang xảy ra." },
+                { "w": "at the moment", "vi": "dạo này, lúc này", "ex": "I'm not eating meat at the moment.", "exvi": "Dạo này tôi không ăn thịt.", "note": "Báo hiệu một giai đoạn TẠM THỜI, có thể đổi." },
+                { "w": "today / this week", "vi": "hôm nay / tuần này", "ex": "She's working from home today.", "exvi": "Hôm nay cô ấy làm ở nhà." },
+                { "w": "currently", "vi": "hiện tại", "ex": "We're currently reviewing it.", "exvi": "Chúng tôi hiện đang xem lại.", "note": "Trang trọng — hay dùng trong email công việc." },
+                { "w": "Look! / Listen!", "vi": "Nhìn kìa! / Nghe này!", "ex": "Look! It's raining.", "exvi": "Nhìn kìa! Trời đang mưa.", "note": "Câu mệnh lệnh này gần như luôn kéo theo tiếp diễn." },
+                { "w": "I'm meeting", "vi": "tôi có hẹn gặp", "ex": "I'm meeting him at six.", "exvi": "Sáu giờ tôi có hẹn gặp anh ấy.", "note": "Có người khác trong lịch thì gần như luôn dùng tiếp diễn. Xem [Khung 92]." },
+                { "w": "I'm working", "vi": "tôi làm việc", "ex": "Sorry, I'm working tomorrow.", "exvi": "Xin lỗi, mai tôi phải làm.", "note": "Câu từ chối lời mời tự nhiên nhất — lịch đã cố định." },
+                { "w": "I'm staying", "vi": "tôi ở lại", "ex": "I'm staying with friends.", "exvi": "Tôi ở nhà bạn." },
+                { "w": "I'm getting", "vi": "tôi đang dần", "ex": "I'm getting used to it.", "exvi": "Tôi đang quen dần. Xem [Khung 86]." },
+                { "w": "I'm just looking", "vi": "tôi xem thôi", "ex": "I'm just looking, thanks.", "exvi": "Tôi xem thôi, cảm ơn em." },
+                { "w": "always + V-ing", "vi": "toàn là, cứ", "ex": "He's always losing his keys.", "exvi": "Anh ấy toàn làm mất chìa khóa.", "note": "Khác hẳn <i>always</i> ở hiện tại đơn — đây là lời THAN PHIỀN." },
+                { "w": "How's it going?", "vi": "dạo này thế nào?", "ex": "How's it going?", "exvi": "Dạo này thế nào? Xem [Khung 76]." }
+              ]
+            },
+            {
+              "title": "Động từ TRẠNG THÁI — không dùng tiếp diễn",
+              "items": [
+                { "w": "know", "vi": "biết", "ex": "I know what you mean.", "exvi": "Tôi hiểu ý bạn.", "note": "BẪY SỐ MỘT: <i>I'm knowing</i> ✗ — lỗi kinh điển nhất của nhóm này." },
+                { "w": "understand", "vi": "hiểu", "ex": "I understand now.", "exvi": "Giờ thì tôi hiểu rồi.", "note": "<i>I'm understanding</i> ✗." },
+                { "w": "want", "vi": "muốn", "ex": "I want to go home.", "exvi": "Tôi muốn về nhà.", "note": "<i>I'm wanting</i> ✗ — sai rất phổ biến." },
+                { "w": "need", "vi": "cần", "ex": "I need a bigger size.", "exvi": "Tôi cần cỡ to hơn.", "note": "<i>I'm needing</i> ✗." },
+                { "w": "like / love / hate", "vi": "thích / yêu / ghét", "ex": "I love this song.", "exvi": "Tôi mê bài này.", "note": "<i>I'm loving</i> chỉ có trong quảng cáo, không phải tiếng Anh chuẩn." },
+                { "w": "believe", "vi": "tin", "ex": "I believe he's right.", "exvi": "Tôi tin anh ấy đúng. Xem [Khung 43]." },
+                { "w": "own / belong to", "vi": "sở hữu / thuộc về", "ex": "It belongs to her.", "exvi": "Nó là của cô ấy.", "note": "<i>It's belonging</i> ✗." },
+                { "w": "seem", "vi": "có vẻ", "ex": "It seems fine.", "exvi": "Có vẻ ổn. Xem [Khung 44]." },
+                { "w": "mean", "vi": "có nghĩa là", "ex": "What does that mean?", "exvi": "Cái đó nghĩa là gì?", "note": "Nhưng <i>I've been meaning to call</i> ✓ — nghĩa khác hẳn: vẫn định làm." },
+                { "w": "have (sở hữu)", "vi": "có", "ex": "I have a car.", "exvi": "Tôi có một chiếc xe.", "note": "BẪY SỐ HAI: nghĩa SỞ HỮU thì không tiếp diễn. <i>I'm having a car</i> ✗." },
+                { "w": "have (hành động)", "vi": "ăn, uống, trải qua", "ex": "I'm having lunch.", "exvi": "Tôi đang ăn trưa.", "note": "Cùng từ <i>have</i> nhưng nghĩa HÀNH ĐỘNG thì tiếp diễn bình thường." },
+                { "w": "think (quan điểm)", "vi": "cho rằng", "ex": "I think it's fine.", "exvi": "Tôi thấy ổn mà.", "note": "Nhưng <i>I'm thinking about it</i> ✓ — nghĩa CÂN NHẮC thì tiếp diễn được. Xem [Khung 41]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I<b>'m knowing</b> what you mean.", "right": "I <b>know</b> what you mean.", "why": "BẪY SỐ MỘT. Động từ TRẠNG THÁI (<i>know, understand, want, need, like, believe, own, seem</i>) không có dạng tiếp diễn." },
+            { "wrong": "I<b>'m needing</b> a bigger size.", "right": "I <b>need</b> a bigger size.", "why": "Cùng luật. <i>need</i> mô tả trạng thái, không phải hành động đang diễn ra." },
+            { "wrong": "I'm having <b>a car</b>.", "right": "I <b>have</b> a car.", "why": "BẪY SỐ HAI: <i>have</i> nghĩa SỞ HỮU không tiếp diễn. Nhưng <i>I'm having lunch</i> ✓ vì đó là hành động." },
+            { "wrong": "I <b>am work</b> here.", "right": "I <b>am working</b> here.", "why": "Thiếu đuôi <b>-ing</b>. Cấu trúc đầy đủ là <i>be + V-ing</i>, không được bỏ nửa nào." },
+            { "wrong": "I <b>working</b> here.", "right": "I <b>am working</b> here.", "why": "Thiếu động từ <b>be</b>. Tiếng Việt không có từ này nên rất dễ rơi mất." },
+            { "wrong": "He is <b>siting</b> there.", "right": "He is <b>sitting</b> there.", "why": "1 nguyên âm + 1 phụ âm và nhấn âm cuối thì GẤP ĐÔI phụ âm: <i>sit → sitting</i>." },
+            { "wrong": "She is <b>makeing</b> dinner.", "right": "She is <b>making</b> dinner.", "why": "Tận cùng <b>-e</b> câm thì BỎ <i>e</i> rồi mới thêm <i>-ing</i>." },
+            { "wrong": "The train <b>is leaving</b> at six. <i>(theo lịch trình)</i>", "right": "The train <b>leaves</b> at six.", "why": "Lịch trình tàu xe, rạp phim dùng HIỆN TẠI ĐƠN. Xem [Ngữ pháp 01]." },
+            { "wrong": "What <b>will you do</b> on Saturday? <i>(để mời)</i>", "right": "What <b>are you doing</b> on Saturday?", "why": "Hỏi lịch ĐÃ CHỐT thì dùng tiếp diễn. <i>will</i> nghe như bắt người ta dự đoán tương lai." },
+            { "wrong": "We're moving <b>in next month</b>.", "right": "We're moving <b>next month</b>.", "why": "Không có giới từ trước <i>next / last / this</i>: <i>next month</i>, <i>last week</i>, <i>this Friday</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Dùng khi", "Ví dụ"],
+          "rows": [
+            ["<code>am/is/are + V-ing</code>", "Đang xảy ra lúc này", "I'm having lunch right now."],
+            ["<code>am/is/are + V-ing + giờ</code>", "Lịch ĐÃ CHỐT. Xem [Khung 92]", "I'm meeting him at six."],
+            ["<code>Hiện tại đơn</code>", "Thói quen, sự thật, lịch trình. Xem [Ngữ pháp 01]", "I have lunch at twelve every day."],
+            ["<code>be going to + V</code>", "Ý định, chưa chốt. Xem [Khung 91]", "I'm going to meet him."],
+            ["<code>will + V</code>", "Quyết định ngay lúc nói", "OK, I'll meet him."],
+            ["<code>be about to + V</code>", "Sắp xảy ra trong vài phút", "I'm about to leave."],
+            ["<code>have been + V-ing</code>", "Kéo dài đến giờ. Xem [Khung 94]", "I've been waiting for an hour."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: tiếp diễn hay hiện tại đơn?" },
+        {
+          "t": "tree",
+          "q": "Động từ của bạn thuộc loại nào, và việc đó xảy ra khi nào?",
+          "nodes": [
+            { "if": "Động từ chỉ trạng thái (know, want, need, like, own)", "then": "Hiện tại đơn — bắt buộc", "ex": "I know what you mean." },
+            { "if": "Hành động đang diễn ra ngay lúc nói", "then": "Hiện tại tiếp diễn", "ex": "I'm having lunch right now." },
+            { "if": "Chỉ tạm thời, tuần này hoặc dạo này", "then": "Hiện tại tiếp diễn", "ex": "I'm working from home this week." },
+            { "if": "Thói quen lặp lại, luôn như vậy", "then": "Hiện tại đơn", "ex": "I work in an office." },
+            { "if": "Cuộc hẹn riêng đã chốt giờ, chốt người", "then": "Hiện tại tiếp diễn", "ex": "I'm meeting him at six." },
+            { "if": "Lịch trình tàu xe, rạp phim, giờ mở cửa", "then": "Hiện tại đơn", "ex": "The train leaves at six." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ tạm thời" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I work in an office.", "vi": "Lâu dài nhất — đó là công việc của tôi" },
+            { "en": "I'm working in Hanoi this year.", "vi": "Một năm — khá dài nhưng vẫn tạm" },
+            { "en": "I'm working from home this week.", "vi": "Một tuần" },
+            { "en": "I'm working late today.", "vi": "Hôm nay thôi" },
+            { "en": "I'm working right now.", "vi": "Ngay giây phút này" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Hiện tại tiếp diễn là xương sống của những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 92, "why": "Nhánh tương lai đã chốt — I'm meeting him at six, và cả danh sách động từ trạng thái." },
+            { "id": 91, "why": "So sánh trực tiếp với be going to: ý định và lịch đã chốt khác nhau thế nào." },
+            { "id": 94, "why": "have been V-ing — tiếp diễn kéo dài từ quá khứ đến hiện tại." },
+            { "id": 86, "why": "I'm getting used to it — be getting + tính từ, nhánh xu hướng đang đổi." },
+            { "id": 76, "why": "How's it going? — câu hỏi thăm dùng tiếp diễn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ trong ngoặc" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi đang ăn trưa.", "blank": "I __________ (have) lunch right now.", "a": "am having" },
+            { "vi": "Anh ấy đang ngồi đằng kia.", "blank": "He is __________ (sit) over there.", "a": "sitting (gấp đôi phụ âm)" },
+            { "vi": "Cô ấy đang nấu bữa tối.", "blank": "She is __________ (make) dinner.", "a": "making (bỏ e câm)" },
+            { "vi": "Trời đang mưa.", "blank": "Look! It __________ (rain).", "a": "is raining" },
+            { "vi": "Tôi hiểu ý bạn.", "blank": "I __________ (know) what you mean.", "a": "know — động từ trạng thái, không tiếp diễn" },
+            { "vi": "Tháng sau nhà tôi chuyển đi.", "blank": "We __________ (move) next month.", "a": "are moving" },
+            { "vi": "Họ không đến họp đâu.", "blank": "They __________ (not come) to the meeting.", "a": "aren't coming" },
+            { "vi": "Tối nay bạn đến chứ?", "blank": "__________ you __________ (come) tonight?", "a": "Are … coming" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi có một chiếc xe.", "blank": "I __________ a car.  (have / am having)", "a": "have — nghĩa sở hữu nên không tiếp diễn" },
+            { "vi": "Tàu chạy lúc sáu giờ.", "blank": "The train __________ at six.  (leaves / is leaving)", "a": "leaves — lịch trình cố định dùng hiện tại đơn" },
+            { "vi": "Cuối tuần này bạn có lịch gì?", "blank": "What __________ this weekend?  (will you do / are you doing)", "a": "are you doing — hỏi lịch đã chốt" },
+            { "vi": "Tôi cần cỡ to hơn.", "blank": "I __________ a bigger size.  (need / am needing)", "a": "need — động từ trạng thái" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi đang ăn trưa — gọi lại sau nhé?", "a": "I'm having lunch — can I call you back?" },
+            { "vi": "2. Mười giờ tôi có hẹn với khách.", "a": "I'm meeting the client at ten." },
+            { "vi": "3. Dạo này tôi không ăn thịt.", "a": "I'm not eating meat at the moment." },
+            { "vi": "4. Anh ấy toàn làm mất chìa khóa.", "a": "He's always losing his keys." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Học thuộc danh sách trạng thái:</b> know, understand, want, need, like, love, believe, own, belong, seem. Mười từ này không bao giờ có <i>-ing</i>.",
+            "<b>Cặp <i>have</i> phải nhớ:</b> <i>I have a car</i> (sở hữu) nhưng <i>I'm having lunch</i> (hành động).",
+            "<b>Đủ hai nửa:</b> <i>be</i> + <i>V-ing</i>. Thiếu nửa nào cũng sai — người Việt hay rơi mất chữ <i>am/is/are</i>.",
+            "<b>Có mốc thời gian tương lai thì đó là lịch đã chốt:</b> <i>I'm meeting him <b>at six</b></i>. Xem [Khung 92].",
+            "<b><i>always</i> + tiếp diễn là lời than phiền</b>, không phải đếm tần suất: <i>He's always losing his keys.</i>",
+            "<b>Bài tập 3 phút:</b> viết ba việc bạn đang làm lúc này và ba cuộc hẹn đã chốt trong tuần — cùng một cấu trúc, hai nghĩa khác nhau."
+          ]
+        }
+      ]
+    }
+  ]
+}

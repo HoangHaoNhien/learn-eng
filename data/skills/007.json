@@ -1,0 +1,862 @@
+{
+ "id": 7,
+ "group": "Nhóm 2 · Nghe — vì sao nghe không ra",
+ "title": "Nối âm — an apple nghe thành “anapple”",
+ "subtitle": "Người bản ngữ không nói từng từ rời mà nối chúng thành một chuỗi liền. Bạn biết hết các từ trong câu mà vẫn nghe không ra, vì ranh giới từ bạn chờ nghe thì không tồn tại trong lời nói thật.",
+ "meaning": "Nối từ cuối sang từ sau thành chuỗi liền",
+ "rule": [
+  "Phụ âm cuối + nguyên âm đầu → <em>nhảy sang</em> từ sau",
+  "Nguyên âm + nguyên âm → chèn <em>/w/</em> hoặc <em>/j/</em>",
+  "Hai phụ âm giống nhau → phát <em>một lần</em>, kéo dài"
+ ],
+ "tags": [
+  {
+   "text": "Mức độ: then chốt cho nghe",
+   "hot": true
+  },
+  {
+   "text": "an apple → “anapple”"
+  },
+  {
+   "text": "Ranh giới từ không có thật"
+  },
+  {
+   "text": "Ảnh hưởng: rất lớn"
+  }
+ ],
+ "frames": [
+  11,
+  19,
+  72,
+  76,
+  80
+ ],
+ "sections": [
+  {
+   "title": "Quy tắc cốt lõi",
+   "blocks": [
+    {
+     "t": "p",
+     "html": "Tiếng Việt là ngôn ngữ <b>đơn âm tách rời</b> — mỗi tiếng một khối, có khoảng ngắt rõ. Tiếng Anh thì nói thành <b>chuỗi liền</b>, và chỗ ngắt nằm ở <b>cụm ý</b> chứ không phải ở từng từ. Đây là lý do số một khiến người Việt nghe không ra dù biết hết từ."
+    },
+    {
+     "t": "callout",
+     "html": "<b>BẪY SỐ MỘT — chờ nghe ranh giới từ:</b><br>Bạn nghe <i>an apple</i> và chờ hai khối “an” + “apple”. Người bản ngữ nói <b>“a-napple”</b> — chữ <i>n</i> nhảy sang từ sau.<br>• <i>Can I</i> → <b>“ca-nai”</b> · <i>How's it</i> → <b>“how-zit”</b> · <i>Have a</i> → <b>“ha-va”</b><br>Não bạn đi tìm “can” rồi “I”, nhưng cái phát ra là “ca” rồi “nai”. <b>Không khớp</b> nên bạn tưởng mình chưa học từ đó.<br>Và vì chính bạn cũng nói tách rời, người nghe thấy giọng bạn giống <b>đang đọc chính tả</b>."
+    },
+    {
+     "t": "callout",
+     "html": "<b>BẪY SỐ HAI — hai phụ âm giống nhau bị tưởng là mất một:</b><br><i>bus stop</i> → <b>“bu-stop”</b> (một /s/ kéo dài, không phải hai)<br><i>last time</i> → <b>“las-time”</b> · <i>big girl</i> → <b>“bi-girl”</b><br>Người Việt nghe thế thì tưởng người nói <b>nuốt mất một từ</b>. Thực ra âm vẫn còn — nó chỉ <b>dài ra</b> thay vì lặp lại hai lần."
+    },
+    {
+     "t": "h3",
+     "text": "Ba kiểu nối"
+    },
+    {
+     "t": "table",
+     "head": [
+      "Kiểu",
+      "Luật",
+      "Ví dụ"
+     ],
+     "rows": [
+      [
+       "Phụ âm → nguyên âm",
+       "Phụ âm <b>nhảy sang</b> từ sau",
+       "an apple → “a-napple”"
+      ],
+      [
+       "Nguyên âm → nguyên âm",
+       "Chèn <b>/w/</b> hoặc <b>/j/</b> vào giữa",
+       "go out → “go-wout”"
+      ],
+      [
+       "Phụ âm giống nhau",
+       "Phát <b>một lần</b>, kéo dài",
+       "bus stop → “bu-stop”"
+      ],
+      [
+       "Phụ âm khác nhau",
+       "Giữ cả hai, bật rất nhẹ",
+       "good night"
+      ]
+     ]
+    },
+    {
+     "t": "p",
+     "html": "Kiểu thứ nhất chiếm phần lớn và cũng dễ tập nhất — chỉ cần <b>đừng dừng lại</b> sau phụ âm cuối [Kỹ năng 01]."
+    }
+   ]
+  },
+  {
+   "title": "Bảng chia đầy đủ",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "Viết là",
+      "Nghe thành",
+      "Vì sao"
+     ],
+     "rows": [
+      [
+       "an apple",
+       "“a-napple”",
+       "/n/ nhảy sang nguyên âm"
+      ],
+      [
+       "Can I…?",
+       "“ca-nai”",
+       "/n/ nhảy sang"
+      ],
+      [
+       "How's it going?",
+       "“how-zit going”",
+       "/z/ nhảy sang"
+      ],
+      [
+       "Have a good day",
+       "“ha-va good day”",
+       "/v/ nhảy sang"
+      ],
+      [
+       "pick it up",
+       "“pi-ki-tup”",
+       "hai lần nối liên tiếp"
+      ],
+      [
+       "look after",
+       "“loo-kafter”",
+       "/k/ nhảy sang"
+      ],
+      [
+       "turn it on",
+       "“tur-ni-ton”",
+       "chuỗi ba từ nối liền"
+      ],
+      [
+       "go out",
+       "“go-<b>w</b>out”",
+       "nguyên âm tròn môi → chèn /w/"
+      ],
+      [
+       "she asked",
+       "“she-<b>y</b>asked”",
+       "nguyên âm /iː/ → chèn /j/"
+      ],
+      [
+       "bus stop",
+       "“bu-stop”",
+       "hai /s/ → một /s/ dài"
+      ],
+      [
+       "last time",
+       "“las-time”",
+       "hai /t/ → một /t/"
+      ],
+      [
+       "good night",
+       "“good-night”",
+       "hai phụ âm khác → giữ cả hai"
+      ]
+     ]
+    },
+    {
+     "t": "callout",
+     "html": "<b>Mẹo tập nhanh nhất:</b> viết câu ra giấy rồi <b>vẽ lại ranh giới</b> theo âm, không theo chữ:<br><i>Can I have a look at it?</i> → <b>“Ca-nai ha-va loo-ka-tit?”</b><br>Đọc theo cách chia mới này vài lần, tai bạn sẽ bắt đầu nghe ra chúng trong lời nói thật."
+    },
+    {
+     "t": "h3",
+     "text": "Mười hai ví dụ song ngữ"
+    },
+    {
+     "t": "ex",
+     "items": [
+      {
+       "en": "Can I get a coffee?",
+       "vi": "Cho tôi một ly cà phê?",
+       "note": "BẪY SỐ MỘT: “ca-nai ge-ta coffee”. Xem [Khung 19]."
+      },
+      {
+       "en": "How's it going?",
+       "vi": "Dạo này sao rồi?",
+       "note": "“how-zit going” — /z/ nhảy sang <i>it</i>. Xem [Khung 76]."
+      },
+      {
+       "en": "Have a good day!",
+       "vi": "Chúc một ngày tốt lành!",
+       "note": "“ha-va good day”. Xem [Khung 80]."
+      },
+      {
+       "en": "Nice to meet you.",
+       "vi": "Rất vui được gặp bạn.",
+       "note": "“nai-stə-mee-chu” — có cả nối và biến âm. Xem [Kỹ năng 08]."
+      },
+      {
+       "en": "Could you help me out?",
+       "vi": "Bạn giúp tôi một tay được không?",
+       "note": "“hel-pmi-yout”. Xem [Khung 11]."
+      },
+      {
+       "en": "Turn it on, please.",
+       "vi": "Bật nó lên giúp mình.",
+       "note": "“tur-ni-ton” — ba từ thành một chuỗi. Xem [Ngữ pháp 55]."
+      },
+      {
+       "en": "I'll pick it up at six.",
+       "vi": "Sáu giờ tôi lấy nó.",
+       "note": "“pi-ki-tup” — hai lần nối liên tiếp."
+      },
+      {
+       "en": "Could you look after my dog?",
+       "vi": "Trông hộ con chó của mình nhé?",
+       "note": "“loo-kafter” — /k/ nhảy sang."
+      },
+      {
+       "en": "Let's go out tonight.",
+       "vi": "Tối nay đi chơi đi.",
+       "note": "“go-<b>w</b>out” — hai nguyên âm nên chèn /w/."
+      },
+      {
+       "en": "She asked me twice.",
+       "vi": "Cô ấy hỏi tôi hai lần.",
+       "note": "“she-<b>y</b>asked” — chèn /j/ sau âm /iː/."
+      },
+      {
+       "en": "I'll wait at the bus stop.",
+       "vi": "Tôi đợi ở điểm xe buýt.",
+       "note": "BẪY SỐ HAI: “bu-stop” — một /s/ kéo dài."
+      },
+      {
+       "en": "I saw him last time.",
+       "vi": "Lần trước tôi gặp anh ấy.",
+       "note": "“las-time” — hai /t/ gộp thành một."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Khi nào cần để ý nhất",
+   "blocks": [
+    {
+     "t": "cards",
+     "items": [
+      {
+       "icon": "🎧",
+       "title": "Nghe phim, podcast",
+       "text": "Đây là lý do số một bạn nghe không kịp."
+      },
+      {
+       "icon": "☕",
+       "title": "Gọi món, mua hàng",
+       "text": "<i>Can I get a…</i> Xem [Khung 19]."
+      },
+      {
+       "icon": "👋",
+       "title": "Chào hỏi hằng ngày",
+       "text": "<i>How's it going?</i> Xem [Khung 76]."
+      },
+      {
+       "icon": "🙋",
+       "title": "Nhờ vả",
+       "text": "<i>Could you help me out?</i> Xem [Khung 11]."
+      },
+      {
+       "icon": "📱",
+       "title": "Phrasal verb",
+       "text": "<i>turn it on</i>, <i>pick it up</i> — nối dày nhất."
+      },
+      {
+       "icon": "🚫",
+       "title": "Đừng làm…",
+       "text": "Đừng tách rời từng từ — nghe như đọc chính tả."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Dấu hiệu nhận biết & từ hay gặp",
+   "blocks": [
+    {
+     "t": "p",
+     "html": "Chọn một cụm ở cột trái để xem nó <b>nghe thành</b> cái gì trong lời nói thật."
+    },
+    {
+     "t": "words",
+     "groups": [
+      {
+       "title": "Phụ âm nhảy sang nguyên âm",
+       "items": [
+        {
+         "w": "Can I → “ca-nai”",
+         "vi": "tôi… được không",
+         "ex": "Can I get a coffee?",
+         "exvi": "Cho tôi ly cà phê? Xem [Khung 19]."
+        },
+        {
+         "w": "How's it → “how-zit”",
+         "vi": "nó thế nào",
+         "ex": "How's it going?",
+         "exvi": "Dạo này sao rồi? Xem [Khung 76]."
+        },
+        {
+         "w": "Have a → “ha-va”",
+         "vi": "chúc…",
+         "ex": "Have a good day!",
+         "exvi": "Chúc ngày tốt lành! Xem [Khung 80]."
+        },
+        {
+         "w": "an apple → “a-napple”",
+         "vi": "một quả táo",
+         "ex": "I had an apple.",
+         "exvi": "Tôi ăn một quả táo.",
+         "note": "Ví dụ kinh điển của luật nối."
+        },
+        {
+         "w": "look after → “loo-kafter”",
+         "vi": "trông nom",
+         "ex": "Could you look after my dog?",
+         "exvi": "Trông hộ con chó nhé?"
+        },
+        {
+         "w": "turn it on → “tur-ni-ton”",
+         "vi": "bật nó lên",
+         "ex": "Turn it on, please.",
+         "exvi": "Bật nó lên giúp mình. Xem [Ngữ pháp 55]."
+        },
+        {
+         "w": "pick it up → “pi-ki-tup”",
+         "vi": "lấy nó lên",
+         "ex": "I'll pick it up at six.",
+         "exvi": "Sáu giờ tôi lấy."
+        },
+        {
+         "w": "help me out → “hel-pmi-yout”",
+         "vi": "giúp một tay",
+         "ex": "Could you help me out?",
+         "exvi": "Giúp tôi một tay nhé? Xem [Khung 11]."
+        },
+        {
+         "w": "a lot of → “a-lo-tof”",
+         "vi": "rất nhiều",
+         "ex": "There were a lot of people.",
+         "exvi": "Đông người lắm."
+        },
+        {
+         "w": "What is it → “wha-ti-zit”",
+         "vi": "cái gì vậy",
+         "ex": "What is it?",
+         "exvi": "Cái gì vậy?"
+        },
+        {
+         "w": "think about → “thin-kabout”",
+         "vi": "nghĩ về",
+         "ex": "I'll think about it.",
+         "exvi": "Để tôi cân nhắc."
+        },
+        {
+         "w": "It's a → “i-tsa”",
+         "vi": "đó là một",
+         "ex": "It's a good idea.",
+         "exvi": "Đó là ý hay. Xem [Khung 41]."
+        }
+       ]
+      },
+      {
+       "title": "Chèn /w/ /j/ và gộp phụ âm giống nhau",
+       "items": [
+        {
+         "w": "go out → “go-wout”",
+         "vi": "ra ngoài",
+         "ex": "Let's go out tonight.",
+         "exvi": "Tối nay đi chơi đi.",
+         "note": "Nguyên âm tròn môi (/əʊ/ /uː/) thì chèn <b>/w/</b>."
+        },
+        {
+         "w": "do it → “do-wit”",
+         "vi": "làm nó",
+         "ex": "I'll do it later.",
+         "exvi": "Lát tôi làm."
+        },
+        {
+         "w": "who is → “who-wiz”",
+         "vi": "ai là",
+         "ex": "Who is it?",
+         "exvi": "Ai đấy?"
+        },
+        {
+         "w": "she asked → “she-yasked”",
+         "vi": "cô ấy đã hỏi",
+         "ex": "She asked me twice.",
+         "exvi": "Cô ấy hỏi tôi hai lần.",
+         "note": "Nguyên âm /iː/ /aɪ/ thì chèn <b>/j/</b>."
+        },
+        {
+         "w": "I am → “ai-yam”",
+         "vi": "tôi là",
+         "ex": "I am ready.",
+         "exvi": "Tôi sẵn sàng rồi."
+        },
+        {
+         "w": "the end → “the-yend”",
+         "vi": "đoạn cuối",
+         "ex": "I missed the end.",
+         "exvi": "Tôi lỡ mất đoạn cuối."
+        },
+        {
+         "w": "bus stop → “bu-stop”",
+         "vi": "điểm xe buýt",
+         "ex": "I'll wait at the bus stop.",
+         "exvi": "Tôi đợi ở điểm buýt.",
+         "note": "BẪY SỐ HAI: một /s/ KÉO DÀI, không phải mất một từ."
+        },
+        {
+         "w": "last time → “las-time”",
+         "vi": "lần trước",
+         "ex": "I saw him last time.",
+         "exvi": "Lần trước tôi gặp anh ấy."
+        },
+        {
+         "w": "big girl → “bi-girl”",
+         "vi": "cô bé lớn",
+         "ex": "She's a big girl now.",
+         "exvi": "Giờ nó lớn rồi."
+        },
+        {
+         "w": "some more → “so-more”",
+         "vi": "thêm nữa",
+         "ex": "Would you like some more?",
+         "exvi": "Bạn dùng thêm chút nữa nhé?"
+        },
+        {
+         "w": "good night → “good-night”",
+         "vi": "chúc ngủ ngon",
+         "ex": "Have a good night.",
+         "exvi": "Chúc ngủ ngon.",
+         "note": "Hai phụ âm KHÁC nhau thì giữ cả hai, bật rất nhẹ. Xem [Khung 80]."
+        },
+        {
+         "w": "nice to meet you",
+         "vi": "rất vui được gặp bạn",
+         "ex": "Nice to meet you.",
+         "exvi": "Rất vui được gặp bạn.",
+         "note": "“nai-stə-mee-chu” — vừa nối vừa biến âm. Xem [Kỹ năng 08]."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "BẪY người Việt hay mắc",
+   "blocks": [
+    {
+     "t": "pairs",
+     "items": [
+      {
+       "wrong": "Nghe <b>“ca-nai”</b> rồi tìm từ <b>“canai”</b> trong trí nhớ",
+       "right": "Đó là <b>Can I</b> — /n/ nhảy sang <i>I</i>",
+       "why": "BẪY SỐ MỘT: ranh giới từ bạn chờ nghe không tồn tại trong lời nói thật."
+      },
+      {
+       "wrong": "Nói <b>“Can / I / get / a / coffee”</b> tách rời",
+       "right": "<b>“Ca-nai ge-ta coffee”</b>",
+       "why": "Tách rời nghe như đang đọc chính tả, và làm chính bạn khó nghe lại người khác."
+      },
+      {
+       "wrong": "Nghe <b>“bu-stop”</b> rồi tưởng người ta nuốt mất một từ",
+       "right": "<b>bus stop</b> — một /s/ kéo dài",
+       "why": "BẪY SỐ HAI: âm không mất, nó chỉ dài ra thay vì lặp hai lần."
+      },
+      {
+       "wrong": "Nói <b>“bus … stop”</b> tách rõ hai /s/",
+       "right": "<b>“bu-stop”</b>",
+       "why": "Lặp lại hai lần nghe rất cứng, không ai nói vậy."
+      },
+      {
+       "wrong": "Nghe <b>“how-zit”</b> mà không ra <i>How's it</i>",
+       "right": "<b>How's it going?</b>",
+       "why": "/z/ của <i>How's</i> nhảy sang <i>it</i>. Xem [Khung 76]."
+      },
+      {
+       "wrong": "Nói <b>“turn / it / on”</b> ba khối rời",
+       "right": "<b>“tur-ni-ton”</b>",
+       "why": "Phrasal verb có đại từ là chỗ nối dày nhất. Xem [Ngữ pháp 55]."
+      },
+      {
+       "wrong": "Nói <b>“go ... out”</b> có khoảng ngắt",
+       "right": "<b>“go-wout”</b>",
+       "why": "Hai nguyên âm gặp nhau thì tiếng Anh chèn /w/ cho trơn, không để hở."
+      },
+      {
+       "wrong": "Nói <b>“I ... am ready”</b>",
+       "right": "<b>“ai-yam ready”</b>",
+       "why": "Sau /aɪ/ thì chèn /j/. Để hở nghe gượng."
+      },
+      {
+       "wrong": "Dừng hẳn sau mỗi từ để phát âm cho rõ",
+       "right": "Nối liền, chỉ ngắt ở <b>cụm ý</b>",
+       "why": "Rõ từng từ không bằng đúng nhịp — người nghe bắt nhịp trước, bắt từ sau."
+      },
+      {
+       "wrong": "Nghe <b>“a-lo-tof”</b> rồi bó tay",
+       "right": "<b>a lot of</b>",
+       "why": "Ba từ rất quen, chỉ là ranh giới bị dịch chỗ."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Phân biệt với lỗi gần giống",
+   "blocks": [
+    {
+     "t": "table",
+     "head": [
+      "Cặp dễ nhầm",
+      "Khác nhau",
+      "Ví dụ"
+     ],
+     "rows": [
+      [
+       "Nối âm / nuốt âm",
+       "Âm chuyển chỗ / âm biến mất",
+       "“ca-nai” ≠ “nex week”"
+      ],
+      [
+       "Nối âm / biến âm",
+       "Nhảy sang / đổi thành âm mới",
+       "“ca-nai” ≠ “didja”"
+      ],
+      [
+       "Gộp phụ âm / mất từ",
+       "Một âm dài / thiếu hẳn",
+       "“bu-stop” vẫn đủ hai từ"
+      ],
+      [
+       "Chèn /w/ / chèn /j/",
+       "Sau nguyên âm tròn môi / sau /iː/ /aɪ/",
+       "go out ≠ she asked"
+      ],
+      [
+       "Phụ âm giống / khác nhau",
+       "Gộp / giữ cả hai",
+       "bus stop ≠ good night"
+      ],
+      [
+       "Nối trong cụm ý / giữa hai cụm",
+       "Nối liền / được phép ngắt",
+       "“ca-nai ge-ta coffee” | “please”"
+      ],
+      [
+       "Nối âm / trọng âm",
+       "Ranh giới từ / nhịp câu",
+       "Xem [Kỹ năng 05]"
+      ]
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "Sơ đồ chọn: hai từ gặp nhau thì xử lý thế nào?"
+    },
+    {
+     "t": "tree",
+     "q": "Nhìn âm CUỐI của từ trước và âm ĐẦU của từ sau.",
+     "nodes": [
+      {
+       "if": "Phụ âm gặp nguyên âm",
+       "then": "Phụ âm nhảy sang từ sau",
+       "ex": "an apple → “a-napple”"
+      },
+      {
+       "if": "Nguyên âm tròn môi gặp nguyên âm",
+       "then": "Chèn /w/",
+       "ex": "go out → “go-wout”"
+      },
+      {
+       "if": "Nguyên âm /iː/ /aɪ/ gặp nguyên âm",
+       "then": "Chèn /j/",
+       "ex": "she asked → “she-yasked”"
+      },
+      {
+       "if": "Hai phụ âm GIỐNG nhau",
+       "then": "Phát một lần, kéo dài",
+       "ex": "bus stop → “bu-stop”"
+      },
+      {
+       "if": "Hai phụ âm KHÁC nhau",
+       "then": "Giữ cả hai, bật rất nhẹ",
+       "ex": "good night"
+      },
+      {
+       "if": "Giữa hai cụm ý",
+       "then": "Được phép ngắt — đừng nối",
+       "ex": "Can I get a coffee, | please?"
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "Thang độ tự nhiên của một câu"
+    },
+    {
+     "t": "scale",
+     "items": [
+      {
+       "en": "“Can · I · get · a · coffee” — từng khối",
+       "vi": "Cứng nhất — như đọc chính tả"
+      },
+      {
+       "en": "“Can I · get a · coffee” — nối một phần",
+       "vi": "Đỡ hơn"
+      },
+      {
+       "en": "“Ca-nai ge-ta coffee” — nối đủ, chậm",
+       "vi": "Tự nhiên"
+      },
+      {
+       "en": "“Ca-nai ge-ta coffee?” — nối đủ, nhanh",
+       "vi": "Rất tự nhiên"
+      },
+      {
+       "en": "“C'nai ge-ta coffee?” — thêm dạng yếu",
+       "vi": "Như người bản ngữ. Xem [Kỹ năng 09]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Kỹ năng này dùng ở đâu",
+   "blocks": [
+    {
+     "t": "p",
+     "html": "Nối âm có trong mọi câu, nhưng rõ nhất ở những khung câu ngắn bạn dùng hằng ngày."
+    },
+    {
+     "t": "link",
+     "items": [
+      {
+       "id": 19,
+       "why": "Can I get + N? — “ca-nai ge-ta”, ba chỗ nối trong một câu gọi món."
+      },
+      {
+       "id": 76,
+       "why": "How's it going? — “how-zit going”, câu chào bị nối nhiều nhất."
+      },
+      {
+       "id": 80,
+       "why": "Have a good + N! — “ha-va good day”, câu chia tay hằng ngày."
+      },
+      {
+       "id": 11,
+       "why": "Could you + V…, please? — “cou-dyu hel-pmi”, vừa nối vừa biến âm."
+      },
+      {
+       "id": 72,
+       "why": "Nice to meet you — “nai-stə-mee-chu”, câu chào đầu tiên ai cũng nói."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Luyện tập",
+   "blocks": [
+    {
+     "t": "h3",
+     "text": "Nghe người thật nói"
+    },
+    {
+     "t": "listen",
+     "intro": "TTS đọc từng từ rất chuẩn, nhưng <b>nối âm là thứ nó không làm được</b> — máy giữ ranh giới giữa hai từ, người thật thì xóa nó đi. Tám cụm dưới đây phải nghe giọng thật mới thấy. Bấm vào một cụm để nghe hàng chục người bản ngữ nói chính cụm đó trong câu thật.",
+     "items": [
+      {
+       "en": "an apple",
+       "vi": "một quả táo",
+       "focus": "phụ âm /n/ dính sang nguyên âm → nghe thành “a-napple”",
+       "yg": "an apple",
+       "src": "youglish"
+      },
+      {
+       "en": "pick it up",
+       "vi": "nhặt nó lên",
+       "focus": "ba từ dính thành một khối — “pi-ki-tup”",
+       "yg": "pick it up",
+       "src": "youglish"
+      },
+      {
+       "en": "look at it",
+       "vi": "nhìn nó xem",
+       "focus": "/k/ và /t/ đều nối sang sau — “lu-ka-tit”",
+       "yg": "look at it",
+       "src": "youglish"
+      },
+      {
+       "en": "a lot of",
+       "vi": "rất nhiều",
+       "focus": "/t/ nối sang /ə/ — “a-lo-tov”, gần như một từ",
+       "yg": "a lot of",
+       "src": "youglish"
+      },
+      {
+       "en": "turn it off",
+       "vi": "tắt nó đi",
+       "focus": "cả hai chỗ nối — “tur-ni-toff”",
+       "yg": "turn it off",
+       "src": "youglish"
+      },
+      {
+       "en": "in an hour",
+       "vi": "trong một tiếng nữa",
+       "focus": "<i>hour</i> câm /h/ nên nối liền — “i-na-nour”",
+       "yg": "in an hour",
+       "src": "youglish"
+      },
+      {
+       "en": "far away",
+       "vi": "xa",
+       "focus": "nối bằng /r/ dù chữ r ở cuối từ trước",
+       "yg": "far away",
+       "src": "youglish"
+      },
+      {
+       "en": "go on",
+       "vi": "tiếp đi",
+       "focus": "nối bằng một âm /w/ xen vào — “go-won”",
+       "yg": "go on",
+       "src": "youglish"
+      }
+     ],
+     "more": [
+      {
+       "label": "BBC Learning English — mục phát âm",
+       "url": "https://www.bbc.co.uk/learningenglish"
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "A. Cụm này nghe thành gì?"
+    },
+    {
+     "t": "quiz",
+     "items": [
+      {
+       "vi": "tôi… được không",
+       "blank": "Can I  →  nghe thành __________",
+       "a": "“ca-nai”"
+      },
+      {
+       "vi": "dạo này sao rồi",
+       "blank": "How's it  →  nghe thành __________",
+       "a": "“how-zit”"
+      },
+      {
+       "vi": "chúc một ngày…",
+       "blank": "Have a  →  nghe thành __________",
+       "a": "“ha-va”"
+      },
+      {
+       "vi": "bật nó lên",
+       "blank": "turn it on  →  nghe thành __________",
+       "a": "“tur-ni-ton”"
+      },
+      {
+       "vi": "điểm xe buýt",
+       "blank": "bus stop  →  nghe thành __________",
+       "a": "“bu-stop” — một /s/ dài"
+      },
+      {
+       "vi": "ra ngoài",
+       "blank": "go out  →  nghe thành __________",
+       "a": "“go-wout” — chèn /w/"
+      },
+      {
+       "vi": "cô ấy đã hỏi",
+       "blank": "she asked  →  nghe thành __________",
+       "a": "“she-yasked” — chèn /j/"
+      },
+      {
+       "vi": "rất nhiều",
+       "blank": "a lot of  →  nghe thành __________",
+       "a": "“a-lo-tof”"
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "B. Nghe thấy thế này thì đó là câu gì?"
+    },
+    {
+     "t": "quiz",
+     "items": [
+      {
+       "vi": "Cho tôi ly cà phê?",
+       "blank": "“ca-nai ge-ta coffee”  →  viết lại",
+       "a": "Can I get a coffee?"
+      },
+      {
+       "vi": "Trông hộ con chó nhé?",
+       "blank": "“loo-kafter mai dog”  →  viết lại",
+       "a": "Look after my dog?"
+      },
+      {
+       "vi": "Để tôi cân nhắc.",
+       "blank": "“ai-l thin-kabou-tit”  →  viết lại",
+       "a": "I'll think about it."
+      },
+      {
+       "vi": "Lần trước tôi gặp anh ấy.",
+       "blank": "“ai sɔː him las-time”  →  viết lại",
+       "a": "I saw him last time."
+      }
+     ]
+    },
+    {
+     "t": "h3",
+     "text": "C. Đọc liền một hơi, không ngắt giữa các từ"
+    },
+    {
+     "t": "quiz",
+     "items": [
+      {
+       "vi": "1. Cho tôi một ly cà phê?",
+       "a": "Can I get a coffee?  →  “Ca-nai ge-ta coffee?”"
+      },
+      {
+       "vi": "2. Bạn giúp tôi một tay được không?",
+       "a": "Could you help me out?  →  “Cou-dyu hel-pmi-yout?”"
+      },
+      {
+       "vi": "3. Tôi đợi ở điểm xe buýt.",
+       "a": "I'll wait at the bus stop.  →  “ai-l wei-tat the bu-stop”"
+      },
+      {
+       "vi": "4. Sáu giờ tôi lấy nó.",
+       "a": "I'll pick it up at six.  →  “ai-l pi-ki-tu-pat six”"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Mẹo nhớ",
+   "blocks": [
+    {
+     "t": "list",
+     "items": [
+      "<b>Ranh giới từ trong chữ viết không có trong lời nói.</b> Tai bạn phải học cách chia lại theo âm, không theo khoảng trắng.",
+      "<b>Luật chính chiếm phần lớn:</b> phụ âm cuối gặp nguyên âm đầu thì <b>nhảy sang</b> từ sau. Chỉ cần đừng dừng lại.",
+      "<b>Hai nguyên âm gặp nhau thì có chất keo:</b> tròn môi → <b>/w/</b> (<i>go-wout</i>), âm /iː/ /aɪ/ → <b>/j/</b> (<i>she-yasked</i>).",
+      "<b>Hai phụ âm giống nhau gộp làm một âm DÀI</b> — không phải mất một từ. <i>bus stop</i> vẫn đủ hai từ.",
+      "<b>Mẹo tập:</b> viết câu rồi <b>chia lại ranh giới theo âm</b>, đọc theo cách chia mới. Tai sẽ bắt đầu nghe ra trong lời nói thật.",
+      "<b>Bài tập 2 phút:</b> lấy năm câu bạn hay dùng, viết lại dạng nối (<i>“ca-nai ge-ta coffee”</i>) rồi đọc to theo đúng cách chia đó."
+     ]
+    }
+   ]
+  }
+ ]
+}

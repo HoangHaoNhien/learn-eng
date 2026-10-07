@@ -1,0 +1,277 @@
+{
+  "id": 36,
+  "group": "Nhóm 6 · Tính từ & Trạng từ",
+  "title": "Trật tự nhiều tính từ",
+  "subtitle": "Khi có từ hai tính từ trở lên, tiếng Anh xếp chúng theo một thứ tự cố định mà người bản xứ tuân theo không cần nghĩ. Đặt sai không sai ngữ pháp nhưng nghe rất lạ — như kiểu ai đó nói tiếng Việt mà đảo trật tự từ.",
+  "meaning": "Thứ tự xếp các tính từ trước danh từ",
+  "rule": [
+    "<em>Ý kiến → Kích cỡ → Tuổi → Hình dạng → Màu → Xuất xứ → Chất liệu → Mục đích</em>",
+    "Tính từ chủ quan đứng TRƯỚC tính từ khách quan",
+    "Thực tế hiếm khi dùng quá ba tính từ"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1–B2", "hot": true },
+    { "text": "Ý kiến đứng trước" },
+    { "text": "Không dùng dấu phẩy" },
+    { "text": "Tần suất: trung bình" }
+  ],
+  "frames": [62, 81, 85, 89, 100],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Tiếng Anh có một thứ tự cố định cho tính từ. Người bản xứ không học nó, họ chỉ <b>nghe thấy sai</b> khi ai đó đảo lộn — giống như người Việt nghe <i>đỏ áo cái</i> thấy ngay là lạ." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — thứ tự tám bậc:</b><br><b>Ý kiến → Kích cỡ → Tuổi → Hình dạng → Màu → Xuất xứ → Chất liệu → Mục đích</b><br><i>a <b>nice big old round red Italian leather</b> sofa</i><br>Quy luật chung: càng <b>chủ quan</b> thì càng đứng trước, càng <b>gắn liền với bản chất</b> vật thì càng đứng gần danh từ." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — không dùng dấu phẩy giữa các loại khác nhau:</b><br>• <i>a big red car</i> ✓ — <i>a big, red car</i> ✗<br>Chỉ dùng dấu phẩy khi hai tính từ <b>cùng loại ý kiến</b>: <i>a <b>beautiful, elegant</b> dress</i> ✓." },
+        { "t": "h3", "text": "Tám bậc, có ví dụ" },
+        {
+          "t": "table",
+          "head": ["Bậc", "Loại", "Ví dụ"],
+          "rows": [
+            ["1–2", "Ý kiến · Kích cỡ", "nice, lovely, ugly · big, small, tall"],
+            ["3–4", "Tuổi · Hình dạng", "old, new, young · round, square, thin"],
+            ["5–6", "Màu · Xuất xứ", "red, black, blue · Italian, Vietnamese"],
+            ["7–8", "Chất liệu · Mục đích", "leather, wooden, plastic · running, sleeping"]
+          ]
+        },
+        { "t": "p", "html": "Thực tế rất hiếm khi dùng quá <b>ba</b> tính từ cùng lúc — câu dài hơn nghe nặng nề. Nắm được <b>thứ tự tương đối</b> giữa vài loại hay gặp là đủ dùng: <i>ý kiến trước kích cỡ, kích cỡ trước tuổi, tuổi trước màu, màu trước xuất xứ</i>." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Bậc", "Loại tính từ", "Ví dụ cụm"],
+          "rows": [
+            ["1", "Ý kiến (chủ quan)", "a <b>lovely</b> house"],
+            ["2", "Kích cỡ", "a <b>big</b> house"],
+            ["3", "Tuổi", "an <b>old</b> house"],
+            ["4", "Hình dạng", "a <b>round</b> table"],
+            ["5", "Màu sắc", "a <b>red</b> car"],
+            ["6", "Xuất xứ", "an <b>Italian</b> car"],
+            ["7", "Chất liệu", "a <b>leather</b> bag"],
+            ["8", "Mục đích", "a <b>running</b> shoe"],
+            ["Kết hợp 2", "Ý kiến + Kích cỡ", "a nice big house"],
+            ["Kết hợp 3", "Kích cỡ + Tuổi + Màu", "a big old red car"],
+            ["Kết hợp 4", "Ý kiến + Tuổi + Xuất xứ + Chất liệu", "a lovely old Italian leather bag"],
+            ["Cùng loại ý kiến", "dùng dấu phẩy", "a beautiful, elegant dress"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Mẹo nhớ bằng một câu:</b> <i>a <b>nice big old round red Italian leather riding</b> boot</i> — tám bậc trong một cụm. Không ai nói câu này ngoài đời, nhưng nó giúp bạn nhớ thứ tự." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "a nice big house", "vi": "một ngôi nhà to đẹp", "note": "Ý kiến (<i>nice</i>) đứng TRƯỚC kích cỡ (<i>big</i>)." },
+            { "en": "a big old house", "vi": "một ngôi nhà to và cũ", "note": "Kích cỡ trước tuổi." },
+            { "en": "a big red car", "vi": "một chiếc xe đỏ to", "note": "BẪY SỐ HAI: không có dấu phẩy giữa <i>big</i> và <i>red</i>." },
+            { "en": "an old Italian car", "vi": "một chiếc xe Ý cũ", "note": "Tuổi trước xuất xứ." },
+            { "en": "a lovely old Italian leather bag", "vi": "một chiếc túi da Ý cũ rất đẹp", "note": "Ý kiến → tuổi → xuất xứ → chất liệu." },
+            { "en": "a small round wooden table", "vi": "một cái bàn gỗ tròn nhỏ", "note": "Kích cỡ → hình dạng → chất liệu." },
+            { "en": "a beautiful young woman", "vi": "một cô gái trẻ đẹp", "note": "Ý kiến trước tuổi." },
+            { "en": "an expensive black leather jacket", "vi": "một chiếc áo khoác da đen đắt tiền", "note": "Ý kiến → màu → chất liệu." },
+            { "en": "a comfortable old armchair", "vi": "một chiếc ghế bành cũ êm ái", "note": "Ý kiến trước tuổi." },
+            { "en": "a beautiful, elegant dress", "vi": "một chiếc váy đẹp và thanh lịch", "note": "Hai tính từ CÙNG LOẠI ý kiến thì CÓ dấu phẩy." },
+            { "en": "new running shoes", "vi": "giày chạy bộ mới", "note": "Tuổi trước mục đích. <i>running</i> ở đây là mục đích, không phải V-ing." },
+            { "en": "What a lovely old house!", "vi": "Ngôi nhà cũ đẹp quá!", "note": "Câu cảm thán cũng theo đúng trật tự. Xem [Khung 89]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🏠", "title": "Mô tả nhà cửa, đồ vật", "text": "<i>a nice big old house</i>" },
+            { "icon": "🛍️", "title": "Nói về món đồ muốn mua", "text": "<i>a black leather jacket</i>" },
+            { "icon": "😍", "title": "Khen trong câu cảm thán", "text": "<i>What a lovely old house!</i> Xem [Khung 89]." },
+            { "icon": "🗺️", "title": "Mô tả nơi chốn khi chỉ đường", "text": "<i>the big red building</i> Xem [Khung 62]." },
+            { "icon": "👔", "title": "Tả trang phục", "text": "<i>an expensive black leather jacket</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Quá ba tính từ. Câu nghe nặng — tách ra làm hai câu." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Tính từ bậc 1 đến 4 — ý kiến, cỡ, tuổi, hình",
+              "items": [
+                { "w": "nice / lovely", "vi": "đẹp, dễ thương", "ex": "a nice big house", "exvi": "một ngôi nhà to đẹp", "note": "Ý KIẾN — luôn đứng đầu tiên." },
+                { "w": "beautiful", "vi": "đẹp", "ex": "a beautiful young woman", "exvi": "một cô gái trẻ đẹp" },
+                { "w": "comfortable", "vi": "êm ái, thoải mái", "ex": "a comfortable old armchair", "exvi": "một chiếc ghế bành cũ êm ái" },
+                { "w": "expensive / cheap", "vi": "đắt / rẻ", "ex": "an expensive black jacket", "exvi": "một chiếc áo khoác đen đắt tiền" },
+                { "w": "big / small", "vi": "to / nhỏ", "ex": "a big red car", "exvi": "một chiếc xe đỏ to", "note": "KÍCH CỠ — bậc 2, sau ý kiến." },
+                { "w": "huge / tiny", "vi": "khổng lồ / tí hon", "ex": "a huge old building", "exvi": "một tòa nhà cũ khổng lồ" },
+                { "w": "tall / short", "vi": "cao / thấp", "ex": "a tall thin man", "exvi": "một người đàn ông cao gầy" },
+                { "w": "old / new", "vi": "cũ / mới", "ex": "an old Italian car", "exvi": "một chiếc xe Ý cũ", "note": "TUỔI — bậc 3." },
+                { "w": "young", "vi": "trẻ", "ex": "a beautiful young woman", "exvi": "một cô gái trẻ đẹp" },
+                { "w": "ancient / modern", "vi": "cổ / hiện đại", "ex": "an ancient stone wall", "exvi": "một bức tường đá cổ" },
+                { "w": "round / square", "vi": "tròn / vuông", "ex": "a small round table", "exvi": "một cái bàn tròn nhỏ", "note": "HÌNH DẠNG — bậc 4." },
+                { "w": "thin / thick", "vi": "mỏng / dày", "ex": "a thin wooden board", "exvi": "một tấm gỗ mỏng" }
+              ]
+            },
+            {
+              "title": "Tính từ bậc 5 đến 8 — màu, xuất xứ, chất liệu, mục đích",
+              "items": [
+                { "w": "red / black / blue", "vi": "đỏ / đen / xanh", "ex": "a big red car", "exvi": "một chiếc xe đỏ to", "note": "MÀU SẮC — bậc 5." },
+                { "w": "dark blue / light green", "vi": "xanh đậm / xanh nhạt", "ex": "a dark blue suit", "exvi": "một bộ vest xanh đậm", "note": "Màu ghép coi như MỘT tính từ." },
+                { "w": "Italian / French", "vi": "Ý / Pháp", "ex": "an old Italian car", "exvi": "một chiếc xe Ý cũ", "note": "XUẤT XỨ — bậc 6, luôn viết hoa." },
+                { "w": "Vietnamese", "vi": "Việt Nam", "ex": "traditional Vietnamese food", "exvi": "món ăn Việt truyền thống" },
+                { "w": "leather", "vi": "da", "ex": "a black leather jacket", "exvi": "áo khoác da đen", "note": "CHẤT LIỆU — bậc 7, đứng sát danh từ." },
+                { "w": "wooden", "vi": "bằng gỗ", "ex": "a small wooden table", "exvi": "một cái bàn gỗ nhỏ" },
+                { "w": "plastic / metal", "vi": "nhựa / kim loại", "ex": "a cheap plastic chair", "exvi": "một cái ghế nhựa rẻ tiền" },
+                { "w": "cotton / silk", "vi": "cotton / lụa", "ex": "a white cotton shirt", "exvi": "một chiếc áo sơ mi cotton trắng" },
+                { "w": "running shoes", "vi": "giày chạy bộ", "ex": "new running shoes", "exvi": "giày chạy bộ mới", "note": "MỤC ĐÍCH — bậc 8, sát danh từ nhất." },
+                { "w": "sleeping bag", "vi": "túi ngủ", "ex": "a warm sleeping bag", "exvi": "một chiếc túi ngủ ấm" },
+                { "w": "washing machine", "vi": "máy giặt", "ex": "a new washing machine", "exvi": "một cái máy giặt mới" },
+                { "w": "dấu phẩy cùng loại", "vi": "hai tính từ cùng nhóm ý kiến", "ex": "a beautiful, elegant dress", "exvi": "một chiếc váy đẹp và thanh lịch", "note": "BẪY SỐ HAI: chỉ dùng phẩy khi CÙNG loại." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "a <b>big nice</b> house", "right": "a <b>nice big</b> house", "why": "BẪY SỐ MỘT: Ý KIẾN (<i>nice</i>) luôn đứng TRƯỚC kích cỡ (<i>big</i>)." },
+            { "wrong": "a <b>red big</b> car", "right": "a <b>big red</b> car", "why": "Kích cỡ đứng trước màu sắc." },
+            { "wrong": "an <b>Italian old</b> car", "right": "an <b>old Italian</b> car", "why": "Tuổi đứng trước xuất xứ." },
+            { "wrong": "a <b>leather black</b> jacket", "right": "a <b>black leather</b> jacket", "why": "Màu đứng trước chất liệu. Chất liệu luôn sát danh từ." },
+            { "wrong": "a <b>big, red</b> car", "right": "a <b>big red</b> car", "why": "BẪY SỐ HAI: không dùng dấu phẩy giữa hai LOẠI khác nhau." },
+            { "wrong": "a <b>wooden small round</b> table", "right": "a <b>small round wooden</b> table", "why": "Kích cỡ → hình dạng → chất liệu. Chất liệu luôn cuối cùng." },
+            { "wrong": "a <b>young beautiful</b> woman", "right": "a <b>beautiful young</b> woman", "why": "Ý kiến đứng trước tuổi." },
+            { "wrong": "<b>running new</b> shoes", "right": "<b>new running</b> shoes", "why": "Tuổi đứng trước mục đích. <i>running</i> ở đây là mục đích của đôi giày." },
+            { "wrong": "a <b>italian</b> car", "right": "an <b>Italian</b> car", "why": "Tính từ chỉ xuất xứ LUÔN viết hoa. Và trước nguyên âm thì dùng <b>an</b>. Xem [Ngữ pháp 20]." },
+            { "wrong": "What a <b>old lovely</b> house!", "right": "What a <b>lovely old</b> house!", "why": "Câu cảm thán cũng theo đúng trật tự. Xem [Khung 89]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp", "Đúng", "Vì sao"],
+          "rows": [
+            ["Ý kiến + Kích cỡ", "a nice big house", "Chủ quan trước khách quan"],
+            ["Kích cỡ + Tuổi", "a big old house", "Cỡ trước tuổi"],
+            ["Tuổi + Màu", "an old red car", "Tuổi trước màu"],
+            ["Màu + Xuất xứ", "a red Italian car", "Màu trước xuất xứ"],
+            ["Xuất xứ + Chất liệu", "an Italian leather bag", "Xuất xứ trước chất liệu"],
+            ["Chất liệu + Mục đích", "a leather riding boot", "Chất liệu trước mục đích"],
+            ["Cùng loại ý kiến", "a beautiful, elegant dress", "Dùng dấu phẩy"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ xếp thứ tự" },
+        {
+          "t": "tree",
+          "q": "Mỗi tính từ của bạn thuộc loại nào? Xếp theo thứ tự từ trên xuống.",
+          "nodes": [
+            { "if": "Là nhận xét chủ quan (nice, lovely, ugly)", "then": "Đứng ĐẦU TIÊN", "ex": "a nice…" },
+            { "if": "Nói kích cỡ (big, small, tall)", "then": "Bậc 2", "ex": "a nice big…" },
+            { "if": "Nói tuổi (old, new, young)", "then": "Bậc 3", "ex": "a nice big old…" },
+            { "if": "Nói màu (red, black)", "then": "Bậc 5", "ex": "a nice big old red…" },
+            { "if": "Nói xuất xứ (Italian, Vietnamese)", "then": "Bậc 6 — viết hoa", "ex": "…red Italian…" },
+            { "if": "Nói chất liệu hoặc mục đích", "then": "SÁT danh từ nhất", "ex": "…Italian leather sofa" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ dài của một cụm tính từ" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "a car", "vi": "Không tính từ" },
+            { "en": "a red car", "vi": "Một tính từ — tự nhiên nhất" },
+            { "en": "a big red car", "vi": "Hai tính từ — vẫn rất tự nhiên" },
+            { "en": "a nice big red car", "vi": "Ba tính từ — giới hạn thực tế" },
+            { "en": "a nice big old red Italian car", "vi": "Năm tính từ — nghe nặng, nên tách câu" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Trật tự tính từ xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 89, "why": "What a…! — câu cảm thán hay có hai tính từ liền nhau: What a lovely old house!" },
+            { "id": 85, "why": "That sounds… — tính từ sau linking verb, nền tảng của cả nhóm." },
+            { "id": 62, "why": "Where can I…? — chỉ đường hay mô tả nơi chốn bằng cụm tính từ: the big red building." },
+            { "id": 100, "why": "There is / There are — giới thiệu đồ vật kèm tính từ mô tả." },
+            { "id": 81, "why": "I'm so… — tính từ chỉ cảm xúc, nhóm ý kiến đứng đầu trong trật tự." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Xếp lại cho đúng thứ tự" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "một ngôi nhà to đẹp", "blank": "a __________ house  (big / nice)", "a": "nice big — ý kiến trước kích cỡ" },
+            { "vi": "một chiếc xe đỏ to", "blank": "a __________ car  (red / big)", "a": "big red — kích cỡ trước màu" },
+            { "vi": "một chiếc xe Ý cũ", "blank": "an __________ car  (Italian / old)", "a": "old Italian — tuổi trước xuất xứ" },
+            { "vi": "áo khoác da đen", "blank": "a __________ jacket  (leather / black)", "a": "black leather — màu trước chất liệu" },
+            { "vi": "một cô gái trẻ đẹp", "blank": "a __________ woman  (young / beautiful)", "a": "beautiful young — ý kiến trước tuổi" },
+            { "vi": "một cái bàn gỗ tròn nhỏ", "blank": "a __________ table  (wooden / small / round)", "a": "small round wooden" },
+            { "vi": "giày chạy bộ mới", "blank": "__________ shoes  (running / new)", "a": "new running — tuổi trước mục đích" },
+            { "vi": "một chiếc túi da Ý cũ rất đẹp", "blank": "a __________ bag  (leather / lovely / Italian / old)", "a": "lovely old Italian leather" }
+          ]
+        },
+        { "t": "h3", "text": "B. Có dấu phẩy hay không" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "một chiếc xe đỏ to", "blank": "a big __________ red car  (dấu phẩy / không)", "a": "không — hai loại khác nhau" },
+            { "vi": "một chiếc váy đẹp và thanh lịch", "blank": "a beautiful __________ elegant dress  (dấu phẩy / không)", "a": "có dấu phẩy — cùng loại ý kiến" },
+            { "vi": "một chiếc xe Ý", "blank": "__________ Italian car  (a / an)", "a": "an — trước nguyên âm" },
+            { "vi": "một chiếc xe Ý cũ", "blank": "an old __________ car  (italian / Italian)", "a": "Italian — xuất xứ luôn viết hoa" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Một ngôi nhà cũ to và đẹp.", "a": "a nice big old house" },
+            { "vi": "2. Một chiếc áo khoác da đen đắt tiền.", "a": "an expensive black leather jacket" },
+            { "vi": "3. Một cái bàn gỗ tròn nhỏ.", "a": "a small round wooden table" },
+            { "vi": "4. Ngôi nhà cũ đẹp quá!", "a": "What a lovely old house!" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Quy luật một dòng:</b> càng <b>chủ quan</b> thì càng đứng trước, càng <b>gắn với bản chất vật</b> thì càng sát danh từ.",
+            "<b>Ba cặp hay gặp nhất, thuộc là đủ:</b> ý kiến trước cỡ · cỡ trước tuổi · màu trước chất liệu.",
+            "<b>Chất liệu và mục đích luôn sát danh từ:</b> <i>leather <b>jacket</b></i>, <i>running <b>shoes</b></i>.",
+            "<b>Không dùng dấu phẩy giữa hai loại khác nhau</b> — chỉ dùng khi cả hai cùng là nhận xét chủ quan.",
+            "<b>Tính từ xuất xứ luôn viết hoa:</b> <i>Italian, Vietnamese, French</i>.",
+            "<b>Bài tập 3 phút:</b> chọn năm đồ vật quanh bạn, mô tả mỗi cái bằng đúng hai tính từ — rồi kiểm tra thứ tự."
+          ]
+        }
+      ]
+    }
+  ]
+}

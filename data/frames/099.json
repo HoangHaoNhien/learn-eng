@@ -1,0 +1,499 @@
+{
+  "id": 99,
+  "group": "Nhóm 10 · Kể chuyện, Kế hoạch & Thời gian",
+  "title": "It takes… — Nói mất bao nhiêu thời gian",
+  "subtitle": "Khung câu nói về thời gian cần cho một việc. Bẫy nằm ở chủ ngữ: tiếng Việt nói Tôi mất hai tiếng nên người học dịch thành I take two hours ✗. Tiếng Anh bắt buộc dùng chủ ngữ giả It. Cộng thêm cặp take và spend đi với hai dạng động từ khác nhau.",
+  "pattern": [
+    "It takes <em>+ (người) + thời gian + to V</em>.",
+    "I spend <em>+ thời gian + V-ing</em>.",
+    "How long does it take <em>+ to V</em>?"
+  ],
+  "meaning": "Mất… để…",
+  "grammar": [7, 13, 19, 20],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Bắt buộc có “It”" },
+    { "text": "take + to V / spend + V-ing" },
+    { "text": "Trình độ: A2–B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">It takes me two hours to get there.</span> Tiếng Anh dùng một chủ ngữ giả là <b>It</b> để nói về thời gian — giống như <i>It's raining</i> hay <i>It's five o'clock</i>." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT:</b> tiếng Việt nói “<b>Tôi</b> mất hai tiếng” nên người học dịch thẳng thành <i>I take two hours</i> ✗. Tiếng Anh bắt buộc là <i><b>It</b> takes <b>me</b> two hours</i> ✓ — người đứng sau động từ, không phải làm chủ ngữ." },
+        { "t": "h3", "text": "Trật tự từ phải thuộc lòng" },
+        {
+          "t": "table",
+          "head": ["Vị trí", "Thành phần", "Ví dụ"],
+          "rows": [
+            ["1", "It + takes", "It takes"],
+            ["2", "Người (có thể bỏ)", "me"],
+            ["3", "Thời gian", "two hours"],
+            ["4", "to + V trần", "to get there"]
+          ]
+        },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>take</i> và <i>spend</i>:</b><br>• <i>It <b>takes</b> me two hours <b>to get</b> there</i> — sau <i>take</i> là <b>to + V</b>.<br>• <i>I <b>spend</b> two hours <b>getting</b> there</i> — sau <i>spend</i> là <b>V-ing</b>.<br>Hai động từ, hai dạng khác nhau. Trộn lẫn là sai ngay." },
+        { "t": "p", "html": "Phần chỉ người có thể bỏ đi khi nói chung chung: <i>It takes two hours to get there</i> = ai đi cũng mất hai tiếng. Thêm <i>me</i> vào là nói riêng về bạn." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🚌", "title": "Nói thời gian đi lại", "text": "<i>It takes me twenty minutes to get to work.</i>" },
+            { "icon": "❓", "title": "Hỏi mất bao lâu", "text": "<i>How long does it take?</i>" },
+            { "icon": "🍳", "title": "Nói thời gian nấu nướng", "text": "<i>It takes about an hour to cook.</i>" },
+            { "icon": "📦", "title": "Hỏi thời gian giao hàng", "text": "<i>How long does delivery take?</i>" },
+            { "icon": "⏳", "title": "Kể việc đã tốn thời gian", "text": "<i>It took me all weekend.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Muốn nói mình dành thời gian làm gì. Lúc đó là <i>I spend… V-ing</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Chuẩn", "<code>It takes + người + time + to V.</code>", "It takes me two hours to get there."],
+            ["Nói chung", "<code>It takes + time + to V.</code>", "It takes two hours to get there."],
+            ["Quá khứ", "<code>It took + người + time + to V.</code>", "It took me all weekend."],
+            ["Tương lai", "<code>It'll take + time + to V.</code>", "It'll take about a week."],
+            ["Câu hỏi", "<code>How long does it take to V?</code>", "How long does it take to get there?"],
+            ["Câu hỏi quá khứ", "<code>How long did it take?</code>", "How long did it take you?"],
+            ["Với spend", "<code>I spend + time + V-ing.</code>", "I spend two hours getting there."],
+            ["Phủ định", "<code>It doesn't take long to V.</code>", "It doesn't take long to learn."],
+            ["Ước lượng", "<code>It takes about / around…</code>", "It takes about twenty minutes."],
+            ["Nhấn mạnh sự lâu", "<code>It takes ages to V.</code>", "It takes ages to load."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Câu hỏi hay sai nhất:</b> <i>How long does it <b>take</b>?</i> ✓ — <i>How long does it takes?</i> ✗. Đã có <i>does</i> thì động từ về dạng TRẦN, đúng luật như [Khung 96]." },
+        { "t": "callout", "html": "<b>Đừng bỏ chữ <i>It</i>:</b> <i><b>It</b> takes two hours</i> ✓ — <i>Takes two hours</i> ✗. Tiếng Anh luôn cần chủ ngữ, kể cả khi đó chỉ là chủ ngữ giả." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các dạng của khung",
+              "items": [
+                { "w": "It takes me", "vi": "tôi mất", "ex": "It takes me two hours to get there.", "exvi": "Tôi mất hai tiếng để đến đó.", "note": "BẪY SỐ MỘT: <i>I take two hours</i> ✗. Người đứng SAU động từ, không làm chủ ngữ." },
+                { "w": "It takes about", "vi": "mất khoảng", "ex": "It takes about twenty minutes.", "exvi": "Mất khoảng hai mươi phút.", "note": "<b>about</b> hoặc <b>around</b> để ước lượng — nghe tự nhiên hơn con số chính xác." },
+                { "w": "It took me", "vi": "tôi đã mất", "ex": "It took me all weekend.", "exvi": "Tôi mất cả cuối tuần.", "note": "V2 của <i>take</i> là <b>took</b>." },
+                { "w": "It'll take", "vi": "sẽ mất", "ex": "It'll take about a week.", "exvi": "Sẽ mất khoảng một tuần." },
+                { "w": "It doesn't take long", "vi": "không mất lâu đâu", "ex": "It doesn't take long to learn.", "exvi": "Học không mất lâu đâu.", "note": "Câu trấn an rất hay dùng khi hướng dẫn ai đó." },
+                { "w": "It takes ages", "vi": "mất lâu lắm", "ex": "It takes ages to load.", "exvi": "Tải lâu lắm.", "note": "<i>ages</i> = rất lâu. Khẩu ngữ, hơi than phiền." },
+                { "w": "How long does it take?", "vi": "mất bao lâu?", "ex": "How long does it take to get there?", "exvi": "Đến đó mất bao lâu?", "note": "BẪY: <b>take</b> ✓ không phải <i>takes</i> ✗, vì đã có <i>does</i>." },
+                { "w": "How long did it take?", "vi": "đã mất bao lâu?", "ex": "How long did it take you?", "exvi": "Bạn mất bao lâu?" },
+                { "w": "It only takes", "vi": "chỉ mất", "ex": "It only takes five minutes.", "exvi": "Chỉ mất năm phút thôi." },
+                { "w": "It takes time", "vi": "cần thời gian", "ex": "These things take time.", "exvi": "Những chuyện này cần thời gian.", "note": "Không có con số — nghĩa là “đừng vội”. Câu an ủi rất hay." },
+                { "w": "I spend + V-ing", "vi": "tôi dành thời gian làm", "ex": "I spend two hours getting there.", "exvi": "Tôi dành hai tiếng để đi đến đó.", "note": "BẪY SỐ HAI: sau <b>spend</b> là <b>V-ing</b>, không phải <i>to V</i>." },
+                { "w": "I spent all day", "vi": "tôi mất cả ngày", "ex": "I spent all day cleaning.", "exvi": "Tôi mất cả ngày dọn dẹp.", "note": "V2 của <i>spend</i> là <b>spent</b>, và vẫn theo sau bằng V-ing." }
+              ]
+            },
+            {
+              "title": "Từ chỉ thời lượng",
+              "items": [
+                { "w": "five minutes", "vi": "năm phút", "ex": "It only takes five minutes.", "exvi": "Chỉ mất năm phút." },
+                { "w": "half an hour", "vi": "nửa tiếng", "ex": "It takes half an hour.", "exvi": "Mất nửa tiếng.", "note": "<i>half an hour</i> ✓, không phải <i>a half hour</i> trong tiếng Anh Anh." },
+                { "w": "an hour", "vi": "một tiếng", "ex": "It takes about an hour.", "exvi": "Mất khoảng một tiếng.", "note": "Dùng <b>an</b> vì <i>hour</i> bắt đầu bằng âm nguyên âm — chữ h câm." },
+                { "w": "a couple of hours", "vi": "vài tiếng", "ex": "It takes a couple of hours.", "exvi": "Mất vài tiếng." },
+                { "w": "all day", "vi": "cả ngày", "ex": "It took all day.", "exvi": "Mất cả ngày." },
+                { "w": "all weekend", "vi": "cả cuối tuần", "ex": "It took me all weekend.", "exvi": "Tôi mất cả cuối tuần." },
+                { "w": "a few days", "vi": "vài ngày", "ex": "It takes a few days.", "exvi": "Mất vài ngày.", "note": "<b>a few</b> cho danh từ đếm được. Với không đếm được là <i>a little</i>." },
+                { "w": "up to a week", "vi": "đến một tuần", "ex": "It can take up to a week.", "exvi": "Có thể mất đến một tuần.", "note": "<b>up to</b> = tối đa là. Rất hay dùng khi báo thời gian giao hàng." },
+                { "w": "no time at all", "vi": "chẳng mất chút nào", "ex": "It takes no time at all.", "exvi": "Chẳng mất thời gian gì cả." },
+                { "w": "longer than expected", "vi": "lâu hơn dự kiến", "ex": "It took longer than expected.", "exvi": "Mất lâu hơn dự kiến." },
+                { "w": "twice as long", "vi": "lâu gấp đôi", "ex": "It takes twice as long by bus.", "exvi": "Đi xe buýt mất lâu gấp đôi.", "note": "Cấu trúc so sánh: <i>twice as + tính từ + as</i>." },
+                { "w": "the same time", "vi": "cùng khoảng thời gian", "ex": "It takes the same time either way.", "exvi": "Đi đường nào cũng mất chừng đó." }
+              ]
+            },
+            {
+              "title": "Phản ứng & nối tiếp",
+              "items": [
+                { "w": "That long?", "vi": "lâu thế cơ à?", "ex": "That long? Really?", "exvi": "Lâu thế cơ à? Thật không?" },
+                { "w": "That's quick", "vi": "nhanh đấy", "ex": "That's quick.", "exvi": "Nhanh đấy." },
+                { "w": "Is that all?", "vi": "chỉ vậy thôi à?", "ex": "Is that all? I expected worse.", "exvi": "Chỉ vậy thôi à? Mình tưởng lâu hơn." },
+                { "w": "Worth the wait", "vi": "đáng để chờ", "ex": "It's worth the wait.", "exvi": "Đáng để chờ." },
+                { "w": "I haven't got that long", "vi": "tôi không có nhiều thời gian thế", "ex": "I haven't got that long.", "exvi": "Tôi không có nhiều thời gian thế đâu." },
+                { "w": "Is there a faster way?", "vi": "có cách nhanh hơn không?", "ex": "Is there a faster way?", "exvi": "Có cách nào nhanh hơn không?" },
+                { "w": "Depends on the traffic", "vi": "còn tùy giao thông", "ex": "It depends on the traffic.", "exvi": "Còn tùy giao thông. Xem [Khung 57]." },
+                { "w": "Give or take", "vi": "xê xích chút", "ex": "Twenty minutes, give or take.", "exvi": "Hai mươi phút, xê xích chút.", "note": "Thành ngữ — nghĩa là con số gần đúng, có thể hơn kém một chút." },
+                { "w": "at a push", "vi": "cố lắm thì", "ex": "Fifteen minutes at a push.", "exvi": "Cố lắm thì mười lăm phút.", "note": "Thành ngữ kiểu Anh — nghĩa là nếu gấp gáp lắm mới làm được." },
+                { "w": "These things take time", "vi": "chuyện này cần thời gian", "ex": "These things take time.", "exvi": "Những chuyện này cần thời gian." },
+                { "w": "No rush", "vi": "không vội", "ex": "No rush at all.", "exvi": "Không vội chút nào." },
+                { "w": "Take your time", "vi": "cứ thong thả", "ex": "Take your time.", "exvi": "Bạn cứ thong thả." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "It takes me twenty minutes to get to work.",
+                  "vi": "Tôi mất hai mươi phút để đến chỗ làm.",
+                  "note": "BẪY SỐ MỘT: <i>I take twenty minutes</i> ✗. Trật tự là <b>It takes + me + thời gian + to V</b>.",
+                  "open": { "en": "How far is your commute?", "vi": "Bạn đi làm xa không?" },
+                  "reply": [
+                    { "them": "That's quick. By bus?", "themvi": "Nhanh đấy. Đi xe buýt à?", "you": "On foot, actually.", "youvi": "Thật ra là đi bộ." },
+                    { "them": "Lucky you. Mine takes an hour.", "themvi": "May cho bạn. Mình mất một tiếng.", "you": "That's a long day.", "youvi": "Vậy là ngày dài thật." }
+                  ],
+                  "close": { "en": "That's why I moved closer.", "vi": "Chính vì thế mình mới chuyển đến gần hơn." }
+                },
+                {
+                  "en": "How long does it take to get there?",
+                  "vi": "Đến đó mất bao lâu?",
+                  "note": "BẪY: <b>take</b> ✓, không phải <i>takes</i> ✗ — đã có <i>does</i> thì động từ về dạng trần.",
+                  "reply": [
+                    { "them": "About two hours, give or take.", "themvi": "Khoảng hai tiếng, xê xích chút.", "you": "Is there a faster way?", "youvi": "Có cách nào nhanh hơn không?" }
+                  ],
+                  "vars": [
+                    { "en": "How long is the journey?", "vi": "Chuyến đi mất bao lâu?" }
+                  ]
+                },
+                {
+                  "en": "It takes twice as long by bus.",
+                  "vi": "Đi xe buýt mất lâu gấp đôi.",
+                  "note": "Cấu trúc so sánh: <b>twice as + tính từ + as</b>. Ở đây <i>as</i> thứ hai được lược đi vì đã rõ.",
+                  "reply": [
+                    { "them": "Then let's take the train.", "themvi": "Vậy mình đi tàu đi.", "you": "Much better idea.", "youvi": "Ý hay hơn nhiều." }
+                  ]
+                },
+                {
+                  "en": "It took longer than expected.",
+                  "vi": "Mất lâu hơn dự kiến.",
+                  "note": "V2 của <i>take</i> là <b>took</b>.",
+                  "reply": [
+                    { "them": "What happened?", "themvi": "Chuyện gì xảy ra?", "you": "Roadworks the whole way.", "youvi": "Sửa đường suốt cả đoạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "It took me all weekend to finish it.",
+                  "vi": "Tôi mất cả cuối tuần để làm xong.",
+                  "note": "Trật tự đầy đủ: <b>It took + me + all weekend + to finish</b>. Sau <i>to</i> là động từ TRẦN.",
+                  "open": { "en": "Is the report done?", "vi": "Báo cáo xong chưa?" },
+                  "reply": [
+                    { "them": "That long? I'm sorry.", "themvi": "Lâu thế cơ à? Tôi xin lỗi.", "you": "It's fine — it's done now.", "youvi": "Không sao — giờ xong rồi." }
+                  ],
+                  "close": { "en": "I'll send it over this morning.", "vi": "Sáng nay tôi gửi." }
+                },
+                {
+                  "en": "I spent all day cleaning up the data.",
+                  "vi": "Tôi mất cả ngày dọn dẹp dữ liệu.",
+                  "note": "BẪY SỐ HAI: sau <b>spend/spent</b> là <b>V-ing</b>, không phải <i>to V</i>. So với <i>It took me all day to clean</i>.",
+                  "reply": [
+                    { "them": "Was it that messy?", "themvi": "Lộn xộn đến thế à?", "you": "You have no idea.", "youvi": "Anh/chị không tưởng tượng được đâu." }
+                  ],
+                  "vars": [
+                    { "en": "It took me all day to clean up the data.", "vi": "Tôi mất cả ngày để dọn dẹp dữ liệu." }
+                  ]
+                },
+                {
+                  "en": "It doesn't take long to learn, I promise.",
+                  "vi": "Học không mất lâu đâu, tôi hứa.",
+                  "note": "Câu trấn an rất hay khi hướng dẫn người mới.",
+                  "reply": [
+                    { "them": "That's reassuring.", "themvi": "Nghe vậy tôi yên tâm.", "you": "I'll walk you through it.", "youvi": "Tôi sẽ hướng dẫn anh/chị từng bước." }
+                  ]
+                },
+                {
+                  "en": "How long did it take you?",
+                  "vi": "Anh/chị mất bao lâu?",
+                  "note": "Câu hỏi quá khứ: <b>did it take</b> ✓, không phải <i>did it took</i> ✗.",
+                  "reply": [
+                    { "them": "About three hours.", "themvi": "Khoảng ba tiếng.", "you": "Then I'll allow four.", "youvi": "Vậy tôi tính bốn tiếng cho chắc." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "It takes about an hour to cook.",
+                  "vi": "Nấu mất khoảng một tiếng.",
+                  "note": "Dùng <b>an</b> trước <i>hour</i> vì chữ h câm — âm đầu là nguyên âm.",
+                  "reply": [
+                    { "them": "Shall we order something instead?", "themvi": "Hay mình gọi đồ về?", "you": "It's worth the wait.", "youvi": "Đáng để chờ mà." }
+                  ],
+                  "close": { "en": "I'll start now, then.", "vi": "Vậy mình nấu luôn." }
+                },
+                {
+                  "en": "How long does the food take?",
+                  "vi": "Món ăn mất bao lâu ạ?",
+                  "reply": [
+                    { "them": "Fifteen minutes at a push.", "themvi": "Cố lắm thì mười lăm phút ạ.", "you": "That's fine, thanks.", "youvi": "Vậy được, cảm ơn em." }
+                  ],
+                  "vars": [
+                    { "en": "How long will it be?", "vi": "Mất bao lâu ạ?" }
+                  ]
+                },
+                {
+                  "en": "I spend about an hour cooking every evening.",
+                  "vi": "Tối nào mình cũng dành khoảng một tiếng nấu ăn.",
+                  "note": "Sau <b>spend</b> là <b>cooking</b>, không phải <i>to cook</i> ✗.",
+                  "reply": [
+                    { "them": "That's dedication.", "themvi": "Chăm thật đấy.", "you": "I find it relaxing.", "youvi": "Mình thấy thư giãn." }
+                  ]
+                },
+                {
+                  "en": "It only takes five minutes to make.",
+                  "vi": "Làm chỉ mất năm phút thôi.",
+                  "note": "<b>only</b> đặt trước <i>takes</i> để nhấn vào sự nhanh gọn.",
+                  "reply": [
+                    { "them": "Is that all? Show me.", "themvi": "Chỉ vậy thôi à? Chỉ mình với.", "you": "Three ingredients, that's it.", "youvi": "Ba nguyên liệu, thế thôi." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "How long does delivery take?",
+                  "vi": "Giao hàng mất bao lâu ạ?",
+                  "note": "<b>take</b> dạng trần vì đã có <i>does</i>. Câu hỏi chuẩn khi mua hàng.",
+                  "reply": [
+                    { "them": "It can take up to a week.", "themvi": "Có thể mất đến một tuần ạ.", "you": "Is there an express option?", "youvi": "Có gói nhanh không em?" }
+                  ],
+                  "close": { "en": "I'll take the express one.", "vi": "Tôi lấy gói nhanh." }
+                },
+                {
+                  "en": "It'll take about a week to arrive.",
+                  "vi": "Khoảng một tuần thì hàng về ạ.",
+                  "note": "Dạng tương lai: <b>It'll take</b>, theo sau vẫn là <i>to + V trần</i>.",
+                  "reply": [
+                    { "them": "That's fine, no rush.", "themvi": "Vậy được, không vội.", "you": "We'll text you when it's in.", "youvi": "Hàng về bên em sẽ nhắn ạ." }
+                  ]
+                },
+                {
+                  "en": "It took three weeks last time.",
+                  "vi": "Lần trước mất ba tuần.",
+                  "reply": [
+                    { "them": "I'm sorry about that.", "themvi": "Em xin lỗi về chuyện đó ạ.", "you": "I just want to know what to expect.", "youvi": "Tôi chỉ muốn biết để tính trước thôi." }
+                  ],
+                  "vars": [
+                    { "en": "Last time it took three weeks.", "vi": "Lần trước phải mất ba tuần." }
+                  ]
+                },
+                {
+                  "en": "It doesn't take long to set up.",
+                  "vi": "Cài đặt không mất lâu đâu ạ.",
+                  "reply": [
+                    { "them": "Good, I'm not very technical.", "themvi": "Tốt, tôi không rành công nghệ lắm.", "you": "There's a guide in the box.", "youvi": "Trong hộp có hướng dẫn ạ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "These things take time.",
+                  "vi": "Những chuyện này cần thời gian.",
+                  "note": "Không có con số — nghĩa là “đừng vội”. Câu an ủi rất hay khi ai đó sốt ruột.",
+                  "reply": [
+                    { "them": "I know, I'm just impatient.", "themvi": "Mình biết, chỉ là mình nóng ruột.", "you": "That's understandable.", "youvi": "Chuyện đó dễ hiểu thôi." }
+                  ],
+                  "close": { "en": "Give it another month.", "vi": "Cho nó thêm một tháng nữa." }
+                },
+                {
+                  "en": "It takes ages to load.",
+                  "vi": "Tải lâu lắm.",
+                  "note": "<i>ages</i> = rất lâu. Khẩu ngữ và hơi than phiền.",
+                  "reply": [
+                    { "them": "Have you tried restarting it?", "themvi": "Bạn thử khởi động lại chưa?", "you": "Twice already.", "youvi": "Hai lần rồi." }
+                  ]
+                },
+                {
+                  "en": "It took me years to learn that.",
+                  "vi": "Mình mất nhiều năm mới học được điều đó.",
+                  "reply": [
+                    { "them": "Was it worth it?", "themvi": "Có đáng không?", "you": "Every minute.", "youvi": "Từng phút đều đáng." }
+                  ],
+                  "vars": [
+                    { "en": "I spent years learning that.", "vi": "Mình dành nhiều năm học điều đó." }
+                  ]
+                },
+                {
+                  "en": "It takes no time at all, honestly.",
+                  "vi": "Thật lòng là chẳng mất thời gian gì cả.",
+                  "reply": [
+                    { "them": "Then why have I been putting it off?", "themvi": "Vậy sao mình cứ trì hoãn mãi?", "you": "We all do that.", "youvi": "Ai chẳng thế." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Nói chuyện đi lại với đồng nghiệp mới",
+          "lines": [
+            { "speaker": "Colleague", "en": "How far is your commute?", "vi": "Anh/chị đi làm xa không?" },
+            { "speaker": "You", "me": true, "en": "It takes me twenty minutes to get to work.", "vi": "Tôi mất hai mươi phút để đến chỗ làm." },
+            { "speaker": "Colleague", "en": "That's quick. By bus?", "vi": "Nhanh đấy. Đi xe buýt à?" },
+            { "speaker": "You", "me": true, "en": "On foot. It takes twice as long by bus.", "vi": "Đi bộ. Đi xe buýt mất lâu gấp đôi." },
+            { "speaker": "Colleague", "en": "Lucky you. Mine takes an hour.", "vi": "May cho anh/chị. Tôi mất một tiếng." },
+            { "speaker": "You", "me": true, "en": "That's why I spent months looking for a flat nearby.", "vi": "Chính vì thế tôi mất mấy tháng tìm căn hộ gần đây." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Hỏi thời gian giao hàng",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "How long does delivery take?", "vi": "Giao hàng mất bao lâu ạ?" },
+            { "speaker": "Assistant", "en": "It can take up to a week.", "vi": "Có thể mất đến một tuần ạ." },
+            { "speaker": "You", "me": true, "en": "It took three weeks last time, though.", "vi": "Nhưng lần trước mất ba tuần cơ." },
+            { "speaker": "Assistant", "en": "I'm sorry about that. Express is two days.", "vi": "Em xin lỗi ạ. Gói nhanh thì hai ngày." },
+            { "speaker": "You", "me": true, "en": "And how long does it take to set up?", "vi": "Còn cài đặt mất bao lâu?" },
+            { "speaker": "Assistant", "en": "It doesn't take long — there's a guide in the box.", "vi": "Không lâu đâu ạ — trong hộp có hướng dẫn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<b>I take</b> two hours to get there.", "right": "<b>It takes me</b> two hours to get there.", "why": "BẪY SỐ MỘT. Tiếng Việt “<b>tôi</b> mất hai tiếng” kéo người học đặt <i>I</i> làm chủ ngữ. Tiếng Anh bắt buộc dùng <b>It</b>." },
+            { "wrong": "<b>Takes</b> two hours to get there.", "right": "<b>It takes</b> two hours to get there.", "why": "Không được bỏ chữ <b>It</b>. Tiếng Anh luôn cần chủ ngữ, kể cả chủ ngữ giả." },
+            { "wrong": "It takes me two hours <b>getting</b> there.", "right": "It takes me two hours <b>to get</b> there.", "why": "Sau <i>take</i> là <b>to + V trần</b>. Dạng <i>V-ing</i> chỉ dùng với <i>spend</i>." },
+            { "wrong": "I spend two hours <b>to get</b> there.", "right": "I spend two hours <b>getting</b> there.", "why": "BẪY SỐ HAI ngược lại: sau <b>spend</b> là <b>V-ing</b>. Hai động từ, hai dạng khác nhau." },
+            { "wrong": "How long does it <b>takes</b>?", "right": "How long does it <b>take</b>?", "why": "Đã có <i>does</i> thì động từ về dạng TRẦN. Cùng luật với [Khung 96]." },
+            { "wrong": "How long <b>did</b> it <b>took</b>?", "right": "How long <b>did</b> it <b>take</b>?", "why": "Cùng lỗi ở quá khứ. Chỉ <i>did</i> mang dấu quá khứ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>It takes + người + time + to V</code>", "Việc đó đòi hỏi bấy nhiêu thời gian", "It takes me two hours to get there."],
+            ["<code>I spend + time + V-ing</code>", "Tôi dành bấy nhiêu thời gian làm việc đó", "I spend two hours getting there."],
+            ["<code>It took + time + to V</code>", "Quá khứ", "It took me all weekend."],
+            ["<code>It'll take + time</code>", "Tương lai, dự tính", "It'll take about a week."],
+            ["<code>How long does it take?</code>", "Hỏi thời lượng", "How long does it take?"],
+            ["<code>I've been V-ing for…</code>", "Kéo dài đến giờ. Xem [Khung 94]", "I've been waiting for an hour."],
+            ["<code>It's + time</code>", "Nói giờ giấc, không phải thời lượng", "It's five o'clock."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ thời lượng" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "It takes no time at all.", "vi": "Nhanh nhất — chẳng mất gì" },
+            { "en": "It only takes five minutes.", "vi": "Rất nhanh" },
+            { "en": "It takes about an hour.", "vi": "Bình thường" },
+            { "en": "It takes most of the day.", "vi": "Khá lâu" },
+            { "en": "It takes ages.", "vi": "Lâu nhất — và hơi than phiền" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>It takes</b> nối thành <b>“i-TEIKS”</b> — âm /t/ cuối <i>it</i> gộp luôn vào <i>takes</i>.",
+            "<b>It takes me</b> → “i-teiks-mi”, chữ <i>me</i> lướt nhẹ, không nhấn.",
+            "<b>How long does it take</b> nói nhanh thành <b>“hau-long-də-zit-TEIK”</b> — <i>does it</i> gộp thành “də-zit”.",
+            "<b>Trọng âm rơi vào CON SỐ và ĐỘNG TỪ cuối</b>: “i-teiks-mi-<b>TUU</b>-auəz-tə-<b>GET</b>-ðeə”.",
+            "<b>an hour</b> đọc “ə-NAU-ə” — chữ h CÂM, nên dùng <i>an</i> chứ không phải <i>a</i>.",
+            "<b>to</b> trong <i>to get</i> lướt thành /tə/, gần như biến mất khi nói nhanh."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "It takes me two hours to get there.", "vi": "Luyện shadowing: “i-teiks-mi-TUU-auəz-tə-GET-ðeə”, nhấn vào TWO và GET." },
+            { "en": "How long does it take?", "vi": "Tập gộp “də-zit” thành một khối: “hau-long-də-zit-TEIK”." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi mất hai tiếng để đến đó.", "blank": "__________ takes me two hours to get there.", "a": "It (bắt buộc, không dùng “I”)" },
+            { "vi": "Tôi mất hai tiếng để đến đó.", "blank": "It takes me two hours __________ there.", "a": "to get" },
+            { "vi": "Tôi dành hai tiếng để đi đến đó.", "blank": "I spend two hours __________ there.", "a": "getting (V-ing sau “spend”)" },
+            { "vi": "Đến đó mất bao lâu?", "blank": "How long does it __________ to get there?", "a": "take (không phải “takes”)" },
+            { "vi": "Tôi mất cả cuối tuần.", "blank": "It __________ me all weekend.", "a": "took" },
+            { "vi": "Sẽ mất khoảng một tuần.", "blank": "It __________ take about a week.", "a": "'ll (will)" },
+            { "vi": "Học không mất lâu đâu.", "blank": "It __________ take long to learn.", "a": "doesn't" },
+            { "vi": "Mất khoảng một tiếng.", "blank": "It takes about __________ hour.", "a": "an (chữ h câm)" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi mất hai mươi phút để đến chỗ làm.", "a": "It takes me twenty minutes to get to work." },
+            { "vi": "2. Đến đó mất bao lâu?", "a": "How long does it take to get there?" },
+            { "vi": "3. Tôi mất cả cuối tuần để làm xong.", "a": "It took me all weekend to finish it." },
+            { "vi": "4. Tôi mất cả ngày dọn dẹp dữ liệu.", "a": "I spent all day cleaning up the data." },
+            { "vi": "5. Giao hàng mất bao lâu ạ?", "a": "How long does delivery take?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luôn bắt đầu bằng <i>It</i>.</b> Tiếng Việt nói “tôi mất”, tiếng Anh nói “nó lấy của tôi” — <i>It takes me</i>.",
+            "<b>Học thuộc trật tự:</b> It takes + người + thời gian + to V. Bốn thành phần, đúng thứ tự này.",
+            "<b>Cặp phải nhớ:</b> <i>take</i> đi với <b>to + V</b>, <i>spend</i> đi với <b>V-ing</b>.",
+            "<b>Câu hỏi bỏ chữ s:</b> <i>How long does it <b>take</b>?</i> — đã có <i>does</i> thì động từ về dạng trần.",
+            "<b>Thêm <i>about</i> hoặc <i>give or take</i></b> để nghe tự nhiên hơn con số chính xác đến từng phút.",
+            "<b>Bài tập 3 phút:</b> viết năm việc hằng ngày của bạn với <i>It takes me…</i>, rồi đổi hai câu sang dạng <i>I spend… V-ing</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

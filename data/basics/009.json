@@ -1,0 +1,120 @@
+{
+  "id": 9,
+  "title": "Hỏi và đáp với to be",
+  "teaches": ["am", "is", "are", "isn't", "aren't", "I'm", "he's", "she's", "it's", "they're", "we're", "ready", "Vietnamese", "open", "sure"],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn <b>hỏi được</b> và <b>trả lời được</b> với <code>to be</code>: <i>Are you a student?</i> — <i>Yes, I am.</i>" },
+        { "t": "callout", "html": "<b>Lại chỉ một luật:</b> <b>đảo chỗ</b> chủ ngữ và am/is/are.<br><br><i>You <b>are</b> a student.</i> → <i><b>Are</b> you a student?</i><br><i>He <b>is</b> here.</i> → <i><b>Is</b> he here?</i><br><br>Không thêm từ nào, không đổi gì khác. Chỉ đổi chỗ hai thứ cho nhau rồi thêm dấu hỏi." }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "Bài 07 — bảng <code>to be</code>, và bài 08 — cách thêm <code>not</code>. Bài này dùng cả hai: câu hỏi dựng từ bài 07, còn câu trả lời “không” dùng đúng thứ học ở bài 08." },
+        { "t": "link", "items": [
+          { "id": 7, "label": "Bài 07 — động từ to be" },
+          { "id": 8, "label": "Bài 08 — nói KHÔNG với to be" }
+        ] }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "table", "head": ["Luật", "Nghĩa là gì", "Ví dụ"], "rows": [
+          ["<b>1.</b> Đảo chỗ: <b>am/is/are</b> lên <b>trước</b> chủ ngữ", "Câu hỏi bắt đầu bằng động từ", "<i>Are you busy?</i>"],
+          ["<b>2.</b> Trả lời ngắn: <b>Yes, S + be.</b> / <b>No, S + be + not.</b>", "Phải nhắc lại chủ ngữ và động từ", "<i>Yes, I am.</i> · <i>No, I'm not.</i>"],
+          ["<b>3.</b> Câu <b>Yes</b> <b>không được</b> rút gọn", "Câu No thì rút gọn thoải mái", "<i>Yes, I am.</i> ✓ · <i>Yes, I'm.</i> ✗"]
+        ] },
+        { "t": "h3", "text": "Bảng hỏi — đáp đầy đủ" },
+        { "t": "table", "head": ["Câu hỏi", "Đáp CÓ", "Đáp KHÔNG"], "rows": [
+          ["<b>Am I</b> …?", "Yes, you are.", "No, you're not."],
+          ["<b>Are you</b> …?", "Yes, I am.", "No, I'm not."],
+          ["<b>Is he</b> …?", "Yes, he is.", "No, he's not."],
+          ["<b>Is she</b> …?", "Yes, she is.", "No, she's not."],
+          ["<b>Is it</b> …?", "Yes, it is.", "No, it's not."],
+          ["<b>Are we</b> …?", "Yes, we are.", "No, we're not."],
+          ["<b>Are they</b> …?", "Yes, they are.", "No, they're not."]
+        ] },
+        { "t": "callout", "html": "<b>Để ý chỗ đổi người:</b> ai đó hỏi <i><b>Are you</b> a student?</i> thì bạn trả lời <i>Yes, <b>I</b> am.</i> — không nhắc lại <i>you</i>.<br><br>Giống hệt tiếng Việt: hỏi <i>“<b>Bạn</b> là sinh viên à?”</i> thì đáp <i>“<b>Tôi</b> là sinh viên”</i>, chứ không đáp <i>“Bạn là sinh viên”</i>." }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "Từ câu kể sang câu hỏi" },
+        { "t": "ex", "items": [
+          { "en": "You are a student. → Are you a student?", "vi": "Bạn là sinh viên. → Bạn là sinh viên à?", "note": "Đảo <b>are</b> lên trước <b>you</b>." },
+          { "en": "He is at home. → Is he at home?", "vi": "Anh ấy ở nhà. → Anh ấy có ở nhà không?", "note": "Đảo <b>is</b> lên trước <b>he</b>." },
+          { "en": "They are busy. → Are they busy?", "vi": "Họ bận. → Họ có bận không?", "note": "Đảo <b>are</b> lên trước <b>they</b>." },
+          { "en": "It is cold. → Is it cold?", "vi": "Trời lạnh. → Trời có lạnh không?", "note": "Thời tiết thì chủ ngữ là <b>it</b>." },
+          { "en": "The shop is open. → Is the shop open?", "vi": "Cửa hàng mở cửa. → Cửa hàng có mở không?", "note": "Chủ ngữ là danh từ thì cũng đảo y hệt." }
+        ] },
+        { "t": "h3", "text": "Hỏi — đáp đầy đủ" },
+        { "t": "ex", "items": [
+          { "en": "Are you a student? — Yes, I am.", "vi": "Bạn là sinh viên à? — Vâng, đúng rồi.", "note": "Hỏi <i>you</i>, đáp <b>I</b>. Không rút gọn câu Yes." },
+          { "en": "Are you busy? — No, I'm not.", "vi": "Bạn có bận không? — Không, tôi không bận.", "note": "Câu No thì rút gọn được." },
+          { "en": "Is he your brother? — Yes, he is.", "vi": "Anh ấy là anh bạn à? — Đúng rồi.", "note": "Nhắc lại <b>he is</b>." },
+          { "en": "Is she a doctor? — No, she's not.", "vi": "Cô ấy là bác sĩ à? — Không phải.", "note": "Hoặc <i>No, she isn't.</i>" },
+          { "en": "Are they your parents? — Yes, they are.", "vi": "Họ là bố mẹ bạn à? — Vâng.", "note": "Số nhiều dùng <b>are</b>." },
+          { "en": "Is it far? — No, it's not.", "vi": "Có xa không? — Không xa.", "note": "Câu hay dùng khi hỏi đường." },
+          { "en": "Are we late? — Yes, we are.", "vi": "Chúng ta muộn à? — Ừ, muộn rồi.", "note": "Hỏi về cả nhóm mình." }
+        ] },
+        { "t": "h3", "text": "Câu bạn sẽ dùng ngay hôm nay" },
+        { "t": "ex", "items": [
+          { "en": "Are you OK?", "vi": "Bạn ổn chứ?", "note": "Câu hỏi thăm ngắn nhất." },
+          { "en": "Is this your bag?", "vi": "Đây là túi của bạn à?", "note": "Chủ ngữ <b>this</b> dùng <i>is</i>." },
+          { "en": "Are you ready?", "vi": "Bạn sẵn sàng chưa?", "note": "Hỏi trước khi bắt đầu việc gì." },
+          { "en": "Is the bank open today?", "vi": "Hôm nay ngân hàng có mở không?", "note": "Hỏi về giờ giấc nơi công cộng." },
+          { "en": "Am I late?", "vi": "Tôi đến muộn à?", "note": "Hỏi về chính mình thì dùng <b>Am I</b>." },
+          { "en": "Are you Vietnamese? — Yes, I am.", "vi": "Bạn là người Việt à? — Vâng.", "note": "Câu hay gặp khi đi nước ngoài." },
+          { "en": "Is your mother at home? — No, she's not.", "vi": "Mẹ bạn có ở nhà không? — Không ạ.", "note": "Chủ ngữ dài thì vẫn đảo <i>is</i> lên đầu." },
+          { "en": "Are your friends here? — Yes, they are.", "vi": "Bạn bè bạn ở đây à? — Vâng.", "note": "Hỏi danh từ số nhiều, đáp bằng <b>they</b>." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — đổi sang câu hỏi" },
+        { "t": "quiz", "items": [
+          { "vi": "You are busy. → câu hỏi", "a": "Are you busy?" },
+          { "vi": "He is a teacher. → câu hỏi", "a": "Is he a teacher?" },
+          { "vi": "They are here. → câu hỏi", "a": "Are they here?" },
+          { "vi": "The shop is open. → câu hỏi", "a": "Is the shop open?" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — trả lời ngắn" },
+        { "t": "quiz", "items": [
+          { "vi": "Are you a student? — trả lời CÓ", "a": "Yes, I am. — hỏi <i>you</i> thì đáp <b>I</b>" },
+          { "vi": "Are you busy? — trả lời KHÔNG", "a": "No, I'm not." },
+          { "vi": "Is she your sister? — trả lời CÓ", "a": "Yes, she is." },
+          { "vi": "Are they here? — trả lời KHÔNG", "a": "No, they're not. (hoặc No, they aren't.)" }
+        ] },
+        { "t": "h3", "text": "Phần 3 — hiểu quy tắc" },
+        { "t": "quiz", "items": [
+          { "vi": "Vì sao <i>Yes, I'm.</i> là sai?", "a": "Câu trả lời CÓ không được rút gọn — phải nói <i>Yes, I am.</i>" },
+          { "vi": "Ai đó hỏi <i>Are you tired?</i> — bạn đáp bằng đại từ nào?", "a": "<b>I</b> — Yes, I am. / No, I'm not." },
+          { "vi": "Hỏi về chính mình thì bắt đầu câu bằng gì?", "a": "<b>Am I</b> …? — ví dụ <i>Am I late?</i>" },
+          { "vi": "Tự hỏi và tự trả lời: bạn có đói không?", "a": "Are you hungry? — Yes, I am. / No, I'm not." }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>Hỏi = đảo chỗ.</b> Đưa am/is/are lên trước chủ ngữ, thêm dấu hỏi. Không thêm từ nào.",
+          "<b>Câu Yes không rút gọn được.</b> <i>Yes, I am.</i> ✓ nhưng <i>Yes, I'm.</i> ✗ — câu No thì rút gọn thoải mái.",
+          "<b>Hỏi <i>you</i> thì đáp <i>I</i>.</b> Giống hệt tiếng Việt: hỏi “bạn…” thì đáp “tôi…”."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "<i>You are a student?</i>", "right": "<i>Are you a student?</i>", "why": "Tiếng Việt chỉ cần thêm chữ <i>à</i> hoặc <i>không</i> vào cuối là thành câu hỏi, trật tự từ giữ nguyên. Tiếng Anh bắt buộc phải đảo động từ lên trước. Giữ nguyên trật tự rồi lên giọng cuối câu thì người bản xứ hiểu được, nhưng đó là câu nói chứ không phải câu hỏi đúng ngữ pháp." },
+          { "wrong": "<i>Yes, I'm.</i>", "right": "<i>Yes, I am.</i>", "why": "Rút gọn chỉ dùng được khi còn từ khác đứng sau. Ở cuối câu thì <i>am</i> phải đứng đủ hình. Luật này đúng cho mọi dạng: <i>Yes, he is</i> ✓ nhưng <i>Yes, he's</i> ✗." },
+          { "wrong": "<i>Are you a student? — Yes, you are.</i>", "right": "<i>Are you a student? — Yes, I am.</i>", "why": "Người hỏi dùng <i>you</i> để chỉ bạn; khi bạn trả lời thì phải đổi sang <i>I</i>. Đáp <i>you are</i> nghĩa là bạn đang nói về người hỏi chứ không phải về mình." }
+        ] }
+      ]
+    }
+  ]
+}

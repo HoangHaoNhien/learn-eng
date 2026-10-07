@@ -1,0 +1,493 @@
+{
+  "id": 48,
+  "group": "Nhóm 5 · Ý kiến & Quan điểm",
+  "title": "The way I see it… — Dẫn vào một lập luận",
+  "subtitle": "Khung câu này không dừng ở việc nêu ý kiến — nó báo hiệu rằng một lập luận sắp đến. Người nghe tự động chuẩn bị nghe lý lẽ của bạn. Đây là lý do nó thường đi kèm công thức “chúng ta có hai lựa chọn”, và là cách mạnh nhất để kéo một cuộc bàn bạc lộn xộn về lại trật tự.",
+  "pattern": [
+    "The way I see it, <em>+ mệnh đề</em>",
+    "The way I look at it, <em>+ mệnh đề</em>",
+    "…, that's the way I see it."
+  ],
+  "meaning": "Theo cách tôi nhìn nhận… / Tôi hiểu chuyện này là…",
+  "grammar": [62, 45, 43],
+  "tags": [
+    { "text": "Tần suất: khá cao khi nói", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Đời thường — dẫn vào lý lẽ" },
+    { "text": "Trình độ: B2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">The way I see it</span> làm một việc mà các khung trước không làm: nó <b>báo hiệu một lập luận sắp đến</b>. Người nghe hiểu ngay rằng sau câu này không phải là một câu nhận xét lẻ, mà là cách bạn <b>lý giải toàn bộ tình huống</b>." },
+        { "t": "p", "html": "Vì thế nó thường đi kèm một cấu trúc gọn gàng: <i>The way I see it, we have two options.</i> Bạn thu gọn mớ hỗn độn thành một khung rõ ràng rồi mời mọi người bước vào. Đây là cách <b>giành lại quyền dẫn dắt</b> một cuộc họp lộn xộn." },
+        { "t": "p", "html": "So với [Khung 47] vốn nhấn vào <b>vị trí</b> bạn đứng, khung này nhấn vào <b>cách bạn lý giải</b> sự việc. Và nó <b>đời thường hơn hẳn</b> — bạn nghe nó trong quán cà phê nhiều hơn trong báo cáo." },
+        { "t": "callout", "html": "<b>BẪY: không được thiếu “it”.</b> Tiếng Việt “theo cách tôi nhìn nhận” không có tân ngữ, nên người Việt hay viết <span class=\"k\">The way I see, …</span> ✗. Chữ <b>it</b> là bắt buộc — <i>see</i> cần một tân ngữ." },
+        { "t": "h3", "text": "Ba kiểu dùng" },
+        {
+          "t": "table",
+          "head": ["Câu", "Công dụng", "Hiệu quả"],
+          "rows": [
+            ["<code>The way I see it, we have two options.</code>", "Thu gọn tình huống", "Kéo cuộc họp về trật tự"],
+            ["<code>The way I see it, she did the right thing.</code>", "Bênh vực một lựa chọn", "Nêu lý lẽ, không phán xét"],
+            ["<code>The way I see it, we've already lost time.</code>", "Đặt lại bài toán", "Đổi hướng tranh luận"],
+            ["<code>…, that's the way I see it.</code>", "Chốt sau khi đã lập luận", "Khép lại dứt khoát"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đặt ở cuối thì thành câu chốt:</b> bạn trình bày lý lẽ trước, rồi khép lại bằng <i>…, that's the way I see it.</i> Nó nói rằng bạn đã nói hết ý, nhưng không ép ai phải đồng ý." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🧭", "title": "Thu gọn tình huống rối", "text": "Bối cảnh số 1. <i>The way I see it, we have two options.</i> Đưa cuộc họp về trật tự." },
+            { "icon": "⚖️", "title": "Bênh vực một lựa chọn", "text": "<i>The way I see it, she did the right thing.</i> Nêu lý lẽ chứ không phán xét." },
+            { "icon": "🔄", "title": "Đặt lại bài toán", "text": "<i>The way I see it, that's the wrong question.</i> Đổi hướng tranh luận." },
+            { "icon": "🏁", "title": "Chốt lại sau lập luận", "text": "<i>…, that's the way I see it.</i> Khép lại mà không ép buộc." },
+            { "icon": "☕", "title": "Trò chuyện đời thường", "text": "<i>The way I see it, life's too short.</i> Rất tự nhiên giữa bạn bè." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Email trang trọng, báo cáo. Ở đó dùng [Khung 42] hoặc [Khung 47]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Chuẩn", "<code>The way I see it, + mệnh đề</code>", "The way I see it, we have two options."],
+            ["Đồng nghĩa", "<code>The way I look at it, + mệnh đề</code>", "The way I look at it, it's worth trying."],
+            ["Nhấn cách hiểu", "<code>The way I understand it, + mệnh đề</code>", "The way I understand it, they agreed."],
+            ["Chốt cuối câu", "<code>…, that's the way I see it.</code>", "It's simple — that's the way I see it."],
+            ["Nói về tình hình", "<code>The way things are, + mệnh đề</code>", "The way things are, we can't wait."],
+            ["Kể lại quá khứ", "<code>The way I saw it (at the time)</code>", "The way I saw it then, I had no choice."],
+            ["Hỏi lại", "<code>How do you see it?</code>", "How do you see it?"],
+            ["Nhắc người khác", "<code>The way he sees it, …</code>", "The way he sees it, it's already settled."],
+            ["Công thức hai lựa chọn", "<code>…, we have two options: A or B.</code>", "We have two options: wait or cut."],
+            ["Thêm lý lẽ", "<code>…, and here's why.</code>", "The way I see it, we wait — and here's why."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Công thức mạnh nhất:</b> <span class=\"k\">The way I see it, we have two options: A or B.</span> Nó thu gọn mọi tranh cãi thành một lựa chọn rõ ràng. Học thuộc nguyên mẫu này — dùng được trong hầu hết cuộc họp." },
+        { "t": "callout", "html": "<b>Đừng nhầm với “by the way”.</b> <i>By the way</i> = nhân tiện, đổi chủ đề. <i>The way I see it</i> = theo cách tôi nhìn nhận. Hai cụm không liên quan gì đến nhau." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Mệnh đề hay theo sau “The way I see it,”",
+              "items": [
+                { "w": "we have two options", "vi": "mình có hai lựa chọn", "ex": "The way I see it, we have two options.", "exvi": "Theo cách tôi nhìn nhận, mình có hai lựa chọn.", "note": "Công thức mạnh nhất của khung này — thu gọn mọi tranh cãi thành một lựa chọn rõ ràng." },
+                { "w": "we don't have much choice", "vi": "mình không có nhiều lựa chọn", "ex": "The way I see it, we don't have much choice.", "exvi": "Theo cách tôi nhìn nhận, mình không có nhiều lựa chọn." },
+                { "w": "it's already decided", "vi": "chuyện đã quyết rồi", "ex": "The way I see it, it's already decided.", "exvi": "Theo cách tôi nhìn nhận, chuyện đã quyết rồi." },
+                { "w": "she did the right thing", "vi": "cô ấy làm đúng", "ex": "The way I see it, she did the right thing.", "exvi": "Theo cách tôi nhìn nhận, cô ấy làm đúng." },
+                { "w": "we've already lost time", "vi": "mình đã mất thời gian rồi", "ex": "The way I see it, we've already lost time.", "exvi": "Theo cách tôi nhìn nhận, mình đã mất thời gian rồi." },
+                { "w": "that's the wrong question", "vi": "đó là câu hỏi sai", "ex": "The way I see it, that's the wrong question.", "exvi": "Theo cách tôi nhìn nhận, đó là câu hỏi sai.", "note": "Câu đặt lại bài toán — mạnh nhưng phải có lý lẽ theo sau." },
+                { "w": "it's worth the risk", "vi": "đáng để mạo hiểm", "ex": "The way I see it, it's worth the risk.", "exvi": "Theo cách tôi nhìn nhận, đáng để mạo hiểm." },
+                { "w": "nobody wins here", "vi": "ở đây không ai thắng", "ex": "The way I see it, nobody wins here.", "exvi": "Theo cách tôi nhìn nhận, ở đây không ai thắng cả." },
+                { "w": "we both made mistakes", "vi": "cả hai đều có lỗi", "ex": "The way I see it, we both made mistakes.", "exvi": "Theo cách tôi nhìn nhận, cả hai đều có lỗi.", "note": "Câu hòa giải — chia đều trách nhiệm nên không ai phải phòng thủ." },
+                { "w": "it's simpler than it looks", "vi": "đơn giản hơn vẻ ngoài", "ex": "The way I see it, it's simpler than it looks.", "exvi": "Theo cách tôi nhìn nhận, chuyện đơn giản hơn vẻ ngoài." },
+                { "w": "the cost isn't the issue", "vi": "chi phí không phải vấn đề", "ex": "The way I see it, the cost isn't the issue.", "exvi": "Theo cách tôi nhìn nhận, chi phí không phải vấn đề." },
+                { "w": "we're solving the wrong thing", "vi": "mình đang giải sai vấn đề", "ex": "The way I see it, we're solving the wrong thing.", "exvi": "Theo cách tôi nhìn nhận, mình đang giải sai vấn đề." },
+                { "w": "either way, we pay", "vi": "kiểu gì mình cũng trả", "ex": "The way I see it, either way we pay.", "exvi": "Theo cách tôi nhìn nhận, kiểu gì mình cũng phải trả." },
+                { "w": "life's too short", "vi": "đời ngắn lắm", "ex": "The way I see it, life's too short to worry about that.", "exvi": "Theo cách tôi nhìn nhận, đời ngắn lắm, lo chuyện đó làm gì." },
+                { "w": "it's a fair trade", "vi": "đó là đánh đổi công bằng", "ex": "The way I see it, it's a fair trade.", "exvi": "Theo cách tôi nhìn nhận, đó là đánh đổi công bằng." },
+                { "w": "they had no choice", "vi": "họ không có lựa chọn", "ex": "The way I see it, they had no choice.", "exvi": "Theo cách tôi nhìn nhận, họ không có lựa chọn." },
+                { "w": "we've come too far to stop", "vi": "đi xa quá rồi không dừng được", "ex": "The way I see it, we've come too far to stop.", "exvi": "Theo cách tôi nhìn nhận, mình đi xa quá rồi không dừng được." },
+                { "w": "it'll sort itself out", "vi": "rồi sẽ tự ổn thôi", "ex": "The way I see it, it'll sort itself out.", "exvi": "Theo cách tôi nhìn nhận, rồi mọi chuyện sẽ tự ổn.", "note": "<i>sort itself out</i> = tự giải quyết được. Cụm rất Anh." },
+                { "w": "one of us has to move first", "vi": "một trong hai phải nhượng trước", "ex": "The way I see it, one of us has to move first.", "exvi": "Theo cách tôi nhìn nhận, một trong hai phải nhượng bộ trước." },
+                { "w": "it's not worth falling out over", "vi": "không đáng để mất lòng nhau", "ex": "The way I see it, it's not worth falling out over.", "exvi": "Theo cách tôi nhìn nhận, không đáng để mất lòng nhau.", "note": "<i>fall out with someone</i> = giận nhau, cắt đứt quan hệ." }
+              ]
+            },
+            {
+              "title": "Các dạng biến thể",
+              "items": [
+                { "w": "The way I look at it,", "vi": "cách tôi nhìn vào chuyện này", "ex": "The way I look at it, it's worth trying.", "exvi": "Cách tôi nhìn vào chuyện này thì đáng thử.", "note": "Gần như đồng nghĩa hoàn toàn — chỉ khác chút ở nhịp nói." },
+                { "w": "The way I understand it,", "vi": "theo cách tôi hiểu", "ex": "The way I understand it, they already agreed.", "exvi": "Theo cách tôi hiểu thì họ đã đồng ý rồi.", "note": "Nhấn vào cách BẠN HIỂU thông tin — gần với [Khung 45] hơn là nêu ý kiến." },
+                { "w": "That's the way I see it", "vi": "tôi nhìn nhận là vậy", "ex": "It's simple — that's the way I see it.", "exvi": "Đơn giản vậy thôi — tôi nhìn nhận là vậy.", "note": "Đặt cuối để chốt lại sau khi đã trình bày lý lẽ." },
+                { "w": "The way things are,", "vi": "tình hình thế này thì", "ex": "The way things are, we can't wait.", "exvi": "Tình hình thế này thì mình không đợi được." },
+                { "w": "The way I saw it then,", "vi": "lúc đó tôi nhìn nhận là", "ex": "The way I saw it then, I had no choice.", "exvi": "Lúc đó tôi nhìn nhận là mình không có lựa chọn.", "note": "Dùng quá khứ khi kể lại một quyết định cũ." },
+                { "w": "The way he sees it,", "vi": "theo cách anh ấy nhìn nhận", "ex": "The way he sees it, it's already settled.", "exvi": "Theo cách anh ấy nhìn nhận thì chuyện xong rồi." },
+                { "w": "and here's why", "vi": "và đây là lý do", "ex": "The way I see it, we wait — and here's why.", "exvi": "Theo cách tôi nhìn nhận thì mình đợi — và đây là lý do.", "note": "Báo trước rằng lý lẽ đang tới — giữ người nghe ở lại." },
+                { "w": "either way", "vi": "kiểu gì thì", "ex": "Either way, we end up paying.", "exvi": "Kiểu gì thì cuối cùng mình cũng phải trả." },
+                { "w": "it comes down to", "vi": "rốt cuộc là chuyện", "ex": "The way I see it, it comes down to trust.", "exvi": "Theo cách tôi nhìn nhận, rốt cuộc là chuyện lòng tin.", "note": "<i>come down to</i> = rút lại còn là. Cụm rất mạnh để kết luận." },
+                { "w": "two options: A or B", "vi": "hai lựa chọn: A hoặc B", "ex": "Two options: wait, or cut the scope.", "exvi": "Hai lựa chọn: đợi, hoặc cắt bớt phạm vi." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "How do you see it?", "vi": "bạn nhìn nhận thế nào?", "ex": "How do you see it?", "exvi": "Anh/chị nhìn nhận thế nào?", "note": "Mời người kia trình bày lập luận của họ — rất công bằng." },
+                { "w": "That's one way to look at it", "vi": "đó cũng là một cách nhìn", "ex": "That's one way to look at it.", "exvi": "Đó cũng là một cách nhìn.", "note": "Công nhận nhưng ngầm nói rằng còn cách nhìn khác." },
+                { "w": "I see it the same way", "vi": "tôi cũng nhìn như vậy", "ex": "I see it the same way, actually.", "exvi": "Thật ra tôi cũng nhìn như vậy." },
+                { "w": "There's a third option", "vi": "còn lựa chọn thứ ba", "ex": "There's a third option you haven't mentioned.", "exvi": "Còn lựa chọn thứ ba anh/chị chưa nhắc đến.", "note": "Cách phản biện rất hay với công thức “hai lựa chọn”." },
+                { "w": "Go on", "vi": "nói tiếp đi", "ex": "Go on — I'm listening.", "exvi": "Nói tiếp đi — tôi đang nghe." },
+                { "w": "I'm not sure I follow", "vi": "tôi chưa theo kịp", "ex": "I'm not sure I follow. Can you explain?", "exvi": "Tôi chưa theo kịp. Giải thích thêm được không?", "note": "Cách nói “tôi chưa hiểu” lịch sự nhất trong công việc." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "The way I see it, we have two options: wait, or cut the scope.",
+                  "vi": "Theo cách tôi nhìn nhận, mình có hai lựa chọn: đợi, hoặc cắt bớt phạm vi.",
+                  "note": "Công thức mạnh nhất của khung này — thu gọn một cuộc họp lộn xộn thành một lựa chọn rõ ràng.",
+                  "open": { "en": "Can I try to simplify this?", "vi": "Cho tôi thử tóm gọn lại được không?" },
+                  "reply": [
+                    { "them": "There's a third option you haven't mentioned.", "themvi": "Còn lựa chọn thứ ba anh/chị chưa nhắc đến.", "you": "Go on — I'm listening.", "youvi": "Nói tiếp đi — tôi đang nghe." },
+                    { "them": "I see it the same way.", "themvi": "Tôi cũng nhìn như vậy.", "you": "Then let's pick one and move on.", "youvi": "Vậy mình chọn một rồi đi tiếp." }
+                  ],
+                  "close": { "en": "Either way, we decide today.", "vi": "Kiểu gì hôm nay cũng phải quyết." }
+                },
+                {
+                  "en": "The way I see it, we're solving the wrong thing.",
+                  "vi": "Theo cách tôi nhìn nhận, mình đang giải sai vấn đề.",
+                  "note": "Câu đặt lại bài toán — mạnh, nên bắt buộc phải có lý lẽ theo ngay sau.",
+                  "reply": [
+                    { "them": "How do you see it?", "themvi": "Anh/chị nhìn nhận thế nào?", "you": "It's not speed — users can't find the button.", "youvi": "Không phải tốc độ — người dùng không tìm thấy nút." }
+                  ],
+                  "vars": [
+                    { "en": "The way I see it, that's the wrong question.", "vi": "Theo cách tôi nhìn nhận, đó là câu hỏi sai." }
+                  ]
+                },
+                {
+                  "en": "The way I see it, it comes down to trust.",
+                  "vi": "Theo cách tôi nhìn nhận, rốt cuộc là chuyện lòng tin.",
+                  "note": "<span class=\"k\">come down to</span> = rút lại còn là. Cụm rất mạnh để kết luận một cuộc tranh luận dài.",
+                  "reply": [
+                    { "them": "That's one way to look at it.", "themvi": "Đó cũng là một cách nhìn.", "you": "What would you add?", "youvi": "Anh/chị bổ sung gì?" }
+                  ]
+                },
+                {
+                  "en": "We've come too far to stop — that's the way I see it.",
+                  "vi": "Mình đi xa quá rồi không dừng được — tôi nhìn nhận là vậy.",
+                  "note": "Đặt cụm ở <b>cuối</b> để chốt sau khi đã trình bày lý lẽ. Dứt khoát mà không ép ai.",
+                  "reply": [
+                    { "them": "Even with the budget gone?", "themvi": "Kể cả khi hết ngân sách à?", "you": "Especially then. Stopping costs more.", "youvi": "Nhất là khi đó. Dừng còn tốn hơn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "The way I see it, we both made mistakes.",
+                  "vi": "Theo cách tôi nhìn nhận, cả hai mình đều có lỗi.",
+                  "note": "Câu hòa giải mạnh — chia đều trách nhiệm nên không ai phải phòng thủ trước.",
+                  "open": { "en": "Can I say something?", "vi": "Cho mình nói một câu nhé?" },
+                  "reply": [
+                    { "them": "I suppose we did.", "themvi": "Chắc là vậy thật.", "you": "So let's leave it there.", "youvi": "Vậy mình dừng ở đó đi." }
+                  ],
+                  "close": { "en": "It's not worth falling out over.", "vi": "Không đáng để mất lòng nhau." }
+                },
+                {
+                  "en": "The way I see it, life's too short to worry about that.",
+                  "vi": "Theo cách mình nhìn nhận, đời ngắn lắm, lo chuyện đó làm gì.",
+                  "reply": [
+                    { "them": "Easy for you to say.", "themvi": "Bạn nói thì dễ.", "you": "Maybe. But it's true.", "youvi": "Có thể. Nhưng đúng mà." }
+                  ]
+                },
+                {
+                  "en": "The way I see it, she did the right thing.",
+                  "vi": "Theo cách mình nhìn nhận, cô ấy làm đúng.",
+                  "note": "Bênh vực ai đó bằng lý lẽ chứ không phải cảm tính — nghe thuyết phục hơn nhiều.",
+                  "reply": [
+                    { "them": "Even though she didn't tell anyone?", "themvi": "Dù cô ấy không báo ai à?", "you": "She had no good options. That's my point.", "youvi": "Cô ấy không có lựa chọn nào tốt. Ý mình là vậy." }
+                  ],
+                  "vars": [
+                    { "en": "The way I look at it, they had no choice.", "vi": "Cách mình nhìn thì họ không có lựa chọn." }
+                  ]
+                },
+                {
+                  "en": "The way I see it, it'll sort itself out.",
+                  "vi": "Theo cách mình nhìn nhận, rồi mọi chuyện sẽ tự ổn.",
+                  "note": "<i>sort itself out</i> = tự giải quyết được. Rất Anh và rất trấn an.",
+                  "reply": [
+                    { "them": "And if it doesn't?", "themvi": "Nếu không thì sao?", "you": "Then we deal with it then.", "youvi": "Thì lúc đó mình xử lý." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "The way I see it, the cost isn't the issue.",
+                  "vi": "Theo cách tôi nhìn nhận, chi phí không phải vấn đề.",
+                  "reply": [
+                    { "them": "Then what is?", "themvi": "Vậy vấn đề là gì ạ?", "you": "How long I'd wait for a repair.", "youvi": "Là tôi phải đợi sửa bao lâu." }
+                  ]
+                },
+                {
+                  "en": "The way I see it, it's a fair trade.",
+                  "vi": "Theo cách tôi nhìn nhận, đó là đánh đổi công bằng.",
+                  "reply": [
+                    { "them": "Less storage but half the price.", "themvi": "Ít bộ nhớ hơn nhưng giá còn một nửa ạ.", "you": "Exactly. I'll take it.", "youvi": "Đúng vậy. Tôi lấy." }
+                  ],
+                  "vars": [
+                    { "en": "Either way, I end up paying the same.", "vi": "Kiểu gì cuối cùng tôi cũng trả bằng đó." }
+                  ]
+                },
+                {
+                  "en": "The way I see it, I have two options: repair or replace.",
+                  "vi": "Theo cách tôi nhìn nhận, tôi có hai lựa chọn: sửa hoặc thay mới.",
+                  "reply": [
+                    { "them": "Repair is cheaper but takes three weeks.", "themvi": "Sửa rẻ hơn nhưng mất ba tuần ạ.", "you": "Then it's not really a choice.", "youvi": "Vậy thì thực ra không phải lựa chọn." }
+                  ],
+                  "close": { "en": "I'll take the new one.", "vi": "Tôi lấy cái mới." }
+                },
+                {
+                  "en": "The way I understand it, the warranty covers this.",
+                  "vi": "Theo cách tôi hiểu thì bảo hành có chi trả khoản này.",
+                  "note": "<i>The way I understand it</i> nhấn vào cách BẠN HIỂU thông tin, gần với [Khung 45] hơn là nêu ý kiến.",
+                  "reply": [
+                    { "them": "Let me check the terms.", "themvi": "Để em xem điều khoản ạ.", "you": "It says twelve months on the box.", "youvi": "Trên hộp ghi mười hai tháng." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "The way I see it, we've already lost the morning.",
+                  "vi": "Theo cách tôi nhìn nhận, mình đã mất cả buổi sáng rồi.",
+                  "reply": [
+                    { "them": "So what do we do?", "themvi": "Vậy mình làm gì?", "you": "Skip the museum, go straight to lunch.", "youvi": "Bỏ bảo tàng, đi ăn trưa luôn." }
+                  ]
+                },
+                {
+                  "en": "The way things are, we can't wait for the next train.",
+                  "vi": "Tình hình thế này thì mình không đợi chuyến tàu sau được.",
+                  "note": "<i>The way things are</i> nói về hoàn cảnh chứ không phải góc nhìn — dùng khi tình thế ép buộc.",
+                  "reply": [
+                    { "them": "A taxi will cost a fortune.", "themvi": "Taxi thì tốn cả đống tiền.", "you": "Cheaper than missing the flight.", "youvi": "Vẫn rẻ hơn lỡ chuyến bay." }
+                  ],
+                  "close": { "en": "Let's just go.", "vi": "Cứ đi thôi." }
+                },
+                {
+                  "en": "The way I see it, two nights is enough here.",
+                  "vi": "Theo cách tôi nhìn nhận, ở đây hai đêm là đủ.",
+                  "reply": [
+                    { "them": "That's one way to look at it.", "themvi": "Đó cũng là một cách nhìn.", "you": "How do you see it?", "youvi": "Bạn nhìn nhận thế nào?" }
+                  ]
+                },
+                {
+                  "en": "The way I saw it then, I had no choice but to rebook.",
+                  "vi": "Lúc đó tôi nhìn nhận là không còn cách nào ngoài đặt lại vé.",
+                  "note": "Dùng <b>quá khứ</b> khi kể lại một quyết định cũ — <i>The way I saw it then</i>.",
+                  "reply": [
+                    { "them": "You could have called us.", "themvi": "Bạn có thể gọi cho tụi mình mà.", "you": "There was no signal. That's my point.", "youvi": "Không có sóng. Ý mình là vậy." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "The way I see it, we have two options: wait or move on.",
+                  "vi": "Theo cách tôi nhìn nhận, mình có hai lựa chọn: đợi hoặc đi chỗ khác.",
+                  "reply": [
+                    { "them": "How long's the wait?", "themvi": "Đợi bao lâu?", "you": "Forty minutes, they said.", "youvi": "Họ bảo bốn mươi phút." }
+                  ]
+                },
+                {
+                  "en": "The way I see it, it's simpler than it looks.",
+                  "vi": "Theo cách tôi nhìn nhận, chuyện đơn giản hơn vẻ ngoài.",
+                  "reply": [
+                    { "them": "I'm not sure I follow.", "themvi": "Mình chưa theo kịp.", "you": "Order two dishes, share everything.", "youvi": "Gọi hai món, ăn chung hết." }
+                  ],
+                  "vars": [
+                    { "en": "The way I look at it, sharing is cheaper anyway.", "vi": "Cách mình nhìn thì ăn chung dù sao cũng rẻ hơn." }
+                  ]
+                },
+                {
+                  "en": "The way I see it, it's not worth falling out over a bill.",
+                  "vi": "Theo cách mình nhìn nhận, không đáng mất lòng nhau vì một cái hóa đơn.",
+                  "note": "<span class=\"k\">fall out with someone</span> = giận nhau, cắt đứt quan hệ.",
+                  "reply": [
+                    { "them": "You're right. Let's just split it.", "themvi": "Bạn nói đúng. Chia đôi đi.", "you": "Deal.", "youvi": "Chốt." }
+                  ],
+                  "close": { "en": "Next one's on me anyway.", "vi": "Dù sao lần sau mình mời." }
+                },
+                {
+                  "en": "The way I see it, either way we pay the same.",
+                  "vi": "Theo cách mình nhìn nhận, kiểu gì mình cũng trả bằng đó.",
+                  "reply": [
+                    { "them": "Then let's get the set menu.", "themvi": "Vậy lấy thực đơn cố định đi.", "you": "Good — fewer decisions.", "youvi": "Tốt — đỡ phải chọn." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Kéo một cuộc họp lộn xộn về trật tự",
+          "lines": [
+            { "speaker": "Colleague", "en": "We've been arguing about this for an hour.", "vi": "Mình cãi chuyện này cả tiếng rồi." },
+            { "speaker": "You", "me": true, "en": "Can I try to simplify? The way I see it, we have two options: wait, or cut the scope.", "vi": "Cho tôi thử tóm gọn nhé? Theo cách tôi nhìn nhận, mình có hai lựa chọn: đợi, hoặc cắt bớt phạm vi." },
+            { "speaker": "Colleague", "en": "There's a third — bring in a contractor.", "vi": "Còn cách thứ ba — thuê người ngoài." },
+            { "speaker": "You", "me": true, "en": "Go on. The way I see it, that's just the first option with extra cost.", "vi": "Nói tiếp đi. Theo cách tôi nhìn nhận, cách đó chỉ là cách một cộng thêm chi phí." },
+            { "speaker": "Colleague", "en": "That's one way to look at it.", "vi": "Đó cũng là một cách nhìn." },
+            { "speaker": "You", "me": true, "en": "Fair. But either way, we decide today — that's the way I see it.", "vi": "Cũng đúng. Nhưng kiểu gì hôm nay cũng phải quyết — tôi nhìn nhận là vậy." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Làm lành với một người bạn",
+          "lines": [
+            { "speaker": "Bình", "en": "You should have told me earlier.", "vi": "Lẽ ra bạn phải báo mình sớm hơn." },
+            { "speaker": "You", "me": true, "en": "The way I see it, we both made mistakes.", "vi": "Theo cách mình nhìn nhận, cả hai mình đều có lỗi." },
+            { "speaker": "Bình", "en": "How do you see it?", "vi": "Bạn nhìn nhận thế nào?" },
+            { "speaker": "You", "me": true, "en": "I didn't call, but you didn't ask either. The way I look at it, it comes down to a bad week.", "vi": "Mình không gọi, nhưng bạn cũng không hỏi. Cách mình nhìn thì rốt cuộc chỉ là một tuần tệ." },
+            { "speaker": "Bình", "en": "I suppose that's fair.", "vi": "Chắc cũng có lý." },
+            { "speaker": "You", "me": true, "en": "It's not worth falling out over — that's the way I see it.", "vi": "Không đáng để mất lòng nhau — mình nhìn nhận là vậy." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "The way I see, we have two options.", "right": "The way I see it, we have two options.", "why": "BẪY CHÍNH. Chữ <b>it</b> là bắt buộc — <i>see</i> cần tân ngữ. Tiếng Việt không cần nên rất dễ quên." },
+            { "wrong": "In the way I see it, she's right.", "right": "The way I see it, she's right.", "why": "Không có giới từ nào cả. Cụm bắt đầu thẳng bằng <b>The way</b>." },
+            { "wrong": "By the way I see it, she's right.", "right": "The way I see it, she's right.", "why": "Nhầm với <i>by the way</i> (= nhân tiện). Hai cụm không liên quan gì đến nhau." },
+            { "wrong": "The way I see it, I think she's right.", "right": "The way I see it, she's right.", "why": "Thừa. Đã có cụm mở đầu thì bỏ <i>I think</i> — chồng hai lớp rào, giống lỗi ở [Khung 42]." },
+            { "wrong": "The way I see it she's right.", "right": "The way I see it, she's right.", "why": "Khi viết phải có <b>dấu phẩy</b> sau cụm mở đầu." },
+            { "wrong": "The way I see it, the results are conclusive. <i>(trong báo cáo)</i>", "right": "The results appear conclusive.", "why": "Quá đời thường cho văn bản chính thức. Dùng [Khung 44] hoặc [Khung 47]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Nhấn vào điều gì", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>The way I see it,…</code>", "Cách tôi lý giải — báo hiệu lập luận", "<i>The way I see it, we have two options.</i> Nói chuyện, họp."],
+            ["<code>The way I understand it,…</code>", "Cách tôi hiểu thông tin", "<i>The way I understand it, they agreed.</i>"],
+            ["<code>From my point of view,…</code>", "Vị trí tôi đứng", "<i>From my point of view, the risk is higher.</i> Xem [Khung 47]."],
+            ["<code>In my opinion,…</code>", "Quan điểm đã cân nhắc", "<i>In my opinion, it's too risky.</i> Xem [Khung 42]."],
+            ["<code>I'd say…</code>", "Nhẹ, đời thường, hay để ước lượng", "<i>I'd say about fifty.</i> Xem [Khung 46]."],
+            ["<code>If you ask me,…</code>", "Thẳng thắn, hơi chủ quan", "<i>If you ask me, it's a waste.</i> Xem [Khung 49]."],
+            ["<code>The thing is,…</code>", "Nêu trở ngại chính", "<i>The thing is, we're out of time.</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — trình bày cách hiểu của bạn về một tình huống" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'd say we're a bit stuck.", "vi": "Nhẹ nhất — nhận xét thoáng qua" },
+            { "en": "The way I see it, we have two options.", "vi": "Thu gọn tình huống, mời cùng chọn" },
+            { "en": "From my point of view, waiting costs more.", "vi": "Gắn với vị trí của bạn" },
+            { "en": "In my opinion, we must decide today.", "vi": "Quan điểm có trọng lượng" },
+            { "en": "We have no choice. We decide today.", "vi": "Tuyên bố — không còn chỗ bàn" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "Cả cụm nói nhanh thành <b>“ðə-way-ai-SEE-it”</b> — trọng âm rơi vào <i>SEE</i>.",
+            "<b>The</b> trước phụ âm đọc là <b>/ðə/</b>, không phải /ðiː/.",
+            "<b>see it</b> nối âm thành <b>“see-yit”</b> — có âm /j/ chen vào giữa hai nguyên âm.",
+            "<b>way I</b> cũng nối: <b>“way-yai”</b>, dính liền không ngắt.",
+            "<b>Ngắt một nhịp rõ sau “it”</b> — chính chỗ ngắt này báo hiệu một lập luận sắp đến.",
+            "Khi đặt ở cuối câu (<i>…, that's the way I see it</i>), <b>hạ giọng</b> ở <i>it</i> để nghe dứt khoát."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "The way I see it, we have two options.", "vi": "Luyện shadowing: “ðə-way-yai-SEE-yit” rồi ngắt một nhịp rõ." },
+            { "en": "It's not worth falling out over — that's the way I see it.", "vi": "Tập hạ giọng ở “it” cuối câu để chốt dứt khoát." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Theo cách tôi nhìn nhận, mình có hai lựa chọn.", "blank": "__________, we have two options.", "a": "The way I see it (KHÔNG quên “it”)" },
+            { "vi": "Theo cách tôi hiểu thì họ đã đồng ý rồi.", "blank": "__________, they already agreed.", "a": "The way I understand it" },
+            { "vi": "Đơn giản vậy thôi — tôi nhìn nhận là vậy.", "blank": "It's simple — __________.", "a": "that's the way I see it" },
+            { "vi": "Tình hình thế này thì mình không đợi được.", "blank": "__________, we can't wait.", "a": "The way things are" },
+            { "vi": "Theo cách tôi nhìn nhận, rốt cuộc là chuyện lòng tin.", "blank": "The way I see it, it __________ trust.", "a": "comes down to" },
+            { "vi": "Lúc đó tôi nhìn nhận là mình không có lựa chọn.", "blank": "__________, I had no choice.", "a": "The way I saw it then" },
+            { "vi": "Anh/chị nhìn nhận thế nào?", "blank": "__________ it?", "a": "How do you see" },
+            { "vi": "Rồi mọi chuyện sẽ tự ổn.", "blank": "It'll __________.", "a": "sort itself out" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Theo cách tôi nhìn nhận, mình có hai lựa chọn: đợi, hoặc cắt bớt phạm vi.", "a": "The way I see it, we have two options: wait, or cut the scope." },
+            { "vi": "2. Theo cách tôi nhìn nhận, cả hai mình đều có lỗi.", "a": "The way I see it, we both made mistakes." },
+            { "vi": "3. Không đáng để mất lòng nhau — tôi nhìn nhận là vậy.", "a": "It's not worth falling out over — that's the way I see it." },
+            { "vi": "4. Theo cách tôi nhìn nhận, mình đang giải sai vấn đề.", "a": "The way I see it, we're solving the wrong thing." },
+            { "vi": "5. Tình hình thế này thì mình không đợi chuyến tàu sau được.", "a": "The way things are, we can't wait for the next train." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Học thuộc công thức vàng:</b> <i>The way I see it, we have two options: A or B.</i> Nó cứu bạn trong mọi cuộc họp bế tắc.",
+            "<b>Đừng bao giờ quên chữ “it”.</b> <i>The way I see…</i> là lỗi lộ ra ngay — tiếng Anh cần tân ngữ cho <i>see</i>.",
+            "<b>Luôn có lý lẽ theo sau.</b> Khung này hứa hẹn một lập luận; nếu bạn dừng lại ngay, người nghe sẽ thấy hụt.",
+            "<b>Đặt ở cuối để chốt:</b> trình bày lý lẽ trước, rồi khép bằng <i>…, that's the way I see it.</i> Dứt khoát mà không ép ai.",
+            "<b>Dùng làm câu hòa giải:</b> <i>The way I see it, we both made mistakes.</i> — chia đều trách nhiệm nên không ai phải phòng thủ.",
+            "<b>Bài tập 3 phút:</b> lấy một việc bạn đang phân vân, viết nó thành <i>The way I see it, I have two options: … or …</i> rồi thêm một câu lý do cho mỗi lựa chọn."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": 13,
+  "title": "Cái này, cái kia",
+  "teaches": ["this", "that", "these", "those", "is", "are", "books", "cats", "shoes", "flowers", "chairs", "mine", "yours", "Vietnamese"],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn chỉ được vào đồ vật mà nói: <b>this</b> (cái này) · <b>that</b> (cái kia) · <b>these</b> (mấy cái này) · <b>those</b> (mấy cái kia)." },
+        { "t": "p", "html": "Bốn từ này cực kỳ hữu dụng khi bạn <b>chưa biết tên tiếng Anh của đồ vật</b> — cứ chỉ tay và nói <i>What is this?</i> là người ta nói cho bạn biết." },
+        { "t": "callout", "html": "<b>Chỉ cần nhớ hai trục:</b><br><br>• <b>Gần hay xa?</b> gần → <i>this/these</i> · xa → <i>that/those</i><br>• <b>Một hay nhiều?</b> một → <i>this/that</i> · nhiều → <i>these/those</i><br><br>Hai trục nhân với nhau ra đúng bốn từ. Không có ngoại lệ nào." }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "Bài 10 — số ít và số nhiều, vì bốn từ này cũng chia theo số lượng. Bài 07 — <code>is</code> và <code>are</code>, vì chọn sai từ chỉ trỏ thì động từ cũng sai theo." },
+        { "t": "link", "items": [
+          { "id": 10, "label": "Bài 10 — số ít và số nhiều" },
+          { "id": 7, "label": "Bài 07 — is và are" }
+        ] }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "table", "head": ["Luật", "Nghĩa là gì", "Ví dụ"], "rows": [
+          ["<b>1.</b> Gần dùng <b>this/these</b>, xa dùng <b>that/those</b>", "Gần là trong tầm tay, xa là phải chỉ", "<i><b>This</b> is my bag.</i>"],
+          ["<b>2.</b> Số nhiều thì đổi cả <b>hai</b> chỗ", "Đổi từ chỉ trỏ VÀ danh từ VÀ động từ", "<i><b>These</b> book<b>s</b> <b>are</b> new.</i>"],
+          ["<b>3.</b> Dùng một mình cũng được", "Không cần danh từ theo sau", "<i>What is <b>this</b>?</i>"]
+        ] },
+        { "t": "h3", "text": "Bảng bốn từ" },
+        { "t": "table", "head": ["", "Một cái", "Nhiều cái"], "rows": [
+          ["<b>Gần</b>", "<b>this</b> — cái này", "<b>these</b> — mấy cái này"],
+          ["<b>Xa</b>", "<b>that</b> — cái kia", "<b>those</b> — mấy cái kia"]
+        ] },
+        { "t": "h3", "text": "Động từ đi kèm" },
+        { "t": "table", "head": ["Từ chỉ trỏ", "Động từ", "Ví dụ"], "rows": [
+          ["this · that", "<b>is</b>", "<i>This is a book.</i>"],
+          ["these · those", "<b>are</b>", "<i>These are books.</i>"]
+        ] },
+        { "t": "callout", "html": "<b>Mẹo phát âm:</b> <i>this</i> <code>/ðɪs/</code> và <i>these</i> <code>/ðiːz/</code> rất dễ lẫn.<br><br>• <b>this</b> — âm ngắn, đuôi <code>/s/</code> câm<br>• <b>these</b> — âm dài, đuôi <code>/z/</code> rung<br><br>Cả bốn từ đều bắt đầu bằng <code>/ð/</code> — âm lưỡi ra ngoài răng, học ở bài 03." }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "this — một cái, ở gần" },
+        { "t": "ex", "items": [
+          { "en": "This is my bag.", "vi": "Đây là túi của tôi.", "note": "Cầm trên tay hoặc ngay cạnh." },
+          { "en": "This book is new.", "vi": "Quyển sách này mới.", "note": "Có danh từ theo sau thì không cần <b>is</b> ngay." },
+          { "en": "What is this?", "vi": "Cái này là gì?", "note": "Câu cứu cánh khi không biết tên đồ vật." },
+          { "en": "This is my friend, Nam.", "vi": "Đây là bạn tôi, Nam.", "note": "Giới thiệu người cũng dùng <b>this</b>." },
+          { "en": "I like this.", "vi": "Tôi thích cái này.", "note": "Dùng một mình, không cần danh từ." }
+        ] },
+        { "t": "h3", "text": "that — một cái, ở xa" },
+        { "t": "ex", "items": [
+          { "en": "That is my house.", "vi": "Kia là nhà tôi.", "note": "Phải chỉ tay mới biết nhà nào." },
+          { "en": "That man is my teacher.", "vi": "Người đàn ông kia là thầy tôi.", "note": "Có danh từ theo sau." },
+          { "en": "What is that?", "vi": "Cái kia là gì?", "note": "Hỏi về vật ở xa." },
+          { "en": "That car is very big.", "vi": "Chiếc xe kia to lắm.", "note": "Nhìn thấy nhưng không với tới." },
+          { "en": "I don't like that.", "vi": "Tôi không thích cái đó.", "note": "Dùng một mình." }
+        ] },
+        { "t": "h3", "text": "these — nhiều cái, ở gần" },
+        { "t": "ex", "items": [
+          { "en": "These are my books.", "vi": "Đây là sách của tôi.", "note": "<b>These</b> → <b>are</b> → <i>books</i> có <b>-s</b>. Ba chỗ đều đổi." },
+          { "en": "These shoes are new.", "vi": "Đôi giày này mới.", "note": "<i>shoes</i> luôn đi đôi nên dùng số nhiều." },
+          { "en": "These flowers are nice.", "vi": "Mấy bông hoa này đẹp.", "note": "Ngay trước mặt." },
+          { "en": "I want these.", "vi": "Tôi muốn mấy cái này.", "note": "Dùng một mình khi mua hàng." }
+        ] },
+        { "t": "h3", "text": "those — nhiều cái, ở xa" },
+        { "t": "ex", "items": [
+          { "en": "Those are my friends.", "vi": "Kia là bạn tôi.", "note": "Chỉ về phía mấy người đứng xa." },
+          { "en": "Those chairs are old.", "vi": "Mấy cái ghế kia cũ rồi.", "note": "<b>Those</b> → <b>are</b>." },
+          { "en": "Who are those people?", "vi": "Mấy người kia là ai vậy?", "note": "Hỏi về nhóm người ở xa." },
+          { "en": "I don't want those.", "vi": "Tôi không muốn mấy cái kia.", "note": "Dùng một mình." }
+        ] },
+        { "t": "h3", "text": "Câu bạn dùng được ngay hôm nay" },
+        { "t": "ex", "items": [
+          { "en": "What is this in English?", "vi": "Cái này tiếng Anh gọi là gì?", "note": "Câu học từ mới hiệu quả nhất — chỉ tay rồi hỏi." },
+          { "en": "How much is this?", "vi": "Cái này bao nhiêu tiền?", "note": "Dùng khi đi mua đồ." },
+          { "en": "Is this yours?", "vi": "Cái này của bạn à?", "note": "Hỏi về đồ nhặt được." },
+          { "en": "This is not mine.", "vi": "Cái này không phải của tôi.", "note": "Kết hợp với bài 08." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — chọn từ đúng" },
+        { "t": "quiz", "items": [
+          { "vi": "Đây là túi của tôi. (một cái, gần)", "blank": "___ is my bag.", "a": "This" },
+          { "vi": "Kia là nhà tôi. (một cái, xa)", "blank": "___ is my house.", "a": "That" },
+          { "vi": "Đây là sách của tôi. (nhiều, gần)", "blank": "___ are my books.", "a": "These" },
+          { "vi": "Kia là bạn tôi. (nhiều, xa)", "blank": "___ are my friends.", "a": "Those" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — chọn is hay are" },
+        { "t": "quiz", "items": [
+          { "vi": "Quyển sách này mới.", "blank": "This book ___ new.", "a": "is" },
+          { "vi": "Mấy quyển sách này mới.", "blank": "These books ___ new.", "a": "are" },
+          { "vi": "Mấy cái ghế kia cũ.", "blank": "Those chairs ___ old.", "a": "are" },
+          { "vi": "Người kia là thầy tôi.", "blank": "That man ___ my teacher.", "a": "is" }
+        ] },
+        { "t": "h3", "text": "Phần 3 — dùng thật" },
+        { "t": "quiz", "items": [
+          { "vi": "Cái này tiếng Anh gọi là gì?", "a": "What is this in English?" },
+          { "vi": "Cái này bao nhiêu tiền?", "a": "How much is this?" },
+          { "vi": "Mấy người kia là ai vậy?", "a": "Who are those people?" },
+          { "vi": "Chỉ vào ba đồ vật quanh bạn và nói tên chúng bằng tiếng Anh.", "a": "Không có đáp án sẵn — không biết từ nào thì hỏi <i>What is this?</i>" }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>Hai trục: gần/xa và một/nhiều.</b> <i>this · that · these · those</i> — nhân hai trục ra đúng bốn từ, không ngoại lệ.",
+          "<b>Số nhiều thì đổi ba chỗ.</b> <i>These book<b>s</b> <b>are</b> new</i> — từ chỉ trỏ, danh từ và động từ đều phải theo.",
+          "<b><i>What is this?</i> là câu học từ mới tốt nhất.</b> Chỉ tay, hỏi, nghe — nhớ lâu hơn tra từ điển."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "<i>These is my books.</i>", "right": "<i>These are my books.</i>", "why": "<b>these</b> là số nhiều nên phải đi với <b>are</b>. Lỗi này hay xảy ra khi người học nhớ đổi từ chỉ trỏ mà quên đổi động từ — y như lỗi ở bài 10." },
+          { "wrong": "<i>This books are new.</i>", "right": "<i>These books are new.</i>", "why": "Danh từ đã là số nhiều (<i>books</i>) thì từ chỉ trỏ cũng phải số nhiều. Ba thứ — từ chỉ trỏ, danh từ, động từ — luôn đi cùng một số." },
+          { "wrong": "<i>What is this?</i> (chỉ vào vật ở xa bên kia đường)", "right": "<i>What is that?</i>", "why": "Không sai ngữ pháp, nhưng sai nghĩa: người nghe sẽ nhìn quanh chỗ bạn đứng chứ không nhìn sang bên kia đường. Gần thì <b>this</b>, xa thì <b>that</b>." }
+        ] }
+      ]
+    }
+  ]
+}

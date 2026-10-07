@@ -1,0 +1,484 @@
+{
+  "id": 25,
+  "group": "Nhóm 3 · Xin phép & Cho phép",
+  "title": "Feel free to… — Cho phép mà không có trên dưới",
+  "subtitle": "Cách trao quyền nhẹ nhàng nhất trong tiếng Anh. Khác với “You can” vốn hàm ý bạn đứng cao hơn, câu này chỉ nói rằng người kia đừng ngần ngại — nên dùng được với cả cấp trên, khách hàng và người lạ mà không bao giờ nghe kẻ cả.",
+  "pattern": [
+    "Feel free to <em>+ V</em>",
+    "Please feel free to <em>+ V</em>",
+    "Don't feel obliged to <em>+ V</em>"
+  ],
+  "meaning": "Cứ tự nhiên… / Bạn đừng ngần ngại…",
+  "grammar": [24, 25],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 5/5" },
+    { "text": "Cụm kết email rất phổ biến" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">Feel free to…</span> dịch sát là “hãy thấy tự do mà làm việc đó”. Bạn không cho phép — bạn đang <b>gỡ bỏ sự ngần ngại</b> cho người kia. Đó là khác biệt tinh tế nhưng rất quan trọng." },
+        { "t": "p", "html": "So với [Khung 24]: <i>You can ask me anything</i> hàm ý bạn có quyền cho phép, nên chỉ hợp khi bạn ngang hàng hoặc cao hơn. <i>Feel free to ask me anything</i> thì <b>không có vị thế trên dưới nào cả</b> — dùng được với sếp, với khách hàng, với người lạ đều ổn." },
+        { "t": "p", "html": "Đây cũng là cụm <b>kết email</b> rất phổ biến: <span class=\"k\">Please feel free to contact me if you have any questions.</span> Nó mời người ta liên hệ mà không tạo cảm giác bạn đang ban ơn." },
+        { "t": "callout", "html": "<b>Bẫy ngữ pháp:</b> sau <i>feel free</i> <b>luôn có “to”</b>. <span class=\"k\">Feel free to ask.</span> ✓ — <i>Feel free ask.</i> ✗ — <i>Feel free to asking.</i> ✗ Ngược hẳn với <i>You can ask</i> vốn không có <i>to</i>." },
+        { "t": "h3", "text": "Vì sao nó nhẹ hơn “You can”" },
+        {
+          "t": "table",
+          "head": ["Câu", "Bạn đang làm gì", "Dùng với ai"],
+          "rows": [
+            ["<code>You can ask me anything.</code>", "Cho phép — hàm ý bạn có quyền", "Ngang hàng hoặc thấp hơn"],
+            ["<code>Feel free to ask me anything.</code>", "Gỡ bỏ ngần ngại — không có vị thế", "Ai cũng được, kể cả cấp trên"],
+            ["<code>You're welcome to ask.</code>", "Mời mọc, ấm áp", "Ai cũng được"],
+            ["<code>Don't hesitate to ask.</code>", "Trang trọng — hay dùng trong email", "Khách hàng, đối tác"]
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "📧", "title": "Kết email công việc", "text": "Bối cảnh số 1. <i>Please feel free to contact me if you have any questions.</i>" },
+            { "icon": "🏠", "title": "Chủ nhà mời khách", "text": "<i>Feel free to help yourself to anything.</i> Ấm áp mà không kẻ cả." },
+            { "icon": "🎤", "title": "Mở đầu buổi trình bày", "text": "<i>Feel free to interrupt me at any point.</i> Mời người nghe tương tác." },
+            { "icon": "👔", "title": "Nói với người mới vào", "text": "<i>Feel free to ask me anything, even small things.</i>" },
+            { "icon": "🛍", "title": "Nhân viên nói với khách", "text": "<i>Feel free to try it on.</i> Không ép mua mà vẫn mời trải nghiệm." },
+            { "icon": "🚫", "title": "Cẩn thận khi…", "text": "Nói bằng giọng lạnh, câu này có thể thành mỉa mai: <i>Feel free to try.</i> = “cứ thử xem”." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cơ bản", "<code>Feel free to + V</code>", "Feel free to ask any time."],
+            ["Trang trọng hơn", "<code>Please feel free to + V</code>", "Please feel free to contact me."],
+            ["Rất trang trọng, email", "<code>Don't hesitate to + V</code>", "Don't hesitate to get in touch."],
+            ["Gỡ nghĩa vụ", "<code>Don't feel obliged to + V</code>", "Don't feel obliged to come."],
+            ["Nói cụt, thân mật", "<code>Feel free.</code>", "“Can I take one?” — “Feel free.”"],
+            ["Mời dùng đồ", "<code>Feel free to help yourself to + N</code>", "Feel free to help yourself to coffee."],
+            ["Mời ngắt lời", "<code>Feel free to stop me if…</code>", "Feel free to stop me if anything's unclear."],
+            ["Mời phản hồi", "<code>Feel free to let me know if…</code>", "Feel free to let me know if it doesn't work."],
+            ["Dạng phủ định của người nghe", "<code>No pressure</code>", "Feel free to say no — no pressure."],
+            ["Nói về bản thân", "<code>I felt free to…</code>", "I felt free to speak my mind."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cặp đôi hoàn hảo trong email:</b> mở bằng <i>I hope you're well</i> ở [Khung 07], kết bằng <span class=\"k\">Please feel free to contact me if you have any questions.</span> Hai câu này bọc gọn mọi email công việc." },
+        { "t": "callout", "html": "<b>Đừng nhầm với nghĩa “miễn phí”:</b> <i>free</i> ở đây là <b>thoải mái, không ngần ngại</b>, không phải không mất tiền. <i>Feel free to take one</i> = cứ lấy đi, không phải “lấy miễn phí”." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ thường theo sau “Feel free to…”",
+              "items": [
+                { "w": "ask", "vi": "hỏi", "ex": "Feel free to ask if anything's unclear.", "exvi": "Chỗ nào chưa rõ bạn cứ hỏi nhé." },
+                { "w": "contact me", "vi": "liên hệ với tôi", "ex": "Please feel free to contact me any time.", "exvi": "Lúc nào anh/chị cũng cứ liên hệ với tôi nhé.", "note": "Câu kết email phổ biến nhất của khung này." },
+                { "w": "get in touch", "vi": "liên lạc", "ex": "Feel free to get in touch if you need anything.", "exvi": "Cần gì anh/chị cứ liên lạc nhé.", "note": "Thân mật hơn <i>contact me</i> một chút." },
+                { "w": "help yourself", "vi": "tự nhiên dùng", "ex": "Feel free to help yourself to coffee.", "exvi": "Bạn cứ tự nhiên lấy cà phê nhé." },
+                { "w": "take", "vi": "lấy", "ex": "Feel free to take one.", "exvi": "Bạn cứ lấy một cái đi." },
+                { "w": "look around", "vi": "xem xung quanh", "ex": "Feel free to look around.", "exvi": "Anh/chị cứ xem thoải mái ạ.", "note": "Câu nhân viên bán hàng hay nói — không ép mua." },
+                { "w": "try it on", "vi": "thử (quần áo)", "ex": "Feel free to try it on.", "exvi": "Anh/chị cứ thử ạ." },
+                { "w": "stop me", "vi": "ngắt lời tôi", "ex": "Feel free to stop me if I go too fast.", "exvi": "Tôi nói nhanh quá thì bạn cứ ngắt lời nhé." },
+                { "w": "interrupt", "vi": "cắt ngang", "ex": "Feel free to interrupt at any point.", "exvi": "Lúc nào mọi người cũng cứ cắt ngang nhé." },
+                { "w": "let me know", "vi": "báo tôi biết", "ex": "Feel free to let me know if it doesn't work.", "exvi": "Không chạy được thì bạn cứ báo tôi nhé." },
+                { "w": "disagree", "vi": "phản đối", "ex": "Feel free to disagree with me on this.", "exvi": "Chuyện này bạn cứ thoải mái phản đối tôi.", "note": "Câu rất hay khi bạn muốn nghe ý kiến thật trong cuộc họp." },
+                { "w": "say no", "vi": "từ chối", "ex": "Feel free to say no — no pressure at all.", "exvi": "Bạn cứ từ chối thoải mái — không áp lực gì đâu.", "note": "Câu tử tế nhất khi nhờ vả ai đó." },
+                { "w": "change it", "vi": "sửa lại", "ex": "Feel free to change anything you like.", "exvi": "Bạn thích sửa gì thì cứ sửa nhé." },
+                { "w": "share", "vi": "chia sẻ", "ex": "Feel free to share this with your team.", "exvi": "Bạn cứ chia sẻ cái này với nhóm của bạn nhé." },
+                { "w": "use", "vi": "dùng", "ex": "Feel free to use my desk while I'm out.", "exvi": "Tôi đi vắng thì bạn cứ dùng bàn của tôi." },
+                { "w": "call me", "vi": "gọi cho tôi", "ex": "Feel free to call me on my mobile.", "exvi": "Anh/chị cứ gọi vào số di động của tôi nhé." },
+                { "w": "bring", "vi": "mang theo", "ex": "Feel free to bring a friend.", "exvi": "Bạn cứ dẫn theo bạn bè nhé." },
+                { "w": "stay", "vi": "ở lại", "ex": "Feel free to stay as long as you like.", "exvi": "Bạn cứ ở lại bao lâu cũng được." },
+                { "w": "correct me", "vi": "sửa lỗi cho tôi", "ex": "Feel free to correct me if I'm wrong.", "exvi": "Tôi sai thì bạn cứ sửa giúp nhé.", "note": "Câu khiêm tốn rất được lòng người trong thảo luận." },
+                { "w": "skip", "vi": "bỏ qua", "ex": "Feel free to skip that part.", "exvi": "Phần đó bạn cứ bỏ qua cũng được." }
+              ]
+            },
+            {
+              "title": "Câu hoàn chỉnh nên thuộc lòng",
+              "items": [
+                { "w": "Please feel free to contact me if you have any questions.", "vi": "có thắc mắc gì anh/chị cứ liên hệ với tôi", "ex": "Please feel free to contact me if you have any questions.", "exvi": "Có thắc mắc gì anh/chị cứ liên hệ với tôi nhé.", "note": "Câu kết email chuẩn mực nhất. Thuộc nguyên khối, đừng chế biến." },
+                { "w": "Feel free to ask me anything.", "vi": "bạn cứ hỏi tôi bất cứ điều gì", "ex": "Feel free to ask me anything, even small things.", "exvi": "Bạn cứ hỏi tôi bất cứ điều gì, kể cả chuyện nhỏ." },
+                { "w": "Feel free to help yourself.", "vi": "bạn cứ tự nhiên", "ex": "There's food in the kitchen — feel free to help yourself.", "exvi": "Có đồ ăn trong bếp — bạn cứ tự nhiên nhé." },
+                { "w": "Feel free to look around.", "vi": "anh/chị cứ xem thoải mái", "ex": "Feel free to look around — just shout if you need me.", "exvi": "Anh/chị cứ xem thoải mái — cần gì thì gọi em ạ.", "note": "Câu nhân viên bán hàng hay nói khi bạn vừa bước vào." },
+                { "w": "Feel free to stop me at any point.", "vi": "lúc nào bạn cũng cứ ngắt lời tôi", "ex": "This is quite technical — feel free to stop me at any point.", "exvi": "Phần này hơi kỹ thuật — lúc nào mọi người cũng cứ ngắt lời tôi nhé." },
+                { "w": "Feel free to say no.", "vi": "bạn cứ từ chối thoải mái", "ex": "Feel free to say no — I won't be offended.", "exvi": "Bạn cứ từ chối thoải mái — mình không phật lòng đâu.", "note": "Thêm câu này khi nhờ vả thì người kia dễ thở hơn hẳn." },
+                { "w": "Feel free to correct me if I'm wrong.", "vi": "tôi sai thì bạn cứ sửa", "ex": "Feel free to correct me if I'm wrong about this.", "exvi": "Chuyện này tôi sai thì bạn cứ sửa giúp nhé." },
+                { "w": "Don't hesitate to get in touch.", "vi": "đừng ngần ngại liên lạc", "ex": "Don't hesitate to get in touch if anything comes up.", "exvi": "Có chuyện gì anh/chị đừng ngần ngại liên lạc nhé.", "note": "Trang trọng hơn — hợp với khách hàng và đối tác." },
+                { "w": "Don't feel obliged to…", "vi": "bạn đừng thấy có nghĩa vụ phải…", "ex": "Don't feel obliged to come if you're tired.", "exvi": "Mệt thì bạn đừng thấy phải đến nhé.", "note": "Gỡ nghĩa vụ — tử tế nhất khi mời ai đó." },
+                { "w": "No pressure", "vi": "không áp lực gì đâu", "ex": "Have a think about it — no pressure.", "exvi": "Bạn suy nghĩ đi — không áp lực gì đâu.", "note": "Thêm ở cuối câu để người kia thoải mái từ chối." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại & cụm gần nghĩa",
+              "items": [
+                { "w": "Thanks, I will", "vi": "cảm ơn, mình sẽ làm vậy", "ex": "Thanks, I will — that's kind of you.", "exvi": "Cảm ơn nhé, mình sẽ làm vậy — bạn tử tế quá." },
+                { "w": "That's very kind", "vi": "bạn tử tế quá", "ex": "That's very kind of you, thank you.", "exvi": "Bạn tử tế quá, cảm ơn bạn." },
+                { "w": "I might take you up on that", "vi": "chắc mình sẽ nhận lời đấy", "ex": "I might take you up on that.", "exvi": "Chắc mình sẽ nhận lời đấy nhé.", "note": "<i>take someone up on something</i> = nhận lời đề nghị của ai. Cụm rất tự nhiên." },
+                { "w": "You're welcome to…", "vi": "mời bạn cứ…", "ex": "You're welcome to join us.", "exvi": "Mời bạn tham gia cùng chúng tôi.", "note": "Gần nghĩa, ấm áp. Xem [Khung 24]." },
+                { "w": "Be my guest", "vi": "bạn cứ tự nhiên", "ex": "“Can I take the last one?” — “Be my guest.”", "exvi": "“Mình lấy cái cuối cùng nhé?” — “Bạn cứ tự nhiên.”", "note": "Thân mật và hơi hài hước." },
+                { "w": "Go ahead", "vi": "cứ làm đi", "ex": "“Mind if I open the window?” — “Go ahead.”", "exvi": "“Tôi mở cửa sổ nhé?” — “Bạn cứ mở.”", "note": "Ngắn gọn nhất. Xem [Khung 29]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Please feel free to contact me if you have any questions.",
+                  "vi": "Có thắc mắc gì anh/chị cứ liên hệ với tôi nhé.",
+                  "note": "Câu kết email chuẩn mực nhất. Thuộc nguyên khối — người bản xứ dùng y hệt như vậy.",
+                  "reply": [
+                    { "them": "Will do, thanks for your help.", "themvi": "Vâng, cảm ơn anh/chị đã hỗ trợ.", "you": "Any time.", "youvi": "Không có gì đâu ạ." }
+                  ],
+                  "vars": [
+                    { "en": "Don't hesitate to get in touch.", "vi": "Anh/chị đừng ngần ngại liên lạc nhé." },
+                    { "en": "Feel free to call me on my mobile.", "vi": "Anh/chị cứ gọi vào số di động của tôi." }
+                  ]
+                },
+                {
+                  "en": "Feel free to ask me anything, even small things.",
+                  "vi": "Bạn cứ hỏi tôi bất cứ điều gì, kể cả chuyện nhỏ.",
+                  "note": "Câu nên nói với người mới vào nhóm — vế <i>even small things</i> gỡ đúng nỗi ngại lớn nhất của họ.",
+                  "open": { "en": "Welcome to the team —", "vi": "Chào mừng bạn đến với nhóm —" },
+                  "reply": [
+                    { "them": "Thanks, I'm sure I'll have a lot.", "themvi": "Cảm ơn anh/chị, chắc em sẽ hỏi nhiều lắm.", "you": "Good — that's how you learn fastest.", "youvi": "Tốt — hỏi nhiều thì học nhanh nhất." }
+                  ],
+                  "close": { "en": "No question is too basic.", "vi": "Không có câu hỏi nào là quá cơ bản đâu." }
+                },
+                {
+                  "en": "This is quite technical — feel free to stop me at any point.",
+                  "vi": "Phần này hơi kỹ thuật — lúc nào mọi người cũng cứ ngắt lời tôi nhé.",
+                  "note": "Nói câu này ở đầu buổi trình bày là người nghe dám hỏi hơn hẳn.",
+                  "reply": [
+                    { "them": "Actually, can you explain that last part again?", "themvi": "Thật ra anh giải thích lại phần vừa rồi được không?", "you": "Of course — let me go back a slide.", "youvi": "Tất nhiên rồi — để tôi quay lại một slide." }
+                  ]
+                },
+                {
+                  "en": "Feel free to disagree with me on this.",
+                  "vi": "Chuyện này bạn cứ thoải mái phản đối tôi.",
+                  "note": "Câu mở đường cho ý kiến thật. Không có nó thì cấp dưới thường chỉ gật đầu cho xong.",
+                  "reply": [
+                    { "them": "Since you ask — I think the timeline is too tight.", "themvi": "Anh đã hỏi thì — em thấy tiến độ quá gấp.", "you": "That's useful. Tell me more.", "youvi": "Ý đó hữu ích đấy. Em nói rõ hơn đi." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "There's food in the kitchen — feel free to help yourself.",
+                  "vi": "Có đồ ăn trong bếp — bạn cứ tự nhiên nhé.",
+                  "note": "Chủ nhà nói với khách. Ấm áp mà không có chút kẻ cả nào.",
+                  "reply": [
+                    { "them": "Thanks! Where are the plates?", "themvi": "Cảm ơn nhé! Đĩa ở đâu vậy?", "you": "Cupboard above the sink.", "youvi": "Tủ phía trên bồn rửa ấy." }
+                  ],
+                  "close": { "en": "Just make yourself at home.", "vi": "Cứ tự nhiên như ở nhà nhé." }
+                },
+                {
+                  "en": "Feel free to say no — I won't be offended.",
+                  "vi": "Bạn cứ từ chối thoải mái — mình không phật lòng đâu.",
+                  "note": "Thêm câu này vào cuối lời nhờ vả là người kia dễ thở hẳn, và bạn cũng dễ nhận được câu trả lời thật.",
+                  "reply": [
+                    { "them": "Honestly, this weekend is packed.", "themvi": "Thật ra cuối tuần này mình kín lịch rồi.", "you": "No problem at all — another time.", "youvi": "Không sao đâu — để hôm khác." }
+                  ],
+                  "vars": [
+                    { "en": "Don't feel obliged to come if you're tired.", "vi": "Mệt thì bạn đừng thấy phải đến nhé." }
+                  ]
+                },
+                {
+                  "en": "Feel free to bring a friend if you want.",
+                  "vi": "Muốn thì bạn cứ dẫn theo bạn bè nhé.",
+                  "reply": [
+                    { "them": "Great — is two OK?", "themvi": "Tuyệt — hai người được không?", "you": "Two is fine. I'll book a bigger table.", "youvi": "Hai người cũng được. Mình đặt bàn to hơn." }
+                  ]
+                },
+                {
+                  "en": "Feel free to stay as long as you like.",
+                  "vi": "Bạn cứ ở lại bao lâu cũng được.",
+                  "reply": [
+                    { "them": "That's very kind, thank you.", "themvi": "Bạn tử tế quá, cảm ơn nhé.", "you": "Honestly, it's nice having you here.", "youvi": "Thật đấy, có bạn ở đây vui mà." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Feel free to look around — just shout if you need me.",
+                  "vi": "Anh/chị cứ xem thoải mái — cần gì thì gọi em ạ.",
+                  "note": "Câu nhân viên bán hàng hay nói. Nghe quen để biết là bạn không bị theo sát.",
+                  "reply": [
+                    { "them": "Thanks, I'm just browsing.", "themvi": "Cảm ơn bạn, tôi chỉ xem thôi.", "you": "No problem at all.", "youvi": "Không sao đâu ạ." }
+                  ]
+                },
+                {
+                  "en": "Feel free to try it on before you decide.",
+                  "vi": "Anh/chị cứ thử trước khi quyết định ạ.",
+                  "reply": [
+                    { "them": "Where's the fitting room?", "themvi": "Phòng thử đồ ở đâu ạ?", "you": "Just behind you, on the right.", "youvi": "Ngay sau lưng anh/chị, bên phải ạ." }
+                  ]
+                },
+                {
+                  "en": "Feel free to take one — they're samples.",
+                  "vi": "Anh/chị cứ lấy một cái — hàng mẫu ạ.",
+                  "note": "<i>free</i> ở đây là “thoải mái”, không phải “miễn phí” — nhưng vế sau mới nói rõ là hàng mẫu.",
+                  "reply": [
+                    { "them": "Oh, thank you!", "themvi": "Ồ, cảm ơn bạn!", "you": "Let me know what you think.", "youvi": "Anh/chị dùng thử thấy sao thì báo em nhé." }
+                  ]
+                },
+                {
+                  "en": "Feel free to come back if it doesn't fit.",
+                  "vi": "Không vừa thì anh/chị cứ quay lại ạ.",
+                  "reply": [
+                    { "them": "How long do I have?", "themvi": "Tôi có bao nhiêu ngày ạ?", "you": "Thirty days with the receipt.", "youvi": "Ba mươi ngày, có biên lai ạ." }
+                  ],
+                  "close": { "en": "Thanks — that's reassuring.", "vi": "Cảm ơn — vậy tôi yên tâm rồi." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Feel free to help yourself to coffee — it's over there.",
+                  "vi": "Bạn cứ tự nhiên lấy cà phê nhé — ở đằng kia.",
+                  "reply": [
+                    { "them": "Thanks, I will.", "themvi": "Cảm ơn nhé, mình lấy đây.", "you": "Milk's in the fridge.", "youvi": "Sữa ở trong tủ lạnh." }
+                  ]
+                },
+                {
+                  "en": "Feel free to order whatever you like — it's on me.",
+                  "vi": "Bạn cứ gọi gì cũng được — mình mời.",
+                  "note": "<span class=\"k\">it's on me</span> = mình trả tiền. Câu mời ăn rõ ràng và hào phóng.",
+                  "reply": [
+                    { "them": "Are you sure? That's too generous.", "themvi": "Bạn chắc chứ? Hào phóng quá đấy.", "you": "Positive. Order the good stuff.", "youvi": "Chắc chắn. Cứ gọi món ngon đi." }
+                  ],
+                  "close": { "en": "Next time's on you.", "vi": "Lần sau đến lượt bạn nhé." }
+                },
+                {
+                  "en": "Feel free to swap anything you don't like.",
+                  "vi": "Món nào không hợp bạn cứ đổi nhé.",
+                  "reply": [
+                    { "them": "Could I have rice instead of fries?", "themvi": "Cho tôi cơm thay khoai chiên được không ạ?", "you": "Of course, I'll change it.", "youvi": "Vâng ạ, em đổi cho anh/chị." }
+                  ]
+                },
+                {
+                  "en": "Feel free to take the rest home.",
+                  "vi": "Phần còn lại bạn cứ mang về nhé.",
+                  "reply": [
+                    { "them": "Could I get a box then?", "themvi": "Vậy cho tôi xin cái hộp nhé?", "you": "I'll bring one over.", "youvi": "Em mang ra ngay ạ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Feel free to use the lounge while you wait.",
+                  "vi": "Trong lúc chờ anh/chị cứ dùng phòng chờ ạ.",
+                  "reply": [
+                    { "them": "Is there wifi in there?", "themvi": "Trong đó có wifi không ạ?", "you": "Yes, the password's on your key card.", "youvi": "Có ạ, mật khẩu ở trên thẻ phòng." }
+                  ]
+                },
+                {
+                  "en": "Feel free to leave your bags with us.",
+                  "vi": "Anh/chị cứ gửi hành lý ở chỗ chúng tôi ạ.",
+                  "reply": [
+                    { "them": "Until what time?", "themvi": "Đến mấy giờ ạ?", "you": "Until eight this evening.", "youvi": "Đến tám giờ tối ạ." }
+                  ]
+                },
+                {
+                  "en": "Feel free to ask me anything about the city.",
+                  "vi": "Anh/chị cứ hỏi tôi bất cứ gì về thành phố này nhé.",
+                  "note": "Câu rất được lòng khách khi bạn đóng vai chủ nhà hoặc hướng dẫn viên.",
+                  "reply": [
+                    { "them": "Actually, where would you eat tonight?", "themvi": "Thật ra tối nay bạn sẽ ăn ở đâu?", "you": "There's a great place two streets down.", "youvi": "Có một quán rất ngon cách đây hai con phố." }
+                  ],
+                  "close": { "en": "Enjoy your stay.", "vi": "Chúc anh/chị có kỳ nghỉ vui vẻ." }
+                },
+                {
+                  "en": "Feel free to change seats once we take off.",
+                  "vi": "Cất cánh xong anh/chị cứ đổi chỗ thoải mái ạ.",
+                  "reply": [
+                    { "them": "Great — the row behind looks empty.", "themvi": "Tuyệt — hàng phía sau có vẻ trống.", "you": "Yes, it's all yours.", "youvi": "Vâng, anh/chị cứ ngồi ạ." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Đón người mới vào nhóm",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Welcome to the team! Feel free to ask me anything, even small things.", "vi": "Chào mừng bạn vào nhóm! Bạn cứ hỏi mình bất cứ điều gì, kể cả chuyện nhỏ." },
+            { "speaker": "New hire", "en": "Thanks. I'm sure I'll have a lot of questions.", "vi": "Cảm ơn anh. Chắc em sẽ hỏi nhiều lắm." },
+            { "speaker": "You", "me": true, "en": "Good. And feel free to correct me if I explain something badly.", "vi": "Tốt. Với lại anh giải thích dở chỗ nào thì em cứ nói nhé." },
+            { "speaker": "New hire", "en": "I'll try! Where do I find the process documents?", "vi": "Em sẽ cố ạ! Tài liệu quy trình tìm ở đâu ạ?" },
+            { "speaker": "You", "me": true, "en": "Shared drive. Feel free to use my desk if you need a quiet spot.", "vi": "Ở ổ đĩa chung. Cần chỗ yên tĩnh thì em cứ dùng bàn của anh." },
+            { "speaker": "New hire", "en": "That's very kind, thank you.", "vi": "Anh tử tế quá, em cảm ơn ạ." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Nhờ vả mà không tạo áp lực",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Could I ask a favour? And feel free to say no.", "vi": "Mình nhờ bạn một việc được không? Mà bạn cứ từ chối thoải mái nhé." },
+            { "speaker": "Friend", "en": "Go on, what is it?", "vi": "Nói đi, việc gì vậy?" },
+            { "speaker": "You", "me": true, "en": "Could you look after my cat next weekend?", "vi": "Cuối tuần sau bạn trông giúp mình con mèo được không?" },
+            { "speaker": "Friend", "en": "I'm away Saturday, but Sunday's fine.", "vi": "Thứ Bảy mình đi vắng, nhưng Chủ nhật thì được." },
+            { "speaker": "You", "me": true, "en": "That helps a lot. Don't feel obliged to do the whole weekend.", "vi": "Vậy đỡ nhiều rồi. Bạn đừng thấy phải trông cả cuối tuần nhé." },
+            { "speaker": "Friend", "en": "Sunday it is. Leave me the keys.", "vi": "Vậy Chủ nhật. Để chìa khóa lại cho mình." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Feel free ask me anything.", "right": "Feel free to ask me anything.", "why": "Sau <b>feel free</b> luôn phải có <b>to</b>. Lỗi số một của khung này." },
+            { "wrong": "Feel free to asking.", "right": "Feel free to ask.", "why": "Sau <b>to</b> là động từ nguyên thể, không phải V-ing." },
+            { "wrong": "Feel free for ask.", "right": "Feel free to ask.", "why": "Không dùng <i>for</i>. Cấu trúc cố định là <b>feel free to + V</b>." },
+            { "wrong": "You feel free to ask.", "right": "Feel free to ask.", "why": "Đây là câu mệnh lệnh nên <b>không có chủ ngữ</b>." },
+            { "wrong": "Feel free to take one. <i>(ý: miễn phí)</i>", "right": "Help yourself — they're free.", "why": "<b>free</b> trong <i>feel free</i> là “thoải mái”, không phải “miễn phí”. Muốn nói miễn phí thì phải nói rõ." },
+            { "wrong": "Don't feel free to come.", "right": "Don't feel obliged to come.", "why": "Phủ định của khung này là <b>don't feel obliged to</b> (đừng thấy có nghĩa vụ), không phải <i>don't feel free</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>Feel free to + V</code>", "Gỡ ngần ngại — không có trên dưới", "<i>Feel free to ask.</i>"],
+            ["<code>You can + V</code>", "Cho phép — hàm ý bạn có quyền", "<i>You can ask.</i> — Xem [Khung 24]."],
+            ["<code>You're welcome to + V</code>", "Mời mọc, ấm áp", "<i>You're welcome to ask.</i> — Xem [Khung 24]."],
+            ["<code>Don't hesitate to + V</code>", "Trang trọng — email, khách hàng", "<i>Don't hesitate to contact me.</i>"],
+            ["<code>Don't feel obliged to + V</code>", "Gỡ nghĩa vụ — phủ định", "<i>Don't feel obliged to come.</i>"],
+            ["<code>Go ahead</code>", "Đồng ý ngắn gọn khi ai đó vừa xin", "<i>Go ahead.</i> — Xem [Khung 29]."],
+            ["<code>Be my guest</code>", "Thân mật, hơi hài hước", "<i>Be my guest.</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — mời ai đó cứ hỏi" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Ask me if you need to.", "vi": "Khô — như một chỉ dẫn" },
+            { "en": "You can ask me anything.", "vi": "Cho phép — có vị thế trên dưới" },
+            { "en": "Feel free to ask me anything.", "vi": "Gỡ ngần ngại — không có trên dưới" },
+            { "en": "You're welcome to ask any time.", "vi": "Ấm áp — mời mọc" },
+            { "en": "Please don't hesitate to ask.", "vi": "Trang trọng — email, khách hàng" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>feel</b> = /fiːl/ — nguyên âm <b>dài</b>. Đọc ngắn thành /fɪl/ sẽ ra từ <i>fill</i> (đổ đầy).",
+            "<b>Feel free</b> — hai âm /l/ và /f/ nối liền, nghe thành “fiil-FRII”, nhấn vào <i>free</i>.",
+            "<b>free to</b> → “frii-tə”, <i>to</i> giảm thành /tə/ rất nhẹ nhưng bắt buộc phải có.",
+            "<b>Feel free to ask</b> → “fiil-frii-tə-ASK” — cả cụm đầu nói nhanh, nhấn vào động từ chính.",
+            "<b>Please feel free to</b> → “pliiz-fiil-frii-tə” — bốn âm tiết nói liền một hơi.",
+            "<b>Ngữ điệu quyết định sắc thái:</b> giọng ấm và đi lên nhẹ là lời mời; giọng phẳng và lạnh có thể thành mỉa mai."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Please feel free to contact me if you have any questions.", "vi": "Luyện shadowing: câu kết email — lặp 10 lần cho thành phản xạ." },
+            { "en": "Feel free to say no — no pressure at all.", "vi": "Chú ý giọng ấm ở cuối, nếu không câu sẽ nghe như đang thử lòng người ta." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Chỗ nào chưa rõ bạn cứ hỏi nhé.", "blank": "__________ ask if anything's unclear.", "a": "Feel free to" },
+            { "vi": "Có thắc mắc gì anh/chị cứ liên hệ với tôi nhé.", "blank": "Please __________ me if you have any questions.", "a": "feel free to contact" },
+            { "vi": "Bạn cứ tự nhiên lấy cà phê nhé.", "blank": "Feel free to __________ to coffee.", "a": "help yourself" },
+            { "vi": "Bạn cứ từ chối thoải mái — không áp lực gì đâu.", "blank": "Feel free to say no — __________.", "a": "no pressure" },
+            { "vi": "Mệt thì bạn đừng thấy phải đến nhé.", "blank": "__________ come if you're tired.", "a": "Don't feel obliged to" },
+            { "vi": "Có chuyện gì anh/chị đừng ngần ngại liên lạc nhé.", "blank": "__________ get in touch if anything comes up.", "a": "Don't hesitate to" },
+            { "vi": "Tôi nói nhanh quá thì bạn cứ ngắt lời nhé.", "blank": "Feel free to __________ if I go too fast.", "a": "stop me" },
+            { "vi": "Chuyện này tôi sai thì bạn cứ sửa giúp nhé.", "blank": "Feel free to __________ if I'm wrong.", "a": "correct me" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Anh/chị cứ xem thoải mái — cần gì thì gọi em ạ.", "a": "Feel free to look around — just shout if you need me." },
+            { "vi": "2. Bạn cứ hỏi tôi bất cứ điều gì, kể cả chuyện nhỏ.", "a": "Feel free to ask me anything, even small things." },
+            { "vi": "3. Bạn cứ ở lại bao lâu cũng được.", "a": "Feel free to stay as long as you like." },
+            { "vi": "4. Chuyện này bạn cứ thoải mái phản đối tôi.", "a": "Feel free to disagree with me on this." },
+            { "vi": "5. Bạn cứ gọi gì cũng được — mình mời.", "a": "Feel free to order whatever you like — it's on me." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Dùng thay “You can” khi nói với người trên:</b> <i>Feel free to</i> không có vị thế trên dưới nên không bao giờ nghe kẻ cả.",
+            "<b>Thuộc câu kết email nguyên khối:</b> <i>Please feel free to contact me if you have any questions.</i> Đừng chế biến — người bản xứ dùng y hệt vậy.",
+            "<b>Nhớ chữ “to”:</b> <i>feel free <b>to</b> ask</i>. Đây là điểm ngược với <i>You can ask</i> (không to) nên rất dễ lẫn.",
+            "<b>Thêm “Feel free to say no” khi nhờ vả:</b> người kia dễ thở hơn hẳn, và bạn nhận được câu trả lời thật thay vì lời hứa miễn cưỡng.",
+            "<b>Giữ giọng ấm:</b> nói bằng giọng lạnh thì câu này thành mỉa mai — <i>Feel free to try</i> có thể nghĩa là “cứ thử xem, rồi biết”.",
+            "<b>Bài tập 3 phút:</b> viết lại 5 câu <i>You can…</i> bạn hay dùng thành <i>Feel free to…</i>, rồi đọc to cả hai để cảm nhận sự khác biệt về vị thế."
+          ]
+        }
+      ]
+    }
+  ]
+}

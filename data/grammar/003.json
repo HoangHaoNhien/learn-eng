@@ -1,0 +1,277 @@
+{
+  "id": 3,
+  "group": "Nhóm 3 · Thì hiện tại & quá khứ",
+  "title": "Quá khứ đơn — việc đã xong hẳn",
+  "subtitle": "Thì kể chuyện. Hai bẫy nằm cạnh nhau: tiếng Việt không chia động từ nên ta hay quên đuôi -ed, nhưng ngay khi câu có did hoặc didn't thì dấu quá khứ đó lại phải biến mất — I didn't went ✗ là lỗi kinh điển nhất.",
+  "meaning": "Việc đã xảy ra và kết thúc ở một thời điểm xác định trong quá khứ",
+  "rule": [
+    "S + V<em>-ed</em> / V2",
+    "S + <em>did not</em> + V trần",
+    "<em>Did</em> + S + V trần?"
+  ],
+  "tags": [
+    { "text": "Trình độ: A1–A2", "hot": true },
+    { "text": "Sau did/didn't → V trần" },
+    { "text": "Bẫy: quên đuôi -ed" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [79, 88, 93, 95, 96],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Quá khứ đơn dùng cho việc <b>đã xảy ra và kết thúc hẳn</b>, ở một thời điểm xác định trong quá khứ. Chính chữ “xác định” là chìa khóa: nó đi được với <i>yesterday, last week, in 2019, two hours ago, when I was young</i> — những mốc mà thì hoàn thành không dùng được." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — và là lỗi kinh điển nhất:</b> khi câu đã có <b>did</b> hoặc <b>didn't</b> thì động từ <b>trở về dạng TRẦN</b>.<br>• <i>I <b>didn't go</b></i> ✓ — <i>I didn't went</i> ✗<br>• <i>Did you <b>see</b> it?</i> ✓ — <i>Did you saw it?</i> ✗<br>Vì <i>did</i> đã mang dấu quá khứ rồi, không đánh dấu hai lần." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI:</b> ở câu khẳng định thì phải có đuôi <b>-ed</b> hoặc dạng <b>V2</b>. <i>Yesterday I <b>walked</b> home</i> ✓ — <i>Yesterday I walk home</i> ✗. Tiếng Việt không chia động từ nên đây là lỗi lộ rõ nhất của người học Việt." },
+        { "t": "h3", "text": "Quy tắc thêm -ed cho động từ có quy tắc" },
+        {
+          "t": "table",
+          "head": ["Đuôi động từ", "Cách thêm", "Ví dụ"],
+          "rows": [
+            ["Hầu hết các động từ", "<code>+ ed</code>", "work → work<b>ed</b> · watch → watch<b>ed</b>"],
+            ["Tận cùng <code>-e</code>", "<code>+ d</code>", "liv<b>e</b> → live<b>d</b> · clos<b>e</b> → close<b>d</b>"],
+            ["Phụ âm + <code>y</code>", "<code>-ied</code>", "stud<b>y</b> → stud<b>ied</b> · tr<b>y</b> → tr<b>ied</b>"],
+            ["1 nguyên âm + 1 phụ âm, nhấn âm cuối", "gấp đôi phụ âm", "sto<b>p</b> → sto<b>pp</b>ed · pla<b>n</b> → pla<b>nn</b>ed"]
+          ]
+        },
+        { "t": "p", "html": "<b>Đuôi <i>-ed</i> có ba cách đọc</b>, và chỉ một trong ba thêm hẳn một âm tiết: <b>/t/</b> sau âm vô thanh (<i>walked</i> → “wokt”), <b>/d/</b> sau âm hữu thanh (<i>lived</i> → “livd”), <b>/ɪd/</b> chỉ khi động từ kết thúc bằng <b>/t/</b> hoặc <b>/d/</b> (<i>wanted</i> → “WON-tid”). Đọc <i>walked</i> thành “wok-kid” là lỗi rất lộ." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Khẳng định — có quy tắc", "<code>S + V-ed</code>", "I worked here."],
+            ["Khẳng định — bất quy tắc", "<code>S + V2</code>", "I went there."],
+            ["Phủ định", "<code>S + didn't + V trần</code>", "I didn't go."],
+            ["Câu hỏi", "<code>Did + S + V trần?</code>", "Did you see it?"],
+            ["Trả lời ngắn", "<code>Yes/No, S + did/didn't.</code>", "Yes, I did. · No, I didn't."],
+            ["Câu hỏi có từ để hỏi", "<code>Từ hỏi + did + S + V trần?</code>", "What did you do?"],
+            ["Câu hỏi về CHỦ NGỮ", "<code>Who + V2?</code> — không có <i>did</i>", "Who told you?"],
+            ["Động từ <code>be</code> — khẳng định", "<code>was / were</code>", "I was late. They were late."],
+            ["Động từ <code>be</code> — phủ định", "<code>wasn't / weren't</code>", "I wasn't ready."],
+            ["Động từ <code>be</code> — câu hỏi", "<code>Was/Were + S?</code>", "Were you there?"],
+            ["Có <code>be</code> thì KHÔNG dùng <code>did</code>", "<code>was/were</code> tự làm hết", "Was he late? — <i>Did he was</i> ✗"],
+            ["Việc xảy ra TRƯỚC đó nữa", "<code>had + V3</code>", "I had already left."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Hai dòng cuối là chỗ hay sai:</b> động từ <b>be</b> không bao giờ mượn <i>did</i> — <i>Was he late?</i> ✓, <i>Did he was late?</i> ✗. Và khi từ để hỏi chính là <b>chủ ngữ</b> thì cũng bỏ <i>did</i>: <i>Who told you?</i> ✓, <i>Who did tell you?</i> ✗." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I worked there for three years.", "vi": "Tôi từng làm ở đó ba năm.", "note": "Việc ĐÃ KẾT THÚC. So với <i>I've worked there</i> = vẫn đang làm. Xem [Khung 94]." },
+            { "en": "Yesterday I walked home.", "vi": "Hôm qua tôi đi bộ về nhà.", "note": "BẪY SỐ HAI: đừng quên đuôi <b>-ed</b>." },
+            { "en": "I didn't go in the end.", "vi": "Cuối cùng tôi không đi.", "note": "BẪY SỐ MỘT: sau <i>didn't</i> là ĐỘNG TỪ TRẦN. <i>I didn't went</i> ✗." },
+            { "en": "Did you see the email?", "vi": "Anh/chị đã xem email chưa?", "note": "Câu hỏi cũng dùng động từ trần: <i>Did you saw</i> ✗." },
+            { "en": "When I was a child, I lived in Hue.", "vi": "Hồi tôi còn nhỏ, tôi sống ở Huế.", "note": "Vế <i>when</i> đứng trước thì có DẤU PHẨY. Xem [Khung 96]." },
+            { "en": "She studied law at university.", "vi": "Cô ấy học luật ở đại học.", "note": "Phụ âm + <b>y</b> nên đổi thành <b>-ied</b>." },
+            { "en": "We stopped at a café on the way.", "vi": "Dọc đường bọn tôi dừng ở một quán cà phê.", "note": "1 nguyên âm + 1 phụ âm, nhấn âm cuối nên GẤP ĐÔI: <i>stopped</i>." },
+            { "en": "He told me yesterday.", "vi": "Hôm qua anh ấy nói với tôi.", "note": "V2 của <i>tell</i> là <b>told</b> — bất quy tắc, phải thuộc." },
+            { "en": "I was late because the bus didn't come.", "vi": "Tôi muộn vì xe buýt không đến.", "note": "<i>was</i> đứng một mình, còn vế sau mượn <i>didn't</i> cho động từ thường." },
+            { "en": "Who told you that?", "vi": "Ai nói với bạn chuyện đó?", "note": "Từ hỏi là CHỦ NGỮ nên KHÔNG có <i>did</i>, và động từ vẫn ở V2." },
+            { "en": "I'm sorry I didn't call you.", "vi": "Xin lỗi vì tôi đã không gọi cho bạn.", "note": "Mẫu xin lỗi rất thông dụng. Xem [Khung 79]." },
+            { "en": "I should have told you.", "vi": "Đáng lẽ tôi nên nói với bạn.", "note": "Sau <i>should have</i> là V3, không phải V2. Xem [Khung 88]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "📅", "title": "Có mốc quá khứ rõ", "text": "<i>yesterday, last week, in 2019, two hours ago</i>" },
+            { "icon": "📖", "title": "Kể một câu chuyện", "text": "<i>I arrived, then I saw…</i> Chuỗi việc nối tiếp nhau." },
+            { "icon": "🧒", "title": "Nói về một giai đoạn đã qua", "text": "<i>When I was a child, I lived in Hue.</i> Xem [Khung 96]." },
+            { "icon": "💼", "title": "Công việc cũ", "text": "<i>I worked there for three years.</i> — giờ đã nghỉ." },
+            { "icon": "🙇", "title": "Xin lỗi một việc đã làm", "text": "<i>I'm sorry I didn't call.</i> Xem [Khung 79]." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Việc kéo dài đến tận bây giờ. Lúc đó là <i>I've been…</i> — xem [Khung 94]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ bất quy tắc hay dùng (V2)",
+              "items": [
+                { "w": "go → went", "vi": "đi", "ex": "I went there every summer.", "exvi": "Hè nào tôi cũng đến đó.", "note": "Nhưng sau <i>didn't</i> thì trở về <b>go</b>: <i>I didn't go</i> ✓." },
+                { "w": "see → saw", "vi": "thấy", "ex": "I saw him yesterday.", "exvi": "Hôm qua tôi thấy anh ấy.", "note": "V2 là <b>saw</b>, V3 là <i>seen</i>. Đừng lẫn — xem [Khung 95]." },
+                { "w": "be → was / were", "vi": "thì, là, ở", "ex": "I was late. They were late.", "exvi": "Tôi muộn. Họ muộn.", "note": "<b>was</b> cho I/he/she/it · <b>were</b> cho you/we/they." },
+                { "w": "have → had", "vi": "có", "ex": "We had no phones back then.", "exvi": "Hồi đó chúng tôi không có điện thoại." },
+                { "w": "take → took", "vi": "lấy, đi (xe)", "ex": "I took the bus every day.", "exvi": "Ngày nào tôi cũng đi xe buýt." },
+                { "w": "tell → told", "vi": "nói với", "ex": "He told me yesterday.", "exvi": "Hôm qua anh ấy nói với tôi." },
+                { "w": "think → thought", "vi": "nghĩ", "ex": "I thought it was fine.", "exvi": "Tôi cứ tưởng là ổn.", "note": "Đọc /θɔːt/ — KHÔNG phát âm chữ <i>gh</i>." },
+                { "w": "eat → ate", "vi": "ăn", "ex": "I ate there every day.", "exvi": "Ngày nào tôi cũng ăn ở đó.", "note": "V3 là <i>eaten</i> — <i>I've just ate</i> ✗." },
+                { "w": "meet → met", "vi": "gặp", "ex": "We met at university.", "exvi": "Chúng tôi gặp nhau ở đại học.", "note": "Một chữ <i>e</i>. <i>meeted</i> ✗." },
+                { "w": "leave → left", "vi": "rời đi", "ex": "I left at six.", "exvi": "Sáu giờ tôi đi." },
+                { "w": "buy → bought", "vi": "mua", "ex": "I bought it here last year.", "exvi": "Tôi mua nó ở đây năm ngoái." },
+                { "w": "grow up → grew up", "vi": "lớn lên", "ex": "I grew up in Hue.", "exvi": "Tôi lớn lên ở Huế.", "note": "Câu làm quen rất tự nhiên. Xem [Khung 74]." }
+              ]
+            },
+            {
+              "title": "Mốc thời gian & từ nối kể chuyện",
+              "items": [
+                { "w": "yesterday", "vi": "hôm qua", "ex": "I saw him yesterday.", "exvi": "Hôm qua tôi thấy anh ấy.", "note": "Mốc quá khứ rõ — đi với quá khứ đơn, KHÔNG đi với thì hoàn thành." },
+                { "w": "last week / last year", "vi": "tuần trước / năm ngoái", "ex": "I bought it last year.", "exvi": "Tôi mua nó năm ngoái.", "note": "Không có giới từ trước <i>last</i>: <i>in last year</i> ✗." },
+                { "w": "two hours ago", "vi": "cách đây hai tiếng", "ex": "He left two hours ago.", "exvi": "Anh ấy đi cách đây hai tiếng.", "note": "<i>ago</i> đứng SAU khoảng thời gian, và luôn đi với quá khứ đơn." },
+                { "w": "in 2019", "vi": "vào năm 2019", "ex": "I worked there in 2019.", "exvi": "Năm 2019 tôi làm ở đó." },
+                { "w": "when I was a child", "vi": "hồi tôi còn nhỏ", "ex": "When I was a child, I lived in Hue.", "exvi": "Hồi nhỏ tôi sống ở Huế.", "note": "Vế này đứng trước thì có DẤU PHẨY sau nó. Xem [Khung 96]." },
+                { "w": "at first", "vi": "ban đầu", "ex": "At first I hated it.", "exvi": "Ban đầu tôi ghét nó." },
+                { "w": "then", "vi": "rồi sau đó", "ex": "Then I moved to Hanoi.", "exvi": "Rồi tôi chuyển ra Hà Nội." },
+                { "w": "after that", "vi": "sau đó", "ex": "After that, things got better.", "exvi": "Sau đó mọi thứ khá hơn." },
+                { "w": "suddenly", "vi": "đột nhiên", "ex": "Suddenly the lights went out.", "exvi": "Đột nhiên đèn tắt phụt.", "note": "Mở đầu một khúc ngoặt — rất hiệu quả khi kể chuyện." },
+                { "w": "in the end", "vi": "cuối cùng thì", "ex": "In the end, I stayed.", "exvi": "Cuối cùng tôi ở lại.", "note": "KHÁC <i>at the end</i> (ở cuối một thứ gì đó): <i>at the end of the film</i>." },
+                { "w": "back then", "vi": "hồi đó", "ex": "Back then, everything was cheaper.", "exvi": "Hồi đó mọi thứ rẻ hơn." },
+                { "w": "used to + V", "vi": "ngày xưa hay", "ex": "I used to walk to school.", "exvi": "Ngày xưa tôi hay đi bộ đến trường.", "note": "Nhấn vào thói quen ĐÃ CHẤM DỨT, còn quá khứ đơn chỉ kể sự việc. Xem [Khung 93]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I <b>didn't went</b> in the end.", "right": "I <b>didn't go</b> in the end.", "why": "BẪY SỐ MỘT, lỗi kinh điển nhất. <i>did</i> đã mang dấu quá khứ nên động từ trở về dạng TRẦN." },
+            { "wrong": "<b>Did you saw</b> it?", "right": "<b>Did you see</b> it?", "why": "Câu hỏi cũng vậy. Chỉ <i>did</i> mang dấu quá khứ, không đánh dấu hai lần." },
+            { "wrong": "Yesterday I <b>walk</b> home.", "right": "Yesterday I <b>walked</b> home.", "why": "BẪY SỐ HAI: câu khẳng định bắt buộc có đuôi <b>-ed</b>. Tiếng Việt không chia động từ nên rất dễ quên." },
+            { "wrong": "He <b>studyed</b> law.", "right": "He <b>studied</b> law.", "why": "Phụ âm + <b>y</b> thì đổi thành <b>-ied</b>. Nhưng <i>played</i> ✓ vì trước <i>y</i> là nguyên âm." },
+            { "wrong": "We <b>stoped</b> at a café.", "right": "We <b>stopped</b> at a café.", "why": "1 nguyên âm + 1 phụ âm và nhấn âm cuối thì GẤP ĐÔI phụ âm." },
+            { "wrong": "When we <b>was</b> young…", "right": "When we <b>were</b> young…", "why": "<b>was</b> cho I/he/she/it · <b>were</b> cho you/we/they." },
+            { "wrong": "<b>Did</b> he <b>was</b> late?", "right": "<b>Was</b> he late?", "why": "Động từ <b>be</b> không bao giờ mượn <i>did</i> — nó tự đảo lên đầu câu." },
+            { "wrong": "<b>Who did tell</b> you?", "right": "<b>Who told</b> you?", "why": "Khi từ để hỏi chính là CHỦ NGỮ thì bỏ <i>did</i>, và động từ giữ nguyên V2." },
+            { "wrong": "I <b>have lived</b> in Hue when I was a child.", "right": "I <b>lived</b> in Hue when I was a child.", "why": "Có mốc quá khứ xác định thì dùng QUÁ KHỨ ĐƠN, không dùng thì hoàn thành. Xem [Khung 95]." },
+            { "wrong": "He left <b>before two hours</b>.", "right": "He left <b>two hours ago</b>.", "why": "<b>ago</b> đứng SAU khoảng thời gian. <i>before two hours</i> là dịch thẳng từ tiếng Việt." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Dùng khi", "Ví dụ"],
+          "rows": [
+            ["<code>S + V2</code>", "Việc đã xong, có mốc quá khứ rõ", "I worked there in 2019."],
+            ["<code>S + didn't + V trần</code>", "Phủ định quá khứ", "I didn't go."],
+            ["<code>was / were</code>", "Động từ be ở quá khứ — không mượn did", "I was late."],
+            ["<code>used to + V</code>", "Thói quen CŨ đã chấm dứt. Xem [Khung 93]", "I used to walk to school."],
+            ["<code>was/were + V-ing</code>", "Nền tiếp diễn. Xem [Ngữ pháp 04]", "I was walking home when…"],
+            ["<code>had + V3</code>", "Việc xảy ra TRƯỚC một việc quá khứ", "I had already left."],
+            ["<code>have/has + V3</code>", "Kéo dài đến hiện tại. Xem [Khung 95]", "I've lived here for years."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: quá khứ đơn hay thì hoàn thành?" },
+        {
+          "t": "tree",
+          "q": "Việc đó kết thúc chưa, và câu có mốc thời gian nào không?",
+          "nodes": [
+            { "if": "Có mốc quá khứ rõ (yesterday, in 2019, ago)", "then": "Quá khứ đơn — bắt buộc", "ex": "I saw him yesterday." },
+            { "if": "Việc đã xong hẳn, giờ không còn", "then": "Quá khứ đơn", "ex": "I worked there for three years." },
+            { "if": "Vẫn đang tiếp tục đến bây giờ", "then": "Hiện tại hoàn thành", "ex": "I've worked here for three years." },
+            { "if": "Vừa mới xong, chưa có mốc cụ thể", "then": "Hiện tại hoàn thành", "ex": "I've just finished." },
+            { "if": "Thói quen cũ, nhấn vào việc đã chấm dứt", "then": "used to + V trần", "ex": "I used to smoke." },
+            { "if": "Câu có did hoặc didn't", "then": "Động từ về dạng TRẦN", "ex": "I didn't go." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ xa của một ký ức" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "He left a moment ago.", "vi": "Gần nhất — vừa nãy" },
+            { "en": "I saw him yesterday.", "vi": "Hôm qua" },
+            { "en": "I bought it last year.", "vi": "Năm ngoái" },
+            { "en": "I worked there in 2019.", "vi": "Một năm cụ thể" },
+            { "en": "When I was a child, I lived in Hue.", "vi": "Xa nhất — cả một giai đoạn đời" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Quá khứ đơn là xương sống của những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 96, "why": "When I was…, I + V2 — khung kể chuyện chính, nơi luật did/didn't được nhắc kỹ nhất." },
+            { "id": 93, "why": "I used to… — so sánh trực tiếp: thói quen cũ khác gì một sự việc quá khứ." },
+            { "id": 95, "why": "I've just + V3 — ranh giới giữa quá khứ đơn và thì hoàn thành." },
+            { "id": 79, "why": "I'm sorry for… — xin lỗi về một việc đã làm, hầu hết dùng quá khứ đơn." },
+            { "id": 88, "why": "I feel bad about… — kèm mẫu I should have told you, V3 chứ không phải V2." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ trong ngoặc" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Hôm qua tôi đi bộ về nhà.", "blank": "Yesterday I __________ (walk) home.", "a": "walked" },
+            { "vi": "Cô ấy học luật ở đại học.", "blank": "She __________ (study) law at university.", "a": "studied (phụ âm + y → -ied)" },
+            { "vi": "Dọc đường bọn tôi dừng ở một quán cà phê.", "blank": "We __________ (stop) at a café.", "a": "stopped (gấp đôi phụ âm)" },
+            { "vi": "Hôm qua anh ấy nói với tôi.", "blank": "He __________ (tell) me yesterday.", "a": "told" },
+            { "vi": "Cuối cùng tôi không đi.", "blank": "I didn't __________ (go) in the end.", "a": "go — động từ trần sau didn't" },
+            { "vi": "Anh/chị đã xem email chưa?", "blank": "__________ you __________ (see) the email?", "a": "Did … see" },
+            { "vi": "Hồi chúng tôi còn trẻ…", "blank": "When we __________ (be) young…", "a": "were" },
+            { "vi": "Tôi cứ tưởng là ổn.", "blank": "I __________ (think) it was fine.", "a": "thought" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Anh ấy có muộn không?", "blank": "__________ he late?  (Did he was / Was he)", "a": "Was he — động từ be không mượn did" },
+            { "vi": "Ai nói với bạn chuyện đó?", "blank": "__________ you that?  (Who told / Who did tell)", "a": "Who told — từ hỏi là chủ ngữ nên bỏ did" },
+            { "vi": "Hồi nhỏ tôi sống ở Huế.", "blank": "I __________ in Hue when I was a child.  (lived / have lived)", "a": "lived — có mốc quá khứ nên dùng quá khứ đơn" },
+            { "vi": "Anh ấy đi cách đây hai tiếng.", "blank": "He left __________.  (two hours ago / before two hours)", "a": "two hours ago" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Cuối cùng tôi không đi.", "a": "I didn't go in the end." },
+            { "vi": "2. Hồi tôi còn nhỏ, tôi sống ở Huế.", "a": "When I was a child, I lived in Hue." },
+            { "vi": "3. Tôi từng làm ở đó ba năm.", "a": "I worked there for three years." },
+            { "vi": "4. Xin lỗi vì tôi đã không gọi cho bạn.", "a": "I'm sorry I didn't call you." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Quy tắc vàng:</b> thấy <i>did</i> hoặc <i>didn't</i> thì động từ về dạng TRẦN. Không bao giờ đánh dấu quá khứ hai lần.",
+            "<b>Động từ <i>be</i> không mượn <i>did</i>.</b> <i>Was he late?</i> ✓ — <i>Did he was late?</i> ✗.",
+            "<b>Học V2 theo cặp có vần:</b> <i>go–went</i>, <i>see–saw</i>, <i>think–thought</i>, <i>buy–bought</i>, <i>meet–met</i>.",
+            "<b>Đuôi <i>-ed</i> chỉ thêm âm tiết</b> khi động từ kết thúc bằng /t/ hoặc /d/: <i>wanted</i> → “WON-tid”, còn <i>walked</i> → “wokt”.",
+            "<b>Có mốc quá khứ thì bỏ thì hoàn thành:</b> đã nói <i>yesterday</i> thì phải là <i>I saw him yesterday</i>. Xem [Khung 95].",
+            "<b>Bài tập 3 phút:</b> kể lại hôm qua bằng năm câu — ba câu khẳng định có <i>-ed</i> hoặc V2, một câu phủ định với <i>didn't</i>, một câu hỏi với <i>Did</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

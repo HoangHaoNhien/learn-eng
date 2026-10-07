@@ -1,0 +1,501 @@
+{
+  "id": 87,
+  "group": "Nhóm 9 · Cảm xúc & Phản ứng",
+  "title": "I'm worried (that)… — Nói ra nỗi lo",
+  "subtitle": "Khung câu bày tỏ sự lo lắng. Hai cách dùng phải tách bạch: worried ABOUT + danh từ/V-ing, và worried THAT + cả mệnh đề. Người Việt hay dịch thẳng “lo cho” thành worried for — đó là lỗi giới từ phổ biến nhất của khung này.",
+  "pattern": [
+    "I'm worried <em>(that) + mệnh đề</em>.",
+    "I'm worried <em>about + N / V-ing</em>.",
+    "I'm afraid <em>(that) + mệnh đề</em>."
+  ],
+  "meaning": "Tôi lo là… / Tôi lo lắng về…",
+  "grammar": [4, 8, 11, 14],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Bẫy giới từ: about ✓ / for ✗" },
+    { "text": "worried vs worrying" },
+    { "text": "Trình độ: A2–B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I'm worried…</span> là cách nói ra một nỗi lo mà bạn đang mang. Nó nhẹ hơn <i>I'm scared</i> (sợ hãi) và nặng hơn <i>I wonder</i> (băn khoăn) — đúng mức của một điều khiến bạn bận lòng." },
+        { "t": "p", "html": "Có hai đường rẽ phải nhớ cho chắc:<br>• <b>worried about + danh từ / V-ing</b> — <i>I'm worried about the exam.</i><br>• <b>worried that + cả mệnh đề</b> — <i>I'm worried that I'll fail.</i>" },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT:</b> giới từ là <b>about</b>, không phải <i>for</i>. <i>I'm worried <b>about</b> my mother</i> ✓ — <i>I'm worried <b>for</b> my mother</i> ✗ trong hầu hết trường hợp. Tiếng Việt “lo <b>cho</b> mẹ” kéo người học sang <i>for</i>." },
+        { "t": "p", "html": "Chữ <b>that</b> có thể bỏ đi hoàn toàn: <i>I'm worried I'll be late</i> nghe tự nhiên hơn cả khi nói chuyện. Giữ <i>that</i> lại khi câu dài hoặc khi viết trang trọng." },
+        { "t": "h3", "text": "Hai nhánh của khung" },
+        {
+          "t": "table",
+          "head": ["Sau “worried” là", "Cấu trúc", "Ví dụ"],
+          "rows": [
+            ["Danh từ", "<code>worried about + N</code>", "I'm worried about the exam."],
+            ["Động từ", "<code>worried about + V-ing</code>", "I'm worried about failing."],
+            ["Cả mệnh đề", "<code>worried (that) + S + V</code>", "I'm worried I'll fail."],
+            ["Người", "<code>worried about + người</code>", "I'm worried about my mother."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cặp -ed/-ing lại xuất hiện:</b> <i>I'm worri<b>ed</b></i> = tôi đang lo. <i>It's worry<b>ing</b></i> = chuyện đó đáng lo. Nói <i>I'm worrying</i> thì thành “tôi đang lo lắng liên tục lúc này” — hiếm dùng. Xem [Khung 81]." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "📅", "title": "Lo về deadline", "text": "<i>I'm worried we won't finish in time.</i>" },
+            { "icon": "❤️", "title": "Lo cho người thân", "text": "<i>I'm worried about my mother.</i> Nhớ: <b>about</b>, không phải <i>for</i>." },
+            { "icon": "💼", "title": "Nêu rủi ro trong họp", "text": "<i>I'm a bit worried about the budget.</i> Thêm <i>a bit</i> cho nhẹ." },
+            { "icon": "✈️", "title": "Lo lỡ chuyến", "text": "<i>I'm worried we'll miss the flight.</i>" },
+            { "icon": "🤝", "title": "Trấn an người khác", "text": "<i>Don't worry about it.</i> Không phải <i>don't worry for it</i> ✗." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Chỉ muốn từ chối lịch sự. Lúc đó là <i>I'm afraid I can't</i>, không phải <i>I'm worried</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Với mệnh đề", "<code>I'm worried (that) + S + V.</code>", "I'm worried I'll be late."],
+            ["Với danh từ", "<code>I'm worried about + N.</code>", "I'm worried about the exam."],
+            ["Với V-ing", "<code>I'm worried about + V-ing.</code>", "I'm worried about failing."],
+            ["Làm nhẹ đi", "<code>I'm a bit worried…</code>", "I'm a bit worried about it."],
+            ["Nhấn mạnh", "<code>I'm really worried…</code>", "I'm really worried about him."],
+            ["Hỏi lại", "<code>Are you worried about…?</code>", "Are you worried about the result?"],
+            ["Trấn an", "<code>Don't worry about + N.</code>", "Don't worry about it."],
+            ["Lo mơ hồ", "<code>I'm concerned about…</code>", "I'm concerned about the delay."],
+            ["Trang trọng, báo tin xấu", "<code>I'm afraid (that) + S + V.</code>", "I'm afraid it's too late."],
+            ["Nhận xét sự việc", "<code>It's worrying that…</code>", "It's worrying that nobody replied."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Phân biệt quan trọng:</b> <i>I'm <b>worried</b> that…</i> = tôi thật sự lo. <i>I'm <b>afraid</b> that…</i> = cách nói lịch sự khi báo tin không vui, thường KHÔNG phải sợ gì cả. <i>I'm afraid we're closed</i> chỉ là “rất tiếc, chúng tôi đóng cửa rồi”." },
+        { "t": "callout", "html": "<b>Thêm <i>a bit</i> hoặc <i>slightly</i></b> để nỗi lo nghe nhẹ và chuyên nghiệp hơn trong họp hành: <i>I'm a bit worried about the timeline.</i> Nói thẳng <i>I'm worried</i> trong phòng họp đôi khi nghe nặng hơn ý bạn muốn." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Nói ra nỗi lo",
+              "items": [
+                { "w": "worried about", "vi": "lo về, lo cho", "ex": "I'm worried about the exam.", "exvi": "Tôi lo về kỳ thi.", "note": "BẪY SỐ MỘT: giới từ là <b>about</b>, KHÔNG phải <i>for</i>. Tiếng Việt “lo cho” dễ kéo sang <i>for</i> ✗." },
+                { "w": "worried (that)", "vi": "lo là", "ex": "I'm worried I'll be late.", "exvi": "Tôi lo là mình sẽ muộn.", "note": "Chữ <i>that</i> bỏ được — khi nói thì bỏ nghe tự nhiên hơn." },
+                { "w": "a bit worried", "vi": "hơi lo", "ex": "I'm a bit worried about the budget.", "exvi": "Tôi hơi lo về ngân sách.", "note": "Thêm <i>a bit</i> để nỗi lo nghe nhẹ và chuyên nghiệp hơn trong họp." },
+                { "w": "really worried", "vi": "lo thật sự", "ex": "I'm really worried about him.", "exvi": "Tôi thật sự lo cho anh ấy." },
+                { "w": "worried sick", "vi": "lo phát ốm", "ex": "I was worried sick.", "exvi": "Tôi đã lo phát ốm.", "note": "Thành ngữ rất mạnh — dùng khi ai đó mất liên lạc." },
+                { "w": "concerned about", "vi": "quan ngại về", "ex": "I'm concerned about the delay.", "exvi": "Tôi quan ngại về sự chậm trễ.", "note": "Trang trọng hơn <i>worried</i> — hợp email và họp hành." },
+                { "w": "anxious about", "vi": "bồn chồn về", "ex": "I'm anxious about the interview.", "exvi": "Tôi bồn chồn về buổi phỏng vấn." },
+                { "w": "nervous about", "vi": "hồi hộp về", "ex": "I'm nervous about speaking.", "exvi": "Tôi hồi hộp khi phải nói.", "note": "Là cảm giác trước sự kiện, nhẹ hơn <i>worried</i>." },
+                { "w": "stressed about", "vi": "căng thẳng vì", "ex": "I'm stressed about work.", "exvi": "Tôi căng thẳng vì công việc.", "note": "BẪY: <i>stressed</i> ✓, không phải <i>stressful</i>. <i>The job is stressful</i> mới đúng cho công việc." },
+                { "w": "It's worrying that", "vi": "chuyện đáng lo là", "ex": "It's worrying that nobody replied.", "exvi": "Đáng lo là chẳng ai trả lời.", "note": "Đuôi <b>-ing</b> dành cho SỰ VIỆC. Xem [Khung 81]." },
+                { "w": "I have a feeling", "vi": "tôi có linh cảm", "ex": "I have a feeling this won't work.", "exvi": "Tôi có linh cảm việc này sẽ không ổn." },
+                { "w": "What if…?", "vi": "lỡ như… thì sao?", "ex": "What if it rains?", "exvi": "Lỡ trời mưa thì sao?", "note": "Cách nói nỗi lo dưới dạng câu hỏi — rất tự nhiên." }
+              ]
+            },
+            {
+              "title": "Nội dung nỗi lo & từ dễ nhầm",
+              "items": [
+                { "w": "won't finish in time", "vi": "sẽ không xong kịp", "ex": "I'm worried we won't finish in time.", "exvi": "Tôi lo chúng ta sẽ không xong kịp." },
+                { "w": "we'll miss the flight", "vi": "chúng ta sẽ lỡ chuyến bay", "ex": "I'm worried we'll miss the flight.", "exvi": "Tôi lo chúng ta sẽ lỡ chuyến bay." },
+                { "w": "something's wrong", "vi": "có gì đó không ổn", "ex": "I'm worried something's wrong.", "exvi": "Tôi lo có gì đó không ổn." },
+                { "w": "I might have offended her", "vi": "tôi có thể đã làm cô ấy phật ý", "ex": "I'm worried I might have offended her.", "exvi": "Tôi lo là mình đã làm cô ấy phật ý." },
+                { "w": "it's too expensive", "vi": "nó quá đắt", "ex": "I'm worried it's too expensive.", "exvi": "Tôi lo là nó quá đắt." },
+                { "w": "I'm afraid (that)", "vi": "rất tiếc là", "ex": "I'm afraid we're closed.", "exvi": "Rất tiếc, chúng tôi đóng cửa rồi.", "note": "KHÁC HẲN: đây là cách báo tin không vui LỊCH SỰ, không phải sợ hãi." },
+                { "w": "I'm afraid of + V-ing", "vi": "tôi sợ việc", "ex": "I'm afraid of flying.", "exvi": "Tôi sợ đi máy bay.", "note": "Mới là NỖI SỢ thật. Chú ý giới từ <b>of</b> + V-ing." },
+                { "w": "Don't worry about it", "vi": "đừng lo chuyện đó", "ex": "Don't worry about it.", "exvi": "Đừng lo chuyện đó.", "note": "Không bao giờ là <i>don't worry for it</i> ✗." },
+                { "w": "worry + about", "vi": "động từ: lo về", "ex": "Stop worrying about it.", "exvi": "Đừng lo về chuyện đó nữa.", "note": "Dạng ĐỘNG TỪ cũng đi với <b>about</b>, giống dạng tính từ." },
+                { "w": "in case", "vi": "phòng khi", "ex": "Take an umbrella in case it rains.", "exvi": "Mang ô phòng khi trời mưa.", "note": "Sau <i>in case</i> dùng thì HIỆN TẠI, không dùng <i>will</i>." },
+                { "w": "just in case", "vi": "cho chắc", "ex": "I'll call, just in case.", "exvi": "Tôi sẽ gọi cho chắc." },
+                { "w": "the worst-case scenario", "vi": "tình huống xấu nhất", "ex": "The worst-case scenario is a delay.", "exvi": "Tình huống xấu nhất là bị chậm." }
+              ]
+            },
+            {
+              "title": "Trấn an người đang lo",
+              "items": [
+                { "w": "Don't worry", "vi": "đừng lo", "ex": "Don't worry, it'll be fine.", "exvi": "Đừng lo, sẽ ổn thôi." },
+                { "w": "It'll be fine", "vi": "sẽ ổn thôi", "ex": "It'll be fine, honestly.", "exvi": "Thật đấy, sẽ ổn thôi." },
+                { "w": "There's nothing to worry about", "vi": "không có gì phải lo", "ex": "There's nothing to worry about.", "exvi": "Không có gì phải lo cả.", "note": "Cụm cố định — giới từ <b>about</b> đứng cuối câu." },
+                { "w": "I know how you feel", "vi": "tôi hiểu cảm giác đó", "ex": "I know how you feel.", "exvi": "Tôi hiểu cảm giác đó." },
+                { "w": "That's understandable", "vi": "chuyện đó dễ hiểu thôi", "ex": "That's understandable.", "exvi": "Chuyện đó cũng dễ hiểu thôi." },
+                { "w": "Let's not panic", "vi": "đừng hoảng", "ex": "Let's not panic just yet.", "exvi": "Khoan hãy hoảng đã." },
+                { "w": "We'll sort it out", "vi": "mình sẽ giải quyết được", "ex": "We'll sort it out.", "exvi": "Mình sẽ giải quyết được thôi." },
+                { "w": "Leave it with me", "vi": "để tôi lo", "ex": "Leave it with me.", "exvi": "Để tôi lo chuyện đó." },
+                { "w": "What's the worst that can happen?", "vi": "xấu nhất thì sao nào?", "ex": "What's the worst that can happen?", "exvi": "Xấu nhất thì có thể xảy ra chuyện gì nào?" },
+                { "w": "Fair enough, but", "vi": "cũng hợp lý, nhưng", "ex": "Fair enough, but let's check.", "exvi": "Cũng hợp lý, nhưng cứ kiểm tra đã. Xem [Khung 60]." },
+                { "w": "Have you thought about…?", "vi": "bạn đã nghĩ tới… chưa?", "ex": "Have you thought about calling them?", "exvi": "Bạn đã nghĩ tới việc gọi cho họ chưa?" },
+                { "w": "Keep me posted", "vi": "cập nhật cho tôi nhé", "ex": "Keep me posted.", "exvi": "Có gì cập nhật cho tôi nhé." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I'm a bit worried we won't finish in time.",
+                  "vi": "Tôi hơi lo là chúng ta sẽ không xong kịp.",
+                  "note": "Thêm <b>a bit</b> để nêu rủi ro mà không làm cả phòng hoảng. Chữ <i>that</i> đã được bỏ đi — rất tự nhiên.",
+                  "open": { "en": "Can I raise something about the timeline?", "vi": "Tôi nêu một chuyện về tiến độ được không?" },
+                  "reply": [
+                    { "them": "What's the bottleneck?", "themvi": "Nút thắt nằm ở đâu?", "you": "The review stage, mainly.", "youvi": "Chủ yếu là khâu duyệt." },
+                    { "them": "Let's move the deadline then.", "themvi": "Vậy thì dời hạn chót đi.", "you": "That would help a lot.", "youvi": "Vậy thì đỡ nhiều lắm." }
+                  ],
+                  "close": { "en": "I'll send a revised plan today.", "vi": "Hôm nay tôi sẽ gửi kế hoạch chỉnh lại." }
+                },
+                {
+                  "en": "I'm concerned about the budget.",
+                  "vi": "Tôi quan ngại về ngân sách.",
+                  "note": "<b>concerned</b> trang trọng hơn <i>worried</i> — hợp email và phòng họp. Giới từ vẫn là <b>about</b>.",
+                  "reply": [
+                    { "them": "Can you put the numbers in writing?", "themvi": "Anh/chị viết con số ra được không?", "you": "I'll have it by Thursday.", "youvi": "Thứ Năm tôi sẽ có." }
+                  ],
+                  "vars": [
+                    { "en": "I'm a bit worried about the budget.", "vi": "Tôi hơi lo về ngân sách." }
+                  ]
+                },
+                {
+                  "en": "I'm worried I might have offended her.",
+                  "vi": "Tôi lo là mình đã làm cô ấy phật ý.",
+                  "note": "Mệnh đề sau <i>worried</i> có thể phức tạp tùy ý — đây là ưu thế của nhánh <b>that</b>.",
+                  "reply": [
+                    { "them": "Just ask her directly.", "themvi": "Cứ hỏi thẳng cô ấy đi.", "you": "You're right. I'll do that.", "youvi": "Anh/chị nói đúng. Tôi sẽ làm vậy." }
+                  ]
+                },
+                {
+                  "en": "It's worrying that nobody has replied.",
+                  "vi": "Đáng lo là chưa ai trả lời cả.",
+                  "note": "Đuôi <b>-ing</b> dành cho SỰ VIỆC, đuôi <b>-ed</b> dành cho NGƯỜI. Xem [Khung 81].",
+                  "reply": [
+                    { "them": "I'll chase them this afternoon.", "themvi": "Chiều nay tôi sẽ giục họ.", "you": "Thanks — keep me posted.", "youvi": "Cảm ơn — có gì cập nhật cho tôi nhé." }
+                  ],
+                  "close": { "en": "Let's not panic just yet.", "vi": "Khoan hãy hoảng đã." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I'm worried about my mother.",
+                  "vi": "Mình lo cho mẹ mình.",
+                  "note": "BẪY SỐ MỘT: <b>about</b>, không phải <i>for</i>. Tiếng Việt “lo <b>cho</b> mẹ” kéo người học sang <i>for</i> ✗.",
+                  "reply": [
+                    { "them": "Is she not well?", "themvi": "Bác không khỏe à?", "you": "She's been very tired lately.", "youvi": "Dạo này bà mệt lắm." },
+                    { "them": "Have you thought about seeing a doctor?", "themvi": "Bạn đã nghĩ tới việc đi khám chưa?", "you": "We have an appointment Friday.", "youvi": "Thứ Sáu nhà mình có hẹn rồi." }
+                  ],
+                  "close": { "en": "I'll let you know how it goes.", "vi": "Có gì mình báo bạn." }
+                },
+                {
+                  "en": "I was worried sick when you didn't call.",
+                  "vi": "Mình lo phát ốm khi bạn không gọi.",
+                  "note": "<b>worried sick</b> là thành ngữ rất mạnh — dành cho lúc ai đó mất liên lạc.",
+                  "reply": [
+                    { "them": "I'm so sorry — my phone died.", "themvi": "Mình xin lỗi — điện thoại mình hết pin.", "you": "Just text me next time.", "youvi": "Lần sau nhắn cho mình một câu thôi." }
+                  ]
+                },
+                {
+                  "en": "I'm worried something's wrong.",
+                  "vi": "Mình lo là có gì đó không ổn.",
+                  "reply": [
+                    { "them": "What makes you say that?", "themvi": "Sao bạn lại nói vậy?", "you": "Just a feeling.", "youvi": "Chỉ là linh cảm thôi." }
+                  ],
+                  "vars": [
+                    { "en": "I have a feeling something's wrong.", "vi": "Mình có linh cảm có gì đó không ổn." }
+                  ]
+                },
+                {
+                  "en": "Don't worry about it — we'll sort it out.",
+                  "vi": "Đừng lo chuyện đó — mình sẽ giải quyết được.",
+                  "note": "Cụm cố định. Không bao giờ là <i>don't worry for it</i> ✗.",
+                  "reply": [
+                    { "them": "Thank you. I needed to hear that.", "themvi": "Cảm ơn bạn. Mình cần nghe câu đó.", "you": "Any time.", "youvi": "Lúc nào cũng được mà." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I'm worried we'll miss the flight.",
+                  "vi": "Mình lo là mình sẽ lỡ chuyến bay.",
+                  "note": "Chữ <i>that</i> bỏ đi — khi nói thì bỏ nghe tự nhiên hơn nhiều.",
+                  "reply": [
+                    { "them": "We've got two hours.", "themvi": "Mình còn hai tiếng cơ mà.", "you": "The traffic is the problem.", "youvi": "Vấn đề là kẹt xe." }
+                  ],
+                  "close": { "en": "Let's leave now, just in case.", "vi": "Đi luôn bây giờ cho chắc." }
+                },
+                {
+                  "en": "I'm nervous about the long flight.",
+                  "vi": "Mình hồi hộp về chuyến bay dài.",
+                  "note": "<b>nervous</b> là cảm giác trước sự kiện, nhẹ hơn <i>worried</i>. Nỗi SỢ thật thì là <i>afraid of flying</i>.",
+                  "reply": [
+                    { "them": "Take something to read.", "themvi": "Mang gì đó để đọc đi.", "you": "Good idea.", "youvi": "Ý hay đấy." }
+                  ],
+                  "vars": [
+                    { "en": "I'm afraid of flying.", "vi": "Mình sợ đi máy bay." }
+                  ]
+                },
+                {
+                  "en": "What if it rains all week?",
+                  "vi": "Lỡ mưa cả tuần thì sao?",
+                  "note": "<b>What if…?</b> là cách nói nỗi lo dưới dạng câu hỏi — rất tự nhiên và nhẹ nhàng.",
+                  "reply": [
+                    { "them": "Then we'll find indoor things to do.", "themvi": "Thì mình tìm chỗ trong nhà mà chơi.", "you": "Fair enough.", "youvi": "Cũng hợp lý." }
+                  ]
+                },
+                {
+                  "en": "I'll take an umbrella in case it rains.",
+                  "vi": "Mình mang ô phòng khi trời mưa.",
+                  "note": "Sau <b>in case</b> dùng thì HIỆN TẠI: <i>in case it rains</i> ✓, không phải <i>in case it will rain</i> ✗.",
+                  "reply": [
+                    { "them": "Sensible.", "themvi": "Khôn đấy.", "you": "I've been caught out before.", "youvi": "Mình bị dính mưa mấy lần rồi." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I'm worried it's too expensive.",
+                  "vi": "Tôi lo là nó quá đắt.",
+                  "reply": [
+                    { "them": "We do offer monthly payments.", "themvi": "Bên em có trả góp hằng tháng ạ.", "you": "That might work, actually.", "youvi": "Cái đó có khi lại hợp." }
+                  ],
+                  "close": { "en": "Let me think about it.", "vi": "Để tôi suy nghĩ thêm." }
+                },
+                {
+                  "en": "I'm a bit worried about the delivery date.",
+                  "vi": "Tôi hơi lo về ngày giao hàng.",
+                  "note": "Nhánh <b>about + danh từ</b> — gọn hơn cả một mệnh đề khi nỗi lo chỉ là một danh từ.",
+                  "reply": [
+                    { "them": "I can check it for you now.", "themvi": "Em kiểm tra ngay cho anh/chị ạ.", "you": "That would be great, thanks.", "youvi": "Vậy thì tốt quá, cảm ơn em." }
+                  ]
+                },
+                {
+                  "en": "I'm worried it won't fit.",
+                  "vi": "Tôi lo là nó sẽ không vừa.",
+                  "reply": [
+                    { "them": "You can return it within 30 days.", "themvi": "Anh/chị đổi trả được trong 30 ngày ạ.", "you": "That's reassuring.", "youvi": "Nghe vậy tôi yên tâm." }
+                  ],
+                  "vars": [
+                    { "en": "I'm worried about the size.", "vi": "Tôi lo về kích cỡ." }
+                  ]
+                },
+                {
+                  "en": "I'm afraid this one is damaged.",
+                  "vi": "Rất tiếc, cái này bị hỏng rồi.",
+                  "note": "KHÁC HẲN <i>worried</i>: <b>I'm afraid</b> ở đây chỉ là cách báo tin không vui LỊCH SỰ, không phải sợ hãi.",
+                  "reply": [
+                    { "them": "I'm sorry — let me get you another.", "themvi": "Em xin lỗi — để em lấy cái khác ạ.", "you": "Thank you.", "youvi": "Cảm ơn em." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I'm worried we won't get a table.",
+                  "vi": "Mình lo là mình sẽ không có bàn.",
+                  "reply": [
+                    { "them": "I booked one this morning.", "themvi": "Sáng nay mình đặt rồi.", "you": "You're a lifesaver.", "youvi": "Bạn đúng là cứu tinh." }
+                  ]
+                },
+                {
+                  "en": "I'm a bit worried about the nuts — I'm allergic.",
+                  "vi": "Tôi hơi lo về hạt — tôi bị dị ứng.",
+                  "note": "Nêu nỗi lo về dị ứng nên nói RÕ và SỚM. <i>allergic <b>to</b> nuts</i> là giới từ đúng.",
+                  "reply": [
+                    { "them": "I'll tell the kitchen right away.", "themvi": "Em báo bếp ngay ạ.", "you": "Thank you, I appreciate it.", "youvi": "Cảm ơn em nhiều." }
+                  ],
+                  "close": { "en": "Sorry to be a bother.", "vi": "Xin lỗi vì làm phiền." }
+                },
+                {
+                  "en": "I'm worried this might be too spicy.",
+                  "vi": "Tôi lo là món này có thể quá cay.",
+                  "reply": [
+                    { "them": "I can ask for it mild.", "themvi": "Em xin bếp làm nhẹ được ạ.", "you": "Please do.", "youvi": "Em giúp tôi với." }
+                  ],
+                  "vars": [
+                    { "en": "I'm worried about the chilli.", "vi": "Tôi lo về ớt." }
+                  ]
+                },
+                {
+                  "en": "Don't worry about the bill — it's on me.",
+                  "vi": "Đừng lo hóa đơn — để mình trả.",
+                  "note": "<b>It's on me</b> = để tôi mời. Thành ngữ rất thông dụng khi trả tiền.",
+                  "reply": [
+                    { "them": "Are you sure?", "themvi": "Bạn chắc chứ?", "you": "Absolutely. You got it last time.", "youvi": "Chắc chắn. Lần trước bạn trả rồi." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Nêu rủi ro tiến độ trong cuộc họp",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "I'm a bit worried we won't finish in time.", "vi": "Tôi hơi lo là chúng ta sẽ không xong kịp." },
+            { "speaker": "Manager", "en": "What's the bottleneck?", "vi": "Nút thắt nằm ở đâu?" },
+            { "speaker": "You", "me": true, "en": "The review stage. And I'm concerned about the budget too.", "vi": "Khâu duyệt. Và tôi cũng quan ngại về ngân sách." },
+            { "speaker": "Manager", "en": "It's worrying that nobody flagged this sooner.", "vi": "Đáng lo là chẳng ai nêu chuyện này sớm hơn." },
+            { "speaker": "You", "me": true, "en": "I'm sorry. I'll send a revised plan today.", "vi": "Tôi xin lỗi. Hôm nay tôi sẽ gửi kế hoạch chỉnh lại." },
+            { "speaker": "Manager", "en": "Good. Let's not panic — we'll sort it out.", "vi": "Tốt. Đừng hoảng — mình sẽ giải quyết được." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Bạn bè hỏi thăm chuyện gia đình",
+          "lines": [
+            { "speaker": "Friend", "en": "You've been quiet. Everything okay?", "vi": "Dạo này bạn im ắng. Mọi thứ ổn chứ?" },
+            { "speaker": "You", "me": true, "en": "I'm worried about my mother, honestly.", "vi": "Thật ra mình lo cho mẹ mình." },
+            { "speaker": "Friend", "en": "Is she not well?", "vi": "Bác không khỏe à?" },
+            { "speaker": "You", "me": true, "en": "She's been very tired. I'm worried something's wrong.", "vi": "Bà mệt lắm. Mình lo là có gì đó không ổn." },
+            { "speaker": "Friend", "en": "That's understandable. Have you seen a doctor?", "vi": "Chuyện đó dễ hiểu thôi. Nhà bạn đi khám chưa?" },
+            { "speaker": "You", "me": true, "en": "Friday. Don't worry about me — I'll keep you posted.", "vi": "Thứ Sáu. Đừng lo cho mình — có gì mình cập nhật." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'm worried <b>for</b> my mother.", "right": "I'm worried <b>about</b> my mother.", "why": "BẪY SỐ MỘT. Tiếng Việt “lo <b>cho</b> mẹ” kéo người học sang <i>for</i>. Giới từ đúng là <b>about</b>." },
+            { "wrong": "I'm worried about <b>fail</b> the exam.", "right": "I'm worried about <b>failing</b> the exam.", "why": "Sau giới từ <b>about</b> phải là danh từ hoặc <b>V-ing</b> — giống [Khung 86]." },
+            { "wrong": "<b>I'm worrying</b> about my mother.", "right": "<b>I'm worried</b> about my mother.", "why": "Đuôi <b>-ed</b> cho NGƯỜI đang lo. <i>Worrying</i> dành cho sự việc: <i>It's worrying</i>. Xem [Khung 81]." },
+            { "wrong": "I'm worried <b>about</b> I'll be late.", "right": "I'm worried (that) I'll be late.", "why": "Khi theo sau là cả MỆNH ĐỀ thì bỏ <i>about</i> đi, dùng <b>that</b> hoặc không dùng gì cả." },
+            { "wrong": "I'm <b>stressful</b> about work.", "right": "I'm <b>stressed</b> about work.", "why": "Người thì <b>stressed</b>, công việc mới <b>stressful</b>. Lại là cặp -ed/-ing quen thuộc." },
+            { "wrong": "Take an umbrella in case it <b>will rain</b>.", "right": "Take an umbrella in case it <b>rains</b>.", "why": "Sau <b>in case</b> luôn dùng thì HIỆN TẠI, dù nói về tương lai." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Sắc thái", "Ví dụ"],
+          "rows": [
+            ["<code>I'm worried about + N</code>", "Lo thật, nói được ngay nỗi lo", "I'm worried about the exam."],
+            ["<code>I'm worried (that) + mệnh đề</code>", "Lo thật, nội dung chi tiết hơn", "I'm worried I'll fail."],
+            ["<code>I'm concerned about…</code>", "Trang trọng hơn — email, họp", "I'm concerned about the delay."],
+            ["<code>I'm nervous about…</code>", "Hồi hộp trước sự kiện, nhẹ hơn", "I'm nervous about the interview."],
+            ["<code>I'm afraid of + V-ing</code>", "Nỗi SỢ thật sự", "I'm afraid of flying."],
+            ["<code>I'm afraid (that) + mệnh đề</code>", "Báo tin không vui, LỊCH SỰ", "I'm afraid we're closed."],
+            ["<code>It's worrying that…</code>", "Nhận xét về sự việc, không về mình", "It's worrying that nobody replied."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ lo lắng" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'm slightly concerned about it.", "vi": "Nhẹ nhất — chỉ hơi để ý" },
+            { "en": "I'm a bit worried about it.", "vi": "Hơi lo, an toàn trong phòng họp" },
+            { "en": "I'm worried about it.", "vi": "Lo thật sự" },
+            { "en": "I'm really worried about it.", "vi": "Lo nhiều" },
+            { "en": "I was worried sick.", "vi": "Mạnh nhất — lo phát ốm" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>worried</b> đọc <b>“WU-rid”</b> — hai âm tiết, nhấn âm đầu. Đuôi <i>-ed</i> chỉ là /d/, đừng đọc thành “wo-ri-ed” ba âm tiết.",
+            "<b>worried about</b> nối thành <b>“WU-ri-də-BAUT”</b> — âm /d/ chạy sang <i>about</i>.",
+            "<b>I'm worried that</b> nói nhanh thành <b>“am-WU-rid-ðət”</b>, chữ <i>that</i> lướt rất nhẹ hoặc mất hẳn.",
+            "<b>Đừng đọc “wor” thành /wɔː/</b> như trong <i>war</i>. Âm đúng gần với /ʌ/ — <i>worried</i> vần với <i>hurried</i>.",
+            "<b>a bit worried</b> → “ə-bit-WU-rid”, âm /t/ ở <i>bit</i> gần như biến mất.",
+            "<b>Giọng đi xuống ở cuối</b> và nói chậm lại — nói nhanh quá thì nỗi lo nghe không thật."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm a bit worried about the timeline.", "vi": "Luyện shadowing: “am-ə-bit-WU-ri-də-BAUT”, giọng trầm và chậm." },
+            { "en": "I'm worried we won't finish in time.", "vi": "Tập bỏ hẳn chữ that và nối “worried-we” thành một hơi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi lo cho mẹ tôi.", "blank": "I'm worried __________ my mother.", "a": "about (không bao giờ là “for”)" },
+            { "vi": "Tôi lo là mình sẽ muộn.", "blank": "I'm worried __________ I'll be late.", "a": "(that) — bỏ đi cũng được" },
+            { "vi": "Tôi lo về việc trượt kỳ thi.", "blank": "I'm worried about __________ the exam.", "a": "failing (V-ing sau giới từ)" },
+            { "vi": "Tôi hơi lo về ngân sách.", "blank": "I'm __________ worried about the budget.", "a": "a bit" },
+            { "vi": "Đáng lo là chẳng ai trả lời.", "blank": "It's __________ that nobody replied.", "a": "worrying (đuôi -ing cho sự việc)" },
+            { "vi": "Đừng lo chuyện đó.", "blank": "Don't worry __________ it.", "a": "about" },
+            { "vi": "Tôi căng thẳng vì công việc.", "blank": "I'm __________ about work.", "a": "stressed (không phải “stressful”)" },
+            { "vi": "Mang ô phòng khi trời mưa.", "blank": "Take an umbrella in case it __________.", "a": "rains (thì hiện tại)" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi hơi lo là chúng ta sẽ không xong kịp.", "a": "I'm a bit worried we won't finish in time." },
+            { "vi": "2. Mình lo cho mẹ mình.", "a": "I'm worried about my mother." },
+            { "vi": "3. Tôi quan ngại về sự chậm trễ.", "a": "I'm concerned about the delay." },
+            { "vi": "4. Đáng lo là chưa ai trả lời cả.", "a": "It's worrying that nobody has replied." },
+            { "vi": "5. Đừng lo chuyện đó — mình sẽ giải quyết được.", "a": "Don't worry about it — we'll sort it out." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Khắc vào đầu:</b> <i>worried <b>ABOUT</b></i>, không bao giờ <i>worried for</i>. Tiếng Việt “lo cho” là thủ phạm.",
+            "<b>Hai nhánh rõ ràng:</b> <i>about</i> + danh từ/V-ing, <i>that</i> + cả mệnh đề. Đừng trộn hai cái vào nhau.",
+            "<b>Trong họp hãy thêm <i>a bit</i></b> — <i>I'm a bit worried about…</i> nêu được rủi ro mà không làm cả phòng hoảng.",
+            "<b>Nhớ <i>I'm afraid</i> khác hẳn:</b> đó là cách báo tin không vui lịch sự, không phải nỗi sợ. Xem [Khung 79].",
+            "<b>Đuôi -ed cho người, -ing cho sự việc:</b> <i>I'm worried</i> / <i>It's worrying</i>. Xem [Khung 81].",
+            "<b>Bài tập 3 phút:</b> viết ba nỗi lo có thật — một câu dùng <i>about + N</i>, một câu dùng <i>about + V-ing</i>, một câu dùng <i>that + mệnh đề</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

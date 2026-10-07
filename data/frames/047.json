@@ -1,0 +1,492 @@
+{
+  "id": 47,
+  "group": "Nhóm 5 · Ý kiến & Quan điểm",
+  "title": "From my point of view… — Nhìn từ vị trí của tôi",
+  "subtitle": "Khung câu này không nói “tôi nghĩ gì” mà nói “tôi đang đứng ở đâu để nhìn”. Nó là công cụ đàm phán rất mạnh khi hai bên có lợi ích khác nhau, và nó còn một công dụng thứ hai mà ít người học biết: xét một việc theo một khía cạnh cụ thể — kỹ thuật, pháp lý, tài chính.",
+  "pattern": [
+    "From my point of view, <em>+ mệnh đề</em>",
+    "From a <em>(business/technical)</em> point of view, <em>+ mệnh đề</em>",
+    "I can see your point of view."
+  ],
+  "meaning": "Từ góc nhìn của tôi… / Xét về mặt…",
+  "grammar": [50, 43],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Mạnh khi đàm phán" },
+    { "text": "Trình độ: B2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">From my point of view</span> khác hẳn các khung trước ở một điểm: nó không nói về <b>mức độ tin</b> mà nói về <b>vị trí quan sát</b>. Nó ngầm thừa nhận rằng người khác đứng chỗ khác sẽ thấy khác — và điều đó hoàn toàn hợp lý." },
+        { "t": "p", "html": "Chính vì thế nó là <b>công cụ đàm phán rất mạnh</b>. Khi bạn nói <i>From my point of view, the delay costs us more</i>, bạn không nói đối phương sai — bạn chỉ nói rằng từ chỗ bạn ngồi, bức tranh trông khác. Không ai phải phòng thủ." },
+        { "t": "p", "html": "Nó có một <b>công dụng thứ hai</b> mà người học ít biết: thay <i>my</i> bằng một lĩnh vực thì nó không còn là ý kiến cá nhân nữa. <i>From a technical point of view</i> = <b>xét về mặt kỹ thuật</b>. Đây là cách phân tích chuyên nghiệp, không phải nêu ý kiến." },
+        { "t": "callout", "html": "<b>BẪY LỚN NHẤT của người Việt:</b> giới từ là <span class=\"k\">FROM</span>, không phải <i>in</i>. <i>In my point of view</i> ✗ là lỗi rất phổ biến vì bị kéo theo <i>In my opinion</i> ở [Khung 42]. Nhớ: <b>ý kiến thì “in”, góc nhìn thì “from”</b>." },
+        { "t": "h3", "text": "Hai công dụng khác nhau hẳn" },
+        {
+          "t": "table",
+          "head": ["Câu", "Ý nghĩa", "Bối cảnh"],
+          "rows": [
+            ["<code>From my point of view, it's fair.</code>", "Từ vị trí của tôi", "Đàm phán, họp có nhiều bên"],
+            ["<code>From a technical point of view, it works.</code>", "Xét về mặt kỹ thuật", "Phân tích chuyên môn"],
+            ["<code>From a customer's point of view, it's confusing.</code>", "Đặt mình vào vị trí khách", "Thiết kế, dịch vụ"],
+            ["<code>I can see your point of view.</code>", "Tôi hiểu góc nhìn của bạn", "Hòa giải, nhượng bộ"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Câu mở đường mạnh nhất:</b> <i>I can see your point of view, but from my point of view…</i> Công nhận góc nhìn của người kia trước, rồi mới đưa góc nhìn của mình. Hầu như không ai từ chối nghe tiếp sau câu này." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🤝", "title": "Đàm phán hai bên khác lợi ích", "text": "Bối cảnh số 1. <i>From my point of view, the risk is higher.</i> Không ai sai, chỉ là đứng khác chỗ." },
+            { "icon": "🔧", "title": "Phân tích theo khía cạnh", "text": "<i>From a technical point of view, it's fine.</i> Xét riêng mặt kỹ thuật." },
+            { "icon": "👥", "title": "Đặt mình vào vị trí người khác", "text": "<i>From a customer's point of view, it's confusing.</i> Rất mạnh khi bàn sản phẩm." },
+            { "icon": "🕊", "title": "Hòa giải xung đột", "text": "<i>I can see your point of view.</i> Công nhận trước khi phản biện." },
+            { "icon": "📊", "title": "Trình bày nhiều mặt", "text": "<i>From a financial point of view… but from a legal one…</i> Cân nhắc đa chiều." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Chuyện vặt hằng ngày. <i>From my point of view, this coffee is cold.</i> nghe rất buồn cười." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Cá nhân", "<code>From my point of view, + mệnh đề</code>", "From my point of view, it's fair."],
+            ["Theo khía cạnh", "<code>From a + lĩnh vực + point of view</code>", "From a legal point of view, it's risky."],
+            ["Đặt mình vào vai khác", "<code>From a + người + 's point of view</code>", "From a customer's point of view, it's slow."],
+            ["Ngắn gọn hơn", "<code>From my perspective, + mệnh đề</code>", "From my perspective, it's a win."],
+            ["Trang trọng", "<code>From my standpoint, + mệnh đề</code>", "From my standpoint, the terms are unfair."],
+            ["Công nhận đối phương", "<code>I can see your point of view.</code>", "I can see your point of view."],
+            ["Hỏi góc nhìn", "<code>What's your point of view on…?</code>", "What's your point of view on this?"],
+            ["Nhượng bộ một phần", "<code>I take your point, but…</code>", "I take your point, but the cost is real."],
+            ["Đặt cuối câu", "<code>…, from my point of view.</code>", "It's fair, from my point of view."],
+            ["Đối chiếu hai mặt", "<code>From X's point of view… from Y's…</code>", "From ours it's cheap; from theirs it's not."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Luôn số ít: “point of view”.</b> <i>From my points of view</i> ✗ là sai. Nhưng khi nói về nhiều người thì được: <i>There are different points of view on this.</i> ✓" },
+        { "t": "callout", "html": "<b>“From a … point of view” là dạng đáng học nhất.</b> Nó biến bạn từ người nêu ý kiến thành người phân tích: <i>From a cost point of view, option B wins; from a risk point of view, option A does.</i>" }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các khía cạnh hay đứng sau “From a …”",
+              "items": [
+                { "w": "a technical point of view", "vi": "về mặt kỹ thuật", "ex": "From a technical point of view, it works fine.", "exvi": "Xét về mặt kỹ thuật thì nó chạy tốt.", "note": "Dạng này KHÔNG phải ý kiến cá nhân — nó là phân tích theo một khía cạnh." },
+                { "w": "a business point of view", "vi": "về mặt kinh doanh", "ex": "From a business point of view, it makes sense.", "exvi": "Xét về mặt kinh doanh thì hợp lý." },
+                { "w": "a legal point of view", "vi": "về mặt pháp lý", "ex": "From a legal point of view, it's risky.", "exvi": "Xét về mặt pháp lý thì rủi ro." },
+                { "w": "a cost point of view", "vi": "về mặt chi phí", "ex": "From a cost point of view, option B wins.", "exvi": "Xét về chi phí thì phương án B thắng." },
+                { "w": "a safety point of view", "vi": "về mặt an toàn", "ex": "From a safety point of view, we can't allow it.", "exvi": "Xét về an toàn thì không cho phép được." },
+                { "w": "a customer's point of view", "vi": "từ góc nhìn khách hàng", "ex": "From a customer's point of view, it's confusing.", "exvi": "Từ góc nhìn khách hàng thì nó khó hiểu.", "note": "Đặt mình vào vai người khác — cực mạnh khi bàn về sản phẩm." },
+                { "w": "a user's point of view", "vi": "từ góc nhìn người dùng", "ex": "From a user's point of view, three clicks is too many.", "exvi": "Từ góc nhìn người dùng thì ba lần bấm là quá nhiều." },
+                { "w": "a practical point of view", "vi": "về mặt thực tế", "ex": "From a practical point of view, it won't work.", "exvi": "Xét thực tế thì không khả thi." },
+                { "w": "a personal point of view", "vi": "về mặt cá nhân", "ex": "From a personal point of view, I'd rather not.", "exvi": "Về mặt cá nhân thì tôi không muốn." },
+                { "w": "a health point of view", "vi": "về mặt sức khỏe", "ex": "From a health point of view, it's better.", "exvi": "Xét về sức khỏe thì tốt hơn." },
+                { "w": "a design point of view", "vi": "về mặt thiết kế", "ex": "From a design point of view, it's beautiful.", "exvi": "Xét về thiết kế thì rất đẹp." },
+                { "w": "a time point of view", "vi": "về mặt thời gian", "ex": "From a time point of view, we can't afford it.", "exvi": "Xét về thời gian thì mình không kham nổi." }
+              ]
+            },
+            {
+              "title": "Mệnh đề hay theo sau “From my point of view,”",
+              "items": [
+                { "w": "it's fair", "vi": "vậy là công bằng", "ex": "From my point of view, it's perfectly fair.", "exvi": "Từ góc nhìn của tôi thì hoàn toàn công bằng." },
+                { "w": "the risk is higher", "vi": "rủi ro cao hơn", "ex": "From my point of view, the risk is higher.", "exvi": "Từ góc nhìn của tôi thì rủi ro cao hơn." },
+                { "w": "it's a win", "vi": "đó là thắng lợi", "ex": "From my perspective, it's actually a win.", "exvi": "Từ góc nhìn của tôi, đây thật ra là thắng lợi." },
+                { "w": "nothing has changed", "vi": "chưa có gì thay đổi", "ex": "From my point of view, nothing has changed.", "exvi": "Từ góc nhìn của tôi thì chưa có gì thay đổi." },
+                { "w": "the delay costs us more", "vi": "chậm trễ khiến ta tốn hơn", "ex": "From my point of view, the delay costs us more.", "exvi": "Từ góc nhìn của tôi, chậm trễ khiến bên tôi tốn hơn." },
+                { "w": "we've done our part", "vi": "chúng tôi đã làm phần mình", "ex": "From my point of view, we've done our part.", "exvi": "Từ góc nhìn của tôi, chúng tôi đã làm xong phần mình." },
+                { "w": "it looks quite different", "vi": "trông khác hẳn", "ex": "From here, it looks quite different.", "exvi": "Từ chỗ này nhìn thì khác hẳn.", "note": "Có thể nói <i>From where I'm standing</i> hoặc <i>From here</i> — thân mật hơn." },
+                { "w": "the terms are unfair", "vi": "điều khoản không công bằng", "ex": "From my standpoint, the terms are unfair.", "exvi": "Từ chỗ tôi đứng, điều khoản không công bằng." },
+                { "w": "both options are fine", "vi": "cả hai phương án đều ổn", "ex": "From my point of view, both options are fine.", "exvi": "Từ góc nhìn của tôi, cả hai phương án đều ổn." },
+                { "w": "it's not about the money", "vi": "không phải chuyện tiền", "ex": "From my point of view, it's not about the money.", "exvi": "Từ góc nhìn của tôi, đây không phải chuyện tiền." },
+                { "w": "we're already behind", "vi": "mình đã chậm rồi", "ex": "From my point of view, we're already behind.", "exvi": "Từ góc nhìn của tôi, mình đã chậm rồi." },
+                { "w": "that's the real issue", "vi": "đó mới là vấn đề thật", "ex": "From my point of view, that's the real issue.", "exvi": "Từ góc nhìn của tôi, đó mới là vấn đề thật." }
+              ]
+            },
+            {
+              "title": "Công nhận & đáp lại",
+              "items": [
+                { "w": "I can see your point of view", "vi": "tôi hiểu góc nhìn của bạn", "ex": "I can see your point of view, but…", "exvi": "Tôi hiểu góc nhìn của anh/chị, nhưng…", "note": "Câu mở đường mạnh nhất — công nhận trước khi phản biện." },
+                { "w": "I take your point", "vi": "tôi tiếp thu ý đó", "ex": "I take your point, but the cost is real.", "exvi": "Tôi tiếp thu ý đó, nhưng chi phí là có thật.", "note": "Nhượng bộ một phần rồi giữ lập trường — rất chuyên nghiệp." },
+                { "w": "That's a valid point of view", "vi": "đó là một góc nhìn xác đáng", "ex": "That's a valid point of view.", "exvi": "Đó là một góc nhìn xác đáng." },
+                { "w": "We see it differently", "vi": "chúng ta nhìn khác nhau", "ex": "We see it differently, and that's fine.", "exvi": "Chúng ta nhìn khác nhau, và điều đó không sao." },
+                { "w": "Let's look at it from their side", "vi": "hãy nhìn từ phía họ", "ex": "Let's look at it from their side for a moment.", "exvi": "Thử nhìn từ phía họ một chút xem." },
+                { "w": "What's your point of view?", "vi": "góc nhìn của bạn thế nào?", "ex": "What's your point of view on this?", "exvi": "Góc nhìn của anh/chị về việc này thế nào?", "note": "Mời người khác nói — lịch sự hơn <i>What do you think?</i>" },
+                { "w": "Fair, from where you're standing", "vi": "từ chỗ bạn đứng thì hợp lý", "ex": "Fair, from where you're standing.", "exvi": "Từ chỗ anh/chị đứng thì cũng hợp lý.", "note": "Công nhận mà không đồng ý hoàn toàn." },
+                { "w": "Let's agree to differ", "vi": "mình chấp nhận khác nhau nhé", "ex": "Let's agree to differ on this one.", "exvi": "Chuyện này mình chấp nhận khác nhau nhé.", "note": "Khép lại tranh luận trong hòa khí. Dạng Anh-Mỹ là <i>agree to disagree</i>." },
+                { "w": "I hadn't thought of that", "vi": "tôi chưa nghĩ đến điều đó", "ex": "I hadn't thought of that, actually.", "exvi": "Thật ra tôi chưa nghĩ đến điều đó." },
+                { "w": "That changes things", "vi": "vậy thì khác rồi", "ex": "That changes things a bit.", "exvi": "Vậy thì khác đi một chút rồi." },
+                { "w": "Put yourself in their shoes", "vi": "hãy đặt mình vào vị trí họ", "ex": "Put yourself in their shoes for a second.", "exvi": "Thử đặt mình vào vị trí họ một giây xem.", "note": "Thành ngữ — <i>in someone's shoes</i> = ở vị trí của ai đó." },
+                { "w": "It depends where you stand", "vi": "còn tùy bạn đứng ở đâu", "ex": "It depends where you stand, really.", "exvi": "Thật ra còn tùy mình đứng ở đâu." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I can see your point of view, but from my point of view the delay costs us more.",
+                  "vi": "Tôi hiểu góc nhìn của anh/chị, nhưng từ góc nhìn của tôi thì chậm trễ khiến bên tôi tốn hơn.",
+                  "note": "Cấu trúc vàng khi đàm phán: công nhận góc nhìn đối phương trước, rồi mới đưa góc nhìn của mình.",
+                  "open": { "en": "May I put it another way?", "vi": "Tôi xin nói cách khác được không?" },
+                  "reply": [
+                    { "them": "I take your point. What would help?", "themvi": "Tôi tiếp thu ý đó. Vậy cần gì?", "you": "A firm date, even if it's later.", "youvi": "Một mốc chắc chắn, dù muộn hơn cũng được." },
+                    { "them": "We see it differently on that.", "themvi": "Chỗ đó chúng ta nhìn khác nhau.", "you": "Then let's look at the numbers together.", "youvi": "Vậy mình cùng xem lại con số." }
+                  ],
+                  "close": { "en": "Either way, I appreciate the honesty.", "vi": "Dù sao tôi cũng cảm ơn sự thẳng thắn." }
+                },
+                {
+                  "en": "From a technical point of view, it works fine.",
+                  "vi": "Xét về mặt kỹ thuật thì nó chạy tốt.",
+                  "note": "Đây KHÔNG phải ý kiến cá nhân — đây là phân tích theo một khía cạnh. Rất chuyên nghiệp.",
+                  "reply": [
+                    { "them": "And from a user's point of view?", "themvi": "Còn từ góc nhìn người dùng?", "you": "From a user's point of view, it's confusing.", "youvi": "Từ góc nhìn người dùng thì nó khó hiểu." }
+                  ],
+                  "vars": [
+                    { "en": "From a cost point of view, option B wins.", "vi": "Xét về chi phí thì phương án B thắng." }
+                  ]
+                },
+                {
+                  "en": "From a legal point of view, I'd be careful here.",
+                  "vi": "Xét về mặt pháp lý thì tôi sẽ cẩn thận chỗ này.",
+                  "reply": [
+                    { "them": "Have we run it past legal?", "themvi": "Đã gửi bên pháp chế xem chưa?", "you": "Not yet — I'd say we should.", "youvi": "Chưa — tôi thì bảo nên gửi." }
+                  ]
+                },
+                {
+                  "en": "Let's look at it from their side for a moment.",
+                  "vi": "Thử nhìn từ phía họ một chút xem.",
+                  "note": "Câu chuyển hướng cuộc họp rất khéo — buộc mọi người đổi vị trí quan sát.",
+                  "reply": [
+                    { "them": "Good idea. What would they want?", "themvi": "Ý hay. Họ sẽ muốn gì?", "you": "Certainty, more than speed.", "youvi": "Sự chắc chắn, hơn là tốc độ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "From a customer's point of view, this policy is confusing.",
+                  "vi": "Từ góc nhìn khách hàng, chính sách này khó hiểu.",
+                  "note": "Đặt mình vào vai khách — mạnh hơn nhiều so với nói “tôi thấy khó hiểu”.",
+                  "reply": [
+                    { "them": "I'll pass that on, thank you.", "themvi": "Em sẽ chuyển ý kiến này ạ, cảm ơn anh/chị.", "you": "The return window isn't clear anywhere.", "youvi": "Thời hạn đổi trả không ghi rõ ở đâu cả." }
+                  ],
+                  "close": { "en": "I hope it helps.", "vi": "Mong là có ích." }
+                },
+                {
+                  "en": "From my point of view, the price hasn't changed.",
+                  "vi": "Từ góc nhìn của tôi thì giá chưa thay đổi.",
+                  "reply": [
+                    { "them": "The tax is separate now.", "themvi": "Giờ thuế tính riêng ạ.", "you": "Ah — that changes things.", "youvi": "À — vậy thì khác rồi." }
+                  ]
+                },
+                {
+                  "en": "From a cost point of view, the bigger pack is better.",
+                  "vi": "Xét về chi phí thì gói lớn hơn thì tốt hơn.",
+                  "reply": [
+                    { "them": "But will we use it all?", "themvi": "Nhưng mình dùng hết không?", "you": "Fair — from a waste point of view, no.", "youvi": "Đúng — xét về lãng phí thì không." }
+                  ],
+                  "vars": [
+                    { "en": "From a practical point of view, the small one's enough.", "vi": "Xét thực tế thì cái nhỏ là đủ." }
+                  ]
+                },
+                {
+                  "en": "I take your point, but the warranty matters to me.",
+                  "vi": "Tôi tiếp thu ý đó, nhưng bảo hành quan trọng với tôi.",
+                  "note": "<i>I take your point</i> = nhượng bộ một phần rồi giữ lập trường. Rất chuyên nghiệp.",
+                  "reply": [
+                    { "them": "Then the second model is better.", "themvi": "Vậy mẫu thứ hai hợp hơn ạ.", "you": "How long is the cover?", "youvi": "Bảo hành bao lâu?" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "From my point of view, it's not about the money.",
+                  "vi": "Từ góc nhìn của tôi, đây không phải chuyện tiền.",
+                  "note": "Dùng khi muốn kéo cuộc tranh luận ra khỏi con số và sang giá trị.",
+                  "reply": [
+                    { "them": "Then what is it about?", "themvi": "Vậy là chuyện gì?", "you": "Being told after the fact.", "youvi": "Chuyện bị báo sau khi mọi việc đã rồi." }
+                  ]
+                },
+                {
+                  "en": "Put yourself in their shoes for a second.",
+                  "vi": "Thử đặt mình vào vị trí họ một giây xem.",
+                  "note": "Thành ngữ: <span class=\"k\">in someone's shoes</span> = ở vị trí của ai đó.",
+                  "reply": [
+                    { "them": "I hadn't thought of that.", "themvi": "Mình chưa nghĩ đến điều đó.", "you": "They probably felt left out.", "youvi": "Chắc họ thấy bị bỏ rơi." }
+                  ],
+                  "close": { "en": "Worth a conversation.", "vi": "Đáng để nói chuyện một buổi." }
+                },
+                {
+                  "en": "We see it differently, and that's fine.",
+                  "vi": "Chúng ta nhìn khác nhau, và điều đó không sao.",
+                  "reply": [
+                    { "them": "Let's agree to differ then.", "themvi": "Vậy mình chấp nhận khác nhau nhé.", "you": "Agreed. No hard feelings.", "youvi": "Đồng ý. Không có gì để bụng." }
+                  ],
+                  "vars": [
+                    { "en": "It depends where you stand, really.", "vi": "Thật ra còn tùy mình đứng ở đâu." }
+                  ]
+                },
+                {
+                  "en": "From where I'm standing, it looks quite different.",
+                  "vi": "Từ chỗ tôi đứng thì trông khác hẳn.",
+                  "note": "<i>From where I'm standing</i> là bản thân mật hơn — nghe tự nhiên trong trò chuyện.",
+                  "reply": [
+                    { "them": "How so?", "themvi": "Khác thế nào?", "you": "You got the news first. I didn't.", "youvi": "Bạn biết tin trước. Mình thì không." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "From a cost point of view, the train is better.",
+                  "vi": "Xét về chi phí thì đi tàu tốt hơn.",
+                  "reply": [
+                    { "them": "And from a time point of view?", "themvi": "Còn xét về thời gian?", "you": "The plane wins, but only just.", "youvi": "Máy bay thắng, nhưng không nhiều." }
+                  ]
+                },
+                {
+                  "en": "From my point of view, three days is plenty.",
+                  "vi": "Từ góc nhìn của tôi thì ba ngày là quá đủ.",
+                  "reply": [
+                    { "them": "That's a valid point of view.", "themvi": "Đó là góc nhìn xác đáng.", "you": "But I've been before — you haven't.", "youvi": "Nhưng mình đến rồi — bạn thì chưa." }
+                  ]
+                },
+                {
+                  "en": "From a safety point of view, I'd avoid that route at night.",
+                  "vi": "Xét về an toàn thì tôi sẽ tránh tuyến đó vào ban đêm.",
+                  "note": "So với [Khung 42]: <i>In my professional opinion</i> nhấn vào chuyên môn của bạn; câu này nhấn vào khía cạnh được xét.",
+                  "open": { "en": "One thing worth mentioning —", "vi": "Có một điều đáng nói —" },
+                  "reply": [
+                    { "them": "Is it really that bad?", "themvi": "Tệ đến vậy à?", "you": "Not bad — just badly lit.", "youvi": "Không tệ — chỉ là thiếu đèn." }
+                  ],
+                  "close": { "en": "Daytime is fine.", "vi": "Ban ngày thì ổn." }
+                },
+                {
+                  "en": "From a tourist's point of view, the old town is the highlight.",
+                  "vi": "Từ góc nhìn khách du lịch thì phố cổ là điểm nhấn.",
+                  "reply": [
+                    { "them": "And for locals?", "themvi": "Còn với dân địa phương?", "you": "They'd say the market, probably.", "youvi": "Chắc họ sẽ nói là khu chợ." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "From a health point of view, this one's better.",
+                  "vi": "Xét về sức khỏe thì món này tốt hơn.",
+                  "reply": [
+                    { "them": "And from a taste point of view?", "themvi": "Còn xét về vị?", "you": "The other one, easily.", "youvi": "Món kia, không phải bàn." }
+                  ]
+                },
+                {
+                  "en": "From my point of view, it's overpriced for the portion.",
+                  "vi": "Từ góc nhìn của tôi thì giá đó đắt so với khẩu phần.",
+                  "reply": [
+                    { "them": "It's the location you're paying for.", "themvi": "Mình trả tiền cho vị trí mà.", "you": "Fair, from where you're standing.", "youvi": "Từ chỗ bạn đứng thì cũng hợp lý." }
+                  ],
+                  "vars": [
+                    { "en": "From a value point of view, it's not great.", "vi": "Xét về độ đáng tiền thì không ổn lắm." }
+                  ]
+                },
+                {
+                  "en": "From a customer's point of view, forty minutes is too long.",
+                  "vi": "Từ góc nhìn khách hàng thì bốn mươi phút là quá lâu.",
+                  "note": "Phàn nàn rất chuyên nghiệp — không nói “tôi bực”, mà nói “xét từ vai khách hàng”.",
+                  "reply": [
+                    { "them": "You're absolutely right, I'm sorry.", "themvi": "Anh/chị hoàn toàn đúng ạ, em xin lỗi.", "you": "No need — just worth knowing.", "youvi": "Không cần đâu — chỉ là nên biết thôi." }
+                  ],
+                  "close": { "en": "The food was worth it, though.", "vi": "Nhưng đồ ăn thì đáng đợi." }
+                },
+                {
+                  "en": "I can see your point of view, but I'd still order the fish.",
+                  "vi": "Tôi hiểu ý bạn, nhưng tôi vẫn gọi món cá.",
+                  "reply": [
+                    { "them": "Go on then, prove me wrong.", "themvi": "Vậy gọi đi, chứng minh mình sai đi.", "you": "Challenge accepted.", "youvi": "Nhận lời thách đấy." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Đàm phán với đối tác về tiến độ",
+          "lines": [
+            { "speaker": "Partner", "en": "A two-week delay isn't a big deal for us.", "vi": "Chậm hai tuần với bên tôi không phải chuyện lớn." },
+            { "speaker": "You", "me": true, "en": "I can see your point of view. But from my point of view, the delay costs us more.", "vi": "Tôi hiểu góc nhìn của anh/chị. Nhưng từ góc nhìn của tôi, chậm trễ khiến bên tôi tốn hơn." },
+            { "speaker": "Partner", "en": "How so?", "vi": "Sao lại vậy?" },
+            { "speaker": "You", "me": true, "en": "From a cost point of view, we hold stock for two extra weeks.", "vi": "Xét về chi phí, bên tôi phải giữ hàng thêm hai tuần." },
+            { "speaker": "Partner", "en": "I take your point. What would help?", "vi": "Tôi tiếp thu ý đó. Vậy cần gì?" },
+            { "speaker": "You", "me": true, "en": "A firm date. From my point of view, certainty matters more than speed.", "vi": "Một mốc chắc chắn. Từ góc nhìn của tôi, sự chắc chắn quan trọng hơn tốc độ." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Đánh giá hai phương án trong họp nội bộ",
+          "lines": [
+            { "speaker": "Lead", "en": "So which option do we go with?", "vi": "Vậy mình chọn phương án nào?" },
+            { "speaker": "You", "me": true, "en": "It depends where you stand. From a cost point of view, option B wins.", "vi": "Còn tùy mình đứng ở đâu. Xét về chi phí thì phương án B thắng." },
+            { "speaker": "Lead", "en": "And technically?", "vi": "Còn về kỹ thuật?" },
+            { "speaker": "You", "me": true, "en": "From a technical point of view, A is cleaner. But from a user's point of view, B is simpler.", "vi": "Xét về kỹ thuật thì A gọn hơn. Nhưng từ góc nhìn người dùng thì B đơn giản hơn." },
+            { "speaker": "Lead", "en": "I hadn't thought of that.", "vi": "Tôi chưa nghĩ đến điều đó." },
+            { "speaker": "You", "me": true, "en": "Let's look at it from their side — they just want it to work.", "vi": "Thử nhìn từ phía họ — họ chỉ muốn nó chạy được thôi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "In my point of view, it's fair.", "right": "From my point of view, it's fair.", "why": "BẪY LỚN NHẤT. Giới từ là <b>from</b>. Nhớ: ý kiến thì <i>in my opinion</i>, góc nhìn thì <i>from my point of view</i>." },
+            { "wrong": "From my points of view, it's fair.", "right": "From my point of view, it's fair.", "why": "Luôn <b>số ít</b>. Chỉ dùng số nhiều khi nói về nhiều người: <i>different points of view</i>." },
+            { "wrong": "From my point of view, I think it's fair.", "right": "From my point of view, it's fair.", "why": "Thừa. Đã có cụm mở đầu thì bỏ <i>I think</i> — chồng hai lớp rào." },
+            { "wrong": "From the technical point of view, it works.", "right": "From a technical point of view, it works.", "why": "Dùng mạo từ <b>a</b>, không phải <i>the</i>, vì đây là một trong nhiều khía cạnh có thể xét." },
+            { "wrong": "From my point of view it's fair.", "right": "From my point of view, it's fair.", "why": "Khi viết phải có <b>dấu phẩy</b> sau cụm mở đầu, giống [Khung 42] và [Khung 45]." },
+            { "wrong": "I see your point of view but you are wrong.", "right": "I take your point, but I see it differently.", "why": "Công nhận rồi phủ nhận thẳng thì mất hết tác dụng. Câu đúng giữ được hòa khí." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Nhấn vào điều gì", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>From my point of view,…</code>", "Vị trí quan sát của tôi", "<i>From my point of view, the risk is higher.</i> Đàm phán."],
+            ["<code>From a … point of view,…</code>", "Khía cạnh được xét", "<i>From a legal point of view, it's risky.</i> Phân tích."],
+            ["<code>From my perspective,…</code>", "Gần như đồng nghĩa, ngắn hơn", "<i>From my perspective, it's a win.</i> Xem [Khung 42]."],
+            ["<code>In my opinion,…</code>", "Quan điểm đã cân nhắc", "<i>In my opinion, it's too risky.</i> Xem [Khung 42]."],
+            ["<code>The way I see it,…</code>", "Cách tôi lý giải sự việc", "<i>The way I see it, we have two options.</i> Xem [Khung 48]."],
+            ["<code>Personally,…</code>", "Gu cá nhân", "<i>Personally, I'd wait.</i> Trò chuyện."],
+            ["<code>As far as I'm concerned,…</code>", "Riêng tôi thì — hơi dứt khoát", "<i>As far as I'm concerned, it's done.</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — không đồng ý với đối tác trong đàm phán" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I take your point, but…", "vi": "Nhẹ nhất — nhượng bộ trước" },
+            { "en": "I can see your point of view, but from my point of view…", "vi": "Công nhận rồi đưa góc nhìn mình" },
+            { "en": "We see it differently on that.", "vi": "Nêu rõ khác biệt, giữ hòa khí" },
+            { "en": "From my point of view, that's not workable.", "vi": "Phản đối rõ nhưng vẫn gắn với vị trí" },
+            { "en": "That's simply not acceptable.", "vi": "Bác bỏ thẳng — dùng khi đã hết đường" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "Cả cụm nói nhanh thành <b>“frəm-mai-POINT-əv-vyoo”</b> — chỉ nhấn duy nhất vào <i>POINT</i>.",
+            "<b>from</b> đọc nhẹ thành <b>/frəm/</b>, không bao giờ nhấn.",
+            "<b>point of</b> nối âm thành <b>“poin-təv”</b> — âm /t/ nối sang nguyên âm của <i>of</i>.",
+            "<b>of view</b> → “əv-VYOO”, hai chữ dính liền, chữ <i>of</i> đọc lướt thành /əv/.",
+            "<b>view</b> là <b>/vjuː/</b>: bắt đầu bằng /v/ răng chạm môi, rồi /juː/ dài — không phải <i>viu</i> ngắn.",
+            "<b>Ngắt một nhịp sau “view”</b> trước phần nội dung — đúng chỗ dấu phẩy khi viết."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "From my point of view, the risk is higher.", "vi": "Luyện shadowing: “frəm-mai-POIN-təv-VYOO” rồi ngắt một nhịp." },
+            { "en": "From a technical point of view, it works fine.", "vi": "Tập nhấn vào TECH-nical và POINT, phần còn lại đọc lướt." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Từ góc nhìn của tôi thì công bằng.", "blank": "__________, it's fair.", "a": "From my point of view (KHÔNG phải “In my point of view”)" },
+            { "vi": "Xét về mặt kỹ thuật thì nó chạy tốt.", "blank": "From __________ point of view, it works fine.", "a": "a technical" },
+            { "vi": "Từ góc nhìn khách hàng thì nó khó hiểu.", "blank": "From __________ point of view, it's confusing.", "a": "a customer's" },
+            { "vi": "Tôi hiểu góc nhìn của anh/chị.", "blank": "I can __________.", "a": "see your point of view" },
+            { "vi": "Tôi tiếp thu ý đó, nhưng chi phí là có thật.", "blank": "__________, but the cost is real.", "a": "I take your point" },
+            { "vi": "Thử đặt mình vào vị trí họ xem.", "blank": "__________ in their shoes.", "a": "Put yourself" },
+            { "vi": "Chuyện này mình chấp nhận khác nhau nhé.", "blank": "Let's __________ on this one.", "a": "agree to differ" },
+            { "vi": "Từ chỗ tôi đứng thì trông khác hẳn.", "blank": "__________, it looks quite different.", "a": "From where I'm standing" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi hiểu góc nhìn của anh/chị, nhưng từ góc nhìn của tôi thì rủi ro cao hơn.", "a": "I can see your point of view, but from my point of view the risk is higher." },
+            { "vi": "2. Xét về mặt pháp lý thì việc này rủi ro.", "a": "From a legal point of view, it's risky." },
+            { "vi": "3. Từ góc nhìn người dùng thì ba lần bấm là quá nhiều.", "a": "From a user's point of view, three clicks is too many." },
+            { "vi": "4. Xét về chi phí thì phương án B thắng.", "a": "From a cost point of view, option B wins." },
+            { "vi": "5. Chúng ta nhìn khác nhau, và điều đó không sao.", "a": "We see it differently, and that's fine." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Khắc vào đầu:</b> ý kiến thì <i>IN my opinion</i>, góc nhìn thì <i>FROM my point of view</i>. Đây là lỗi lộ ra ngay lập tức.",
+            "<b>Học dạng “From a … point of view”.</b> Nó biến bạn từ người nêu ý kiến thành người phân tích — rất giá trị trong họp.",
+            "<b>Dùng công thức đàm phán:</b> <i>I can see your point of view, but from my point of view…</i> Công nhận trước, phản biện sau.",
+            "<b>Đặt mình vào vai khác để thuyết phục:</b> <i>From a customer's point of view…</i> mạnh hơn nhiều so với nói “tôi thấy”.",
+            "<b>Đừng chồng lớp:</b> <i>From my point of view, I think…</i> là thừa. Chọn một.",
+            "<b>Bài tập 3 phút:</b> lấy một quyết định bạn đang phân vân, viết ba câu phân tích nó từ ba khía cạnh khác nhau — chi phí, thời gian, và rủi ro."
+          ]
+        }
+      ]
+    }
+  ]
+}

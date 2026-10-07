@@ -1,0 +1,142 @@
+{
+  "id": 1,
+  "title": "Bảng chữ cái & đánh vần tên mình",
+  "skipWordCheck": true,
+  "_whySkip": "Bài này dạy TÊN CHỮ CÁI, nên phần tiếng Anh là 'N, A, M' và 'double E' chứ không phải câu — soát theo từ vựng A1 sẽ toàn báo nhầm.",
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn sẽ <b>đọc được tên của 26 chữ cái</b> và <b>đánh vần được tên mình</b> cho người nước ngoài nghe." },
+        { "t": "p", "html": "Nghe thì nhỏ nhặt, nhưng đây là việc đầu tiên bạn phải làm trong đời thật: đặt phòng khách sạn, mở tài khoản, gọi điện cho ngân hàng — câu họ hỏi luôn là <i>“How do you spell that?”</i> (Đánh vần giúp tôi được không?)." },
+        { "t": "callout", "html": "<b>Một chữ cái có HAI thứ khác nhau:</b><br>• <b>TÊN</b> của nó — đọc khi đánh vần. Chữ <code>B</code> tên là <i>“bi”</i>.<br>• <b>ÂM</b> nó tạo ra trong từ — chữ <code>B</code> trong <i>book</i> đọc “b”.<br><br>Bài này chỉ học <b>TÊN</b>. Phần ÂM để hai bài sau." }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "<b>Không cần gì cả.</b> Đây là bài đầu tiên — bạn chưa cần biết một chữ tiếng Anh nào." },
+        { "t": "p", "html": "Bảng chữ cái tiếng Anh có <b>26 chữ</b>, dùng đúng những con chữ bạn đã quen trong tiếng Việt, chỉ là <b>không có</b> <i>ă â đ ê ô ơ ư</i> và các dấu thanh, lại <b>có thêm</b> bốn chữ tiếng Việt không dùng: <code>F</code>, <code>J</code>, <code>W</code>, <code>Z</code>." }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "p", "html": "Chỉ có ba điều cần nắm." },
+        { "t": "table", "head": ["Luật", "Nghĩa là gì", "Ví dụ"], "rows": [
+          ["<b>1.</b> Mỗi chữ có một cái tên", "Đánh vần là đọc lần lượt TÊN từng chữ", "<i>Nam</i> → “en – ây – em”"],
+          ["<b>2.</b> Hoa và thường là một chữ", "<code>A</code> và <code>a</code> đọc giống hệt nhau", "<i>Anh</i> và <i>anh</i> đánh vần như nhau"],
+          ["<b>3.</b> Chữ cái lặp lại thì nói <i>double</i>", "<i>double</i> = “gấp đôi”, nói một lần thay vì hai", "<i>Lee</i> → “el – double i”"]
+        ] },
+        { "t": "h3", "text": "Tên 26 chữ cái" },
+        { "t": "p", "html": "Cột <b>Đọc gần giống</b> chỉ là cái gậy chống tạm cho ngày đầu — nó <b>không chính xác</b>, vì tiếng Việt không có đủ âm. Nghe nút 🔊 ở cột ví dụ mới là chuẩn. Qua bài 02 và 03 bạn sẽ đọc được cột phiên âm và bỏ hẳn cột này." },
+        { "t": "table", "head": ["Chữ", "Phiên âm", "Đọc gần giống"], "rows": [
+          ["<b>A a</b>", "/eɪ/", "ây"],
+          ["<b>B b</b>", "/biː/", "bi (kéo dài)"],
+          ["<b>C c</b>", "/siː/", "xi (kéo dài)"],
+          ["<b>D d</b>", "/diː/", "đi (kéo dài)"],
+          ["<b>E e</b>", "/iː/", "i (kéo dài)"],
+          ["<b>F f</b>", "/ef/", "ép"],
+          ["<b>G g</b>", "/dʒiː/", "chi — <b>khác</b> chữ J"],
+          ["<b>H h</b>", "/eɪtʃ/", "ây-ch"],
+          ["<b>I i</b>", "/aɪ/", "ai"],
+          ["<b>J j</b>", "/dʒeɪ/", "chây — <b>khác</b> chữ G"],
+          ["<b>K k</b>", "/keɪ/", "khây"],
+          ["<b>L l</b>", "/el/", "eo"],
+          ["<b>M m</b>", "/em/", "em"],
+          ["<b>N n</b>", "/en/", "en"],
+          ["<b>O o</b>", "/əʊ/", "âu"],
+          ["<b>P p</b>", "/piː/", "pi (kéo dài)"],
+          ["<b>Q q</b>", "/kjuː/", "kiu"],
+          ["<b>R r</b>", "/ɑː/", "a (kéo dài)"],
+          ["<b>S s</b>", "/es/", "ét"],
+          ["<b>T t</b>", "/tiː/", "ti (kéo dài)"],
+          ["<b>U u</b>", "/juː/", "diu"],
+          ["<b>V v</b>", "/viː/", "vi (kéo dài)"],
+          ["<b>W w</b>", "/ˈdʌbljuː/", "đắp-bờ-diu — <b>ba</b> âm tiết"],
+          ["<b>X x</b>", "/eks/", "ếch-x"],
+          ["<b>Y y</b>", "/waɪ/", "oai"],
+          ["<b>Z z</b>", "/zed/", "dét (Anh-Mỹ: /ziː/ “di”)"]
+        ] },
+        { "t": "callout", "html": "<b>Bốn chữ người Việt hay lẫn nhất:</b><br>• <code>G</code> /dʒiː/ và <code>J</code> /dʒeɪ/ — cùng bắt đầu bằng “ch”, khác ở đuôi.<br>• <code>I</code> /aɪ/ “ai” và <code>E</code> /iː/ “i” — <b>ngược</b> với trực giác người Việt.<br>• <code>R</code> /ɑː/ chỉ là “a” kéo dài, <b>không</b> rung lưỡi “rờ”.<br>• <code>W</code> /ˈdʌbljuː/ dài <b>ba</b> âm tiết, không phải “vê kép”." }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "Đánh vần tên người Việt" },
+        { "t": "ex", "items": [
+          { "en": "Nam — N, A, M", "vi": "Nam — en, ây, em", "note": "Ba chữ, đọc lần lượt ba cái tên." },
+          { "en": "Lan — L, A, N", "vi": "Lan — eo, ây, en", "note": "Chữ <code>L</code> là “eo”, không phải “lờ”." },
+          { "en": "Minh — M, I, N, H", "vi": "Minh — em, ai, en, ây-ch", "note": "<code>I</code> đọc là “ai”, không phải “i”." },
+          { "en": "Huy — H, U, Y", "vi": "Huy — ây-ch, diu, oai", "note": "Ba chữ này đều là chữ người Việt hay đọc sai." },
+          { "en": "Giang — G, I, A, N, G", "vi": "Giang — chi, ai, ây, en, chi", "note": "Chữ <code>G</code> xuất hiện hai lần, đọc giống nhau cả hai." },
+          { "en": "Quyen — Q, U, Y, E, N", "vi": "Quyên — kiu, diu, oai, i, en", "note": "Tên tiếng Việt bỏ dấu khi viết cho người nước ngoài." },
+          { "en": "Tran — T, R, A, N", "vi": "Trần — ti, a, ây, en", "note": "<code>R</code> chỉ là “a” kéo dài." },
+          { "en": "Vu — V, U", "vi": "Vũ — vi, diu", "note": "Tên ngắn hai chữ." },
+          { "en": "Thao — T, H, A, O", "vi": "Thảo — ti, ây-ch, ây, âu", "note": "<code>O</code> là “âu” chứ không phải “o”." },
+          { "en": "Dung — D, U, N, G", "vi": "Dung — đi, diu, en, chi", "note": "Chữ cuối <code>G</code> là “chi”." }
+        ] },
+        { "t": "h3", "text": "Khi có chữ lặp — dùng double" },
+        { "t": "ex", "items": [
+          { "en": "Lee — L, double E", "vi": "Lee — eo, đáp-bờ i", "note": "Hai chữ <code>E</code> liền nhau: nói <i>double E</i> một lần." },
+          { "en": "Anna — A, double N, A", "vi": "Anna — ây, đáp-bờ en, ây", "note": "<i>double</i> chỉ dùng cho hai chữ <b>liền nhau</b>." },
+          { "en": "Bill — B, I, double L", "vi": "Bill — bi, ai, đáp-bờ eo", "note": "Hai chữ <code>L</code> ở cuối." },
+          { "en": "Emma — E, double M, A", "vi": "Emma — i, đáp-bờ em, ây", "note": "Nói <i>E, M, M, A</i> cũng không sai, chỉ là dài hơn." }
+        ] },
+        { "t": "h3", "text": "Câu bạn sẽ nghe và nói" },
+        { "t": "ex", "items": [
+          { "en": "How do you spell that?", "vi": "Cái đó đánh vần thế nào?", "note": "Câu người ta hỏi bạn. <i>spell</i> = đánh vần." },
+          { "en": "How do you spell your name?", "vi": "Tên bạn đánh vần thế nào?", "note": "Hỏi riêng về tên." },
+          { "en": "My name is Nam. N, A, M.", "vi": "Tôi tên Nam. En, ây, em.", "note": "Nói tên trước, rồi đánh vần luôn — khỏi phải hỏi lại." },
+          { "en": "Can you spell that, please?", "vi": "Bạn đánh vần giúp được không?", "note": "Lịch sự hơn nhờ chữ <i>please</i>." },
+          { "en": "Sorry, can you say that again?", "vi": "Xin lỗi, bạn nói lại được không?", "note": "Câu cứu cánh khi bạn nghe không kịp." },
+          { "en": "Slowly, please.", "vi": "Chậm thôi ạ.", "note": "Hai chữ, dùng được ở mọi tình huống." },
+          { "en": "It's N for Nam.", "vi": "Chữ N như trong chữ Nam ấy.", "note": "Cách làm rõ khi họ nghe nhầm chữ." },
+          { "en": "That's A, not E.", "vi": "Là chữ A, không phải E.", "note": "Sửa lại khi họ ghi sai." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — đọc tên chữ cái" },
+        { "t": "quiz", "items": [
+          { "vi": "Chữ A đọc tên là gì?", "a": "/eɪ/ — “ây”" },
+          { "vi": "Chữ E đọc tên là gì?", "a": "/iː/ — “i” kéo dài" },
+          { "vi": "Chữ I đọc tên là gì?", "a": "/aɪ/ — “ai”" },
+          { "vi": "Chữ R đọc tên là gì?", "a": "/ɑː/ — “a” kéo dài, không rung lưỡi" },
+          { "vi": "Chữ W đọc tên là gì?", "a": "/ˈdʌbljuː/ — ba âm tiết “đắp-bờ-diu”" },
+          { "vi": "Hai chữ G và J khác nhau chỗ nào?", "a": "G /dʒiː/ đuôi “i” · J /dʒeɪ/ đuôi “ây”" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — đánh vần" },
+        { "t": "quiz", "items": [
+          { "vi": "Đánh vần tên Lan.", "a": "L, A, N — “eo, ây, en”" },
+          { "vi": "Đánh vần tên Huy.", "a": "H, U, Y — “ây-ch, diu, oai”" },
+          { "vi": "Đánh vần tên Lee (có hai chữ E).", "a": "L, double E — “eo, đáp-bờ i”" },
+          { "vi": "Đánh vần tên của chính bạn, thành tiếng.", "a": "Không có đáp án sẵn — nói to lên và nghe lại chính mình." }
+        ] },
+        { "t": "h3", "text": "Phần 3 — câu nói" },
+        { "t": "quiz", "items": [
+          { "vi": "Cái đó đánh vần thế nào?", "a": "How do you spell that?" },
+          { "vi": "Xin lỗi, bạn nói lại được không?", "a": "Sorry, can you say that again?" }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>Tên chữ ≠ âm chữ.</b> Bài này học TÊN (đọc khi đánh vần). Âm của chữ trong từ là chuyện của bài 02 và 03.",
+          "<b>Bốn chữ hay sai nhất: I, E, R, W.</b> <code>I</code> là “ai” còn <code>E</code> là “i” — ngược với trực giác. <code>R</code> không rung lưỡi. <code>W</code> dài ba âm tiết.",
+          "<b>Đánh vần được tên mình là việc cần nhất.</b> Tập đến khi nói trôi không phải nghĩ — đây là câu bạn dùng nhiều nhất trong năm đầu."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "Chữ <code>I</code> đọc là “i”", "right": "Chữ <code>I</code> đọc là “ai” /aɪ/", "why": "Chữ <code>E</code> mới là “i”. Hai chữ này đổi chỗ cho nhau so với tiếng Việt — nhớ kỹ, vì đánh vần sai một chữ là người ta ghi sai cả tên." },
+          { "wrong": "Chữ <code>R</code> đọc “rờ” có rung lưỡi", "right": "Chữ <code>R</code> đọc /ɑː/ — “a” kéo dài", "why": "Tên chữ <code>R</code> không có âm “r” nào cả. Âm “r” chỉ xuất hiện khi chữ này nằm trong từ, ví dụ <i>red</i>." },
+          { "wrong": "<i>Lee</i> → “eo, i, i”", "right": "<i>Lee</i> → “eo, double i”", "why": "Hai chữ giống nhau đứng liền thì người bản xứ gần như luôn nói <i>double</i>. Đọc tách ra không sai, nhưng nghe là biết người mới học." }
+        ] }
+      ]
+    }
+  ]
+}

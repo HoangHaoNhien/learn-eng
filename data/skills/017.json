@@ -1,0 +1,277 @@
+{
+  "id": 17,
+  "group": "Nhóm 4 · Viết — cấu trúc trước, chữ sau",
+  "title": "Cấu trúc một đoạn văn",
+  "subtitle": "Người Việt viết theo lối quy nạp: dẫn dắt vòng vo rồi mới tới ý chính ở cuối. Tiếng Anh ngược hẳn — ý chính phải nằm ở CÂU ĐẦU, phần sau chỉ để chứng minh. Đảo thứ tự là người đọc lạc ngay.",
+  "meaning": "Viết một đoạn văn có câu chủ đề và mạch rõ",
+  "rule": [
+    "<em>Câu chủ đề đứng ĐẦU</em> — không giấu ở cuối",
+    "Một đoạn chỉ <em>MỘT ý chính</em>",
+    "Sau câu chủ đề: <em>giải thích → ví dụ → chốt</em>"
+  ],
+  "tags": [
+    { "text": "Mức độ: B2 bắt buộc", "hot": true },
+    { "text": "Ý chính ở đầu, không ở cuối" },
+    { "text": "Một đoạn một ý" },
+    { "text": "Ảnh hưởng: rất lớn" }
+  ],
+  "frames": [41, 42, 43, 45, 47],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Văn tiếng Việt quen lối <b>quy nạp</b>: dẫn dắt, kể bối cảnh, rồi mới chốt ý ở cuối. Văn tiếng Anh thì <b>diễn dịch</b>: nói ý chính <b>ngay câu đầu</b>, phần còn lại chỉ để chứng minh. Đây là khác biệt lớn nhất, và nó quyết định bài viết của bạn có dễ theo hay không." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — giấu ý chính ở cuối đoạn:</b><br><i>“Nowadays technology is developing very fast. Many people use smartphones every day. There are many applications. <b>So I think smartphones make life easier.</b>”</i><br>Người đọc tiếng Anh đọc câu đầu để biết đoạn này <b>nói về cái gì</b>. Ba câu dẫn dắt làm họ không biết bám vào đâu.<br><b>Viết lại:</b> đưa câu cuối lên đầu —<br><i>“<b>Smartphones have made everyday life much easier.</b> They put a map, a camera and a bank in one pocket…”</i>" },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — một đoạn nhồi nhiều ý:</b><br>Viết liền một mạch về <i>lợi ích</i>, rồi <i>tác hại</i>, rồi <i>giải pháp</i> — tất cả trong một đoạn.<br><b>Luật:</b> <b>một đoạn = một ý chính</b>. Đổi ý thì xuống dòng.<br>Mẹo kiểm tra: đọc lại câu đầu đoạn, rồi hỏi <i>“mọi câu còn lại có phục vụ câu này không?”</i> Câu nào không phục vụ thì nó thuộc về đoạn khác." },
+        { "t": "h3", "text": "Bốn phần của một đoạn" },
+        {
+          "t": "table",
+          "head": ["Phần", "Việc của nó", "Số câu"],
+          "rows": [
+            ["Câu chủ đề", "Nêu ý chính của cả đoạn", "1"],
+            ["Giải thích", "Làm rõ, nói vì sao", "1–2"],
+            ["Ví dụ / dẫn chứng", "Chứng minh cụ thể", "1–2"],
+            ["Câu chốt", "Buộc lại, nối sang đoạn sau", "1 (có thể bỏ)"]
+          ]
+        },
+        { "t": "p", "html": "Bốn phần này chính là khung <b>P-R-E-P</b> của [Kỹ năng 13] đem sang chữ viết — nói và viết dùng chung một bộ khung." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Vị trí", "Chức năng", "Cụm mở đầu"],
+          "rows": [
+            ["Câu 1", "Nêu ý chính", "The main benefit of… is that…"],
+            ["Câu 1 (cách khác)", "Nêu ý chính dạng khẳng định", "Smartphones have made life easier."],
+            ["Câu 2", "Giải thích vì sao", "This is because… · The reason is that…"],
+            ["Câu 2 (cách khác)", "Làm rõ ý vừa nêu", "In other words,… · That is,…"],
+            ["Câu 3", "Đưa ví dụ", "For example,… · For instance,…"],
+            ["Câu 3 (cách khác)", "Đưa số liệu", "According to a recent study,…"],
+            ["Thêm ý phụ", "Bổ sung cùng hướng", "Moreover,… · In addition,…"],
+            ["Lật nhẹ", "Thừa nhận mặt kia", "Admittedly,… · It is true that…"],
+            ["Bác lại", "Quay về ý chính", "However,… · Nevertheless,…"],
+            ["Nêu hệ quả", "Rút ra kết quả", "As a result,… · Consequently,…"],
+            ["Câu chốt", "Buộc đoạn lại", "Overall,… · This suggests that…"],
+            ["Nối sang đoạn sau", "Báo chuyển ý", "Another important factor is…"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Mẹo kiểm tra nhanh một bài viết:</b> đọc <b>riêng câu đầu của từng đoạn</b>, bỏ hết phần còn lại.<br>Nếu chuỗi câu đó đọc lên vẫn thành một dàn ý mạch lạc thì bài của bạn có cấu trúc tốt. Nếu không hiểu gì, nghĩa là câu chủ đề của bạn đang bị giấu ở đâu đó phía dưới." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Smartphones have made everyday life much easier.", "vi": "Điện thoại thông minh làm cuộc sống dễ hơn nhiều.", "note": "BẪY SỐ MỘT: câu chủ đề phải đứng ĐẦU, không giấu ở cuối." },
+            { "en": "This is mainly because they combine several tools in one device.", "vi": "Chủ yếu là vì nó gộp nhiều công cụ vào một máy.", "note": "Câu giải thích — trả lời “vì sao”." },
+            { "en": "For example, a single phone can replace a map, a camera and a wallet.", "vi": "Ví dụ, một cái điện thoại thay được bản đồ, máy ảnh và ví tiền.", "note": "Ví dụ CỤ THỂ — chứng minh câu chủ đề." },
+            { "en": "As a result, people carry far less than they used to.", "vi": "Nhờ vậy người ta mang theo ít đồ hơn trước nhiều.", "note": "Nêu hệ quả. Xem [Khung 93]." },
+            { "en": "Admittedly, this convenience comes at a cost.", "vi": "Phải thừa nhận sự tiện lợi này có cái giá của nó.", "note": "Lật nhẹ — thừa nhận mặt kia. Xem [Ngữ pháp 48]." },
+            { "en": "However, the benefits still outweigh the drawbacks.", "vi": "Tuy nhiên lợi ích vẫn lớn hơn bất lợi.", "note": "Bác lại rồi quay về ý chính." },
+            { "en": "Overall, smartphones have changed daily life for the better.", "vi": "Nhìn chung điện thoại đã làm đời sống tốt lên.", "note": "Câu chốt — buộc đoạn lại." },
+            { "en": "Another important factor is cost.", "vi": "Một yếu tố quan trọng nữa là chi phí.", "note": "BẪY SỐ HAI: đổi ý thì xuống dòng, đây là câu chủ đề của đoạn MỚI." },
+            { "en": "In other words, convenience and privacy pull in opposite directions.", "vi": "Nói cách khác, tiện lợi và riêng tư kéo về hai phía.", "note": "Làm rõ ý vừa nêu." },
+            { "en": "Moreover, they are far cheaper than they were ten years ago.", "vi": "Hơn nữa, chúng rẻ hơn nhiều so với mười năm trước." },
+            { "en": "According to a recent study, most people check their phone 50 times a day.", "vi": "Theo một nghiên cứu gần đây, phần lớn người ta mở điện thoại 50 lần mỗi ngày.", "note": "Dẫn chứng bằng số — mạnh hơn ví dụ thường." },
+            { "en": "From my point of view, the trade-off is worth it.", "vi": "Từ góc nhìn của tôi, đánh đổi đó là đáng.", "note": "Xem [Khung 47]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào cần để ý nhất",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "✍️", "title": "Viết luận B2", "text": "Mỗi đoạn một ý, câu chủ đề ở đầu." },
+            { "icon": "✉️", "title": "Email công việc dài", "text": "Người đọc chỉ quét câu đầu mỗi đoạn." },
+            { "icon": "📊", "title": "Viết báo cáo", "text": "Kết luận ở đầu, chi tiết ở sau." },
+            { "icon": "📝", "title": "Trả lời dài qua chat", "text": "Xuống dòng khi đổi ý." },
+            { "icon": "🗣", "title": "Nói một đoạn dài", "text": "Cùng khung P-R-E-P. Xem [Kỹ năng 13]." },
+            { "icon": "🚫", "title": "Đừng làm…", "text": "Đừng mở bài bằng <i>Nowadays…</i> rồi vòng vo ba câu." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cụm để dựng đoạn văn",
+      "blocks": [
+        { "t": "p", "html": "Chọn một cụm ở cột trái để xem nó dùng ở vị trí nào trong đoạn." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Câu chủ đề & giải thích",
+              "items": [
+                { "w": "The main benefit of… is that…", "vi": "Lợi ích chính của… là…", "ex": "The main benefit of remote work is that it saves time.", "exvi": "Lợi ích chính của làm từ xa là tiết kiệm thời gian.", "note": "BẪY SỐ MỘT: đặt ở CÂU ĐẦU, không phải cuối đoạn." },
+                { "w": "One major drawback is…", "vi": "Một bất lợi lớn là…", "ex": "One major drawback is the lack of contact.", "exvi": "Một bất lợi lớn là thiếu tiếp xúc." },
+                { "w": "There are two reasons for this.", "vi": "Có hai lý do cho việc này.", "ex": "There are two reasons for this.", "exvi": "Có hai lý do cho việc này.", "note": "Báo trước cấu trúc — người đọc biết chờ gì." },
+                { "w": "This is because…", "vi": "Đó là vì…", "ex": "This is because they combine several tools.", "exvi": "Đó là vì chúng gộp nhiều công cụ." },
+                { "w": "The reason is that…", "vi": "Lý do là…", "ex": "The reason is that costs have fallen.", "exvi": "Lý do là chi phí đã giảm." },
+                { "w": "In other words,…", "vi": "Nói cách khác,…", "ex": "In other words, they pull in opposite directions.", "exvi": "Nói cách khác, chúng kéo về hai phía." },
+                { "w": "That is to say,…", "vi": "Tức là,…", "ex": "That is to say, nothing is free.", "exvi": "Tức là chẳng có gì miễn phí cả." },
+                { "w": "For example,…", "vi": "Ví dụ,…", "ex": "For example, a phone replaces a map and a camera.", "exvi": "Ví dụ, điện thoại thay bản đồ và máy ảnh." },
+                { "w": "For instance,…", "vi": "Chẳng hạn,…", "ex": "For instance, many shops now accept phone payments.", "exvi": "Chẳng hạn giờ nhiều cửa hàng nhận trả bằng điện thoại." },
+                { "w": "According to…", "vi": "Theo…", "ex": "According to a recent study, …", "exvi": "Theo một nghiên cứu gần đây,…", "note": "Dẫn chứng bằng số mạnh hơn ví dụ thường." },
+                { "w": "In my experience,…", "vi": "Theo kinh nghiệm tôi,…", "ex": "In my experience, it works well.", "exvi": "Theo kinh nghiệm tôi thì nó ổn." },
+                { "w": "As far as I know,…", "vi": "Theo như tôi biết,…", "ex": "As far as I know, the rule hasn't changed.", "exvi": "Theo tôi biết thì luật chưa đổi. Xem [Khung 45]." }
+              ]
+            },
+            {
+              "title": "Nối ý, lật & chốt đoạn",
+              "items": [
+                { "w": "Moreover,…", "vi": "Hơn nữa,…", "ex": "Moreover, they are far cheaper now.", "exvi": "Hơn nữa giờ chúng rẻ hơn nhiều." },
+                { "w": "In addition,…", "vi": "Ngoài ra,…", "ex": "In addition, they save space.", "exvi": "Ngoài ra còn tiết kiệm chỗ." },
+                { "w": "Furthermore,…", "vi": "Thêm vào đó,…", "ex": "Furthermore, they are easy to repair.", "exvi": "Thêm nữa lại dễ sửa.", "note": "Trang trọng hơn <i>moreover</i> một chút." },
+                { "w": "Admittedly,…", "vi": "Phải thừa nhận là…", "ex": "Admittedly, this comes at a cost.", "exvi": "Phải thừa nhận là có cái giá của nó." },
+                { "w": "It is true that…", "vi": "Đúng là…", "ex": "It is true that not everyone can afford one.", "exvi": "Đúng là không phải ai cũng mua nổi." },
+                { "w": "However,…", "vi": "Tuy nhiên,…", "ex": "However, the benefits outweigh the drawbacks.", "exvi": "Tuy nhiên lợi ích lớn hơn. Xem [Ngữ pháp 48]." },
+                { "w": "Nevertheless,…", "vi": "Dẫu vậy,…", "ex": "Nevertheless, the trend continues.", "exvi": "Dẫu vậy xu hướng vẫn tiếp tục." },
+                { "w": "As a result,…", "vi": "Nhờ vậy,…", "ex": "As a result, people carry far less.", "exvi": "Nhờ vậy người ta mang ít đồ hơn." },
+                { "w": "Consequently,…", "vi": "Do đó,…", "ex": "Consequently, sales have risen.", "exvi": "Do đó doanh số tăng." },
+                { "w": "Overall,…", "vi": "Nhìn chung,…", "ex": "Overall, the change has been positive.", "exvi": "Nhìn chung thay đổi là tích cực.", "note": "Câu chốt đoạn." },
+                { "w": "This suggests that…", "vi": "Điều này cho thấy…", "ex": "This suggests that habits are changing.", "exvi": "Điều này cho thấy thói quen đang đổi." },
+                { "w": "Another important factor is…", "vi": "Một yếu tố quan trọng nữa là…", "ex": "Another important factor is cost.", "exvi": "Một yếu tố nữa là chi phí.", "note": "BẪY SỐ HAI: đây là câu chủ đề của đoạn MỚI — phải xuống dòng." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Mở đoạn bằng <b>“Nowadays, technology is developing very fast…”</b> rồi ba câu sau mới tới ý", "right": "<b>“Smartphones have made everyday life much easier.”</b> ngay câu đầu", "why": "BẪY SỐ MỘT: văn tiếng Anh là diễn dịch — ý chính nằm ở câu đầu." },
+            { "wrong": "Một đoạn viết cả <b>lợi ích, tác hại và giải pháp</b>", "right": "<b>Ba đoạn</b>, mỗi đoạn một ý", "why": "BẪY SỐ HAI: một đoạn = một ý chính. Đổi ý thì xuống dòng." },
+            { "wrong": "Viết <b>một đoạn dài 20 dòng</b> không xuống dòng", "right": "Chia 3–5 câu mỗi đoạn", "why": "Khối chữ dày làm người đọc bỏ qua. Xuống dòng là một phần của nội dung." },
+            { "wrong": "Câu chủ đề quá rộng: <b>“Technology is important.”</b>", "right": "<b>“Smartphones have replaced several everyday tools.”</b>", "why": "Câu chủ đề phải đủ hẹp để chứng minh được trong một đoạn." },
+            { "wrong": "Nêu ý chính rồi <b>không có ví dụ nào</b>", "right": "Thêm <b>“For example,…”</b>", "why": "Không ví dụ thì ý chính chỉ là lời khẳng định suông." },
+            { "wrong": "Đoạn nào cũng mở bằng <b>“Firstly… Secondly… Thirdly…”</b>", "right": "<b>“The main benefit is…”</b> · <b>“Another important factor is…”</b>", "why": "Đánh số máy móc nghe khô. Nêu thẳng ý chính hay hơn." },
+            { "wrong": "Nhồi <b>“Moreover, Furthermore, In addition”</b> ba câu liền", "right": "Dùng một cái, rồi đổi kiểu nối", "why": "Nhồi từ nối không làm bài mạch lạc hơn — nó chỉ làm bài nghe gượng." },
+            { "wrong": "Câu chốt nêu <b>ý mới</b>", "right": "Câu chốt <b>buộc lại ý đã nêu</b>", "why": "Ý mới ở cuối đoạn làm người đọc chờ phần chứng minh không bao giờ tới." },
+            { "wrong": "Dùng <b>“I think”</b> ở mọi câu", "right": "Nêu thẳng, chỉ dùng <i>I think</i> khi cần", "why": "Trong văn viết, khẳng định thẳng mạnh hơn. Xem [Khung 41]." },
+            { "wrong": "Viết xong <b>không đọc lại câu đầu các đoạn</b>", "right": "Đọc riêng chuỗi câu đầu xem có thành dàn ý không", "why": "Đây là cách kiểm tra cấu trúc nhanh nhất, mất 30 giây." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với lỗi gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["Diễn dịch / quy nạp", "Ý chính đầu / ý chính cuối", "Tiếng Anh dùng diễn dịch"],
+            ["Một ý / nhiều ý một đoạn", "Rõ / rối", "Đổi ý thì xuống dòng"],
+            ["Câu chủ đề hẹp / quá rộng", "Chứng minh được / không", "Technology is important ✗"],
+            ["Có ví dụ / chỉ khẳng định", "Thuyết phục / suông", "For example,…"],
+            ["Nối đa dạng / nhồi từ nối", "Mạch lạc / gượng", "Moreover ×3 ✗"],
+            ["Chốt lại / nêu ý mới", "Đóng đoạn / bỏ lửng", "Overall,… ✓"],
+            ["Viết / nói", "Cùng khung P-R-E-P", "Xem [Kỹ năng 13]"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: viết tiếp câu nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn vừa viết xong một câu trong đoạn — câu tiếp theo làm gì?",
+          "nodes": [
+            { "if": "Vừa mở đoạn", "then": "Câu chủ đề — nêu thẳng ý chính", "ex": "Smartphones have made life easier." },
+            { "if": "Đã có câu chủ đề", "then": "Giải thích vì sao", "ex": "This is because they combine several tools." },
+            { "if": "Đã giải thích", "then": "Đưa ví dụ cụ thể", "ex": "For example, a phone replaces a map." },
+            { "if": "Muốn đoạn cân hơn", "then": "Lật nhẹ rồi bác lại", "ex": "Admittedly,… However,…" },
+            { "if": "Đã đủ, cần đóng đoạn", "then": "Câu chốt buộc lại", "ex": "Overall, …" },
+            { "if": "Sắp nói sang ý KHÁC", "then": "Xuống dòng, mở đoạn mới", "ex": "Another important factor is…" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ chặt của một đoạn" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Nowadays technology develops fast… (3 câu dẫn)", "vi": "Yếu nhất — ý chính bị giấu" },
+            { "en": "Smartphones are useful. People like them.", "vi": "Có ý chính nhưng rỗng" },
+            { "en": "…This is because they combine several tools.", "vi": "Có giải thích" },
+            { "en": "…For example, a phone replaces a map and a camera.", "vi": "Có ví dụ — đạt B2" },
+            { "en": "…Admittedly… However… Overall, …", "vi": "Có lật và có chốt — B2+" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kỹ năng này dùng ở đâu",
+      "blocks": [
+        { "t": "p", "html": "Cấu trúc đoạn là nền của mọi bài viết dài, và cũng là nền của một đoạn nói dài." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 41, "why": "I think (that) + mệnh đề — trong văn viết thì bỏ bớt, nêu thẳng mạnh hơn." },
+            { "id": 42, "why": "In my opinion, … — cách mở đoạn nêu quan điểm, hợp văn viết." },
+            { "id": 43, "why": "I believe (that) + mệnh đề — câu chủ đề dạng khẳng định." },
+            { "id": 45, "why": "As far as I know, … — mở đầu khi dẫn thông tin mình không chắc tuyệt đối." },
+            { "id": 47, "why": "From my point of view, … — câu chốt đoạn khi nêu lập trường." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Câu này nằm ở vị trí nào trong đoạn?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Điện thoại làm cuộc sống dễ hơn nhiều.", "blank": "Smartphones have made life easier.  →  __________", "a": "câu chủ đề — câu 1" },
+            { "vi": "Đó là vì chúng gộp nhiều công cụ.", "blank": "This is because they combine several tools.  →  __________", "a": "giải thích" },
+            { "vi": "Ví dụ, điện thoại thay bản đồ và máy ảnh.", "blank": "For example, a phone replaces a map.  →  __________", "a": "ví dụ" },
+            { "vi": "Phải thừa nhận là có cái giá của nó.", "blank": "Admittedly, this comes at a cost.  →  __________", "a": "lật nhẹ" },
+            { "vi": "Tuy nhiên lợi ích vẫn lớn hơn.", "blank": "However, the benefits outweigh…  →  __________", "a": "bác lại" },
+            { "vi": "Nhờ vậy người ta mang ít đồ hơn.", "blank": "As a result, people carry less.  →  __________", "a": "hệ quả" },
+            { "vi": "Nhìn chung thay đổi là tích cực.", "blank": "Overall, the change has been positive.  →  __________", "a": "câu chốt" },
+            { "vi": "Một yếu tố quan trọng nữa là chi phí.", "blank": "Another important factor is cost.  →  __________", "a": "câu chủ đề của đoạn MỚI" }
+          ]
+        },
+        { "t": "h3", "text": "B. Câu nào làm câu chủ đề tốt hơn?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Mở đoạn về điện thoại", "blank": "(a) Nowadays technology develops fast.  (b) Smartphones have replaced several everyday tools.", "a": "(b)" },
+            { "vi": "Độ hẹp của câu chủ đề", "blank": "(a) Technology is important.  (b) Online learning suits working adults better than classroom courses.", "a": "(b)" },
+            { "vi": "Mở đoạn thứ hai", "blank": "(a) Secondly, I want to say about cost.  (b) Another important factor is cost.", "a": "(b)" },
+            { "vi": "Câu chốt đoạn", "blank": "(a) Also, phones are expensive.  (b) Overall, the change has been positive.", "a": "(b) — chốt, không nêu ý mới" }
+          ]
+        },
+        { "t": "h3", "text": "C. Viết một đoạn 5 câu, đủ bốn phần" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Lợi ích của làm việc từ xa.", "a": "Chủ đề → giải thích (This is because…) → ví dụ (For example…) → chốt (Overall…)" },
+            { "vi": "2. Một bất lợi của mạng xã hội.", "a": "One major drawback is… → The reason is that… → For instance… → As a result…" },
+            { "vi": "3. Vì sao nên học ngoại ngữ từ nhỏ.", "a": "Thêm một câu lật: Admittedly,… However,…" },
+            { "vi": "4. Viết xong, đọc riêng câu đầu các đoạn xem có thành dàn ý không.", "a": "Nếu chuỗi câu đầu không thành dàn ý, câu chủ đề đang bị giấu ở dưới." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Ý chính ở CÂU ĐẦU, không ở cuối.</b> Tiếng Việt quy nạp, tiếng Anh diễn dịch — đây là khác biệt lớn nhất.",
+            "<b>Một đoạn = một ý.</b> Đổi ý thì xuống dòng. Kiểm tra: mọi câu còn lại có phục vụ câu đầu không?",
+            "<b>Bốn phần:</b> chủ đề → giải thích → <b>ví dụ</b> → chốt. Thiếu ví dụ thì ý chính chỉ là khẳng định suông.",
+            "<b>Câu chủ đề phải đủ hẹp</b> để chứng minh xong trong một đoạn. <i>Technology is important</i> thì quá rộng.",
+            "<b>Đừng nhồi từ nối.</b> Ba câu liền <i>Moreover, Furthermore, In addition</i> không làm bài mạch lạc hơn.",
+            "<b>Kiểm tra 30 giây:</b> đọc riêng <b>câu đầu của từng đoạn</b>. Nếu chuỗi đó thành một dàn ý thì bài có cấu trúc tốt."
+          ]
+        }
+      ]
+    }
+  ]
+}

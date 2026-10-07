@@ -1,0 +1,179 @@
+{
+  "title": "Bạn đang ở đâu",
+  "tagline": "không phải điểm số — mà là những việc bạn làm được",
+  "intro": "Trang này không chấm điểm. Mỗi dòng dưới đây là <b>một việc cụ thể làm được bằng tiếng Anh</b>, theo thang CEFR. Cách dùng: đọc đề tự kiểm chứng, <b>làm thật</b> rồi đối chiếu với mốc đạt. Chỉ tích vào ô khi bạn làm được <i>mà không nhìn giấy</i> — tích cho có thì trang này thành vô dụng.",
+  "levels": [
+    {
+      "lv": "A1",
+      "vi": "Nền móng",
+      "say": "Nói được những câu đầu tiên về chính mình. Đây là tầng mà tab Nhập môn lo trọn gói.",
+      "items": [
+        {
+          "do": "Giới thiệu tên, tuổi, quê quán và nghề nghiệp bằng câu đủ chủ ngữ + động từ.",
+          "task": "Nói liền 30 giây giới thiệu bản thân, không nhìn giấy.",
+          "ok": "Có ít nhất 4 câu, câu nào cũng có chủ ngữ, và dùng đúng <i>am / is / are</i>.",
+          "n": [7, 6], "f": [71, 74, 75]
+        },
+        {
+          "do": "Nói KHÔNG và đặt câu hỏi Yes/No với <i>to be</i> và động từ thường.",
+          "task": "Viết 6 câu: 3 câu phủ định, 3 câu hỏi — một nửa dùng <i>to be</i>, một nửa dùng động từ thường.",
+          "ok": "Không câu nào thiếu <i>don't / doesn't</i>, và câu hỏi đảo đúng trật tự.",
+          "n": [8, 9, 15, 16]
+        },
+        {
+          "do": "Đọc được ký hiệu phiên âm trong từ điển để tự tra cách đọc một từ mới.",
+          "task": "Tra 5 từ mới trong tab Từ vựng, đọc to theo phiên âm, rồi nghe lại để đối chiếu.",
+          "ok": "Đọc đúng nguyên âm và vị trí trọng âm của ít nhất 4/5 từ.",
+          "n": [2, 3], "s": [5]
+        },
+        {
+          "do": "Nói giờ, ngày tháng và số đếm đến 100 mà không phải nghĩ lâu.",
+          "task": "Nhìn đồng hồ 10 lần trong ngày, mỗi lần nói to giờ bằng tiếng Anh.",
+          "ok": "Nói ra trong vòng 3 giây, không phải đếm nhẩm.",
+          "n": [19, 20, 21]
+        },
+        {
+          "do": "Nói đồ vật nằm ở đâu bằng giới từ nơi chốn.",
+          "task": "Tả chỗ bạn đang ngồi bằng 5 câu dùng <i>in · on · at · under · next to</i>.",
+          "ok": "Dùng đúng 5 giới từ khác nhau, không lặp.",
+          "n": [22], "g": [40]
+        },
+        {
+          "do": "Nói “có …” bằng <i>there is / there are</i> thay vì dịch thẳng từ tiếng Việt.",
+          "task": "Tả căn phòng của bạn bằng 6 câu bắt đầu bằng <i>There is</i> hoặc <i>There are</i>.",
+          "ok": "Chia đúng số ít / số nhiều cả 6 câu.",
+          "n": [25], "g": [51], "f": [100]
+        }
+      ]
+    },
+    {
+      "lv": "A2",
+      "vi": "Cơ bản",
+      "say": "Kể được việc hằng ngày và xoay xở trong những tình huống quen thuộc.",
+      "items": [
+        {
+          "do": "Kể một ngày thường của mình bằng chuỗi câu nối tiếp, không đứt quãng.",
+          "task": "Nói 60 giây về một ngày thường, dùng ít nhất 3 từ nối thời gian (<i>then · after that · finally</i>).",
+          "ok": "Nói liền 60 giây, không dừng quá 3 giây một lần.",
+          "g": [1, 38], "s": [12]
+        },
+        {
+          "do": "Kể một chuyện đã xảy ra bằng quá khứ đơn, chia đúng cả động từ bất quy tắc.",
+          "task": "Kể lại cuối tuần vừa rồi bằng 10 câu quá khứ.",
+          "ok": "Ít nhất 8/10 câu chia đúng; không câu nào dùng <i>didn't + V2</i>.",
+          "g": [3], "s": [3]
+        },
+        {
+          "do": "Hỏi đường, hỏi giờ, hỏi giá và hiểu được câu trả lời.",
+          "task": "Viết 8 câu hỏi cho một chuyến đi: đường đi, giờ giấc, giá vé, thời gian mất bao lâu.",
+          "ok": "Dùng đúng <i>How much / How many / How long / What time</i> và đảo ngữ đúng.",
+          "f": [61, 63, 64, 65]
+        },
+        {
+          "do": "Nói kế hoạch sắp tới, phân biệt <i>will</i> và <i>be going to</i>.",
+          "task": "Viết 6 câu về tuần tới: 3 câu kế hoạch đã quyết, 3 câu quyết định ngay lúc nói.",
+          "ok": "Chọn đúng <i>be going to</i> cho kế hoạch và <i>will</i> cho quyết định tức thì.",
+          "g": [10, 11], "f": [91]
+        },
+        {
+          "do": "Viết một email thân mật xin nghỉ hoặc hẹn gặp, có mở và kết đúng quy ước.",
+          "task": "Viết email 60–80 từ xin nghỉ một ngày, gửi cho đồng nghiệp thân.",
+          "ok": "Có lời chào, lý do, ngày cụ thể và lời kết — đủ bốn phần.",
+          "s": [21], "g": [39]
+        },
+        {
+          "do": "Nghe ra phụ âm cuối và đuôi <i>-s</i>, <i>-ed</i> trong câu nói tốc độ thường.",
+          "task": "Nghe 10 câu có đuôi <i>-s</i>/<i>-ed</i>, chép lại rồi đối chiếu.",
+          "ok": "Chép đúng đuôi ở ít nhất 7/10 câu.",
+          "s": [1, 2, 3]
+        }
+      ]
+    },
+    {
+      "lv": "B1",
+      "vi": "Trung cấp",
+      "say": "Giao tiếp trôi trong hầu hết tình huống quen thuộc, giải thích được lý do và ý kiến.",
+      "items": [
+        {
+          "do": "Nêu ý kiến kèm lý do và ví dụ, không chỉ nói “I think it's good”.",
+          "task": "Nói 90 giây trả lời: <i>Có nên làm việc tại nhà không?</i> — theo mẫu quan điểm + vì sao + ví dụ.",
+          "ok": "Có đủ ba phần, và phần ví dụ là chuyện cụ thể chứ không nói chung chung.",
+          "s": [13], "f": [41, 42, 47]
+        },
+        {
+          "do": "Nối hai mệnh đề bằng mệnh đề quan hệ thay vì cắt thành hai câu rời.",
+          "task": "Viết 8 câu ghép dùng <i>who · which · that · where</i>.",
+          "ok": "Không câu nào thừa đại từ (<i>the man who he lives…</i>) và chọn đúng từ nối.",
+          "g": [45, 60]
+        },
+        {
+          "do": "Dùng hiện tại hoàn thành đúng chỗ, phân biệt được với quá khứ đơn.",
+          "task": "Viết 10 câu về kinh nghiệm bản thân, một nửa hoàn thành, một nửa quá khứ đơn.",
+          "ok": "Không câu nào dùng hoàn thành kèm mốc thời gian đã kết thúc (<i>yesterday</i>, <i>last year</i>).",
+          "g": [6, 7, 9], "f": [94, 95]
+        },
+        {
+          "do": "Nói giả định với điều kiện loại 1 và 2, không nhầm hai loại.",
+          "task": "Viết 8 câu: 4 câu điều kiện có thật, 4 câu trái thực tế ở hiện tại.",
+          "ok": "Loại 2 dùng <i>V2 + would</i>, không lọt <i>will</i> vào vế <i>if</i>.",
+          "g": [14, 15], "f": [97, 98]
+        },
+        {
+          "do": "Viết một đoạn văn có câu chủ đề, phần triển khai và ví dụ.",
+          "task": "Viết một đoạn 100 từ về lợi ích của việc đọc sách.",
+          "ok": "Câu đầu nêu ý chính, các câu sau đều phục vụ ý đó, có ít nhất một ví dụ.",
+          "s": [17, 22]
+        },
+        {
+          "do": "Nghe hiểu câu nói nhanh có nối âm và dạng yếu, không cần nghe từng từ.",
+          "task": "Nghe một đoạn 2 phút, ghi lại 5 ý chính mà không chép từng chữ.",
+          "ok": "5 ý đều đúng nội dung, kể cả khi bỏ sót vài từ.",
+          "s": [7, 9, 10]
+        }
+      ]
+    },
+    {
+      "lv": "B2",
+      "vi": "Trung cao cấp",
+      "say": "Tranh luận được, viết trang trọng được, và nói dài mà không khựng. Đây là đích của lộ trình.",
+      "items": [
+        {
+          "do": "Tranh luận có nhượng bộ: công nhận ý đối phương trước rồi mới phản bác.",
+          "task": "Nói 2 phút phản biện một ý kiến bạn không đồng tình, bắt buộc mở đầu bằng một câu nhượng bộ.",
+          "ok": "Có ít nhất 2 câu nhượng bộ (<i>although · I do see your point, but…</i>) và lập luận không mâu thuẫn.",
+          "s": [13], "g": [48, 65], "f": [52, 53, 54]
+        },
+        {
+          "do": "Viết email trang trọng đúng quy ước: mở, nêu việc, đề nghị, kết.",
+          "task": "Viết email 120 từ khiếu nại một dịch vụ, giọng lịch sự nhưng dứt khoát.",
+          "ok": "Dùng <i>Dear … / Yours sincerely</i> đúng cặp, có ít nhất 2 câu bị động hoặc khách quan.",
+          "s": [20], "g": [46, 65], "f": [16, 18]
+        },
+        {
+          "do": "Nói liền 2 phút về một chủ đề lạ mà không khựng giữa chừng.",
+          "task": "Bốc một chủ đề bất kỳ, chuẩn bị 1 phút rồi nói 2 phút không dừng.",
+          "ok": "Không im quá 4 giây; khi bí thì dùng câu câu giờ thay vì đứng hình.",
+          "s": [12, 15]
+        },
+        {
+          "do": "Thuật lại lời người khác — cả câu kể, câu hỏi lẫn mệnh lệnh.",
+          "task": "Thuật lại một cuộc hội thoại 10 lượt mà bạn vừa nghe hoặc vừa đọc.",
+          "ok": "Câu hỏi được thuật đúng trật tự câu kể, không còn dấu hỏi; mệnh lệnh dùng <i>told/asked sb to V</i>.",
+          "g": [47, 66], "f": [17, 67]
+        },
+        {
+          "do": "Dùng cấu trúc nhấn mạnh để làm nổi ý thay vì nói đều đều.",
+          "task": "Viết lại 6 câu thường thành câu nhấn mạnh: 2 câu chẻ, 2 câu đảo ngữ, 2 câu dùng <i>do</i>.",
+          "ok": "Cả 6 câu đúng ngữ pháp và giữ nguyên nghĩa gốc.",
+          "g": [49, 62, 65]
+        },
+        {
+          "do": "Hiểu phim có phụ đề tiếng Anh mà không phải tua lại liên tục.",
+          "task": "Xem 15 phút phim với phụ đề tiếng Anh, ghi lại 10 cụm mới nghe được.",
+          "ok": "Tua lại không quá 3 lần, và 10 cụm ghi được đều đúng chính tả.",
+          "s": [8, 10, 11]
+        }
+      ]
+    }
+  ]
+}

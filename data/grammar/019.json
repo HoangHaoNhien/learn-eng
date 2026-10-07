@@ -1,0 +1,277 @@
+{
+  "id": 19,
+  "group": "Nhóm 2 · Danh từ, mạo từ & lượng từ",
+  "title": "Đếm được & không đếm được",
+  "subtitle": "Tiếng Việt không phân biệt hai loại danh từ này, nên người học mang thẳng thói quen sang và sai hàng loạt: a news ✗, many advices ✗, informations ✗. Học thuộc danh sách khoảng mười từ là tránh được gần hết lỗi.",
+  "meaning": "Danh từ chia làm hai loại, và mọi thứ đi kèm đều phụ thuộc vào đó",
+  "rule": [
+    "Đếm được: <em>a book · two books · many books</em>",
+    "Không đếm được: <em>some water · much water</em> — không có <em>a</em>, không có <em>s</em>",
+    "Muốn đếm: <em>a piece of advice · two pieces of information</em>"
+  ],
+  "tags": [
+    { "text": "Trình độ: A2–B1", "hot": true },
+    { "text": "news, advice, information ✗ số nhiều" },
+    { "text": "a piece of…" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [65, 89, 92, 99, 100],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Tiếng Anh chia danh từ làm hai loại, và lựa chọn này quyết định <b>gần như mọi thứ đi kèm</b>: có <i>a/an</i> hay không, có thêm <i>-s</i> hay không, dùng <i>many</i> hay <i>much</i>, động từ chia số ít hay số nhiều." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — danh sách từ hay nhầm nhất:</b> những từ này <b>KHÔNG đếm được</b> trong tiếng Anh dù tiếng Việt đếm thoải mái:<br><b>weather · news · advice · information · luggage · furniture · work · traffic · money · bread · equipment · research</b><br><i>a news</i> ✗ · <i>many advices</i> ✗ · <i>informations</i> ✗" },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>news</i> có chữ <i>s</i> nhưng là SỐ ÍT:</b> <i>The news <b>is</b> good</i> ✓ — <i>The news are good</i> ✗. Cùng nhóm với <i>economics, mathematics, physics</i> — đều có <i>s</i> mà vẫn chia số ít." },
+        { "t": "h3", "text": "Hai loại, mọi thứ khác nhau" },
+        {
+          "t": "table",
+          "head": ["Đặc điểm", "Đếm được", "Không đếm được"],
+          "rows": [
+            ["Mạo từ <code>a/an</code>", "có — <i>a book</i>", "KHÔNG — <i>water</i> ✓, <i>a water</i> ✗"],
+            ["Số nhiều <code>-s</code>", "có — <i>books</i>", "KHÔNG — <i>advices</i> ✗"],
+            ["Lượng từ", "<i>many · a few · how many</i>", "<i>much · a little · how much</i>"],
+            ["Muốn đếm", "đếm thẳng — <i>two books</i>", "cần vật chứa — <i>two pieces of advice</i>"]
+          ]
+        },
+        { "t": "p", "html": "Có những từ <b>đổi nghĩa khi đổi loại</b>: <i>a coffee</i> = một tách cà phê (đếm được), còn <i>coffee</i> = cà phê nói chung (không đếm được). <i>a paper</i> = một tờ báo hoặc bài báo, <i>paper</i> = giấy. Nghĩa quyết định loại, không phải từ." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Tình huống", "Đếm được", "Không đếm được"],
+          "rows": [
+            ["Số ít", "<code>a book</code>", "<code>some water</code> — không có <i>a</i>"],
+            ["Số nhiều", "<code>two books</code>", "không có dạng số nhiều"],
+            ["Nhiều", "<code>many books</code>", "<code>much water</code>"],
+            ["Nhiều (trung tính)", "<code>a lot of books</code>", "<code>a lot of water</code>"],
+            ["Một ít", "<code>a few books</code>", "<code>a little water</code>"],
+            ["Rất ít (tiêu cực)", "<code>few books</code>", "<code>little water</code>"],
+            ["Hỏi số lượng", "<code>How many books?</code>", "<code>How much water?</code>"],
+            ["Có / Không có", "<code>There are two books.</code>", "<code>There is some water.</code>"],
+            ["Muốn đếm", "<code>two books</code>", "<code>two pieces of advice</code>"],
+            ["Trong câu cảm thán", "<code>What a nice day!</code>", "<code>What nice weather!</code>"],
+            ["Động từ theo sau", "số ít hoặc số nhiều", "LUÔN số ít — <i>The news is…</i>"],
+            ["Đại từ thay thế", "<code>it / they</code>", "<code>it</code>"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cặp <i>a few</i> và <i>few</i> đổi hẳn thái độ:</b> <i>I have <b>a few</b> friends</i> = tôi có vài người bạn (tích cực). <i>I have <b>few</b> friends</i> = tôi có rất ít bạn (tiêu cực, gần như không có). Bỏ chữ <i>a</i> là đổi cả sắc thái." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "What lovely weather!", "vi": "Thời tiết đẹp quá!", "note": "<i>weather</i> KHÔNG đếm được nên không có <b>a</b>. Xem [Khung 89]." },
+            { "en": "The news is good.", "vi": "Tin tốt đấy.", "note": "BẪY SỐ HAI: <i>news</i> có chữ <i>s</i> nhưng chia SỐ ÍT." },
+            { "en": "That's good advice, thank you.", "vi": "Lời khuyên hay đấy, cảm ơn.", "note": "<i>advices</i> ✗ — không có dạng số nhiều." },
+            { "en": "Let me give you a piece of advice.", "vi": "Để tôi cho bạn một lời khuyên.", "note": "Muốn đếm thì dùng <b>a piece of</b>." },
+            { "en": "There's some information online.", "vi": "Trên mạng có ít thông tin.", "note": "<i>informations</i> ✗. Dùng <b>is</b>, không phải <i>are</i>. Xem [Khung 100]." },
+            { "en": "How much luggage do you have?", "vi": "Bạn có bao nhiêu hành lý?", "note": "Không đếm được nên dùng <b>how much</b>. Xem [Khung 65]." },
+            { "en": "How many bags do you have?", "vi": "Bạn có mấy cái túi?", "note": "<i>bags</i> đếm được nên dùng <b>how many</b>." },
+            { "en": "There's a lot of traffic today.", "vi": "Hôm nay đông xe quá.", "note": "<i>traffic</i> không đếm được — <i>many traffics</i> ✗." },
+            { "en": "I have a few friends here.", "vi": "Mình có vài người bạn ở đây.", "note": "<b>a few</b> nghe tích cực — có một số." },
+            { "en": "I have little time today.", "vi": "Hôm nay tôi có rất ít thời gian.", "note": "<b>little</b> không có <i>a</i> nên nghe TIÊU CỰC — gần như không có." },
+            { "en": "Two coffees, please.", "vi": "Cho tôi hai cà phê.", "note": "<i>a coffee</i> = một TÁCH cà phê — ở nghĩa này thì đếm được bình thường." },
+            { "en": "There are a lot of people here.", "vi": "Ở đây đông người quá.", "note": "<i>people</i> là SỐ NHIỀU dù không có <i>s</i> — dùng <b>are</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "☀️", "title": "Khen thời tiết", "text": "<i>What lovely weather!</i> Không có <b>a</b>. Xem [Khung 89]." },
+            { "icon": "📰", "title": "Nói về tin tức", "text": "<i>The news is good.</i> Chia số ít." },
+            { "icon": "💡", "title": "Đưa lời khuyên", "text": "<i>a piece of advice</i> khi muốn đếm." },
+            { "icon": "🧳", "title": "Hỏi hành lý", "text": "<i>How much luggage?</i> nhưng <i>How many bags?</i>" },
+            { "icon": "☕", "title": "Gọi đồ uống", "text": "<i>Two coffees, please.</i> Ở quán thì đếm được." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Thêm <i>-s</i> vào danh từ không đếm được. <i>informations</i> ✗." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Danh từ KHÔNG đếm được hay nhầm",
+              "items": [
+                { "w": "weather", "vi": "thời tiết", "ex": "What lovely weather!", "exvi": "Thời tiết đẹp quá!", "note": "<i>a weather</i> ✗ · <i>weathers</i> ✗. Từ hay sai nhất. Xem [Khung 89]." },
+                { "w": "news", "vi": "tin tức", "ex": "The news is good.", "exvi": "Tin tốt đấy.", "note": "BẪY SỐ HAI: có chữ <i>s</i> nhưng chia SỐ ÍT. <i>a news</i> ✗." },
+                { "w": "advice", "vi": "lời khuyên", "ex": "That's good advice.", "exvi": "Lời khuyên hay đấy.", "note": "<i>advices</i> ✗. Muốn đếm thì <b>a piece of advice</b>." },
+                { "w": "information", "vi": "thông tin", "ex": "There's some information online.", "exvi": "Trên mạng có ít thông tin.", "note": "<i>informations</i> ✗ — lỗi rất phổ biến trong email công việc." },
+                { "w": "luggage / baggage", "vi": "hành lý", "ex": "How much luggage do you have?", "exvi": "Bạn có bao nhiêu hành lý?", "note": "Đếm thì dùng <b>a piece of luggage</b> hoặc đếm <i>bags</i>." },
+                { "w": "furniture", "vi": "nội thất, đồ đạc", "ex": "What lovely furniture!", "exvi": "Nội thất đẹp quá!", "note": "<i>furnitures</i> ✗. Đếm thì <b>a piece of furniture</b>." },
+                { "w": "work", "vi": "công việc", "ex": "I have a lot of work today.", "exvi": "Hôm nay tôi có nhiều việc.", "note": "<i>works</i> ✗ ở nghĩa này. Đếm thì dùng <b>job</b>: <i>two jobs</i> ✓." },
+                { "w": "traffic", "vi": "giao thông, xe cộ", "ex": "There's a lot of traffic.", "exvi": "Đông xe quá.", "note": "<i>many traffics</i> ✗." },
+                { "w": "money", "vi": "tiền", "ex": "I don't have much money.", "exvi": "Tôi không có nhiều tiền.", "note": "<i>monies</i> ✗. Đếm thì dùng <b>notes, coins, dollars</b>." },
+                { "w": "bread", "vi": "bánh mì", "ex": "I bought some bread.", "exvi": "Tôi mua ít bánh mì.", "note": "Đếm thì <b>a loaf of bread</b> hoặc <b>a slice of bread</b>." },
+                { "w": "equipment", "vi": "thiết bị", "ex": "We need new equipment.", "exvi": "Chúng tôi cần thiết bị mới.", "note": "<i>equipments</i> ✗ — lỗi hay gặp trong tài liệu kỹ thuật." },
+                { "w": "research", "vi": "nghiên cứu", "ex": "He's doing research on it.", "exvi": "Anh ấy đang nghiên cứu về chuyện đó.", "note": "<i>researches</i> ✗. Đếm thì <b>a research project</b>." }
+              ]
+            },
+            {
+              "title": "Cách đếm & lượng từ đi kèm",
+              "items": [
+                { "w": "a piece of advice", "vi": "một lời khuyên", "ex": "Let me give you a piece of advice.", "exvi": "Để tôi cho bạn một lời khuyên.", "note": "<b>a piece of</b> dùng được cho advice, information, furniture, news." },
+                { "w": "a piece of news", "vi": "một tin", "ex": "I have a piece of news for you.", "exvi": "Tôi có một tin cho bạn." },
+                { "w": "a loaf of bread", "vi": "một ổ bánh mì", "ex": "Two loaves of bread, please.", "exvi": "Cho tôi hai ổ bánh mì.", "note": "Số nhiều của <i>loaf</i> là <b>loaves</b>." },
+                { "w": "a bottle of water", "vi": "một chai nước", "ex": "Two bottles of water, please.", "exvi": "Cho tôi hai chai nước." },
+                { "w": "many + đếm được", "vi": "nhiều", "ex": "many books", "exvi": "nhiều sách", "note": "<i>many advices</i> ✗ — chỉ đi với danh từ đếm được." },
+                { "w": "much + không đếm được", "vi": "nhiều", "ex": "much water", "exvi": "nhiều nước", "note": "Trong câu khẳng định thường dùng <i>a lot of</i> thay cho <i>much</i>." },
+                { "w": "a lot of", "vi": "nhiều (cả hai loại)", "ex": "a lot of books · a lot of water", "exvi": "nhiều sách · nhiều nước", "note": "An toàn nhất — đi được với CẢ HAI loại." },
+                { "w": "a few + đếm được", "vi": "một vài (tích cực)", "ex": "I have a few friends here.", "exvi": "Mình có vài người bạn ở đây." },
+                { "w": "a little + không đếm được", "vi": "một ít (tích cực)", "ex": "I have a little time.", "exvi": "Tôi có chút thời gian." },
+                { "w": "few (không có a)", "vi": "rất ít (tiêu cực)", "ex": "I have few friends here.", "exvi": "Mình có rất ít bạn ở đây.", "note": "Bỏ chữ <i>a</i> là đổi hẳn sắc thái — nghe gần như không có." },
+                { "w": "How much…?", "vi": "bao nhiêu? (không đếm được)", "ex": "How much luggage do you have?", "exvi": "Bạn có bao nhiêu hành lý? Xem [Khung 65]." },
+                { "w": "How many…?", "vi": "mấy? (đếm được)", "ex": "How many bags do you have?", "exvi": "Bạn có mấy cái túi?" }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I have <b>an information</b> for you.", "right": "I have <b>some information</b> for you.", "why": "BẪY SỐ MỘT: <i>information</i> KHÔNG đếm được nên không có <b>a/an</b>. Muốn đếm thì <i>a piece of information</i>." },
+            { "wrong": "He gave me many <b>advices</b>.", "right": "He gave me a lot of <b>advice</b>.", "why": "<i>advice</i> không có dạng số nhiều. Và <i>many</i> chỉ đi với danh từ đếm được." },
+            { "wrong": "The news <b>are</b> good.", "right": "The news <b>is</b> good.", "why": "BẪY SỐ HAI: <i>news</i> có chữ <i>s</i> nhưng chia SỐ ÍT. Cùng nhóm với <i>economics, mathematics</i>." },
+            { "wrong": "What <b>a</b> lovely weather!", "right": "What lovely weather!", "why": "<i>weather</i> không đếm được nên không có <b>a</b>. Xem [Khung 89]." },
+            { "wrong": "We need new <b>equipments</b>.", "right": "We need new <b>equipment</b>.", "why": "<i>equipment</i> không có dạng số nhiều — lỗi hay gặp trong tài liệu kỹ thuật." },
+            { "wrong": "<b>How many</b> luggage do you have?", "right": "<b>How much</b> luggage do you have?", "why": "Không đếm được thì hỏi bằng <b>how much</b>. Nếu đếm túi thì <i>How many bags?</i> ✓." },
+            { "wrong": "There <b>are</b> a lot of traffic.", "right": "There <b>is</b> a lot of traffic.", "why": "<i>traffic</i> không đếm được nên động từ chia SỐ ÍT. Xem [Khung 100]." },
+            { "wrong": "There <b>is</b> a lot of people here.", "right": "There <b>are</b> a lot of people here.", "why": "Ngược lại: <i>people</i> là SỐ NHIỀU dù không có <i>s</i>." },
+            { "wrong": "I have <b>few</b> friends here, so I'm never lonely.", "right": "I have <b>a few</b> friends here.", "why": "Bỏ chữ <i>a</i> là đổi hẳn sắc thái: <b>few</b> = rất ít, gần như không có." },
+            { "wrong": "I have two <b>works</b> to finish.", "right": "I have two <b>jobs</b> to finish.", "why": "<i>work</i> không đếm được. Muốn đếm thì đổi sang <b>job</b> hoặc <b>task</b>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp", "Đếm được", "Không đếm được"],
+          "rows": [
+            ["Số lượng nhiều", "<code>many books</code>", "<code>much water</code>"],
+            ["Số lượng ít (tích cực)", "<code>a few books</code>", "<code>a little water</code>"],
+            ["Số lượng ít (tiêu cực)", "<code>few books</code>", "<code>little water</code>"],
+            ["Câu hỏi", "<code>How many…?</code>", "<code>How much…?</code>. Xem [Khung 65]"],
+            ["Tồn tại", "<code>There are…</code>", "<code>There is…</code>. Xem [Khung 100]"],
+            ["Cảm thán", "<code>What a nice day!</code>", "<code>What nice weather!</code>. Xem [Khung 89]"],
+            ["Cả hai loại", "<code>a lot of · some · any · no</code>", "an toàn nhất khi chưa chắc"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: danh từ này đếm được không?" },
+        {
+          "t": "tree",
+          "q": "Thử đặt số 2 trước danh từ — nghe có xuôi không?",
+          "nodes": [
+            { "if": "Nói được two books, two bags", "then": "Đếm được — dùng many, a few, How many", "ex": "How many bags do you have?" },
+            { "if": "Nói two waters, two advices nghe sai", "then": "Không đếm được — dùng much, a little, How much", "ex": "How much luggage do you have?" },
+            { "if": "Muốn đếm danh từ không đếm được", "then": "Thêm vật chứa: a piece of, a bottle of", "ex": "two pieces of advice" },
+            { "if": "Chưa chắc nó thuộc loại nào", "then": "Dùng a lot of — đi được cả hai", "ex": "a lot of advice · a lot of books" },
+            { "if": "Là news, economics, mathematics", "then": "Có s nhưng chia SỐ ÍT", "ex": "The news is good." },
+            { "if": "Là people, children, police", "then": "Không có s nhưng chia SỐ NHIỀU", "ex": "There are a lot of people." }
+          ]
+        },
+        { "t": "h3", "text": "Thang số lượng" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I have no time.", "vi": "Không có gì cả" },
+            { "en": "I have little time.", "vi": "Rất ít — nghe tiêu cực" },
+            { "en": "I have a little time.", "vi": "Có chút — nghe tích cực" },
+            { "en": "I have some time.", "vi": "Có một ít" },
+            { "en": "I have a lot of time.", "vi": "Nhiều" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Luật đếm được xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 89, "why": "What a…! — bẫy chữ a trong câu cảm thán phụ thuộc hoàn toàn vào luật đếm được." },
+            { "id": 100, "why": "There is / There are — chọn is hay are cũng do luật này quyết định." },
+            { "id": 65, "why": "How much / How many…? — cặp câu hỏi tách đôi theo đúng hai loại danh từ." },
+            { "id": 99, "why": "It takes… — cách nói thời lượng, hay đi kèm các danh từ không đếm được." },
+            { "id": 92, "why": "I'm meeting him at six — danh sách danh từ không đếm được cũng xuất hiện ở đây." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền much / many / a few / a little" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Bạn có bao nhiêu hành lý?", "blank": "How __________ luggage do you have?", "a": "much" },
+            { "vi": "Bạn có mấy cái túi?", "blank": "How __________ bags do you have?", "a": "many" },
+            { "vi": "Mình có vài người bạn ở đây.", "blank": "I have __________ friends here.", "a": "a few" },
+            { "vi": "Tôi có chút thời gian.", "blank": "I have __________ time.", "a": "a little" },
+            { "vi": "Tôi không có nhiều tiền.", "blank": "I don't have __________ money.", "a": "much" },
+            { "vi": "Hôm nay đông xe quá.", "blank": "There's a lot __________ traffic today.", "a": "of" },
+            { "vi": "Để tôi cho bạn một lời khuyên.", "blank": "Let me give you a __________ of advice.", "a": "piece" },
+            { "vi": "Cho tôi hai ổ bánh mì.", "blank": "Two __________ of bread, please.", "a": "loaves" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tin tốt đấy.", "blank": "The news __________ good.  (is / are)", "a": "is — news chia số ít" },
+            { "vi": "Ở đây đông người quá.", "blank": "There __________ a lot of people here.  (is / are)", "a": "are — people là số nhiều" },
+            { "vi": "Thời tiết đẹp quá!", "blank": "What __________ lovely weather!  (a / không có gì)", "a": "không có gì — weather không đếm được" },
+            { "vi": "Anh ấy cho tôi nhiều lời khuyên.", "blank": "He gave me a lot of __________.  (advice / advices)", "a": "advice" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Trên mạng có ít thông tin.", "a": "There's some information online." },
+            { "vi": "2. Bạn có bao nhiêu hành lý?", "a": "How much luggage do you have?" },
+            { "vi": "3. Để tôi cho bạn một lời khuyên.", "a": "Let me give you a piece of advice." },
+            { "vi": "4. Hôm nay tôi có rất ít thời gian.", "a": "I have little time today." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Mẹo kiểm tra nhanh:</b> thử đặt số <b>2</b> trước danh từ. <i>two books</i> xuôi → đếm được. <i>two advices</i> nghe sai → không đếm được.",
+            "<b>Học thuộc mười từ hay nhầm nhất:</b> weather, news, advice, information, luggage, furniture, work, traffic, money, equipment.",
+            "<b>Muốn đếm thì mượn vật chứa:</b> <i>a piece of advice</i>, <i>a loaf of bread</i>, <i>a bottle of water</i>.",
+            "<b>Chưa chắc thì dùng <i>a lot of</i></b> — nó đi được với cả hai loại, luôn an toàn.",
+            "<b>Hai nhóm ngoại lệ:</b> <i>news, economics</i> có <i>s</i> mà số ít; <i>people, children, police</i> không có <i>s</i> mà số nhiều.",
+            "<b>Bài tập 3 phút:</b> nhìn quanh phòng, viết năm câu <i>There is…</i> và <i>There are…</i> — chính là lúc bạn phải phân loại từng danh từ."
+          ]
+        }
+      ]
+    }
+  ]
+}

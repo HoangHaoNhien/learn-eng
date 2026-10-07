@@ -1,0 +1,496 @@
+{
+  "id": 59,
+  "group": "Nhóm 6 · Đồng ý & Phản đối",
+  "title": "Not necessarily — Không hẳn là vậy",
+  "subtitle": "Khung câu của tư duy phản biện. Nó không nói điều kia sai — nó nói rằng kết luận kia không tất yếu. Đây là cách phản bác tinh tế nhất trong tiếng Anh, và cũng là nơi có một bẫy chính tả khiến câu nói đổi hẳn nghĩa: necessary và necessarily.",
+  "pattern": [
+    "Not necessarily.",
+    "That's not necessarily <em>+ tính từ</em>",
+    "It doesn't necessarily mean <em>+ mệnh đề</em>"
+  ],
+  "meaning": "Không hẳn vậy / Không nhất thiết là thế",
+  "grammar": [30, 48],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Công cụ tư duy phản biện" },
+    { "text": "Trình độ: B2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">Not necessarily.</span> làm một việc rất tinh tế: nó <b>không bác bỏ nội dung</b>, mà bác bỏ <b>tính tất yếu</b> của kết luận. Bạn không nói “sai”, bạn nói “không nhất thiết phải như vậy”." },
+        { "t": "p", "html": "Ví dụ: <i>It's expensive, so it must be good.</i> — <i>Not necessarily.</i> Bạn không phủ nhận rằng nó đắt, cũng không khẳng định nó dở. Bạn chỉ chỉ ra rằng <b>từ “đắt” không suy ra được “tốt”</b>." },
+        { "t": "p", "html": "Chính vì thế nó là <b>công cụ phản biện lịch sự nhất</b>. Người nghe khó phản ứng gay gắt, vì bạn chưa hề nói họ sai — bạn chỉ mở ra khả năng khác. Trong họp hành và tranh luận, đây là vũ khí rất hiệu quả." },
+        { "t": "callout", "html": "<b>BẪY CHÍNH TẢ nghiêm trọng:</b> <span class=\"k\">Not necessarily</span> (trạng từ) = không nhất thiết. Còn <span class=\"k\">Not necessary</span> (tính từ) = <b>không cần thiết</b>. Hai câu này khác nghĩa hoàn toàn — đừng nhầm." },
+        { "t": "h3", "text": "So sánh hai từ dễ nhầm" },
+        {
+          "t": "table",
+          "head": ["Câu", "Loại từ", "Nghĩa"],
+          "rows": [
+            ["<code>Not necessarily.</code>", "Trạng từ", "Không nhất thiết là vậy — phản biện"],
+            ["<code>That's not necessary.</code>", "Tính từ", "Không cần thiết — từ chối một việc"],
+            ["<code>It's not necessarily true.</code>", "Trạng từ", "Chưa chắc đã đúng"],
+            ["<code>It's not necessary to book.</code>", "Tính từ", "Không cần phải đặt trước"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Câu anh em rất mạnh:</b> <i>That doesn't follow.</i> = “kết luận đó không suy ra được”. Nó thẳng hơn <i>Not necessarily</i> một chút và thường dùng trong tranh luận có tính học thuật." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🧠", "title": "Phản bác một suy luận", "text": "Bối cảnh số 1. <i>It's expensive, so it's good.</i> — <i>Not necessarily.</i>" },
+            { "icon": "📊", "title": "Chỉ ra rằng dữ liệu chưa đủ", "text": "<i>That doesn't necessarily mean they're unhappy.</i>" },
+            { "icon": "⚖️", "title": "Mở ra khả năng khác", "text": "<i>Not necessarily — there's a third option.</i>" },
+            { "icon": "🛡", "title": "Phản đối mà không gây căng", "text": "Bạn chưa nói ai sai, nên người nghe không phòng thủ." },
+            { "icon": "🔍", "title": "Nêu ngoại lệ", "text": "<i>Not always. There are exceptions.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Điều kia rõ ràng sai về sự thật. Ở đó dùng [Khung 54]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Đứng một mình", "<code>Not necessarily.</code>", "“So it's cheaper?” — “Not necessarily.”"],
+            ["Với tính từ", "<code>That's not necessarily + adj</code>", "That's not necessarily true."],
+            ["Với động từ", "<code>It doesn't necessarily mean…</code>", "It doesn't necessarily mean they're wrong."],
+            ["Giữa câu", "<code>… isn't necessarily …</code>", "Cheaper isn't necessarily worse."],
+            ["Nêu ngoại lệ", "<code>Not always.</code>", "Not always — it depends."],
+            ["Bác bỏ suy luận", "<code>That doesn't follow.</code>", "That doesn't follow, though."],
+            ["Nhẹ hơn", "<code>Not in every case.</code>", "Not in every case, no."],
+            ["Nêu khả năng khác", "<code>There are exceptions.</code>", "There are exceptions to that."],
+            ["Mở rộng", "<code>Not necessarily — it depends on…</code>", "Not necessarily — it depends on the size."],
+            ["Trang trọng", "<code>That's an assumption.</code>", "That's an assumption, not a fact."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng để câu dừng ở hai chữ.</b> <i>Not necessarily.</i> rồi im lặng nghe như bắt bẻ. Hãy nối tiếp bằng lý do: <i>Not necessarily — it depends on the volume.</i> Khi đó nó mới thành đóng góp." },
+        { "t": "callout", "html": "<b>Vị trí của “necessarily” trong câu:</b> nó đứng <b>sau</b> trợ động từ và <b>trước</b> động từ chính — <i>It <b>doesn't necessarily</b> mean…</i>, <i>It <b>isn't necessarily</b> true.</i> Đừng đặt ở cuối câu." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các dạng của “necessarily”",
+              "items": [
+                { "w": "Not necessarily", "vi": "không hẳn vậy", "ex": "“So it's cheaper?” — “Not necessarily.”", "exvi": "“Vậy là rẻ hơn à?” — “Không hẳn.”", "note": "BẪY: đây là TRẠNG TỪ. <i>Not necessary</i> là tính từ và nghĩa là “không cần thiết”." },
+                { "w": "not necessarily true", "vi": "chưa chắc đã đúng", "ex": "That's not necessarily true.", "exvi": "Điều đó chưa chắc đã đúng." },
+                { "w": "doesn't necessarily mean", "vi": "không nhất thiết có nghĩa là", "ex": "It doesn't necessarily mean they're unhappy.", "exvi": "Điều đó không nhất thiết có nghĩa là họ không hài lòng.", "note": "Cụm quan trọng nhất của khung này — dùng để tách dữ kiện khỏi kết luận." },
+                { "w": "isn't necessarily worse", "vi": "không nhất thiết là tệ hơn", "ex": "Cheaper isn't necessarily worse.", "exvi": "Rẻ hơn không nhất thiết là tệ hơn." },
+                { "w": "not necessarily the case", "vi": "không hẳn là như vậy", "ex": "That's not necessarily the case.", "exvi": "Không hẳn là như vậy đâu.", "note": "Trang trọng — hợp email và họp chính thức." },
+                { "w": "won't necessarily work", "vi": "chưa chắc đã chạy được", "ex": "It won't necessarily work for us.", "exvi": "Với mình thì chưa chắc đã chạy được." },
+                { "w": "not necessarily a problem", "vi": "chưa hẳn là vấn đề", "ex": "That's not necessarily a problem.", "exvi": "Chuyện đó chưa hẳn là vấn đề." },
+                { "w": "not necessarily wrong", "vi": "không nhất thiết là sai", "ex": "You're not necessarily wrong.", "exvi": "Bạn không nhất thiết là sai đâu.", "note": "Cách công nhận rất khéo — không nói đúng, cũng không nói sai." },
+                { "w": "not necessarily better", "vi": "không nhất thiết là tốt hơn", "ex": "Newer isn't necessarily better.", "exvi": "Mới hơn không nhất thiết là tốt hơn." },
+                { "w": "not necessarily related", "vi": "không nhất thiết liên quan", "ex": "The two aren't necessarily related.", "exvi": "Hai chuyện đó không nhất thiết liên quan nhau." },
+                { "w": "not necessarily the best", "vi": "chưa hẳn là tốt nhất", "ex": "It's not necessarily the best option.", "exvi": "Đó chưa hẳn là phương án tốt nhất." },
+                { "w": "necessarily", "vi": "nhất thiết", "ex": "It doesn't necessarily follow.", "exvi": "Không nhất thiết suy ra như vậy.", "note": "Phát âm khó: ne-ce-SSAIR-i-ly. Đặt SAU trợ động từ, TRƯỚC động từ chính." }
+              ]
+            },
+            {
+              "title": "Các cách phản biện tương đương",
+              "items": [
+                { "w": "That doesn't follow", "vi": "kết luận đó không suy ra được", "ex": "That doesn't follow, though.", "exvi": "Nhưng kết luận đó không suy ra được.", "note": "Thẳng hơn <i>Not necessarily</i> — thường dùng trong tranh luận học thuật." },
+                { "w": "Not always", "vi": "không phải lúc nào cũng vậy", "ex": "Not always — it depends on the season.", "exvi": "Không phải lúc nào cũng vậy — tùy mùa." },
+                { "w": "Not in every case", "vi": "không phải trường hợp nào cũng vậy", "ex": "Not in every case, no.", "exvi": "Không phải trường hợp nào cũng vậy." },
+                { "w": "There are exceptions", "vi": "có ngoại lệ", "ex": "There are exceptions to that.", "exvi": "Chuyện đó có ngoại lệ." },
+                { "w": "That's an assumption", "vi": "đó là một giả định", "ex": "That's an assumption, not a fact.", "exvi": "Đó là giả định, không phải sự thật.", "note": "Khá mạnh — chỉ thẳng rằng người kia đang suy đoán." },
+                { "w": "It's not that simple", "vi": "không đơn giản vậy đâu", "ex": "It's not that simple, unfortunately.", "exvi": "Tiếc là không đơn giản vậy đâu." },
+                { "w": "It depends", "vi": "còn tùy", "ex": "It depends on the volume.", "exvi": "Còn tùy khối lượng.", "note": "Xem [Khung 57] — rất hay dùng ngay sau <i>Not necessarily</i>." },
+                { "w": "correlation isn't causation", "vi": "tương quan không phải nhân quả", "ex": "Correlation isn't causation.", "exvi": "Tương quan không phải là nhân quả.", "note": "Câu kinh điển khi phản biện dữ liệu — rất mạnh trong họp về số liệu." },
+                { "w": "There's another explanation", "vi": "còn cách giải thích khác", "ex": "There's another explanation for that.", "exvi": "Còn có cách giải thích khác cho chuyện đó." },
+                { "w": "Not so fast", "vi": "khoan đã", "ex": "Not so fast — we've not checked yet.", "exvi": "Khoan đã — mình chưa kiểm tra mà.", "note": "Thân mật — chặn một kết luận vội vàng." },
+                { "w": "in theory, yes", "vi": "về lý thuyết thì đúng", "ex": "In theory, yes. In practice, not always.", "exvi": "Về lý thuyết thì đúng. Thực tế thì không phải lúc nào cũng vậy." },
+                { "w": "up to a point", "vi": "đến một mức nào đó", "ex": "True up to a point.", "exvi": "Đúng đến một mức nào đó thôi.", "note": "Xem [Khung 51] và [Khung 58]." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "Why not?", "vi": "sao lại không?", "ex": "Why not, though?", "exvi": "Nhưng sao lại không?" },
+                { "w": "Give me an example", "vi": "cho tôi một ví dụ", "ex": "Give me an example.", "exvi": "Cho tôi một ví dụ xem.", "note": "Câu đáp mạnh nhất — buộc người phản biện phải cụ thể hóa." },
+                { "w": "Such as?", "vi": "chẳng hạn?", "ex": "Such as?", "exvi": "Chẳng hạn như gì?" },
+                { "w": "Fair point", "vi": "ý hợp lý", "ex": "Fair point.", "exvi": "Ý hợp lý. Xem [Khung 52]." },
+                { "w": "I hadn't considered that", "vi": "tôi chưa cân nhắc điều đó", "ex": "I hadn't considered that.", "exvi": "Tôi chưa cân nhắc điều đó." },
+                { "w": "What would change it?", "vi": "điều gì sẽ thay đổi chuyện đó?", "ex": "What would change it?", "exvi": "Điều gì sẽ thay đổi chuyện đó?" },
+                { "w": "Then what's your view?", "vi": "vậy quan điểm của bạn là gì?", "ex": "Then what's your view?", "exvi": "Vậy quan điểm của anh/chị là gì?" },
+                { "w": "You're splitting hairs", "vi": "bạn bắt bẻ quá", "ex": "You're splitting hairs.", "exvi": "Bạn bắt bẻ quá đấy.", "note": "Phản ứng khi <i>Not necessarily</i> bị coi là bắt bẻ vụn vặt — nên tránh bị nghe câu này." },
+                { "w": "Let's test it", "vi": "mình kiểm chứng đi", "ex": "Let's test it and see.", "exvi": "Mình kiểm chứng xem sao." },
+                { "w": "In most cases though", "vi": "nhưng đa số trường hợp thì", "ex": "In most cases though, it is.", "exvi": "Nhưng đa số trường hợp thì đúng vậy." },
+                { "w": "Point taken", "vi": "tôi tiếp thu", "ex": "Point taken.", "exvi": "Tôi tiếp thu. Xem [Khung 52]." },
+                { "w": "So what's the alternative?", "vi": "vậy phương án thay thế là gì?", "ex": "So what's the alternative?", "exvi": "Vậy phương án thay thế là gì?", "note": "Biến lời phản biện thành đóng góp — câu đáp rất xây dựng." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Not necessarily — it depends on the volume.",
+                  "vi": "Không hẳn — còn tùy khối lượng.",
+                  "note": "Đừng dừng ở hai chữ <i>Not necessarily</i>. Nối ngay lý do thì nó mới thành đóng góp thay vì bắt bẻ.",
+                  "open": { "en": "Can I challenge that?", "vi": "Cho tôi phản biện chỗ đó được không?" },
+                  "reply": [
+                    { "them": "Give me an example.", "themvi": "Cho tôi một ví dụ.", "you": "Under a thousand units, the unit cost doubles.", "youvi": "Dưới một nghìn sản phẩm thì giá thành đơn vị tăng gấp đôi." },
+                    { "them": "I hadn't considered that.", "themvi": "Tôi chưa cân nhắc điều đó.", "you": "Worth modelling both scenarios.", "youvi": "Đáng để dựng mô hình cả hai kịch bản." }
+                  ],
+                  "close": { "en": "I'll send the numbers.", "vi": "Tôi sẽ gửi số liệu." }
+                },
+                {
+                  "en": "It doesn't necessarily mean they're unhappy.",
+                  "vi": "Điều đó không nhất thiết có nghĩa là họ không hài lòng.",
+                  "note": "Cụm quan trọng nhất của khung này — nó tách <b>dữ kiện</b> ra khỏi <b>kết luận</b>.",
+                  "reply": [
+                    { "them": "Then why did they leave?", "themvi": "Vậy sao họ rời đi?", "you": "Could be budget. We didn't ask.", "youvi": "Có thể do ngân sách. Mình có hỏi đâu." }
+                  ],
+                  "vars": [
+                    { "en": "That's an assumption, not a fact.", "vi": "Đó là giả định, không phải sự thật." }
+                  ]
+                },
+                {
+                  "en": "Correlation isn't causation.",
+                  "vi": "Tương quan không phải là nhân quả.",
+                  "note": "Câu kinh điển khi phản biện dữ liệu — rất mạnh trong các cuộc họp về số liệu.",
+                  "reply": [
+                    { "them": "So the campaign didn't work?", "themvi": "Vậy chiến dịch không hiệu quả à?", "you": "It might have. We just can't prove it yet.", "youvi": "Có thể có. Chỉ là chưa chứng minh được." }
+                  ]
+                },
+                {
+                  "en": "That doesn't follow, though.",
+                  "vi": "Nhưng kết luận đó không suy ra được.",
+                  "note": "Thẳng hơn <i>Not necessarily</i> — chỉ dùng khi bạn sẵn sàng giải thích ngay.",
+                  "reply": [
+                    { "them": "Why not?", "themvi": "Sao lại không?", "you": "Slower loading doesn't mean fewer sales.", "youvi": "Tải chậm hơn không có nghĩa là bán ít hơn." }
+                  ],
+                  "close": { "en": "Let's test it properly.", "vi": "Mình kiểm chứng cho tử tế đi." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Not necessarily — cheaper isn't always worse.",
+                  "vi": "Không hẳn — rẻ hơn không phải lúc nào cũng tệ hơn.",
+                  "reply": [
+                    { "them": "But it's half the price.", "themvi": "Nhưng giá chỉ bằng một nửa.", "you": "Same factory, different label.", "youvi": "Cùng nhà máy, khác nhãn thôi." }
+                  ]
+                },
+                {
+                  "en": "Newer isn't necessarily better.",
+                  "vi": "Mới hơn không nhất thiết là tốt hơn.",
+                  "note": "Đặt <i>necessarily</i> SAU động từ <i>isn't</i> và TRƯỚC tính từ — không đặt ở cuối câu.",
+                  "reply": [
+                    { "them": "The new model has more features.", "themvi": "Mẫu mới có nhiều tính năng hơn ạ.", "you": "Features I'd never use, though.", "youvi": "Nhưng là những tính năng tôi chẳng dùng." }
+                  ],
+                  "vars": [
+                    { "en": "That's not necessarily the best option.", "vi": "Đó chưa hẳn là phương án tốt nhất." }
+                  ]
+                },
+                {
+                  "en": "Expensive doesn't necessarily mean durable.",
+                  "vi": "Đắt không nhất thiết có nghĩa là bền.",
+                  "reply": [
+                    { "them": "This one has a five-year warranty.", "themvi": "Cái này bảo hành năm năm ạ.", "you": "Now that does change things.", "youvi": "Điều đó thì đúng là khác rồi." }
+                  ]
+                },
+                {
+                  "en": "Not always — it depends on the model.",
+                  "vi": "Không phải lúc nào cũng vậy — còn tùy mẫu.",
+                  "reply": [
+                    { "them": "Which would you recommend?", "themvi": "Anh/chị gợi ý mẫu nào ạ?", "you": "The middle one, for that price.", "youvi": "Mẫu ở giữa, với tầm giá đó." }
+                  ],
+                  "close": { "en": "I'll take that one.", "vi": "Tôi lấy cái đó." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Not necessarily. There's another explanation.",
+                  "vi": "Không hẳn. Còn có cách giải thích khác.",
+                  "note": "Mở ra khả năng khác mà không nói ai sai — cách hạ nhiệt một kết luận vội vàng.",
+                  "open": { "en": "Hold on a second —", "vi": "Khoan đã —" },
+                  "reply": [
+                    { "them": "Such as?", "themvi": "Chẳng hạn?", "you": "Maybe her phone died.", "youvi": "Có khi điện thoại cô ấy hết pin." }
+                  ],
+                  "close": { "en": "Let's not jump to conclusions.", "vi": "Mình đừng vội kết luận." }
+                },
+                {
+                  "en": "You're not necessarily wrong.",
+                  "vi": "Bạn không nhất thiết là sai đâu.",
+                  "note": "Công nhận rất khéo — không nói đúng, cũng không nói sai, mà để ngỏ.",
+                  "reply": [
+                    { "them": "That's not exactly a yes.", "themvi": "Nghe cũng không hẳn là đồng ý.", "you": "It's not a no either.", "youvi": "Cũng không hẳn là không." }
+                  ]
+                },
+                {
+                  "en": "Not so fast — we don't know the full story.",
+                  "vi": "Khoan đã — mình chưa biết hết câu chuyện.",
+                  "note": "Thân mật — chặn một kết luận vội vàng giữa bạn bè.",
+                  "reply": [
+                    { "them": "Fair point.", "themvi": "Ý hợp lý.", "you": "Let's ask her first.", "youvi": "Mình hỏi cô ấy trước đã." }
+                  ],
+                  "vars": [
+                    { "en": "That doesn't follow.", "vi": "Kết luận đó không suy ra được." }
+                  ]
+                },
+                {
+                  "en": "In theory, yes. In practice, not always.",
+                  "vi": "Về lý thuyết thì đúng. Thực tế thì không phải lúc nào cũng vậy.",
+                  "reply": [
+                    { "them": "So what's the alternative?", "themvi": "Vậy phương án thay thế là gì?", "you": "Try it and adjust as we go.", "youvi": "Cứ thử rồi điều chỉnh dần." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Not necessarily — the train can be slower at peak times.",
+                  "vi": "Không hẳn — giờ cao điểm tàu có thể chậm hơn.",
+                  "reply": [
+                    { "them": "I thought trains avoided traffic.", "themvi": "Mình tưởng đi tàu là tránh được kẹt xe.", "you": "They do, but the changes add up.", "youvi": "Đúng, nhưng đổi tàu cộng dồn lại cũng lâu." }
+                  ]
+                },
+                {
+                  "en": "Booking early doesn't necessarily mean cheaper.",
+                  "vi": "Đặt sớm không nhất thiết có nghĩa là rẻ hơn.",
+                  "reply": [
+                    { "them": "Really? Everyone says it does.", "themvi": "Thật à? Ai cũng bảo vậy mà.", "you": "Last-minute deals exist too.", "youvi": "Cũng có giá phút chót mà." }
+                  ],
+                  "vars": [
+                    { "en": "Not always — there are exceptions.", "vi": "Không phải lúc nào cũng vậy — có ngoại lệ." }
+                  ]
+                },
+                {
+                  "en": "A longer route isn't necessarily slower.",
+                  "vi": "Đường xa hơn không nhất thiết là chậm hơn.",
+                  "reply": [
+                    { "them": "How come?", "themvi": "Sao vậy?", "you": "Fewer lights and no school zone.", "youvi": "Ít đèn đỏ và không qua khu trường học." }
+                  ]
+                },
+                {
+                  "en": "Not necessarily — it depends on the season.",
+                  "vi": "Không hẳn — còn tùy mùa.",
+                  "note": "Nối ngay bằng <i>it depends on</i> — kết hợp rất tự nhiên với [Khung 57].",
+                  "reply": [
+                    { "them": "When's the best time then?", "themvi": "Vậy thời điểm tốt nhất là khi nào?", "you": "March or October, I'd say.", "youvi": "Mình thì bảo tháng Ba hoặc tháng Mười." }
+                  ],
+                  "close": { "en": "Let's aim for March.", "vi": "Mình nhắm tháng Ba đi." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Not necessarily — busy doesn't always mean good.",
+                  "vi": "Không hẳn — đông khách không phải lúc nào cũng là ngon.",
+                  "reply": [
+                    { "them": "The queue's out the door though.", "themvi": "Nhưng hàng chờ tràn ra cửa kìa.", "you": "That could just be the location.", "youvi": "Có khi chỉ vì vị trí đẹp thôi." }
+                  ]
+                },
+                {
+                  "en": "Spicy doesn't necessarily mean authentic.",
+                  "vi": "Cay không nhất thiết có nghĩa là chuẩn vị.",
+                  "reply": [
+                    { "them": "I always thought it did.", "themvi": "Mình cứ tưởng vậy.", "you": "Depends on the region, really.", "youvi": "Thật ra còn tùy vùng miền." }
+                  ],
+                  "vars": [
+                    { "en": "That's not necessarily true.", "vi": "Điều đó chưa chắc đã đúng." }
+                  ]
+                },
+                {
+                  "en": "Not always — some of the best places are empty at six.",
+                  "vi": "Không phải lúc nào cũng vậy — nhiều quán ngon sáu giờ vẫn vắng.",
+                  "note": "Nêu ngoại lệ cụ thể ngay sau khi phản biện — thuyết phục hơn hẳn nói chung chung.",
+                  "reply": [
+                    { "them": "Good point. Let's risk it.", "themvi": "Ý hay. Cứ liều thử đi.", "you": "If it's bad, dessert's on me.", "youvi": "Dở thì mình bao món tráng miệng." }
+                  ],
+                  "close": { "en": "Deal.", "vi": "Chốt." }
+                },
+                {
+                  "en": "Expensive isn't necessarily better here.",
+                  "vi": "Ở đây đắt không nhất thiết là ngon hơn.",
+                  "reply": [
+                    { "them": "So which should we get?", "themvi": "Vậy mình gọi món nào?", "you": "The house special, every time.", "youvi": "Món đặc trưng của quán, lúc nào cũng vậy." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Phản biện một kết luận từ dữ liệu",
+          "lines": [
+            { "speaker": "Colleague", "en": "Sales dropped after the redesign, so the redesign failed.", "vi": "Doanh số giảm sau khi thiết kế lại, nên thiết kế lại đã thất bại." },
+            { "speaker": "You", "me": true, "en": "Not necessarily. Correlation isn't causation.", "vi": "Không hẳn. Tương quan không phải là nhân quả." },
+            { "speaker": "Colleague", "en": "Then what else would explain it?", "vi": "Vậy còn gì giải thích được nữa?" },
+            { "speaker": "You", "me": true, "en": "The price went up the same week. That doesn't necessarily mean the design is the cause.", "vi": "Cùng tuần đó giá cũng tăng. Chuyện đó không nhất thiết có nghĩa là do thiết kế." },
+            { "speaker": "Colleague", "en": "I hadn't considered that.", "vi": "Tôi chưa cân nhắc điều đó." },
+            { "speaker": "You", "me": true, "en": "Let's test it — roll the old price back for a week.", "vi": "Mình kiểm chứng đi — trả lại giá cũ một tuần xem sao." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Chọn đồ trong cửa hàng",
+          "lines": [
+            { "speaker": "Staff", "en": "The newer model is better in every way.", "vi": "Mẫu mới hơn thì tốt hơn về mọi mặt ạ." },
+            { "speaker": "You", "me": true, "en": "Not necessarily — newer isn't always better for me.", "vi": "Không hẳn — với tôi mới hơn chưa chắc đã tốt hơn." },
+            { "speaker": "Staff", "en": "How do you mean?", "vi": "Ý anh/chị là sao ạ?" },
+            { "speaker": "You", "me": true, "en": "More features doesn't necessarily mean more useful.", "vi": "Nhiều tính năng hơn không nhất thiết có nghĩa là hữu ích hơn." },
+            { "speaker": "Staff", "en": "Fair point. The older one is simpler.", "vi": "Ý hợp lý ạ. Mẫu cũ thì đơn giản hơn." },
+            { "speaker": "You", "me": true, "en": "And cheaper isn't necessarily worse. I'll take that one.", "vi": "Và rẻ hơn không nhất thiết là tệ hơn. Tôi lấy cái đó." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "“So it's cheaper?” — “Not necessary.”", "right": "Not necessarily.", "why": "BẪY CHÍNH. <b>necessary</b> là tính từ = không cần thiết. <b>necessarily</b> là trạng từ = không nhất thiết. Hai nghĩa khác hẳn." },
+            { "wrong": "It doesn't mean necessarily they're unhappy.", "right": "It doesn't necessarily mean they're unhappy.", "why": "<b>necessarily</b> đứng SAU trợ động từ và TRƯỚC động từ chính, không chen vào giữa động từ và mệnh đề." },
+            { "wrong": "That's not true necessarily.", "right": "That's not necessarily true.", "why": "Đừng đặt <b>necessarily</b> ở cuối câu — nó đứng trước tính từ." },
+            { "wrong": "Not necessarily. <i>(rồi im lặng)</i>", "right": "Not necessarily — it depends on the volume.", "why": "Dừng ở hai chữ nghe như bắt bẻ. Luôn nối tiếp bằng lý do hoặc khả năng thay thế." },
+            { "wrong": "Not necessarily. <i>(khi điều kia rõ ràng sai về sự thật)</i>", "right": "I'm afraid that's not quite right.", "why": "Khung này phản bác <b>suy luận</b>, không phải sự thật. Để đính chính dữ kiện, dùng [Khung 54]." },
+            { "wrong": "It's not necessarily to book.", "right": "It's not necessary to book.", "why": "Ở nghĩa “không cần phải” thì phải dùng TÍNH TỪ <b>necessary</b>, không phải trạng từ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Phản bác điều gì", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>Not necessarily.</code>", "Tính tất yếu của kết luận", "<i>Not necessarily — it depends.</i> Tranh luận."],
+            ["<code>That doesn't follow.</code>", "Logic của suy luận — thẳng hơn", "<i>That doesn't follow.</i> Học thuật."],
+            ["<code>Not always.</code>", "Tính phổ quát", "<i>Not always — there are exceptions.</i>"],
+            ["<code>I'm not sure about that.</code>", "Nghi ngờ nhẹ", "<i>I'm not sure about that.</i> Xem [Khung 50]."],
+            ["<code>I'm afraid I disagree.</code>", "Nội dung — phản đối rõ", "<i>I'm afraid I disagree.</i> Xem [Khung 54]."],
+            ["<code>It depends on…</code>", "Đưa ra biến số quyết định", "<i>It depends on the size.</i> Xem [Khung 57]."],
+            ["<code>That's not necessary.</code>", "Tính cần thiết — nghĩa khác hẳn", "<i>That's not necessary, thanks.</i> Từ chối."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — phản bác kết luận “đắt thì phải tốt”" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I'm not sure about that.", "vi": "Nhẹ nhất — nghi ngờ. Xem [Khung 50]" },
+            { "en": "Not necessarily.", "vi": "Phản bác tính tất yếu — lịch sự" },
+            { "en": "Not always — there are exceptions.", "vi": "Nêu ngoại lệ cụ thể" },
+            { "en": "That doesn't follow.", "vi": "Bác bỏ logic — thẳng hơn" },
+            { "en": "That's an assumption, not a fact.", "vi": "Mạnh nhất — chỉ thẳng là suy đoán" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>necessarily</b> có <b>năm âm tiết</b>: ne-ce-<b>SSAIR</b>-i-ly. Giọng Anh-Mỹ nhấn vào âm tiết thứ ba.",
+            "Giọng <b>Anh-Anh</b> lại nhấn âm đầu: <b>NEC</b>-es-sər-i-ly — cả hai đều đúng, chọn một và nhất quán.",
+            "Chỉ có <b>một chữ c</b> rồi <b>hai chữ s</b>: <i>ne-ce-ssa-ri-ly</i>. Đây cũng là mẹo nhớ chính tả.",
+            "<b>Not necessarily</b> → “not-ne-ce-SSAIR-i-ly”, âm /t/ ở <i>not</i> gần như biến mất.",
+            "<b>doesn't necessarily</b> → “duz-nt-ne-ce-SSAIR-i-ly” — cụm dài, tập nói chậm rồi tăng tốc dần.",
+            "<b>Giọng đi xuống ở cuối</b> và nói tiếp ngay phần lý do — đừng ngắt lâu kẻo nghe như bắt bẻ."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Not necessarily — it depends on the volume.", "vi": "Luyện shadowing: tập riêng “ne-ce-SSAIR-i-ly” năm âm tiết trước." },
+            { "en": "It doesn't necessarily mean they're unhappy.", "vi": "Cụm dài — nói chậm từng khối rồi ghép lại." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "“Vậy là rẻ hơn à?” — “Không hẳn.”", "blank": "“So it's cheaper?” — “__________.”", "a": "Not necessarily (KHÔNG phải “Not necessary”)" },
+            { "vi": "Điều đó không nhất thiết có nghĩa là họ không hài lòng.", "blank": "It __________ mean they're unhappy.", "a": "doesn't necessarily" },
+            { "vi": "Điều đó chưa chắc đã đúng.", "blank": "That's __________ true.", "a": "not necessarily" },
+            { "vi": "Mới hơn không nhất thiết là tốt hơn.", "blank": "Newer __________ better.", "a": "isn't necessarily" },
+            { "vi": "Nhưng kết luận đó không suy ra được.", "blank": "__________, though.", "a": "That doesn't follow" },
+            { "vi": "Tương quan không phải là nhân quả.", "blank": "__________ isn't causation.", "a": "Correlation" },
+            { "vi": "Đó là giả định, không phải sự thật.", "blank": "That's __________, not a fact.", "a": "an assumption" },
+            { "vi": "Không cần phải đặt trước đâu.", "blank": "It's not __________ to book.", "a": "necessary (tính từ, nghĩa khác hẳn)" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Không hẳn — còn tùy khối lượng.", "a": "Not necessarily — it depends on the volume." },
+            { "vi": "2. Điều đó không nhất thiết có nghĩa là họ không hài lòng.", "a": "It doesn't necessarily mean they're unhappy." },
+            { "vi": "3. Rẻ hơn không phải lúc nào cũng tệ hơn.", "a": "Cheaper isn't always worse." },
+            { "vi": "4. Đặt sớm không nhất thiết có nghĩa là rẻ hơn.", "a": "Booking early doesn't necessarily mean cheaper." },
+            { "vi": "5. Về lý thuyết thì đúng. Thực tế thì không phải lúc nào cũng vậy.", "a": "In theory, yes. In practice, not always." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Phân biệt hai từ:</b> <i>necessarily</i> (trạng từ) = không nhất thiết; <i>necessary</i> (tính từ) = không cần thiết. Nhầm là đổi hẳn nghĩa câu.",
+            "<b>Luôn nối tiếp bằng lý do.</b> <i>Not necessarily — it depends on X.</i> Dừng ở hai chữ là nghe như bắt bẻ.",
+            "<b>Học thuộc cụm “doesn't necessarily mean”</b> — đây là công cụ tách dữ kiện khỏi kết luận, dùng được ở mọi cuộc họp.",
+            "<b>Vị trí của necessarily:</b> sau trợ động từ, trước động từ chính hoặc tính từ. Không bao giờ đặt cuối câu.",
+            "<b>Dùng khi muốn phản biện mà không gây căng</b> — bạn chưa nói ai sai, nên người nghe không phòng thủ.",
+            "<b>Bài tập 3 phút:</b> lấy 5 kết luận vội vàng bạn từng nghe, viết lại mỗi cái thành <i>That doesn't necessarily mean…</i> kèm một cách giải thích khác."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": 7,
+  "title": "Động từ to be — câu đầu tiên bạn nói được",
+  "teaches": ["am", "is", "are", "I'm", "he's", "she's", "it's", "you're", "we're", "they're", "Vietnamese", "cold", "driver"],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn nói được <b>hàng trăm câu</b> chỉ với một công thức: <i>I am…</i> · <i>You are…</i> · <i>He is…</i>" },
+        { "t": "p", "html": "Đây là động từ <b>hay dùng nhất</b> tiếng Anh. Giới thiệu bản thân, nói nghề nghiệp, nói cảm giác, nói đồ vật ở đâu — tất cả đều dùng nó." },
+        { "t": "callout", "html": "<b>Vì sao gọi là <code>to be</code>?</b><br><br>Vì nó đổi hình quá nhiều — <i>am</i>, <i>is</i>, <i>are</i> — nên người ta gọi chung bằng dạng gốc <code>to be</code>.<br><br>Nghĩa tiếng Việt của nó tuỳ ngữ cảnh: <b>là</b> (I am a student), <b>ở</b> (I am here), hoặc <b>không dịch ra chữ nào</b> (I am hungry = Tôi đói)." }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "Bài 06 — bảy đại từ <b>I · you · he · she · it · we · they</b>. Bài này ghép mỗi đại từ với đúng một dạng của <code>to be</code>." },
+        { "t": "p", "html": "Và bài 05 — câu tiếng Anh <b>bắt buộc có chủ ngữ</b>. Luật đó áp dụng ở đây rất rõ." },
+        { "t": "link", "items": [
+          { "id": 6, "label": "Bài 06 — bảy đại từ" },
+          { "id": 5, "label": "Bài 05 — câu phải có chủ ngữ" }
+        ] }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "table", "head": ["Luật", "Nghĩa là gì", "Ví dụ"], "rows": [
+          ["<b>1.</b> Chỉ có <b>ba</b> dạng: am · is · are", "Học thuộc ba dòng là xong", "<i>I am</i> · <i>He is</i> · <i>We are</i>"],
+          ["<b>2.</b> <code>am</code> chỉ đi với <code>I</code>", "Không bao giờ đi với ai khác", "<i>I am</i> ✓ · <i>He am</i> ✗"],
+          ["<b>3.</b> Nói nhanh thì rút gọn", "Thêm dấu <code>'</code>, bỏ bớt chữ", "<i>I am</i> → <i>I'm</i>"]
+        ] },
+        { "t": "h3", "text": "Bảng phải thuộc" },
+        { "t": "table", "head": ["Chủ ngữ", "to be", "Rút gọn", "Ví dụ"], "rows": [
+          ["<b>I</b>", "am", "I'm", "<i>I am a student.</i>"],
+          ["<b>You</b>", "are", "you're", "<i>You are my friend.</i>"],
+          ["<b>He</b>", "is", "he's", "<i>He is a doctor.</i>"],
+          ["<b>She</b>", "is", "she's", "<i>She is happy.</i>"],
+          ["<b>It</b>", "is", "it's", "<i>It is hot.</i>"],
+          ["<b>We</b>", "are", "we're", "<i>We are here.</i>"],
+          ["<b>They</b>", "are", "they're", "<i>They are my parents.</i>"]
+        ] },
+        { "t": "callout", "html": "<b>Mẹo nhớ chỉ ba dòng:</b><br>• <code>I</code> → <b>am</b> (một mình một kiểu)<br>• <code>He · She · It</code> → <b>is</b> (ba đứa số ít)<br>• <code>You · We · They</code> → <b>are</b> (còn lại)<br><br>Danh từ cũng theo luật này: một người thì như <i>he</i> → dùng <b>is</b>; nhiều người thì như <i>they</i> → dùng <b>are</b>.<br><i>My father <b>is</b> a driver.</i> · <i>My parents <b>are</b> teachers.</i>" }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "Giới thiệu bản thân" },
+        { "t": "ex", "items": [
+          { "en": "I am Nam.", "vi": "Tôi là Nam.", "note": "Câu đầu tiên ai cũng cần." },
+          { "en": "I am a student.", "vi": "Tôi là sinh viên.", "note": "Nghề nghiệp đi với mạo từ <b>a</b>." },
+          { "en": "I am twenty.", "vi": "Tôi hai mươi tuổi.", "note": "Nói tuổi <b>không</b> cần thêm <i>years old</i>." },
+          { "en": "I am Vietnamese.", "vi": "Tôi là người Việt.", "note": "Tên nước và quốc tịch luôn viết hoa." },
+          { "en": "I'm a teacher.", "vi": "Tôi là giáo viên.", "note": "Dạng rút gọn, dùng khi nói." }
+        ] },
+        { "t": "h3", "text": "Nói về người khác" },
+        { "t": "ex", "items": [
+          { "en": "He is my brother.", "vi": "Anh ấy là anh trai tôi.", "note": "<b>He</b> → <b>is</b>." },
+          { "en": "She is a doctor.", "vi": "Cô ấy là bác sĩ.", "note": "<b>She</b> → <b>is</b>." },
+          { "en": "They are my parents.", "vi": "Họ là bố mẹ tôi.", "note": "<b>They</b> → <b>are</b>." },
+          { "en": "We are friends.", "vi": "Chúng tôi là bạn.", "note": "Số nhiều nên <i>friends</i> cũng thêm -s." },
+          { "en": "You are very kind.", "vi": "Bạn tốt bụng lắm.", "note": "Sau <b>are</b> là một tính từ." },
+          { "en": "My father is a driver.", "vi": "Bố tôi là tài xế.", "note": "Danh từ số ít đi với <b>is</b>." },
+          { "en": "My parents are teachers.", "vi": "Bố mẹ tôi là giáo viên.", "note": "Danh từ số nhiều đi với <b>are</b>." }
+        ] },
+        { "t": "h3", "text": "Nói cảm giác — chỗ tiếng Việt không có chữ “là”" },
+        { "t": "ex", "items": [
+          { "en": "I am hungry.", "vi": "Tôi đói.", "note": "Tiếng Việt không có chữ nào ứng với <b>am</b>, nhưng tiếng Anh bắt buộc phải có." },
+          { "en": "I am tired.", "vi": "Tôi mệt.", "note": "Cùng kiểu." },
+          { "en": "She is happy.", "vi": "Cô ấy vui.", "note": "Đừng quên <b>is</b>." },
+          { "en": "We are busy today.", "vi": "Hôm nay chúng tôi bận.", "note": "<b>are</b> rồi mới tới tính từ." },
+          { "en": "I am cold.", "vi": "Tôi lạnh.", "note": "Nói về cảm giác của mình." },
+          { "en": "It is cold today.", "vi": "Hôm nay trời lạnh.", "note": "Nói về thời tiết thì chủ ngữ là <b>It</b>." }
+        ] },
+        { "t": "h3", "text": "Nói ở đâu" },
+        { "t": "ex", "items": [
+          { "en": "I am at home.", "vi": "Tôi đang ở nhà.", "note": "<b>am</b> ở đây nghĩa là “ở”." },
+          { "en": "She is here.", "vi": "Cô ấy ở đây.", "note": "Ngắn gọn, đủ nghĩa." },
+          { "en": "The book is on the table.", "vi": "Quyển sách ở trên bàn.", "note": "Chủ ngữ là vật, số ít nên dùng <b>is</b>." },
+          { "en": "My parents are at work.", "vi": "Bố mẹ tôi đang ở chỗ làm.", "note": "Số nhiều nên <b>are</b>." },
+          { "en": "We are in the kitchen.", "vi": "Chúng tôi ở trong bếp.", "note": "<b>are</b> + giới từ chỉ nơi chốn." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — chọn am, is hay are" },
+        { "t": "quiz", "items": [
+          { "vi": "Tôi là sinh viên.", "blank": "I ___ a student.", "a": "am" },
+          { "vi": "Anh ấy là bác sĩ.", "blank": "He ___ a doctor.", "a": "is" },
+          { "vi": "Chúng tôi là bạn.", "blank": "We ___ friends.", "a": "are" },
+          { "vi": "Hôm nay trời nóng.", "blank": "It ___ hot today.", "a": "is" },
+          { "vi": "Bố mẹ tôi là giáo viên.", "blank": "My parents ___ teachers.", "a": "are — danh từ số nhiều" },
+          { "vi": "Bố tôi là tài xế.", "blank": "My father ___ a driver.", "a": "is — danh từ số ít" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — dịch sang tiếng Anh" },
+        { "t": "quiz", "items": [
+          { "vi": "Tôi đói.", "a": "I am hungry. — nhớ phải có <b>am</b>" },
+          { "vi": "Cô ấy vui.", "a": "She is happy." },
+          { "vi": "Tôi đang ở nhà.", "a": "I am at home." },
+          { "vi": "Họ là bố mẹ tôi.", "a": "They are my parents." }
+        ] },
+        { "t": "h3", "text": "Phần 3 — rút gọn" },
+        { "t": "quiz", "items": [
+          { "vi": "<i>I am</i> rút gọn thành gì?", "a": "I'm" },
+          { "vi": "<i>They are</i> rút gọn thành gì?", "a": "they're" }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>Chỉ ba dạng.</b> <code>I</code> → <b>am</b> · <code>he/she/it</code> → <b>is</b> · <code>you/we/they</code> → <b>are</b>. Thuộc ba dòng này là nói được hàng trăm câu.",
+          "<b>Tiếng Việt không có chữ nào ứng với nó, nhưng tiếng Anh vẫn bắt buộc.</b> <i>Tôi đói</i> → <i>I <b>am</b> hungry.</i>",
+          "<b>Danh từ cũng theo luật:</b> một người thì như <i>he</i> → <b>is</b>; nhiều người thì như <i>they</i> → <b>are</b>."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "<i>I hungry.</i>", "right": "<i>I am hungry.</i>", "why": "Đây là lỗi phổ biến nhất của người Việt ở bài này. Tiếng Việt nói <i>“Tôi đói”</i> không cần chữ nối nào, nên ta quên mất <b>am</b>. Nhưng câu tiếng Anh thiếu động từ là câu chưa hoàn chỉnh." },
+          { "wrong": "<i>He am a doctor.</i>", "right": "<i>He is a doctor.</i>", "why": "<b>am</b> chỉ đi với <code>I</code>, không bao giờ đi với ai khác. Đây là luật tuyệt đối, không có ngoại lệ nào." },
+          { "wrong": "<i>My parents is teachers.</i>", "right": "<i>My parents are teachers.</i>", "why": "<i>parents</i> là số nhiều nên phải dùng <b>are</b>. Tiếng Việt không đổi động từ theo số lượng, nên chỗ này phải để ý: cứ nhìn chủ ngữ một hay nhiều rồi mới chọn." }
+        ] }
+      ]
+    }
+  ]
+}

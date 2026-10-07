@@ -1,0 +1,499 @@
+{
+  "id": 56,
+  "group": "Nhóm 6 · Đồng ý & Phản đối",
+  "title": "Exactly! / That's right — Đồng tình nhiệt tình",
+  "subtitle": "Nhóm câu đồng tình ngắn gọn, nói ra trong một hơi. Chúng giữ cho cuộc hội thoại trôi chảy và cho người nói biết bạn đang theo kịp. Bên trong nhóm này có một cặp bẫy quan trọng: That's right và You're right nghe giống nhau nhưng nói hai điều hoàn toàn khác.",
+  "pattern": [
+    "Exactly! / Precisely.",
+    "That's right. / That's it.",
+    "You can say that again."
+  ],
+  "meaning": "Chính xác! / Đúng vậy / Đúng y như thế",
+  "grammar": [49, 44],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Giữ hội thoại trôi chảy" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "Đây là nhóm câu <b>đồng tình ngắn</b> — nói gọn trong một hơi, không cần chủ ngữ hay động từ đầy đủ. Vai trò của chúng không chỉ là đồng ý, mà còn là <b>tín hiệu cho người nói biết bạn đang theo kịp</b>." },
+        { "t": "p", "html": "Người bản xứ rải chúng khắp cuộc hội thoại. Im lặng hoàn toàn khi nghe khiến người nói bối rối — họ sẽ dừng lại hỏi <i>Does that make sense?</i> Một chữ <i>Exactly</i> đúng lúc giữ cho câu chuyện trôi đi." },
+        { "t": "p", "html": "<span class=\"k\">Exactly!</span> mạnh hơn <i>Yes</i> nhiều: nó nói rằng người kia vừa diễn đạt <b>đúng y điều bạn nghĩ</b>. Còn <span class=\"k\">That's right.</span> thì trung tính hơn — nó chỉ xác nhận một thông tin là đúng." },
+        { "t": "callout", "html": "<b>CẶP BẪY QUAN TRỌNG:</b> <span class=\"k\">That's right</span> = thông tin đó đúng (bạn xác nhận). <span class=\"k\">You're right</span> = bạn đúng — và thường ngầm rằng <b>tôi đã sai</b>. Nói <i>You're right</i> khi chỉ cần xác nhận thông tin sẽ nghe như bạn vừa thừa nhận sai lầm." },
+        { "t": "h3", "text": "Bốn mức đồng tình" },
+        {
+          "t": "table",
+          "head": ["Câu", "Sức mạnh", "Bối cảnh"],
+          "rows": [
+            ["<code>That's right.</code>", "Xác nhận trung tính", "Điện thoại, kiểm tra thông tin"],
+            ["<code>Exactly!</code>", "Mạnh — đúng y ý tôi", "Tranh luận, bàn bạc"],
+            ["<code>Absolutely!</code>", "Rất mạnh, nhiệt tình", "Khi hào hứng"],
+            ["<code>You can say that again.</code>", "Đồng ý kèm cảm thán", "Thân mật, có chút than thở"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Hai thành ngữ đừng dịch nghĩa đen:</b> <i>You can say that again.</i> KHÔNG phải “bạn nói lại đi” — nó nghĩa là “quá đúng”. <i>Tell me about it.</i> KHÔNG phải “kể tôi nghe” — nó nghĩa là “khổ lắm, tôi biết quá rõ rồi”." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🎯", "title": "Ai đó nói đúng ý bạn", "text": "Bối cảnh số 1. <i>Exactly! That's what I meant.</i>" },
+            { "icon": "📞", "title": "Xác nhận thông tin qua điện thoại", "text": "<i>That's right — 24 Le Loi Street.</i> Câu chuẩn khi đọc lại địa chỉ." },
+            { "icon": "🎧", "title": "Giữ hội thoại trôi chảy", "text": "Rải <i>Right / Exactly / Absolutely</i> khi nghe người khác nói." },
+            { "icon": "🙌", "title": "Đồng ý nhiệt tình", "text": "<i>Absolutely!</i> Khi bạn thật sự hào hứng." },
+            { "icon": "😮‍💨", "title": "Đồng cảm kèm than thở", "text": "<i>Tell me about it.</i> = khổ lắm, tôi biết quá rõ." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn chỉ đang lắng nghe chứ chưa đồng ý. Nói <i>Exactly</i> là bạn đã cam kết ủng hộ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Mạnh — đúng y ý", "<code>Exactly!</code>", "Exactly! That's my point."],
+            ["Xác nhận thông tin", "<code>That's right.</code>", "That's right, room 406."],
+            ["Thừa nhận người kia đúng", "<code>You're right.</code>", "You're right, I was wrong."],
+            ["Đúng cái đó", "<code>That's it.</code>", "That's it — that's the one."],
+            ["Nhiệt tình", "<code>Absolutely!</code>", "Absolutely, I'm in."],
+            ["Trang trọng", "<code>Precisely.</code>", "Precisely. That's the issue."],
+            ["Thân mật (Anh-Anh)", "<code>Spot on.</code>", "Spot on!"],
+            ["Đồng ý mạnh", "<code>You can say that again.</code>", "You can say that again!"],
+            ["Đồng cảm + than thở", "<code>Tell me about it.</code>", "Tell me about it."],
+            ["Khen cách diễn đạt", "<code>Couldn't have put it better.</code>", "Couldn't have put it better myself."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng nói “Exact”.</b> ✗ Dạng đúng luôn là trạng từ <b>Exactly</b>. Cũng đừng nói <i>Exactly right</i> quá thường xuyên — nó không sai nhưng hơi thừa; một chữ <i>Exactly</i> là đủ." },
+        { "t": "callout", "html": "<b>“That's it” có hai nghĩa.</b> Giữa câu: “đúng cái đó rồi”. Cuối việc: “xong rồi, hết rồi” — <i>That's it for today.</i> Ngữ cảnh quyết định." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các câu đồng tình ngắn",
+              "items": [
+                { "w": "Exactly!", "vi": "chính xác!", "ex": "Exactly! That's what I meant.", "exvi": "Chính xác! Đó là điều tôi muốn nói.", "note": "Không nói <i>Exact</i> ✗ — luôn là trạng từ <b>Exactly</b>." },
+                { "w": "That's right", "vi": "đúng vậy", "ex": "That's right — room 406.", "exvi": "Đúng vậy — phòng 406.", "note": "Xác nhận THÔNG TIN là đúng. Khác với <i>You're right</i>." },
+                { "w": "You're right", "vi": "bạn nói đúng", "ex": "You're right, I was wrong about that.", "exvi": "Bạn nói đúng, chỗ đó tôi đã sai.", "note": "BẪY: thường ngầm rằng BẠN ĐÃ SAI. Đừng dùng khi chỉ cần xác nhận thông tin." },
+                { "w": "That's it", "vi": "đúng cái đó", "ex": "That's it — that's the one I meant.", "exvi": "Đúng rồi — chính là cái đó.", "note": "Hai nghĩa: “đúng cái đó” giữa câu, và “xong rồi” khi kết thúc." },
+                { "w": "Absolutely!", "vi": "chắc chắn rồi!", "ex": "Absolutely, count me in.", "exvi": "Chắc chắn rồi, tính cả tôi." },
+                { "w": "Definitely", "vi": "chắc chắn", "ex": "Definitely. No question.", "exvi": "Chắc chắn. Không phải bàn." },
+                { "w": "Precisely", "vi": "chính xác là vậy", "ex": "Precisely. That's the issue.", "exvi": "Chính xác là vậy. Đó là vấn đề.", "note": "Trang trọng hơn <i>Exactly</i> — hợp họp hành, tranh luận." },
+                { "w": "Quite", "vi": "đúng thế", "ex": "“It's unfair.” — “Quite.”", "exvi": "“Không công bằng.” — “Đúng thế.”", "note": "Rất Anh-Anh và hơi trịnh trọng. Ở đây <i>quite</i> nghĩa là “hoàn toàn đúng”." },
+                { "w": "Spot on", "vi": "chuẩn không cần chỉnh", "ex": "Spot on!", "exvi": "Chuẩn không cần chỉnh!", "note": "Thân mật, mang màu Anh-Anh." },
+                { "w": "Too right", "vi": "quá đúng", "ex": "Too right it is!", "exvi": "Quá đúng luôn!", "note": "Rất thân mật, phổ biến ở Anh và Úc." },
+                { "w": "I know, right?", "vi": "đúng không?", "ex": "I know, right?", "exvi": "Đúng không?", "note": "Rất thân mật, mang màu Anh-Mỹ — đồng tình kèm sự hào hứng." },
+                { "w": "Couldn't agree more", "vi": "không thể đồng ý hơn", "ex": "Couldn't agree more.", "exvi": "Không thể đồng ý hơn.", "note": "Xem [Khung 51]." }
+              ]
+            },
+            {
+              "title": "Thành ngữ đồng tình",
+              "items": [
+                { "w": "You can say that again", "vi": "quá đúng", "ex": "You can say that again!", "exvi": "Quá đúng luôn!", "note": "BẪY: KHÔNG phải bảo người ta nói lại. Đây là lời đồng ý rất mạnh." },
+                { "w": "Tell me about it", "vi": "khổ lắm, tôi biết quá rõ", "ex": "“Traffic was awful.” — “Tell me about it.”", "exvi": "“Kẹt xe kinh khủng.” — “Khổ lắm, biết rồi.”", "note": "BẪY: KHÔNG phải bảo kể chuyện. Đây là đồng cảm kèm than thở." },
+                { "w": "Couldn't have put it better", "vi": "không thể nói hay hơn", "ex": "Couldn't have put it better myself.", "exvi": "Tôi cũng không nói hay hơn được.", "note": "Khen cách diễn đạt của người kia — rất lịch thiệp." },
+                { "w": "My thoughts exactly", "vi": "đúng ý tôi luôn", "ex": "My thoughts exactly.", "exvi": "Đúng ý tôi luôn." },
+                { "w": "That's exactly it", "vi": "đúng y như vậy", "ex": "That's exactly it.", "exvi": "Đúng y như vậy." },
+                { "w": "You took the words right out of my mouth", "vi": "bạn nói đúng điều tôi định nói", "ex": "You took the words right out of my mouth.", "exvi": "Bạn nói đúng điều tôi định nói.", "note": "Thành ngữ rất hay — nghĩa là bạn vừa định nói chính câu đó." },
+                { "w": "Now you're talking", "vi": "giờ mới đúng chuyện", "ex": "Now you're talking!", "exvi": "Giờ mới đúng chuyện!", "note": "Thân mật — dùng khi người kia cuối cùng cũng đề xuất điều bạn thích." },
+                { "w": "No doubt about it", "vi": "không nghi ngờ gì", "ex": "No doubt about it.", "exvi": "Không nghi ngờ gì cả." },
+                { "w": "Fair point", "vi": "ý hợp lý", "ex": "Fair point.", "exvi": "Ý hợp lý.", "note": "Nhẹ hơn — công nhận chứ chưa hẳn đồng ý. Xem [Khung 52]." },
+                { "w": "That's the thing", "vi": "vấn đề chính là ở đó", "ex": "That's the thing — nobody told us.", "exvi": "Vấn đề chính là ở đó — chẳng ai báo mình." },
+                { "w": "I'm with you", "vi": "tôi ủng hộ bạn", "ex": "I'm with you on that.", "exvi": "Chuyện đó tôi ủng hộ bạn.", "note": "Xem [Khung 58]." },
+                { "w": "Well said", "vi": "nói hay lắm", "ex": "Well said.", "exvi": "Nói hay lắm.", "note": "Khen cả nội dung lẫn cách diễn đạt — hợp sau một bài phát biểu." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại & nối tiếp",
+              "items": [
+                { "w": "Glad you agree", "vi": "may là bạn đồng ý", "ex": "Glad you agree.", "exvi": "May là anh/chị đồng ý." },
+                { "w": "So what do we do?", "vi": "vậy mình làm gì?", "ex": "So what do we do about it?", "exvi": "Vậy mình làm gì về chuyện đó?", "note": "Chuyển từ đồng tình sang hành động — rất hiệu quả trong họp." },
+                { "w": "That's what I said", "vi": "tôi đã nói vậy mà", "ex": "That's what I said all along.", "exvi": "Tôi đã nói vậy từ đầu mà." },
+                { "w": "Finally, someone gets it", "vi": "cuối cùng cũng có người hiểu", "ex": "Finally, someone gets it!", "exvi": "Cuối cùng cũng có người hiểu!" },
+                { "w": "Exactly my point", "vi": "đúng ý tôi", "ex": "That's exactly my point.", "exvi": "Đúng là ý tôi đấy." },
+                { "w": "So we're agreed", "vi": "vậy là mình thống nhất", "ex": "So we're agreed on that.", "exvi": "Vậy là mình thống nhất chuyện đó.", "note": "Xem [Khung 51]." },
+                { "w": "Let's do it then", "vi": "vậy làm thôi", "ex": "Let's do it then.", "exvi": "Vậy làm thôi." },
+                { "w": "I'm glad we see eye to eye", "vi": "may là mình cùng quan điểm", "ex": "I'm glad we see eye to eye on this.", "exvi": "May là chuyện này mình cùng quan điểm.", "note": "<i>see eye to eye</i> = cùng quan điểm. Thành ngữ rất hay." },
+                { "w": "Right, moving on", "vi": "được rồi, đi tiếp", "ex": "Right, moving on to the next point.", "exvi": "Được rồi, sang ý tiếp theo." },
+                { "w": "Is that everyone?", "vi": "mọi người đều vậy chứ?", "ex": "Is that everyone then?", "exvi": "Vậy là mọi người đồng ý cả chứ?" },
+                { "w": "Not everyone thinks so", "vi": "không phải ai cũng nghĩ vậy", "ex": "Not everyone thinks so, mind you.", "exvi": "Nhưng không phải ai cũng nghĩ vậy đâu." },
+                { "w": "Same page then", "vi": "vậy là cùng hướng rồi", "ex": "Same page then. Good.", "exvi": "Vậy là cùng hướng rồi. Tốt." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Exactly! That's exactly my point.",
+                  "vi": "Chính xác! Đó đúng là ý tôi.",
+                  "note": "Dùng khi ai đó vừa diễn đạt đúng y điều bạn đang cố nói — mạnh hơn <i>Yes</i> rất nhiều.",
+                  "open": { "en": "Wait — say that again?", "vi": "Khoan — anh/chị nói lại xem?" },
+                  "reply": [
+                    { "them": "So what do we do about it?", "themvi": "Vậy mình làm gì về chuyện đó?", "you": "We fix the root cause, not the symptom.", "youvi": "Mình sửa gốc rễ chứ không sửa triệu chứng." },
+                    { "them": "Finally, someone gets it!", "themvi": "Cuối cùng cũng có người hiểu!", "you": "I've been saying it for weeks.", "youvi": "Tôi nói mấy tuần nay rồi." }
+                  ],
+                  "close": { "en": "Glad we see eye to eye.", "vi": "May là mình cùng quan điểm." }
+                },
+                {
+                  "en": "That's right — the deadline moved to Friday.",
+                  "vi": "Đúng vậy — hạn chót dời sang thứ Sáu.",
+                  "note": "Xác nhận một THÔNG TIN. Dùng <i>You're right</i> ở đây sẽ nghe như bạn vừa thừa nhận mình sai.",
+                  "reply": [
+                    { "them": "And the client knows?", "themvi": "Khách biết chưa?", "you": "Confirmed this morning.", "youvi": "Sáng nay đã xác nhận." }
+                  ],
+                  "vars": [
+                    { "en": "That's it — Friday at five.", "vi": "Đúng rồi — năm giờ thứ Sáu." }
+                  ]
+                },
+                {
+                  "en": "You're right — I got that wrong.",
+                  "vi": "Anh/chị nói đúng — tôi đã nhầm chỗ đó.",
+                  "note": "Đây mới là lúc dùng <b>You're right</b>: khi bạn thật sự thừa nhận mình sai.",
+                  "reply": [
+                    { "them": "No harm done.", "themvi": "Không sao cả.", "you": "I'll send a correction.", "youvi": "Tôi sẽ gửi đính chính." }
+                  ]
+                },
+                {
+                  "en": "Couldn't have put it better myself.",
+                  "vi": "Tôi cũng không nói hay hơn được.",
+                  "note": "Khen cách diễn đạt của người kia — rất lịch thiệp, hợp sau một phần trình bày hay.",
+                  "reply": [
+                    { "them": "Glad you agree.", "themvi": "May là anh/chị đồng ý.", "you": "Let's put it in the summary just like that.", "youvi": "Mình ghi nguyên văn vậy vào bản tóm tắt." }
+                  ],
+                  "close": { "en": "Right, moving on.", "vi": "Được rồi, đi tiếp." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "That's right — 24 Le Loi Street.",
+                  "vi": "Đúng vậy ạ — số 24 đường Lê Lợi.",
+                  "note": "Câu chuẩn khi xác nhận địa chỉ, số phòng, số điện thoại qua điện thoại.",
+                  "reply": [
+                    { "them": "And the booking name?", "themvi": "Tên đặt phòng ạ?", "you": "Under Nguyen, N-G-U-Y-E-N.", "youvi": "Tên Nguyễn, N-G-U-Y-E-N." }
+                  ],
+                  "close": { "en": "Perfect, see you at three.", "vi": "Tuyệt, ba giờ gặp nhé." }
+                },
+                {
+                  "en": "Exactly — that's the platform we need.",
+                  "vi": "Chính xác — đúng sân ga mình cần.",
+                  "reply": [
+                    { "them": "Then we've got ten minutes.", "themvi": "Vậy mình còn mười phút.", "you": "Plenty of time for coffee.", "youvi": "Thừa thời gian làm ly cà phê." }
+                  ]
+                },
+                {
+                  "en": "You took the words right out of my mouth.",
+                  "vi": "Bạn nói đúng điều mình định nói.",
+                  "note": "Thành ngữ — nghĩa là bạn vừa định nói chính câu đó.",
+                  "reply": [
+                    { "them": "Great minds think alike.", "themvi": "Anh hùng nhìn nhau trùng ý.", "you": "Let's book the earlier flight then.", "youvi": "Vậy đặt chuyến sớm hơn đi." }
+                  ],
+                  "vars": [
+                    { "en": "My thoughts exactly.", "vi": "Đúng ý mình luôn." }
+                  ]
+                },
+                {
+                  "en": "Tell me about it — three hours in that queue.",
+                  "vi": "Khổ lắm — ba tiếng trong hàng chờ đó.",
+                  "note": "BẪY: KHÔNG phải bảo người ta kể. Đây là đồng cảm kèm than thở.",
+                  "reply": [
+                    { "them": "Was it that bad?", "themvi": "Tệ vậy à?", "you": "Worse. No seats, no water.", "youvi": "Tệ hơn. Không ghế, không nước." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "You can say that again!",
+                  "vi": "Quá đúng luôn!",
+                  "note": "BẪY: KHÔNG phải bảo người ta nói lại — đây là lời đồng ý rất mạnh, kèm chút cảm thán.",
+                  "reply": [
+                    { "them": "This week has been exhausting.", "themvi": "Tuần này mệt rã rời.", "you": "You can say that again. Two more days.", "youvi": "Quá đúng. Còn hai ngày nữa." }
+                  ]
+                },
+                {
+                  "en": "I know, right?",
+                  "vi": "Đúng không?",
+                  "note": "Rất thân mật, mang màu Anh-Mỹ — đồng tình kèm hào hứng. Không dùng trong công việc trang trọng.",
+                  "reply": [
+                    { "them": "That film was so overrated.", "themvi": "Phim đó được khen quá lời.", "you": "I know, right? I nearly fell asleep.", "youvi": "Đúng không? Mình suýt ngủ gật." }
+                  ],
+                  "vars": [
+                    { "en": "Spot on!", "vi": "Chuẩn không cần chỉnh!" }
+                  ]
+                },
+                {
+                  "en": "Absolutely — count me in.",
+                  "vi": "Chắc chắn rồi — tính cả mình.",
+                  "reply": [
+                    { "them": "Saturday at seven then?", "themvi": "Vậy bảy giờ thứ Bảy nhé?", "you": "Perfect. I'll bring dessert.", "youvi": "Chuẩn. Mình mang món tráng miệng." }
+                  ],
+                  "close": { "en": "Looking forward to it.", "vi": "Mong đến ngày đó." }
+                },
+                {
+                  "en": "Tell me about it.",
+                  "vi": "Khổ lắm, biết rồi.",
+                  "reply": [
+                    { "them": "Traffic was awful this morning.", "themvi": "Sáng nay kẹt xe kinh khủng.", "you": "Tell me about it — an hour for four kilometres.", "youvi": "Khổ lắm — một tiếng đi bốn cây số." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "That's it — that's the one I meant.",
+                  "vi": "Đúng rồi — chính là cái đó.",
+                  "note": "<i>That's it</i> giữa câu nghĩa là “đúng cái đó”; cuối việc lại nghĩa là “xong rồi”.",
+                  "reply": [
+                    { "them": "Shall I get one from the back?", "themvi": "Em lấy một cái trong kho nhé ạ?", "you": "Yes please, in medium.", "youvi": "Vâng, cỡ vừa ạ." }
+                  ]
+                },
+                {
+                  "en": "That's right — twenty-four months, not twelve.",
+                  "vi": "Đúng vậy — hai mươi bốn tháng, không phải mười hai.",
+                  "reply": [
+                    { "them": "Let me update the record.", "themvi": "Để em cập nhật hồ sơ ạ.", "you": "Thank you.", "youvi": "Cảm ơn em." }
+                  ],
+                  "vars": [
+                    { "en": "Exactly — it's on the box.", "vi": "Chính xác — ghi trên hộp mà." }
+                  ]
+                },
+                {
+                  "en": "You're right, I did misread the sign.",
+                  "vi": "Em nói đúng, tôi đã đọc nhầm bảng.",
+                  "note": "Dùng <b>You're right</b> đúng chỗ: khi bạn thừa nhận mình nhầm.",
+                  "reply": [
+                    { "them": "It happens all the time.", "themvi": "Chuyện thường xuyên ạ.", "you": "I'll take it at full price then.", "youvi": "Vậy tôi lấy giá gốc." }
+                  ]
+                },
+                {
+                  "en": "Absolutely not, thanks.",
+                  "vi": "Chắc chắn không, cảm ơn.",
+                  "note": "<i>Absolutely</i> ghép với <i>not</i> thành lời từ chối dứt khoát — cẩn thận vì nghe khá mạnh.",
+                  "reply": [
+                    { "them": "Just the basic package then?", "themvi": "Vậy chỉ gói cơ bản thôi ạ?", "you": "That's right.", "youvi": "Đúng vậy." }
+                  ],
+                  "close": { "en": "Card, please.", "vi": "Cho tôi quẹt thẻ." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "That's right — two starters and one main.",
+                  "vi": "Đúng vậy — hai món khai vị và một món chính.",
+                  "note": "Xác nhận lại đơn gọi món — nhân viên nhắc lại, bạn xác nhận bằng <i>That's right</i>.",
+                  "reply": [
+                    { "them": "And drinks?", "themvi": "Đồ uống ạ?", "you": "Two waters, thanks.", "youvi": "Hai chai nước, cảm ơn." }
+                  ]
+                },
+                {
+                  "en": "Exactly — that's what I was going to say.",
+                  "vi": "Chính xác — mình cũng định nói vậy.",
+                  "reply": [
+                    { "them": "So we skip dessert?", "themvi": "Vậy bỏ món tráng miệng nhé?", "you": "And get ice cream on the way home.", "youvi": "Rồi mua kem trên đường về." }
+                  ],
+                  "vars": [
+                    { "en": "You took the words out of my mouth.", "vi": "Bạn nói đúng điều mình định nói." }
+                  ]
+                },
+                {
+                  "en": "Now you're talking!",
+                  "vi": "Giờ mới đúng chuyện!",
+                  "note": "Thân mật — dùng khi người kia cuối cùng cũng đề xuất đúng điều bạn thích.",
+                  "reply": [
+                    { "them": "Shall we get the seafood platter?", "themvi": "Hay mình gọi đĩa hải sản?", "you": "Now you're talking. And garlic bread.", "youvi": "Giờ mới đúng chuyện. Thêm bánh mì bơ tỏi." }
+                  ]
+                },
+                {
+                  "en": "You can say that again — best meal all year.",
+                  "vi": "Quá đúng luôn — bữa ngon nhất cả năm.",
+                  "reply": [
+                    { "them": "Worth the wait, then?", "themvi": "Vậy là đáng đợi nhỉ?", "you": "Every minute of it.", "youvi": "Từng phút một." }
+                  ],
+                  "close": { "en": "We're booking again next month.", "vi": "Tháng sau mình đặt lại." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Tìm được tiếng nói chung trong cuộc họp",
+          "lines": [
+            { "speaker": "Colleague", "en": "I think the real problem is that nobody owns this decision.", "vi": "Tôi nghĩ vấn đề thật sự là không ai chịu trách nhiệm quyết định." },
+            { "speaker": "You", "me": true, "en": "Exactly! That's exactly my point.", "vi": "Chính xác! Đó đúng là ý tôi." },
+            { "speaker": "Colleague", "en": "So we keep going round in circles.", "vi": "Nên mình cứ bàn loanh quanh mãi." },
+            { "speaker": "You", "me": true, "en": "You took the words right out of my mouth.", "vi": "Anh/chị nói đúng điều tôi định nói." },
+            { "speaker": "Colleague", "en": "So what do we do about it?", "vi": "Vậy mình làm gì về chuyện đó?" },
+            { "speaker": "You", "me": true, "en": "We name one owner today. Glad we see eye to eye.", "vi": "Hôm nay mình chỉ định một người phụ trách. May là mình cùng quan điểm." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Xác nhận thông tin đặt phòng qua điện thoại",
+          "lines": [
+            { "speaker": "Staff", "en": "So that's two nights, checking in on the fourteenth?", "vi": "Vậy là hai đêm, nhận phòng ngày mười bốn ạ?" },
+            { "speaker": "You", "me": true, "en": "That's right.", "vi": "Đúng vậy ạ." },
+            { "speaker": "Staff", "en": "And a twin room, not a double?", "vi": "Phòng hai giường đơn, không phải giường đôi ạ?" },
+            { "speaker": "You", "me": true, "en": "That's it — twin, please.", "vi": "Đúng rồi — hai giường đơn ạ." },
+            { "speaker": "Staff", "en": "I've got you down for the fifteenth, actually.", "vi": "Thật ra hệ thống em ghi ngày mười lăm ạ." },
+            { "speaker": "You", "me": true, "en": "Ah — you're right, I did say the fifteenth in the email.", "vi": "À — em nói đúng, trong email tôi có ghi ngày mười lăm." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "“Is this room 406?” — “You're right.”", "right": "That's right.", "why": "CẶP BẪY CHÍNH. <b>You're right</b> ngầm rằng bạn vừa sai. Để xác nhận thông tin, luôn dùng <b>That's right</b>." },
+            { "wrong": "Exact!", "right": "Exactly!", "why": "Phải là trạng từ <b>Exactly</b>. <i>Exact</i> là tính từ và không dùng đứng một mình như vậy." },
+            { "wrong": "“You can say that again.” <i>(hiểu là: nói lại đi)</i>", "right": "<i>= Quá đúng!</i>", "why": "Thành ngữ. Nó là lời ĐỒNG Ý rất mạnh, không phải yêu cầu nhắc lại." },
+            { "wrong": "“Tell me about it.” <i>(hiểu là: kể tôi nghe)</i>", "right": "<i>= Khổ lắm, tôi biết quá rõ.</i>", "why": "Thành ngữ. Nó là lời đồng cảm kèm than thở, không phải yêu cầu kể chuyện." },
+            { "wrong": "Yes, I'm agree exactly.", "right": "Exactly. / I completely agree.", "why": "<i>I'm agree</i> là lỗi kinh điển — xem [Khung 51]. Và không ghép <i>agree</i> với <i>exactly</i> như vậy." },
+            { "wrong": "Exactly. <i>(khi bạn mới chỉ đang lắng nghe)</i>", "right": "Right. / I see.", "why": "Nói <i>Exactly</i> là bạn đã CAM KẾT ủng hộ. Nếu mới chỉ đang nghe, dùng <i>Right</i> hoặc <i>I see</i> ở [Khung 53]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu", "Ý nghĩa", "Lúc nào dùng"],
+          "rows": [
+            ["<code>Exactly!</code>", "Đúng y ý tôi — mạnh", "Khi ai đó diễn đạt đúng điều bạn nghĩ."],
+            ["<code>That's right.</code>", "Thông tin đó đúng", "Xác nhận địa chỉ, số liệu, lịch hẹn."],
+            ["<code>You're right.</code>", "Bạn đúng — ngầm tôi sai", "Khi thừa nhận mình nhầm."],
+            ["<code>Absolutely!</code>", "Đồng ý nhiệt tình", "Khi hào hứng."],
+            ["<code>I agree with you.</code>", "Đồng ý có cân nhắc", "Xem [Khung 51]."],
+            ["<code>That's a fair point.</code>", "Công nhận, chưa hẳn đồng ý", "Xem [Khung 52]."],
+            ["<code>I see what you mean.</code>", "Hiểu, chưa đồng ý", "Xem [Khung 53]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — đồng tình với một nhận xét" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Right. / I see.", "vi": "Nhẹ nhất — chỉ đang lắng nghe" },
+            { "en": "That's a fair point.", "vi": "Công nhận. Xem [Khung 52]" },
+            { "en": "That's right.", "vi": "Xác nhận đúng" },
+            { "en": "Exactly!", "vi": "Đúng y ý tôi — mạnh" },
+            { "en": "You can say that again!", "vi": "Mạnh nhất, kèm cảm thán" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Exactly</b> nhấn ở <b>âm tiết thứ hai</b>: ig-<b>ZACT</b>-ly. Chú ý âm đầu đọc là /ɪɡ/ có rung, không phải /eks/.",
+            "Trong hội thoại nhanh, <i>exactly</i> hay bị nuốt thành <b>“zack-ly”</b> — âm /t/ gần như biến mất.",
+            "<b>That's right</b> → “thæts-RAIT”, nhấn vào <i>RIGHT</i>, âm /s/ nối liền sang /r/.",
+            "<b>That's it</b> → nối âm thành <b>“thæt-sit”</b>, hai từ dính làm một.",
+            "<b>Absolutely</b> nhấn âm đầu: <b>AB</b>-sə-loot-ly — người Việt hay nhấn nhầm vào <i>loot</i>.",
+            "<b>Giọng lên cao và dứt khoát</b> ở các câu này — nói đều đều sẽ nghe như đang thờ ơ chứ không phải đồng tình."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Exactly! That's exactly my point.", "vi": "Luyện shadowing: “ig-ZACT-ly”, lên giọng và dứt khoát." },
+            { "en": "That's right — room 406.", "vi": "Tập nối “thæts-RAIT” rồi đọc số rõ ràng, tách từng chữ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "“Đây là phòng 406 phải không?” — “Đúng vậy.”", "blank": "“Is this room 406?” — “__________.”", "a": "That's right (KHÔNG phải “You're right”)" },
+            { "vi": "Anh/chị nói đúng — tôi đã nhầm chỗ đó.", "blank": "__________ — I got that wrong.", "a": "You're right" },
+            { "vi": "Chính xác! Đó đúng là ý tôi.", "blank": "__________! That's exactly my point.", "a": "Exactly (KHÔNG phải “Exact”)" },
+            { "vi": "Quá đúng luôn!", "blank": "__________!", "a": "You can say that again" },
+            { "vi": "“Kẹt xe kinh khủng.” — “Khổ lắm, biết rồi.”", "blank": "“Traffic was awful.” — “__________.”", "a": "Tell me about it" },
+            { "vi": "Bạn nói đúng điều mình định nói.", "blank": "You __________ right out of my mouth.", "a": "took the words" },
+            { "vi": "Tôi cũng không nói hay hơn được.", "blank": "__________ myself.", "a": "Couldn't have put it better" },
+            { "vi": "May là chuyện này mình cùng quan điểm.", "blank": "Glad we __________ on this.", "a": "see eye to eye" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Chính xác! Đó đúng là ý tôi.", "a": "Exactly! That's exactly my point." },
+            { "vi": "2. Đúng vậy ạ — số 24 đường Lê Lợi.", "a": "That's right — 24 Le Loi Street." },
+            { "vi": "3. Anh/chị nói đúng — tôi đã nhầm chỗ đó.", "a": "You're right — I got that wrong." },
+            { "vi": "4. Khổ lắm — ba tiếng trong hàng chờ đó.", "a": "Tell me about it — three hours in that queue." },
+            { "vi": "5. Đúng rồi — chính là cái đó.", "a": "That's it — that's the one I meant." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Khắc cặp bẫy vào đầu:</b> xác nhận thông tin thì <i>That's right</i>; thừa nhận mình sai thì <i>You're right</i>.",
+            "<b>Rải câu đồng tình khi nghe.</b> Im lặng hoàn toàn khiến người nói bối rối — một chữ <i>Right</i> hay <i>Exactly</i> giữ cho câu chuyện trôi.",
+            "<b>Hai thành ngữ đừng dịch nghĩa đen:</b> <i>You can say that again</i> = quá đúng; <i>Tell me about it</i> = khổ lắm, biết rồi.",
+            "<b>Dùng “That's right” khi đọc lại số liệu qua điện thoại</b> — địa chỉ, số phòng, ngày tháng. Đây là câu chuẩn.",
+            "<b>Đừng nói “Exactly” khi mới chỉ đang lắng nghe</b> — nó là lời cam kết ủng hộ, không phải tiếng ừ hữ.",
+            "<b>Bài tập 3 phút:</b> nghe một đoạn hội thoại tiếng Anh ba phút và đếm xem người ta chen bao nhiêu câu đồng tình ngắn. Bạn sẽ ngạc nhiên."
+          ]
+        }
+      ]
+    }
+  ]
+}

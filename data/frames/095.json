@@ -1,0 +1,500 @@
+{
+  "id": 95,
+  "group": "Nhóm 10 · Kể chuyện, Kế hoạch & Thời gian",
+  "title": "I've just… — Vừa mới xong",
+  "subtitle": "Khung câu báo một việc vừa kết thúc và còn nóng hổi. Bẫy nằm ở dạng động từ: sau have luôn là V3 chứ không phải V2 — I've just gone ✓ chứ không phải I've just went ✗. Kèm theo là bộ ba just, already, yet mà mỗi từ có một chỗ đứng riêng.",
+  "pattern": [
+    "I've just <em>+ V3</em>.",
+    "I've already <em>+ V3</em>.",
+    "I haven't <em>+ V3 + yet</em>."
+  ],
+  "meaning": "Tôi vừa mới… / Tôi đã… rồi",
+  "grammar": [3, 4, 5, 6],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "V3, không phải V2" },
+    { "text": "just / already / yet" },
+    { "text": "Trình độ: A2–B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I've just finished</span> nói một việc <b>vừa kết thúc cách đây rất ngắn</b> và kết quả của nó còn nguyên giá trị lúc này. Chữ <i>just</i> chính là thứ tạo ra cảm giác “còn nóng hổi”." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — dạng động từ:</b> sau <i>have/has</i> luôn là <b>V3</b> (quá khứ phân từ), không phải V2.<br>• <i>I've just <b>gone</b></i> ✓ — <i>I've just went</i> ✗<br>• <i>I've just <b>eaten</b></i> ✓ — <i>I've just ate</i> ✗<br>• <i>I've just <b>seen</b></i> ✓ — <i>I've just saw</i> ✗" },
+        { "t": "h3", "text": "Bộ ba just / already / yet — mỗi từ một chỗ đứng" },
+        {
+          "t": "table",
+          "head": ["Từ", "Dùng trong câu", "Vị trí"],
+          "rows": [
+            ["<code>just</code>", "Khẳng định — vừa mới xong", "Giữa <i>have</i> và V3"],
+            ["<code>already</code>", "Khẳng định — đã xong rồi", "Giữa <i>have</i> và V3"],
+            ["<code>yet</code>", "Phủ định và câu hỏi", "CUỐI câu"],
+            ["<code>still</code>", "Phủ định — vẫn chưa", "Trước <i>haven't</i>"]
+          ]
+        },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI:</b> <i>yet</i> chỉ dùng trong <b>phủ định và câu hỏi</b>, và luôn đứng ở <b>CUỐI câu</b>. <i>I haven't finished <b>yet</b></i> ✓ — <i>I have yet finished</i> ✗. Còn <i>already</i> thì ngược lại, dùng trong câu khẳng định." },
+        { "t": "p", "html": "Một điểm nữa: thì hoàn thành <b>không đi với mốc quá khứ đã xong</b>. <i>I've just finished <b>yesterday</b></i> ✗ — nếu đã nói <i>yesterday</i> thì phải dùng quá khứ đơn: <i>I finished it yesterday</i> ✓." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "✅", "title": "Báo vừa xong việc", "text": "<i>I've just finished the report.</i>" },
+            { "icon": "📞", "title": "Từ chối vì vừa xong", "text": "<i>I've just eaten, thanks.</i>" },
+            { "icon": "🚪", "title": "Báo ai đó vừa đi", "text": "<i>She's just left.</i>" },
+            { "icon": "📰", "title": "Tin mới nhận", "text": "<i>I've just heard the news.</i>" },
+            { "icon": "⏰", "title": "Nói việc chưa xong", "text": "<i>I haven't finished yet.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Có mốc quá khứ cụ thể. <i>I've just finished yesterday</i> ✗." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Vừa mới xong", "<code>I've just + V3.</code>", "I've just finished."],
+            ["Đã xong rồi", "<code>I've already + V3.</code>", "I've already sent it."],
+            ["Chưa xong", "<code>I haven't + V3 + yet.</code>", "I haven't finished yet."],
+            ["Câu hỏi", "<code>Have you + V3 + yet?</code>", "Have you eaten yet?"],
+            ["Vẫn chưa (sốt ruột)", "<code>I still haven't + V3.</code>", "I still haven't heard back."],
+            ["Ngôi thứ ba", "<code>She's just + V3.</code>", "She's just left."],
+            ["Đã từng đi rồi về", "<code>I've just been to…</code>", "I've just been to the bank."],
+            ["Đi rồi chưa về", "<code>He's gone to…</code>", "He's gone to the bank."],
+            ["Quá khứ đơn (có mốc)", "<code>I + V2 + yesterday.</code>", "I finished it yesterday."],
+            ["Nhấn mạnh sự mới", "<code>I've only just + V3.</code>", "I've only just arrived."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cặp <i>been</i> và <i>gone</i> rất hay nhầm:</b> <i>He's <b>been</b> to the bank</i> = đã đi <b>và về rồi</b>. <i>He's <b>gone</b> to the bank</i> = <b>đang ở đó</b>, chưa về. Một chữ khác nhau, hai tình huống khác hẳn." },
+        { "t": "callout", "html": "<b>Tiếng Anh Mỹ cho phép dùng quá khứ đơn:</b> <i>I just finished</i> — nghe rất phổ biến trong phim ảnh. Nhưng dạng <i>I've just finished</i> thì <b>đúng ở mọi nơi</b>, nên cứ học dạng này cho chắc." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Động từ bất quy tắc hay dùng (V3)",
+              "items": [
+                { "w": "I've just finished", "vi": "tôi vừa xong", "ex": "I've just finished the report.", "exvi": "Tôi vừa làm xong báo cáo.", "note": "<i>finish</i> là động từ có quy tắc nên V3 vẫn là <b>finished</b>." },
+                { "w": "I've just eaten", "vi": "tôi vừa ăn xong", "ex": "I've just eaten, thanks.", "exvi": "Tôi vừa ăn xong, cảm ơn.", "note": "V3 là <b>eaten</b>, KHÔNG phải <i>ate</i>. <i>I've just ate</i> ✗." },
+                { "w": "I've just seen", "vi": "tôi vừa thấy", "ex": "I've just seen him.", "exvi": "Tôi vừa thấy anh ấy.", "note": "V3 là <b>seen</b>, không phải <i>saw</i>." },
+                { "w": "I've just heard", "vi": "tôi vừa nghe tin", "ex": "I've just heard the news.", "exvi": "Tôi vừa nghe tin." },
+                { "w": "I've just spoken to", "vi": "tôi vừa nói chuyện với", "ex": "I've just spoken to her.", "exvi": "Tôi vừa nói chuyện với cô ấy.", "note": "V3 là <b>spoken</b>, không phải <i>spoke</i>." },
+                { "w": "I've just got back", "vi": "tôi vừa về", "ex": "I've just got back from Da Nang.", "exvi": "Tôi vừa từ Đà Nẵng về." },
+                { "w": "She's just left", "vi": "cô ấy vừa đi", "ex": "She's just left.", "exvi": "Cô ấy vừa đi rồi.", "note": "<i>She's</i> ở đây là <i>She <b>has</b></i>, không phải <i>She is</i>." },
+                { "w": "I've just been to", "vi": "tôi vừa đi… về", "ex": "I've just been to the bank.", "exvi": "Tôi vừa ra ngân hàng về.", "note": "<b>been to</b> = đã đi VÀ VỀ rồi. Khác hẳn <i>gone to</i>." },
+                { "w": "He's gone to", "vi": "anh ấy đi… rồi", "ex": "He's gone to the bank.", "exvi": "Anh ấy ra ngân hàng rồi.", "note": "<b>gone to</b> = ĐANG Ở ĐÓ, chưa về. Cặp này rất hay nhầm." },
+                { "w": "I've just woken up", "vi": "tôi vừa ngủ dậy", "ex": "I've just woken up.", "exvi": "Tôi vừa ngủ dậy.", "note": "V3 là <b>woken</b>, không phải <i>woke</i>." },
+                { "w": "I've just taken", "vi": "tôi vừa lấy", "ex": "I've just taken the last one.", "exvi": "Tôi vừa lấy cái cuối cùng.", "note": "V3 là <b>taken</b>, không phải <i>took</i>." },
+                { "w": "I've just written", "vi": "tôi vừa viết", "ex": "I've just written to them.", "exvi": "Tôi vừa viết cho họ.", "note": "V3 là <b>written</b>, không phải <i>wrote</i>." }
+              ]
+            },
+            {
+              "title": "just, already, yet & từ dễ nhầm",
+              "items": [
+                { "w": "just", "vi": "vừa mới", "ex": "I've just finished.", "exvi": "Tôi vừa xong.", "note": "Đứng GIỮA <i>have</i> và V3. Dùng trong câu khẳng định." },
+                { "w": "already", "vi": "đã… rồi", "ex": "I've already sent it.", "exvi": "Tôi gửi rồi.", "note": "Cũng đứng GIỮA <i>have</i> và V3. Nhấn vào việc xong SỚM hơn dự kiến." },
+                { "w": "yet", "vi": "chưa, đã… chưa", "ex": "I haven't finished yet.", "exvi": "Tôi chưa xong.", "note": "BẪY SỐ HAI: chỉ dùng trong PHỦ ĐỊNH và CÂU HỎI, và luôn ở CUỐI câu." },
+                { "w": "Have you… yet?", "vi": "bạn đã… chưa?", "ex": "Have you eaten yet?", "exvi": "Bạn ăn chưa?" },
+                { "w": "still haven't", "vi": "vẫn chưa", "ex": "I still haven't heard back.", "exvi": "Tôi vẫn chưa nhận được hồi âm.", "note": "<i>still</i> đứng TRƯỚC <i>haven't</i> — nghe sốt ruột hơn <i>yet</i>." },
+                { "w": "only just", "vi": "vừa mới đây thôi", "ex": "I've only just arrived.", "exvi": "Tôi vừa mới đến thôi.", "note": "Nhấn mạnh hơn <i>just</i> — ý là mới cực kỳ." },
+                { "w": "recently", "vi": "gần đây", "ex": "I've seen him recently.", "exvi": "Gần đây tôi có gặp anh ấy.", "note": "Rộng hơn <i>just</i> — vài ngày hoặc vài tuần trước." },
+                { "w": "lately", "vi": "dạo gần đây", "ex": "I've been busy lately.", "exvi": "Dạo này tôi bận suốt." },
+                { "w": "ever", "vi": "đã từng", "ex": "Have you ever been to Hue?", "exvi": "Bạn từng đến Huế chưa?", "note": "Dùng trong CÂU HỎI về trải nghiệm. Đứng giữa <i>have</i> và V3." },
+                { "w": "never", "vi": "chưa bao giờ", "ex": "I've never been there.", "exvi": "Tôi chưa từng đến đó." },
+                { "w": "I finished it yesterday", "vi": "hôm qua tôi làm xong", "ex": "I finished it yesterday.", "exvi": "Hôm qua tôi làm xong.", "note": "Có MỐC quá khứ thì dùng quá khứ đơn. <i>I've just finished yesterday</i> ✗." },
+                { "w": "a moment ago", "vi": "vừa nãy", "ex": "He left a moment ago.", "exvi": "Anh ấy vừa đi lúc nãy.", "note": "<i>ago</i> là mốc quá khứ nên đi với QUÁ KHỨ ĐƠN, không đi với thì hoàn thành." }
+              ]
+            },
+            {
+              "title": "Phản ứng & nối tiếp",
+              "items": [
+                { "w": "Perfect timing", "vi": "đúng lúc quá", "ex": "Perfect timing!", "exvi": "Đúng lúc quá!" },
+                { "w": "You've just missed him", "vi": "bạn vừa lỡ gặp anh ấy", "ex": "You've just missed him.", "exvi": "Bạn vừa lỡ gặp anh ấy rồi." },
+                { "w": "What a shame", "vi": "tiếc quá", "ex": "What a shame!", "exvi": "Tiếc quá! Xem [Khung 89]." },
+                { "w": "I'll catch him later", "vi": "lát tôi gặp anh ấy sau", "ex": "I'll catch him later.", "exvi": "Lát tôi gặp anh ấy sau." },
+                { "w": "Any news?", "vi": "có tin gì không?", "ex": "Any news yet?", "exvi": "Có tin gì chưa?" },
+                { "w": "Not a word", "vi": "chẳng có gì cả", "ex": "Not a word so far.", "exvi": "Đến giờ chẳng có gì." },
+                { "w": "That was quick", "vi": "nhanh thế", "ex": "That was quick!", "exvi": "Nhanh thế!" },
+                { "w": "Already?", "vi": "xong rồi á?", "ex": "Already? That was fast.", "exvi": "Xong rồi á? Nhanh thật." },
+                { "w": "I'll let you know", "vi": "tôi sẽ báo bạn", "ex": "I'll let you know as soon as I hear.", "exvi": "Có tin là tôi báo ngay." },
+                { "w": "Give me five minutes", "vi": "cho tôi năm phút", "ex": "Give me five minutes.", "exvi": "Cho tôi năm phút." },
+                { "w": "Just in time", "vi": "vừa kịp", "ex": "You're just in time.", "exvi": "Bạn đến vừa kịp." },
+                { "w": "I've been meaning to ask", "vi": "tôi vẫn định hỏi", "ex": "I've been meaning to ask you.", "exvi": "Tôi vẫn định hỏi bạn mãi. Xem [Khung 94]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I've just finished the report.",
+                  "vi": "Tôi vừa làm xong báo cáo.",
+                  "note": "<i>just</i> đứng GIỮA <i>have</i> và V3. Kết quả còn nguyên giá trị lúc này nên dùng thì hoàn thành.",
+                  "open": { "en": "How's the report coming along?", "vi": "Báo cáo đến đâu rồi?" },
+                  "reply": [
+                    { "them": "Already? That was fast.", "themvi": "Xong rồi á? Nhanh thật.", "you": "I started early.", "youvi": "Tôi bắt đầu sớm." },
+                    { "them": "Can you send it over?", "themvi": "Anh/chị gửi tôi được không?", "you": "I've already sent it.", "youvi": "Tôi gửi rồi." }
+                  ],
+                  "close": { "en": "Let me know if anything's missing.", "vi": "Thiếu gì anh/chị báo tôi nhé." }
+                },
+                {
+                  "en": "I haven't finished yet.",
+                  "vi": "Tôi chưa xong.",
+                  "note": "BẪY SỐ HAI: <b>yet</b> chỉ dùng trong PHỦ ĐỊNH và CÂU HỎI, và luôn đứng CUỐI câu.",
+                  "reply": [
+                    { "them": "How much longer do you need?", "themvi": "Anh/chị cần thêm bao lâu?", "you": "Give me an hour.", "youvi": "Cho tôi một tiếng." }
+                  ],
+                  "vars": [
+                    { "en": "I still haven't finished.", "vi": "Tôi vẫn chưa xong." }
+                  ]
+                },
+                {
+                  "en": "She's just left — you've missed her by a minute.",
+                  "vi": "Cô ấy vừa đi — anh/chị lỡ đúng một phút.",
+                  "note": "<i>She's</i> ở đây là <i>She <b>has</b></i>, không phải <i>She is</i>. Hai cái nghe giống hệt nhau.",
+                  "reply": [
+                    { "them": "What a shame. I'll catch her later.", "themvi": "Tiếc quá. Lát tôi gặp cô ấy sau.", "you": "I'll tell her you came by.", "youvi": "Tôi sẽ nói cô ấy là anh/chị có ghé." }
+                  ]
+                },
+                {
+                  "en": "I still haven't heard back from them.",
+                  "vi": "Tôi vẫn chưa nhận được hồi âm của họ.",
+                  "note": "<b>still</b> đứng TRƯỚC <i>haven't</i> — nghe sốt ruột hơn hẳn so với dùng <i>yet</i>.",
+                  "reply": [
+                    { "them": "Shall I chase them up?", "themvi": "Để tôi giục họ nhé?", "you": "Please do.", "youvi": "Anh/chị giúp tôi với." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I've just heard the news.",
+                  "vi": "Mình vừa nghe tin.",
+                  "note": "V3 của <i>hear</i> là <b>heard</b> — trùng với V2 nên dễ nhớ.",
+                  "reply": [
+                    { "them": "I know, I couldn't believe it.", "themvi": "Mình biết, mình không tin nổi.", "you": "Neither could I.", "youvi": "Mình cũng vậy." }
+                  ],
+                  "close": { "en": "Let's talk properly later.", "vi": "Lát mình nói chuyện tử tế nhé." }
+                },
+                {
+                  "en": "I've just woken up, give me ten minutes.",
+                  "vi": "Mình vừa ngủ dậy, cho mình mười phút.",
+                  "note": "V3 là <b>woken</b>, không phải <i>woke</i>. <i>I've just woke up</i> ✗.",
+                  "reply": [
+                    { "them": "It's midday!", "themvi": "Trưa rồi đấy!", "you": "Don't judge me.", "youvi": "Đừng phán xét mình." }
+                  ]
+                },
+                {
+                  "en": "I've just got back from Da Nang.",
+                  "vi": "Mình vừa từ Đà Nẵng về.",
+                  "reply": [
+                    { "them": "How was it?", "themvi": "Thế nào?", "you": "Too short, as always.", "youvi": "Vẫn ngắn quá như mọi lần." }
+                  ],
+                  "vars": [
+                    { "en": "I've just been to Da Nang.", "vi": "Mình vừa đi Đà Nẵng về." }
+                  ]
+                },
+                {
+                  "en": "I finished it yesterday.",
+                  "vi": "Hôm qua mình làm xong.",
+                  "note": "Có MỐC quá khứ (<i>yesterday</i>) thì bắt buộc dùng QUÁ KHỨ ĐƠN. <i>I've just finished yesterday</i> ✗.",
+                  "reply": [
+                    { "them": "You didn't say!", "themvi": "Bạn có nói gì đâu!", "you": "I thought I had.", "youvi": "Mình tưởng mình nói rồi." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I've just eaten, thanks.",
+                  "vi": "Mình vừa ăn xong, cảm ơn.",
+                  "note": "V3 là <b>eaten</b>, KHÔNG phải <i>ate</i>. Đây là cách từ chối lời mời ăn rất lịch sự.",
+                  "reply": [
+                    { "them": "Not even a coffee?", "themvi": "Cà phê cũng không à?", "you": "Go on then, a small one.", "youvi": "Thôi được, ly nhỏ thôi." }
+                  ],
+                  "close": { "en": "That's very kind.", "vi": "Bạn tốt quá." }
+                },
+                {
+                  "en": "Have you eaten yet?",
+                  "vi": "Bạn ăn chưa?",
+                  "note": "Câu hỏi với <b>yet</b> ở CUỐI câu. Đây là câu hỏi thăm rất tự nhiên.",
+                  "reply": [
+                    { "them": "Not yet, actually.", "themvi": "Thật ra là chưa.", "you": "Then let's go now.", "youvi": "Vậy đi luôn đi." }
+                  ]
+                },
+                {
+                  "en": "I've just taken the last one, sorry.",
+                  "vi": "Xin lỗi, mình vừa lấy cái cuối cùng.",
+                  "note": "V3 là <b>taken</b>, không phải <i>took</i>.",
+                  "reply": [
+                    { "them": "No worries, I'll have something else.", "themvi": "Không sao, mình ăn món khác.", "you": "We can share it.", "youvi": "Mình chia nhau ăn cũng được." }
+                  ]
+                },
+                {
+                  "en": "I've already ordered for you.",
+                  "vi": "Mình gọi món cho bạn rồi.",
+                  "note": "<b>already</b> đứng GIỮA <i>have</i> và V3, dùng trong câu KHẲNG ĐỊNH.",
+                  "reply": [
+                    { "them": "You're a lifesaver. What did I get?", "themvi": "Bạn đúng là cứu tinh. Mình được món gì?", "you": "Your usual.", "youvi": "Món quen của bạn." }
+                  ],
+                  "vars": [
+                    { "en": "I've just ordered for you.", "vi": "Mình vừa gọi món cho bạn." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I've just been to the station to check.",
+                  "vi": "Mình vừa ra ga kiểm tra về.",
+                  "note": "<b>been to</b> = đã đi VÀ VỀ rồi. Nếu nói <i>gone to</i> thì nghĩa là đang ở đó, chưa về.",
+                  "reply": [
+                    { "them": "And?", "themvi": "Rồi sao?", "you": "The six o'clock is cancelled.", "youvi": "Chuyến sáu giờ bị hủy." }
+                  ],
+                  "close": { "en": "We'll take the later one.", "vi": "Mình đi chuyến sau vậy." }
+                },
+                {
+                  "en": "He's gone to get the tickets.",
+                  "vi": "Anh ấy đi lấy vé rồi.",
+                  "note": "<b>gone to</b> = ĐANG Ở ĐÓ, chưa về. Đặt thẳng cạnh <i>been to</i> để thấy rõ khác biệt.",
+                  "reply": [
+                    { "them": "How long has he been?", "themvi": "Anh ấy đi bao lâu rồi?", "you": "About ten minutes.", "youvi": "Khoảng mười phút." }
+                  ]
+                },
+                {
+                  "en": "I've only just arrived.",
+                  "vi": "Mình vừa mới đến thôi.",
+                  "note": "<b>only just</b> nhấn mạnh hơn <i>just</i> — ý là mới cực kỳ, chưa kịp làm gì.",
+                  "reply": [
+                    { "them": "Then you haven't unpacked yet?", "themvi": "Vậy bạn chưa mở vali à?", "you": "Not a thing.", "youvi": "Chưa gì cả." }
+                  ]
+                },
+                {
+                  "en": "Have you ever been to Hue?",
+                  "vi": "Bạn từng đến Huế chưa?",
+                  "note": "<b>ever</b> dùng trong câu hỏi về TRẢI NGHIỆM, đứng giữa <i>have</i> và V3.",
+                  "reply": [
+                    { "them": "I've never been, no.", "themvi": "Mình chưa từng đi.", "you": "You'd love it.", "youvi": "Bạn sẽ mê cho xem." }
+                  ],
+                  "vars": [
+                    { "en": "I've never been there.", "vi": "Mình chưa từng đến đó." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I've just seen this in the window.",
+                  "vi": "Tôi vừa thấy cái này ngoài tủ kính.",
+                  "note": "V3 là <b>seen</b>, không phải <i>saw</i>. <i>I've just saw</i> ✗.",
+                  "reply": [
+                    { "them": "That one's just come in.", "themvi": "Cái đó vừa mới về ạ.", "you": "Can I try it?", "youvi": "Tôi thử được không?" }
+                  ]
+                },
+                {
+                  "en": "I haven't decided yet.",
+                  "vi": "Tôi chưa quyết.",
+                  "note": "<b>yet</b> ở CUỐI câu phủ định. Câu này rất tiện khi cần thêm thời gian trong cửa hàng.",
+                  "reply": [
+                    { "them": "Take your time.", "themvi": "Anh/chị cứ thong thả ạ.", "you": "Thank you.", "youvi": "Cảm ơn em." }
+                  ]
+                },
+                {
+                  "en": "I've already paid for that one.",
+                  "vi": "Cái đó tôi thanh toán rồi.",
+                  "reply": [
+                    { "them": "Sorry, my mistake.", "themvi": "Em xin lỗi, em nhầm ạ.", "you": "No problem at all.", "youvi": "Không sao đâu em." }
+                  ],
+                  "vars": [
+                    { "en": "I've just paid for that one.", "vi": "Tôi vừa thanh toán cái đó." }
+                  ]
+                },
+                {
+                  "en": "Has my order arrived yet?",
+                  "vi": "Đơn hàng của tôi về chưa em?",
+                  "note": "Câu hỏi ngôi thứ ba: <i><b>Has</b> + it + V3 + yet?</i>",
+                  "reply": [
+                    { "them": "It's just come in this morning.", "themvi": "Sáng nay vừa về ạ.", "you": "Perfect timing.", "youvi": "Đúng lúc quá." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Báo cáo tiến độ với sếp",
+          "lines": [
+            { "speaker": "Manager", "en": "How's the report coming along?", "vi": "Báo cáo đến đâu rồi?" },
+            { "speaker": "You", "me": true, "en": "I've just finished it, actually.", "vi": "Thật ra tôi vừa xong." },
+            { "speaker": "Manager", "en": "Already? That was quick.", "vi": "Xong rồi á? Nhanh thật." },
+            { "speaker": "You", "me": true, "en": "I've already sent it to your inbox.", "vi": "Tôi gửi vào hộp thư của anh/chị rồi." },
+            { "speaker": "Manager", "en": "And the figures from finance?", "vi": "Còn số liệu từ kế toán?" },
+            { "speaker": "You", "me": true, "en": "I still haven't heard back from them.", "vi": "Tôi vẫn chưa nhận được hồi âm của họ." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Bạn ghé nhà không báo trước",
+          "lines": [
+            { "speaker": "Friend", "en": "Have you eaten yet?", "vi": "Bạn ăn chưa?" },
+            { "speaker": "You", "me": true, "en": "I've just eaten, thanks.", "vi": "Mình vừa ăn xong, cảm ơn." },
+            { "speaker": "Friend", "en": "Not even a coffee?", "vi": "Cà phê cũng không à?" },
+            { "speaker": "You", "me": true, "en": "Go on then. I've only just woken up anyway.", "vi": "Thôi được. Dù sao mình cũng vừa ngủ dậy." },
+            { "speaker": "Friend", "en": "It's midday!", "vi": "Trưa rồi đấy!" },
+            { "speaker": "You", "me": true, "en": "I've just got back from Da Nang — give me a break.", "vi": "Mình vừa từ Đà Nẵng về mà — tha cho mình đi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I've just <b>went</b> to the bank.", "right": "I've just <b>been</b> to the bank.", "why": "BẪY SỐ MỘT: sau <i>have</i> luôn là <b>V3</b>, không phải V2. Và <i>been to</i> mới có nghĩa “đã đi và về”." },
+            { "wrong": "I've just <b>ate</b>.", "right": "I've just <b>eaten</b>.", "why": "V3 của <i>eat</i> là <b>eaten</b>. Cùng lỗi với <i>saw/seen</i>, <i>took/taken</i>, <i>wrote/written</i>." },
+            { "wrong": "I have <b>yet</b> finished.", "right": "I haven't finished <b>yet</b>.", "why": "BẪY SỐ HAI: <b>yet</b> chỉ dùng trong phủ định và câu hỏi, và luôn đứng ở CUỐI câu." },
+            { "wrong": "I've just finished <b>yesterday</b>.", "right": "I finished it <b>yesterday</b>.", "why": "Thì hoàn thành KHÔNG đi với mốc quá khứ đã xong (<i>yesterday, last week, ago</i>). Phải dùng quá khứ đơn." },
+            { "wrong": "He's <b>been</b> to the bank — he'll be back in ten minutes.", "right": "He's <b>gone</b> to the bank.", "why": "<b>been to</b> = đã đi và VỀ RỒI. <b>gone to</b> = đang ở đó, chưa về. Câu này phải dùng <i>gone</i>." },
+            { "wrong": "I've <b>yet</b> eaten.", "right": "I've <b>already</b> eaten.", "why": "Câu khẳng định thì dùng <b>already</b>, đứng giữa <i>have</i> và V3." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Nghĩa", "Ví dụ"],
+          "rows": [
+            ["<code>I've just + V3</code>", "Vừa mới xong, còn nóng hổi", "I've just finished."],
+            ["<code>I've already + V3</code>", "Đã xong rồi, sớm hơn dự kiến", "I've already sent it."],
+            ["<code>I haven't + V3 + yet</code>", "Chưa xong", "I haven't finished yet."],
+            ["<code>I still haven't + V3</code>", "Vẫn chưa — nghe sốt ruột", "I still haven't heard back."],
+            ["<code>I've been V-ing for…</code>", "Kéo dài đến giờ. Xem [Khung 94]", "I've been waiting for an hour."],
+            ["<code>I + V2 + yesterday</code>", "Có mốc quá khứ cụ thể", "I finished it yesterday."],
+            ["<code>Have you ever + V3?</code>", "Hỏi về trải nghiệm cả đời", "Have you ever been to Hue?"]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ mới của một sự việc" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I've only just finished.", "vi": "Mới nhất — vừa xong giây lát" },
+            { "en": "I've just finished.", "vi": "Vừa xong" },
+            { "en": "I've already finished.", "vi": "Xong rồi, sớm hơn dự kiến" },
+            { "en": "I finished it this morning.", "vi": "Có mốc — sáng nay" },
+            { "en": "I finished it last week.", "vi": "Xa nhất — tuần trước" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>I've just</b> nối thành <b>“aiv-JƏST”</b> — âm /t/ cuối <i>just</i> thường biến mất trước phụ âm: “aiv-jəs-FI-nisht”.",
+            "<b>She's just</b> ở đây là <i>She <b>has</b></i>, nghe giống hệt <i>She is</i> — phải dựa vào V3 phía sau để phân biệt.",
+            "<b>Trọng âm rơi vào ĐỘNG TỪ V3</b>, không phải vào <i>just</i>: “aiv-jəst-<b>FI</b>-nisht”.",
+            "<b>already</b> nhấn âm giữa: <b>ol-RE-di</b>. Nhấn sai vào âm đầu nghe rất lạ.",
+            "<b>yet</b> ở cuối câu đọc rõ và hơi kéo dài — nó mang thông tin nên không lướt.",
+            "<b>eaten</b> đọc /ˈiːtən/ với âm /t/ nhẹ gần như /d/ ở giọng Mỹ: “II-dən”."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I've just finished the report.", "vi": "Luyện shadowing: “aiv-jəs-FI-nisht-ðə-ri-PORT”, nuốt /t/ ở just." },
+            { "en": "I haven't finished yet.", "vi": "Tập đọc rõ chữ yet ở cuối và hạ giọng xuống." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi vừa ăn xong.", "blank": "I've just __________.", "a": "eaten (V3, không phải “ate”)" },
+            { "vi": "Tôi vừa thấy anh ấy.", "blank": "I've just __________ him.", "a": "seen (V3, không phải “saw”)" },
+            { "vi": "Tôi chưa xong.", "blank": "I haven't finished __________.", "a": "yet (cuối câu)" },
+            { "vi": "Tôi gửi rồi.", "blank": "I've __________ sent it.", "a": "already" },
+            { "vi": "Tôi vẫn chưa nhận được hồi âm.", "blank": "I __________ haven't heard back.", "a": "still (trước “haven't”)" },
+            { "vi": "Tôi vừa ra ngân hàng về.", "blank": "I've just __________ to the bank.", "a": "been (đã đi và về)" },
+            { "vi": "Anh ấy ra ngân hàng rồi (chưa về).", "blank": "He's __________ to the bank.", "a": "gone" },
+            { "vi": "Hôm qua tôi làm xong.", "blank": "I __________ it yesterday.", "a": "finished (quá khứ đơn vì có mốc)" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi vừa làm xong báo cáo.", "a": "I've just finished the report." },
+            { "vi": "2. Mình vừa ăn xong, cảm ơn.", "a": "I've just eaten, thanks." },
+            { "vi": "3. Tôi vẫn chưa nhận được hồi âm của họ.", "a": "I still haven't heard back from them." },
+            { "vi": "4. Bạn ăn chưa?", "a": "Have you eaten yet?" },
+            { "vi": "5. Cô ấy vừa đi rồi.", "a": "She's just left." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Sau <i>have</i> luôn là V3.</b> Học thuộc bộ ba hay sai nhất: <i>eat–ate–<b>eaten</b></i>, <i>see–saw–<b>seen</b></i>, <i>take–took–<b>taken</b></i>.",
+            "<b>Ba từ ba chỗ:</b> <i>just</i> và <i>already</i> đứng giữa <i>have</i> và V3; <i>yet</i> đứng cuối câu phủ định hoặc câu hỏi.",
+            "<b>Có mốc quá khứ thì bỏ thì hoàn thành:</b> đã nói <i>yesterday</i> thì phải là <i>I finished it yesterday</i>.",
+            "<b>Cặp <i>been</i> / <i>gone</i>:</b> <i>been to</i> = đi và về rồi; <i>gone to</i> = đang ở đó.",
+            "<b>Muốn nghe sốt ruột thì dùng <i>still haven't</i></b> thay cho <i>yet</i> — nó mạnh hơn hẳn.",
+            "<b>Bài tập 3 phút:</b> viết năm việc bạn vừa làm trong một tiếng qua với <i>I've just…</i>, rồi đổi hai câu sang phủ định với <i>yet</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

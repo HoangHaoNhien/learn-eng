@@ -1,0 +1,496 @@
+{
+  "id": 52,
+  "group": "Nhóm 6 · Đồng ý & Phản đối",
+  "title": "That's a good point, but… — Khen luận điểm rồi phản biện",
+  "subtitle": "Đây là cách mở đường phản biện chuẩn mực nhất trong tiếng Anh công sở. Nó công nhận rằng lập luận của người kia có giá trị trước khi bạn đưa ra lý lẽ của mình. Nhưng có một cái bẫy tinh tế: chữ but đặt ngay sau lời khen có thể xóa sạch lời khen đó.",
+  "pattern": [
+    "That's a good point, but <em>+ mệnh đề</em>",
+    "That's a fair point. That said, <em>+ mệnh đề</em>",
+    "Point taken."
+  ],
+  "meaning": "Ý đó hay đấy, nhưng… / Ý đó hợp lý, tuy nhiên…",
+  "grammar": [15, 18, 32, 48],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 5/5" },
+    { "text": "Chuẩn mực trong công việc" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">That's a good point</span> công nhận rằng <b>luận điểm</b> của người kia có giá trị. Từ khóa ở đây là <i>point</i> — nó nghĩa là “ý, luận điểm”, chứ không phải “điểm số” hay “ý tưởng”." },
+        { "t": "p", "html": "Công dụng của nó là <b>mở đường cho phản biện</b>. Khi bạn công nhận trước, người nghe không cần phòng thủ và sẽ thật sự nghe lý lẽ của bạn. Nếu phản biện thẳng, họ sẽ bận bảo vệ ý mình thay vì nghe." },
+        { "t": "p", "html": "So với [Khung 53] vốn công nhận rằng bạn <b>hiểu</b>, khung này công nhận rằng ý kia <b>có giá trị</b>. Nó nghiêng về lý lẽ hơn là cảm thông — nên rất hợp với họp hành, tranh luận, email công việc." },
+        { "t": "callout", "html": "<b>BẪY TINH TẾ:</b> chữ <span class=\"k\">but</span> đặt ngay sau lời khen có thể <b>xóa sạch lời khen</b> — người nghe chỉ nhớ phần sau. Cách chữa: tách thành hai câu và dùng <i>That said</i> hoặc <i>Having said that</i>." },
+        { "t": "h3", "text": "Ba mức công nhận" },
+        {
+          "t": "table",
+          "head": ["Câu", "Mức công nhận", "Sắc thái"],
+          "rows": [
+            ["<code>That's a fair point.</code>", "Hợp lý", "Trung tính — phổ biến nhất trong công việc"],
+            ["<code>That's a good point.</code>", "Hay", "Ấm hơn một chút"],
+            ["<code>That's a very good point.</code>", "Rất hay", "Khen thật lòng"],
+            ["<code>Point taken.</code>", "Tôi tiếp thu", "Ngắn, dứt khoát, thường khép lại tranh luận"]
+          ]
+        },
+        { "t": "callout", "html": "<b>“point” khác “idea”.</b> <i>That's a good point</i> = luận điểm của bạn có lý. <i>That's a good idea</i> = đề xuất của bạn hay, nên làm. Người Việt hay dùng nhầm hai câu này." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "⚖️", "title": "Mở đường phản biện trong họp", "text": "Bối cảnh số 1. <i>That's a fair point. That said, the cost is real.</i>" },
+            { "icon": "📧", "title": "Trả lời email góp ý", "text": "<i>That's a good point — I'll look into it.</i> Ghi nhận mà chưa cam kết." },
+            { "icon": "🤝", "title": "Nhượng bộ giữa chừng", "text": "<i>Point taken.</i> Khép lại một nhánh tranh luận." },
+            { "icon": "🧠", "title": "Công nhận thật lòng", "text": "<i>That's a very good point. I hadn't thought of that.</i>" },
+            { "icon": "🔄", "title": "Chuyển hướng bàn luận", "text": "<i>Good point. But let's come back to the main issue.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn hoàn toàn đồng ý. Ở đó dùng [Khung 51] — nói <i>good point</i> rồi im nghe như đang chuẩn bị phản đối." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Chuẩn", "<code>That's a good point, but + mệnh đề</code>", "That's a good point, but it costs more."],
+            ["Mềm hơn — tách câu", "<code>That's a fair point. That said, …</code>", "That's a fair point. That said, we're out of time."],
+            ["Trang trọng", "<code>…, however, + mệnh đề</code>", "A fair point; however, the data says otherwise."],
+            ["Kiểu Anh-Anh", "<code>Having said that, + mệnh đề</code>", "Having said that, I still prefer option A."],
+            ["Công nhận người nói", "<code>You have a point.</code>", "You have a point there."],
+            ["Tiếp thu", "<code>Point taken.</code>", "Point taken. I'll revise it."],
+            ["Ngắn gọn", "<code>Good point.</code>", "Good point — let me check."],
+            ["Trang trọng hơn", "<code>That's a valid point.</code>", "That's a valid point."],
+            ["Thừa nhận thiếu sót", "<code>I hadn't thought of that.</code>", "I hadn't thought of that, actually."],
+            ["Nói ý đó lạc đề", "<code>That's beside the point.</code>", "With respect, that's beside the point."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Công thức mềm nhất:</b> <span class=\"k\">That's a fair point. That said, …</span> Tách thành <b>hai câu</b> khiến lời công nhận đứng độc lập, không bị chữ <i>but</i> nuốt mất." },
+        { "t": "callout", "html": "<b>Hai thành ngữ cần biết:</b> <i>miss the point</i> = hiểu sai trọng tâm; <i>beside the point</i> = lạc đề, không liên quan. Cả hai đều khá nặng — chỉ dùng khi cần thiết." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các cách công nhận",
+              "items": [
+                { "w": "That's a fair point", "vi": "ý đó hợp lý", "ex": "That's a fair point, actually.", "exvi": "Thật ra ý đó hợp lý đấy.", "note": "Dạng phổ biến NHẤT trong công việc — trung tính, không quá nồng nhiệt." },
+                { "w": "That's a good point", "vi": "ý đó hay đấy", "ex": "That's a good point.", "exvi": "Ý đó hay đấy." },
+                { "w": "That's a very good point", "vi": "ý đó rất hay", "ex": "That's a very good point.", "exvi": "Ý đó rất hay." },
+                { "w": "That's a valid point", "vi": "ý đó xác đáng", "ex": "That's a valid point to raise.", "exvi": "Đó là một ý xác đáng để nêu ra.", "note": "Trang trọng hơn — hợp email và biên bản họp." },
+                { "w": "You have a point", "vi": "bạn nói có lý", "ex": "You have a point there.", "exvi": "Chỗ đó bạn nói có lý." },
+                { "w": "You've got a point", "vi": "bạn nói có lý", "ex": "You've got a point, I admit.", "exvi": "Tôi công nhận bạn nói có lý.", "note": "Thân mật hơn <i>you have a point</i>, rất tự nhiên khi nói." },
+                { "w": "Good point", "vi": "ý hay", "ex": "Good point — let me check.", "exvi": "Ý hay — để tôi kiểm tra.", "note": "Bỏ <i>That's a</i> để nói nhanh trong hội thoại." },
+                { "w": "Point taken", "vi": "tôi tiếp thu", "ex": "Point taken. I'll revise it.", "exvi": "Tôi tiếp thu. Tôi sẽ sửa lại.", "note": "Ngắn và dứt khoát — thường dùng để KHÉP LẠI một nhánh tranh luận." },
+                { "w": "I take your point", "vi": "tôi tiếp thu ý đó", "ex": "I take your point, but the cost is real.", "exvi": "Tôi tiếp thu ý đó, nhưng chi phí là có thật." },
+                { "w": "I hadn't thought of that", "vi": "tôi chưa nghĩ đến điều đó", "ex": "I hadn't thought of that, actually.", "exvi": "Thật ra tôi chưa nghĩ đến điều đó.", "note": "Thừa nhận thiếu sót một cách chân thành — rất được lòng người nghe." },
+                { "w": "Fair enough", "vi": "cũng có lý", "ex": "Fair enough. Let's try it your way.", "exvi": "Cũng có lý. Thử theo cách bạn đi." },
+                { "w": "I can't argue with that", "vi": "tôi không cãi được", "ex": "I can't argue with that.", "exvi": "Chỗ đó tôi không cãi được.", "note": "Công nhận kiểu đầu hàng vui vẻ — thân mật." }
+              ]
+            },
+            {
+              "title": "Các cách nối sang phản biện",
+              "items": [
+                { "w": "but", "vi": "nhưng", "ex": "That's a good point, but it costs more.", "exvi": "Ý đó hay đấy, nhưng tốn hơn.", "note": "BẪY: <i>but</i> ngay sau lời khen dễ xóa sạch lời khen. Tách câu thì mềm hơn." },
+                { "w": "That said,", "vi": "tuy vậy", "ex": "That's a fair point. That said, we're out of time.", "exvi": "Ý đó hợp lý. Tuy vậy, mình hết thời gian rồi.", "note": "Cách nối MỀM NHẤT — để lời công nhận đứng độc lập ở câu trước." },
+                { "w": "Having said that,", "vi": "dù vậy thì", "ex": "Having said that, I still prefer option A.", "exvi": "Dù vậy thì tôi vẫn thích phương án A hơn.", "note": "Mang màu Anh-Anh, hơi trang trọng." },
+                { "w": "however", "vi": "tuy nhiên", "ex": "A valid point; however, the data says otherwise.", "exvi": "Một ý xác đáng; tuy nhiên số liệu lại nói khác.", "note": "Trang trọng nhất — hợp văn viết, báo cáo." },
+                { "w": "at the same time", "vi": "đồng thời thì", "ex": "At the same time, we have a deadline.", "exvi": "Đồng thời thì mình có hạn chót." },
+                { "w": "on the other hand", "vi": "mặt khác", "ex": "On the other hand, it saves us a week.", "exvi": "Mặt khác, nó tiết kiệm cho mình một tuần.", "note": "Dùng khi nêu mặt đối lập — không nhất thiết phản đối." },
+                { "w": "even so", "vi": "dù vậy", "ex": "Even so, I'd rather wait.", "exvi": "Dù vậy, tôi vẫn muốn đợi." },
+                { "w": "the thing is", "vi": "vấn đề là", "ex": "The thing is, we've already paid.", "exvi": "Vấn đề là mình đã trả tiền rồi.", "note": "Dẫn vào trở ngại chính — rất tự nhiên khi nói." },
+                { "w": "my only concern is", "vi": "điều tôi lo duy nhất là", "ex": "My only concern is the timing.", "exvi": "Điều tôi lo duy nhất là thời điểm.", "note": "Phản biện cực nhẹ — giới hạn sự phản đối vào một điểm." },
+                { "w": "where I'd push back is", "vi": "chỗ tôi muốn phản biện là", "ex": "Where I'd push back is the budget.", "exvi": "Chỗ tôi muốn phản biện là ngân sách.", "note": "<i>push back</i> = phản biện. Rất phổ biến trong tiếng Anh công sở." },
+                { "w": "that's beside the point", "vi": "cái đó lạc đề", "ex": "With respect, that's beside the point.", "exvi": "Xin phép nói, cái đó lạc đề rồi.", "note": "Khá nặng — nói rằng ý kia không liên quan." },
+                { "w": "you're missing the point", "vi": "bạn hiểu sai trọng tâm", "ex": "I think you're missing the point.", "exvi": "Tôi nghĩ bạn đang hiểu sai trọng tâm.", "note": "RẤT nặng — gần như trách móc. Dùng cực kỳ hạn chế." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "Glad you think so", "vi": "may là bạn thấy vậy", "ex": "Glad you think so.", "exvi": "May là anh/chị thấy vậy." },
+                { "w": "What's your concern?", "vi": "anh/chị lo điều gì?", "ex": "What's your concern exactly?", "exvi": "Anh/chị lo cụ thể điều gì ạ?", "note": "Mời người kia nói rõ phần phản biện — rất chuyên nghiệp." },
+                { "w": "Let's hear it", "vi": "nói tiếp đi", "ex": "Let's hear it.", "exvi": "Nói tiếp đi." },
+                { "w": "I thought you'd say that", "vi": "tôi đoán bạn sẽ nói vậy", "ex": "I thought you'd say that.", "exvi": "Tôi đoán anh/chị sẽ nói vậy." },
+                { "w": "So where does that leave us?", "vi": "vậy giờ mình tính sao?", "ex": "So where does that leave us?", "exvi": "Vậy giờ mình tính sao?", "note": "Kéo cuộc bàn luận về hướng hành động." },
+                { "w": "Noted", "vi": "đã ghi nhận", "ex": "Noted, thanks.", "exvi": "Đã ghi nhận, cảm ơn.", "note": "Ngắn gọn kiểu công sở. Cẩn thận: nói cộc lốc dễ nghe lạnh lùng." },
+                { "w": "Let me think about it", "vi": "để tôi nghĩ đã", "ex": "Let me think about it overnight.", "exvi": "Để tôi nghĩ qua đêm đã." },
+                { "w": "Can we park that?", "vi": "gác lại được không?", "ex": "Can we park that for now?", "exvi": "Giờ mình gác lại chuyện đó được không?", "note": "<i>park</i> = tạm gác lại. Thành ngữ công sở rất phổ biến." },
+                { "w": "Anything else?", "vi": "còn gì nữa không?", "ex": "Anything else you'd flag?", "exvi": "Anh/chị còn muốn nêu gì nữa không?" },
+                { "w": "That's exactly it", "vi": "đúng y như vậy", "ex": "That's exactly it.", "exvi": "Đúng y như vậy." },
+                { "w": "I'll look into it", "vi": "tôi sẽ tìm hiểu", "ex": "I'll look into it and report back.", "exvi": "Tôi sẽ tìm hiểu rồi báo lại." },
+                { "w": "Let's move on", "vi": "mình đi tiếp nhé", "ex": "Let's move on to the next item.", "exvi": "Mình sang mục tiếp theo nhé." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "That's a fair point. That said, we're out of time.",
+                  "vi": "Ý đó hợp lý. Tuy vậy, mình hết thời gian rồi.",
+                  "note": "Cách nối mềm nhất — tách thành <b>hai câu</b> để lời công nhận không bị chữ <i>but</i> nuốt mất.",
+                  "open": { "en": "Can I respond to that?", "vi": "Cho tôi phản hồi ý đó được không?" },
+                  "reply": [
+                    { "them": "So where does that leave us?", "themvi": "Vậy giờ mình tính sao?", "you": "We ship what's ready and fix the rest.", "youvi": "Mình phát hành phần đã xong, phần còn lại sửa sau." },
+                    { "them": "What's your concern exactly?", "themvi": "Anh/chị lo cụ thể điều gì?", "you": "My only concern is the testing.", "youvi": "Điều tôi lo duy nhất là khâu kiểm thử." }
+                  ],
+                  "close": { "en": "Let's move on to the next item.", "vi": "Mình sang mục tiếp theo nhé." }
+                },
+                {
+                  "en": "Point taken. I'll revise it.",
+                  "vi": "Tôi tiếp thu. Tôi sẽ sửa lại.",
+                  "note": "Hai từ ngắn gọn — dùng để <b>khép lại</b> một nhánh tranh luận thay vì kéo dài.",
+                  "reply": [
+                    { "them": "Thanks for taking it on board.", "themvi": "Cảm ơn anh/chị đã tiếp thu.", "you": "You were right to flag it.", "youvi": "Anh/chị nêu ra là đúng." }
+                  ],
+                  "vars": [
+                    { "en": "Fair enough — I'll rework that section.", "vi": "Cũng có lý — tôi làm lại phần đó." }
+                  ]
+                },
+                {
+                  "en": "That's a very good point. I hadn't thought of that.",
+                  "vi": "Ý đó rất hay. Tôi chưa nghĩ đến điều đó.",
+                  "note": "Thừa nhận thiếu sót một cách chân thành — cực kỳ được lòng người nghe.",
+                  "reply": [
+                    { "them": "Glad it's useful.", "themvi": "May là có ích.", "you": "Can we add it to the plan?", "youvi": "Mình thêm vào kế hoạch nhé?" }
+                  ]
+                },
+                {
+                  "en": "Where I'd push back is the budget.",
+                  "vi": "Chỗ tôi muốn phản biện là ngân sách.",
+                  "note": "<span class=\"k\">push back</span> = phản biện. Rất phổ biến trong tiếng Anh công sở và nghe rất chuyên nghiệp.",
+                  "reply": [
+                    { "them": "Let's hear it.", "themvi": "Nói tiếp đi.", "you": "We'd be forty percent over.", "youvi": "Mình sẽ vượt bốn mươi phần trăm." }
+                  ],
+                  "close": { "en": "Can we park that for now?", "vi": "Giờ mình gác lại chuyện đó được không?" }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "That's a good point, but I still prefer the smaller one.",
+                  "vi": "Ý đó hay đấy, nhưng tôi vẫn thích cái nhỏ hơn.",
+                  "reply": [
+                    { "them": "May I ask why?", "themvi": "Em hỏi vì sao được không ạ?", "you": "It fits the space better.", "youvi": "Nó vừa chỗ hơn." }
+                  ]
+                },
+                {
+                  "en": "You have a point about the warranty.",
+                  "vi": "Anh/chị nói có lý về khoản bảo hành.",
+                  "note": "Công nhận cụ thể một điểm — nghe chân thành hơn là khen chung chung.",
+                  "reply": [
+                    { "them": "It's the main difference between the two.", "themvi": "Đó là khác biệt chính giữa hai mẫu ạ.", "you": "Then I'll take the longer cover.", "youvi": "Vậy tôi lấy bản bảo hành dài hơn." }
+                  ],
+                  "vars": [
+                    { "en": "You've got a point, I admit.", "vi": "Tôi công nhận anh/chị nói có lý." }
+                  ]
+                },
+                {
+                  "en": "Fair enough. The thing is, it's over my budget.",
+                  "vi": "Cũng có lý. Vấn đề là nó vượt ngân sách của tôi.",
+                  "note": "<i>The thing is</i> dẫn vào trở ngại chính — rất tự nhiên khi nói.",
+                  "reply": [
+                    { "them": "We have a payment plan.", "themvi": "Bên em có trả góp ạ.", "you": "That could work, actually.", "youvi": "Thật ra vậy có thể được." }
+                  ]
+                },
+                {
+                  "en": "Good point — let me check the size first.",
+                  "vi": "Ý hay — để tôi kiểm tra cỡ trước đã.",
+                  "reply": [
+                    { "them": "Take your time.", "themvi": "Anh/chị cứ thong thả ạ.", "you": "I'll measure when I get home.", "youvi": "Về nhà tôi đo rồi báo lại." }
+                  ],
+                  "close": { "en": "I'll come back tomorrow.", "vi": "Mai tôi quay lại." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "You've got a point, I admit.",
+                  "vi": "Mình công nhận bạn nói có lý.",
+                  "reply": [
+                    { "them": "So you'll come?", "themvi": "Vậy bạn đi chứ?", "you": "I didn't say that.", "youvi": "Mình đâu có nói vậy." }
+                  ]
+                },
+                {
+                  "en": "That's a fair point. Having said that, I'd still rather stay in.",
+                  "vi": "Ý đó hợp lý. Dù vậy thì mình vẫn thích ở nhà hơn.",
+                  "note": "<i>Having said that</i> mang màu Anh-Anh, hơi trang trọng nhưng vẫn dùng được khi trò chuyện.",
+                  "reply": [
+                    { "them": "You always say that.", "themvi": "Lúc nào bạn cũng nói vậy.", "you": "And I'm always right.", "youvi": "Và lúc nào mình cũng đúng." }
+                  ]
+                },
+                {
+                  "en": "I can't argue with that.",
+                  "vi": "Chỗ đó mình không cãi được.",
+                  "note": "Công nhận kiểu đầu hàng vui vẻ — thân mật và nhẹ nhàng.",
+                  "reply": [
+                    { "them": "Finally!", "themvi": "Cuối cùng cũng chịu!", "you": "Don't get used to it.", "youvi": "Đừng quen nhé." }
+                  ],
+                  "vars": [
+                    { "en": "Point taken.", "vi": "Mình tiếp thu." }
+                  ]
+                },
+                {
+                  "en": "That's a good point. My only concern is the cost.",
+                  "vi": "Ý đó hay đấy. Điều mình lo duy nhất là chi phí.",
+                  "note": "<i>My only concern is…</i> giới hạn sự phản đối vào <b>một điểm duy nhất</b> — nghe rất xây dựng.",
+                  "reply": [
+                    { "them": "We can split it four ways.", "themvi": "Mình chia bốn người là được.", "you": "Then I'm in.", "youvi": "Vậy mình tham gia." }
+                  ],
+                  "close": { "en": "Let's book it tonight.", "vi": "Tối nay đặt luôn đi." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "That's a fair point. On the other hand, the train is cheaper.",
+                  "vi": "Ý đó hợp lý. Mặt khác, đi tàu rẻ hơn.",
+                  "note": "<i>On the other hand</i> nêu mặt đối lập mà không nhất thiết là phản đối.",
+                  "reply": [
+                    { "them": "How much cheaper?", "themvi": "Rẻ hơn bao nhiêu?", "you": "About half, for two of us.", "youvi": "Khoảng một nửa, cho hai người." }
+                  ]
+                },
+                {
+                  "en": "Good point. I hadn't checked the weather.",
+                  "vi": "Ý hay. Mình chưa xem dự báo thời tiết.",
+                  "reply": [
+                    { "them": "Rain all Thursday, apparently.", "themvi": "Nghe nói mưa cả ngày thứ Năm.", "you": "Then let's swap the days around.", "youvi": "Vậy mình đảo ngày đi." }
+                  ]
+                },
+                {
+                  "en": "That's a valid point, but we've already paid the deposit.",
+                  "vi": "Đó là ý xác đáng, nhưng mình đã trả tiền cọc rồi.",
+                  "reply": [
+                    { "them": "Is it refundable?", "themvi": "Có hoàn lại được không?", "you": "Half of it, up to a week before.", "youvi": "Một nửa, nếu báo trước một tuần." }
+                  ],
+                  "vars": [
+                    { "en": "The thing is, we've already paid.", "vi": "Vấn đề là mình đã trả tiền rồi." }
+                  ]
+                },
+                {
+                  "en": "Point taken — let's leave an hour earlier.",
+                  "vi": "Mình tiếp thu — đi sớm hơn một tiếng nhé.",
+                  "reply": [
+                    { "them": "Much safer.", "themvi": "An toàn hơn nhiều.", "you": "I'll set two alarms.", "youvi": "Mình để hai chuông." }
+                  ],
+                  "close": { "en": "See you at six, then.", "vi": "Vậy sáu giờ gặp." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "That's a good point — it is quite far.",
+                  "vi": "Ý đó hay đấy — đúng là khá xa.",
+                  "reply": [
+                    { "them": "Shall we find somewhere closer?", "themvi": "Hay mình tìm chỗ gần hơn?", "you": "There's a place around the corner.", "youvi": "Có một quán ngay góc phố." }
+                  ]
+                },
+                {
+                  "en": "Fair point. That said, the food there is worth the trip.",
+                  "vi": "Ý hợp lý. Tuy vậy, đồ ăn ở đó đáng để đi xa.",
+                  "reply": [
+                    { "them": "You've convinced me.", "themvi": "Bạn thuyết phục được mình rồi.", "you": "You won't regret it.", "youvi": "Bạn sẽ không hối tiếc đâu." }
+                  ]
+                },
+                {
+                  "en": "You have a point about the portions.",
+                  "vi": "Bạn nói có lý về khẩu phần.",
+                  "note": "Công nhận đúng một điểm cụ thể — chân thành hơn khen chung chung.",
+                  "reply": [
+                    { "them": "We could share two mains.", "themvi": "Mình gọi hai món chính ăn chung nhé.", "you": "Perfect — and one starter.", "youvi": "Chuẩn — thêm một món khai vị." }
+                  ],
+                  "vars": [
+                    { "en": "Good point — let's share.", "vi": "Ý hay — ăn chung đi." }
+                  ]
+                },
+                {
+                  "en": "That's a fair point, but I'm not that hungry.",
+                  "vi": "Ý đó hợp lý, nhưng mình không đói lắm.",
+                  "reply": [
+                    { "them": "Just get a starter then.", "themvi": "Vậy gọi món khai vị thôi.", "you": "Good idea.", "youvi": "Ý hay." }
+                  ],
+                  "close": { "en": "I'll pick at yours.", "vi": "Mình ăn ké bạn." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Phản biện một đề xuất trong cuộc họp",
+          "lines": [
+            { "speaker": "Colleague", "en": "If we launch now, we beat the competition.", "vi": "Nếu ra mắt bây giờ, mình vượt đối thủ." },
+            { "speaker": "You", "me": true, "en": "That's a fair point. That said, the testing isn't finished.", "vi": "Ý đó hợp lý. Tuy vậy, khâu kiểm thử chưa xong." },
+            { "speaker": "Colleague", "en": "What's your concern exactly?", "vi": "Anh/chị lo cụ thể điều gì?" },
+            { "speaker": "You", "me": true, "en": "Where I'd push back is the payment flow. My only concern is that one part.", "vi": "Chỗ tôi muốn phản biện là luồng thanh toán. Tôi chỉ lo mỗi phần đó." },
+            { "speaker": "Colleague", "en": "Point taken. Could we launch without it?", "vi": "Tôi tiếp thu. Mình ra mắt mà chưa có phần đó được không?" },
+            { "speaker": "You", "me": true, "en": "That's a very good point. I hadn't thought of that.", "vi": "Ý đó rất hay. Tôi chưa nghĩ đến điều đó." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Bàn chỗ ăn tối với bạn",
+          "lines": [
+            { "speaker": "Ly", "en": "That new place is meant to be amazing.", "vi": "Nghe nói quán mới đó ngon lắm." },
+            { "speaker": "You", "me": true, "en": "Good point — but it's quite far, isn't it?", "vi": "Ý hay — nhưng khá xa, đúng không?" },
+            { "speaker": "Ly", "en": "Twenty minutes by taxi.", "vi": "Hai mươi phút taxi." },
+            { "speaker": "You", "me": true, "en": "That's a fair point. That said, the taxi costs as much as dinner.", "vi": "Ý đó hợp lý. Tuy vậy, tiền taxi bằng tiền bữa ăn luôn." },
+            { "speaker": "Ly", "en": "I can't argue with that.", "vi": "Chỗ đó mình không cãi được." },
+            { "speaker": "You", "me": true, "en": "Point taken though — let's go next weekend instead.", "vi": "Nhưng mình tiếp thu ý bạn — cuối tuần sau mình đi nhé." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "That's a good idea, but it costs more. <i>(ý: luận điểm của bạn có lý)</i>", "right": "That's a good point, but it costs more.", "why": "<b>point</b> = luận điểm, lý lẽ. <b>idea</b> = đề xuất, việc nên làm. Người Việt hay dùng nhầm hai từ này." },
+            { "wrong": "It's a good point, but…", "right": "That's a good point, but…", "why": "Dùng <b>That's</b> để trỏ tới điều người kia vừa nói. <i>It's</i> nghe lơ lửng, không rõ trỏ vào đâu." },
+            { "wrong": "That's a good point but however it costs more.", "right": "That's a good point. However, it costs more.", "why": "Không dùng <b>but</b> và <b>however</b> cùng lúc — thừa. Chọn một, và <i>however</i> thì tách câu." },
+            { "wrong": "That's a very good point, but you are completely wrong.", "right": "That's a very good point. That said, I see it differently.", "why": "Khen rồi bác bỏ thẳng thì lời khen thành mỉa mai. Giữ phần sau cũng nhã như phần đầu." },
+            { "wrong": "You have point.", "right": "You have a point.", "why": "Thiếu mạo từ <b>a</b>. <i>point</i> ở đây là danh từ đếm được." },
+            { "wrong": "That's a good point. <i>(rồi im lặng, khi bạn hoàn toàn đồng ý)</i>", "right": "I completely agree.", "why": "Câu này ngầm báo hiệu sắp có chữ <i>but</i>. Nếu đồng ý hoàn toàn, hãy dùng [Khung 51]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Công nhận điều gì", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>That's a good point, but…</code>", "Luận điểm có giá trị", "<i>That's a fair point, but…</i> Họp, tranh luận."],
+            ["<code>I see what you mean, but…</code>", "Tôi hiểu ý bạn", "<i>I see what you mean, but…</i> Xem [Khung 53]."],
+            ["<code>I take your point, but…</code>", "Tôi tiếp thu", "<i>I take your point, but…</i> Nhượng bộ một phần."],
+            ["<code>Fair enough, but…</code>", "Chấp nhận, hơi thân mật", "<i>Fair enough, but…</i> Trò chuyện."],
+            ["<code>I agree up to a point.</code>", "Đồng ý một phần", "<i>I agree up to a point.</i> Xem [Khung 51]."],
+            ["<code>I'm afraid I disagree.</code>", "Không công nhận — phản đối thẳng", "<i>I'm afraid I disagree.</i> Xem [Khung 54]."],
+            ["<code>That's beside the point.</code>", "Ý đó lạc đề", "<i>That's beside the point.</i> Khá nặng."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — phản biện một đề xuất" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "That's a good point. My only concern is the cost.", "vi": "Nhẹ nhất — giới hạn phản đối vào một điểm" },
+            { "en": "That's a fair point. That said, we're out of time.", "vi": "Công nhận rồi phản biện — chuẩn mực" },
+            { "en": "I take your point, but I see it differently.", "vi": "Nhượng bộ rồi giữ lập trường" },
+            { "en": "I'm afraid I disagree.", "vi": "Phản đối rõ. Xem [Khung 54]" },
+            { "en": "I think you're missing the point.", "vi": "Rất nặng — gần như trách móc" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>That's a</b> nói nhanh dính thành <b>“thæt-sə”</b> — âm /s/ nối sang mạo từ <i>a</i>.",
+            "Trọng âm rơi vào <b>GOOD</b> và <b>POINT</b>: <i>That's a</i> <b>GOOD</b> <b>POINT</b>.",
+            "<b>point</b> là <b>/pɔɪnt/</b> — nguyên âm đôi /ɔɪ/ như trong <i>boy</i>, đuôi /nt/ đọc gọn.",
+            "<b>good point</b> → âm /d/ cuối <i>good</i> gần như biến mất, nghe như <b>“gu-POINT”</b>.",
+            "<b>Ngừng một nhịp sau “point”</b> trước khi nói <i>but</i> — chỗ ngừng đó khiến lời công nhận nghe thật lòng.",
+            "<b>Point taken</b> → “poin-TAY-kən”, âm /t/ cuối <i>point</i> nối sang <i>taken</i>."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "That's a fair point. That said, we're out of time.", "vi": "Luyện shadowing: ngừng rõ giữa hai câu, đừng nói liền một hơi." },
+            { "en": "Point taken. I'll revise it.", "vi": "Tập nối “poin-TAY-kən” và hạ giọng dứt khoát." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Ý đó hợp lý đấy.", "blank": "That's a __________ point.", "a": "fair / good" },
+            { "vi": "Ý đó hợp lý. Tuy vậy, mình hết thời gian rồi.", "blank": "That's a fair point. __________, we're out of time.", "a": "That said" },
+            { "vi": "Tôi tiếp thu. Tôi sẽ sửa lại.", "blank": "__________. I'll revise it.", "a": "Point taken" },
+            { "vi": "Chỗ đó bạn nói có lý.", "blank": "You __________ there.", "a": "have a point (nhớ mạo từ “a”)" },
+            { "vi": "Chỗ tôi muốn phản biện là ngân sách.", "blank": "Where I'd __________ is the budget.", "a": "push back" },
+            { "vi": "Điều tôi lo duy nhất là thời điểm.", "blank": "__________ is the timing.", "a": "My only concern" },
+            { "vi": "Dù vậy thì tôi vẫn thích phương án A hơn.", "blank": "__________, I still prefer option A.", "a": "Having said that" },
+            { "vi": "Thật ra tôi chưa nghĩ đến điều đó.", "blank": "__________, actually.", "a": "I hadn't thought of that" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Ý đó hợp lý. Tuy vậy, khâu kiểm thử chưa xong.", "a": "That's a fair point. That said, the testing isn't finished." },
+            { "vi": "2. Ý đó rất hay. Tôi chưa nghĩ đến điều đó.", "a": "That's a very good point. I hadn't thought of that." },
+            { "vi": "3. Chỗ tôi muốn phản biện là ngân sách.", "a": "Where I'd push back is the budget." },
+            { "vi": "4. Ý đó hay đấy. Điều mình lo duy nhất là chi phí.", "a": "That's a good point. My only concern is the cost." },
+            { "vi": "5. Đó là ý xác đáng, nhưng mình đã trả tiền cọc rồi.", "a": "That's a valid point, but we've already paid the deposit." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Tách thành hai câu để lời khen không bị nuốt:</b> <i>That's a fair point. That said, …</i> mềm hơn hẳn so với nối bằng <i>but</i>.",
+            "<b>Nhớ “point” khác “idea”:</b> <i>point</i> là luận điểm, <i>idea</i> là đề xuất. Dùng nhầm là đổi hẳn nghĩa.",
+            "<b>Dùng “My only concern is…” khi muốn phản biện nhẹ nhất</b> — nó giới hạn sự phản đối vào đúng một điểm.",
+            "<b>Học cụm “push back”</b> — <i>Where I'd push back is…</i> nghe rất chuyên nghiệp trong tiếng Anh công sở.",
+            "<b>Đừng dùng khi bạn hoàn toàn đồng ý.</b> Câu này ngầm báo hiệu sắp có chữ <i>but</i>; nếu đồng ý thật thì dùng [Khung 51].",
+            "<b>Bài tập 3 phút:</b> lấy 5 ý kiến bạn từng muốn phản bác, viết mỗi câu theo công thức <i>That's a fair point. That said, …</i> rồi đọc to."
+          ]
+        }
+      ]
+    }
+  ]
+}

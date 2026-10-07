@@ -1,0 +1,492 @@
+{
+  "id": 45,
+  "group": "Nhóm 5 · Ý kiến & Quan điểm",
+  "title": "As far as I know… — Biết đến đâu nói đến đó",
+  "subtitle": "Khung câu để trả lời khi bạn có thông tin nhưng không dám bảo đảm nó còn đúng. Nó vẽ ra một đường biên quanh hiểu biết của bạn: trong đường biên đó tôi nói thật, ngoài đường biên đó tôi không chịu trách nhiệm. Đây là câu cứu mạng khi phải trả lời thay người khác.",
+  "pattern": [
+    "As far as I know, <em>+ mệnh đề</em>",
+    "As far as I'm aware, <em>+ mệnh đề</em>",
+    "Not that I know of."
+  ],
+  "meaning": "Theo như tôi biết… / Theo chỗ tôi nắm được…",
+  "grammar": [30, 38],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Rất hữu dụng trong công việc" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">As far as I know</span> làm một việc rất cụ thể: nó <b>vẽ đường biên quanh hiểu biết của bạn</b>. Bạn nói thông tin mình có, đồng thời báo trước rằng có thể đã có thay đổi mà bạn chưa nắm." },
+        { "t": "p", "html": "Đây là <b>câu cứu mạng khi trả lời thay người khác</b>. <i>The office closes at six.</i> — nếu sai, bạn chịu trách nhiệm. <i>As far as I know, the office closes at six.</i> — nếu sai, không ai trách bạn cả." },
+        { "t": "p", "html": "Khác với [Khung 41] và [Khung 43] vốn nói về <b>mức độ tin</b>, khung này nói về <b>nguồn thông tin</b>: tôi có nghe, có đọc, có biết — nhưng chỉ đến chừng đó thôi. Vì thế nó nghe trung thực chứ không phải thiếu tự tin." },
+        { "t": "callout", "html": "<b>BẪY của người Việt:</b> “theo hiểu biết của tôi” dịch là <span class=\"k\">to my knowledge</span>, KHÔNG phải <i>in my knowledge</i> ✗. Và <i>So far I know</i> ✗ cũng sai — <i>so far</i> nghĩa là “cho đến nay”, hoàn toàn khác." },
+        { "t": "h3", "text": "Các mức giới hạn hiểu biết" },
+        {
+          "t": "table",
+          "head": ["Câu", "Ý ngầm", "Sắc thái"],
+          "rows": [
+            ["<code>As far as I know, it's free.</code>", "Tôi có nắm thông tin này", "Trung tính — phổ biến nhất"],
+            ["<code>As far as I'm aware, it's free.</code>", "Tôi chưa nghe gì khác", "Trang trọng hơn một chút"],
+            ["<code>As far as I can tell, it's free.</code>", "Tôi tự suy ra từ dấu hiệu", "Dựa trên quan sát"],
+            ["<code>Last I heard, it was free.</code>", "Lần cuối tôi nghe là vậy", "Thân mật — nhấn là tin cũ"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Câu trả lời ngắn cực kỳ hữu dụng:</b> <span class=\"k\">Not that I know of.</span> = “Theo tôi biết thì không.” Dùng khi ai đó hỏi <i>Is there a problem?</i> mà bạn chưa nghe gì. Ngắn, tự nhiên, và rất Anh." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🗣", "title": "Trả lời thay người khác", "text": "Bối cảnh số 1. <i>As far as I know, she's still on leave.</i> Không phải việc của bạn nhưng bạn có nắm." },
+            { "icon": "🕰", "title": "Thông tin có thể đã cũ", "text": "<i>Last I heard, they were hiring.</i> Báo trước rằng tin có thể lỗi thời." },
+            { "icon": "🛡", "title": "Không muốn chịu trách nhiệm", "text": "<i>As far as I'm aware, there's no fee.</i> Nói thật mà vẫn an toàn." },
+            { "icon": "❌", "title": "Trả lời “không” một cách mềm", "text": "<i>Not that I know of.</i> Thay vì nói <i>No</i> cụt lủn." },
+            { "icon": "👀", "title": "Kết luận từ quan sát", "text": "<i>As far as I can tell, it's working fine.</i> Tự mình kiểm tra được đến đâu." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn là người phụ trách và người ta cần câu trả lời dứt khoát — nghe như né tránh." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Chuẩn", "<code>As far as I know, + mệnh đề</code>", "As far as I know, it's free."],
+            ["Trang trọng hơn", "<code>As far as I'm aware, + mệnh đề</code>", "As far as I'm aware, there's no fee."],
+            ["Dựa trên quan sát", "<code>As far as I can tell, + mệnh đề</code>", "As far as I can tell, it's fine."],
+            ["Trang trọng (văn viết)", "<code>To my knowledge, + mệnh đề</code>", "To my knowledge, no complaint was filed."],
+            ["Trả lời ngắn phủ định", "<code>Not that I know of.</code>", "“Any problems?” — “Not that I know of.”"],
+            ["Nhấn tin cũ", "<code>Last I heard, + mệnh đề quá khứ</code>", "Last I heard, they were hiring."],
+            ["Nhớ lại", "<code>As far as I remember, + mệnh đề</code>", "As far as I remember, it was Tuesday."],
+            ["Đặt cuối câu", "<code>…, as far as I know.</code>", "It's free, as far as I know."],
+            ["Nói rõ giới hạn", "<code>…, but don't quote me on that.</code>", "It's at nine, but don't quote me on that."],
+            ["Hỏi lại", "<code>Do you know if…?</code>", "Do you know if it's still free?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Dấu phẩy bắt buộc khi viết:</b> <i>As far as I know, it's free.</i> Đây là cụm mở đầu nên luôn có dấu phẩy ngăn cách, giống <i>In my opinion,</i> ở [Khung 42]." },
+        { "t": "callout", "html": "<b>Đừng nhầm với nghĩa khoảng cách.</b> <i>We walked as far as the bridge.</i> = đi đến tận cây cầu. Cùng cụm <i>as far as</i> nhưng nghĩa hoàn toàn khác — phân biệt bằng phần theo sau: <i>as far as I know</i> luôn có chủ ngữ + động từ." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Mệnh đề hay theo sau “As far as I know,”",
+              "items": [
+                { "w": "it's free", "vi": "miễn phí", "ex": "As far as I know, it's free.", "exvi": "Theo tôi biết thì miễn phí." },
+                { "w": "she's still on leave", "vi": "cô ấy vẫn nghỉ phép", "ex": "As far as I know, she's still on leave.", "exvi": "Theo tôi biết thì cô ấy vẫn nghỉ phép." },
+                { "w": "nothing has changed", "vi": "chưa có gì thay đổi", "ex": "As far as I know, nothing has changed.", "exvi": "Theo tôi biết thì chưa có gì thay đổi." },
+                { "w": "they're still open", "vi": "họ vẫn mở cửa", "ex": "As far as I know, they're still open.", "exvi": "Theo tôi biết thì họ vẫn mở cửa." },
+                { "w": "the deadline is Friday", "vi": "hạn chót là thứ Sáu", "ex": "As far as I know, the deadline is Friday.", "exvi": "Theo tôi biết thì hạn chót là thứ Sáu." },
+                { "w": "there's no fee", "vi": "không mất phí", "ex": "As far as I'm aware, there's no fee.", "exvi": "Theo tôi nắm được thì không mất phí." },
+                { "w": "it hasn't been approved", "vi": "chưa được duyệt", "ex": "As far as I know, it hasn't been approved yet.", "exvi": "Theo tôi biết thì chưa được duyệt." },
+                { "w": "the meeting is still on", "vi": "cuộc họp vẫn diễn ra", "ex": "As far as I know, the meeting is still on.", "exvi": "Theo tôi biết thì cuộc họp vẫn diễn ra.", "note": "<i>still on</i> = vẫn diễn ra như kế hoạch. Cụm rất hay dùng." },
+                { "w": "he's handling it", "vi": "anh ấy đang xử lý", "ex": "As far as I know, he's handling it.", "exvi": "Theo tôi biết thì anh ấy đang xử lý." },
+                { "w": "it's included in the price", "vi": "đã tính trong giá", "ex": "As far as I know, it's included in the price.", "exvi": "Theo tôi biết thì đã tính trong giá." },
+                { "w": "they haven't decided", "vi": "họ chưa quyết", "ex": "As far as I know, they haven't decided yet.", "exvi": "Theo tôi biết thì họ chưa quyết." },
+                { "w": "there's no train after ten", "vi": "sau mười giờ không còn tàu", "ex": "As far as I know, there's no train after ten.", "exvi": "Theo tôi biết thì sau mười giờ không còn tàu." },
+                { "w": "the offer is still valid", "vi": "ưu đãi vẫn còn hiệu lực", "ex": "As far as I know, the offer is still valid.", "exvi": "Theo tôi biết thì ưu đãi vẫn còn hiệu lực." },
+                { "w": "nobody has complained", "vi": "chưa ai phàn nàn", "ex": "To my knowledge, nobody has complained.", "exvi": "Theo chỗ tôi nắm được thì chưa ai phàn nàn." },
+                { "w": "it works fine", "vi": "nó chạy tốt", "ex": "As far as I can tell, it works fine.", "exvi": "Theo những gì tôi thấy thì nó chạy tốt." },
+                { "w": "the rules haven't changed", "vi": "quy định chưa đổi", "ex": "As far as I know, the rules haven't changed.", "exvi": "Theo tôi biết thì quy định chưa đổi." },
+                { "w": "it's covered by insurance", "vi": "bảo hiểm chi trả", "ex": "As far as I know, it's covered by insurance.", "exvi": "Theo tôi biết thì bảo hiểm có chi trả." },
+                { "w": "they were hiring", "vi": "họ đang tuyển", "ex": "Last I heard, they were hiring.", "exvi": "Lần cuối tôi nghe thì họ đang tuyển.", "note": "Sau <i>Last I heard</i> thường dùng thì quá khứ vì tin đã cũ." },
+                { "w": "it was Tuesday", "vi": "là thứ Ba", "ex": "As far as I remember, it was Tuesday.", "exvi": "Theo tôi nhớ thì là thứ Ba." },
+                { "w": "she doesn't drink coffee", "vi": "cô ấy không uống cà phê", "ex": "As far as I know, she doesn't drink coffee.", "exvi": "Theo tôi biết thì cô ấy không uống cà phê." }
+              ]
+            },
+            {
+              "title": "Các cách nói thay thế",
+              "items": [
+                { "w": "As far as I'm aware,", "vi": "theo tôi nắm được", "ex": "As far as I'm aware, there's no fee.", "exvi": "Theo tôi nắm được thì không mất phí.", "note": "Trang trọng hơn <i>as far as I know</i> — hợp email công việc." },
+                { "w": "As far as I can tell,", "vi": "theo những gì tôi thấy", "ex": "As far as I can tell, it works fine.", "exvi": "Theo những gì tôi thấy thì nó chạy tốt.", "note": "Nhấn rằng bạn tự suy ra từ quan sát, gần với [Khung 44]." },
+                { "w": "To my knowledge,", "vi": "theo chỗ tôi nắm được", "ex": "To my knowledge, no complaint was filed.", "exvi": "Theo chỗ tôi nắm được, chưa có khiếu nại nào.", "note": "BẪY: là <i>TO my knowledge</i>, KHÔNG phải <i>in my knowledge</i>." },
+                { "w": "Not that I know of.", "vi": "theo tôi biết thì không", "ex": "“Any issues?” — “Not that I know of.”", "exvi": "“Có vấn đề gì không?” — “Theo tôi biết thì không.”", "note": "Câu trả lời ngắn cực kỳ tự nhiên. Học thuộc nguyên cụm." },
+                { "w": "Last I heard,", "vi": "lần cuối tôi nghe thì", "ex": "Last I heard, they were still open.", "exvi": "Lần cuối tôi nghe thì họ vẫn mở.", "note": "Thân mật, nhấn mạnh rằng tin có thể đã cũ." },
+                { "w": "As far as I remember,", "vi": "theo tôi nhớ thì", "ex": "As far as I remember, it was Tuesday.", "exvi": "Theo tôi nhớ thì là thứ Ba." },
+                { "w": "From what I've heard,", "vi": "theo những gì tôi nghe được", "ex": "From what I've heard, it's excellent.", "exvi": "Theo những gì tôi nghe được thì rất tốt.", "note": "Nguồn là lời người khác, không phải bạn trực tiếp biết." },
+                { "w": "but don't quote me on that", "vi": "nhưng đừng trích lời tôi nhé", "ex": "It's at nine, but don't quote me on that.", "exvi": "Chín giờ, nhưng đừng trích lời tôi nhé.", "note": "Cách nói vui, thân mật để chối trách nhiệm — rất tự nhiên." },
+                { "w": "correct me if I'm wrong", "vi": "sai thì sửa giúp tôi", "ex": "Correct me if I'm wrong, but it's Friday.", "exvi": "Sai thì sửa giúp tôi, nhưng là thứ Sáu mà.", "note": "Mời người khác đính chính — mở đầu rất khéo trong họp." },
+                { "w": "I could be out of date", "vi": "có thể tin tôi đã cũ", "ex": "I could be out of date on this.", "exvi": "Có thể thông tin của tôi đã cũ." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "That's my understanding too", "vi": "tôi cũng hiểu vậy", "ex": "That's my understanding too.", "exvi": "Tôi cũng hiểu như vậy.", "note": "Trang trọng, rất hay trong họp và email." },
+                { "w": "Let me confirm that", "vi": "để tôi xác nhận lại", "ex": "Let me confirm that and get back to you.", "exvi": "Để tôi xác nhận lại rồi báo bạn." },
+                { "w": "Actually, that's changed", "vi": "thật ra chuyện đó đã thay đổi", "ex": "Actually, that's changed since last month.", "exvi": "Thật ra từ tháng trước đã thay đổi rồi.", "note": "Đính chính mềm — <i>actually</i> làm dịu lời cải chính." },
+                { "w": "Who would know for sure?", "vi": "ai biết chắc nhỉ?", "ex": "Who would know for sure?", "exvi": "Ai biết chắc chuyện này nhỉ?" },
+                { "w": "Good enough for me", "vi": "vậy là đủ với tôi rồi", "ex": "Good enough for me, thanks.", "exvi": "Vậy là đủ với tôi rồi, cảm ơn." },
+                { "w": "I'll double-check", "vi": "tôi sẽ kiểm tra lại", "ex": "I'll double-check just in case.", "exvi": "Tôi sẽ kiểm tra lại cho chắc.", "note": "<i>just in case</i> = cho chắc ăn. Cụm rất hay đi kèm." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "As far as I know, she's still on leave this week.",
+                  "vi": "Theo tôi biết thì tuần này cô ấy vẫn nghỉ phép.",
+                  "note": "Bối cảnh số 1: trả lời thay đồng nghiệp. Bạn có nắm thông tin nhưng không chịu trách nhiệm nếu đã đổi.",
+                  "open": { "en": "I'm not the best person to ask, but —", "vi": "Tôi không phải người nắm rõ nhất, nhưng —" },
+                  "reply": [
+                    { "them": "Do you know when she's back?", "themvi": "Bạn có biết khi nào cô ấy về không?", "you": "Monday, as far as I remember.", "youvi": "Thứ Hai, theo tôi nhớ." },
+                    { "them": "Actually, that's changed — she's back today.", "themvi": "Thật ra đổi rồi — hôm nay cô ấy đi làm.", "you": "Oh good, I could be out of date.", "youvi": "Vậy tốt quá, có thể tin của tôi cũ rồi." }
+                  ],
+                  "close": { "en": "Best to check with HR.", "vi": "Tốt nhất là hỏi bên nhân sự." }
+                },
+                {
+                  "en": "Not that I know of.",
+                  "vi": "Theo tôi biết thì không.",
+                  "note": "Câu trả lời ngắn cực kỳ tự nhiên khi ai đó hỏi có vấn đề gì không. Học thuộc nguyên cụm.",
+                  "reply": [
+                    { "them": "Any problems with the release?", "themvi": "Bản phát hành có vấn đề gì không?", "you": "Not that I know of. I'll double-check.", "youvi": "Theo tôi biết thì không. Để tôi kiểm tra lại." }
+                  ],
+                  "vars": [
+                    { "en": "Not as far as I'm aware.", "vi": "Theo tôi nắm được thì không." }
+                  ]
+                },
+                {
+                  "en": "To my knowledge, no complaint was filed.",
+                  "vi": "Theo chỗ tôi nắm được, chưa có khiếu nại nào.",
+                  "note": "<b>TO</b> my knowledge, không phải <i>in</i>. Dạng trang trọng — hợp email, biên bản, báo cáo.",
+                  "reply": [
+                    { "them": "Can you confirm that in writing?", "themvi": "Anh/chị xác nhận bằng văn bản được không?", "you": "I'll check the log and confirm.", "youvi": "Tôi sẽ kiểm tra nhật ký rồi xác nhận." }
+                  ]
+                },
+                {
+                  "en": "Correct me if I'm wrong, but the deadline is Friday.",
+                  "vi": "Sai thì sửa giúp tôi, nhưng hạn chót là thứ Sáu mà.",
+                  "note": "Mời người khác đính chính — cách mở đầu rất khéo khi bạn nghĩ người kia đang nhầm.",
+                  "reply": [
+                    { "them": "You're right, it is.", "themvi": "Anh/chị đúng đấy.", "you": "Then we need to move fast.", "youvi": "Vậy mình phải làm nhanh." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "As far as I know, it's still under warranty.",
+                  "vi": "Theo tôi biết thì máy vẫn còn bảo hành.",
+                  "reply": [
+                    { "them": "Do you have the date of purchase?", "themvi": "Anh/chị có ngày mua không ạ?", "you": "March last year, as far as I remember.", "youvi": "Tháng Ba năm ngoái, theo tôi nhớ." }
+                  ]
+                },
+                {
+                  "en": "As far as I'm aware, there's no extra fee.",
+                  "vi": "Theo tôi nắm được thì không mất thêm phí.",
+                  "note": "<i>As far as I'm aware</i> trang trọng hơn một bậc — hợp khi nói với nhân viên bạn chưa quen.",
+                  "reply": [
+                    { "them": "Let me confirm that for you.", "themvi": "Để em xác nhận lại giúp anh/chị ạ.", "you": "Thank you — I'd rather be sure.", "youvi": "Cảm ơn — tôi muốn chắc chắn." }
+                  ],
+                  "close": { "en": "Good to know, thanks.", "vi": "Biết vậy tốt quá, cảm ơn." }
+                },
+                {
+                  "en": "As far as I know, the offer is still valid.",
+                  "vi": "Theo tôi biết thì ưu đãi vẫn còn hiệu lực.",
+                  "reply": [
+                    { "them": "It ended yesterday, I'm afraid.", "themvi": "E là hết từ hôm qua ạ.", "you": "Ah — I must be out of date.", "youvi": "À — chắc tin của tôi cũ rồi." }
+                  ],
+                  "vars": [
+                    { "en": "Last I heard, the offer was still on.", "vi": "Lần cuối tôi nghe thì ưu đãi vẫn còn." }
+                  ]
+                },
+                {
+                  "en": "It's twenty percent off, but don't quote me on that.",
+                  "vi": "Giảm hai mươi phần trăm, nhưng đừng trích lời tôi nhé.",
+                  "note": "Cách chối trách nhiệm kiểu vui vẻ — rất tự nhiên giữa bạn bè, không dùng với khách hàng.",
+                  "reply": [
+                    { "them": "Close enough. Let's go look.", "themvi": "Gần đúng là được. Mình đi xem đi.", "you": "The sign's by the door.", "youvi": "Bảng ở gần cửa." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "As far as I know, there's no train after ten.",
+                  "vi": "Theo tôi biết thì sau mười giờ không còn tàu.",
+                  "reply": [
+                    { "them": "Are you sure? That's early.", "themvi": "Bạn chắc không? Sớm thế.", "you": "Last I heard, yes — but check the app.", "youvi": "Lần cuối tôi nghe thì đúng vậy — nhưng xem ứng dụng đi." }
+                  ]
+                },
+                {
+                  "en": "As far as I'm aware, breakfast is included.",
+                  "vi": "Theo tôi nắm được thì có bao gồm bữa sáng.",
+                  "note": "So với [Khung 43]: <i>I believe</i> nhấn bạn khá chắc, câu này nhấn rằng bạn chỉ biết đến chừng đó.",
+                  "reply": [
+                    { "them": "Let me confirm with reception.", "themvi": "Để tôi xác nhận với lễ tân.", "you": "Good idea — I could be wrong.", "youvi": "Ý hay — có thể tôi nhầm." }
+                  ]
+                },
+                {
+                  "en": "As far as I can tell, this is the right platform.",
+                  "vi": "Theo những gì tôi thấy thì đúng sân ga này.",
+                  "note": "<i>As far as I can tell</i> = tôi tự suy ra từ dấu hiệu quanh mình, không phải nghe ai nói.",
+                  "open": { "en": "The sign's a bit confusing, but —", "vi": "Biển báo hơi khó hiểu, nhưng —" },
+                  "reply": [
+                    { "them": "Shall we ask someone?", "themvi": "Mình hỏi ai đó nhé?", "you": "Let's — just in case.", "youvi": "Hỏi đi — cho chắc." }
+                  ],
+                  "close": { "en": "Better safe than sorry.", "vi": "Cẩn tắc vô ưu." }
+                },
+                {
+                  "en": "Not that I know of — no visa needed for a week.",
+                  "vi": "Theo tôi biết thì không — ở một tuần không cần visa.",
+                  "note": "Với thông tin quan trọng như visa, luôn nhắc người kia tự kiểm tra lại.",
+                  "reply": [
+                    { "them": "You're sure?", "themvi": "Bạn chắc chứ?", "you": "Check the embassy site — rules change.", "youvi": "Xem trang đại sứ quán đi — quy định hay đổi." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "As far as I know, they're still open until ten.",
+                  "vi": "Theo tôi biết thì họ vẫn mở đến mười giờ.",
+                  "reply": [
+                    { "them": "Even on Sundays?", "themvi": "Cả Chủ nhật à?", "you": "Weekdays at least. Sundays I'm not sure.", "youvi": "Ít nhất là ngày thường. Chủ nhật thì tôi không chắc." }
+                  ]
+                },
+                {
+                  "en": "As far as I know, she doesn't eat seafood.",
+                  "vi": "Theo tôi biết thì cô ấy không ăn hải sản.",
+                  "note": "Với dị ứng hoặc kiêng khem, hãy luôn thêm một câu nhắc hỏi lại trực tiếp.",
+                  "reply": [
+                    { "them": "Should I order something else?", "themvi": "Mình gọi món khác nhé?", "you": "Ask her — I could be wrong.", "youvi": "Hỏi cô ấy đi — có thể mình nhầm." }
+                  ],
+                  "close": { "en": "Better to ask than guess.", "vi": "Hỏi vẫn hơn đoán." }
+                },
+                {
+                  "en": "Not that I know of — no service charge here.",
+                  "vi": "Theo tôi biết thì không — ở đây không tính phí phục vụ.",
+                  "reply": [
+                    { "them": "So we should tip?", "themvi": "Vậy mình có nên tip không?", "you": "Up to you — it's not expected.", "youvi": "Tùy bạn — không bắt buộc đâu." }
+                  ]
+                },
+                {
+                  "en": "From what I've heard, the food here is excellent.",
+                  "vi": "Theo những gì tôi nghe được thì đồ ăn ở đây rất ngon.",
+                  "note": "<i>From what I've heard</i> nói rõ nguồn là người khác, không phải bạn tự trải nghiệm.",
+                  "reply": [
+                    { "them": "Have you been before?", "themvi": "Bạn đến đây bao giờ chưa?", "you": "Never — first time for me too.", "youvi": "Chưa — mình cũng lần đầu." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Last I heard, they were still hiring.",
+                  "vi": "Lần cuối tôi nghe thì họ vẫn đang tuyển.",
+                  "note": "Sau <i>Last I heard</i> thường dùng <b>thì quá khứ</b> vì tin đã cũ.",
+                  "reply": [
+                    { "them": "That was months ago though.", "themvi": "Nhưng chuyện đó mấy tháng trước rồi.", "you": "True — worth checking their page.", "youvi": "Đúng — nên xem trang của họ." }
+                  ]
+                },
+                {
+                  "en": "As far as I remember, it was Tuesday.",
+                  "vi": "Theo tôi nhớ thì là thứ Ba.",
+                  "reply": [
+                    { "them": "I thought it was Wednesday.", "themvi": "Mình tưởng thứ Tư.", "you": "One of us is wrong — let me check.", "youvi": "Một trong hai mình nhầm — để mình xem lại." }
+                  ]
+                },
+                {
+                  "en": "As far as I know, nothing has changed.",
+                  "vi": "Theo tôi biết thì chưa có gì thay đổi.",
+                  "reply": [
+                    { "them": "That's my understanding too.", "themvi": "Mình cũng hiểu vậy.", "you": "Then we're good.", "youvi": "Vậy là ổn rồi." }
+                  ],
+                  "vars": [
+                    { "en": "To my knowledge, nothing has changed.", "vi": "Theo chỗ tôi nắm được, chưa có gì thay đổi." }
+                  ]
+                },
+                {
+                  "en": "I'm not the best person to ask, as far as I know he's fine.",
+                  "vi": "Tôi không phải người nắm rõ nhất, theo tôi biết thì anh ấy ổn.",
+                  "note": "Ghép hai lớp rào trước — dùng khi bạn thật sự không muốn bị hiểu là nguồn tin chính thức.",
+                  "reply": [
+                    { "them": "Who would know for sure?", "themvi": "Ai biết chắc nhỉ?", "you": "His sister, probably.", "youvi": "Chắc là chị gái anh ấy." }
+                  ],
+                  "close": { "en": "I'd ask her.", "vi": "Tôi thì tôi hỏi chị ấy." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Trả lời thay đồng nghiệp vắng mặt",
+          "lines": [
+            { "speaker": "Client", "en": "Is Mai handling my account now?", "vi": "Giờ chị Mai phụ trách tài khoản của tôi à?" },
+            { "speaker": "You", "me": true, "en": "I'm not the best person to ask, but as far as I know, yes.", "vi": "Tôi không phải người nắm rõ nhất, nhưng theo tôi biết thì đúng ạ." },
+            { "speaker": "Client", "en": "And is she in today?", "vi": "Hôm nay chị ấy có ở đây không?" },
+            { "speaker": "You", "me": true, "en": "As far as I'm aware, she's on leave until Monday.", "vi": "Theo tôi nắm được thì chị ấy nghỉ đến thứ Hai ạ." },
+            { "speaker": "Client", "en": "Any issues with my order in the meantime?", "vi": "Trong lúc đó đơn hàng của tôi có vấn đề gì không?" },
+            { "speaker": "You", "me": true, "en": "Not that I know of — but let me double-check and confirm.", "vi": "Theo tôi biết thì không — nhưng để tôi kiểm tra lại rồi xác nhận ạ." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Bàn kế hoạch đi chơi cuối tuần",
+          "lines": [
+            { "speaker": "Nam", "en": "Is that museum still free on Sundays?", "vi": "Bảo tàng đó Chủ nhật vẫn miễn phí chứ?" },
+            { "speaker": "You", "me": true, "en": "As far as I know, yes — but don't quote me on that.", "vi": "Theo mình biết thì có — nhưng đừng trích lời mình nhé." },
+            { "speaker": "Nam", "en": "When were you last there?", "vi": "Lần cuối bạn đến là khi nào?" },
+            { "speaker": "You", "me": true, "en": "Last year, as far as I remember. Things may have changed.", "vi": "Năm ngoái, theo mình nhớ. Có thể đã thay đổi." },
+            { "speaker": "Nam", "en": "And does it open early?", "vi": "Có mở sớm không?" },
+            { "speaker": "You", "me": true, "en": "Not that I know of. From what I've heard, ten at the earliest.", "vi": "Theo mình biết thì không. Theo những gì mình nghe được, sớm nhất là mười giờ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "In my knowledge, nothing has changed.", "right": "To my knowledge, nothing has changed.", "why": "BẪY của người Việt. Giới từ là <b>to</b>, không phải <i>in</i>. Cụm cố định — không đổi được." },
+            { "wrong": "So far I know, it's free.", "right": "As far as I know, it's free.", "why": "<i>So far</i> nghĩa là “cho đến nay”, hoàn toàn khác. Phải là <b>As far as</b>." },
+            { "wrong": "As far as I know about it, it's free.", "right": "As far as I know, it's free.", "why": "Thừa <i>about it</i>. Cụm này đã trọn nghĩa, không thêm gì phía sau <i>know</i>." },
+            { "wrong": "As far as I know, I think it's free.", "right": "As far as I know, it's free.", "why": "Chồng hai lớp rào. Chọn một — hoặc cụm này, hoặc <i>I think</i> ở [Khung 41]." },
+            { "wrong": "As far as I know it's free.", "right": "As far as I know, it's free.", "why": "Khi viết phải có <b>dấu phẩy</b> sau cụm mở đầu, giống <i>In my opinion,</i> ở [Khung 42]." },
+            { "wrong": "As far as I knew, it's free.", "right": "As far as I know, it's free.", "why": "Nói về hiện tại thì dùng <b>know</b>. Dạng <i>knew</i> chỉ dùng khi kể lại chuyện quá khứ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Nguồn / sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>As far as I know,…</code>", "Hiểu biết của tôi đến đó", "<i>As far as I know, it's free.</i> Phổ biến nhất."],
+            ["<code>As far as I'm aware,…</code>", "Tôi chưa nghe gì khác", "<i>As far as I'm aware, there's no fee.</i> Trang trọng hơn."],
+            ["<code>As far as I can tell,…</code>", "Tôi tự suy ra từ dấu hiệu", "<i>As far as I can tell, it works.</i> Dựa trên quan sát."],
+            ["<code>To my knowledge,…</code>", "Trang trọng — văn bản", "<i>To my knowledge, no complaint was filed.</i>"],
+            ["<code>From what I've heard,…</code>", "Nghe người khác kể lại", "<i>From what I've heard, it's good.</i>"],
+            ["<code>I think…</code>", "Suy nghĩ của tôi", "<i>I think it's free.</i> Xem [Khung 41]."],
+            ["<code>It seems…</code>", "Suy ra từ dấu hiệu bên ngoài", "<i>It seems it's free.</i> Xem [Khung 44]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — trả lời câu hỏi “Chỗ đó có mất phí không?”" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I really don't know, sorry.", "vi": "Không có thông tin gì" },
+            { "en": "Last I heard, it was free.", "vi": "Có nghe, nhưng tin đã cũ" },
+            { "en": "As far as I know, it's free.", "vi": "Có nắm thông tin — chuẩn mực" },
+            { "en": "I believe it's free.", "vi": "Khá chắc. Xem [Khung 43]" },
+            { "en": "It's free — I checked this morning.", "vi": "Chắc chắn, có căn cứ" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "Cả cụm nói rất nhanh và dính liền: <b>“əz-far-əz-ai-NOH”</b> — chỉ nhấn duy nhất vào <i>know</i>.",
+            "Hai chữ <b>as</b> đều đọc nhẹ thành <b>/əz/</b>, không bao giờ nhấn.",
+            "<b>far as</b> nối âm thành <b>“fa-rəz”</b> — âm /r/ nối sang nguyên âm phía sau.",
+            "Chữ <b>k</b> trong <i>know</i> là <b>âm câm</b>: đọc là /nəʊ/, giống hệt <i>no</i>.",
+            "<b>Ngắt một nhịp ngắn sau “know”</b> trước khi nói phần nội dung — đúng chỗ dấu phẩy.",
+            "<b>Not that I know of</b> → “not-thə-tai-NOH-əv”, nhấn NOH, chữ <i>of</i> đọc lướt thành /əv/."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "As far as I know, she's still on leave.", "vi": "Luyện shadowing: “əz-fa-rəz-ai-NOH” thật nhanh rồi ngắt một nhịp." },
+            { "en": "Not that I know of.", "vi": "Tập nói liền một hơi, hạ giọng ở cuối." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Theo tôi biết thì miễn phí.", "blank": "__________, it's free.", "a": "As far as I know (KHÔNG phải “So far I know”)" },
+            { "vi": "Theo chỗ tôi nắm được, chưa có khiếu nại nào.", "blank": "__________, no complaint was filed.", "a": "To my knowledge (KHÔNG phải “In my knowledge”)" },
+            { "vi": "“Có vấn đề gì không?” — “Theo tôi biết thì không.”", "blank": "“Any problems?” — “__________.”", "a": "Not that I know of" },
+            { "vi": "Theo tôi nắm được thì không mất phí.", "blank": "__________, there's no fee.", "a": "As far as I'm aware" },
+            { "vi": "Theo những gì tôi thấy thì nó chạy tốt.", "blank": "__________, it works fine.", "a": "As far as I can tell" },
+            { "vi": "Lần cuối tôi nghe thì họ đang tuyển.", "blank": "__________, they were hiring.", "a": "Last I heard" },
+            { "vi": "Chín giờ, nhưng đừng trích lời tôi nhé.", "blank": "It's at nine, but __________.", "a": "don't quote me on that" },
+            { "vi": "Sai thì sửa giúp tôi, nhưng là thứ Sáu mà.", "blank": "__________, but it's Friday.", "a": "Correct me if I'm wrong" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Theo tôi biết thì tuần này cô ấy vẫn nghỉ phép.", "a": "As far as I know, she's still on leave this week." },
+            { "vi": "2. Theo chỗ tôi nắm được, chưa có khiếu nại nào.", "a": "To my knowledge, no complaint was filed." },
+            { "vi": "3. Theo tôi biết thì không — sau mười giờ không còn tàu.", "a": "Not that I know of — there's no train after ten." },
+            { "vi": "4. Theo những gì tôi nghe được thì đồ ăn ở đây rất ngon.", "a": "From what I've heard, the food here is excellent." },
+            { "vi": "5. Theo tôi nhớ thì là thứ Ba.", "a": "As far as I remember, it was Tuesday." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Học thuộc “Not that I know of.”</b> — đây là câu trả lời ngắn tự nhiên nhất khi ai đó hỏi có vấn đề gì không.",
+            "<b>Nhớ giới từ:</b> <i>TO my knowledge</i>, không phải <i>in my knowledge</i>. Đây là lỗi lộ ra ngay lập tức.",
+            "<b>Dùng mỗi khi trả lời thay người khác.</b> Nó bảo vệ bạn nếu thông tin đã thay đổi mà bạn chưa biết.",
+            "<b>Chọn một lớp rào thôi.</b> <i>As far as I know, I think…</i> là thừa — chọn một trong hai.",
+            "<b>Đừng lạm dụng.</b> Nếu bạn là người phụ trách và người ta cần câu trả lời dứt khoát, dùng nó nghe như né tránh trách nhiệm.",
+            "<b>Bài tập 3 phút:</b> lấy 5 câu hỏi đồng nghiệp hay hỏi bạn về việc của người khác, viết câu trả lời bằng <i>As far as I know,</i> kèm một câu nhắc họ kiểm tra lại."
+          ]
+        }
+      ]
+    }
+  ]
+}

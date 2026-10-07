@@ -1,0 +1,501 @@
+{
+  "id": 84,
+  "group": "Nhóm 9 · Cảm xúc & Phản ứng",
+  "title": "I can't believe… — Cảm thán ngạc nhiên",
+  "subtitle": "Khung câu để bày tỏ sự kinh ngạc, dùng được cho cả tin vui lẫn tin sốc. Nó không nói rằng bạn nghi ngờ điều đó — nó nói rằng điều đó vượt quá mức bạn tưởng tượng. Chính vì vậy nó rất dễ bị nhầm với I don't believe, vốn mang sắc thái hoàn toàn khác.",
+  "pattern": [
+    "I can't believe <em>+ mệnh đề</em>.",
+    "I can't believe how <em>+ tính từ</em>.",
+    "I can't believe it!"
+  ],
+  "meaning": "Tôi không thể tin là… / Không ngờ…",
+  "grammar": [47, 49, 59, 62],
+  "tags": [
+    { "text": "Tần suất: cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Dùng cho cả vui lẫn sốc" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I can't believe…</span> không có nghĩa là bạn <b>nghi ngờ</b> điều đó. Nó nghĩa là điều đó <b>vượt quá mức bạn tưởng tượng</b> — bạn hoàn toàn tin nó có thật, chỉ là khó chấp nhận nổi mức độ của nó." },
+        { "t": "p", "html": "Vì thế nó dùng được cho <b>cả hai chiều cảm xúc</b>. <i>I can't believe we won!</i> là vui sướng tột độ. <i>I can't believe he said that.</i> là sốc và bất bình. Ngữ cảnh và giọng nói quyết định chiều nào." },
+        { "t": "p", "html": "Một biến thể rất hay là ghép với <b>how</b>: <span class=\"k\">I can't believe how fast it was.</span> — nó nhấn vào <b>mức độ</b> chứ không phải sự kiện, và nghe tự nhiên hơn nhiều so với dịch thẳng." },
+        { "t": "callout", "html": "<b>PHÂN BIỆT với [Khung 43]:</b> <span class=\"k\">I can't believe it!</span> = kinh ngạc. <span class=\"k\">I don't believe him.</span> = tôi không tin lời anh ta — đó là nghi ngờ, khác hẳn. Còn <i>I don't believe it!</i> thì lại thường là kinh ngạc, tùy ngữ điệu." },
+        { "t": "h3", "text": "Dùng cho hai chiều cảm xúc" },
+        {
+          "t": "table",
+          "head": ["Câu", "Chiều cảm xúc", "Ngữ điệu"],
+          "rows": [
+            ["<code>I can't believe we won!</code>", "Vui sướng tột độ", "Lên giọng, mạnh"],
+            ["<code>I can't believe he said that.</code>", "Sốc, bất bình", "Hạ giọng, chậm"],
+            ["<code>I can't believe how fast it was.</code>", "Kinh ngạc về mức độ", "Nhấn vào <i>how</i>"],
+            ["<code>I can't believe my luck.</code>", "May mắn bất ngờ", "Vui, hơi tự giễu"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Chữ “that” bỏ được thoải mái.</b> <i>I can't believe <b>that</b> he said it</i> và <i>I can't believe he said it</i> giống hệt nhau. Trong hội thoại, người bản xứ gần như luôn bỏ <i>that</i>." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🎉", "title": "Nhận tin cực vui", "text": "Bối cảnh số 1. <i>I can't believe we got it!</i>" },
+            { "icon": "😱", "title": "Nghe tin sốc", "text": "<i>I can't believe he said that.</i> Hạ giọng, chậm lại." },
+            { "icon": "⚡", "title": "Kinh ngạc về mức độ", "text": "<i>I can't believe how fast it was.</i>" },
+            { "icon": "🍀", "title": "Gặp may bất ngờ", "text": "<i>I can't believe my luck!</i>" },
+            { "icon": "⏳", "title": "Ngạc nhiên về thời gian", "text": "<i>I can't believe it's already Friday.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn thật sự nghi ngờ lời ai đó. Ở đó dùng [Khung 43]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Với mệnh đề", "<code>I can't believe + mệnh đề.</code>", "I can't believe we won."],
+            ["Với how", "<code>I can't believe how + adj.</code>", "I can't believe how cold it is."],
+            ["Đứng một mình", "<code>I can't believe it!</code>", "I can't believe it!"],
+            ["Với danh từ", "<code>I can't believe + N.</code>", "I can't believe my luck."],
+            ["Giác quan", "<code>I can't believe my eyes/ears.</code>", "I couldn't believe my eyes."],
+            ["Quá khứ", "<code>I couldn't believe…</code>", "I couldn't believe it at the time."],
+            ["Cảm thán một từ", "<code>Unbelievable!</code>", "Unbelievable!"],
+            ["Thân mật", "<code>No way!</code>", "No way!"],
+            ["Hỏi lại", "<code>Are you serious?</code>", "Are you serious?"],
+            ["Nhấn bất ngờ", "<code>Who'd have thought?</code>", "Who'd have thought?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>“I can't believe my eyes” và “my ears”</b> là hai thành ngữ cố định — <i>eyes</i> khi bạn nhìn thấy, <i>ears</i> khi bạn nghe thấy. Đừng đổi sang bộ phận khác." },
+        { "t": "callout", "html": "<b>Đừng chia tiếp diễn.</b> <span class=\"k\">I'm not believing it</span> ✗ — <i>believe</i> là động từ trạng thái, giống <i>agree</i> ở [Khung 51] và <i>see</i> ở [Khung 53]." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Mệnh đề hay theo sau",
+              "items": [
+                { "w": "we won", "vi": "mình đã thắng", "ex": "I can't believe we won!", "exvi": "Không ngờ mình thắng!", "note": "Chữ <i>that</i> bỏ được — người bản xứ gần như luôn bỏ trong hội thoại." },
+                { "w": "he said that", "vi": "anh ấy nói vậy", "ex": "I can't believe he said that.", "exvi": "Không ngờ anh ấy nói vậy.", "note": "Chiều tiêu cực — hạ giọng và nói chậm lại." },
+                { "w": "it's already Friday", "vi": "đã thứ Sáu rồi", "ex": "I can't believe it's already Friday.", "exvi": "Không ngờ đã thứ Sáu rồi." },
+                { "w": "they cancelled", "vi": "họ đã hủy", "ex": "I can't believe they cancelled.", "exvi": "Không ngờ họ hủy." },
+                { "w": "it's been a year", "vi": "đã một năm rồi", "ex": "I can't believe it's been a year.", "exvi": "Không ngờ đã một năm rồi.", "note": "Rất hay dùng khi gặp lại ai đó. Xem [Khung 77]." },
+                { "w": "you remembered", "vi": "bạn vẫn nhớ", "ex": "I can't believe you remembered!", "exvi": "Không ngờ bạn vẫn nhớ!", "note": "Lời cảm động rất ấm — khi ai đó nhớ một chi tiết nhỏ về bạn." },
+                { "w": "nobody told me", "vi": "chẳng ai báo tôi", "ex": "I can't believe nobody told me.", "exvi": "Không ngờ chẳng ai báo tôi." },
+                { "w": "how fast it was", "vi": "nó nhanh đến vậy", "ex": "I can't believe how fast it was.", "exvi": "Không ngờ nó nhanh đến vậy.", "note": "Ghép với <b>how</b> để nhấn vào MỨC ĐỘ — rất tự nhiên." },
+                { "w": "how cold it is", "vi": "trời lạnh đến vậy", "ex": "I can't believe how cold it is!", "exvi": "Không ngờ trời lạnh đến vậy!" },
+                { "w": "how much it costs", "vi": "nó đắt đến vậy", "ex": "I can't believe how much it costs.", "exvi": "Không ngờ nó đắt đến vậy." },
+                { "w": "my luck", "vi": "mình may thế", "ex": "I can't believe my luck!", "exvi": "Mình may thế chứ!", "note": "Sau <i>believe</i> có thể là DANH TỪ, không nhất thiết phải là mệnh đề." },
+                { "w": "my eyes", "vi": "mắt mình", "ex": "I couldn't believe my eyes.", "exvi": "Tôi không tin nổi vào mắt mình.", "note": "Thành ngữ cố định — <b>eyes</b> khi nhìn thấy, <b>ears</b> khi nghe thấy." }
+              ]
+            },
+            {
+              "title": "Các cách cảm thán khác",
+              "items": [
+                { "w": "Unbelievable!", "vi": "không thể tin nổi!", "ex": "Unbelievable!", "exvi": "Không thể tin nổi!", "note": "Một từ duy nhất — dùng được cho cả vui lẫn bực, tùy giọng." },
+                { "w": "No way!", "vi": "không thể nào!", "ex": "No way! Really?", "exvi": "Không thể nào! Thật à?", "note": "Rất thân mật — chỉ dùng với bạn bè và đồng nghiệp thân." },
+                { "w": "Are you serious?", "vi": "bạn nói thật à?", "ex": "Are you serious?", "exvi": "Bạn nói thật à?" },
+                { "w": "You're kidding!", "vi": "bạn đùa à!", "ex": "You're kidding!", "exvi": "Bạn đùa à!", "note": "Không phải câu hỏi thật — chỉ là cảm thán ngạc nhiên." },
+                { "w": "You're joking", "vi": "bạn đùa chứ", "ex": "You're joking, surely.", "exvi": "Chắc bạn đùa chứ.", "note": "Bản Anh-Anh của <i>You're kidding</i>." },
+                { "w": "Who'd have thought?", "vi": "ai mà ngờ được?", "ex": "Who'd have thought?", "exvi": "Ai mà ngờ được?", "note": "Rút gọn của <i>who would have thought</i> — cảm thán về điều bất ngờ." },
+                { "w": "I never thought", "vi": "tôi chưa bao giờ nghĩ", "ex": "I never thought it'd happen.", "exvi": "Tôi chưa bao giờ nghĩ chuyện đó xảy ra." },
+                { "w": "What a surprise!", "vi": "bất ngờ quá!", "ex": "What a surprise!", "exvi": "Bất ngờ quá!" },
+                { "w": "I'm speechless", "vi": "tôi không nói nên lời", "ex": "I'm speechless.", "exvi": "Tôi không nói nên lời.", "note": "Mạnh — dùng khi bạn thật sự choáng, cả theo chiều tốt lẫn xấu." },
+                { "w": "That's incredible", "vi": "thật phi thường", "ex": "That's incredible!", "exvi": "Thật phi thường!" },
+                { "w": "I don't believe it!", "vi": "không thể tin nổi!", "ex": "I don't believe it — we won!", "exvi": "Không thể tin nổi — mình thắng rồi!", "note": "BẪY: đây thường là KINH NGẠC, nhưng <i>I don't believe him</i> lại là nghi ngờ. Xem [Khung 43]." },
+                { "w": "It's hard to believe", "vi": "khó mà tin được", "ex": "It's hard to believe, isn't it?", "exvi": "Khó mà tin được nhỉ?" }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "I know, right?", "vi": "đúng không?", "ex": "I know, right?", "exvi": "Đúng không?", "note": "Rất thân mật, Anh-Mỹ — đồng tình với sự ngạc nhiên của người kia." },
+                { "w": "Tell me about it", "vi": "khổ lắm, biết rồi", "ex": "Tell me about it.", "exvi": "Khổ lắm, biết rồi. Xem [Khung 56]." },
+                { "w": "I had the same reaction", "vi": "tôi cũng phản ứng y vậy", "ex": "I had the same reaction.", "exvi": "Tôi cũng phản ứng y như vậy." },
+                { "w": "It's true, I promise", "vi": "thật đấy, mình hứa", "ex": "It's true, I promise.", "exvi": "Thật đấy, mình hứa." },
+                { "w": "I saw it myself", "vi": "tôi tận mắt thấy", "ex": "I saw it myself.", "exvi": "Tôi tận mắt thấy mà." },
+                { "w": "Believe it", "vi": "tin đi", "ex": "Believe it!", "exvi": "Tin đi!" },
+                { "w": "Congratulations!", "vi": "chúc mừng!", "ex": "Congratulations!", "exvi": "Chúc mừng bạn!", "note": "Chú ý có <b>-s</b> ở cuối — <i>congratulation</i> số ít là sai." },
+                { "w": "You deserve it", "vi": "bạn xứng đáng mà", "ex": "You deserve it.", "exvi": "Bạn xứng đáng mà." },
+                { "w": "That's awful", "vi": "tệ quá", "ex": "That's awful. I'm sorry.", "exvi": "Tệ quá. Mình rất tiếc.", "note": "Đáp cho tin xấu — kèm <i>I'm sorry</i>. Xem [Khung 79]." },
+                { "w": "What happened exactly?", "vi": "chính xác thì chuyện gì?", "ex": "What happened exactly?", "exvi": "Chính xác thì chuyện gì xảy ra?" },
+                { "w": "Sit down, I'll explain", "vi": "ngồi xuống đi, mình kể cho", "ex": "Sit down, I'll explain everything.", "exvi": "Ngồi xuống đi, mình kể hết cho." },
+                { "w": "Neither can I", "vi": "mình cũng không tin nổi", "ex": "Neither can I!", "exvi": "Mình cũng không tin nổi!", "note": "Đáp cho câu phủ định — đảo trật tự: <i>Neither can I</i>, không phải <i>I can't neither</i>." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I can't believe we won!",
+                  "vi": "Không ngờ mình thắng rồi!",
+                  "note": "Chiều VUI SƯỚNG — lên giọng mạnh. Chữ <i>that</i> đã được bỏ, rất tự nhiên.",
+                  "open": { "en": "Have you seen the results?", "vi": "Bạn xem kết quả chưa?" },
+                  "reply": [
+                    { "them": "I know, right? I'm speechless.", "themvi": "Đúng không? Mình không nói nên lời.", "you": "Neither can I!", "youvi": "Mình cũng không tin nổi!" },
+                    { "them": "Believe it! Congratulations!", "themvi": "Tin đi! Chúc mừng bạn!", "you": "We have to celebrate.", "youvi": "Phải ăn mừng thôi." }
+                  ],
+                  "close": { "en": "Drinks are on me.", "vi": "Đồ uống mình mời." }
+                },
+                {
+                  "en": "I can't believe you remembered!",
+                  "vi": "Không ngờ bạn vẫn nhớ!",
+                  "note": "Lời cảm động rất ấm — khi ai đó nhớ một chi tiết nhỏ về bạn mà bạn tưởng họ đã quên.",
+                  "reply": [
+                    { "them": "Of course I did.", "themvi": "Tất nhiên là mình nhớ rồi.", "you": "That means a lot.", "youvi": "Điều đó có ý nghĩa lắm." }
+                  ],
+                  "vars": [
+                    { "en": "I can't believe you came all this way.", "vi": "Không ngờ bạn đi xa thế này đến." }
+                  ]
+                },
+                {
+                  "en": "I can't believe it's already Friday.",
+                  "vi": "Không ngờ đã thứ Sáu rồi.",
+                  "note": "Cảm thán về thời gian trôi nhanh — câu xã giao rất tự nhiên ở công sở và giữa bạn bè.",
+                  "reply": [
+                    { "them": "Where does the time go?", "themvi": "Thời gian trôi đi đâu hết nhỉ? Xem [Khung 77].", "you": "This week flew by.", "youvi": "Tuần này trôi vèo." }
+                  ]
+                },
+                {
+                  "en": "I couldn't believe my eyes.",
+                  "vi": "Tôi không tin nổi vào mắt mình.",
+                  "note": "Thành ngữ cố định — <b>eyes</b> khi nhìn thấy, <b>ears</b> khi nghe thấy. Đừng đổi từ.",
+                  "reply": [
+                    { "them": "What happened exactly?", "themvi": "Chính xác thì chuyện gì xảy ra?", "you": "Sit down, I'll explain.", "youvi": "Ngồi xuống đi, mình kể cho." }
+                  ],
+                  "close": { "en": "You'd have to see it to believe it.", "vi": "Phải tận mắt thấy mới tin được." }
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I can't believe how fast it was.",
+                  "vi": "Không ngờ nó nhanh đến vậy.",
+                  "note": "Ghép với <b>how</b> để nhấn vào MỨC ĐỘ — nghe tự nhiên hơn nhiều so với dịch thẳng.",
+                  "reply": [
+                    { "them": "The new system helped.", "themvi": "Hệ thống mới giúp nhiều.", "you": "Two days instead of two weeks.", "youvi": "Hai ngày thay vì hai tuần." }
+                  ],
+                  "close": { "en": "Great work, everyone.", "vi": "Cả nhóm làm tốt lắm." }
+                },
+                {
+                  "en": "I can't believe nobody told me.",
+                  "vi": "Không ngờ chẳng ai báo tôi.",
+                  "note": "Chiều TIÊU CỰC — hạ giọng và nói chậm. Đây là lời trách nhẹ, nên cẩn thận ngữ điệu.",
+                  "reply": [
+                    { "them": "I assumed you'd seen the email.", "themvi": "Tôi tưởng anh/chị đã xem email.", "you": "I wasn't copied in.", "youvi": "Tôi không được cc." }
+                  ],
+                  "vars": [
+                    { "en": "I can't believe I wasn't told.", "vi": "Không ngờ tôi không được báo." }
+                  ]
+                },
+                {
+                  "en": "I can't believe they cancelled at this stage.",
+                  "vi": "Không ngờ họ hủy vào giai đoạn này.",
+                  "reply": [
+                    { "them": "I had the same reaction.", "themvi": "Tôi cũng phản ứng y vậy.", "you": "What's the reason?", "youvi": "Lý do là gì?" }
+                  ]
+                },
+                {
+                  "en": "I can't believe it's been a year already.",
+                  "vi": "Không ngờ đã một năm rồi.",
+                  "note": "Dùng khi đánh dấu mốc thời gian — kỷ niệm ngày vào công ty, ngày ra mắt sản phẩm.",
+                  "reply": [
+                    { "them": "Time flies, doesn't it?", "themvi": "Thời gian trôi nhanh nhỉ?", "you": "Feels like last month.", "youvi": "Cảm giác như tháng trước." }
+                  ],
+                  "close": { "en": "Here's to the next one.", "vi": "Chúc mừng năm tiếp theo." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I can't believe how much it costs.",
+                  "vi": "Không ngờ nó đắt đến vậy.",
+                  "note": "Cách chê giá bằng cảm thán — nhẹ hơn nói thẳng <i>it's too expensive</i>.",
+                  "reply": [
+                    { "them": "It's imported, I'm afraid.", "themvi": "E là hàng nhập ạ.", "you": "Even so, that's a lot.", "youvi": "Dù vậy vẫn là nhiều." }
+                  ],
+                  "close": { "en": "I'll think about it.", "vi": "Để tôi cân nhắc." }
+                },
+                {
+                  "en": "I can't believe my luck — it's the last one!",
+                  "vi": "May thế chứ — cái cuối cùng đây này!",
+                  "note": "Sau <i>believe</i> có thể là DANH TỪ (<i>my luck</i>), không nhất thiết phải là mệnh đề.",
+                  "reply": [
+                    { "them": "You're just in time.", "themvi": "Anh/chị đến vừa kịp ạ.", "you": "I'll take it right now.", "youvi": "Tôi lấy luôn." }
+                  ],
+                  "vars": [
+                    { "en": "What luck!", "vi": "May quá!" }
+                  ]
+                },
+                {
+                  "en": "I can't believe it's half price.",
+                  "vi": "Không ngờ giảm còn nửa giá.",
+                  "reply": [
+                    { "them": "Sale ends today.", "themvi": "Khuyến mãi kết thúc hôm nay ạ.", "you": "Then I'll take two.", "youvi": "Vậy tôi lấy hai cái." }
+                  ]
+                },
+                {
+                  "en": "Unbelievable — it broke after a week.",
+                  "vi": "Không thể tin nổi — mới một tuần đã hỏng.",
+                  "note": "Một từ <b>Unbelievable</b> dùng được cho cả vui lẫn bực — ở đây ngữ cảnh làm rõ là bực.",
+                  "reply": [
+                    { "them": "That's not acceptable. Let me help.", "themvi": "Vậy là không chấp nhận được. Để em giúp ạ.", "you": "I've got the receipt here.", "youvi": "Tôi có hóa đơn đây." }
+                  ],
+                  "close": { "en": "Thank you for sorting it.", "vi": "Cảm ơn em đã xử lý." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I can't believe how cold it is!",
+                  "vi": "Không ngờ trời lạnh đến vậy!",
+                  "reply": [
+                    { "them": "It's colder than usual this year.", "themvi": "Năm nay lạnh hơn mọi năm.", "you": "I packed all the wrong clothes.", "youvi": "Mình xếp toàn đồ sai." }
+                  ]
+                },
+                {
+                  "en": "I can't believe they cancelled the flight.",
+                  "vi": "Không ngờ họ hủy chuyến bay.",
+                  "note": "Chiều sốc và bất bình — hạ giọng, nói chậm. Kèm câu hỏi tiếp để chuyển sang giải quyết.",
+                  "reply": [
+                    { "them": "There's another at six.", "themvi": "Còn chuyến khác lúc sáu giờ ạ.", "you": "Can you put us on it?", "youvi": "Em xếp chúng tôi vào chuyến đó được không?" }
+                  ],
+                  "close": { "en": "Thanks for sorting it out.", "vi": "Cảm ơn đã xử lý giúp." }
+                },
+                {
+                  "en": "I couldn't believe my ears when they announced it.",
+                  "vi": "Tôi không tin nổi vào tai mình khi họ thông báo.",
+                  "note": "<b>ears</b> khi NGHE thấy — thành ngữ song song với <i>my eyes</i> khi nhìn thấy.",
+                  "reply": [
+                    { "them": "What did they say?", "themvi": "Họ nói gì?", "you": "Free upgrade for everyone.", "youvi": "Nâng hạng miễn phí cho tất cả." }
+                  ]
+                },
+                {
+                  "en": "I can't believe how beautiful this is.",
+                  "vi": "Không ngờ ở đây đẹp đến vậy.",
+                  "reply": [
+                    { "them": "Photos don't do it justice.", "themvi": "Ảnh không diễn tả nổi.", "you": "Not even close.", "youvi": "Còn lâu mới bằng." }
+                  ],
+                  "vars": [
+                    { "en": "This is incredible.", "vi": "Chỗ này thật phi thường." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I can't believe how good this is.",
+                  "vi": "Không ngờ món này ngon đến vậy.",
+                  "note": "Lời khen mạnh — ghép <b>how</b> với tính từ để nhấn vào mức độ.",
+                  "reply": [
+                    { "them": "Told you!", "themvi": "Đã bảo mà!", "you": "You were right. I'm sorry I doubted you.", "youvi": "Bạn đúng. Xin lỗi vì đã nghi ngờ." }
+                  ],
+                  "close": { "en": "We're coming back next week.", "vi": "Tuần sau mình quay lại." }
+                },
+                {
+                  "en": "I can't believe the portion size!",
+                  "vi": "Không ngờ phần ăn to thế!",
+                  "reply": [
+                    { "them": "We should have shared.", "themvi": "Lẽ ra mình nên ăn chung.", "you": "Box to take home?", "youvi": "Xin hộp mang về nhé?" }
+                  ]
+                },
+                {
+                  "en": "No way — they're closed?",
+                  "vi": "Không thể nào — họ đóng cửa á?",
+                  "note": "<b>No way</b> rất thân mật — chỉ dùng với bạn bè, không dùng với khách hàng hay nhân viên.",
+                  "reply": [
+                    { "them": "Sign says renovations.", "themvi": "Biển ghi đang sửa chữa.", "you": "I can't believe we came all this way.", "youvi": "Không ngờ mình đi xa thế này." }
+                  ],
+                  "vars": [
+                    { "en": "You're kidding!", "vi": "Bạn đùa à!" }
+                  ]
+                },
+                {
+                  "en": "I can't believe you remembered my order.",
+                  "vi": "Không ngờ em vẫn nhớ món tôi gọi.",
+                  "reply": [
+                    { "them": "Same every Tuesday!", "themvi": "Thứ Ba nào cũng vậy ạ!", "you": "You've made my day.", "youvi": "Em làm ngày của tôi tươi sáng. Xem [Khung 83]." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Nhận tin thắng thầu",
+          "lines": [
+            { "speaker": "Colleague", "en": "Have you seen the results? We got the contract.", "vi": "Anh/chị xem kết quả chưa? Mình được hợp đồng rồi." },
+            { "speaker": "You", "me": true, "en": "No way! I can't believe we won.", "vi": "Không thể nào! Không ngờ mình thắng." },
+            { "speaker": "Colleague", "en": "I know, right? I'm speechless.", "vi": "Đúng không? Tôi không nói nên lời." },
+            { "speaker": "You", "me": true, "en": "I can't believe how fast they decided. It was only Tuesday.", "vi": "Không ngờ họ quyết nhanh đến vậy. Mới thứ Ba mà." },
+            { "speaker": "Colleague", "en": "Who'd have thought?", "vi": "Ai mà ngờ được?" },
+            { "speaker": "You", "me": true, "en": "Congratulations — you deserve it. Drinks are on me.", "vi": "Chúc mừng — anh/chị xứng đáng. Đồ uống tôi mời." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Nghe tin chuyến bay bị hủy",
+          "lines": [
+            { "speaker": "Staff", "en": "I'm afraid the flight has been cancelled.", "vi": "E là chuyến bay đã bị hủy ạ." },
+            { "speaker": "You", "me": true, "en": "I can't believe it. We've been here since five.", "vi": "Không thể tin nổi. Chúng tôi ở đây từ năm giờ." },
+            { "speaker": "Staff", "en": "I completely understand. There's another at six.", "vi": "Em hoàn toàn hiểu ạ. Còn chuyến khác lúc sáu giờ." },
+            { "speaker": "You", "me": true, "en": "I couldn't believe my ears when they announced it. Can you put us on it?", "vi": "Tôi không tin nổi vào tai mình khi họ thông báo. Em xếp chúng tôi vào chuyến đó được không?" },
+            { "speaker": "Staff", "en": "Of course. Two seats together?", "vi": "Vâng ạ. Hai ghế cạnh nhau ạ?" },
+            { "speaker": "You", "me": true, "en": "Please. And I can't believe you sorted it so quickly — thank you.", "vi": "Vâng. Và không ngờ em xử lý nhanh thế — cảm ơn em." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I'm not believing it!", "right": "I can't believe it!", "why": "<b>believe</b> là động từ trạng thái — không chia tiếp diễn. Giống <i>agree</i> ở [Khung 51]." },
+            { "wrong": "I can't believe him. <i>(ý: kinh ngạc về tin đó)</i>", "right": "I can't believe it.", "why": "<i>can't believe <b>him</b></i> nghe như bạn không tin LỜI anh ta. Để cảm thán thì dùng <b>it</b>." },
+            { "wrong": "I can't believe how it is cold.", "right": "I can't believe how cold it is.", "why": "Sau <b>how</b> là TÍNH TỪ rồi mới đến chủ ngữ và động từ: <i>how cold it is</i>." },
+            { "wrong": "I can't believe my nose.", "right": "I can't believe my eyes. / my ears.", "why": "Thành ngữ chỉ có hai dạng cố định — <b>eyes</b> khi nhìn thấy, <b>ears</b> khi nghe thấy." },
+            { "wrong": "Congratulation!", "right": "Congratulations!", "why": "Luôn có <b>-s</b> ở cuối. Dạng số ít <i>congratulation</i> không dùng làm lời chúc mừng." },
+            { "wrong": "I can't believe neither.", "right": "Neither can I.", "why": "Đáp cho câu phủ định phải ĐẢO TRẬT TỰ: <b>Neither can I</b>, không phải <i>I can't neither</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu", "Sắc thái", "Ghi chú"],
+          "rows": [
+            ["<code>I can't believe it!</code>", "Kinh ngạc — cả vui lẫn sốc", "Không phải nghi ngờ."],
+            ["<code>I don't believe it!</code>", "Thường cũng là kinh ngạc", "Tùy ngữ điệu. Xem [Khung 43]."],
+            ["<code>I don't believe him.</code>", "Nghi ngờ lời ai đó", "Khác hẳn — đây là không tin."],
+            ["<code>I can't believe how…</code>", "Kinh ngạc về mức độ", "<i>how cold it is</i>"],
+            ["<code>Unbelievable!</code>", "Cảm thán một từ", "Vui hoặc bực, tùy giọng."],
+            ["<code>No way!</code>", "Rất thân mật", "Chỉ với bạn bè."],
+            ["<code>I'm speechless.</code>", "Choáng nặng", "Mạnh, dùng khi thật sự sốc."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — phản ứng với một tin bất ngờ" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Really? That's surprising.", "vi": "Nhẹ nhất — ngạc nhiên vừa" },
+            { "en": "I can't believe it.", "vi": "Kinh ngạc — chuẩn mực" },
+            { "en": "You're kidding! No way!", "vi": "Thân mật, mạnh" },
+            { "en": "I couldn't believe my ears.", "vi": "Kể lại sự choáng váng" },
+            { "en": "I'm speechless.", "vi": "Mạnh nhất — choáng hoàn toàn" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>can't</b> ở Anh đọc là <b>/kɑːnt/</b> (a dài), ở Mỹ là <b>/kænt/</b> — chọn một và giữ nhất quán.",
+            "<b>can't believe</b> → âm /t/ gần như biến mất, nghe như <b>“kaan-bi-LEEV”</b>.",
+            "<b>believe</b> nhấn âm thứ hai: bi-<b>LEEV</b> — người Việt hay nhấn nhầm vào âm đầu.",
+            "<b>Nhấn mạnh và kéo dài BELIEVE</b> — đó là chỗ mang toàn bộ cảm xúc của câu.",
+            "<b>Giọng lên cao cho tin vui</b>, <b>giọng hạ thấp và chậm cho tin sốc</b> — cùng câu chữ, hai cảm xúc.",
+            "<b>Unbelievable</b> nhấn âm thứ ba: un-bi-<b>LEE</b>-və-bl — năm âm tiết, tập nói chậm trước."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I can't believe we won!", "vi": "Luyện shadowing: “kaan-bi-LEEV”, lên giọng mạnh ở cuối." },
+            { "en": "I can't believe he said that.", "vi": "Tập cùng câu nhưng hạ giọng, nói chậm — cảm xúc đổi hẳn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Không ngờ mình thắng!", "blank": "__________ we won!", "a": "I can't believe" },
+            { "vi": "Không ngờ trời lạnh đến vậy!", "blank": "I can't believe __________!", "a": "how cold it is" },
+            { "vi": "Tôi không tin nổi vào mắt mình.", "blank": "I couldn't believe __________.", "a": "my eyes" },
+            { "vi": "May thế chứ!", "blank": "I can't believe __________!", "a": "my luck" },
+            { "vi": "Ai mà ngờ được?", "blank": "__________?", "a": "Who'd have thought" },
+            { "vi": "Mình cũng không tin nổi!", "blank": "__________!", "a": "Neither can I (đảo trật tự)" },
+            { "vi": "Chúc mừng bạn!", "blank": "__________!", "a": "Congratulations (nhớ -s)" },
+            { "vi": "Tôi không nói nên lời.", "blank": "I'm __________.", "a": "speechless" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Không ngờ mình thắng rồi!", "a": "I can't believe we won!" },
+            { "vi": "2. Không ngờ nó nhanh đến vậy.", "a": "I can't believe how fast it was." },
+            { "vi": "3. Không ngờ chẳng ai báo tôi.", "a": "I can't believe nobody told me." },
+            { "vi": "4. Tôi không tin nổi vào tai mình khi họ thông báo.", "a": "I couldn't believe my ears when they announced it." },
+            { "vi": "5. Không ngờ đã một năm rồi.", "a": "I can't believe it's been a year already." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Nhớ rằng đây không phải nghi ngờ</b> — <i>I can't believe it</i> nghĩa là kinh ngạc, bạn hoàn toàn tin nó có thật.",
+            "<b>Ngữ điệu quyết định chiều cảm xúc:</b> lên giọng cho tin vui, hạ giọng chậm cho tin sốc.",
+            "<b>Ghép với “how” để nhấn mức độ:</b> <i>I can't believe how fast it was</i> — nghe tự nhiên hơn hẳn.",
+            "<b>Hai thành ngữ cố định:</b> <i>my eyes</i> khi nhìn thấy, <i>my ears</i> khi nghe thấy. Đừng đổi từ khác.",
+            "<b>Đừng chia tiếp diễn</b> — <i>believe</i> là động từ trạng thái, không bao giờ có <i>I'm believing</i>.",
+            "<b>Bài tập 3 phút:</b> viết năm câu <i>I can't believe…</i> về những chuyện bất ngờ trong tháng — ba vui, hai sốc — rồi đọc to với hai ngữ điệu khác nhau."
+          ]
+        }
+      ]
+    }
+  ]
+}

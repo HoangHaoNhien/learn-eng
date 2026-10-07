@@ -1,0 +1,497 @@
+{
+  "id": 53,
+  "group": "Nhóm 6 · Đồng ý & Phản đối",
+  "title": "I see what you mean, but… — Hiểu đã, rồi mới nói tiếp",
+  "subtitle": "Khung câu này công nhận một thứ khác hẳn khung trước: không phải rằng ý kia hay, mà rằng bạn đã thật sự nghe và hiểu. Nó là công cụ hạ nhiệt mạnh nhất khi người đối diện đang bức xúc. Và nó chứa một cặp bẫy tinh tế: I see what you mean khác hẳn I know what you mean.",
+  "pattern": [
+    "I see what you mean, but <em>+ mệnh đề</em>",
+    "I understand where you're coming from, but <em>+ mệnh đề</em>",
+    "I see your point."
+  ],
+  "meaning": "Tôi hiểu ý bạn, nhưng… / Tôi hiểu bạn muốn nói gì…",
+  "grammar": [28, 48],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 5/5" },
+    { "text": "Mạnh nhất khi hạ nhiệt" },
+    { "text": "Trình độ: B1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I see what you mean</span> nói rằng bạn đã <b>nắm được ý</b> của người kia. Nó không khen, không đồng ý — nó chỉ xác nhận rằng thông điệp đã đến nơi. Và chính điều đó mới là thứ người đang bức xúc cần nghe nhất." },
+        { "t": "p", "html": "So với [Khung 52] vốn công nhận <b>giá trị</b> của luận điểm, khung này công nhận <b>sự thấu hiểu</b>. Vì thế nó nghiêng về cảm xúc hơn là lý lẽ, và nó là <b>công cụ hạ nhiệt mạnh nhất</b> khi ai đó đang nóng." },
+        { "t": "p", "html": "Ở đây <i>see</i> không có nghĩa là “nhìn thấy”. Trong tiếng Anh, <b>see = hiểu</b> là một nghĩa hoàn toàn bình thường: <i>I see.</i> = “À, ra vậy.” Đây là nghĩa mà người Việt hay bỏ sót." },
+        { "t": "callout", "html": "<b>BẪY TINH TẾ nhất của khung này:</b> <span class=\"k\">I see what you mean</span> = tôi hiểu lý lẽ của bạn (thường dẫn tới <i>but</i>). Còn <span class=\"k\">I know what you mean</span> = tôi cũng từng thấy vậy, tôi đồng cảm (thường là <b>đồng ý hoàn toàn</b>). Hai câu chỉ khác một từ nhưng khác hẳn nghĩa." },
+        { "t": "h3", "text": "Bốn mức thấu hiểu" },
+        {
+          "t": "table",
+          "head": ["Câu", "Ý thật sự", "Bối cảnh"],
+          "rows": [
+            ["<code>I see what you mean.</code>", "Tôi hiểu lý lẽ của bạn", "Thường dẫn tới <i>but</i>"],
+            ["<code>I know what you mean.</code>", "Tôi cũng thấy vậy", "Đồng cảm — thường là đồng ý"],
+            ["<code>I understand where you're coming from.</code>", "Tôi hiểu vì sao bạn nghĩ thế", "Hạ nhiệt xung đột"],
+            ["<code>I hear you.</code>", "Tôi nghe rồi, tôi hiểu", "Thân mật — ngầm “nhưng chưa đổi gì”"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Câu mạnh nhất để hạ nhiệt:</b> <i>I understand where you're coming from.</i> Nó công nhận cả <b>xuất phát điểm</b> của người kia — tức là hoàn cảnh khiến họ nghĩ như vậy. Gần như không ai giữ được cơn giận sau câu này." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🕊", "title": "Hạ nhiệt người đang bức xúc", "text": "Bối cảnh số 1. <i>I understand where you're coming from.</i>" },
+            { "icon": "🎧", "title": "Xác nhận đã nghe", "text": "<i>I see what you mean.</i> Người kia biết thông điệp đã đến nơi." },
+            { "icon": "⚖️", "title": "Mở đường phản biện", "text": "<i>I see what you mean, but the numbers say otherwise.</i>" },
+            { "icon": "📞", "title": "Xử lý khiếu nại", "text": "<i>I completely understand.</i> Câu bắt buộc của nhân viên dịch vụ." },
+            { "icon": "💬", "title": "Đồng cảm thật lòng", "text": "<i>I know what you mean — same here.</i> Chú ý: <b>know</b>, không phải <b>see</b>." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn thật sự chưa hiểu. Nói dối chỗ này sẽ lộ ngay ở câu sau — dùng [Khung 50]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Chuẩn", "<code>I see what you mean, but + mệnh đề</code>", "I see what you mean, but it costs more."],
+            ["Ngắn gọn", "<code>I see your point.</code>", "I see your point."],
+            ["Đồng cảm", "<code>I know what you mean.</code>", "I know what you mean — same here."],
+            ["Hạ nhiệt mạnh nhất", "<code>I understand where you're coming from.</code>", "I understand where you're coming from."],
+            ["Thân mật (Anh-Mỹ)", "<code>I hear you.</code>", "I hear you, but we've no budget."],
+            ["Rất thân mật", "<code>I get it.</code>", "I get it — you're frustrated."],
+            ["Trang trọng", "<code>I appreciate your concern.</code>", "I appreciate your concern."],
+            ["Xác nhận cảm xúc", "<code>I can see why you'd feel that way.</code>", "I can see why you'd feel that way."],
+            ["Hỏi ngược lại", "<code>Do you see what I mean?</code>", "Do you see what I mean?"],
+            ["Thú nhận chưa hiểu", "<code>I'm not sure I follow.</code>", "I'm not sure I follow. Xem [Khung 50]."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Không chia tiếp diễn.</b> <span class=\"k\">I'm seeing what you mean</span> ✗ — với nghĩa “hiểu”, <i>see</i> là động từ trạng thái, giống <i>believe</i> ở [Khung 43] và <i>agree</i> ở [Khung 51]. Và tất nhiên <i>I am see</i> ✗." },
+        { "t": "callout", "html": "<b>Cẩn thận với “I hear you”.</b> Nó thân mật và thường ngầm mang nghĩa “tôi nghe rồi <b>nhưng chẳng có gì thay đổi</b>”. Với khách hàng đang bức xúc, câu này có thể phản tác dụng." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các cách nói “tôi hiểu”",
+              "items": [
+                { "w": "I see what you mean", "vi": "tôi hiểu ý bạn", "ex": "I see what you mean, but it's not that simple.", "exvi": "Tôi hiểu ý bạn, nhưng không đơn giản vậy.", "note": "Hiểu LÝ LẼ — thường dẫn tới <i>but</i>." },
+                { "w": "I know what you mean", "vi": "tôi cũng thấy vậy", "ex": "I know what you mean — same here.", "exvi": "Mình cũng thấy vậy — mình y hệt.", "note": "BẪY: đây là ĐỒNG CẢM, thường là đồng ý hoàn toàn. Khác hẳn <i>I see what you mean</i>." },
+                { "w": "I see your point", "vi": "tôi hiểu ý bạn", "ex": "I see your point, but let's check first.", "exvi": "Tôi hiểu ý bạn, nhưng kiểm tra trước đã." },
+                { "w": "I understand where you're coming from", "vi": "tôi hiểu vì sao bạn nghĩ vậy", "ex": "I understand where you're coming from.", "exvi": "Tôi hiểu vì sao anh/chị nghĩ vậy.", "note": "Câu hạ nhiệt MẠNH NHẤT — công nhận cả xuất phát điểm của người kia." },
+                { "w": "I hear you", "vi": "tôi nghe rồi, tôi hiểu", "ex": "I hear you, but there's no budget.", "exvi": "Tôi hiểu, nhưng không có ngân sách.", "note": "Thân mật, mang màu Anh-Mỹ. Ngầm nghĩa “nhưng chưa có gì thay đổi” — cẩn thận với khách hàng." },
+                { "w": "I get it", "vi": "tôi hiểu rồi", "ex": "I get it — you're frustrated.", "exvi": "Mình hiểu rồi — bạn đang bực." },
+                { "w": "I completely understand", "vi": "tôi hoàn toàn hiểu", "ex": "I completely understand, sir.", "exvi": "Em hoàn toàn hiểu ạ.", "note": "Câu bắt buộc của nhân viên dịch vụ khi xử lý khiếu nại." },
+                { "w": "I can see why", "vi": "tôi hiểu vì sao", "ex": "I can see why you'd feel that way.", "exvi": "Tôi hiểu vì sao anh/chị cảm thấy vậy.", "note": "Xác nhận CẢM XÚC chứ không phải nội dung — rất mạnh khi ai đó đang buồn bực." },
+                { "w": "That makes sense", "vi": "hợp lý đấy", "ex": "That makes sense now.", "exvi": "Giờ thì hợp lý rồi." },
+                { "w": "I appreciate your concern", "vi": "tôi trân trọng mối lo của bạn", "ex": "I appreciate your concern.", "exvi": "Tôi trân trọng mối lo của anh/chị.", "note": "Trang trọng — hợp email và tình huống chính thức." },
+                { "w": "Fair enough", "vi": "cũng có lý", "ex": "Fair enough, I follow you.", "exvi": "Cũng có lý, mình theo kịp rồi." },
+                { "w": "I see", "vi": "à, ra vậy", "ex": "I see. That explains it.", "exvi": "À ra vậy. Thảo nào.", "note": "BẪY: <i>I see</i> đứng một mình nghĩa là “à ra vậy”, KHÔNG phải “tôi thấy”." }
+              ]
+            },
+            {
+              "title": "Nối sang phần phản biện",
+              "items": [
+                { "w": "but it's not that simple", "vi": "nhưng không đơn giản vậy", "ex": "I see what you mean, but it's not that simple.", "exvi": "Tôi hiểu ý bạn, nhưng không đơn giản vậy đâu." },
+                { "w": "but the numbers say otherwise", "vi": "nhưng số liệu nói khác", "ex": "I see your point, but the numbers say otherwise.", "exvi": "Tôi hiểu ý bạn, nhưng số liệu lại nói khác." },
+                { "w": "but there's no budget", "vi": "nhưng không có ngân sách", "ex": "I hear you, but there's no budget for it.", "exvi": "Tôi hiểu, nhưng không có ngân sách cho việc đó." },
+                { "w": "but we've already committed", "vi": "nhưng mình đã cam kết rồi", "ex": "I see what you mean, but we've already committed.", "exvi": "Tôi hiểu ý bạn, nhưng mình đã cam kết rồi." },
+                { "w": "but my hands are tied", "vi": "nhưng tôi không làm gì được", "ex": "I understand, but my hands are tied.", "exvi": "Tôi hiểu, nhưng tôi không làm gì được.", "note": "<i>my hands are tied</i> = tôi bị ràng buộc, không có quyền quyết. Thành ngữ rất hay." },
+                { "w": "but it's out of my control", "vi": "nhưng chuyện đó ngoài tầm tôi", "ex": "I see your point, but it's out of my control.", "exvi": "Tôi hiểu ý anh/chị, nhưng chuyện đó ngoài tầm tôi." },
+                { "w": "at the same time", "vi": "đồng thời thì", "ex": "I see what you mean. At the same time, we have a deadline.", "exvi": "Tôi hiểu ý bạn. Đồng thời thì mình có hạn chót." },
+                { "w": "that said", "vi": "tuy vậy", "ex": "I see your point. That said, I'd still wait.", "exvi": "Tôi hiểu ý bạn. Tuy vậy, tôi vẫn muốn đợi.", "note": "Tách câu để lời công nhận đứng độc lập. Xem [Khung 52]." },
+                { "w": "the difficulty is", "vi": "cái khó là", "ex": "The difficulty is the timing.", "exvi": "Cái khó là thời điểm." },
+                { "w": "what worries me is", "vi": "điều tôi lo là", "ex": "What worries me is the cost.", "exvi": "Điều tôi lo là chi phí." },
+                { "w": "from our side", "vi": "về phía chúng tôi", "ex": "From our side, it looks different.", "exvi": "Về phía chúng tôi thì trông khác." },
+                { "w": "here's the problem", "vi": "vấn đề nằm ở chỗ", "ex": "Here's the problem, though.", "exvi": "Nhưng vấn đề nằm ở chỗ này." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "Thanks for hearing me out", "vi": "cảm ơn đã nghe tôi nói hết", "ex": "Thanks for hearing me out.", "exvi": "Cảm ơn đã nghe tôi nói hết.", "note": "<i>hear someone out</i> = nghe ai đó nói hết. Cụm rất hay." },
+                { "w": "So what can we do?", "vi": "vậy mình làm gì được?", "ex": "So what can we do about it?", "exvi": "Vậy mình làm gì được về chuyện đó?" },
+                { "w": "I appreciate that", "vi": "tôi trân trọng điều đó", "ex": "I appreciate that, thank you.", "exvi": "Tôi trân trọng điều đó, cảm ơn." },
+                { "w": "Do you though?", "vi": "bạn hiểu thật không?", "ex": "Do you though? Because it doesn't feel like it.", "exvi": "Bạn hiểu thật không? Vì mình không thấy vậy.", "note": "Đáp trả khi thấy lời “tôi hiểu” chỉ là hình thức — khá gay gắt." },
+                { "w": "Exactly", "vi": "đúng vậy", "ex": "Exactly — that's my point.", "exvi": "Đúng vậy — đó là ý tôi." },
+                { "w": "Let me explain again", "vi": "để tôi giải thích lại", "ex": "Let me explain it another way.", "exvi": "Để tôi giải thích theo cách khác." },
+                { "w": "Glad you understand", "vi": "may là bạn hiểu", "ex": "Glad you understand.", "exvi": "May là anh/chị hiểu." },
+                { "w": "That's all I wanted to say", "vi": "tôi chỉ muốn nói vậy thôi", "ex": "That's all I wanted to say.", "exvi": "Tôi chỉ muốn nói vậy thôi." },
+                { "w": "So we're clear?", "vi": "vậy là rõ nhé?", "ex": "So we're clear on that?", "exvi": "Vậy là mình rõ chuyện đó nhé?" },
+                { "w": "I feel heard", "vi": "tôi thấy mình được lắng nghe", "ex": "I feel heard, thank you.", "exvi": "Tôi thấy mình được lắng nghe, cảm ơn." },
+                { "w": "Let's find a way", "vi": "mình tìm cách đi", "ex": "Let's find a way forward.", "exvi": "Mình tìm hướng đi tiếp nhé." },
+                { "w": "No, you don't", "vi": "không, bạn không hiểu đâu", "ex": "No, you don't — not really.", "exvi": "Không, bạn không hiểu đâu — không thật sự hiểu.", "note": "Câu này rất nặng. Nó xuất hiện khi lời “tôi hiểu” bị coi là sáo rỗng." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "I understand where you're coming from, but my hands are tied.",
+                  "vi": "Tôi hiểu vì sao anh/chị nghĩ vậy, nhưng tôi không làm gì được.",
+                  "note": "Câu hạ nhiệt mạnh nhất, ghép với thành ngữ <span class=\"k\">my hands are tied</span> = bị ràng buộc, không có quyền quyết.",
+                  "open": { "en": "Let me be straight with you —", "vi": "Tôi nói thẳng với anh/chị —" },
+                  "reply": [
+                    { "them": "So what can we do?", "themvi": "Vậy mình làm gì được?", "you": "I can escalate it to my manager.", "youvi": "Tôi có thể chuyển lên quản lý." },
+                    { "them": "Thanks for hearing me out.", "themvi": "Cảm ơn đã nghe tôi nói hết.", "you": "Of course. I'll do what I can.", "youvi": "Tất nhiên rồi. Tôi sẽ làm hết sức." }
+                  ],
+                  "close": { "en": "I'll come back to you by Friday.", "vi": "Thứ Sáu tôi sẽ phản hồi lại." }
+                },
+                {
+                  "en": "I see your point, but the numbers say otherwise.",
+                  "vi": "Tôi hiểu ý anh/chị, nhưng số liệu lại nói khác.",
+                  "note": "Công nhận rằng bạn đã hiểu, rồi mới đưa bằng chứng — thứ tự này rất quan trọng.",
+                  "reply": [
+                    { "them": "Which numbers?", "themvi": "Số liệu nào?", "you": "Retention, on slide nine.", "youvi": "Tỷ lệ giữ chân, ở slide chín." }
+                  ],
+                  "vars": [
+                    { "en": "I see what you mean. That said, the data disagrees.", "vi": "Tôi hiểu ý anh/chị. Tuy vậy, dữ liệu lại nói khác." }
+                  ]
+                },
+                {
+                  "en": "I hear you, but there's no budget for it this quarter.",
+                  "vi": "Tôi hiểu, nhưng quý này không có ngân sách cho việc đó.",
+                  "note": "<i>I hear you</i> thân mật và ngầm nghĩa “nhưng chưa có gì đổi” — chỉ dùng trong nội bộ.",
+                  "reply": [
+                    { "them": "Next quarter then?", "themvi": "Vậy quý sau nhé?", "you": "I'll put it on the list now.", "youvi": "Tôi ghi vào danh sách luôn." }
+                  ]
+                },
+                {
+                  "en": "I can see why you'd feel that way.",
+                  "vi": "Tôi hiểu vì sao anh/chị cảm thấy vậy.",
+                  "note": "Xác nhận <b>cảm xúc</b> chứ không phải nội dung — cực mạnh khi ai đó đang buồn bực.",
+                  "reply": [
+                    { "them": "It's been a frustrating month.", "themvi": "Cả tháng nay thật bực bội.", "you": "Let's find a way forward together.", "youvi": "Mình cùng tìm hướng đi tiếp nhé." }
+                  ],
+                  "close": { "en": "Thanks for telling me.", "vi": "Cảm ơn đã nói với tôi." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "I completely understand, but the receipt is over a year old.",
+                  "vi": "Em hoàn toàn hiểu ạ, nhưng hóa đơn đã hơn một năm rồi.",
+                  "note": "Câu bắt buộc của nhân viên dịch vụ: hiểu trước, rồi mới nêu quy định.",
+                  "reply": [
+                    { "them": "But it broke after two months!", "themvi": "Nhưng nó hỏng sau hai tháng mà!", "you": "I can see why you'd be frustrated.", "youvi": "Em hiểu vì sao anh/chị bực ạ." }
+                  ],
+                  "close": { "en": "Let me see what I can do.", "vi": "Để em xem em làm được gì." }
+                },
+                {
+                  "en": "I see what you mean, but it's still over my budget.",
+                  "vi": "Tôi hiểu ý em, nhưng vẫn vượt ngân sách của tôi.",
+                  "reply": [
+                    { "them": "We have a cheaper model.", "themvi": "Bên em có mẫu rẻ hơn ạ.", "you": "Could I see that one?", "youvi": "Cho tôi xem cái đó được không?" }
+                  ],
+                  "vars": [
+                    { "en": "I see your point, but it's too expensive for me.", "vi": "Tôi hiểu ý em, nhưng với tôi vẫn đắt." }
+                  ]
+                },
+                {
+                  "en": "I appreciate your concern, but I've made up my mind.",
+                  "vi": "Tôi trân trọng lời khuyên của em, nhưng tôi đã quyết rồi.",
+                  "note": "Trang trọng và dứt khoát — chặn khéo một lời chào bán kéo dài.",
+                  "reply": [
+                    { "them": "Of course. Shall I wrap it up?", "themvi": "Vâng ạ. Em gói lại nhé?", "you": "Yes please.", "youvi": "Vâng, cảm ơn." }
+                  ]
+                },
+                {
+                  "en": "I get it — you're trying to help. But I just need the basic one.",
+                  "vi": "Tôi hiểu — em đang muốn giúp. Nhưng tôi chỉ cần bản cơ bản.",
+                  "reply": [
+                    { "them": "No problem at all.", "themvi": "Không vấn đề gì ạ.", "you": "Thanks for understanding.", "youvi": "Cảm ơn em đã hiểu." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "I know what you mean — same here.",
+                  "vi": "Mình cũng thấy vậy — mình y hệt.",
+                  "note": "BẪY: dùng <b>know</b>, không phải <i>see</i>. Đây là <b>đồng cảm</b>, hoàn toàn không có <i>but</i> theo sau.",
+                  "reply": [
+                    { "them": "Right? Nobody ever mentions it.", "themvi": "Đúng không? Chẳng ai nhắc đến cả.", "you": "It's a relief to hear it's not just me.", "youvi": "Nhẹ cả người khi biết không chỉ mình mình vậy." }
+                  ]
+                },
+                {
+                  "en": "I understand where you're coming from, honestly.",
+                  "vi": "Thật lòng thì mình hiểu vì sao bạn nghĩ vậy.",
+                  "note": "Công nhận cả hoàn cảnh dẫn tới suy nghĩ đó — gần như không ai giữ được cơn giận sau câu này.",
+                  "open": { "en": "Can I say something?", "vi": "Cho mình nói một câu nhé?" },
+                  "reply": [
+                    { "them": "Do you though?", "themvi": "Bạn hiểu thật không?", "you": "I do. I'd have felt the same.", "youvi": "Thật mà. Mình mà là bạn cũng vậy." }
+                  ],
+                  "close": { "en": "I'm sorry it landed like that.", "vi": "Xin lỗi vì chuyện thành ra như vậy." }
+                },
+                {
+                  "en": "I see what you mean, but I still think you should tell her.",
+                  "vi": "Mình hiểu ý bạn, nhưng mình vẫn nghĩ bạn nên nói với cô ấy.",
+                  "reply": [
+                    { "them": "It'll only make it worse.", "themvi": "Nói ra chỉ tệ hơn thôi.", "you": "Not telling her will, eventually.", "youvi": "Không nói thì rồi cũng tệ hơn." }
+                  ],
+                  "vars": [
+                    { "en": "I hear you, but she'll find out anyway.", "vi": "Mình hiểu, nhưng rồi cô ấy cũng biết thôi." }
+                  ]
+                },
+                {
+                  "en": "I can see why you'd feel that way.",
+                  "vi": "Mình hiểu vì sao bạn cảm thấy vậy.",
+                  "reply": [
+                    { "them": "I feel heard, thank you.", "themvi": "Mình thấy được lắng nghe, cảm ơn.", "you": "Any time.", "youvi": "Lúc nào cũng vậy mà." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "I see what you mean, but we'd miss the last train.",
+                  "vi": "Mình hiểu ý bạn, nhưng mình sẽ lỡ chuyến tàu cuối.",
+                  "reply": [
+                    { "them": "We could get a taxi.", "themvi": "Mình đi taxi được mà.", "you": "At that price? Let's just go now.", "youvi": "Với giá đó à? Thôi đi luôn đi." }
+                  ]
+                },
+                {
+                  "en": "I completely understand, but I did book a room with a view.",
+                  "vi": "Tôi hoàn toàn hiểu, nhưng tôi có đặt phòng có view mà.",
+                  "note": "Hiểu trước, rồi mới nêu quyền lợi của mình — nhân viên sẽ hợp tác hơn nhiều.",
+                  "reply": [
+                    { "them": "Let me check what else is free.", "themvi": "Để em xem còn phòng nào trống ạ.", "you": "I'd appreciate that.", "youvi": "Tôi rất cảm kích." }
+                  ],
+                  "close": { "en": "Thank you for sorting it.", "vi": "Cảm ơn đã xử lý giúp." }
+                },
+                {
+                  "en": "I hear you, but the flight leaves at six either way.",
+                  "vi": "Mình hiểu, nhưng kiểu gì máy bay cũng cất cánh lúc sáu giờ.",
+                  "reply": [
+                    { "them": "Fine, I'll set an alarm.", "themvi": "Được rồi, mình để chuông.", "you": "Two alarms.", "youvi": "Hai cái chuông." }
+                  ]
+                },
+                {
+                  "en": "I understand where you're coming from, but I'd rather not risk it.",
+                  "vi": "Mình hiểu vì sao bạn nghĩ vậy, nhưng mình không muốn mạo hiểm.",
+                  "reply": [
+                    { "them": "What's the worst that could happen?", "themvi": "Tệ nhất thì sao chứ?", "you": "We miss the connection and pay twice.", "youvi": "Lỡ chuyến nối và trả tiền hai lần." }
+                  ],
+                  "vars": [
+                    { "en": "I see your point. At the same time, we've no margin.", "vi": "Mình hiểu ý bạn. Đồng thời thì mình không có dư thời gian." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "I completely understand — let me get that changed for you.",
+                  "vi": "Em hoàn toàn hiểu ạ — để em đổi lại cho anh/chị.",
+                  "note": "Hiểu rồi hành động ngay — đây là chuẩn mực xử lý khiếu nại trong ngành dịch vụ.",
+                  "reply": [
+                    { "them": "Thank you, that's very kind.", "themvi": "Cảm ơn em, tử tế quá.", "you": "No trouble at all.", "youvi": "Không có gì đâu ạ." }
+                  ],
+                  "close": { "en": "It'll be five minutes.", "vi": "Năm phút nữa là có ạ." }
+                },
+                {
+                  "en": "I know what you mean — it's far too salty.",
+                  "vi": "Mình cũng thấy vậy — mặn quá.",
+                  "note": "Dùng <b>know</b> vì đây là đồng cảm, đồng ý hoàn toàn — không có <i>but</i>.",
+                  "reply": [
+                    { "them": "Should we say something?", "themvi": "Mình có nên nói không?", "you": "Let's mention it politely.", "youvi": "Mình nói nhẹ nhàng thôi." }
+                  ]
+                },
+                {
+                  "en": "I see what you mean, but the rest was lovely.",
+                  "vi": "Mình hiểu ý bạn, nhưng mấy món còn lại ngon mà.",
+                  "reply": [
+                    { "them": "Fair enough.", "themvi": "Cũng có lý.", "you": "I'd come back for the dessert alone.", "youvi": "Riêng món tráng miệng mình cũng quay lại." }
+                  ]
+                },
+                {
+                  "en": "I get it — you're not in the mood. Let's just order in.",
+                  "vi": "Mình hiểu — bạn không có hứng. Thôi gọi đồ về đi.",
+                  "reply": [
+                    { "them": "Thanks for understanding.", "themvi": "Cảm ơn bạn đã hiểu.", "you": "Noodles or rice?", "youvi": "Mì hay cơm?" }
+                  ],
+                  "vars": [
+                    { "en": "I hear you — let's stay in.", "vi": "Mình hiểu — mình ở nhà thôi." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Xoa dịu một khách hàng đang bức xúc",
+          "lines": [
+            { "speaker": "Customer", "en": "This is the third time I've called about this!", "vi": "Đây là lần thứ ba tôi gọi về chuyện này rồi!" },
+            { "speaker": "You", "me": true, "en": "I completely understand. I can see why you'd be frustrated.", "vi": "Em hoàn toàn hiểu ạ. Em hiểu vì sao anh/chị bực." },
+            { "speaker": "Customer", "en": "And nobody ever calls back.", "vi": "Và chẳng ai gọi lại cả." },
+            { "speaker": "You", "me": true, "en": "I understand where you're coming from. But my hands are tied on the refund.", "vi": "Em hiểu vì sao anh/chị nghĩ vậy. Nhưng khoản hoàn tiền thì em không tự quyết được." },
+            { "speaker": "Customer", "en": "So what can you do?", "vi": "Vậy em làm được gì?" },
+            { "speaker": "You", "me": true, "en": "I'll escalate it today and call you myself tomorrow.", "vi": "Hôm nay em chuyển lên cấp trên và mai em tự gọi cho anh/chị." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Bất đồng với bạn về một chuyện riêng",
+          "lines": [
+            { "speaker": "Duy", "en": "I just don't think I should tell her.", "vi": "Mình không nghĩ mình nên nói với cô ấy." },
+            { "speaker": "You", "me": true, "en": "I see what you mean, but she'll find out anyway.", "vi": "Mình hiểu ý bạn, nhưng rồi cô ấy cũng biết thôi." },
+            { "speaker": "Duy", "en": "It'll only make things worse.", "vi": "Nói ra chỉ làm mọi chuyện tệ hơn." },
+            { "speaker": "You", "me": true, "en": "I understand where you're coming from, honestly. I'd be scared too.", "vi": "Thật lòng mình hiểu vì sao bạn nghĩ vậy. Mình cũng sẽ sợ." },
+            { "speaker": "Duy", "en": "Do you though?", "vi": "Bạn hiểu thật không?" },
+            { "speaker": "You", "me": true, "en": "I do. But here's the problem — not telling her hurts more later.", "vi": "Thật mà. Nhưng vấn đề nằm ở chỗ — không nói thì sau này còn đau hơn." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "I know what you mean, but the numbers say otherwise.", "right": "I see what you mean, but the numbers say otherwise.", "why": "BẪY TINH TẾ. <b>I know what you mean</b> là ĐỒNG CẢM, hầu như không đi với <i>but</i>. Để phản biện, dùng <b>I see</b>." },
+            { "wrong": "I'm seeing what you mean.", "right": "I see what you mean.", "why": "Với nghĩa “hiểu”, <b>see</b> là động từ trạng thái — không chia tiếp diễn." },
+            { "wrong": "I am see your point.", "right": "I see your point.", "why": "<b>see</b> là động từ — không đi với <i>am/is/are</i>, giống lỗi <i>I am agree</i> ở [Khung 51]." },
+            { "wrong": "I understand you, but it costs more.", "right": "I see what you mean, but it costs more.", "why": "<i>I understand you</i> nghe như bạn đang hiểu <b>con người</b> họ. Muốn nói hiểu Ý thì phải có <i>what you mean</i>." },
+            { "wrong": "I hear you. <i>(nói với khách hàng đang bức xúc)</i>", "right": "I completely understand.", "why": "<i>I hear you</i> thân mật và ngầm nghĩa “nhưng chẳng có gì đổi” — dễ phản tác dụng với khách hàng." },
+            { "wrong": "I see what you mean. <i>(khi bạn thật sự chưa hiểu)</i>", "right": "I'm not sure I follow. Could you explain?", "why": "Nói hiểu khi chưa hiểu sẽ lộ ngay ở câu sau. Dùng [Khung 50] để xin giải thích lại." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Công nhận điều gì", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>I see what you mean, but…</code>", "Tôi hiểu lý lẽ của bạn", "<i>I see what you mean, but…</i> Phản biện."],
+            ["<code>I know what you mean.</code>", "Tôi cũng từng thấy vậy", "<i>I know what you mean — same here.</i> Đồng cảm, đồng ý."],
+            ["<code>I understand where you're coming from.</code>", "Tôi hiểu cả hoàn cảnh của bạn", "Hạ nhiệt xung đột — mạnh nhất."],
+            ["<code>That's a good point, but…</code>", "Luận điểm của bạn có giá trị", "<i>That's a fair point, but…</i> Xem [Khung 52]."],
+            ["<code>I hear you.</code>", "Tôi nghe rồi — ngầm “chưa đổi gì”", "<i>I hear you, but…</i> Thân mật, nội bộ."],
+            ["<code>I agree with you.</code>", "Tôi đồng ý", "<i>I agree with you.</i> Xem [Khung 51]."],
+            ["<code>I'm not sure I follow.</code>", "Tôi chưa hiểu", "<i>I'm not sure I follow.</i> Xem [Khung 50]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — đáp lại người đang bức xúc" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I hear you.", "vi": "Nhẹ nhất — có thể nghe hình thức" },
+            { "en": "I see what you mean.", "vi": "Xác nhận đã hiểu lý lẽ" },
+            { "en": "I completely understand.", "vi": "Chuẩn mực trong dịch vụ" },
+            { "en": "I can see why you'd feel that way.", "vi": "Xác nhận cả cảm xúc" },
+            { "en": "I understand where you're coming from.", "vi": "Mạnh nhất — công nhận cả hoàn cảnh" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>I see</b> nói nhanh dính thành <b>“ai-SEE”</b> — có âm /j/ nhẹ chen vào giữa.",
+            "<b>what you</b> nối âm thành <b>“wə-chu”</b> — âm /t/ gặp /j/ biến thành /tʃ/ như trong <i>church</i>.",
+            "Cả cụm: <b>“ai-SEE-wə-chu-MEEN”</b>, nhấn vào <i>SEE</i> và <i>MEAN</i>.",
+            "<b>where you're</b> → “wer-yor”, nói liền một hơi, không tách rời.",
+            "<b>coming from</b> → “KUM-ing-frəm”, chữ <i>from</i> đọc lướt thành /frəm/.",
+            "<b>Giọng ấm và chậm lại</b> ở cả cụm — chính tốc độ chậm mới truyền tải sự chân thành, nói nhanh nghe như đọc kịch bản."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I see what you mean, but it's not that simple.", "vi": "Luyện shadowing: “ai-SEE-wə-chu-MEEN”, nối /tʃ/ ở what you." },
+            { "en": "I understand where you're coming from.", "vi": "Tập nói chậm và ấm — đây là câu hạ nhiệt, không được nghe vội vã." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Tôi hiểu ý bạn, nhưng không đơn giản vậy.", "blank": "__________, but it's not that simple.", "a": "I see what you mean" },
+            { "vi": "Mình cũng thấy vậy — mình y hệt.", "blank": "__________ — same here.", "a": "I know what you mean (đồng cảm, dùng “know”)" },
+            { "vi": "Tôi hiểu vì sao anh/chị nghĩ vậy.", "blank": "I understand __________.", "a": "where you're coming from" },
+            { "vi": "Tôi hiểu vì sao anh/chị cảm thấy vậy.", "blank": "I __________ you'd feel that way.", "a": "can see why" },
+            { "vi": "Tôi hiểu, nhưng tôi không làm gì được.", "blank": "I understand, but __________.", "a": "my hands are tied" },
+            { "vi": "Em hoàn toàn hiểu ạ.", "blank": "I __________ understand.", "a": "completely" },
+            { "vi": "À ra vậy. Thảo nào.", "blank": "__________. That explains it.", "a": "I see (= “à ra vậy”)" },
+            { "vi": "Cảm ơn đã nghe tôi nói hết.", "blank": "Thanks for __________.", "a": "hearing me out" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tôi hiểu vì sao anh/chị nghĩ vậy, nhưng tôi không làm gì được.", "a": "I understand where you're coming from, but my hands are tied." },
+            { "vi": "2. Tôi hiểu ý anh/chị, nhưng số liệu lại nói khác.", "a": "I see your point, but the numbers say otherwise." },
+            { "vi": "3. Mình cũng thấy vậy — mặn quá.", "a": "I know what you mean — it's far too salty." },
+            { "vi": "4. Tôi hiểu vì sao anh/chị cảm thấy vậy.", "a": "I can see why you'd feel that way." },
+            { "vi": "5. Em hoàn toàn hiểu ạ — để em đổi lại cho anh/chị.", "a": "I completely understand — let me get that changed for you." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Nhớ cặp bẫy:</b> <i>I <b>see</b> what you mean</i> = hiểu lý lẽ (sắp có <i>but</i>). <i>I <b>know</b> what you mean</i> = đồng cảm, đồng ý. Dùng nhầm là đổi hẳn thông điệp.",
+            "<b>Câu vàng để hạ nhiệt:</b> <i>I understand where you're coming from.</i> Học thuộc nguyên cụm — nó cứu bạn trong mọi xung đột.",
+            "<b>Xác nhận cảm xúc mạnh hơn xác nhận nội dung:</b> <i>I can see why you'd feel that way.</i>",
+            "<b>Cẩn thận với “I hear you”</b> — nó ngầm nghĩa “nhưng chẳng có gì đổi”, dễ phản tác dụng với khách hàng.",
+            "<b>Nói chậm lại.</b> Cả cụm này chỉ có tác dụng khi nghe chân thành; nói nhanh là thành sáo rỗng ngay.",
+            "<b>Bài tập 3 phút:</b> nhớ lại 3 lần gần nhất ai đó bức xúc với bạn, viết câu bạn <i>đã</i> nói và câu bạn <i>nên</i> nói bằng <i>I understand where you're coming from</i>."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": 21,
+  "title": "Xem giờ và nói giờ",
+  "teaches": ["past", "to", "quarter", "half", "o'clock", "am", "pm", "is", "are", "fifteen", "twenty", "thirty", "forty-five", "starts", "opens", "closes", "leaves", "Monday", "at", "noon", "midnight", "forty", "oh"],
+  "sections": [
+    {
+      "title": "Bài này dạy gì",
+      "blocks": [
+        { "t": "p", "html": "Xong bài này bạn hỏi giờ, nói giờ, và hẹn giờ được: <i>What time is it?</i> — <i>It's half past seven.</i>" },
+        { "t": "callout", "html": "<b>Có HAI cách nói giờ, và cách dễ hơn hoàn toàn dùng được:</b><br><br>• <b>Cách số</b> — đọc thẳng như trên đồng hồ: <i>seven thirty</i> (7:30)<br>• <b>Cách truyền thống</b> — <i>half past seven</i><br><br>Người bản xứ hiểu cả hai. <b>Mới học thì cứ dùng cách số</b>, không sai bao giờ. Cách truyền thống học để <b>nghe hiểu</b> khi người ta nói với mình." }
+      ]
+    },
+    {
+      "title": "Cần biết trước",
+      "blocks": [
+        { "t": "p", "html": "Bài 19 — số đếm, vì nói giờ chính là đọc số. Bài 17 — <b>What time…?</b> để hỏi giờ." },
+        { "t": "link", "items": [
+          { "id": 19, "label": "Bài 19 — số đếm" },
+          { "id": 17, "label": "Bài 17 — sáu từ để hỏi" }
+        ] }
+      ]
+    },
+    {
+      "title": "Quy tắc",
+      "blocks": [
+        { "t": "table", "head": ["Luật", "Nghĩa là gì", "Ví dụ"], "rows": [
+          ["<b>1.</b> Cách số: đọc giờ rồi đọc phút", "Đơn giản nhất, luôn đúng", "7:30 → <i>seven thirty</i>"],
+          ["<b>2.</b> Nửa đầu giờ dùng <b>past</b> · nửa sau dùng <b>to</b>", "<b>past</b> = đã qua · <b>to</b> = còn thiếu", "<i>ten past seven</i> · <i>ten to eight</i>"],
+          ["<b>3.</b> Hẹn giờ dùng giới từ <b>at</b>", "Khác <b>on</b> (thứ) và <b>in</b> (tháng)", "<i><b>at</b> seven o'clock</i>"]
+        ] },
+        { "t": "h3", "text": "Hai cách nói cùng một giờ" },
+        { "t": "table", "head": ["Đồng hồ", "Cách số (dễ)", "Cách truyền thống"], "rows": [
+          ["7:00", "seven", "seven <b>o'clock</b>"],
+          ["7:05", "seven oh five", "five <b>past</b> seven"],
+          ["7:15", "seven fifteen", "<b>quarter past</b> seven"],
+          ["7:30", "seven thirty", "<b>half past</b> seven"],
+          ["7:45", "seven forty-five", "<b>quarter to</b> eight"],
+          ["7:50", "seven fifty", "ten <b>to</b> eight"]
+        ] },
+        { "t": "callout", "html": "<b>Vì sao 7:45 lại nói là “quarter to EIGHT”?</b><br><br>Vì <b>to</b> nghĩa là <b>còn thiếu bao nhiêu nữa là tới</b>. 7:45 thì còn 15 phút nữa là 8 giờ — nên nói “15 phút nữa tới 8”.<br><br>Tiếng Việt cũng có lối nói này: <i>“tám giờ kém mười lăm”</i>. Hoàn toàn cùng ý.<br><br>Mốc đổi là <b>30 phút</b>: trước nửa giờ dùng <b>past</b>, sau nửa giờ dùng <b>to</b>." },
+        { "t": "h3", "text": "Ba từ cần biết" },
+        { "t": "table", "head": ["Từ", "Nghĩa", "Dùng khi"], "rows": [
+          ["<b>o'clock</b>", "giờ đúng", "chỉ khi phút = 00"],
+          ["<b>quarter</b>", "15 phút (một phần tư)", "7:15 và 7:45"],
+          ["<b>half</b>", "30 phút (nửa) — chữ <code>l</code> CÂM", "7:30"]
+        ] }
+      ]
+    },
+    {
+      "title": "Ví dụ",
+      "blocks": [
+        { "t": "h3", "text": "Giờ đúng" },
+        { "t": "ex", "items": [
+          { "en": "It is seven o'clock.", "vi": "Bảy giờ đúng.", "note": "<b>o'clock</b> chỉ dùng khi phút bằng 00." },
+          { "en": "It is three o'clock.", "vi": "Ba giờ.", "note": "Cùng luật." },
+          { "en": "It's twelve o'clock.", "vi": "Mười hai giờ.", "note": "Dạng rút gọn <i>It's</i> hay dùng hơn." }
+        ] },
+        { "t": "h3", "text": "Cách số — dễ nhất, dùng được mọi lúc" },
+        { "t": "ex", "items": [
+          { "en": "It's seven thirty.", "vi": "Bảy giờ ba mươi.", "note": "Đọc thẳng như trên đồng hồ." },
+          { "en": "It's eight fifteen.", "vi": "Tám giờ mười lăm.", "note": "Không cần nghĩ <i>past</i> hay <i>to</i>." },
+          { "en": "It's nine forty-five.", "vi": "Chín giờ bốn mươi lăm.", "note": "Có gạch nối ở <i>forty-five</i>." },
+          { "en": "It's six oh five.", "vi": "Sáu giờ lẻ năm.", "note": "Phút dưới 10 thì chèn <i>oh</i> (số không)." }
+        ] },
+        { "t": "h3", "text": "past — nửa đầu giờ" },
+        { "t": "ex", "items": [
+          { "en": "It's five past seven.", "vi": "Bảy giờ năm phút.", "note": "5 phút đã qua 7 giờ." },
+          { "en": "It's quarter past eight.", "vi": "Tám giờ mười lăm.", "note": "<b>quarter</b> = 15 phút." },
+          { "en": "It's half past seven.", "vi": "Bảy giờ rưỡi.", "note": "<b>half</b> có chữ <code>l</code> câm — đọc /hɑːf/." },
+          { "en": "It's twenty past nine.", "vi": "Chín giờ hai mươi.", "note": "Dùng được với mọi số phút." }
+        ] },
+        { "t": "h3", "text": "to — nửa sau giờ, nói giờ KẾ TIẾP" },
+        { "t": "ex", "items": [
+          { "en": "It's quarter to eight.", "vi": "Tám giờ kém mười lăm.", "note": "7:45 — còn 15 phút nữa tới 8." },
+          { "en": "It's ten to nine.", "vi": "Chín giờ kém mười.", "note": "8:50 — nói giờ KẾ TIẾP là 9." },
+          { "en": "It's twenty to six.", "vi": "Sáu giờ kém hai mươi.", "note": "5:40." },
+          { "en": "It's five to one.", "vi": "Một giờ kém năm.", "note": "12:55." }
+        ] },
+        { "t": "h3", "text": "at — hẹn giờ" },
+        { "t": "ex", "items": [
+          { "en": "I start work at eight.", "vi": "Tôi bắt đầu làm lúc tám giờ.", "note": "<b>at</b> + giờ." },
+          { "en": "The shop opens at nine.", "vi": "Cửa hàng mở lúc chín giờ.", "note": "Cùng luật." },
+          { "en": "The train leaves at six thirty.", "vi": "Tàu chạy lúc sáu rưỡi.", "note": "<b>at</b> + cách số." },
+          { "en": "I eat lunch at twelve.", "vi": "Tôi ăn trưa lúc mười hai giờ.", "note": "Cùng luật." },
+          { "en": "See you at seven.", "vi": "Gặp bạn lúc bảy giờ.", "note": "Câu hẹn gặp." }
+        ] },
+        { "t": "h3", "text": "Hỏi giờ" },
+        { "t": "ex", "items": [
+          { "en": "What time is it?", "vi": "Mấy giờ rồi?", "note": "Câu hỏi giờ chuẩn." },
+          { "en": "What time is it? — It's half past two.", "vi": "Mấy giờ rồi? — Hai giờ rưỡi.", "note": "Hỏi và đáp đầy đủ." },
+          { "en": "What time do you start work?", "vi": "Mấy giờ bạn bắt đầu làm?", "note": "Hỏi giờ của một việc — mượn <b>do</b>." },
+          { "en": "What time does the shop open?", "vi": "Mấy giờ cửa hàng mở?", "note": "<i>the shop</i> số ít nên dùng <b>does</b>." }
+        ] }
+      ]
+    },
+    {
+      "title": "Tự kiểm tra",
+      "blocks": [
+        { "t": "h3", "text": "Phần 1 — đọc giờ bằng cách số" },
+        { "t": "quiz", "items": [
+          { "vi": "7:30", "a": "seven thirty" },
+          { "vi": "8:15", "a": "eight fifteen" },
+          { "vi": "9:45", "a": "nine forty-five" },
+          { "vi": "6:05", "a": "six oh five" }
+        ] },
+        { "t": "h3", "text": "Phần 2 — cách truyền thống" },
+        { "t": "quiz", "items": [
+          { "vi": "7:30 nói kiểu truyền thống", "a": "half past seven" },
+          { "vi": "8:15 nói kiểu truyền thống", "a": "quarter past eight" },
+          { "vi": "7:45 nói kiểu truyền thống", "a": "quarter to eight — nói giờ KẾ TIẾP" },
+          { "vi": "8:50 nói kiểu truyền thống", "a": "ten to nine" },
+          { "vi": "Mốc nào đổi từ <b>past</b> sang <b>to</b>?", "a": "30 phút — trước nửa giờ dùng past, sau dùng to" }
+        ] },
+        { "t": "h3", "text": "Phần 3 — dùng thật" },
+        { "t": "quiz", "items": [
+          { "vi": "Mấy giờ rồi?", "a": "What time is it?" },
+          { "vi": "Tôi bắt đầu làm lúc tám giờ.", "a": "I start work at eight. — dùng <b>at</b>" },
+          { "vi": "Nhìn đồng hồ ngay lúc này và nói giờ bằng cả hai cách.", "a": "Không có đáp án sẵn — cách số luôn đúng, cách truyền thống để tập thêm" }
+        ] }
+      ]
+    },
+    {
+      "title": "Nhớ ba điều này",
+      "blocks": [
+        { "t": "list", "items": [
+          "<b>Cách số luôn đúng.</b> <i>seven thirty</i> · <i>nine forty-five</i>. Mới học thì dùng cách này, học cách truyền thống để NGHE hiểu.",
+          "<b><code>to</code> thì nói giờ KẾ TIẾP.</b> 7:45 là <i>quarter to <b>eight</b></i>, giống tiếng Việt nói <i>“tám giờ kém mười lăm”</i>.",
+          "<b>Giờ dùng <code>at</code></b> — khác thứ (<b>on</b>) và tháng (<b>in</b>). <i>at seven · on Monday · in June</i>."
+        ] },
+        { "t": "pairs", "items": [
+          { "wrong": "<i>It's quarter to seven.</i> (ý nói 7:45)", "right": "<i>It's quarter to eight.</i>", "why": "<b>to</b> đếm ngược tới giờ KẾ TIẾP. 7:45 còn 15 phút nữa là 8 giờ nên phải nói <i>eight</i>. Nói <i>seven</i> là lệch đúng một tiếng — người nghe sẽ tới sai giờ." },
+          { "wrong": "<i>It's seven thirty o'clock.</i>", "right": "<i>It's seven thirty.</i> hoặc <i>It's half past seven.</i>", "why": "<b>o'clock</b> chỉ dùng khi phút bằng 00. Có phút rồi thì bỏ hẳn nó đi." },
+          { "wrong": "<i>I start work on eight.</i>", "right": "<i>I start work at eight.</i>", "why": "Giờ giấc dùng <b>at</b>. Ba giới từ thời gian chia theo độ lớn: <b>at</b> cho giờ, <b>on</b> cho ngày và thứ, <b>in</b> cho tháng và năm." }
+        ] }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,499 @@
+{
+  "id": 71,
+  "group": "Nhóm 8 · Giới thiệu & Xã giao",
+  "title": "I'm… / My name is… — Giới thiệu bản thân",
+  "subtitle": "Khung câu mở đầu Nhóm 8 và cũng là câu đầu tiên bạn nói trong mọi cuộc gặp. Đơn giản đến mức người học tưởng đã biết, nhưng có ba chỗ dễ sai: trật tự họ tên, cách xưng danh qua điện thoại, và cách giới thiệu khi tên bạn khó đọc với người nước ngoài.",
+  "pattern": [
+    "I'm <em>+ tên</em>.",
+    "My name is <em>+ tên</em>.",
+    "This is <em>+ tên</em>. <em>(giới thiệu người khác)</em>"
+  ],
+  "meaning": "Tôi là… / Tên tôi là…",
+  "grammar": [53, 1, 23],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Câu đầu tiên mọi cuộc gặp" },
+    { "text": "Trình độ: A1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">I'm + tên</span> là cách giới thiệu <b>tự nhiên nhất</b> trong hầu hết tình huống. <span class=\"k\">My name is…</span> trang trọng hơn một bậc — hợp với phỏng vấn, hội nghị, hoặc khi cần rõ ràng để người ta ghi lại." },
+        { "t": "p", "html": "Khác biệt tinh tế: <i>I'm Nam</i> nói rằng bạn <b>là ai</b> trong cuộc trò chuyện này. <i>My name is Nam Nguyen</i> cung cấp một <b>thông tin định danh</b>. Vì thế câu thứ hai hay xuất hiện ở quầy lễ tân, còn câu đầu ở quán cà phê." },
+        { "t": "p", "html": "Với người Việt, điểm cần lưu ý nhất là <b>trật tự họ tên</b>. Tiếng Việt đặt họ trước, tiếng Anh đặt tên trước. Khi giao tiếp quốc tế, hãy giới thiệu bằng <b>tên gọi</b> — đó là thứ người ta sẽ dùng để gọi bạn." },
+        { "t": "callout", "html": "<b>BẪY QUAN TRỌNG khi gọi điện:</b> người bản xứ KHÔNG nói <i>I am Nam</i> qua điện thoại. Họ nói <span class=\"k\">This is Nam</span> hoặc <span class=\"k\">It's Nam</span>. Nói <i>I am Nam</i> nghe rất lạ tai." },
+        { "t": "h3", "text": "Chọn cách nào trong hoàn cảnh nào" },
+        {
+          "t": "table",
+          "head": ["Câu", "Độ trang trọng", "Dùng khi"],
+          "rows": [
+            ["<code>I'm Nam.</code>", "Thân mật, tự nhiên", "Gặp mặt thông thường"],
+            ["<code>My name is Nam Nguyen.</code>", "Trang trọng", "Phỏng vấn, lễ tân, hội nghị"],
+            ["<code>This is Nam.</code>", "Qua điện thoại", "Xưng danh khi gọi điện"],
+            ["<code>Nam. Nice to meet you.</code>", "Rất thân mật", "Bắt tay nhanh, tiệc tùng"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Nếu tên bạn khó đọc với người nước ngoài,</b> hãy chủ động đưa ra cách gọi: <i>I'm Nguyen — but everyone calls me Nam.</i> Điều này giúp người ta thoải mái và nhớ bạn lâu hơn." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🤝", "title": "Gặp mặt lần đầu", "text": "Bối cảnh số 1. <i>Hi, I'm Nam.</i> Ngắn gọn và ấm áp." },
+            { "icon": "💼", "title": "Phỏng vấn, hội nghị", "text": "<i>My name is Nam Nguyen.</i> Trang trọng, rõ ràng." },
+            { "icon": "📞", "title": "Gọi điện", "text": "<i>Hello, this is Nam.</i> KHÔNG phải <i>I am Nam</i>." },
+            { "icon": "👥", "title": "Giới thiệu người khác", "text": "<i>This is my colleague, Mai.</i>" },
+            { "icon": "🗣", "title": "Tên khó đọc", "text": "<i>Everyone calls me Nam.</i> Chủ động đưa cách gọi." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Người ta đã biết bạn. Giới thiệu lại nghe kỳ — dùng [Khung 72]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Thân mật", "<code>I'm + tên.</code>", "Hi, I'm Nam."],
+            ["Trang trọng", "<code>My name is + họ tên.</code>", "My name is Nam Nguyen."],
+            ["Rút gọn", "<code>My name's + tên.</code>", "My name's Nam."],
+            ["Qua điện thoại", "<code>This is + tên.</code>", "Hello, this is Nam."],
+            ["Điện thoại, thân mật", "<code>It's + tên.</code>", "Hi, it's Nam."],
+            ["Đưa cách gọi", "<code>Call me + tên.</code>", "Please, call me Nam."],
+            ["Tên thường được gọi", "<code>I go by + tên.</code>", "I go by Nam."],
+            ["Giới thiệu người khác", "<code>This is + tên.</code>", "This is my colleague, Mai."],
+            ["Trang trọng nhất", "<code>May I introduce myself?</code>", "May I introduce myself? I'm Nam."],
+            ["Nêu vai trò", "<code>I'm + tên, + chức danh.</code>", "I'm Nam, the new analyst."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng nói “I introduce myself”</b> ✗ — nghe cứng như dịch máy. Dạng đúng là <b>Let me introduce myself</b> hoặc <b>May I introduce myself?</b>, và cũng chỉ dùng trong hoàn cảnh khá trang trọng." },
+        { "t": "callout", "html": "<b>Giới thiệu người khác thì dùng “This is”, không phải “He is”.</b> <i>This is my colleague, Mai.</i> ✓ — <i>She is my colleague Mai</i> ✗ nghe như đang kể về người vắng mặt." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Các cách xưng danh",
+              "items": [
+                { "w": "I'm Nam", "vi": "tôi là Nam", "ex": "Hi, I'm Nam.", "exvi": "Chào, tôi là Nam.", "note": "Tự nhiên nhất. Luôn rút gọn <i>I'm</i> khi nói — <i>I am</i> đầy đủ nghe cứng." },
+                { "w": "My name is", "vi": "tên tôi là", "ex": "My name is Nam Nguyen.", "exvi": "Tên tôi là Nam Nguyễn.", "note": "Trang trọng hơn — hợp phỏng vấn, lễ tân, hội nghị." },
+                { "w": "My name's", "vi": "tên tôi là (rút gọn)", "ex": "My name's Nam.", "exvi": "Tên tôi là Nam." },
+                { "w": "This is Nam", "vi": "Nam đây", "ex": "Hello, this is Nam.", "exvi": "Alô, Nam đây ạ.", "note": "BẪY: qua điện thoại dùng <b>This is</b>, KHÔNG phải <i>I am</i>." },
+                { "w": "It's Nam", "vi": "Nam đây", "ex": "Hi, it's Nam.", "exvi": "Chào, Nam đây.", "note": "Thân mật hơn <i>This is</i> — dùng khi gọi người quen." },
+                { "w": "Call me Nam", "vi": "cứ gọi tôi là Nam", "ex": "Please, call me Nam.", "exvi": "Anh/chị cứ gọi tôi là Nam ạ.", "note": "Rất hữu ích khi tên đầy đủ khó đọc với người nước ngoài." },
+                { "w": "I go by Nam", "vi": "tôi hay được gọi là Nam", "ex": "My name's Nguyen, but I go by Nam.", "exvi": "Tên tôi là Nguyễn, nhưng mọi người gọi tôi là Nam.", "note": "<i>go by</i> = được gọi bằng tên nào. Rất tự nhiên." },
+                { "w": "everyone calls me", "vi": "mọi người gọi tôi là", "ex": "Everyone calls me Nam.", "exvi": "Mọi người gọi tôi là Nam." },
+                { "w": "I'm with", "vi": "tôi thuộc bên", "ex": "I'm Nam, I'm with the finance team.", "exvi": "Tôi là Nam, tôi bên tài chính.", "note": "Cách nêu bộ phận rất gọn trong công việc." },
+                { "w": "I'm here about", "vi": "tôi đến về việc", "ex": "I'm Nam, I'm here about the interview.", "exvi": "Tôi là Nam, tôi đến về buổi phỏng vấn.", "note": "Ghép tên với lý do đến — chuẩn mực ở quầy lễ tân." },
+                { "w": "Let me introduce myself", "vi": "để tôi tự giới thiệu", "ex": "Let me introduce myself — I'm Nam.", "exvi": "Để tôi tự giới thiệu — tôi là Nam.", "note": "KHÔNG nói <i>I introduce myself</i> ✗ — nghe như dịch máy." },
+                { "w": "May I introduce myself?", "vi": "cho phép tôi tự giới thiệu?", "ex": "May I introduce myself? I'm Nam Nguyen.", "exvi": "Cho phép tôi tự giới thiệu? Tôi là Nam Nguyễn.", "note": "Trang trọng nhất — hội nghị, sự kiện chính thức." }
+              ]
+            },
+            {
+              "title": "Họ tên & giới thiệu người khác",
+              "items": [
+                { "w": "first name", "vi": "tên gọi", "ex": "My first name is Nam.", "exvi": "Tên gọi của tôi là Nam.", "note": "Trong tiếng Anh đứng TRƯỚC — ngược với tiếng Việt." },
+                { "w": "surname", "vi": "họ", "ex": "My surname is Nguyen.", "exvi": "Họ của tôi là Nguyễn.", "note": "Anh-Anh là <i>surname</i>, Anh-Mỹ hay dùng <i>last name</i>." },
+                { "w": "last name", "vi": "họ", "ex": "Could I have your last name?", "exvi": "Cho tôi xin họ của anh/chị ạ?" },
+                { "w": "full name", "vi": "họ và tên đầy đủ", "ex": "Could I take your full name?", "exvi": "Cho tôi xin họ tên đầy đủ ạ?" },
+                { "w": "middle name", "vi": "tên đệm", "ex": "Do you have a middle name?", "exvi": "Anh/chị có tên đệm không ạ?" },
+                { "w": "How do you spell that?", "vi": "đánh vần thế nào ạ?", "ex": "How do you spell that?", "exvi": "Anh/chị đánh vần giúp được không ạ?", "note": "Câu bạn sẽ nghe rất nhiều — hãy tập đánh vần tên mình sẵn." },
+                { "w": "It's spelt", "vi": "viết là", "ex": "It's spelt N-A-M.", "exvi": "Viết là N-A-M.", "note": "Anh-Anh là <i>spelt</i>, Anh-Mỹ là <i>spelled</i>." },
+                { "w": "This is my colleague", "vi": "đây là đồng nghiệp của tôi", "ex": "This is my colleague, Mai.", "exvi": "Đây là đồng nghiệp của tôi, Mai.", "note": "Giới thiệu người khác dùng <b>This is</b>, không dùng <i>She is</i>." },
+                { "w": "I'd like you to meet", "vi": "tôi muốn giới thiệu bạn với", "ex": "I'd like you to meet Mai.", "exvi": "Tôi muốn giới thiệu anh/chị với Mai.", "note": "Trang trọng và lịch thiệp." },
+                { "w": "Have you two met?", "vi": "hai người gặp nhau chưa?", "ex": "Have you two met?", "exvi": "Hai người đã gặp nhau chưa?", "note": "Cách khéo để dẫn vào một lời giới thiệu." },
+                { "w": "Sorry, I didn't catch your name", "vi": "xin lỗi, tôi chưa nghe rõ tên", "ex": "Sorry, I didn't catch your name.", "exvi": "Xin lỗi, tôi chưa nghe rõ tên anh/chị.", "note": "Cách hỏi lại tên lịch sự nhất — không ai phật lòng." },
+                { "w": "Remind me of your name?", "vi": "nhắc lại tên bạn được không?", "ex": "Sorry, remind me of your name?", "exvi": "Xin lỗi, nhắc lại tên bạn được không?", "note": "Dùng khi bạn từng biết nhưng quên mất — thành thật mà không ngượng." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại",
+              "items": [
+                { "w": "Nice to meet you", "vi": "rất vui được gặp bạn", "ex": "Nice to meet you, Nam.", "exvi": "Rất vui được gặp anh Nam. Xem [Khung 72]." },
+                { "w": "I'm Mai, by the way", "vi": "nhân tiện, tôi là Mai", "ex": "I'm Mai, by the way.", "exvi": "Nhân tiện, tôi là Mai.", "note": "<i>by the way</i> ở cuối làm lời giới thiệu nghe tự nhiên, không trịnh trọng." },
+                { "w": "Good to meet you at last", "vi": "cuối cùng cũng được gặp", "ex": "Good to meet you at last.", "exvi": "Cuối cùng cũng được gặp anh/chị." },
+                { "w": "I've heard a lot about you", "vi": "tôi nghe nói nhiều về bạn", "ex": "I've heard a lot about you.", "exvi": "Tôi nghe nói nhiều về anh/chị lắm.", "note": "Câu xã giao rất ấm — nhưng chỉ nói khi đúng là vậy." },
+                { "w": "How do you spell it?", "vi": "đánh vần thế nào?", "ex": "Nam — how do you spell it?", "exvi": "Nam — đánh vần thế nào ạ?" },
+                { "w": "Did I say that right?", "vi": "tôi nói đúng chưa?", "ex": "Nam — did I say that right?", "exvi": "Nam — tôi nói đúng chưa ạ?", "note": "Rất chu đáo khi gặp tên nước ngoài — người ta sẽ trân trọng." },
+                { "w": "Almost — it's Nam", "vi": "gần đúng — là Nam", "ex": "Almost — it's Nam, with a short A.", "exvi": "Gần đúng — là Nam, chữ A ngắn." },
+                { "w": "Welcome aboard", "vi": "chào mừng gia nhập", "ex": "Welcome aboard, Nam.", "exvi": "Chào mừng Nam gia nhập.", "note": "Câu chào nhân viên mới rất phổ biến." },
+                { "w": "Take a seat", "vi": "mời ngồi", "ex": "Take a seat, he won't be long.", "exvi": "Mời anh/chị ngồi, anh ấy sắp ra ạ." },
+                { "w": "He's expecting you", "vi": "anh ấy đang đợi bạn", "ex": "He's expecting you.", "exvi": "Anh ấy đang đợi anh/chị ạ." },
+                { "w": "And you are…?", "vi": "còn anh/chị là…?", "ex": "And you are…?", "exvi": "Còn anh/chị là…?", "note": "Hỏi tên khi người kia quên giới thiệu — lịch sự mà vẫn rõ ràng." },
+                { "w": "Pleasure", "vi": "hân hạnh", "ex": "Pleasure.", "exvi": "Hân hạnh ạ.", "note": "Rút gọn của <i>It's a pleasure to meet you</i> — ngắn và trang nhã." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "Hi, I'm Nam — I'm with the finance team.",
+                  "vi": "Chào, tôi là Nam — tôi bên tài chính.",
+                  "note": "Ghép tên với bộ phận — cách giới thiệu gọn và hữu ích nhất trong công ty.",
+                  "open": { "en": "Sorry, we haven't met —", "vi": "Xin lỗi, mình chưa gặp nhau —" },
+                  "reply": [
+                    { "them": "Nice to meet you. I'm Mai, from marketing.", "themvi": "Rất vui được gặp anh. Tôi là Mai, bên marketing.", "you": "Good to meet you at last.", "youvi": "Cuối cùng cũng được gặp chị." },
+                    { "them": "Ah, I've heard a lot about you.", "themvi": "À, tôi nghe nói nhiều về anh lắm.", "you": "All good, I hope.", "youvi": "Hy vọng toàn điều tốt." }
+                  ],
+                  "close": { "en": "I'll drop you an email later.", "vi": "Lát tôi gửi chị email." }
+                },
+                {
+                  "en": "My name is Nam Nguyen. I'm here about the interview.",
+                  "vi": "Tôi tên Nam Nguyễn. Tôi đến về buổi phỏng vấn.",
+                  "note": "Dạng trang trọng ghép với lý do đến — chuẩn mực ở quầy lễ tân.",
+                  "reply": [
+                    { "them": "Take a seat, he's expecting you.", "themvi": "Mời anh ngồi, anh ấy đang đợi ạ.", "you": "Thank you.", "youvi": "Cảm ơn chị." }
+                  ],
+                  "vars": [
+                    { "en": "Good morning, my name's Nam Nguyen.", "vi": "Chào buổi sáng, tôi tên Nam Nguyễn." }
+                  ]
+                },
+                {
+                  "en": "Hello, this is Nam from the finance team.",
+                  "vi": "Alô, Nam bên tài chính đây ạ.",
+                  "note": "BẪY: qua điện thoại dùng <b>this is</b>, KHÔNG phải <i>I am Nam</i>.",
+                  "reply": [
+                    { "them": "Hi Nam, what can I do for you?", "themvi": "Chào Nam, tôi giúp gì được?", "you": "It's about the invoice from Tuesday.", "youvi": "Về hóa đơn hôm thứ Ba ạ." }
+                  ]
+                },
+                {
+                  "en": "This is my colleague, Mai. Have you two met?",
+                  "vi": "Đây là đồng nghiệp của tôi, Mai. Hai người gặp nhau chưa?",
+                  "note": "Giới thiệu người khác dùng <b>This is</b>. Thêm <i>Have you two met?</i> để dẫn vào tự nhiên.",
+                  "reply": [
+                    { "them": "Not yet — nice to meet you, Mai.", "themvi": "Chưa — rất vui được gặp chị Mai.", "you": "Mai leads the campaign side.", "youvi": "Chị Mai phụ trách mảng chiến dịch." }
+                  ],
+                  "close": { "en": "I'll leave you two to it.", "vi": "Tôi để hai người nói chuyện." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "Hi, I'm Nam. Nice to meet you.",
+                  "vi": "Chào, mình là Nam. Rất vui được gặp bạn.",
+                  "note": "Cách giới thiệu tự nhiên nhất trong đời sống — ngắn, ấm, không trịnh trọng.",
+                  "reply": [
+                    { "them": "I'm Mai, by the way.", "themvi": "Nhân tiện, mình là Mai.", "you": "How do you know the host?", "youvi": "Bạn quen chủ nhà thế nào?" }
+                  ],
+                  "close": { "en": "Let's get a drink.", "vi": "Đi lấy đồ uống đi." }
+                },
+                {
+                  "en": "My name's Nguyen, but everyone calls me Nam.",
+                  "vi": "Tên mình là Nguyễn, nhưng mọi người gọi mình là Nam.",
+                  "note": "Chủ động đưa ra cách gọi khi tên khó đọc — người ta sẽ thoải mái và nhớ bạn lâu hơn.",
+                  "reply": [
+                    { "them": "Nam — did I say that right?", "themvi": "Nam — mình nói đúng chưa?", "you": "Perfect, thanks for asking.", "youvi": "Chuẩn luôn, cảm ơn bạn đã hỏi." }
+                  ],
+                  "vars": [
+                    { "en": "I go by Nam.", "vi": "Mọi người gọi mình là Nam." }
+                  ]
+                },
+                {
+                  "en": "Sorry, I didn't catch your name.",
+                  "vi": "Xin lỗi, mình chưa nghe rõ tên bạn.",
+                  "note": "Cách hỏi lại tên lịch sự nhất — không ai phật lòng vì nó đổ lỗi cho tiếng ồn.",
+                  "reply": [
+                    { "them": "It's Mai — M-A-I.", "themvi": "Mai — M-A-I.", "you": "Got it. Nice to meet you, Mai.", "youvi": "Hiểu rồi. Rất vui được gặp bạn, Mai." }
+                  ]
+                },
+                {
+                  "en": "Hi, it's Nam.",
+                  "vi": "Chào, Nam đây.",
+                  "note": "<b>It's</b> thân mật hơn <i>This is</i> — dùng khi gọi cho người quen.",
+                  "reply": [
+                    { "them": "Nam! Long time no speak.", "themvi": "Nam! Lâu quá không nói chuyện.", "you": "Too long. How are you?", "youvi": "Lâu thật. Bạn khỏe không?" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "Good evening, my name is Nam Nguyen. I have a booking.",
+                  "vi": "Chào buổi tối, tôi tên Nam Nguyễn. Tôi có đặt phòng.",
+                  "note": "Dạng trang trọng ở quầy lễ tân khách sạn — rõ ràng để nhân viên tra cứu.",
+                  "open": { "en": "Good evening —", "vi": "Chào buổi tối —" },
+                  "reply": [
+                    { "them": "Could I have your last name again?", "themvi": "Cho em xin lại họ của anh ạ?", "you": "Nguyen — N-G-U-Y-E-N.", "youvi": "Nguyễn — N-G-U-Y-E-N." }
+                  ],
+                  "close": { "en": "Thank you, here's my passport.", "vi": "Cảm ơn, đây là hộ chiếu của tôi." }
+                },
+                {
+                  "en": "It's under Nguyen — N-G-U-Y-E-N.",
+                  "vi": "Đặt dưới tên Nguyễn — N-G-U-Y-E-N.",
+                  "note": "<i>under</i> = đặt dưới tên. Hãy tập đánh vần tên mình sẵn — bạn sẽ dùng rất nhiều.",
+                  "reply": [
+                    { "them": "Found it. Two nights, twin room.", "themvi": "Tìm thấy rồi ạ. Hai đêm, phòng hai giường.", "you": "That's right.", "youvi": "Đúng vậy." }
+                  ],
+                  "vars": [
+                    { "en": "The booking's in my surname, Nguyen.", "vi": "Đặt phòng theo họ của tôi, Nguyễn." }
+                  ]
+                },
+                {
+                  "en": "Sorry, how do you spell your name?",
+                  "vi": "Xin lỗi, tên anh/chị đánh vần thế nào ạ?",
+                  "reply": [
+                    { "them": "S-I-O-B-H-A-N. It's pronounced “Shiv-awn”.", "themvi": "S-I-O-B-H-A-N. Đọc là “Shiv-awn” ạ.", "you": "Thanks — I'd never have guessed.", "youvi": "Cảm ơn — tôi chắc chẳng đoán ra." }
+                  ]
+                },
+                {
+                  "en": "Hi, I'm Nam — we're in the room next door.",
+                  "vi": "Chào, tôi là Nam — chúng tôi ở phòng bên cạnh.",
+                  "reply": [
+                    { "them": "Oh hello! I'm Tom.", "themvi": "Ồ chào! Tôi là Tom.", "you": "Sorry if we were noisy last night.", "youvi": "Xin lỗi nếu tối qua chúng tôi ồn." }
+                  ],
+                  "close": { "en": "Have a good trip.", "vi": "Chúc chuyến đi vui vẻ." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "Hi, I'm Nam — I called about the repair.",
+                  "vi": "Chào, tôi là Nam — tôi có gọi về việc sửa chữa.",
+                  "note": "Ghép tên với lý do đến giúp nhân viên tìm hồ sơ nhanh hơn nhiều.",
+                  "reply": [
+                    { "them": "Ah yes. Could I take your full name?", "themvi": "À vâng. Cho em xin họ tên đầy đủ ạ?", "you": "Nam Nguyen — N-G-U-Y-E-N.", "youvi": "Nam Nguyễn — N-G-U-Y-E-N." }
+                  ],
+                  "close": { "en": "Thanks for your help.", "vi": "Cảm ơn em đã giúp." }
+                },
+                {
+                  "en": "It's under Nam, N-A-M.",
+                  "vi": "Đặt dưới tên Nam, N-A-M.",
+                  "reply": [
+                    { "them": "Got it. It's ready for collection.", "themvi": "Thấy rồi ạ. Hàng sẵn sàng để lấy rồi." }
+                  ],
+                  "vars": [
+                    { "en": "The order's in the name of Nguyen.", "vi": "Đơn hàng theo tên Nguyễn." }
+                  ]
+                },
+                {
+                  "en": "Could I take your name, please?",
+                  "vi": "Cho tôi xin tên anh/chị được không ạ?",
+                  "note": "Lịch sự hơn hẳn <i>What's your name?</i> — đây là câu chuẩn của nhân viên dịch vụ.",
+                  "reply": [
+                    { "them": "Mai — M-A-I.", "themvi": "Mai — M-A-I.", "you": "Thank you, Mai. Just a moment.", "youvi": "Cảm ơn chị Mai. Chờ em một chút." }
+                  ]
+                },
+                {
+                  "en": "And you are…?",
+                  "vi": "Còn anh/chị là…?",
+                  "note": "Cách hỏi tên khi người kia quên giới thiệu — lịch sự mà vẫn rõ ràng.",
+                  "reply": [
+                    { "them": "Sorry — Mai, I work with Nam.", "themvi": "Xin lỗi — Mai, tôi làm việc với Nam.", "you": "Of course. Welcome.", "youvi": "Vâng ạ. Xin chào chị." }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "Hi, the booking's under Nam.",
+                  "vi": "Chào, đặt bàn dưới tên Nam ạ.",
+                  "reply": [
+                    { "them": "For four at seven thirty?", "themvi": "Bốn người lúc bảy rưỡi ạ?", "you": "That's us.", "youvi": "Đúng chúng tôi rồi." }
+                  ]
+                },
+                {
+                  "en": "I'm Nam — I think we're at the same table.",
+                  "vi": "Mình là Nam — hình như mình cùng bàn.",
+                  "note": "Cách bắt chuyện ở tiệc cưới hoặc sự kiện có sắp xếp chỗ ngồi.",
+                  "reply": [
+                    { "them": "Looks like it. I'm Mai.", "themvi": "Có vẻ vậy. Mình là Mai.", "you": "How do you know the couple?", "youvi": "Bạn quen cô dâu chú rể thế nào?" }
+                  ],
+                  "close": { "en": "Lovely to meet you.", "vi": "Rất vui được gặp bạn." }
+                },
+                {
+                  "en": "Sorry, remind me of your name?",
+                  "vi": "Xin lỗi, nhắc lại tên bạn được không?",
+                  "note": "Dùng khi bạn từng biết nhưng quên mất — thành thật mà không ngượng.",
+                  "reply": [
+                    { "them": "Mai. We met at the conference.", "themvi": "Mai. Mình gặp nhau ở hội thảo.", "you": "Of course — good to see you again.", "youvi": "À đúng rồi — rất vui được gặp lại." }
+                  ]
+                },
+                {
+                  "en": "This is Mai, a friend from work.",
+                  "vi": "Đây là Mai, bạn cùng chỗ làm.",
+                  "reply": [
+                    { "them": "Nice to meet you, Mai.", "themvi": "Rất vui được gặp bạn, Mai.", "you": "Mai's the one I told you about.", "youvi": "Mai là người mình kể với bạn đấy." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Ngày đầu tiên ở công ty mới",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Sorry, we haven't met — hi, I'm Nam, I'm with the finance team.", "vi": "Xin lỗi, mình chưa gặp nhau — chào, tôi là Nam, tôi bên tài chính." },
+            { "speaker": "Colleague", "en": "Nice to meet you. I'm Mai, from marketing.", "vi": "Rất vui được gặp anh. Tôi là Mai, bên marketing." },
+            { "speaker": "You", "me": true, "en": "Good to meet you at last. I've heard a lot about your team.", "vi": "Cuối cùng cũng được gặp chị. Tôi nghe nói nhiều về nhóm chị." },
+            { "speaker": "Colleague", "en": "All good, I hope! How do you spell your surname?", "vi": "Hy vọng toàn điều tốt! Họ của anh đánh vần thế nào?" },
+            { "speaker": "You", "me": true, "en": "Nguyen — N-G-U-Y-E-N. But everyone calls me Nam.", "vi": "Nguyễn — N-G-U-Y-E-N. Nhưng mọi người gọi tôi là Nam." },
+            { "speaker": "Colleague", "en": "Noted. Welcome aboard, Nam.", "vi": "Đã ghi nhớ. Chào mừng Nam gia nhập." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Nhận phòng khách sạn",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Good evening. My name is Nam Nguyen — I have a booking.", "vi": "Chào buổi tối. Tôi tên Nam Nguyễn — tôi có đặt phòng." },
+            { "speaker": "Receptionist", "en": "Could I have your last name again, please?", "vi": "Cho em xin lại họ của anh ạ?" },
+            { "speaker": "You", "me": true, "en": "Nguyen — N-G-U-Y-E-N.", "vi": "Nguyễn — N-G-U-Y-E-N." },
+            { "speaker": "Receptionist", "en": "Found it. Two nights, twin room. Did I pronounce that right?", "vi": "Thấy rồi ạ. Hai đêm, phòng hai giường. Em đọc tên đúng chưa ạ?" },
+            { "speaker": "You", "me": true, "en": "Almost — but please, call me Nam. It's easier.", "vi": "Gần đúng — nhưng em cứ gọi tôi là Nam cho dễ." },
+            { "speaker": "Receptionist", "en": "Of course, Nam. Here's your key.", "vi": "Vâng ạ, anh Nam. Chìa khóa của anh đây." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Hello, I am Nam. <i>(qua điện thoại)</i>", "right": "Hello, this is Nam.", "why": "BẪY ĐIỆN THOẠI. Người bản xứ dùng <b>this is</b> hoặc <b>it's</b> khi xưng danh qua điện thoại." },
+            { "wrong": "I introduce myself. I'm Nam.", "right": "Let me introduce myself. I'm Nam.", "why": "<i>I introduce myself</i> nghe như dịch máy. Dạng đúng là <b>Let me</b> hoặc <b>May I</b> introduce myself." },
+            { "wrong": "My name is call Nam.", "right": "My name is Nam.", "why": "Thừa <i>call</i>. Hoặc <i>My name is Nam</i>, hoặc <i>They call me Nam</i> — không trộn hai cấu trúc." },
+            { "wrong": "She is my colleague Mai. <i>(khi giới thiệu tại chỗ)</i>", "right": "This is my colleague, Mai.", "why": "Giới thiệu người đang có mặt dùng <b>This is</b>. <i>She is</i> nghe như kể về người vắng mặt." },
+            { "wrong": "What's your name? <i>(nhân viên hỏi khách)</i>", "right": "Could I take your name, please?", "why": "<i>What's your name?</i> hơi cụt trong ngữ cảnh dịch vụ. Câu đúng lịch sự hơn hẳn." },
+            { "wrong": "I am Nam, nice to meet you. <i>(nói nhanh, thân mật)</i>", "right": "I'm Nam, nice to meet you.", "why": "Luôn rút gọn <b>I'm</b> khi nói. Dạng đầy đủ <i>I am</i> nghe cứng và nhấn mạnh bất thường." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu", "Độ trang trọng", "Dùng khi"],
+          "rows": [
+            ["<code>I'm Nam.</code>", "Thân mật, tự nhiên", "Gặp mặt thông thường."],
+            ["<code>My name is Nam Nguyen.</code>", "Trang trọng", "Phỏng vấn, lễ tân, hội nghị."],
+            ["<code>This is Nam.</code>", "Chuẩn điện thoại", "Xưng danh khi gọi điện."],
+            ["<code>It's Nam.</code>", "Thân mật, điện thoại", "Gọi cho người quen."],
+            ["<code>This is my colleague, Mai.</code>", "Giới thiệu người khác", "Khi người đó đang có mặt."],
+            ["<code>May I introduce myself?</code>", "Trang trọng nhất", "Sự kiện chính thức."],
+            ["<code>Nice to meet you.</code>", "Lời đáp", "Xem [Khung 72]."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — giới thiệu bản thân" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "Nam. Nice to meet you.", "vi": "Ngắn nhất — tiệc tùng, bắt tay nhanh" },
+            { "en": "Hi, I'm Nam.", "vi": "Tự nhiên nhất, dùng được mọi nơi" },
+            { "en": "I'm Nam, I'm with the finance team.", "vi": "Thêm bối cảnh — hữu ích trong công việc" },
+            { "en": "My name is Nam Nguyen.", "vi": "Trang trọng — lễ tân, phỏng vấn" },
+            { "en": "May I introduce myself? I'm Nam Nguyen.", "vi": "Trang trọng nhất — sự kiện chính thức" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>I'm</b> đọc là <b>/aɪm/</b> — một âm tiết duy nhất. Đừng tách thành <i>ai-am</i>.",
+            "<b>My name is</b> nói nhanh dính thành <b>“mai-nei-miz”</b> — âm /m/ cuối <i>name</i> nối sang <i>is</i>.",
+            "<b>This is</b> → “thi-siz”, hai từ dính liền, âm /s/ nối sang nguyên âm.",
+            "<b>Nhấn vào TÊN của bạn</b>, không nhấn vào <i>I'm</i> — đó mới là thông tin mới.",
+            "<b>Nói tên chậm hơn phần còn lại một chút</b> — người nghe cần thời gian để tiếp nhận một âm lạ.",
+            "<b>Tập đánh vần tên mình sẵn</b> theo nhịp: N-G-U-Y-E-N, ngắt nhẹ sau mỗi ba chữ cái."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Hi, I'm Nam — I'm with the finance team.", "vi": "Luyện shadowing: nói lướt “hai-aim” rồi nhấn rõ vào NAM." },
+            { "en": "My name is Nam Nguyen.", "vi": "Tập nối “mai-nei-miz” rồi đọc họ tên chậm và rõ." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Chào, tôi là Nam.", "blank": "Hi, __________ Nam.", "a": "I'm (luôn rút gọn khi nói)" },
+            { "vi": "Alô, Nam đây ạ. (qua điện thoại)", "blank": "Hello, __________ Nam.", "a": "this is (KHÔNG phải “I am”)" },
+            { "vi": "Anh/chị cứ gọi tôi là Nam ạ.", "blank": "Please, __________ Nam.", "a": "call me" },
+            { "vi": "Mọi người gọi tôi là Nam.", "blank": "I __________ Nam.", "a": "go by" },
+            { "vi": "Đây là đồng nghiệp của tôi, Mai.", "blank": "__________ my colleague, Mai.", "a": "This is" },
+            { "vi": "Để tôi tự giới thiệu — tôi là Nam.", "blank": "__________ — I'm Nam.", "a": "Let me introduce myself" },
+            { "vi": "Xin lỗi, tôi chưa nghe rõ tên anh/chị.", "blank": "Sorry, I didn't __________.", "a": "catch your name" },
+            { "vi": "Cho tôi xin tên anh/chị được không ạ?", "blank": "__________, please?", "a": "Could I take your name" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Chào, tôi là Nam — tôi bên tài chính.", "a": "Hi, I'm Nam — I'm with the finance team." },
+            { "vi": "2. Alô, Nam bên tài chính đây ạ.", "a": "Hello, this is Nam from the finance team." },
+            { "vi": "3. Tên mình là Nguyễn, nhưng mọi người gọi mình là Nam.", "a": "My name's Nguyen, but everyone calls me Nam." },
+            { "vi": "4. Đây là đồng nghiệp của tôi, Mai. Hai người gặp nhau chưa?", "a": "This is my colleague, Mai. Have you two met?" },
+            { "vi": "5. Xin lỗi, mình chưa nghe rõ tên bạn.", "a": "Sorry, I didn't catch your name." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Qua điện thoại luôn dùng “This is” hoặc “It's”</b> — không bao giờ <i>I am</i>. Đây là bẫy lộ ra ngay.",
+            "<b>Chủ động đưa cách gọi nếu tên bạn khó đọc:</b> <i>My name's Nguyen, but everyone calls me Nam.</i>",
+            "<b>Tập đánh vần tên mình bằng tiếng Anh</b> — bạn sẽ được hỏi rất nhiều lần, hãy làm cho trơn tru.",
+            "<b>Ghép tên với bối cảnh trong công việc:</b> <i>I'm Nam, I'm with the finance team.</i> Người ta nhớ bạn dễ hơn nhiều.",
+            "<b>Học thuộc “Sorry, I didn't catch your name.”</b> — cách hỏi lại tên mà không ai phật lòng.",
+            "<b>Bài tập 3 phút:</b> viết ba phiên bản giới thiệu của bạn — một cho tiệc tùng, một cho công việc, một cho điện thoại — rồi đọc to cả ba."
+          ]
+        }
+      ]
+    }
+  ]
+}

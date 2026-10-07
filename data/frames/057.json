@@ -1,0 +1,496 @@
+{
+  "id": 57,
+  "group": "Nhóm 6 · Đồng ý & Phản đối",
+  "title": "It depends on… — Trả lời “còn tùy” cho đúng cách",
+  "subtitle": "Câu trả lời trung thực nhất cho những câu hỏi không có đáp án duy nhất. Nhưng nó là con dao hai lưỡi: nói It depends rồi dừng lại nghe như né tránh, còn nói It depends on… kèm điều kiện cụ thể lại nghe rất chuyên nghiệp. Và nó chứa một bẫy chia động từ mà rất nhiều người Việt mắc.",
+  "pattern": [
+    "It depends on <em>+ danh từ</em>",
+    "It depends <em>+ mệnh đề wh-</em>",
+    "Depending on <em>+ danh từ</em>, …"
+  ],
+  "meaning": "Còn tùy vào… / Cái đó còn tùy",
+  "grammar": [1, 14, 17, 27],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 4/5" },
+    { "text": "Trả lời trung thực" },
+    { "text": "Trình độ: A2" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "<span class=\"k\">It depends on…</span> nói rằng câu trả lời <b>thay đổi theo một yếu tố khác</b>. Nó không phải là né tránh — nó là cách trung thực nhất để trả lời một câu hỏi vốn không có đáp án duy nhất." },
+        { "t": "p", "html": "Nhưng nó là <b>con dao hai lưỡi</b>. Nói <i>It depends.</i> rồi im lặng nghe như bạn đang lảng tránh. Nói <i>It depends on how many people come.</i> lại nghe rất chuyên nghiệp — vì bạn đã chỉ ra đúng biến số cần biết." },
+        { "t": "p", "html": "Trong công việc, câu này có một sức mạnh riêng: nó <b>đẩy câu hỏi ngược lại</b> một cách lịch sự. Khi ai đó hỏi “bao lâu xong?”, trả lời <i>It depends on when we get the data</i> là bạn vừa trả lời, vừa nhắc họ rằng bạn đang chờ thứ gì đó." },
+        { "t": "callout", "html": "<b>BẪY CHIA ĐỘNG TỪ:</b> chủ ngữ là <i>It</i> nên động từ phải có <b>-s</b>: <span class=\"k\">It depends</span> ✓. Ba lỗi phổ biến nhất của người Việt: <i>It depend</i> ✗ (thiếu s), <i>It's depend</i> ✗ (thừa <i>is</i>), và <i>Depend on…</i> ✗ (thiếu chủ ngữ <i>It</i>)." },
+        { "t": "h3", "text": "Bốn cách dùng" },
+        {
+          "t": "table",
+          "head": ["Câu", "Sau nó là gì", "Ghi chú"],
+          "rows": [
+            ["<code>It depends on the budget.</code>", "Danh từ", "Luôn có <b>on</b>"],
+            ["<code>It depends what you mean.</code>", "Mệnh đề wh-", "Thường <b>bỏ</b> <i>on</i> khi nói"],
+            ["<code>It depends whether they agree.</code>", "Mệnh đề whether", "Dùng <i>whether</i>, không phải <i>if</i>"],
+            ["<code>Depending on the weather, …</code>", "Mở đầu câu", "Không cần <i>It</i>"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Quy tắc “on”:</b> trước <b>danh từ</b> thì bắt buộc có <i>on</i> — <i>It depends on the price.</i> Trước <b>mệnh đề wh-</b> thì người bản xứ thường bỏ <i>on</i> khi nói — <i>It depends what you want.</i> Giữ <i>on</i> cũng không sai, chỉ trang trọng hơn." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "⏱", "title": "Trả lời “bao lâu / bao nhiêu”", "text": "Bối cảnh số 1. <i>It depends on how many people come.</i>" },
+            { "icon": "🔁", "title": "Đẩy câu hỏi ngược lại", "text": "<i>It depends on when we get the data.</i> Nhắc rằng bạn đang chờ." },
+            { "icon": "❓", "title": "Yêu cầu làm rõ", "text": "<i>It depends what you mean by “soon”.</i>" },
+            { "icon": "⚖️", "title": "Từ chối chọn phe", "text": "<i>It depends how you look at it.</i> Không nghiêng về ai." },
+            { "icon": "📋", "title": "Nêu điều kiện trong kế hoạch", "text": "<i>Depending on the weather, we'll go Saturday.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Bạn biết câu trả lời rõ ràng. Nói <i>It depends</i> lúc đó nghe như né tránh trách nhiệm." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Với danh từ", "<code>It depends on + N</code>", "It depends on the budget."],
+            ["Với mệnh đề wh-", "<code>It depends + wh-…</code>", "It depends what you mean."],
+            ["Với whether", "<code>It depends whether + mệnh đề</code>", "It depends whether they agree."],
+            ["Nhấn mạnh", "<code>It all depends on…</code>", "It all depends on timing."],
+            ["Trỏ về điều vừa nói", "<code>That depends.</code>", "That depends, really."],
+            ["Rất thân mật", "<code>Depends.</code>", "“Are you coming?” — “Depends.”"],
+            ["Mở đầu câu", "<code>Depending on + N, …</code>", "Depending on traffic, forty minutes."],
+            ["Nêu yếu tố quyết định", "<code>It's a matter of + N</code>", "It's a matter of priorities."],
+            ["Không có đáp án đơn giản", "<code>There's no simple answer.</code>", "There's no simple answer to that."],
+            ["Tùy góc nhìn", "<code>It depends how you look at it.</code>", "It depends how you look at it."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Luôn là “depend ON”, không bao giờ là “depend of”.</b> ✗ Đây là lỗi bị kéo theo từ cấu trúc tiếng Việt và tiếng Pháp. Cụm cố định: <b>depend on</b>." },
+        { "t": "callout", "html": "<b>Đừng để câu trả lời dừng ở “It depends”.</b> Hãy luôn nối tiếp bằng yếu tố cụ thể: <i>It depends on X.</i> Chỉ khi đó nó mới là câu trả lời chuyên nghiệp thay vì lời lảng tránh." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Danh từ hay đứng sau “depends on”",
+              "items": [
+                { "w": "on the budget", "vi": "tùy ngân sách", "ex": "It depends on the budget.", "exvi": "Còn tùy ngân sách.", "note": "Trước DANH TỪ thì bắt buộc có <b>on</b>. Không bao giờ là <i>depends of</i> ✗." },
+                { "w": "on the weather", "vi": "tùy thời tiết", "ex": "It depends on the weather.", "exvi": "Còn tùy thời tiết." },
+                { "w": "on traffic", "vi": "tùy tình hình giao thông", "ex": "It depends on traffic — thirty to fifty minutes.", "exvi": "Tùy giao thông — ba mươi đến năm mươi phút." },
+                { "w": "on the price", "vi": "tùy giá", "ex": "It depends on the price, honestly.", "exvi": "Thật lòng thì còn tùy giá." },
+                { "w": "on the size", "vi": "tùy kích cỡ", "ex": "It depends on the size you need.", "exvi": "Tùy cỡ anh/chị cần." },
+                { "w": "on the client", "vi": "tùy khách hàng", "ex": "It depends on the client, really.", "exvi": "Thật ra còn tùy khách hàng." },
+                { "w": "on how many people", "vi": "tùy bao nhiêu người", "ex": "It depends on how many people come.", "exvi": "Tùy bao nhiêu người đến." },
+                { "w": "on the day", "vi": "tùy ngày", "ex": "It depends on the day — weekends are busier.", "exvi": "Tùy ngày — cuối tuần đông hơn." },
+                { "w": "on timing", "vi": "tùy thời điểm", "ex": "It all depends on timing.", "exvi": "Tất cả còn tùy thời điểm." },
+                { "w": "on the details", "vi": "tùy chi tiết cụ thể", "ex": "It depends on the details.", "exvi": "Còn tùy chi tiết cụ thể." },
+                { "w": "on your priorities", "vi": "tùy ưu tiên của bạn", "ex": "It depends on your priorities.", "exvi": "Còn tùy ưu tiên của anh/chị." },
+                { "w": "on the circumstances", "vi": "tùy hoàn cảnh", "ex": "It depends on the circumstances.", "exvi": "Còn tùy hoàn cảnh.", "note": "Trang trọng — hợp email và tình huống chính thức." }
+              ]
+            },
+            {
+              "title": "Mệnh đề & các biến thể",
+              "items": [
+                { "w": "what you mean", "vi": "tùy ý bạn là gì", "ex": "It depends what you mean by “soon”.", "exvi": "Còn tùy “sớm” của bạn là thế nào.", "note": "Trước mệnh đề wh-, người bản xứ thường BỎ <i>on</i> khi nói. Giữ lại cũng đúng nhưng trang trọng hơn." },
+                { "w": "what you want", "vi": "tùy bạn muốn gì", "ex": "It depends what you want from it.", "exvi": "Còn tùy anh/chị muốn gì ở nó." },
+                { "w": "how you look at it", "vi": "tùy cách nhìn", "ex": "It depends how you look at it.", "exvi": "Còn tùy cách mình nhìn.", "note": "Câu từ chối chọn phe rất khéo. Xem [Khung 47]." },
+                { "w": "when they reply", "vi": "tùy khi nào họ trả lời", "ex": "It depends when they reply.", "exvi": "Tùy khi nào họ trả lời." },
+                { "w": "whether they agree", "vi": "tùy họ có đồng ý không", "ex": "It depends whether they agree.", "exvi": "Tùy họ có đồng ý không.", "note": "Với hai vế có-không thì dùng <b>whether</b>, không dùng <i>if</i>. Xem [Khung 50]." },
+                { "w": "who's asking", "vi": "tùy ai hỏi", "ex": "It depends who's asking.", "exvi": "Tùy ai hỏi.", "note": "Thường mang sắc thái đùa hoặc bí ẩn." },
+                { "w": "That depends", "vi": "cái đó còn tùy", "ex": "That depends, really.", "exvi": "Cái đó thì còn tùy.", "note": "Dùng <i>That</i> khi trỏ về đúng điều người kia vừa hỏi." },
+                { "w": "It all depends", "vi": "tất cả còn tùy", "ex": "It all depends on timing.", "exvi": "Tất cả còn tùy thời điểm.", "note": "Thêm <i>all</i> để nhấn mạnh rằng có nhiều yếu tố." },
+                { "w": "Depends", "vi": "còn tùy", "ex": "“Are you coming?” — “Depends.”", "exvi": "“Bạn có đến không?” — “Còn tùy.”", "note": "Rất thân mật — lược cả chủ ngữ. Chỉ dùng với bạn bè." },
+                { "w": "Depending on", "vi": "tùy theo", "ex": "Depending on traffic, forty minutes.", "exvi": "Tùy giao thông, khoảng bốn mươi phút.", "note": "Mở đầu câu thì KHÔNG cần <i>It</i>." },
+                { "w": "It's a matter of", "vi": "đó là vấn đề của", "ex": "It's a matter of priorities.", "exvi": "Đó là vấn đề ưu tiên.", "note": "Cách nói trang trọng hơn để chỉ ra yếu tố quyết định." },
+                { "w": "There's no simple answer", "vi": "không có câu trả lời đơn giản", "ex": "There's no simple answer to that.", "exvi": "Chuyện đó không có câu trả lời đơn giản." }
+              ]
+            },
+            {
+              "title": "Cách đáp lại & nối tiếp",
+              "items": [
+                { "w": "Depends on what?", "vi": "tùy vào cái gì?", "ex": "Depends on what exactly?", "exvi": "Cụ thể là tùy vào cái gì?", "note": "Câu hỏi tiếp rất quan trọng — nó buộc người kia nêu biến số cụ thể." },
+                { "w": "Give me a rough idea", "vi": "cho tôi con số đại khái", "ex": "Give me a rough idea.", "exvi": "Cho tôi con số đại khái đi.", "note": "Dùng khi bạn cần một ước lượng dù chưa chắc. Xem [Khung 46]." },
+                { "w": "Best case?", "vi": "tốt nhất thì sao?", "ex": "Best case, worst case?", "exvi": "Tốt nhất thì sao, tệ nhất thì sao?", "note": "Cách ép ra con số rất hiệu quả trong công việc." },
+                { "w": "Fair enough", "vi": "cũng hợp lý", "ex": "Fair enough. Let me know when you know.", "exvi": "Cũng hợp lý. Biết rồi báo tôi nhé." },
+                { "w": "What would make it clearer?", "vi": "cần gì để rõ hơn?", "ex": "What would make it clearer?", "exvi": "Cần gì để chuyện này rõ hơn?" },
+                { "w": "Let's assume the worst", "vi": "cứ giả định tệ nhất", "ex": "Let's assume the worst and plan for it.", "exvi": "Cứ giả định tệ nhất rồi lên kế hoạch." },
+                { "w": "Can you narrow it down?", "vi": "thu hẹp lại được không?", "ex": "Can you narrow it down a bit?", "exvi": "Anh/chị thu hẹp lại chút được không?" },
+                { "w": "That's not very helpful", "vi": "vậy thì không giúp được gì", "ex": "That's not very helpful, though.", "exvi": "Nhưng vậy thì không giúp được gì mấy.", "note": "Phản ứng khi <i>It depends</i> bị coi là lảng tránh — hãy tránh để bị nghe câu này." },
+                { "w": "When will you know?", "vi": "khi nào bạn biết?", "ex": "When will you know for sure?", "exvi": "Khi nào anh/chị biết chắc?" },
+                { "w": "Let's find out", "vi": "mình tìm hiểu xem", "ex": "Let's find out then.", "exvi": "Vậy mình tìm hiểu xem." },
+                { "w": "I'll get back to you", "vi": "tôi sẽ báo lại bạn", "ex": "I'll get back to you once I know.", "exvi": "Biết rồi tôi sẽ báo lại anh/chị." },
+                { "w": "Ballpark figure?", "vi": "con số áng chừng?", "ex": "Ballpark figure?", "exvi": "Áng chừng bao nhiêu?", "note": "<i>ballpark figure</i> = con số ước chừng. Thành ngữ công sở rất phổ biến." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "It depends on when we get the data.",
+                  "vi": "Còn tùy khi nào mình có dữ liệu.",
+                  "note": "Vừa trả lời vừa nhắc khéo rằng bạn đang chờ thứ gì đó — rất hiệu quả trong công việc.",
+                  "open": { "en": "Honest answer?", "vi": "Nói thật nhé?" },
+                  "reply": [
+                    { "them": "Best case, worst case?", "themvi": "Tốt nhất thì sao, tệ nhất thì sao?", "you": "Three days if it arrives Monday, two weeks if not.", "youvi": "Ba ngày nếu thứ Hai có, hai tuần nếu không." },
+                    { "them": "That's not very helpful.", "themvi": "Vậy thì không giúp được gì mấy.", "you": "Fair — I'll commit to three days from receipt.", "youvi": "Đúng — tôi cam kết ba ngày kể từ khi nhận." }
+                  ],
+                  "close": { "en": "I'll get back to you Monday.", "vi": "Thứ Hai tôi sẽ báo lại." }
+                },
+                {
+                  "en": "It depends what you mean by “soon”.",
+                  "vi": "Còn tùy “sớm” của anh/chị là thế nào.",
+                  "note": "Trước mệnh đề wh- thì thường <b>bỏ</b> <i>on</i> khi nói. Đây là cách yêu cầu làm rõ rất khéo.",
+                  "reply": [
+                    { "them": "By Friday.", "themvi": "Trước thứ Sáu.", "you": "Then yes, that's doable.", "youvi": "Vậy thì được, làm được." }
+                  ],
+                  "vars": [
+                    { "en": "It depends what you want from it.", "vi": "Còn tùy anh/chị muốn gì ở nó." }
+                  ]
+                },
+                {
+                  "en": "It all depends on the budget, really.",
+                  "vi": "Thật ra tất cả còn tùy ngân sách.",
+                  "note": "Thêm <i>all</i> để nhấn rằng đây là yếu tố quyết định duy nhất.",
+                  "reply": [
+                    { "them": "Give me a ballpark figure.", "themvi": "Cho tôi con số áng chừng.", "you": "Around two hundred million.", "youvi": "Khoảng hai trăm triệu." }
+                  ]
+                },
+                {
+                  "en": "It depends whether they approve the extra headcount.",
+                  "vi": "Còn tùy họ có duyệt thêm nhân sự không.",
+                  "note": "Với hai vế có-không thì dùng <b>whether</b>, không dùng <i>if</i>.",
+                  "reply": [
+                    { "them": "When will you know?", "themvi": "Khi nào anh/chị biết?", "you": "The board meets on the tenth.", "youvi": "Hội đồng họp ngày mười." }
+                  ],
+                  "close": { "en": "I'll plan for both scenarios.", "vi": "Tôi sẽ lên kế hoạch cho cả hai kịch bản." }
+                }
+              ]
+            },
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "It depends on the size you need.",
+                  "vi": "Còn tùy cỡ anh/chị cần ạ.",
+                  "reply": [
+                    { "them": "Medium, probably.", "themvi": "Chắc cỡ vừa.", "you": "Then it's in stock — I'll grab one.", "youvi": "Vậy còn hàng — để em lấy ạ." }
+                  ]
+                },
+                {
+                  "en": "It depends on the price, honestly.",
+                  "vi": "Thật lòng thì còn tùy giá.",
+                  "note": "Câu này nhắc khéo người bán rằng giá là yếu tố quyết định — mở đường mặc cả.",
+                  "reply": [
+                    { "them": "We can do ten percent off today.", "themvi": "Hôm nay bên em giảm mười phần trăm được ạ.", "you": "Then I'll take it.", "youvi": "Vậy tôi lấy." }
+                  ],
+                  "vars": [
+                    { "en": "It's a matter of price for me.", "vi": "Với tôi thì vấn đề là giá." }
+                  ]
+                },
+                {
+                  "en": "It depends how long the warranty is.",
+                  "vi": "Còn tùy bảo hành bao lâu.",
+                  "reply": [
+                    { "them": "Two years on this model.", "themvi": "Mẫu này hai năm ạ.", "you": "That changes things — I'll take it.", "youvi": "Vậy thì khác rồi — tôi lấy." }
+                  ]
+                },
+                {
+                  "en": "Depending on the colour, maybe.",
+                  "vi": "Tùy màu, có thể.",
+                  "note": "Mở đầu bằng <i>Depending on</i> thì KHÔNG cần <i>It</i>.",
+                  "reply": [
+                    { "them": "We have it in navy and grey.", "themvi": "Bên em có màu xanh than và xám ạ.", "you": "Navy, then.", "youvi": "Vậy lấy xanh than." }
+                  ],
+                  "close": { "en": "I'll take one.", "vi": "Cho tôi một cái." }
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "It depends on traffic — thirty to fifty minutes.",
+                  "vi": "Tùy giao thông — ba mươi đến năm mươi phút.",
+                  "note": "Trả lời “còn tùy” <b>kèm khoảng ước lượng</b> — đây mới là câu trả lời hữu ích.",
+                  "reply": [
+                    { "them": "Let's leave at five then.", "themvi": "Vậy mình đi lúc năm giờ.", "you": "Safer, yes.", "youvi": "Ừ, chắc ăn hơn." }
+                  ]
+                },
+                {
+                  "en": "Depending on the weather, we'll go on Saturday.",
+                  "vi": "Tùy thời tiết, mình sẽ đi thứ Bảy.",
+                  "reply": [
+                    { "them": "And if it rains?", "themvi": "Nếu mưa thì sao?", "you": "Then Sunday, same time.", "youvi": "Thì Chủ nhật, cùng giờ." }
+                  ],
+                  "vars": [
+                    { "en": "It depends on the weather.", "vi": "Còn tùy thời tiết." }
+                  ]
+                },
+                {
+                  "en": "It depends on the day — weekends are much busier.",
+                  "vi": "Tùy ngày ạ — cuối tuần đông hơn nhiều.",
+                  "reply": [
+                    { "them": "What about a Tuesday?", "themvi": "Thứ Ba thì sao ạ?", "you": "Much quieter. I'd go then.", "youvi": "Vắng hơn nhiều. Tôi thì chọn hôm đó." }
+                  ]
+                },
+                {
+                  "en": "It depends whether the connection is delayed.",
+                  "vi": "Còn tùy chuyến nối có bị hoãn không.",
+                  "reply": [
+                    { "them": "Let's assume the worst.", "themvi": "Cứ giả định tệ nhất đi.", "you": "Then we book a hotel near the airport.", "youvi": "Vậy mình đặt khách sạn gần sân bay." }
+                  ],
+                  "close": { "en": "Better safe than sorry.", "vi": "Cẩn tắc vô ưu." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "It depends on how many people come.",
+                  "vi": "Còn tùy bao nhiêu người đến.",
+                  "reply": [
+                    { "them": "Six, maybe eight.", "themvi": "Sáu, chắc tám.", "you": "Then we'll need two tables.", "youvi": "Vậy mình cần hai bàn." }
+                  ]
+                },
+                {
+                  "en": "It depends what you're in the mood for.",
+                  "vi": "Còn tùy bạn đang thèm gì.",
+                  "note": "<span class=\"k\">in the mood for</span> = đang thèm, đang muốn. Cụm rất hay khi bàn chuyện ăn uống.",
+                  "reply": [
+                    { "them": "Something light.", "themvi": "Cái gì đó nhẹ nhẹ.", "you": "Then the salad place round the corner.", "youvi": "Vậy quán salad ở góc phố." }
+                  ],
+                  "vars": [
+                    { "en": "Depends what you fancy.", "vi": "Tùy bạn thích gì." }
+                  ]
+                },
+                {
+                  "en": "It depends on the day — they're closed on Mondays.",
+                  "vi": "Tùy ngày — thứ Hai họ nghỉ.",
+                  "reply": [
+                    { "them": "Wednesday then?", "themvi": "Vậy thứ Tư nhé?", "you": "Wednesday works.", "youvi": "Thứ Tư được." }
+                  ]
+                },
+                {
+                  "en": "It depends whether you like spicy food.",
+                  "vi": "Còn tùy bạn có ăn cay được không.",
+                  "reply": [
+                    { "them": "Not really, no.", "themvi": "Không hẳn.", "you": "Then order it mild — they'll adjust.", "youvi": "Vậy gọi ít cay — họ điều chỉnh được." }
+                  ],
+                  "close": { "en": "I'll tell them when we order.", "vi": "Lúc gọi món mình dặn họ." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "It depends how you look at it.",
+                  "vi": "Còn tùy cách mình nhìn.",
+                  "note": "Từ chối chọn phe một cách khéo léo — bạn không nói ai đúng ai sai. Xem [Khung 47].",
+                  "reply": [
+                    { "them": "How do you mean?", "themvi": "Ý bạn là sao?", "you": "She lost a job but gained a year.", "youvi": "Cô ấy mất một việc nhưng được cả một năm." }
+                  ]
+                },
+                {
+                  "en": "Depends.",
+                  "vi": "Còn tùy.",
+                  "note": "Rất thân mật — lược cả chủ ngữ. Chỉ dùng với bạn bè, và nhớ nói tiếp ngay kẻo nghe lạnh lùng.",
+                  "reply": [
+                    { "them": "Are you coming Saturday?", "themvi": "Thứ Bảy bạn đến không?", "you": "Depends — who else is going?", "youvi": "Còn tùy — còn ai đi nữa?" }
+                  ],
+                  "vars": [
+                    { "en": "That depends, really.", "vi": "Cái đó thì còn tùy." }
+                  ]
+                },
+                {
+                  "en": "It depends who's asking.",
+                  "vi": "Tùy ai hỏi.",
+                  "note": "Thường mang sắc thái đùa hoặc bí ẩn — không dùng trong tình huống nghiêm túc.",
+                  "reply": [
+                    { "them": "Me. I'm asking.", "themvi": "Mình. Mình hỏi đây.", "you": "Then yes, of course.", "youvi": "Vậy thì có chứ." }
+                  ]
+                },
+                {
+                  "en": "There's no simple answer to that, honestly.",
+                  "vi": "Thật lòng thì chuyện đó không có câu trả lời đơn giản.",
+                  "reply": [
+                    { "them": "Try me.", "themvi": "Cứ thử nói xem.", "you": "It comes down to what she wants next.", "youvi": "Rốt cuộc là cô ấy muốn gì tiếp theo." }
+                  ],
+                  "close": { "en": "Let's talk properly over coffee.", "vi": "Mình nói chuyện tử tế lúc cà phê đi." }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Bị hỏi về tiến độ mà chưa thể cam kết",
+          "lines": [
+            { "speaker": "Manager", "en": "How long until the report is ready?", "vi": "Bao lâu nữa thì báo cáo xong?" },
+            { "speaker": "You", "me": true, "en": "Honest answer? It depends on when we get the data.", "vi": "Nói thật nhé? Còn tùy khi nào mình có dữ liệu." },
+            { "speaker": "Manager", "en": "Best case, worst case?", "vi": "Tốt nhất thì sao, tệ nhất thì sao?" },
+            { "speaker": "You", "me": true, "en": "Three days if it arrives Monday. Two weeks if it doesn't.", "vi": "Ba ngày nếu thứ Hai có. Hai tuần nếu không." },
+            { "speaker": "Manager", "en": "And what would make it clearer?", "vi": "Cần gì để chuyện này rõ hơn?" },
+            { "speaker": "You", "me": true, "en": "A firm date from finance. I'll chase them today.", "vi": "Một mốc chắc chắn từ bên tài chính. Hôm nay tôi sẽ hỏi họ." }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Bàn kế hoạch cuối tuần",
+          "lines": [
+            { "speaker": "Khánh", "en": "Are we still going to the beach on Saturday?", "vi": "Thứ Bảy mình vẫn đi biển chứ?" },
+            { "speaker": "You", "me": true, "en": "Depending on the weather, yes.", "vi": "Tùy thời tiết, thì có." },
+            { "speaker": "Khánh", "en": "And if it rains?", "vi": "Nếu mưa thì sao?" },
+            { "speaker": "You", "me": true, "en": "Then Sunday. It depends whether the forecast changes.", "vi": "Thì Chủ nhật. Còn tùy dự báo có đổi không." },
+            { "speaker": "Khánh", "en": "How long is the drive anyway?", "vi": "Mà lái xe bao lâu nhỉ?" },
+            { "speaker": "You", "me": true, "en": "It depends on traffic — ninety minutes to two hours.", "vi": "Tùy giao thông — chín mươi phút đến hai tiếng." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "It depend on the budget.", "right": "It depends on the budget.", "why": "Chủ ngữ <b>It</b> là ngôi thứ ba số ít — động từ phải có <b>-s</b>. Lỗi này lộ ra ngay lập tức." },
+            { "wrong": "It's depend on the budget.", "right": "It depends on the budget.", "why": "<b>depend</b> là ĐỘNG TỪ, không cần <i>is</i>. Lỗi cùng họ với <i>I am agree</i> ở [Khung 51]." },
+            { "wrong": "It depends of the weather.", "right": "It depends on the weather.", "why": "Giới từ cố định là <b>on</b>. <i>depend of</i> ✗ là lỗi bị kéo theo từ tiếng Việt và tiếng Pháp." },
+            { "wrong": "Depend on the weather.", "right": "It depends on the weather.", "why": "Thiếu chủ ngữ <b>It</b>. (Chỉ dạng <i>Depending on…</i> mở đầu câu mới không cần chủ ngữ.)" },
+            { "wrong": "It depends if they agree.", "right": "It depends whether they agree.", "why": "Với hai vế có-không thì dùng <b>whether</b>. Xem thêm luật <i>whether</i> ở [Khung 50]." },
+            { "wrong": "“How long will it take?” — “It depends.” <i>(rồi im lặng)</i>", "right": "It depends on when we get the data.", "why": "Dừng ở <i>It depends</i> nghe như lảng tránh. Luôn nêu <b>yếu tố cụ thể</b> ngay sau đó." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Khung", "Sắc thái", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>It depends on + N</code>", "Câu trả lời thay đổi theo yếu tố", "<i>It depends on the budget.</i> Mọi hoàn cảnh."],
+            ["<code>It depends + wh-…</code>", "Yêu cầu làm rõ", "<i>It depends what you mean.</i>"],
+            ["<code>Depending on + N, …</code>", "Nêu điều kiện trong kế hoạch", "<i>Depending on traffic, forty minutes.</i>"],
+            ["<code>I'm not sure.</code>", "Không có thông tin", "<i>I'm not sure.</i> Xem [Khung 50]."],
+            ["<code>I'd say about…</code>", "Ước lượng có cơ sở", "<i>I'd say about two weeks.</i> Xem [Khung 46]."],
+            ["<code>As far as I know,…</code>", "Giới hạn hiểu biết", "<i>As far as I know, it's free.</i> Xem [Khung 45]."],
+            ["<code>It's a matter of + N</code>", "Chỉ ra yếu tố quyết định", "<i>It's a matter of priorities.</i> Trang trọng hơn."]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — trả lời câu hỏi “bao lâu thì xong?”" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I really don't know.", "vi": "Không có thông tin gì" },
+            { "en": "It depends.", "vi": "Dễ nghe như lảng tránh" },
+            { "en": "It depends on when we get the data.", "vi": "Chuyên nghiệp — nêu rõ biến số" },
+            { "en": "I'd say two weeks, at a guess.", "vi": "Ước lượng. Xem [Khung 46]" },
+            { "en": "Two weeks. I'll confirm by Friday.", "vi": "Cam kết rõ ràng" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>depends</b> nhấn ở <b>âm tiết thứ hai</b>: di-<b>PENDZ</b>. Âm đầu /dɪ/ đọc rất nhẹ.",
+            "Đuôi <b>-ds</b> đọc là <b>/dz/</b> có rung — <i>depends</i> chứ không phải <i>depend</i> cụt.",
+            "<b>depends on</b> nối âm thành <b>“di-pen-dzon”</b> — ba từ dính làm một khối.",
+            "<b>It depends</b> → “it-di-PENDZ”, âm /t/ ở <i>It</i> gần như biến mất.",
+            "<b>Depending on</b> → “di-PEN-ding-on”, nhấn PEN, phần còn lại đọc lướt.",
+            "<b>Đừng ngắt sau “depends”</b> — nói liền sang yếu tố phía sau, vì chỗ ngắt sẽ khiến câu nghe như bạn đang né tránh."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "It depends on when we get the data.", "vi": "Luyện shadowing: “it-di-pen-dzon-WEN”, nói liền không ngắt." },
+            { "en": "Depending on traffic, forty minutes.", "vi": "Tập nhấn PEN rồi đọc lướt phần sau, ngắt trước con số." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Còn tùy ngân sách.", "blank": "It __________ the budget.", "a": "depends on (nhớ -s và giới từ “on”)" },
+            { "vi": "Còn tùy “sớm” của anh/chị là thế nào.", "blank": "It depends __________ by “soon”.", "a": "what you mean" },
+            { "vi": "Tùy giao thông — ba mươi đến năm mươi phút.", "blank": "__________ traffic, thirty to fifty minutes.", "a": "Depending on" },
+            { "vi": "Còn tùy họ có đồng ý không.", "blank": "It depends __________ they agree.", "a": "whether (KHÔNG phải “if”)" },
+            { "vi": "Tất cả còn tùy thời điểm.", "blank": "It __________ on timing.", "a": "all depends" },
+            { "vi": "Còn tùy cách mình nhìn.", "blank": "It depends __________.", "a": "how you look at it" },
+            { "vi": "Đó là vấn đề ưu tiên.", "blank": "It's __________ priorities.", "a": "a matter of" },
+            { "vi": "Áng chừng bao nhiêu?", "blank": "__________?", "a": "Ballpark figure" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Còn tùy khi nào mình có dữ liệu.", "a": "It depends on when we get the data." },
+            { "vi": "2. Còn tùy “sớm” của anh/chị là thế nào.", "a": "It depends what you mean by “soon”." },
+            { "vi": "3. Tùy giao thông — ba mươi đến năm mươi phút.", "a": "It depends on traffic — thirty to fifty minutes." },
+            { "vi": "4. Còn tùy họ có duyệt thêm nhân sự không.", "a": "It depends whether they approve the extra headcount." },
+            { "vi": "5. Tùy thời tiết, mình sẽ đi thứ Bảy.", "a": "Depending on the weather, we'll go on Saturday." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Ba lỗi phải xóa:</b> <i>It depend</i> ✗ (thiếu s), <i>It's depend</i> ✗ (thừa is), <i>depends of</i> ✗ (sai giới từ). Đọc to <i>It depends on</i> mười lần.",
+            "<b>Đừng bao giờ dừng ở “It depends”.</b> Luôn nối ngay yếu tố cụ thể — đó là ranh giới giữa chuyên nghiệp và lảng tránh.",
+            "<b>Luật “on”:</b> trước danh từ thì có <i>on</i>; trước mệnh đề wh- thì người bản xứ thường bỏ <i>on</i> khi nói.",
+            "<b>Kèm một khoảng ước lượng thì hữu ích hơn nhiều:</b> <i>It depends on traffic — thirty to fifty minutes.</i>",
+            "<b>Dùng để đẩy câu hỏi ngược lại một cách lịch sự:</b> <i>It depends on when we get the data</i> vừa trả lời vừa nhắc họ bạn đang chờ.",
+            "<b>Bài tập 3 phút:</b> lấy 5 câu hỏi khó mà bạn hay bị hỏi trong công việc, trả lời mỗi câu bằng <i>It depends on…</i> kèm đúng một biến số cụ thể."
+          ]
+        }
+      ]
+    }
+  ]
+}

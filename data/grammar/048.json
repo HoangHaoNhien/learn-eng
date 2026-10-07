@@ -1,0 +1,277 @@
+{
+  "id": 48,
+  "group": "Nhóm 12 · Nhấn mạnh, nối ý & dấu câu",
+  "title": "Liên từ & mệnh đề nhượng bộ",
+  "subtitle": "Tiếng Việt nói “Mặc dù… NHƯNG…” nên người Việt viết Although it was raining, but we went out ✗. Tiếng Anh chỉ cho phép MỘT liên từ cho một quan hệ — có although rồi thì bỏ hẳn but.",
+  "meaning": "Nối hai ý trái chiều hoặc có quan hệ nguyên nhân",
+  "rule": [
+    "Một quan hệ chỉ dùng <em>MỘT</em> liên từ — <em>although … but</em> ✗",
+    "<em>although / though</em> + MỆNH ĐỀ",
+    "<em>despite / in spite of</em> + DANH TỪ hoặc V-ing"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1–B2", "hot": true },
+    { "text": "Although … but ✗" },
+    { "text": "despite + danh từ" },
+    { "text": "Tần suất: cao (văn viết)" }
+  ],
+  "frames": [50, 52, 53, 54, 59],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Mệnh đề nhượng bộ nói rằng <b>điều thứ hai xảy ra bất chấp điều thứ nhất</b>. Tiếng Anh có ba nhóm từ để làm việc này, và mỗi nhóm đi với một dạng khác nhau." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — đừng dùng hai liên từ cho một quan hệ:</b><br><i><b>Although</b> it was raining, <b>but</b> we went out</i> ✗<br><i><b>Although</b> it was raining, we went out</i> ✓<br><i>It was raining, <b>but</b> we went out</i> ✓<br>Tiếng Việt bắt buộc có cặp “Mặc dù… nhưng…”, tiếng Anh thì <b>chọn một</b>. Lỗi tương tự: <i>Because… so…</i> ✗." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — <i>although</i> và <i>despite</i> đi với dạng khác nhau:</b><br>• <b>although / though / even though</b> + <b>MỆNH ĐỀ</b> (S + V)<br>• <b>despite / in spite of</b> + <b>DANH TỪ</b> hoặc <b>V-ing</b><br><i><b>Despite</b> I was tired</i> ✗ → <i><b>Despite being</b> tired</i> ✓ hoặc <i><b>Although</b> I was tired</i> ✓<br>Và nhớ: <i>in spite <b>of</b></i> có <i>of</i>, còn <i>despite</i> thì <b>không</b>." },
+        { "t": "h3", "text": "Ba nhóm từ nối" },
+        {
+          "t": "table",
+          "head": ["Nhóm", "Theo sau là", "Ví dụ"],
+          "rows": [
+            ["<code>although / though / even though</code>", "MỆNH ĐỀ", "Although it was raining, we went out."],
+            ["<code>despite / in spite of</code>", "DANH TỪ hoặc V-ing", "Despite the rain, we went out."],
+            ["<code>but / yet</code>", "Nối hai mệnh đề ngang hàng", "It was raining, but we went out."],
+            ["<code>however / nevertheless</code>", "Trạng từ — câu riêng, có dấu chấm phẩy", "It was raining. However, we went out."]
+          ]
+        },
+        { "t": "p", "html": "Nhóm thứ tư không phải liên từ mà là <b>trạng từ nối</b>, nên nó <b>không nối được hai mệnh đề bằng dấu phẩy</b>: <i>It was raining, however we went out</i> ✗. Xem [Ngữ pháp 50]." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Từ nối", "Quan hệ", "Ví dụ"],
+          "rows": [
+            ["<code>although</code>", "Nhượng bộ + mệnh đề", "Although it was late, he called."],
+            ["<code>though</code>", "Như <code>although</code>, thân mật hơn", "Though it was late, he called."],
+            ["<code>even though</code>", "Nhấn mạnh hơn", "Even though it was late, he called."],
+            ["<code>despite</code>", "Nhượng bộ + danh từ / V-ing", "Despite the rain, we went out."],
+            ["<code>in spite of</code>", "Như <code>despite</code>, có <code>of</code>", "In spite of the rain, we went out."],
+            ["<code>but</code>", "Trái chiều, nối ngang hàng", "It was raining, but we went out."],
+            ["<code>however</code>", "Trạng từ nối, đứng câu mới", "It rained. However, we went out."],
+            ["<code>because</code>", "Nguyên nhân + mệnh đề", "I left because I was tired."],
+            ["<code>because of</code>", "Nguyên nhân + danh từ", "I left because of the noise."],
+            ["<code>so</code>", "Kết quả", "I was tired, so I left."],
+            ["<code>while / whereas</code>", "Đối chiếu hai bên", "I like tea, whereas he likes coffee."],
+            ["<code>whatever / no matter what</code>", "Dù thế nào đi nữa", "No matter what happens, I'll be there."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Cặp <i>because</i> và <i>because of</i> theo đúng luật của <i>although</i> và <i>despite</i>:</b> <b>because</b> + MỆNH ĐỀ, <b>because of</b> + DANH TỪ.<br><i>because of I was tired</i> ✗ → <i>because I was tired</i> ✓ hoặc <i>because of my tiredness</i> ✓" },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "Although it was raining, we went out.", "vi": "Mặc dù trời mưa, bọn tôi vẫn ra ngoài.", "note": "BẪY SỐ MỘT: thêm <i>but</i> vào là sai." },
+            { "en": "It was raining, but we went out.", "vi": "Trời mưa nhưng bọn tôi vẫn ra ngoài.", "note": "Cách viết thứ hai — chỉ dùng <b>but</b>, bỏ <i>although</i>." },
+            { "en": "Despite the rain, we went out.", "vi": "Bất chấp mưa, bọn tôi vẫn ra ngoài.", "note": "BẪY SỐ HAI: <b>despite</b> + DANH TỪ, không có <i>of</i>." },
+            { "en": "In spite of the rain, we went out.", "vi": "Bất chấp mưa, bọn tôi vẫn ra ngoài.", "note": "<b>in spite of</b> thì có <i>of</i> — nghĩa y hệt." },
+            { "en": "Despite being tired, he kept working.", "vi": "Dù mệt, anh ấy vẫn làm tiếp.", "note": "Muốn dùng động từ sau <b>despite</b> thì phải là V-ing. Xem [Ngữ pháp 25]." },
+            { "en": "Even though it was late, he called.", "vi": "Dù đã muộn, anh ấy vẫn gọi.", "note": "<b>even though</b> nhấn mạnh hơn <i>although</i>." },
+            { "en": "It rained. However, we went out.", "vi": "Trời mưa. Tuy nhiên bọn tôi vẫn ra ngoài.", "note": "<b>however</b> mở đầu một câu MỚI, có dấu chấm trước." },
+            { "en": "I left because I was tired.", "vi": "Tôi về vì tôi mệt.", "note": "<b>because</b> + MỆNH ĐỀ." },
+            { "en": "I left because of the noise.", "vi": "Tôi về vì ồn quá.", "note": "<b>because of</b> + DANH TỪ." },
+            { "en": "I was tired, so I left.", "vi": "Tôi mệt nên tôi về.", "note": "Đã có <i>so</i> thì KHÔNG thêm <i>because</i>." },
+            { "en": "I like tea, whereas he likes coffee.", "vi": "Tôi thích trà, còn anh ấy thích cà phê.", "note": "<b>whereas</b> để đối chiếu hai bên." },
+            { "en": "That's a good point, but I still disagree.", "vi": "Ý đó hay đấy, nhưng tôi vẫn không đồng ý.", "note": "Xem [Khung 52]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🌧", "title": "Nói điều bất chấp", "text": "<i>Although it was raining, we went out.</i>" },
+            { "icon": "📄", "title": "Viết gọn, trang trọng", "text": "<i>Despite the rain…</i> — theo sau là danh từ." },
+            { "icon": "💬", "title": "Nói chuyện bình thường", "text": "<i>It was raining, but…</i> — đơn giản nhất." },
+            { "icon": "🔁", "title": "Phản biện lịch sự", "text": "<i>That's a good point, but…</i> Xem [Khung 52]." },
+            { "icon": "⚖️", "title": "Đối chiếu hai bên", "text": "<i>I like tea, whereas he likes coffee.</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Đã có <i>although</i> thì tuyệt đối không thêm <i>but</i>." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một mục ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi mục đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Nhượng bộ & trái chiều",
+              "items": [
+                { "w": "although", "vi": "mặc dù", "ex": "Although it was raining, we went out.", "exvi": "Mặc dù trời mưa, bọn tôi vẫn ra ngoài.", "note": "BẪY SỐ MỘT: có <b>although</b> rồi thì KHÔNG dùng <i>but</i>." },
+                { "w": "though", "vi": "mặc dù (thân mật)", "ex": "Though it was late, he called.", "exvi": "Dù muộn, anh ấy vẫn gọi.", "note": "Cuối câu, <b>though</b> còn nghĩa “mà, đấy”: <i>It's expensive, though.</i>" },
+                { "w": "even though", "vi": "ngay cả khi, dù rằng", "ex": "Even though it was late, he called.", "exvi": "Dù đã muộn, anh ấy vẫn gọi.", "note": "Nhấn mạnh hơn <i>although</i>." },
+                { "w": "even if", "vi": "cho dù (giả định)", "ex": "Even if it rains, I'll go.", "exvi": "Kể cả trời mưa tôi vẫn đi.", "note": "<b>even if</b> là giả định · <b>even though</b> là sự thật. Xem [Ngữ pháp 14]." },
+                { "w": "despite", "vi": "bất chấp", "ex": "Despite the rain, we went out.", "exvi": "Bất chấp mưa, bọn tôi vẫn ra ngoài.", "note": "BẪY SỐ HAI: + DANH TỪ, và KHÔNG có <i>of</i>." },
+                { "w": "in spite of", "vi": "bất chấp", "ex": "In spite of the rain, we went out.", "exvi": "Bất chấp mưa, bọn tôi vẫn ra ngoài.", "note": "Nghĩa y hệt <i>despite</i> nhưng PHẢI có <i>of</i>." },
+                { "w": "but", "vi": "nhưng", "ex": "It was raining, but we went out.", "exvi": "Trời mưa nhưng bọn tôi vẫn ra ngoài." },
+                { "w": "yet", "vi": "nhưng (trang trọng)", "ex": "It was simple, yet effective.", "exvi": "Đơn giản mà hiệu quả." },
+                { "w": "however", "vi": "tuy nhiên", "ex": "It rained. However, we went out.", "exvi": "Trời mưa. Tuy nhiên bọn tôi vẫn ra ngoài.", "note": "Là TRẠNG TỪ, không nối được hai mệnh đề bằng dấu phẩy." },
+                { "w": "nevertheless", "vi": "dẫu vậy", "ex": "It was risky. Nevertheless, we tried.", "exvi": "Rủi ro đấy. Dẫu vậy bọn tôi vẫn thử." },
+                { "w": "whereas", "vi": "trong khi đó", "ex": "I like tea, whereas he likes coffee.", "exvi": "Tôi thích trà, còn anh ấy thích cà phê." },
+                { "w": "no matter what", "vi": "dù thế nào", "ex": "No matter what happens, I'll be there.", "exvi": "Dù thế nào tôi cũng sẽ có mặt." }
+              ]
+            },
+            {
+              "title": "Nguyên nhân, kết quả & từ nối khác",
+              "items": [
+                { "w": "because", "vi": "vì", "ex": "I left because I was tired.", "exvi": "Tôi về vì tôi mệt.", "note": "+ MỆNH ĐỀ. Có <b>because</b> rồi thì không thêm <i>so</i>." },
+                { "w": "because of", "vi": "vì, do", "ex": "I left because of the noise.", "exvi": "Tôi về vì ồn quá.", "note": "+ DANH TỪ. <i>because of I was tired</i> ✗." },
+                { "w": "due to", "vi": "do (trang trọng)", "ex": "The delay was due to bad weather.", "exvi": "Chậm trễ là do thời tiết xấu." },
+                { "w": "since", "vi": "vì (lý do)", "ex": "Since you're here, let's start.", "exvi": "Đã ở đây rồi thì bắt đầu thôi.", "note": "<b>since</b> còn nghĩa “từ khi”. Xem [Ngữ pháp 41]." },
+                { "w": "as", "vi": "vì, bởi", "ex": "As it was late, we left.", "exvi": "Vì muộn rồi nên bọn tôi về." },
+                { "w": "so", "vi": "nên", "ex": "I was tired, so I left.", "exvi": "Tôi mệt nên tôi về." },
+                { "w": "therefore", "vi": "do đó", "ex": "The data was wrong. Therefore, we redid it.", "exvi": "Dữ liệu sai. Do đó bọn tôi làm lại.", "note": "Trạng từ nối, dùng như <i>however</i>." },
+                { "w": "so that", "vi": "để mà", "ex": "I left early so that I could catch the bus.", "exvi": "Tôi về sớm để kịp xe buýt." },
+                { "w": "in order to", "vi": "để", "ex": "I called in order to confirm.", "exvi": "Tôi gọi để xác nhận lại." },
+                { "w": "anyway", "vi": "dù sao thì", "ex": "Anyway, let's move on.", "exvi": "Dù sao thì, ta đi tiếp nhé." },
+                { "w": "still", "vi": "vẫn", "ex": "It's expensive. Still, it's worth it.", "exvi": "Đắt đấy. Vẫn đáng tiền." },
+                { "w": "on the other hand", "vi": "mặt khác", "ex": "On the other hand, it's cheaper.", "exvi": "Mặt khác thì nó rẻ hơn.", "note": "Đứng đầu câu, có dấu phẩy. Xem [Khung 52]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "<b>Although</b> it was raining, <b>but</b> we went out.", "right": "<b>Although</b> it was raining, we went out.", "why": "BẪY SỐ MỘT: một quan hệ chỉ dùng MỘT liên từ. Tiếng Việt “Mặc dù… nhưng…” không bê sang được." },
+            { "wrong": "<b>Because</b> I was tired, <b>so</b> I left.", "right": "<b>Because</b> I was tired, I left.", "why": "Cùng lỗi — hoặc <b>because</b>, hoặc <b>so</b>, không dùng cả hai." },
+            { "wrong": "<b>Despite</b> I was tired, I kept working.", "right": "<b>Although</b> I was tired, I kept working.", "why": "BẪY SỐ HAI: <b>despite</b> không đi với mệnh đề." },
+            { "wrong": "<b>Despite being</b> tired — viết thành <i>Despite be tired</i>.", "right": "<b>Despite being</b> tired, I kept working.", "why": "Sau <b>despite</b> là danh từ hoặc <b>V-ing</b>. Xem [Ngữ pháp 25]." },
+            { "wrong": "<b>Despite of</b> the rain, we went out.", "right": "<b>Despite</b> the rain, we went out.", "why": "<b>despite</b> KHÔNG có <i>of</i>. Có <i>of</i> là <b>in spite of</b>." },
+            { "wrong": "<b>In spite</b> the rain, we went out.", "right": "<b>In spite of</b> the rain, we went out.", "why": "Ngược lại — <b>in spite</b> thì bắt buộc có <i>of</i>." },
+            { "wrong": "It was raining<b>, however</b> we went out.", "right": "It was raining. <b>However,</b> we went out.", "why": "<b>however</b> là trạng từ, không nối được hai mệnh đề bằng dấu phẩy. Xem [Ngữ pháp 50]." },
+            { "wrong": "I left <b>because of</b> I was tired.", "right": "I left <b>because</b> I was tired.", "why": "<b>because of</b> + DANH TỪ, <b>because</b> + MỆNH ĐỀ." },
+            { "wrong": "<b>Even if</b> it was late, he called. <i>(việc có thật)</i>", "right": "<b>Even though</b> it was late, he called.", "why": "<b>even if</b> là giả định, <b>even though</b> mới dùng cho việc đã xảy ra." },
+            { "wrong": "Although it was raining<b> we went out</b> — thiếu phẩy.", "right": "Although it was raining<b>,</b> we went out.", "why": "Mệnh đề phụ đứng TRƯỚC thì có dấu phẩy ngăn cách. Xem [Ngữ pháp 50]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["<code>although</code> / <code>despite</code>", "Mệnh đề / danh từ", "although I was tired ≠ despite the rain"],
+            ["<code>despite</code> / <code>in spite of</code>", "Không có <code>of</code> / có <code>of</code>", "despite the rain ≠ in spite of the rain"],
+            ["<code>although</code> / <code>but</code>", "Liên từ phụ / liên từ ngang hàng", "Dùng một trong hai, không dùng cả hai"],
+            ["<code>but</code> / <code>however</code>", "Nối trong câu / mở câu mới", "…, but we went ≠ . However, we went"],
+            ["<code>because</code> / <code>because of</code>", "Mệnh đề / danh từ", "because I was tired ≠ because of the noise"],
+            ["<code>even though</code> / <code>even if</code>", "Việc có thật / giả định", "even though it was late ≠ even if it rains"],
+            ["<code>whereas</code> / <code>although</code>", "Đối chiếu / nhượng bộ", "I like tea, whereas he likes coffee."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: nối hai ý trái chiều thế nào?" },
+        {
+          "t": "tree",
+          "q": "Bạn muốn nối hai ý trái chiều — theo sau là gì và câu viết kiểu nào?",
+          "nodes": [
+            { "if": "Theo sau là cả một mệnh đề (S + V)", "then": "although / though / even though", "ex": "Although it was raining, we went out." },
+            { "if": "Theo sau là danh từ", "then": "despite / in spite of", "ex": "Despite the rain, we went out." },
+            { "if": "Theo sau là động từ nhưng muốn viết gọn", "then": "despite + V-ing", "ex": "Despite being tired, he kept working." },
+            { "if": "Muốn câu đơn giản, nói chuyện thường", "then": "but", "ex": "It was raining, but we went out." },
+            { "if": "Muốn tách thành hai câu rõ ràng", "then": "However, + câu mới", "ex": "It rained. However, we went out." },
+            { "if": "Muốn đối chiếu hai bên ngang nhau", "then": "whereas / while", "ex": "I like tea, whereas he likes coffee." }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ gay gắt khi phản biện" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "That's a good point, but…", "vi": "Nhẹ nhất — công nhận trước" },
+            { "en": "I see what you mean, but…", "vi": "Nhẹ" },
+            { "en": "That said, …", "vi": "Trung tính" },
+            { "en": "However, I'd argue that…", "vi": "Hơi gay" },
+            { "en": "I'm afraid I disagree.", "vi": "Thẳng nhất" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Liên từ nhượng bộ xuất hiện ở những khung câu sau. Bấm vào để xem chúng sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 52, "why": "That's a good point, but… — khung phản biện lịch sự, chỉ dùng MỘT liên từ." },
+            { "id": 53, "why": "I see what you mean, but… — cùng khuôn, công nhận rồi mới phản biện." },
+            { "id": 54, "why": "I'm afraid I disagree — mức gay gắt nhất của thang phản biện." },
+            { "id": 50, "why": "I'm not sure, but… — dùng but để mở lời thận trọng." },
+            { "id": 59, "why": "Not necessarily — phản biện ngắn, hay đi kèm however ở câu sau." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền although / despite / in spite of / because / because of" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Mặc dù trời mưa, bọn tôi vẫn ra ngoài.", "blank": "__________ it was raining, we went out.", "a": "Although" },
+            { "vi": "Bất chấp mưa, bọn tôi vẫn ra ngoài.", "blank": "__________ the rain, we went out.", "a": "Despite (hoặc In spite of)" },
+            { "vi": "Dù mệt, anh ấy vẫn làm tiếp.", "blank": "__________ being tired, he kept working.", "a": "Despite" },
+            { "vi": "Tôi về vì tôi mệt.", "blank": "I left __________ I was tired.", "a": "because" },
+            { "vi": "Tôi về vì ồn quá.", "blank": "I left __________ the noise.", "a": "because of" },
+            { "vi": "Dù đã muộn, anh ấy vẫn gọi.", "blank": "__________ it was late, he called.", "a": "Even though" },
+            { "vi": "Trời mưa. Tuy nhiên bọn tôi vẫn ra ngoài.", "blank": "It rained. __________, we went out.", "a": "However" },
+            { "vi": "Tôi thích trà, còn anh ấy thích cà phê.", "blank": "I like tea, __________ he likes coffee.", "a": "whereas" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn câu đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Mặc dù trời mưa, bọn tôi vẫn ra ngoài.", "blank": "(a) Although it was raining, but we went out.  (b) Although it was raining, we went out.", "a": "(b)" },
+            { "vi": "Dù mệt, anh ấy vẫn làm tiếp.", "blank": "(a) Despite I was tired…  (b) Despite being tired…", "a": "(b)" },
+            { "vi": "Bất chấp mưa, bọn tôi vẫn ra ngoài.", "blank": "(a) Despite of the rain…  (b) In spite of the rain…", "a": "(b)" },
+            { "vi": "Tôi về vì tôi mệt.", "blank": "(a) I left because of I was tired.  (b) I left because I was tired.", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Mặc dù trời mưa, bọn tôi vẫn ra ngoài.", "a": "Although it was raining, we went out." },
+            { "vi": "2. Dù mệt, anh ấy vẫn làm tiếp.", "a": "Despite being tired, he kept working." },
+            { "vi": "3. Tôi về vì ồn quá.", "a": "I left because of the noise." },
+            { "vi": "4. Ý đó hay đấy, nhưng tôi vẫn không đồng ý.", "a": "That's a good point, but I still disagree." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Luật một liên từ:</b> <i>although</i> HOẶC <i>but</i>, <i>because</i> HOẶC <i>so</i> — không bao giờ cả hai trong một quan hệ.",
+            "<b>Cặp đôi dễ nhớ:</b> <i>although</i> ↔ <i>because</i> đi với MỆNH ĐỀ · <i>despite</i> ↔ <i>because of</i> đi với DANH TỪ.",
+            "<b>Chữ <i>of</i> nằm ở đâu:</b> <i>despite</i> (không <i>of</i>) · <i>in spite <b>of</b></i> · <i>because <b>of</b></i>.",
+            "<b>Muốn dùng động từ sau <i>despite</i></b> thì đổi sang V-ing: <i>despite being tired</i>.",
+            "<b><i>however</i> không phải liên từ:</b> nó mở một câu MỚI, trước nó là dấu chấm chứ không phải dấu phẩy.",
+            "<b>Bài tập 3 phút:</b> viết một ý trái chiều bằng ba cách — <i>although</i>, <i>despite</i> và <i>but</i> — rồi so xem cách nào gọn nhất."
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "id": 12,
+  "group": "Nhóm 5 · Tương lai",
+  "title": "Thì hiện tại dùng cho tương lai",
+  "subtitle": "Tiếng Anh nói về tương lai bằng thì hiện tại nhiều hơn người học tưởng. Hiện tại tiếp diễn cho cuộc hẹn đã chốt, hiện tại đơn cho lịch trình cố định — và sau when, if, as soon as thì bắt buộc phải dùng hiện tại dù đang nói chuyện ngày mai.",
+  "meaning": "Lịch đã chốt · lịch trình cố định · mệnh đề thời gian chỉ tương lai",
+  "rule": [
+    "S + <em>am/is/are</em> + V-ing + giờ <em>(hẹn đã chốt)</em>",
+    "The train <em>leaves</em> at six <em>(lịch trình)</em>",
+    "When/If + <em>hiện tại</em>, S + will + V"
+  ],
+  "tags": [
+    { "text": "Trình độ: B1", "hot": true },
+    { "text": "Hẹn riêng vs lịch trình chung" },
+    { "text": "Sau when/if → hiện tại" },
+    { "text": "Tần suất: rất cao" }
+  ],
+  "frames": [61, 80, 91, 92, 97],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Người học Việt thường nghĩ: nói về tương lai thì phải dùng <i>will</i>. Nhưng trong hội thoại thật, phần lớn câu về tương lai lại dùng <b>thì hiện tại</b> — và chọn đúng loại hiện tại mới là điều làm câu nghe tự nhiên." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — hẹn riêng hay lịch chung:</b><br>• <i>I<b>'m meeting</b> him at six</i> ✓ — cuộc hẹn RIÊNG của bạn, đã chốt giờ chốt người.<br>• <i>The train <b>leaves</b> at six</i> ✓ — lịch trình CỐ ĐỊNH của cả thế giới, không ai đổi được.<br>Dùng tiếp diễn cho tàu xe nghe rất lạ, và ngược lại." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — mệnh đề thời gian:</b> sau <b>when, if, as soon as, before, after, until</b> thì dùng <b>HIỆN TẠI</b>, dù đang nói về tương lai. <i>I'll call you when I <b>get</b> there</i> ✓ — <i>when I will get there</i> ✗. Xem [Khung 97]." },
+        { "t": "h3", "text": "Ba cách dùng hiện tại cho tương lai" },
+        {
+          "t": "table",
+          "head": ["Cách dùng", "Thì", "Ví dụ"],
+          "rows": [
+            ["Cuộc hẹn riêng đã chốt", "Hiện tại tiếp diễn", "I'm meeting him at six."],
+            ["Lịch trình cố định", "Hiện tại đơn", "The train leaves at six."],
+            ["Sau when / if / as soon as", "Hiện tại đơn", "I'll call when I get there."],
+            ["Sự kiện theo chương trình", "Hiện tại đơn", "The film starts at eight."]
+          ]
+        },
+        { "t": "p", "html": "Mẹo phân biệt hai cái đầu: hỏi <b>“ai quyết việc này?”</b> Nếu là <b>bạn và một người khác</b> thì dùng tiếp diễn. Nếu là <b>một tổ chức, một thời khóa biểu</b> — nhà ga, rạp phim, trường học — thì dùng hiện tại đơn." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Tình huống", "Cấu trúc", "Ví dụ"],
+          "rows": [
+            ["Hẹn đã chốt", "<code>am/is/are + V-ing + giờ</code>", "I'm meeting him at six."],
+            ["Hỏi lịch người khác", "<code>What are you doing + thời gian?</code>", "What are you doing on Saturday?"],
+            ["Từ chối vì bận", "<code>I'm + V-ing</code>", "Sorry, I'm working tomorrow."],
+            ["Lịch trình tàu xe", "<code>Hiện tại đơn</code>", "The train leaves at six."],
+            ["Giờ chiếu, giờ mở cửa", "<code>Hiện tại đơn</code>", "The film starts at eight."],
+            ["Hỏi lịch trình", "<code>What time does … leave?</code>", "What time does the train leave?"],
+            ["Sau <code>when</code>", "<code>when + hiện tại</code>", "I'll call when I get there."],
+            ["Sau <code>if</code>", "<code>if + hiện tại</code>", "If it rains, I'll take a taxi."],
+            ["Sau <code>as soon as</code>", "<code>as soon as + hiện tại</code>", "I'll text as soon as I arrive."],
+            ["Sau <code>before / after</code>", "<code>+ hiện tại</code>", "I'll eat before I leave."],
+            ["Sau <code>until</code>", "<code>until + hiện tại</code>", "Wait until I come back."],
+            ["Kế hoạch chưa chốt", "<code>be going to + V</code>", "I'm going to call him."]
+          ]
+        },
+        { "t": "callout", "html": "<b>Bảy từ nối cùng một luật:</b> <i>when, if, as soon as, before, after, until, by the time</i> — tất cả đều dùng <b>hiện tại</b> khi nói về tương lai. Nhớ một luật là xong cả bảy." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "I'm meeting the client at ten.", "vi": "Mười giờ tôi có hẹn với khách.", "note": "Hẹn RIÊNG đã chốt giờ chốt người. Xem [Khung 92]." },
+            { "en": "The train leaves at six.", "vi": "Tàu chạy lúc sáu giờ.", "note": "Lịch trình CỐ ĐỊNH — dùng hiện tại đơn, không dùng tiếp diễn." },
+            { "en": "What are you doing this weekend?", "vi": "Cuối tuần này bạn có lịch gì?", "note": "CÂU HỎI VÀNG để mở lời mời — hỏi lịch đã chốt." },
+            { "en": "What time does the museum open?", "vi": "Mấy giờ bảo tàng mở cửa?", "note": "Giờ mở cửa là lịch trình nên dùng hiện tại đơn. Xem [Khung 61]." },
+            { "en": "Sorry, I'm working tomorrow.", "vi": "Xin lỗi, mai tôi phải làm.", "note": "Cách từ chối lời mời tự nhiên nhất — lịch đã cố định." },
+            { "en": "The film starts at eight.", "vi": "Phim chiếu lúc tám giờ.", "note": "Theo chương trình của rạp, không phải hẹn riêng." },
+            { "en": "I'll call you when I get there.", "vi": "Đến nơi tôi sẽ gọi bạn.", "note": "BẪY SỐ HAI: sau <b>when</b> dùng hiện tại. <i>when I will get</i> ✗." },
+            { "en": "If it rains, I'll take a taxi.", "vi": "Nếu trời mưa, tôi sẽ đi taxi.", "note": "Vế <i>if</i> dùng hiện tại đơn. Xem [Khung 97]." },
+            { "en": "I'll text you as soon as I arrive.", "vi": "Đến nơi là tôi nhắn bạn ngay.", "note": "<b>as soon as</b> cùng một luật với <i>when</i> và <i>if</i>." },
+            { "en": "We're moving next month.", "vi": "Tháng sau nhà tôi chuyển đi.", "note": "Kế hoạch đã chốt. KHÔNG có giới từ trước <i>next</i>." },
+            { "en": "They're arriving on Sunday.", "vi": "Chủ nhật họ đến.", "note": "Vé đã đặt rồi nên dùng tiếp diễn." },
+            { "en": "I'm going to look for a new job.", "vi": "Tôi định tìm việc mới.", "note": "Kế hoạch CHƯA chốt giờ nên dùng <i>going to</i>. Xem [Ngữ pháp 11]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — khi nào không",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "📅", "title": "Báo cuộc hẹn đã chốt", "text": "<i>I'm meeting the client at ten.</i> Xem [Khung 92]." },
+            { "icon": "🚆", "title": "Nói lịch trình tàu xe", "text": "<i>The train leaves at six.</i> Hiện tại đơn." },
+            { "icon": "❓", "title": "Hỏi lịch để mời", "text": "<i>What are you doing on Saturday?</i>" },
+            { "icon": "🎬", "title": "Giờ chiếu, giờ mở cửa", "text": "<i>The film starts at eight.</i> Xem [Khung 61]." },
+            { "icon": "🔗", "title": "Sau when, if, as soon as", "text": "<i>I'll call when I get there.</i> Luôn là hiện tại." },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Kế hoạch chưa chốt giờ. Lúc đó là <i>I'm going to…</i> — xem [Ngữ pháp 11]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dấu hiệu nhận biết & từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Hẹn đã chốt — hiện tại tiếp diễn",
+              "items": [
+                { "w": "I'm meeting", "vi": "tôi có hẹn gặp", "ex": "I'm meeting him at six.", "exvi": "Sáu giờ tôi có hẹn gặp anh ấy.", "note": "Có người khác trong lịch thì gần như luôn dùng tiếp diễn." },
+                { "w": "I'm seeing", "vi": "tôi có hẹn với", "ex": "I'm seeing the doctor on Tuesday.", "exvi": "Thứ Ba tôi có hẹn bác sĩ.", "note": "<i>see</i> nghĩa “có hẹn” thì tiếp diễn được." },
+                { "w": "I'm flying", "vi": "tôi bay", "ex": "I'm flying to Da Nang on Friday.", "exvi": "Thứ Sáu tôi bay đi Đà Nẵng.", "note": "Vé đã đặt rồi." },
+                { "w": "I'm working", "vi": "tôi phải làm", "ex": "Sorry, I'm working tomorrow.", "exvi": "Xin lỗi, mai tôi phải làm.", "note": "Cách từ chối lời mời tự nhiên nhất." },
+                { "w": "I'm taking … off", "vi": "tôi nghỉ", "ex": "I'm taking Friday off.", "exvi": "Thứ Sáu tôi nghỉ.", "note": "<b>take a day off</b> = xin nghỉ. Cụm cố định." },
+                { "w": "We're moving", "vi": "chúng tôi chuyển nhà", "ex": "We're moving next month.", "exvi": "Tháng sau chúng tôi chuyển nhà.", "note": "KHÔNG có giới từ trước <i>next</i>: <i>in next month</i> ✗." },
+                { "w": "They're arriving", "vi": "họ đến", "ex": "They're arriving on Sunday.", "exvi": "Chủ nhật họ đến." },
+                { "w": "I'm starting", "vi": "tôi bắt đầu", "ex": "I'm starting the new job in May.", "exvi": "Tháng Năm tôi bắt đầu việc mới." },
+                { "w": "What are you doing…?", "vi": "bạn có lịch gì?", "ex": "What are you doing on Saturday?", "exvi": "Thứ Bảy bạn có lịch gì?", "note": "CÂU HỎI VÀNG để mời. Hỏi <i>What will you do?</i> nghe rất lạ." },
+                { "w": "at six / on Friday", "vi": "lúc sáu giờ / vào thứ Sáu", "ex": "I'm meeting him at six on Friday.", "exvi": "Sáu giờ thứ Sáu tôi gặp anh ấy.", "note": "Giờ đi với <b>at</b>, thứ đi với <b>on</b>." },
+                { "w": "tonight / tomorrow", "vi": "tối nay / ngày mai", "ex": "I'm working tonight.", "exvi": "Tối nay tôi làm việc." },
+                { "w": "this weekend", "vi": "cuối tuần này", "ex": "I'm staying in this weekend.", "exvi": "Cuối tuần này tôi ở nhà." }
+              ]
+            },
+            {
+              "title": "Lịch trình & mệnh đề thời gian — hiện tại đơn",
+              "items": [
+                { "w": "The train leaves", "vi": "tàu chạy", "ex": "The train leaves at six.", "exvi": "Tàu chạy lúc sáu giờ.", "note": "Lịch trình CỐ ĐỊNH. <i>The train is leaving at six</i> nghe lạ." },
+                { "w": "The film starts", "vi": "phim chiếu", "ex": "The film starts at eight.", "exvi": "Phim chiếu lúc tám giờ." },
+                { "w": "The shop opens / closes", "vi": "cửa hàng mở / đóng", "ex": "The shop closes at eight.", "exvi": "Cửa hàng đóng lúc tám giờ." },
+                { "w": "The flight arrives", "vi": "chuyến bay hạ cánh", "ex": "The flight arrives at noon.", "exvi": "Chuyến bay hạ cánh lúc trưa." },
+                { "w": "What time does…?", "vi": "mấy giờ thì…?", "ex": "What time does the museum open?", "exvi": "Mấy giờ bảo tàng mở cửa?", "note": "Hỏi lịch trình thì dùng <i>does</i>, không dùng <i>will</i>. Xem [Khung 61]." },
+                { "w": "when + hiện tại", "vi": "khi (tương lai)", "ex": "I'll call you when I get there.", "exvi": "Đến nơi tôi sẽ gọi bạn.", "note": "BẪY SỐ HAI: <i>when I will get</i> ✗." },
+                { "w": "if + hiện tại", "vi": "nếu", "ex": "If it rains, I'll take a taxi.", "exvi": "Nếu mưa tôi sẽ đi taxi.", "note": "Xem [Khung 97]." },
+                { "w": "as soon as + hiện tại", "vi": "ngay khi", "ex": "I'll text as soon as I arrive.", "exvi": "Đến nơi là tôi nhắn ngay." },
+                { "w": "before / after + hiện tại", "vi": "trước khi / sau khi", "ex": "I'll eat before I leave.", "exvi": "Tôi sẽ ăn trước khi đi." },
+                { "w": "until + hiện tại", "vi": "cho đến khi", "ex": "Wait until I come back.", "exvi": "Chờ đến khi tôi quay lại." },
+                { "w": "by the time + hiện tại", "vi": "đến lúc mà", "ex": "By the time you arrive, I'll be ready.", "exvi": "Lúc bạn đến thì tôi sẽ sẵn sàng." },
+                { "w": "be going to + V", "vi": "định (chưa chốt giờ)", "ex": "I'm going to look for a job.", "exvi": "Tôi định tìm việc.", "note": "Kế hoạch chưa có giờ cụ thể. Xem [Ngữ pháp 11]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "The train <b>is leaving</b> at six. <i>(theo lịch trình)</i>", "right": "The train <b>leaves</b> at six.", "why": "BẪY SỐ MỘT: lịch trình tàu xe, rạp phim, giờ mở cửa dùng HIỆN TẠI ĐƠN — đó là lịch của cả thế giới." },
+            { "wrong": "I <b>meet</b> him at six. <i>(hẹn riêng)</i>", "right": "I<b>'m meeting</b> him at six.", "why": "Ngược lại: cuộc hẹn RIÊNG đã chốt giờ chốt người thì dùng tiếp diễn." },
+            { "wrong": "I'll call you when I <b>will get</b> there.", "right": "I'll call you when I <b>get</b> there.", "why": "BẪY SỐ HAI: sau <b>when</b> dùng hiện tại, dù nói về tương lai." },
+            { "wrong": "If it <b>will rain</b>, I'll take a taxi.", "right": "If it <b>rains</b>, I'll take a taxi.", "why": "Cùng luật. Bảy từ nối đều vậy: <i>when, if, as soon as, before, after, until, by the time</i>. Xem [Khung 97]." },
+            { "wrong": "I'll text as soon as I <b>will arrive</b>.", "right": "I'll text as soon as I <b>arrive</b>.", "why": "<b>as soon as</b> cũng thuộc nhóm bảy từ đó." },
+            { "wrong": "What <b>will you do</b> on Saturday? <i>(để mời)</i>", "right": "What <b>are you doing</b> on Saturday?", "why": "Hỏi lịch ĐÃ CHỐT thì dùng tiếp diễn. <i>will</i> nghe như bắt người ta dự đoán tương lai." },
+            { "wrong": "What time <b>will the museum open</b>?", "right": "What time <b>does the museum open</b>?", "why": "Giờ mở cửa là lịch trình cố định nên hỏi bằng <i>does</i>, không dùng <i>will</i>." },
+            { "wrong": "We're moving <b>in next month</b>.", "right": "We're moving <b>next month</b>.", "why": "Không có giới từ trước <i>next / last / this</i>." },
+            { "wrong": "I'm meeting him <b>on</b> six.", "right": "I'm meeting him <b>at</b> six.", "why": "Giờ giấc đi với <b>at</b>, thứ trong tuần mới đi với <b>on</b>. Xem [Ngữ pháp 39]." },
+            { "wrong": "I<b>'m knowing</b> the answer tomorrow.", "right": "I<b>'ll know</b> the answer tomorrow.", "why": "Động từ TRẠNG THÁI không có dạng tiếp diễn nên không dùng được nhánh này. Xem [Ngữ pháp 02]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với cấu trúc gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cấu trúc", "Ai quyết / Dùng khi", "Ví dụ"],
+          "rows": [
+            ["<code>am/is/are + V-ing</code>", "BẠN và người khác đã hẹn", "I'm meeting him at six."],
+            ["<code>Hiện tại đơn</code>", "Một tổ chức, một thời khóa biểu", "The train leaves at six."],
+            ["<code>when/if + hiện tại</code>", "Mệnh đề thời gian chỉ tương lai", "I'll call when I get there."],
+            ["<code>be going to + V</code>", "Kế hoạch chưa chốt giờ. Xem [Ngữ pháp 11]", "I'm going to call him."],
+            ["<code>will + V</code>", "Quyết định ngay lúc nói. Xem [Ngữ pháp 10]", "OK, I'll call him."],
+            ["<code>be about to + V</code>", "Sắp xảy ra trong vài phút", "I'm about to leave."],
+            ["<code>will be + V-ing</code>", "Sẽ đang làm vào lúc đó", "I'll be working at six."]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: tiếp diễn hay hiện tại đơn?" },
+        {
+          "t": "tree",
+          "q": "Ai là người quyết định chuyện này, và nó nằm ở đâu trong câu?",
+          "nodes": [
+            { "if": "Bạn và một người khác đã hẹn, có giờ có chỗ", "then": "Hiện tại tiếp diễn", "ex": "I'm meeting him at six." },
+            { "if": "Nhà ga, rạp phim, trường học quyết", "then": "Hiện tại đơn", "ex": "The train leaves at six." },
+            { "if": "Nằm sau when, if, as soon as, before, after, until", "then": "Hiện tại đơn — bắt buộc", "ex": "I'll call when I get there." },
+            { "if": "Mới là ý định, chưa chốt giờ", "then": "be going to", "ex": "I'm going to call him." },
+            { "if": "Vừa quyết ngay lúc đang nói", "then": "will", "ex": "OK, I'll call him." },
+            { "if": "Động từ chỉ trạng thái (know, want, need)", "then": "will + V trần", "ex": "I'll know tomorrow." }
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ chắc chắn của một kế hoạch" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "I might meet him.", "vi": "Yếu nhất — có thể" },
+            { "en": "I'm going to meet him.", "vi": "Ý định trong đầu tôi" },
+            { "en": "I'm meeting him this week.", "vi": "Đã hẹn, chưa chốt giờ" },
+            { "en": "I'm meeting him at six.", "vi": "Đã chốt giờ" },
+            { "en": "I'm meeting him at six at the office.", "vi": "Mạnh nhất — giờ, người, địa điểm" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngữ pháp này trong khung câu nào",
+      "blocks": [
+        { "t": "p", "html": "Nhánh này xuất hiện ở những khung câu sau. Bấm vào để xem nó sống trong hội thoại thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 92, "why": "I'm meeting him at six — khung chính, có cả cặp lịch hẹn riêng và lịch trình tàu xe." },
+            { "id": 97, "why": "If + hiện tại, I'll + V — luật bảy từ nối dùng hiện tại chỉ tương lai." },
+            { "id": 91, "why": "I'm going to + V — so sánh kế hoạch chưa chốt với lịch đã chốt." },
+            { "id": 61, "why": "What time…? — hỏi lịch trình bằng does, không dùng will." },
+            { "id": 80, "why": "See you…! — I'll see you when I get back, mẫu mệnh đề thời gian." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Chia động từ trong ngoặc" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Sáu giờ tôi có hẹn gặp anh ấy.", "blank": "I __________ (meet) him at six.", "a": "am meeting" },
+            { "vi": "Tàu chạy lúc sáu giờ.", "blank": "The train __________ (leave) at six.", "a": "leaves — lịch trình cố định" },
+            { "vi": "Đến nơi tôi sẽ gọi bạn.", "blank": "I'll call you when I __________ (get) there.", "a": "get — hiện tại sau when" },
+            { "vi": "Phim chiếu lúc tám giờ.", "blank": "The film __________ (start) at eight.", "a": "starts" },
+            { "vi": "Xin lỗi, mai tôi phải làm.", "blank": "Sorry, I __________ (work) tomorrow.", "a": "am working" },
+            { "vi": "Đến nơi là tôi nhắn bạn ngay.", "blank": "I'll text as soon as I __________ (arrive).", "a": "arrive" },
+            { "vi": "Chủ nhật họ đến.", "blank": "They __________ (arrive) on Sunday.", "a": "are arriving" },
+            { "vi": "Mấy giờ bảo tàng mở cửa?", "blank": "What time __________ the museum __________ (open)?", "a": "does … open" }
+          ]
+        },
+        { "t": "h3", "text": "B. Chọn dạng đúng" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Cuối tuần này bạn có lịch gì?", "blank": "What __________ this weekend?  (will you do / are you doing)", "a": "are you doing — hỏi lịch đã chốt" },
+            { "vi": "Nếu trời mưa, tôi sẽ đi taxi.", "blank": "If it __________, I'll take a taxi.  (rains / will rain)", "a": "rains" },
+            { "vi": "Tàu chạy lúc sáu giờ.", "blank": "The train __________ at six.  (leaves / is leaving)", "a": "leaves" },
+            { "vi": "Sáu giờ tôi gặp anh ấy.", "blank": "I'm meeting him __________ six.  (at / on)", "a": "at — giờ giấc đi với at" }
+          ]
+        },
+        { "t": "h3", "text": "C. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Mười giờ tôi có hẹn với khách.", "a": "I'm meeting the client at ten." },
+            { "vi": "2. Tàu chạy lúc sáu giờ.", "a": "The train leaves at six." },
+            { "vi": "3. Đến nơi tôi sẽ gọi bạn.", "a": "I'll call you when I get there." },
+            { "vi": "4. Cuối tuần này bạn có lịch gì?", "a": "What are you doing this weekend?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Hỏi “ai quyết?”</b> Bạn và một người khác → tiếp diễn. Nhà ga, rạp phim, trường học → hiện tại đơn.",
+            "<b>Bảy từ nối một luật:</b> <i>when, if, as soon as, before, after, until, by the time</i> — tất cả đều dùng hiện tại khi nói tương lai.",
+            "<b>Học thuộc câu mời:</b> <i>What are you doing on Saturday?</i> — tự nhiên hơn <i>What will you do?</i> rất nhiều.",
+            "<b>Hỏi lịch trình bằng <i>does</i>:</b> <i>What time does the train leave?</i> — không dùng <i>will</i>.",
+            "<b>Giờ đi với <i>at</i>, thứ đi với <i>on</i>, tháng đi với <i>in</i></b> — và không có giới từ trước <i>next/last/this</i>.",
+            "<b>Bài tập 3 phút:</b> viết ba cuộc hẹn đã chốt của bạn tuần này và ba lịch trình quanh bạn (tàu, phim, giờ mở cửa) — chú ý hai nhóm dùng hai thì khác nhau."
+          ]
+        }
+      ]
+    }
+  ]
+}

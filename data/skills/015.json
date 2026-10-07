@@ -1,0 +1,277 @@
+{
+  "id": 15,
+  "group": "Nhóm 3 · Nói — từ câu lẻ lên đoạn dài",
+  "title": "Câu câu giờ & sửa lời giữa chừng",
+  "subtitle": "Bí từ thì im lặng — và người nghe tưởng bạn nói xong nên cướp lời luôn. Im lặng là tín hiệu kết thúc lượt trong tiếng Anh, nên phải lấp bằng âm thanh có nghĩa, không phải bằng “ưm… à…” tiếng Việt.",
+  "meaning": "Giữ lượt nói khi đang nghĩ, và sửa lời cho gọn",
+  "rule": [
+    "Im lặng = <em>tôi nói xong rồi</em> — phải lấp chỗ trống",
+    "Bí từ thì <em>nói vòng</em>, đừng dừng tìm từ chính xác",
+    "Sửa lời thì <em>sửa một câu rồi đi tiếp</em>, đừng quay lại đầu"
+  ],
+  "tags": [
+    { "text": "Mức độ: B2 bắt buộc", "hot": true },
+    { "text": "Im lặng = mất lượt" },
+    { "text": "“ưm… à…” nghe rất lộ" },
+    { "text": "Ảnh hưởng: lớn" }
+  ],
+  "frames": [16, 46, 50, 68, 70],
+  "sections": [
+    {
+      "title": "Quy tắc cốt lõi",
+      "blocks": [
+        { "t": "p", "html": "Ai nói ngoại ngữ cũng có lúc bí. Khác biệt giữa B1 và B2 <b>không phải là không bí</b> — mà là <b>xử lý lúc bí thế nào</b>. Người B2 vẫn phát ra âm thanh, vẫn giữ được lượt nói, và vẫn đi tiếp." },
+        { "t": "callout", "html": "<b>BẪY SỐ MỘT — im lặng khi đang nghĩ:</b><br>Trong tiếng Anh, <b>im lặng là tín hiệu “tôi nói xong rồi”</b>. Bạn dừng ba giây để tìm từ, người kia liền nói tiếp — và bạn mất lượt dù chưa nói hết ý.<br><b>Cách giữ lượt:</b> lấp chỗ trống bằng một câu có nghĩa, không phải bằng khoảng lặng:<br><i>“That's a good question — let me think for a second.”</i><br><i>“Hmm, how can I put this…”</i><br>Vừa có thời gian nghĩ, vừa báo cho người kia biết <b>bạn chưa xong</b>." },
+        { "t": "callout", "html": "<b>BẪY SỐ HAI — lấp bằng âm tiếng Việt hoặc dừng tìm từ chính xác:</b><br>• <i>“ưm… à… cái đó là…”</i> — lộ ngay là đang dịch trong đầu<br>• Dừng lại cố nhớ đúng từ <i>“screwdriver”</i> trong khi có thể nói vòng<br><b>Nói vòng</b> là kỹ năng B2 quan trọng hơn cả vốn từ:<br><i>“It's a tool you use to… you know, for screws.”</i><br>Người nghe hiểu ngay, hội thoại không đứt. Nhớ đúng từ hay không <b>không quan trọng bằng</b> việc không làm gãy mạch." },
+        { "t": "h3", "text": "Bốn cách xử lý lúc bí" },
+        {
+          "t": "table",
+          "head": ["Tình huống", "Làm gì", "Câu mẫu"],
+          "rows": [
+            ["Cần vài giây để nghĩ", "Câu giờ có nghĩa", "That's a good question…"],
+            ["Quên mất một từ", "Nói vòng quanh nó", "It's a kind of… · the thing you use to…"],
+            ["Nói nhầm", "Sửa gọn rồi đi tiếp", "Sorry, I mean…"],
+            ["Không chắc mình nói đúng", "Báo trước rồi vẫn nói", "I'm not sure, but…"]
+          ]
+        },
+        { "t": "p", "html": "Cả bốn đều có một điểm chung: <b>vẫn phát ra âm thanh</b>. Đó mới là thứ giữ được lượt nói của bạn." }
+      ]
+    },
+    {
+      "title": "Bảng chia đầy đủ",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Chức năng", "Câu", "Ghi chú"],
+          "rows": [
+            ["Câu giờ ngắn", "Well… · Right… · So…", "Một tiếng là đủ, đừng lạm dụng"],
+            ["Câu giờ dài hơn", "That's a good question.", "Mua được 2–3 giây"],
+            ["Báo đang nghĩ", "Let me think for a second.", "Rõ ràng và lịch sự"],
+            ["Tìm cách diễn đạt", "How can I put this…", "Nghe rất tự nhiên"],
+            ["Nói vòng — vật", "It's a kind of… · It's like a…", "Khi quên tên đồ vật"],
+            ["Nói vòng — công dụng", "It's the thing you use to…", "Mô tả bằng chức năng"],
+            ["Nói vòng — người", "He's the person who…", "Xem [Ngữ pháp 45]"],
+            ["Nói vòng — nơi", "It's a place where…", "Cùng cấu trúc"],
+            ["Sửa lời", "Sorry, I mean… · Or rather,…", "Sửa gọn, đi tiếp"],
+            ["Nói lại cho rõ", "What I'm trying to say is…", "Khi câu vừa rồi rối"],
+            ["Báo không chắc", "I'm not sure, but… · I think…", "Xem [Khung 50]"],
+            ["Nhờ giúp từ", "What's the word… · You know what I mean?", "Người nghe hay nhắc giúp"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Đừng lạm dụng câu giờ.</b> Một hai lần trong cả câu trả lời là tự nhiên; lặp <i>“you know”</i> sau mỗi câu thì thành tật và bị trừ điểm trôi chảy.<br><b>Mẹo:</b> xen câu giờ với <b>im lặng ngắn có chủ đích</b> — dừng nửa giây giữa hai cụm ý là bình thường và nghe rất chín. Chỉ có khoảng lặng <b>dài, lúng túng</b> mới là vấn đề." },
+        { "t": "h3", "text": "Mười hai ví dụ song ngữ" },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "That's a good question. Let me think.", "vi": "Câu hỏi hay đấy. Để tôi nghĩ đã.", "note": "BẪY SỐ MỘT: mua được vài giây mà vẫn giữ lượt." },
+            { "en": "Hmm, how can I put this…", "vi": "Hừm, nói thế nào nhỉ…", "note": "Nghe rất tự nhiên, người bản ngữ dùng suốt." },
+            { "en": "It's a kind of tool, you use it for screws.", "vi": "Nó là một loại dụng cụ, dùng để vặn ốc.", "note": "BẪY SỐ HAI: nói vòng thay vì dừng tìm từ <i>screwdriver</i>." },
+            { "en": "It's the thing you use to open bottles.", "vi": "Cái mà bạn dùng để mở chai ấy.", "note": "Mô tả bằng công dụng. Xem [Ngữ pháp 45]." },
+            { "en": "He's the person who fixes computers.", "vi": "Người chuyên sửa máy tính ấy.", "note": "Nói vòng cho người — dùng mệnh đề quan hệ." },
+            { "en": "It's a place where you can print things.", "vi": "Chỗ mà bạn in ấn được ấy.", "note": "Nói vòng cho nơi chốn." },
+            { "en": "Sorry, I mean next Tuesday, not this one.", "vi": "Xin lỗi, ý tôi là thứ Ba tuần sau, không phải tuần này.", "note": "Sửa gọn MỘT câu rồi đi tiếp, không quay lại từ đầu." },
+            { "en": "Or rather, it's not expensive — it's just not cheap.", "vi": "Hay đúng hơn là không đắt, chỉ là không rẻ.", "note": "<b>Or rather</b> dùng khi muốn nói chính xác hơn." },
+            { "en": "What I'm trying to say is, it depends.", "vi": "Ý tôi muốn nói là, còn tùy.", "note": "Dùng khi câu vừa rồi nói rối. Xem [Khung 57]." },
+            { "en": "I'm not sure, but I think it's closed on Sundays.", "vi": "Tôi không chắc, nhưng hình như chủ nhật đóng cửa.", "note": "Báo trước rồi vẫn nói — tốt hơn im lặng. Xem [Khung 50]." },
+            { "en": "What's the word… commute, that's it.", "vi": "Từ gì ấy nhỉ… commute, đúng rồi.", "note": "Tìm từ ra tiếng — người nghe hay nhắc giúp." },
+            { "en": "I was wondering if you could explain that again.", "vi": "Không biết bạn giải thích lại được không.", "note": "Khi bạn mới là người không hiểu. Xem [Khung 16]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Khi nào cần để ý nhất",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "🎤", "title": "Thi nói", "text": "Khoảng lặng dài bị trừ điểm trôi chảy." },
+            { "icon": "💼", "title": "Họp, phỏng vấn", "text": "Im ba giây là người khác nói tiếp." },
+            { "icon": "🔤", "title": "Quên mất một từ", "text": "Nói vòng — đừng dừng lại moi óc." },
+            { "icon": "🔁", "title": "Lỡ nói nhầm", "text": "<i>Sorry, I mean…</i> rồi đi tiếp." },
+            { "icon": "❓", "title": "Không chắc thông tin", "text": "<i>I'm not sure, but…</i> Xem [Khung 50]." },
+            { "icon": "🚫", "title": "Đừng làm…", "text": "Đừng lặp <i>you know</i> sau mỗi câu — thành tật." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Câu giờ & câu sửa lời",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem dùng lúc nào và ví dụ hoàn chỉnh." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Giữ lượt & câu giờ",
+              "items": [
+                { "w": "Well,…", "vi": "Ờ thì…", "ex": "Well, it depends.", "exvi": "Ờ thì còn tùy.", "note": "Ngắn nhất — mua được nửa giây." },
+                { "w": "That's a good question.", "vi": "Câu hỏi hay đấy.", "ex": "That's a good question. Let me think.", "exvi": "Câu hỏi hay. Để tôi nghĩ.", "note": "BẪY SỐ MỘT: mua 2–3 giây mà vẫn lịch sự." },
+                { "w": "Let me think…", "vi": "Để tôi nghĩ đã…", "ex": "Let me think for a second.", "exvi": "Để tôi nghĩ một lát." },
+                { "w": "How can I put this…", "vi": "Nói thế nào nhỉ…", "ex": "How can I put this… it's complicated.", "exvi": "Nói thế nào nhỉ… phức tạp lắm." },
+                { "w": "The thing is,…", "vi": "Vấn đề là,…", "ex": "The thing is, I'm not sure.", "exvi": "Vấn đề là tôi không chắc." },
+                { "w": "Actually,…", "vi": "Thật ra thì…", "ex": "Actually, I've changed my mind.", "exvi": "Thật ra tôi đổi ý rồi." },
+                { "w": "To be honest,…", "vi": "Nói thật thì…", "ex": "To be honest, I hadn't thought about it.", "exvi": "Nói thật thì tôi chưa nghĩ tới." },
+                { "w": "I mean…", "vi": "Ý là…", "ex": "I mean, it's not that simple.", "exvi": "Ý là không đơn giản vậy đâu." },
+                { "w": "you know", "vi": "kiểu như", "ex": "It's, you know, complicated.", "exvi": "Nó kiểu như là phức tạp ấy.", "note": "Dùng ÍT thôi — lặp nhiều thành tật, bị trừ điểm." },
+                { "w": "sort of / kind of", "vi": "đại loại là", "ex": "It's sort of like a café.", "exvi": "Đại loại như quán cà phê." },
+                { "w": "I'd say…", "vi": "Tôi thì cho rằng…", "ex": "I'd say about ten years.", "exvi": "Tôi cho là khoảng mười năm. Xem [Khung 46]." },
+                { "w": "I'm not sure, but…", "vi": "Tôi không chắc, nhưng…", "ex": "I'm not sure, but I think it's closed.", "exvi": "Không chắc nhưng hình như đóng cửa. Xem [Khung 50]." }
+              ]
+            },
+            {
+              "title": "Nói vòng & sửa lời",
+              "items": [
+                { "w": "It's a kind of…", "vi": "Nó là một loại…", "ex": "It's a kind of tool.", "exvi": "Nó là một loại dụng cụ.", "note": "BẪY SỐ HAI: nói vòng thay vì dừng tìm từ chính xác." },
+                { "w": "It's like a…", "vi": "Nó giống như…", "ex": "It's like a small bag.", "exvi": "Nó giống cái túi nhỏ." },
+                { "w": "It's the thing you use to…", "vi": "Cái mà bạn dùng để…", "ex": "It's the thing you use to open bottles.", "exvi": "Cái dùng để mở chai ấy.", "note": "Mô tả bằng CÔNG DỤNG — cách hiệu quả nhất." },
+                { "w": "He's the person who…", "vi": "Người mà…", "ex": "He's the person who fixes computers.", "exvi": "Người chuyên sửa máy tính ấy. Xem [Ngữ pháp 45]." },
+                { "w": "It's a place where…", "vi": "Chỗ mà…", "ex": "It's a place where you can print things.", "exvi": "Chỗ in ấn được ấy." },
+                { "w": "something like…", "vi": "kiểu như…", "ex": "Something like a notebook, but bigger.", "exvi": "Kiểu như quyển vở nhưng to hơn." },
+                { "w": "What's the word…", "vi": "Từ gì ấy nhỉ…", "ex": "What's the word… commute, that's it.", "exvi": "Từ gì nhỉ… commute, đúng rồi.", "note": "Tìm ra tiếng — người nghe thường nhắc giúp." },
+                { "w": "Sorry, I mean…", "vi": "Xin lỗi, ý tôi là…", "ex": "Sorry, I mean next Tuesday.", "exvi": "Xin lỗi, ý tôi là thứ Ba tuần sau.", "note": "Sửa gọn MỘT câu rồi đi tiếp." },
+                { "w": "Or rather,…", "vi": "Hay đúng hơn là…", "ex": "Or rather, it's not cheap.", "exvi": "Hay đúng hơn là không rẻ." },
+                { "w": "What I'm trying to say is…", "vi": "Ý tôi muốn nói là…", "ex": "What I'm trying to say is, it depends.", "exvi": "Ý tôi là còn tùy. Xem [Ngữ pháp 62]." },
+                { "w": "Let me rephrase that.", "vi": "Để tôi nói lại.", "ex": "Let me rephrase that.", "exvi": "Để tôi diễn đạt lại." },
+                { "w": "Does that make sense?", "vi": "Vậy có dễ hiểu không?", "ex": "Does that make sense?", "exvi": "Vậy có hiểu không ạ?", "note": "Kiểm tra lại sau một đoạn dài. Xem [Khung 68]." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "BẪY người Việt hay mắc",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "Bí từ rồi <b>im lặng ba giây</b>", "right": "<b>“That's a good question — let me think.”</b>", "why": "BẪY SỐ MỘT: im lặng trong tiếng Anh là tín hiệu “tôi nói xong rồi”, nên bạn mất lượt." },
+            { "wrong": "Lấp bằng <b>“ưm… à…”</b> tiếng Việt", "right": "<b>“Well…”</b> · <b>“Hmm, how can I put this…”</b>", "why": "BẪY SỐ HAI: âm tiếng Việt lộ ngay là đang dịch trong đầu." },
+            { "wrong": "Dừng lại cố nhớ từ <b>screwdriver</b>", "right": "<b>“It's a kind of tool, for screws.”</b>", "why": "Nói vòng quan trọng hơn vốn từ. Hội thoại không đứt mới là cái được chấm." },
+            { "wrong": "Nói nhầm rồi <b>quay lại kể từ đầu</b>", "right": "<b>“Sorry, I mean next Tuesday.”</b> rồi đi tiếp", "why": "Quay lại từ đầu làm mất mạch và tốn thời gian của cả hai." },
+            { "wrong": "Lặp <b>“you know”</b> sau mỗi câu", "right": "Dùng một hai lần trong cả đoạn", "why": "Lạm dụng thành tật và bị trừ điểm trôi chảy." },
+            { "wrong": "Nói <b>“How to say?”</b>", "right": "<b>“How can I put this…”</b> hoặc <b>“What's the word…”</b>", "why": "<i>How to say</i> là dịch thẳng, không phải câu tiếng Anh." },
+            { "wrong": "Không biết thì <b>không nói gì</b>", "right": "<b>“I'm not sure, but I think…”</b>", "why": "Báo trước rồi vẫn nói thì vẫn được tính. Im lặng thì không. Xem [Khung 50]." },
+            { "wrong": "Xin lỗi dài dòng: <b>“Sorry, my English is bad…”</b>", "right": "Sửa gọn rồi <b>đi tiếp</b>", "why": "Xin lỗi về trình độ làm người nghe chú ý vào lỗi thay vì vào ý bạn." },
+            { "wrong": "Dùng câu giờ rồi vẫn <b>không nói gì thêm</b>", "right": "Câu giờ rồi <b>phải nói tiếp</b>", "why": "Câu giờ chỉ mua thời gian — nó không thay được nội dung." },
+            { "wrong": "Dừng hẳn vì một lỗi ngữ pháp nhỏ", "right": "Kệ nó, <b>nói tiếp</b>", "why": "B2 chấm độ trôi chảy nhiều hơn độ chính xác tuyệt đối." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với lỗi gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Cặp dễ nhầm", "Khác nhau", "Ví dụ"],
+          "rows": [
+            ["Im lặng dài / dừng ngắn có chủ đích", "Mất lượt / nghe chín", "Nửa giây giữa hai cụm ý là bình thường"],
+            ["Câu giờ tiếng Anh / âm tiếng Việt", "Tự nhiên / lộ ngay", "Well… ≠ “ưm… à…”"],
+            ["Nói vòng / dừng tìm từ", "Hội thoại chạy / gãy", "It's a kind of… ≠ im lặng"],
+            ["<code>Sorry, I mean…</code> / kể lại từ đầu", "Gọn / mất mạch", "Sửa một câu rồi đi tiếp"],
+            ["Dùng ít / lạm dụng", "Tự nhiên / thành tật", "<i>you know</i> một hai lần thôi"],
+            ["<code>How can I put this</code> / <code>How to say</code>", "Đúng / dịch thẳng", "<i>How to say</i> ✗"],
+            ["Câu giờ / nội dung", "Mua thời gian / thứ được chấm", "Câu giờ xong phải nói tiếp"]
+          ]
+        },
+        { "t": "h3", "text": "Sơ đồ chọn: đang nói mà tắc thì làm gì?" },
+        {
+          "t": "tree",
+          "q": "Bạn đang nói giữa chừng và tắc — xử lý theo đúng loại tắc.",
+          "nodes": [
+            { "if": "Cần vài giây để nghĩ ý", "then": "That's a good question. Let me think.", "ex": "Mua 2–3 giây, vẫn giữ lượt" },
+            { "if": "Quên mất một TỪ cụ thể", "then": "Nói vòng bằng công dụng", "ex": "It's the thing you use to…" },
+            { "if": "Vừa nói nhầm một chi tiết", "then": "Sorry, I mean… rồi đi tiếp", "ex": "Sorry, I mean next Tuesday." },
+            { "if": "Câu vừa rồi nói rối", "then": "What I'm trying to say is…", "ex": "…it depends." },
+            { "if": "Không chắc thông tin có đúng", "then": "I'm not sure, but…", "ex": "Xem [Khung 50]" },
+            { "if": "Nói xong một đoạn dài", "then": "Does that make sense?", "ex": "Kiểm tra người nghe còn theo kịp" }
+          ]
+        },
+        { "t": "h3", "text": "Thang độ mượt khi bị tắc" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "(im lặng 3 giây)", "vi": "Tệ nhất — mất lượt nói" },
+            { "en": "“ưm… à…”", "vi": "Lộ ngay là đang dịch" },
+            { "en": "“Er… you know… er…”", "vi": "Có âm nhưng rỗng" },
+            { "en": "“Well, let me think…”", "vi": "Tốt — có nghĩa, giữ được lượt" },
+            { "en": "“That's a good question. How can I put this…”", "vi": "Tốt nhất — tự nhiên như người bản ngữ" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Kỹ năng này dùng ở đâu",
+      "blocks": [
+        { "t": "p", "html": "Câu giờ và sửa lời dùng xen vào mọi đoạn nói dài. Bấm vào để luyện trên khung câu thật." },
+        {
+          "t": "link",
+          "items": [
+            { "id": 50, "why": "I'm not sure, but… — cách nói khi không chắc, luôn tốt hơn im lặng." },
+            { "id": 46, "why": "I'd say + mệnh đề — vừa câu giờ vừa đưa được ý kiến." },
+            { "id": 70, "why": "What's + N + like? — câu hỏi mở, chỗ bạn hay tắc giữa chừng nhất." },
+            { "id": 68, "why": "What do you mean by + N? — khi bạn mới là người không hiểu." },
+            { "id": 16, "why": "I was wondering if you could + V — nhờ nhắc lại một cách lịch sự." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Tình huống này nói câu gì?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Cần vài giây để nghĩ.", "blank": "__________ Let me think.", "a": "That's a good question." },
+            { "vi": "Đang tìm cách diễn đạt.", "blank": "Hmm, __________ …", "a": "how can I put this" },
+            { "vi": "Quên từ “cái mở chai”.", "blank": "It's __________ you use to open bottles.", "a": "the thing" },
+            { "vi": "Quên từ chỉ một loại dụng cụ.", "blank": "It's __________ tool.", "a": "a kind of" },
+            { "vi": "Vừa nói nhầm ngày.", "blank": "__________ next Tuesday, not this one.", "a": "Sorry, I mean" },
+            { "vi": "Muốn nói chính xác hơn.", "blank": "__________, it's not cheap.", "a": "Or rather" },
+            { "vi": "Câu vừa rồi nói rối.", "blank": "__________ is, it depends.", "a": "What I'm trying to say" },
+            { "vi": "Không chắc thông tin.", "blank": "__________, but I think it's closed.", "a": "I'm not sure" }
+          ]
+        },
+        { "t": "h3", "text": "B. Cách nào tốt hơn?" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Bí từ giữa chừng", "blank": "(a) (im lặng 3 giây)  (b) “Well, let me think…”", "a": "(b)" },
+            { "vi": "Quên từ screwdriver", "blank": "(a) dừng lại cố nhớ  (b) “It's a kind of tool, for screws.”", "a": "(b)" },
+            { "vi": "Nói nhầm một chi tiết", "blank": "(a) kể lại từ đầu  (b) “Sorry, I mean…” rồi đi tiếp", "a": "(b)" },
+            { "vi": "Tìm cách diễn đạt", "blank": "(a) “How to say?”  (b) “How can I put this…”", "a": "(b)" }
+          ]
+        },
+        { "t": "h3", "text": "C. Nói 60 giây, cố tình tắc một lần rồi gỡ" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tả một đồ vật mà bạn không biết tên tiếng Anh.", "a": "It's a kind of… · It's the thing you use to… Xem [Ngữ pháp 45]." },
+            { "vi": "2. Trả lời một câu hỏi khó, dùng câu giờ ở đầu.", "a": "That's a good question. Let me think… · How can I put this…" },
+            { "vi": "3. Nói một câu rồi cố ý sửa lại cho chính xác hơn.", "a": "…Or rather, … · Sorry, I mean…" },
+            { "vi": "4. Nói về một thông tin bạn không chắc.", "a": "I'm not sure, but I think… Xem [Khung 50]." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo nhớ",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Im lặng = “tôi nói xong rồi”.</b> Dừng ba giây là người kia nói tiếp, dù bạn chưa hết ý.",
+            "<b>Lấp chỗ trống bằng câu CÓ NGHĨA</b>, không phải bằng âm tiếng Việt. <i>“Well…”</i>, <i>“Let me think…”</i>.",
+            "<b>Nói vòng quan trọng hơn vốn từ.</b> Quên từ thì mô tả công dụng: <i>It's the thing you use to…</i>",
+            "<b>Sửa một câu rồi đi tiếp.</b> <i>“Sorry, I mean…”</i> — đừng quay lại kể từ đầu, mất mạch.",
+            "<b>Dùng ít thôi.</b> Một hai lần trong cả đoạn là tự nhiên; lặp <i>you know</i> sau mỗi câu là thành tật.",
+            "<b>Bài tập 2 phút:</b> tả năm đồ vật quanh bạn mà <b>không được gọi tên chúng</b> — chỉ dùng <i>It's a kind of…</i> và <i>It's the thing you use to…</i>"
+          ]
+        }
+      ]
+    }
+  ]
+}

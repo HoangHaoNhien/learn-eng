@@ -1,0 +1,501 @@
+{
+  "id": 65,
+  "group": "Nhóm 7 · Hỏi thông tin",
+  "title": "How much / How many…? — Hỏi số lượng và giá",
+  "subtitle": "Một trong những cặp từ bị dùng sai nhiều nhất bởi người học Việt Nam. Nguyên nhân không nằm ở ngữ pháp mà ở tư duy: tiếng Việt không phân biệt danh từ đếm được và không đếm được, nên money, information, advice bị đem đếm như bình thường.",
+  "pattern": [
+    "How much <em>+ danh từ không đếm được</em>?",
+    "How many <em>+ danh từ số nhiều</em>?",
+    "How much is it?"
+  ],
+  "meaning": "Bao nhiêu…? / Giá bao nhiêu?",
+  "grammar": [19, 22, 23, 44],
+  "tags": [
+    { "text": "Tần suất: rất cao", "hot": true },
+    { "text": "Độ lịch sự: 3/5" },
+    { "text": "Bẫy đếm được / không đếm được" },
+    { "text": "Trình độ: A1" }
+  ],
+  "sections": [
+    {
+      "title": "Nghĩa & sắc thái",
+      "blocks": [
+        { "t": "p", "html": "Luật gốc rất đơn giản: <span class=\"k\">How many</span> đi với danh từ <b>đếm được số nhiều</b> (<i>people, tickets, days</i>), còn <span class=\"k\">How much</span> đi với danh từ <b>không đếm được</b> (<i>money, time, water</i>)." },
+        { "t": "p", "html": "Khó khăn không nằm ở luật mà ở <b>việc nhận ra danh từ nào không đếm được</b>. Tiếng Việt đếm được mọi thứ — “ba lời khuyên”, “vài thông tin” — nên ta bật ra <i>three advices</i> ✗, <i>some informations</i> ✗ một cách tự nhiên." },
+        { "t": "p", "html": "<span class=\"k\">How much is it?</span> là câu hỏi giá phổ biến nhất. Ở đây <i>it</i> trỏ vào món hàng, và <i>much</i> đi với tiền — thứ luôn không đếm được trong tiếng Anh, dù ta đếm được từng tờ." },
+        { "t": "callout", "html": "<b>BẪY NGHIÊM TRỌNG NHẤT:</b> <span class=\"k\">How much time…?</span> = bao nhiêu <b>thời gian</b>. <span class=\"k\">How many times…?</span> = bao nhiêu <b>lần</b>. Chỉ khác một chữ <i>s</i> nhưng hai câu hỏi hoàn toàn khác nhau." },
+        { "t": "h3", "text": "Những danh từ KHÔNG đếm được hay bị nhầm" },
+        {
+          "t": "table",
+          "head": ["Sai", "Đúng", "Ghi chú"],
+          "rows": [
+            ["<i>How many moneys?</i> ✗", "<code>How much money?</code>", "Tiền luôn không đếm được"],
+            ["<i>How many informations?</i> ✗", "<code>How much information?</code>", "Không bao giờ có <i>-s</i>"],
+            ["<i>How many advices?</i> ✗", "<code>How much advice?</code>", "Đếm bằng <i>a piece of advice</i>"],
+            ["<i>How many luggages?</i> ✗", "<code>How much luggage?</code>", "Đếm bằng <i>items of luggage</i>"]
+          ]
+        },
+        { "t": "callout", "html": "<b>Muốn đếm danh từ không đếm được thì mượn đơn vị:</b> <i>a <b>piece of</b> advice</i>, <i>a <b>bit of</b> information</i>, <i>an <b>item of</b> luggage</i>, <i>a <b>slice of</b> bread</i>. Đây là cách duy nhất để nói “hai lời khuyên”." }
+      ]
+    },
+    {
+      "title": "Khi nào dùng — bối cảnh thực tế",
+      "blocks": [
+        {
+          "t": "cards",
+          "items": [
+            { "icon": "💰", "title": "Hỏi giá", "text": "Bối cảnh số 1. <i>How much is it?</i> Câu mua sắm cơ bản nhất." },
+            { "icon": "👥", "title": "Hỏi số người", "text": "<i>How many people are coming?</i> <i>people</i> đếm được." },
+            { "icon": "⏳", "title": "Hỏi lượng thời gian", "text": "<i>How much time do we have?</i> Không phải <i>how many</i>." },
+            { "icon": "🔁", "title": "Hỏi số lần", "text": "<i>How many times have you been?</i> Chú ý chữ <i>s</i>." },
+            { "icon": "🧳", "title": "Hỏi lượng hành lý", "text": "<i>How much luggage can I take?</i>" },
+            { "icon": "🚫", "title": "Đừng dùng khi…", "text": "Hỏi giá theo cách trang trọng. Ở đó dùng <i>What's the price?</i> hoặc <i>How much does it cost?</i>" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cấu trúc & các biến thể",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Dạng", "Công thức", "Ví dụ"],
+          "rows": [
+            ["Không đếm được", "<code>How much + N?</code>", "How much water do we need?"],
+            ["Đếm được", "<code>How many + N số nhiều?</code>", "How many tickets do you need?"],
+            ["Hỏi giá — ngắn", "<code>How much is it?</code>", "How much is it?"],
+            ["Hỏi giá — đầy đủ", "<code>How much does it cost?</code>", "How much does this cost?"],
+            ["Hỏi tổng", "<code>How much is that altogether?</code>", "How much is that altogether?"],
+            ["Đứng một mình", "<code>How much?</code>", "How much?"],
+            ["Thời gian còn lại", "<code>How much longer?</code>", "How much longer?"],
+            ["Số lần", "<code>How many times…?</code>", "How many times have you been?"],
+            ["Gián tiếp — lịch sự", "<code>Could you tell me how much…?</code>", "Could you tell me how much it is?"],
+            ["Hỏi giá mỗi đơn vị", "<code>How much per + N?</code>", "How much per night?"]
+          ]
+        },
+        { "t": "callout", "html": "<b>“How much?” đứng một mình rất tự nhiên</b> khi ngữ cảnh đã rõ — bạn cầm món hàng lên và hỏi <i>How much?</i> Nhưng trong công việc trang trọng thì nên nói đủ câu." },
+        { "t": "callout", "html": "<b>Đừng quên trợ động từ khi có động từ thường:</b> <span class=\"k\">How much <b>does</b> it cost?</span> ✓ — <i>How much it costs?</i> ✗. Cùng lỗi với [Khung 61]." }
+      ]
+    },
+    {
+      "title": "Từ hay đi kèm",
+      "blocks": [
+        { "t": "p", "html": "Những từ hay được cắm vào chỗ trống của khung câu này. Chọn một từ ở cột trái để xem nghĩa, một câu ví dụ hoàn chỉnh và ghi chú khi từ đó có bẫy." },
+        {
+          "t": "words",
+          "groups": [
+            {
+              "title": "Danh từ KHÔNG đếm được — đi với “much”",
+              "items": [
+                { "w": "much money", "vi": "bao nhiêu tiền", "ex": "How much money do we have left?", "exvi": "Mình còn lại bao nhiêu tiền?", "note": "<i>money</i> KHÔNG BAO GIỜ có <i>-s</i>. <i>How many moneys</i> ✗." },
+                { "w": "much time", "vi": "bao nhiêu thời gian", "ex": "How much time do we have?", "exvi": "Mình có bao nhiêu thời gian?", "note": "Khác hẳn <i>How many times</i> = bao nhiêu LẦN." },
+                { "w": "much information", "vi": "bao nhiêu thông tin", "ex": "How much information do you need?", "exvi": "Anh/chị cần bao nhiêu thông tin ạ?", "note": "<i>information</i> không có dạng số nhiều. Đếm bằng <i>a bit of information</i>." },
+                { "w": "much advice", "vi": "bao nhiêu lời khuyên", "ex": "He didn't give much advice.", "exvi": "Anh ấy không cho nhiều lời khuyên lắm.", "note": "Đếm bằng <i>a piece of advice</i> — không bao giờ <i>advices</i> ✗." },
+                { "w": "much luggage", "vi": "bao nhiêu hành lý", "ex": "How much luggage can I take?", "exvi": "Tôi mang được bao nhiêu hành lý ạ?", "note": "Đếm bằng <i>items of luggage</i>. Anh-Mỹ hay dùng <i>baggage</i>, cũng không đếm được." },
+                { "w": "much work", "vi": "bao nhiêu việc", "ex": "How much work is left?", "exvi": "Còn lại bao nhiêu việc?" },
+                { "w": "much water", "vi": "bao nhiêu nước", "ex": "How much water should I bring?", "exvi": "Tôi nên mang bao nhiêu nước?" },
+                { "w": "much space", "vi": "bao nhiêu chỗ", "ex": "How much space do you need?", "exvi": "Anh/chị cần bao nhiêu chỗ?" },
+                { "w": "much experience", "vi": "bao nhiêu kinh nghiệm", "ex": "How much experience do you have?", "exvi": "Anh/chị có bao nhiêu kinh nghiệm?", "note": "<i>experience</i> nghĩa “kinh nghiệm” thì không đếm được; nghĩa “trải nghiệm” thì đếm được." },
+                { "w": "much noise", "vi": "ồn thế nào", "ex": "How much noise does it make?", "exvi": "Nó gây ồn thế nào?" },
+                { "w": "much rice", "vi": "bao nhiêu gạo/cơm", "ex": "How much rice do we need?", "exvi": "Mình cần bao nhiêu gạo?" },
+                { "w": "much furniture", "vi": "bao nhiêu đồ đạc", "ex": "How much furniture are you moving?", "exvi": "Anh/chị chuyển bao nhiêu đồ đạc?", "note": "<i>furniture</i> luôn không đếm được — <i>furnitures</i> ✗." }
+              ]
+            },
+            {
+              "title": "Danh từ đếm được & hỏi giá",
+              "items": [
+                { "w": "many people", "vi": "bao nhiêu người", "ex": "How many people are coming?", "exvi": "Bao nhiêu người đến?", "note": "<i>people</i> đã là số nhiều của <i>person</i> — dùng <b>many</b>." },
+                { "w": "many tickets", "vi": "bao nhiêu vé", "ex": "How many tickets do you need?", "exvi": "Anh/chị cần bao nhiêu vé ạ?" },
+                { "w": "many days", "vi": "bao nhiêu ngày", "ex": "How many days are you staying?", "exvi": "Anh/chị ở lại bao nhiêu ngày?" },
+                { "w": "many times", "vi": "bao nhiêu lần", "ex": "How many times have you been?", "exvi": "Anh/chị đã đến bao nhiêu lần rồi?", "note": "BẪY: có <i>-s</i> thì là LẦN; không có <i>s</i> (<i>how much time</i>) là THỜI GIAN." },
+                { "w": "many hours", "vi": "bao nhiêu tiếng", "ex": "How many hours did it take?", "exvi": "Mất bao nhiêu tiếng?", "note": "Đơn vị thời gian cụ thể thì ĐẾM ĐƯỢC: <i>hours, days, weeks</i>." },
+                { "w": "many bags", "vi": "bao nhiêu túi", "ex": "How many bags are you checking in?", "exvi": "Anh/chị gửi bao nhiêu kiện ạ?", "note": "<i>bags</i> đếm được, nhưng <i>luggage</i> thì không — cùng một thứ, hai cách nói." },
+                { "w": "How much is it?", "vi": "cái này bao nhiêu?", "ex": "How much is it?", "exvi": "Cái này bao nhiêu ạ?", "note": "Câu hỏi giá phổ biến nhất." },
+                { "w": "How much does it cost?", "vi": "nó giá bao nhiêu?", "ex": "How much does this cost?", "exvi": "Cái này giá bao nhiêu ạ?", "note": "Có động từ thường thì BẮT BUỘC có <i>does</i>." },
+                { "w": "How much altogether?", "vi": "tổng cộng bao nhiêu?", "ex": "How much is that altogether?", "exvi": "Tổng cộng bao nhiêu ạ?" },
+                { "w": "How much per night?", "vi": "bao nhiêu một đêm?", "ex": "How much per night?", "exvi": "Bao nhiêu một đêm ạ?", "note": "<i>per</i> = mỗi. Rất hữu dụng khi hỏi giá theo đơn vị." },
+                { "w": "How much longer?", "vi": "còn bao lâu nữa?", "ex": "How much longer will it be?", "exvi": "Còn bao lâu nữa ạ?" },
+                { "w": "Could you tell me how much…?", "vi": "cho tôi hỏi bao nhiêu…?", "ex": "Could you tell me how much it is?", "exvi": "Cho tôi hỏi cái này bao nhiêu ạ?", "note": "Gián tiếp — KHÔNG đảo ngữ: <i>how much it is</i>. Xem [Khung 17]." }
+              ]
+            },
+            {
+              "title": "Cách trả lời & đơn vị đếm",
+              "items": [
+                { "w": "a piece of advice", "vi": "một lời khuyên", "ex": "Can I give you a piece of advice?", "exvi": "Cho tôi khuyên bạn một câu được không?", "note": "Cách DUY NHẤT để đếm <i>advice</i>." },
+                { "w": "a bit of information", "vi": "một chút thông tin", "ex": "Just a bit of information, please.", "exvi": "Cho tôi xin chút thông tin ạ." },
+                { "w": "a few", "vi": "một vài", "ex": "Just a few, thanks.", "exvi": "Chỉ vài cái thôi, cảm ơn.", "note": "<b>a few</b> đi với ĐẾM ĐƯỢC." },
+                { "w": "a little", "vi": "một chút", "ex": "Just a little, please.", "exvi": "Cho tôi chút thôi ạ.", "note": "<b>a little</b> đi với KHÔNG ĐẾM ĐƯỢC." },
+                { "w": "not much", "vi": "không nhiều lắm", "ex": "Not much, to be honest.", "exvi": "Thật lòng thì không nhiều lắm." },
+                { "w": "quite a lot", "vi": "khá nhiều", "ex": "Quite a lot, actually.", "exvi": "Thật ra là khá nhiều." },
+                { "w": "a lot of", "vi": "rất nhiều", "ex": "A lot of people came.", "exvi": "Rất nhiều người đã đến.", "note": "<b>a lot of</b> dùng được cho CẢ HAI loại danh từ — an toàn khi bạn không chắc." },
+                { "w": "plenty of", "vi": "thừa sức, dư dả", "ex": "We've got plenty of time.", "exvi": "Mình còn dư dả thời gian.", "note": "Cũng dùng được cho cả hai loại." },
+                { "w": "none at all", "vi": "không có chút nào", "ex": "None at all, I'm afraid.", "exvi": "E là không có chút nào ạ." },
+                { "w": "It's on the house", "vi": "quán mời", "ex": "It's on the house.", "exvi": "Quán mời ạ.", "note": "Thành ngữ — miễn phí, do nhà hàng tặng." },
+                { "w": "That's a bit steep", "vi": "giá hơi chát", "ex": "That's a bit steep, isn't it?", "exvi": "Giá hơi chát nhỉ?", "note": "<i>steep</i> = đắt quá mức. Cách chê giá rất Anh." },
+                { "w": "That's reasonable", "vi": "giá hợp lý", "ex": "That's reasonable, actually.", "exvi": "Thật ra giá cũng hợp lý." }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ngân hàng câu theo tình huống",
+      "blocks": [
+        { "t": "p", "html": "Chọn một câu ở cột trái để xem đầy đủ: câu mở lời trước đó, <b>những gì người ta sẽ đáp lại</b> và cách bạn trả lời tiếp, các biến thể, rồi câu kết." },
+        {
+          "t": "bank",
+          "groups": [
+            {
+              "sit": "shop",
+              "items": [
+                {
+                  "en": "How much is it?",
+                  "vi": "Cái này bao nhiêu ạ?",
+                  "note": "Câu hỏi giá phổ biến nhất trong tiếng Anh. Ngắn, tự nhiên, dùng được mọi nơi.",
+                  "open": { "en": "Excuse me —", "vi": "Xin lỗi —" },
+                  "reply": [
+                    { "them": "Two hundred and fifty.", "themvi": "Hai trăm năm mươi ạ.", "you": "That's a bit steep, isn't it?", "youvi": "Giá hơi chát nhỉ?" },
+                    { "them": "It's on offer — half price.", "themvi": "Đang khuyến mãi ạ — nửa giá.", "you": "That's reasonable. I'll take it.", "youvi": "Vậy hợp lý. Tôi lấy." }
+                  ],
+                  "close": { "en": "Card, please.", "vi": "Cho tôi quẹt thẻ." }
+                },
+                {
+                  "en": "How much is that altogether?",
+                  "vi": "Tổng cộng bao nhiêu ạ?",
+                  "reply": [
+                    { "them": "Four hundred and twenty.", "themvi": "Bốn trăm hai mươi ạ.", "you": "Does that include tax?", "youvi": "Đã bao gồm thuế chưa ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "How much does that come to?", "vi": "Tính ra tổng bao nhiêu ạ?" }
+                  ]
+                },
+                {
+                  "en": "How many do you have in stock?",
+                  "vi": "Bên em còn bao nhiêu cái ạ?",
+                  "note": "Dùng <b>many</b> vì đang đếm từng sản phẩm.",
+                  "reply": [
+                    { "them": "Only two left, I'm afraid.", "themvi": "E là chỉ còn hai cái ạ.", "you": "I'll take both.", "youvi": "Tôi lấy cả hai." }
+                  ]
+                },
+                {
+                  "en": "How much does this cost?",
+                  "vi": "Cái này giá bao nhiêu ạ?",
+                  "note": "Có động từ thường <i>cost</i> thì BẮT BUỘC có <b>does</b>. <i>How much this costs?</i> ✗.",
+                  "reply": [
+                    { "them": "Depends on the size.", "themvi": "Tùy cỡ ạ.", "you": "How much for the medium?", "youvi": "Cỡ vừa bao nhiêu ạ?" }
+                  ]
+                }
+              ]
+            },
+            {
+              "sit": "travel",
+              "items": [
+                {
+                  "en": "How much luggage can I take?",
+                  "vi": "Tôi mang được bao nhiêu hành lý ạ?",
+                  "note": "<b>luggage</b> KHÔNG đếm được — dùng <i>much</i>. Nhưng <i>bags</i> thì đếm được, dùng <i>many</i>.",
+                  "reply": [
+                    { "them": "One checked bag and one carry-on.", "themvi": "Một kiện ký gửi và một xách tay ạ.", "you": "How many kilos for the checked one?", "youvi": "Kiện ký gửi được bao nhiêu ký ạ?" }
+                  ],
+                  "close": { "en": "Good to know before I pack.", "vi": "Biết trước khi xếp đồ thì tốt quá." }
+                },
+                {
+                  "en": "How much per night?",
+                  "vi": "Bao nhiêu một đêm ạ?",
+                  "note": "<b>per</b> = mỗi. Rất hữu dụng khi hỏi giá theo đơn vị: <i>per night, per person, per hour</i>.",
+                  "reply": [
+                    { "them": "Nine hundred, breakfast included.", "themvi": "Chín trăm, đã bao gồm bữa sáng ạ.", "you": "And how much for two nights?", "youvi": "Hai đêm thì bao nhiêu ạ?" }
+                  ],
+                  "vars": [
+                    { "en": "How much is it per person?", "vi": "Bao nhiêu một người ạ?" }
+                  ]
+                },
+                {
+                  "en": "How many days are you staying?",
+                  "vi": "Anh/chị ở lại bao nhiêu ngày ạ?",
+                  "note": "Đơn vị thời gian cụ thể như <i>days, hours, weeks</i> thì ĐẾM ĐƯỢC — dùng <b>many</b>.",
+                  "reply": [
+                    { "them": "Three nights, leaving Sunday.", "themvi": "Ba đêm, Chủ nhật đi ạ.", "you": "Would you like a late check-out?", "youvi": "Anh/chị có muốn trả phòng muộn không ạ?" }
+                  ]
+                },
+                {
+                  "en": "How many times have you been to Japan?",
+                  "vi": "Bạn đến Nhật bao nhiêu lần rồi?",
+                  "note": "BẪY: có <b>-s</b> thì là LẦN. <i>How much time</i> (không s) lại là THỜI GIAN.",
+                  "reply": [
+                    { "them": "Three times now.", "themvi": "Ba lần rồi.", "you": "How much time did you spend each trip?", "youvi": "Mỗi chuyến bạn ở bao lâu?" }
+                  ],
+                  "close": { "en": "I'd love to go one day.", "vi": "Mình cũng muốn đi một ngày nào đó." }
+                }
+              ]
+            },
+            {
+              "sit": "work",
+              "items": [
+                {
+                  "en": "How much time do we have?",
+                  "vi": "Mình có bao nhiêu thời gian?",
+                  "note": "<b>time</b> nghĩa “thời gian” thì KHÔNG đếm được. Thêm <i>s</i> thành <i>times</i> là đổi nghĩa thành “lần”.",
+                  "reply": [
+                    { "them": "Two weeks, at most.", "themvi": "Nhiều nhất là hai tuần.", "you": "That's not much. Let's prioritise.", "youvi": "Không nhiều. Mình sắp thứ tự ưu tiên đi." }
+                  ]
+                },
+                {
+                  "en": "How much information do you need from me?",
+                  "vi": "Anh/chị cần bao nhiêu thông tin từ tôi ạ?",
+                  "note": "<b>information</b> không có dạng số nhiều. <i>informations</i> ✗ là lỗi rất phổ biến.",
+                  "reply": [
+                    { "them": "Just the headline figures.", "themvi": "Chỉ cần số liệu chính thôi.", "you": "I'll send a one-page summary.", "youvi": "Tôi sẽ gửi bản tóm tắt một trang." }
+                  ],
+                  "vars": [
+                    { "en": "How much detail do you want?", "vi": "Anh/chị muốn chi tiết đến đâu?" }
+                  ]
+                },
+                {
+                  "en": "How many people are coming to the meeting?",
+                  "vi": "Bao nhiêu người đến họp ạ?",
+                  "note": "<b>people</b> đã là số nhiều của <i>person</i> — luôn dùng <i>many</i>.",
+                  "reply": [
+                    { "them": "Eight, maybe nine.", "themvi": "Tám, chắc chín.", "you": "I'll book the bigger room.", "youvi": "Tôi đặt phòng lớn hơn." }
+                  ]
+                },
+                {
+                  "en": "How much experience do you have with this system?",
+                  "vi": "Anh/chị có bao nhiêu kinh nghiệm với hệ thống này?",
+                  "note": "<b>experience</b> nghĩa “kinh nghiệm” thì không đếm được; nghĩa “trải nghiệm” thì đếm được.",
+                  "reply": [
+                    { "them": "About two years.", "themvi": "Khoảng hai năm.", "you": "That's plenty for this project.", "youvi": "Vậy là quá đủ cho dự án này." }
+                  ],
+                  "close": { "en": "Welcome aboard.", "vi": "Chào mừng gia nhập." }
+                }
+              ]
+            },
+            {
+              "sit": "food",
+              "items": [
+                {
+                  "en": "How much is the set menu?",
+                  "vi": "Thực đơn cố định bao nhiêu ạ?",
+                  "reply": [
+                    { "them": "Three hundred and fifty per person.", "themvi": "Ba trăm năm mươi một người ạ.", "you": "Does that include drinks?", "youvi": "Có bao gồm đồ uống không ạ?" }
+                  ]
+                },
+                {
+                  "en": "How many are you, please?",
+                  "vi": "Quý khách mấy người ạ?",
+                  "note": "Câu nhân viên hỏi khi bạn bước vào nhà hàng — <i>many</i> vì đếm người.",
+                  "reply": [
+                    { "them": "Four of us.", "themvi": "Bốn người ạ.", "you": "This way, please.", "youvi": "Mời quý khách đi lối này ạ." }
+                  ],
+                  "vars": [
+                    { "en": "How many people is the table for?", "vi": "Bàn cho mấy người ạ?" }
+                  ]
+                },
+                {
+                  "en": "How much rice should we get?",
+                  "vi": "Mình nên lấy bao nhiêu cơm?",
+                  "note": "<b>rice</b> không đếm được. Muốn đếm thì mượn đơn vị: <i>two bowls of rice</i>.",
+                  "reply": [
+                    { "them": "Two bowls between us?", "themvi": "Hai bát cho cả hai nhé?", "you": "Perfect.", "youvi": "Chuẩn luôn." }
+                  ]
+                },
+                {
+                  "en": "How much longer will the food be?",
+                  "vi": "Còn bao lâu nữa thì có đồ ăn ạ?",
+                  "reply": [
+                    { "them": "Two minutes, I'll chase it.", "themvi": "Hai phút ạ, em giục bếp.", "you": "Thank you.", "youvi": "Cảm ơn em." }
+                  ],
+                  "close": { "en": "No rush at all.", "vi": "Không vội đâu ạ." }
+                }
+              ]
+            },
+            {
+              "sit": "life",
+              "items": [
+                {
+                  "en": "How much money do we have left?",
+                  "vi": "Mình còn lại bao nhiêu tiền?",
+                  "note": "<b>money</b> KHÔNG BAO GIỜ có <i>-s</i>. <i>How many moneys</i> ✗ là lỗi kinh điển.",
+                  "reply": [
+                    { "them": "Not much, to be honest.", "themvi": "Thật lòng thì không nhiều.", "you": "Let's skip the taxi then.", "youvi": "Vậy mình bỏ taxi đi." }
+                  ]
+                },
+                {
+                  "en": "How many of us are going?",
+                  "vi": "Mình đi bao nhiêu người?",
+                  "reply": [
+                    { "them": "Six, last I heard.", "themvi": "Lần cuối mình nghe là sáu.", "you": "I'll book for seven, just in case.", "youvi": "Mình đặt bảy cho chắc." }
+                  ],
+                  "vars": [
+                    { "en": "How many people are coming?", "vi": "Bao nhiêu người đến?" }
+                  ]
+                },
+                {
+                  "en": "Can I give you a piece of advice?",
+                  "vi": "Cho mình khuyên bạn một câu được không?",
+                  "note": "Cách DUY NHẤT để đếm <b>advice</b> — mượn đơn vị <i>a piece of</i>.",
+                  "reply": [
+                    { "them": "Go on then.", "themvi": "Nói đi.", "you": "Sleep on it before you decide.", "youvi": "Để qua đêm nghĩ rồi hãy quyết." }
+                  ],
+                  "close": { "en": "That's good advice, actually.", "vi": "Thật ra đó là lời khuyên hay." }
+                },
+                {
+                  "en": "How many times have I told you?",
+                  "vi": "Mình đã nói bao nhiêu lần rồi?",
+                  "note": "Có <b>-s</b> thì là “lần”. Câu này thường mang sắc thái trách móc nhẹ.",
+                  "reply": [
+                    { "them": "Too many, I know.", "themvi": "Nhiều quá, mình biết rồi.", "you": "Then do it this time.", "youvi": "Vậy lần này làm đi." }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hội thoại mẫu",
+      "blocks": [
+        {
+          "t": "dialog",
+          "who": "Hỏi giá và mặc cả ở cửa hàng",
+          "lines": [
+            { "speaker": "You", "me": true, "en": "Excuse me, how much is this?", "vi": "Xin lỗi, cái này bao nhiêu ạ?" },
+            { "speaker": "Seller", "en": "Two hundred and fifty.", "vi": "Hai trăm năm mươi ạ." },
+            { "speaker": "You", "me": true, "en": "That's a bit steep. How much for two?", "vi": "Hơi chát đấy. Hai cái thì bao nhiêu ạ?" },
+            { "speaker": "Seller", "en": "Four hundred and fifty for two.", "vi": "Hai cái bốn trăm năm mươi ạ." },
+            { "speaker": "You", "me": true, "en": "How many do you have in stock?", "vi": "Bên em còn bao nhiêu cái ạ?" },
+            { "speaker": "Seller", "en": "Only three left. How much would you pay?", "vi": "Chỉ còn ba ạ. Anh/chị trả bao nhiêu?" }
+          ]
+        },
+        {
+          "t": "dialog",
+          "who": "Chuẩn bị cho một cuộc họp",
+          "lines": [
+            { "speaker": "Manager", "en": "How much time do we have before the client call?", "vi": "Còn bao nhiêu thời gian trước cuộc gọi với khách?" },
+            { "speaker": "You", "me": true, "en": "About forty minutes. How many people are joining?", "vi": "Khoảng bốn mươi phút. Bao nhiêu người tham gia ạ?" },
+            { "speaker": "Manager", "en": "Eight from our side. How much information have they sent?", "vi": "Bên mình tám người. Họ gửi bao nhiêu thông tin rồi?" },
+            { "speaker": "You", "me": true, "en": "Not much — just a one-page brief.", "vi": "Không nhiều — chỉ một bản tóm tắt một trang." },
+            { "speaker": "Manager", "en": "How many times have we met them before?", "vi": "Mình gặp họ bao nhiêu lần rồi?" },
+            { "speaker": "You", "me": true, "en": "Twice. Can I give you a piece of advice? Keep it short.", "vi": "Hai lần. Cho tôi góp một lời khuyên nhé? Nói ngắn thôi." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Lỗi thường gặp",
+      "blocks": [
+        {
+          "t": "pairs",
+          "items": [
+            { "wrong": "How many money do you have?", "right": "How much money do you have?", "why": "<b>money</b> KHÔNG đếm được và không bao giờ có <i>-s</i>. Đây là lỗi số một của người học Việt Nam." },
+            { "wrong": "How many informations do you need?", "right": "How much information do you need?", "why": "<b>information</b> không có dạng số nhiều. Đếm bằng <i>a bit of information</i>." },
+            { "wrong": "He gave me three advices.", "right": "He gave me three pieces of advice.", "why": "<b>advice</b> không đếm được — phải mượn đơn vị <i>piece of</i>." },
+            { "wrong": "How much times have you been?", "right": "How many times have you been?", "why": "BẪY QUAN TRỌNG. <i>times</i> (có s) = LẦN, đếm được. Chỉ <i>time</i> (không s, nghĩa thời gian) mới đi với <i>much</i>." },
+            { "wrong": "How much it costs?", "right": "How much does it cost?", "why": "Có động từ thường thì BẮT BUỘC có trợ động từ <b>does</b>. Xem [Khung 61]." },
+            { "wrong": "How many luggages can I take?", "right": "How much luggage can I take?", "why": "<b>luggage</b> không đếm được. Muốn đếm thì nói <i>How many bags…?</i> — hai từ khác nhau." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phân biệt với các khung gần giống",
+      "blocks": [
+        {
+          "t": "table",
+          "head": ["Câu hỏi", "Đi với", "Ví dụ & lúc nào dùng"],
+          "rows": [
+            ["<code>How much + N?</code>", "Danh từ không đếm được", "<i>How much money?</i> Tiền, thời gian, thông tin."],
+            ["<code>How many + N số nhiều?</code>", "Danh từ đếm được", "<i>How many people?</i> Người, vé, ngày."],
+            ["<code>How much is it?</code>", "Hỏi giá", "<i>How much is it?</i> Câu mua sắm cơ bản."],
+            ["<code>How many times…?</code>", "Số lần", "<i>How many times have you been?</i>"],
+            ["<code>How much time…?</code>", "Lượng thời gian", "<i>How much time do we have?</i>"],
+            ["<code>How long…?</code>", "Thời lượng một việc", "<i>How long does it take?</i> Xem [Khung 64]."],
+            ["<code>How often…?</code>", "Tần suất", "<i>How often does it run?</i>"]
+          ]
+        },
+        { "t": "h3", "text": "Thang mức độ — hỏi giá một món hàng" },
+        {
+          "t": "scale",
+          "items": [
+            { "en": "How much?", "vi": "Ngắn nhất — khi ngữ cảnh đã rõ" },
+            { "en": "How much is it?", "vi": "Chuẩn mực, dùng được mọi nơi" },
+            { "en": "How much does it cost?", "vi": "Đầy đủ hơn một chút" },
+            { "en": "Could you tell me how much it is?", "vi": "Lịch sự. Xem [Khung 17]" },
+            { "en": "I was wondering how much this one is.", "vi": "Lịch sự nhất. Xem [Khung 16]" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Phát âm & nối âm",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>How much</b> → “hau-MUCH”, trọng âm vào <i>MUCH</i>. Âm <b>ch</b> đọc là /tʃ/ như trong <i>church</i>.",
+            "<b>How many</b> → “hau-MEN-i”, nhấn âm đầu của <i>many</i>. Nguyên âm là /e/ ngắn, không phải /æ/.",
+            "<b>much is it</b> nối thành <b>“mu-chi-zit”</b> — ba từ dính liền thành một khối.",
+            "<b>How much is it?</b> nói nhanh nghe như <b>“hau-mu-chi-zit”</b>.",
+            "<b>many times</b> → “men-i-TAIMZ”, đuôi <i>-s</i> đọc là /z/ có rung.",
+            "<b>Giọng đi xuống ở cuối</b> — câu hỏi có từ để hỏi luôn hạ giọng."
+          ]
+        },
+        {
+          "t": "ex",
+          "items": [
+            { "en": "How much is it altogether?", "vi": "Luyện shadowing: “hau-mu-chi-zit-awl-tə-GETH-ə”." },
+            { "en": "How many people are coming?", "vi": "Tập nhấn MEN-i và nối “pee-pl-ə-KUM-ing”." }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Luyện tập",
+      "blocks": [
+        { "t": "h3", "text": "A. Điền vào chỗ trống" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "Mình còn lại bao nhiêu tiền?", "blank": "__________ money do we have left?", "a": "How much (money không đếm được)" },
+            { "vi": "Bao nhiêu người đến?", "blank": "__________ people are coming?", "a": "How many" },
+            { "vi": "Mình có bao nhiêu thời gian?", "blank": "__________ time do we have?", "a": "How much" },
+            { "vi": "Anh/chị đến bao nhiêu lần rồi?", "blank": "__________ have you been?", "a": "How many times (có -s = lần)" },
+            { "vi": "Cái này giá bao nhiêu ạ?", "blank": "How much __________ this cost?", "a": "does (bắt buộc có trợ động từ)" },
+            { "vi": "Tôi mang được bao nhiêu hành lý ạ?", "blank": "__________ luggage can I take?", "a": "How much (luggage không đếm được)" },
+            { "vi": "Cho mình khuyên bạn một câu được không?", "blank": "Can I give you __________ advice?", "a": "a piece of" },
+            { "vi": "Bao nhiêu một đêm ạ?", "blank": "How much __________?", "a": "per night" }
+          ]
+        },
+        { "t": "h3", "text": "B. Dịch Việt → Anh" },
+        {
+          "t": "quiz",
+          "items": [
+            { "vi": "1. Tổng cộng bao nhiêu ạ?", "a": "How much is that altogether?" },
+            { "vi": "2. Anh/chị cần bao nhiêu thông tin từ tôi ạ?", "a": "How much information do you need from me?" },
+            { "vi": "3. Bao nhiêu người đến họp ạ?", "a": "How many people are coming to the meeting?" },
+            { "vi": "4. Tôi mang được bao nhiêu hành lý ạ?", "a": "How much luggage can I take?" },
+            { "vi": "5. Bạn đến Nhật bao nhiêu lần rồi?", "a": "How many times have you been to Japan?" }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Mẹo áp dụng ngay hôm nay",
+      "blocks": [
+        {
+          "t": "list",
+          "items": [
+            "<b>Học thuộc danh sách không đếm được hay bị nhầm:</b> money, time, information, advice, luggage, furniture, work, news, research, equipment.",
+            "<b>Nhớ cặp bẫy:</b> <i>How much <b>time</b></i> = bao nhiêu thời gian; <i>How many <b>times</b></i> = bao nhiêu lần.",
+            "<b>Muốn đếm thứ không đếm được thì mượn đơn vị:</b> <i>a piece of advice</i>, <i>a bit of information</i>, <i>an item of luggage</i>.",
+            "<b>Khi không chắc thì dùng “a lot of”</b> — nó hợp với cả hai loại danh từ và luôn an toàn.",
+            "<b>Đừng quên trợ động từ:</b> <i>How much <b>does</b> it cost?</i> không phải <i>How much it costs?</i>",
+            "<b>Bài tập 3 phút:</b> viết 10 danh từ bạn hay dùng, đánh dấu đếm được hay không, rồi đặt câu hỏi <i>How much/many</i> cho từng cái."
+          ]
+        }
+      ]
+    }
+  ]
+}
