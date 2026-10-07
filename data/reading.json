@@ -1,6 +1,6 @@
 {
  "title": "Đọc đoạn dài",
- "tagline": "bài 400–600 từ, dùng lại chính từ vựng bạn đã học",
+ "tagline": "bài 400–600 từ (bậc A1: 150–250 từ), dùng lại chính từ vựng bạn đã học",
  "intro": "Toàn bộ tài liệu còn lại chỉ có <b>câu lẻ</b>. B2 đòi hỏi đọc hiểu cả bài. Mỗi bài ở đây nhồi <b>15–25 từ của một chủ đề từ vựng bạn đã học</b> vào ngữ cảnh thật — vừa luyện đọc vừa củng cố từ, không phải học thêm từ mới. Đọc hết một lượt trước, đừng tra từ giữa chừng; danh sách từ nằm ở cuối bài.",
  "items": [
   {
@@ -4179,6 +4179,1527 @@
      "wind",
      "n",
      "gió"
+    ]
+   ]
+  },
+  {
+   "id": 25,
+   "topic": "a1-people",
+   "lv": "A1",
+   "title": "My Family",
+   "vi": "Gia đình tôi",
+   "teaches": [
+    "idea",
+    "main",
+    "mean",
+    "text",
+    "writer"
+   ],
+   "text": [
+    "Hello. My name is Lan. I am a student, and I am twenty. This is my family. There are six people in my family: my grandmother, my mother, my father, my brother, my sister and me.",
+    "My father is a doctor. He works at a hospital in the city. He is tall and kind, but he is always busy. My mother is a teacher. Her students like her a lot. She is nice and very happy.",
+    "My brother Nam is a policeman. He has a wife and a baby son. The baby is very small and very nice. My sister Hoa is a nurse. She is young, but she works a lot. She is often tired at night.",
+    "My grandmother is old, but she is strong and happy. She lives with us, and she is a good friend to me.",
+    "I love my family. We are not a big family, but we are a happy family. On Sunday we all have dinner at home. My friends say: “Your family is very kind.” I think they are right."
+   ],
+   "q": [
+    {
+     "q": "What is the text about?",
+     "opts": [
+      "Lan's school",
+      "Lan and her family",
+      "A hospital in the city",
+      "A Sunday market"
+     ],
+     "a": 1,
+     "kind": "main"
+    },
+    {
+     "q": "What does Lan think about her family?",
+     "opts": [
+      "It is big and busy.",
+      "It is old and sad.",
+      "It is not big, but it is happy.",
+      "It is new to her."
+     ],
+     "a": 2,
+     "kind": "main"
+    },
+    {
+     "q": "What does Lan's father do?",
+     "opts": [
+      "He is a teacher.",
+      "He is a policeman.",
+      "He is a nurse.",
+      "He is a doctor."
+     ],
+     "a": 3,
+     "kind": "detail"
+    },
+    {
+     "q": "Who has a baby son?",
+     "opts": [
+      "Nam",
+      "Lan",
+      "Hoa",
+      "Lan's grandmother"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "Hoa “works a lot”. This means she…",
+     "opts": [
+      "does not work",
+      "works many hours",
+      "works at home",
+      "likes to sleep"
+     ],
+     "a": 1,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "baby",
+     "n",
+     "em bé"
+    ],
+    [
+     "people",
+     "n",
+     "người (số nhiều của person)"
+    ],
+    [
+     "family",
+     "n",
+     "gia đình"
+    ],
+    [
+     "mother",
+     "n",
+     "mẹ"
+    ],
+    [
+     "father",
+     "n",
+     "bố"
+    ],
+    [
+     "son",
+     "n",
+     "con trai"
+    ],
+    [
+     "brother",
+     "n",
+     "anh/em trai"
+    ],
+    [
+     "sister",
+     "n",
+     "chị/em gái"
+    ],
+    [
+     "grandmother",
+     "n",
+     "bà"
+    ],
+    [
+     "wife",
+     "n",
+     "vợ (số nhiều: wives)"
+    ],
+    [
+     "friend",
+     "n",
+     "bạn"
+    ],
+    [
+     "name",
+     "n",
+     "tên"
+    ],
+    [
+     "teacher",
+     "n",
+     "giáo viên"
+    ],
+    [
+     "student",
+     "n",
+     "học sinh, sinh viên"
+    ],
+    [
+     "doctor",
+     "n",
+     "bác sĩ"
+    ],
+    [
+     "nurse",
+     "n",
+     "y tá"
+    ],
+    [
+     "policeman",
+     "n",
+     "cảnh sát (số nhiều: policemen)"
+    ],
+    [
+     "young",
+     "adj",
+     "trẻ"
+    ],
+    [
+     "old",
+     "adj",
+     "già; cũ"
+    ],
+    [
+     "tall",
+     "adj",
+     "cao (người)"
+    ],
+    [
+     "happy",
+     "adj",
+     "vui"
+    ],
+    [
+     "tired",
+     "adj",
+     "mệt"
+    ],
+    [
+     "busy",
+     "adj",
+     "bận"
+    ],
+    [
+     "kind",
+     "adj",
+     "tốt bụng"
+    ],
+    [
+     "nice",
+     "adj",
+     "dễ thương, tử tế"
+    ],
+    [
+     "good",
+     "adj",
+     "tốt, giỏi"
+    ],
+    [
+     "Hello",
+     "phr",
+     "Xin chào"
+    ]
+   ],
+   "names": [
+    "Lan",
+    "Nam",
+    "Hoa"
+   ]
+  },
+  {
+   "id": 26,
+   "topic": "a1-verb",
+   "lv": "A1",
+   "title": "Tom Learns Vietnamese",
+   "vi": "Tom học tiếng Việt",
+   "teaches": [
+    "again",
+    "idea",
+    "main",
+    "mean",
+    "text",
+    "writer"
+   ],
+   "text": [
+    "Tom is a worker from London. Now he lives in Vietnam, and he wants to learn Vietnamese. Every Monday and Thursday evening he goes to a school near his office.",
+    "His teacher is Mrs Mai. She speaks, the students listen, and then they repeat. Tom likes the school. He listens, he writes, and he asks Mrs Mai to help him. Sometimes Tom does not understand. Then he says: “Sorry, can you say that again, please?” Mrs Mai is always kind. She tells him: “Do not stop. Read a little every day.”",
+    "So every morning Tom reads a short book in Vietnamese. At work he speaks Vietnamese with his friends. They help him, and he helps them with English.",
+    "One day Tom went to the market. He wanted to buy some fruit. He spoke Vietnamese, and the woman understood him! She sold him some oranges and said: “Your Vietnamese is good!” Tom was very happy. He did not forget that day.",
+    "Now Tom knows one thing: you learn a lot when you use it every day."
+   ],
+   "q": [
+    {
+     "q": "What is the text about?",
+     "opts": [
+      "A market in London",
+      "A teacher who sells fruit",
+      "A man who learns Vietnamese",
+      "A school for doctors"
+     ],
+     "a": 2,
+     "kind": "main"
+    },
+    {
+     "q": "What is good for Tom?",
+     "opts": [
+      "Never asking",
+      "Stopping when he does not understand",
+      "Only reading at school",
+      "Using Vietnamese every day"
+     ],
+     "a": 3,
+     "kind": "main"
+    },
+    {
+     "q": "When does Tom go to the school?",
+     "opts": [
+      "Monday and Thursday evening",
+      "Every morning",
+      "Every weekend",
+      "Friday afternoon"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "What did Tom buy at the market?",
+     "opts": [
+      "Bananas",
+      "Oranges",
+      "Apples",
+      "Rice"
+     ],
+     "a": 1,
+     "kind": "detail"
+    },
+    {
+     "q": "“The woman understood him” means she…",
+     "opts": [
+      "did not hear him",
+      "did not want to help him",
+      "knew what he wanted",
+      "spoke to him in English"
+     ],
+     "a": 2,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "do",
+     "v",
+     "làm"
+    ],
+    [
+     "go",
+     "v",
+     "đi"
+    ],
+    [
+     "listen",
+     "v",
+     "lắng nghe (có chủ ý)"
+    ],
+    [
+     "speak",
+     "v",
+     "nói (một thứ tiếng)"
+    ],
+    [
+     "say",
+     "v",
+     "nói (một câu)"
+    ],
+    [
+     "tell",
+     "v",
+     "kể, bảo ai"
+    ],
+    [
+     "ask",
+     "v",
+     "hỏi"
+    ],
+    [
+     "know",
+     "v",
+     "biết (chữ k CÂM)"
+    ],
+    [
+     "want",
+     "v",
+     "muốn"
+    ],
+    [
+     "like",
+     "v",
+     "thích"
+    ],
+    [
+     "help",
+     "v",
+     "giúp"
+    ],
+    [
+     "work",
+     "v",
+     "làm việc"
+    ],
+    [
+     "learn",
+     "v",
+     "học được, tiếp thu"
+    ],
+    [
+     "read",
+     "v",
+     "đọc (quá khứ viết giống, đọc /red/)"
+    ],
+    [
+     "write",
+     "v",
+     "viết (chữ w CÂM)"
+    ],
+    [
+     "live",
+     "v",
+     "sống"
+    ],
+    [
+     "use",
+     "v",
+     "dùng"
+    ],
+    [
+     "stop",
+     "v",
+     "dừng lại"
+    ],
+    [
+     "sell",
+     "v",
+     "bán"
+    ],
+    [
+     "forget",
+     "v",
+     "quên"
+    ],
+    [
+     "understand",
+     "v",
+     "hiểu"
+    ],
+    [
+     "repeat",
+     "v",
+     "nhắc lại"
+    ]
+   ],
+   "names": [
+    "Tom",
+    "Mai",
+    "London",
+    "Vietnam",
+    "Vietnamese",
+    "English"
+   ]
+  },
+  {
+   "id": 27,
+   "topic": "a1-home",
+   "lv": "A1",
+   "title": "My New Room",
+   "vi": "Căn phòng mới của tôi",
+   "teaches": [
+    "idea",
+    "main",
+    "mean",
+    "text",
+    "writer"
+   ],
+   "text": [
+    "This year my family and I went to a new house. It is not big, but it has a nice garden with a tree and a lot of flowers.",
+    "My bedroom is small. It has one window, and in the morning the sun comes in. There is a bed next to the window, a table and a chair. On the table there is a lamp, some books and a pen. On the wall there is a mirror. The walls are white and the floor is brown. I like my room. It is always clean.",
+    "The bathroom is next to my bedroom. It is small and blue. The kitchen is very big. My mother cooks there, and we eat at a big table. There are a lot of cups, glasses and plates in the kitchen. My father always says: “Please wash up!”",
+    "We have a dog and two cats. The dog sleeps in the garden, and the cats sleep on my bed. My mother does not like that.",
+    "Every evening I turn off the TV, close the door and read a book in my room. It is my new home, and I love it."
+   ],
+   "q": [
+    {
+     "q": "What is the text about?",
+     "opts": [
+      "A restaurant",
+      "A shop for flowers",
+      "A school",
+      "A new house and a room in it"
+     ],
+     "a": 3,
+     "kind": "main"
+    },
+    {
+     "q": "What does the writer think about the new room?",
+     "opts": [
+      "The writer likes it a lot.",
+      "The writer does not like it.",
+      "It is too dirty.",
+      "It is too big."
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "What is on the table?",
+     "opts": [
+      "A TV and a phone",
+      "A lamp, some books and a pen",
+      "Cups and plates",
+      "A mirror"
+     ],
+     "a": 1,
+     "kind": "detail"
+    },
+    {
+     "q": "Where do the cats sleep?",
+     "opts": [
+      "In the garden",
+      "In the kitchen",
+      "On the writer's bed",
+      "In the bathroom"
+     ],
+     "a": 2,
+     "kind": "detail"
+    },
+    {
+     "q": "“Wash up” means…",
+     "opts": [
+      "close the door",
+      "turn on the TV",
+      "cook dinner",
+      "clean the cups and plates"
+     ],
+     "a": 3,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "mirror",
+     "n",
+     "cái gương"
+    ],
+    [
+     "house",
+     "n",
+     "ngôi nhà"
+    ],
+    [
+     "home",
+     "n",
+     "nhà (chỗ mình sống)"
+    ],
+    [
+     "room",
+     "n",
+     "căn phòng"
+    ],
+    [
+     "bedroom",
+     "n",
+     "phòng ngủ"
+    ],
+    [
+     "kitchen",
+     "n",
+     "nhà bếp"
+    ],
+    [
+     "bathroom",
+     "n",
+     "phòng tắm, nhà vệ sinh"
+    ],
+    [
+     "door",
+     "n",
+     "cái cửa"
+    ],
+    [
+     "window",
+     "n",
+     "cửa sổ"
+    ],
+    [
+     "wall",
+     "n",
+     "bức tường"
+    ],
+    [
+     "floor",
+     "n",
+     "sàn nhà; tầng"
+    ],
+    [
+     "table",
+     "n",
+     "cái bàn"
+    ],
+    [
+     "chair",
+     "n",
+     "cái ghế"
+    ],
+    [
+     "bed",
+     "n",
+     "cái giường"
+    ],
+    [
+     "lamp",
+     "n",
+     "cái đèn"
+    ],
+    [
+     "book",
+     "n",
+     "quyển sách"
+    ],
+    [
+     "pen",
+     "n",
+     "cây bút"
+    ],
+    [
+     "TV",
+     "n",
+     "ti vi"
+    ],
+    [
+     "cup",
+     "n",
+     "cái cốc"
+    ],
+    [
+     "glass",
+     "n",
+     "cái ly thuỷ tinh"
+    ],
+    [
+     "plate",
+     "n",
+     "cái đĩa"
+    ],
+    [
+     "garden",
+     "n",
+     "khu vườn"
+    ],
+    [
+     "tree",
+     "n",
+     "cái cây"
+    ],
+    [
+     "flower",
+     "n",
+     "bông hoa"
+    ],
+    [
+     "dog",
+     "n",
+     "con chó"
+    ],
+    [
+     "cat",
+     "n",
+     "con mèo"
+    ],
+    [
+     "close",
+     "v",
+     "đóng"
+    ],
+    [
+     "turn off",
+     "phr",
+     "tắt đi"
+    ],
+    [
+     "white",
+     "adj",
+     "màu trắng"
+    ],
+    [
+     "blue",
+     "adj",
+     "màu xanh dương"
+    ],
+    [
+     "brown",
+     "adj",
+     "màu nâu"
+    ]
+   ]
+  },
+  {
+   "id": 28,
+   "topic": "a1-food",
+   "lv": "A1",
+   "title": "Sunday at the Market",
+   "vi": "Chủ nhật ở chợ",
+   "teaches": [
+    "idea",
+    "main",
+    "mean",
+    "text",
+    "writer"
+   ],
+   "text": [
+    "Every Sunday morning my grandmother and I go to the market. It is early, only six o'clock, but there are a lot of people at the market.",
+    "First we buy vegetables. They are fresh and cheap. My grandmother buys tomatoes, potatoes and some green vegetables. Then we buy meat and fish. Chicken is not expensive, but fish is.",
+    "I like the fruit shop. There are apples, bananas and oranges. The woman there is very nice. She gives me a banana and says: “Try it! It is very sweet.” It is!",
+    "At eight o'clock we are hungry, so we eat breakfast at a small restaurant. I have noodles and a cup of tea. My grandmother has rice with an egg and a glass of milk. It is hot food, and it tastes good.",
+    "We pay, and we go home with two big bags. The bags are heavy, but we are happy. In the afternoon my grandmother cooks dinner for all the family. She makes chicken soup with rice. We all eat a lot. I love Sunday."
+   ],
+   "q": [
+    {
+     "q": "What is the text about?",
+     "opts": [
+      "Buying and eating food on Sunday",
+      "Cooking at a restaurant",
+      "Working at a market",
+      "A shop that sells clothes"
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "What does the writer think of Sunday?",
+     "opts": [
+      "The writer does not like it.",
+      "The writer loves it.",
+      "It is a bad day.",
+      "It is too expensive."
+     ],
+     "a": 1,
+     "kind": "main"
+    },
+    {
+     "q": "What does the woman at the fruit shop give the writer?",
+     "opts": [
+      "An apple",
+      "An orange",
+      "A banana",
+      "Some tea"
+     ],
+     "a": 2,
+     "kind": "detail"
+    },
+    {
+     "q": "What does the grandmother have for breakfast?",
+     "opts": [
+      "Noodles and tea",
+      "Bread and coffee",
+      "Chicken soup",
+      "Rice with an egg and milk"
+     ],
+     "a": 3,
+     "kind": "detail"
+    },
+    {
+     "q": "“The bags are heavy” means…",
+     "opts": [
+      "there is a lot in the bags",
+      "the bags are new",
+      "the bags are small",
+      "the bags are cheap"
+     ],
+     "a": 0,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "hot food",
+     "phr",
+     "đồ ăn nóng"
+    ],
+    [
+     "potato",
+     "n",
+     "khoai tây (số nhiều: potatoes)"
+    ],
+    [
+     "tomato",
+     "n",
+     "cà chua (số nhiều: tomatoes)"
+    ],
+    [
+     "taste",
+     "v",
+     "nếm; có vị"
+    ],
+    [
+     "try",
+     "v",
+     "thử"
+    ],
+    [
+     "make",
+     "v",
+     "làm, chế biến"
+    ],
+    [
+     "give",
+     "v",
+     "đưa, cho"
+    ],
+    [
+     "food",
+     "n",
+     "thức ăn (KHÔNG đếm được)"
+    ],
+    [
+     "rice",
+     "n",
+     "cơm, gạo (KHÔNG đếm được)"
+    ],
+    [
+     "meat",
+     "n",
+     "thịt (KHÔNG đếm được)"
+    ],
+    [
+     "chicken",
+     "n",
+     "thịt gà; con gà"
+    ],
+    [
+     "egg",
+     "n",
+     "quả trứng"
+    ],
+    [
+     "milk",
+     "n",
+     "sữa (KHÔNG đếm được)"
+    ],
+    [
+     "tea",
+     "n",
+     "trà"
+    ],
+    [
+     "fruit",
+     "n",
+     "trái cây (thường KHÔNG đếm được)"
+    ],
+    [
+     "apple",
+     "n",
+     "quả táo"
+    ],
+    [
+     "banana",
+     "n",
+     "quả chuối"
+    ],
+    [
+     "orange",
+     "n",
+     "quả cam; màu cam"
+    ],
+    [
+     "vegetable",
+     "n",
+     "rau (đọc BA âm tiết)"
+    ],
+    [
+     "soup",
+     "n",
+     "canh, súp"
+    ],
+    [
+     "noodles",
+     "n",
+     "mì, bún (thường số nhiều)"
+    ],
+    [
+     "breakfast",
+     "n",
+     "bữa sáng"
+    ],
+    [
+     "dinner",
+     "n",
+     "bữa tối"
+    ],
+    [
+     "eat",
+     "v",
+     "ăn"
+    ],
+    [
+     "cook",
+     "v",
+     "nấu ăn"
+    ],
+    [
+     "buy",
+     "v",
+     "mua"
+    ],
+    [
+     "sweet",
+     "adj",
+     "ngọt"
+    ],
+    [
+     "fresh",
+     "adj",
+     "tươi"
+    ],
+    [
+     "restaurant",
+     "n",
+     "nhà hàng"
+    ],
+    [
+     "shop",
+     "n",
+     "cửa hàng"
+    ],
+    [
+     "market",
+     "n",
+     "cái chợ"
+    ],
+    [
+     "pay",
+     "v",
+     "trả tiền"
+    ],
+    [
+     "cheap",
+     "adj",
+     "rẻ"
+    ],
+    [
+     "expensive",
+     "adj",
+     "đắt"
+    ]
+   ]
+  },
+  {
+   "id": 29,
+   "topic": "a1-num",
+   "lv": "A1",
+   "title": "A Saturday at the Shop",
+   "vi": "Một ngày thứ bảy ở cửa hàng",
+   "teaches": [
+    "dong",
+    "idea",
+    "main",
+    "mean",
+    "text",
+    "writer"
+   ],
+   "text": [
+    "My friend Minh has a small shop near our school. He sells pens, books, paper and bags. I sometimes help him on Saturday.",
+    "On Saturday morning a lot of students come to the shop. The first student wants three pens. One pen is five thousand dong, so three pens are fifteen thousand dong.",
+    "The second student asks: “How much is this bag?” It is a hundred thousand dong. “That is too much for me,” she says. Minh gives her a small bag for fifty thousand. “OK, I can pay that,” she says.",
+    "A third student wants some paper. “How many?” Minh asks. “Twenty, please.” Minh counts twenty, and the student pays.",
+    "At twelve o'clock we count the money. It is more than on Friday. In the afternoon there are only a few students, so we are not busy.",
+    "Minh says: “Half of the money is for you.” But I say no. I only want a cup of coffee and a little cake. Minh is my friend, and I am happy to help him."
+   ],
+   "q": [
+    {
+     "q": "What is the text about?",
+     "opts": [
+      "A school day",
+      "A Saturday at a small shop",
+      "A big market",
+      "A bank"
+     ],
+     "a": 1,
+     "kind": "main"
+    },
+    {
+     "q": "Why does the writer help Minh?",
+     "opts": [
+      "The writer wants money.",
+      "Minh is the boss of the writer.",
+      "Minh is a friend.",
+      "The shop is too big."
+     ],
+     "a": 2,
+     "kind": "main"
+    },
+    {
+     "q": "How much are three pens?",
+     "opts": [
+      "Five thousand dong",
+      "Fifty thousand dong",
+      "A hundred thousand dong",
+      "Fifteen thousand dong"
+     ],
+     "a": 3,
+     "kind": "detail"
+    },
+    {
+     "q": "What does the writer want from Minh?",
+     "opts": [
+      "A cup of coffee and a little cake",
+      "Half of the money",
+      "A new bag",
+      "Three pens"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "“That is too much for me” means the bag is…",
+     "opts": [
+      "too small",
+      "too expensive for her",
+      "too heavy",
+      "free"
+     ],
+     "a": 1,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "one",
+     "n",
+     "số một"
+    ],
+    [
+     "three",
+     "n",
+     "số ba"
+    ],
+    [
+     "five",
+     "n",
+     "số năm"
+    ],
+    [
+     "twelve",
+     "n",
+     "số mười hai"
+    ],
+    [
+     "fifteen",
+     "n",
+     "số mười lăm"
+    ],
+    [
+     "twenty",
+     "n",
+     "số hai mươi"
+    ],
+    [
+     "fifty",
+     "n",
+     "số năm mươi"
+    ],
+    [
+     "hundred",
+     "n",
+     "số một trăm"
+    ],
+    [
+     "thousand",
+     "n",
+     "số một nghìn"
+    ],
+    [
+     "first",
+     "adj",
+     "thứ nhất"
+    ],
+    [
+     "second",
+     "adj",
+     "thứ hai"
+    ],
+    [
+     "third",
+     "adj",
+     "thứ ba"
+    ],
+    [
+     "many",
+     "adj",
+     "nhiều (đếm được)"
+    ],
+    [
+     "much",
+     "adj",
+     "nhiều (không đếm được)"
+    ],
+    [
+     "a lot of",
+     "phr",
+     "rất nhiều"
+    ],
+    [
+     "some",
+     "adj",
+     "một vài, một ít"
+    ],
+    [
+     "more",
+     "adj",
+     "nhiều hơn"
+    ],
+    [
+     "too much",
+     "phr",
+     "quá nhiều"
+    ],
+    [
+     "half",
+     "n",
+     "một nửa (chữ l CÂM)"
+    ],
+    [
+     "few",
+     "adj",
+     "ít, vài (đếm được)"
+    ],
+    [
+     "little",
+     "adj",
+     "ít (không đếm được); nhỏ"
+    ],
+    [
+     "small",
+     "adj",
+     "nhỏ"
+    ],
+    [
+     "count",
+     "v",
+     "đếm"
+    ]
+   ],
+   "names": [
+    "Minh"
+   ]
+  },
+  {
+   "id": 30,
+   "topic": "a1-time",
+   "lv": "A1",
+   "title": "A Nurse's Week",
+   "vi": "Một tuần của cô y tá",
+   "teaches": [
+    "idea",
+    "main",
+    "mean",
+    "text",
+    "writer"
+   ],
+   "text": [
+    "I am a nurse, and my week is always busy. On Monday, Tuesday and Wednesday I start work at seven o'clock in the morning. I get up at five thirty and wait for the bus at six.",
+    "On Thursday and Friday I work at night. I start at nine o'clock in the evening and finish at six in the morning. On Friday I am very tired.",
+    "Saturday is my day. I sleep late, and in the afternoon I meet my friends. We sometimes go to the park, and we often have coffee.",
+    "Sunday is for my family. My mother's birthday is in May, so this Sunday we have dinner at a restaurant.",
+    "I never have a long holiday, but in December I always have one week off. Next month I can go to the sea with my sister. I want to look at the sky and the sea for a week and never look at a clock.",
+    "Do you know what time it is now? It is ten o'clock at night. It is time to sleep!"
+   ],
+   "q": [
+    {
+     "q": "What is the text about?",
+     "opts": [
+      "A holiday by the sea",
+      "A school day",
+      "A nurse's week",
+      "A birthday"
+     ],
+     "a": 2,
+     "kind": "main"
+    },
+    {
+     "q": "How is the nurse's week?",
+     "opts": [
+      "Very short",
+      "Very cheap",
+      "Very cold",
+      "Very busy"
+     ],
+     "a": 3,
+     "kind": "main"
+    },
+    {
+     "q": "When does the nurse work at night?",
+     "opts": [
+      "Thursday and Friday",
+      "Monday and Tuesday",
+      "Saturday",
+      "Sunday"
+     ],
+     "a": 0,
+     "kind": "detail"
+    },
+    {
+     "q": "What does the nurse do this Sunday?",
+     "opts": [
+      "Works at night",
+      "Has dinner with the family at a restaurant",
+      "Goes to the sea",
+      "Sleeps all day"
+     ],
+     "a": 1,
+     "kind": "detail"
+    },
+    {
+     "q": "“I sleep late” means I…",
+     "opts": [
+      "go to work late",
+      "sleep at work",
+      "get up late in the morning",
+      "never sleep"
+     ],
+     "a": 2,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "time",
+     "n",
+     "thời gian; lần"
+    ],
+    [
+     "day",
+     "n",
+     "ngày"
+    ],
+    [
+     "week",
+     "n",
+     "tuần"
+    ],
+    [
+     "month",
+     "n",
+     "tháng"
+    ],
+    [
+     "morning",
+     "n",
+     "buổi sáng"
+    ],
+    [
+     "afternoon",
+     "n",
+     "buổi chiều"
+    ],
+    [
+     "evening",
+     "n",
+     "buổi tối"
+    ],
+    [
+     "night",
+     "n",
+     "đêm (chữ gh CÂM)"
+    ],
+    [
+     "Monday",
+     "n",
+     "thứ Hai (luôn VIẾT HOA)"
+    ],
+    [
+     "Tuesday",
+     "n",
+     "thứ Ba"
+    ],
+    [
+     "Wednesday",
+     "n",
+     "thứ Tư (chữ d đầu CÂM)"
+    ],
+    [
+     "Thursday",
+     "n",
+     "thứ Năm"
+    ],
+    [
+     "Friday",
+     "n",
+     "thứ Sáu"
+    ],
+    [
+     "Saturday",
+     "n",
+     "thứ Bảy"
+    ],
+    [
+     "Sunday",
+     "n",
+     "Chủ nhật"
+    ],
+    [
+     "May",
+     "n",
+     "tháng Năm"
+    ],
+    [
+     "December",
+     "n",
+     "tháng Mười hai"
+    ],
+    [
+     "o'clock",
+     "adv",
+     "giờ đúng"
+    ],
+    [
+     "now",
+     "adv",
+     "bây giờ"
+    ],
+    [
+     "late",
+     "adj",
+     "muộn"
+    ],
+    [
+     "always",
+     "adv",
+     "luôn luôn"
+    ],
+    [
+     "never",
+     "adv",
+     "không bao giờ"
+    ],
+    [
+     "sometimes",
+     "adv",
+     "thỉnh thoảng"
+    ],
+    [
+     "often",
+     "adv",
+     "thường xuyên"
+    ],
+    [
+     "birthday",
+     "n",
+     "sinh nhật"
+    ],
+    [
+     "holiday",
+     "n",
+     "ngày nghỉ, kỳ nghỉ"
+    ],
+    [
+     "clock",
+     "n",
+     "đồng hồ treo"
+    ],
+    [
+     "wait",
+     "v",
+     "đợi"
+    ],
+    [
+     "start",
+     "v",
+     "bắt đầu"
+    ]
+   ]
+  },
+  {
+   "id": 31,
+   "topic": "a1-body",
+   "lv": "A1",
+   "title": "I Am Ill Today",
+   "vi": "Hôm nay tôi bị ốm",
+   "teaches": [
+    "idea",
+    "main",
+    "mean",
+    "text",
+    "writer"
+   ],
+   "text": [
+    "This morning I wake up at six, but I do not get up. My head hurts, my nose and my eyes are red, and I am cold, then hot, then cold.",
+    "My mother comes into my room. She puts her hand on my face. “You are hot,” she says. “You are ill. Do not go to school today.”",
+    "She calls the doctor, and at ten o'clock the doctor comes to our house. He looks at my eyes, my ears and my mouth. “Open your mouth, please,” he says. Then he listens to my heart. “It is a cold,” he says. “Stay in bed, drink a lot of water and take this medicine three times a day.”",
+    "I am not hungry, but I am very thirsty. My mother gives me hot water and some soup. I sleep all afternoon. In the evening I am well enough to watch TV.",
+    "My friend calls me: “Are you OK? Can I help?” I say: “Thank you. I am OK. I can go to school on Monday.”",
+    "When you are ill, do not go out. Sleep, drink water and wear warm clothes."
+   ],
+   "q": [
+    {
+     "q": "What is the text about?",
+     "opts": [
+      "A day at the hospital",
+      "A day at school",
+      "A doctor's family",
+      "A day at home when you are ill"
+     ],
+     "a": 3,
+     "kind": "main"
+    },
+    {
+     "q": "What does the doctor tell the writer to do?",
+     "opts": [
+      "Stay in bed and drink water",
+      "Go to school",
+      "Go to the hospital",
+      "Eat a lot of meat"
+     ],
+     "a": 0,
+     "kind": "main"
+    },
+    {
+     "q": "When does the doctor come?",
+     "opts": [
+      "At six o'clock",
+      "At ten o'clock",
+      "In the afternoon",
+      "In the evening"
+     ],
+     "a": 1,
+     "kind": "detail"
+    },
+    {
+     "q": "What does the writer do in the afternoon?",
+     "opts": [
+      "Watches TV",
+      "Goes to school",
+      "Sleeps",
+      "Calls a friend"
+     ],
+     "a": 2,
+     "kind": "detail"
+    },
+    {
+     "q": "“I am very thirsty” means I want…",
+     "opts": [
+      "to eat",
+      "to sleep",
+      "to run",
+      "to drink"
+     ],
+     "a": 3,
+     "kind": "guess"
+    }
+   ],
+   "gloss": [
+    [
+     "head",
+     "n",
+     "cái đầu"
+    ],
+    [
+     "face",
+     "n",
+     "khuôn mặt"
+    ],
+    [
+     "eye",
+     "n",
+     "mắt"
+    ],
+    [
+     "ear",
+     "n",
+     "tai"
+    ],
+    [
+     "nose",
+     "n",
+     "mũi"
+    ],
+    [
+     "mouth",
+     "n",
+     "miệng"
+    ],
+    [
+     "hand",
+     "n",
+     "bàn tay"
+    ],
+    [
+     "heart",
+     "n",
+     "trái tim"
+    ],
+    [
+     "ill",
+     "adj",
+     "ốm, bệnh"
+    ],
+    [
+     "well",
+     "adj",
+     "khoẻ"
+    ],
+    [
+     "hurt",
+     "v",
+     "đau; làm đau"
+    ],
+    [
+     "cold",
+     "n",
+     "bệnh cảm lạnh"
+    ],
+    [
+     "hot",
+     "adj",
+     "nóng"
+    ],
+    [
+     "warm",
+     "adj",
+     "ấm"
+    ],
+    [
+     "hungry",
+     "adj",
+     "đói"
+    ],
+    [
+     "thirsty",
+     "adj",
+     "khát"
+    ],
+    [
+     "sleep",
+     "v",
+     "ngủ"
+    ],
+    [
+     "wake up",
+     "phr",
+     "thức dậy"
+    ],
+    [
+     "get up",
+     "phr",
+     "ra khỏi giường"
+    ],
+    [
+     "medicine",
+     "n",
+     "thuốc"
+    ],
+    [
+     "wear",
+     "v",
+     "mặc, đeo"
+    ],
+    [
+     "clothes",
+     "n",
+     "quần áo (luôn số nhiều)"
     ]
    ]
   }

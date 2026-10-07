@@ -3,6 +3,8 @@
   "title": "Bảng chữ cái & đánh vần tên mình",
   "skipWordCheck": true,
   "_whySkip": "Bài này dạy TÊN CHỮ CÁI, nên phần tiếng Anh là 'N, A, M' và 'double E' chứ không phải câu — soát theo từ vựng A1 sẽ toàn báo nhầm.",
+  "noRecap": true,
+  "_whyNoRecap": "Bài phát âm / chữ cái: phần Ví dụ và Tự kiểm tra đã là luyện đọc từng ký hiệu, mục tóm tắt cuối bài chỉ lặp lại — bỏ theo yêu cầu người dùng (mục 26).",
   "sections": [
     {
       "title": "Bài này dạy gì",
@@ -120,21 +122,6 @@
         { "t": "quiz", "items": [
           { "vi": "Cái đó đánh vần thế nào?", "a": "How do you spell that?" },
           { "vi": "Xin lỗi, bạn nói lại được không?", "a": "Sorry, can you say that again?" }
-        ] }
-      ]
-    },
-    {
-      "title": "Nhớ ba điều này",
-      "blocks": [
-        { "t": "list", "items": [
-          "<b>Tên chữ ≠ âm chữ.</b> Bài này học TÊN (đọc khi đánh vần). Âm của chữ trong từ là chuyện của bài 02 và 03.",
-          "<b>Bốn chữ hay sai nhất: I, E, R, W.</b> <code>I</code> là “ai” còn <code>E</code> là “i” — ngược với trực giác. <code>R</code> không rung lưỡi. <code>W</code> dài ba âm tiết.",
-          "<b>Đánh vần được tên mình là việc cần nhất.</b> Tập đến khi nói trôi không phải nghĩ — đây là câu bạn dùng nhiều nhất trong năm đầu."
-        ] },
-        { "t": "pairs", "items": [
-          { "wrong": "Chữ <code>I</code> đọc là “i”", "right": "Chữ <code>I</code> đọc là “ai” /aɪ/", "why": "Chữ <code>E</code> mới là “i”. Hai chữ này đổi chỗ cho nhau so với tiếng Việt — nhớ kỹ, vì đánh vần sai một chữ là người ta ghi sai cả tên." },
-          { "wrong": "Chữ <code>R</code> đọc “rờ” có rung lưỡi", "right": "Chữ <code>R</code> đọc /ɑː/ — “a” kéo dài", "why": "Tên chữ <code>R</code> không có âm “r” nào cả. Âm “r” chỉ xuất hiện khi chữ này nằm trong từ, ví dụ <i>red</i>." },
-          { "wrong": "<i>Lee</i> → “eo, i, i”", "right": "<i>Lee</i> → “eo, double i”", "why": "Hai chữ giống nhau đứng liền thì người bản xứ gần như luôn nói <i>double</i>. Đọc tách ra không sai, nhưng nghe là biết người mới học." }
         ] }
       ]
     }

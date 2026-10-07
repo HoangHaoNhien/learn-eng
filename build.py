@@ -23,6 +23,7 @@ CANDO   = os.path.join(DATA, "cando.json")
 PRODUCE = os.path.join(DATA, "produce.json")
 READING = os.path.join(DATA, "reading.json")
 ROADMAP = os.path.join(DATA, "roadmap.json")
+COURSE  = os.path.join(DATA, "course.json")
 TOEIC   = os.path.join(DATA, "toeic.json")
 BASICS  = os.path.join(DATA, "basics")
 BINDEX  = os.path.join(DATA, "basics.json")
@@ -162,6 +163,14 @@ def main():
         except ValueError as e:
             errors.append("data/roadmap.json  ->  %s" % e)
 
+    # Khoa hoc A0 -> B2 (muc 26) — sinh bang make-course.py
+    course = None
+    if os.path.isfile(COURSE):
+        try:
+            course = read_json(COURSE)
+        except ValueError as e:
+            errors.append("data/course.json  ->  %s" % e)
+
     # Bai tap theo dinh dang de TOEIC (muc 25)
     toeic = None
     if os.path.isfile(TOEIC):
@@ -208,7 +217,8 @@ def main():
                "sindex": sindex, "skills": skills, "vocab": vocab,
                "bindex": bindex, "basics": basics, "vdetail": vdetail,
                "place": place, "cando": cando, "produce": produce,
-               "reading": reading, "roadmap": roadmap, "toeic": toeic}
+               "reading": reading, "roadmap": roadmap, "toeic": toeic,
+               "course": course}
     js = (u"/* TU DONG SINH RA TU data/index.json + data/frames/*.json\n"
           u"   + data/grammar.json + data/grammar/*.json + data/verbs.json\n"
           u"   - DUNG SUA TAY. Sua cac file .json roi chay lai build.bat */\n"
@@ -359,8 +369,13 @@ def main():
     if produce is not None:
         tm = produce.get("timed", [])
         ngroup = len((gindex or {}).get("groups", []))
-        bad_g = sorted(set(x.get("g") for x in tm
-                           if not (1 <= (x.get("g") or 0) <= ngroup)))
+        bad_g = sorted(set(x.get("g") for x in tm if "st" not in x
+                           and not (1 <= (x.get("g") or 0) <= ngroup)))
+        bad_st = [i + 1 for i, x in enumerate(tm) if "st" in x
+                  and not (0 <= x["st"] <= 13)]
+        if bad_st:
+            print("    Canh bao: de bam gio co 'st' ngoai 0-13: "
+                  + ", ".join(str(i) for i in bad_st))
         thin = [i + 1 for i, x in enumerate(tm)
                 if len(x.get("must", [])) < 3 or not x.get("task")]
         bad_s = [i + 1 for i, x in enumerate(tm)
@@ -391,7 +406,13 @@ def main():
         for gg in (sindex or {}).get("groups", []):
             for it in gg.get("items", []):
                 sids.add(int(it["id"]))
-        bad_s = sorted(set(x.get("s") for x in pr if x.get("s") not in sids))
+        bad_s = sorted(set(x.get("s") for x in pr if "st" not in x
+                           and x.get("s") not in sids))
+        bad_pst = [i + 1 for i, x in enumerate(pr) if "st" in x
+                   and not (0 <= x["st"] <= 13)]
+        if bad_pst:
+            print("    Canh bao: de noi/viet co 'st' ngoai 0-13: "
+                  + ", ".join(str(i) for i in bad_pst))
         thin_p = [i + 1 for i, x in enumerate(pr)
                   if len(x.get("must", [])) < 3 or len(x.get("check", [])) < 3
                   or not x.get("model") or not x.get("task")]
@@ -455,9 +476,12 @@ def main():
         pairs = set()
         for w in (vocab or {}).get("words", []):
             pairs.add((w[0], w[3]))
+        def lim(x):
+            return (150, 300) if x.get("lv") == "A1" else (380, 620)
         short = [x["id"] for x in rd
-                 if not (380 <= len(" ".join(x.get("text", [])).split()) <= 620)]
-        thin = [x["id"] for x in rd if len(x.get("gloss", [])) < 15]
+                 if not (lim(x)[0] <= len(" ".join(x.get("text", [])).split()) <= lim(x)[1])]
+        thin = [x["id"] for x in rd
+                if len(x.get("gloss", [])) < (10 if x.get("lv") == "A1" else 15)]
         badt = sorted(set(x.get("topic") for x in rd if x.get("topic") not in tops))
         badq = [x["id"] for x in rd
                 if len(x.get("q", [])) != 5
@@ -470,8 +494,8 @@ def main():
                  or [q.get("kind") for q in x.get("q", [])].count("guess") != 1]
         print("    %d bai doc dai, %d chu de tu vung duoc dung lai"
               % (len(rd), len(set(x.get("topic") for x in rd))))
-        for lbl, lst in (("ngan/dai ngoai 380-620 tu", short),
-                         ("duoi 15 tu chu de", thin),
+        for lbl, lst in (("do dai ngoai chuan (A1 150-300, con lai 380-620 tu)", short),
+                         ("it tu chu de (A1 <10, con lai <15)", thin),
                          ("cau hoi khong dung 5 cau x 4 phuong an", badq),
                          ("khong du 2 y chinh + 2 chi tiet + 1 doan nghia", kinds),
                          ("glossary tro toi tu khong co trong vocab.json", badg)):
@@ -520,6 +544,81 @@ def main():
                   + ", ".join(str(n) for n in no_goal))
     else:
         print("    (chua co data/roadmap.json - tab Lo trinh bo trong)")
+
+    # Khoa hoc (muc 26). Thu de hong nhat: mot buoc tro toi noi dung KHONG CO THAT
+    # (sua id bai, xoa de) — trang se hien "khong tim thay" giua bai ma khong ai biet.
+    # Va nguoc lai: mot bai / de / khung / tu bi BO QUEN thi nguoi hoc theo khoa hoc
+    # khong bao gio gap no. Soat ca hai chieu, nhu muc 24.
+    if course is not None:
+        def ids(idx):
+            return set(int(it["id"]) for gg in (idx or {}).get("groups", [])
+                       for it in gg.get("items", []))
+        have = {"basic": ids(bindex), "grammar": ids(gindex), "skill": ids(sindex),
+                "frame": ids(index),
+                "read": set(x["id"] for x in (reading or {}).get("items", []))}
+        ntm = len((produce or {}).get("timed", []))
+        npr = len((produce or {}).get("prompt", []))
+        pats = set(p_["id"] for p_ in (verbs or {}).get("patterns", []))
+        wc = {}
+        for w in (vocab or {}).get("words", []):
+            wc[w[3]] = wc.get(w[3], 0) + 1
+        used = {k: [] for k in ("basic", "grammar", "skill", "read", "frame", "timed", "prompt")}
+        cov, ghost, lids, nles = {}, [], [], 0
+        for st in course.get("stages", []):
+            for l in st.get("lessons", []):
+                nles += 1
+                lids.append(l.get("id"))
+                for x in l.get("steps", []):
+                    t = x.get("t")
+                    if t in have:
+                        used[t].append(x.get("id"))
+                        if x.get("id") not in have[t]:
+                            ghost.append("%s %s:%s" % (l["id"], t, x.get("id")))
+                    elif t in ("timed", "prompt"):
+                        used[t].append(x.get("i"))
+                        if not (0 <= x.get("i", -1) < (ntm if t == "timed" else npr)):
+                            ghost.append("%s %s:%s" % (l["id"], t, x.get("i")))
+                    elif t == "verbs" and x.get("pat") not in pats:
+                        ghost.append("%s verbs:%s" % (l["id"], x.get("pat")))
+                    elif t == "vocab":
+                        if x.get("topic") not in wc or x.get("to", 0) > wc[x["topic"]]:
+                            ghost.append("%s vocab:%s" % (l["id"], x.get("topic")))
+                        for i in range(x.get("from", 0), x.get("to", 0)):
+                            k = (x.get("topic"), i)
+                            cov[k] = cov.get(k, 0) + 1
+        nword = sum(wc.values())
+        print("    khoa hoc: %d chang, %d bai · phu %d/%d nhap mon · %d/%d ngu phap · "
+              "%d/%d ky nang · %d/%d bai doc · %d/%d khung · %d/%d de noi · %d/%d de noi-viet · %d/%d tu"
+              % (len(course.get("stages", [])), nles,
+                 len(set(used["basic"]) & have["basic"]), len(have["basic"]),
+                 len(set(used["grammar"]) & have["grammar"]), len(have["grammar"]),
+                 len(set(used["skill"]) & have["skill"]), len(have["skill"]),
+                 len(set(used["read"]) & have["read"]), len(have["read"]),
+                 len(set(used["frame"]) & have["frame"]), len(have["frame"]),
+                 len(set(used["timed"])), ntm, len(set(used["prompt"])), npr,
+                 len(cov), nword))
+        for k in ("basic", "grammar", "skill", "read", "frame"):
+            miss = sorted(have[k] - set(used[k]))
+            if miss:
+                print("    Canh bao: khoa hoc bo quen %s: %s" % (k, ", ".join(str(i) for i in miss[:15])))
+        for k, n in (("timed", ntm), ("prompt", npr)):
+            miss = sorted(set(range(n)) - set(used[k]))
+            if miss:
+                print("    Canh bao: khoa hoc bo quen de %s so: %s" % (k, ", ".join(str(i) for i in miss[:15])))
+        dupl = [k for k in ("basic", "grammar", "skill", "read", "timed", "prompt")
+                if len(used[k]) != len(set(used[k]))]
+        if dupl:
+            print("    Canh bao: khoa hoc dung lap: " + ", ".join(dupl))
+        if len(cov) < nword:
+            print("    Canh bao: %d tu chua nam trong bai nao (chay lai make-course.py)" % (nword - len(cov)))
+        if any(c > 1 for c in cov.values()):
+            print("    Canh bao: co tu nam trong hai lat tu vung")
+        if len(lids) != len(set(lids)):
+            print("    Canh bao: trung id bai khoa hoc")
+        if ghost:
+            print("    Canh bao: buoc tro toi noi dung khong co that: " + "; ".join(ghost[:10]))
+    else:
+        print("    (chua co data/course.json - chay make-course.py --write)")
 
     # TOEIC. Hai thu de hong nhat:
     #   1. dap an don het vao mot cot -> bam bua cung dung (bai hoc tu muc 21a)

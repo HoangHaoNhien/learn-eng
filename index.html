@@ -159,8 +159,8 @@ td code,.k{font-family:"Cascadia Mono",Consolas,ui-monospace,monospace; font-siz
   font-size:15px; line-height:1.75}
 .pp-row.w{background:var(--bad-soft)}
 .pp-row.r{background:var(--ok-soft); border-top:1px solid var(--line)}
-.pp-row .mk{flex:0 0 30px; font-size:10.5px; letter-spacing:.4px; font-weight:700;
-  text-transform:uppercase}
+.pp-row .mk{flex:0 0 40px; font-size:10.5px; letter-spacing:.4px; font-weight:700;
+  text-transform:uppercase; white-space:nowrap}
 .pp-row.w .mk{color:var(--bad)}
 .pp-row.r .mk{color:var(--ok)}
 .pp-row .tx{flex:1 1 auto; min-width:0}
@@ -814,36 +814,117 @@ textarea.ot-io:focus{outline:none; border-color:var(--accent); color:var(--ink)}
   font-style:normal; line-height:1.6}
 .lt-hd .pc{flex:0 0 auto; font-size:12.5px; color:var(--muted);
   font-variant-numeric:tabular-nums}
-.lt-body{padding:0 16px 16px; border-top:1px solid var(--line)}
+.lt-skip{margin:0 0 11px; font-size:12.5px; color:var(--muted); font-style:italic}
 .lt-goal{margin:13px 0 15px; padding:11px 14px; border-left:3px solid var(--accent);
   border-radius:0 10px 10px 0; background:var(--accent-soft); font-size:14.5px;
   line-height:1.7}
-.lt-part{margin:0 0 15px}
-.lt-part > .hd{display:flex; gap:9px; align-items:baseline; margin:0 0 8px}
-.lt-part > .hd .t{flex:1 1 auto; font-size:12px; letter-spacing:.5px;
-  text-transform:uppercase; color:var(--muted); font-weight:700}
-.lt-part > .hd .n{flex:0 0 auto; font-size:12.5px; color:var(--muted);
-  font-variant-numeric:tabular-nums}
 .lt-bar{height:7px; border-radius:4px; background:var(--chip); overflow:hidden;
   margin:0 0 9px}
 .lt-bar i{display:block; height:100%; background:var(--accent); transition:width .25s}
 .lt-bar i.full{background:var(--ok)}
-.lt-chips{display:flex; flex-wrap:wrap; gap:7px}
-.lt-chips button{padding:6px 11px; border:1px solid var(--line); border-radius:9px;
-  background:var(--panel); color:var(--ink); font-family:inherit; font-size:13px;
-  cursor:pointer}
-.lt-chips button:hover{border-color:var(--accent); color:var(--accent2)}
-.lt-chips button.ok{border-color:var(--ok); color:var(--ok)}
-.lt-skip{margin:0 0 11px; font-size:12.5px; color:var(--muted); font-style:italic}
+.lt-hd .tx i.tp{color:var(--accent2)}
+.co-bar{margin:0 16px 13px}
 .lt-side{padding:4px 2px}
 .lt-side .row{display:flex; gap:9px; align-items:center; padding:7px 9px;
   border-radius:9px; font-size:13px; cursor:pointer; border:1px solid transparent;
   background:transparent; color:inherit; font-family:inherit; width:100%;
-  text-align:left}
+  text-align:left; line-height:1.45}
 .lt-side .row:hover{border-color:var(--accent)}
 .lt-side .row.on{background:var(--accent-soft); color:var(--accent2); font-weight:600}
-.lt-side .row .no{flex:0 0 20px; color:var(--muted); font-variant-numeric:tabular-nums}
+.lt-side .row .no{flex:0 0 22px; color:var(--muted); font-variant-numeric:tabular-nums}
 .lt-side .row.done .no{color:var(--ok)}
+.lt-side .row.stg{font-weight:600}
+.lt-side .row.stg .nm{flex:1 1 auto; min-width:0}
+.lt-side .row.stg .pc{flex:0 0 auto; font-size:11.5px; color:var(--muted); font-weight:400;
+  font-variant-numeric:tabular-nums}
+.lt-side .row.stg.open{background:var(--chip)}
+.lt-side .row.les{padding-left:6px; font-size:12.5px}
+.lt-side .row.les.opt{font-style:italic; color:var(--muted)}
+.co-node{display:flex; align-items:stretch; gap:2px; border-radius:9px; border:1px solid transparent}
+.co-node:hover{border-color:var(--line)}
+.co-node.on{background:var(--accent-soft)}
+.co-node .tg{flex:0 0 26px; border:0; background:transparent; color:var(--muted); cursor:pointer;
+  font-size:12px; font-family:inherit; border-radius:8px; padding:0}
+.co-node .tg:hover{background:var(--chip); color:var(--accent2)}
+.co-node .nm{flex:1 1 auto; min-width:0; display:flex; gap:8px; align-items:center; padding:7px 8px 7px 2px;
+  border:0; background:transparent; color:inherit; font-family:inherit; font-size:13px; text-align:left;
+  cursor:pointer; line-height:1.45}
+.co-node .nm .tx{flex:1 1 auto; min-width:0}
+.co-node .nm .no{flex:0 0 20px; color:var(--muted); font-variant-numeric:tabular-nums}
+.co-node .nm .pc{flex:0 0 auto; font-size:11.5px; color:var(--muted); font-variant-numeric:tabular-nums}
+.co-node.lvl{margin-top:8px}
+.co-node.lvl .nm{font-size:11.5px; letter-spacing:.5px; text-transform:uppercase; font-weight:700;
+  color:var(--accent2)}
+.co-node.stg .nm{font-weight:600}
+.co-node.stg.done .nm .no{color:var(--ok)}
+.co-node.on .nm{color:var(--accent2)}
+.co-kids{margin-left:13px; padding-left:6px; border-left:1px solid var(--line)}
+.co-lslist .pr-row.ok .tx b{color:var(--ok)}
+/* --- Muc 26: khoa hoc --- */
+.co-lvh{display:flex; gap:10px; align-items:center; margin:26px 0 12px}
+.co-lvh .lv{padding:3px 10px; border-radius:8px; background:var(--accent); color:var(--card);
+  font-size:13px}
+.co-meta{display:flex; flex-wrap:wrap; gap:7px; margin:4px 0 12px}
+.co-meta .pill.hot{border-color:var(--accent); color:var(--accent2)}
+.co-toc{display:flex; flex-wrap:wrap; gap:6px; margin:0 0 18px}
+.co-toc a{padding:5px 10px; border:1px solid var(--line); border-radius:9px; font-size:12.5px;
+  color:var(--ink); text-decoration:none; background:var(--panel)}
+.co-toc a:hover{border-color:var(--accent); color:var(--accent2)}
+.co-step{border:1px solid var(--line); border-radius:14px; background:var(--card);
+  padding:0 18px 16px; margin:0 0 18px; scroll-margin-top:12px; min-width:0}
+.co-sh{display:flex; gap:10px; align-items:center; flex-wrap:wrap; margin:0 -18px 14px;
+  padding:12px 18px; border-bottom:1px solid var(--line); background:var(--panel);
+  border-radius:14px 14px 0 0}
+.co-sh .n{flex:0 0 28px; height:28px; border-radius:50%; display:flex; align-items:center;
+  justify-content:center; background:var(--accent); color:var(--card); font-weight:700;
+  font-size:13px}
+.co-sh .t{font-size:12px; letter-spacing:.5px; text-transform:uppercase; font-weight:700;
+  color:var(--accent2)}
+.co-sh .s{flex:1 1 200px; min-width:0; font-size:14px; color:var(--muted)}
+.co-sb{min-width:0; overflow-wrap:anywhere}
+.co-sb .eyebrow{display:none}
+.co-sb .co-h1{font-size:20px; margin:4px 0 6px; line-height:1.35}
+.co-sb .co-h2{font-size:16.5px; margin:22px 0 10px; line-height:1.4}
+.co-words{display:grid; grid-template-columns:repeat(auto-fill, minmax(260px, 1fr)); gap:10px}
+.co-w{border:1px solid var(--line); border-radius:11px; padding:11px 13px; background:var(--panel);
+  cursor:pointer}
+.co-w.known{border-color:var(--ok)}
+.co-w .hd{display:flex; flex-wrap:wrap; gap:7px; align-items:baseline}
+.co-w .w{font-size:16.5px}
+.co-w .ipa{color:var(--muted); font-size:13px}
+.co-w .pos{font-size:12px; color:var(--muted); font-style:italic}
+.co-w .bx{margin-left:auto; font-size:11.5px; color:var(--ok)}
+.co-w .mean{margin:5px 0 0; font-size:14.5px; color:var(--accent2)}
+.co-w .ex{margin:7px 0 0; font-size:13.5px; line-height:1.6}
+.co-w .ex .vi{display:block; color:var(--muted); font-size:12.5px}
+.co-w .rel{margin:6px 0 0; font-size:12.5px; color:var(--muted)}
+.co-w .gr{display:flex; gap:7px; margin:9px 0 0}
+.co-w .gr .btn{padding:4px 10px; font-size:12.5px}
+.co-words.hide .co-w:not(.peek) .mean,
+.co-words.hide .co-w:not(.peek) .ex .vi,
+.co-words.hide .co-w:not(.peek) .rel{filter:blur(6px); user-select:none}
+.co-vb td,.co-vb th{padding:6px 10px}
+.co-vb tr.hot td:first-child{font-weight:700}
+.co-vb.hide td.h:not(.peek){color:transparent; background:var(--chip); cursor:pointer}
+.co-rp{margin:22px 0 0; padding-top:4px; border-top:1px dashed var(--line)}
+.rd-text.big{font-size:19px}
+.co-doc{margin:6px 0 12px; padding:12px 14px; border:1px solid var(--line); border-radius:10px;
+  background:var(--panel); font-size:14px; line-height:1.7}
+.co-doc p{margin:6px 0}
+.co-tq{margin:10px 0 0}
+.co-tq .en{font-size:15px; margin:0 0 6px}
+.co-score{margin:12px 0 0}
+.co-cd{display:flex; gap:10px; align-items:flex-start; padding:10px 0; border-top:1px solid var(--line);
+  line-height:1.65; font-size:14.5px}
+.co-cd .bx{flex:0 0 auto; font-size:20px; border:0; background:transparent; color:var(--accent2);
+  cursor:pointer; font-family:inherit; padding:0}
+.co-cd.on b{color:var(--ok)}
+.co-cd .tk{font-size:13.5px; color:var(--muted)}
+@media (max-width:600px){
+  .co-step{padding:0 12px 12px}
+  .co-sh{margin:0 -12px 12px; padding:10px 12px}
+  .co-words{grid-template-columns:1fr}
+}
 /* --- Muc 25: bai tap theo dinh dang TOEIC --- */
 .tc-audio{text-align:center; padding:26px 20px 22px; border:1px solid var(--line);
   border-radius:13px; background:var(--panel2); margin:0 0 16px}
@@ -978,7 +1059,7 @@ textarea.ot-io:focus{outline:none; border-color:var(--accent); color:var(--ink)}
   body.open .side{transform:none}
   main{padding:20px 10px 80px}
   .pp-row{padding:10px 11px; gap:9px; font-size:14.5px}
-  .pp-row .mk{flex:0 0 32px; font-size:10.5px}
+  .pp-row .mk{flex:0 0 40px; font-size:10.5px}
   .pair > .why{padding:9px 11px 11px}
   .scale{flex-direction:column}
   .scale div{border-right:0; border-bottom:1px solid var(--line)}
@@ -996,7 +1077,7 @@ textarea.ot-io:focus{outline:none; border-color:var(--accent); color:var(--ink)}
 <header class="top">
   <button class="btn icon" id="burger" aria-label="Danh sach">&#9776;</button>
   <div class="tabs" id="tabs">
-    <button type="button" data-m="lt" class="on">Lộ trình</button>
+    <button type="button" data-m="lt" class="on">Khóa học</button>
     <button type="button" data-m="nm">Nhập môn</button>
     <button type="button" data-m="ng">Ngữ pháp</button>
     <button type="button" data-m="sk">Kỹ năng</button>
@@ -1225,7 +1306,7 @@ var ngDone  = load("ng_done", []);   // bài ngữ pháp đã học
 var vbDone  = load("vb_done", []);   // nhóm động từ đã học
 var skDone  = load("sk_done", []);   // bài kỹ năng đã học
 var nmDone  = load("nm_done", []);   // bài nhập môn đã học
-var MODE    = load("kc_mode", "kc"); // "kc" khung câu · "ng" ngữ pháp · "vb" động từ · "sk" kỹ năng
+var MODE    = load("kc_mode", "lt"); // "kc" khung câu · "ng" ngữ pháp · "vb" động từ · "sk" kỹ năng
 var current = 1;                     // số = khung câu · "gN"/"sN" = bài · "vb"/"vc"/"ot"/"sit"/"err" = trang đơn
 var INDEX = null, FLAT = [];
 var GINDEX = null, GFLAT = [];
@@ -1248,8 +1329,8 @@ var READING = null;                  // bài đọc dài — có thể chưa có
 var OINDEX = { title: "Ôn tập lặp ngắt quãng",
                tagline: "thẻ rút từ chính tài liệu bạn đã học · ôn đúng lúc sắp quên" };
 /* Lộ trình cũng là một trang đơn nên cần "mục lục" giả, giống OINDEX. */
-var LTINDEX = { title: "Lộ trình học",
-                tagline: "ngữ pháp và từ vựng đi cùng nhau, chia thành 13 chặng" };
+var LTINDEX = { title: "Khóa học A0 → B2",
+                tagline: "14 chặng, mỗi bài gom đủ nội dung học ngay trong một trang" };
 var ROADMAP = null;                  // data/roadmap.json — có thể chưa có file
 var TCINDEX = { title: "Luyện TOEIC",
                 tagline: "làm theo từng part, chấm ngay từng câu" };
@@ -4522,23 +4603,42 @@ function drawReading(){
   });
 }
 
-/* ===================== LO TRINH HOC (muc 24) =====================
-   Tab Tu vung von chi la cong cu TRA CUU: 1.940 tu trong mot danh sach co loc,
-   khong thu tu, khong dich den, khong biet da xong toi dau. Trang nay dung mot
-   lo trinh duy nhat ghep NGU PHAP voi TU VUNG thanh 13 chang.
+/* ===================== KHOA HOC A0 -> B2 (muc 26) =====================
+   Tab Lo trinh nay la KHOA HOC: 14 chang (chang 0 = Nhap mon A0), moi chang chia
+   thanh bai, moi bai la mot chuoi BUOC tro vao noi dung san co — bai ngu phap,
+   lat tu vung, khung cau + dong vai, bai ky nang, bai doc, de noi bam gio, de
+   viet, TOEIC, kiem tra chang. data/course.json chi giu CHO TRO, khong chep noi
+   dung: sua mot bai ngu phap la khoa hoc tu doi theo.
 
-   KHONG THEM TRANG THAI MOI. Moi con so deu suy tu du lieu da co:
-     - tu da thuoc  <- otSrs (the vao hop >=3)
-     - bai da hoc   <- ngDone
-     - kiem tra     <- cp_res (muc 21b)
-     - chang bat dau<- pt_res.start (muc 21a)
-     - bai doc      <- reading.json, khoa theo chu de
-   Nho vay nguoi hoc khong phai tich tay 1.940 o, va tien do tu nhich moi lan ho
-   on tap that su. */
-var LT = { open: 0 };
+   MOI BUOC VE NGAY TRONG BAI — khong buoc nao chuyen sang tab khac. Moi buoc co
+   trang thai rieng trong closure cua no (khong dung RD / TM / PR / CP toan cuc),
+   va id phan tu deu mang tien to cua buoc, nen hai buoc cung kieu nam chung mot
+   trang khong dam vao nhau.
+
+   Tien do:
+     - bai khoa hoc da xong <- co_done (khoa MOI duy nhat; bai Doc / Noi khong co
+                               co "xong" nao khac de suy ra)
+     - tu da thuoc  <- otSrs (the vao hop >=3) — nut Nho / Chua nho trong buoc tu
+                       vung ghi thang vao day, nen hoc trong bai cung la on tap
+     - bai da hoc   <- ngDone / nmDone / skDone — danh dau xong bai chinh thi ghi
+                       luon vao day, tab Ngu phap va Khoa hoc khong lech nhau
+     - kiem tra     <- cp_res (them khoa "s0", "s13" cho hai chang khong gan nhom) */
+var LT = { open: "" };
 var LT_BOX = 3;              // the vao hop 3 tro len thi coi nhu da thuoc
+var COURSE = null;           // data/course.json
+var CO_TIMERS = [];          // dong ho cua cac buoc Noi bam gio dang mo
+var coDone = load("co_done", []);
 
-function ltStages(){ return (ROADMAP && ROADMAP.stages) || []; }
+function loadCourse(){
+  if(bundle) return Promise.resolve(bundle.course || null);
+  if(IS_FILE) return loadBundle().then(function(d){ bundle = d; return d.course || null; });
+  return getJSON(DATA_DIR + "course.json").catch(function(){
+    return loadBundle().then(function(d){ bundle = d; return d.course || null; })
+                       .catch(function(){ return null; });
+  });
+}
+
+function ltStages(){ return (COURSE && COURSE.stages) || []; }
 function ltPass(){
   var p = (ROADMAP && ROADMAP.pass) || {};
   return { vocab: p.vocab || 0.8, check: p.check || 70 };
@@ -4550,6 +4650,26 @@ function ltTopicName(id){
   });
   return nm;
 }
+function ltStageName(x){
+  if(!x) return "";
+  if(x.n === 0) return "Nhập môn A0";
+  if(!x.g) return "Củng cố từ vựng";
+  return ((GINDEX && GINDEX.groups[x.g - 1]) || {}).name || "";
+}
+function coLessons(){
+  var out = [];
+  ltStages().forEach(function(x){
+    (x.lessons || []).forEach(function(l){ out.push({ st: x, l: l }); });
+  });
+  return out;
+}
+function coFind(id){
+  var all = coLessons();
+  for(var i = 0; i < all.length; i++) if(all[i].l.id === id) return { at: i, st: all[i].st, l: all[i].l, all: all };
+  return null;
+}
+function coIsDone(id){ return coDone.indexOf(id) > -1; }
+function coCheckKey(x){ return x.n === 0 ? "s0" : (x.n === 13 ? "s13" : x.g); }
 
 /* Tu da thuoc = the tu vung tuong ung da len hop >= LT_BOX.
    Id the dung y het collectCards(): "v:" + hash36(tu + "|" + chu de). */
@@ -4565,26 +4685,40 @@ function ltVocab(topics){
   return { n: n, ok: ok };
 }
 
-function ltGrammar(g){
-  if(!g || !GINDEX) return { n: 0, ok: 0, items: [] };
-  var items = ((GINDEX.groups[g - 1] || {}).items) || [];
-  var ok = items.filter(function(it){ return ngDone.indexOf(it.id) > -1; }).length;
-  return { n: items.length, ok: ok, items: items };
+/* Bai chinh BAT BUOC cua chang (bai "Nang cao, tuy chon" khong tinh). Chang 0
+   tinh bai Nhap mon, cac chang khac tinh bai ngu phap. */
+function ltGrammar(x){
+  if(typeof x === "number") x = ltStages().filter(function(s){ return s.g === x && s.n; })[0];
+  if(!x) return { n: 0, ok: 0, items: [] };
+  var ids = [];
+  (x.lessons || []).forEach(function(l){
+    if(l.kind !== "main" || l.opt) return;
+    l.steps.forEach(function(s){
+      if(s.t === "grammar" || s.t === "basic") ids.push({ t: s.t, id: s.id });
+    });
+  });
+  var ok = ids.filter(function(it){
+    return (it.t === "basic" ? nmDone : ngDone).indexOf(it.id) > -1;
+  }).length;
+  return { n: ids.length, ok: ok, items: ids };
 }
 
-/* Mot chang DAT khi: xong het bai ngu phap, kiem tra chang qua nguong, va du
-   ty le tu da thuoc. Chang 13 khong gan nhom nen chi xet phan tu vung. */
+/* Mot chang DAT khi: xong het bai chinh bat buoc, kiem tra chang qua nguong, va
+   du ty le tu da thuoc. Chang 0 khong co tu vung rieng nen chi xet hai dieu dau. */
 function ltStat(x){
   var pass = ltPass();
   var v = ltVocab(x.topics || []);
-  var gr = ltGrammar(x.g);
-  var cp = cpAllRes()[x.g];
+  var gr = ltGrammar(x);
+  var cp = cpAllRes()[coCheckKey(x)];
+  var ls = x.lessons || [];
+  var ld = ls.filter(function(l){ return coIsDone(l.id); }).length;
   var vOk = v.n ? (v.ok / v.n) >= pass.vocab : true;
   var gOk = gr.n ? gr.ok === gr.n : true;
-  var cOk = x.g ? !!(cp && cp.pc >= pass.check) : true;
-  return { v: v, gr: gr, cp: cp, done: vOk && gOk && cOk,
+  var cOk = !!(cp && cp.pc >= pass.check);
+  return { v: v, gr: gr, cp: cp, done: vOk && gOk && cOk, ln: ls.length, ld: ld,
            vPc: v.n ? Math.round(v.ok * 100 / v.n) : 100,
-           gPc: gr.n ? Math.round(gr.ok * 100 / gr.n) : 100 };
+           gPc: gr.n ? Math.round(gr.ok * 100 / gr.n) : 100,
+           lPc: ls.length ? Math.round(ld * 100 / ls.length) : 100 };
 }
 
 /* Chang hien tai = chang CHUA DAT dau tien. */
@@ -4593,185 +4727,963 @@ function ltCurrent(){
   for(var i = 0; i < st.length; i++) if(!ltStat(st[i]).done) return st[i].n;
   return st.length ? st[st.length - 1].n : 0;
 }
+/* Bai nen hoc tiep: bai chua xong dau tien cua chang hien tai (bo qua bai tuy chon). */
+function coNextLesson(n){
+  var x = ltStages().filter(function(s){ return s.n === n; })[0];
+  if(!x) return "";
+  var l = (x.lessons || []).filter(function(l){ return !coIsDone(l.id) && !l.opt; })[0];
+  return (l || x.lessons[0] || {}).id || "";
+}
 
-/* Mo mot chu de trong tab Tu vung — cung loi vcJump() dang dung. */
-function vcOpenTopic(id){
-  VC.q = ""; VC.hot = false; VC.lv = ""; VC.sel = "";
-  VC.topic = id; VC.page = 1;
-  show("vc");
+function coStopTimers(){
+  CO_TIMERS.forEach(function(t){ clearInterval(t); });
+  CO_TIMERS = [];
+}
+
+/* ---------------- thanh ben: menu cay ----------------
+   Ba tang CAP -> CHANG -> BAI. Moi Cap va moi Chang co nut tam giac rieng de an /
+   hien tang con; cac nhanh doc lap voi nhau (mo bao nhieu nhanh cung duoc). Bam vao
+   TEN cap / chang thi mo trang tong quan cua no o ben phai, khong dong mo gi.
+   Trang thai mo nho trong co_tree — chi la tien nghi cho nguoi xem. */
+LT.tree = load("co_tree", null);
+
+function coTreeInit(){
+  if(LT.tree) return;
+  // lan dau: mo san cap va chang dang hoc
+  var cur = coFind(LT.open), n = cur ? cur.st.n : ltCurrent();
+  LT.tree = {};
+  LT.tree["S:" + n] = true;
+  (COURSE.levels || []).forEach(function(lv){ if(lv.stages.indexOf(n) > -1) LT.tree["L:" + lv.id] = true; });
+  save("co_tree", LT.tree);
+}
+function coTreeOpen(key){ return !!(LT.tree && LT.tree[key]); }
+function coTreeToggle(key){
+  coTreeInit();
+  if(LT.tree[key]) delete LT.tree[key]; else LT.tree[key] = true;
+  save("co_tree", LT.tree);
+  buildRoadmapSide();
+}
+/* Bai dang mo phai nhin thay duoc: mo cap va chang chua no (khong dong nhanh nao khac). */
+function coTreeShow(id){
+  var f = coFind(id);
+  if(!f) return;
+  coTreeInit();
+  LT.tree["S:" + f.st.n] = true;
+  (COURSE.levels || []).forEach(function(lv){ if(lv.stages.indexOf(f.st.n) > -1) LT.tree["L:" + lv.id] = true; });
+  save("co_tree", LT.tree);
+}
+
+/* Mot dong co nut an / hien tang con + ten bam duoc. */
+function coTreeRow(cls, key, label, meta, onName){
+  var open = coTreeOpen(key);
+  var row = document.createElement("div");
+  row.className = "co-node " + cls + (open ? " open" : "") + (LT.open === key ? " on" : "");
+  var t = document.createElement("button");
+  t.type = "button"; t.className = "tg";
+  t.setAttribute("aria-expanded", open ? "true" : "false");
+  t.title = open ? "Ẩn tầng con" : "Hiện tầng con";
+  t.textContent = open ? "▾" : "▸";
+  t.onclick = function(){ coTreeToggle(key); };
+  var nm = document.createElement("button");
+  nm.type = "button"; nm.className = "nm";
+  nm.innerHTML = label + (meta ? '<span class="pc">' + meta + "</span>" : "");
+  nm.onclick = onName;
+  row.appendChild(t); row.appendChild(nm);
+  return row;
 }
 
 function buildRoadmapSide(){
+  var keepL = listEl.scrollTop;
   listEl.innerHTML = "";
   if(!ltStages().length){
     document.getElementById("prog").textContent = "";
     return;
   }
-  var cur = ltCurrent();
+  coTreeInit();
   var box = document.createElement("div");
   box.className = "lt-side";
-  ltStages().forEach(function(x){
-    var st = ltStat(x);
-    var b = document.createElement("button");
-    b.type = "button";
-    b.className = "row" + (x.n === LT.open ? " on" : "") + (st.done ? " done" : "");
-    b.innerHTML = '<span class="no">' + (st.done ? "\u2713" : x.n) + "</span>" +
-                  "<span>" + esc(x.g ? (GINDEX.groups[x.g - 1] || {}).name || ""
-                                     : "Củng cố") + "</span>";
-    b.onclick = function(){
-      LT.open = x.n; drawRoadmap(); document.body.classList.remove("open");
-      window.scrollTo(0, 0);
-    };
-    box.appendChild(b);
+
+  var home = document.createElement("button");
+  home.type = "button";
+  home.className = "row home" + (!LT.open ? " on" : "");
+  home.innerHTML = '<span class="no">&#9776;</span><span>Tổng quan khóa học</span>';
+  home.onclick = function(){ coOpen(""); };
+  box.appendChild(home);
+
+  (COURSE.levels || []).forEach(function(lv){
+    var xs = lv.stages.map(function(n){ return ltStages().filter(function(s){ return s.n === n; })[0]; })
+                      .filter(Boolean);
+    var lk = "L:" + lv.id;
+    var lvDone = xs.filter(function(x){ return ltStat(x).done; }).length;
+    box.appendChild(coTreeRow("lvl", lk,
+      '<span class="tx">' + esc(lv.id) + " · " + esc(lv.name) + "</span>",
+      lvDone + "/" + xs.length, function(){ coOpen(lk); document.body.classList.remove("open"); }));
+    if(!coTreeOpen(lk)) return;
+
+    var kids = document.createElement("div");
+    kids.className = "co-kids";
+    xs.forEach(function(x){
+      var st = ltStat(x), sk = "S:" + x.n;
+      kids.appendChild(coTreeRow("stg" + (st.done ? " done" : ""), sk,
+        '<span class="no">' + (st.done ? "✓" : x.n) + '</span><span class="tx">' + esc(ltStageName(x)) + "</span>",
+        st.ld + "/" + st.ln, function(){ coOpen(sk); document.body.classList.remove("open"); }));
+      if(!coTreeOpen(sk)) return;
+      var ls = document.createElement("div");
+      ls.className = "co-kids";
+      (x.lessons || []).forEach(function(l, i){
+        var r = document.createElement("button");
+        r.type = "button";
+        r.className = "row les" + (l.id === LT.open ? " on" : "") +
+                      (coIsDone(l.id) ? " done" : "") + (l.opt ? " opt" : "");
+        r.innerHTML = '<span class="no">' + (coIsDone(l.id) ? "✓" : i + 1) + "</span>" +
+                      "<span>" + esc(l.title) + "</span>";
+        r.onclick = function(){ coOpen(l.id); document.body.classList.remove("open"); };
+        ls.appendChild(r);
+      });
+      kids.appendChild(ls);
+    });
+    box.appendChild(kids);
   });
   listEl.appendChild(box);
-  var done = ltStages().filter(function(x){ return ltStat(x).done; }).length;
+  listEl.scrollTop = keepL;
+  var all = coLessons(), dn = all.filter(function(o){ return coIsDone(o.l.id); }).length;
   document.getElementById("prog").textContent =
-    "Đang ở chặng " + cur + "/" + ltStages().length + " · đã đạt " + done;
+    "Chặng " + ltCurrent() + "/" + (ltStages().length - 1) + " · " + dn + "/" + all.length + " bài";
 }
 
+/* ---------------- trang tong quan cua Cap / Chang ---------------- */
+function coLevelOf(n){
+  return (COURSE.levels || []).filter(function(lv){ return lv.stages.indexOf(n) > -1; })[0] || null;
+}
+function coStageCard(x, cur){
+  var d = ltStat(x);
+  return '<div class="lt-stage' + (x.n === cur ? " on" : "") + (d.done ? " done" : "") + '">' +
+           '<button type="button" class="lt-hd" data-l="S:' + x.n + '">' +
+             '<span class="no">' + (d.done ? "✓" : x.n) + "</span>" +
+             '<span class="tx"><b>' + esc(ltStageName(x)) + "</b><i>" + esc(x.goal || "") + "</i>" +
+               (x.topics.length ? '<i class="tp">' + x.topics.map(ltTopicName).map(esc).join(" · ") + "</i>" : "") +
+             "</span>" +
+             '<span class="pc">' + d.ld + "/" + d.ln + " bài</span>" +
+           "</button>" +
+           '<div class="lt-bar co-bar"><i class="' + (d.lPc === 100 ? "full" : "") +
+             '" style="width:' + d.lPc + '%"></i></div>' +
+         "</div>";
+}
+function coWire(){
+  mainEl.querySelectorAll("[data-l]").forEach(function(b){
+    b.onclick = function(){ coOpen(b.getAttribute("data-l")); };
+  });
+}
+function coDrawLevel(id){
+  var lv = (COURSE.levels || []).filter(function(l){ return l.id === id; })[0];
+  if(!lv){ LT.open = ""; return coDrawHome(); }
+  var xs = lv.stages.map(function(n){ return ltStages().filter(function(s){ return s.n === n; })[0]; }).filter(Boolean);
+  var nl = 0, nd = 0;
+  xs.forEach(function(x){ var d = ltStat(x); nl += d.ln; nd += d.ld; });
+  var cur = ltCurrent();
+  var h = '<div class="eyebrow">Khóa học · Cấp</div><h1>' + esc(lv.id) + " · " + esc(lv.name) + "</h1>" +
+          '<p class="sub">' + xs.length + " chặng · " + nl + " bài · đã xong " + nd + "</p>";
+  xs.forEach(function(x){ h += coStageCard(x, cur); });
+  mainEl.innerHTML = h;
+  coWire();
+}
+function coDrawStage(n){
+  var x = ltStages().filter(function(s){ return s.n === n; })[0];
+  if(!x){ LT.open = ""; return coDrawHome(); }
+  var d = ltStat(x), lv = coLevelOf(n), pass = ltPass();
+  var h = '<div class="eyebrow">Khóa học · ' + esc(lv ? lv.id + " · " + lv.name : "") + "</div>" +
+          "<h1>Chặng " + n + " · " + esc(ltStageName(x)) + "</h1>" +
+          '<div class="lt-goal"><b>Mục tiêu:</b> ' + esc(x.goal || "") + "</div>" +
+          '<div class="co-meta">' +
+            '<span class="pill">' + d.ld + "/" + d.ln + " bài đã xong</span>" +
+            (d.gr.n ? '<span class="pill">bài chính ' + d.gr.ok + "/" + d.gr.n + "</span>" : "") +
+            (d.v.n ? '<span class="pill">từ vựng ' + d.v.ok + "/" + d.v.n + " đã thuộc</span>" : "") +
+            '<span class="pill' + (d.cp && d.cp.pc >= pass.check ? " lv" : "") + '">kiểm tra: ' +
+              (d.cp ? d.cp.pc + "%" : "chưa làm") + "</span>" +
+            (d.done ? '<span class="pill hot">✓ Đã đạt chặng</span>' : "") +
+          "</div>" +
+          '<p class="dt-hint">Đạt chặng khi xong mọi bài chính bắt buộc, kiểm tra chặng từ ' + pass.check +
+            "% và " + Math.round(pass.vocab * 100) + "% từ vựng của chặng đã thuộc.</p>" +
+          '<div class="ot-bar" style="margin:0 0 14px"><button type="button" class="btn go" data-l="' +
+            escAttr(coNextLesson(n)) + '">Học tiếp &rarr;</button></div>' +
+          '<div class="co-lslist">';
+  (x.lessons || []).forEach(function(l, i){
+    var ok = coIsDone(l.id);
+    h += '<button type="button" class="pr-row' + (ok ? " ok" : "") + '" data-l="' + escAttr(l.id) + '">' +
+           '<span class="md' + (ok ? " w" : "") + '">' + (ok ? "✓" : i + 1) + "</span>" +
+           '<span class="tx"><b>' + esc(l.title) + "</b><i>" + esc(CO_KIND[l.kind] || l.kind) +
+             (l.sub && l.sub !== CO_KIND[l.kind] ? " · " + esc(l.sub) : "") +
+             " · " + l.steps.length + " bước" + (l.opt ? " · nâng cao, tuỳ chọn" : "") + "</i></span>" +
+         "</button>";
+  });
+  mainEl.innerHTML = h + "</div>";
+  coWire();
+}
+
+/* ---------------- dieu huong ---------------- */
+/* Nap moi du lieu ma cac buoc can — goi truoc MOI lan ve, de vao bai bang duong
+   nao (tab, nut Hoc tiep, phim mui ten) cung khong gap buoc "khong tim thay". */
+function coEnsure(){
+  var need = [];
+  if(!COURSE) need.push(loadCourse().then(function(c){ COURSE = c && (c.stages || []).length ? c : null; }).catch(function(){}));
+  if(!READING) need.push(loadReading().then(function(d){ READING = d; }).catch(function(){}));
+  if(!PRODUCE) need.push(loadProduce().then(function(d){ PRODUCE = d; }).catch(function(){}));
+  if(!TOEIC)   need.push(loadToeic().then(function(d){ TOEIC = d; }).catch(function(){}));
+  return Promise.all(need);
+}
 function viewRoadmap(){
-  if(!LT.open) LT.open = ltCurrent();
-  drawRoadmap();
-  window.scrollTo(0, 0);
-  // Danh sach bai doc nam o READING, von chi duoc nap khi mo trang Doc. Lo trinh
-  // la tab mac dinh nen phai tu nap, khong thi muc "Bai doc" cua moi chang bien
-  // mat cho den khi nguoi hoc tinh co ghe qua tab Tu vung.
-  if(!READING){
-    loadReading().then(function(rd){
-      if(!rd || current !== "lt") return;
-      READING = rd;
-      drawRoadmap();
-    }).catch(function(){});
-  }
+  coStopTimers();
+  if(!COURSE || !READING || !PRODUCE || !TOEIC)
+    mainEl.innerHTML = '<p style="color:var(--muted)">Đang tải khóa học…</p>';
+  coEnsure().then(function(){
+    if(current !== "lt") return;
+    if(!LT.open) LT.open = load("co_last", "");
+    if(LT.open && !coFind(LT.open) && !/^[LS]:/.test(LT.open)) LT.open = "";
+    buildRoadmapSide();
+    coDraw();
+  });
 }
-
-function drawRoadmap(){
-  var st = ltStages();
-  if(!st.length){
-    mainEl.innerHTML = '<div class="eyebrow">Lộ trình</div><h1>Lộ trình học</h1>' +
+function coOpen(id){
+  LT.open = id || "";
+  save("co_last", LT.open);
+  if(current !== "lt") return show("lt");
+  if(coFind(LT.open)) coTreeShow(LT.open);
+  coEnsure().then(function(){
+    buildRoadmapSide();
+    coDraw();
+  });
+}
+function coDraw(){
+  coStopTimers();
+  try{ if(window.speechSynthesis) speechSynthesis.cancel(); }catch(e){}
+  window.scrollTo(0, 0);
+  if(!COURSE){
+    mainEl.innerHTML = '<div class="eyebrow">Khóa học</div><h1>Khóa học</h1>' +
       '<div class="soon"><div class="big">&#128506;</div>' +
-      "<p><b>Chưa có dữ liệu lộ trình.</b></p>" +
-      "<p>Tạo <code>data/roadmap.json</code> rồi chạy <code>build.bat</code>.</p></div>";
+      "<p><b>Chưa có dữ liệu khóa học.</b></p>" +
+      "<p>Chạy <code>python make-course.py --write</code> rồi <code>build.bat</code>.</p></div>";
     return;
   }
-  var cur = ltCurrent(), curX = st.filter(function(x){ return x.n === cur; })[0];
+  if(LT.open && coFind(LT.open)) return coDrawLesson(LT.open);
+  if(/^L:/.test(LT.open)) return coDrawLevel(LT.open.slice(2));
+  if(/^S:\d+$/.test(LT.open)) return coDrawStage(+LT.open.slice(2));
+  coDrawHome();
+}
+/* giu ten cu: smoke va cac cho goi khac van dung duoc */
+function drawRoadmap(){ coDraw(); }
+
+/* ---------------- trang tong quan ---------------- */
+function coDrawHome(){
+  var cur = ltCurrent();
+  var curX = ltStages().filter(function(x){ return x.n === cur; })[0];
   var curS = ltStat(curX);
   var pt = (typeof ptLoad === "function" && ptLoad()) || null;
   var skipTo = pt && pt.start ? pt.start : 0;
+  var all = coLessons(), dn = all.filter(function(o){ return coIsDone(o.l.id); }).length;
 
-  var h = '<div class="eyebrow">Lộ trình</div><h1>' + esc(ROADMAP.title || "Lộ trình học") + "</h1>" +
-          '<p class="sub">' + esc(ROADMAP.tagline || "") + "</p>" +
-          (ROADMAP.intro ? '<div class="callout">' + ROADMAP.intro + "</div>" : "") +
+  var h = '<div class="eyebrow">Khóa học</div><h1>' + esc(COURSE.title || "Khóa học") + "</h1>" +
+          '<p class="sub">' + esc(COURSE.tagline || "") + "</p>" +
+          (ROADMAP && ROADMAP.intro ? '<div class="callout">' + ROADMAP.intro + "</div>" : "") +
           '<div class="lt-now"><div class="lb">Bạn đang ở</div>' +
-            '<div class="nm">Chặng ' + cur + " · " +
-              esc(curX.g ? (GINDEX.groups[curX.g - 1] || {}).name || "" : "Củng cố") + "</div>" +
+            '<div class="nm">Chặng ' + cur + " · " + esc(ltStageName(curX)) + "</div>" +
             '<p class="goal">' + esc(curX.goal || "") + "</p>" +
-            '<p class="dt-hint" style="margin:12px 0 0">Ngữ pháp ' + curS.gr.ok + "/" + curS.gr.n +
-              " bài · từ vựng " + curS.v.ok + "/" + curS.v.n + " từ đã thuộc</p></div>";
+            '<p class="dt-hint" style="margin:12px 0 0">' + curS.ld + "/" + curS.ln + " bài · " +
+              (curS.gr.n ? "bài chính " + curS.gr.ok + "/" + curS.gr.n + " · " : "") +
+              (curS.v.n ? "từ vựng " + curS.v.ok + "/" + curS.v.n + " đã thuộc · " : "") +
+              "toàn khóa " + dn + "/" + all.length + " bài</p>" +
+            '<div class="ot-bar" style="margin:14px 0 0"><button type="button" class="btn go" data-l="' +
+              escAttr(coNextLesson(cur)) + '">Học tiếp &rarr;</button></div></div>';
+  if(skipTo > 1){
+    h += '<p class="lt-skip">Bài kiểm tra đầu vào gợi ý bắt đầu từ nhóm ' + skipTo +
+         " — các chặng trước đó bạn có thể lướt nhanh, làm bài Kiểm tra chặng để xác nhận.</p>";
+  }
 
-  st.forEach(function(x){
-    var d = ltStat(x), open = x.n === LT.open;
-    var gname = x.g ? (GINDEX.groups[x.g - 1] || {}).name || "" : "Củng cố xuyên suốt";
-    h += '<div class="lt-stage' + (open ? " on" : "") + (d.done ? " done" : "") + '">' +
-           '<button type="button" class="lt-hd" data-n="' + x.n + '">' +
-             '<span class="no">' + (d.done ? "\u2713" : x.n) + "</span>" +
-             '<span class="tx"><b>' + esc(gname) + "</b><i>" +
-               x.topics.map(ltTopicName).map(esc).join(" · ") + "</i></span>" +
-             '<span class="pc">' + d.v.ok + "/" + d.v.n + " từ</span>" +
-           "</button>";
-    if(open){
-      h += '<div class="lt-body">';
-      if(skipTo && x.n < skipTo && x.g && x.g < skipTo){
-        h += '<p class="lt-skip">Bài kiểm tra đầu vào cho thấy bạn có thể lướt chặng này.</p>';
-      }
-      h += '<div class="lt-goal"><b>Mục tiêu:</b> ' + esc(x.goal || "") + "</div>";
+  (COURSE.levels || []).forEach(function(lv){
+    h += '<h2 class="co-lvh"><span class="lv">' + esc(lv.id) + "</span>" + esc(lv.name) + "</h2>";
+    lv.stages.forEach(function(n){
+      var x = ltStages().filter(function(s){ return s.n === n; })[0];
+      if(!x) return;
+      var d = ltStat(x);
+      h += '<div class="lt-stage' + (n === cur ? " on" : "") + (d.done ? " done" : "") + '">' +
+             '<button type="button" class="lt-hd" data-l="' + escAttr(coNextLesson(n)) + '">' +
+               '<span class="no">' + (d.done ? "✓" : n) + "</span>" +
+               '<span class="tx"><b>' + esc(ltStageName(x)) + "</b><i>" + esc(x.goal || "") + "</i>" +
+                 (x.topics.length ? '<i class="tp">' + x.topics.map(ltTopicName).map(esc).join(" · ") + "</i>" : "") +
+               "</span>" +
+               '<span class="pc">' + d.ld + "/" + d.ln + " bài</span>" +
+             "</button>" +
+             '<div class="lt-bar co-bar"><i class="' + (d.lPc === 100 ? "full" : "") +
+               '" style="width:' + d.lPc + '%"></i></div>' +
+           "</div>";
+    });
+  });
+  mainEl.innerHTML = h;
+  mainEl.querySelectorAll("[data-l]").forEach(function(b){
+    b.onclick = function(){ coOpen(b.getAttribute("data-l")); };
+  });
+}
 
-      if(x.g){
-        h += '<div class="lt-part"><div class="hd"><span class="t">Ngữ pháp</span>' +
-               '<span class="n">' + d.gr.ok + "/" + d.gr.n + " bài</span></div>" +
-             '<div class="lt-bar"><i class="' + (d.gPc === 100 ? "full" : "") +
-               '" style="width:' + d.gPc + '%"></i></div><div class="lt-chips">';
-        d.gr.items.forEach(function(it){
-          var ok = ngDone.indexOf(it.id) > -1;
-          h += '<button type="button" class="' + (ok ? "ok" : "") + '" data-g="' + it.id + '">' +
-               (ok ? "\u2713 " : "") + pad3(it.id).slice(1) + " · " + esc(it.vi) + "</button>";
-        });
-        h += "</div></div>";
-      }
+/* ---------------- trang bai hoc ---------------- */
+var CO_LABEL = { basic: "Bài nhập môn", grammar: "Ngữ pháp", vocab: "Từ vựng",
+                 frame: "Khung câu & đóng vai", skill: "Kỹ năng", read: "Đọc hiểu",
+                 timed: "Nói bấm giờ", prompt: "Nói / viết có bài mẫu", verbs: "Động từ bất quy tắc",
+                 toeic: "Luyện TOEIC", check: "Kiểm tra chặng", cando: "Tự xác nhận: làm được gì" };
+var CO_KIND = { main: "Bài chính", skill: "Kỹ năng", read: "Đọc", produce: "Nói & viết",
+                toeic: "TOEIC", check: "Kiểm tra", vocab: "Từ vựng" };
 
-      h += '<div class="lt-part"><div class="hd"><span class="t">Từ vựng</span>' +
-             '<span class="n">' + d.v.ok + "/" + d.v.n + " từ đã thuộc</span></div>" +
-           '<div class="lt-bar"><i class="' + (d.vPc === 100 ? "full" : "") +
-             '" style="width:' + d.vPc + '%"></i></div><div class="lt-chips">';
-      x.topics.forEach(function(t){
-        var one = ltVocab([t]);
-        h += '<button type="button" class="' +
-             (one.n && one.ok / one.n >= ltPass().vocab ? "ok" : "") +
-             '" data-t="' + escAttr(t) + '">' + esc(ltTopicName(t)) +
-             " · " + one.ok + "/" + one.n + "</button>";
+function coDrawLesson(id){
+  var f = coFind(id), x = f.st, l = f.l;
+  var h = '<div class="eyebrow">Chặng ' + x.n + " · " + esc(x.lv || "") + " · " +
+            esc(ltStageName(x)) + "</div>" +
+          '<h1>' + esc(l.title) + "</h1>" +
+          '<div class="co-meta"><span class="pill">' + esc(CO_KIND[l.kind] || l.kind) + "</span>" +
+            (l.sub && l.sub !== CO_KIND[l.kind] ? '<span class="pill lv">' + esc(l.sub) + "</span>" : "") +
+            '<span class="pill">' + l.steps.length + " bước</span>" +
+            (l.opt ? '<span class="pill hot">Nâng cao · tuỳ chọn</span>' : "") + "</div>";
+  if(l.opt){
+    h += '<p class="lt-skip">Bài này vượt mức B2 một chút. Không bắt buộc để qua chặng — ' +
+         "học khi đã vững các bài chính.</p>";
+  }
+  h += '<div class="lt-goal"><b>Mục tiêu chặng:</b> ' + esc(x.goal || "") + "</div>";
+  h += '<nav class="co-toc">';
+  l.steps.forEach(function(s, i){
+    h += '<a href="#co-' + i + '" data-toc="' + i + '">' + (i + 1) + ". " + esc(coStepTitle(s)) + "</a>";
+  });
+  h += "</nav>";
+  l.steps.forEach(function(s, i){
+    h += '<section class="co-step" id="co-' + i + '" data-t="' + s.t + '">' +
+           '<div class="co-sh"><span class="n">' + (i + 1) + "</span>" +
+             '<span class="t">' + esc(CO_LABEL[s.t] || s.t) + "</span>" +
+             '<span class="s">' + esc(coStepTitle(s)) + "</span></div>" +
+           '<div class="co-sb"><p style="color:var(--muted)">Đang tải…</p></div>' +
+         "</section>";
+  });
+  mainEl.innerHTML = h;
+  mainEl.querySelectorAll("[data-toc]").forEach(function(a){
+    a.onclick = function(e){
+      e.preventDefault();
+      var el = document.getElementById("co-" + a.getAttribute("data-toc"));
+      if(el && el.scrollIntoView) el.scrollIntoView({ block: "start" });
+    };
+  });
+  var secs = mainEl.querySelectorAll(".co-step");
+  l.steps.forEach(function(s, i){
+    var body = secs[i].querySelector(".co-sb");
+    var pfx = "co" + i + "_";
+    Promise.resolve().then(function(){ return coStep(s, body, pfx, x, l); })
+      .catch(function(err){
+        body.innerHTML = '<p style="color:var(--bad)">Không vẽ được bước này: ' + esc(err && err.message || err) + "</p>";
       });
-      h += "</div></div>";
+  });
+  coFooter(f);
+}
 
-      var reads = ((READING && READING.items) || []).filter(function(r){
-        return x.topics.indexOf(r.topic) > -1;
-      });
-      if(reads.length){
-        h += '<div class="lt-part"><div class="hd"><span class="t">Bài đọc</span>' +
-               '<span class="n">' + reads.length + " bài</span></div><div class=\"lt-chips\">";
-        reads.forEach(function(r){
-          h += '<button type="button" data-r="' + r.id + '">' + esc(r.title) + "</button>";
-        });
-        h += "</div></div>";
-      }
+function coStepTitle(s){
+  var it;
+  switch(s.t){
+    case "basic":   it = (BFLAT || []).filter(function(z){ return z.id === s.id; })[0];
+                    return "Nhập môn " + pad3(s.id).slice(1) + (it ? " · " + (it.vi || it.pat) : "");
+    case "grammar": it = (GFLAT || []).filter(function(z){ return z.id === s.id; })[0];
+                    return "Bài " + pad3(s.id).slice(1) + (it ? " · " + (it.vi || it.pat) : "");
+    case "skill":   it = (SFLAT || []).filter(function(z){ return z.id === s.id; })[0];
+                    return "Kỹ năng " + pad3(s.id).slice(1) + (it ? " · " + (it.vi || it.pat) : "");
+    case "frame":   it = (FLAT || []).filter(function(z){ return z.id === s.id; })[0];
+                    return "Khung " + pad3(s.id).slice(1) + (it ? " · " + it.pat : "");
+    case "vocab":   return ltTopicName(s.topic) + " · " + (s.to - s.from) + " từ";
+    case "read":    it = ((READING && READING.items) || []).filter(function(z){ return z.id === s.id; })[0];
+                    return it ? it.title : "Bài đọc " + s.id;
+    case "timed":   it = ((PRODUCE && PRODUCE.timed) || [])[s.i];
+                    return it ? it.seconds + " giây" : "";
+    case "prompt":  it = ((PRODUCE && PRODUCE.prompt) || [])[s.i];
+                    return it ? (it.mode === "write" ? "Đề viết" : "Đề nói") : "";
+    case "verbs":   it = ((VINDEX && VINDEX.patterns) || []).filter(function(z){ return z.id === s.pat; })[0];
+                    return it ? it.name : s.pat;
+    case "toeic":   it = tcPart(s.part);
+                    return "Part " + s.part + (it ? " · " + it.name : "") + (s.tag ? " · " + tcTagName(s.tag) : "");
+    case "check":   return "15 câu, đảo thứ tự";
+    case "cando":   return (s.items || []).length + " việc";
+  }
+  return "";
+}
 
-      if(x.g){
-        h += '<div class="lt-part"><div class="hd"><span class="t">Kiểm tra chặng</span>' +
-               '<span class="n">' +
-               (d.cp ? d.cp.pc + "% lần trước" : "chưa làm") + "</span></div>" +
-             '<div class="lt-chips"><button type="button" data-cp="' + x.g + '">' +
-               (d.cp ? "Làm lại đề khác" : "Làm kiểm tra chặng " + x.n) + "</button></div></div>";
-      }
+/* Ve mot buoc vao `body`. Tra ve Promise (hoac gi cung duoc). */
+function coStep(s, body, pfx, x, l){
+  var docKind = { basic: "nm", grammar: "ng", skill: "sk" };
+  if(docKind[s.t]){
+    var ld = s.t === "basic" ? loadBasic : s.t === "grammar" ? loadLesson : loadSkill;
+    return ld(s.id).then(function(f){
+      body.innerHTML = f ? coDemote(renderDoc(f, docKind[s.t])) : '<p class="dt-hint">Bài này chưa soạn chi tiết.</p>';
+      decorate(body);
+    });
+  }
+  if(s.t === "frame") return loadFrame(s.id).then(function(f){
+    body.innerHTML = f ? coDemote(renderDoc(f, "kc")) : '<p class="dt-hint">Khung này chưa soạn chi tiết.</p>';
+    decorate(body);
+    var rp = rpList().filter(function(r){ return r.f === s.id; })[0];
+    if(f && rp && s.rp){
+      var box = document.createElement("div");
+      box.className = "co-rp";
+      body.appendChild(box);
+      coRoleplay(box, rp, f);
+    }
+  });
+  if(s.t === "vocab")  return coVocab(body, s, pfx);
+  if(s.t === "verbs")  return coVerbs(body, s, pfx);
+  if(s.t === "read")   return coReading(body, s, pfx);
+  if(s.t === "timed")  return coTimed(body, ((PRODUCE && PRODUCE.timed) || [])[s.i], pfx);
+  if(s.t === "prompt") return coPrompt(body, ((PRODUCE && PRODUCE.prompt) || [])[s.i], pfx);
+  if(s.t === "toeic")  return coToeic(body, s, pfx);
+  if(s.t === "check")  return coCheck(body, s.g, x, pfx);
+  if(s.t === "cando")  return coCando(body, s, pfx);
+  body.innerHTML = '<p style="color:var(--bad)">[Bước không rõ kiểu: ' + esc(s.t) + "]</p>";
+}
+
+/* Bai goc co eyebrow + h1 + h2 danh so. Nhung vao mot buoc thi ha mot bac: h1 -> h3,
+   h2 -> h4, de muc luc cua bai khoa hoc van la tieu de lon nhat trang. */
+function coDemote(html){
+  return html.replace(/<h1>/g, '<h3 class="co-h1">').replace(/<\/h1>/g, "</h3>")
+             .replace(/<h2>/g, '<h4 class="co-h2">').replace(/<\/h2>/g, "</h4>");
+}
+
+/* Chon mot dap an trong nhom nut .pt-opts — dung chung cho doc, TOEIC, kiem tra. */
+function coOptsHTML(qi, opts, pick, done, a, pfx){
+  var h = '<div class="pt-opts">';
+  opts.forEach(function(o, j){
+    var on = done ? (j === a || j === pick) : j === pick;
+    h += '<button type="button" class="' + (on ? "pick" : "") + '" data-q="' + qi + '" data-o="' + j +
+         '"' + (done ? " disabled" : "") + ">" + o + "</button>";
+  });
+  return h + "</div>";
+}
+
+/* ---- buoc: tu vung (the tu + tu kiem tra, ghi thang vao SRS) ---- */
+function coVocab(body, s, pfx){
+  var ws = ((CINDEX && CINDEX.words) || []).filter(function(w){ return w[3] === s.topic; }).slice(s.from, s.to);
+  var hide = false;
+  function draw(){
+    var known = ws.filter(function(w){ return srsBox("v:" + hash36(w[0] + "|" + w[3])) >= LT_BOX; }).length;
+    var h = '<p class="dt-hint">Đọc từng từ, bấm 🔊 nghe rồi nói theo. Sau đó bật <b>Che nghĩa</b>, tự nhớ lại nghĩa ' +
+            "rồi bấm <b>Nhớ</b> / <b>Chưa nhớ</b> — kết quả ghi thẳng vào tab Ôn tập, từ lên hộp " + LT_BOX +
+            " là tính đã thuộc. Đã thuộc: <b>" + known + "/" + ws.length + "</b>.</p>" +
+            '<div class="ot-bar" style="margin:0 0 12px"><button type="button" class="btn" data-hide>' +
+              (hide ? "Hiện nghĩa" : "Che nghĩa") + "</button></div>" +
+            '<div class="co-words' + (hide ? " hide" : "") + '">';
+    ws.forEach(function(w, i){
+      var id = "v:" + hash36(w[0] + "|" + w[3]), bx = srsBox(id);
+      var det = vcDetail(w) || {};
+      var syn = (det.syn || []).map(function(p){ return p[0]; }).slice(0, 3);
+      var ant = (det.ant || []).map(function(p){ return p[0]; }).slice(0, 2);
+      h += '<div class="co-w' + (bx >= LT_BOX ? " known" : "") + '" data-i="' + i + '">' +
+             '<div class="hd"><b class="w">' + esc(w[0]) + "</b>" +
+               '<button class="say" type="button" title="Nghe" data-say="' + escAttr(w[0]) + '">🔊</button>' +
+               (w[7] ? '<span class="ipa">' + esc(w[7]) + "</span>" : "") +
+               '<span class="pos">' + esc(w[1]) + "</span>" +
+               (bx ? '<span class="bx">hộp ' + bx + "</span>" : "") + "</div>" +
+             '<div class="mean">' + esc(w[2]) + "</div>" +
+             (w[4] ? '<div class="ex"><span class="en">' + esc(w[4]) + "</span>" +
+               ' <button class="say" type="button" title="Nghe câu" data-say="' + escAttr(w[4]) + '">🔊</button>' +
+               '<span class="vi">' + esc(w[5] || "") + "</span></div>" : "") +
+             (syn.length || ant.length ? '<div class="rel">' +
+               (syn.length ? "≈ " + syn.map(esc).join(", ") : "") +
+               (syn.length && ant.length ? " · " : "") +
+               (ant.length ? "≠ " + ant.map(esc).join(", ") : "") + "</div>" : "") +
+             '<div class="gr"><button type="button" class="btn" data-ok="1" data-i="' + i + '">Nhớ</button>' +
+               '<button type="button" class="btn" data-ok="0" data-i="' + i + '">Chưa nhớ</button></div>' +
+           "</div>";
+    });
+    body.innerHTML = h + "</div>";
+    body.querySelector("[data-hide]").onclick = function(){ hide = !hide; draw(); };
+    body.querySelectorAll("[data-say]").forEach(function(b){
+      b.onclick = function(e){ e.stopPropagation(); speak(b.getAttribute("data-say")); };
+    });
+    body.querySelectorAll(".co-w").forEach(function(c){
+      c.onclick = function(e){ if(!e.target.closest("button")) c.classList.toggle("peek"); };
+    });
+    body.querySelectorAll("[data-ok]").forEach(function(b){
+      b.onclick = function(e){
+        e.stopPropagation();
+        var w = ws[parseInt(b.getAttribute("data-i"), 10)];
+        srsGrade({ id: "v:" + hash36(w[0] + "|" + w[3]), deck: "vc" }, b.getAttribute("data-ok") === "1");
+        draw();
+        buildRoadmapSide();
+      };
+    });
+  }
+  draw();
+}
+
+/* ---- buoc: dong tu bat quy tac theo nhom ---- */
+function coVerbs(body, s, pfx){
+  var pat = ((VINDEX && VINDEX.patterns) || []).filter(function(p){ return p.id === s.pat; })[0] || {};
+  var vs = ((VINDEX && VINDEX.verbs) || []).filter(function(v){ return v[4] === s.pat; })
+             .sort(function(a, b){ return b[5] - a[5] || (a[0] < b[0] ? -1 : 1); });
+  var hide = false;
+  function draw(){
+    var h = '<p class="dt-hint">Nhóm <b>' + esc(pat.name || s.pat) + "</b>" +
+            (pat.hint ? " — ví dụ <i>" + esc(pat.hint) + "</i>" : "") +
+            ". Từ in đậm là từ hay gặp, học trước. Bật <b>Che V2 · V3</b> để tự kiểm tra; " +
+            "bấm vào ô bị che để xem.</p>" +
+            '<div class="ot-bar" style="margin:0 0 10px"><button type="button" class="btn" data-hide>' +
+              (hide ? "Hiện V2 · V3" : "Che V2 · V3") + "</button></div>" +
+            '<div class="tbl"><table class="co-vb' + (hide ? " hide" : "") + '"><thead><tr><th>V1</th><th>V2</th><th>V3</th><th>Nghĩa</th></tr></thead><tbody>';
+    vs.forEach(function(v){
+      h += "<tr" + (v[5] ? ' class="hot"' : "") + "><td>" + esc(v[0]) +
+           ' <button class="say" type="button" data-say="' + escAttr(v[0] + ", " + v[1] + ", " + v[2]) + '">🔊</button></td>' +
+           '<td class="h">' + esc(v[1]) + '</td><td class="h">' + esc(v[2]) + "</td><td>" + esc(v[3]) + "</td></tr>";
+    });
+    body.innerHTML = h + "</tbody></table></div>";
+    body.querySelector("[data-hide]").onclick = function(){ hide = !hide; draw(); };
+    body.querySelectorAll("td.h").forEach(function(td){ td.onclick = function(){ td.classList.toggle("peek"); }; });
+    body.querySelectorAll("[data-say]").forEach(function(b){
+      b.onclick = function(){ speak(b.getAttribute("data-say"), 0.8); };
+    });
+  }
+  draw();
+}
+
+/* ---- buoc: dong vai (luot cua nguoi hoc bi giau) ---- */
+function coRoleplay(box, x, doc){
+  var src = rpFromFrame(doc), shown = false;
+  function draw(){
+    var h = '<h4 class="co-h2">Đóng vai</h4>' +
+            '<div class="rp-roles">' +
+              '<div class="rp-role me"><div class="hd">Vai của bạn</div><div class="bd">' + esc(x.you) + "</div></div>" +
+              '<div class="rp-role"><div class="hd">Người đối diện</div><div class="bd">' + esc(x.them) + "</div></div>" +
+            "</div>" +
+            '<div class="rp-goal"><b>Mục tiêu:</b> ' + esc(x.goal) + "</div>";
+    if(src.useful.length){
+      h += '<p class="dt-lbl">Cụm có thể dùng</p><div class="rp-use">';
+      src.useful.forEach(function(u){ h += "<span>" + esc(u) + "</span>"; });
       h += "</div>";
     }
+    h += '<div class="dt-card">';
+    if(!src.lines.length){
+      h += '<p class="dt-hint" style="margin:0">Khung này chưa có hội thoại mẫu — tự dựng màn theo mục tiêu ở trên.</p>';
+    }else{
+      h += '<p class="dt-lbl">Hội thoại' + (shown ? "" : " — lượt của bạn đang bị giấu") + "</p>";
+      src.lines.forEach(function(ln){
+        var me = !!ln.me;
+        h += '<div class="rp-turn' + (me ? " me" : "") + '"><div class="who">' + esc(ln.speaker || (me ? "Bạn" : "")) + "</div><div class=\"bd\">";
+        if(me && !shown) h += '<div class="rp-hide">… đến lượt bạn — tự nói thành tiếng rồi mới bấm hiện …</div>';
+        else h += '<div class="en">' + esc(ln.en || "") + '</div><div class="vi">' + esc(ln.vi || "") + "</div>";
+        h += "</div></div>";
+      });
+    }
     h += "</div>";
-  });
+    if(src.lines.length && !shown)
+      h += '<div class="ot-bar"><button type="button" class="btn go" data-show>Tôi nói xong rồi — hiện lượt của tôi</button></div>';
+    box.innerHTML = h;
+    var b = box.querySelector("[data-show]");
+    if(b) b.onclick = function(){ shown = true; draw(); };
+  }
+  draw();
+}
 
-  mainEl.innerHTML = h;
-  mainEl.querySelectorAll(".lt-hd").forEach(function(b){
-    b.onclick = function(){
-      var n = parseInt(b.getAttribute("data-n"), 10);
-      LT.open = (LT.open === n ? 0 : n);
-      drawRoadmap(); buildList("");
-    };
+/* ---- buoc: bai doc (doc -> tra loi -> roi moi hien danh sach tu) ---- */
+function coReading(body, s, pfx){
+  var x = ((READING && READING.items) || []).filter(function(r){ return r.id === s.id; })[0];
+  if(!x){ body.innerHTML = '<p class="dt-hint">Không tìm thấy bài đọc.</p>'; return; }
+  // dap an trong file thuong nam o cot dau — tron lai moi lan mo de khong doan theo vi tri
+  var qs = (x.q || []).map(function(q){
+    var order = cpShuffle(q.opts.map(function(o, i){ return i; }));
+    return { q: q.q, kind: q.kind, opts: order.map(function(i){ return q.opts[i]; }), a: order.indexOf(q.a) };
   });
-  mainEl.querySelectorAll("[data-g]").forEach(function(b){
-    b.onclick = function(){ show("g" + b.getAttribute("data-g")); };
-  });
-  mainEl.querySelectorAll("[data-t]").forEach(function(b){
-    b.onclick = function(){ vcOpenTopic(b.getAttribute("data-t")); };
-  });
-  mainEl.querySelectorAll("[data-r]").forEach(function(b){
-    b.onclick = function(){
-      var id = parseInt(b.getAttribute("data-r"), 10);
-      show("rd");
-      setTimeout(function(){
-        var i = ((READING && READING.items) || []).map(function(r){ return r.id; }).indexOf(id);
-        if(i > -1 && typeof drawReading === "function"){
-          RD.i = i; RD.ans = (READING.items[i].q || []).map(function(){ return null; });
-          RD.done = false; drawReading(); window.scrollTo(0, 0);
+  var ans = qs.map(function(){ return null; }), done = false, big = false;
+  function draw(){
+    var left = ans.filter(function(a){ return a === null; }).length;
+    var n = (x.text || []).join(" ").split(/\s+/).length;
+    var h = '<div class="rd-meta"><span class="pill lv">' + esc(x.lv) + "</span>" +
+            '<span class="pill">' + n + " từ</span>" +
+            '<button type="button" class="btn" data-big>' + (big ? "Cỡ chữ thường" : "Cỡ chữ to hơn") + "</button>" +
+            '<button type="button" class="btn" data-read>🔊 Nghe cả bài</button></div>' +
+            '<p class="sub" style="margin:6px 0 10px">' + esc(x.vi) + "</p>" +
+            '<div class="rd-text' + (big ? " big" : "") + '">';
+    (x.text || []).forEach(function(p){ h += "<p>" + esc(p) + "</p>"; });
+    h += '</div><div class="rd-qs"><h4 class="co-h2">Câu hỏi</h4>';
+    qs.forEach(function(q, i){
+      var ok = ans[i] === q.a;
+      h += '<div class="rd-q"><div class="hd"><span class="tag">' + esc(RD_KIND[q.kind] || q.kind || "") + "</span>" +
+           '<span class="tx">' + (i + 1) + ". " + esc(q.q) + "</span></div>" +
+           coOptsHTML(i, q.opts.map(esc), ans[i], done, q.a, pfx);
+      if(done) h += '<p class="pt-why' + (ok ? "" : " bad") + '">' +
+                    (ok ? "✓ Đúng." : "✗ Đáp án đúng: <b>" + esc(q.opts[q.a]) + "</b>.") + "</p>";
+      h += "</div>";
+    });
+    h += "</div>";
+    if(done){
+      var right = qs.filter(function(q, i){ return ans[i] === q.a; }).length;
+      h += '<div class="pt-res"><div class="lv">' + right + "/" + qs.length + "</div><p class=\"say\">" +
+           (right >= 4 ? "Đọc hiểu tốt. Giờ mới xem danh sách từ bên dưới."
+                       : "Dưới ngưỡng. Đọc lại một lượt nữa rồi mới xem danh sách từ.") + "</p></div>" +
+           '<div class="rd-gloss"><div class="hd">Từ chủ đề xuất hiện trong bài</div><div class="rd-gw">';
+      (x.gloss || []).forEach(function(g){
+        h += '<button type="button" data-say="' + escAttr(g[0]) + '"><b>' + esc(g[0]) + "</b><i>" + esc(g[1]) +
+             "</i><span>" + esc(g[2]) + "</span></button>";
+      });
+      h += "</div></div>";
+    }else{
+      h += '<div class="ot-bar"><button type="button" class="btn go" data-check' + (left ? " disabled" : "") + ">" +
+           (left ? "Còn " + left + " câu chưa trả lời" : "Chấm bài") + "</button></div>";
+    }
+    body.innerHTML = h;
+    body.querySelectorAll(".pt-opts button").forEach(function(b){
+      b.onclick = function(){ ans[+b.getAttribute("data-q")] = +b.getAttribute("data-o"); draw(); };
+    });
+    body.querySelector("[data-big]").onclick = function(){ big = !big; draw(); };
+    body.querySelector("[data-read]").onclick = function(){ speakSeq(x.text || [], 0.9); };
+    var ck = body.querySelector("[data-check]");
+    if(ck) ck.onclick = function(){ done = true; draw(); };
+    body.querySelectorAll(".rd-gw [data-say]").forEach(function(b){
+      b.onclick = function(){ speak(b.getAttribute("data-say")); };
+    });
+  }
+  draw();
+}
+
+/* ---- buoc: noi bam gio (thang tu soat hien SAU khi het gio) ---- */
+function coTimed(body, it, pfx){
+  if(!it){ body.innerHTML = '<p class="dt-hint">Không tìm thấy đề.</p>'; return; }
+  var left = it.seconds, on = false, done = false, tick = null, ticked = [];
+  function stop(){ if(tick){ clearInterval(tick); tick = null; } on = false; }
+  function draw(){
+    var h = '<div class="dt-card"><div class="tm-clock' + (on ? " run" : (done ? " end" : "")) + '" data-clock>' +
+              tmFmt(Math.max(0, left)) + "</div>" +
+            '<div class="tm-ring"><i class="' + (done ? "end" : "") + '" data-ring style="width:' +
+              Math.round(left * 100 / it.seconds) + '%"></i></div>' +
+            '<p class="tm-task">' + esc(it.task) + "</p>" +
+            (it.start ? '<p class="tm-start">Mở lời bằng: <code>' + esc(it.start) + "</code></p>" : "");
+    if(done){
+      h += '<div class="tm-must"><div class="hd">Hết giờ — tự soát lại</div><ul>';
+      (it.must || []).forEach(function(m, i){
+        h += '<li><button type="button" class="bx" data-t="' + i + '">' + (ticked.indexOf(i) > -1 ? "☑" : "☐") +
+             "</button>" + esc(m) + "</li>";
+      });
+      h += "</ul></div>";
+    }else{
+      h += '<p class="dt-hint">Thang tự soát hiện <b>sau khi hết giờ</b>. <b>Nói thành tiếng</b>, đừng nghĩ thầm.</p>';
+    }
+    h += '</div><div class="ot-bar">';
+    if(!on && !done) h += '<button type="button" class="btn go" data-go1>Bắt đầu nói</button>';
+    if(on) h += '<button type="button" class="btn" data-stop>Dừng</button>';
+    if(done) h += '<button type="button" class="btn go" data-again>Nói lại</button>';
+    body.innerHTML = h + "</div>";
+    var b;
+    if((b = body.querySelector("[data-go1]"))) b.onclick = run;
+    if((b = body.querySelector("[data-stop]"))) b.onclick = function(){ stop(); done = true; draw(); };
+    if((b = body.querySelector("[data-again]"))) b.onclick = function(){ stop(); left = it.seconds; done = false; ticked = []; draw(); };
+    body.querySelectorAll(".tm-must .bx").forEach(function(x){
+      x.onclick = function(){
+        var i = +x.getAttribute("data-t"), at = ticked.indexOf(i);
+        if(at > -1) ticked.splice(at, 1); else ticked.push(i);
+        draw();
+      };
+    });
+  }
+  /* Chi ve lai DONG HO va THANH moi giay — ve ca buoc thi nut Dung bi thay lien tuc. */
+  function run(){
+    coStopTimers();            // moi luc chi mot dong ho chay
+    stop(); left = it.seconds; on = true; done = false; draw();
+    tick = setInterval(function(){
+      left--;
+      var c = body.querySelector("[data-clock]"), r = body.querySelector("[data-ring]");
+      if(!c || !document.body.contains(c)){ stop(); return; }
+      c.textContent = tmFmt(Math.max(0, left));
+      r.style.width = Math.max(0, Math.round(left * 100 / it.seconds)) + "%";
+      if(left <= 0){ stop(); done = true; speak("Time is up.", 0.9); draw(); }
+    }, 1000);
+    CO_TIMERS.push(tick);
+  }
+  draw();
+}
+
+/* ---- buoc: de noi / viet (bai mau va thang tu cham hien SAU) ---- */
+function coPrompt(body, it, pfx){
+  if(!it){ body.innerHTML = '<p class="dt-hint">Không tìm thấy đề.</p>'; return; }
+  var said = "", reveal = false, ticked = [];
+  function draw(){
+    var h = '<p class="tm-task">' + esc(it.task) + "</p>" +
+            '<div class="pr-must"><div class="hd">Bắt buộc có</div><ul>';
+    (it.must || []).forEach(function(m){ h += "<li>" + esc(m) + "</li>"; });
+    h += "</ul></div>";
+    if(it.mode === "write"){
+      h += '<textarea class="pr-work" data-work placeholder="Viết bài của bạn ở đây…">' + esc(said) + "</textarea>" +
+           '<p class="pr-count" data-count>0 từ</p>';
+    }else{
+      h += '<div class="dt-card"><p class="dt-hint" style="margin:0"><b>Nói thành tiếng</b> rồi mới bấm xem bài mẫu. ' +
+           "Thu lại bằng điện thoại để nghe lại càng tốt.</p></div>";
+    }
+    if(reveal){
+      h += '<div class="pr-model"><div class="hd">Bài mẫu — một cách làm, không phải cách duy nhất</div>' +
+             '<div class="bd">' + esc(it.model || "") + "</div></div>" +
+           '<div class="pr-check"><div class="hd">Tự chấm</div>';
+      (it.check || []).forEach(function(q, i){
+        var on = ticked.indexOf(i) > -1;
+        h += '<div class="q"><button type="button" class="bx' + (on ? " on" : "") + '" data-c="' + i + '">' +
+             (on ? "✓" : "") + "</button>" + esc(q) + "</div>";
+      });
+      h += "</div>";
+    }else{
+      h += '<div class="ot-bar"><button type="button" class="btn go" data-show>Tôi làm xong rồi — xem bài mẫu</button></div>';
+    }
+    body.innerHTML = h;
+    var work = body.querySelector("[data-work]");
+    if(work){
+      var count = function(){
+        var n = work.value.trim() ? work.value.trim().split(/\s+/).length : 0;
+        body.querySelector("[data-count]").textContent = n + " từ";
+      };
+      work.addEventListener("input", function(){ said = work.value; count(); });
+      count();
+    }
+    var sh = body.querySelector("[data-show]");
+    if(sh) sh.onclick = function(){ reveal = true; draw(); };
+    body.querySelectorAll(".pr-check .bx").forEach(function(b){
+      b.onclick = function(){
+        var i = +b.getAttribute("data-c"), at = ticked.indexOf(i);
+        if(at > -1) ticked.splice(at, 1); else ticked.push(i);
+        draw();
+      };
+    });
+  }
+  draw();
+}
+
+/* ---- buoc: TOEIC — de bai hoan toan tieng Anh, cham ngay tung cau ----
+   Part 2: chi co tieng (cau hoi va lua chon KHONG in ra cho den khi tra loi).
+   Part 3: hoi thoai la tieng, cau hoi co in. Part 5 / 7: doc. */
+function coToeic(body, s, pfx){
+  var bank = tcBank(s.part), meta = tcPart(s.part) || {};
+  var list = s.tag ? bank.filter(function(q){ return q.tag === s.tag; })
+                   : bank.slice(s.from || 0, s.to == null ? bank.length : s.to);
+  var groups = list.map(function(it){ return { it: it, qs: tcQs(it) }; });
+  var ans = {}, L = "ABCD";
+  function key(i, j){ return i + ":" + j; }
+  function draw(){
+    var total = 0, ok = 0, seen = 0;
+    var h = (meta.desc ? '<p class="dt-hint">' + esc(meta.desc) + "</p>" : "") +
+            (meta.tip ? '<div class="callout">' + meta.tip + "</div>" : "");
+    groups.forEach(function(g, i){
+      var it = g.it;
+      h += '<div class="pt-q co-tc">';
+      if(it.qs && it.lines){                     // Part 3 — hoi thoai nghe
+        h += '<div class="no">' + esc(it.who || "Conversation") + "</div>" +
+             '<div class="ot-bar" style="margin:4px 0 10px"><button type="button" class="btn" data-play="' + i + '">🔊 Nghe hội thoại</button></div>';
+      }else if(it.qs){                           // Part 7 — van ban
+        h += '<div class="no">' + esc(it.label || it.kind || "") + (it.title ? " · " + esc(it.title) : "") + "</div>" +
+             '<div class="co-doc">' + (it.head || []).map(function(r){ return "<div><b>" + esc(r[0]) + ":</b> " + esc(r[1]) + "</div>"; }).join("") +
+             (it.text || []).map(function(p){ return "<p>" + esc(p) + "</p>"; }).join("") + "</div>";
+      }
+      g.qs.forEach(function(q, j){
+        var k = key(i, j), pick = ans[k], done = pick != null, audio2 = !it.qs && meta.audio;
+        total++; if(done){ seen++; if(pick === q.a) ok++; }
+        h += '<div class="co-tq">';
+        if(audio2){
+          h += '<div class="ot-bar" style="margin:0 0 8px"><button type="button" class="btn" data-say2="' + i + '">🔊 Nghe câu hỏi và 3 câu đáp</button></div>';
+          if(done) h += '<div class="en">' + esc(q.q) + "</div>";
+        }else{
+          h += '<div class="en">' + (g.qs.length > 1 ? (j + 1) + ". " : "") + esc(q.q) + "</div>";
         }
-      }, 80);
+        var labels = q.opts.map(function(o, z){ return "(" + L[z] + ") " + (audio2 && !done ? "" : esc(o)); });
+        h += coOptsHTML(k, labels, pick == null ? null : pick, done, q.a, pfx);
+        if(done){
+          h += '<p class="pt-why' + (pick === q.a ? "" : " bad") + '">' + (pick === q.a ? "✓ " : "✗ Đáp án: <b>(" + L[q.a] + ")</b>. ") +
+               (q.why || "") + (q.trap ? "<br>" + q.trap : "") + "</p>";
+        }
+        h += "</div>";
+      });
+      if(it.qs && it.lines && g.qs.every(function(q, j){ return ans[key(i, j)] != null; })){
+        h += '<div class="co-doc">' + it.lines.map(function(ln){ return "<div><b>" + esc(ln[0]) + ":</b> " + esc(ln[1]) + "</div>"; }).join("") + "</div>";
+      }
+      h += "</div>";
+    });
+    h += '<p class="dt-hint co-score">Đã làm ' + seen + "/" + total + " câu · đúng " + ok + "</p>";
+    body.innerHTML = h;
+    body.querySelectorAll(".pt-opts button").forEach(function(b){
+      b.onclick = function(){ ans[b.getAttribute("data-q")] = +b.getAttribute("data-o"); draw(); };
+    });
+    body.querySelectorAll("[data-play]").forEach(function(b){
+      b.onclick = function(){ speakSeq(groups[+b.getAttribute("data-play")].it.lines.map(function(l){ return l[1]; }), 0.95); };
+    });
+    body.querySelectorAll("[data-say2]").forEach(function(b){
+      b.onclick = function(){
+        var q = groups[+b.getAttribute("data-say2")].it;
+        speakSeq([q.q].concat(q.opts.map(function(o, z){ return L[z] + ". " + o; })), 0.95);
+      };
+    });
+  }
+  draw();
+}
+
+/* ---- buoc: kiem tra chang ----
+   Chang 1-12: rut tu pairs/quiz cua cac bai trong nhom (cpHarvest, muc 21b).
+   Chang 0: rut tu 26 bai Nhap mon theo dung cach do.
+   Chang 13: rut tu cau vi du cua tu vung — duc lo dung tu do, 4 lua chon CUNG CHU DE.
+   Chi lay cau ma tu xuat hien NGUYEN DANG trong cau, de dap an dung la duy nhat. */
+function coCheckPool(key){
+  if(key === "s0"){
+    var ids = (BFLAT || []).map(function(b){ return b.id; });
+    return Promise.all(ids.map(loadBasic)).then(function(d){ return cpHarvest(d.filter(Boolean)); });
+  }
+  if(key === "s13"){
+    var x = ltStages().filter(function(s){ return s.n === 13; })[0];
+    var out = [];
+    (x ? x.topics : []).forEach(function(t){
+      var ws = ((CINDEX && CINDEX.words) || []).filter(function(w){ return w[3] === t; });
+      ws.forEach(function(w){
+        var re = new RegExp("\\b" + w[0].replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "\\b", "i");
+        if(!w[4] || !re.test(w[4])) return;
+        var others = cpShuffle(ws.filter(function(o){ return o[0] !== w[0] && !re.test(o[0]) &&
+                       !new RegExp("\\b" + o[0].replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + "\\b", "i").test(w[4]); }))
+                       .slice(0, 3).map(function(o){ return o[0]; });
+        if(others.length < 3) return;
+        var opts = cpShuffle([w[0]].concat(others));
+        out.push({ kind: "gap", vi: w[5] || "", q: w[4].replace(re, "_____"),
+                   opts: opts.map(esc), a: opts.indexOf(w[0]),
+                   why: "<b>" + esc(w[0]) + "</b> — " + esc(w[2]), lesson: 0, title: ltTopicName(t) });
+      });
+    });
+    return Promise.resolve(out);
+  }
+  return cpLoadGroup(key).then(cpHarvest);
+}
+function coCheck(body, key, x, pfx){
+  var qs = null, ans = null, done = false, res = null;
+  function start(){
+    body.innerHTML = '<p style="color:var(--muted)">Đang chuẩn bị đề…</p>';
+    return coCheckPool(key).then(function(all){
+      if(all.length < 5){ body.innerHTML = '<p class="dt-hint">Chưa đủ câu để ra đề.</p>'; return; }
+      qs = cpPick(all); ans = qs.map(function(){ return null; }); done = false; res = null;
+      draw();
+    });
+  }
+  function draw(){
+    var left = ans.filter(function(a){ return a === null; }).length;
+    var prev = cpAllRes()[key];
+    var h = '<p class="dt-hint">' + qs.length + " câu, đảo thứ tự mỗi lần làm. Đạt từ " + ltPass().check +
+            "% là qua phần kiểm tra của chặng" + (prev && !done ? " · lần trước: <b>" + prev.pc + "%</b>" : "") + ".</p>";
+    if(done){
+      var pass = res.pc >= ltPass().check;
+      h += '<div class="pt-res"><div class="lv">' + res.pc + '%</div><div class="lvn">Đúng ' + res.ok + " / " + res.n +
+           ' câu</div><p class="say">' + (pass ? "Đạt. Phần kiểm tra của chặng này đã xong."
+           : "Chưa đạt. Xem lại các câu sai bên dưới, ôn lại bài liên quan rồi làm đề khác.") + "</p></div>";
+    }
+    qs.forEach(function(q, i){
+      var ok = ans[i] === q.a;
+      h += '<div class="pt-q' + (ans[i] !== null ? " done" : "") + '"><div class="no">Câu ' + (i + 1) + " / " + qs.length + "</div>" +
+           (q.vi ? '<div class="vi">' + esc(q.vi) + "</div>" : "") + (q.q ? '<div class="en">' + esc(q.q) + "</div>" : "") +
+           coOptsHTML(i, q.opts, ans[i], done, q.a, pfx);
+      if(done) h += '<p class="pt-why' + (ok ? "" : " bad") + '">' + (ok ? "✓ Đúng. " : "✗ Đáp án đúng: <b>" + q.opts[q.a] + "</b>. ") +
+                    q.why + (q.lesson && !ok ? " <i>(" + esc(q.title) + ")</i>" : "") + "</p>";
+      h += "</div>";
+    });
+    h += '<div class="ot-bar">' + (done ? '<button type="button" class="btn go" data-again>Làm lại đề khác</button>'
+         : '<button type="button" class="btn go" data-done' + (left ? " disabled" : "") + ">" +
+           (left ? "Còn " + left + " câu chưa chọn" : "Chấm bài") + "</button>") + "</div>";
+    body.innerHTML = h;
+    body.querySelectorAll(".pt-opts button").forEach(function(b){
+      b.onclick = function(){ ans[+b.getAttribute("data-q")] = +b.getAttribute("data-o"); draw(); };
+    });
+    var d = body.querySelector("[data-done]");
+    if(d) d.onclick = function(){
+      var ok = qs.filter(function(q, i){ return ans[i] === q.a; }).length;
+      res = { ok: ok, n: qs.length, pc: Math.round(ok * 100 / qs.length), at: Date.now() };
+      cpSaveRes(key, res);
+      done = true; draw(); buildRoadmapSide();
+      if(body.scrollIntoView) body.scrollIntoView({ block: "start" });
     };
-  });
-  mainEl.querySelectorAll("[data-cp]").forEach(function(b){
-    b.onclick = function(){
-      var g = parseInt(b.getAttribute("data-cp"), 10);
-      show("cp");
-      setTimeout(function(){ if(typeof cpStart === "function") cpStart(g); }, 80);
-    };
-  });
-  buildList("");
+    var ag = body.querySelector("[data-again]");
+    if(ag) ag.onclick = start;
+  }
+  return start();
+}
+
+/* ---- buoc: can-do (tu xac nhan, khong cho diem) ---- */
+function coCando(body, s, pfx){
+  function find(k){
+    var p = k.split("|"), lv = ((CANDO && CANDO.levels) || []).filter(function(l){ return l.lv === p[0]; })[0];
+    return lv ? lv.items[+p[1]] : null;
+  }
+  function draw(){
+    var done = cdDone();
+    var h = '<p class="dt-hint">Không chấm điểm. Làm thử đề tự kiểm chứng, đạt đúng mốc thì mới tích.</p>';
+    (s.items || []).forEach(function(k){
+      var it = find(k);
+      if(!it) return;
+      var on = done.indexOf(k) > -1;
+      h += '<div class="co-cd' + (on ? " on" : "") + '"><button type="button" class="bx" data-k="' + escAttr(k) + '">' +
+           (on ? "☑" : "☐") + "</button><div><b>" + it.do + '</b><div class="tk"><i>Thử:</i> ' + it.task +
+           '</div><div class="tk"><i>Đạt khi:</i> ' + it.ok + "</div></div></div>";
+    });
+    body.innerHTML = h;
+    body.querySelectorAll("[data-k]").forEach(function(b){
+      b.onclick = function(){
+        var k = b.getAttribute("data-k"), list = cdDone().slice(), at = list.indexOf(k);
+        if(at > -1) list.splice(at, 1); else list.push(k);
+        cdSave(list); draw();
+      };
+    });
+  }
+  draw();
+}
+
+/* ---- chan trang: Hoan thanh bai + Truoc / Sau ---- */
+function coMark(l, on){
+  var i = coDone.indexOf(l.id);
+  if(on && i < 0) coDone.push(l.id);
+  if(!on && i > -1) coDone.splice(i, 1);
+  save("co_done", coDone);
+  // Bai chinh xong thi bai goc cung xong — tab Ngu phap / Nhap mon / Ky nang khong lech
+  if(on && (l.kind === "main" || l.kind === "skill")){
+    l.steps.forEach(function(s){
+      var arr = s.t === "grammar" ? ngDone : s.t === "basic" ? nmDone : s.t === "skill" ? skDone : null;
+      var key = s.t === "grammar" ? "ng_done" : s.t === "basic" ? "nm_done" : "sk_done";
+      if(arr && arr.indexOf(s.id) < 0){ arr.push(s.id); save(key, arr); }
+    });
+  }
+}
+function coFooter(f){
+  var l = f.l, all = f.all;
+  var pv = f.at > 0 ? all[f.at - 1].l : null, nx = f.at < all.length - 1 ? all[f.at + 1].l : null;
+  var bar = document.createElement("div");
+  bar.className = "done-bar";
+  var mark = document.createElement("button");
+  mark.className = "btn" + (coIsDone(l.id) ? "" : " go");
+  mark.textContent = coIsDone(l.id) ? "✓ Đã hoàn thành bài" : "Hoàn thành bài này";
+  mark.onclick = function(){
+    var on = !coIsDone(l.id);
+    coMark(l, on);
+    if(on && nx) coOpen(nx.id); else { buildRoadmapSide(); coDraw(); }
+  };
+  bar.appendChild(mark);
+  var nav = document.createElement("div");
+  nav.className = "nav";
+  if(pv){
+    var pb = document.createElement("button");
+    pb.className = "btn"; pb.textContent = "← Bài trước";
+    pb.title = pv.title; pb.onclick = function(){ coOpen(pv.id); };
+    nav.appendChild(pb);
+  }
+  if(nx){
+    var nb = document.createElement("button");
+    nb.className = "btn"; nb.textContent = "Bài sau →";
+    nb.title = nx.title; nb.onclick = function(){ coOpen(nx.id); };
+    nav.appendChild(nb);
+  }
+  bar.appendChild(nav);
+  mainEl.appendChild(bar);
+}
+function coStepLesson(d){
+  var f = coFind(LT.open);
+  if(!f) return;
+  var to = f.all[f.at + d];
+  if(to) coOpen(to.l.id);
+}
+
+/* Mo mot chu de trong tab Tu vung — giu cho cac noi khac con goi. */
+function vcOpenTopic(id){
+  VC.q = ""; VC.hot = false; VC.lv = ""; VC.sel = "";
+  VC.topic = id; VC.page = 1;
+  show("vc");
 }
 
 /* ===================== LUYEN TOEIC (muc 25) =====================
@@ -5407,6 +6319,7 @@ function show(id){
   // Dong ho dem nguoc cua trang Noi bam gio phai dung khi roi trang, khong thi
   // no chay ngam va vai phut sau bat ngo doc "Time is up" giua mot bai khac.
   if(id !== "tm" && typeof tmStop === "function") tmStop();
+  if(id !== "lt" && typeof coStopTimers === "function") coStopTimers();
   if(id !== "rd") mainEl.classList.remove("rd-big");
   // Roi tab TOEIC thi tat tieng dang doc, khong thi no doc tiep sang trang khac
   if(id !== "tc"){ try{ if(window.speechSynthesis) speechSynthesis.cancel(); }catch(e){} }
@@ -5550,8 +6463,14 @@ function wireGo(root){
     };
   });
 }
-function decorate(){
-  mainEl.querySelectorAll(".ex .en, .dlg .line .en, .bk-d .en").forEach(function(p){
+/* root: vung can gan su kien (mac dinh mainEl). Khoa hoc nhung nhieu bai vao mot
+   trang va co the goi lai sau moi buoc tai xong — phan tu nao da gan thi danh dau
+   data-dec, chay lai khong nhan doi nut loa hay nut "Xem dap an". */
+function decorate(root){
+  root = root || mainEl;
+  root.querySelectorAll(".ex .en, .dlg .line .en, .bk-d .en").forEach(function(p){
+    if(p.hasAttribute("data-dec")) return;
+    p.setAttribute("data-dec", "1");
     var b = document.createElement("button");
     b.className = "say"; b.type = "button"; b.title = "Nghe"; b.textContent = "\uD83D\uDD0A";
     b.onclick = function(){
@@ -5562,7 +6481,7 @@ function decorate(){
     };
     p.appendChild(b);
   });
-  mainEl.querySelectorAll(".bk-sit").forEach(function(s){
+  root.querySelectorAll(".bk-sit").forEach(function(s){
     s.onclick = function(){
       var g = s.parentNode;
       var open = g.classList.toggle("open");
@@ -5570,7 +6489,7 @@ function decorate(){
       if(open) s.scrollIntoView({block:"nearest"});
     };
   });
-  mainEl.querySelectorAll(".bk-row").forEach(function(r){
+  root.querySelectorAll(".bk-row").forEach(function(r){
     r.onclick = function(){
       var bank = r.closest(".bank");
       bank.querySelectorAll(".bk-row").forEach(function(x){ x.classList.remove("on"); });
@@ -5583,8 +6502,10 @@ function decorate(){
       }
     };
   });
-  wireGo(mainEl);
-  mainEl.querySelectorAll(".q").forEach(function(q){
+  wireGo(root);
+  root.querySelectorAll(".q").forEach(function(q){
+    if(q.hasAttribute("data-dec")) return;
+    q.setAttribute("data-dec", "1");
     var ans = document.createElement("div");
     ans.className = "ans";
     ans.innerHTML = "&rarr; " + q.getAttribute("data-a");
@@ -5619,6 +6540,13 @@ document.addEventListener("keydown", function(e){
   if(!INDEX || e.target.tagName === "INPUT") return;
   var m = modeOf(current);
   if(!m) return;
+  // Khoa hoc: phim mui ten di theo thu tu bai cua khoa hoc
+  if(m === "lt"){
+    if(!LT.open || e.target.tagName === "TEXTAREA") return;
+    if(e.key === "ArrowRight") coStepLesson(1);
+    if(e.key === "ArrowLeft")  coStepLesson(-1);
+    return;
+  }
   var flat = ctx(m).flat;
   if(!flat.length) return;
   var num = m === "kc" ? current : gNum(current);
@@ -5672,6 +6600,10 @@ loadIndex().then(function(idx){
   // Lộ trình nạp NGAY lúc khởi động vì nó là tab mặc định — không để người học
   // mở app ra nhìn một trang "đang tải".
   ROADMAP = (rm && (rm.stages || []).length) ? rm : null;
+  return loadCourse().catch(function(){ return null; });
+}).then(function(co){
+  // Khoa hoc cung nap ngay luc khoi dong — tab mac dinh
+  COURSE = (co && (co.stages || []).length) ? co : null;
   return loadCando().catch(function(){ return null; });
 }).then(function(cd){
   // Thieu file nay thi tab Ngu phap chi mat trang "Ban dang o dau"

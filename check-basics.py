@@ -5,7 +5,8 @@ Soat cac bai NHAP MON trong data/basics/ theo chuan muc 15 cua PLAN-NGU-PHAP.md.
 Chuan nay KHAC han chuan bai ngu phap (muc 6) — bai nhap mon day QUY TAC truoc,
 bay de cuoi va chi 2-3 cai, vi du phai nhieu va phai dung tu de.
 
-Chay:  python check-basics.py
+Chay:  python check-basics.py            # soat 26 bai nhap mon
+       python check-basics.py reading    # soat chu ngoai von A1 trong bai doc bac A1
 """
 import io, json, os, re, sys
 
@@ -13,6 +14,8 @@ ROOT   = os.path.dirname(os.path.abspath(__file__))
 DIR    = os.path.join(ROOT, "data", "basics")
 BINDEX = os.path.join(ROOT, "data", "basics.json")
 VOCAB  = os.path.join(ROOT, "data", "vocab.json")
+VERBS  = os.path.join(ROOT, "data", "verbs.json")
+READING = os.path.join(ROOT, "data", "reading.json")
 
 # (so vi du toi thieu, so cau quiz, so cap bay TOI DA)
 MIN_EX, N_QUIZ, MAX_PAIRS = 20, 12, 3
@@ -138,7 +141,69 @@ def a1_words():
     return out or None
 
 
+def past_forms():
+    """V2 / V3 bat quy tac -> V1, lay tu chinh data/verbs.json (khong viet tay
+    danh sach thu hai). 'went' la dang cua 'go', khong phai tu la."""
+    out = {}
+    if os.path.isfile(VERBS):
+        for v in read(VERBS).get("verbs", []):
+            for f in (v[1], v[2]):
+                for x in re.split(r"[/ ,]+", f):
+                    if x:
+                        out[x.lower()] = v[0].lower()
+    return out
+
+
+def check_reading():
+    """Bai doc bac A1 (muc 26): moi chu tieng Anh trong bai, cau hoi va lua chon
+    phai nam trong von 400 tu A1 — hoac khai bao trong "teaches" cua bai do."""
+    a1 = a1_words() or set()
+    past = past_forms()
+    items = [x for x in read(READING).get("items", []) if x.get("lv") == "A1"]
+    bad = 0
+    for x in items:
+        txt = " ".join(x.get("text", []))
+        for q in x.get("q", []):
+            txt += " " + q.get("q", "") + " " + " ".join(q.get("opts", []))
+        known = a1 | STOP | set(w.lower() for w in x.get("teaches", []))
+        # "names": ten rieng (nguoi, noi chon) — o dau cau thi khong phan biet duoc
+        # voi tu thuong bang chu hoa, nen phai khai bao
+        known |= set(w.lower() for w in x.get("names", []))
+        unk = set()
+        for m in WORD.finditer(txt):
+            w = m.group(0)
+            if w[0].isupper() and m.start() > 0:
+                before = txt[:m.start()].rstrip()
+                if before and before[-1] not in ".!?":
+                    continue        # ten rieng giua cau
+            w = w.lower()
+            forms = base_forms(w)
+            if w in past:
+                forms.add(past[w])
+            if not (forms & known):
+                unk.add(w)
+        n = len(" ".join(x.get("text", [])).split())
+        errs = []
+        if unk:
+            errs.append("tu ngoai von A1: " + ", ".join(sorted(unk)))
+        if not (150 <= n <= 300):
+            errs.append("%d tu, chuan A1 la 150-300" % n)
+        if errs:
+            bad += 1
+            print("bai doc %s (%s)" % (x["id"], x.get("title")))
+            for e in errs:
+                print("   - " + e)
+    if bad:
+        print("")
+        print("%d/%d bai doc A1 co van de." % (bad, len(items)))
+        return 1
+    print("Sach — %d/%d bai doc A1 chi dung von 400 tu A1." % (len(items), len(items)))
+    return 0
+
+
 def main():
+    if len(sys.argv) > 1 and sys.argv[1] == "reading":
+        return check_reading()
     if not os.path.isdir(DIR):
         print("Chua co thu muc data/basics/")
         return 1
@@ -160,6 +225,7 @@ def main():
 
     bad = 0
     skipped = []
+    norecap = []
     for name in files:
         path = os.path.join(DIR, name)
         errs = []
@@ -171,8 +237,15 @@ def main():
             continue
 
         secs = doc.get("sections", [])
-        if len(secs) != N_SECTIONS:
-            errs.append("co %d muc, phai dung %d" % (len(secs), N_SECTIONS))
+        # Loi thoat thu ba: "noRecap": true -> bai phat am / chu cai bo muc 6
+        # "Nho ba dieu nay" (nguoi dung chot, muc 26); bat buoc kem "_whyNoRecap".
+        want_n = N_SECTIONS - 1 if doc.get("noRecap") else N_SECTIONS
+        if doc.get("noRecap"):
+            norecap.append(name)
+            if not doc.get("_whyNoRecap"):
+                errs.append("khai \"noRecap\" ma thieu \"_whyNoRecap\"")
+        if len(secs) != want_n:
+            errs.append("co %d muc, phai dung %d" % (len(secs), want_n))
         for i, want in enumerate(SECTION_TITLES):
             if i < len(secs):
                 got = secs[i].get("title", "")
@@ -226,6 +299,8 @@ def main():
     total = len(files)
     if skipped:
         print("  (bo qua soat tu cho bai day ky hieu: " + ", ".join(skipped) + ")")
+    if norecap:
+        print("  (bai bo muc 6 'Nho ba dieu nay': " + ", ".join(norecap) + ")")
     if bad:
         print("\n%d/%d bai co van de." % (bad, total))
         return 1

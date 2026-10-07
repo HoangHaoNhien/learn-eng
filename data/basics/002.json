@@ -3,6 +3,8 @@
   "title": "Đọc ký hiệu phiên âm — nguyên âm",
   "skipWordCheck": true,
   "_whySkip": "Bài này dạy KÝ HIỆU, nên phần tiếng Anh là các từ mẫu một âm tiết dùng để minh hoạ âm, không phải câu — soát theo từ vựng A1 sẽ báo nhầm.",
+  "noRecap": true,
+  "_whyNoRecap": "Bài phát âm / chữ cái: phần Ví dụ và Tự kiểm tra đã là luyện đọc từng ký hiệu, mục tóm tắt cuối bài chỉ lặp lại — bỏ theo yêu cầu người dùng (mục 26).",
   "sections": [
     {
       "title": "Bài này dạy gì",
@@ -121,21 +123,6 @@
         { "t": "quiz", "items": [
           { "vi": "Mở tab Từ vựng, tìm từ <i>teacher</i>, đọc to phiên âm của nó.", "a": "<code>/ˈtiːtʃə/</code> — âm tiết hai lướt nhẹ thành <code>/ə/</code>" },
           { "vi": "Tìm ba từ trong tab Từ vựng có chứa <code>/ə/</code>.", "a": "Rất nhiều — hầu như từ nào từ hai âm tiết trở lên cũng có" }
-        ] }
-      ]
-    },
-    {
-      "title": "Nhớ ba điều này",
-      "blocks": [
-        { "t": "list", "items": [
-          "<b>Chữ viết nói dối, phiên âm thì không.</b> Thấy từ lạ, đừng đoán theo mặt chữ — nhìn phần <code>/ /</code> trong tab Từ vựng.",
-          "<b><code>/ə/</code> là ký hiệu quan trọng nhất.</b> Nó đánh dấu chỗ được đọc lướt. Đọc rõ mọi âm tiết là lý do câu tiếng Anh của người Việt nghe cứng.",
-          "<b>Dấu <code>ː</code> chỉ nghĩa là dài hơn.</b> Nhưng dài ngắn đổi cả nghĩa: <i>sit</i> ≠ <i>seat</i>, <i>full</i> ≠ <i>fool</i>."
-        ] },
-        { "t": "pairs", "items": [
-          { "wrong": "<i>book</i> đọc “búc” kéo dài", "right": "<i>book</i> = <code>/bʊk/</code>, âm <code>/ʊ/</code> ngắn", "why": "Người Việt hay kéo dài mọi nguyên âm. Nhưng <code>/ʊ/</code> ngắn và <code>/uː/</code> dài là hai âm khác nhau — <i>full</i> /fʊl/ và <i>fool</i> /fuːl/ là hai từ." },
-          { "wrong": "<i>teacher</i> đọc “ti-chơ” rõ hai tiếng đều nhau", "right": "<i>teacher</i> = <code>/ˈtiːtʃə/</code> — tiếng sau lướt nhẹ", "why": "Tiếng Việt mỗi âm tiết một thanh rõ ràng nên ta quen đọc đều. Tiếng Anh thì âm tiết không nhấn phải nhẹ hẳn đi, nếu không nghe như đang đánh vần." },
-          { "wrong": "<i>go</i> đọc “gô”", "right": "<i>go</i> = <code>/ɡəʊ/</code>, bắt đầu bằng “ơ”", "why": "<code>/əʊ/</code> là âm đôi trượt từ “ơ” sang “u”, không phải “ô” đứng yên. Đây là âm làm giọng Việt lộ rõ nhất khi nói tiếng Anh." }
         ] }
       ]
     }

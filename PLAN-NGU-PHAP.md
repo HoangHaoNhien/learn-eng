@@ -1418,6 +1418,56 @@ bấm giờ). Các part làm: **5 · 7 · 2 · 3**.
 
 ---
 
+## 26. KHÓA HỌC A0 → B2 — biến Lộ trình thành bài học
+
+**Vấn đề:** tab Lộ trình (mục 24) chỉ là **bảng chip**: bấm chip nào cũng nhảy sang tab
+khác. Người học phải tự ráp ngữ pháp, từ vựng, khung câu, bài đọc, đề nói thành một buổi
+học. Thêm năm chỗ hở khi soi theo cấp độ:
+
+| Chỗ hở | Hệ quả |
+|---|---|
+| 26 bài Nhập môn **nằm ngoài lộ trình** | người A0 không có chặng nào để bắt đầu |
+| Chặng 1–3 **không có bài đọc**, bài ngắn nhất 395 từ (A2) | 7 chủ đề A1 không bao giờ được đọc trong ngữ cảnh |
+| Không đề nói cho A0 và chặng 13, **không đề viết trước chặng 4** | ba chặng đầu chỉ nhận, không sản sinh |
+| Không can-do cho chặng 2, 8, 9, 13; chặng 0 và 13 không có kiểm tra | không tự đo được ở bốn chặng |
+| Trong chặng **cấp độ lệch**: chặng 1 mở bằng bài 43, 52 (A2–B1) | người mới vấp ngay bài đầu |
+
+**Cách làm đã chốt (người dùng):** *biến tab Lộ trình thành khóa học; mở bài là toàn bộ nội
+dung hiện ngay trong bài, không phải click sang mục khác; chia theo cấp và lộ trình từ A0 đến
+B2; phân tích để đưa các mục sẵn có vào bài cho hợp lý; nội dung không đủ thì bổ sung.*
+
+| Quyết định | Chốt |
+|---|---|
+| Đơn vị | **Cấp → Chặng → Bài → Bước**; 14 chặng (thêm chặng 0 = Nhập môn) |
+| Dữ liệu | `data/course.json` **tự sinh** bằng `make-course.py` — chỉ giữ chỗ trỏ, không chép nội dung |
+| Thứ tự trong chặng | bài chính **dễ → khó** theo nhãn Trình độ; 4 bài B2–C1 là **tuỳ chọn** |
+| Khung câu | **gán tay 100 khung** vào bài chủ nhà (`FRAME_HOME`) — liên kết sẵn có không tin được |
+| Trạng thái mới | **đúng một khoá `co_done`** — ngoại lệ có chủ đích với mục 24 |
+| Tab mặc định | Khóa học (`kc_mode` mặc định `"lt"`) |
+
+### Nội dung bổ sung
+
+| Bổ sung | Số lượng | Chuẩn |
+|---|---|---|
+| Bài đọc A1 (id 25–31), một bài mỗi chủ đề `a1-*` | 7 bài, 173–193 từ | chỉ vốn 400 từ A1 — `check-basics.py reading` |
+| Đề nói bấm giờ `st: 0` (A0) và `st: 13` | 6 + 3 | có `start`, thang `must` ≥3 ý |
+| Đề viết A1–A2 `st: 1–3` | 6 | có `must`, `model`, `check` ≥3 câu |
+| Can-do chặng 2, 8, 9, 13 | 6 việc | có `task` + `ok`, gắn bài thật; thêm **cuối** bậc |
+| Kiểm tra chặng 0 và 13 | 0 đề viết mới | rút từ bài Nhập môn / đục lỗ câu ví dụ từ vựng |
+
+> **✅ XONG 07/10/2026.** 14 chặng · **194 bài** · phủ kín 26/66/22 bài · 31/31 bài đọc ·
+> 45/45 đề nói · 50/50 đề nói-viết · 100/100 khung · 2.002/2.002 từ.
+>
+> *Ba việc tự bắt được khi dựng:*
+> 1. `coOpen()` gọi thẳng (không qua tab) thì bước Đọc / Nói / TOEIC báo *“Không tìm thấy”*
+>    — dữ liệu phụ chưa nạp. Nay mọi đường vào bài đi qua `coEnsure()`.
+> 2. Nút **Nhớ** trong bài gọi `srsGrade()`, ghi luôn **nhật ký ôn tập** — khối smoke của mục
+>    này làm lệch ba kiểm tra Ôn tập chạy sau. Nay khối tự trả `otLog` về nguyên trạng.
+> 3. `produce.json` / `cando.json` là JSON **định dạng tay**: ghi lại bằng `json.dump` biến
+>    diff 70 dòng thành cả file. Mục mới được **chèn theo đúng khuôn** sẵn có.
+
+---
+
 ## ✅ PHẦN II HOÀN TẤT — 05/10/2026
 
 | Mục | Nội dung | Kết quả |

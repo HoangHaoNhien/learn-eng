@@ -6,7 +6,10 @@ C:\Eng\
 ├─ start.bat                  ← chạy web server (đọc thẳng .json)
 ├─ build.bat / build.py       ← gom .json → data/bundle.js (để mở bằng file://)
 ├─ check-grammar.py           ← soát độ dày 66 bài ngữ pháp
-├─ check-basics.py            ← soát 26 bài nhập môn A0 (gồm cả rà từ ngoài vốn A1)
+├─ check-basics.py            ← soát 26 bài nhập môn A0 (gồm cả rà từ ngoài vốn A1);
+│                                 `check-basics.py reading` soát 7 bài đọc A1
+├─ make-course.py             ← sinh data/course.json: chia 14 chặng thành bài học (mục 26)
+├─ smoke.js                   ← kiểm thử toàn trang bằng jsdom (`node smoke.js`)
 ├─ linkterms.py               ← chèn dòng nhắc thuật ngữ vào đầu mỗi bài ngữ pháp
 ├─ addipa.py                  ← nạp phiên âm IPA vào vocab.json từ bảng TSV
 ├─ backlink.py                ← rải tham chiếu ngược khung câu → ngữ pháp
@@ -19,8 +22,9 @@ C:\Eng\
    ├─ placement.json          ← 30 câu kiểm tra đầu vào (mục 21a)
    ├─ cando.json              ← 24 việc làm được theo bậc CEFR (mục 21c)
    ├─ produce.json            ← đề nói / viết có thang tự soát (mục 20)
-   ├─ reading.json            ← bài đọc dài 400–600 từ (mục 22)
+   ├─ reading.json            ← bài đọc: 24 bài 400–600 từ (mục 22) + 7 bài A1 150–250 từ (mục 26)
    ├─ roadmap.json            ← 13 chặng ghép ngữ pháp với từ vựng (mục 24)
+   ├─ course.json             ← TỰ SINH bằng make-course.py — khóa học 14 chặng, 194 bài (mục 26)
    ├─ toeic.json              ← bài tập theo định dạng đề TOEIC (mục 25)
    ├─ skills.json             ← mục lục 22 bài kỹ năng B2
    ├─ verbs.json              ← động từ bất quy tắc (mục lục + nội dung chung một file)
@@ -39,7 +43,7 @@ Trang có **bảy tab** ở góc trái, xếp theo thứ tự nên học:
 
 | Tab | Nguồn | Nội dung |
 |---|---|---|
-| **Lộ trình** | `roadmap.json` | 13 chặng — **tab đầu tiên, mở app là thấy** |
+| **Khóa học** | `course.json` + `roadmap.json` | 14 chặng A0 → B2, 194 bài, mọi nội dung học hiện **ngay trong bài** — **tab đầu tiên, mở app là thấy** |
 | **TOEIC** | `toeic.json` | luyện theo từng part — **tab cuối cùng** |
 | **Nhập môn** | `basics.json` + `basics/` | 26 bài A0 cho người bắt đầu từ con số 0 |
 | **Ngữ pháp** | `grammar.json` + `grammar/` | 66 bài, xếp theo thứ tự nên học |
@@ -89,12 +93,13 @@ Khác hẳn chuẩn bài ngữ pháp (mục 6): ở đó bẫy là trung tâm, �
 Từ nào lọt ra ngoài sẽ bị liệt kê kèm số bài. Đây là cái chặn bài A0 trôi ngược về
 kiểu cô đọng.
 
-**Hai lối thoát,** khai ngay trong file bài:
+**Ba lối thoát,** khai ngay trong file bài:
 
 | Khai báo | Dùng khi | Bắt buộc kèm |
 |---|---|---|
 | `"skipWordCheck": true` | bài dạy tên chữ cái hoặc ký hiệu IPA — phần tiếng Anh là `N, A, M` chứ không phải câu (bài 01–03) | `"_whySkip": "…"` giải thích lý do |
 | `"teaches": ["word", …]` | bài tự định nghĩa từ đó tại chỗ | — |
+| `"noRecap": true` | bài phát âm / chữ cái **bỏ mục 6** *Nhớ ba điều này* — còn 5 mục (bài 01–03, người dùng chốt) | `"_whyNoRecap": "…"` |
 
 Mỗi lần chạy, script **in ra** bài nào đã dùng lối thoát, nên không ai giấu được việc
 tắt kiểm tra.
@@ -600,6 +605,8 @@ người *dùng được* ngữ pháp.
 ```
 
 * `g` — nhóm ngữ pháp 1–12 · `seconds` — thời lượng · `task` — đề bài
+* `st` — **thay cho `g`** ở đề không gắn nhóm ngữ pháp: số chặng khóa học (mục 26).
+  6 đề `st: 0` cho người mới A0 (30–45 giây) và 3 đề `st: 13` dùng collocation / phrasal verb
 * `start` — **câu mở lời**, thêm so với bản kế hoạch: 60 giây trống không có chỗ bám là
   chỗ người mới đứng hình, và họ bỏ bài chứ không phải vì không biết ngữ pháp
 * `must` — **thang tự soát**, hiện **sau khi hết giờ**, tích được từng ý
@@ -627,6 +634,8 @@ người *dùng được* ngữ pháp.
 ```
 
 * `s` — id bài Kỹ năng · `mode` — `speak` hoặc `write`
+* `st` — **thay cho `s`** ở đề gắn thẳng vào chặng khóa học: 6 đề viết A1–A2 cho chặng 1–3
+  (mục 26), vì trước chặng 4 khóa học không có đề viết nào
 * `must` — ý bắt buộc, hiện **trước** khi làm · `model` — bài mẫu · `check` — thang tự chấm
 
 > **Thứ tự trên trang là cố ý:** đề → ý bắt buộc → chỗ tự làm → **rồi mới** bài mẫu và
@@ -660,7 +669,7 @@ người *dùng được* ngữ pháp.
 
 ### `reading.json` — đọc đoạn dài (mục 22)
 
-Mỗi bài: **400–600 từ** + **5 câu hỏi** (2 ý chính · 2 chi tiết · 1 đoán nghĩa qua ngữ cảnh)
+Mỗi bài: **400–600 từ** (bậc A1: **150–300 từ**) + **5 câu hỏi** (2 ý chính · 2 chi tiết · 1 đoán nghĩa qua ngữ cảnh)
 + danh sách từ trỏ về tab Từ vựng. Đặt ở **tab Từ vựng**, không phải Kỹ năng — vì mỗi bài
 là một **chủ đề từ vựng đã soạn**, nhồi 15–25 từ của chủ đề đó vào ngữ cảnh thật.
 
@@ -680,8 +689,15 @@ là một **chủ đề từ vựng đã soạn**, nhồi 15–25 từ của ch�
 > **Một bài — một chủ đề, không lặp.** `smoke.js` chốt cả việc này lẫn việc `id` phải
 > liên tục từ 1. Hai bài cùng một chủ đề là phí một ô phủ sóng từ vựng.
 
-**Đủ 24 bài:** 20 chủ đề B2 + `colloc` · `phrasal` · `wfam` + 1 bài A2 (`a1-place`).
-Bậc: **A2 ×1 · B1 ×10 · B2 ×13** — có bài dễ để người chưa lên B2 vẫn vào được.
+**Đủ 31 bài, 31/31 chủ đề:** 20 chủ đề B2 + `colloc` · `phrasal` · `wfam` + 1 bài A2 (`a1-place`)
++ **7 bài A1** (id 25–31) cho bảy chủ đề `a1-*` còn lại — thêm ở mục 26 để chặng 1–3 của
+khóa học có bài đọc. Bậc: **A1 ×7 · A2 ×1 · B1 ×10 · B2 ×13**.
+
+> **Bài A1 chỉ dùng vốn 400 từ A1.** `python check-basics.py reading` quét bài, câu hỏi và
+> phương án, lột đuôi, hiểu động từ bất quy tắc (lấy từ `verbs.json`). Hai lối thoát khai
+> ngay trong bài: `"teaches"` cho vài từ của câu hỏi (*text, writer, mean…*) và `"names"`
+> cho tên riêng — tên đứng đầu câu không phân biệt được với từ thường bằng chữ hoa.
+> `build.py` nới chuẩn theo `lv`: A1 dài 150–300 từ và cần ≥10 từ chủ đề (bài khác ≥15).
 
 > **Bộ dò phải biết động từ bất quy tắc.** Cụm động từ chia ở **từ đầu**: *made a decision*,
 > *took over*. Bản đầu chỉ cho biến đổi ở từ cuối nên hai chủ đề `colloc` và `phrasal` bị
@@ -797,9 +813,110 @@ thứ tự, không đích đến, không biết đã xong tới đâu. `ctx("vc"
 > **không có đường nào đi tới**, và lỗi đó im lặng hoàn toàn. `build.py` và `smoke.js`
 > soát **cả hai chiều**: phủ kín 31/31 và không chủ đề nào lặp.
 
-> **Lưu ý khi thêm tab:** Lộ trình là **tab mặc định**, nên nó phải **tự nạp `reading.json`**.
-> `READING` vốn chỉ được nạp khi mở trang Đọc — không tự nạp thì mục *Bài đọc* của mọi
-> chặng biến mất cho đến khi người học tình cờ ghé tab Từ vựng.
+> **Lưu ý khi thêm tab:** Khóa học là **tab mặc định**, nên nó phải **tự nạp** `reading.json`,
+> `produce.json`, `toeic.json` (`coEnsure()`). Chúng vốn chỉ được nạp khi mở trang riêng —
+> không tự nạp thì bước Đọc / Nói / TOEIC của bài hiện *“Không tìm thấy”*.
+
+> Từ mục 26, `roadmap.json` chỉ còn giữ **mục tiêu, chủ đề và ngưỡng đạt** của 13 chặng;
+> phần chia bài nằm ở `course.json` bên dưới.
+
+## `course.json` — khóa học A0 → B2 (mục 26)
+
+Tab **Khóa học** (trước là *Lộ trình*) biến 13 chặng thành **194 bài học**, thêm **chặng 0**
+cho 26 bài Nhập môn. Mở một bài là **toàn bộ nội dung học hiện ngay trong bài** — không bước
+nào chuyển sang tab khác.
+
+| Cấp | Chặng | Nguồn chính |
+|---|---|---|
+| A0 | 0 | 26 bài Nhập môn |
+| A1–A2 | 1 · 2 · 3 | ngữ pháp nhóm 1–3 + chủ đề `a1-*` |
+| A2–B1 | 4 · 5 · 6 · 7 | nhóm 4–7 |
+| B1 | 8 · 9 · 10 | nhóm 8–10 |
+| B2 | 11 · 12 · 13 | nhóm 11–12 + chặng củng cố colloc / wfam / phrasal |
+
+**File này TỰ SINH** — đừng sửa tay, sửa luật trong `make-course.py` rồi chạy:
+
+```
+python make-course.py            # xem trước bảng phủ kín
+python make-course.py --write    # ghi data/course.json
+python build.py
+```
+
+```json
+{ "levels": [{ "id": "A0", "name": "Nhập môn", "stages": [0] }, …],
+  "stages": [{ "n": 4, "g": 4, "lv": "A2–B1", "topics": ["work", "edu"], "goal": "…",
+    "lessons": [{ "id": "s4-01", "kind": "main", "title": "Hiện tại hoàn thành",
+                  "sub": "A2–B1", "opt": false,
+                  "steps": [{ "t": "grammar", "id": 6 }, { "t": "verbs", "pat": "ciau" },
+                            { "t": "vocab", "topic": "work", "from": 0, "to": 35 },
+                            { "t": "frame", "id": 95, "rp": true }] }] }] }
+```
+
+**Mỗi chặng xếp bài theo thứ tự:** bài chính → bài Kỹ năng → bài Đọc → Nói & viết →
+Luyện TOEIC → Ôn & kiểm tra.
+
+| Bước `t` | Trỏ tới | Hiện trong bài |
+|---|---|---|
+| `basic` / `grammar` / `skill` | `id` bài | toàn văn bài (tiêu đề hạ một bậc) |
+| `vocab` | `topic` + lát `from`–`to` | thẻ từ có IPA, câu ví dụ, nút **Che nghĩa** và **Nhớ / Chưa nhớ** |
+| `frame` | `id` khung, `rp` | toàn văn khung + màn đóng vai của khung đó |
+| `verbs` | `pat` nhóm biến đổi | bảng V1–V3 có nút che, chỉ ở chặng 3–4 |
+| `read` | `id` bài đọc | đọc → trả lời → **rồi mới** hiện danh sách từ |
+| `timed` / `prompt` | chỉ số `i` trong `produce.json` | đồng hồ / chỗ viết; thang tự soát và bài mẫu hiện **sau** |
+| `toeic` | `part` + `tag` hoặc `from`–`to` | câu TOEIC chấm ngay; Part 2 không in chữ trước khi trả lời |
+| `check` | `g` (1–12), `"s0"`, `"s13"` | đề 15 câu, ghi `cp_res` |
+| `cando` | `items` dạng `"bậc|số"` | ô tự xác nhận, ghi `cd_done` |
+
+**Luật xếp trong `make-course.py`:**
+
+* bài chính trong chặng xếp **dễ → khó theo nhãn "Trình độ"** — chặng 1 không còn mở đầu
+  bằng bài A2–B1;
+* 4 bài **B2–C1** (18, 28, 49, 62) là **"Nâng cao, tuỳ chọn"**: không mang lát từ vựng,
+  không tính vào điều kiện qua chặng;
+* 22 bài Kỹ năng rải theo bảng `SKILL_STAGE` (phát âm trước, nghe ở giữa, viết về cuối), mỗi
+  bài kèm 2 đề nói / viết của nó;
+* **100 khung câu gán tay** trong `FRAME_HOME`, mỗi khung đúng một bài chủ nhà. Không suy
+  tự động được: liên kết khung ↔ ngữ pháp sẵn có lệch nhau ở 140 cặp và khung 71–100 bị điền
+  số liên tiếp (khung 100 *There is* không trỏ tới bài 51 *There is / are*);
+* từ vựng của chặng chia **đều** cho các bài chính bắt buộc; chặng 13 chia thành bài
+  ~30 từ;
+* can-do vào chặng **muộn nhất** trong các bài nó trỏ tới; trường `"st"` trong `cando.json`
+  ép chặng khi mục chỉ trỏ tới bài Kỹ năng.
+
+> **Phủ kín, đúng một lần.** `make-course.py`, `build.py` và `smoke.js` cùng soát: 26/26 bài
+> nhập môn, 66/66 ngữ pháp, 22/22 kỹ năng, 31/31 bài đọc, 45/45 đề nói, 50/50 đề nói-viết,
+> 100/100 khung, 2.002/2.002 từ — và không bước nào trỏ tới nội dung không có thật.
+
+**Menu bên trái là cây ba tầng Cấp → Chặng → Bài.** Mỗi Cấp và Chặng có nút ▸ / ▾ riêng
+để ẩn / hiện tầng con; các nhánh độc lập — mở bao nhiêu nhánh cùng lúc cũng được. Bấm vào
+**tên** Cấp / Chặng thì mở trang tổng quan của nó (`LT.open` = `"L:A2–B1"` / `"S:5"`), không
+đóng mở gì. Mở một bài thì cấp và chặng chứa nó tự hiện ra (không đóng nhánh nào khác).
+Trạng thái mở nhớ ở `co_tree` — chỉ là tiện nghi, mất đi thì quay về mở sẵn chặng đang học.
+
+**Tiến độ** vẫn suy từ dữ liệu sẵn có, cộng đúng **một khoá mới**:
+
+| Cần gì | Lấy từ |
+|---|---|
+| bài khóa học đã xong | **`co_done`** — mới; bài Đọc / Nói không có cờ "xong" nào khác để suy ra |
+| bài đang mở | `co_last` (chỉ để mở lại đúng chỗ) |
+| từ đã thuộc | `otSrs` hộp ≥3 — nút **Nhớ / Chưa nhớ** trong bước từ vựng ghi thẳng vào đây |
+| bài gốc đã học | `ngDone` / `nm_done` / `sk_done` — **Hoàn thành bài** ghi luôn vào đây |
+| kiểm tra chặng | `cp_res`, thêm khoá `"s0"` và `"s13"` |
+
+**Đạt chặng** = xong mọi bài chính bắt buộc **và** kiểm tra chặng ≥70% **và** ≥80% từ đã thuộc
+(chặng 0 không có từ vựng riêng nên chỉ xét hai điều đầu).
+
+> **Kiểm tra chặng 0 và 13 không soạn đề riêng.** Chặng 0 rút `pairs` / `quiz` của 26 bài
+> Nhập môn bằng đúng `cpHarvest()`. Chặng 13 đục lỗ câu ví dụ của từ vựng, ba phương án nhiễu
+> **cùng chủ đề**, và chỉ lấy câu mà từ cần điền xuất hiện **nguyên dạng** — không thì đáp
+> án đúng có thể không duy nhất.
+
+> **Mỗi bước giữ trạng thái riêng** trong closure của nó, id phần tử mang tiền tố của bước —
+> hai bài đọc hay hai đồng hồ cùng một trang không giẫm lên nhau. Chỉ **một** đồng hồ chạy
+> mỗi lúc (`CO_TIMERS`), và rời bài / rời tab là dừng hết.
+
+> **`decorate(root)` chạy lại được.** Nó gắn nút 🔊 và *Xem đáp án* vào đúng vùng `root`
+> và đánh dấu `data-dec`, nên vẽ từng bước xong gọi lại cũng không nhân đôi nút.
 
 ## Khối `pairs` — BẪY người Việt hay mắc
 
@@ -881,7 +998,7 @@ thật — 8 mục mỗi bài, **32 mục** tất cả.
 > nhưng rút thẻ từ cả bốn nguồn chứ không riêng `quiz` của khung câu, và có lặp
 > ngắt quãng thay vì trộn ngẫu nhiên.
 
-**Từ điển lỗi** hiện gom **1.556 cặp Sai/Đúng**: 76 từ 26 bài nhập môn, 600 từ 100 khung
+**Từ điển lỗi** hiện gom **1.547 cặp Sai/Đúng**: 67 từ 26 bài nhập môn, 600 từ 100 khung
 câu, 660 từ 66 bài ngữ pháp và 220 từ 22 bài kỹ năng. Có ô tìm riêng và năm nút lọc nguồn
 (Tất cả · Nhập môn · Khung câu · Ngữ pháp · Kỹ năng). Mỗi lỗi kèm một link về đúng bài đã
 dạy nó. Trang hiện 60 lỗi mỗi lần, bấm nút cuối để xem thêm.
@@ -906,7 +1023,7 @@ nên soạn thêm một bài là tự có thêm thẻ:
 | **Sửa lỗi** | mọi khối `pairs` của **nhập môn, khung câu, ngữ pháp, kỹ năng** | câu SAI → câu ĐÚNG |
 | **Động từ** | `verbs.json` | V1 → V2 / V3 |
 
-Hiện có **6.613 thẻ**, trong đó **388 thẻ đến từ 26 bài nhập môn**. Bộ lọc nguồn có
+Hiện có **6.604 thẻ**, trong đó **379 thẻ đến từ 26 bài nhập môn**. Bộ lọc nguồn có
 năm lựa chọn: Tất cả · Nhập môn · Khung câu · Ngữ pháp · Kỹ năng.
 
 Thuật toán **Leitner năm hộp**: nhớ được thì thẻ lên một hộp, quên thì rơi thẳng về

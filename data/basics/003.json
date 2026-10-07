@@ -3,6 +3,8 @@
   "title": "Đọc ký hiệu phiên âm — phụ âm & trọng âm",
   "skipWordCheck": true,
   "_whySkip": "Bài này dạy KÝ HIỆU, phần tiếng Anh là từ mẫu minh hoạ âm chứ không phải câu — soát theo từ vựng A1 sẽ báo nhầm.",
+  "noRecap": true,
+  "_whyNoRecap": "Bài phát âm / chữ cái: phần Ví dụ và Tự kiểm tra đã là luyện đọc từng ký hiệu, mục tóm tắt cuối bài chỉ lặp lại — bỏ theo yêu cầu người dùng (mục 26).",
   "sections": [
     {
       "title": "Bài này dạy gì",
@@ -111,21 +113,6 @@
         { "t": "quiz", "items": [
           { "vi": "Đặt tay lên cổ họng, đọc <i>think</i> rồi <i>this</i>. Thấy khác gì?", "a": "<i>think</i> không rung · <i>this</i> rung — đó là khác biệt giữa <code>/θ/</code> và <code>/ð/</code>" },
           { "vi": "Mở tab Từ vựng, lọc A1, tìm ba từ có dấu <code>ˈ</code> ở âm tiết thứ hai.", "a": "Ví dụ: <i>hotel</i>, <i>banana</i>, <i>tomorrow</i>, <i>about</i>" }
-        ] }
-      ]
-    },
-    {
-      "title": "Nhớ ba điều này",
-      "blocks": [
-        { "t": "list", "items": [
-          "<b>Dấu <code>ˈ</code> đứng trước âm tiết được nhấn.</b> Nhấn sai chỗ thì dù đọc đúng từng âm, người nghe vẫn không ra từ.",
-          "<b>Bảy phụ âm tiếng Việt không có:</b> <code>/θ/ /ð/ /ʃ/ /ʒ/ /tʃ/ /dʒ/ /ŋ/</code>. Tập từng cái một, đừng thay bằng âm tiếng Việt gần giống.",
-          "<b>Câm hay rung — miệng làm y hệt nhau.</b> <code>/f-v/</code>, <code>/s-z/</code>, <code>/θ-ð/</code>, <code>/tʃ-dʒ/</code>. Chỉ khác cổ họng có rung không. Đặt tay lên cổ mà kiểm tra."
-        ] },
-        { "t": "pairs", "items": [
-          { "wrong": "<i>think</i> đọc “tink” hoặc “sink”", "right": "<i>think</i> = <code>/θɪŋk/</code>, lưỡi ra ngoài răng", "why": "Tiếng Việt không có <code>/θ/</code> nên ta thay bằng “t” hoặc “s”. Nhưng <i>think</i> và <i>sink</i> là hai từ khác nhau — người nghe sẽ hiểu sai chứ không chỉ thấy lạ tai." },
-          { "wrong": "<i>sing</i> đọc “sin”", "right": "<i>sing</i> = <code>/sɪŋ/</code> với <code>/ŋ/</code> cuối", "why": "Tiếng Việt có “ng” nhưng hầu như chỉ ở đầu. Ở cuối từ ta hay đổi thành “n”. <i>sing</i> → <i>sin</i> là đổi hẳn nghĩa." },
-          { "wrong": "<i>hotel</i> nhấn âm đầu — “HO-tel”", "right": "<i>hotel</i> = <code>/həʊˈtel/</code>, nhấn âm sau", "why": "Người Việt quen nhấn đều hoặc nhấn đầu. Nhấn sai làm người bản xứ phải đoán, và nhiều khi đoán không ra — đây là lỗi làm hỏng giao tiếp nhiều hơn cả phát âm sai." }
         ] }
       ]
     }

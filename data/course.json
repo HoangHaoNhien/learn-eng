@@ -1,0 +1,4220 @@
+{
+ "title": "Khóa học A0 → B2",
+ "tagline": "14 chặng, học tuần tự — mỗi bài gom đủ ngữ pháp, từ vựng, khung câu, đọc, nói và viết ngay trong một trang",
+ "levels": [
+  {
+   "id": "A0",
+   "name": "Nhập môn",
+   "stages": [
+    0
+   ]
+  },
+  {
+   "id": "A1–A2",
+   "name": "Sơ cấp",
+   "stages": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "id": "A2–B1",
+   "name": "Tiền trung cấp",
+   "stages": [
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "id": "B1",
+   "name": "Trung cấp",
+   "stages": [
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "id": "B2",
+   "name": "Trung cao cấp",
+   "stages": [
+    11,
+    12,
+    13
+   ]
+  }
+ ],
+ "stages": [
+  {
+   "n": 0,
+   "g": 0,
+   "topics": [],
+   "goal": "Đọc được phiên âm, dựng câu đầu tiên với to be và động từ thường, nói số, ngày giờ và nơi chốn — đủ nền để vào chặng 1.",
+   "lessons": [
+    {
+     "id": "s0-01",
+     "kind": "main",
+     "title": "Bảng chữ cái & đánh vần tên mình",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 1
+      }
+     ]
+    },
+    {
+     "id": "s0-02",
+     "kind": "main",
+     "title": "Đọc ký hiệu phiên âm — nguyên âm",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 2
+      }
+     ]
+    },
+    {
+     "id": "s0-03",
+     "kind": "main",
+     "title": "Đọc ký hiệu phiên âm — phụ âm & trọng âm",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 3
+      }
+     ]
+    },
+    {
+     "id": "s0-04",
+     "kind": "main",
+     "title": "Thuật ngữ — gọi tên các loại từ",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 4
+      }
+     ]
+    },
+    {
+     "id": "s0-05",
+     "kind": "main",
+     "title": "Chủ ngữ & vị ngữ — câu gồm những gì",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 5
+      },
+      {
+       "t": "frame",
+       "id": 15,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s0-06",
+     "kind": "main",
+     "title": "Đại từ — thay cho tên người",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 6
+      },
+      {
+       "t": "frame",
+       "id": 72,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s0-07",
+     "kind": "main",
+     "title": "Động từ to be — câu đầu tiên bạn nói được",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 7
+      },
+      {
+       "t": "frame",
+       "id": 71,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s0-08",
+     "kind": "main",
+     "title": "Nói KHÔNG với to be",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 8
+      }
+     ]
+    },
+    {
+     "id": "s0-09",
+     "kind": "main",
+     "title": "Hỏi và đáp với to be",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 9
+      },
+      {
+       "t": "frame",
+       "id": 76,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s0-10",
+     "kind": "main",
+     "title": "Một và nhiều — thêm -s",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 10
+      }
+     ]
+    },
+    {
+     "id": "s0-11",
+     "kind": "main",
+     "title": "a và an — nhắc tới lần đầu",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 11
+      }
+     ]
+    },
+    {
+     "id": "s0-12",
+     "kind": "main",
+     "title": "the — cái mà cả hai đều biết",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 12
+      }
+     ]
+    },
+    {
+     "id": "s0-13",
+     "kind": "main",
+     "title": "Cái này, cái kia",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 13
+      },
+      {
+       "t": "frame",
+       "id": 73,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s0-14",
+     "kind": "main",
+     "title": "Động từ thường — và chữ -s của he/she/it",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 14
+      },
+      {
+       "t": "frame",
+       "id": 74,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s0-15",
+     "kind": "main",
+     "title": "Nói KHÔNG với động từ thường",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 15
+      },
+      {
+       "t": "frame",
+       "id": 2,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 55,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s0-16",
+     "kind": "main",
+     "title": "Hỏi với động từ thường",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 16
+      },
+      {
+       "t": "frame",
+       "id": 35,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s0-17",
+     "kind": "main",
+     "title": "Sáu từ để hỏi",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 17
+      },
+      {
+       "t": "frame",
+       "id": 63,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s0-18",
+     "kind": "main",
+     "title": "can — làm được hay không làm được",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 18
+      },
+      {
+       "t": "frame",
+       "id": 12,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s0-19",
+     "kind": "main",
+     "title": "Số đếm và cách đọc",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 19
+      },
+      {
+       "t": "frame",
+       "id": 65,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s0-20",
+     "kind": "main",
+     "title": "Thứ, tháng và ngày tháng",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 20
+      },
+      {
+       "t": "frame",
+       "id": 80,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s0-21",
+     "kind": "main",
+     "title": "Xem giờ và nói giờ",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 21
+      },
+      {
+       "t": "frame",
+       "id": 61,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s0-22",
+     "kind": "main",
+     "title": "Nói đồ vật nằm ở đâu",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 22
+      },
+      {
+       "t": "frame",
+       "id": 62,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s0-23",
+     "kind": "main",
+     "title": "Của ai — my, your và dấu 's",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 23
+      }
+     ]
+    },
+    {
+     "id": "s0-24",
+     "kind": "main",
+     "title": "to be ở quá khứ",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 24
+      }
+     ]
+    },
+    {
+     "id": "s0-25",
+     "kind": "main",
+     "title": "Nói “có” — there is / there are",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 25
+      }
+     ]
+    },
+    {
+     "id": "s0-26",
+     "kind": "main",
+     "title": "Ghép tất cả lại & học tiếp gì",
+     "sub": "A0",
+     "opt": false,
+     "steps": [
+      {
+       "t": "basic",
+       "id": 26
+      }
+     ]
+    },
+    {
+     "id": "s0-27",
+     "kind": "skill",
+     "title": "Phụ âm cuối — lỗi số một của người Việt",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 1
+      },
+      {
+       "t": "prompt",
+       "i": 0
+      },
+      {
+       "t": "prompt",
+       "i": 1
+      }
+     ]
+    },
+    {
+     "id": "s0-28",
+     "kind": "skill",
+     "title": "Những âm tiếng Việt không có",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 6
+      },
+      {
+       "t": "prompt",
+       "i": 10
+      },
+      {
+       "t": "prompt",
+       "i": 11
+      }
+     ]
+    },
+    {
+     "id": "s0-29",
+     "kind": "produce",
+     "title": "Nói & viết chặng 0",
+     "sub": "Sản sinh",
+     "opt": false,
+     "steps": [
+      {
+       "t": "timed",
+       "i": 36
+      },
+      {
+       "t": "timed",
+       "i": 37
+      },
+      {
+       "t": "timed",
+       "i": 38
+      },
+      {
+       "t": "timed",
+       "i": 39
+      },
+      {
+       "t": "timed",
+       "i": 40
+      },
+      {
+       "t": "timed",
+       "i": 41
+      }
+     ]
+    },
+    {
+     "id": "s0-30",
+     "kind": "check",
+     "title": "Ôn & kiểm tra chặng 0",
+     "sub": "Kiểm tra",
+     "opt": false,
+     "steps": [
+      {
+       "t": "check",
+       "g": "s0"
+      },
+      {
+       "t": "cando",
+       "items": [
+        "A1|1",
+        "A1|3"
+       ]
+      }
+     ]
+    }
+   ],
+   "lv": "A0"
+  },
+  {
+   "n": 1,
+   "g": 1,
+   "topics": [
+    "a1-people",
+    "a1-verb"
+   ],
+   "goal": "Dựng được câu đủ chủ ngữ + động từ, và nói về những người quanh mình.",
+   "lessons": [
+    {
+     "id": "s1-01",
+     "kind": "main",
+     "title": "Đại từ nhân xưng, sở hữu & phản thân",
+     "sub": "A1–A2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 53
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-people",
+       "from": 0,
+       "to": 20
+      },
+      {
+       "t": "frame",
+       "id": 20,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 30,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s1-02",
+     "kind": "main",
+     "title": "Cách nói “có” trong tiếng Anh",
+     "sub": "A1–A2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 51
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-people",
+       "from": 20,
+       "to": 40
+      },
+      {
+       "t": "frame",
+       "id": 100,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s1-03",
+     "kind": "main",
+     "title": "Quy tắc chính tả khi thêm đuôi",
+     "sub": "A1–A2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 54
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-people",
+       "from": 40,
+       "to": 50
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-verb",
+       "from": 0,
+       "to": 10
+      },
+      {
+       "t": "frame",
+       "id": 5,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s1-04",
+     "kind": "main",
+     "title": "Trật tự từ & vị trí trạng ngữ",
+     "sub": "A2–B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 43
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-verb",
+       "from": 10,
+       "to": 30
+      },
+      {
+       "t": "frame",
+       "id": 42,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 45,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s1-05",
+     "kind": "main",
+     "title": "Chủ ngữ giả It — câu không được thiếu chủ ngữ",
+     "sub": "A2–B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 52
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-verb",
+       "from": 30,
+       "to": 50
+      },
+      {
+       "t": "frame",
+       "id": 44,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 99,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s1-06",
+     "kind": "skill",
+     "title": "Trọng âm từ & trọng âm câu",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 5
+      },
+      {
+       "t": "prompt",
+       "i": 8
+      },
+      {
+       "t": "prompt",
+       "i": 9
+      }
+     ]
+    },
+    {
+     "id": "s1-07",
+     "kind": "read",
+     "title": "My Family · Gia đình tôi",
+     "sub": "Đọc · A1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 25
+      }
+     ]
+    },
+    {
+     "id": "s1-08",
+     "kind": "read",
+     "title": "Tom Learns Vietnamese · Tom học tiếng Việt",
+     "sub": "Đọc · A1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 26
+      }
+     ]
+    },
+    {
+     "id": "s1-09",
+     "kind": "produce",
+     "title": "Nói & viết chặng 1",
+     "sub": "Sản sinh",
+     "opt": false,
+     "steps": [
+      {
+       "t": "timed",
+       "i": 0
+      },
+      {
+       "t": "timed",
+       "i": 1
+      },
+      {
+       "t": "timed",
+       "i": 2
+      },
+      {
+       "t": "prompt",
+       "i": 44
+      },
+      {
+       "t": "prompt",
+       "i": 45
+      }
+     ]
+    },
+    {
+     "id": "s1-10",
+     "kind": "check",
+     "title": "Ôn & kiểm tra chặng 1",
+     "sub": "Kiểm tra",
+     "opt": false,
+     "steps": [
+      {
+       "t": "check",
+       "g": 1
+      },
+      {
+       "t": "cando",
+       "items": [
+        "A1|2",
+        "A1|5"
+       ]
+      }
+     ]
+    }
+   ],
+   "lv": "A1–A2"
+  },
+  {
+   "n": 2,
+   "g": 2,
+   "topics": [
+    "a1-home",
+    "a1-food",
+    "a1-num"
+   ],
+   "goal": "Gọi tên đồ vật quanh nhà, nói về ăn uống và số lượng mà không sai mạo từ.",
+   "lessons": [
+    {
+     "id": "s2-01",
+     "kind": "main",
+     "title": "Mạo từ không xác định",
+     "sub": "A1–A2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 20
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-home",
+       "from": 0,
+       "to": 22
+      },
+      {
+       "t": "frame",
+       "id": 75,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s2-02",
+     "kind": "main",
+     "title": "Đếm được & không đếm được",
+     "sub": "A2–B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 19
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-home",
+       "from": 22,
+       "to": 44
+      },
+      {
+       "t": "frame",
+       "id": 89,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s2-03",
+     "kind": "main",
+     "title": "Mạo từ xác định — ba luật",
+     "sub": "A2–B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 21
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-home",
+       "from": 44,
+       "to": 50
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-food",
+       "from": 0,
+       "to": 16
+      }
+     ]
+    },
+    {
+     "id": "s2-04",
+     "kind": "main",
+     "title": "Lượng từ",
+     "sub": "A2–B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 22
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-food",
+       "from": 16,
+       "to": 37
+      },
+      {
+       "t": "frame",
+       "id": 19,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s2-05",
+     "kind": "main",
+     "title": "Số nhiều bất quy tắc & sở hữu cách",
+     "sub": "A2–B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 23
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-food",
+       "from": 37,
+       "to": 50
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-num",
+       "from": 0,
+       "to": 8
+      }
+     ]
+    },
+    {
+     "id": "s2-06",
+     "kind": "main",
+     "title": "Lượng từ cho hai và cho nhiều",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 57
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-num",
+       "from": 8,
+       "to": 29
+      },
+      {
+       "t": "frame",
+       "id": 51,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s2-07",
+     "kind": "main",
+     "title": "Danh từ ghép & tính từ ghép",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 58
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-num",
+       "from": 29,
+       "to": 50
+      },
+      {
+       "t": "frame",
+       "id": 64,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s2-08",
+     "kind": "skill",
+     "title": "Đuôi -s và -es",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 2
+      },
+      {
+       "t": "prompt",
+       "i": 2
+      },
+      {
+       "t": "prompt",
+       "i": 3
+      }
+     ]
+    },
+    {
+     "id": "s2-09",
+     "kind": "read",
+     "title": "My New Room · Căn phòng mới của tôi",
+     "sub": "Đọc · A1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 27
+      }
+     ]
+    },
+    {
+     "id": "s2-10",
+     "kind": "read",
+     "title": "Sunday at the Market · Chủ nhật ở chợ",
+     "sub": "Đọc · A1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 28
+      }
+     ]
+    },
+    {
+     "id": "s2-11",
+     "kind": "read",
+     "title": "A Saturday at the Shop · Một ngày thứ bảy ở cửa hàng",
+     "sub": "Đọc · A1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 29
+      }
+     ]
+    },
+    {
+     "id": "s2-12",
+     "kind": "produce",
+     "title": "Nói & viết chặng 2",
+     "sub": "Sản sinh",
+     "opt": false,
+     "steps": [
+      {
+       "t": "timed",
+       "i": 3
+      },
+      {
+       "t": "timed",
+       "i": 4
+      },
+      {
+       "t": "timed",
+       "i": 5
+      },
+      {
+       "t": "prompt",
+       "i": 46
+      },
+      {
+       "t": "prompt",
+       "i": 47
+      }
+     ]
+    },
+    {
+     "id": "s2-13",
+     "kind": "toeic",
+     "title": "Luyện TOEIC chặng 2",
+     "sub": "TOEIC",
+     "opt": false,
+     "steps": [
+      {
+       "t": "toeic",
+       "part": 5,
+       "tag": "pron"
+      }
+     ]
+    },
+    {
+     "id": "s2-14",
+     "kind": "check",
+     "title": "Ôn & kiểm tra chặng 2",
+     "sub": "Kiểm tra",
+     "opt": false,
+     "steps": [
+      {
+       "t": "check",
+       "g": 2
+      },
+      {
+       "t": "cando",
+       "items": [
+        "A1|0",
+        "A2|2",
+        "A2|6",
+        "A2|7"
+       ]
+      }
+     ]
+    }
+   ],
+   "lv": "A1–A2"
+  },
+  {
+   "n": 3,
+   "g": 3,
+   "topics": [
+    "a1-time",
+    "a1-body"
+   ],
+   "goal": "Kể việc hằng ngày ở hiện tại và kể lại việc đã xảy ra ở quá khứ.",
+   "lessons": [
+    {
+     "id": "s3-01",
+     "kind": "main",
+     "title": "Hiện tại đơn",
+     "sub": "A1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 1
+      },
+      {
+       "t": "verbs",
+       "pat": "aaa"
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-time",
+       "from": 0,
+       "to": 20
+      },
+      {
+       "t": "frame",
+       "id": 41,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 57,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s3-02",
+     "kind": "main",
+     "title": "Hiện tại tiếp diễn",
+     "sub": "A1–A2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 2
+      },
+      {
+       "t": "verbs",
+       "pat": "aba"
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-time",
+       "from": 20,
+       "to": 40
+      },
+      {
+       "t": "frame",
+       "id": 4,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 6,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s3-03",
+     "kind": "main",
+     "title": "Quá khứ đơn",
+     "sub": "A1–A2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 3
+      },
+      {
+       "t": "verbs",
+       "pat": "bvow"
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-time",
+       "from": 40,
+       "to": 50
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-body",
+       "from": 0,
+       "to": 10
+      },
+      {
+       "t": "frame",
+       "id": 96,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s3-04",
+     "kind": "main",
+     "title": "Quá khứ tiếp diễn",
+     "sub": "A2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 4
+      },
+      {
+       "t": "verbs",
+       "pat": "bought"
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-body",
+       "from": 10,
+       "to": 30
+      }
+     ]
+    },
+    {
+     "id": "s3-05",
+     "kind": "main",
+     "title": "Quá khứ hoàn thành",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 5
+      },
+      {
+       "t": "verbs",
+       "pat": "bt"
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-body",
+       "from": 30,
+       "to": 50
+      }
+     ]
+    },
+    {
+     "id": "s3-06",
+     "kind": "skill",
+     "title": "Đuôi -ed",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 3
+      },
+      {
+       "t": "prompt",
+       "i": 4
+      },
+      {
+       "t": "prompt",
+       "i": 5
+      }
+     ]
+    },
+    {
+     "id": "s3-07",
+     "kind": "skill",
+     "title": "Nói kéo dài — mô tả & kể",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 12
+      },
+      {
+       "t": "prompt",
+       "i": 22
+      },
+      {
+       "t": "prompt",
+       "i": 23
+      }
+     ]
+    },
+    {
+     "id": "s3-08",
+     "kind": "read",
+     "title": "A Nurse's Week · Một tuần của cô y tá",
+     "sub": "Đọc · A1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 30
+      }
+     ]
+    },
+    {
+     "id": "s3-09",
+     "kind": "read",
+     "title": "I Am Ill Today · Hôm nay tôi bị ốm",
+     "sub": "Đọc · A1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 31
+      }
+     ]
+    },
+    {
+     "id": "s3-10",
+     "kind": "produce",
+     "title": "Nói & viết chặng 3",
+     "sub": "Sản sinh",
+     "opt": false,
+     "steps": [
+      {
+       "t": "timed",
+       "i": 6
+      },
+      {
+       "t": "timed",
+       "i": 7
+      },
+      {
+       "t": "timed",
+       "i": 8
+      },
+      {
+       "t": "prompt",
+       "i": 48
+      },
+      {
+       "t": "prompt",
+       "i": 49
+      }
+     ]
+    },
+    {
+     "id": "s3-11",
+     "kind": "check",
+     "title": "Ôn & kiểm tra chặng 3",
+     "sub": "Kiểm tra",
+     "opt": false,
+     "steps": [
+      {
+       "t": "check",
+       "g": 3
+      },
+      {
+       "t": "cando",
+       "items": [
+        "A2|1",
+        "A2|5"
+       ]
+      }
+     ]
+    }
+   ],
+   "lv": "A1–A2"
+  },
+  {
+   "n": 4,
+   "g": 4,
+   "topics": [
+    "work",
+    "edu"
+   ],
+   "goal": "Nói về kinh nghiệm làm việc và học hành — chỗ thì hoàn thành sống nhiều nhất.",
+   "lessons": [
+    {
+     "id": "s4-01",
+     "kind": "main",
+     "title": "Hiện tại hoàn thành",
+     "sub": "A2–B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 6
+      },
+      {
+       "t": "verbs",
+       "pat": "ciau"
+      },
+      {
+       "t": "vocab",
+       "topic": "work",
+       "from": 0,
+       "to": 35
+      },
+      {
+       "t": "frame",
+       "id": 95,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s4-02",
+     "kind": "main",
+     "title": "Trạng từ đi với thì hoàn thành",
+     "sub": "A2–B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 7
+      },
+      {
+       "t": "verbs",
+       "pat": "cen"
+      },
+      {
+       "t": "vocab",
+       "topic": "work",
+       "from": 35,
+       "to": 70
+      },
+      {
+       "t": "frame",
+       "id": 77,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s4-03",
+     "kind": "main",
+     "title": "Hoàn thành tiếp diễn",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 8
+      },
+      {
+       "t": "verbs",
+       "pat": "odd"
+      },
+      {
+       "t": "vocab",
+       "topic": "work",
+       "from": 70,
+       "to": 72
+      },
+      {
+       "t": "vocab",
+       "topic": "edu",
+       "from": 0,
+       "to": 33
+      },
+      {
+       "t": "frame",
+       "id": 94,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s4-04",
+     "kind": "main",
+     "title": "Hoàn thành hay Quá khứ đơn?",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 9
+      },
+      {
+       "t": "vocab",
+       "topic": "edu",
+       "from": 33,
+       "to": 67
+      }
+     ]
+    },
+    {
+     "id": "s4-05",
+     "kind": "skill",
+     "title": "Cụm phụ âm",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 4
+      },
+      {
+       "t": "prompt",
+       "i": 6
+      },
+      {
+       "t": "prompt",
+       "i": 7
+      }
+     ]
+    },
+    {
+     "id": "s4-06",
+     "kind": "skill",
+     "title": "Email thân mật & tin nhắn",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 21
+      },
+      {
+       "t": "prompt",
+       "i": 40
+      },
+      {
+       "t": "prompt",
+       "i": 41
+      }
+     ]
+    },
+    {
+     "id": "s4-07",
+     "kind": "read",
+     "title": "The Job Nobody Applied For · Công việc không ai nộp đơn",
+     "sub": "Đọc · B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 1
+      }
+     ]
+    },
+    {
+     "id": "s4-08",
+     "kind": "read",
+     "title": "Why Cramming Fails · Vì sao học nhồi không hiệu quả",
+     "sub": "Đọc · B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 2
+      }
+     ]
+    },
+    {
+     "id": "s4-09",
+     "kind": "produce",
+     "title": "Nói & viết chặng 4",
+     "sub": "Sản sinh",
+     "opt": false,
+     "steps": [
+      {
+       "t": "timed",
+       "i": 9
+      },
+      {
+       "t": "timed",
+       "i": 10
+      },
+      {
+       "t": "timed",
+       "i": 11
+      }
+     ]
+    },
+    {
+     "id": "s4-10",
+     "kind": "check",
+     "title": "Ôn & kiểm tra chặng 4",
+     "sub": "Kiểm tra",
+     "opt": false,
+     "steps": [
+      {
+       "t": "check",
+       "g": 4
+      },
+      {
+       "t": "cando",
+       "items": [
+        "B1|2"
+       ]
+      }
+     ]
+    }
+   ],
+   "lv": "A2–B1"
+  },
+  {
+   "n": 5,
+   "g": 5,
+   "topics": [
+    "travel",
+    "transport"
+   ],
+   "goal": "Nói kế hoạch đi lại: định đi đâu, đi thế nào, mất bao lâu.",
+   "lessons": [
+    {
+     "id": "s5-01",
+     "kind": "main",
+     "title": "will — quyết định ngay lúc nói",
+     "sub": "A1–A2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 10
+      },
+      {
+       "t": "vocab",
+       "topic": "travel",
+       "from": 0,
+       "to": 33
+      },
+      {
+       "t": "frame",
+       "id": 34,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 36,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s5-02",
+     "kind": "main",
+     "title": "be going to — kế hoạch đã quyết",
+     "sub": "A2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 11
+      },
+      {
+       "t": "vocab",
+       "topic": "travel",
+       "from": 33,
+       "to": 65
+      },
+      {
+       "t": "vocab",
+       "topic": "transport",
+       "from": 0,
+       "to": 1
+      },
+      {
+       "t": "frame",
+       "id": 91,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s5-03",
+     "kind": "main",
+     "title": "Hiện tại chỉ tương lai",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 12
+      },
+      {
+       "t": "vocab",
+       "topic": "transport",
+       "from": 1,
+       "to": 33
+      },
+      {
+       "t": "frame",
+       "id": 92,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s5-04",
+     "kind": "main",
+     "title": "Tương lai hoàn thành & tiếp diễn",
+     "sub": "B1–B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 13
+      },
+      {
+       "t": "vocab",
+       "topic": "transport",
+       "from": 33,
+       "to": 65
+      }
+     ]
+    },
+    {
+     "id": "s5-05",
+     "kind": "skill",
+     "title": "Rút gọn trong văn nói",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 10
+      },
+      {
+       "t": "prompt",
+       "i": 18
+      },
+      {
+       "t": "prompt",
+       "i": 19
+      }
+     ]
+    },
+    {
+     "id": "s5-06",
+     "kind": "skill",
+     "title": "Nghe số, ngày và đánh vần",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 11
+      },
+      {
+       "t": "prompt",
+       "i": 20
+      },
+      {
+       "t": "prompt",
+       "i": 21
+      }
+     ]
+    },
+    {
+     "id": "s5-07",
+     "kind": "read",
+     "title": "Twelve Hours in the Wrong City · Mười hai tiếng ở nhầm thành phố",
+     "sub": "Đọc · B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 7
+      }
+     ]
+    },
+    {
+     "id": "s5-08",
+     "kind": "read",
+     "title": "The Junction Everybody Complained About · Ngã tư ai cũng kêu",
+     "sub": "Đọc · B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 18
+      }
+     ]
+    },
+    {
+     "id": "s5-09",
+     "kind": "produce",
+     "title": "Nói & viết chặng 5",
+     "sub": "Sản sinh",
+     "opt": false,
+     "steps": [
+      {
+       "t": "timed",
+       "i": 12
+      },
+      {
+       "t": "timed",
+       "i": 13
+      },
+      {
+       "t": "timed",
+       "i": 14
+      }
+     ]
+    },
+    {
+     "id": "s5-10",
+     "kind": "toeic",
+     "title": "Luyện TOEIC chặng 5",
+     "sub": "TOEIC",
+     "opt": false,
+     "steps": [
+      {
+       "t": "toeic",
+       "part": 5,
+       "tag": "verb"
+      }
+     ]
+    },
+    {
+     "id": "s5-11",
+     "kind": "check",
+     "title": "Ôn & kiểm tra chặng 5",
+     "sub": "Kiểm tra",
+     "opt": false,
+     "steps": [
+      {
+       "t": "check",
+       "g": 5
+      },
+      {
+       "t": "cando",
+       "items": [
+        "A2|3"
+       ]
+      }
+     ]
+    }
+   ],
+   "lv": "A2–B1"
+  },
+  {
+   "n": 6,
+   "g": 6,
+   "topics": [
+    "person",
+    "art"
+   ],
+   "goal": "Tả người và tả cảm nhận về phim, sách, nhạc — so sánh được hai thứ.",
+   "lessons": [
+    {
+     "id": "s6-01",
+     "kind": "main",
+     "title": "Đuôi -ed và -ing",
+     "sub": "A2–B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 34
+      },
+      {
+       "t": "vocab",
+       "topic": "person",
+       "from": 0,
+       "to": 18
+      },
+      {
+       "t": "frame",
+       "id": 81,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s6-02",
+     "kind": "main",
+     "title": "So sánh hơn & nhất",
+     "sub": "A2–B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 37
+      },
+      {
+       "t": "vocab",
+       "topic": "person",
+       "from": 18,
+       "to": 35
+      },
+      {
+       "t": "frame",
+       "id": 66,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s6-03",
+     "kind": "main",
+     "title": "Mức độ & kết quả",
+     "sub": "A2–B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 56
+      },
+      {
+       "t": "vocab",
+       "topic": "person",
+       "from": 35,
+       "to": 52
+      },
+      {
+       "t": "frame",
+       "id": 60,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s6-04",
+     "kind": "main",
+     "title": "Tính từ sau linking verb",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 35
+      },
+      {
+       "t": "vocab",
+       "topic": "person",
+       "from": 52,
+       "to": 60
+      },
+      {
+       "t": "vocab",
+       "topic": "art",
+       "from": 0,
+       "to": 9
+      },
+      {
+       "t": "frame",
+       "id": 70,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 85,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s6-05",
+     "kind": "main",
+     "title": "Trạng từ: vị trí & tần suất",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 38
+      },
+      {
+       "t": "vocab",
+       "topic": "art",
+       "from": 9,
+       "to": 26
+      },
+      {
+       "t": "frame",
+       "id": 59,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s6-06",
+     "kind": "main",
+     "title": "Trật tự nhiều tính từ",
+     "sub": "B1–B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 36
+      },
+      {
+       "t": "vocab",
+       "topic": "art",
+       "from": 26,
+       "to": 43
+      }
+     ]
+    },
+    {
+     "id": "s6-07",
+     "kind": "main",
+     "title": "So sánh kép — càng … càng …",
+     "sub": "B1–B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 64
+      },
+      {
+       "t": "vocab",
+       "topic": "art",
+       "from": 43,
+       "to": 60
+      }
+     ]
+    },
+    {
+     "id": "s6-08",
+     "kind": "skill",
+     "title": "So sánh hai lựa chọn",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 14
+      },
+      {
+       "t": "prompt",
+       "i": 26
+      },
+      {
+       "t": "prompt",
+       "i": 27
+      }
+     ]
+    },
+    {
+     "id": "s6-09",
+     "kind": "read",
+     "title": "The Quiet One in the Meeting · Người ít nói trong cuộc họp",
+     "sub": "Đọc · B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 12
+      }
+     ]
+    },
+    {
+     "id": "s6-10",
+     "kind": "read",
+     "title": "The Play That Was Rewritten in Rehearsal · Vở kịch viết lại trong buổi tập",
+     "sub": "Đọc · B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 14
+      }
+     ]
+    },
+    {
+     "id": "s6-11",
+     "kind": "produce",
+     "title": "Nói & viết chặng 6",
+     "sub": "Sản sinh",
+     "opt": false,
+     "steps": [
+      {
+       "t": "timed",
+       "i": 15
+      },
+      {
+       "t": "timed",
+       "i": 16
+      },
+      {
+       "t": "timed",
+       "i": 17
+      }
+     ]
+    },
+    {
+     "id": "s6-12",
+     "kind": "toeic",
+     "title": "Luyện TOEIC chặng 6",
+     "sub": "TOEIC",
+     "opt": false,
+     "steps": [
+      {
+       "t": "toeic",
+       "part": 5,
+       "tag": "compare"
+      }
+     ]
+    },
+    {
+     "id": "s6-13",
+     "kind": "check",
+     "title": "Ôn & kiểm tra chặng 6",
+     "sub": "Kiểm tra",
+     "opt": false,
+     "steps": [
+      {
+       "t": "check",
+       "g": 6
+      },
+      {
+       "t": "cando",
+       "items": [
+        "A2|0"
+       ]
+      }
+     ]
+    }
+   ],
+   "lv": "A2–B1"
+  },
+  {
+   "n": 7,
+   "g": 7,
+   "topics": [
+    "a1-place",
+    "home",
+    "nature"
+   ],
+   "goal": "Chỉ đường, tả nơi chốn và thời tiết mà không lẫn in / on / at.",
+   "lessons": [
+    {
+     "id": "s7-01",
+     "kind": "main",
+     "title": "Giới từ chỉ thời gian",
+     "sub": "A2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 39
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-place",
+       "from": 0,
+       "to": 34
+      }
+     ]
+    },
+    {
+     "id": "s7-02",
+     "kind": "main",
+     "title": "Giới từ chỉ nơi chốn & phương tiện",
+     "sub": "A2–B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 40
+      },
+      {
+       "t": "vocab",
+       "topic": "a1-place",
+       "from": 34,
+       "to": 50
+      },
+      {
+       "t": "vocab",
+       "topic": "home",
+       "from": 0,
+       "to": 18
+      },
+      {
+       "t": "frame",
+       "id": 58,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s7-03",
+     "kind": "main",
+     "title": "Giới từ chỉ chuyển động",
+     "sub": "A2–B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 61
+      },
+      {
+       "t": "vocab",
+       "topic": "home",
+       "from": 18,
+       "to": 52
+      }
+     ]
+    },
+    {
+     "id": "s7-04",
+     "kind": "main",
+     "title": "Giới từ chỉ khoảng thời gian",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 41
+      },
+      {
+       "t": "vocab",
+       "topic": "home",
+       "from": 52,
+       "to": 60
+      },
+      {
+       "t": "vocab",
+       "topic": "nature",
+       "from": 0,
+       "to": 26
+      }
+     ]
+    },
+    {
+     "id": "s7-05",
+     "kind": "main",
+     "title": "Giới từ cố định",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 42
+      },
+      {
+       "t": "vocab",
+       "topic": "nature",
+       "from": 26,
+       "to": 60
+      },
+      {
+       "t": "frame",
+       "id": 79,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 82,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 88,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s7-06",
+     "kind": "skill",
+     "title": "Nối âm",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 7
+      },
+      {
+       "t": "prompt",
+       "i": 12
+      },
+      {
+       "t": "prompt",
+       "i": 13
+      }
+     ]
+    },
+    {
+     "id": "s7-07",
+     "kind": "skill",
+     "title": "Cấu trúc một đoạn văn",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 17
+      },
+      {
+       "t": "prompt",
+       "i": 32
+      },
+      {
+       "t": "prompt",
+       "i": 33
+      }
+     ]
+    },
+    {
+     "id": "s7-08",
+     "kind": "read",
+     "title": "The Street That Fixed Itself · Con phố tự sửa mình",
+     "sub": "Đọc · B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 8
+      }
+     ]
+    },
+    {
+     "id": "s7-09",
+     "kind": "read",
+     "title": "The Forecast That Was Right and Ignored · Bản tin thời tiết đúng mà không ai nghe",
+     "sub": "Đọc · B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 19
+      }
+     ]
+    },
+    {
+     "id": "s7-10",
+     "kind": "read",
+     "title": "The Map on the Wall · Tấm bản đồ trên tường",
+     "sub": "Đọc · A2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 24
+      }
+     ]
+    },
+    {
+     "id": "s7-11",
+     "kind": "produce",
+     "title": "Nói & viết chặng 7",
+     "sub": "Sản sinh",
+     "opt": false,
+     "steps": [
+      {
+       "t": "timed",
+       "i": 18
+      },
+      {
+       "t": "timed",
+       "i": 19
+      },
+      {
+       "t": "timed",
+       "i": 20
+      }
+     ]
+    },
+    {
+     "id": "s7-12",
+     "kind": "toeic",
+     "title": "Luyện TOEIC chặng 7",
+     "sub": "TOEIC",
+     "opt": false,
+     "steps": [
+      {
+       "t": "toeic",
+       "part": 5,
+       "tag": "prep"
+      }
+     ]
+    },
+    {
+     "id": "s7-13",
+     "kind": "check",
+     "title": "Ôn & kiểm tra chặng 7",
+     "sub": "Kiểm tra",
+     "opt": false,
+     "steps": [
+      {
+       "t": "check",
+       "g": 7
+      },
+      {
+       "t": "cando",
+       "items": [
+        "A1|4",
+        "A2|4"
+       ]
+      }
+     ]
+    }
+   ],
+   "lv": "A2–B1"
+  },
+  {
+   "n": 8,
+   "g": 8,
+   "topics": [
+    "health",
+    "food"
+   ],
+   "goal": "Nói chuyện sức khoẻ và ăn uống, nhờ được dịch vụ bằng have / get something done.",
+   "lessons": [
+    {
+     "id": "s8-01",
+     "kind": "main",
+     "title": "to V hay V-ing sau động từ",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 24
+      },
+      {
+       "t": "vocab",
+       "topic": "health",
+       "from": 0,
+       "to": 20
+      },
+      {
+       "t": "frame",
+       "id": 1,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 7,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 13,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s8-02",
+     "kind": "main",
+     "title": "Sau giới từ luôn là V-ing",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 25
+      },
+      {
+       "t": "vocab",
+       "topic": "health",
+       "from": 20,
+       "to": 40
+      },
+      {
+       "t": "frame",
+       "id": 33,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 40,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 78,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 86,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s8-03",
+     "kind": "main",
+     "title": "used to & be used to",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 26
+      },
+      {
+       "t": "vocab",
+       "topic": "health",
+       "from": 40,
+       "to": 60
+      },
+      {
+       "t": "frame",
+       "id": 93,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s8-04",
+     "kind": "main",
+     "title": "Phrasal verb — tách được hay không",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 55
+      },
+      {
+       "t": "vocab",
+       "topic": "food",
+       "from": 0,
+       "to": 20
+      },
+      {
+       "t": "frame",
+       "id": 29,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s8-05",
+     "kind": "main",
+     "title": "Động từ sai khiến & tri giác",
+     "sub": "B1–B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 27
+      },
+      {
+       "t": "vocab",
+       "topic": "food",
+       "from": 20,
+       "to": 40
+      },
+      {
+       "t": "frame",
+       "id": 31,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 83,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s8-06",
+     "kind": "main",
+     "title": "Nhờ người khác làm — và chuyện xấu xảy đến",
+     "sub": "B1–B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 63
+      },
+      {
+       "t": "vocab",
+       "topic": "food",
+       "from": 40,
+       "to": 60
+      }
+     ]
+    },
+    {
+     "id": "s8-07",
+     "kind": "main",
+     "title": "Danh động từ hoàn thành & bị động",
+     "sub": "B2–C1",
+     "opt": true,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 28
+      }
+     ]
+    },
+    {
+     "id": "s8-08",
+     "kind": "skill",
+     "title": "Dạng yếu trong câu nói nhanh",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 9
+      },
+      {
+       "t": "prompt",
+       "i": 16
+      },
+      {
+       "t": "prompt",
+       "i": 17
+      }
+     ]
+    },
+    {
+     "id": "s8-09",
+     "kind": "skill",
+     "title": "Câu câu giờ & sửa lời giữa chừng",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 15
+      },
+      {
+       "t": "prompt",
+       "i": 28
+      },
+      {
+       "t": "prompt",
+       "i": 29
+      }
+     ]
+    },
+    {
+     "id": "s8-10",
+     "kind": "read",
+     "title": "The Patient Who Would Not Rest · Người bệnh không chịu nghỉ",
+     "sub": "Đọc · B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 3
+      }
+     ]
+    },
+    {
+     "id": "s8-11",
+     "kind": "read",
+     "title": "What the Chef Learned from Complaints · Điều người đầu bếp học được từ lời phàn nàn",
+     "sub": "Đọc · B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 10
+      }
+     ]
+    },
+    {
+     "id": "s8-12",
+     "kind": "produce",
+     "title": "Nói & viết chặng 8",
+     "sub": "Sản sinh",
+     "opt": false,
+     "steps": [
+      {
+       "t": "timed",
+       "i": 21
+      },
+      {
+       "t": "timed",
+       "i": 22
+      },
+      {
+       "t": "timed",
+       "i": 23
+      }
+     ]
+    },
+    {
+     "id": "s8-13",
+     "kind": "toeic",
+     "title": "Luyện TOEIC chặng 8",
+     "sub": "TOEIC",
+     "opt": false,
+     "steps": [
+      {
+       "t": "toeic",
+       "part": 2,
+       "from": 0,
+       "to": 20
+      }
+     ]
+    },
+    {
+     "id": "s8-14",
+     "kind": "check",
+     "title": "Ôn & kiểm tra chặng 8",
+     "sub": "Kiểm tra",
+     "opt": false,
+     "steps": [
+      {
+       "t": "check",
+       "g": 8
+      },
+      {
+       "t": "cando",
+       "items": [
+        "B1|5",
+        "B1|6",
+        "B2|2"
+       ]
+      }
+     ]
+    }
+   ],
+   "lv": "B1"
+  },
+  {
+   "n": 9,
+   "g": 9,
+   "topics": [
+    "money",
+    "service"
+   ],
+   "goal": "Xin phép, nhờ vả, khiếu nại dịch vụ — nơi động từ khuyết thiếu làm việc nhiều nhất.",
+   "lessons": [
+    {
+     "id": "s9-01",
+     "kind": "main",
+     "title": "Khả năng & xin phép",
+     "sub": "A2–B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 29
+      },
+      {
+       "t": "vocab",
+       "topic": "money",
+       "from": 0,
+       "to": 29
+      },
+      {
+       "t": "frame",
+       "id": 11,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 21,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 69,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s9-02",
+     "kind": "main",
+     "title": "Mức độ có thể xảy ra",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 30
+      },
+      {
+       "t": "vocab",
+       "topic": "money",
+       "from": 29,
+       "to": 58
+      },
+      {
+       "t": "frame",
+       "id": 24,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 39,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 50,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s9-03",
+     "kind": "main",
+     "title": "Bắt buộc — và phủ định của nó",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 31
+      },
+      {
+       "t": "vocab",
+       "topic": "money",
+       "from": 58,
+       "to": 71
+      },
+      {
+       "t": "vocab",
+       "topic": "service",
+       "from": 0,
+       "to": 15
+      },
+      {
+       "t": "frame",
+       "id": 3,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 25,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 26,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s9-04",
+     "kind": "main",
+     "title": "Lời khuyên",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 32
+      },
+      {
+       "t": "vocab",
+       "topic": "service",
+       "from": 15,
+       "to": 43
+      },
+      {
+       "t": "frame",
+       "id": 8,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 32,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 38,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s9-05",
+     "kind": "main",
+     "title": "Modal hoàn thành",
+     "sub": "B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 33
+      },
+      {
+       "t": "vocab",
+       "topic": "service",
+       "from": 43,
+       "to": 71
+      }
+     ]
+    },
+    {
+     "id": "s9-06",
+     "kind": "skill",
+     "title": "Giữ lượt & chuyển lượt",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 16
+      },
+      {
+       "t": "prompt",
+       "i": 30
+      },
+      {
+       "t": "prompt",
+       "i": 31
+      }
+     ]
+    },
+    {
+     "id": "s9-07",
+     "kind": "skill",
+     "title": "Email trang trọng",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 20
+      },
+      {
+       "t": "prompt",
+       "i": 38
+      },
+      {
+       "t": "prompt",
+       "i": 39
+      }
+     ]
+    },
+    {
+     "id": "s9-08",
+     "kind": "read",
+     "title": "The Shopping List Experiment · Thí nghiệm tờ giấy mua hàng",
+     "sub": "Đọc · B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 9
+      }
+     ]
+    },
+    {
+     "id": "s9-09",
+     "kind": "read",
+     "title": "Twenty-Six Minutes on Hold · Hai mươi sáu phút chờ máy",
+     "sub": "Đọc · B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 20
+      }
+     ]
+    },
+    {
+     "id": "s9-10",
+     "kind": "produce",
+     "title": "Nói & viết chặng 9",
+     "sub": "Sản sinh",
+     "opt": false,
+     "steps": [
+      {
+       "t": "timed",
+       "i": 24
+      },
+      {
+       "t": "timed",
+       "i": 25
+      },
+      {
+       "t": "timed",
+       "i": 26
+      }
+     ]
+    },
+    {
+     "id": "s9-11",
+     "kind": "toeic",
+     "title": "Luyện TOEIC chặng 9",
+     "sub": "TOEIC",
+     "opt": false,
+     "steps": [
+      {
+       "t": "toeic",
+       "part": 2,
+       "from": 20,
+       "to": 40
+      },
+      {
+       "t": "toeic",
+       "part": 5,
+       "tag": "vocab"
+      }
+     ]
+    },
+    {
+     "id": "s9-12",
+     "kind": "check",
+     "title": "Ôn & kiểm tra chặng 9",
+     "sub": "Kiểm tra",
+     "opt": false,
+     "steps": [
+      {
+       "t": "check",
+       "g": 9
+      },
+      {
+       "t": "cando",
+       "items": [
+        "B1|7",
+        "B2|6"
+       ]
+      }
+     ]
+    }
+   ],
+   "lv": "B1"
+  },
+  {
+   "n": 10,
+   "g": 10,
+   "topics": [
+    "env",
+    "science"
+   ],
+   "goal": "Bàn chuyện giả định và hệ quả: nếu thế này thì sẽ thế kia.",
+   "lessons": [
+    {
+     "id": "s10-01",
+     "kind": "main",
+     "title": "Điều kiện loại 1",
+     "sub": "A2–B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 14
+      },
+      {
+       "t": "vocab",
+       "topic": "env",
+       "from": 0,
+       "to": 24
+      },
+      {
+       "t": "frame",
+       "id": 14,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 22,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 97,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s10-02",
+     "kind": "main",
+     "title": "Điều kiện loại 2",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 15
+      },
+      {
+       "t": "vocab",
+       "topic": "env",
+       "from": 24,
+       "to": 48
+      },
+      {
+       "t": "frame",
+       "id": 18,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 46,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 98,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s10-03",
+     "kind": "main",
+     "title": "Liên từ điều kiện khác",
+     "sub": "B1–B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 17
+      },
+      {
+       "t": "vocab",
+       "topic": "env",
+       "from": 48,
+       "to": 60
+      },
+      {
+       "t": "vocab",
+       "topic": "science",
+       "from": 0,
+       "to": 12
+      },
+      {
+       "t": "frame",
+       "id": 49,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s10-04",
+     "kind": "main",
+     "title": "Ước điều trái thực tế",
+     "sub": "B1–B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 59
+      },
+      {
+       "t": "vocab",
+       "topic": "science",
+       "from": 12,
+       "to": 36
+      },
+      {
+       "t": "frame",
+       "id": 9,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s10-05",
+     "kind": "main",
+     "title": "Điều kiện loại 3 & hỗn hợp",
+     "sub": "B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 16
+      },
+      {
+       "t": "vocab",
+       "topic": "science",
+       "from": 36,
+       "to": 60
+      }
+     ]
+    },
+    {
+     "id": "s10-06",
+     "kind": "main",
+     "title": "Thức giả định",
+     "sub": "B2–C1",
+     "opt": true,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 18
+      },
+      {
+       "t": "frame",
+       "id": 37,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s10-07",
+     "kind": "skill",
+     "title": "Lập luận có nhượng bộ",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 13
+      },
+      {
+       "t": "prompt",
+       "i": 24
+      },
+      {
+       "t": "prompt",
+       "i": 25
+      }
+     ]
+    },
+    {
+     "id": "s10-08",
+     "kind": "skill",
+     "title": "Bài luận hai chiều",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 19
+      },
+      {
+       "t": "prompt",
+       "i": 36
+      },
+      {
+       "t": "prompt",
+       "i": 37
+      }
+     ]
+    },
+    {
+     "id": "s10-09",
+     "kind": "read",
+     "title": "The Village That Ran Out of Water · Ngôi làng cạn nước",
+     "sub": "Đọc · B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 4
+      }
+     ]
+    },
+    {
+     "id": "s10-10",
+     "kind": "read",
+     "title": "The Result That Would Not Repeat · Kết quả không lặp lại được",
+     "sub": "Đọc · B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 17
+      }
+     ]
+    },
+    {
+     "id": "s10-11",
+     "kind": "produce",
+     "title": "Nói & viết chặng 10",
+     "sub": "Sản sinh",
+     "opt": false,
+     "steps": [
+      {
+       "t": "timed",
+       "i": 27
+      },
+      {
+       "t": "timed",
+       "i": 28
+      },
+      {
+       "t": "timed",
+       "i": 29
+      }
+     ]
+    },
+    {
+     "id": "s10-12",
+     "kind": "toeic",
+     "title": "Luyện TOEIC chặng 10",
+     "sub": "TOEIC",
+     "opt": false,
+     "steps": [
+      {
+       "t": "toeic",
+       "part": 3,
+       "from": 0,
+       "to": 6
+      }
+     ]
+    },
+    {
+     "id": "s10-13",
+     "kind": "check",
+     "title": "Ôn & kiểm tra chặng 10",
+     "sub": "Kiểm tra",
+     "opt": false,
+     "steps": [
+      {
+       "t": "check",
+       "g": 10
+      },
+      {
+       "t": "cando",
+       "items": [
+        "B1|3"
+       ]
+      }
+     ]
+    }
+   ],
+   "lv": "B1"
+  },
+  {
+   "n": 11,
+   "g": 11,
+   "topics": [
+    "media",
+    "law",
+    "society"
+   ],
+   "goal": "Thuật lại lời người khác, dùng bị động và mệnh đề quan hệ để viết câu dài.",
+   "lessons": [
+    {
+     "id": "s11-01",
+     "kind": "main",
+     "title": "Câu hỏi & câu hỏi đuôi",
+     "sub": "A2–B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 44
+      },
+      {
+       "t": "vocab",
+       "topic": "media",
+       "from": 0,
+       "to": 31
+      },
+      {
+       "t": "frame",
+       "id": 17,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 56,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 68,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s11-02",
+     "kind": "main",
+     "title": "Mệnh đề quan hệ",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 45
+      },
+      {
+       "t": "vocab",
+       "topic": "media",
+       "from": 31,
+       "to": 62
+      },
+      {
+       "t": "frame",
+       "id": 10,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s11-03",
+     "kind": "main",
+     "title": "Câu bị động",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 46
+      },
+      {
+       "t": "vocab",
+       "topic": "media",
+       "from": 62,
+       "to": 65
+      },
+      {
+       "t": "vocab",
+       "topic": "law",
+       "from": 0,
+       "to": 28
+      },
+      {
+       "t": "frame",
+       "id": 23,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 27,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 28,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s11-04",
+     "kind": "main",
+     "title": "Câu tường thuật",
+     "sub": "B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 47
+      },
+      {
+       "t": "vocab",
+       "topic": "law",
+       "from": 28,
+       "to": 59
+      },
+      {
+       "t": "frame",
+       "id": 87,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 90,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s11-05",
+     "kind": "main",
+     "title": "Tường thuật câu hỏi & mệnh lệnh",
+     "sub": "B1–B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 66
+      },
+      {
+       "t": "vocab",
+       "topic": "law",
+       "from": 59,
+       "to": 60
+      },
+      {
+       "t": "vocab",
+       "topic": "society",
+       "from": 0,
+       "to": 30
+      },
+      {
+       "t": "frame",
+       "id": 16,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 67,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s11-06",
+     "kind": "main",
+     "title": "Mệnh đề quan hệ rút gọn",
+     "sub": "B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 60
+      },
+      {
+       "t": "vocab",
+       "topic": "society",
+       "from": 30,
+       "to": 60
+      }
+     ]
+    },
+    {
+     "id": "s11-07",
+     "kind": "skill",
+     "title": "Nuốt âm & biến âm",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 8
+      },
+      {
+       "t": "prompt",
+       "i": 14
+      },
+      {
+       "t": "prompt",
+       "i": 15
+      }
+     ]
+    },
+    {
+     "id": "s11-08",
+     "kind": "skill",
+     "title": "Bài luận nêu quan điểm",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 18
+      },
+      {
+       "t": "prompt",
+       "i": 34
+      },
+      {
+       "t": "prompt",
+       "i": 35
+      }
+     ]
+    },
+    {
+     "id": "s11-09",
+     "kind": "read",
+     "title": "The Headline That Was Not Wrong · Cái tít không hề sai",
+     "sub": "Đọc · B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 6
+      }
+     ]
+    },
+    {
+     "id": "s11-10",
+     "kind": "read",
+     "title": "The Deterrent That Was Not One · Hình phạt không răn đe được ai",
+     "sub": "Đọc · B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 15
+      }
+     ]
+    },
+    {
+     "id": "s11-11",
+     "kind": "read",
+     "title": "The Meeting That Changed the Bus Route · Cuộc họp đổi được tuyến xe buýt",
+     "sub": "Đọc · B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 16
+      }
+     ]
+    },
+    {
+     "id": "s11-12",
+     "kind": "produce",
+     "title": "Nói & viết chặng 11",
+     "sub": "Sản sinh",
+     "opt": false,
+     "steps": [
+      {
+       "t": "timed",
+       "i": 30
+      },
+      {
+       "t": "timed",
+       "i": 31
+      },
+      {
+       "t": "timed",
+       "i": 32
+      }
+     ]
+    },
+    {
+     "id": "s11-13",
+     "kind": "toeic",
+     "title": "Luyện TOEIC chặng 11",
+     "sub": "TOEIC",
+     "opt": false,
+     "steps": [
+      {
+       "t": "toeic",
+       "part": 3,
+       "from": 6,
+       "to": 12
+      },
+      {
+       "t": "toeic",
+       "part": 5,
+       "tag": "clause"
+      }
+     ]
+    },
+    {
+     "id": "s11-14",
+     "kind": "check",
+     "title": "Ôn & kiểm tra chặng 11",
+     "sub": "Kiểm tra",
+     "opt": false,
+     "steps": [
+      {
+       "t": "check",
+       "g": 11
+      },
+      {
+       "t": "cando",
+       "items": [
+        "B1|1",
+        "B2|3",
+        "B2|5"
+       ]
+      }
+     ]
+    }
+   ],
+   "lv": "B2"
+  },
+  {
+   "n": 12,
+   "g": 12,
+   "topics": [
+    "tech",
+    "sport",
+    "family"
+   ],
+   "goal": "Nhấn mạnh ý, nối ý mạch lạc — bước cuối để câu nghe như người bản ngữ viết.",
+   "lessons": [
+    {
+     "id": "s12-01",
+     "kind": "main",
+     "title": "Dấu câu tiếng Anh",
+     "sub": "A2–B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 50
+      },
+      {
+       "t": "vocab",
+       "topic": "tech",
+       "from": 0,
+       "to": 62
+      }
+     ]
+    },
+    {
+     "id": "s12-02",
+     "kind": "main",
+     "title": "Liên từ & mệnh đề nhượng bộ",
+     "sub": "B1–B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 48
+      },
+      {
+       "t": "vocab",
+       "topic": "tech",
+       "from": 62,
+       "to": 66
+      },
+      {
+       "t": "vocab",
+       "topic": "sport",
+       "from": 0,
+       "to": 58
+      },
+      {
+       "t": "frame",
+       "id": 52,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 53,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 54,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s12-03",
+     "kind": "main",
+     "title": "Nhấn mạnh bằng do & tường thuật khách quan",
+     "sub": "B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 65
+      },
+      {
+       "t": "vocab",
+       "topic": "sport",
+       "from": 58,
+       "to": 60
+      },
+      {
+       "t": "vocab",
+       "topic": "family",
+       "from": 0,
+       "to": 60
+      },
+      {
+       "t": "frame",
+       "id": 43,
+       "rp": true
+      },
+      {
+       "t": "frame",
+       "id": 47,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s12-04",
+     "kind": "main",
+     "title": "Đảo ngữ",
+     "sub": "B2–C1",
+     "opt": true,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 49
+      },
+      {
+       "t": "frame",
+       "id": 84,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s12-05",
+     "kind": "main",
+     "title": "Câu chẻ nhấn mạnh",
+     "sub": "B2–C1",
+     "opt": true,
+     "steps": [
+      {
+       "t": "grammar",
+       "id": 62
+      },
+      {
+       "t": "frame",
+       "id": 48,
+       "rp": true
+      }
+     ]
+    },
+    {
+     "id": "s12-06",
+     "kind": "skill",
+     "title": "Từ nối & cách tránh lặp từ",
+     "sub": "Kỹ năng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "skill",
+       "id": 22
+      },
+      {
+       "t": "prompt",
+       "i": 42
+      },
+      {
+       "t": "prompt",
+       "i": 43
+      }
+     ]
+    },
+    {
+     "id": "s12-07",
+     "kind": "read",
+     "title": "The Password Everybody Knew · Mật khẩu ai cũng biết",
+     "sub": "Đọc · B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 5
+      }
+     ]
+    },
+    {
+     "id": "s12-08",
+     "kind": "read",
+     "title": "The Phone Call Nobody Made · Cuộc gọi không ai gọi",
+     "sub": "Đọc · B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 11
+      }
+     ]
+    },
+    {
+     "id": "s12-09",
+     "kind": "read",
+     "title": "The Team That Stopped Training Harder · Đội bóng ngừng tập nặng hơn",
+     "sub": "Đọc · B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 13
+      }
+     ]
+    },
+    {
+     "id": "s12-10",
+     "kind": "produce",
+     "title": "Nói & viết chặng 12",
+     "sub": "Sản sinh",
+     "opt": false,
+     "steps": [
+      {
+       "t": "timed",
+       "i": 33
+      },
+      {
+       "t": "timed",
+       "i": 34
+      },
+      {
+       "t": "timed",
+       "i": 35
+      }
+     ]
+    },
+    {
+     "id": "s12-11",
+     "kind": "toeic",
+     "title": "Luyện TOEIC chặng 12",
+     "sub": "TOEIC",
+     "opt": false,
+     "steps": [
+      {
+       "t": "toeic",
+       "part": 5,
+       "tag": "conj"
+      },
+      {
+       "t": "toeic",
+       "part": 7,
+       "from": 0,
+       "to": 4
+      }
+     ]
+    },
+    {
+     "id": "s12-12",
+     "kind": "check",
+     "title": "Ôn & kiểm tra chặng 12",
+     "sub": "Kiểm tra",
+     "opt": false,
+     "steps": [
+      {
+       "t": "check",
+       "g": 12
+      },
+      {
+       "t": "cando",
+       "items": [
+        "B1|0",
+        "B1|4",
+        "B2|0",
+        "B2|1",
+        "B2|4"
+       ]
+      }
+     ]
+    }
+   ],
+   "lv": "B2"
+  },
+  {
+   "n": 13,
+   "g": 0,
+   "topics": [
+    "colloc",
+    "wfam",
+    "phrasal"
+   ],
+   "goal": "Củng cố xuyên suốt: cụm từ đi với nhau, họ từ, và phrasal verb thông dụng.",
+   "lessons": [
+    {
+     "id": "s13-01",
+     "kind": "vocab",
+     "title": "Collocation thông dụng · phần 1/4",
+     "sub": "Từ vựng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "vocab",
+       "topic": "colloc",
+       "from": 0,
+       "to": 30
+      }
+     ]
+    },
+    {
+     "id": "s13-02",
+     "kind": "vocab",
+     "title": "Collocation thông dụng · phần 2/4",
+     "sub": "Từ vựng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "vocab",
+       "topic": "colloc",
+       "from": 30,
+       "to": 60
+      }
+     ]
+    },
+    {
+     "id": "s13-03",
+     "kind": "vocab",
+     "title": "Collocation thông dụng · phần 3/4",
+     "sub": "Từ vựng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "vocab",
+       "topic": "colloc",
+       "from": 60,
+       "to": 90
+      }
+     ]
+    },
+    {
+     "id": "s13-04",
+     "kind": "vocab",
+     "title": "Collocation thông dụng · phần 4/4",
+     "sub": "Từ vựng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "vocab",
+       "topic": "colloc",
+       "from": 90,
+       "to": 120
+      }
+     ]
+    },
+    {
+     "id": "s13-05",
+     "kind": "vocab",
+     "title": "Họ từ (word family) · phần 1/3",
+     "sub": "Từ vựng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "vocab",
+       "topic": "wfam",
+       "from": 0,
+       "to": 34
+      }
+     ]
+    },
+    {
+     "id": "s13-06",
+     "kind": "vocab",
+     "title": "Họ từ (word family) · phần 2/3",
+     "sub": "Từ vựng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "vocab",
+       "topic": "wfam",
+       "from": 34,
+       "to": 67
+      }
+     ]
+    },
+    {
+     "id": "s13-07",
+     "kind": "vocab",
+     "title": "Họ từ (word family) · phần 3/3",
+     "sub": "Từ vựng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "vocab",
+       "topic": "wfam",
+       "from": 67,
+       "to": 100
+      }
+     ]
+    },
+    {
+     "id": "s13-08",
+     "kind": "vocab",
+     "title": "Phrasal verb thông dụng · phần 1/4",
+     "sub": "Từ vựng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "vocab",
+       "topic": "phrasal",
+       "from": 0,
+       "to": 30
+      }
+     ]
+    },
+    {
+     "id": "s13-09",
+     "kind": "vocab",
+     "title": "Phrasal verb thông dụng · phần 2/4",
+     "sub": "Từ vựng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "vocab",
+       "topic": "phrasal",
+       "from": 30,
+       "to": 60
+      }
+     ]
+    },
+    {
+     "id": "s13-10",
+     "kind": "vocab",
+     "title": "Phrasal verb thông dụng · phần 3/4",
+     "sub": "Từ vựng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "vocab",
+       "topic": "phrasal",
+       "from": 60,
+       "to": 90
+      }
+     ]
+    },
+    {
+     "id": "s13-11",
+     "kind": "vocab",
+     "title": "Phrasal verb thông dụng · phần 4/4",
+     "sub": "Từ vựng",
+     "opt": false,
+     "steps": [
+      {
+       "t": "vocab",
+       "topic": "phrasal",
+       "from": 90,
+       "to": 120
+      }
+     ]
+    },
+    {
+     "id": "s13-12",
+     "kind": "read",
+     "title": "The Promise That Was Easy to Keep · Lời hứa dễ giữ",
+     "sub": "Đọc · B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 21
+      }
+     ]
+    },
+    {
+     "id": "s13-13",
+     "kind": "read",
+     "title": "The Shop That Nearly Closed Down · Cửa hàng suýt đóng cửa",
+     "sub": "Đọc · B1",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 22
+      }
+     ]
+    },
+    {
+     "id": "s13-14",
+     "kind": "read",
+     "title": "A Difference Worth Measuring · Một khác biệt đáng đo",
+     "sub": "Đọc · B2",
+     "opt": false,
+     "steps": [
+      {
+       "t": "read",
+       "id": 23
+      }
+     ]
+    },
+    {
+     "id": "s13-15",
+     "kind": "produce",
+     "title": "Nói & viết chặng 13",
+     "sub": "Sản sinh",
+     "opt": false,
+     "steps": [
+      {
+       "t": "timed",
+       "i": 42
+      },
+      {
+       "t": "timed",
+       "i": 43
+      },
+      {
+       "t": "timed",
+       "i": 44
+      }
+     ]
+    },
+    {
+     "id": "s13-16",
+     "kind": "toeic",
+     "title": "Luyện TOEIC chặng 13",
+     "sub": "TOEIC",
+     "opt": false,
+     "steps": [
+      {
+       "t": "toeic",
+       "part": 7,
+       "from": 4,
+       "to": 8
+      },
+      {
+       "t": "toeic",
+       "part": 5,
+       "tag": "form"
+      }
+     ]
+    },
+    {
+     "id": "s13-17",
+     "kind": "check",
+     "title": "Ôn & kiểm tra chặng 13",
+     "sub": "Kiểm tra",
+     "opt": false,
+     "steps": [
+      {
+       "t": "check",
+       "g": "s13"
+      },
+      {
+       "t": "cando",
+       "items": [
+        "B2|7"
+       ]
+      }
+     ]
+    }
+   ],
+   "lv": "B2"
+  }
+ ]
+}

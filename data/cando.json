@@ -86,6 +86,18 @@
           "task": "Nghe 10 câu có đuôi <i>-s</i>/<i>-ed</i>, chép lại rồi đối chiếu.",
           "ok": "Chép đúng đuôi ở ít nhất 7/10 câu.",
           "s": [1, 2, 3]
+        },
+        {
+          "do": "Mua sắm và gọi món: hỏi giá, hỏi số lượng, nói mình cần bao nhiêu.",
+          "task": "Đóng vai mua 5 món ở chợ: hỏi giá từng món và mặc cả một món.",
+          "ok": "Dùng đúng <i>how much / how many</i>, <i>some / any</i> và <i>a / an</i> cho từng món.",
+          "g": [19, 22], "f": [19, 65]
+        },
+        {
+          "do": "Tả căn nhà và đồ đạc: có gì, ở đâu, của ai.",
+          "task": "Tả phòng khách nhà bạn trong 60 giây cho một người chưa từng đến.",
+          "ok": "Không sai mạo từ nào, và có ít nhất 2 câu sở hữu cách (<i>my sister's…</i>).",
+          "g": [20, 21, 23], "f": [100]
         }
       ]
     },
@@ -129,6 +141,18 @@
           "task": "Nghe một đoạn 2 phút, ghi lại 5 ý chính mà không chép từng chữ.",
           "ok": "5 ý đều đúng nội dung, kể cả khi bỏ sót vài từ.",
           "s": [7, 9, 10]
+        },
+        {
+          "do": "Kể thói quen cũ và việc nhờ người khác làm giúp.",
+          "task": "Nói 90 giây so sánh cuộc sống hồi nhỏ với bây giờ, có nhắc 2 việc bạn thuê người làm.",
+          "ok": "Dùng đúng <i>used to</i> cho thói quen cũ và <i>have / get something done</i> cho dịch vụ.",
+          "g": [26, 63], "f": [93]
+        },
+        {
+          "do": "Xin phép, nhờ vả và từ chối lịch sự ở cửa hàng, ngân hàng, công sở.",
+          "task": "Đóng vai khiếu nại một hoá đơn sai: xin gặp quản lý, nêu yêu cầu, từ chối một đề nghị không hợp lý.",
+          "ok": "Mỗi lượt có một modal hợp mức lịch sự (<i>could / would / may</i>), không câu nào nghe như ra lệnh.",
+          "g": [29, 31], "f": [11, 26]
         }
       ]
     },
@@ -172,6 +196,18 @@
           "task": "Xem 15 phút phim với phụ đề tiếng Anh, ghi lại 10 cụm mới nghe được.",
           "ok": "Tua lại không quá 3 lần, và 10 cụm ghi được đều đúng chính tả.",
           "s": [8, 10, 11]
+        },
+        {
+          "do": "Suy đoán và trách nhẹ về chuyện đã qua.",
+          "task": "Nghe kể một sự cố (tự chọn), nói 60 giây: chuyện gì có lẽ đã xảy ra và ai lẽ ra nên làm gì.",
+          "ok": "Dùng đúng <i>must have / might have / should have + V3</i> ít nhất 4 lần.",
+          "g": [33, 30], "f": [39]
+        },
+        {
+          "do": "Diễn đạt tự nhiên bằng collocation, họ từ và phrasal verb thay vì dịch từng chữ.",
+          "task": "Viết 120 từ về một vấn đề bạn từng gặp và cách giải quyết, dùng 5 collocation, 3 phrasal verb và 3 cặp họ từ.",
+          "ok": "Không cặp ghép sai (<i>do a mistake</i> ✗), phrasal verb đúng nghĩa và đúng chỗ tân ngữ, không nhầm từ loại.",
+          "s": [22], "st": 13
         }
       ]
     }
